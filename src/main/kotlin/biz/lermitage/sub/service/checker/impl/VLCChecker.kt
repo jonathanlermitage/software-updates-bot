@@ -20,7 +20,10 @@ class VLCChecker : Checker {
             .execute().parse().body()
         var version = body.getElementsByAttributeValue("id", "downloadDetails")[0].text()
         if (version.contains("•"))
-            version = version.substring(0, version.indexOf("•")).replace("Version", "").trim()
+            version = version.substring(0, version.indexOf("•"))
+                .toLowerCase()
+                .replace("version", "")
+                .trim()
 
         return SoftwareUpdate(
             "VLC",
