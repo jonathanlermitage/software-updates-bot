@@ -1,0 +1,8 @@
+spring:
+  output.ansi.enabled: always
+
+localapp:
+  reportfile:
+    json: "build/test-root/report.json"
+    md: "build/test-root/report.md"
+    md-by-date: "build/test-root/report-by-date.md"

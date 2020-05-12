@@ -1,0 +1,9 @@
+spring:
+  application.name: "software-updates-bot"
+  main.banner-mode: off
+
+localapp:
+  reportfile:
+    json: "report/report.json"
+    md: "report/report.md"
+    md-by-date: "report/report-by-date.md"
