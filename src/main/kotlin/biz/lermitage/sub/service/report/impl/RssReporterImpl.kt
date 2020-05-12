@@ -42,6 +42,7 @@ class RssReporterImpl(private val conf: LocalAppConf) : Reporter {
             entry.link = su.website
             entry.publishedDate = su.checkDate
             entry.description = description
+            entry.uri = ""
 
             entries.add(entry)
         }
