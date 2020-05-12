@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|VLC|3.0.10|[www.videolan.org](https://www.videolan.org/vlc/)|Tue May 12 22:07:47 CEST 2020|
 |MariaDB 10.3|10.3.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 20:13:17 CEST 2020|
 |MariaDB 10.2|10.2.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 20:13:16 CEST 2020|
 |MariaDB 10.5|10.5.2|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 20:13:11 CEST 2020|

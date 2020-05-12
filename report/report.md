@@ -20,3 +20,4 @@
 |NodeJS Current|v14.2.0|[nodejs.org](https://nodejs.org)|Tue May 12 19:09:51 CEST 2020|
 |NodeJS LTS|v12.16.3|[nodejs.org](https://nodejs.org)|Tue May 12 19:10:05 CEST 2020|
 |Spring Boot|2.2.7.RELEASE|[start.spring.io](https://start.spring.io)|Tue May 12 19:10:01 CEST 2020|
+|VLC|3.0.10|[www.videolan.org](https://www.videolan.org/vlc/)|Tue May 12 22:07:47 CEST 2020|
