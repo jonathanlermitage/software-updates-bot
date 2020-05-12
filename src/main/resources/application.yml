@@ -7,3 +7,5 @@ localapp:
     json: "report/report.json"
     md: "report/report.md"
     md-by-date: "report/report-by-date.md"
+    rss: "report/report.rss.xml"
+    atom: "report/report.atom.xml"

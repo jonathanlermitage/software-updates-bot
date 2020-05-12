@@ -25,6 +25,7 @@ dependencies {
     implementation("com.jayway.jsonpath:json-path:2.4.0")
     implementation("org.jsoup:jsoup:1.13.1")
     implementation("commons-io:commons-io:2.6")
+    implementation("com.rometools:rome:1.12.2")
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
         exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
     }

@@ -11,5 +11,7 @@ class LocalAppConf {
         lateinit var json: String
         lateinit var md: String
         lateinit var mdByDate: String
+        lateinit var rss: String
+        lateinit var atom: String
     }
 }

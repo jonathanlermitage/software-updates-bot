@@ -6,3 +6,5 @@ localapp:
     json: "build/test-root/report.json"
     md: "build/test-root/report.md"
     md-by-date: "build/test-root/report-by-date.md"
+    rss: "build/test-root/report.rss.xml"
+    atom: "build/test-root/report.atom.xml"
