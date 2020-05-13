@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Inkscape|1.0|[inkscape.org](https://inkscape.org)|Thu May 14 01:00:48 CEST 2020|
 |PostgreSQL 9.6|9.6.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:07 CEST 2020|
 |PostgreSQL 9.5|9.5.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:06 CEST 2020|
 |PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:04 CEST 2020|
