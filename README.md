@@ -13,6 +13,7 @@ This bot currently monitors updates for:
 * MariaDB: 5.5 to 10.5
 * Maven
 * NodeJS: LTS and current
+* PostgreSQL: 9.4 to 12
 * Spring Boot
 * VLC
 
