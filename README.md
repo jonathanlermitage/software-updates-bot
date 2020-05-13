@@ -1,5 +1,5 @@
 # software-updates-bot
-:construction_worker: A bot that looks for popular stuff updates, then push data into this repository as JSON, markdown report, and RSS/Atom feeds. Currently runs on a Raspberry Pi (every hour). See generated reports:  
+:robot: A bot that looks for popular stuff updates, then push data into this repository as JSON, markdown report, and RSS/Atom feeds. Currently runs on a Raspberry Pi (every hour). See generated reports:  
 * [JSON report](https://raw.githubusercontent.com/jonathanlermitage/software-updates-bot/master/report/report.json)
 * [Markdown report](report/report.md)
 * [Markdown report (ordered by date)](report/report-by-date.md)
@@ -16,4 +16,11 @@ This bot currently monitors updates for:
 * Spring Boot
 * VLC
 
-For fun, and maybe to create an IntelliJ plugin that shows alerts when your favorite stuff (SDK, databases, libraries, etc.) can receive updates. Wait and see!
+Updates checkers code is here: [source code](https://github.com/jonathanlermitage/software-updates-bot/tree/master/src/main/kotlin/biz/lermitage/sub/service/checker/impl). They are based on Jsoup scrapper, or simply by consumming JSON API.  
+Don't hesitate to submit new checkers. 
+
+---
+
+I mainly made this project for fun, and I was bored during the confinment due to the COVID-19 (I planned to move from France to Canada since a long time, so I left my job recently and found a company at Montreal, but the confinement started a few days before my expected travel. Dammit! ^_^).  
+
+Now, I personally use it be notified about AdoptOpenJDK, Les Cast Codeurs and Maven updates, via the RSS feed and Thunderbird.
