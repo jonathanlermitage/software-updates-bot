@@ -16,7 +16,7 @@
 |MariaDB 10.2|10.2.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 23:39:25 CEST 2020|
 |MariaDB 10.3|10.3.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 23:39:27 CEST 2020|
 |MariaDB 10.4|10.4.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 23:39:03 CEST 2020|
-|MariaDB 10.5|10.5.2|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 20:13:11 CEST 2020|
+|MariaDB 10.5|10.5.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 13 03:20:35 CEST 2020|
 |MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 23:39:16 CEST 2020|
 |NodeJS Current|v14.2.0|[nodejs.org](https://nodejs.org)|Tue May 12 19:09:51 CEST 2020|
 |NodeJS LTS|v12.16.3|[nodejs.org](https://nodejs.org)|Tue May 12 19:10:05 CEST 2020|
