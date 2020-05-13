@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed May 13 14:00:56 CEST 2020|
 |MariaDB 10.5|10.5.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 13 03:20:35 CEST 2020|
 |Inkscape|1.0|[inkscape.org](https://inkscape.org)|Tue May 12 23:39:33 CEST 2020|
 |MariaDB 10.3|10.3.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 23:39:27 CEST 2020|
