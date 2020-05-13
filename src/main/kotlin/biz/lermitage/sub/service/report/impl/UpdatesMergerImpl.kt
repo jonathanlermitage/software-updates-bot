@@ -12,6 +12,7 @@ class UpdatesMergerImpl : UpdatesMerger {
 
     override fun merge(previousUpdates: List<SoftwareUpdate>, currentUpdades: List<SoftwareUpdate>): ArrayList<SoftwareUpdate> {
         val mergedReportSoftwareUpdates = ArrayList<SoftwareUpdate>()
+
         currentUpdades.forEach(Consumer { currSu: SoftwareUpdate ->
             val dateToKeep: Date
             val prevSoftwareVersion = previousUpdates.find { prevSu: SoftwareUpdate -> prevSu.name == currSu.name }
@@ -22,6 +23,13 @@ class UpdatesMergerImpl : UpdatesMerger {
             }
             mergedReportSoftwareUpdates.add(SoftwareUpdate(currSu.name, currSu.website, currSu.version, dateToKeep))
         })
+
+        previousUpdates.forEach(Consumer { prevSu: SoftwareUpdate ->
+            if (mergedReportSoftwareUpdates.find { mergedSu: SoftwareUpdate -> prevSu.name == mergedSu.name } == null) {
+                mergedReportSoftwareUpdates.add(prevSu)
+            }
+        })
+
         return mergedReportSoftwareUpdates
     }
 }
