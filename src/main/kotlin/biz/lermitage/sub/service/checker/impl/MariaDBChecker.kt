@@ -1,9 +1,9 @@
 package biz.lermitage.sub.service.checker.impl
 
-import biz.lermitage.sub.Globals
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
-import org.jsoup.Jsoup
+import biz.lermitage.sub.service.scrapper.Scrapper
+import org.springframework.beans.factory.annotation.Autowired
 
 /**
  * MariaDB checker.
@@ -11,12 +11,11 @@ import org.jsoup.Jsoup
  */
 abstract class MariaDBChecker(private val versionLeftPart: String) : Checker {
 
+    @Autowired
+    lateinit var scrapper: Scrapper
+
     override fun check(): SoftwareUpdate {
-        val body = Jsoup.connect("https://downloads.mariadb.org/mariadb/+releases/")
-            .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
-            .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
-            .userAgent(Globals.SCRAPPER_USER_AGENT)
-            .execute().parse().body()
+        val body = scrapper.fetchHtml("https://downloads.mariadb.org/mariadb/+releases/")
         val versionLnkInHistoryTable = body.getElementsByAttributeValueStarting("href", "/mariadb/${versionLeftPart}.")[0]
         val versionNumber = versionLnkInHistoryTable.text()
         val versionType = versionLnkInHistoryTable.parent().parent().getElementsByTag("td")[2].text()

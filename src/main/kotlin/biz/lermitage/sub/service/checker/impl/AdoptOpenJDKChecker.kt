@@ -1,11 +1,11 @@
 package biz.lermitage.sub.service.checker.impl
 
-import biz.lermitage.sub.Globals
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.model.adoptopenjdk.AdoptOpenJdkApiResponse
 import biz.lermitage.sub.service.checker.Checker
+import biz.lermitage.sub.service.scrapper.Scrapper
 import com.google.gson.Gson
-import org.jsoup.Jsoup
+import org.springframework.beans.factory.annotation.Autowired
 
 /**
  * AdoptOpenJDK JDK update checker.
@@ -20,12 +20,12 @@ abstract class AdoptOpenJDKChecker(
     private val imageType: String,
     private val architecture: String) : Checker {
 
+    @Autowired
+    lateinit var scrapper: Scrapper
+
     override fun check(): SoftwareUpdate {
-        val json = Jsoup.connect("https://api.adoptopenjdk.net/v3/assets/latest/$major/hotspot?release=latest&jvm_impl=hotspot&vendor=adoptopenjdk&")
-            .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
-            .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
-            .userAgent(Globals.SCRAPPER_USER_AGENT)
-            .get().text()
+        val json = scrapper.fetchText(
+            "https://api.adoptopenjdk.net/v3/assets/latest/$major/hotspot?release=latest&jvm_impl=hotspot&vendor=adoptopenjdk&")
         val apiResponse = Gson().fromJson(json, Array<AdoptOpenJdkApiResponse>::class.java)
         val version = apiResponse.toList().find { apiResponseElt: AdoptOpenJdkApiResponse ->
             apiResponseElt.binary.os.equals(os, true)

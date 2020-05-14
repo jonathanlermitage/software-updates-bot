@@ -37,7 +37,6 @@ class SoftwareUpdatesBotApplication : CommandLineRunner {
         checkers.forEach { checker: Checker ->
             try {
                 val check = checker.check()
-                Thread.sleep(1000)
                 logger.info("fetched $check")
                 latestUpdates.add(check)
             } catch (e: Exception) {

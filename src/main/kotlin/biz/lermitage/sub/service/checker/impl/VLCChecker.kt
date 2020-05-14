@@ -1,9 +1,9 @@
 package biz.lermitage.sub.service.checker.impl
 
-import biz.lermitage.sub.Globals
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
-import org.jsoup.Jsoup
+import biz.lermitage.sub.service.scrapper.Scrapper
+import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 
 /**
@@ -12,12 +12,11 @@ import org.springframework.stereotype.Service
 @Service
 class VLCChecker : Checker {
 
+    @Autowired
+    lateinit var scrapper: Scrapper
+
     override fun check(): SoftwareUpdate {
-        val body = Jsoup.connect("https://www.videolan.org/vlc/")
-            .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
-            .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
-            .userAgent(Globals.SCRAPPER_USER_AGENT)
-            .execute().parse().body()
+        val body = scrapper.fetchHtml("https://www.videolan.org/vlc/")
         var version = body.getElementsByAttributeValue("id", "downloadDetails")[0].text()
         if (version.contains("•"))
             version = version.substring(0, version.indexOf("•"))

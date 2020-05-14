@@ -1,9 +1,9 @@
 package biz.lermitage.sub.service.checker.impl
 
-import biz.lermitage.sub.Globals
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
-import org.jsoup.Jsoup
+import biz.lermitage.sub.service.scrapper.Scrapper
+import org.springframework.beans.factory.annotation.Autowired
 
 /**
  * NodeJS update checker.
@@ -14,12 +14,11 @@ abstract class NodeJSChecker(
     private val type: String,
     private val downloadButtonIdx: Int) : Checker {
 
+    @Autowired
+    lateinit var scrapper: Scrapper
+
     override fun check(): SoftwareUpdate {
-        val body = Jsoup.connect("https://nodejs.org/en/")
-            .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
-            .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
-            .userAgent(Globals.SCRAPPER_USER_AGENT)
-            .execute().parse().body()
+        val body = scrapper.fetchHtml("https://nodejs.org/en/")
         val version = body.getElementsByClass("home-downloadbutton")[downloadButtonIdx].attr("data-version")
 
         return SoftwareUpdate(

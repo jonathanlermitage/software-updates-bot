@@ -1,10 +1,10 @@
 package biz.lermitage.sub.service.checker.impl
 
-import biz.lermitage.sub.Globals
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
+import biz.lermitage.sub.service.scrapper.Scrapper
 import com.jayway.jsonpath.JsonPath
-import org.jsoup.Jsoup
+import org.springframework.beans.factory.annotation.Autowired
 
 abstract class GenericJsonPathChecker(
     private val url: String,
@@ -12,12 +12,11 @@ abstract class GenericJsonPathChecker(
     private val name: String,
     private val website: String) : Checker {
 
+    @Autowired
+    lateinit var scrapper: Scrapper
+
     override fun check(): SoftwareUpdate {
-        val json = Jsoup.connect(url)
-            .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
-            .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
-            .userAgent(Globals.SCRAPPER_USER_AGENT)
-            .get().text()
+        val json = scrapper.fetchText(url)
         val version = JsonPath.read<String>(json, jsonpath)
 
         return SoftwareUpdate(
