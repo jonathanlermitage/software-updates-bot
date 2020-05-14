@@ -1,13 +1,13 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|PostgreSQL 9.6|9.6.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 15:01:09 CEST 2020|
+|PostgreSQL 9.5|9.5.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 15:01:08 CEST 2020|
+|PostgreSQL 12|12.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 15:01:06 CEST 2020|
+|PostgreSQL 11|11.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 15:01:04 CEST 2020|
+|PostgreSQL 10|10.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 15:01:03 CEST 2020|
 |MariaDB 10.5|10.5.3 RC|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu May 14 03:00:53 CEST 2020|
 |Inkscape|1.0|[inkscape.org](https://inkscape.org)|Thu May 14 01:00:48 CEST 2020|
-|PostgreSQL 9.6|9.6.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:07 CEST 2020|
-|PostgreSQL 9.5|9.5.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:06 CEST 2020|
 |PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:04 CEST 2020|
-|PostgreSQL 12|12.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:03 CEST 2020|
-|PostgreSQL 11|11.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:02 CEST 2020|
-|PostgreSQL 10|10.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:01 CEST 2020|
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed May 13 14:00:56 CEST 2020|
 |MariaDB 10.3|10.3.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 23:39:27 CEST 2020|
 |MariaDB 10.2|10.2.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue May 12 23:39:25 CEST 2020|
