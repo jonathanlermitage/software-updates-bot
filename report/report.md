@@ -27,5 +27,5 @@
 |PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 00:01:04 CEST 2020|
 |PostgreSQL 9.5|9.5.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 15:01:08 CEST 2020|
 |PostgreSQL 9.6|9.6.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 15:01:09 CEST 2020|
-|Spring Boot|2.2.7.RELEASE|[start.spring.io](https://start.spring.io)|Tue May 12 19:10:01 CEST 2020|
+|Spring Boot|2.3.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 15 14:00:43 CEST 2020|
 |VLC|3.0.10|[www.videolan.org](https://www.videolan.org/vlc/)|Tue May 12 22:07:47 CEST 2020|
