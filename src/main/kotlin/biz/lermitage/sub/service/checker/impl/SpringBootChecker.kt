@@ -1,5 +1,6 @@
 package biz.lermitage.sub.service.checker.impl
 
+import biz.lermitage.sub.model.Category
 import biz.lermitage.sub.service.checker.Checker
 import org.springframework.stereotype.Service
 
@@ -8,7 +9,7 @@ import org.springframework.stereotype.Service
  */
 @Service
 class SpringBootChecker : GenericJsonPathChecker(
-    listOf("Java", "Library", "Spring Framework"),
+    listOf(Category.JAVA.label, Category.LIBRARY.label, Category.SPRING_FRAMEWORK.label),
     "https://start.spring.io/metadata/client",
     "\$.bootVersion.default",
     "Spring Boot",

@@ -1,5 +1,6 @@
 package biz.lermitage.sub.service.checker.impl
 
+import biz.lermitage.sub.model.Category
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
@@ -20,7 +21,7 @@ class MavenChecker : Checker {
         val version = body.getElementsByTag("table")[0].getElementsByTag("tr")[1].getElementsByTag("td")[1].text()
 
         return SoftwareUpdate(
-            listOf("Java", "Maven"),
+            listOf(Category.JAVA.label, Category.MAVEN.label),
             "Maven",
             "https://maven.apache.org/download.cgi",
             version)

@@ -1,5 +1,6 @@
 package biz.lermitage.sub.service.checker.impl
 
+import biz.lermitage.sub.model.Category
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
@@ -20,7 +21,7 @@ abstract class PostgresChecker(private val majorVersion: String) : Checker {
             .replace("v", "").replace("/", "")
 
         return SoftwareUpdate(
-            listOf("Database", "PostgreSQL"),
+            listOf(Category.DATABASE.label, Category.POSTGRESQL.label),
             "PostgreSQL $majorVersion",
             "https://www.postgresql.org/download/",
             version)

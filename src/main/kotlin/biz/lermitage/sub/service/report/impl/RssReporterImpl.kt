@@ -2,6 +2,7 @@ package biz.lermitage.sub.service.report.impl
 
 import biz.lermitage.sub.Globals
 import biz.lermitage.sub.conf.LocalAppConf
+import biz.lermitage.sub.model.Category
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.report.Reporter
 import com.rometools.rome.feed.synd.*
@@ -30,6 +31,11 @@ class RssReporterImpl(private val conf: LocalAppConf) : Reporter {
         feed.link = "https://github.com/jonathanlermitage/software-updates-bot/raw/master/${conf.reportFile.rss}"
         feed.author = "Jonathan Lermitage"
         feed.encoding = Globals.reportCharset().name()
+        feed.categories = Category.values().map { category: Category ->
+            val catObj = SyndCategoryImpl()
+            catObj.name = category.label
+            return@map catObj
+        }.toList()
 
         val entries = ArrayList<SyndEntry>()
         updates.stream().sorted(SoftwareUpdate.comparatorByDateDesc).forEach { su: SoftwareUpdate ->

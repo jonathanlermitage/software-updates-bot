@@ -1,5 +1,6 @@
 package biz.lermitage.sub.service.checker.impl
 
+import biz.lermitage.sub.model.Category
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
@@ -25,7 +26,7 @@ class VLCChecker : Checker {
                 .trim()
 
         return SoftwareUpdate(
-            listOf("Video player", "VLC"),
+            listOf(Category.VIDEO_PLAYER.label, Category.VLC.label),
             "VLC",
             "https://www.videolan.org/vlc/",
             version)
