@@ -56,7 +56,7 @@
     <dc:date>2020-05-15T19:00:47Z</dc:date>
   </entry>
   <entry>
-    <title>PostgreSQL 9.5 -- 9.5.22</title>
+    <title>PostgreSQL 10 -- 10.13</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
       <name />
@@ -64,31 +64,7 @@
     <id />
     <modified>2020-05-15T19:00:46Z</modified>
     <issued>2020-05-15T19:00:46Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 9.5 -- 9.5.22 -- Fri May 15 21:00:46 CEST 2020</summary>
-    <dc:date>2020-05-15T19:00:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 9.4 -- 9.4.26</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2020-05-15T19:00:46Z</modified>
-    <issued>2020-05-15T19:00:46Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 9.4 -- 9.4.26 -- Fri May 15 21:00:46 CEST 2020</summary>
-    <dc:date>2020-05-15T19:00:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>PostgreSQL 12 -- 12.3</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2020-05-15T19:00:46Z</modified>
-    <issued>2020-05-15T19:00:46Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.3 -- Fri May 15 21:00:46 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">PostgreSQL 10 -- 10.13 -- Fri May 15 21:00:46 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:46Z</dc:date>
   </entry>
   <entry>
@@ -104,7 +80,7 @@
     <dc:date>2020-05-15T19:00:46Z</dc:date>
   </entry>
   <entry>
-    <title>PostgreSQL 10 -- 10.13</title>
+    <title>PostgreSQL 12 -- 12.3</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
       <name />
@@ -112,20 +88,32 @@
     <id />
     <modified>2020-05-15T19:00:46Z</modified>
     <issued>2020-05-15T19:00:46Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 10 -- 10.13 -- Fri May 15 21:00:46 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.3 -- Fri May 15 21:00:46 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:46Z</dc:date>
   </entry>
   <entry>
-    <title>NodeJS LTS -- v12.16.3</title>
-    <link rel="alternate" href="https://nodejs.org" />
+    <title>PostgreSQL 9.4 -- 9.4.26</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
       <name />
     </author>
     <id />
-    <modified>2020-05-15T19:00:43Z</modified>
-    <issued>2020-05-15T19:00:43Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS LTS -- v12.16.3 -- Fri May 15 21:00:43 CEST 2020</summary>
-    <dc:date>2020-05-15T19:00:43Z</dc:date>
+    <modified>2020-05-15T19:00:46Z</modified>
+    <issued>2020-05-15T19:00:46Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 9.4 -- 9.4.26 -- Fri May 15 21:00:46 CEST 2020</summary>
+    <dc:date>2020-05-15T19:00:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 9.5 -- 9.5.22</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-15T19:00:46Z</modified>
+    <issued>2020-05-15T19:00:46Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 9.5 -- 9.5.22 -- Fri May 15 21:00:46 CEST 2020</summary>
+    <dc:date>2020-05-15T19:00:46Z</dc:date>
   </entry>
   <entry>
     <title>NodeJS Current -- v14.2.0</title>
@@ -137,6 +125,18 @@
     <modified>2020-05-15T19:00:43Z</modified>
     <issued>2020-05-15T19:00:43Z</issued>
     <summary type="text/plain" mode="escaped">NodeJS Current -- v14.2.0 -- Fri May 15 21:00:43 CEST 2020</summary>
+    <dc:date>2020-05-15T19:00:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>NodeJS LTS -- v12.16.3</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-15T19:00:43Z</modified>
+    <issued>2020-05-15T19:00:43Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS LTS -- v12.16.3 -- Fri May 15 21:00:43 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:43Z</dc:date>
   </entry>
   <entry>
@@ -152,7 +152,7 @@
     <dc:date>2020-05-15T19:00:42Z</dc:date>
   </entry>
   <entry>
-    <title>MariaDB 5.5 -- 5.5.68</title>
+    <title>MariaDB 10.0 -- 10.0.38</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
       <name />
@@ -160,55 +160,7 @@
     <id />
     <modified>2020-05-15T19:00:40Z</modified>
     <issued>2020-05-15T19:00:40Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 5.5 -- 5.5.68 -- Fri May 15 21:00:40 CEST 2020</summary>
-    <dc:date>2020-05-15T19:00:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.5 -- 10.5.3 RC</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2020-05-15T19:00:40Z</modified>
-    <issued>2020-05-15T19:00:40Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.3 RC -- Fri May 15 21:00:40 CEST 2020</summary>
-    <dc:date>2020-05-15T19:00:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.4 -- 10.4.13</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2020-05-15T19:00:40Z</modified>
-    <issued>2020-05-15T19:00:40Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.13 -- Fri May 15 21:00:40 CEST 2020</summary>
-    <dc:date>2020-05-15T19:00:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.3 -- 10.3.23</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2020-05-15T19:00:40Z</modified>
-    <issued>2020-05-15T19:00:40Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.3 -- 10.3.23 -- Fri May 15 21:00:40 CEST 2020</summary>
-    <dc:date>2020-05-15T19:00:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>MariaDB 10.2 -- 10.2.32</title>
-    <link rel="alternate" href="https://downloads.mariadb.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2020-05-15T19:00:40Z</modified>
-    <issued>2020-05-15T19:00:40Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.2 -- 10.2.32 -- Fri May 15 21:00:40 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">MariaDB 10.0 -- 10.0.38 -- Fri May 15 21:00:40 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:40Z</dc:date>
   </entry>
   <entry>
@@ -224,7 +176,7 @@
     <dc:date>2020-05-15T19:00:40Z</dc:date>
   </entry>
   <entry>
-    <title>MariaDB 10.0 -- 10.0.38</title>
+    <title>MariaDB 10.2 -- 10.2.32</title>
     <link rel="alternate" href="https://downloads.mariadb.org" />
     <author>
       <name />
@@ -232,7 +184,55 @@
     <id />
     <modified>2020-05-15T19:00:40Z</modified>
     <issued>2020-05-15T19:00:40Z</issued>
-    <summary type="text/plain" mode="escaped">MariaDB 10.0 -- 10.0.38 -- Fri May 15 21:00:40 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">MariaDB 10.2 -- 10.2.32 -- Fri May 15 21:00:40 CEST 2020</summary>
+    <dc:date>2020-05-15T19:00:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.3 -- 10.3.23</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-15T19:00:40Z</modified>
+    <issued>2020-05-15T19:00:40Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.3 -- 10.3.23 -- Fri May 15 21:00:40 CEST 2020</summary>
+    <dc:date>2020-05-15T19:00:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.4 -- 10.4.13</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-15T19:00:40Z</modified>
+    <issued>2020-05-15T19:00:40Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.13 -- Fri May 15 21:00:40 CEST 2020</summary>
+    <dc:date>2020-05-15T19:00:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.5 -- 10.5.3 RC</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-15T19:00:40Z</modified>
+    <issued>2020-05-15T19:00:40Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.3 RC -- Fri May 15 21:00:40 CEST 2020</summary>
+    <dc:date>2020-05-15T19:00:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 5.5 -- 5.5.68</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-15T19:00:40Z</modified>
+    <issued>2020-05-15T19:00:40Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 5.5 -- 5.5.68 -- Fri May 15 21:00:40 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:40Z</dc:date>
   </entry>
   <entry>
@@ -260,7 +260,7 @@
     <dc:date>2020-05-15T19:00:37Z</dc:date>
   </entry>
   <entry>
-    <title>AdoptOpenJDK jdk8 windows x64 -- jdk8u252-b09.1</title>
+    <title>AdoptOpenJDK jdk8 linux x64 -- jdk8u252-b09</title>
     <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
       <name />
@@ -268,7 +268,7 @@
     <id />
     <modified>2020-05-15T19:00:29Z</modified>
     <issued>2020-05-15T19:00:29Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 windows x64 -- jdk8u252-b09.1 -- Fri May 15 21:00:29 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 linux x64 -- jdk8u252-b09 -- Fri May 15 21:00:29 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:29Z</dc:date>
   </entry>
   <entry>
@@ -284,7 +284,7 @@
     <dc:date>2020-05-15T19:00:29Z</dc:date>
   </entry>
   <entry>
-    <title>AdoptOpenJDK jdk8 linux x64 -- jdk8u252-b09</title>
+    <title>AdoptOpenJDK jdk8 windows x64 -- jdk8u252-b09.1</title>
     <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
       <name />
@@ -292,11 +292,11 @@
     <id />
     <modified>2020-05-15T19:00:29Z</modified>
     <issued>2020-05-15T19:00:29Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 linux x64 -- jdk8u252-b09 -- Fri May 15 21:00:29 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 windows x64 -- jdk8u252-b09.1 -- Fri May 15 21:00:29 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:29Z</dc:date>
   </entry>
   <entry>
-    <title>AdoptOpenJDK jdk14 windows x64 -- jdk-14.0.1+7.1</title>
+    <title>AdoptOpenJDK jdk14 linux x64 -- jdk-14.0.1+7</title>
     <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk14&amp;jvmVariant=hotspot" />
     <author>
       <name />
@@ -304,7 +304,7 @@
     <id />
     <modified>2020-05-15T19:00:27Z</modified>
     <issued>2020-05-15T19:00:27Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk14 windows x64 -- jdk-14.0.1+7.1 -- Fri May 15 21:00:27 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk14 linux x64 -- jdk-14.0.1+7 -- Fri May 15 21:00:27 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:27Z</dc:date>
   </entry>
   <entry>
@@ -320,7 +320,7 @@
     <dc:date>2020-05-15T19:00:27Z</dc:date>
   </entry>
   <entry>
-    <title>AdoptOpenJDK jdk14 linux x64 -- jdk-14.0.1+7</title>
+    <title>AdoptOpenJDK jdk14 windows x64 -- jdk-14.0.1+7.1</title>
     <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk14&amp;jvmVariant=hotspot" />
     <author>
       <name />
@@ -328,11 +328,11 @@
     <id />
     <modified>2020-05-15T19:00:27Z</modified>
     <issued>2020-05-15T19:00:27Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk14 linux x64 -- jdk-14.0.1+7 -- Fri May 15 21:00:27 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk14 windows x64 -- jdk-14.0.1+7.1 -- Fri May 15 21:00:27 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:27Z</dc:date>
   </entry>
   <entry>
-    <title>AdoptOpenJDK jdk11 windows x64 -- jdk-11.0.7+10.2</title>
+    <title>AdoptOpenJDK jdk11 linux x64 -- jdk-11.0.7+10</title>
     <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
       <name />
@@ -340,7 +340,7 @@
     <id />
     <modified>2020-05-15T19:00:25Z</modified>
     <issued>2020-05-15T19:00:25Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 windows x64 -- jdk-11.0.7+10.2 -- Fri May 15 21:00:25 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 linux x64 -- jdk-11.0.7+10 -- Fri May 15 21:00:25 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:25Z</dc:date>
   </entry>
   <entry>
@@ -356,7 +356,7 @@
     <dc:date>2020-05-15T19:00:25Z</dc:date>
   </entry>
   <entry>
-    <title>AdoptOpenJDK jdk11 linux x64 -- jdk-11.0.7+10</title>
+    <title>AdoptOpenJDK jdk11 windows x64 -- jdk-11.0.7+10.2</title>
     <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
       <name />
@@ -364,7 +364,7 @@
     <id />
     <modified>2020-05-15T19:00:25Z</modified>
     <issued>2020-05-15T19:00:25Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 linux x64 -- jdk-11.0.7+10 -- Fri May 15 21:00:25 CEST 2020</summary>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 windows x64 -- jdk-11.0.7+10.2 -- Fri May 15 21:00:25 CEST 2020</summary>
     <dc:date>2020-05-15T19:00:25Z</dc:date>
   </entry>
 </feed>
