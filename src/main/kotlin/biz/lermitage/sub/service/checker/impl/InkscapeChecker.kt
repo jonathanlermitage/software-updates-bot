@@ -23,6 +23,7 @@ class InkscapeChecker : Checker {
         val version = versionTitleFound!!.text().toLowerCase().replace("inkscape", "").trim()
 
         return SoftwareUpdate(
+            listOf("SVG editor", "Inkscape"),
             "Inkscape",
             "https://inkscape.org",
             version)

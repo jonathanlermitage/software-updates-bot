@@ -7,10 +7,15 @@ import java.util.*
  * Field "checkDate" is excluded from "equals" and "hashCode" methods.
  */
 data class SoftwareUpdate(
+    val categories: List<String>,
     val name: String,
     val website: String,
     val version: String,
     val checkDate: Date = Date()) : Comparable<SoftwareUpdate> {
+
+    override fun compareTo(other: SoftwareUpdate): Int {
+        return (name + version + website).compareTo(other.name + other.version + other.website)
+    }
 
     override fun equals(other: Any?): Boolean {
         if (this === other) return true
@@ -18,6 +23,7 @@ data class SoftwareUpdate(
 
         other as SoftwareUpdate
 
+        if (categories != other.categories) return false
         if (name != other.name) return false
         if (website != other.website) return false
         if (version != other.version) return false
@@ -26,14 +32,11 @@ data class SoftwareUpdate(
     }
 
     override fun hashCode(): Int {
-        var result = name.hashCode()
+        var result = categories.hashCode()
+        result = 31 * result + name.hashCode()
         result = 31 * result + website.hashCode()
         result = 31 * result + version.hashCode()
         return result
-    }
-
-    override fun compareTo(other: SoftwareUpdate): Int {
-        return (name + version + website).compareTo(other.name + other.version + other.website)
     }
 
     companion object {

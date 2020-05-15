@@ -20,6 +20,7 @@ abstract class PostgresChecker(private val majorVersion: String) : Checker {
             .replace("v", "").replace("/", "")
 
         return SoftwareUpdate(
+            listOf("Database", "PostgreSQL"),
             "PostgreSQL $majorVersion",
             "https://www.postgresql.org/download/",
             version)

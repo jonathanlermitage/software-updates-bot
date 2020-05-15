@@ -20,6 +20,7 @@ class LesCastCodeursChecker : Checker {
         val version = body.getElementsByClass("blog-post-title")[0].text()
 
         return SoftwareUpdate(
+            listOf("Podcast", "Les Cast Codeurs", "French"),
             "Les Cast Codeurs (French podcast)",
             "https://lescastcodeurs.com",
             version)

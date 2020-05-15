@@ -7,6 +7,7 @@ import com.jayway.jsonpath.JsonPath
 import org.springframework.beans.factory.annotation.Autowired
 
 abstract class GenericJsonPathChecker(
+    private val categories: List<String>,
     private val url: String,
     private val jsonpath: String,
     private val name: String,
@@ -20,6 +21,7 @@ abstract class GenericJsonPathChecker(
         val version = JsonPath.read<String>(json, jsonpath)
 
         return SoftwareUpdate(
+            categories,
             name,
             website,
             version)

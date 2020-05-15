@@ -22,6 +22,7 @@ abstract class NodeJSChecker(
         val version = body.getElementsByClass("home-downloadbutton")[downloadButtonIdx].attr("data-version")
 
         return SoftwareUpdate(
+            listOf("NodeJS"),
             "NodeJS $type",
             "https://nodejs.org",
             version)

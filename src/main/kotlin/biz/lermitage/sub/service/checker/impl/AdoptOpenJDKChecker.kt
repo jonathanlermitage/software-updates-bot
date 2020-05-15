@@ -34,6 +34,7 @@ abstract class AdoptOpenJDKChecker(
         }!!.release_name
 
         return SoftwareUpdate(
+            listOf("Java", "JDK", "AdoptOpenJDK"),
             "AdoptOpenJDK $imageType$major $os $architecture",
             "https://adoptopenjdk.net/releases.html?variant=openjdk$major&jvmVariant=hotspot",
             version)

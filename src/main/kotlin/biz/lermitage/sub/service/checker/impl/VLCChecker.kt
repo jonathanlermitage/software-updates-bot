@@ -25,6 +25,7 @@ class VLCChecker : Checker {
                 .trim()
 
         return SoftwareUpdate(
+            listOf("Video player", "VLC"),
             "VLC",
             "https://www.videolan.org/vlc/",
             version)

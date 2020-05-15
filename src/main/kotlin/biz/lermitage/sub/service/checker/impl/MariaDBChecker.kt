@@ -26,6 +26,7 @@ abstract class MariaDBChecker(private val versionLeftPart: String) : Checker {
         }
 
         return SoftwareUpdate(
+            listOf("Database", "MariaDB"),
             "MariaDB $versionLeftPart",
             "https://downloads.mariadb.org",
             version)

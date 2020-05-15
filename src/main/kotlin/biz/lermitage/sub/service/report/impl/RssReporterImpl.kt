@@ -43,7 +43,11 @@ class RssReporterImpl(private val conf: LocalAppConf) : Reporter {
             entry.publishedDate = su.checkDate
             entry.description = description
             entry.uri = ""
-
+            entry.categories = su.categories.map { cat: String ->
+                val catObj = SyndCategoryImpl()
+                catObj.name = cat
+                return@map catObj
+            }.toList()
             entries.add(entry)
         }
         feed.entries = entries

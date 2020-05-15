@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service
  */
 @Service
 class SpringBootChecker : GenericJsonPathChecker(
+    listOf("Java", "Library", "Spring Framework"),
     "https://start.spring.io/metadata/client",
     "\$.bootVersion.default",
     "Spring Boot",

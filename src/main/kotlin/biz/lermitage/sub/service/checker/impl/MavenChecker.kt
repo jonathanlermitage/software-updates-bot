@@ -20,6 +20,7 @@ class MavenChecker : Checker {
         val version = body.getElementsByTag("table")[0].getElementsByTag("tr")[1].getElementsByTag("td")[1].text()
 
         return SoftwareUpdate(
+            listOf("Java", "Maven"),
             "Maven",
             "https://maven.apache.org/download.cgi",
             version)
