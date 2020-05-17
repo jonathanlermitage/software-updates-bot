@@ -12,6 +12,7 @@ import org.springframework.boot.CommandLineRunner
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.boot.runApplication
+import java.lang.management.ManagementFactory
 
 @SpringBootApplication
 @EnableConfigurationProperties(LocalAppConf::class)
@@ -32,6 +33,9 @@ class SoftwareUpdatesBotApplication : CommandLineRunner {
     lateinit var updatesMerger: UpdatesMerger
 
     override fun run(vararg args: String?) {
+        logGCStats()
+        logMemoryStats()
+
         val latestUpdates = ArrayList<SoftwareUpdate>()
 
         checkers.forEach { checker: Checker ->
@@ -54,6 +58,35 @@ class SoftwareUpdatesBotApplication : CommandLineRunner {
                 logger.warn("reporter ${reporter::class.java} failed, ignoring", e)
             }
         }
+
+        logGCStats()
+        logMemoryStats()
+    }
+
+    private fun logGCStats() {
+        var totalGarbageCollections: Long = 0
+        var garbageCollectionTime: Long = 0
+        for (gc in ManagementFactory.getGarbageCollectorMXBeans()) {
+            totalGarbageCollections += gc.collectionCount
+            garbageCollectionTime += gc.collectionTime
+        }
+        val uptime = ManagementFactory.getRuntimeMXBean().uptime
+        val gcActivityRatio = garbageCollectionTime * 100 / uptime
+        logger.info("GC stats:\n - total GC collections: {}\n - total GC collection time: {}ms (activity ratio: {}%)\n - JVM uptime: {}ms",
+            totalGarbageCollections, garbageCollectionTime, gcActivityRatio, uptime)
+    }
+
+    private fun logMemoryStats() {
+        val runtime = Runtime.getRuntime()
+        val maxMemory = runtime.maxMemory()
+        val allocatedMemory = runtime.totalMemory()
+        val freeMemory = runtime.freeMemory()
+        val mb = 1024 * 1024
+        logger.info("Memory stats:\n - free memory: {}MB,\n - allocated memory: {}MB\n - max memory: {}MB\n - total free memory: {}MB",
+            freeMemory / mb,
+            allocatedMemory / mb,
+            maxMemory / mb,
+            (freeMemory + (maxMemory - allocatedMemory)) / mb)
     }
 }
 
