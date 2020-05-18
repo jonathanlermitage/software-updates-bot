@@ -10,7 +10,7 @@
 |AdoptOpenJDK jdk8 mac x64|jdk8u252-b09.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri May 15 21:00:29 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u252-b09.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri May 15 21:00:29 CEST 2020|
 |Inkscape|1.0|[inkscape.org](https://inkscape.org)|Fri May 15 21:00:37 CEST 2020|
-|Les Cast Codeurs (French podcast)|LCC 231 - Interview sur Vim avec Romain Lafourcade|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri May 15 21:00:38 CEST 2020|
+|Les Cast Codeurs (French podcast)|LCC 232 - Versions version Sloubi|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon May 18 13:00:32 CEST 2020|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 15 21:00:40 CEST 2020|
 |MariaDB 10.1|10.1.45|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 15 21:00:40 CEST 2020|
 |MariaDB 10.2|10.2.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 15 21:00:40 CEST 2020|
