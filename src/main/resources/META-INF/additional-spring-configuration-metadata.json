@@ -1,0 +1,28 @@
+{
+    "properties": [
+        {
+            "name": "localapp.reportfile.json",
+            "type": "java.lang.String",
+            "description": "JSON report file path."
+        },
+        {
+            "name": "localapp.reportfile.md",
+            "type": "java.lang.String",
+            "description": "Markdown report file path."
+        },
+        {
+            "name": "localapp.reportfile.md-by-date",
+            "type": "java.lang.String",
+            "description": "Markdown (ordered by date) report file path."
+        },
+        {
+            "name": "localapp.reportfile.rss",
+            "type": "java.lang.String",
+            "description": "RSS report file path."
+        },
+        {
+            "name": "localapp.reportfile.atom",
+            "type": "java.lang.String",
+            "description": "Atom report file path."
+        }
+    ] }
