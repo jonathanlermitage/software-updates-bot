@@ -19,9 +19,3 @@ This bot currently monitors updates for:
 
 Updates checkers code is here: [source code](https://github.com/jonathanlermitage/software-updates-bot/tree/master/src/main/kotlin/biz/lermitage/sub/service/checker/impl). They are based on Jsoup scrapper, or simply by consumming JSON API.  
 Don't hesitate to submit new checkers. 
-
----
-
-I mainly made this project for fun, and I was bored during the confinment due to the COVID-19 (I planned to move from France to Canada since a long time, so I left my job recently and found a company at Montreal, but the confinement started a few days before my expected travel. Dammit! ^_^).  
-
-Now, I personally use it be notified about AdoptOpenJDK, Les Cast Codeurs and Maven updates, via the RSS feed and Thunderbird.
