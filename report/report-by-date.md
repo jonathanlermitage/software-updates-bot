@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v14.3.0|[nodejs.org](https://nodejs.org)|Wed May 20 00:00:39 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 232 - Versions version Sloubi|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon May 18 13:00:32 CEST 2020|
 |VLC|3.0.10|[www.videolan.org](https://www.videolan.org/vlc/)|Fri May 15 21:00:51 CEST 2020|
 |Spring Boot|2.3.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 15 21:00:49 CEST 2020|
@@ -9,7 +10,6 @@
 |PostgreSQL 12|12.3|[www.postgresql.org](https://www.postgresql.org/download/)|Fri May 15 21:00:46 CEST 2020|
 |PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Fri May 15 21:00:46 CEST 2020|
 |PostgreSQL 9.5|9.5.22|[www.postgresql.org](https://www.postgresql.org/download/)|Fri May 15 21:00:46 CEST 2020|
-|NodeJS Current|v14.2.0|[nodejs.org](https://nodejs.org)|Fri May 15 21:00:43 CEST 2020|
 |NodeJS LTS|v12.16.3|[nodejs.org](https://nodejs.org)|Fri May 15 21:00:43 CEST 2020|
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri May 15 21:00:42 CEST 2020|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 15 21:00:40 CEST 2020|

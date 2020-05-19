@@ -19,7 +19,7 @@
 |MariaDB 10.5|10.5.3 RC|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 15 21:00:40 CEST 2020|
 |MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 15 21:00:40 CEST 2020|
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri May 15 21:00:42 CEST 2020|
-|NodeJS Current|v14.2.0|[nodejs.org](https://nodejs.org)|Fri May 15 21:00:43 CEST 2020|
+|NodeJS Current|v14.3.0|[nodejs.org](https://nodejs.org)|Wed May 20 00:00:39 CEST 2020|
 |NodeJS LTS|v12.16.3|[nodejs.org](https://nodejs.org)|Fri May 15 21:00:43 CEST 2020|
 |PostgreSQL 10|10.13|[www.postgresql.org](https://www.postgresql.org/download/)|Fri May 15 21:00:46 CEST 2020|
 |PostgreSQL 11|11.8|[www.postgresql.org](https://www.postgresql.org/download/)|Fri May 15 21:00:46 CEST 2020|
