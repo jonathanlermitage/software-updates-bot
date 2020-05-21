@@ -14,10 +14,10 @@ class ScrapperImpl : Scrapper {
     val fetchSimpleTextCache = ConcurrentHashMap<String, String>()
 
     override fun fetchHtml(url: String): Element {
+        Thread.sleep(1000)
         if (fetchFinalCache.containsKey(url)) {
             return fetchFinalCache[url]!!
         }
-        Thread.sleep(1000)
         val res = Jsoup.connect(url)
             .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
             .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
@@ -28,10 +28,10 @@ class ScrapperImpl : Scrapper {
     }
 
     override fun fetchText(url: String): String {
+        Thread.sleep(1000)
         if (fetchSimpleTextCache.containsKey(url)) {
             return fetchSimpleTextCache[url]!!
         }
-        Thread.sleep(1000)
         val res = Jsoup.connect(url)
             .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
             .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
