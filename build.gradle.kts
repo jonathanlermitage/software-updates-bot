@@ -9,6 +9,7 @@ plugins {
     id("org.springframework.boot") version "2.2.7.RELEASE"
     id("io.spring.dependency-management") version "1.0.9.RELEASE"
     id("com.github.ben-manes.versions") version "0.28.0"
+    id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
 }
 
 group = "biz.lermitage"

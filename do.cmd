@@ -6,6 +6,7 @@ if [%1] == [help] (
   echo  test:    run unit tests
   echo  cv:      check dependencies and Gradle updates
   echo  p:       generate runnable JAR
+  echo  dep:     generate the project dependency report
 )
 
 if [%1] == [w] (
@@ -27,4 +28,7 @@ if [%1] == [cv] (
 )
 if [%1] == [p] (
   gradlew clean bootJar
+)
+if [%1] == [dep] (
+  gradlew htmlDependencyReport
 )
