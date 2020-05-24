@@ -20,9 +20,9 @@
 |MariaDB 10.5|10.5.3 RC|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 15 21:00:40 CEST 2020|
 |MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 15 21:00:40 CEST 2020|
 |Inkscape|1.0|[inkscape.org](https://inkscape.org)|Fri May 15 21:00:37 CEST 2020|
-|AdoptOpenJDK jdk8 linux x64|jdk8u252-b09|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri May 15 21:00:29 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u252-b09.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri May 15 21:00:29 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u252-b09.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri May 15 21:00:29 CEST 2020|
+|AdoptOpenJDK jdk8 linux x64|jdk8u252-b09|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri May 15 21:00:29 CEST 2020|
 |AdoptOpenJDK jdk14 linux x64|jdk-14.0.1+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Fri May 15 21:00:27 CEST 2020|
 |AdoptOpenJDK jdk14 mac x64|jdk-14.0.1+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Fri May 15 21:00:27 CEST 2020|
 |AdoptOpenJDK jdk14 windows x64|jdk-14.0.1+7.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Fri May 15 21:00:27 CEST 2020|
