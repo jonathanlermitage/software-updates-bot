@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://purl.org/atom/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="0.3">
+  <title>software-updates-bot</title>
+  <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.rss.xml" />
+  <tagline>Popular stuff updates - https://github.com/jonathanlermitage/software-updates-bot</tagline>
+  <dc:creator>Jonathan Lermitage</dc:creator>
+  <dc:subject>AdoptOpenJDK</dc:subject>
+  <dc:subject>Database</dc:subject>
+  <dc:subject>Inkscape</dc:subject>
+  <dc:subject>Java</dc:subject>
+  <dc:subject>JDK</dc:subject>
+  <dc:subject>Library</dc:subject>
+  <dc:subject>MariaDB</dc:subject>
+  <dc:subject>Maven</dc:subject>
+  <dc:subject>NodeJS</dc:subject>
+  <dc:subject>Podcast</dc:subject>
+  <dc:subject>PostgreSQL</dc:subject>
+  <dc:subject>Spring Framework</dc:subject>
+  <dc:subject>SVG editor</dc:subject>
+  <dc:subject>Video player</dc:subject>
+  <dc:subject>VLC</dc:subject>
+  <entry>
+    <title>VLC -- 3.0.10</title>
+    <link rel="alternate" href="https://www.videolan.org/vlc/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:46Z</modified>
+    <issued>2020-05-25T15:35:46Z</issued>
+    <summary type="text/plain" mode="escaped">VLC -- 3.0.10 -- Mon May 25 17:35:46 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:46Z</dc:date>
+  </entry>
+  <entry>
+    <title>Spring Boot -- 2.3.0.RELEASE</title>
+    <link rel="alternate" href="https://start.spring.io" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:45Z</modified>
+    <issued>2020-05-25T15:35:45Z</issued>
+    <summary type="text/plain" mode="escaped">Spring Boot -- 2.3.0.RELEASE -- Mon May 25 17:35:45 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:45Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 9.6 -- 9.6.18</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:43Z</modified>
+    <issued>2020-05-25T15:35:43Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 9.6 -- 9.6.18 -- Mon May 25 17:35:43 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:43Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 9.5 -- 9.5.22</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:42Z</modified>
+    <issued>2020-05-25T15:35:42Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 9.5 -- 9.5.22 -- Mon May 25 17:35:42 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:42Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 9.4 -- 9.4.26</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:41Z</modified>
+    <issued>2020-05-25T15:35:41Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 9.4 -- 9.4.26 -- Mon May 25 17:35:41 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:41Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 12 -- 12.3</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:40Z</modified>
+    <issued>2020-05-25T15:35:40Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.3 -- Mon May 25 17:35:40 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:40Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 11 -- 11.8</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:39Z</modified>
+    <issued>2020-05-25T15:35:39Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 11 -- 11.8 -- Mon May 25 17:35:39 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:39Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 10 -- 10.13</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:38Z</modified>
+    <issued>2020-05-25T15:35:38Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 10 -- 10.13 -- Mon May 25 17:35:38 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>NodeJS LTS -- v12.16.3</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:35Z</modified>
+    <issued>2020-05-25T15:35:35Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS LTS -- v12.16.3 -- Mon May 25 17:35:35 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:35Z</dc:date>
+  </entry>
+  <entry>
+    <title>NodeJS Current -- v14.3.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:34Z</modified>
+    <issued>2020-05-25T15:35:34Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS Current -- v14.3.0 -- Mon May 25 17:35:34 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Maven -- 3.6.3</title>
+    <link rel="alternate" href="https://maven.apache.org/download.cgi" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:32Z</modified>
+    <issued>2020-05-25T15:35:32Z</issued>
+    <summary type="text/plain" mode="escaped">Maven -- 3.6.3 -- Mon May 25 17:35:32 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:32Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 5.5 -- 5.5.68</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:31Z</modified>
+    <issued>2020-05-25T15:35:31Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 5.5 -- 5.5.68 -- Mon May 25 17:35:31 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:31Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.5 -- 10.5.3 RC</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:30Z</modified>
+    <issued>2020-05-25T15:35:30Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.5 -- 10.5.3 RC -- Mon May 25 17:35:30 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:30Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.4 -- 10.4.13</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:29Z</modified>
+    <issued>2020-05-25T15:35:29Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.4 -- 10.4.13 -- Mon May 25 17:35:29 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:29Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.3 -- 10.3.23</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:28Z</modified>
+    <issued>2020-05-25T15:35:28Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.3 -- 10.3.23 -- Mon May 25 17:35:28 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:28Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.2 -- 10.2.32</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:27Z</modified>
+    <issued>2020-05-25T15:35:27Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.2 -- 10.2.32 -- Mon May 25 17:35:27 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:27Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.1 -- 10.1.45</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:26Z</modified>
+    <issued>2020-05-25T15:35:26Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.1 -- 10.1.45 -- Mon May 25 17:35:26 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:26Z</dc:date>
+  </entry>
+  <entry>
+    <title>MariaDB 10.0 -- 10.0.38</title>
+    <link rel="alternate" href="https://downloads.mariadb.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:25Z</modified>
+    <issued>2020-05-25T15:35:25Z</issued>
+    <summary type="text/plain" mode="escaped">MariaDB 10.0 -- 10.0.38 -- Mon May 25 17:35:25 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:25Z</dc:date>
+  </entry>
+  <entry>
+    <title>Les Cast Codeurs (French podcast) -- LCC 232 - Versions version Sloubi</title>
+    <link rel="alternate" href="https://lescastcodeurs.com" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:23Z</modified>
+    <issued>2020-05-25T15:35:23Z</issued>
+    <summary type="text/plain" mode="escaped">Les Cast Codeurs (French podcast) -- LCC 232 - Versions version Sloubi -- Mon May 25 17:35:23 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:23Z</dc:date>
+  </entry>
+  <entry>
+    <title>Inkscape -- 1.0</title>
+    <link rel="alternate" href="https://inkscape.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:21Z</modified>
+    <issued>2020-05-25T15:35:21Z</issued>
+    <summary type="text/plain" mode="escaped">Inkscape -- 1.0 -- Mon May 25 17:35:21 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:21Z</dc:date>
+  </entry>
+  <entry>
+    <title>AdoptOpenJDK jdk8 windows x64 -- jdk8u252-b09.1</title>
+    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:18Z</modified>
+    <issued>2020-05-25T15:35:18Z</issued>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 windows x64 -- jdk8u252-b09.1 -- Mon May 25 17:35:18 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:18Z</dc:date>
+  </entry>
+  <entry>
+    <title>AdoptOpenJDK jdk8 mac x64 -- jdk8u252-b09.1</title>
+    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:17Z</modified>
+    <issued>2020-05-25T15:35:17Z</issued>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 mac x64 -- jdk8u252-b09.1 -- Mon May 25 17:35:17 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:17Z</dc:date>
+  </entry>
+  <entry>
+    <title>AdoptOpenJDK jdk8 linux x64 -- jdk8u252-b09</title>
+    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:16Z</modified>
+    <issued>2020-05-25T15:35:16Z</issued>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 linux x64 -- jdk8u252-b09 -- Mon May 25 17:35:16 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:16Z</dc:date>
+  </entry>
+  <entry>
+    <title>AdoptOpenJDK jdk14 windows x64 -- jdk-14.0.1+7.1</title>
+    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk14&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:14Z</modified>
+    <issued>2020-05-25T15:35:14Z</issued>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk14 windows x64 -- jdk-14.0.1+7.1 -- Mon May 25 17:35:14 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:14Z</dc:date>
+  </entry>
+  <entry>
+    <title>AdoptOpenJDK jdk14 mac x64 -- jdk-14.0.1+7</title>
+    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk14&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:13Z</modified>
+    <issued>2020-05-25T15:35:13Z</issued>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk14 mac x64 -- jdk-14.0.1+7 -- Mon May 25 17:35:13 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:13Z</dc:date>
+  </entry>
+  <entry>
+    <title>AdoptOpenJDK jdk14 linux x64 -- jdk-14.0.1+7</title>
+    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk14&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:12Z</modified>
+    <issued>2020-05-25T15:35:12Z</issued>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk14 linux x64 -- jdk-14.0.1+7 -- Mon May 25 17:35:12 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:12Z</dc:date>
+  </entry>
+  <entry>
+    <title>AdoptOpenJDK jdk11 windows x64 -- jdk-11.0.7+10.2</title>
+    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:09Z</modified>
+    <issued>2020-05-25T15:35:09Z</issued>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 windows x64 -- jdk-11.0.7+10.2 -- Mon May 25 17:35:09 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:09Z</dc:date>
+  </entry>
+  <entry>
+    <title>AdoptOpenJDK jdk11 mac x64 -- jdk-11.0.7+10</title>
+    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:08Z</modified>
+    <issued>2020-05-25T15:35:08Z</issued>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 mac x64 -- jdk-11.0.7+10 -- Mon May 25 17:35:08 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>AdoptOpenJDK jdk11 linux x64 -- jdk-11.0.7+10</title>
+    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2020-05-25T15:35:07Z</modified>
+    <issued>2020-05-25T15:35:07Z</issued>
+    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 linux x64 -- jdk-11.0.7+10 -- Mon May 25 17:35:07 CEST 2020</summary>
+    <dc:date>2020-05-25T15:35:07Z</dc:date>
+  </entry>
+</feed>
