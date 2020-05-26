@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS LTS|v12.17.0|[nodejs.org](https://nodejs.org)|Tue May 26 17:01:02 CEST 2020|
 |VLC|3.0.10|[www.videolan.org](https://www.videolan.org/vlc/)|Mon May 25 17:35:46 CEST 2020|
 |Spring Boot|2.3.0.RELEASE|[start.spring.io](https://start.spring.io)|Mon May 25 17:35:45 CEST 2020|
 |PostgreSQL 9.6|9.6.18|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:43 CEST 2020|
@@ -8,7 +9,6 @@
 |PostgreSQL 12|12.3|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:40 CEST 2020|
 |PostgreSQL 11|11.8|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:39 CEST 2020|
 |PostgreSQL 10|10.13|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:38 CEST 2020|
-|NodeJS LTS|v12.16.3|[nodejs.org](https://nodejs.org)|Mon May 25 17:35:35 CEST 2020|
 |NodeJS Current|v14.3.0|[nodejs.org](https://nodejs.org)|Mon May 25 17:35:34 CEST 2020|
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
 |MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
