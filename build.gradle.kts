@@ -48,6 +48,7 @@ tasks.withType<KotlinCompile> {
 
 tasks.withType<DependencyUpdatesTask> {
     checkForGradleUpdate = true
+    gradleReleaseChannel = "current"
     outputFormatter = "plain"
     outputDir = "build"
     reportfileName = "dependencyUpdatesReport"
