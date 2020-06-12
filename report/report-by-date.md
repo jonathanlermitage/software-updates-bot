@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Spring Boot|2.3.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jun 12 09:01:02 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 233 - Interview sur l'Event Storming avec Thomas Pierrain et Bruno Boucard|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jun 05 10:00:40 CEST 2020|
 |NodeJS LTS|v12.18.0|[nodejs.org](https://nodejs.org)|Tue Jun 02 21:00:56 CEST 2020|
 |NodeJS Current|v14.4.0|[nodejs.org](https://nodejs.org)|Tue Jun 02 21:00:55 CEST 2020|
 |VLC|3.0.10|[www.videolan.org](https://www.videolan.org/vlc/)|Mon May 25 17:35:46 CEST 2020|
-|Spring Boot|2.3.0.RELEASE|[start.spring.io](https://start.spring.io)|Mon May 25 17:35:45 CEST 2020|
 |PostgreSQL 9.6|9.6.18|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:43 CEST 2020|
 |PostgreSQL 9.5|9.5.22|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:42 CEST 2020|
 |PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 CEST 2020|
