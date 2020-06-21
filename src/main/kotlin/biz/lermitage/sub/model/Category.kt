@@ -4,6 +4,7 @@ enum class Category(val label: String) {
 
     ADOPT_OPEN_JDK("AdoptOpenJDK"),
     DATABASE("Database"),
+    GRADLE("Gradle"),
     INKSCAPE("Inkscape"),
     JAVA("Java"),
     JDK("JDK"),

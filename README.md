@@ -9,6 +9,7 @@
 This bot currently monitors updates for:
 * 7+ Taskbar Tweaker
 * AdoptOpenJDK: JDK8, 11 and 14
+* Gradle
 * Inkscape
 * Les Cast Codeurs (a great French podcast)
 * MariaDB: 5.5 to 10.5
