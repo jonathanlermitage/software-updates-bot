@@ -16,5 +16,6 @@ enum class Category(val label: String) {
     SPRING_FRAMEWORK("Spring Framework"),
     SVG_EDITOR("SVG editor"),
     VIDEO_PLAYER("Video player"),
-    VLC("VLC")
+    VLC("VLC"),
+    MS_WINDOWS("MS Windows"),
 }

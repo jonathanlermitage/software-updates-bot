@@ -7,6 +7,7 @@
 * [Atom feed](https://raw.githubusercontent.com/jonathanlermitage/software-updates-bot/master/report/report.atom.xml)
 
 This bot currently monitors updates for:
+* 7+ Taskbar Tweaker
 * AdoptOpenJDK: JDK8, 11 and 14
 * Inkscape
 * Les Cast Codeurs (a great French podcast)
