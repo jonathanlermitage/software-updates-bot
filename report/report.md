@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|7+ Taskbar Tweaker|v5.8 (October 21, 2019)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sun Jun 21 05:11:15 CEST 2020|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.7+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon May 25 17:35:07 CEST 2020|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.7+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon May 25 17:35:08 CEST 2020|
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.7+10.2|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon May 25 17:35:09 CEST 2020|

@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|7+ Taskbar Tweaker|v5.8 (October 21, 2019)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sun Jun 21 05:11:15 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 234 - EmmanuelBernard-As-A-Service, bientôt chez vous !|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Jun 18 12:00:39 CEST 2020|
 |NodeJS LTS|v12.18.1|[nodejs.org](https://nodejs.org)|Wed Jun 17 19:00:52 CEST 2020|
 |VLC|3.0.11|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Jun 16 19:01:03 CEST 2020|
