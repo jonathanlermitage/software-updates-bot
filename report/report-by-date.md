@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|MariaDB 10.5|10.5.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 24 15:00:53 CEST 2020|
 |Gradle|6.5|[gradle.org](https://gradle.org/releases/)|Sun Jun 21 18:00:40 CEST 2020|
 |7+ Taskbar Tweaker|v5.8 (October 21, 2019)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sun Jun 21 05:11:15 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 234 - EmmanuelBernard-As-A-Service, bientôt chez vous !|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Jun 18 12:00:39 CEST 2020|
@@ -15,7 +16,6 @@
 |PostgreSQL 10|10.13|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:38 CEST 2020|
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
 |MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
-|MariaDB 10.5|10.5.3 RC|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:30 CEST 2020|
 |MariaDB 10.4|10.4.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:29 CEST 2020|
 |MariaDB 10.3|10.3.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:28 CEST 2020|
 |MariaDB 10.2|10.2.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:27 CEST 2020|
