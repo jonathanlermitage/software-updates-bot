@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS LTS|v12.18.2|[nodejs.org](https://nodejs.org)|Tue Jun 30 16:01:00 CEST 2020|
 |Gradle|6.5.1|[gradle.org](https://gradle.org/releases/)|Tue Jun 30 09:00:39 CEST 2020|
 |7+ Taskbar Tweaker|v5.9 (June 27, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sat Jun 27 16:01:06 CEST 2020|
 |MariaDB 10.5|10.5.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 24 15:00:53 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 234 - EmmanuelBernard-As-A-Service, bientôt chez vous !|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Jun 18 12:00:39 CEST 2020|
-|NodeJS LTS|v12.18.1|[nodejs.org](https://nodejs.org)|Wed Jun 17 19:00:52 CEST 2020|
 |VLC|3.0.11|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Jun 16 19:01:03 CEST 2020|
 |Spring Boot|2.3.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jun 12 09:01:02 CEST 2020|
 |NodeJS Current|v14.4.0|[nodejs.org](https://nodejs.org)|Tue Jun 02 21:00:55 CEST 2020|
