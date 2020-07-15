@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|AdoptOpenJDK jdk11 windows x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:32 CEST 2020|
+|AdoptOpenJDK jdk11 mac x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:31 CEST 2020|
+|AdoptOpenJDK jdk11 linux x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:30 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 235 - Interview Micro Services avec @ygrenzinger et @khaledsouf|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 08 23:00:51 CEST 2020|
 |NodeJS Current|v14.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 01 01:00:57 CEST 2020|
 |NodeJS LTS|v12.18.2|[nodejs.org](https://nodejs.org)|Tue Jun 30 16:01:00 CEST 2020|
@@ -28,6 +31,3 @@
 |AdoptOpenJDK jdk14 windows x64|jdk-14.0.1+7.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Mon May 25 17:35:14 CEST 2020|
 |AdoptOpenJDK jdk14 mac x64|jdk-14.0.1+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Mon May 25 17:35:13 CEST 2020|
 |AdoptOpenJDK jdk14 linux x64|jdk-14.0.1+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Mon May 25 17:35:12 CEST 2020|
-|AdoptOpenJDK jdk11 windows x64|jdk-11.0.7+10.2|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon May 25 17:35:09 CEST 2020|
-|AdoptOpenJDK jdk11 mac x64|jdk-11.0.7+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon May 25 17:35:08 CEST 2020|
-|AdoptOpenJDK jdk11 linux x64|jdk-11.0.7+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon May 25 17:35:07 CEST 2020|
