@@ -7,9 +7,9 @@
 |AdoptOpenJDK jdk14 linux x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:34 CEST 2020|
 |AdoptOpenJDK jdk14 mac x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:35 CEST 2020|
 |AdoptOpenJDK jdk14 windows x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:36 CEST 2020|
-|AdoptOpenJDK jdk8 linux x64|jdk8u252-b09|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 25 17:35:16 CEST 2020|
-|AdoptOpenJDK jdk8 mac x64|jdk8u252-b09.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 25 17:35:17 CEST 2020|
-|AdoptOpenJDK jdk8 windows x64|jdk8u252-b09.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 25 17:35:18 CEST 2020|
+|AdoptOpenJDK jdk8 linux x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:38 CEST 2020|
+|AdoptOpenJDK jdk8 mac x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:39 CEST 2020|
+|AdoptOpenJDK jdk8 windows x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:40 CEST 2020|
 |Gradle|6.5.1|[gradle.org](https://gradle.org/releases/)|Tue Jun 30 09:00:39 CEST 2020|
 |Inkscape|1.0|[inkscape.org](https://inkscape.org)|Mon May 25 17:35:21 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 235 - Interview Micro Services avec @ygrenzinger et @khaledsouf|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 08 23:00:51 CEST 2020|

@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|AdoptOpenJDK jdk8 windows x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:40 CEST 2020|
+|AdoptOpenJDK jdk8 mac x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:39 CEST 2020|
+|AdoptOpenJDK jdk8 linux x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:38 CEST 2020|
 |AdoptOpenJDK jdk14 windows x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:36 CEST 2020|
 |AdoptOpenJDK jdk14 mac x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:35 CEST 2020|
 |AdoptOpenJDK jdk14 linux x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:34 CEST 2020|
@@ -28,6 +31,3 @@
 |MariaDB 10.1|10.1.45|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:26 CEST 2020|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |Inkscape|1.0|[inkscape.org](https://inkscape.org)|Mon May 25 17:35:21 CEST 2020|
-|AdoptOpenJDK jdk8 windows x64|jdk8u252-b09.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 25 17:35:18 CEST 2020|
-|AdoptOpenJDK jdk8 mac x64|jdk8u252-b09.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 25 17:35:17 CEST 2020|
-|AdoptOpenJDK jdk8 linux x64|jdk8u252-b09|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 25 17:35:16 CEST 2020|
