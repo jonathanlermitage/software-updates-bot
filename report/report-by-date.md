@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Les Cast Codeurs (French podcast)|LCC 236 - Azimov et le cycle fondation|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jul 17 12:00:45 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:40 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:39 CEST 2020|
 |AdoptOpenJDK jdk8 linux x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:38 CEST 2020|
@@ -9,7 +10,6 @@
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:32 CEST 2020|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:31 CEST 2020|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:30 CEST 2020|
-|Les Cast Codeurs (French podcast)|LCC 235 - Interview Micro Services avec @ygrenzinger et @khaledsouf|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 08 23:00:51 CEST 2020|
 |NodeJS Current|v14.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 01 01:00:57 CEST 2020|
 |NodeJS LTS|v12.18.2|[nodejs.org](https://nodejs.org)|Tue Jun 30 16:01:00 CEST 2020|
 |Gradle|6.5.1|[gradle.org](https://gradle.org/releases/)|Tue Jun 30 09:00:39 CEST 2020|
