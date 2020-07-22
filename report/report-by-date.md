@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS LTS|v12.18.3|[nodejs.org](https://nodejs.org)|Wed Jul 22 20:00:57 CEST 2020|
 |NodeJS Current|v14.6.0|[nodejs.org](https://nodejs.org)|Wed Jul 22 00:00:59 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 236 - Azimov et le cycle fondation|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jul 17 12:00:45 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:40 CEST 2020|
@@ -11,7 +12,6 @@
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:32 CEST 2020|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:31 CEST 2020|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:30 CEST 2020|
-|NodeJS LTS|v12.18.2|[nodejs.org](https://nodejs.org)|Tue Jun 30 16:01:00 CEST 2020|
 |Gradle|6.5.1|[gradle.org](https://gradle.org/releases/)|Tue Jun 30 09:00:39 CEST 2020|
 |7+ Taskbar Tweaker|v5.9 (June 27, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sat Jun 27 16:01:06 CEST 2020|
 |MariaDB 10.5|10.5.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 24 15:00:53 CEST 2020|
