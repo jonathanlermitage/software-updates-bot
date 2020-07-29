@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v14.7.0|[nodejs.org](https://nodejs.org)|Wed Jul 29 21:01:03 CEST 2020|
 |Spring Boot|2.3.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jul 24 23:01:10 CEST 2020|
 |NodeJS LTS|v12.18.3|[nodejs.org](https://nodejs.org)|Wed Jul 22 20:00:57 CEST 2020|
-|NodeJS Current|v14.6.0|[nodejs.org](https://nodejs.org)|Wed Jul 22 00:00:59 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 236 - Azimov et le cycle fondation|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jul 17 12:00:45 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:40 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u262-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 16 17:00:39 CEST 2020|
