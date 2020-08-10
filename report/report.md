@@ -10,7 +10,7 @@
 |AdoptOpenJDK jdk8 linux x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:38 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:39 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:40 CEST 2020|
-|Gradle|6.5.1|[gradle.org](https://gradle.org/releases/)|Tue Jun 30 09:00:39 CEST 2020|
+|Gradle|6.6|[gradle.org](https://gradle.org/releases/)|Tue Aug 11 01:00:40 CEST 2020|
 |Inkscape|1.0|[inkscape.org](https://inkscape.org)|Mon May 25 17:35:21 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 236 - Azimov et le cycle fondation|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jul 17 12:00:45 CEST 2020|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
