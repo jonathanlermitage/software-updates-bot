@@ -14,11 +14,11 @@
 |Inkscape|1.0|[inkscape.org](https://inkscape.org)|Mon May 25 17:35:21 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 236 - Azimov et le cycle fondation|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jul 17 12:00:45 CEST 2020|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
-|MariaDB 10.1|10.1.45|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:26 CEST 2020|
-|MariaDB 10.2|10.2.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:27 CEST 2020|
-|MariaDB 10.3|10.3.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:28 CEST 2020|
-|MariaDB 10.4|10.4.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:29 CEST 2020|
-|MariaDB 10.5|10.5.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 24 15:00:53 CEST 2020|
+|MariaDB 10.1|10.1.46|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:48 CEST 2020|
+|MariaDB 10.2|10.2.33|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:49 CEST 2020|
+|MariaDB 10.3|10.3.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:50 CEST 2020|
+|MariaDB 10.4|10.4.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:51 CEST 2020|
+|MariaDB 10.5|10.5.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:52 CEST 2020|
 |MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
 |NodeJS Current|v14.7.0|[nodejs.org](https://nodejs.org)|Wed Jul 29 21:01:03 CEST 2020|
