@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v14.8.0|[nodejs.org](https://nodejs.org)|Tue Aug 11 19:00:57 CEST 2020|
 |Gradle|6.6|[gradle.org](https://gradle.org/releases/)|Tue Aug 11 01:00:40 CEST 2020|
 |MariaDB 10.5|10.5.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:52 CEST 2020|
 |MariaDB 10.4|10.4.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:51 CEST 2020|
@@ -9,7 +10,6 @@
 |AdoptOpenJDK jdk8 windows x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:40 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:39 CEST 2020|
 |AdoptOpenJDK jdk8 linux x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:38 CEST 2020|
-|NodeJS Current|v14.7.0|[nodejs.org](https://nodejs.org)|Wed Jul 29 21:01:03 CEST 2020|
 |Spring Boot|2.3.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jul 24 23:01:10 CEST 2020|
 |NodeJS LTS|v12.18.3|[nodejs.org](https://nodejs.org)|Wed Jul 22 20:00:57 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 236 - Azimov et le cycle fondation|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jul 17 12:00:45 CEST 2020|
