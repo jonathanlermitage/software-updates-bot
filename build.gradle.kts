@@ -54,3 +54,27 @@ tasks.withType<DependencyUpdatesTask> {
     reportfileName = "dependencyUpdatesReport"
     revision = "release"
 }
+
+fun isNonStable(version: String): Boolean {
+    if (listOf("RELEASE", "FINAL", "GA").any { version.toUpperCase().endsWith(it) }) {
+        return false
+    }
+    return listOf("alpha", "Alpha", "ALPHA", "b", "beta", "Beta", "BETA", "rc", "RC", "M", "EA", "pr", "atlassian").any {
+        "(?i).*[.-]${it}[.\\d-]*$".toRegex().matches(version)
+    }
+}
+
+tasks.named("dependencyUpdates", DependencyUpdatesTask::class.java).configure {
+    resolutionStrategy {
+        componentSelection {
+            all {
+                if (isNonStable(candidate.version)) {
+                    println(" - [ ] ${candidate.module}:${candidate.version} candidate rejected")
+                    reject("Not stable")
+                } else {
+                    println(" - [X] ${candidate.module}:${candidate.version} candidate accepted")
+                }
+            }
+        }
+    }
+}
