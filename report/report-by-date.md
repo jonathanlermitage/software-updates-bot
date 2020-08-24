@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|7+ Taskbar Tweaker|v5.9.1 (August 24, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Mon Aug 24 13:01:07 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 237 - Tu as fais ta demande de hissage ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Aug 14 20:00:45 CEST 2020|
 |Spring Boot|2.3.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Aug 13 21:01:14 CEST 2020|
 |PostgreSQL 9.6|9.6.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:05 CEST 2020|
@@ -24,7 +25,6 @@
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:32 CEST 2020|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:31 CEST 2020|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.8+10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Jul 15 17:00:30 CEST 2020|
-|7+ Taskbar Tweaker|v5.9 (June 27, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sat Jun 27 16:01:06 CEST 2020|
 |VLC|3.0.11|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Jun 16 19:01:03 CEST 2020|
 |PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 CEST 2020|
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
