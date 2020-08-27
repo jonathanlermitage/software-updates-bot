@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v14.9.0|[nodejs.org](https://nodejs.org)|Thu Aug 27 18:00:56 CEST 2020|
 |Gradle|6.6.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 25 19:00:40 CEST 2020|
 |7+ Taskbar Tweaker|v5.9.1 (August 24, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Mon Aug 24 13:01:07 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 237 - Tu as fais ta demande de hissage ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Aug 14 20:00:45 CEST 2020|
@@ -9,7 +10,6 @@
 |PostgreSQL 12|12.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:02 CEST 2020|
 |PostgreSQL 11|11.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:01 CEST 2020|
 |PostgreSQL 10|10.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:00 CEST 2020|
-|NodeJS Current|v14.8.0|[nodejs.org](https://nodejs.org)|Tue Aug 11 19:00:57 CEST 2020|
 |MariaDB 10.5|10.5.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:52 CEST 2020|
 |MariaDB 10.4|10.4.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:51 CEST 2020|
 |MariaDB 10.3|10.3.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:50 CEST 2020|
