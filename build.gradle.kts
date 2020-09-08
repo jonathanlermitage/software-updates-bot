@@ -2,12 +2,12 @@ import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    val kotlinVersion = "1.3.72"
+    val kotlinVersion = "1.4.0"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "2.3.0.RELEASE"
-    id("io.spring.dependency-management") version "1.0.9.RELEASE"
+    id("org.springframework.boot") version "2.3.3.RELEASE"
+    id("io.spring.dependency-management") version "1.0.10.RELEASE"
     id("com.github.ben-manes.versions") version "0.29.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
 }
