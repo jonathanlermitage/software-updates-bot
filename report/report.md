@@ -11,7 +11,7 @@
 |AdoptOpenJDK jdk8 mac x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:39 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:40 CEST 2020|
 |Gradle|6.6.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 25 19:00:40 CEST 2020|
-|Inkscape|1.0|[inkscape.org](https://inkscape.org)|Mon May 25 17:35:21 CEST 2020|
+|Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 237 - Tu as fais ta demande de hissage ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Aug 14 20:00:45 CEST 2020|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |MariaDB 10.1|10.1.46|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:48 CEST 2020|
