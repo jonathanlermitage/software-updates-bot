@@ -2,13 +2,13 @@ import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    val kotlinVersion = "1.4.0"
+    val kotlinVersion = "1.4.10"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
     id("org.springframework.boot") version "2.3.3.RELEASE"
     id("io.spring.dependency-management") version "1.0.10.RELEASE"
-    id("com.github.ben-manes.versions") version "0.29.0"
+    id("com.github.ben-manes.versions") version "0.33.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
 }
 
@@ -28,8 +28,8 @@ dependencies {
     implementation("com.google.code.gson:gson:2.8.6")
     implementation("com.jayway.jsonpath:json-path:2.4.0")
     implementation("org.jsoup:jsoup:1.13.1")
-    implementation("commons-io:commons-io:2.6")
-    implementation("com.rometools:rome:1.12.2")
+    implementation("commons-io:commons-io:2.8.0")
+    implementation("com.rometools:rome:1.15.0")
     kapt("org.springframework.boot:spring-boot-configuration-processor")
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
         exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
