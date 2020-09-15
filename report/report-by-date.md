@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Les Cast Codeurs (French podcast)|LCC 238 - Registries, registries, registries !|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Sep 15 19:00:43 CEST 2020|
 |NodeJS Current|v14.10.1|[nodejs.org](https://nodejs.org)|Thu Sep 10 18:00:59 CEST 2020|
 |Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
 |Gradle|6.6.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 25 19:00:40 CEST 2020|
 |7+ Taskbar Tweaker|v5.9.1 (August 24, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Mon Aug 24 13:01:07 CEST 2020|
-|Les Cast Codeurs (French podcast)|LCC 237 - Tu as fais ta demande de hissage ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Aug 14 20:00:45 CEST 2020|
 |Spring Boot|2.3.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Aug 13 21:01:14 CEST 2020|
 |PostgreSQL 9.6|9.6.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:05 CEST 2020|
 |PostgreSQL 9.5|9.5.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:04 CEST 2020|
