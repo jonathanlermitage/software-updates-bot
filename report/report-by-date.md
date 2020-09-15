@@ -1,7 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS LTS|v12.18.4|[nodejs.org](https://nodejs.org)|Wed Sep 16 00:00:58 CEST 2020|
+|NodeJS Current|v14.11.0|[nodejs.org](https://nodejs.org)|Wed Sep 16 00:00:57 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 238 - Registries, registries, registries !|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Sep 15 19:00:43 CEST 2020|
-|NodeJS Current|v14.10.1|[nodejs.org](https://nodejs.org)|Thu Sep 10 18:00:59 CEST 2020|
 |Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
 |Gradle|6.6.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 25 19:00:40 CEST 2020|
 |7+ Taskbar Tweaker|v5.9.1 (August 24, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Mon Aug 24 13:01:07 CEST 2020|
@@ -19,7 +20,6 @@
 |AdoptOpenJDK jdk8 windows x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:40 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:39 CEST 2020|
 |AdoptOpenJDK jdk8 linux x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:38 CEST 2020|
-|NodeJS LTS|v12.18.3|[nodejs.org](https://nodejs.org)|Wed Jul 22 20:00:57 CEST 2020|
 |AdoptOpenJDK jdk14 windows x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:36 CEST 2020|
 |AdoptOpenJDK jdk14 mac x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:35 CEST 2020|
 |AdoptOpenJDK jdk14 linux x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:34 CEST 2020|
