@@ -24,5 +24,21 @@
             "name": "localapp.reportfile.atom",
             "type": "java.lang.String",
             "description": "Atom report file path."
+        },
+        {
+            "name": "localapp.statusfile.md",
+            "type": "java.lang.String",
+            "description": "Markdown status file path."
+        },
+        {
+            "name": "localapp.statusfile.rss",
+            "type": "java.lang.String",
+            "description": "RSS status file path."
+        },
+        {
+            "name": "localapp.statusfile.atom",
+            "type": "java.lang.String",
+            "description": "Atom status file path."
         }
-    ] }
+    ]
+}

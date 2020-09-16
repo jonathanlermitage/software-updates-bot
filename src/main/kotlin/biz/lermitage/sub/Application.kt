@@ -1,10 +1,12 @@
 package biz.lermitage.sub
 
 import biz.lermitage.sub.conf.LocalAppConf
+import biz.lermitage.sub.model.DetailedException
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.report.JsonReportLoader
 import biz.lermitage.sub.service.report.Reporter
+import biz.lermitage.sub.service.report.StatusReporter
 import biz.lermitage.sub.service.report.UpdatesMerger
 import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
@@ -32,11 +34,15 @@ class SoftwareUpdatesBotApplication : CommandLineRunner {
     @Autowired
     lateinit var updatesMerger: UpdatesMerger
 
+    @Autowired
+    lateinit var statusReporter: StatusReporter
+
     override fun run(vararg args: String?) {
         logGCStats()
         logMemoryStats()
 
         val latestUpdates = ArrayList<SoftwareUpdate>()
+        val errors = ArrayList<DetailedException>()
 
         checkers.forEach { checker: Checker ->
             try {
@@ -45,6 +51,7 @@ class SoftwareUpdatesBotApplication : CommandLineRunner {
                 latestUpdates.add(check)
             } catch (e: Exception) {
                 logger.warn("checker ${checker::class.java} failed, ignoring", e)
+                errors.add(DetailedException("checker ${checker::class.java} failed, ignoring", e))
             }
         }
 
@@ -56,7 +63,14 @@ class SoftwareUpdatesBotApplication : CommandLineRunner {
                 reporter.generate(mergedUpdates)
             } catch (e: Exception) {
                 logger.warn("reporter ${reporter::class.java} failed, ignoring", e)
+                errors.add(DetailedException("reporter ${reporter::class.java} failed, ignoring", e))
             }
+        }
+
+        if (errors.isEmpty()) {
+            statusReporter.generateSuccess()
+        } else {
+            statusReporter.generateError(errors)
         }
 
         logGCStats()

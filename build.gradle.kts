@@ -29,6 +29,7 @@ dependencies {
     implementation("com.jayway.jsonpath:json-path:2.4.0")
     implementation("org.jsoup:jsoup:1.13.1")
     implementation("commons-io:commons-io:2.8.0")
+    implementation("org.apache.commons:commons-lang3:3.11")
     implementation("com.rometools:rome:1.15.0")
     kapt("org.springframework.boot:spring-boot-configuration-processor")
     testImplementation("org.springframework.boot:spring-boot-starter-test") {

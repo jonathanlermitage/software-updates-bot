@@ -28,7 +28,7 @@ class AtomReporterImpl(private val conf: LocalAppConf) : Reporter {
         feed.feedType = "atom_0.3"
         feed.title = "software-updates-bot"
         feed.description = "Popular stuff updates - https://github.com/jonathanlermitage/software-updates-bot"
-        feed.link = "https://github.com/jonathanlermitage/software-updates-bot/raw/master/${conf.reportFile.rss}"
+        feed.link = "https://github.com/jonathanlermitage/software-updates-bot/raw/master/${conf.reportFile.atom}"
         feed.author = "Jonathan Lermitage"
         feed.encoding = Globals.reportCharset().name()
         feed.categories = Category.values().map { category: Category ->

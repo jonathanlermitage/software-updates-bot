@@ -12,3 +12,7 @@ localapp:
     md-by-date: "report/report-by-date.md"
     rss: "report/report.rss.xml"
     atom: "report/report.atom.xml"
+  statusfile:
+    md: "report/status.md"
+    rss: "report/status.rss.xml"
+    atom: "report/status.atom.xml"
