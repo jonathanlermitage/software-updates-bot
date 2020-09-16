@@ -14,4 +14,12 @@ class LocalAppConf {
         lateinit var rss: String
         lateinit var atom: String
     }
+
+    val statusFile = StatusFile()
+
+    class StatusFile {
+        lateinit var md: String
+        lateinit var rss: String
+        lateinit var atom: String
+    }
 }
