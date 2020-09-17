@@ -21,7 +21,15 @@ abstract class BaseTests {
 
     @BeforeEach
     fun clearData() {
-        listOf(conf.reportFile.json, conf.reportFile.md, conf.reportFile.mdByDate).forEach { filename: String ->
+        listOf(
+            conf.reportFile.json,
+            conf.reportFile.md,
+            conf.reportFile.mdByDate,
+            conf.reportFile.atom,
+            conf.reportFile.rss,
+            conf.statusFile.md,
+            conf.statusFile.atom,
+            conf.statusFile.rss).forEach { filename: String ->
             val file = File(filename)
             logger.info("deleted ${file.absolutePath} before test: ${file.delete()}")
         }
