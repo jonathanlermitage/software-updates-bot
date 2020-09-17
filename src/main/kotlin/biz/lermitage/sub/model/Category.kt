@@ -14,6 +14,7 @@ enum class Category(val label: String) {
     NODEJS("NodeJS"),
     PODCAST("Podcast"),
     POSTGRESQL("PostgreSQL"),
+    RHEL7("RHEL7"),
     SPRING_FRAMEWORK("Spring Framework"),
     SVG_EDITOR("SVG editor"),
     VIDEO_PLAYER("Video player"),
