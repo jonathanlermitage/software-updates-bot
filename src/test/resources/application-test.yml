@@ -8,3 +8,7 @@ localapp:
     md-by-date: "build/test-root/report-by-date.md"
     rss: "build/test-root/report.rss.xml"
     atom: "build/test-root/report.atom.xml"
+  statusfile:
+    md: "build/test-root/status.md"
+    rss: "build/test-root/status.rss.xml"
+    atom: "build/test-root/status.atom.xml"
