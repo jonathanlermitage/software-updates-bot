@@ -29,5 +29,7 @@
 |PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 CEST 2020|
 |PostgreSQL 9.5|9.5.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:04 CEST 2020|
 |PostgreSQL 9.6|9.6.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:05 CEST 2020|
+|RHEL7|7.8-394|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Sep 19 00:01:11 CEST 2020|
+|RHEL7Minimal|7.8-367|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Sep 19 00:01:13 CEST 2020|
 |Spring Boot|2.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 17 18:01:11 CEST 2020|
 |VLC|3.0.11|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Jun 16 19:01:03 CEST 2020|

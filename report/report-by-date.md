@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|RHEL7Minimal|7.8-367|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Sep 19 00:01:13 CEST 2020|
+|RHEL7|7.8-394|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Sep 19 00:01:11 CEST 2020|
 |Spring Boot|2.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 17 18:01:11 CEST 2020|
 |NodeJS LTS|v12.18.4|[nodejs.org](https://nodejs.org)|Wed Sep 16 00:00:58 CEST 2020|
 |NodeJS Current|v14.11.0|[nodejs.org](https://nodejs.org)|Wed Sep 16 00:00:57 CEST 2020|
