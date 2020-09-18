@@ -16,6 +16,7 @@ This bot currently monitors updates for:
 * Maven
 * NodeJS: LTS and current
 * PostgreSQL: 9.4 to 12
+* Red Hat Enterprise Linux
 * Spring Boot
 * VLC
 
