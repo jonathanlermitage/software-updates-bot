@@ -7,6 +7,9 @@
 |AdoptOpenJDK jdk14 linux x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:34 CEST 2020|
 |AdoptOpenJDK jdk14 mac x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:35 CEST 2020|
 |AdoptOpenJDK jdk14 windows x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:36 CEST 2020|
+|AdoptOpenJDK jdk15 linux x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:37 CEST 2020|
+|AdoptOpenJDK jdk15 mac x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:38 CEST 2020|
+|AdoptOpenJDK jdk15 windows x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:39 CEST 2020|
 |AdoptOpenJDK jdk8 linux x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:38 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:39 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:40 CEST 2020|

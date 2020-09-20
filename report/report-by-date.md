@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|AdoptOpenJDK jdk15 windows x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:39 CEST 2020|
+|AdoptOpenJDK jdk15 mac x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:38 CEST 2020|
+|AdoptOpenJDK jdk15 linux x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:37 CEST 2020|
 |RHEL7Minimal|7.8-367|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Sep 19 00:01:13 CEST 2020|
 |RHEL7|7.8-394|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Sep 19 00:01:11 CEST 2020|
 |Spring Boot|2.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 17 18:01:11 CEST 2020|

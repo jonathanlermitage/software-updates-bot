@@ -81,6 +81,39 @@
         "JDK",
         "AdoptOpenJDK"
       ],
+      "name": "AdoptOpenJDK jdk15 linux x64",
+      "website": "https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot",
+      "version": "jdk-15+36",
+      "checkDate": "Sep 20, 2020, 2:00:37 AM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "AdoptOpenJDK"
+      ],
+      "name": "AdoptOpenJDK jdk15 mac x64",
+      "website": "https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot",
+      "version": "jdk-15+36",
+      "checkDate": "Sep 20, 2020, 2:00:38 AM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "AdoptOpenJDK"
+      ],
+      "name": "AdoptOpenJDK jdk15 windows x64",
+      "website": "https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot",
+      "version": "jdk-15+36",
+      "checkDate": "Sep 20, 2020, 2:00:39 AM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "AdoptOpenJDK"
+      ],
       "name": "AdoptOpenJDK jdk8 linux x64",
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
       "version": "jdk8u265-b01",
