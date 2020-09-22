@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v14.12.0|[nodejs.org](https://nodejs.org)|Tue Sep 22 21:00:59 CEST 2020|
 |AdoptOpenJDK jdk15 windows x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:39 CEST 2020|
 |AdoptOpenJDK jdk15 mac x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:38 CEST 2020|
 |AdoptOpenJDK jdk15 linux x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:37 CEST 2020|
@@ -7,7 +8,6 @@
 |RHEL7|7.8-394|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Sep 19 00:01:11 CEST 2020|
 |Spring Boot|2.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 17 18:01:11 CEST 2020|
 |NodeJS LTS|v12.18.4|[nodejs.org](https://nodejs.org)|Wed Sep 16 00:00:58 CEST 2020|
-|NodeJS Current|v14.11.0|[nodejs.org](https://nodejs.org)|Wed Sep 16 00:00:57 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 238 - Registries, registries, registries !|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Sep 15 19:00:43 CEST 2020|
 |Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
 |Gradle|6.6.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 25 19:00:40 CEST 2020|
