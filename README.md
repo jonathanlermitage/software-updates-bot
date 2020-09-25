@@ -15,10 +15,10 @@ This bot currently monitors updates for:
 * MariaDB: 5.5 to 10.5
 * Maven
 * NodeJS: LTS and current
-* PostgreSQL: 9.4 to 12
+* PostgreSQL: 9.4 to 13
 * Red Hat Enterprise Linux
 * Spring Boot
 * VLC
 
-Updates checkers code is here: [source code](https://github.com/jonathanlermitage/software-updates-bot/tree/master/src/main/kotlin/biz/lermitage/sub/service/checker/impl). They are based on Jsoup scrapper, or simply by consumming JSON API.  
+Update checkers code is here: [source code](https://github.com/jonathanlermitage/software-updates-bot/tree/master/src/main/kotlin/biz/lermitage/sub/service/checker/impl). They are based on Jsoup scrapper, or simply by consumming JSON API.  
 Don't hesitate to submit new checkers. 
