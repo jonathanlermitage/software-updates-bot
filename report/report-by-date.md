@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|PostgreSQL 13|13.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Sep 26 00:01:06 CEST 2020|
 |NodeJS Current|v14.12.0|[nodejs.org](https://nodejs.org)|Tue Sep 22 21:00:59 CEST 2020|
 |AdoptOpenJDK jdk15 windows x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:39 CEST 2020|
 |AdoptOpenJDK jdk15 mac x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:38 CEST 2020|
