@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|RHEL7Minimal|7.9-193|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:19 CEST 2020|
+|RHEL7|7.9-189|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:17 CEST 2020|
 |NodeJS Current|v14.13.0|[nodejs.org](https://nodejs.org)|Tue Sep 29 22:01:07 CEST 2020|
 |PostgreSQL 13|13.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Sep 26 00:01:06 CEST 2020|
 |AdoptOpenJDK jdk15 windows x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:39 CEST 2020|
 |AdoptOpenJDK jdk15 mac x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:38 CEST 2020|
 |AdoptOpenJDK jdk15 linux x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:37 CEST 2020|
-|RHEL7Minimal|7.8-367|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Sep 19 00:01:13 CEST 2020|
-|RHEL7|7.8-394|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Sep 19 00:01:11 CEST 2020|
 |Spring Boot|2.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 17 18:01:11 CEST 2020|
 |NodeJS LTS|v12.18.4|[nodejs.org](https://nodejs.org)|Wed Sep 16 00:00:58 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 238 - Registries, registries, registries !|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Sep 15 19:00:43 CEST 2020|
