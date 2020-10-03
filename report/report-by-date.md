@@ -1,5 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Python 3 windows| 3.8.6|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:17 CEST 2020|
+|Python 3 source| 3.8.6|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:16 CEST 2020|
+|Python 3 mac| 3.8.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:15 CEST 2020|
+|Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
+|Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
+|Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
 |RHEL7Minimal|7.9-193|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:19 CEST 2020|
 |RHEL7|7.9-189|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:17 CEST 2020|
 |NodeJS Current|v14.13.0|[nodejs.org](https://nodejs.org)|Tue Sep 29 22:01:07 CEST 2020|

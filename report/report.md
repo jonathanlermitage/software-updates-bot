@@ -33,6 +33,12 @@
 |PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 CEST 2020|
 |PostgreSQL 9.5|9.5.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:04 CEST 2020|
 |PostgreSQL 9.6|9.6.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:05 CEST 2020|
+|Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
+|Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
+|Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
+|Python 3 mac| 3.8.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:15 CEST 2020|
+|Python 3 source| 3.8.6|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:16 CEST 2020|
+|Python 3 windows| 3.8.6|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:17 CEST 2020|
 |RHEL7|7.9-189|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:17 CEST 2020|
 |RHEL7Minimal|7.9-193|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:19 CEST 2020|
 |Spring Boot|2.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 17 18:01:11 CEST 2020|
