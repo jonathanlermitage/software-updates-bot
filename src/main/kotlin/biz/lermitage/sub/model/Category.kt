@@ -15,6 +15,7 @@ enum class Category(val label: String) {
     OS("Operating System"),
     PODCAST("Podcast"),
     POSTGRESQL("PostgreSQL"),
+    PYTHON("Python"),
     RHEL("Red Hat Enterprise Linux"),
     SPRING_FRAMEWORK("Spring Framework"),
     SVG_EDITOR("SVG editor"),
