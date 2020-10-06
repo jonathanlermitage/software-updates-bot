@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|VeraCrypt|1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Oct 07 00:01:29 CEST 2020|
 |NodeJS LTS|v12.19.0|[nodejs.org](https://nodejs.org)|Tue Oct 06 23:01:00 CEST 2020|
 |Python 3 windows| 3.9.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 05 19:01:17 CEST 2020|
 |Python 3 source| 3.9.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 05 19:01:16 CEST 2020|

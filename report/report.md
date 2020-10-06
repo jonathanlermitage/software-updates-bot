@@ -43,3 +43,4 @@
 |RHEL7Minimal|7.9-193|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:19 CEST 2020|
 |Spring Boot|2.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 17 18:01:11 CEST 2020|
 |VLC|3.0.11|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Jun 16 19:01:03 CEST 2020|
+|VeraCrypt|1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Oct 07 00:01:29 CEST 2020|
