@@ -19,6 +19,7 @@ This bot currently monitors updates for:
 * Python: 2 and 3
 * Red Hat Enterprise Linux
 * Spring Boot
+* VeraCrypt
 * VLC
 
 Update checkers code is here: [source code](https://github.com/jonathanlermitage/software-updates-bot/tree/master/src/main/kotlin/biz/lermitage/sub/service/checker/impl). They are based on Jsoup scrapper, or simply by consumming JSON API.  
