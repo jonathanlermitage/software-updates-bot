@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v14.13.1|[nodejs.org](https://nodejs.org)|Thu Oct 08 00:00:59 CEST 2020|
 |MariaDB 10.5|10.5.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:56 CEST 2020|
 |MariaDB 10.4|10.4.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:55 CEST 2020|
 |MariaDB 10.3|10.3.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:54 CEST 2020|
@@ -16,7 +17,6 @@
 |Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
 |RHEL7Minimal|7.9-193|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:19 CEST 2020|
 |RHEL7|7.9-189|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:17 CEST 2020|
-|NodeJS Current|v14.13.0|[nodejs.org](https://nodejs.org)|Tue Sep 29 22:01:07 CEST 2020|
 |PostgreSQL 13|13.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Sep 26 00:01:06 CEST 2020|
 |AdoptOpenJDK jdk15 windows x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:39 CEST 2020|
 |AdoptOpenJDK jdk15 mac x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:38 CEST 2020|
