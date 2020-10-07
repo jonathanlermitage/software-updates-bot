@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|MariaDB 10.5|10.5.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:56 CEST 2020|
+|MariaDB 10.4|10.4.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:55 CEST 2020|
+|MariaDB 10.3|10.3.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:54 CEST 2020|
+|MariaDB 10.2|10.2.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:53 CEST 2020|
+|MariaDB 10.1|10.1.47|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:52 CEST 2020|
 |VeraCrypt|1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Oct 07 00:01:29 CEST 2020|
 |NodeJS LTS|v12.19.0|[nodejs.org](https://nodejs.org)|Tue Oct 06 23:01:00 CEST 2020|
 |Python 3 windows| 3.9.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 05 19:01:17 CEST 2020|
@@ -25,11 +30,6 @@
 |PostgreSQL 12|12.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:02 CEST 2020|
 |PostgreSQL 11|11.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:01 CEST 2020|
 |PostgreSQL 10|10.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:00 CEST 2020|
-|MariaDB 10.5|10.5.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:52 CEST 2020|
-|MariaDB 10.4|10.4.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:51 CEST 2020|
-|MariaDB 10.3|10.3.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:50 CEST 2020|
-|MariaDB 10.2|10.2.33|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:49 CEST 2020|
-|MariaDB 10.1|10.1.46|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:48 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:40 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:39 CEST 2020|
 |AdoptOpenJDK jdk8 linux x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:38 CEST 2020|

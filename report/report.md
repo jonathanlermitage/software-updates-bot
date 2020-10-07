@@ -17,11 +17,11 @@
 |Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 239 - Interview Rust avec François Teychene, Sylvain Wallez et Geoffroy Couprie|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Oct 05 16:00:49 CEST 2020|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
-|MariaDB 10.1|10.1.46|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:48 CEST 2020|
-|MariaDB 10.2|10.2.33|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:49 CEST 2020|
-|MariaDB 10.3|10.3.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:50 CEST 2020|
-|MariaDB 10.4|10.4.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:51 CEST 2020|
-|MariaDB 10.5|10.5.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 10 21:00:52 CEST 2020|
+|MariaDB 10.1|10.1.47|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:52 CEST 2020|
+|MariaDB 10.2|10.2.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:53 CEST 2020|
+|MariaDB 10.3|10.3.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:54 CEST 2020|
+|MariaDB 10.4|10.4.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:55 CEST 2020|
+|MariaDB 10.5|10.5.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:56 CEST 2020|
 |MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
 |NodeJS Current|v14.13.0|[nodejs.org](https://nodejs.org)|Tue Sep 29 22:01:07 CEST 2020|
