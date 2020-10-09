@@ -1,5 +1,8 @@
 import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
+import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
+
+val detektVersion = "1.14.1"
 
 plugins {
     val kotlinVersion = "1.4.10"
@@ -10,6 +13,7 @@ plugins {
     id("io.spring.dependency-management") version "1.0.10.RELEASE"
     id("com.github.ben-manes.versions") version "0.33.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
+    id("io.gitlab.arturbosch.detekt") version "1.14.1"
 }
 
 group = "biz.lermitage"
@@ -19,6 +23,7 @@ java.sourceCompatibility = JavaVersion.VERSION_1_8
 repositories {
     mavenCentral()
     mavenLocal()
+    jcenter()
 }
 
 dependencies {
@@ -35,27 +40,44 @@ dependencies {
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
         exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
     }
+    detektPlugins("io.gitlab.arturbosch.detekt:detekt-formatting:$detektVersion")
 }
 
-tasks.withType<Test> {
-    useJUnitPlatform()
+detekt {
+    toolVersion = detektVersion
+    config = files("./detekt-config.yml")
+    buildUponDefaultConfig = true
+
+    reports {
+        html.enabled = false
+        xml.enabled = false
+        txt.enabled = false
+    }
 }
 
-tasks.withType<KotlinCompile> {
-    kotlinOptions {
-        freeCompilerArgs = listOf("-Xjsr305=strict")
+tasks {
+    withType<Test> {
+        useJUnitPlatform()
+    }
+    withType<KotlinCompile> {
+        kotlinOptions {
+            freeCompilerArgs = listOf("-Xjsr305=strict")
+            jvmTarget = "1.8"
+        }
+    }
+    withType<DependencyUpdatesTask> {
+        checkForGradleUpdate = true
+        gradleReleaseChannel = "current"
+        outputFormatter = "plain"
+        outputDir = "build"
+        reportfileName = "dependencyUpdatesReport"
+        revision = "release"
+    }
+    withType<Detekt> {
         jvmTarget = "1.8"
     }
 }
 
-tasks.withType<DependencyUpdatesTask> {
-    checkForGradleUpdate = true
-    gradleReleaseChannel = "current"
-    outputFormatter = "plain"
-    outputDir = "build"
-    reportfileName = "dependencyUpdatesReport"
-    revision = "release"
-}
 
 fun isNonStable(version: String): Boolean {
     if (listOf("RELEASE", "FINAL", "GA").any { version.toUpperCase().endsWith(it) }) {

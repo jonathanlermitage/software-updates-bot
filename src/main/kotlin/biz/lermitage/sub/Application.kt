@@ -18,7 +18,7 @@ import java.lang.management.ManagementFactory
 
 @SpringBootApplication
 @EnableConfigurationProperties(LocalAppConf::class)
-class SoftwareUpdatesBotApplication : CommandLineRunner {
+class Application : CommandLineRunner {
 
     private val logger = LoggerFactory.getLogger(this.javaClass)
 
@@ -37,6 +37,7 @@ class SoftwareUpdatesBotApplication : CommandLineRunner {
     @Autowired
     lateinit var statusReporter: StatusReporter
 
+    @Suppress("TooGenericExceptionCaught") // we want to catch all exceptions to skip bad reports
     override fun run(vararg args: String?) {
         logGCStats()
         logMemoryStats()
@@ -104,6 +105,7 @@ class SoftwareUpdatesBotApplication : CommandLineRunner {
     }
 }
 
+@Suppress("SpreadOperator")
 fun main(args: Array<String>) {
-    runApplication<SoftwareUpdatesBotApplication>(*args)
+    runApplication<Application>(*args)
 }

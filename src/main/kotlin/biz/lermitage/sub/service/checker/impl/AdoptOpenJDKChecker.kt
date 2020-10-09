@@ -30,9 +30,9 @@ abstract class AdoptOpenJDKChecker(
         val apiResponse = Gson().fromJson(json, Array<AdoptOpenJdkApiResponse>::class.java)
         val version = apiResponse.toList().find { apiResponseElt: AdoptOpenJdkApiResponse ->
             apiResponseElt.binary.os.equals(os, true)
-                && apiResponseElt.binary.image_type.equals(imageType, true)
+                && apiResponseElt.binary.imageType.equals(imageType, true)
                 && apiResponseElt.binary.architecture.equals(architecture, true)
-        }!!.release_name
+        }!!.releaseName
 
         return SoftwareUpdate(
             listOf(Category.JAVA.label, Category.JDK.label, Category.ADOPT_OPEN_JDK.label),

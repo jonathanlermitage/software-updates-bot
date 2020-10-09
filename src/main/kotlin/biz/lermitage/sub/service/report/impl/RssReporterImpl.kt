@@ -5,7 +5,12 @@ import biz.lermitage.sub.conf.LocalAppConf
 import biz.lermitage.sub.model.Category
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.report.Reporter
-import com.rometools.rome.feed.synd.*
+import com.rometools.rome.feed.synd.SyndCategoryImpl
+import com.rometools.rome.feed.synd.SyndContentImpl
+import com.rometools.rome.feed.synd.SyndEntry
+import com.rometools.rome.feed.synd.SyndEntryImpl
+import com.rometools.rome.feed.synd.SyndFeed
+import com.rometools.rome.feed.synd.SyndFeedImpl
 import com.rometools.rome.io.SyndFeedOutput
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service

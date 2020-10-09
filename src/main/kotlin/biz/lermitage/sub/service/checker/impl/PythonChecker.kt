@@ -20,7 +20,7 @@ abstract class PythonChecker(private val platformId: String,
     lateinit var scrapper: Scrapper
 
     override fun check(): SoftwareUpdate {
-        val body = scrapper.fetchHtml("https://www.python.org/downloads/${platformId}/")
+        val body = scrapper.fetchHtml("https://www.python.org/downloads/$platformId/")
         val versionPrefix = "latest python $majorVersion release - python"
         val version = body.getElementsByAttributeValueStarting("href", "/downloads")
             .stream()
@@ -31,7 +31,7 @@ abstract class PythonChecker(private val platformId: String,
         return SoftwareUpdate(
             listOf(Category.PYTHON.label),
             "Python $majorVersion $platformName",
-            "https://www.python.org/downloads/${platformId}/",
+            "https://www.python.org/downloads/$platformId/",
             version)
     }
 }

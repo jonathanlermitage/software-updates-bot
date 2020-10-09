@@ -44,10 +44,10 @@ class MarkdownReporterImpl(private val conf: LocalAppConf) : Reporter {
             if (shortWebsite.contains("/")) {
                 shortWebsite = shortWebsite.subSequence(0, shortWebsite.indexOf("/")).toString()
             }
-            lines.add("|${su.name}|${su.version}|[${shortWebsite}](${su.website})|${su.checkDate}|")
+            lines.add("|${su.name}|${su.version}|[$shortWebsite](${su.website})|${su.checkDate}|")
         }
 
         FileUtils.writeLines(reportFile, Globals.reportCharset().name(), lines)
-        logger.info("saved Markdown report file to: ${reportFile.absolutePath}")
+        logger.info("saved Markdown report file to: $reportFile.absolutePath")
     }
 }

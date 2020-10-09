@@ -4,7 +4,11 @@ import biz.lermitage.sub.Globals
 import biz.lermitage.sub.conf.LocalAppConf
 import biz.lermitage.sub.model.DetailedException
 import biz.lermitage.sub.service.report.StatusReporter
-import com.rometools.rome.feed.synd.*
+import com.rometools.rome.feed.synd.SyndContentImpl
+import com.rometools.rome.feed.synd.SyndEntry
+import com.rometools.rome.feed.synd.SyndEntryImpl
+import com.rometools.rome.feed.synd.SyndFeed
+import com.rometools.rome.feed.synd.SyndFeedImpl
 import com.rometools.rome.io.SyndFeedOutput
 import org.apache.commons.io.FileUtils
 import org.apache.commons.lang3.exception.ExceptionUtils

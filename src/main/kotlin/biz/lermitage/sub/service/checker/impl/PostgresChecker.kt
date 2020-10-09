@@ -17,7 +17,7 @@ abstract class PostgresChecker(private val majorVersion: String) : Checker {
 
     override fun check(): SoftwareUpdate {
         val body = scrapper.fetchHtml("https://www.postgresql.org/ftp/source/")
-        val version = body.getElementsByAttributeValueStarting("href", "v${majorVersion}.")[0].attr("href")
+        val version = body.getElementsByAttributeValueStarting("href", "v$majorVersion.")[0].attr("href")
             .replace("v", "").replace("/", "")
 
         return SoftwareUpdate(
