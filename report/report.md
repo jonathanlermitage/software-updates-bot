@@ -13,7 +13,7 @@
 |AdoptOpenJDK jdk8 linux x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:38 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:39 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:40 CEST 2020|
-|Gradle|6.6.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 25 19:00:40 CEST 2020|
+|Gradle|6.7|[gradle.org](https://gradle.org/releases/)|Wed Oct 14 19:00:45 CEST 2020|
 |Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 239 - Interview Rust avec François Teychene, Sylvain Wallez et Geoffroy Couprie|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Oct 05 16:00:49 CEST 2020|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|

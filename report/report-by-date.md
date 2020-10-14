@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Gradle|6.7|[gradle.org](https://gradle.org/releases/)|Wed Oct 14 19:00:45 CEST 2020|
 |NodeJS Current|v14.13.1|[nodejs.org](https://nodejs.org)|Thu Oct 08 00:00:59 CEST 2020|
 |MariaDB 10.5|10.5.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:56 CEST 2020|
 |MariaDB 10.4|10.4.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:55 CEST 2020|
@@ -23,7 +24,6 @@
 |AdoptOpenJDK jdk15 linux x64|jdk-15+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sun Sep 20 02:00:37 CEST 2020|
 |Spring Boot|2.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 17 18:01:11 CEST 2020|
 |Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
-|Gradle|6.6.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 25 19:00:40 CEST 2020|
 |7+ Taskbar Tweaker|v5.9.1 (August 24, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Mon Aug 24 13:01:07 CEST 2020|
 |PostgreSQL 9.6|9.6.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:05 CEST 2020|
 |PostgreSQL 9.5|9.5.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:04 CEST 2020|
