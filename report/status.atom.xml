@@ -3,18 +3,70 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2020-10-15T03:01:34Z</modified>
+  <modified>2020-10-15T09:01:36Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2020-10-15T03:01:34Z</dc:date>
+  <dc:date>2020-10-15T09:01:36Z</dc:date>
   <entry>
-    <title>OK -- Thu Oct 15 05:01:34 CEST 2020</title>
+    <title>FAILED -- Thu Oct 15 11:01:36 CEST 2020</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2020-10-15T03:01:34Z</modified>
-    <issued>2020-10-15T03:01:34Z</issued>
-    <summary type="text/html" mode="escaped">OK</summary>
-    <dc:date>2020-10-15T03:01:34Z</dc:date>
+    <modified>2020-10-15T09:01:36Z</modified>
+    <issued>2020-10-15T09:01:36Z</issued>
+    <summary type="text/html" mode="escaped">FAILED
+
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.MavenChecker failed, ignoring
+javax.net.ssl.SSLException: Couldn't kickstart handshaking
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:127)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:326)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:269)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:450)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:411)
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:567)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:168)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:732)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:25)
+	at biz.lermitage.sub.service.checker.impl.MavenChecker.check(MavenChecker.kt:20)
+	at biz.lermitage.sub.Application.run(Application.kt:50)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:795)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:779)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:322)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:113)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:109)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+	Suppressed: java.net.SocketException: Relais brisé (pipe) (Write failed)
+		at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+		at java.base/java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:110)
+		at java.base/java.net.SocketOutputStream.write(SocketOutputStream.java:150)
+		at java.base/sun.security.ssl.SSLSocketOutputRecord.encodeAlert(SSLSocketOutputRecord.java:81)
+		at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:357)
+		... 26 more
+Caused by: java.net.SocketException: Connexion ré-initialisée par le correspondant (Write failed)
+	at java.base/java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.base/java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:110)
+	at java.base/java.net.SocketOutputStream.write(SocketOutputStream.java:150)
+	at java.base/sun.security.ssl.SSLSocketOutputRecord.flush(SSLSocketOutputRecord.java:251)
+	at java.base/sun.security.ssl.HandshakeOutStream.flush(HandshakeOutStream.java:89)
+	at java.base/sun.security.ssl.ClientHello$ClientHelloKickstartProducer.produce(ClientHello.java:658)
+	at java.base/sun.security.ssl.SSLHandshake.kickstart(SSLHandshake.java:525)
+	at java.base/sun.security.ssl.ClientHandshakeContext.kickstart(ClientHandshakeContext.java:107)
+	at java.base/sun.security.ssl.TransportContext.kickstart(TransportContext.java:233)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:433)
+	... 24 more
+
+&lt;/pre&gt;</summary>
+    <dc:date>2020-10-15T09:01:36Z</dc:date>
   </entry>
 </feed>
