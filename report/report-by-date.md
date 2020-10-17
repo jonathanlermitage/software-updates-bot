@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Les Cast Codeurs (French podcast)|LCC 240 - Fuseaux horaires - la fontaine à bogues|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 17 16:00:49 CEST 2020|
 |NodeJS Current|v14.14.0|[nodejs.org](https://nodejs.org)|Fri Oct 16 03:01:00 CEST 2020|
 |Gradle|6.7|[gradle.org](https://gradle.org/releases/)|Wed Oct 14 19:00:45 CEST 2020|
 |MariaDB 10.5|10.5.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:56 CEST 2020|
@@ -12,7 +13,6 @@
 |Python 3 windows| 3.9.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 05 19:01:17 CEST 2020|
 |Python 3 source| 3.9.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 05 19:01:16 CEST 2020|
 |Python 3 mac| 3.9.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 05 19:01:15 CEST 2020|
-|Les Cast Codeurs (French podcast)|LCC 239 - Interview Rust avec François Teychene, Sylvain Wallez et Geoffroy Couprie|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Oct 05 16:00:49 CEST 2020|
 |Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
 |Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
 |Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
