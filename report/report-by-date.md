@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v15.0.0|[nodejs.org](https://nodejs.org)|Tue Oct 20 17:01:03 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 240 - Fuseaux horaires - la fontaine à bogues|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 17 16:00:49 CEST 2020|
-|NodeJS Current|v14.14.0|[nodejs.org](https://nodejs.org)|Fri Oct 16 03:01:00 CEST 2020|
 |Gradle|6.7|[gradle.org](https://gradle.org/releases/)|Wed Oct 14 19:00:45 CEST 2020|
 |MariaDB 10.5|10.5.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:56 CEST 2020|
 |MariaDB 10.4|10.4.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:55 CEST 2020|
