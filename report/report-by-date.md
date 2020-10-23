@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|AdoptOpenJDK jdk8 windows x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:44 CEST 2020|
+|AdoptOpenJDK jdk8 mac x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:43 CEST 2020|
+|AdoptOpenJDK jdk8 linux x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:42 CEST 2020|
 |NodeJS Current|v15.0.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:01:01 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 240 - Fuseaux horaires - la fontaine à bogues|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 17 16:00:49 CEST 2020|
 |Gradle|6.7|[gradle.org](https://gradle.org/releases/)|Wed Oct 14 19:00:45 CEST 2020|
@@ -30,9 +33,6 @@
 |PostgreSQL 12|12.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:02 CEST 2020|
 |PostgreSQL 11|11.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:01 CEST 2020|
 |PostgreSQL 10|10.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:00 CEST 2020|
-|AdoptOpenJDK jdk8 windows x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:40 CEST 2020|
-|AdoptOpenJDK jdk8 mac x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:39 CEST 2020|
-|AdoptOpenJDK jdk8 linux x64|jdk8u265-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 30 11:00:38 CEST 2020|
 |AdoptOpenJDK jdk14 windows x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:36 CEST 2020|
 |AdoptOpenJDK jdk14 mac x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:35 CEST 2020|
 |AdoptOpenJDK jdk14 linux x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:34 CEST 2020|
