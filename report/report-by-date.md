@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|AdoptOpenJDK jdk11 windows x64|jdk-11.0.9+11.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Oct 25 20:00:30 CET 2020|
+|AdoptOpenJDK jdk11 mac x64|jdk-11.0.9+11.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Oct 25 20:00:29 CET 2020|
+|AdoptOpenJDK jdk11 linux x64|jdk-11.0.9+11.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Oct 25 20:00:28 CET 2020|
 |AdoptOpenJDK jdk15 windows x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:38 CEST 2020|
 |AdoptOpenJDK jdk15 mac x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:37 CEST 2020|
 |AdoptOpenJDK jdk15 linux x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:36 CEST 2020|
-|AdoptOpenJDK jdk11 windows x64|jdk-11.0.9+11|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Oct 24 06:00:31 CEST 2020|
-|AdoptOpenJDK jdk11 mac x64|jdk-11.0.9+11|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Oct 24 06:00:29 CEST 2020|
-|AdoptOpenJDK jdk11 linux x64|jdk-11.0.9+11|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Oct 24 06:00:28 CEST 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:44 CEST 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:43 CEST 2020|
 |AdoptOpenJDK jdk8 linux x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:42 CEST 2020|
