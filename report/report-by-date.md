@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS LTS|v14.15.0|[nodejs.org](https://nodejs.org)|Tue Oct 27 18:01:03 CET 2020|
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.9+11.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Oct 25 20:00:30 CET 2020|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.9+11.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Oct 25 20:00:29 CET 2020|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.9+11.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Oct 25 20:00:28 CET 2020|
@@ -18,7 +19,6 @@
 |MariaDB 10.2|10.2.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:53 CEST 2020|
 |MariaDB 10.1|10.1.47|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:52 CEST 2020|
 |VeraCrypt|1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Oct 07 00:01:29 CEST 2020|
-|NodeJS LTS|v12.19.0|[nodejs.org](https://nodejs.org)|Tue Oct 06 23:01:00 CEST 2020|
 |Python 3 windows| 3.9.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 05 19:01:17 CEST 2020|
 |Python 3 source| 3.9.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 05 19:01:16 CEST 2020|
 |Python 3 mac| 3.9.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 05 19:01:15 CEST 2020|
