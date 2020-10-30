@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Spring Boot|2.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Fri Oct 30 01:01:31 CET 2020|
 |NodeJS LTS|v14.15.0|[nodejs.org](https://nodejs.org)|Tue Oct 27 18:01:03 CET 2020|
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.9+11.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Oct 25 20:00:30 CET 2020|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.9+11.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Oct 25 20:00:29 CET 2020|
@@ -28,7 +29,6 @@
 |RHEL7Minimal|7.9-193|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:19 CEST 2020|
 |RHEL7|7.9-189|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:17 CEST 2020|
 |PostgreSQL 13|13.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Sep 26 00:01:06 CEST 2020|
-|Spring Boot|2.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 17 18:01:11 CEST 2020|
 |Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
 |7+ Taskbar Tweaker|v5.9.1 (August 24, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Mon Aug 24 13:01:07 CEST 2020|
 |PostgreSQL 9.6|9.6.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:05 CEST 2020|
