@@ -61,8 +61,9 @@ tasks {
     }
     withType<KotlinCompile> {
         kotlinOptions {
+            javaParameters = true
             freeCompilerArgs = listOf("-Xjsr305=strict")
-            jvmTarget = "1.8"
+            jvmTarget = JavaVersion.VERSION_1_8.toString()
         }
     }
     withType<DependencyUpdatesTask> {
@@ -74,10 +75,9 @@ tasks {
         revision = "release"
     }
     withType<Detekt> {
-        jvmTarget = "1.8"
+        jvmTarget = JavaVersion.VERSION_1_8.toString()
     }
 }
-
 
 fun isNonStable(version: String): Boolean {
     if (listOf("RELEASE", "FINAL", "GA").any { version.toUpperCase().endsWith(it) }) {
