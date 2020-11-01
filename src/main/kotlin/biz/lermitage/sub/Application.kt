@@ -15,6 +15,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.boot.runApplication
 import java.lang.management.ManagementFactory
+import java.util.*
+import kotlin.collections.ArrayList
 
 @SpringBootApplication
 @EnableConfigurationProperties(LocalAppConf::class)
@@ -42,10 +44,10 @@ class Application : CommandLineRunner {
         logGCStats()
         logMemoryStats()
 
-        val latestUpdates = ArrayList<SoftwareUpdate>()
+        val latestUpdates = Collections.synchronizedList(ArrayList<SoftwareUpdate>())
         val errors = ArrayList<DetailedException>()
 
-        checkers.forEach { checker: Checker ->
+        checkers.parallelStream().forEach { checker: Checker ->
             try {
                 val check = checker.check()
                 logger.info("fetched $check")
