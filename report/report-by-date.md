@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Les Cast Codeurs (French podcast)|LCC 241 - Interview Cloud IDE avec Sun Tan et Marc Dumais|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 02 15:00:36 CET 2020|
 |7+ Taskbar Tweaker|v5.10 (October 30, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Fri Oct 30 15:01:29 CET 2020|
 |Spring Boot|2.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Fri Oct 30 01:01:31 CET 2020|
 |NodeJS LTS|v14.15.0|[nodejs.org](https://nodejs.org)|Tue Oct 27 18:01:03 CET 2020|
@@ -13,7 +14,6 @@
 |AdoptOpenJDK jdk8 mac x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:43 CEST 2020|
 |AdoptOpenJDK jdk8 linux x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:42 CEST 2020|
 |NodeJS Current|v15.0.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:01:01 CEST 2020|
-|Les Cast Codeurs (French podcast)|LCC 240 - Fuseaux horaires - la fontaine à bogues|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 17 16:00:49 CEST 2020|
 |Gradle|6.7|[gradle.org](https://gradle.org/releases/)|Wed Oct 14 19:00:45 CEST 2020|
 |MariaDB 10.5|10.5.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:56 CEST 2020|
 |MariaDB 10.4|10.4.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:55 CEST 2020|
