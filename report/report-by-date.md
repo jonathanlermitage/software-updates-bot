@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|MariaDB 10.3|10.3.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:48 CET 2020|
+|MariaDB 10.2|10.2.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:47 CET 2020|
+|MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
+|MariaDB 10.5|10.5.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:44 CET 2020|
+|MariaDB 10.4|10.4.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:43 CET 2020|
 |Les Cast Codeurs (French podcast)|LCC 241 - Interview Cloud IDE avec Sun Tan et Marc Dumais|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 02 15:00:36 CET 2020|
 |7+ Taskbar Tweaker|v5.10 (October 30, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Fri Oct 30 15:01:29 CET 2020|
 |Spring Boot|2.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Fri Oct 30 01:01:31 CET 2020|
@@ -15,11 +20,6 @@
 |AdoptOpenJDK jdk8 linux x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:42 CEST 2020|
 |NodeJS Current|v15.0.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:01:01 CEST 2020|
 |Gradle|6.7|[gradle.org](https://gradle.org/releases/)|Wed Oct 14 19:00:45 CEST 2020|
-|MariaDB 10.5|10.5.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:56 CEST 2020|
-|MariaDB 10.4|10.4.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:55 CEST 2020|
-|MariaDB 10.3|10.3.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:54 CEST 2020|
-|MariaDB 10.2|10.2.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:53 CEST 2020|
-|MariaDB 10.1|10.1.47|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Oct 07 18:00:52 CEST 2020|
 |VeraCrypt|1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Oct 07 00:01:29 CEST 2020|
 |Python 3 windows| 3.9.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 05 19:01:17 CEST 2020|
 |Python 3 source| 3.9.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 05 19:01:16 CEST 2020|
