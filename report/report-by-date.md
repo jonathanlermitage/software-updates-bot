@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v15.2.0|[nodejs.org](https://nodejs.org)|Wed Nov 11 00:00:36 CET 2020|
 |RHEL7Minimal|7.9-228|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 10 19:00:37 CET 2020|
 |RHEL7|7.9-224|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 10 19:00:34 CET 2020|
-|NodeJS Current|v15.1.0|[nodejs.org](https://nodejs.org)|Wed Nov 04 22:00:40 CET 2020|
 |MariaDB 10.3|10.3.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:48 CET 2020|
 |MariaDB 10.2|10.2.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:47 CET 2020|
 |MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
