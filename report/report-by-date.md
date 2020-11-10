@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|RHEL7Minimal|7.9-228|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 10 19:00:37 CET 2020|
+|RHEL7|7.9-224|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 10 19:00:34 CET 2020|
 |NodeJS Current|v15.1.0|[nodejs.org](https://nodejs.org)|Wed Nov 04 22:00:40 CET 2020|
 |MariaDB 10.3|10.3.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:48 CET 2020|
 |MariaDB 10.2|10.2.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:47 CET 2020|
@@ -27,8 +29,6 @@
 |Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
 |Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
 |Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
-|RHEL7Minimal|7.9-193|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:19 CEST 2020|
-|RHEL7|7.9-189|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 30 12:01:17 CEST 2020|
 |PostgreSQL 13|13.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Sep 26 00:01:06 CEST 2020|
 |Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
 |PostgreSQL 9.6|9.6.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:05 CEST 2020|
