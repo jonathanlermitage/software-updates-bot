@@ -1,13 +1,13 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|MariaDB 10.3|10.3.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:42 CET 2020|
+|MariaDB 10.2|10.2.36|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:41 CET 2020|
+|MariaDB 10.5|10.5.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:38 CET 2020|
+|MariaDB 10.4|10.4.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:37 CET 2020|
 |NodeJS Current|v15.2.0|[nodejs.org](https://nodejs.org)|Wed Nov 11 00:00:36 CET 2020|
 |RHEL7Minimal|7.9-228|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 10 19:00:37 CET 2020|
 |RHEL7|7.9-224|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 10 19:00:34 CET 2020|
-|MariaDB 10.3|10.3.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:48 CET 2020|
-|MariaDB 10.2|10.2.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:47 CET 2020|
 |MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
-|MariaDB 10.5|10.5.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:44 CET 2020|
-|MariaDB 10.4|10.4.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:43 CET 2020|
 |Les Cast Codeurs (French podcast)|LCC 241 - Interview Cloud IDE avec Sun Tan et Marc Dumais|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 02 15:00:36 CET 2020|
 |7+ Taskbar Tweaker|v5.10 (October 30, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Fri Oct 30 15:01:29 CET 2020|
 |Spring Boot|2.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Fri Oct 30 01:01:31 CET 2020|

@@ -18,10 +18,10 @@
 |Les Cast Codeurs (French podcast)|LCC 241 - Interview Cloud IDE avec Sun Tan et Marc Dumais|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 02 15:00:36 CET 2020|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
-|MariaDB 10.2|10.2.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:47 CET 2020|
-|MariaDB 10.3|10.3.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:48 CET 2020|
-|MariaDB 10.4|10.4.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:43 CET 2020|
-|MariaDB 10.5|10.5.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:44 CET 2020|
+|MariaDB 10.2|10.2.36|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:41 CET 2020|
+|MariaDB 10.3|10.3.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:42 CET 2020|
+|MariaDB 10.4|10.4.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:37 CET 2020|
+|MariaDB 10.5|10.5.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:38 CET 2020|
 |MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
 |NodeJS Current|v15.2.0|[nodejs.org](https://nodejs.org)|Wed Nov 11 00:00:36 CET 2020|
