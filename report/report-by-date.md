@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|AdoptOpenJDK jdk8 mac x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:41 CET 2020|
+|AdoptOpenJDK jdk8 linux x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:40 CET 2020|
+|AdoptOpenJDK jdk8 windows x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:34 CET 2020|
 |MariaDB 10.3|10.3.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:42 CET 2020|
 |MariaDB 10.2|10.2.36|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:41 CET 2020|
 |MariaDB 10.5|10.5.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:38 CET 2020|
@@ -18,9 +21,6 @@
 |AdoptOpenJDK jdk15 windows x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:38 CEST 2020|
 |AdoptOpenJDK jdk15 mac x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:37 CEST 2020|
 |AdoptOpenJDK jdk15 linux x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:36 CEST 2020|
-|AdoptOpenJDK jdk8 windows x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:44 CEST 2020|
-|AdoptOpenJDK jdk8 mac x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:43 CEST 2020|
-|AdoptOpenJDK jdk8 linux x64|jdk8u272-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 23 20:00:42 CEST 2020|
 |Gradle|6.7|[gradle.org](https://gradle.org/releases/)|Wed Oct 14 19:00:45 CEST 2020|
 |VeraCrypt|1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Oct 07 00:01:29 CEST 2020|
 |Python 3 windows| 3.9.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 05 19:01:17 CEST 2020|
