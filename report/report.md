@@ -26,13 +26,13 @@
 |Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
 |NodeJS Current|v15.2.0|[nodejs.org](https://nodejs.org)|Wed Nov 11 00:00:36 CET 2020|
 |NodeJS LTS|v14.15.0|[nodejs.org](https://nodejs.org)|Tue Oct 27 18:01:03 CET 2020|
-|PostgreSQL 10|10.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:00 CEST 2020|
-|PostgreSQL 11|11.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:01 CEST 2020|
-|PostgreSQL 12|12.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:02 CEST 2020|
-|PostgreSQL 13|13.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Sep 26 00:01:06 CEST 2020|
+|PostgreSQL 10|10.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:30 CET 2020|
+|PostgreSQL 11|11.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:31 CET 2020|
+|PostgreSQL 12|12.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:29 CET 2020|
+|PostgreSQL 13|13.1|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:30 CET 2020|
 |PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 CEST 2020|
-|PostgreSQL 9.5|9.5.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:04 CEST 2020|
-|PostgreSQL 9.6|9.6.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 15:01:05 CEST 2020|
+|PostgreSQL 9.5|9.5.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:33 CET 2020|
+|PostgreSQL 9.6|9.6.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:34 CET 2020|
 |Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
 |Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
 |Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
