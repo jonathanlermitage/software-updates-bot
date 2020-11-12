@@ -1,6 +1,6 @@
 FAILED
 
-<pre>checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
+<pre>checker class biz.lermitage.sub.service.checker.impl.RHEL7Checker failed, ignoring
 java.net.SocketTimeoutException: Read timed out
 	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
 	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
@@ -23,8 +23,9 @@ java.net.SocketTimeoutException: Read timed out
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:736)
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
 	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:25)
-	at biz.lermitage.sub.service.checker.impl.SevenTTChecker.check(SevenTTChecker.kt:20)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:286)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:39)
+	at biz.lermitage.sub.service.checker.impl.RHEL7Checker.check(RHEL7Checker.kt:25)
 	at biz.lermitage.sub.Application$run$1.accept(Application.kt:52)
 	at biz.lermitage.sub.Application$run$1.accept(Application.kt:23)
 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
