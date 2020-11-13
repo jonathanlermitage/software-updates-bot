@@ -4,8 +4,8 @@
 |PostgreSQL 9.6|9.6.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:34 CET 2020|
 |PostgreSQL 9.5|9.5.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:33 CET 2020|
 |PostgreSQL 11|11.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:31 CET 2020|
-|PostgreSQL 10|10.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:30 CET 2020|
 |PostgreSQL 13|13.1|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:30 CET 2020|
+|PostgreSQL 10|10.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:30 CET 2020|
 |PostgreSQL 12|12.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:29 CET 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:41 CET 2020|
 |AdoptOpenJDK jdk8 linux x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:40 CET 2020|
