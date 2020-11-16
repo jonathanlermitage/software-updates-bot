@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Gradle|6.7.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 16 19:00:45 CET 2020|
 |NodeJS LTS|v14.15.1|[nodejs.org](https://nodejs.org)|Mon Nov 16 18:01:01 CET 2020|
 |NodeJS Current|v15.2.1|[nodejs.org](https://nodejs.org)|Mon Nov 16 18:01:00 CET 2020|
 |Spring Boot|2.4.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 12 18:00:40 CET 2020|
@@ -27,7 +28,6 @@
 |AdoptOpenJDK jdk15 windows x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:38 CEST 2020|
 |AdoptOpenJDK jdk15 mac x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:37 CEST 2020|
 |AdoptOpenJDK jdk15 linux x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:36 CEST 2020|
-|Gradle|6.7|[gradle.org](https://gradle.org/releases/)|Wed Oct 14 19:00:45 CEST 2020|
 |VeraCrypt|1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Oct 07 00:01:29 CEST 2020|
 |Python 3 windows| 3.9.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 05 19:01:17 CEST 2020|
 |Python 3 source| 3.9.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 05 19:01:16 CEST 2020|
