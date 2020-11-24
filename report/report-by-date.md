@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v15.3.0|[nodejs.org](https://nodejs.org)|Tue Nov 24 18:01:00 CET 2020|
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:36 CET 2020|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:35 CET 2020|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:34 CET 2020|
 |Les Cast Codeurs (French podcast)|LCC 242 - Les Applets, 20 ans trop tôt|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Nov 17 09:00:48 CET 2020|
 |Gradle|6.7.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 16 19:00:45 CET 2020|
 |NodeJS LTS|v14.15.1|[nodejs.org](https://nodejs.org)|Mon Nov 16 18:01:01 CET 2020|
-|NodeJS Current|v15.2.1|[nodejs.org](https://nodejs.org)|Mon Nov 16 18:01:00 CET 2020|
 |Spring Boot|2.4.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 12 18:00:40 CET 2020|
 |PostgreSQL 9.6|9.6.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:34 CET 2020|
 |PostgreSQL 9.5|9.5.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:33 CET 2020|
