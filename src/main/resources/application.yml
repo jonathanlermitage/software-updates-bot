@@ -1,6 +1,6 @@
 spring:
   application.name: "software-updates-bot"
-  main.banner-mode: off
+  main.banner-mode: log
 logging:
   level.root: INFO
   file.path: "logs/"
