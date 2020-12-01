@@ -5,11 +5,11 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 val detektVersion = "1.14.2"
 
 plugins {
-    val kotlinVersion = "1.4.10"
+    val kotlinVersion = "1.4.20"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "2.3.5.RELEASE"
+    id("org.springframework.boot") version "2.3.6.RELEASE"
     id("io.spring.dependency-management") version "1.0.10.RELEASE"
     id("com.github.ben-manes.versions") version "0.33.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
