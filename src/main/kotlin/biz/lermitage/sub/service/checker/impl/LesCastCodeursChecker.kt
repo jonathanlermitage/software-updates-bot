@@ -18,7 +18,7 @@ class LesCastCodeursChecker : Checker {
 
     override fun check(): SoftwareUpdate {
         val body = scrapper.fetchHtml("https://lescastcodeurs.com")
-        val version = body.getElementsByClass("blog-post-title")[0].text()
+        val version = body.getElementsByClass("card-title")[0].text()
 
         return SoftwareUpdate(
             listOf(Category.PODCAST.label),
