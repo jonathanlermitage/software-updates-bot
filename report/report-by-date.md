@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Spring Boot|2.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Dec 11 10:01:30 CET 2020|
 |NodeJS Current|v15.4.0|[nodejs.org](https://nodejs.org)|Wed Dec 09 16:01:01 CET 2020|
 |Python 3 windows| 3.9.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 08 01:01:19 CET 2020|
 |Python 3 source| 3.9.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 08 01:01:18 CET 2020|
@@ -12,7 +13,6 @@
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:34 CET 2020|
 |Gradle|6.7.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 16 19:00:45 CET 2020|
 |NodeJS LTS|v14.15.1|[nodejs.org](https://nodejs.org)|Mon Nov 16 18:01:01 CET 2020|
-|Spring Boot|2.4.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 12 18:00:40 CET 2020|
 |PostgreSQL 9.6|9.6.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:34 CET 2020|
 |PostgreSQL 9.5|9.5.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:33 CET 2020|
 |PostgreSQL 11|11.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:31 CET 2020|

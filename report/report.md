@@ -41,6 +41,6 @@
 |Python 3 windows| 3.9.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 08 01:01:19 CET 2020|
 |RHEL7|7.9-224|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 10 19:00:34 CET 2020|
 |RHEL7Minimal|7.9-228|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 10 19:00:37 CET 2020|
-|Spring Boot|2.4.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 12 18:00:40 CET 2020|
+|Spring Boot|2.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Dec 11 10:01:30 CET 2020|
 |VLC|3.0.11|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Jun 16 19:01:03 CEST 2020|
 |VeraCrypt|Latest Stable Release For MacOSX 10.9 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Nov 29 02:01:29 CET 2020|
