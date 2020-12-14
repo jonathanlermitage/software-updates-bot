@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Les Cast Codeurs (French podcast)|LCC 244 - L'épisode maudit|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Dec 14 19:00:50 CET 2020|
 |VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 CET 2020|
 |Spring Boot|2.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Dec 11 10:01:30 CET 2020|
 |NodeJS Current|v15.4.0|[nodejs.org](https://nodejs.org)|Wed Dec 09 16:01:01 CET 2020|
 |Python 3 windows| 3.9.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 08 01:01:19 CET 2020|
 |Python 3 source| 3.9.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 08 01:01:18 CET 2020|
 |Python 3 mac| 3.9.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 08 01:01:16 CET 2020|
-|Les Cast Codeurs (French podcast)|LCC 243 - Interview SRE avec Nicolas Helleringer et Maxime Brugidou - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Dec 04 10:00:50 CET 2020|
 |AdoptOpenJDK jdk15 mac x64|jdk-15.0.1+9.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Tue Dec 01 23:00:38 CET 2020|
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:36 CET 2020|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:35 CET 2020|
