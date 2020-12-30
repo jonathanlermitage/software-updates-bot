@@ -1,6 +1,6 @@
 #!/bin/bash
 
-java -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
+java -Xmx64m -XX:MaxMetaspaceSize=64m -XX:MaxRAM=64m -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
 date >> logs/git.log
 git add report/report.json report/report.md report/report-by-date.md report/report.rss.xml report/report.atom.xml >> logs/git.log
 git add report/status.md report/status.rss.xml report/status.atom.xml >> logs/git.log
