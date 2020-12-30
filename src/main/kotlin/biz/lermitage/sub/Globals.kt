@@ -14,7 +14,8 @@ object Globals {
     /** JSON parser used to load and save reports. */
     fun gsonForReport(): Gson = GsonBuilder()
         .setPrettyPrinting()
-        //.setDateFormat("YYYY/MM/dd:HH:mm:ss Z")
+        // force date format because Linux and Windows seem to have different default Gson date format
+        .setDateFormat("MMM d, yyyy, h:mm:ss a")
         .disableHtmlEscaping()
         .create()
 
