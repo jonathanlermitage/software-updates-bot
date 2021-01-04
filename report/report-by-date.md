@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Les Cast Codeurs (French podcast)|LCC 245 - Interview SRE avec Nicolas Helleringer et Maxime Brugidou - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 04 18:00:45 CET 2021|
 |NodeJS Current|v15.5.0|[nodejs.org](https://nodejs.org)|Tue Dec 22 22:01:24 CET 2020|
 |NodeJS LTS|v14.15.3|[nodejs.org](https://nodejs.org)|Fri Dec 18 01:01:01 CET 2020|
 |RHEL7Minimal|7.9-260|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Dec 17 21:01:25 CET 2020|
 |RHEL7|7.9-249|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 15 21:01:25 CET 2020|
-|Les Cast Codeurs (French podcast)|LCC 244 - L'épisode maudit|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Dec 14 19:00:50 CET 2020|
 |VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 CET 2020|
 |Spring Boot|2.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Dec 11 10:01:30 CET 2020|
 |Python 3 windows| 3.9.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 08 01:01:19 CET 2020|
