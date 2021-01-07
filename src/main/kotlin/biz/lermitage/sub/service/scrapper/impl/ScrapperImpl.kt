@@ -16,7 +16,7 @@ class ScrapperImpl : Scrapper {
     val fetchFinalCache = ConcurrentHashMap<String, Element>()
     val fetchSimpleTextCache = ConcurrentHashMap<String, String>()
 
-    @Retryable(maxAttempts = 3, backoff = Backoff(delay = 5000), include = [IOException::class])
+    @Retryable(maxAttempts = 3, backoff = Backoff(delay = 10_000), include = [IOException::class])
     override fun fetchHtml(url: String): Element {
         Thread.sleep(1000)
         if (fetchFinalCache.containsKey(url)) {
@@ -31,7 +31,7 @@ class ScrapperImpl : Scrapper {
         return res
     }
 
-    @Retryable(maxAttempts = 3, backoff = Backoff(delay = 5000), include = [IOException::class])
+    @Retryable(maxAttempts = 3, backoff = Backoff(delay = 10_000), include = [IOException::class])
     override fun fetchText(url: String): String {
         Thread.sleep(1000)
         if (fetchSimpleTextCache.containsKey(url)) {
