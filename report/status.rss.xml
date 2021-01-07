@@ -4,15 +4,138 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Thu, 07 Jan 2021 09:01:28 GMT</pubDate>
+    <pubDate>Thu, 07 Jan 2021 15:01:45 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2021-01-07T09:01:28Z</dc:date>
+    <dc:date>2021-01-07T15:01:45Z</dc:date>
     <item>
-      <title>OK -- Thu Jan 07 10:01:28 CET 2021</title>
-      <description>OK</description>
-      <pubDate>Thu, 07 Jan 2021 09:01:28 GMT</pubDate>
+      <title>FAILED -- Thu Jan 07 16:01:45 CET 2021</title>
+      <description>FAILED
+
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.AdoptOpenJDK14LinuxChecker failed, ignoring
+java.io.IOException: Premature EOF
+	at java.base/sun.net.www.http.ChunkedInputStream.readAheadBlocking(ChunkedInputStream.java:565)
+	at java.base/sun.net.www.http.ChunkedInputStream.readAhead(ChunkedInputStream.java:609)
+	at java.base/sun.net.www.http.ChunkedInputStream.read(ChunkedInputStream.java:696)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read(HttpURLConnection.java:3510)
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:243)
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159)
+	at java.base/java.util.zip.GZIPInputStream.read(GZIPInputStream.java:118)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at org.jsoup.internal.ConstrainableInputStream.read(ConstrainableInputStream.java:64)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:185)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.base/java.io.BufferedReader.read1(BufferedReader.java:212)
+	at java.base/java.io.BufferedReader.read(BufferedReader.java:287)
+	at org.jsoup.parser.CharacterReader.bufferUp(CharacterReader.java:81)
+	at org.jsoup.parser.CharacterReader.&lt;init&gt;(CharacterReader.java:37)
+	at org.jsoup.parser.CharacterReader.&lt;init&gt;(CharacterReader.java:41)
+	at org.jsoup.parser.TreeBuilder.initialiseParse(TreeBuilder.java:38)
+	at org.jsoup.parser.HtmlTreeBuilder.initialiseParse(HtmlTreeBuilder.java:65)
+	at org.jsoup.parser.TreeBuilder.parse(TreeBuilder.java:46)
+	at org.jsoup.parser.Parser.parseInput(Parser.java:35)
+	at org.jsoup.helper.DataUtil.parseInputStream(DataUtil.java:175)
+	at org.jsoup.helper.HttpConnection$Response.parse(HttpConnection.java:835)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:287)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:39)
+	at biz.lermitage.sub.service.checker.impl.AdoptOpenJDKChecker.check(AdoptOpenJDKChecker.kt:28)
+	at biz.lermitage.sub.Application.run(Application.kt:50)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:788)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:333)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1298)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:113)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:107)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+checker class biz.lermitage.sub.service.checker.impl.AdoptOpenJDK15LinuxChecker failed, ignoring
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=503, URL=https://api.adoptopenjdk.net/v3/assets/latest/15/hotspot?release=latest&amp;jvm_impl=hotspot&amp;vendor=adoptopenjdk&amp;
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:762)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:286)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:39)
+	at biz.lermitage.sub.service.checker.impl.AdoptOpenJDKChecker.check(AdoptOpenJDKChecker.kt:28)
+	at biz.lermitage.sub.Application.run(Application.kt:50)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:788)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:333)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1298)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:113)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:107)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+checker class biz.lermitage.sub.service.checker.impl.AdoptOpenJDK8LinuxChecker failed, ignoring
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=503, URL=https://api.adoptopenjdk.net/v3/assets/latest/8/hotspot?release=latest&amp;jvm_impl=hotspot&amp;vendor=adoptopenjdk&amp;
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:762)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:286)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:39)
+	at biz.lermitage.sub.service.checker.impl.AdoptOpenJDKChecker.check(AdoptOpenJDKChecker.kt:28)
+	at biz.lermitage.sub.Application.run(Application.kt:50)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:788)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:333)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1298)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:113)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:107)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+checker class biz.lermitage.sub.service.checker.impl.AdoptOpenJDK8MacosChecker failed, ignoring
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=503, URL=https://api.adoptopenjdk.net/v3/assets/latest/8/hotspot?release=latest&amp;jvm_impl=hotspot&amp;vendor=adoptopenjdk&amp;
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:762)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:286)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:39)
+	at biz.lermitage.sub.service.checker.impl.AdoptOpenJDKChecker.check(AdoptOpenJDKChecker.kt:28)
+	at biz.lermitage.sub.Application.run(Application.kt:50)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:788)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:333)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1298)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:113)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:107)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+&lt;/pre&gt;</description>
+      <pubDate>Thu, 07 Jan 2021 15:01:45 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2021-01-07T09:01:28Z</dc:date>
+      <dc:date>2021-01-07T15:01:45Z</dc:date>
     </item>
   </channel>
 </rss>
