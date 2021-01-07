@@ -1,6 +1,6 @@
 FAILED
 
-<pre>checker class biz.lermitage.sub.service.checker.impl.AdoptOpenJDK14LinuxChecker failed, ignoring
+<pre>checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
 java.net.SocketTimeoutException: Read timed out
 	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
 	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
@@ -23,9 +23,8 @@ java.net.SocketTimeoutException: Read timed out
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:736)
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
 	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
-	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:286)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:39)
-	at biz.lermitage.sub.service.checker.impl.AdoptOpenJDKChecker.check(AdoptOpenJDKChecker.kt:28)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:25)
+	at biz.lermitage.sub.service.checker.impl.SevenTTChecker.check(SevenTTChecker.kt:20)
 	at biz.lermitage.sub.Application.run(Application.kt:50)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:788)
