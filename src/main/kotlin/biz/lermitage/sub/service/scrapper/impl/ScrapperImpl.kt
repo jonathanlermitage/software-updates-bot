@@ -4,6 +4,7 @@ import biz.lermitage.sub.Globals
 import biz.lermitage.sub.service.scrapper.Scrapper
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
+import org.slf4j.LoggerFactory
 import org.springframework.retry.annotation.Backoff
 import org.springframework.retry.annotation.Retryable
 import org.springframework.stereotype.Service
@@ -16,9 +17,12 @@ class ScrapperImpl : Scrapper {
     val fetchFinalCache = ConcurrentHashMap<String, Element>()
     val fetchSimpleTextCache = ConcurrentHashMap<String, String>()
 
+    private val logger = LoggerFactory.getLogger(this.javaClass)
+
     @Retryable(maxAttempts = 3, backoff = Backoff(delay = 10_000), include = [IOException::class])
     override fun fetchHtml(url: String): Element {
         Thread.sleep(1000)
+        logger.info("fetching $url")
         if (fetchFinalCache.containsKey(url)) {
             return fetchFinalCache[url]!!
         }
@@ -34,6 +38,7 @@ class ScrapperImpl : Scrapper {
     @Retryable(maxAttempts = 3, backoff = Backoff(delay = 10_000), include = [IOException::class])
     override fun fetchText(url: String): String {
         Thread.sleep(1000)
+        logger.info("fetching $url")
         if (fetchSimpleTextCache.containsKey(url)) {
             return fetchSimpleTextCache[url]!!
         }
