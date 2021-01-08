@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Gradle|6.8|[gradle.org](https://gradle.org/releases/)|Fri Jan 08 18:01:21 CET 2021|
 |NodeJS LTS|v14.15.4|[nodejs.org](https://nodejs.org)|Mon Jan 04 20:00:55 CET 2021|
 |NodeJS Current|v15.5.1|[nodejs.org](https://nodejs.org)|Mon Jan 04 20:00:54 CET 2021|
 |Les Cast Codeurs (French podcast)|LCC 245 - Interview SRE avec Nicolas Helleringer et Maxime Brugidou - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 04 18:00:45 CET 2021|
@@ -14,7 +15,6 @@
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:36 CET 2020|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:35 CET 2020|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:34 CET 2020|
-|Gradle|6.7.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 16 19:00:45 CET 2020|
 |PostgreSQL 9.6|9.6.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:34 CET 2020|
 |PostgreSQL 9.5|9.5.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:33 CET 2020|
 |PostgreSQL 11|11.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:31 CET 2020|

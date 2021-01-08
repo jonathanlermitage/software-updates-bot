@@ -13,7 +13,7 @@
 |AdoptOpenJDK jdk8 linux x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:40 CET 2020|
 |AdoptOpenJDK jdk8 mac x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:41 CET 2020|
 |AdoptOpenJDK jdk8 windows x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:34 CET 2020|
-|Gradle|6.7.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 16 19:00:45 CET 2020|
+|Gradle|6.8|[gradle.org](https://gradle.org/releases/)|Fri Jan 08 18:01:21 CET 2021|
 |Inkscape|1.0.1|[inkscape.org](https://inkscape.org)|Tue Sep 08 16:00:44 CEST 2020|
 |Les Cast Codeurs (French podcast)|LCC 245 - Interview SRE avec Nicolas Helleringer et Maxime Brugidou - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 04 18:00:45 CET 2021|
 |MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
