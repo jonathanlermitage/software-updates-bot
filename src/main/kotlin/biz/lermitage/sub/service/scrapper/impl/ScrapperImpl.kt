@@ -23,10 +23,11 @@ class ScrapperImpl : Scrapper {
     @Retryable(maxAttempts = 3, backoff = Backoff(value = 20_000), include = [HttpStatusException::class, SocketTimeoutException::class])
     override fun fetchHtml(url: String): Element {
         Thread.sleep(5000)
-        logger.info("fetching $url")
         if (fetchFinalCache.containsKey(url)) {
+            logger.info("reading from cache $url")
             return fetchFinalCache[url]!!
         }
+        logger.info("fetching $url")
         val res = Jsoup.connect(url)
             .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
             .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
@@ -39,10 +40,11 @@ class ScrapperImpl : Scrapper {
     @Retryable(maxAttempts = 3, backoff = Backoff(delay = 20_000), include = [HttpStatusException::class, SocketTimeoutException::class])
     override fun fetchText(url: String): String {
         Thread.sleep(5000)
-        logger.info("fetching $url")
         if (fetchSimpleTextCache.containsKey(url)) {
+            logger.info("reading from cache $url")
             return fetchSimpleTextCache[url]!!
         }
+        logger.info("fetching $url")
         val res = Jsoup.connect(url)
             .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
             .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
