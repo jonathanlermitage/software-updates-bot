@@ -3,18 +3,86 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2021-01-10T14:04:10Z</modified>
+  <modified>2021-01-10T17:01:55Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2021-01-10T14:04:10Z</dc:date>
+  <dc:date>2021-01-10T17:01:55Z</dc:date>
   <entry>
-    <title>OK -- Sun Jan 10 15:04:10 CET 2021</title>
+    <title>FAILED -- Sun Jan 10 18:01:55 CET 2021</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2021-01-10T14:04:10Z</modified>
-    <issued>2021-01-10T14:04:10Z</issued>
-    <summary type="text/html" mode="escaped">OK</summary>
-    <dc:date>2021-01-10T14:04:10Z</dc:date>
+    <modified>2021-01-10T17:01:55Z</modified>
+    <issued>2021-01-10T17:01:55Z</issued>
+    <summary type="text/html" mode="escaped">FAILED
+
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.AdoptOpenJDK11LinuxChecker failed, ignoring
+java.lang.reflect.UndeclaredThrowableException
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:759)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:93)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:119)
+	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:749)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:691)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB$$f943b8c0.fetchText(&lt;generated&gt;)
+	at biz.lermitage.sub.service.checker.impl.AdoptOpenJDKChecker.check(AdoptOpenJDKChecker.kt:28)
+	at biz.lermitage.sub.Application.run(Application.kt:52)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:788)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:333)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1298)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:115)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:107)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+Caused by: java.io.IOException: Premature EOF
+	at java.base/sun.net.www.http.ChunkedInputStream.readAheadBlocking(ChunkedInputStream.java:565)
+	at java.base/sun.net.www.http.ChunkedInputStream.readAhead(ChunkedInputStream.java:609)
+	at java.base/sun.net.www.http.ChunkedInputStream.read(ChunkedInputStream.java:696)
+	at java.base/java.io.FilterInputStream.read(FilterInputStream.java:133)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read(HttpURLConnection.java:3510)
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:243)
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:159)
+	at java.base/java.util.zip.GZIPInputStream.read(GZIPInputStream.java:118)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at org.jsoup.internal.ConstrainableInputStream.read(ConstrainableInputStream.java:64)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:185)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.base/java.io.BufferedReader.read1(BufferedReader.java:212)
+	at java.base/java.io.BufferedReader.read(BufferedReader.java:287)
+	at org.jsoup.parser.CharacterReader.bufferUp(CharacterReader.java:81)
+	at org.jsoup.parser.CharacterReader.&lt;init&gt;(CharacterReader.java:37)
+	at org.jsoup.parser.CharacterReader.&lt;init&gt;(CharacterReader.java:41)
+	at org.jsoup.parser.TreeBuilder.initialiseParse(TreeBuilder.java:38)
+	at org.jsoup.parser.HtmlTreeBuilder.initialiseParse(HtmlTreeBuilder.java:65)
+	at org.jsoup.parser.TreeBuilder.parse(TreeBuilder.java:46)
+	at org.jsoup.parser.Parser.parseInput(Parser.java:35)
+	at org.jsoup.helper.DataUtil.parseInputStream(DataUtil.java:175)
+	at org.jsoup.helper.HttpConnection$Response.parse(HttpConnection.java:835)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:287)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:52)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB$$afe6cac8.invoke(&lt;generated&gt;)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:771)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:749)
+	... 25 more
+
+&lt;/pre&gt;</summary>
+    <dc:date>2021-01-10T17:01:55Z</dc:date>
   </entry>
 </feed>
