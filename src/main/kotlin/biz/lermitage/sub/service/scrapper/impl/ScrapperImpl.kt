@@ -20,9 +20,9 @@ class ScrapperImpl : Scrapper {
 
     private val logger = LoggerFactory.getLogger(this.javaClass)
 
-    @Retryable(maxAttempts = 3, backoff = Backoff(value = 20_000), include = [HttpStatusException::class, SocketTimeoutException::class])
+    @Retryable(maxAttempts = 3, backoff = Backoff(value = 10_000), include = [HttpStatusException::class, SocketTimeoutException::class])
     override fun fetchHtml(url: String): Element {
-        Thread.sleep(5000)
+        Thread.sleep(1000)
         if (fetchFinalCache.containsKey(url)) {
             logger.info("reading from cache $url")
             return fetchFinalCache[url]!!
@@ -37,9 +37,9 @@ class ScrapperImpl : Scrapper {
         return res
     }
 
-    @Retryable(maxAttempts = 3, backoff = Backoff(delay = 20_000), include = [HttpStatusException::class, SocketTimeoutException::class])
+    @Retryable(maxAttempts = 3, backoff = Backoff(delay = 10_000), include = [HttpStatusException::class, SocketTimeoutException::class])
     override fun fetchText(url: String): String {
-        Thread.sleep(5000)
+        Thread.sleep(1000)
         if (fetchSimpleTextCache.containsKey(url)) {
             logger.info("reading from cache $url")
             return fetchSimpleTextCache[url]!!
