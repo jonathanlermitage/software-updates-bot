@@ -36,6 +36,7 @@ dependencies {
     implementation("commons-io:commons-io:2.8.0")
     implementation("org.apache.commons:commons-lang3:3.11")
     implementation("com.rometools:rome:1.15.0")
+    implementation("org.springframework.boot:spring-boot-starter-aop")
     implementation("org.springframework.retry:spring-retry:1.3.0")
     kapt("org.springframework.boot:spring-boot-configuration-processor")
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
