@@ -2,14 +2,13 @@ package biz.lermitage.sub.service.scrapper.impl
 
 import biz.lermitage.sub.Globals
 import biz.lermitage.sub.service.scrapper.Scrapper
-import org.jsoup.HttpStatusException
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 import org.slf4j.LoggerFactory
 import org.springframework.retry.annotation.Backoff
 import org.springframework.retry.annotation.Retryable
 import org.springframework.stereotype.Service
-import java.net.SocketTimeoutException
+import java.io.IOException
 import java.util.concurrent.ConcurrentHashMap
 
 @Service
@@ -20,7 +19,8 @@ class ScrapperImpl : Scrapper {
 
     private val logger = LoggerFactory.getLogger(this.javaClass)
 
-    @Retryable(maxAttempts = 3, backoff = Backoff(value = 10_000), include = [HttpStatusException::class, SocketTimeoutException::class])
+    @Throws(IOException::class)
+    @Retryable(maxAttempts = 3, backoff = Backoff(value = 10_000), include = [IOException::class])
     override fun fetchHtml(url: String): Element {
         Thread.sleep(1000)
         if (fetchFinalCache.containsKey(url)) {
@@ -37,7 +37,8 @@ class ScrapperImpl : Scrapper {
         return res
     }
 
-    @Retryable(maxAttempts = 3, backoff = Backoff(delay = 10_000), include = [HttpStatusException::class, SocketTimeoutException::class])
+    @Throws(IOException::class)
+    @Retryable(maxAttempts = 3, backoff = Backoff(delay = 10_000), include = [IOException::class])
     override fun fetchText(url: String): String {
         Thread.sleep(1000)
         if (fetchSimpleTextCache.containsKey(url)) {
