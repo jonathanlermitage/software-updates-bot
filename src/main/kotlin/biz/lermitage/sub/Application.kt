@@ -14,10 +14,12 @@ import org.springframework.boot.CommandLineRunner
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.boot.runApplication
+import org.springframework.retry.annotation.EnableRetry
 import java.lang.management.ManagementFactory
 
 @SpringBootApplication
 @EnableConfigurationProperties(LocalAppConf::class)
+@EnableRetry
 class Application : CommandLineRunner {
 
     private val logger = LoggerFactory.getLogger(this.javaClass)
