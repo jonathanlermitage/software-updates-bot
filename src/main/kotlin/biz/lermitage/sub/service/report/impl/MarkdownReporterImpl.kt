@@ -48,6 +48,6 @@ class MarkdownReporterImpl(private val conf: LocalAppConf) : Reporter {
         }
 
         FileUtils.writeLines(reportFile, Globals.reportCharset().name(), lines)
-        logger.info("saved Markdown report file to: $reportFile.absolutePath")
+        logger.info("saved Markdown report file to: ${reportFile.absolutePath}")
     }
 }
