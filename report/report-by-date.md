@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v15.6.0|[nodejs.org](https://nodejs.org)|Fri Jan 15 03:00:53 CET 2021|
 |Les Cast Codeurs (French podcast)|LCC 246 - Spécial Loi Société et Organisations avec Agnès Crepet|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jan 12 13:00:41 CET 2021|
 |Gradle|6.8|[gradle.org](https://gradle.org/releases/)|Fri Jan 08 18:01:21 CET 2021|
 |NodeJS LTS|v14.15.4|[nodejs.org](https://nodejs.org)|Mon Jan 04 20:00:55 CET 2021|
-|NodeJS Current|v15.5.1|[nodejs.org](https://nodejs.org)|Mon Jan 04 20:00:54 CET 2021|
 |RHEL7Minimal|7.9-260|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Dec 17 21:01:25 CET 2020|
 |RHEL7|7.9-249|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 15 21:01:25 CET 2020|
 |VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 CET 2020|
