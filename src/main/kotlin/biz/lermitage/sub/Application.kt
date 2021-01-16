@@ -50,7 +50,7 @@ class Application : CommandLineRunner {
         checkers.forEach { checker: Checker ->
             try {
                 val check = checker.check()
-                logger.info("fetched $check")
+                logger.info("[  *] fetched $check")
                 latestUpdates.add(check)
             } catch (e: Exception) {
                 logger.warn("checker ${checker::class.java} failed, ignoring", e)

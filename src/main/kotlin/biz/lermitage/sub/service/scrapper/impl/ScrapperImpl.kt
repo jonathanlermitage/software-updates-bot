@@ -24,10 +24,10 @@ class ScrapperImpl : Scrapper {
     override fun fetchHtml(url: String): Element {
         Thread.sleep(1000)
         if (fetchFinalCache.containsKey(url)) {
-            logger.info("reading from cache $url")
+            logger.info("[ * ] reading from cache $url")
             return fetchFinalCache[url]!!
         }
-        logger.info("fetching $url")
+        logger.info("[*  ] fetching $url")
         val res = Jsoup.connect(url)
             .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
             .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
@@ -42,10 +42,10 @@ class ScrapperImpl : Scrapper {
     override fun fetchText(url: String): String {
         Thread.sleep(1000)
         if (fetchSimpleTextCache.containsKey(url)) {
-            logger.info("reading from cache $url")
+            logger.info("[ * ] reading from cache $url")
             return fetchSimpleTextCache[url]!!
         }
-        logger.info("fetching $url")
+        logger.info("[*  ] fetching $url")
         val res = Jsoup.connect(url)
             .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
             .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
