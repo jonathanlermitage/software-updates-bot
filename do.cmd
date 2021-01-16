@@ -27,7 +27,7 @@ if [%1] == [cv] (
   gradlew dependencyUpdates
 )
 if [%1] == [p] (
-  gradlew clean bootJar
+  gradlew clean bootJar --warning-mode all
 )
 if [%1] == [dep] (
   gradlew htmlDependencyReport
