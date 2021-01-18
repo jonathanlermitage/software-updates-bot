@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Les Cast Codeurs (French podcast)|LCC 247 - Cette fois-ci nous n'avons pas perdu Guillaume!|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 18 15:00:42 CET 2021|
 |VLC|3.0.12|[www.videolan.org](https://www.videolan.org/vlc/)|Mon Jan 18 14:01:25 CET 2021|
 |Inkscape|1.0.2|[inkscape.org](https://inkscape.org)|Mon Jan 18 01:00:39 CET 2021|
 |Spring Boot|2.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jan 15 07:01:21 CET 2021|
 |NodeJS Current|v15.6.0|[nodejs.org](https://nodejs.org)|Fri Jan 15 03:00:53 CET 2021|
-|Les Cast Codeurs (French podcast)|LCC 246 - Spécial Loi Société et Organisations avec Agnès Crepet|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jan 12 13:00:41 CET 2021|
 |Gradle|6.8|[gradle.org](https://gradle.org/releases/)|Fri Jan 08 18:01:21 CET 2021|
 |NodeJS LTS|v14.15.4|[nodejs.org](https://nodejs.org)|Mon Jan 04 20:00:55 CET 2021|
 |RHEL7Minimal|7.9-260|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Dec 17 21:01:25 CET 2020|
