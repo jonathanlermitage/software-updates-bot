@@ -10,9 +10,9 @@
 |AdoptOpenJDK jdk15 linux x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:36 CEST 2020|
 |AdoptOpenJDK jdk15 mac x64|jdk-15.0.1+9.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Tue Dec 01 23:00:38 CET 2020|
 |AdoptOpenJDK jdk15 windows x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:38 CEST 2020|
-|AdoptOpenJDK jdk8 linux x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:40 CET 2020|
-|AdoptOpenJDK jdk8 mac x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:41 CET 2020|
-|AdoptOpenJDK jdk8 windows x64|jdk8u275-b01|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Nov 11 23:00:34 CET 2020|
+|AdoptOpenJDK jdk8 linux x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:34 CET 2021|
+|AdoptOpenJDK jdk8 mac x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:35 CET 2021|
+|AdoptOpenJDK jdk8 windows x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:36 CET 2021|
 |Gradle|6.8|[gradle.org](https://gradle.org/releases/)|Fri Jan 08 18:01:21 CET 2021|
 |Inkscape|1.0.2|[inkscape.org](https://inkscape.org)|Mon Jan 18 01:00:39 CET 2021|
 |Les Cast Codeurs (French podcast)|LCC 247 - Cette fois-ci nous n'avons pas perdu Guillaume!|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 18 15:00:42 CET 2021|
