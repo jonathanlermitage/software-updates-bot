@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Gradle|6.8.1|[gradle.org](https://gradle.org/releases/)|Fri Jan 22 15:00:37 CET 2021|
 |AdoptOpenJDK jdk8 windows x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:36 CET 2021|
 |AdoptOpenJDK jdk8 mac x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:35 CET 2021|
 |AdoptOpenJDK jdk8 linux x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:34 CET 2021|
@@ -8,7 +9,6 @@
 |Inkscape|1.0.2|[inkscape.org](https://inkscape.org)|Mon Jan 18 01:00:39 CET 2021|
 |Spring Boot|2.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jan 15 07:01:21 CET 2021|
 |NodeJS Current|v15.6.0|[nodejs.org](https://nodejs.org)|Fri Jan 15 03:00:53 CET 2021|
-|Gradle|6.8|[gradle.org](https://gradle.org/releases/)|Fri Jan 08 18:01:21 CET 2021|
 |NodeJS LTS|v14.15.4|[nodejs.org](https://nodejs.org)|Mon Jan 04 20:00:55 CET 2021|
 |RHEL7Minimal|7.9-260|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Dec 17 21:01:25 CET 2020|
 |RHEL7|7.9-249|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 15 21:01:25 CET 2020|
