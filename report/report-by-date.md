@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|AdoptOpenJDK jdk15 windows x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
+|AdoptOpenJDK jdk15 mac x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
+|AdoptOpenJDK jdk15 linux x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:27 CET 2021|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:26 CET 2021|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:25 CET 2021|
@@ -19,7 +22,6 @@
 |Python 3 windows| 3.9.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 08 01:01:19 CET 2020|
 |Python 3 source| 3.9.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 08 01:01:18 CET 2020|
 |Python 3 mac| 3.9.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 08 01:01:16 CET 2020|
-|AdoptOpenJDK jdk15 mac x64|jdk-15.0.1+9.1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Tue Dec 01 23:00:38 CET 2020|
 |PostgreSQL 9.6|9.6.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:34 CET 2020|
 |PostgreSQL 9.5|9.5.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:33 CET 2020|
 |PostgreSQL 11|11.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:31 CET 2020|
@@ -32,8 +34,6 @@
 |MariaDB 10.4|10.4.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:37 CET 2020|
 |MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
 |7+ Taskbar Tweaker|v5.10 (October 30, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Fri Oct 30 15:01:29 CET 2020|
-|AdoptOpenJDK jdk15 windows x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:38 CEST 2020|
-|AdoptOpenJDK jdk15 linux x64|jdk-15.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Sat Oct 24 06:00:36 CEST 2020|
 |Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
 |Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
 |Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
