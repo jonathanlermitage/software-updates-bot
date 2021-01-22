@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|AdoptOpenJDK jdk15 windows x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
-|AdoptOpenJDK jdk15 mac x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
 |AdoptOpenJDK jdk15 linux x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
+|AdoptOpenJDK jdk15 mac x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
+|AdoptOpenJDK jdk15 windows x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:27 CET 2021|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:26 CET 2021|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:25 CET 2021|
