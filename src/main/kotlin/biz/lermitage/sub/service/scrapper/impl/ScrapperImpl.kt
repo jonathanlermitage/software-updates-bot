@@ -22,11 +22,11 @@ class ScrapperImpl : Scrapper {
     @Throws(IOException::class)
     @Retryable(maxAttempts = 3, backoff = Backoff(value = 10_000), include = [IOException::class])
     override fun fetchHtml(url: String): Element {
-        Thread.sleep(1000)
         if (fetchFinalCache.containsKey(url)) {
             logger.info("[ * ] reading from cache $url")
             return fetchFinalCache[url]!!
         }
+        Thread.sleep(1000)
         logger.info("[*  ] fetching $url")
         val res = Jsoup.connect(url)
             .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
@@ -40,11 +40,11 @@ class ScrapperImpl : Scrapper {
     @Throws(IOException::class)
     @Retryable(maxAttempts = 3, backoff = Backoff(delay = 10_000), include = [IOException::class])
     override fun fetchText(url: String): String {
-        Thread.sleep(1000)
         if (fetchSimpleTextCache.containsKey(url)) {
             logger.info("[ * ] reading from cache $url")
             return fetchSimpleTextCache[url]!!
         }
+        Thread.sleep(1000)
         logger.info("[*  ] fetching $url")
         val res = Jsoup.connect(url)
             .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
