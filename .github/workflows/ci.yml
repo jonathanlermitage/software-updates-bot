@@ -2,6 +2,7 @@ name: Build and verify
 on: [ push, pull_request ]
 jobs:
   run:
+    if: github.event_name == 'push' && contains(toJson(github.event.commits), '[ci skip]') == false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
