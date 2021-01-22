@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
 |7+ Taskbar Tweaker|v5.10 (October 30, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Fri Oct 30 15:01:29 CET 2020|
-|AdoptOpenJDK jdk11 linux x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:34 CET 2020|
-|AdoptOpenJDK jdk11 mac x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:35 CET 2020|
-|AdoptOpenJDK jdk11 windows x64|jdk-11.0.9.1+1|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Nov 19 17:00:36 CET 2020|
+|AdoptOpenJDK jdk11 linux x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:25 CET 2021|
+|AdoptOpenJDK jdk11 mac x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:26 CET 2021|
+|AdoptOpenJDK jdk11 windows x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:27 CET 2021|
 |AdoptOpenJDK jdk14 linux x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:34 CEST 2020|
 |AdoptOpenJDK jdk14 mac x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:35 CEST 2020|
 |AdoptOpenJDK jdk14 windows x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:36 CEST 2020|
