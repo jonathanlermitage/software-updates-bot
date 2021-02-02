@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS Current|v15.8.0|[nodejs.org](https://nodejs.org)|Tue Feb 02 22:00:38 CET 2021|
 |RHEL7Minimal|7.9-295|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 02 18:00:55 CET 2021|
 |RHEL7|7.9-292|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 02 17:00:49 CET 2021|
-|NodeJS Current|v15.7.0|[nodejs.org](https://nodejs.org)|Tue Jan 26 18:00:40 CET 2021|
 |AdoptOpenJDK jdk15 linux x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
 |AdoptOpenJDK jdk15 mac x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
 |AdoptOpenJDK jdk15 windows x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
