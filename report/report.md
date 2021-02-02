@@ -39,7 +39,7 @@
 |Python 3 mac| 3.9.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 08 01:01:16 CET 2020|
 |Python 3 source| 3.9.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 08 01:01:18 CET 2020|
 |Python 3 windows| 3.9.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 08 01:01:19 CET 2020|
-|RHEL7|7.9-249|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 15 21:01:25 CET 2020|
+|RHEL7|7.9-292|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 02 17:00:49 CET 2021|
 |RHEL7Minimal|7.9-260|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Dec 17 21:01:25 CET 2020|
 |Spring Boot|2.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jan 15 07:01:21 CET 2021|
 |VLC|3.0.12|[www.videolan.org](https://www.videolan.org/vlc/)|Mon Jan 18 14:01:25 CET 2021|
