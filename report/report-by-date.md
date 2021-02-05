@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Gradle|6.8.2|[gradle.org](https://gradle.org/releases/)|Fri Feb 05 15:00:30 CET 2021|
 |NodeJS Current|v15.8.0|[nodejs.org](https://nodejs.org)|Tue Feb 02 22:00:38 CET 2021|
 |RHEL7Minimal|7.9-295|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 02 18:00:55 CET 2021|
 |RHEL7|7.9-292|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 02 17:00:49 CET 2021|
@@ -9,7 +10,6 @@
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:27 CET 2021|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:26 CET 2021|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.10+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 22 18:00:25 CET 2021|
-|Gradle|6.8.1|[gradle.org](https://gradle.org/releases/)|Fri Jan 22 15:00:37 CET 2021|
 |AdoptOpenJDK jdk8 windows x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:36 CET 2021|
 |AdoptOpenJDK jdk8 mac x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:35 CET 2021|
 |AdoptOpenJDK jdk8 linux x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:34 CET 2021|
