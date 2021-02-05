@@ -22,8 +22,6 @@ java.sourceCompatibility = JavaVersion.VERSION_1_8
 
 repositories {
     mavenCentral()
-    mavenLocal()
-    jcenter()
 }
 
 dependencies {
