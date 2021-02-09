@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Tue, 09 Feb 2021 08:02:06 GMT</pubDate>
+    <pubDate>Tue, 09 Feb 2021 09:02:07 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2021-02-09T08:02:06Z</dc:date>
+    <dc:date>2021-02-09T09:02:07Z</dc:date>
     <item>
-      <title>FAILED -- Tue Feb 09 09:02:06 CET 2021</title>
+      <title>FAILED -- Tue Feb 09 10:02:07 CET 2021</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
@@ -45,7 +45,7 @@ java.net.SocketTimeoutException: Read timed out
 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
 	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB$$ddf97ef3.fetchHtml(&lt;generated&gt;)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB$$842d64c5.fetchHtml(&lt;generated&gt;)
 	at biz.lermitage.sub.service.checker.impl.InkscapeChecker.check(InkscapeChecker.kt:21)
 	at biz.lermitage.sub.Application.run(Application.kt:52)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
@@ -64,9 +64,9 @@ java.net.SocketTimeoutException: Read timed out
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
 
 &lt;/pre&gt;</description>
-      <pubDate>Tue, 09 Feb 2021 08:02:06 GMT</pubDate>
+      <pubDate>Tue, 09 Feb 2021 09:02:07 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2021-02-09T08:02:06Z</dc:date>
+      <dc:date>2021-02-09T09:02:07Z</dc:date>
     </item>
   </channel>
 </rss>

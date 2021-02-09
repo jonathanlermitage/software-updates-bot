@@ -34,7 +34,7 @@ java.net.SocketTimeoutException: Read timed out
 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
 	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB$$ddf97ef3.fetchHtml(<generated>)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB$$842d64c5.fetchHtml(<generated>)
 	at biz.lermitage.sub.service.checker.impl.InkscapeChecker.check(InkscapeChecker.kt:21)
 	at biz.lermitage.sub.Application.run(Application.kt:52)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
