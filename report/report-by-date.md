@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|NodeJS LTS|v14.15.5|[nodejs.org](https://nodejs.org)|Tue Feb 09 19:00:40 CET 2021|
 |RHEL7Minimal|7.9-308|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:52 CET 2021|
 |RHEL7|7.9-305|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:49 CET 2021|
 |Gradle|6.8.2|[gradle.org](https://gradle.org/releases/)|Fri Feb 05 15:00:30 CET 2021|
@@ -17,7 +18,6 @@
 |VLC|3.0.12|[www.videolan.org](https://www.videolan.org/vlc/)|Mon Jan 18 14:01:25 CET 2021|
 |Inkscape|1.0.2|[inkscape.org](https://inkscape.org)|Mon Jan 18 01:00:39 CET 2021|
 |Spring Boot|2.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jan 15 07:01:21 CET 2021|
-|NodeJS LTS|v14.15.4|[nodejs.org](https://nodejs.org)|Mon Jan 04 20:00:55 CET 2021|
 |VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 CET 2020|
 |Python 3 windows| 3.9.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 08 01:01:19 CET 2020|
 |Python 3 source| 3.9.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 08 01:01:18 CET 2020|
