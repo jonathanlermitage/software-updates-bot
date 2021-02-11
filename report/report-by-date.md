@@ -1,5 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|PostgreSQL 9.6|9.6.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 13|13.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 12|12.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 11|11.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 10|10.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |NodeJS LTS|v14.15.5|[nodejs.org](https://nodejs.org)|Tue Feb 09 19:00:40 CET 2021|
 |RHEL7Minimal|7.9-308|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:52 CET 2021|
 |RHEL7|7.9-305|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:49 CET 2021|
@@ -22,12 +28,6 @@
 |Python 3 windows| 3.9.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 08 01:01:19 CET 2020|
 |Python 3 source| 3.9.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 08 01:01:18 CET 2020|
 |Python 3 mac| 3.9.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 08 01:01:16 CET 2020|
-|PostgreSQL 9.6|9.6.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:34 CET 2020|
-|PostgreSQL 9.5|9.5.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:33 CET 2020|
-|PostgreSQL 11|11.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:31 CET 2020|
-|PostgreSQL 10|10.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:30 CET 2020|
-|PostgreSQL 13|13.1|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:30 CET 2020|
-|PostgreSQL 12|12.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 14:00:29 CET 2020|
 |MariaDB 10.3|10.3.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:42 CET 2020|
 |MariaDB 10.2|10.2.36|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:41 CET 2020|
 |MariaDB 10.5|10.5.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:38 CET 2020|
