@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|PostgreSQL 9.6|9.6.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
-|PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
-|PostgreSQL 13|13.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
-|PostgreSQL 12|12.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
-|PostgreSQL 11|11.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |PostgreSQL 10|10.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 11|11.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 12|12.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 13|13.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
+|PostgreSQL 9.6|9.6.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |NodeJS LTS|v14.15.5|[nodejs.org](https://nodejs.org)|Tue Feb 09 19:00:40 CET 2021|
 |RHEL7Minimal|7.9-308|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:52 CET 2021|
 |RHEL7|7.9-305|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:49 CET 2021|
