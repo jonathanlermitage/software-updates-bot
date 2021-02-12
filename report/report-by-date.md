@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|Les Cast Codeurs (French podcast)|LCC 248 - Spécial Loi Société et Organisations avec Agnès Crepet et Tariq Krim - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Feb 12 10:00:34 CET 2021|
 |PostgreSQL 10|10.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |PostgreSQL 11|11.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |PostgreSQL 12|12.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
@@ -20,7 +21,6 @@
 |AdoptOpenJDK jdk8 windows x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:36 CET 2021|
 |AdoptOpenJDK jdk8 mac x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:35 CET 2021|
 |AdoptOpenJDK jdk8 linux x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:34 CET 2021|
-|Les Cast Codeurs (French podcast)|LCC 247 - Cette fois-ci nous n'avons pas perdu Guillaume!|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 18 15:00:42 CET 2021|
 |VLC|3.0.12|[www.videolan.org](https://www.videolan.org/vlc/)|Mon Jan 18 14:01:25 CET 2021|
 |Inkscape|1.0.2|[inkscape.org](https://inkscape.org)|Mon Jan 18 01:00:39 CET 2021|
 |Spring Boot|2.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jan 15 07:01:21 CET 2021|
