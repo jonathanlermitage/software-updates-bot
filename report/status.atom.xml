@@ -3,17 +3,17 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2021-02-15T07:02:07Z</modified>
+  <modified>2021-02-15T08:02:08Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2021-02-15T07:02:07Z</dc:date>
+  <dc:date>2021-02-15T08:02:08Z</dc:date>
   <entry>
-    <title>FAILED -- Mon Feb 15 08:02:07 CET 2021</title>
+    <title>FAILED -- Mon Feb 15 09:02:08 CET 2021</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2021-02-15T07:02:07Z</modified>
-    <issued>2021-02-15T07:02:07Z</issued>
+    <modified>2021-02-15T08:02:08Z</modified>
+    <issued>2021-02-15T08:02:08Z</issued>
     <summary type="text/html" mode="escaped">FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
@@ -53,7 +53,7 @@ java.net.SocketTimeoutException: Read timed out
 	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
 	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB$$ddf97ef3.fetchHtml(&lt;generated&gt;)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB$$b164c744.fetchHtml(&lt;generated&gt;)
 	at biz.lermitage.sub.service.checker.impl.SevenTTChecker.check(SevenTTChecker.kt:20)
 	at biz.lermitage.sub.Application.run(Application.kt:52)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:804)
@@ -72,6 +72,6 @@ java.net.SocketTimeoutException: Read timed out
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
 
 &lt;/pre&gt;</summary>
-    <dc:date>2021-02-15T07:02:07Z</dc:date>
+    <dc:date>2021-02-15T08:02:08Z</dc:date>
   </entry>
 </feed>
