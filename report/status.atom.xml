@@ -3,40 +3,22 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2021-02-15T08:02:08Z</modified>
+  <modified>2021-02-15T09:02:06Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2021-02-15T08:02:08Z</dc:date>
+  <dc:date>2021-02-15T09:02:06Z</dc:date>
   <entry>
-    <title>FAILED -- Mon Feb 15 09:02:08 CET 2021</title>
+    <title>FAILED -- Mon Feb 15 10:02:06 CET 2021</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2021-02-15T08:02:08Z</modified>
-    <issued>2021-02-15T08:02:08Z</issued>
+    <modified>2021-02-15T09:02:06Z</modified>
+    <issued>2021-02-15T09:02:06Z</issued>
     <summary type="text/html" mode="escaped">FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
-java.net.SocketTimeoutException: Read timed out
-	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
-	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
-	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
-	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
-	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:476)
-	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:470)
-	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
-	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1354)
-	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:963)
-	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
-	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
-	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
-	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
-	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
-	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334)
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:736)
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://rammichael.com/downloads/7tt_setup.exe?changelog
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:762)
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
 	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:35)
@@ -72,6 +54,6 @@ java.net.SocketTimeoutException: Read timed out
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
 
 &lt;/pre&gt;</summary>
-    <dc:date>2021-02-15T08:02:08Z</dc:date>
+    <dc:date>2021-02-15T09:02:06Z</dc:date>
   </entry>
 </feed>
