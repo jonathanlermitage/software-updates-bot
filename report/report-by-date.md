@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|Python 3 windows| 3.9.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Feb 19 16:00:45 CET 2021|
-|Python 3 source| 3.9.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Feb 19 16:00:45 CET 2021|
 |Python 3 mac| 3.9.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Feb 19 16:00:45 CET 2021|
+|Python 3 source| 3.9.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Feb 19 16:00:45 CET 2021|
+|Python 3 windows| 3.9.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Feb 19 16:00:45 CET 2021|
 |Spring Boot|2.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 18 19:00:58 CET 2021|
 |NodeJS Current|v15.9.0|[nodejs.org](https://nodejs.org)|Thu Feb 18 04:00:38 CET 2021|
 |Les Cast Codeurs (French podcast)|LCC 249 - Édition tu perds tes amis|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 15 11:00:34 CET 2021|
