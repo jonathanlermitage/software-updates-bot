@@ -36,9 +36,9 @@
 |Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
 |Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
 |Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
-|Python 3 mac| 3.9.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 08 01:01:16 CET 2020|
-|Python 3 source| 3.9.1|[www.python.org](https://www.python.org/downloads/source/)|Tue Dec 08 01:01:18 CET 2020|
-|Python 3 windows| 3.9.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 08 01:01:19 CET 2020|
+|Python 3 mac| 3.9.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Feb 19 16:00:45 CET 2021|
+|Python 3 source| 3.9.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Feb 19 16:00:45 CET 2021|
+|Python 3 windows| 3.9.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Feb 19 16:00:45 CET 2021|
 |RHEL7|7.9-305|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:49 CET 2021|
 |RHEL7Minimal|7.9-308|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:52 CET 2021|
 |Spring Boot|2.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 18 19:00:58 CET 2021|
