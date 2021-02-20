@@ -32,7 +32,7 @@ class StatusReporterImpl(private val conf: LocalAppConf) : StatusReporter {
     private fun exceptionsToTxt(errors: List<DetailedException>): String {
         val txt = StringBuilder()
         txt.append("FAILED\n\n<pre>")
-        errors.forEach(Consumer { txt.append(it.msg).append("\n").append(ExceptionUtils.getStackTrace(it.error)).append("\n") })
+        errors.forEach(Consumer { txt.append(it.msg).append("\n").append(getCleanStacktrace(it)).append("\n") })
         txt.append("</pre>")
         return txt.toString()
     }
@@ -93,5 +93,10 @@ class StatusReporterImpl(private val conf: LocalAppConf) : StatusReporter {
         feed.link = "https://github.com/jonathanlermitage/software-updates-bot/raw/master/${conf.statusFile.rss}"
         val rssFileWriter = FileWriter(rssStatusFile)
         rssFileWriter.use { rssOutput.output(feed, rssFileWriter) }
+    }
+
+    private fun getCleanStacktrace(ex: DetailedException): String {
+        val stacktrace: String = ExceptionUtils.getStackTrace(ex.error)
+        return stacktrace.replace(Regex("CGLIB\\$\\$[a-zA_Z0-9]+"), "CGLIB")
     }
 }
