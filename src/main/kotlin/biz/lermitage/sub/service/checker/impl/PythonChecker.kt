@@ -1,6 +1,7 @@
 package biz.lermitage.sub.service.checker.impl
 
 import biz.lermitage.sub.model.Category
+import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
@@ -32,6 +33,7 @@ abstract class PythonChecker(private val platformId: String,
             listOf(Category.PYTHON.label),
             "Python $majorVersion $platformName",
             "https://www.python.org/downloads/$platformId/",
-            version)
+            version,
+            logo = Logo.PYTHON)
     }
 }

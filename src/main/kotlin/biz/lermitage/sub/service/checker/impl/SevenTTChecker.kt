@@ -1,6 +1,7 @@
 package biz.lermitage.sub.service.checker.impl
 
 import biz.lermitage.sub.model.Category
+import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
@@ -24,6 +25,7 @@ class SevenTTChecker : Checker {
             listOf(Category.MS_WINDOWS.label),
             "7+ Taskbar Tweaker",
             "https://rammichael.com/7-taskbar-tweaker",
-            version)
+            version,
+            logo = Logo.SEVEN_TT)
     }
 }

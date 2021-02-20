@@ -1,6 +1,7 @@
 package biz.lermitage.sub.service.checker.impl
 
 import biz.lermitage.sub.model.Category
+import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
@@ -24,6 +25,7 @@ class MavenChecker : Checker {
             listOf(Category.JAVA.label, Category.MAVEN.label),
             "Maven",
             "https://maven.apache.org/download.cgi",
-            version)
+            version,
+            logo = Logo.MAVEN)
     }
 }

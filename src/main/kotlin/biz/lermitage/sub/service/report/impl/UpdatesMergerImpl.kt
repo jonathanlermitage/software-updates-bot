@@ -1,5 +1,6 @@
 package biz.lermitage.sub.service.report.impl
 
+import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.report.UpdatesMerger
 import org.springframework.stereotype.Service
@@ -21,12 +22,17 @@ class UpdatesMergerImpl : UpdatesMerger {
             } else {
                 currSu.checkDate
             }
-            mergedReportSoftwareUpdates.add(SoftwareUpdate(currSu.categories, currSu.name, currSu.website, currSu.version, dateToKeep))
+            mergedReportSoftwareUpdates.add(SoftwareUpdate(currSu.categories, currSu.name, currSu.website, currSu.version,
+                dateToKeep, currSu.logo))
         })
 
         previousUpdates.forEach(Consumer { prevSu: SoftwareUpdate ->
             if (mergedReportSoftwareUpdates.find { mergedSu: SoftwareUpdate -> prevSu.name == mergedSu.name } == null) {
-                mergedReportSoftwareUpdates.add(prevSu)
+                if (prevSu.logo == null) {
+                    mergedReportSoftwareUpdates.add(prevSu.copy(logo = Logo.NONE))
+                } else {
+                    mergedReportSoftwareUpdates.add(prevSu)
+                }
             }
         })
 

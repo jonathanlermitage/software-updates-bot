@@ -1,6 +1,7 @@
 package biz.lermitage.sub.service.checker.impl
 
 import biz.lermitage.sub.model.Category
+import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.model.gradle.GradleApiResponse
 import biz.lermitage.sub.service.checker.Checker
@@ -28,6 +29,7 @@ class GradleChecker : Checker {
             listOf(Category.JAVA.label, Category.GRADLE.label),
             "Gradle",
             "https://gradle.org/releases/",
-            version)
+            version,
+            logo = Logo.GRADLE)
     }
 }

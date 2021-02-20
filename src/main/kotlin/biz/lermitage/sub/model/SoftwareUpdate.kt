@@ -11,7 +11,10 @@ data class SoftwareUpdate(
     val name: String,
     val website: String,
     val version: String,
-    val checkDate: Date = Date()) : Comparable<SoftwareUpdate> {
+    val checkDate: Date = Date(),
+    // logo will be null when item is loaded from an old json and item has no logo and no update
+    // TODO configure GSON deserializer to convert null logo to Logo.NONE
+    val logo: Logo? = Logo.NONE) : Comparable<SoftwareUpdate> {
 
     override fun compareTo(other: SoftwareUpdate): Int {
         return (name + version + website).compareTo(other.name + other.version + other.website)

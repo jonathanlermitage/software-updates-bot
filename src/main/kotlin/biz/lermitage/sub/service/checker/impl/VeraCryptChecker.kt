@@ -1,6 +1,7 @@
 package biz.lermitage.sub.service.checker.impl
 
 import biz.lermitage.sub.model.Category
+import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
@@ -25,6 +26,7 @@ class VeraCryptChecker : Checker {
             listOf(Category.VERACRYPT.label),
             "VeraCrypt",
             "https://www.veracrypt.fr/en/Downloads.html",
-            version)
+            version,
+            logo = Logo.VERACRYPT)
     }
 }

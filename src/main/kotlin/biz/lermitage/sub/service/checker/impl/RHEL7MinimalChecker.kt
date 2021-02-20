@@ -1,6 +1,7 @@
 package biz.lermitage.sub.service.checker.impl
 
 import biz.lermitage.sub.model.Category
+import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
@@ -31,6 +32,7 @@ class RHEL7MinimalChecker : Checker {
             listOf(Category.OS.label, Category.RHEL.label),
             "RHEL7Minimal",
             "https://access.redhat.com/products/red-hat-enterprise-linux",
-            version)
+            version,
+            logo = Logo.RHEL)
     }
 }

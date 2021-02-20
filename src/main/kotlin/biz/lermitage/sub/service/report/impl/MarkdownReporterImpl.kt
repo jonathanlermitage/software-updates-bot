@@ -2,6 +2,7 @@ package biz.lermitage.sub.service.report.impl
 
 import biz.lermitage.sub.Globals
 import biz.lermitage.sub.conf.LocalAppConf
+import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.report.Reporter
 import org.apache.commons.io.FileUtils
@@ -44,7 +45,12 @@ class MarkdownReporterImpl(private val conf: LocalAppConf) : Reporter {
             if (shortWebsite.contains("/")) {
                 shortWebsite = shortWebsite.subSequence(0, shortWebsite.indexOf("/")).toString()
             }
-            lines.add("|${su.name}|${su.version}|[$shortWebsite](${su.website})|${su.checkDate}|")
+            val prefix = if (su.logo == Logo.NONE || su.logo == null) {
+                ""
+            } else {
+                "![logo](../media/logo/${su.logo.img}) "
+            }
+            lines.add("|$prefix${su.name}|${su.version}|[$shortWebsite](${su.website})|${su.checkDate}|")
         }
 
         FileUtils.writeLines(reportFile, Globals.reportCharset().name(), lines)

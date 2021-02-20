@@ -1,6 +1,7 @@
 package biz.lermitage.sub.service.checker.impl
 
 import biz.lermitage.sub.model.Category
+import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
@@ -28,6 +29,7 @@ class InkscapeChecker : Checker {
             listOf(Category.SVG_EDITOR.label, Category.INKSCAPE.label),
             "Inkscape",
             "https://inkscape.org",
-            version)
+            version,
+            logo = Logo.INKSCAPE)
     }
 }
