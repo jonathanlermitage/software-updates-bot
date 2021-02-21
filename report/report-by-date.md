@@ -37,9 +37,6 @@
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
 |![logo](../media/logo/python.png) Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
-|AdoptOpenJDK jdk14 windows x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:36 CEST 2020|
-|AdoptOpenJDK jdk14 mac x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:35 CEST 2020|
-|AdoptOpenJDK jdk14 linux x64|jdk-14.0.2+12|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot)|Thu Jul 16 12:00:34 CEST 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
