@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.9|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Feb 19 16:00:45 CET 2021|
@@ -28,10 +32,6 @@
 |![logo](../media/logo/vlc.png) VLC|3.0.12|[www.videolan.org](https://www.videolan.org/vlc/)|Mon Jan 18 14:01:25 CET 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.0.2|[inkscape.org](https://inkscape.org)|Mon Jan 18 01:00:39 CET 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 CET 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:42 CET 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.36|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:41 CET 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:38 CET 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:37 CET 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.10 (October 30, 2020)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Fri Oct 30 15:01:29 CET 2020|
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|

@@ -15,10 +15,10 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 249 - Édition tu perds tes amis|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 15 11:00:34 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.36|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:41 CET 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:42 CET 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:37 CET 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 11 17:00:38 CET 2020|
+|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.9|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v15.9.0|[nodejs.org](https://nodejs.org)|Thu Feb 18 04:00:38 CET 2021|
