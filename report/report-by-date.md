@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.16.0|[nodejs.org](https://nodejs.org)|Tue Feb 23 15:00:40 CET 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v15.10.0|[nodejs.org](https://nodejs.org)|Tue Feb 23 15:00:40 CET 2021|
 |![logo](../media/logo/gradle.png) Gradle|6.8.3|[gradle.org](https://gradle.org/releases/)|Mon Feb 22 18:00:31 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
@@ -9,7 +11,6 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.9.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 18 19:00:58 CET 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v15.9.0|[nodejs.org](https://nodejs.org)|Thu Feb 18 04:00:38 CET 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 249 - Édition tu perds tes amis|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 15 11:00:34 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.15.5|[nodejs.org](https://nodejs.org)|Tue Feb 09 19:00:40 CET 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-308|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:52 CET 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-305|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:49 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk15 linux x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|

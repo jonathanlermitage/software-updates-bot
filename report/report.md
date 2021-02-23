@@ -21,8 +21,8 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.9|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v15.9.0|[nodejs.org](https://nodejs.org)|Thu Feb 18 04:00:38 CET 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.15.5|[nodejs.org](https://nodejs.org)|Tue Feb 09 19:00:40 CET 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v15.10.0|[nodejs.org](https://nodejs.org)|Tue Feb 23 15:00:40 CET 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.16.0|[nodejs.org](https://nodejs.org)|Tue Feb 23 15:00:40 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
