@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 250 - Spécial Loi Société et Organisations avec Agnès Crepet et Tariq Krim, 2ème partie|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Mar 03 09:00:33 CET 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v15.11.0|[nodejs.org](https://nodejs.org)|Wed Mar 03 08:00:40 CET 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.16.0|[nodejs.org](https://nodejs.org)|Tue Feb 23 15:00:40 CET 2021|
 |![logo](../media/logo/gradle.png) Gradle|6.8.3|[gradle.org](https://gradle.org/releases/)|Mon Feb 22 18:00:31 CET 2021|
@@ -11,7 +12,6 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.9.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 18 19:00:58 CET 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 249 - Édition tu perds tes amis|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 15 11:00:34 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
