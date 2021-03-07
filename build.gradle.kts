@@ -5,13 +5,13 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 val detektVersion = "1.15.0"
 
 plugins {
-    val kotlinVersion = "1.4.21-2"
+    val kotlinVersion = "1.4.31"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "2.4.2"
+    id("org.springframework.boot") version "2.4.3"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
-    id("com.github.ben-manes.versions") version "0.36.0"
+    id("com.github.ben-manes.versions") version "0.38.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
     id("io.gitlab.arturbosch.detekt") version "1.15.0"
 }
@@ -33,7 +33,7 @@ dependencies {
     implementation("com.jayway.jsonpath:json-path:2.5.0")
     implementation("org.jsoup:jsoup:1.13.1")
     implementation("commons-io:commons-io:2.8.0")
-    implementation("org.apache.commons:commons-lang3:3.11")
+    implementation("org.apache.commons:commons-lang3:3.12.0")
     implementation("com.rometools:rome:1.15.0")
     implementation("org.springframework.boot:spring-boot-starter-aop")
     implementation("org.springframework.retry:spring-retry:1.3.1")
