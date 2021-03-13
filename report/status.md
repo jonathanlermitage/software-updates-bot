@@ -1,23 +1,25 @@
 FAILED
 
 <pre>checker class biz.lermitage.sub.service.checker.impl.VeraCryptChecker failed, ignoring
-java.net.SocketTimeoutException: connect timed out
-	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
-	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
-	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
-	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
-	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
-	at java.base/java.net.Socket.connect(Socket.java:609)
-	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
-	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
-	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
-	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
-	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1187)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
-	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+javax.net.ssl.SSLHandshakeException: No subject alternative DNS name matching www.veracrypt.fr found.
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:350)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:293)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:288)
+	at java.base/sun.security.ssl.CertificateMessage$T13CertificateConsumer.checkServerCerts(CertificateMessage.java:1356)
+	at java.base/sun.security.ssl.CertificateMessage$T13CertificateConsumer.onConsumeCertificate(CertificateMessage.java:1231)
+	at java.base/sun.security.ssl.CertificateMessage$T13CertificateConsumer.consume(CertificateMessage.java:1174)
+	at java.base/sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:392)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:444)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:422)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:183)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:171)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1408)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1314)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:440)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:411)
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:567)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:168)
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:732)
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
@@ -53,5 +55,14 @@ java.net.SocketTimeoutException: connect timed out
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:107)
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+Caused by: java.security.cert.CertificateException: No subject alternative DNS name matching www.veracrypt.fr found.
+	at java.base/sun.security.util.HostnameChecker.matchDNS(HostnameChecker.java:212)
+	at java.base/sun.security.util.HostnameChecker.match(HostnameChecker.java:103)
+	at java.base/sun.security.ssl.X509TrustManagerImpl.checkIdentity(X509TrustManagerImpl.java:455)
+	at java.base/sun.security.ssl.X509TrustManagerImpl.checkIdentity(X509TrustManagerImpl.java:415)
+	at java.base/sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+	at java.base/sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:129)
+	at java.base/sun.security.ssl.CertificateMessage$T13CertificateConsumer.checkServerCerts(CertificateMessage.java:1340)
+	... 48 more
 
 </pre>
