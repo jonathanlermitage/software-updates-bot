@@ -88,6 +88,42 @@
         "JDK",
         "AdoptOpenJDK"
       ],
+      "name": "AdoptOpenJDK jdk16 linux x64",
+      "website": "https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot",
+      "version": "jdk-16+36",
+      "checkDate": "Mar 17, 2021, 9:00:27 PM",
+      "logo": "ADOPTOPENJDK"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "AdoptOpenJDK"
+      ],
+      "name": "AdoptOpenJDK jdk16 mac x64",
+      "website": "https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot",
+      "version": "jdk-16+36",
+      "checkDate": "Mar 17, 2021, 9:00:27 PM",
+      "logo": "ADOPTOPENJDK"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "AdoptOpenJDK"
+      ],
+      "name": "AdoptOpenJDK jdk16 windows x64",
+      "website": "https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot",
+      "version": "jdk-16+36",
+      "checkDate": "Mar 17, 2021, 9:00:27 PM",
+      "logo": "ADOPTOPENJDK"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "AdoptOpenJDK"
+      ],
       "name": "AdoptOpenJDK jdk8 linux x64",
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
       "version": "jdk8u282-b08",
