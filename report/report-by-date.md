@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v15.12.0|[nodejs.org](https://nodejs.org)|Thu Mar 18 00:00:39 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 linux x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 mac x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 windows x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 251 - Trié dans le désordre|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Mar 16 20:00:35 CET 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v15.11.0|[nodejs.org](https://nodejs.org)|Wed Mar 03 08:00:40 CET 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.16.0|[nodejs.org](https://nodejs.org)|Tue Feb 23 15:00:40 CET 2021|
 |![logo](../media/logo/gradle.png) Gradle|6.8.3|[gradle.org](https://gradle.org/releases/)|Mon Feb 22 18:00:31 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
