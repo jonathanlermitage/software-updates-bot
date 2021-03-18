@@ -40,7 +40,7 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.9.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-305|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:49 CET 2021|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-308|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:52 CET 2021|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-335|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Mar 18 17:00:58 CET 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.4.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 18 11:00:58 CET 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.12|[www.videolan.org](https://www.videolan.org/vlc/)|Mon Jan 18 14:01:25 CET 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 CET 2020|

@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-335|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Mar 18 17:00:58 CET 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.4.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 18 11:00:58 CET 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v15.12.0|[nodejs.org](https://nodejs.org)|Thu Mar 18 00:00:39 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 linux x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
@@ -21,7 +22,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-308|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:52 CET 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-305|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:49 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk15 linux x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk15 mac x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
