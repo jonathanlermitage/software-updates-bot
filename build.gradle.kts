@@ -22,7 +22,12 @@ java.sourceCompatibility = JavaVersion.VERSION_1_8
 
 repositories {
     mavenCentral()
-    jcenter()
+    jcenter { // jcenter will be removed soon
+        content {
+            includeGroup("io.gitlab.arturbosch.detekt") // detekt is on jcenter only
+            includeGroup("org.jetbrains.kotlinx") // detekt depends on org.jetbrains.kotlinx:kotlinx-html-jvm from jcenter
+        }
+    }
 }
 
 dependencies {
