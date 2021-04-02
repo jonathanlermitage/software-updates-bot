@@ -36,8 +36,8 @@
 |![logo](../media/logo/python.png) Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
-|![logo](../media/logo/python.png) Python 3 mac| 3.9.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Feb 19 16:00:45 CET 2021|
-|![logo](../media/logo/python.png) Python 3 source| 3.9.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Feb 19 16:00:45 CET 2021|
+|![logo](../media/logo/python.png) Python 3 mac| 3.9.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Apr 02 20:00:46 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 source| 3.9.3|[www.python.org](https://www.python.org/downloads/source/)|Fri Apr 02 20:00:46 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-305|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:49 CET 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-335|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Mar 18 17:00:58 CET 2021|

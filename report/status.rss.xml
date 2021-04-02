@@ -4,15 +4,37 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Wed, 31 Mar 2021 13:01:03 GMT</pubDate>
+    <pubDate>Fri, 02 Apr 2021 18:01:00 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2021-03-31T13:01:03Z</dc:date>
+    <dc:date>2021-04-02T18:01:00Z</dc:date>
     <item>
-      <title>OK -- Wed Mar 31 15:01:03 CEST 2021</title>
-      <description>OK</description>
-      <pubDate>Wed, 31 Mar 2021 13:01:03 GMT</pubDate>
+      <title>FAILED -- Fri Apr 02 20:01:00 CEST 2021</title>
+      <description>FAILED
+
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.Python3WindowsChecker failed, ignoring
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:148)
+	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:30)
+	at biz.lermitage.sub.Application.run(Application.kt:52)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:806)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:790)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:333)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1313)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:115)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:107)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+&lt;/pre&gt;</description>
+      <pubDate>Fri, 02 Apr 2021 18:01:00 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2021-03-31T13:01:03Z</dc:date>
+      <dc:date>2021-04-02T18:01:00Z</dc:date>
     </item>
   </channel>
 </rss>
