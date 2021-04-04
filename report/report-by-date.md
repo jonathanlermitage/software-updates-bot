@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/python.png) Python 3 windows| 3.9.4|[www.python.org](https://www.python.org/downloads/windows/)|Sun Apr 04 21:00:47 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 source| 3.9.4|[www.python.org](https://www.python.org/downloads/source/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Apr 04 21:00:47 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 source| 3.9.4|[www.python.org](https://www.python.org/downloads/source/)|Sun Apr 04 21:00:47 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 windows| 3.9.4|[www.python.org](https://www.python.org/downloads/windows/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.1|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Apr 04 15:00:39 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v15.13.0|[nodejs.org](https://nodejs.org)|Wed Mar 31 17:00:41 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 252 - Interview GraphQL avec Stan Chollet et Jean-François James - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 29 10:00:36 CEST 2021|
