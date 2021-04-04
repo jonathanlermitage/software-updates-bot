@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|3.8.1|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Apr 04 15:00:39 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Apr 02 20:00:46 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.3|[www.python.org](https://www.python.org/downloads/source/)|Fri Apr 02 20:00:46 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v15.13.0|[nodejs.org](https://nodejs.org)|Wed Mar 31 17:00:41 CEST 2021|
@@ -41,6 +42,5 @@
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
 |![logo](../media/logo/python.png) Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 CEST 2020|
-|![logo](../media/logo/maven.png) Maven|3.6.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon May 25 17:35:32 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
