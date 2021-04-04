@@ -1,8 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.9.4|[www.python.org](https://www.python.org/downloads/windows/)|Sun Apr 04 21:00:47 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 source| 3.9.4|[www.python.org](https://www.python.org/downloads/source/)|Sun Apr 04 21:00:47 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 mac| 3.9.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.1|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Apr 04 15:00:39 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 mac| 3.9.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Apr 02 20:00:46 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 source| 3.9.3|[www.python.org](https://www.python.org/downloads/source/)|Fri Apr 02 20:00:46 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v15.13.0|[nodejs.org](https://nodejs.org)|Wed Mar 31 17:00:41 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 252 - Interview GraphQL avec Stan Chollet et Jean-François James - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 29 10:00:36 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-335|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Mar 18 17:00:58 CET 2021|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.9|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
-|![logo](../media/logo/python.png) Python 3 windows| 3.9.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Feb 19 16:00:45 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
