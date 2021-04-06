@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.16.1|[nodejs.org](https://nodejs.org)|Tue Apr 06 23:00:40 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v15.14.0|[nodejs.org](https://nodejs.org)|Tue Apr 06 23:00:40 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.16.1|[nodejs.org](https://nodejs.org)|Tue Apr 06 23:00:40 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.4|[www.python.org](https://www.python.org/downloads/source/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.4|[www.python.org](https://www.python.org/downloads/windows/)|Sun Apr 04 21:00:47 CEST 2021|
