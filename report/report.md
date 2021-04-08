@@ -15,7 +15,7 @@
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk8 windows x64|jdk8u282-b08|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 21 19:00:36 CET 2021|
 |![logo](../media/logo/gradle.png) Gradle|6.8.3|[gradle.org](https://gradle.org/releases/)|Mon Feb 22 18:00:31 CET 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.0.2|[inkscape.org](https://inkscape.org)|Mon Jan 18 01:00:39 CET 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 252 - Interview GraphQL avec Stan Chollet et Jean-François James - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 29 10:00:36 CEST 2021|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 253 - Interview GraphQL avec Stan Chollet et Jean-François James - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Apr 08 09:00:35 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
