@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 15 15:00:59 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.0|[gradle.org](https://gradle.org/releases/)|Sat Apr 10 01:01:09 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 253 - Interview GraphQL avec Stan Chollet et Jean-François James - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Apr 08 09:00:35 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v15.14.0|[nodejs.org](https://nodejs.org)|Tue Apr 06 23:00:40 CEST 2021|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.4|[www.python.org](https://www.python.org/downloads/windows/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.1|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Apr 04 15:00:39 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-335|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Mar 18 17:00:58 CET 2021|
-|![logo](../media/logo/springboot.png) Spring Boot|2.4.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 18 11:00:58 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 linux x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 mac x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 windows x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
