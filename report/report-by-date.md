@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.0.0|[nodejs.org](https://nodejs.org)|Tue Apr 20 19:00:43 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 254 - Fission acquisition|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 20 10:00:37 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 15 15:00:59 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.0|[gradle.org](https://gradle.org/releases/)|Sat Apr 10 01:01:09 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v15.14.0|[nodejs.org](https://nodejs.org)|Tue Apr 06 23:00:40 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.16.1|[nodejs.org](https://nodejs.org)|Tue Apr 06 23:00:40 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.4|[www.python.org](https://www.python.org/downloads/source/)|Sun Apr 04 21:00:47 CEST 2021|
