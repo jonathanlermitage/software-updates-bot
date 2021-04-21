@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) AdoptOpenJDK jdk8 windows x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
-|![logo](../media/logo/java.png) AdoptOpenJDK jdk8 mac x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk8 linux x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
-|![logo](../media/logo/java.png) AdoptOpenJDK jdk11 windows x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
-|![logo](../media/logo/java.png) AdoptOpenJDK jdk11 mac x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
+|![logo](../media/logo/java.png) AdoptOpenJDK jdk8 mac x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
+|![logo](../media/logo/java.png) AdoptOpenJDK jdk8 windows x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 linux x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
+|![logo](../media/logo/java.png) AdoptOpenJDK jdk11 mac x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
+|![logo](../media/logo/java.png) AdoptOpenJDK jdk11 windows x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.0.0|[nodejs.org](https://nodejs.org)|Tue Apr 20 19:00:43 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 254 - Fission acquisition|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 20 10:00:37 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 15 15:00:59 CEST 2021|
