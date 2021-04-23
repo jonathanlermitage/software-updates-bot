@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) AdoptOpenJDK jdk16 windows x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
+|![logo](../media/logo/java.png) AdoptOpenJDK jdk16 mac x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
+|![logo](../media/logo/java.png) AdoptOpenJDK jdk16 linux x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk8 linux x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk8 mac x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk8 windows x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
@@ -16,9 +19,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.4|[www.python.org](https://www.python.org/downloads/windows/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.1|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Apr 04 15:00:39 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-335|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Mar 18 17:00:58 CET 2021|
-|![logo](../media/logo/java.png) AdoptOpenJDK jdk16 linux x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
-|![logo](../media/logo/java.png) AdoptOpenJDK jdk16 mac x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
-|![logo](../media/logo/java.png) AdoptOpenJDK jdk16 windows x64|jdk-16+36|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Wed Mar 17 21:00:27 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
