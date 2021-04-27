@@ -9,7 +9,7 @@ if test -f "$PID_FILE"; then
 fi
 
 # run the scrapper
-~/jdk8/bin/java -Xms32m -Xmx300m -XX:MaxMetaspaceSize=100m -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
+java -Xms32m -Xmx300m -XX:MaxMetaspaceSize=100m -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
 
 # git logging and push
 date >> logs/git.log
