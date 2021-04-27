@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-368|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Apr 27 23:24:41 CEST 2021|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-367|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Apr 27 23:24:38 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 linux x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 mac x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 windows x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
@@ -18,7 +20,6 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.9.4|[www.python.org](https://www.python.org/downloads/source/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.4|[www.python.org](https://www.python.org/downloads/windows/)|Sun Apr 04 21:00:47 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.1|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Apr 04 15:00:39 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-335|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Thu Mar 18 17:00:58 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 22 17:00:36 CET 2021|
@@ -29,7 +30,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-305|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 09 16:00:49 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk15 linux x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk15 mac x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk15 windows x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
