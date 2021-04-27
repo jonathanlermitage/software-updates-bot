@@ -1,6 +1,9 @@
 spring:
   application.name: "software-updates-bot"
   main.banner-mode: log
+  pid:
+    fail-on-write-error: false
+    file: manon.pid
 logging:
   level.root: INFO
   file.path: "logs/"
