@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/python.png) Python 3 windows| 3.9.5|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 03 21:00:44 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 source| 3.9.5|[www.python.org](https://www.python.org/downloads/source/)|Mon May 03 21:00:44 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon May 03 21:00:44 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 source| 3.9.5|[www.python.org](https://www.python.org/downloads/source/)|Mon May 03 21:00:44 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 windows| 3.9.5|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 03 21:00:44 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-368|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Apr 27 23:24:41 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-367|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Apr 27 23:24:38 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 linux x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
