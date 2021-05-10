@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 255 - Interview Java 16 avec José Paumard et Henry Tremblai - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon May 10 17:00:34 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.13|[www.videolan.org](https://www.videolan.org/vlc/)|Mon May 10 10:00:56 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 linux x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 mac x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 windows x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 254 - Fission acquisition|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 20 10:00:37 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 15 15:00:59 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.0|[gradle.org](https://gradle.org/releases/)|Sat Apr 10 01:01:09 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.16.1|[nodejs.org](https://nodejs.org)|Tue Apr 06 23:00:40 CEST 2021|
