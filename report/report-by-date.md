@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vlc.png) VLC|3.0.14|[www.videolan.org](https://www.videolan.org/vlc/)|Mon May 10 22:00:57 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.0.1|[gradle.org](https://gradle.org/releases/)|Mon May 10 19:00:30 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 255 - Interview Java 16 avec José Paumard et Henry Tremblai - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon May 10 17:00:34 CEST 2021|
-|![logo](../media/logo/vlc.png) VLC|3.0.13|[www.videolan.org](https://www.videolan.org/vlc/)|Mon May 10 10:00:56 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
