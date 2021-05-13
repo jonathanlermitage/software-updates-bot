@@ -1,7 +1,7 @@
 FAILED
 
 <pre>checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
-org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://rammichael.com/downloads/7tt_setup.exe?changelog
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=500, URL=https://rammichael.com/downloads/7tt_setup.exe?changelog
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:762)
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
 	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
