@@ -1,8 +1,26 @@
 FAILED
 
 <pre>checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
-org.jsoup.HttpStatusException: HTTP error fetching URL. Status=500, URL=https://rammichael.com/downloads/7tt_setup.exe?changelog
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:762)
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:975)
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:933)
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:735)
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:678)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1587)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:736)
 	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
 	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:35)
