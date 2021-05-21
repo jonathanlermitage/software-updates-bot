@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.5.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 21 19:00:57 CEST 2021|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11 (May 21, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Fri May 21 19:00:56 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.2.0|[nodejs.org](https://nodejs.org)|Wed May 19 14:00:38 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.0.2|[gradle.org](https://gradle.org/releases/)|Sun May 16 21:00:34 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
@@ -7,7 +9,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.10.1 (May 12, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Wed May 12 09:00:55 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.0|[nodejs.org](https://nodejs.org)|Wed May 12 06:00:36 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 255 - Interview Java 16 avec José Paumard et Henri Tremblay - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 11 23:00:33 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.14|[www.videolan.org](https://www.videolan.org/vlc/)|Mon May 10 22:00:57 CEST 2021|
@@ -29,7 +30,6 @@
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 linux x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 mac x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 windows x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
-|![logo](../media/logo/springboot.png) Spring Boot|2.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 15 15:00:59 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.1|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Apr 04 15:00:39 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk15 linux x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 CET 2021|
