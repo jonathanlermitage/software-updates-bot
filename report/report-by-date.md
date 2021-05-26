@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.1 (May 27, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Thu May 27 01:00:52 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 256 - jTerrasse|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon May 24 15:00:33 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 21 19:00:57 CEST 2021|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11 (May 21, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Fri May 21 19:00:56 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.2.0|[nodejs.org](https://nodejs.org)|Wed May 19 14:00:38 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.0.2|[gradle.org](https://gradle.org/releases/)|Sun May 16 21:00:34 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
