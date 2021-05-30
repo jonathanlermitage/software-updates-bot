@@ -22,7 +22,7 @@ class VLCChecker : Checker {
         var version = body.getElementsByAttributeValue("id", "downloadDetails")[0].text()
         if (version.contains("•"))
             version = version.substring(0, version.indexOf("•"))
-                .toLowerCase()
+                .lowercase()
                 .replace("version", "")
                 .trim()
 

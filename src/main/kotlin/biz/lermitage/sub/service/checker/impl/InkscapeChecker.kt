@@ -22,8 +22,8 @@ class InkscapeChecker : Checker {
         val body = scrapper.fetchHtml("https://inkscape.org/release/")
         val titles = body.getElementsByTag("h2")
         titles.addAll(body.getElementsByTag("h1"))
-        val versionTitleFound = titles.toList().find { element: Element -> element.text().toLowerCase().contains("inkscape ") }
-        val version = versionTitleFound!!.text().toLowerCase().replace("inkscape", "").trim()
+        val versionTitleFound = titles.toList().find { element: Element -> element.text().lowercase().contains("inkscape ") }
+        val version = versionTitleFound!!.text().lowercase().replace("inkscape", "").trim()
 
         return SoftwareUpdate(
             listOf(Category.SVG_EDITOR.label, Category.INKSCAPE.label),

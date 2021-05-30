@@ -25,7 +25,7 @@ abstract class PythonChecker(private val platformId: String,
         val versionPrefix = "latest python $majorVersion release - python"
         val version = body.getElementsByAttributeValueStarting("href", "/downloads")
             .stream()
-            .filter { it.text().toLowerCase().startsWith(versionPrefix) }
+            .filter { it.text().lowercase().startsWith(versionPrefix) }
             .findFirst()
             .get().text().substring(versionPrefix.length)
 

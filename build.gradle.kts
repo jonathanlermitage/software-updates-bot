@@ -2,18 +2,18 @@ import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-val detektVersion = "1.16.0"
+val detektVersion = "1.17.1"
 
 plugins {
-    val kotlinVersion = "1.5.0"
+    val kotlinVersion = "1.5.10"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "2.4.5"
+    id("org.springframework.boot") version "2.5.0"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
-    id("com.github.ben-manes.versions") version "0.38.0"
+    id("com.github.ben-manes.versions") version "0.39.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
-    id("io.gitlab.arturbosch.detekt") version "1.16.0"
+    id("io.gitlab.arturbosch.detekt") version "1.17.1"
 }
 
 group = "biz.lermitage"
@@ -22,22 +22,16 @@ java.sourceCompatibility = JavaVersion.VERSION_1_8
 
 repositories {
     mavenCentral()
-    jcenter { // jcenter will be removed soon
-        content {
-            includeGroup("io.gitlab.arturbosch.detekt") // detekt is on jcenter only
-            includeGroup("org.jetbrains.kotlinx") // detekt depends on org.jetbrains.kotlinx:kotlinx-html-jvm from jcenter
-        }
-    }
 }
 
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-    implementation("com.google.code.gson:gson:2.8.6")
+    implementation("com.google.code.gson:gson:2.8.7")
     implementation("com.jayway.jsonpath:json-path:2.5.0")
     implementation("org.jsoup:jsoup:1.13.1")
-    implementation("commons-io:commons-io:2.8.0")
+    implementation("commons-io:commons-io:2.9.0")
     implementation("org.apache.commons:commons-lang3:3.12.0")
     implementation("com.rometools:rome:1.15.0")
     implementation("org.springframework.boot:spring-boot-starter-aop")

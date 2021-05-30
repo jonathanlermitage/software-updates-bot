@@ -12,7 +12,7 @@ import java.io.File
 @SpringBootTest
 @ActiveProfiles("test")
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-abstract class BaseTests {
+class BaseTests {
 
     private val logger = LoggerFactory.getLogger(this.javaClass)
 
