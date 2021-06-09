@@ -39,7 +39,7 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon May 03 21:00:44 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.5|[www.python.org](https://www.python.org/downloads/source/)|Mon May 03 21:00:44 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.5|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 03 21:00:44 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-367|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Apr 27 23:24:38 CEST 2021|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 10:00:49 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 03:00:51 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 21 19:00:57 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.14|[www.videolan.org](https://www.videolan.org/vlc/)|Mon May 10 22:00:57 CEST 2021|
