@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 03:00:51 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 257 - Interview Java 16 avec José Paumard et Henri Tremblay - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 07 11:00:33 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.3.0|[nodejs.org](https://nodejs.org)|Thu Jun 03 06:01:06 CEST 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.1 (May 27, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Thu May 27 01:00:52 CEST 2021|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon May 03 21:00:44 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.5|[www.python.org](https://www.python.org/downloads/source/)|Mon May 03 21:00:44 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.5|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 03 21:00:44 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-368|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Apr 27 23:24:41 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-367|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Apr 27 23:24:38 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 linux x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 mac x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
