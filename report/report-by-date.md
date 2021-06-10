@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vlc.png) VLC|3.0.15|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jun 10 18:01:00 CEST 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.2 (June 10, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Thu Jun 10 15:00:53 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 10:00:49 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 03:00:51 CEST 2021|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.0|[nodejs.org](https://nodejs.org)|Wed May 12 06:00:36 CEST 2021|
-|![logo](../media/logo/vlc.png) VLC|3.0.14|[www.videolan.org](https://www.videolan.org/vlc/)|Mon May 10 22:00:57 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
