@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.2 (June 10, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Thu Jun 10 15:00:53 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 10:00:49 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 03:00:51 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 257 - Interview Java 16 avec José Paumard et Henri Tremblay - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 07 11:00:33 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.3.0|[nodejs.org](https://nodejs.org)|Thu Jun 03 06:01:06 CEST 2021|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.1 (May 27, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Thu May 27 01:00:52 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 21 19:00:57 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.0.2|[gradle.org](https://gradle.org/releases/)|Sun May 16 21:00:34 CEST 2021|
