@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vlc.png) VLC|3.0.14|[www.videolan.org](https://www.videolan.org/vlc/)|Fri Jun 11 22:00:56 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 10 22:00:53 CEST 2021|
-|![logo](../media/logo/vlc.png) VLC|3.0.15|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jun 10 18:01:00 CEST 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.2 (June 10, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Thu Jun 10 15:00:53 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 10:00:49 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 03:00:51 CEST 2021|
