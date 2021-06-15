@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.1|[nodejs.org](https://nodejs.org)|Tue Jun 15 15:00:40 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1|[gradle.org](https://gradle.org/releases/)|Mon Jun 14 17:00:31 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.14|[www.videolan.org](https://www.videolan.org/vlc/)|Fri Jun 11 22:00:56 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 10 22:00:53 CEST 2021|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.0|[nodejs.org](https://nodejs.org)|Wed May 12 06:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
