@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.4.0|[nodejs.org](https://nodejs.org)|Wed Jun 23 14:00:38 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 258 - Les mineurs de fond|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jun 16 11:00:34 CEST 2021|
