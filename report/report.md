@@ -24,7 +24,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.10|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.8.1|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Apr 04 15:00:39 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v16.3.0|[nodejs.org](https://nodejs.org)|Thu Jun 03 06:01:06 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.4.0|[nodejs.org](https://nodejs.org)|Wed Jun 23 14:00:38 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.1|[nodejs.org](https://nodejs.org)|Tue Jun 15 15:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
@@ -42,5 +42,5 @@
 |![logo](../media/logo/redhat.png) RHEL7|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 10:00:49 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 03:00:51 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 10 22:00:53 CEST 2021|
-|![logo](../media/logo/vlc.png) VLC|3.0.14|[www.videolan.org](https://www.videolan.org/vlc/)|Fri Jun 11 22:00:56 CEST 2021|
+|![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 CEST 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 CET 2020|

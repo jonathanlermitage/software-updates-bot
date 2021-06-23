@@ -1,14 +1,14 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.4.0|[nodejs.org](https://nodejs.org)|Wed Jun 23 14:00:38 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 258 - Les mineurs de fond|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jun 16 11:00:34 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.1|[nodejs.org](https://nodejs.org)|Tue Jun 15 15:00:40 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1|[gradle.org](https://gradle.org/releases/)|Mon Jun 14 17:00:31 CEST 2021|
-|![logo](../media/logo/vlc.png) VLC|3.0.14|[www.videolan.org](https://www.videolan.org/vlc/)|Fri Jun 11 22:00:56 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 10 22:00:53 CEST 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.2 (June 10, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Thu Jun 10 15:00:53 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 10:00:49 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 03:00:51 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v16.3.0|[nodejs.org](https://nodejs.org)|Thu Jun 03 06:01:06 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
