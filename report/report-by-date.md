@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.4.0|[nodejs.org](https://nodejs.org)|Wed Jun 23 14:00:38 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 258 - Les mineurs de fond|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jun 16 11:00:34 CEST 2021|
@@ -15,10 +19,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.10|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 07 23:00:36 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon May 03 21:00:44 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.5|[www.python.org](https://www.python.org/downloads/source/)|Mon May 03 21:00:44 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.5|[www.python.org](https://www.python.org/downloads/windows/)|Mon May 03 21:00:44 CEST 2021|
