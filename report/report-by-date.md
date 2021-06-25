@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.5.2.RELEASE|[start.spring.io](https://start.spring.io)|Sat Jun 26 00:00:54 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 258 - Les mineurs de fond|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jun 16 11:00:34 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.1|[nodejs.org](https://nodejs.org)|Tue Jun 15 15:00:40 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1|[gradle.org](https://gradle.org/releases/)|Mon Jun 14 17:00:31 CEST 2021|
-|![logo](../media/logo/springboot.png) Spring Boot|2.5.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 10 22:00:53 CEST 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.2 (June 10, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Thu Jun 10 15:00:53 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 10:00:49 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-401|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jun 09 03:00:51 CEST 2021|
