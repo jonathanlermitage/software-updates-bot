@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/python.png) Python 3 windows| 3.9.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 30 00:00:41 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 source| 3.9.6|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 30 00:00:41 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 30 00:00:41 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 source| 3.9.6|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 30 00:00:41 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 windows| 3.9.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 30 00:00:41 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.2.RELEASE|[start.spring.io](https://start.spring.io)|Sat Jun 26 00:00:54 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
