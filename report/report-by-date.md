@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.2|[nodejs.org](https://nodejs.org)|Sat Jul 03 00:00:36 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.4.1|[nodejs.org](https://nodejs.org)|Sat Jul 03 00:00:36 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.2|[nodejs.org](https://nodejs.org)|Sat Jul 03 00:00:36 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1.1|[gradle.org](https://gradle.org/releases/)|Sat Jul 03 00:00:28 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 30 00:00:41 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.6|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 30 00:00:41 CEST 2021|
