@@ -15,7 +15,7 @@
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk8 windows x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1.1|[gradle.org](https://gradle.org/releases/)|Sat Jul 03 00:00:28 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 258 - Les mineurs de fond|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jun 16 11:00:34 CEST 2021|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 259 - Interview Software Heritage avec Roberto Di Cosmo et Charles Sabourdin|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jul 10 00:00:33 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
