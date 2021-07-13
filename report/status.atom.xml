@@ -3,76 +3,18 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2021-07-11T21:02:04Z</modified>
+  <modified>2021-07-13T22:00:56Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2021-07-11T21:02:04Z</dc:date>
+  <dc:date>2021-07-13T22:00:56Z</dc:date>
   <entry>
-    <title>FAILED -- Sun Jul 11 23:02:04 CEST 2021</title>
+    <title>OK -- Wed Jul 14 00:00:56 CEST 2021</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2021-07-11T21:02:04Z</modified>
-    <issued>2021-07-11T21:02:04Z</issued>
-    <summary type="text/html" mode="escaped">FAILED
-
-&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.RHEL7Checker failed, ignoring
-java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
-	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
-	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:975)
-	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:933)
-	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
-	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
-	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:735)
-	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:678)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1587)
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
-	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
-	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:736)
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:707)
-	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:297)
-	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:286)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:53)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(&lt;generated&gt;)
-	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:93)
-	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
-	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:119)
-	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
-	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchText(&lt;generated&gt;)
-	at biz.lermitage.sub.service.checker.impl.RHEL7Checker.check(RHEL7Checker.kt:26)
-	at biz.lermitage.sub.Application.run(Application.kt:52)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:791)
-	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:775)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:345)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
-	at biz.lermitage.sub.ApplicationKt.main(Application.kt:115)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
-	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
-
-&lt;/pre&gt;</summary>
-    <dc:date>2021-07-11T21:02:04Z</dc:date>
+    <modified>2021-07-13T22:00:56Z</modified>
+    <issued>2021-07-13T22:00:56Z</issued>
+    <summary type="text/html" mode="escaped">OK</summary>
+    <dc:date>2021-07-13T22:00:56Z</dc:date>
   </entry>
 </feed>
