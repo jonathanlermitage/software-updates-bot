@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 14 12:00:37 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 259 - Interview Software Heritage avec Roberto Di Cosmo et Charles Sabourdin|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jul 10 00:00:33 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v16.4.2|[nodejs.org](https://nodejs.org)|Wed Jul 07 00:00:36 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.3|[nodejs.org](https://nodejs.org)|Wed Jul 07 00:00:36 CEST 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.3 (July 4, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sun Jul 04 22:00:52 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1.1|[gradle.org](https://gradle.org/releases/)|Sat Jul 03 00:00:28 CEST 2021|
