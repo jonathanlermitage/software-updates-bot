@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/go.png) Go|go1.16.6|[golang.org](https://golang.org/dl/#stable)|Sun Jul 25 19:00:30 CEST 2021|
+|![logo](../media/logo/go.png) Go|go1.16.6|[golang.org](https://golang.org/dl/)|Sun Jul 25 19:00:30 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.3.RELEASE|[start.spring.io](https://start.spring.io)|Sat Jul 24 00:00:54 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-438|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:48 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-437|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:45 CEST 2021|
