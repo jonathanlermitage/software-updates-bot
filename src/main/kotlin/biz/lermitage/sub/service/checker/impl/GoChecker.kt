@@ -10,7 +10,7 @@ import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 
 /**
- * Gradle checker.
+ * GoLang checker.
  */
 @Service
 class GoChecker : Checker {
@@ -28,7 +28,7 @@ class GoChecker : Checker {
         return SoftwareUpdate(
             listOf(Category.GO.label),
             "Go",
-            "https://golang.org/dl/#stable",
+            "https://golang.org/dl/",
             version,
             logo = Logo.GO)
     }
