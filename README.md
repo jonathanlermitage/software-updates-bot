@@ -9,6 +9,7 @@
 This bot currently monitors updates for:
 * 7+ Taskbar Tweaker
 * AdoptOpenJDK: JDK8, 11 and 15
+* Go 
 * Gradle
 * Inkscape
 * Les Cast Codeurs (a great French podcast)

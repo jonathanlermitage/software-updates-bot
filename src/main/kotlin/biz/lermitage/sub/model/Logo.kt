@@ -4,6 +4,7 @@ enum class Logo(val img: String) {
 
     ADOPTOPENJDK("java.png"),
     CASTCODEURS("castcodeurs.png"),
+    GO("go.png"),
     GRADLE("gradle.png"),
     INKSCAPE("inkscape.png"),
     MARIADB("mariadb.png"),
