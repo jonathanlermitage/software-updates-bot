@@ -13,6 +13,7 @@
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk8 linux x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk8 mac x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk8 windows x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 CEST 2021|
+|![logo](../media/logo/go.png) Go|go1.16.6|[golang.org](https://golang.org/dl/#stable)|Sun Jul 25 19:00:30 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1.1|[gradle.org](https://gradle.org/releases/)|Sat Jul 03 00:00:28 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 259 - Interview Software Heritage avec Roberto Di Cosmo et Charles Sabourdin|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jul 10 00:00:33 CEST 2021|

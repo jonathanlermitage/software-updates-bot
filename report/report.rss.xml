@@ -6,6 +6,7 @@
     <description>Popular stuff updates - https://github.com/jonathanlermitage/software-updates-bot</description>
     <category>AdoptOpenJDK</category>
     <category>Database</category>
+    <category>Go</category>
     <category>Gradle</category>
     <category>Inkscape</category>
     <category>Java</category>
@@ -28,6 +29,7 @@
     <dc:creator>Jonathan Lermitage</dc:creator>
     <dc:subject>AdoptOpenJDK</dc:subject>
     <dc:subject>Database</dc:subject>
+    <dc:subject>Go</dc:subject>
     <dc:subject>Gradle</dc:subject>
     <dc:subject>Inkscape</dc:subject>
     <dc:subject>Java</dc:subject>
@@ -47,6 +49,15 @@
     <dc:subject>VeraCrypt</dc:subject>
     <dc:subject>VLC</dc:subject>
     <dc:subject>MS Windows</dc:subject>
+    <item>
+      <title>Go -- go1.16.6</title>
+      <link>https://golang.org/dl/#stable</link>
+      <description>Go -- go1.16.6 -- Sun Jul 25 19:00:30 CEST 2021</description>
+      <category>Go</category>
+      <pubDate>Sun, 25 Jul 2021 17:00:30 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2021-07-25T17:00:30Z</dc:date>
+    </item>
     <item>
       <title>Spring Boot -- 2.5.3.RELEASE</title>
       <link>https://start.spring.io</link>
