@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 260 - L'épisode généré par intelligence artificielle|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 28 00:00:40 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.4|[nodejs.org](https://nodejs.org)|Sat Jul 31 00:00:42 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.6.0|[nodejs.org](https://nodejs.org)|Sat Jul 31 00:00:42 CEST 2021|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 261 - Interview Doctolib avec David Gageot|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jul 31 00:00:37 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.16.6|[golang.org](https://golang.org/dl/)|Sun Jul 25 19:00:30 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.3.RELEASE|[start.spring.io](https://start.spring.io)|Sat Jul 24 00:00:54 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-438|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:48 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-437|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:45 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v16.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 14 12:00:37 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.3|[nodejs.org](https://nodejs.org)|Wed Jul 07 00:00:36 CEST 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.3 (July 4, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sun Jul 04 22:00:52 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1.1|[gradle.org](https://gradle.org/releases/)|Sat Jul 03 00:00:28 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 30 00:00:41 CEST 2021|

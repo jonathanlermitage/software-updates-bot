@@ -16,7 +16,7 @@
 |![logo](../media/logo/go.png) Go|go1.16.6|[golang.org](https://golang.org/dl/)|Sun Jul 25 19:00:30 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1.1|[gradle.org](https://gradle.org/releases/)|Sat Jul 03 00:00:28 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 260 - L'épisode généré par intelligence artificielle|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 28 00:00:40 CEST 2021|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 261 - Interview Doctolib avec David Gageot|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jul 31 00:00:37 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
@@ -25,8 +25,8 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.8.1|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Apr 04 15:00:39 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v16.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 14 12:00:37 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.3|[nodejs.org](https://nodejs.org)|Wed Jul 07 00:00:36 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.6.0|[nodejs.org](https://nodejs.org)|Sat Jul 31 00:00:42 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.4|[nodejs.org](https://nodejs.org)|Sat Jul 31 00:00:42 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
