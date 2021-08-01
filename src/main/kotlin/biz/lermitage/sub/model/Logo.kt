@@ -3,6 +3,7 @@ package biz.lermitage.sub.model
 enum class Logo(val img: String) {
 
     ADOPTOPENJDK("java.png"),
+    ADOPTIUM("java.png"),
     CASTCODEURS("castcodeurs.png"),
     GO("go.png"),
     GRADLE("gradle.png"),

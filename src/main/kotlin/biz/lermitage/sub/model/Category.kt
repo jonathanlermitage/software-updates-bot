@@ -3,6 +3,7 @@ package biz.lermitage.sub.model
 enum class Category(val label: String) {
 
     ADOPT_OPEN_JDK("AdoptOpenJDK"),
+    ADOPTIUM("Adoptium"),
     DATABASE("Database"),
     GO("Go"),
     GRADLE("Gradle"),
