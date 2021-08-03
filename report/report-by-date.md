@@ -1,15 +1,15 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.6.1|[nodejs.org](https://nodejs.org)|Wed Aug 04 00:00:37 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
-|![logo](../media/logo/java.png) Adoptium jdk16 windows x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 CEST 2021|
-|![logo](../media/logo/java.png) Adoptium jdk16 mac x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 linux x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 CEST 2021|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Aug 02 18:33:01 CEST 2021|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Aug 02 18:33:01 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk16 mac x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk16 windows x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Aug 02 18:33:01 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v16.6.0|[nodejs.org](https://nodejs.org)|Sat Jul 31 00:00:42 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Aug 02 18:33:01 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Aug 02 18:33:01 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.4|[nodejs.org](https://nodejs.org)|Sat Jul 31 00:00:42 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 261 - Interview Doctolib avec David Gageot|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jul 31 00:00:37 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.16.6|[golang.org](https://golang.org/dl/)|Sun Jul 25 19:00:30 CEST 2021|

@@ -52,9 +52,18 @@
     <dc:subject>VLC</dc:subject>
     <dc:subject>MS Windows</dc:subject>
     <item>
-      <title>Adoptium jdk8 windows x64 -- jdk8u302-b08</title>
+      <title>NodeJS Current -- v16.6.1</title>
+      <link>https://nodejs.org</link>
+      <description>NodeJS Current -- v16.6.1 -- Wed Aug 04 00:00:37 CEST 2021</description>
+      <category>NodeJS</category>
+      <pubDate>Tue, 03 Aug 2021 22:00:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2021-08-03T22:00:37Z</dc:date>
+    </item>
+    <item>
+      <title>Adoptium jdk8 linux x64 -- jdk8u302-b08</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk8 windows x64 -- jdk8u302-b08 -- Mon Aug 02 18:33:03 CEST 2021</description>
+      <description>Adoptium jdk8 linux x64 -- jdk8u302-b08 -- Mon Aug 02 18:33:03 CEST 2021</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -76,9 +85,9 @@
       <dc:date>2021-08-02T16:33:03Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk8 linux x64 -- jdk8u302-b08</title>
+      <title>Adoptium jdk8 windows x64 -- jdk8u302-b08</title>
       <link>https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk8 linux x64 -- jdk8u302-b08 -- Mon Aug 02 18:33:03 CEST 2021</description>
+      <description>Adoptium jdk8 windows x64 -- jdk8u302-b08 -- Mon Aug 02 18:33:03 CEST 2021</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -88,9 +97,9 @@
       <dc:date>2021-08-02T16:33:03Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk16 windows x64 -- jdk-16.0.2+7</title>
+      <title>Adoptium jdk16 linux x64 -- jdk-16.0.2+7</title>
       <link>https://adoptium.net/releases.html?variant=openjdk16&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk16 windows x64 -- jdk-16.0.2+7 -- Mon Aug 02 18:33:02 CEST 2021</description>
+      <description>Adoptium jdk16 linux x64 -- jdk-16.0.2+7 -- Mon Aug 02 18:33:02 CEST 2021</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -112,9 +121,9 @@
       <dc:date>2021-08-02T16:33:02Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk16 linux x64 -- jdk-16.0.2+7</title>
+      <title>Adoptium jdk16 windows x64 -- jdk-16.0.2+7</title>
       <link>https://adoptium.net/releases.html?variant=openjdk16&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk16 linux x64 -- jdk-16.0.2+7 -- Mon Aug 02 18:33:02 CEST 2021</description>
+      <description>Adoptium jdk16 windows x64 -- jdk-16.0.2+7 -- Mon Aug 02 18:33:02 CEST 2021</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -124,9 +133,9 @@
       <dc:date>2021-08-02T16:33:02Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk11 windows x64 -- jdk-11.0.12+7</title>
+      <title>Adoptium jdk11 linux x64 -- jdk-11.0.12+7</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 windows x64 -- jdk-11.0.12+7 -- Mon Aug 02 18:33:01 CEST 2021</description>
+      <description>Adoptium jdk11 linux x64 -- jdk-11.0.12+7 -- Mon Aug 02 18:33:01 CEST 2021</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -148,9 +157,9 @@
       <dc:date>2021-08-02T16:33:01Z</dc:date>
     </item>
     <item>
-      <title>Adoptium jdk11 linux x64 -- jdk-11.0.12+7</title>
+      <title>Adoptium jdk11 windows x64 -- jdk-11.0.12+7</title>
       <link>https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot</link>
-      <description>Adoptium jdk11 linux x64 -- jdk-11.0.12+7 -- Mon Aug 02 18:33:01 CEST 2021</description>
+      <description>Adoptium jdk11 windows x64 -- jdk-11.0.12+7 -- Mon Aug 02 18:33:01 CEST 2021</description>
       <category>Java</category>
       <category>JDK</category>
       <category>Adoptium</category>
@@ -158,15 +167,6 @@
       <pubDate>Mon, 02 Aug 2021 16:33:01 GMT</pubDate>
       <guid isPermaLink="false" />
       <dc:date>2021-08-02T16:33:01Z</dc:date>
-    </item>
-    <item>
-      <title>NodeJS Current -- v16.6.0</title>
-      <link>https://nodejs.org</link>
-      <description>NodeJS Current -- v16.6.0 -- Sat Jul 31 00:00:42 CEST 2021</description>
-      <category>NodeJS</category>
-      <pubDate>Fri, 30 Jul 2021 22:00:42 GMT</pubDate>
-      <guid isPermaLink="false" />
-      <dc:date>2021-07-30T22:00:42Z</dc:date>
     </item>
     <item>
       <title>NodeJS LTS -- v14.17.4</title>
