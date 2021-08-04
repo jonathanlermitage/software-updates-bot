@@ -21,7 +21,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk16 windows x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u302-b08.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 04 22:00:24 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.16.6|[golang.org](https://golang.org/dl/)|Sun Jul 25 19:00:30 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.1.1|[gradle.org](https://gradle.org/releases/)|Sat Jul 03 00:00:28 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
