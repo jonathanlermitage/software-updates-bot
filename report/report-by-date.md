@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.40|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.16.7|[golang.org](https://golang.org/dl/)|Sat Aug 07 00:00:31 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u302-b08.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 04 22:00:24 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.6.1|[nodejs.org](https://nodejs.org)|Wed Aug 04 00:00:37 CEST 2021|
