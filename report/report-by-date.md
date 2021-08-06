@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.40|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
+|![logo](../media/logo/go.png) Go|go1.16.7|[golang.org](https://golang.org/dl/)|Sat Aug 07 00:00:31 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u302-b08.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 04 22:00:24 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.6.1|[nodejs.org](https://nodejs.org)|Wed Aug 04 00:00:37 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
@@ -12,7 +17,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Aug 02 18:33:01 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.4|[nodejs.org](https://nodejs.org)|Sat Jul 31 00:00:42 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 261 - Interview Doctolib avec David Gageot|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jul 31 00:00:37 CEST 2021|
-|![logo](../media/logo/go.png) Go|go1.16.6|[golang.org](https://golang.org/dl/)|Sun Jul 25 19:00:30 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.3.RELEASE|[start.spring.io](https://start.spring.io)|Sat Jul 24 00:00:54 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-438|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:48 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-437|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:45 CEST 2021|
@@ -21,10 +25,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 30 00:00:41 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.6|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 30 00:00:41 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 30 00:00:41 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 23 22:00:34 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 13 14:00:40 CEST 2021|
