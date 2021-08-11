@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.5|[nodejs.org](https://nodejs.org)|Wed Aug 11 19:00:36 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.6.2|[nodejs.org](https://nodejs.org)|Wed Aug 11 19:00:36 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.5|[nodejs.org](https://nodejs.org)|Wed Aug 11 19:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.40|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
