@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.23|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.4|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.8|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.13|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.18|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.13|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.8|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.4|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.23|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.6.2|[nodejs.org](https://nodejs.org)|Wed Aug 11 19:00:36 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.5|[nodejs.org](https://nodejs.org)|Wed Aug 11 19:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.40|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
