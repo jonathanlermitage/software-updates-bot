@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|7.2|[gradle.org](https://gradle.org/releases/)|Wed Aug 18 00:00:27 CEST 2021|
+|![logo](../media/logo/go.png) Go|go1.17|[golang.org](https://golang.org/dl/)|Wed Aug 18 00:00:25 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.2|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Aug 14 11:00:34 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.18|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.13|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
@@ -12,7 +14,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
-|![logo](../media/logo/go.png) Go|go1.16.7|[golang.org](https://golang.org/dl/)|Sat Aug 07 00:00:31 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u302-b08.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 04 22:00:24 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
@@ -27,7 +28,6 @@
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-438|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:48 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-437|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:45 CEST 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.3 (July 4, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sun Jul 04 22:00:52 CEST 2021|
-|![logo](../media/logo/gradle.png) Gradle|7.1.1|[gradle.org](https://gradle.org/releases/)|Sat Jul 03 00:00:28 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 30 00:00:41 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.6|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 30 00:00:41 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 30 00:00:41 CEST 2021|
