@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.7.0|[nodejs.org](https://nodejs.org)|Wed Aug 18 04:00:37 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.2|[gradle.org](https://gradle.org/releases/)|Wed Aug 18 00:00:27 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.17|[golang.org](https://golang.org/dl/)|Wed Aug 18 00:00:25 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.2|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Aug 14 11:00:34 CEST 2021|
@@ -8,7 +9,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.8|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.4|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.23|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v16.6.2|[nodejs.org](https://nodejs.org)|Wed Aug 11 19:00:36 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.5|[nodejs.org](https://nodejs.org)|Wed Aug 11 19:00:36 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.40|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
