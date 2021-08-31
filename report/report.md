@@ -35,7 +35,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.8.2|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Aug 14 11:00:34 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.8.0|[nodejs.org](https://nodejs.org)|Sat Aug 28 00:00:37 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.5|[nodejs.org](https://nodejs.org)|Wed Aug 11 19:00:36 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.6|[nodejs.org](https://nodejs.org)|Wed Sep 01 00:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.18|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.13|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.8|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
@@ -46,11 +46,11 @@
 |![logo](../media/logo/python.png) Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 CEST 2020|
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 CEST 2020|
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 CEST 2020|
-|![logo](../media/logo/python.png) Python 3 mac| 3.9.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 30 00:00:41 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 source| 3.9.6|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 30 00:00:41 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 windows| 3.9.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 30 00:00:41 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-437|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:45 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-438|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Jul 21 13:00:48 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 mac| 3.9.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Sep 01 00:00:46 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 source| 3.9.7|[www.python.org](https://www.python.org/downloads/source/)|Wed Sep 01 00:00:46 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 windows| 3.9.7|[www.python.org](https://www.python.org/downloads/windows/)|Wed Sep 01 00:00:46 CEST 2021|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-476|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 01 00:00:51 CEST 2021|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-479|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 01 00:00:54 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.4.RELEASE|[start.spring.io](https://start.spring.io)|Sat Aug 21 00:01:00 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 CEST 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 CET 2020|
