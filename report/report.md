@@ -22,7 +22,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u302-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 02 18:33:03 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u302-b08.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 04 22:00:24 CEST 2021|
-|![logo](../media/logo/go.png) Go|go1.17|[golang.org](https://golang.org/dl/)|Wed Aug 18 00:00:25 CEST 2021|
+|![logo](../media/logo/go.png) Go|go1.17.1|[golang.org](https://golang.org/dl/)|Sat Sep 11 00:00:25 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.2|[gradle.org](https://gradle.org/releases/)|Wed Aug 18 00:00:27 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 262 - Interview Cloud de Confiance avec Quentin Adam|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Sep 04 00:00:38 CEST 2021|
@@ -34,7 +34,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.8.2|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Aug 14 11:00:34 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v16.9.0|[nodejs.org](https://nodejs.org)|Wed Sep 08 00:00:35 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.9.1|[nodejs.org](https://nodejs.org)|Sat Sep 11 00:00:36 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.6|[nodejs.org](https://nodejs.org)|Wed Sep 01 00:00:40 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.18|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.13|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
