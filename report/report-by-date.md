@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 263 - Le maillot jaune du salon|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Sep 18 00:00:33 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.9.1|[nodejs.org](https://nodejs.org)|Sat Sep 11 00:00:36 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.17.1|[golang.org](https://golang.org/dl/)|Sat Sep 11 00:00:25 CEST 2021|
