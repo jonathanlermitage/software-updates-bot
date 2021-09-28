@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.18.0|[nodejs.org](https://nodejs.org)|Wed Sep 29 00:00:36 CEST 2021|
+|![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.5.RELEASE|[start.spring.io](https://start.spring.io)|Sat Sep 25 00:00:48 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.10.0|[nodejs.org](https://nodejs.org)|Wed Sep 22 23:00:36 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
@@ -12,7 +14,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Sep 01 00:00:46 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.7|[www.python.org](https://www.python.org/downloads/source/)|Wed Sep 01 00:00:46 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.7|[www.python.org](https://www.python.org/downloads/windows/)|Wed Sep 01 00:00:46 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.6|[nodejs.org](https://nodejs.org)|Wed Sep 01 00:00:40 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.2|[gradle.org](https://gradle.org/releases/)|Wed Aug 18 00:00:27 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.2|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Aug 14 11:00:34 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.18|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
@@ -35,7 +36,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Aug 02 18:33:01 CEST 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.11.3 (July 4, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sun Jul 04 22:00:52 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 CEST 2021|
-|![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 linux x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 mac x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk16 windows x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 CEST 2021|

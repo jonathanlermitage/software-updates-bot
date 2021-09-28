@@ -27,7 +27,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u302-b08.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 04 22:00:24 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.17.1|[golang.org](https://golang.org/dl/)|Sat Sep 11 00:00:25 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.2|[gradle.org](https://gradle.org/releases/)|Wed Aug 18 00:00:27 CEST 2021|
-|![logo](../media/logo/inkscape.png) Inkscape|1.1|[inkscape.org](https://inkscape.org)|Tue May 25 00:00:33 CEST 2021|
+|![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 263 - Le maillot jaune du salon|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Sep 18 00:00:33 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
@@ -38,7 +38,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.8.2|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Aug 14 11:00:34 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.10.0|[nodejs.org](https://nodejs.org)|Wed Sep 22 23:00:36 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.17.6|[nodejs.org](https://nodejs.org)|Wed Sep 01 00:00:40 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.18.0|[nodejs.org](https://nodejs.org)|Wed Sep 29 00:00:36 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.18|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.13|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.8|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
