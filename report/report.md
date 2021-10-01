@@ -43,6 +43,7 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.13|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.8|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.4|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Oct 02 00:00:42 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 CEST 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.23|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
@@ -52,8 +53,8 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Sep 01 00:00:46 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.7|[www.python.org](https://www.python.org/downloads/source/)|Wed Sep 01 00:00:46 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.7|[www.python.org](https://www.python.org/downloads/windows/)|Wed Sep 01 00:00:46 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-476|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 01 00:00:51 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-479|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 01 00:00:54 CEST 2021|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-504|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Oct 02 00:00:50 CEST 2021|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-507|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Oct 02 00:00:51 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.5.RELEASE|[start.spring.io](https://start.spring.io)|Sat Sep 25 00:00:48 CEST 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 CEST 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 CET 2020|

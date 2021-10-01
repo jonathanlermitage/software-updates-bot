@@ -509,6 +509,17 @@
         "Database",
         "PostgreSQL"
       ],
+      "name": "PostgreSQL 14",
+      "website": "https://www.postgresql.org/download/",
+      "version": "14.0",
+      "checkDate": "Oct 2, 2021, 12:00:42 AM",
+      "logo": "POSTGRESQL"
+    },
+    {
+      "categories": [
+        "Database",
+        "PostgreSQL"
+      ],
       "name": "PostgreSQL 9.4",
       "website": "https://www.postgresql.org/download/",
       "version": "9.4.26",
@@ -604,8 +615,8 @@
       ],
       "name": "RHEL7",
       "website": "https://access.redhat.com/products/red-hat-enterprise-linux",
-      "version": "7.9-476",
-      "checkDate": "Sep 1, 2021, 12:00:51 AM",
+      "version": "7.9-504",
+      "checkDate": "Oct 2, 2021, 12:00:50 AM",
       "logo": "RHEL"
     },
     {
@@ -615,8 +626,8 @@
       ],
       "name": "RHEL7Minimal",
       "website": "https://access.redhat.com/products/red-hat-enterprise-linux",
-      "version": "7.9-479",
-      "checkDate": "Sep 1, 2021, 12:00:54 AM",
+      "version": "7.9-507",
+      "checkDate": "Oct 2, 2021, 12:00:51 AM",
       "logo": "RHEL"
     },
     {

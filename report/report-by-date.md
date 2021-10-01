@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-507|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Oct 02 00:00:51 CEST 2021|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-504|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Oct 02 00:00:50 CEST 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Oct 02 00:00:42 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v14.18.0|[nodejs.org](https://nodejs.org)|Wed Sep 29 00:00:36 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.5.RELEASE|[start.spring.io](https://start.spring.io)|Sat Sep 25 00:00:48 CEST 2021|
@@ -9,8 +12,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 263 - Le maillot jaune du salon|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Sep 18 00:00:33 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.17.1|[golang.org](https://golang.org/dl/)|Sat Sep 11 00:00:25 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-479|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 01 00:00:54 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-476|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Sep 01 00:00:51 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.9.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Sep 01 00:00:46 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.9.7|[www.python.org](https://www.python.org/downloads/source/)|Wed Sep 01 00:00:46 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.9.7|[www.python.org](https://www.python.org/downloads/windows/)|Wed Sep 01 00:00:46 CEST 2021|
