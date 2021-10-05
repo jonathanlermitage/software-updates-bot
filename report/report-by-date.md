@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 06 00:00:42 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 source| 3.10.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 06 00:00:42 CEST 2021|
+|![logo](../media/logo/python.png) Python 3 mac| 3.10.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 06 00:00:42 CEST 2021|
+|![logo](../media/logo/maven.png) Maven|3.8.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 06 00:00:35 CEST 2021|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 264 - En direct de Devoxx France 2021|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 06 00:00:32 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-507|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Oct 02 00:00:51 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-504|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Oct 02 00:00:50 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Oct 02 00:00:42 CEST 2021|
@@ -10,13 +15,8 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 263 - Le maillot jaune du salon|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Sep 18 00:00:33 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.17.1|[golang.org](https://golang.org/dl/)|Sat Sep 11 00:00:25 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 mac| 3.9.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Sep 01 00:00:46 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 source| 3.9.7|[www.python.org](https://www.python.org/downloads/source/)|Wed Sep 01 00:00:46 CEST 2021|
-|![logo](../media/logo/python.png) Python 3 windows| 3.9.7|[www.python.org](https://www.python.org/downloads/windows/)|Wed Sep 01 00:00:46 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.2|[gradle.org](https://gradle.org/releases/)|Wed Aug 18 00:00:27 CEST 2021|
-|![logo](../media/logo/maven.png) Maven|3.8.2|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Aug 14 11:00:34 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.18|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.13|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.8|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
