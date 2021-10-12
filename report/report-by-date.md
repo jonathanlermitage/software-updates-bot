@@ -1,16 +1,16 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v16.11.0|[nodejs.org](https://nodejs.org)|Sat Oct 09 00:00:37 CEST 2021|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-511|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:48 CEST 2021|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-508|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:46 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.18.1|[nodejs.org](https://nodejs.org)|Wed Oct 13 00:00:35 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v16.11.1|[nodejs.org](https://nodejs.org)|Wed Oct 13 00:00:35 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.17.2|[golang.org](https://golang.org/dl/)|Sat Oct 09 00:00:27 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 06 00:00:42 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 06 00:00:42 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 06 00:00:42 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 06 00:00:35 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 264 - En direct de Devoxx France 2021|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 06 00:00:32 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-507|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Oct 02 00:00:51 CEST 2021|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-504|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Sat Oct 02 00:00:50 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Oct 02 00:00:42 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.18.0|[nodejs.org](https://nodejs.org)|Wed Sep 29 00:00:36 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.5.RELEASE|[start.spring.io](https://start.spring.io)|Sat Sep 25 00:00:48 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Sep 22 10:00:22 CEST 2021|
