@@ -2,8 +2,8 @@
 |---|---|---|---|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-511|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:48 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-508|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:46 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.18.1|[nodejs.org](https://nodejs.org)|Wed Oct 13 00:00:35 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.11.1|[nodejs.org](https://nodejs.org)|Wed Oct 13 00:00:35 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v14.18.1|[nodejs.org](https://nodejs.org)|Wed Oct 13 00:00:35 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.17.2|[golang.org](https://golang.org/dl/)|Sat Oct 09 00:00:27 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 06 00:00:42 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 06 00:00:42 CEST 2021|
