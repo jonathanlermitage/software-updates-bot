@@ -28,7 +28,7 @@
 |![logo](../media/logo/go.png) Go|go1.17.2|[golang.org](https://golang.org/dl/)|Sat Oct 09 00:00:27 CEST 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.2|[gradle.org](https://gradle.org/releases/)|Wed Aug 18 00:00:27 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 CEST 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 264 - En direct de Devoxx France 2021|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 06 00:00:32 CEST 2021|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 265 - Chérie, ça va couper|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 13 12:00:32 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.40|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|

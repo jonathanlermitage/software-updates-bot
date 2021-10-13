@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 265 - Chérie, ça va couper|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 13 12:00:32 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-511|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:48 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-508|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:46 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v16.11.1|[nodejs.org](https://nodejs.org)|Wed Oct 13 00:00:35 CEST 2021|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.10.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 06 00:00:42 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 06 00:00:42 CEST 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 06 00:00:35 CEST 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 264 - En direct de Devoxx France 2021|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 06 00:00:32 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Oct 02 00:00:42 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.5.RELEASE|[start.spring.io](https://start.spring.io)|Sat Sep 25 00:00:48 CEST 2021|
