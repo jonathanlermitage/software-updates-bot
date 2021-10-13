@@ -9,7 +9,7 @@ if test -f "$PID_FILE"; then
 fi
 
 # run the scrapper
-java -Xms64m -Xmx128m -XX:MaxMetaspaceSize=64m -XX:MaxRAM=128m -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
+java -Xms64m -Xmx128m -XX:MaxMetaspaceSize=64m -XX:MaxRAM=128m -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -Dfile.encoding=UTF-8 -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
 
 # TODO try Dynamic Class-Data Sharing with jdk11
 #JSA=build/libs/sub.jsa

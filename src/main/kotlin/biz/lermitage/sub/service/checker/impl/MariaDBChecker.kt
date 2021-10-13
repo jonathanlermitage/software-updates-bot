@@ -20,7 +20,7 @@ abstract class MariaDBChecker(private val versionLeftPart: String) : Checker {
         val body = scrapper.fetchHtml("https://downloads.mariadb.org/mariadb/+releases/")
         val versionLnkInHistoryTable = body.getElementsByAttributeValueStarting("href", "/mariadb/$versionLeftPart.")[0]
         val versionNumber = versionLnkInHistoryTable.text()
-        val versionType = versionLnkInHistoryTable.parent().parent().getElementsByTag("td")[2].text()
+        val versionType = versionLnkInHistoryTable.parent()!!.parent()!!.getElementsByTag("td")[2].text()
         val version = if (versionType.lowercase().contains("stable")) {
             versionNumber
         } else {
