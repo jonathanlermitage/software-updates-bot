@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v17.0.0|[nodejs.org](https://nodejs.org)|Wed Oct 20 00:00:36 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v17.0.1|[nodejs.org](https://nodejs.org)|Wed Oct 20 23:00:37 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 265 - Chérie, ça va couper|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 13 12:00:32 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-511|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:48 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-508|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:46 CEST 2021|
