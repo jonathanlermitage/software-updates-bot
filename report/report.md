@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12 (October 22, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sat Oct 23 00:00:56 CEST 2021|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.1 (October 23, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sat Oct 23 11:00:49 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 linux x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 mac x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|
 |![logo](../media/logo/java.png) AdoptOpenJDK jdk11 windows x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 CEST 2021|

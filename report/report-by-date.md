@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.1 (October 23, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sat Oct 23 11:00:49 CEST 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.5.6.RELEASE|[start.spring.io](https://start.spring.io)|Sat Oct 23 00:00:57 CEST 2021|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12 (October 22, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sat Oct 23 00:00:56 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 266 - Interview sur GraalVM avec Gilles Duboscq - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 23 00:00:37 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sat Oct 23 00:00:29 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.13+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Oct 23 00:00:27 CEST 2021|
