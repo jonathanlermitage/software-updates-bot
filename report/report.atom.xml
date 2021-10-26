@@ -28,6 +28,42 @@
   <dc:subject>VLC</dc:subject>
   <dc:subject>MS Windows</dc:subject>
   <entry>
+    <title>NodeJS LTS -- v16.13.0</title>
+    <link rel="alternate" href="https://nodejs.org" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2021-10-26T22:00:36Z</modified>
+    <issued>2021-10-26T22:00:36Z</issued>
+    <summary type="text/plain" mode="escaped">NodeJS LTS -- v16.13.0 -- Wed Oct 27 00:00:36 CEST 2021</summary>
+    <dc:date>2021-10-26T22:00:36Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk8 mac x64 -- jdk8u312-b07</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2021-10-26T22:00:24Z</modified>
+    <issued>2021-10-26T22:00:24Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u312-b07 -- Wed Oct 27 00:00:24 CEST 2021</summary>
+    <dc:date>2021-10-26T22:00:24Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk11 mac x64 -- jdk-11.0.13+8</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2021-10-26T22:00:21Z</modified>
+    <issued>2021-10-26T22:00:21Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.13+8 -- Wed Oct 27 00:00:21 CEST 2021</summary>
+    <dc:date>2021-10-26T22:00:21Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk8 windows x64 -- jdk8u312-b07</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -146,18 +182,6 @@
     <issued>2021-10-12T22:00:46Z</issued>
     <summary type="text/plain" mode="escaped">RHEL7 -- 7.9-508 -- Wed Oct 13 00:00:46 CEST 2021</summary>
     <dc:date>2021-10-12T22:00:46Z</dc:date>
-  </entry>
-  <entry>
-    <title>NodeJS LTS -- v14.18.1</title>
-    <link rel="alternate" href="https://nodejs.org" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-10-12T22:00:35Z</modified>
-    <issued>2021-10-12T22:00:35Z</issued>
-    <summary type="text/plain" mode="escaped">NodeJS LTS -- v14.18.1 -- Wed Oct 13 00:00:35 CEST 2021</summary>
-    <dc:date>2021-10-12T22:00:35Z</dc:date>
   </entry>
   <entry>
     <title>Go -- go1.17.2</title>
@@ -400,18 +424,6 @@
     <dc:date>2021-08-06T22:00:38Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk8 mac x64 -- jdk8u302-b08</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-08-02T16:33:03Z</modified>
-    <issued>2021-08-02T16:33:03Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 mac x64 -- jdk8u302-b08 -- Mon Aug 02 18:33:03 CEST 2021</summary>
-    <dc:date>2021-08-02T16:33:03Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk16 linux x64 -- jdk-16.0.2+7</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk16&amp;jvmVariant=hotspot" />
     <author>
@@ -446,18 +458,6 @@
     <issued>2021-08-02T16:33:02Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk16 windows x64 -- jdk-16.0.2+7 -- Mon Aug 02 18:33:02 CEST 2021</summary>
     <dc:date>2021-08-02T16:33:02Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk11 mac x64 -- jdk-11.0.12+7</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-08-02T16:33:01Z</modified>
-    <issued>2021-08-02T16:33:01Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 mac x64 -- jdk-11.0.12+7 -- Mon Aug 02 18:33:01 CEST 2021</summary>
-    <dc:date>2021-08-02T16:33:01Z</dc:date>
   </entry>
   <entry>
     <title>VLC -- 3.0.16</title>
