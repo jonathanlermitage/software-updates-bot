@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 CEST 2021|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 CEST 2021|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 27 00:00:36 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 27 00:00:24 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.13+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 27 00:00:21 CEST 2021|
