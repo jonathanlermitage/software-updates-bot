@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.17.3|[golang.org](https://golang.org/dl/)|Sat Nov 06 00:00:27 CET 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.2 (October 30, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sat Oct 30 22:00:54 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 CEST 2021|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.0.1|[nodejs.org](https://nodejs.org)|Wed Oct 20 23:00:37 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-511|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:48 CEST 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-508|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:46 CEST 2021|
-|![logo](../media/logo/go.png) Go|go1.17.2|[golang.org](https://golang.org/dl/)|Sat Oct 09 00:00:27 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 06 00:00:42 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 06 00:00:42 CEST 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 06 00:00:42 CEST 2021|

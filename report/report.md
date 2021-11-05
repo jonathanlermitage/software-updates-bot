@@ -25,7 +25,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sat Oct 23 00:00:29 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 27 00:00:24 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Oct 24 12:00:23 CEST 2021|
-|![logo](../media/logo/go.png) Go|go1.17.2|[golang.org](https://golang.org/dl/)|Sat Oct 09 00:00:27 CEST 2021|
+|![logo](../media/logo/go.png) Go|go1.17.3|[golang.org](https://golang.org/dl/)|Sat Nov 06 00:00:27 CET 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.2|[gradle.org](https://gradle.org/releases/)|Wed Aug 18 00:00:27 CEST 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 266 - Interview sur GraalVM avec Gilles Duboscq - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 23 00:00:37 CEST 2021|
