@@ -26,7 +26,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 27 00:00:24 CEST 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Oct 24 12:00:23 CEST 2021|
 |![logo](../media/logo/go.png) Go|go1.17.3|[golang.org](https://golang.org/dl/)|Sat Nov 06 00:00:27 CET 2021|
-|![logo](../media/logo/gradle.png) Gradle|7.2|[gradle.org](https://gradle.org/releases/)|Wed Aug 18 00:00:27 CEST 2021|
+|![logo](../media/logo/gradle.png) Gradle|7.3|[gradle.org](https://gradle.org/releases/)|Wed Nov 10 00:00:28 CET 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 CEST 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 266 - Interview sur GraalVM avec Gilles Duboscq - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 23 00:00:37 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
@@ -37,7 +37,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.8.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 06 00:00:35 CEST 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v17.0.1|[nodejs.org](https://nodejs.org)|Wed Oct 20 23:00:37 CEST 2021|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v17.1.0|[nodejs.org](https://nodejs.org)|Wed Nov 10 00:00:37 CET 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 27 00:00:36 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.18|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.13|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Aug 14 00:00:38 CEST 2021|
