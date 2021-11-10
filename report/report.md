@@ -31,10 +31,12 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 266 - Interview sur GraalVM avec Gilles Duboscq - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 23 00:00:37 CEST 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 CEST 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 CET 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.40|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.12|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat Aug 07 00:00:38 CEST 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.41|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:36 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:38 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:39 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:40 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:42 CET 2021|
+|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.1|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:43 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 CEST 2020|
 |![logo](../media/logo/maven.png) Maven|3.8.3|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 06 00:00:35 CEST 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.1.0|[nodejs.org](https://nodejs.org)|Wed Nov 10 00:00:37 CET 2021|
