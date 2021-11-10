@@ -13,7 +13,7 @@ This bot currently monitors updates for:
 * Gradle
 * Inkscape
 * Les Cast Codeurs (a great French podcast)
-* MariaDB: 5.5 to 10.5
+* MariaDB: 5.5 to 10.7
 * Maven
 * NodeJS: LTS and current
 * PostgreSQL: 9.4 to 14

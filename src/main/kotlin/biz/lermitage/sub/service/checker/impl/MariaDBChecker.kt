@@ -5,6 +5,8 @@ import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
+import com.jayway.jsonpath.JsonPath
+import net.minidev.json.JSONArray
 import org.springframework.beans.factory.annotation.Autowired
 
 /**
@@ -17,15 +19,11 @@ abstract class MariaDBChecker(private val versionLeftPart: String) : Checker {
     lateinit var scrapper: Scrapper
 
     override fun check(): SoftwareUpdate {
-        val body = scrapper.fetchHtml("https://downloads.mariadb.org/mariadb/+releases/")
-        val versionLnkInHistoryTable = body.getElementsByAttributeValueStarting("href", "/mariadb/$versionLeftPart.")[0]
-        val versionNumber = versionLnkInHistoryTable.text()
-        val versionType = versionLnkInHistoryTable.parent()!!.parent()!!.getElementsByTag("td")[2].text()
-        val version = if (versionType.lowercase().contains("stable")) {
-            versionNumber
-        } else {
-            "$versionNumber $versionType"
-        }
+        val json = scrapper.fetchText(
+            "https://downloads.mariadb.org/rest-api/mariadb/$versionLeftPart/")
+        val jsonpath = "\$['releases'][*]['release_id']"
+        val versions = JsonPath.read<JSONArray>(json, jsonpath)
+        val version = versions[0].toString()
 
         return SoftwareUpdate(
             listOf(Category.DATABASE.label, Category.MARIADB.label),
