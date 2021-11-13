@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.1|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.5|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.9|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.14|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.19|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.14|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.9|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.5|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.1|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
+|![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.1|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:43 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:42 CET 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:40 CET 2021|
