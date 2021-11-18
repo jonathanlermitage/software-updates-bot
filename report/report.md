@@ -28,7 +28,7 @@
 |![logo](../media/logo/go.png) Go|go1.17.3|[golang.org](https://golang.org/dl/)|Sat Nov 06 00:00:27 UTC 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.3|[gradle.org](https://gradle.org/releases/)|Wed Nov 10 00:00:28 UTC 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 UTC 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 266 - Interview sur GraalVM avec Gilles Duboscq - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 23 00:00:37 UTC 2021|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 267 - Lagom efface sa dette technique|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Nov 18 12:36:15 UTC 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.41|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:36 UTC 2021|
@@ -57,6 +57,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 06 00:00:42 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-508|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:46 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-511|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:48 UTC 2021|
-|![logo](../media/logo/springboot.png) Spring Boot|2.5.6.RELEASE|[start.spring.io](https://start.spring.io)|Sat Oct 23 00:00:57 UTC 2021|
+|![logo](../media/logo/springboot.png) Spring Boot|2.5.7.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 18 12:36:40 UTC 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 UTC 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 UTC 2020|

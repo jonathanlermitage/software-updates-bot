@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.5.7.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 18 12:36:40 UTC 2021|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 267 - Lagom efface sa dette technique|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Nov 18 12:36:15 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.19|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.14|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.9|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
@@ -24,8 +26,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.13+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 27 00:00:21 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Oct 24 12:00:23 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.13+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Oct 24 12:00:21 UTC 2021|
-|![logo](../media/logo/springboot.png) Spring Boot|2.5.6.RELEASE|[start.spring.io](https://start.spring.io)|Sat Oct 23 00:00:57 UTC 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 266 - Interview sur GraalVM avec Gilles Duboscq - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Oct 23 00:00:37 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sat Oct 23 00:00:29 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.13+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Oct 23 00:00:27 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-511|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:48 UTC 2021|
