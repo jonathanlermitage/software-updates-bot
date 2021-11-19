@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|2.5.7.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 18 12:36:40 UTC 2021|
+|![logo](../media/logo/springboot.png) Spring Boot|2.6.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri Nov 19 09:00:48 UTC 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 267 - Lagom efface sa dette technique|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Nov 18 12:36:15 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.19|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.14|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|

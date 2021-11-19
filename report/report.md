@@ -57,6 +57,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 06 00:00:42 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-508|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:46 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-511|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:48 UTC 2021|
-|![logo](../media/logo/springboot.png) Spring Boot|2.5.7.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 18 12:36:40 UTC 2021|
+|![logo](../media/logo/springboot.png) Spring Boot|2.6.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri Nov 19 09:00:48 UTC 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 UTC 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 UTC 2020|
