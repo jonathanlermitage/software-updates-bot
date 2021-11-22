@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/go.png) Go|Archived|[golang.org](https://golang.org/dl/)|Mon Nov 22 18:00:14 UTC 2021|
+|![logo](../media/logo/go.png) Go|go1.17.3|[golang.org](https://golang.org/dl/)|Mon Nov 22 19:00:13 UTC 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.4|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Nov 20 16:00:30 UTC 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri Nov 19 09:00:48 UTC 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 267 - Lagom efface sa dette technique|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Nov 18 12:36:15 UTC 2021|
