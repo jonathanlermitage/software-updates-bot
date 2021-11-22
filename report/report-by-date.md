@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|Archived|[golang.org](https://golang.org/dl/)|Mon Nov 22 18:00:14 UTC 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.4|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Nov 20 16:00:30 UTC 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri Nov 19 09:00:48 UTC 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 267 - Lagom efface sa dette technique|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Nov 18 12:36:15 UTC 2021|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.41|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:36 UTC 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.1.0|[nodejs.org](https://nodejs.org)|Wed Nov 10 00:00:37 UTC 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.3|[gradle.org](https://gradle.org/releases/)|Wed Nov 10 00:00:28 UTC 2021|
-|![logo](../media/logo/go.png) Go|go1.17.3|[golang.org](https://golang.org/dl/)|Sat Nov 06 00:00:27 UTC 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.2 (October 30, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Sat Oct 30 22:00:54 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 UTC 2021|
