@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-548|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 23 19:00:38 UTC 2021|
 |![logo](../media/logo/go.png) Go|go1.17.3|[golang.org](https://golang.org/dl/)|Mon Nov 22 19:00:13 UTC 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.4|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Nov 20 16:00:30 UTC 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri Nov 19 09:00:48 UTC 2021|
@@ -30,7 +31,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sat Oct 23 00:00:29 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.13+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Oct 23 00:00:27 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-511|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:48 UTC 2021|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-508|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Wed Oct 13 00:00:46 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 06 00:00:42 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.0|[www.python.org](https://www.python.org/downloads/source/)|Wed Oct 06 00:00:42 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.0|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 06 00:00:42 UTC 2021|
