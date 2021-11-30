@@ -3,18 +3,173 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2021-11-10T02:01:04Z</modified>
+  <modified>2021-11-30T08:04:09Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2021-11-10T02:01:04Z</dc:date>
+  <dc:date>2021-11-30T08:04:09Z</dc:date>
   <entry>
-    <title>OK -- Wed Nov 10 03:01:04 CET 2021</title>
+    <title>FAILED -- Tue Nov 30 08:04:09 UTC 2021</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2021-11-10T02:01:04Z</modified>
-    <issued>2021-11-10T02:01:04Z</issued>
-    <summary type="text/html" mode="escaped">OK</summary>
-    <dc:date>2021-11-10T02:01:04Z</dc:date>
+    <modified>2021-11-30T08:04:09Z</modified>
+    <issued>2021-11-30T08:04:09Z</issued>
+    <summary type="text/html" mode="escaped">FAILED
+
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.GoChecker failed, ignoring
+java.net.UnknownHostException: golang.org
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.&lt;init&gt;(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1187)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:168)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:859)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:829)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:366)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:35)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(&lt;generated&gt;)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:93)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:119)
+	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchHtml(&lt;generated&gt;)
+	at biz.lermitage.sub.service.checker.impl.GoChecker.check(GoChecker.kt:22)
+	at biz.lermitage.sub.Application.run(Application.kt:53)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:123)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+checker class biz.lermitage.sub.service.checker.impl.Postgres10Checker failed, ignoring
+java.net.UnknownHostException: www.postgresql.org
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.&lt;init&gt;(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1187)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:168)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:859)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:829)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:366)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:35)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(&lt;generated&gt;)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:93)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:119)
+	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchHtml(&lt;generated&gt;)
+	at biz.lermitage.sub.service.checker.impl.PostgresChecker.check(PostgresChecker.kt:20)
+	at biz.lermitage.sub.Application.run(Application.kt:53)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:123)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+checker class biz.lermitage.sub.service.checker.impl.Postgres11Checker failed, ignoring
+java.net.UnknownHostException: www.postgresql.org
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:220)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.base/java.net.Socket.connect(Socket.java:609)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:289)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.&lt;init&gt;(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:203)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1187)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1081)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:168)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:859)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:829)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:366)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:35)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(&lt;generated&gt;)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:93)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:119)
+	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchHtml(&lt;generated&gt;)
+	at biz.lermitage.sub.service.checker.impl.PostgresChecker.check(PostgresChecker.kt:20)
+	at biz.lermitage.sub.Application.run(Application.kt:53)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:123)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+&lt;/pre&gt;</summary>
+    <dc:date>2021-11-30T08:04:09Z</dc:date>
   </entry>
 </feed>
