@@ -28,7 +28,7 @@
 |![logo](../media/logo/go.png) Go|go1.17.3|[golang.org](https://golang.org/dl/)|Mon Nov 22 19:00:13 UTC 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.3|[gradle.org](https://gradle.org/releases/)|Wed Nov 10 00:00:28 UTC 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 UTC 2021|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 267 - Lagom efface sa dette technique|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Nov 18 12:36:15 UTC 2021|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 268 - Interview sur GraalVM avec Gilles Duboscq - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Dec 01 13:00:19 UTC 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.41|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:36 UTC 2021|
