@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|7.3.1|[gradle.org](https://gradle.org/releases/)|Wed Dec 01 16:00:18 UTC 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 268 - Interview sur GraalVM avec Gilles Duboscq - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Dec 01 13:00:19 UTC 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 30 18:00:31 UTC 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.3 (November 30, 2021)|[rammichael.com](https://rammichael.com/7-taskbar-tweaker)|Tue Nov 30 08:03:55 UTC 2021|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:39 UTC 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:38 UTC 2021|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.41|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:36 UTC 2021|
-|![logo](../media/logo/gradle.png) Gradle|7.3|[gradle.org](https://gradle.org/releases/)|Wed Nov 10 00:00:28 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 27 16:00:23 UTC 2021|
