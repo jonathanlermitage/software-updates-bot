@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.17.4|[golang.org](https://golang.org/dl/)|Fri Dec 03 00:00:14 UTC 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.13.1|[nodejs.org](https://nodejs.org)|Wed Dec 01 17:00:33 UTC 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.3.1|[gradle.org](https://gradle.org/releases/)|Wed Dec 01 16:00:18 UTC 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 268 - Interview sur GraalVM avec Gilles Duboscq - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Dec 01 13:00:19 UTC 2021|
@@ -8,7 +9,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.1.RELEASE|[start.spring.io](https://start.spring.io)|Mon Nov 29 14:00:42 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-551|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 23 22:00:40 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-548|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 23 19:00:38 UTC 2021|
-|![logo](../media/logo/go.png) Go|go1.17.3|[golang.org](https://golang.org/dl/)|Mon Nov 22 19:00:13 UTC 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.4|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Nov 20 16:00:30 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.19|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.14|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
