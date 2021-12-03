@@ -59,4 +59,4 @@
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-551|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Nov 23 22:00:40 UTC 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.1.RELEASE|[start.spring.io](https://start.spring.io)|Mon Nov 29 14:00:42 UTC 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 UTC 2021|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS 10.7 and later: 1.24-Update8 (Saturday November 28, 2020) For the other operating systems: 1.24-Update7 (Friday August 7, 2020)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Dec 12 18:01:30 UTC 2020|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.4 (Friday December 3, 2021)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Dec 03 23:00:43 UTC 2021|
