@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.1|[www.python.org](https://www.python.org/downloads/windows/)|Mon Dec 06 21:00:36 UTC 2021|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.1|[www.python.org](https://www.python.org/downloads/source/)|Mon Dec 06 21:00:36 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Dec 06 21:00:36 UTC 2021|
+|![logo](../media/logo/python.png) Python 3 source| 3.10.1|[www.python.org](https://www.python.org/downloads/source/)|Mon Dec 06 21:00:36 UTC 2021|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.1|[www.python.org](https://www.python.org/downloads/windows/)|Mon Dec 06 21:00:36 UTC 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.4 (Friday December 3, 2021)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Dec 03 23:00:43 UTC 2021|
 |![logo](../media/logo/go.png) Go|go1.17.4|[golang.org](https://golang.org/dl/)|Fri Dec 03 00:00:14 UTC 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.13.1|[nodejs.org](https://nodejs.org)|Wed Dec 01 17:00:33 UTC 2021|
