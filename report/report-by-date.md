@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.17.5|[golang.org](https://golang.org/dl/)|Thu Dec 09 15:00:13 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-548.1638428390|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 07 11:00:38 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-567|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 07 03:00:40 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Dec 06 21:00:36 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.1|[www.python.org](https://www.python.org/downloads/source/)|Mon Dec 06 21:00:36 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.1|[www.python.org](https://www.python.org/downloads/windows/)|Mon Dec 06 21:00:36 UTC 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.4 (Friday December 3, 2021)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Dec 03 23:00:43 UTC 2021|
-|![logo](../media/logo/go.png) Go|go1.17.4|[golang.org](https://golang.org/dl/)|Fri Dec 03 00:00:14 UTC 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.13.1|[nodejs.org](https://nodejs.org)|Wed Dec 01 17:00:33 UTC 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.3.1|[gradle.org](https://gradle.org/releases/)|Wed Dec 01 16:00:18 UTC 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 268 - Interview sur GraalVM avec Gilles Duboscq - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Dec 01 13:00:19 UTC 2021|
