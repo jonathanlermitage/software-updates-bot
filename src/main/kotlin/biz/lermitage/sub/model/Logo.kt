@@ -8,6 +8,7 @@ enum class Logo(val img: String) {
     GO("go.png"),
     GRADLE("gradle.png"),
     INKSCAPE("inkscape.png"),
+    KLITE("klite.png"),
     MARIADB("mariadb.png"),
     MAVEN("maven.png"),
     NODEJS("nodejs.png"),
@@ -17,6 +18,7 @@ enum class Logo(val img: String) {
     SEVEN_TT("7tt.png"),
     SPRING_BOOT("springboot.png"),
     VERACRYPT("veracrypt.png"),
+    VC_REDIST("vcredist.png"),
     VLC("vlc.png"),
 
     NONE("")

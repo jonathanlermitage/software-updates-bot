@@ -18,13 +18,13 @@ class SevenTTChecker : Checker {
     lateinit var scrapper: Scrapper
 
     override fun check(): SoftwareUpdate {
-        val body = scrapper.fetchHtml("https://rammichael.com/downloads/7tt_setup.exe?changelog")
+        val body = scrapper.fetchHtml("https://ramensoftware.com/downloads/7tt_setup.exe?changelog")
         val version = body.getElementsByTag("b")[0].text().trim()
 
         return SoftwareUpdate(
             listOf(Category.MS_WINDOWS.label),
             "7+ Taskbar Tweaker",
-            "https://rammichael.com/7-taskbar-tweaker",
+            "https://ramensoftware.com/7-taskbar-tweaker",
             version,
             logo = Logo.SEVEN_TT)
     }

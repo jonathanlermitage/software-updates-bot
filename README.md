@@ -12,6 +12,7 @@ This bot currently monitors updates for:
 * Go 
 * Gradle
 * Inkscape
+* K-Lite Codec Pack Basic
 * Les Cast Codeurs (a great French podcast)
 * MariaDB: 5.5 to 10.7
 * Maven
@@ -21,6 +22,7 @@ This bot currently monitors updates for:
 * Red Hat Enterprise Linux
 * Spring Boot
 * VeraCrypt
+* Visual C++ Redistributable Runtimes All-in-One
 * VLC
 
 Update checkers code is here: [source code](https://github.com/jonathanlermitage/software-updates-bot/tree/master/src/main/kotlin/biz/lermitage/sub/service/checker/impl). They are based on Jsoup scrapper, or simply by consumming JSON API.  
@@ -28,11 +30,14 @@ Don't hesitate to submit new checkers.
 
 ---
 
-Scheduled tasks on my RaspberryPi (`crontab -u pi -e`):
+Scheduled tasks on my RaspberryPi (`crontab -u pi -e`, `/etc/init.d/cron reload`):
 
 ```bash
-# run software-updates-bot every hour on Saturday, Wednesday and Sunday
-0 * * * 6,3,0 eval $(ssh-agent -s) && ssh-add /home/pi/.ssh/id_rsa_************* && cd /home/pi/projects/software-updates-bot/ && git fetch origin && git reset --hard origin && ./run.sh && pkill -f ssh-agent
+SHELL=/bin/bash
+BASH_ENV="/home/pi/.bashrc"
+
+# run software-updates-bot hourly
+0 * * * * eval $(ssh-agent -s) && ssh-add ~/.ssh/id_rsa_************* && cd ~/projects/software-updates-bot/ && git fetch origin && git reset --hard origin && ./run.sh && pkill -f ssh-agent
 
 # rotate software-updates-bot git log At 00:40 on Monday  https://crontab.guru/#40_0_*_*_1
 40 0 * * 1 rm ~/projects/software-updates-bot/logs/git.log.gz && gzip ~/projects/software-updates-bot/logs/git.log && rm ~/projects/software-updates-bot/logs/git.log

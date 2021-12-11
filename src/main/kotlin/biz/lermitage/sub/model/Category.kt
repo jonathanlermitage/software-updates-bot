@@ -10,6 +10,7 @@ enum class Category(val label: String) {
     INKSCAPE("Inkscape"),
     JAVA("Java"),
     JDK("JDK"),
+    CODECS("Codecs"),
     LIBRARY("Library"),
     MARIADB("MariaDB"),
     MAVEN("Maven"),
@@ -23,6 +24,7 @@ enum class Category(val label: String) {
     SVG_EDITOR("SVG editor"),
     VIDEO_PLAYER("Video player"),
     VERACRYPT("VeraCrypt"),
+    REDIST("Redistributable Runtimes"),
     VLC("VLC"),
     MS_WINDOWS("MS Windows"),
 }

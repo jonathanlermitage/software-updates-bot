@@ -20,7 +20,7 @@ class GoChecker : Checker {
 
     override fun check(): SoftwareUpdate {
         val body = scrapper.fetchHtml("https://golang.org/dl/")
-        val titles = body.getElementsByTag("h2")
+        val titles = body.getElementsByTag("h3")
         val versionTitleFound = titles.toList().find { element: Element -> element.className().contains("toggleButton") }
         var version = versionTitleFound!!.text().trim()
         version = version.substring(0, version.indexOf(" "))

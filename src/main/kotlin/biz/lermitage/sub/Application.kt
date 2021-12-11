@@ -46,11 +46,19 @@ class Application : CommandLineRunner {
 
         val latestUpdates = ArrayList<SoftwareUpdate>()
         val errors = ArrayList<DetailedException>()
+        val versionPattern = Regex(".*\\d+.*")
 
         checkers.forEach { checker: Checker ->
             try {
                 val check = checker.check()
                 logger.info("[  *] fetched $check")
+                val version = check.version
+                if (version.isEmpty()
+                    || version.lowercase() == "archived"
+                    || version.lowercase() == "archive"
+                    || !version.matches(versionPattern)) {
+                    throw NumberFormatException("Bad version number: $version")
+                }
                 latestUpdates.add(check)
             } catch (e: Exception) {
                 logger.warn("checker ${checker::class.java} failed, ignoring", e)

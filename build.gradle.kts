@@ -2,23 +2,24 @@ import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-val detektVersion = "1.18.1" // don't forget to update plugin version too
+val detektVersion = "1.19.0" // don't forget to update plugin version too
 
 plugins {
-    val kotlinVersion = "1.5.31"
+    val kotlinVersion = "1.6.0"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "2.5.6"
+    id("org.springframework.boot") version "2.6.1"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
     id("com.github.ben-manes.versions") version "0.39.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
-    id("io.gitlab.arturbosch.detekt") version "1.18.1"
+    id("io.gitlab.arturbosch.detekt") version "1.19.0"
+    id("biz.lermitage.oga") version "1.1.1"
 }
 
 group = "biz.lermitage"
 version = "0.0.1-SNAPSHOT"
-java.sourceCompatibility = JavaVersion.VERSION_1_8
+java.sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
     mavenCentral()
@@ -47,12 +48,6 @@ detekt {
     toolVersion = detektVersion
     config = files("./detekt-config.yml")
     buildUponDefaultConfig = true
-
-    reports {
-        html.enabled = false
-        xml.enabled = false
-        txt.enabled = false
-    }
 }
 
 tasks {
@@ -63,7 +58,7 @@ tasks {
         kotlinOptions {
             javaParameters = true
             freeCompilerArgs = listOf("-Xjsr305=strict")
-            jvmTarget = JavaVersion.VERSION_1_8.toString()
+            jvmTarget = JavaVersion.VERSION_11.toString()
         }
     }
     withType<DependencyUpdatesTask> {
@@ -75,7 +70,12 @@ tasks {
         revision = "release"
     }
     withType<Detekt> {
-        jvmTarget = JavaVersion.VERSION_1_8.toString()
+        jvmTarget = JavaVersion.VERSION_11.toString()
+        reports {
+            html.required.set(false)
+            xml.required.set(false)
+            txt.required.set(false)
+        }
     }
 }
 
@@ -93,10 +93,10 @@ tasks.named("dependencyUpdates", DependencyUpdatesTask::class.java).configure {
         componentSelection {
             all {
                 if (isNonStable(candidate.version)) {
-                    println(" - [ ] ${candidate.module}:${candidate.version} candidate rejected")
+                    logger.debug(" - [ ] ${candidate.module}:${candidate.version} candidate rejected")
                     reject("Not stable")
                 } else {
-                    println(" - [X] ${candidate.module}:${candidate.version} candidate accepted")
+                    logger.debug(" - [X] ${candidate.module}:${candidate.version} candidate accepted")
                 }
             }
         }

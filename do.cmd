@@ -7,6 +7,7 @@ if [%1] == [help] (
   echo  cv:      check dependencies and Gradle updates
   echo  p:       generate runnable JAR
   echo  dep:     generate the project dependency report
+  echo  oga:     check for deprecated groupId and artifactId couples
 )
 
 if [%1] == [w] (
@@ -31,4 +32,7 @@ if [%1] == [p] (
 )
 if [%1] == [dep] (
   gradlew htmlDependencyReport
+)
+if [%1] == [oga] (
+  gradlew biz-lermitage-oga-gradle-check
 )
