@@ -61,3 +61,4 @@
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.1.RELEASE|[start.spring.io](https://start.spring.io)|Mon Nov 29 14:00:42 UTC 2021|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 UTC 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.4 (Friday December 3, 2021)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Dec 03 23:00:43 UTC 2021|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2021|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sun Dec 12 07:00:46 UTC 2021|

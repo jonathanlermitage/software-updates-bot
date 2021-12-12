@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2021|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sun Dec 12 07:00:46 UTC 2021|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.6.0 to 16.6.2 ~ 2021-12-04|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Dec 12 00:00:18 UTC 2021|
 |![logo](../media/logo/go.png) Go|go1.17.5|[golang.org](https://golang.org/dl/)|Thu Dec 09 15:00:13 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-548.1638428390|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 07 11:00:38 UTC 2021|
