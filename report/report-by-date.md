@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v17.3.0|[nodejs.org](https://nodejs.org)|Sat Dec 18 00:00:33 UTC 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.3.2|[gradle.org](https://gradle.org/releases/)|Wed Dec 15 12:00:14 UTC 2021|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.6.2 to 16.6.5 ~ 2021-12-14|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Dec 14 20:00:17 UTC 2021|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2021|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sun Dec 12 07:00:46 UTC 2021|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.4 (Friday December 3, 2021)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Dec 03 23:00:43 UTC 2021|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.13.1|[nodejs.org](https://nodejs.org)|Wed Dec 01 17:00:33 UTC 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 268 - Interview sur GraalVM avec Gilles Duboscq - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Dec 01 13:00:19 UTC 2021|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v17.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 30 18:00:31 UTC 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.3 (November 30, 2021)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Tue Nov 30 08:03:55 UTC 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.1.RELEASE|[start.spring.io](https://start.spring.io)|Mon Nov 29 14:00:42 UTC 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.4|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Nov 20 16:00:30 UTC 2021|
