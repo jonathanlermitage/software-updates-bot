@@ -26,7 +26,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 27 00:00:24 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Oct 24 12:00:23 UTC 2021|
 |![logo](../media/logo/go.png) Go|go1.17.5|[golang.org](https://golang.org/dl/)|Thu Dec 09 15:00:13 UTC 2021|
-|![logo](../media/logo/gradle.png) Gradle|7.3.2|[gradle.org](https://gradle.org/releases/)|Wed Dec 15 12:00:14 UTC 2021|
+|![logo](../media/logo/gradle.png) Gradle|7.3.3|[gradle.org](https://gradle.org/releases/)|Wed Dec 22 14:00:14 UTC 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 UTC 2021|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.6.2 to 16.6.5 ~ 2021-12-14|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Dec 14 20:00:17 UTC 2021|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 268 - Interview sur GraalVM avec Gilles Duboscq - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Dec 20 23:00:19 UTC 2021|
