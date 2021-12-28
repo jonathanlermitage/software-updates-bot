@@ -4,15 +4,54 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Sat, 18 Dec 2021 18:00:48 GMT</pubDate>
+    <pubDate>Tue, 28 Dec 2021 19:01:11 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2021-12-18T18:00:48Z</dc:date>
+    <dc:date>2021-12-28T19:01:11Z</dc:date>
     <item>
-      <title>OK -- Sat Dec 18 18:00:48 UTC 2021</title>
-      <description>OK</description>
-      <pubDate>Sat, 18 Dec 2021 18:00:48 GMT</pubDate>
+      <title>FAILED -- Tue Dec 28 19:01:11 UTC 2021</title>
+      <description>FAILED
+
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.VCRedistChecker failed, ignoring
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=502, URL=[https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/]
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:890)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:829)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:366)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:35)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(&lt;generated&gt;)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:93)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:119)
+	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchHtml(&lt;generated&gt;)
+	at biz.lermitage.sub.service.checker.impl.VCRedistChecker.check(VCRedistChecker.kt:22)
+	at biz.lermitage.sub.Application.run(Application.kt:53)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:123)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+&lt;/pre&gt;</description>
+      <pubDate>Tue, 28 Dec 2021 19:01:11 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2021-12-18T18:00:48Z</dc:date>
+      <dc:date>2021-12-28T19:01:11Z</dc:date>
     </item>
   </channel>
 </rss>
