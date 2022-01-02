@@ -7,6 +7,7 @@ enum class Category(val label: String) {
     DATABASE("Database"),
     GO("Go"),
     GRADLE("Gradle"),
+    GPG("GPG"),
     INKSCAPE("Inkscape"),
     JAVA("Java"),
     JDK("JDK"),

@@ -10,6 +10,7 @@ This bot currently monitors updates for:
 * 7+ Taskbar Tweaker
 * Adoptium (previously AdoptOpenJDK): JDK8, 11 and 17
 * Go 
+* GPG4Win
 * Gradle
 * Inkscape
 * K-Lite Codec Pack Basic
