@@ -20,7 +20,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
       "version": "jdk-11.0.11+9",
       "checkDate": "Apr 21, 2021, 10:00:25 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -32,7 +32,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
       "version": "jdk-11.0.11+9",
       "checkDate": "Apr 21, 2021, 10:00:25 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -44,7 +44,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot",
       "version": "jdk-11.0.11+9",
       "checkDate": "Apr 21, 2021, 10:00:25 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -56,7 +56,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot",
       "version": "jdk-15.0.2+7",
       "checkDate": "Jan 22, 2021, 9:00:28 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -68,7 +68,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot",
       "version": "jdk-15.0.2+7",
       "checkDate": "Jan 22, 2021, 9:00:28 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -80,7 +80,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot",
       "version": "jdk-15.0.2+7",
       "checkDate": "Jan 22, 2021, 9:00:28 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -92,7 +92,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot",
       "version": "jdk-16.0.1+9",
       "checkDate": "Apr 23, 2021, 12:00:28 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -104,7 +104,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot",
       "version": "jdk-16.0.1+9",
       "checkDate": "Apr 23, 2021, 12:00:28 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -116,7 +116,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot",
       "version": "jdk-16.0.1+9",
       "checkDate": "Apr 23, 2021, 12:00:28 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -128,7 +128,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
       "version": "jdk8u292-b10",
       "checkDate": "Apr 21, 2021, 10:00:31 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -140,7 +140,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
       "version": "jdk8u292-b10",
       "checkDate": "Apr 21, 2021, 10:00:31 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -152,7 +152,7 @@
       "website": "https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
       "version": "jdk8u292-b10",
       "checkDate": "Apr 21, 2021, 10:00:31 PM",
-      "logo": "ADOPTOPENJDK"
+      "logo": "NONE"
     },
     {
       "categories": [
@@ -309,6 +309,17 @@
       "version": "jdk8u312-b07",
       "checkDate": "Oct 24, 2021, 12:00:23 PM",
       "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "MS Windows",
+        "GPG"
+      ],
+      "name": "GPG4Win",
+      "website": "https://www.gpg4win.org/get-gpg4win.html",
+      "version": "4.0.0 (2021-12-21)",
+      "checkDate": "Jan 2, 2022, 6:00:15 AM",
+      "logo": "GPG4WIN"
     },
     {
       "categories": [
