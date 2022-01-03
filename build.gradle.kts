@@ -11,7 +11,7 @@ plugins {
     kotlin("kapt") version kotlinVersion
     id("org.springframework.boot") version "2.6.2"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
-    id("com.github.ben-manes.versions") version "0.39.0"
+    id("com.github.ben-manes.versions") version "0.40.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
     id("io.gitlab.arturbosch.detekt") version "1.19.0"
     id("biz.lermitage.oga") version "1.1.1"
@@ -34,7 +34,7 @@ dependencies {
     implementation("org.jsoup:jsoup:1.14.3")
     implementation("commons-io:commons-io:2.11.0")
     implementation("org.apache.commons:commons-lang3:3.12.0")
-    implementation("com.rometools:rome:1.16.0")
+    implementation("com.rometools:rome:1.18.0")
     implementation("org.springframework.boot:spring-boot-starter-aop")
     implementation("org.springframework.retry:spring-retry:1.3.1")
     kapt("org.springframework.boot:spring-boot-configuration-processor")
