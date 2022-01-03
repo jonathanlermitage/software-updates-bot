@@ -5,7 +5,7 @@ enum class Logo(val img: String) {
     ADOPTIUM("java.png"),
     CASTCODEURS("castcodeurs.png"),
     GO("go.png"),
-    GPG4WIN("gpg4win"),
+    GPG4WIN("gpg4win.png"),
     GRADLE("gradle.png"),
     INKSCAPE("inkscape.png"),
     KLITE("klite.png"),
