@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/gpg4win) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
+|![logo](../media/logo/gpg4win.png) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 269 - Log4J devient Turing-complet|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Dec 23 11:00:20 UTC 2021|
 |![logo](../media/logo/gradle.png) Gradle|7.3.3|[gradle.org](https://gradle.org/releases/)|Wed Dec 22 14:00:14 UTC 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.2.RELEASE|[start.spring.io](https://start.spring.io)|Tue Dec 21 22:00:44 UTC 2021|
