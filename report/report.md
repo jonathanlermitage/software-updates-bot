@@ -26,7 +26,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 27 00:00:24 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u312-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Oct 24 12:00:23 UTC 2021|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
-|![logo](../media/logo/go.png) Go|go1.17.5|[golang.org](https://golang.org/dl/)|Thu Dec 09 15:00:13 UTC 2021|
+|![logo](../media/logo/go.png) Go|go1.17.6|[golang.org](https://golang.org/dl/)|Thu Jan 06 21:00:13 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.3.3|[gradle.org](https://gradle.org/releases/)|Wed Dec 22 14:00:14 UTC 2021|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.1|[inkscape.org](https://inkscape.org)|Wed Sep 29 00:00:31 UTC 2021|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.6.5 to 16.7.0 ~ 2022-01-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 03 21:00:20 UTC 2022|

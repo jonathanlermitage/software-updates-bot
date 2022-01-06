@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.17.6|[golang.org](https://golang.org/dl/)|Thu Jan 06 21:00:13 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.6.5 to 16.7.0 ~ 2022-01-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 03 21:00:20 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 270 - Interview de Nicolas De Loof sur Docker Compose|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 03 09:00:20 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.2.RELEASE|[start.spring.io](https://start.spring.io)|Tue Dec 21 22:00:44 UTC 2021|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.3.0|[nodejs.org](https://nodejs.org)|Sat Dec 18 00:00:33 UTC 2021|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2021|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sun Dec 12 07:00:46 UTC 2021|
-|![logo](../media/logo/go.png) Go|go1.17.5|[golang.org](https://golang.org/dl/)|Thu Dec 09 15:00:13 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-548.1638428390|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 07 11:00:38 UTC 2021|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-567|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 07 03:00:40 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Dec 06 21:00:36 UTC 2021|
