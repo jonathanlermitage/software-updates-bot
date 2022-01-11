@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-598|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:43 UTC 2022|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-594|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:41 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.3.1|[nodejs.org](https://nodejs.org)|Tue Jan 11 01:00:34 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.13.2|[nodejs.org](https://nodejs.org)|Tue Jan 11 00:00:34 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS and Windows: 1.25.7 (Friday January 7, 2022) For FreeBSD and Linux: 1.25.4 (Friday December 3, 2021)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Jan 08 15:00:48 UTC 2022|
@@ -10,8 +12,6 @@
 |![logo](../media/logo/gradle.png) Gradle|7.3.3|[gradle.org](https://gradle.org/releases/)|Wed Dec 22 14:00:14 UTC 2021|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.2.RELEASE|[start.spring.io](https://start.spring.io)|Tue Dec 21 22:00:44 UTC 2021|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2021|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sun Dec 12 07:00:46 UTC 2021|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-548.1638428390|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 07 11:00:38 UTC 2021|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-567|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Dec 07 03:00:40 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Dec 06 21:00:36 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.1|[www.python.org](https://www.python.org/downloads/source/)|Mon Dec 06 21:00:36 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.1|[www.python.org](https://www.python.org/downloads/windows/)|Mon Dec 06 21:00:36 UTC 2021|
