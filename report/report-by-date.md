@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Jan 14 22:00:37 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Jan 14 22:00:37 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Jan 14 22:00:37 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 source| 3.10.2|[www.python.org](https://www.python.org/downloads/source/)|Fri Jan 14 22:00:37 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.2|[www.python.org](https://www.python.org/downloads/windows/)|Fri Jan 14 22:00:37 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-598|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:43 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-594|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:41 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.3.1|[nodejs.org](https://nodejs.org)|Tue Jan 11 01:00:34 UTC 2022|
