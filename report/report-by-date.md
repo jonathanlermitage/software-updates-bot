@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.14+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jan 22 00:00:09 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.14+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jan 22 00:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.14+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jan 22 00:00:09 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.14+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jan 22 00:00:09 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.14+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jan 22 00:00:09 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 20 16:00:45 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.4.0|[nodejs.org](https://nodejs.org)|Tue Jan 18 16:00:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Jan 17 16:00:38 UTC 2022|
