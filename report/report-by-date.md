@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.14+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jan 22 00:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.14+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jan 22 00:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.14+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jan 22 00:00:09 UTC 2022|
