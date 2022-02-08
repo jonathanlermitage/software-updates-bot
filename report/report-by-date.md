@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 08 20:00:32 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4|[gradle.org](https://gradle.org/releases/)|Tue Feb 08 12:00:15 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.7.6 to 16.8.0 ~ 2022-01-30|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Jan 30 22:00:18 UTC 2022|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 271 - UPX version Spinal Tap|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 17 10:00:20 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-598|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:43 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-594|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:41 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v16.13.2|[nodejs.org](https://nodejs.org)|Tue Jan 11 00:00:34 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS and Windows: 1.25.7 (Friday January 7, 2022) For FreeBSD and Linux: 1.25.4 (Friday December 3, 2021)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Jan 08 15:00:48 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.17.6|[golang.org](https://golang.org/dl/)|Thu Jan 06 21:00:13 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
