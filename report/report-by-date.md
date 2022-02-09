@@ -1,5 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.2|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 09 16:00:30 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 09 16:00:29 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 09 16:00:28 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 09 16:00:27 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.33|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 09 16:00:25 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.42|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Feb 09 16:00:24 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 08 20:00:32 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4|[gradle.org](https://gradle.org/releases/)|Tue Feb 08 12:00:15 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
@@ -33,12 +39,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.5|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.1|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.1|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:43 UTC 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:42 UTC 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:40 UTC 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:39 UTC 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:38 UTC 2021|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.41|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 10 03:00:36 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 linux x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 mac x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 windows x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
