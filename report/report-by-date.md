@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.17.7|[golang.org](https://golang.org/dl/)|Thu Feb 10 23:00:13 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.5.0|[nodejs.org](https://nodejs.org)|Thu Feb 10 19:00:33 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
@@ -33,7 +34,6 @@
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-598|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:43 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-594|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:41 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS and Windows: 1.25.7 (Friday January 7, 2022) For FreeBSD and Linux: 1.25.4 (Friday December 3, 2021)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Jan 08 15:00:48 UTC 2022|
-|![logo](../media/logo/go.png) Go|go1.17.6|[golang.org](https://golang.org/dl/)|Thu Jan 06 21:00:13 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Dec 2021|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Sun Dec 12 07:00:46 UTC 2021|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.3 (November 30, 2021)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Tue Nov 30 08:03:55 UTC 2021|
