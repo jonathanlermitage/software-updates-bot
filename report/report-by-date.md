@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.1|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 10 01:00:29 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 10 01:00:28 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 10 01:00:27 UTC 2022|
