@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v17.5.0|[nodejs.org](https://nodejs.org)|Thu Feb 10 19:00:33 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
@@ -25,7 +26,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 20 16:00:45 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v17.4.0|[nodejs.org](https://nodejs.org)|Tue Jan 18 16:00:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Jan 17 16:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.2|[www.python.org](https://www.python.org/downloads/source/)|Mon Jan 17 16:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Jan 17 16:00:38 UTC 2022|
