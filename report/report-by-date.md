@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
