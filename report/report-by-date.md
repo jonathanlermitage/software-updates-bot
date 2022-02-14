@@ -1,5 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:29 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:28 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:27 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:26 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:25 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.43|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:24 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 272 - Interview sur Log4Shell avec this|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Feb 12 17:00:20 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.17.7|[golang.org](https://golang.org/dl/)|Thu Feb 10 23:00:13 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.5.0|[nodejs.org](https://nodejs.org)|Thu Feb 10 19:00:33 UTC 2022|
@@ -11,12 +17,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.1|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 10 01:00:29 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 10 01:00:28 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 10 01:00:27 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 10 01:00:26 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 10 01:00:24 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.41|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 10 01:00:23 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 08 20:00:32 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4|[gradle.org](https://gradle.org/releases/)|Tue Feb 08 12:00:15 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
