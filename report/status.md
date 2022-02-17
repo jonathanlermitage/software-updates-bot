@@ -1,1 +1,41 @@
-OK
+FAILED
+
+<pre>checker class biz.lermitage.sub.service.checker.impl.RHEL7Checker failed, ignoring
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=503, URL=[https://catalog.redhat.com/api/containers/v1/repositories/registry/registry.access.redhat.com/repository/rhel7/images?exclude=data.repositories.comparison.advisory_rpm_mapping,data.brew,data.cpe_ids,data.top_layer_id,data.freshness_grades,data.repositories&page_size=500&page=0]
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:890)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:829)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:366)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:353)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:53)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:93)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:119)
+	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchText(<generated>)
+	at biz.lermitage.sub.service.checker.impl.RHEL7Checker.check(RHEL7Checker.kt:26)
+	at biz.lermitage.sub.Application.run(Application.kt:54)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:769)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:125)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+
+</pre>
