@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Feb 16 08:00:47 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:29 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:28 UTC 2022|
@@ -34,7 +35,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Jan 17 16:00:38 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-598|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:43 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-594|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:41 UTC 2022|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release For macOS and Windows: 1.25.7 (Friday January 7, 2022) For FreeBSD and Linux: 1.25.4 (Friday December 3, 2021)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Jan 08 15:00:48 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.3 (November 30, 2021)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Tue Nov 30 08:03:55 UTC 2021|
 |![logo](../media/logo/maven.png) Maven|3.8.4|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Nov 20 16:00:30 UTC 2021|
