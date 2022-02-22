@@ -57,8 +57,8 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Jan 17 16:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.2|[www.python.org](https://www.python.org/downloads/source/)|Mon Jan 17 16:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Jan 17 16:00:38 UTC 2022|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-594|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:41 UTC 2022|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-598|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Jan 11 20:00:43 UTC 2022|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-632|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:41 UTC 2022|
+|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 20 16:00:45 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 UTC 2021|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
