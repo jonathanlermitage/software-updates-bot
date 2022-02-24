@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.6.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 24 15:00:47 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 273 - Interview sur le darwinisme numérique avec Didier Girard - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Feb 24 13:00:20 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.6.0|[nodejs.org](https://nodejs.org)|Wed Feb 23 01:00:32 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
@@ -31,7 +32,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
-|![logo](../media/logo/springboot.png) Spring Boot|2.6.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 20 16:00:45 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Jan 17 16:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.2|[www.python.org](https://www.python.org/downloads/source/)|Mon Jan 17 16:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Jan 17 16:00:38 UTC 2022|
