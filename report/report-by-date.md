@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 24 15:00:47 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 273 - Interview sur le darwinisme numérique avec Didier Girard - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Feb 24 13:00:20 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v17.6.0|[nodejs.org](https://nodejs.org)|Wed Feb 23 01:00:32 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-632|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:41 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Feb 16 08:00:47 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:29 UTC 2022|
