@@ -29,7 +29,7 @@
 |![logo](../media/logo/go.png) Go|go1.17.7|[golang.org](https://golang.org/dl/)|Thu Feb 10 23:00:13 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4|[gradle.org](https://gradle.org/releases/)|Tue Feb 08 12:00:15 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.7.6 to 16.8.0 ~ 2022-01-30|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Jan 30 22:00:18 UTC 2022|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.8.0 to 16.8.7 ~ 2022-03-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Mar 02 20:00:20 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 273 - Interview sur le darwinisme numérique avec Didier Girard - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Feb 24 13:00:20 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|

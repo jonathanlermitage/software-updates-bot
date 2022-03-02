@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.8.0 to 16.8.7 ~ 2022-03-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Mar 02 20:00:20 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 24 15:00:47 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 273 - Interview sur le darwinisme numérique avec Didier Girard - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Feb 24 13:00:20 UTC 2022|
@@ -25,7 +26,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 08 20:00:32 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4|[gradle.org](https://gradle.org/releases/)|Tue Feb 08 12:00:15 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.7.6 to 16.8.0 ~ 2022-01-30|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Jan 30 22:00:18 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.2+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jan 28 11:00:10 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.2+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 27 22:00:10 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.2+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 27 22:00:10 UTC 2022|
