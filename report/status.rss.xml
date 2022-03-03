@@ -4,15 +4,54 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Tue, 22 Feb 2022 09:00:50 GMT</pubDate>
+    <pubDate>Thu, 03 Mar 2022 22:00:51 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2022-02-22T09:00:50Z</dc:date>
+    <dc:date>2022-03-03T22:00:51Z</dc:date>
     <item>
-      <title>OK -- Tue Feb 22 09:00:50 UTC 2022</title>
-      <description>OK</description>
-      <pubDate>Tue, 22 Feb 2022 09:00:50 GMT</pubDate>
+      <title>FAILED -- Thu Mar 03 22:00:51 UTC 2022</title>
+      <description>FAILED
+
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.RHEL7Checker failed, ignoring
+com.jayway.jsonpath.InvalidJsonException: net.minidev.json.parser.ParseException: Unexpected End Of File position 1875396: null
+	at com.jayway.jsonpath.spi.json.JsonSmartJsonProvider.parse(JsonSmartJsonProvider.java:64)
+	at com.jayway.jsonpath.internal.ParseContextImpl.parse(ParseContextImpl.java:37)
+	at com.jayway.jsonpath.JsonPath.read(JsonPath.java:550)
+	at biz.lermitage.sub.service.checker.impl.RHEL7Checker.check(RHEL7Checker.kt:28)
+	at biz.lermitage.sub.Application.run(Application.kt:54)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:777)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:310)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:125)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+Caused by: net.minidev.json.parser.ParseException: Unexpected End Of File position 1875396: null
+	at net.minidev.json.parser.JSONParserBase.readString2(JSONParserBase.java:635)
+	at net.minidev.json.parser.JSONParserMemory.readString(JSONParserMemory.java:132)
+	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:458)
+	at net.minidev.json.parser.JSONParserBase.readObject(JSONParserBase.java:594)
+	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:451)
+	at net.minidev.json.parser.JSONParserBase.readArray(JSONParserBase.java:321)
+	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:454)
+	at net.minidev.json.parser.JSONParserBase.readObject(JSONParserBase.java:594)
+	at net.minidev.json.parser.JSONParserBase.readFirst(JSONParserBase.java:349)
+	at net.minidev.json.parser.JSONParserBase.parse(JSONParserBase.java:206)
+	at net.minidev.json.parser.JSONParserString.parse(JSONParserString.java:58)
+	at net.minidev.json.parser.JSONParser.parse(JSONParser.java:278)
+	at com.jayway.jsonpath.spi.json.JsonSmartJsonProvider.parse(JsonSmartJsonProvider.java:62)
+	... 18 more
+
+&lt;/pre&gt;</description>
+      <pubDate>Thu, 03 Mar 2022 22:00:51 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2022-02-22T09:00:50Z</dc:date>
+      <dc:date>2022-03-03T22:00:51Z</dc:date>
     </item>
   </channel>
 </rss>
