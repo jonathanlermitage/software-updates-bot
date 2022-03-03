@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.17.8|[golang.org](https://golang.org/dl/)|Thu Mar 03 21:00:14 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.8.0 to 16.8.7 ~ 2022-03-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Mar 02 20:00:20 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 24 15:00:47 UTC 2022|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:26 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:25 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.43|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:24 UTC 2022|
-|![logo](../media/logo/go.png) Go|go1.17.7|[golang.org](https://golang.org/dl/)|Thu Feb 10 23:00:13 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
