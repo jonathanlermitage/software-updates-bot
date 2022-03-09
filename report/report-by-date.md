@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|7.4.1|[gradle.org](https://gradle.org/releases/)|Wed Mar 09 17:00:16 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 274 - Interview le darwinisme numérique avec Didier Girard - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 07 09:00:20 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.17.8|[golang.org](https://golang.org/dl/)|Thu Mar 03 21:00:14 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.8.0 to 16.8.7 ~ 2022-03-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Mar 02 20:00:20 UTC 2022|
@@ -24,7 +25,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.14.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Feb 10 13:00:08 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 08 20:00:32 UTC 2022|
-|![logo](../media/logo/gradle.png) Gradle|7.4|[gradle.org](https://gradle.org/releases/)|Tue Feb 08 12:00:15 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.2+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jan 28 11:00:10 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.2+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 27 22:00:10 UTC 2022|
