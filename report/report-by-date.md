@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v17.7.0|[nodejs.org](https://nodejs.org)|Wed Mar 09 18:00:32 UTC 2022|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v17.7.1|[nodejs.org](https://nodejs.org)|Thu Mar 10 21:00:33 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4.1|[gradle.org](https://gradle.org/releases/)|Wed Mar 09 17:00:16 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 274 - Interview le darwinisme numérique avec Didier Girard - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 07 09:00:20 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.17.8|[golang.org](https://golang.org/dl/)|Thu Mar 03 21:00:14 UTC 2022|
