@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Mar 16 15:00:38 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 source| 3.10.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Mar 16 15:00:38 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 mac| 3.10.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Mar 16 15:00:38 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.1|[nodejs.org](https://nodejs.org)|Wed Mar 16 07:00:33 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18|[golang.org](https://golang.org/dl/)|Tue Mar 15 17:00:13 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.5|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Mar 13 13:00:32 UTC 2022|
@@ -33,9 +36,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 mac| 3.10.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Jan 17 16:00:38 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.2|[www.python.org](https://www.python.org/downloads/source/)|Mon Jan 17 16:00:38 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Jan 17 16:00:38 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.3 (November 30, 2021)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Tue Nov 30 08:03:55 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
