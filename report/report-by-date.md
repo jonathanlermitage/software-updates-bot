@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Mar 16 15:00:38 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Mar 16 15:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Mar 16 15:00:38 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 source| 3.10.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Mar 16 15:00:38 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Mar 16 15:00:38 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.1|[nodejs.org](https://nodejs.org)|Wed Mar 16 07:00:33 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18|[golang.org](https://golang.org/dl/)|Tue Mar 15 17:00:13 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.5|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Mar 13 13:00:32 UTC 2022|
