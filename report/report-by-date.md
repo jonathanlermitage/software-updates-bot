@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 275 - Interview sur le darwinisme numérique avec Didier Girard - partie 3|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 21 13:00:21 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v17.7.2|[nodejs.org](https://nodejs.org)|Fri Mar 18 02:00:33 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.2|[nodejs.org](https://nodejs.org)|Fri Mar 18 02:00:33 UTC 2022|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v17.7.2|[nodejs.org](https://nodejs.org)|Fri Mar 18 02:00:33 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.8.7 to 16.9.0 ~ 2022-03-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Mar 17 00:00:20 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Mar 16 15:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Mar 16 15:00:38 UTC 2022|
