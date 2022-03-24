@@ -54,9 +54,9 @@
 |![logo](../media/logo/python.png) Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 UTC 2020|
-|![logo](../media/logo/python.png) Python 3 mac| 3.10.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Mar 16 15:00:38 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Mar 16 15:00:38 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Mar 16 15:00:38 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 mac| 3.10.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Mar 24 11:00:38 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 source| 3.10.4|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 24 11:00:38 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.4|[www.python.org](https://www.python.org/downloads/windows/)|Thu Mar 24 11:00:38 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 24 15:00:47 UTC 2022|
