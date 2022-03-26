@@ -3,17 +3,17 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2022-03-26T10:00:50Z</modified>
+  <modified>2022-03-26T11:00:50Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2022-03-26T10:00:50Z</dc:date>
+  <dc:date>2022-03-26T11:00:50Z</dc:date>
   <entry>
-    <title>FAILED -- Sat Mar 26 10:00:50 UTC 2022</title>
+    <title>FAILED -- Sat Mar 26 11:00:50 UTC 2022</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2022-03-26T10:00:50Z</modified>
-    <issued>2022-03-26T10:00:50Z</issued>
+    <modified>2022-03-26T11:00:50Z</modified>
+    <issued>2022-03-26T11:00:50Z</issued>
     <summary type="text/html" mode="escaped">FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.RHEL7Checker failed, ignoring
@@ -53,26 +53,7 @@ Caused by: net.minidev.json.parser.ParseException: Unexpected End Of File positi
 	at com.jayway.jsonpath.spi.json.JsonSmartJsonProvider.parse(JsonSmartJsonProvider.java:62)
 	... 18 more
 
-checker class biz.lermitage.sub.service.checker.impl.VCRedistChecker failed, ignoring
-java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.VCRedistChecker.check(VCRedistChecker.kt:29)
-	at biz.lermitage.sub.Application.run(Application.kt:54)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:777)
-	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:761)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:310)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
-	at biz.lermitage.sub.ApplicationKt.main(Application.kt:125)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
-	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
-
 &lt;/pre&gt;</summary>
-    <dc:date>2022-03-26T10:00:50Z</dc:date>
+    <dc:date>2022-03-26T11:00:50Z</dc:date>
   </entry>
 </feed>
