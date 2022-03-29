@@ -1,7 +1,7 @@
 FAILED
 
 <pre>checker class biz.lermitage.sub.service.checker.impl.RHEL7Checker failed, ignoring
-com.jayway.jsonpath.InvalidJsonException: net.minidev.json.parser.ParseException: Unexpected End Of File position 1875396: null
+com.jayway.jsonpath.InvalidJsonException: net.minidev.json.parser.ParseException: Unexpected End Of File position 1873899: null
 	at com.jayway.jsonpath.spi.json.JsonSmartJsonProvider.parse(JsonSmartJsonProvider.java:64)
 	at com.jayway.jsonpath.internal.ParseContextImpl.parse(ParseContextImpl.java:37)
 	at com.jayway.jsonpath.JsonPath.read(JsonPath.java:550)
@@ -21,7 +21,7 @@ com.jayway.jsonpath.InvalidJsonException: net.minidev.json.parser.ParseException
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
-Caused by: net.minidev.json.parser.ParseException: Unexpected End Of File position 1875396: null
+Caused by: net.minidev.json.parser.ParseException: Unexpected End Of File position 1873899: null
 	at net.minidev.json.parser.JSONParserBase.readString2(JSONParserBase.java:635)
 	at net.minidev.json.parser.JSONParserMemory.readString(JSONParserMemory.java:132)
 	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:458)
@@ -36,5 +36,25 @@ Caused by: net.minidev.json.parser.ParseException: Unexpected End Of File positi
 	at net.minidev.json.parser.JSONParser.parse(JSONParser.java:278)
 	at com.jayway.jsonpath.spi.json.JsonSmartJsonProvider.parse(JsonSmartJsonProvider.java:62)
 	... 18 more
+
+checker class biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker failed, ignoring
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker.check(RHEL7MinimalChecker.kt:29)
+	at biz.lermitage.sub.Application.run(Application.kt:54)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:777)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:310)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:125)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
 
 </pre>
