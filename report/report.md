@@ -27,7 +27,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18|[golang.org](https://golang.org/dl/)|Tue Mar 15 17:00:13 UTC 2022|
-|![logo](../media/logo/gradle.png) Gradle|7.4.1|[gradle.org](https://gradle.org/releases/)|Wed Mar 09 17:00:16 UTC 2022|
+|![logo](../media/logo/gradle.png) Gradle|7.4.2|[gradle.org](https://gradle.org/releases/)|Thu Mar 31 18:00:16 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.8.7 to 16.9.0 ~ 2022-03-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Mar 17 00:00:20 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 276 - Il a coulé mon data center !|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 28 08:00:20 UTC 2022|
