@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.6.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 31 15:00:44 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 276 - Il a coulé mon data center !|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 28 08:00:20 UTC 2022|
-|![logo](../media/logo/springboot.png) Spring Boot|2.6.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 24 16:00:46 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Mar 24 11:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.4|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 24 11:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.4|[www.python.org](https://www.python.org/downloads/windows/)|Thu Mar 24 11:00:38 UTC 2022|
