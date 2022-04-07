@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v17.9.0|[nodejs.org](https://nodejs.org)|Thu Apr 07 23:00:33 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.9.0 to 16.9.5 ~ 2022-04-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Apr 01 23:00:19 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4.2|[gradle.org](https://gradle.org/releases/)|Thu Mar 31 18:00:16 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 31 15:00:44 UTC 2022|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Mar 24 11:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.4|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 24 11:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.4|[www.python.org](https://www.python.org/downloads/windows/)|Thu Mar 24 11:00:38 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v17.8.0|[nodejs.org](https://nodejs.org)|Tue Mar 22 15:00:34 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.2|[nodejs.org](https://nodejs.org)|Fri Mar 18 02:00:33 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18|[golang.org](https://golang.org/dl/)|Tue Mar 15 17:00:13 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.5|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Mar 13 13:00:32 UTC 2022|
