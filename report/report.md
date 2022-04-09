@@ -30,7 +30,7 @@
 |![logo](../media/logo/gradle.png) Gradle|7.4.2|[gradle.org](https://gradle.org/releases/)|Thu Mar 31 18:00:16 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.9.0 to 16.9.5 ~ 2022-04-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Apr 01 23:00:19 UTC 2022|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 276 - Il a coulé mon data center !|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 28 08:00:20 UTC 2022|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 277 - L'interview des 10 ans de cast codeurs à Devoxx par la chaîne Devoxx France TV|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Apr 09 13:00:20 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.43|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:24 UTC 2022|
