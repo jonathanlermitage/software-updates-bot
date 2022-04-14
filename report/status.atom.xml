@@ -3,25 +3,41 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2022-04-13T09:00:49Z</modified>
+  <modified>2022-04-14T12:02:35Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2022-04-13T09:00:49Z</dc:date>
+  <dc:date>2022-04-14T12:02:35Z</dc:date>
   <entry>
-    <title>FAILED -- Wed Apr 13 09:00:49 UTC 2022</title>
+    <title>FAILED -- Thu Apr 14 12:02:35 UTC 2022</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2022-04-13T09:00:49Z</modified>
-    <issued>2022-04-13T09:00:49Z</issued>
+    <modified>2022-04-14T12:02:35Z</modified>
+    <issued>2022-04-14T12:02:35Z</issued>
     <summary type="text/html" mode="escaped">FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.RHEL7Checker failed, ignoring
-com.jayway.jsonpath.InvalidJsonException: net.minidev.json.parser.ParseException: Unexpected End Of File position 1873899: null
-	at com.jayway.jsonpath.spi.json.JsonSmartJsonProvider.parse(JsonSmartJsonProvider.java:64)
-	at com.jayway.jsonpath.internal.ParseContextImpl.parse(ParseContextImpl.java:37)
-	at com.jayway.jsonpath.JsonPath.read(JsonPath.java:550)
-	at biz.lermitage.sub.service.checker.impl.RHEL7Checker.check(RHEL7Checker.kt:28)
+org.jsoup.HttpStatusException: HTTP error fetching URL. Status=503, URL=[https://catalog.redhat.com/api/containers/v1/repositories/registry/registry.access.redhat.com/repository/rhel7/images?exclude=data.repositories.comparison.advisory_rpm_mapping,data.brew,data.cpe_ids,data.top_layer_id,data.freshness_grades,data.repositories&amp;page_size=500&amp;page=0]
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:890)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:829)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:366)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:353)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:53)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(&lt;generated&gt;)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:97)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:133)
+	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchText(&lt;generated&gt;)
+	at biz.lermitage.sub.service.checker.impl.RHEL7Checker.check(RHEL7Checker.kt:26)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:777)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:761)
@@ -37,26 +53,47 @@ com.jayway.jsonpath.InvalidJsonException: net.minidev.json.parser.ParseException
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
-Caused by: net.minidev.json.parser.ParseException: Unexpected End Of File position 1873899: null
-	at net.minidev.json.parser.JSONParserBase.readString2(JSONParserBase.java:635)
-	at net.minidev.json.parser.JSONParserMemory.readString(JSONParserMemory.java:132)
-	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:458)
-	at net.minidev.json.parser.JSONParserBase.readObject(JSONParserBase.java:594)
-	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:451)
-	at net.minidev.json.parser.JSONParserBase.readArray(JSONParserBase.java:321)
-	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:454)
-	at net.minidev.json.parser.JSONParserBase.readObject(JSONParserBase.java:594)
-	at net.minidev.json.parser.JSONParserBase.readFirst(JSONParserBase.java:349)
-	at net.minidev.json.parser.JSONParserBase.parse(JSONParserBase.java:206)
-	at net.minidev.json.parser.JSONParserString.parse(JSONParserString.java:58)
-	at net.minidev.json.parser.JSONParser.parse(JSONParser.java:278)
-	at com.jayway.jsonpath.spi.json.JsonSmartJsonProvider.parse(JsonSmartJsonProvider.java:62)
-	... 18 more
 
 checker class biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker failed, ignoring
-java.lang.StringIndexOutOfBoundsException: String index out of range: -1
-	at java.base/java.lang.String.substring(String.java:1837)
-	at biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker.check(RHEL7MinimalChecker.kt:29)
+java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1449)
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1060)
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252)
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292)
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351)
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:754)
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:689)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1615)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:334)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:867)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:829)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:366)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:353)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:53)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(&lt;generated&gt;)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:97)
+	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
+	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
+	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:133)
+	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698)
+	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchText(&lt;generated&gt;)
+	at biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker.check(RHEL7MinimalChecker.kt:26)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:777)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:761)
@@ -74,6 +111,6 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
 
 &lt;/pre&gt;</summary>
-    <dc:date>2022-04-13T09:00:49Z</dc:date>
+    <dc:date>2022-04-14T12:02:35Z</dc:date>
   </entry>
 </feed>
