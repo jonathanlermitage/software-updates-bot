@@ -1,27 +1,11 @@
 FAILED
 
 <pre>checker class biz.lermitage.sub.service.checker.impl.RHEL7Checker failed, ignoring
-org.jsoup.HttpStatusException: HTTP error fetching URL. Status=503, URL=[https://catalog.redhat.com/api/containers/v1/repositories/registry/registry.access.redhat.com/repository/rhel7/images?exclude=data.repositories.comparison.advisory_rpm_mapping,data.brew,data.cpe_ids,data.top_layer_id,data.freshness_grades,data.repositories&page_size=500&page=0]
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:890)
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:829)
-	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:366)
-	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:353)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:53)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(<generated>)
-	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:783)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:97)
-	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
-	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:133)
-	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:163)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:753)
-	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:698)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchText(<generated>)
-	at biz.lermitage.sub.service.checker.impl.RHEL7Checker.check(RHEL7Checker.kt:26)
+com.jayway.jsonpath.InvalidJsonException: net.minidev.json.parser.ParseException: Unexpected End Of File position 1873899: null
+	at com.jayway.jsonpath.spi.json.JsonSmartJsonProvider.parse(JsonSmartJsonProvider.java:64)
+	at com.jayway.jsonpath.internal.ParseContextImpl.parse(ParseContextImpl.java:37)
+	at com.jayway.jsonpath.JsonPath.read(JsonPath.java:550)
+	at biz.lermitage.sub.service.checker.impl.RHEL7Checker.check(RHEL7Checker.kt:28)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:777)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:761)
@@ -37,6 +21,21 @@ org.jsoup.HttpStatusException: HTTP error fetching URL. Status=503, URL=[https:/
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:88)
+Caused by: net.minidev.json.parser.ParseException: Unexpected End Of File position 1873899: null
+	at net.minidev.json.parser.JSONParserBase.readString2(JSONParserBase.java:635)
+	at net.minidev.json.parser.JSONParserMemory.readString(JSONParserMemory.java:132)
+	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:458)
+	at net.minidev.json.parser.JSONParserBase.readObject(JSONParserBase.java:594)
+	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:451)
+	at net.minidev.json.parser.JSONParserBase.readArray(JSONParserBase.java:321)
+	at net.minidev.json.parser.JSONParserBase.readMain(JSONParserBase.java:454)
+	at net.minidev.json.parser.JSONParserBase.readObject(JSONParserBase.java:594)
+	at net.minidev.json.parser.JSONParserBase.readFirst(JSONParserBase.java:349)
+	at net.minidev.json.parser.JSONParserBase.parse(JSONParserBase.java:206)
+	at net.minidev.json.parser.JSONParserString.parse(JSONParserString.java:58)
+	at net.minidev.json.parser.JSONParser.parse(JSONParser.java:278)
+	at com.jayway.jsonpath.spi.json.JsonSmartJsonProvider.parse(JsonSmartJsonProvider.java:62)
+	... 18 more
 
 checker class biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker failed, ignoring
 java.lang.StringIndexOutOfBoundsException: String index out of range: -1
