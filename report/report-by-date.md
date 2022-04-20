@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.0.0|[nodejs.org](https://nodejs.org)|Tue Apr 19 16:00:33 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.9.5 to 16.9.8 ~ 2022-04-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 16 00:00:19 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.1|[golang.org](https://golang.org/dl/)|Wed Apr 13 01:00:13 UTC 2022|
@@ -42,7 +43,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk16 linux x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 mac x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 windows x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|
-|![logo](../media/logo/vlc.png) VLC|3.0.16|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Jun 23 14:00:59 UTC 2021|
 |AdoptOpenJDK jdk16 linux x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 UTC 2021|
 |AdoptOpenJDK jdk16 mac x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 UTC 2021|
 |AdoptOpenJDK jdk16 windows x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 UTC 2021|
