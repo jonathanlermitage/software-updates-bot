@@ -25,12 +25,12 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u322-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jan 25 16:00:11 UTC 2022|
-|![logo](../media/logo/gpg4win.png) GPG4Win|4.0.0 (2021-12-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Sun Jan 02 06:00:15 UTC 2022|
+|![logo](../media/logo/gpg4win.png) GPG4Win|4.0.2 (2022-04-26)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Apr 26 08:00:15 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.1|[golang.org](https://golang.org/dl/)|Wed Apr 13 01:00:13 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4.2|[gradle.org](https://gradle.org/releases/)|Thu Mar 31 18:00:16 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.9.5 to 16.9.8 ~ 2022-04-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 16 00:00:19 UTC 2022|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 277 - L'interview des 10 ans de cast codeurs à Devoxx par la chaîne Devoxx France TV|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Apr 09 13:00:20 UTC 2022|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 278 - En direct de Devoxx France 2022|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 26 08:00:21 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.43|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:24 UTC 2022|
