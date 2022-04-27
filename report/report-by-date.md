@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v16.15.0|[nodejs.org](https://nodejs.org)|Wed Apr 27 02:00:32 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.15+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Apr 26 15:00:08 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 278 - En direct de Devoxx France 2022|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 26 08:00:21 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.2 (2022-04-26)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Apr 26 08:00:15 UTC 2022|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Mar 24 11:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.4|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 24 11:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.4|[www.python.org](https://www.python.org/downloads/windows/)|Thu Mar 24 11:00:38 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v16.14.2|[nodejs.org](https://nodejs.org)|Fri Mar 18 02:00:33 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.5|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Mar 13 13:00:32 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
