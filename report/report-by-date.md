@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Apr 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Apr 28 10:00:46 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 27 18:00:11 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.15.0|[nodejs.org](https://nodejs.org)|Wed Apr 27 02:00:32 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.15+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Apr 26 15:00:08 UTC 2022|
@@ -23,7 +24,6 @@
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
-|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Feb 16 08:00:47 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:29 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:28 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:27 UTC 2022|
