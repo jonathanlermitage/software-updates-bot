@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v18.1.0|[nodejs.org](https://nodejs.org)|Tue May 03 13:00:33 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 02 17:00:10 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Apr 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Apr 28 10:00:46 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 27 18:00:11 UTC 2022|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.3+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 21 18:00:09 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.6.7.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 21 12:00:44 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v18.0.0|[nodejs.org](https://nodejs.org)|Tue Apr 19 16:00:33 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.9.5 to 16.9.8 ~ 2022-04-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 16 00:00:19 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.1|[golang.org](https://golang.org/dl/)|Wed Apr 13 01:00:13 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4.2|[gradle.org](https://gradle.org/releases/)|Thu Mar 31 18:00:16 UTC 2022|
