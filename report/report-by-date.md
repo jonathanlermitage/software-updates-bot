@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 10|10.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.2|[golang.org](https://golang.org/dl/)|Tue May 10 21:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu May 05 13:00:10 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.1.0|[nodejs.org](https://nodejs.org)|Tue May 03 13:00:33 UTC 2022|
@@ -32,11 +37,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:26 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:25 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.43|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:24 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 10|10.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 10 15:00:34 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.1.2|[inkscape.org](https://inkscape.org)|Sun Feb 06 00:00:18 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.3 (November 30, 2021)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Tue Nov 30 08:03:55 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
