@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v18.2.0|[nodejs.org](https://nodejs.org)|Tue May 17 16:00:33 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2|[inkscape.org](https://inkscape.org)|Mon May 16 22:00:18 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.9.8 to 17.0.0 ~ 2022-05-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu May 12 18:00:18 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.2|[golang.org](https://golang.org/dl/)|Tue May 10 21:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu May 05 13:00:10 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v18.1.0|[nodejs.org](https://nodejs.org)|Tue May 03 13:00:33 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 02 17:00:10 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Apr 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Apr 28 10:00:46 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 27 18:00:11 UTC 2022|
