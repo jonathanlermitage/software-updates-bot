@@ -1,5 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:29 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:28 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:27 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:26 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:25 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 19 14:00:46 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.2.0|[nodejs.org](https://nodejs.org)|Tue May 17 16:00:33 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2|[inkscape.org](https://inkscape.org)|Mon May 16 22:00:18 UTC 2022|
@@ -32,12 +38,6 @@
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:29 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:28 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:27 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:26 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:25 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.43|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:24 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.3 (November 30, 2021)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Tue Nov 30 08:03:55 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk16 linux x64|jdk-16.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Mon Aug 02 18:33:02 UTC 2021|

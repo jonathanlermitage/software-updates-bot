@@ -33,12 +33,12 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 278 - En direct de Devoxx France 2022|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 26 08:00:21 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.43|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:24 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:25 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:26 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:27 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:28 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 14 08:00:29 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:25 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:26 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:27 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:28 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:29 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|3.8.5|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Mar 13 13:00:32 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.2.0|[nodejs.org](https://nodejs.org)|Tue May 17 16:00:33 UTC 2022|
