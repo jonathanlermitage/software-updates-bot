@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 279 - URL ceteris paribus sic stantibus|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon May 23 09:00:19 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:29 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:28 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:27 UTC 2022|
@@ -22,7 +23,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 27 18:00:11 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.15.0|[nodejs.org](https://nodejs.org)|Wed Apr 27 02:00:32 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.15+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Apr 26 15:00:08 UTC 2022|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 278 - En direct de Devoxx France 2022|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 26 08:00:21 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.2 (2022-04-26)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Apr 26 08:00:15 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.3+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Apr 25 14:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.15+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Mon Apr 25 14:00:08 UTC 2022|
