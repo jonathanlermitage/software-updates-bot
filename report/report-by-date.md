@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v18.3.0|[nodejs.org](https://nodejs.org)|Thu Jun 02 04:00:33 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.15.1|[nodejs.org](https://nodejs.org)|Thu Jun 02 00:00:35 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.3|[golang.org](https://golang.org/dl/)|Wed Jun 01 21:00:14 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 279 - URL ceteris paribus sic stantibus|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon May 23 09:00:19 UTC 2022|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:25 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 19 14:00:46 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v18.2.0|[nodejs.org](https://nodejs.org)|Tue May 17 16:00:33 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2|[inkscape.org](https://inkscape.org)|Mon May 16 22:00:18 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|16.9.8 to 17.0.0 ~ 2022-05-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu May 12 18:00:18 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
