@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.5|[www.python.org](https://www.python.org/downloads/windows/)|Mon Jun 06 18:00:38 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 source| 3.10.5|[www.python.org](https://www.python.org/downloads/source/)|Mon Jun 06 18:00:38 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 mac| 3.10.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Jun 06 18:00:38 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.3.0|[nodejs.org](https://nodejs.org)|Thu Jun 02 04:00:33 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.15.1|[nodejs.org](https://nodejs.org)|Thu Jun 02 00:00:35 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.3|[golang.org](https://golang.org/dl/)|Wed Jun 01 21:00:14 UTC 2022|
@@ -31,9 +34,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.3+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 21 18:00:09 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4.2|[gradle.org](https://gradle.org/releases/)|Thu Mar 31 18:00:16 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 mac| 3.10.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Mar 24 11:00:38 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.4|[www.python.org](https://www.python.org/downloads/source/)|Thu Mar 24 11:00:38 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.4|[www.python.org](https://www.python.org/downloads/windows/)|Thu Mar 24 11:00:38 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.5|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun Mar 13 13:00:32 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
