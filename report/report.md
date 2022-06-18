@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.12.3 (November 30, 2021)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Tue Nov 30 08:03:55 UTC 2021|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
 |AdoptOpenJDK jdk11 linux x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 UTC 2021|
 |AdoptOpenJDK jdk11 mac x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 UTC 2021|
 |AdoptOpenJDK jdk11 windows x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 UTC 2021|
