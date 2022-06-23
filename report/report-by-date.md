@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.7.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 23 13:00:45 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Jun 16 14:00:34 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.4.0|[nodejs.org](https://nodejs.org)|Thu Jun 16 14:00:33 UTC 2022|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:26 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:25 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
-|![logo](../media/logo/springboot.png) Spring Boot|2.7.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 19 14:00:46 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2|[inkscape.org](https://inkscape.org)|Mon May 16 22:00:18 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
