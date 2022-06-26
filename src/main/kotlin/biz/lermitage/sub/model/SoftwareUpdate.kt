@@ -1,6 +1,6 @@
 package biz.lermitage.sub.model
 
-import java.util.*
+import java.util.Date
 
 /**
  * Represents a software update.

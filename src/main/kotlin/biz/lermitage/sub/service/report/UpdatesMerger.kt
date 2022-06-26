@@ -7,5 +7,5 @@ interface UpdatesMerger {
     /**
      * Merge given lists of updates. Most recent updates are kept in returned list.
      */
-    fun merge(previousUpdates: List<SoftwareUpdate>, currentUpdades: List<SoftwareUpdate>): ArrayList<SoftwareUpdate>
+    fun merge(previousUpdates: List<SoftwareUpdate>, currentUpdates: List<SoftwareUpdate>): ArrayList<SoftwareUpdate>
 }

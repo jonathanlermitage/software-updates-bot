@@ -9,7 +9,7 @@ import org.apache.commons.io.FileUtils
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
 import java.io.File
-import kotlin.streams.toList
+import java.util.stream.Collectors
 
 @Service
 class MarkdownReporterImpl(private val conf: LocalAppConf) : Reporter {
@@ -26,14 +26,14 @@ class MarkdownReporterImpl(private val conf: LocalAppConf) : Reporter {
         val reportFile = File(conf.reportFile.md)
         reportFile.parentFile.mkdirs()
         reportFile.delete()
-        write(reportFile, updates.stream().sorted().toList())
+        write(reportFile, updates.stream().sorted().collect(Collectors.toList()))
     }
 
     private fun generateOrderedByDateDesc(updates: List<SoftwareUpdate>) {
         val reportFile = File(conf.reportFile.mdByDate)
         reportFile.parentFile.mkdirs()
         reportFile.delete()
-        write(reportFile, updates.stream().sorted(SoftwareUpdate.comparatorByDateDesc).toList())
+        write(reportFile, updates.stream().sorted(SoftwareUpdate.comparatorByDateDesc).collect(Collectors.toList()))
     }
 
     private fun write(reportFile: File, updates: List<SoftwareUpdate>) {

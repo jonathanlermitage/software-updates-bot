@@ -10,11 +10,13 @@ import org.apache.commons.io.FileUtils
 import org.slf4j.LoggerFactory
 import org.springframework.stereotype.Service
 import java.io.File
-import kotlin.streams.toList
+import java.util.stream.Collectors
 
 @Service
-class JsonReporterImpl(private val conf: LocalAppConf,
-                       private val jsonReportLoader: JsonReportLoader) : Reporter {
+class JsonReporterImpl(
+    private val conf: LocalAppConf,
+    private val jsonReportLoader: JsonReportLoader
+) : Reporter {
 
     private val logger = LoggerFactory.getLogger(this.javaClass)
 
@@ -27,7 +29,7 @@ class JsonReporterImpl(private val conf: LocalAppConf,
 
         return if (updates != previousUpdates) {
             val mergedReportJson = Globals.gsonForReport()
-                .toJson(Report(updates.stream().sorted().toList()), Report::class.java)
+                .toJson(Report(updates.stream().sorted().collect(Collectors.toList())), Report::class.java)
 
             reportFile.delete()
             FileUtils.write(reportFile, mergedReportJson, Globals.reportCharset())
