@@ -278,6 +278,45 @@
         "Adoptium",
         "AdoptOpenJDK"
       ],
+      "name": "Adoptium jdk18 linux x64",
+      "website": "https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot",
+      "version": "jdk-18.0.1+10",
+      "checkDate": "Jun 26, 2022, 9:00:12 PM",
+      "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "Adoptium",
+        "AdoptOpenJDK"
+      ],
+      "name": "Adoptium jdk18 mac x64",
+      "website": "https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot",
+      "version": "jdk-18.0.1+10",
+      "checkDate": "Jun 26, 2022, 9:00:12 PM",
+      "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "Adoptium",
+        "AdoptOpenJDK"
+      ],
+      "name": "Adoptium jdk18 windows x64",
+      "website": "https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot",
+      "version": "jdk-18.0.1+10",
+      "checkDate": "Jun 26, 2022, 9:00:12 PM",
+      "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "Adoptium",
+        "AdoptOpenJDK"
+      ],
       "name": "Adoptium jdk8 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
       "version": "jdk8u332-b09",
@@ -360,8 +399,8 @@
       ],
       "name": "K-Lite Codec Pack Basic",
       "website": "https://www.codecguide.com/download_k-lite_codec_pack_basic.htm",
-      "version": "17.0.0 to 17.0.5 ~ 2022-06-14",
-      "checkDate": "Jun 14, 2022, 7:00:20 PM",
+      "version": "17.0.5 to 17.1.0 ~ 2022-06-26",
+      "checkDate": "Jun 26, 2022, 9:00:22 PM",
       "logo": "KLITE"
     },
     {

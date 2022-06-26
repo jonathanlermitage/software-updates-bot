@@ -22,6 +22,9 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.3+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 21 18:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.3+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Apr 22 16:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.3+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Apr 25 14:00:09 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 27 18:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 02 17:00:10 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu May 05 13:00:10 UTC 2022|
@@ -29,7 +32,7 @@
 |![logo](../media/logo/go.png) Go|go1.18.3|[golang.org](https://golang.org/dl/)|Wed Jun 01 21:00:14 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.4.2|[gradle.org](https://gradle.org/releases/)|Thu Mar 31 18:00:16 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2|[inkscape.org](https://inkscape.org)|Mon May 16 22:00:18 UTC 2022|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.0.0 to 17.0.5 ~ 2022-06-14|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jun 14 19:00:20 UTC 2022|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.0.5 to 17.1.0 ~ 2022-06-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Jun 26 21:00:22 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 280 - Leçon de géographie|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 13 09:00:20 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|

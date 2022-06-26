@@ -1,10 +1,13 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.0.5 to 17.1.0 ~ 2022-06-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Jun 26 21:00:22 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 23 13:00:45 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Jun 16 14:00:34 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.4.0|[nodejs.org](https://nodejs.org)|Thu Jun 16 14:00:33 UTC 2022|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.0.0 to 17.0.5 ~ 2022-06-14|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jun 14 19:00:20 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 280 - Leçon de géographie|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 13 09:00:20 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.6|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Jun 11 16:00:31 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Jun 06 18:00:38 UTC 2022|
