@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v16.16.0|[nodejs.org](https://nodejs.org)|Thu Jul 07 16:00:35 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.5.0|[nodejs.org](https://nodejs.org)|Thu Jul 07 16:00:35 UTC 2022|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v16.16.0|[nodejs.org](https://nodejs.org)|Thu Jul 07 16:00:35 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Jul 01 09:00:48 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.0.5 to 17.1.0 ~ 2022-06-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Jun 26 21:00:22 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
