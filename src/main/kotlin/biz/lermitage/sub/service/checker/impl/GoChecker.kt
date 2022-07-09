@@ -30,6 +30,7 @@ class GoChecker : Checker {
             "Go",
             "https://golang.org/dl/",
             version,
-            logo = Logo.GO)
+            logo = Logo.GO
+        )
     }
 }

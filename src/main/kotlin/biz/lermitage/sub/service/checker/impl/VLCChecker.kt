@@ -31,6 +31,7 @@ class VLCChecker : Checker {
             "VLC",
             "https://www.videolan.org/vlc/",
             version,
-            logo = Logo.VLC)
+            logo = Logo.VLC
+        )
     }
 }

@@ -20,14 +20,16 @@ abstract class AdoptiumChecker(
     private val major: Int,
     private val os: String,
     private val imageType: String,
-    private val architecture: String) : Checker {
+    private val architecture: String
+) : Checker {
 
     @Autowired
     lateinit var scrapper: Scrapper
 
     override fun check(): SoftwareUpdate {
         val json = scrapper.fetchText(
-            "https://api.adoptium.net/v3/assets/latest/$major/hotspot?release=latest&jvm_impl=hotspot&vendor=adoptium&")
+            "https://api.adoptium.net/v3/assets/latest/$major/hotspot?release=latest&jvm_impl=hotspot&vendor=adoptium&"
+        )
         val apiResponse = Gson().fromJson(json, Array<AdoptOpenJdkApiResponse>::class.java)
         val version = apiResponse.toList().find { apiResponseElt: AdoptOpenJdkApiResponse ->
             apiResponseElt.binary.os.equals(os, true)
@@ -40,6 +42,7 @@ abstract class AdoptiumChecker(
             "Adoptium $imageType$major $os $architecture",
             "https://adoptium.net/releases.html?variant=openjdk$major&jvmVariant=hotspot",
             version,
-            logo = Logo.ADOPTIUM)
+            logo = Logo.ADOPTIUM
+        )
     }
 }

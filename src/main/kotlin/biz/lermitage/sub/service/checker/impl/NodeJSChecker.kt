@@ -14,7 +14,8 @@ import org.springframework.beans.factory.annotation.Autowired
  */
 abstract class NodeJSChecker(
     private val type: String,
-    private val downloadButtonIdx: Int) : Checker {
+    private val downloadButtonIdx: Int
+) : Checker {
 
     @Autowired
     lateinit var scrapper: Scrapper
@@ -28,6 +29,7 @@ abstract class NodeJSChecker(
             "NodeJS $type",
             "https://nodejs.org",
             version,
-            logo = Logo.NODEJS)
+            logo = Logo.NODEJS
+        )
     }
 }

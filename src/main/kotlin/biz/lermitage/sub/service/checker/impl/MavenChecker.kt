@@ -26,6 +26,7 @@ class MavenChecker : Checker {
             "Maven",
             "https://maven.apache.org/download.cgi",
             version,
-            logo = Logo.MAVEN)
+            logo = Logo.MAVEN
+        )
     }
 }

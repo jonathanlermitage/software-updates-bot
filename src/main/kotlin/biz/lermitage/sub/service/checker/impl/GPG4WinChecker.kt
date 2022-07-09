@@ -28,6 +28,7 @@ class GPG4WinChecker : Checker {
             "GPG4Win",
             "https://www.gpg4win.org/get-gpg4win.html",
             version,
-            logo = Logo.GPG4WIN)
+            logo = Logo.GPG4WIN
+        )
     }
 }

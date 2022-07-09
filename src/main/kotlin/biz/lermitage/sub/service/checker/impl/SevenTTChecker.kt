@@ -26,6 +26,7 @@ class SevenTTChecker : Checker {
             "7+ Taskbar Tweaker",
             "https://ramensoftware.com/7-taskbar-tweaker",
             version,
-            logo = Logo.SEVEN_TT)
+            logo = Logo.SEVEN_TT
+        )
     }
 }

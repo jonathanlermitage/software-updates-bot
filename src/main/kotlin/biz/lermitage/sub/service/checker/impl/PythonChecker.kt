@@ -13,9 +13,11 @@ import org.springframework.beans.factory.annotation.Autowired
  * @param platformName platform name in report.
  * @param majorVersion Python major version: 2 or 3.
  */
-abstract class PythonChecker(private val platformId: String,
-                             private val platformName: String,
-                             private val majorVersion: String) : Checker {
+abstract class PythonChecker(
+    private val platformId: String,
+    private val platformName: String,
+    private val majorVersion: String
+) : Checker {
 
     @Autowired
     lateinit var scrapper: Scrapper
@@ -34,6 +36,7 @@ abstract class PythonChecker(private val platformId: String,
             "Python $majorVersion $platformName",
             "https://www.python.org/downloads/$platformId/",
             version,
-            logo = Logo.PYTHON)
+            logo = Logo.PYTHON
+        )
     }
 }

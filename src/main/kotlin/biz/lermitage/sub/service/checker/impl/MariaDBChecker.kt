@@ -20,7 +20,8 @@ abstract class MariaDBChecker(private val versionLeftPart: String) : Checker {
 
     override fun check(): SoftwareUpdate {
         val json = scrapper.fetchText(
-            "https://downloads.mariadb.org/rest-api/mariadb/$versionLeftPart/")
+            "https://downloads.mariadb.org/rest-api/mariadb/$versionLeftPart/"
+        )
         val jsonpath = "\$['releases'][*]['release_id']"
         val versions = JsonPath.read<JSONArray>(json, jsonpath)
         val version = versions[0].toString()
@@ -30,6 +31,7 @@ abstract class MariaDBChecker(private val versionLeftPart: String) : Checker {
             "MariaDB $versionLeftPart",
             "https://downloads.mariadb.org",
             version,
-            logo = Logo.MARIADB)
+            logo = Logo.MARIADB
+        )
     }
 }

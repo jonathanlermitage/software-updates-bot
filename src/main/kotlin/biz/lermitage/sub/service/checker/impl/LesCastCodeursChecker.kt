@@ -26,6 +26,7 @@ class LesCastCodeursChecker : Checker {
             "Les Cast Codeurs (French podcast)",
             "https://lescastcodeurs.com",
             version,
-            logo = Logo.CASTCODEURS)
+            logo = Logo.CASTCODEURS
+        )
     }
 }

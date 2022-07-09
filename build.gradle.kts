@@ -1,8 +1,9 @@
+import java.io.StringWriter
 import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-val detektVersion = "1.19.0" // don't forget to update plugin version too
+val detektVersion = "1.20.0" // don't forget to update plugin version too
 
 plugins {
     val kotlinVersion = "1.7.0"
@@ -10,10 +11,10 @@ plugins {
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
     id("org.springframework.boot") version "2.7.1"
-    id("io.spring.dependency-management") version "1.0.11.RELEASE"
+    id("io.spring.dependency-management") version "1.0.12.RELEASE"
     id("com.github.ben-manes.versions") version "0.42.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
-    id("io.gitlab.arturbosch.detekt") version "1.19.0"
+    id("io.gitlab.arturbosch.detekt") version "1.20.0"
     id("biz.lermitage.oga") version "1.1.1"
 }
 
@@ -32,7 +33,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("com.google.code.gson:gson:2.9.0")
     implementation("com.jayway.jsonpath:json-path:2.7.0")
-    implementation("org.jsoup:jsoup:1.15.1")
+    implementation("org.jsoup:jsoup:1.15.2")
     implementation("commons-io:commons-io:2.11.0")
     implementation("org.apache.commons:commons-lang3:3.12.0")
     implementation("com.rometools:rome:1.18.0")
@@ -49,6 +50,7 @@ detekt {
     toolVersion = detektVersion
     config = files("./detekt-config.yml")
     buildUponDefaultConfig = true
+    ignoreFailures = false
 }
 
 tasks {
@@ -58,17 +60,34 @@ tasks {
     withType<KotlinCompile> {
         kotlinOptions {
             javaParameters = true
-            freeCompilerArgs = listOf("-Xjsr305=strict")
+            freeCompilerArgs = listOf("-Xjsr305=strict"/*, "-Xuse-k2"*/)
             jvmTarget = JavaVersion.VERSION_11.toString()
         }
     }
     withType<DependencyUpdatesTask> {
         checkForGradleUpdate = true
         gradleReleaseChannel = "current"
-        outputFormatter = "plain"
-        outputDir = "build"
-        reportfileName = "dependencyUpdatesReport"
         revision = "release"
+        resolutionStrategy {
+            componentSelection {
+                all {
+                    if (isNonStable(candidate.version)) {
+                        logger.debug(" - [ ] ${candidate.module}:${candidate.version} candidate rejected")
+                        reject("Not stable")
+                    } else {
+                        logger.debug(" - [X] ${candidate.module}:${candidate.version} candidate accepted")
+                    }
+                }
+            }
+        }
+        outputFormatter = closureOf<com.github.benmanes.gradle.versions.reporter.result.Result> {
+            unresolved.dependencies.removeIf { it.group.toString() == "org.jetbrains.kotlin" }
+            val plainTextReporter =
+                com.github.benmanes.gradle.versions.reporter.PlainTextReporter(project, revision, gradleReleaseChannel)
+            val writer = StringWriter()
+            plainTextReporter.write(writer, this)
+            logger.quiet(writer.toString().trim())
+        }
     }
     withType<Detekt> {
         jvmTarget = JavaVersion.VERSION_11.toString()
@@ -86,20 +105,5 @@ fun isNonStable(version: String): Boolean {
     }
     return listOf("alpha", "Alpha", "ALPHA", "b", "beta", "Beta", "BETA", "rc", "RC", "M", "EA", "pr", "atlassian").any {
         "(?i).*[.-]${it}[.\\d-]*$".toRegex().matches(version)
-    }
-}
-
-tasks.named("dependencyUpdates", DependencyUpdatesTask::class.java).configure {
-    resolutionStrategy {
-        componentSelection {
-            all {
-                if (isNonStable(candidate.version)) {
-                    logger.quiet(" - [ ] ${candidate.module}:${candidate.version} candidate rejected")
-                    reject("Not stable")
-                } else {
-                    logger.quiet(" - [X] ${candidate.module}:${candidate.version} candidate accepted")
-                }
-            }
-        }
     }
 }

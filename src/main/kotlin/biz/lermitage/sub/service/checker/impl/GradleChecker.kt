@@ -21,7 +21,8 @@ class GradleChecker : Checker {
 
     override fun check(): SoftwareUpdate {
         val json = scrapper.fetchText(
-            "https://raw.githubusercontent.com/gradle/gradle/master/released-versions.json")
+            "https://raw.githubusercontent.com/gradle/gradle/master/released-versions.json"
+        )
         val apiResponse = Gson().fromJson(json, GradleApiResponse::class.java)
         val version = apiResponse.finalReleases[0].version
 
@@ -30,6 +31,7 @@ class GradleChecker : Checker {
             "Gradle",
             "https://gradle.org/releases/",
             version,
-            logo = Logo.GRADLE)
+            logo = Logo.GRADLE
+        )
     }
 }

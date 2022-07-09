@@ -22,9 +22,10 @@ class KLiteCodecPackBasicChecker : Checker {
         val body = scrapper.fetchHtml("https://www.codecguide.com/changelogs_basic.htm")
         val titles = body.getElementsByTag("h4")
         val versionTitleFound = titles.toList()
-            .find { element: Element -> element.text().contains("Changelog ", ignoreCase = true)
-                && element.text().contains("to", ignoreCase = true)
-                && element.text().contains("~", ignoreCase = true)
+            .find { element: Element ->
+                element.text().contains("Changelog ", ignoreCase = true) &&
+                    element.text().contains("to", ignoreCase = true) &&
+                    element.text().contains("~", ignoreCase = true)
             }
         val version = versionTitleFound!!.text()
             .replace("Changelog", "", ignoreCase = true)

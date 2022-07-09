@@ -13,7 +13,8 @@ abstract class GenericJsonPathChecker(
     private val jsonpath: String,
     private val name: String,
     private val website: String,
-    private val logo: Logo = Logo.NONE) : Checker {
+    private val logo: Logo = Logo.NONE
+) : Checker {
 
     @Autowired
     lateinit var scrapper: Scrapper
@@ -27,6 +28,7 @@ abstract class GenericJsonPathChecker(
             name,
             website,
             version,
-            logo = logo)
+            logo = logo
+        )
     }
 }

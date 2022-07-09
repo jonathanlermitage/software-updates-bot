@@ -57,7 +57,8 @@ class Application : CommandLineRunner {
                 if (version.isEmpty()
                     || version.lowercase() == "archived"
                     || version.lowercase() == "archive"
-                    || !version.matches(versionPattern)) {
+                    || !version.matches(versionPattern)
+                ) {
                     throw NumberFormatException("Bad version number: $version")
                 }
                 latestUpdates.add(check)
@@ -98,8 +99,10 @@ class Application : CommandLineRunner {
         }
         val uptime = ManagementFactory.getRuntimeMXBean().uptime
         val gcActivityRatio = garbageCollectionTime * 100 / uptime
-        logger.info("GC stats:\n - total GC collections: {}\n - total GC collection time: {}ms (activity ratio: {}%)\n - JVM uptime: {}ms",
-            totalGarbageCollections, garbageCollectionTime, gcActivityRatio, uptime)
+        logger.info(
+            "GC stats:\n - total GC collections: {}\n - total GC collection time: {}ms (activity ratio: {}%)\n - JVM uptime: {}ms",
+            totalGarbageCollections, garbageCollectionTime, gcActivityRatio, uptime
+        )
     }
 
     private fun logMemoryStats() {
@@ -108,11 +111,13 @@ class Application : CommandLineRunner {
         val allocatedMemory = runtime.totalMemory()
         val freeMemory = runtime.freeMemory()
         val mb = 1024 * 1024
-        logger.info("Memory stats:\n - free memory: {}MB,\n - allocated memory: {}MB\n - max memory: {}MB\n - total free memory: {}MB",
+        logger.info(
+            "Memory stats:\n - free memory: {}MB,\n - allocated memory: {}MB\n - max memory: {}MB\n - total free memory: {}MB",
             freeMemory / mb,
             allocatedMemory / mb,
             maxMemory / mb,
-            (freeMemory + (maxMemory - allocatedMemory)) / mb)
+            (freeMemory + (maxMemory - allocatedMemory)) / mb
+        )
     }
 }
 

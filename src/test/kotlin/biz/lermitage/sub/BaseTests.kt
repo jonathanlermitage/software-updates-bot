@@ -29,7 +29,8 @@ class BaseTests {
             conf.reportFile.rss,
             conf.statusFile.md,
             conf.statusFile.atom,
-            conf.statusFile.rss).forEach { filename: String ->
+            conf.statusFile.rss
+        ).forEach { filename: String ->
             val file = File(filename)
             logger.info("deleted ${file.absolutePath} before test: ${file.delete()}")
         }

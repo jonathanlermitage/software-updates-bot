@@ -27,6 +27,7 @@ class VeraCryptChecker : Checker {
             "VeraCrypt",
             "https://www.veracrypt.fr/en/Downloads.html",
             version,
-            logo = Logo.VERACRYPT)
+            logo = Logo.VERACRYPT
+        )
     }
 }

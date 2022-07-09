@@ -33,6 +33,7 @@ class RHEL7Checker : Checker {
             "RHEL7",
             "https://access.redhat.com/products/red-hat-enterprise-linux",
             version,
-            logo = Logo.RHEL)
+            logo = Logo.RHEL
+        )
     }
 }

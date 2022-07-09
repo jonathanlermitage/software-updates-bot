@@ -15,4 +15,5 @@ class SpringBootChecker : GenericJsonPathChecker(
     "\$.bootVersion.default",
     "Spring Boot",
     "https://start.spring.io",
-    Logo.SPRING_BOOT), Checker
+    Logo.SPRING_BOOT
+), Checker

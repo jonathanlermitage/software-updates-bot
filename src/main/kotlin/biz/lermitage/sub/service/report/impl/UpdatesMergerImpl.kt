@@ -21,8 +21,12 @@ class UpdatesMergerImpl : UpdatesMerger {
             } else {
                 currSu.checkDate
             }
-            mergedReportSoftwareUpdates.add(SoftwareUpdate(currSu.categories, currSu.name, currSu.website, currSu.version,
-                dateToKeep, currSu.logo))
+            mergedReportSoftwareUpdates.add(
+                SoftwareUpdate(
+                    currSu.categories, currSu.name, currSu.website, currSu.version,
+                    dateToKeep, currSu.logo
+                )
+            )
         })
 
         previousUpdates.forEach(Consumer { prevSu: SoftwareUpdate ->

@@ -30,6 +30,7 @@ class InkscapeChecker : Checker {
             "Inkscape",
             "https://inkscape.org",
             version,
-            logo = Logo.INKSCAPE)
+            logo = Logo.INKSCAPE
+        )
     }
 }
