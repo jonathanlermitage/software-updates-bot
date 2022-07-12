@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.18.4|[golang.org](https://golang.org/dl/)|Tue Jul 12 20:00:19 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 281 - Apérikube apomorphique - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 12 11:00:23 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.5.0|[nodejs.org](https://nodejs.org)|Thu Jul 07 16:00:35 UTC 2022|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Jun 06 18:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.5|[www.python.org](https://www.python.org/downloads/source/)|Mon Jun 06 18:00:38 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.5|[www.python.org](https://www.python.org/downloads/windows/)|Mon Jun 06 18:00:38 UTC 2022|
-|![logo](../media/logo/go.png) Go|go1.18.3|[golang.org](https://golang.org/dl/)|Wed Jun 01 21:00:14 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:29 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:28 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:27 UTC 2022|
