@@ -30,7 +30,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu May 05 13:00:10 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.4|[golang.org](https://golang.org/dl/)|Tue Jul 12 20:00:19 UTC 2022|
-|![logo](../media/logo/gradle.png) Gradle|7.4.2|[gradle.org](https://gradle.org/releases/)|Thu Mar 31 18:00:16 UTC 2022|
+|![logo](../media/logo/gradle.png) Gradle|7.5|[gradle.org](https://gradle.org/releases/)|Thu Jul 14 14:00:18 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2|[inkscape.org](https://inkscape.org)|Mon May 16 22:00:18 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.0.5 to 17.1.0 ~ 2022-06-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Jun 26 21:00:22 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 281 - Apérikube apomorphique - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 12 11:00:23 UTC 2022|

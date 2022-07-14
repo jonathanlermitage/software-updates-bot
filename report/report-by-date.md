@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|7.5|[gradle.org](https://gradle.org/releases/)|Thu Jul 14 14:00:18 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.6.0|[nodejs.org](https://nodejs.org)|Wed Jul 13 22:00:35 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.4|[golang.org](https://golang.org/dl/)|Tue Jul 12 20:00:19 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
@@ -38,7 +39,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.15+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Apr 22 16:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.3+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 21 18:00:09 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
-|![logo](../media/logo/gradle.png) Gradle|7.4.2|[gradle.org](https://gradle.org/releases/)|Thu Mar 31 18:00:16 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
