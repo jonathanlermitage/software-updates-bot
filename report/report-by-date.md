@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.5|[gradle.org](https://gradle.org/releases/)|Thu Jul 14 14:00:18 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.6.0|[nodejs.org](https://nodejs.org)|Wed Jul 13 22:00:35 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.4|[golang.org](https://golang.org/dl/)|Tue Jul 12 20:00:19 UTC 2022|
@@ -24,7 +25,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:26 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:25 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
-|![logo](../media/logo/inkscape.png) Inkscape|1.2|[inkscape.org](https://inkscape.org)|Mon May 16 22:00:18 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
