@@ -33,7 +33,7 @@
 |![logo](../media/logo/gradle.png) Gradle|7.5|[gradle.org](https://gradle.org/releases/)|Thu Jul 14 14:00:18 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.0.5 to 17.1.0 ~ 2022-06-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Jun 26 21:00:22 UTC 2022|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 281 - Apérikube apomorphique - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 12 11:00:23 UTC 2022|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 282 - Apérikube apomorphique - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 19 07:00:23 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
