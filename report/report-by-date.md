@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.7.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jul 21 11:01:00 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 282 - Apérikube apomorphique - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 19 07:00:23 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.5|[gradle.org](https://gradle.org/releases/)|Thu Jul 14 14:00:18 UTC 2022|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
-|![logo](../media/logo/springboot.png) Spring Boot|2.7.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 23 13:00:45 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Jun 16 14:00:34 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.6|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Jun 11 16:00:31 UTC 2022|
