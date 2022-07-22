@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Jul 22 21:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.4+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jul 22 14:00:10 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jul 22 14:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 21 16:00:09 UTC 2022|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.16.0|[nodejs.org](https://nodejs.org)|Thu Jul 07 16:00:35 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Jul 01 09:00:48 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.0.5 to 17.1.0 ~ 2022-06-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Jun 26 21:00:22 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
