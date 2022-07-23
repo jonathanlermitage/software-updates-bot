@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jul 23 22:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Jul 22 21:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.4+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jul 22 14:00:10 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jul 22 14:00:08 UTC 2022|
@@ -36,7 +37,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu May 05 13:00:10 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 02 17:00:10 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 27 18:00:11 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.15+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Apr 26 15:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.3+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Apr 22 16:00:09 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
