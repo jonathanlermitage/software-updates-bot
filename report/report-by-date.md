@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u342-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jul 25 14:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Mon Jul 25 13:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jul 23 22:00:09 UTC 2022|
