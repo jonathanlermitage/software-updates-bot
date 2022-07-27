@@ -3,18 +3,18 @@ import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-val detektVersion = "1.20.0" // don't forget to update plugin version too
+val detektVersion = "1.21.0" // don't forget to update plugin version too
 
 plugins {
-    val kotlinVersion = "1.7.0"
+    val kotlinVersion = "1.7.10"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "2.7.1"
+    id("org.springframework.boot") version "2.7.2"
     id("io.spring.dependency-management") version "1.0.12.RELEASE"
     id("com.github.ben-manes.versions") version "0.42.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
-    id("io.gitlab.arturbosch.detekt") version "1.20.0"
+    id("io.gitlab.arturbosch.detekt") version "1.21.0"
     id("biz.lermitage.oga") version "1.1.1"
 }
 
