@@ -6,7 +6,7 @@ import biz.lermitage.sub.service.checker.Checker
 import org.springframework.stereotype.Service
 
 /**
- * ThrottleStop checker.
+ * Intel Wi-Fi Networking Drivers checker.
  */
 @Service
 class TechPowerUpIntelWiFiDriversChecker :

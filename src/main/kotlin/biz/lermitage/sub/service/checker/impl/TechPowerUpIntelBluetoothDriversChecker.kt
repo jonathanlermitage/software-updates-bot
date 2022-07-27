@@ -6,7 +6,7 @@ import biz.lermitage.sub.service.checker.Checker
 import org.springframework.stereotype.Service
 
 /**
- * ThrottleStop checker.
+ * Intel Bluetooth Drivers checker.
  */
 @Service
 class TechPowerUpIntelBluetoothDriversChecker :
