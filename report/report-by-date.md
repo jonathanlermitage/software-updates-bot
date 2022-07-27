@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 27 22:00:10 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 283 - Mini interview comment améliorer ses présentations|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 27 09:00:22 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Wed Jul 27 04:00:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|30.0.101.1994|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Wed Jul 27 04:00:23 UTC 2022|
@@ -41,7 +42,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon May 02 17:00:10 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.3+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Apr 22 16:00:09 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
