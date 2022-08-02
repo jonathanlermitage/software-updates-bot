@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.6|[www.python.org](https://www.python.org/downloads/windows/)|Tue Aug 02 11:00:40 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 source| 3.10.6|[www.python.org](https://www.python.org/downloads/source/)|Tue Aug 02 11:00:40 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 mac| 3.10.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Aug 02 11:00:40 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.18.5|[golang.org](https://golang.org/dl/)|Mon Aug 01 16:00:15 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3222|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Jul 28 08:00:57 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 27 22:00:10 UTC 2022|
@@ -28,9 +31,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Jun 16 14:00:34 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.6|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Jun 11 16:00:31 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 mac| 3.10.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Jun 06 18:00:38 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.5|[www.python.org](https://www.python.org/downloads/source/)|Mon Jun 06 18:00:38 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.5|[www.python.org](https://www.python.org/downloads/windows/)|Mon Jun 06 18:00:38 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:29 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:28 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:27 UTC 2022|
