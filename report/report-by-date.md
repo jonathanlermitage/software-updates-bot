@@ -1,7 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 04 21:00:12 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 04 21:00:12 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19|[golang.org](https://golang.org/dl/)|Tue Aug 02 17:00:16 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u342-b07.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Aug 02 14:00:14 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Aug 02 11:00:40 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.6|[www.python.org](https://www.python.org/downloads/source/)|Tue Aug 02 11:00:40 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.6|[www.python.org](https://www.python.org/downloads/windows/)|Tue Aug 02 11:00:40 UTC 2022|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.7.0|[nodejs.org](https://nodejs.org)|Tue Jul 26 23:00:36 UTC 2022|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u342-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jul 25 14:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Mon Jul 25 13:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jul 23 22:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Jul 22 21:00:11 UTC 2022|
