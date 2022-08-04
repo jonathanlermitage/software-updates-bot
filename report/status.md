@@ -4,29 +4,9 @@ FAILED
 com.jayway.jsonpath.PathNotFoundException: No results for path: $['data'][0]['parsed_data']['labels'][13]
 
 checker class biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 503 for URL: https://catalog.redhat.com/api/containers/v1/repositories/registry/registry.access.redhat.com/repository/rhel7-minimal/images?exclude=data.repositories.comparison.advisory_rpm_mapping,data.brew,data.cpe_ids,data.top_layer_id,data.freshness_grades,data.repositories&page_size=500&page=0
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1924)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1520)
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
-	at java.base/java.net.URL.openStream(URL.java:1165)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:2953)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.downloadAsText(ScrapperImpl.kt:64)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchText(ScrapperImpl.kt:58)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$FastClassBySpringCGLIB.invoke(<generated>)
-	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:793)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:97)
-	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
-	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:133)
-	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:160)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:763)
-	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:708)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$EnhancerBySpringCGLIB.fetchText(<generated>)
-	at biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker.check(RHEL7MinimalChecker.kt:26)
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.String.substring(String.java:1837)
+	at biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker.check(RHEL7MinimalChecker.kt:29)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
