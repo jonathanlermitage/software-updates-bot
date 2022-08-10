@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Aug 08 14:00:13 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 10 12:00:13 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u342-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Aug 10 12:00:13 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.1.0 to 17.1.5 ~ 2022-08-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Aug 08 10:00:26 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 04 21:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 04 21:00:12 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19|[golang.org](https://golang.org/dl/)|Tue Aug 02 17:00:16 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Aug 02 11:00:40 UTC 2022|
