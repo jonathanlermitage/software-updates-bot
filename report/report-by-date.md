@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u332-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 15:00:13 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u342-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 15:00:13 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
