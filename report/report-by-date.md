@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 10|10.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 11:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 11:00:13 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.1.0 to 17.1.5 ~ 2022-08-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Aug 08 10:00:26 UTC 2022|
@@ -30,7 +35,6 @@
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Jul 01 09:00:48 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Jun 16 14:00:34 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.6|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Jun 11 16:00:31 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:29 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:28 UTC 2022|
@@ -38,10 +42,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:26 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.35|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:25 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 10|10.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 12 14:00:34 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
 |![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
