@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Aug 14 12:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
@@ -33,7 +34,6 @@
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.16.0|[nodejs.org](https://nodejs.org)|Thu Jul 07 16:00:35 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Jul 01 09:00:48 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Jun 26 21:00:12 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.6|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Jun 11 16:00:31 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:29 UTC 2022|
