@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|2.7.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Aug 18 08:00:51 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.17.0|[nodejs.org](https://nodejs.org)|Tue Aug 16 12:00:36 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:33 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.9|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:32 UTC 2022|
@@ -34,7 +35,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jul 22 14:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 21 16:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.4+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 21 14:00:09 UTC 2022|
-|![logo](../media/logo/springboot.png) Spring Boot|2.7.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jul 21 11:01:00 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.5|[gradle.org](https://gradle.org/releases/)|Thu Jul 14 14:00:18 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
