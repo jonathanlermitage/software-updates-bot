@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Aug 19 18:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Aug 19 18:00:08 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Aug 19 18:00:08 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Aug 18 08:00:51 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.17.0|[nodejs.org](https://nodejs.org)|Tue Aug 16 12:00:36 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:33 UTC 2022|
