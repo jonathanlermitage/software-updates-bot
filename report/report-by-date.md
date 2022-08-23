@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 23 17:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 16:00:09 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.5.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 23 04:00:18 UTC 2022|
@@ -27,7 +29,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Aug 02 11:00:40 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.6|[www.python.org](https://www.python.org/downloads/source/)|Tue Aug 02 11:00:40 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.6|[www.python.org](https://www.python.org/downloads/windows/)|Tue Aug 02 11:00:40 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 27 22:00:10 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 283 - Mini interview comment améliorer ses présentations|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 27 09:00:22 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Wed Jul 27 04:00:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
@@ -35,7 +36,6 @@
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Mon Jul 25 13:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Jul 22 21:00:11 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.4+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jul 22 14:00:10 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Jul 01 09:00:48 UTC 2022|
