@@ -30,7 +30,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 04 21:00:12 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19|[golang.org](https://golang.org/dl/)|Tue Aug 02 17:00:16 UTC 2022|
-|![logo](../media/logo/gradle.png) Gradle|7.5|[gradle.org](https://gradle.org/releases/)|Thu Jul 14 14:00:18 UTC 2022|
+|![logo](../media/logo/gradle.png) Gradle|7.5.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 23 04:00:18 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|30.0.101.3268|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Mon Aug 22 10:00:55 UTC 2022|
