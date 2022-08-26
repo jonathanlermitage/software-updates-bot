@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.1.5 to 17.2.0 ~ 2022-08-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 26 17:00:22 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.8.0|[nodejs.org](https://nodejs.org)|Wed Aug 24 17:00:36 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
