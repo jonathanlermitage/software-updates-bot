@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.1.5 to 17.2.0 ~ 2022-08-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 26 17:00:22 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.8.0|[nodejs.org](https://nodejs.org)|Wed Aug 24 17:00:36 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
@@ -16,7 +19,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:31 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:30 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.36|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:28 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Sun Aug 14 12:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
@@ -24,7 +26,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.1.0 to 17.1.5 ~ 2022-08-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Aug 08 10:00:26 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 04 21:00:12 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19|[golang.org](https://golang.org/dl/)|Tue Aug 02 17:00:16 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Aug 02 11:00:40 UTC 2022|
@@ -34,7 +35,6 @@
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Wed Jul 27 04:00:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Mon Jul 25 13:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Jul 22 21:00:11 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
