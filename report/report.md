@@ -22,7 +22,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 16:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Jul 22 21:00:11 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|

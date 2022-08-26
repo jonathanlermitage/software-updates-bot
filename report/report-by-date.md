@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.1.5 to 17.2.0 ~ 2022-08-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 26 17:00:22 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
@@ -35,7 +36,6 @@
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Wed Jul 27 04:00:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Jul 22 21:00:11 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Jul 01 09:00:48 UTC 2022|
