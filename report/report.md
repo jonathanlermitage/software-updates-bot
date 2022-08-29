@@ -33,7 +33,7 @@
 |![logo](../media/logo/gradle.png) Gradle|7.5.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 23 04:00:18 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
-|![logo](../media/logo/intel.png) Intel Graphics Drivers|30.0.101.3268|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Mon Aug 22 10:00:55 UTC 2022|
+|![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3276|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Mon Aug 29 14:00:54 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Wed Jul 27 04:00:24 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.1.5 to 17.2.0 ~ 2022-08-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 26 17:00:22 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 283 - Mini interview comment améliorer ses présentations|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 27 09:00:22 UTC 2022|
