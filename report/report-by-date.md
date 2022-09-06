@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.19.1|[golang.org](https://golang.org/dl/)|Tue Sep 06 17:00:19 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Sep 06 10:00:43 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.7|[www.python.org](https://www.python.org/downloads/source/)|Tue Sep 06 10:00:43 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.7|[www.python.org](https://www.python.org/downloads/windows/)|Tue Sep 06 10:00:43 UTC 2022|
@@ -32,7 +33,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 04 21:00:12 UTC 2022|
-|![logo](../media/logo/go.png) Go|go1.19|[golang.org](https://golang.org/dl/)|Tue Aug 02 17:00:16 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 283 - Mini interview comment améliorer ses présentations|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 27 09:00:22 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
