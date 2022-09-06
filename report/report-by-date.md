@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.7|[www.python.org](https://www.python.org/downloads/windows/)|Tue Sep 06 10:00:43 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.7|[www.python.org](https://www.python.org/downloads/source/)|Tue Sep 06 10:00:43 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Sep 06 10:00:43 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 source| 3.10.7|[www.python.org](https://www.python.org/downloads/source/)|Tue Sep 06 10:00:43 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.7|[www.python.org](https://www.python.org/downloads/windows/)|Tue Sep 06 10:00:43 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.160.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Sep 02 13:00:58 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
