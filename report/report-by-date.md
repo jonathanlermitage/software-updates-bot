@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v18.9.0|[nodejs.org](https://nodejs.org)|Thu Sep 08 15:00:37 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.1|[golang.org](https://golang.org/dl/)|Tue Sep 06 17:00:19 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Sep 06 10:00:43 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.7|[www.python.org](https://www.python.org/downloads/source/)|Tue Sep 06 10:00:43 UTC 2022|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.1.5 to 17.2.0 ~ 2022-08-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 26 17:00:22 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v18.8.0|[nodejs.org](https://nodejs.org)|Wed Aug 24 17:00:36 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 23 17:00:09 UTC 2022|
