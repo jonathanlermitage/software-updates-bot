@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 284 - De mal en pis - partie 1|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 12 09:00:22 UTC 2022|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 285 - De mal en pis - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Sep 16 15:00:23 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.9.0|[nodejs.org](https://nodejs.org)|Thu Sep 08 15:00:37 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.1|[golang.org](https://golang.org/dl/)|Tue Sep 06 17:00:19 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Sep 06 10:00:43 UTC 2022|
