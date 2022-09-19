@@ -3,62 +3,18 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2022-09-17T01:01:03Z</modified>
+  <modified>2022-09-19T19:00:55Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2022-09-17T01:01:03Z</dc:date>
+  <dc:date>2022-09-19T19:00:55Z</dc:date>
   <entry>
-    <title>FAILED -- Sat Sep 17 01:01:03 UTC 2022</title>
+    <title>OK -- Mon Sep 19 19:00:55 UTC 2022</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2022-09-17T01:01:03Z</modified>
-    <issued>2022-09-17T01:01:03Z</issued>
-    <summary type="text/html" mode="escaped">FAILED
-
-&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.RHEL7Checker failed, ignoring
-com.jayway.jsonpath.PathNotFoundException: No results for path: $['data'][0]['parsed_data']['labels'][13]
-
-checker class biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker failed, ignoring
-java.lang.StringIndexOutOfBoundsException: String index out of range: -1
-	at java.base/java.lang.String.substring(String.java:1837)
-	at biz.lermitage.sub.service.checker.impl.RHEL7MinimalChecker.check(RHEL7MinimalChecker.kt:29)
-	at biz.lermitage.sub.Application.run(Application.kt:54)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
-	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
-	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
-	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
-
-checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
-java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
-	at biz.lermitage.sub.Application.run(Application.kt:54)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
-	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
-	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
-	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
-
-&lt;/pre&gt;</summary>
-    <dc:date>2022-09-17T01:01:03Z</dc:date>
+    <modified>2022-09-19T19:00:55Z</modified>
+    <issued>2022-09-19T19:00:55Z</issued>
+    <summary type="text/html" mode="escaped">OK</summary>
+    <dc:date>2022-09-19T19:00:55Z</dc:date>
   </entry>
 </feed>

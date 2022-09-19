@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Mon Sep 19 19:00:49 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 19:00:35 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 19:00:34 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 17:00:32 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.10|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 17:00:31 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 285 - De mal en pis - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Sep 16 15:00:23 UTC 2022|
