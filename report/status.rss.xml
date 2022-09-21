@@ -4,15 +4,74 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Tue, 20 Sep 2022 19:00:56 GMT</pubDate>
+    <pubDate>Wed, 21 Sep 2022 18:18:35 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2022-09-20T19:00:56Z</dc:date>
+    <dc:date>2022-09-21T18:18:35Z</dc:date>
     <item>
-      <title>OK -- Tue Sep 20 19:00:56 UTC 2022</title>
-      <description>OK</description>
-      <pubDate>Tue, 20 Sep 2022 19:00:56 GMT</pubDate>
+      <title>FAILED -- Wed Sep 21 18:18:35 UTC 2022</title>
+      <description>FAILED
+
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.Adoptium19LinuxChecker failed, ignoring
+java.lang.NullPointerException
+	at biz.lermitage.sub.service.checker.impl.AdoptiumChecker.check(AdoptiumChecker.kt:34)
+	at biz.lermitage.sub.Application.run(Application.kt:54)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+
+checker class biz.lermitage.sub.service.checker.impl.Adoptium19MacosChecker failed, ignoring
+java.lang.NullPointerException
+	at biz.lermitage.sub.service.checker.impl.AdoptiumChecker.check(AdoptiumChecker.kt:34)
+	at biz.lermitage.sub.Application.run(Application.kt:54)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+
+checker class biz.lermitage.sub.service.checker.impl.Adoptium19WindowsChecker failed, ignoring
+java.lang.NullPointerException
+	at biz.lermitage.sub.service.checker.impl.AdoptiumChecker.check(AdoptiumChecker.kt:34)
+	at biz.lermitage.sub.Application.run(Application.kt:54)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+
+&lt;/pre&gt;</description>
+      <pubDate>Wed, 21 Sep 2022 18:18:35 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2022-09-20T19:00:56Z</dc:date>
+      <dc:date>2022-09-21T18:18:35Z</dc:date>
     </item>
   </channel>
 </rss>
