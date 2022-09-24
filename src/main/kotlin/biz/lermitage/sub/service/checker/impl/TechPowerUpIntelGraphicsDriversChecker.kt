@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service
 @Service
 class TechPowerUpIntelGraphicsDriversChecker :
     TechPowerUpChecker(
-        "Intel Graphics Drivers",
+        "Intel IGP Graphics Drivers",
         "https://www.techpowerup.com/download/intel-integrated-graphics-drivers/",
         listOf(Category.DRIVERS.label, Category.MS_WINDOWS.label),
         Logo.INTEL

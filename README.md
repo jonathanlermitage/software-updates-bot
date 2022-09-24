@@ -8,20 +8,21 @@
 
 This bot currently monitors updates for:
 * 7+ Taskbar Tweaker
-* Adoptium (previously AdoptOpenJDK): JDK8, 11 and 17
-* Go 
+* Adoptium (previously AdoptOpenJDK): JDK8, 11, 17, and 18
+* Golang SDK
 * GPG4Win
 * Gradle
 * Inkscape
+* Intel Graphics, Wi-Fi and Bluetooth drivers for Windows
 * K-Lite Codec Pack Basic
 * Les Cast Codeurs (a great French podcast)
-* MariaDB: 5.5 to 10.7
+* MariaDB: 5.5 to 10.9
 * Maven
 * NodeJS: LTS and current
 * PostgreSQL: 9.4 to 14
 * Python: 2 and 3
-* Red Hat Enterprise Linux
 * Spring Boot
+* ThrottleStop
 * VeraCrypt
 * Visual C++ Redistributable Runtimes All-in-One
 * VLC
