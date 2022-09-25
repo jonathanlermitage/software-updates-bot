@@ -584,30 +584,6 @@
     <dc:date>2022-04-20T09:00:52Z</dc:date>
   </entry>
   <entry>
-    <title>RHEL7 -- 7.9-632.1645808149</title>
-    <link rel="alternate" href="https://access.redhat.com/products/red-hat-enterprise-linux" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-02-28T15:00:40Z</modified>
-    <issued>2022-02-28T15:00:40Z</issued>
-    <summary type="text/plain" mode="escaped">RHEL7 -- 7.9-632.1645808149 -- Mon Feb 28 15:00:40 UTC 2022</summary>
-    <dc:date>2022-02-28T15:00:40Z</dc:date>
-  </entry>
-  <entry>
-    <title>RHEL7Minimal -- 7.9-638</title>
-    <link rel="alternate" href="https://access.redhat.com/products/red-hat-enterprise-linux" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-02-22T15:00:43Z</modified>
-    <issued>2022-02-22T15:00:43Z</issued>
-    <summary type="text/plain" mode="escaped">RHEL7Minimal -- 7.9-638 -- Tue Feb 22 15:00:43 UTC 2022</summary>
-    <dc:date>2022-02-22T15:00:43Z</dc:date>
-  </entry>
-  <entry>
     <title>VeraCrypt -- Latest Stable Release - 1.25.9 (Saturday February 19, 2022)</title>
     <link rel="alternate" href="https://www.veracrypt.fr/en/Downloads.html" />
     <author>
@@ -668,114 +644,6 @@
     <dc:date>2021-08-02T18:33:02Z</dc:date>
   </entry>
   <entry>
-    <title>AdoptOpenJDK jdk16 linux x64 -- jdk-16.0.1+9</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk16&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-04-23T12:00:28Z</modified>
-    <issued>2021-04-23T12:00:28Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk16 linux x64 -- jdk-16.0.1+9 -- Fri Apr 23 12:00:28 UTC 2021</summary>
-    <dc:date>2021-04-23T12:00:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk16 mac x64 -- jdk-16.0.1+9</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk16&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-04-23T12:00:28Z</modified>
-    <issued>2021-04-23T12:00:28Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk16 mac x64 -- jdk-16.0.1+9 -- Fri Apr 23 12:00:28 UTC 2021</summary>
-    <dc:date>2021-04-23T12:00:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk16 windows x64 -- jdk-16.0.1+9</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk16&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-04-23T12:00:28Z</modified>
-    <issued>2021-04-23T12:00:28Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk16 windows x64 -- jdk-16.0.1+9 -- Fri Apr 23 12:00:28 UTC 2021</summary>
-    <dc:date>2021-04-23T12:00:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk8 linux x64 -- jdk8u292-b10</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-04-21T22:00:31Z</modified>
-    <issued>2021-04-21T22:00:31Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 linux x64 -- jdk8u292-b10 -- Wed Apr 21 22:00:31 UTC 2021</summary>
-    <dc:date>2021-04-21T22:00:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk8 mac x64 -- jdk8u292-b10</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-04-21T22:00:31Z</modified>
-    <issued>2021-04-21T22:00:31Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 mac x64 -- jdk8u292-b10 -- Wed Apr 21 22:00:31 UTC 2021</summary>
-    <dc:date>2021-04-21T22:00:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk8 windows x64 -- jdk8u292-b10</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-04-21T22:00:31Z</modified>
-    <issued>2021-04-21T22:00:31Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk8 windows x64 -- jdk8u292-b10 -- Wed Apr 21 22:00:31 UTC 2021</summary>
-    <dc:date>2021-04-21T22:00:31Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk11 linux x64 -- jdk-11.0.11+9</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-04-21T22:00:25Z</modified>
-    <issued>2021-04-21T22:00:25Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 linux x64 -- jdk-11.0.11+9 -- Wed Apr 21 22:00:25 UTC 2021</summary>
-    <dc:date>2021-04-21T22:00:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk11 mac x64 -- jdk-11.0.11+9</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-04-21T22:00:25Z</modified>
-    <issued>2021-04-21T22:00:25Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 mac x64 -- jdk-11.0.11+9 -- Wed Apr 21 22:00:25 UTC 2021</summary>
-    <dc:date>2021-04-21T22:00:25Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk11 windows x64 -- jdk-11.0.11+9</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-04-21T22:00:25Z</modified>
-    <issued>2021-04-21T22:00:25Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk11 windows x64 -- jdk-11.0.11+9 -- Wed Apr 21 22:00:25 UTC 2021</summary>
-    <dc:date>2021-04-21T22:00:25Z</dc:date>
-  </entry>
-  <entry>
     <title>PostgreSQL 9.5 -- 9.5.25</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -786,42 +654,6 @@
     <issued>2021-02-11T16:00:48Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 9.5 -- 9.5.25 -- Thu Feb 11 16:00:48 UTC 2021</summary>
     <dc:date>2021-02-11T16:00:48Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk15 linux x64 -- jdk-15.0.2+7</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk15&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-01-22T21:00:28Z</modified>
-    <issued>2021-01-22T21:00:28Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk15 linux x64 -- jdk-15.0.2+7 -- Fri Jan 22 21:00:28 UTC 2021</summary>
-    <dc:date>2021-01-22T21:00:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk15 mac x64 -- jdk-15.0.2+7</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk15&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-01-22T21:00:28Z</modified>
-    <issued>2021-01-22T21:00:28Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk15 mac x64 -- jdk-15.0.2+7 -- Fri Jan 22 21:00:28 UTC 2021</summary>
-    <dc:date>2021-01-22T21:00:28Z</dc:date>
-  </entry>
-  <entry>
-    <title>AdoptOpenJDK jdk15 windows x64 -- jdk-15.0.2+7</title>
-    <link rel="alternate" href="https://adoptopenjdk.net/releases.html?variant=openjdk15&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2021-01-22T21:00:28Z</modified>
-    <issued>2021-01-22T21:00:28Z</issued>
-    <summary type="text/plain" mode="escaped">AdoptOpenJDK jdk15 windows x64 -- jdk-15.0.2+7 -- Fri Jan 22 21:00:28 UTC 2021</summary>
-    <dc:date>2021-01-22T21:00:28Z</dc:date>
   </entry>
   <entry>
     <title>MariaDB 10.1 -- 10.1.48</title>

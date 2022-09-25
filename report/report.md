@@ -1,18 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
-|AdoptOpenJDK jdk11 linux x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 UTC 2021|
-|AdoptOpenJDK jdk11 mac x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 UTC 2021|
-|AdoptOpenJDK jdk11 windows x64|jdk-11.0.11+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 21 22:00:25 UTC 2021|
-|AdoptOpenJDK jdk15 linux x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 UTC 2021|
-|AdoptOpenJDK jdk15 mac x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 UTC 2021|
-|AdoptOpenJDK jdk15 windows x64|jdk-15.0.2+7|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk15&jvmVariant=hotspot)|Fri Jan 22 21:00:28 UTC 2021|
-|AdoptOpenJDK jdk16 linux x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 UTC 2021|
-|AdoptOpenJDK jdk16 mac x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 UTC 2021|
-|AdoptOpenJDK jdk16 windows x64|jdk-16.0.1+9|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk16&jvmVariant=hotspot)|Fri Apr 23 12:00:28 UTC 2021|
-|AdoptOpenJDK jdk8 linux x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 UTC 2021|
-|AdoptOpenJDK jdk8 mac x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 UTC 2021|
-|AdoptOpenJDK jdk8 windows x64|jdk8u292-b10|[adoptopenjdk.net](https://adoptopenjdk.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Apr 21 22:00:31 UTC 2021|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Aug 19 18:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 23 17:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Aug 19 18:00:08 UTC 2022|
@@ -66,8 +54,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Sep 06 10:00:43 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.7|[www.python.org](https://www.python.org/downloads/source/)|Tue Sep 06 10:00:43 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.7|[www.python.org](https://www.python.org/downloads/windows/)|Tue Sep 06 10:00:43 UTC 2022|
-|![logo](../media/logo/redhat.png) RHEL7|7.9-632.1645808149|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Mon Feb 28 15:00:40 UTC 2022|
-|![logo](../media/logo/redhat.png) RHEL7Minimal|7.9-638|[access.redhat.com](https://access.redhat.com/products/red-hat-enterprise-linux)|Tue Feb 22 15:00:43 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 22 13:00:47 UTC 2022|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
