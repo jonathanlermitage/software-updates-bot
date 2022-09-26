@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.9.1|[nodejs.org](https://nodejs.org)|Fri Sep 23 17:00:40 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.17.1|[nodejs.org](https://nodejs.org)|Fri Sep 23 17:00:40 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 22 13:00:47 UTC 2022|
