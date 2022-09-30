@@ -1,0 +1,30 @@
+name: Build and verify
+on:
+  schedule:
+    - cron: '20 */4 * * *'
+jobs:
+  run:
+    if: github.event_name == 'push' && contains(toJson(github.event.commits), '[ci skip]') == false
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master branch
+        uses: actions/checkout@master
+        with:
+          ref: master
+      - name: Setup Java
+        uses: actions/setup-java@v1
+        with:
+          java-version: 17
+      - name: Build app
+        run: ./gradlew clean bootJar
+      - name: Run app
+        run: java -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -Dfile.encoding=UTF-8 -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
+      - name: Commit changes
+        run: ./gradlew clean bootJar
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "autocommit by bot [ci skip]"
+          commit_user_name: Jonathan Lermitage's bot
+          commit_user_email: jonathan.lermitage@gmail.com
+          commit_author: Jonathan Lermitage's bot <jonathan.lermitage@gmail.com>
+          file_pattern: 'report/*.md report/*.json report/*.xml'
