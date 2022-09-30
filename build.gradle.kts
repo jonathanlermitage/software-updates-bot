@@ -4,13 +4,14 @@ import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 val detektVersion = "1.21.0" // don't forget to update plugin version too
+val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
     val kotlinVersion = "1.7.10"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "2.7.3"
+    id("org.springframework.boot") version "2.7.4"
     id("io.spring.dependency-management") version "1.0.14.RELEASE"
     id("com.github.ben-manes.versions") version "0.42.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
@@ -20,8 +21,8 @@ plugins {
 
 group = "biz.lermitage"
 version = "0.0.1-SNAPSHOT"
-java.sourceCompatibility = JavaVersion.VERSION_11
-java.targetCompatibility = JavaVersion.VERSION_11
+java.sourceCompatibility = prjJavaVersion
+java.targetCompatibility = prjJavaVersion
 
 repositories {
     mavenCentral()
@@ -61,7 +62,7 @@ tasks {
         kotlinOptions {
             javaParameters = true
             freeCompilerArgs = listOf("-Xjsr305=strict"/*, "-Xuse-k2"*/)
-            jvmTarget = JavaVersion.VERSION_11.toString()
+            jvmTarget = prjJavaVersion.toString()
         }
     }
     withType<DependencyUpdatesTask> {
@@ -90,7 +91,7 @@ tasks {
         }
     }
     withType<Detekt> {
-        jvmTarget = JavaVersion.VERSION_11.toString()
+        jvmTarget = prjJavaVersion.toString()
         reports {
             html.required.set(false)
             xml.required.set(false)
