@@ -1,7 +1,7 @@
 name: Run bot
 on:
   schedule:
-    - cron: '20 */4 * * *'
+    - cron: '20 */2 * * *'
 jobs:
   run:
     if: github.event_name == 'push' && contains(toJson(github.event.commits), '[ci skip]') == false
@@ -24,7 +24,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "autocommit by bot [ci skip]"
-          commit_user_name: Jonathan Lermitage's bot
+          commit_user_name: Jonathan Lermitage software-updates-bot
           commit_user_email: jonathan.lermitage@gmail.com
-          commit_author: Jonathan Lermitage's bot <jonathan.lermitage@gmail.com>
+          commit_author: Jonathan Lermitage software-updates-bot <jonathan.lermitage@gmail.com>
           file_pattern: 'report/*.md report/*.json report/*.xml'
