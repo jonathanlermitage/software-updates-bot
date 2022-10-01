@@ -14,6 +14,8 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 17
+      - name: Setup Gradle
+        uses: gradle/gradle-build-action@v2
       - name: Build app
         run: ./gradlew clean bootJar
       - name: Run app
