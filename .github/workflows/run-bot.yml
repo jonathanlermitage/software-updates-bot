@@ -26,6 +26,6 @@ jobs:
         with:
           commit_message: "autocommit by bot [ci skip]"
           commit_user_name: Jonathan Lermitage software-updates-bot
-          commit_user_email: jonathan.lermitage@gmail.com
+          commit_user_email: ""
           commit_author: Jonathan Lermitage software-updates-bot <jonathan.lermitage@gmail.com>
           file_pattern: 'report/*.md report/*.json report/*.xml'
