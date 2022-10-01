@@ -29,3 +29,4 @@ jobs:
           commit_user_email: "software-update-bot@lermitage.biz"
           commit_author: Jonathan Lermitage software-updates-bot <jonathan.lermitage@gmail.com>
           file_pattern: 'report/*.md report/*.json report/*.xml'
+          skip_dirty_check: false
