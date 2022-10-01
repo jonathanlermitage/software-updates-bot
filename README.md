@@ -32,6 +32,8 @@ Don't hesitate to submit new checkers.
 
 ---
 
+:warning: deprecated, the task now runs on a [GitHub workflow](https://github.com/jonathanlermitage/software-updates-bot/actions/workflows/run-bot.yml) :warning:
+
 Scheduled tasks on my RaspberryPi (`crontab -u pi -e`, `/etc/init.d/cron reload`):
 
 ```bash
