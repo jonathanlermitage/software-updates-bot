@@ -4,7 +4,6 @@ on:
     - cron: '20 */2 * * *'
 jobs:
   run:
-    if: github.event_name == 'push' && contains(toJson(github.event.commits), '[ci skip]') == false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master branch
