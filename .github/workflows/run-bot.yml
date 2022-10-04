@@ -21,8 +21,6 @@ jobs:
         run: ./gradlew clean bootJar
       - name: Run app
         run: java -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -Dfile.encoding=UTF-8 -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
-      - name: Prepare files to commit
-        run: git update-index --refresh
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
@@ -31,4 +29,3 @@ jobs:
           commit_user_email: "software-update-bot@lermitage.biz"
           commit_author: Jonathan Lermitage software-updates-bot <software-update-bot@lermitage.biz>
           file_pattern: 'report/*.md report/*.json report/*.xml'
-          skip_dirty_check: false
