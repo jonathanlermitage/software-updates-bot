@@ -25,7 +25,6 @@ jobs:
         run: git update-index --refresh
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
-        if: ${{ 1 == git diff --quiet --exit-code --cached }}
         with:
           commit_message: "autocommit by bot [ci skip]"
           commit_user_name: Jonathan Lermitage software-updates-bot
