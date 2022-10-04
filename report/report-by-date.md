@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.19.2|[golang.org](https://golang.org/dl/)|Tue Oct 04 18:34:24 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.10.0|[nodejs.org](https://nodejs.org)|Wed Sep 28 18:00:39 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3430|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Wed Sep 28 09:00:49 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 17:00:32 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.10|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 17:00:31 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 285 - De mal en pis - partie 2|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Sep 16 15:00:23 UTC 2022|
-|![logo](../media/logo/go.png) Go|go1.19.1|[golang.org](https://golang.org/dl/)|Tue Sep 06 17:00:19 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Sep 06 10:00:43 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.7|[www.python.org](https://www.python.org/downloads/source/)|Tue Sep 06 10:00:43 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.10.7|[www.python.org](https://www.python.org/downloads/windows/)|Tue Sep 06 10:00:43 UTC 2022|
