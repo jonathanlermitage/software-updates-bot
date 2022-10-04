@@ -7,7 +7,7 @@ val detektVersion = "1.21.0" // don't forget to update plugin version too
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "1.7.10"
+    val kotlinVersion = "1.7.20"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
