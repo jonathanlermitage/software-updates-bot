@@ -5,6 +5,7 @@ on:
     - cron: '0 */4 * * *'
 jobs:
   run:
+    if: contains(toJson(github.event.commits), '[ci skip]') == false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master branch
