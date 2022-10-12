@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.8|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 11 20:03:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.8|[www.python.org](https://www.python.org/downloads/source/)|Tue Oct 11 20:03:34 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.8|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 11 20:03:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.8|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 11 20:03:26 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.2|[golang.org](https://golang.org/dl/)|Tue Oct 04 18:34:24 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.10.0|[nodejs.org](https://nodejs.org)|Wed Sep 28 18:00:39 UTC 2022|
