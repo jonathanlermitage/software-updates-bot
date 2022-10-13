@@ -56,18 +56,6 @@
     <dc:date>2022-10-12T16:06:57Z</dc:date>
   </entry>
   <entry>
-    <title>Python 3 source --  3.10.8</title>
-    <link rel="alternate" href="https://www.python.org/downloads/source/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-10-11T20:03:34Z</modified>
-    <issued>2022-10-11T20:03:34Z</issued>
-    <summary type="text/plain" mode="escaped">Python 3 source --  3.10.8 -- Tue Oct 11 20:03:34 UTC 2022</summary>
-    <dc:date>2022-10-11T20:03:34Z</dc:date>
-  </entry>
-  <entry>
     <title>Python 3 windows --  3.10.8</title>
     <link rel="alternate" href="https://www.python.org/downloads/windows/" />
     <author>
@@ -77,6 +65,18 @@
     <modified>2022-10-11T20:03:34Z</modified>
     <issued>2022-10-11T20:03:34Z</issued>
     <summary type="text/plain" mode="escaped">Python 3 windows --  3.10.8 -- Tue Oct 11 20:03:34 UTC 2022</summary>
+    <dc:date>2022-10-11T20:03:34Z</dc:date>
+  </entry>
+  <entry>
+    <title>Python 3 source --  3.10.8</title>
+    <link rel="alternate" href="https://www.python.org/downloads/source/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-10-11T20:03:34Z</modified>
+    <issued>2022-10-11T20:03:34Z</issued>
+    <summary type="text/plain" mode="escaped">Python 3 source --  3.10.8 -- Tue Oct 11 20:03:34 UTC 2022</summary>
     <dc:date>2022-10-11T20:03:34Z</dc:date>
   </entry>
   <entry>
@@ -128,6 +128,18 @@
     <dc:date>2022-09-28T09:00:49Z</dc:date>
   </entry>
   <entry>
+    <title>Adoptium jdk19 mac x64 -- jdk-19+36</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk19&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-09-26T11:00:13Z</modified>
+    <issued>2022-09-26T11:00:13Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk19 mac x64 -- jdk-19+36 -- Mon Sep 26 11:00:13 UTC 2022</summary>
+    <dc:date>2022-09-26T11:00:13Z</dc:date>
+  </entry>
+  <entry>
     <title>Adoptium jdk19 linux x64 -- jdk-19+36</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk19&amp;jvmVariant=hotspot" />
     <author>
@@ -149,18 +161,6 @@
     <modified>2022-09-26T11:00:13Z</modified>
     <issued>2022-09-26T11:00:13Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk19 windows x64 -- jdk-19+36 -- Mon Sep 26 11:00:13 UTC 2022</summary>
-    <dc:date>2022-09-26T11:00:13Z</dc:date>
-  </entry>
-  <entry>
-    <title>Adoptium jdk19 mac x64 -- jdk-19+36</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk19&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-09-26T11:00:13Z</modified>
-    <issued>2022-09-26T11:00:13Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk19 mac x64 -- jdk-19+36 -- Mon Sep 26 11:00:13 UTC 2022</summary>
     <dc:date>2022-09-26T11:00:13Z</dc:date>
   </entry>
   <entry>
@@ -296,18 +296,6 @@
     <dc:date>2022-08-26T17:00:12Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk17 windows x64 -- jdk-17.0.4.1+1</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-08-23T18:00:11Z</modified>
-    <issued>2022-08-23T18:00:11Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.4.1+1 -- Tue Aug 23 18:00:11 UTC 2022</summary>
-    <dc:date>2022-08-23T18:00:11Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk17 mac x64 -- jdk-17.0.4.1+1</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
     <author>
@@ -317,6 +305,18 @@
     <modified>2022-08-23T18:00:11Z</modified>
     <issued>2022-08-23T18:00:11Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk17 mac x64 -- jdk-17.0.4.1+1 -- Tue Aug 23 18:00:11 UTC 2022</summary>
+    <dc:date>2022-08-23T18:00:11Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk17 windows x64 -- jdk-17.0.4.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk17&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-08-23T18:00:11Z</modified>
+    <issued>2022-08-23T18:00:11Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk17 windows x64 -- jdk-17.0.4.1+1 -- Tue Aug 23 18:00:11 UTC 2022</summary>
     <dc:date>2022-08-23T18:00:11Z</dc:date>
   </entry>
   <entry>
@@ -356,18 +356,6 @@
     <dc:date>2022-08-23T04:00:18Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk11 windows x64 -- jdk-11.0.16.1+1</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-08-19T18:00:08Z</modified>
-    <issued>2022-08-19T18:00:08Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.16.1+1 -- Fri Aug 19 18:00:08 UTC 2022</summary>
-    <dc:date>2022-08-19T18:00:08Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk11 linux x64 -- jdk-11.0.16.1+1</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
     <author>
@@ -377,6 +365,18 @@
     <modified>2022-08-19T18:00:08Z</modified>
     <issued>2022-08-19T18:00:08Z</issued>
     <summary type="text/plain" mode="escaped">Adoptium jdk11 linux x64 -- jdk-11.0.16.1+1 -- Fri Aug 19 18:00:08 UTC 2022</summary>
+    <dc:date>2022-08-19T18:00:08Z</dc:date>
+  </entry>
+  <entry>
+    <title>Adoptium jdk11 windows x64 -- jdk-11.0.16.1+1</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk11&amp;jvmVariant=hotspot" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-08-19T18:00:08Z</modified>
+    <issued>2022-08-19T18:00:08Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk11 windows x64 -- jdk-11.0.16.1+1 -- Fri Aug 19 18:00:08 UTC 2022</summary>
     <dc:date>2022-08-19T18:00:08Z</dc:date>
   </entry>
   <entry>
@@ -416,18 +416,6 @@
     <dc:date>2022-08-15T19:00:28Z</dc:date>
   </entry>
   <entry>
-    <title>Adoptium jdk8 linux x64 -- jdk8u345-b01</title>
-    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-08-11T16:00:13Z</modified>
-    <issued>2022-08-11T16:00:13Z</issued>
-    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u345-b01 -- Thu Aug 11 16:00:13 UTC 2022</summary>
-    <dc:date>2022-08-11T16:00:13Z</dc:date>
-  </entry>
-  <entry>
     <title>Adoptium jdk8 mac x64 -- jdk8u345-b01</title>
     <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
@@ -440,16 +428,16 @@
     <dc:date>2022-08-11T16:00:13Z</dc:date>
   </entry>
   <entry>
-    <title>PostgreSQL 13 -- 13.8</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <title>Adoptium jdk8 linux x64 -- jdk8u345-b01</title>
+    <link rel="alternate" href="https://adoptium.net/releases.html?variant=openjdk8&amp;jvmVariant=hotspot" />
     <author>
       <name />
     </author>
     <id />
-    <modified>2022-08-11T14:00:38Z</modified>
-    <issued>2022-08-11T14:00:38Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.8 -- Thu Aug 11 14:00:38 UTC 2022</summary>
-    <dc:date>2022-08-11T14:00:38Z</dc:date>
+    <modified>2022-08-11T16:00:13Z</modified>
+    <issued>2022-08-11T16:00:13Z</issued>
+    <summary type="text/plain" mode="escaped">Adoptium jdk8 linux x64 -- jdk8u345-b01 -- Thu Aug 11 16:00:13 UTC 2022</summary>
+    <dc:date>2022-08-11T16:00:13Z</dc:date>
   </entry>
   <entry>
     <title>PostgreSQL 14 -- 14.5</title>
@@ -464,18 +452,6 @@
     <dc:date>2022-08-11T14:00:38Z</dc:date>
   </entry>
   <entry>
-    <title>PostgreSQL 11 -- 11.17</title>
-    <link rel="alternate" href="https://www.postgresql.org/download/" />
-    <author>
-      <name />
-    </author>
-    <id />
-    <modified>2022-08-11T14:00:38Z</modified>
-    <issued>2022-08-11T14:00:38Z</issued>
-    <summary type="text/plain" mode="escaped">PostgreSQL 11 -- 11.17 -- Thu Aug 11 14:00:38 UTC 2022</summary>
-    <dc:date>2022-08-11T14:00:38Z</dc:date>
-  </entry>
-  <entry>
     <title>PostgreSQL 12 -- 12.12</title>
     <link rel="alternate" href="https://www.postgresql.org/download/" />
     <author>
@@ -485,6 +461,30 @@
     <modified>2022-08-11T14:00:38Z</modified>
     <issued>2022-08-11T14:00:38Z</issued>
     <summary type="text/plain" mode="escaped">PostgreSQL 12 -- 12.12 -- Thu Aug 11 14:00:38 UTC 2022</summary>
+    <dc:date>2022-08-11T14:00:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 13 -- 13.8</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-08-11T14:00:38Z</modified>
+    <issued>2022-08-11T14:00:38Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 13 -- 13.8 -- Thu Aug 11 14:00:38 UTC 2022</summary>
+    <dc:date>2022-08-11T14:00:38Z</dc:date>
+  </entry>
+  <entry>
+    <title>PostgreSQL 11 -- 11.17</title>
+    <link rel="alternate" href="https://www.postgresql.org/download/" />
+    <author>
+      <name />
+    </author>
+    <id />
+    <modified>2022-08-11T14:00:38Z</modified>
+    <issued>2022-08-11T14:00:38Z</issued>
+    <summary type="text/plain" mode="escaped">PostgreSQL 11 -- 11.17 -- Thu Aug 11 14:00:38 UTC 2022</summary>
     <dc:date>2022-08-11T14:00:38Z</dc:date>
   </entry>
   <entry>
