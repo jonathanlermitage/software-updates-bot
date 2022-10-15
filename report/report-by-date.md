@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14 (October 15, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Oct 15 16:02:31 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v18.11.0|[nodejs.org](https://nodejs.org)|Fri Oct 14 00:07:53 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Oct 13 00:06:36 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.18.0|[nodejs.org](https://nodejs.org)|Wed Oct 12 16:06:57 UTC 2022|
@@ -45,7 +46,6 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.3 (2022-07-12)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jul 12 14:00:20 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Jul 01 09:00:48 UTC 2022|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.13 (June 18, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Jun 18 13:00:43 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|3.8.6|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Jun 11 16:00:31 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
