@@ -1,19 +1,19 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v19.0.0|[nodejs.org](https://nodejs.org)|Tue Oct 18 16:05:53 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.2.0 to 17.2.5 ~ 2022-10-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Oct 17 20:02:43 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.4 (2022-10-17)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Oct 17 12:02:22 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14 (October 15, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Oct 15 16:02:31 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v18.11.0|[nodejs.org](https://nodejs.org)|Fri Oct 14 00:07:53 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Oct 13 00:06:36 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v16.18.0|[nodejs.org](https://nodejs.org)|Wed Oct 12 16:06:57 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.8|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 11 20:03:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 source| 3.10.8|[www.python.org](https://www.python.org/downloads/source/)|Tue Oct 11 20:03:34 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 windows| 3.10.8|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 11 20:03:34 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.10.8|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 11 20:03:26 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.2|[golang.org](https://golang.org/dl/)|Tue Oct 04 18:34:24 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3430|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Wed Sep 28 09:00:49 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 22 13:00:47 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 19:00:35 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 19:00:34 UTC 2022|
@@ -24,22 +24,22 @@
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 18:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 23 17:00:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.4.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 23 16:00:09 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.5.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 23 04:00:18 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Aug 19 18:00:08 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Aug 19 18:00:08 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.16.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Aug 19 18:00:08 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:31 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:30 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.36|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:28 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 11 16:00:13 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u345-b01|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Aug 04 21:00:12 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
