@@ -25,7 +25,7 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
-|![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3430|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Wed Sep 28 09:00:49 UTC 2022|
+|![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3729|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 20 20:02:33 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Oct 13 00:06:36 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.2.0 to 17.2.5 ~ 2022-10-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Oct 17 20:02:43 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 286 - Devoxx Belgique 2022, le retour!|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 19 08:08:04 UTC 2022|
