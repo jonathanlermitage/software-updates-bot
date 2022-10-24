@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Oct 24 16:05:08 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3729|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 20 20:02:33 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 20 16:05:33 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 286 - Devoxx Belgique 2022, le retour!|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 19 08:08:04 UTC 2022|
@@ -46,7 +47,6 @@
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Jul 01 09:00:48 UTC 2022|
-|![logo](../media/logo/maven.png) Maven|3.8.6|[maven.apache.org](https://maven.apache.org/download.cgi)|Sat Jun 11 16:00:31 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
