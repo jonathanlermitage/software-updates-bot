@@ -54,9 +54,9 @@
 |![logo](../media/logo/python.png) Python 2 mac| 2.7.18|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun Oct 04 01:01:11 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 source| 2.7.18|[www.python.org](https://www.python.org/downloads/source/)|Sun Oct 04 01:01:12 UTC 2020|
 |![logo](../media/logo/python.png) Python 2 windows| 2.7.18|[www.python.org](https://www.python.org/downloads/windows/)|Sun Oct 04 01:01:14 UTC 2020|
-|![logo](../media/logo/python.png) Python 3 mac| 3.10.8|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 11 20:03:26 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.10.8|[www.python.org](https://www.python.org/downloads/source/)|Tue Oct 11 20:03:34 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 windows| 3.10.8|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 11 20:03:34 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 mac| 3.11.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 24 20:02:54 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 source| 3.11.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 24 20:02:32 UTC 2022|
+|![logo](../media/logo/python.png) Python 3 windows| 3.11.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 24 20:02:26 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 20 16:05:33 UTC 2022|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
