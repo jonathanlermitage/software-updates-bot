@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 20:02:18 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 12:02:42 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Oct 28 16:02:38 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.5+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 28 12:02:36 UTC 2022|
@@ -23,7 +24,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14 (October 15, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Oct 15 16:02:31 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Oct 13 00:06:36 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.2|[golang.org](https://golang.org/dl/)|Tue Oct 04 18:34:24 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Sep 26 11:00:13 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 19:00:35 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 19:00:34 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 17:00:32 UTC 2022|
