@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 287 - Celui qu'Antonio avait oublié!|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Nov 02 16:02:21 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.3|[golang.org](https://golang.org/dl/)|Tue Nov 01 20:02:33 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 20:02:18 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 12:02:42 UTC 2022|
@@ -18,7 +19,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 24 20:02:26 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Oct 24 16:05:08 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 20 16:05:33 UTC 2022|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 286 - Devoxx Belgique 2022, le retour!|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Oct 19 08:08:04 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.0.0|[nodejs.org](https://nodejs.org)|Tue Oct 18 16:05:53 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.2.0 to 17.2.5 ~ 2022-10-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Oct 17 20:02:43 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.4 (2022-10-17)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Oct 17 12:02:22 UTC 2022|
