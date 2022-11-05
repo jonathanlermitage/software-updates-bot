@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v18.12.1|[nodejs.org](https://nodejs.org)|Sat Nov 05 00:04:39 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.0.1|[nodejs.org](https://nodejs.org)|Fri Nov 04 20:02:40 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Nov 04 16:02:05 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 03 12:03:06 UTC 2022|
@@ -13,7 +14,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.5+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 26 16:02:52 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 linux x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Wed Oct 26 12:03:02 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.5+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Oct 26 12:02:35 UTC 2022|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v18.12.0|[nodejs.org](https://nodejs.org)|Wed Oct 26 00:05:03 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Oct 25 12:03:34 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 25 12:03:04 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 25 12:02:38 UTC 2022|
