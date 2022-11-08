@@ -1,5 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:55 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:53 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:43 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:40 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:28 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:25 UTC 2022|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:23 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.12.1|[nodejs.org](https://nodejs.org)|Sat Nov 05 00:04:39 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.0.1|[nodejs.org](https://nodejs.org)|Fri Nov 04 20:02:40 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Nov 04 16:02:05 UTC 2022|
@@ -26,18 +33,11 @@
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.4 (2022-10-17)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Oct 17 12:02:22 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14 (October 15, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Oct 15 16:02:31 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Oct 13 00:06:36 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 19:00:35 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 19:00:34 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 17:00:32 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.10|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Sep 19 17:00:31 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.5.1|[gradle.org](https://gradle.org/releases/)|Tue Aug 23 04:00:18 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:31 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:30 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.36|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 15 19:00:28 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 11 14:00:38 UTC 2022|
