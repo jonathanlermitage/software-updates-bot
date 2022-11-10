@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Nov 10 12:02:52 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:55 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:53 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:43 UTC 2022|
@@ -46,7 +47,6 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.1|[inkscape.org](https://inkscape.org)|Thu Jul 14 23:00:20 UTC 2022|
-|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Jul 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Jul 01 09:00:48 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.17.4|[www.videolan.org](https://www.videolan.org/vlc/)|Wed Apr 20 09:00:52 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
