@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.2.5 to 17.3.0 ~ 2022-11-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Nov 12 20:02:32 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:30 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:28 UTC 2022|
@@ -35,7 +36,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 24 20:02:26 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Oct 24 16:05:08 UTC 2022|
 |![logo](../media/logo/springboot.png) Spring Boot|2.7.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 20 16:05:33 UTC 2022|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.2.0 to 17.2.5 ~ 2022-10-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Oct 17 20:02:43 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.0.4 (2022-10-17)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Oct 17 12:02:22 UTC 2022|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14 (October 15, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Oct 15 16:02:31 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Oct 13 00:06:36 UTC 2022|
