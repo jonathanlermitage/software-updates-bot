@@ -20,7 +20,7 @@ This bot currently monitors updates for:
 * Maven
 * NodeJS: LTS and current
 * PostgreSQL: 9.4 to 14
-* Python: 2 and 3
+* Python 3
 * Spring Boot
 * ThrottleStop
 * VeraCrypt

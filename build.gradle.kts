@@ -1,4 +1,3 @@
-import java.io.StringWriter
 import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
@@ -7,13 +6,13 @@ val detektVersion = "1.21.0" // don't forget to update plugin version too
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "1.7.20"
+    val kotlinVersion = "1.7.21"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "2.7.4"
-    id("io.spring.dependency-management") version "1.0.14.RELEASE"
-    id("com.github.ben-manes.versions") version "0.42.0"
+    id("org.springframework.boot") version "2.7.5"
+    id("io.spring.dependency-management") version "1.1.0"
+    id("com.github.ben-manes.versions") version "0.44.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
     id("io.gitlab.arturbosch.detekt") version "1.21.0"
     id("biz.lermitage.oga") version "1.1.1"
@@ -32,14 +31,14 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-    implementation("com.google.code.gson:gson:2.9.1")
+    implementation("com.google.code.gson:gson:2.10")
     implementation("com.jayway.jsonpath:json-path:2.7.0")
     implementation("org.jsoup:jsoup:1.15.3")
     implementation("commons-io:commons-io:2.11.0")
     implementation("org.apache.commons:commons-lang3:3.12.0")
     implementation("com.rometools:rome:1.18.0")
     implementation("org.springframework.boot:spring-boot-starter-aop")
-    implementation("org.springframework.retry:spring-retry:1.3.3")
+    implementation("org.springframework.retry:spring-retry:1.3.4")
     kapt("org.springframework.boot:spring-boot-configuration-processor")
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
         exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
@@ -69,25 +68,13 @@ tasks {
         checkForGradleUpdate = true
         gradleReleaseChannel = "current"
         revision = "release"
-        resolutionStrategy {
-            componentSelection {
-                all {
-                    if (isNonStable(candidate.version)) {
-                        logger.debug(" - [ ] ${candidate.module}:${candidate.version} candidate rejected")
-                        reject("Not stable")
-                    } else {
-                        logger.debug(" - [X] ${candidate.module}:${candidate.version} candidate accepted")
-                    }
-                }
-            }
+        rejectVersionIf {
+            isNonStable(candidate.version)
         }
         outputFormatter = closureOf<com.github.benmanes.gradle.versions.reporter.result.Result> {
             unresolved.dependencies.removeIf { it.group.toString() == "org.jetbrains.kotlin" }
-            val plainTextReporter =
-                com.github.benmanes.gradle.versions.reporter.PlainTextReporter(project, revision, gradleReleaseChannel)
-            val writer = StringWriter()
-            plainTextReporter.write(writer, this)
-            logger.quiet(writer.toString().trim())
+            com.github.benmanes.gradle.versions.reporter.PlainTextReporter(project, revision, gradleReleaseChannel)
+                .write(System.out, this)
         }
     }
     withType<Detekt> {
