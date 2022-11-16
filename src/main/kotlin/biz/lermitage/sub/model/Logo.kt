@@ -12,6 +12,7 @@ enum class Logo(val img: String) {
     KLITE("klite.png"),
     MARIADB("mariadb.png"),
     MAVEN("maven.png"),
+    NILESOFTSHELL("nilesoftshell.png"),
     NODEJS("nodejs.png"),
     POSTGRESQL("postgresql.png"),
     PYTHON("python.png"),
