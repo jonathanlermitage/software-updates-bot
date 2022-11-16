@@ -26,7 +26,7 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|
-|![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.170.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Oct 13 00:06:36 UTC 2022|
+|![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.180.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Wed Nov 16 23:21:09 UTC 2022|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.2.5 to 17.3.0 ~ 2022-11-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Nov 12 20:02:32 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 287 - Celui qu'Antonio avait oublié!|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Nov 02 16:02:21 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
@@ -41,6 +41,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:40 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Oct 24 16:05:08 UTC 2022|
+|![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.7|[nilesoft.org](https://nilesoft.org/)|Wed Nov 16 23:21:37 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.1.0|[nodejs.org](https://nodejs.org)|Mon Nov 14 16:02:20 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.12.1|[nodejs.org](https://nodejs.org)|Sat Nov 05 00:04:39 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
