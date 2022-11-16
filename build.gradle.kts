@@ -38,7 +38,7 @@ dependencies {
     implementation("org.apache.commons:commons-lang3:3.12.0")
     implementation("com.rometools:rome:1.18.0")
     implementation("org.springframework.boot:spring-boot-starter-aop")
-    implementation("org.springframework.retry:spring-retry:1.3.4")
+    implementation("org.springframework.retry:spring-retry:2.0.0")
     kapt("org.springframework.boot:spring-boot-configuration-processor")
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
         exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
