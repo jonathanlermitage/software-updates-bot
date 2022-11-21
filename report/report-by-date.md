@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 288 - L'épisode marathon mastodonien|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 21 12:02:49 UTC 2022|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.7|[nilesoft.org](https://nilesoft.org/)|Wed Nov 16 23:21:37 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.180.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Wed Nov 16 23:21:09 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.1.0|[nodejs.org](https://nodejs.org)|Mon Nov 14 16:02:20 UTC 2022|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.12.1|[nodejs.org](https://nodejs.org)|Sat Nov 05 00:04:39 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Nov 04 16:02:05 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 03 12:03:06 UTC 2022|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 287 - Celui qu'Antonio avait oublié!|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Nov 02 16:02:21 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.19.3|[golang.org](https://golang.org/dl/)|Tue Nov 01 20:02:33 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 20:02:18 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 12:02:42 UTC 2022|
