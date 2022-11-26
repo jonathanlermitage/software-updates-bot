@@ -27,13 +27,6 @@ repositories {
     mavenCentral()
 }
 
-buildscript {
-    repositories {
-        // don't use jcenter.bintray.com (Jfrog)
-        maven(url = "https://repo1.maven.org/maven2")
-    }
-}
-
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
