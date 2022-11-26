@@ -13,7 +13,16 @@ complexity:
   ComplexCondition:
     active: true
     threshold: 10
-  ComplexMethod:
+  ComplexInterface:
+    active: true
+    threshold: 10
+    includeStaticDeclarations: false
+    includePrivateDeclarations: false
+    ignoreOverloaded: false
+  CognitiveComplexMethod:
+    active: true
+    threshold: 15
+  CyclomaticComplexMethod:
     active: true
     threshold: 15
     ignoreSingleWhenExpression: false
