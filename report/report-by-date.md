@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.19.4|[golang.org](https://golang.org/dl/)|Tue Dec 06 20:02:14 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:10:48 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 29 20:02:30 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:01:57 UTC 2022|
@@ -25,7 +26,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.12.1|[nodejs.org](https://nodejs.org)|Sat Nov 05 00:04:39 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Nov 04 16:02:05 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Nov 03 12:03:06 UTC 2022|
-|![logo](../media/logo/go.png) Go|go1.19.3|[golang.org](https://golang.org/dl/)|Tue Nov 01 20:02:33 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 windows x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 20:02:18 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 12:02:42 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Oct 28 16:02:38 UTC 2022|
