@@ -40,7 +40,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:25 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:40 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
-|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Oct 24 16:05:08 UTC 2022|
+|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Dec 16 00:04:20 UTC 2022|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.7|[nilesoft.org](https://nilesoft.org/)|Wed Nov 16 23:21:37 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.3.0|[nodejs.org](https://nodejs.org)|Wed Dec 14 16:02:46 UTC 2022|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.12.1|[nodejs.org](https://nodejs.org)|Sat Nov 05 00:04:39 UTC 2022|
