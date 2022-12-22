@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.1 (December 22, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 22 20:02:09 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.190.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Dec 22 12:02:48 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:02:57 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Dec 16 00:04:20 UTC 2022|
@@ -42,7 +43,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u352-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Oct 25 12:03:34 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 25 12:03:04 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 25 12:02:38 UTC 2022|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14 (October 15, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Oct 15 16:02:31 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Graphics Drivers|31.0.101.3413|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Fri Sep 02 13:00:57 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 mac x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|

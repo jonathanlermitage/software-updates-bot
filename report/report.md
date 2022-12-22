@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14 (October 15, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sat Oct 15 16:02:31 UTC 2022|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.1 (December 22, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 22 20:02:09 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 25 12:03:04 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Oct 28 16:02:38 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.17+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Oct 25 12:02:38 UTC 2022|
