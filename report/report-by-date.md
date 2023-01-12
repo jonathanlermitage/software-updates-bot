@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.3.5 to 17.4.0 ~ 2023-01-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jan 12 00:04:15 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.19.5|[golang.org](https://golang.org/dl/)|Tue Jan 10 20:02:07 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.4.0|[nodejs.org](https://nodejs.org)|Fri Jan 06 16:03:05 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.13.0|[nodejs.org](https://nodejs.org)|Fri Jan 06 04:02:49 UTC 2023|
@@ -8,7 +9,6 @@
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.190.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Dec 22 12:02:48 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:02:57 UTC 2022|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Dec 16 00:04:20 UTC 2022|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.3.0 to 17.3.5 ~ 2022-12-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Dec 15 20:02:11 UTC 2022|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 289 - La revanche des dinosaures|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Dec 10 12:02:58 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 07 00:04:16 UTC 2022|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Dec 07 00:04:09 UTC 2022|
