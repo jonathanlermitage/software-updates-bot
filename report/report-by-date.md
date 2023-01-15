@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8|[nilesoft.org](https://nilesoft.org/)|Sun Jan 15 08:02:20 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 290 - Mettre tes lunettes dans ta base de données|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jan 14 12:02:19 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.3.5 to 17.4.0 ~ 2023-01-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jan 12 00:04:15 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.19.5|[golang.org](https://golang.org/dl/)|Tue Jan 10 20:02:07 UTC 2023|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:10:48 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:01:57 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.6|[gradle.org](https://gradle.org/releases/)|Fri Nov 25 16:02:48 UTC 2022|
-|![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.7|[nilesoft.org](https://nilesoft.org/)|Wed Nov 16 23:21:37 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:30 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:28 UTC 2022|

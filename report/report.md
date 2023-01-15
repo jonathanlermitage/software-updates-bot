@@ -41,7 +41,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:40 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Dec 16 00:04:20 UTC 2022|
-|![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.7|[nilesoft.org](https://nilesoft.org/)|Wed Nov 16 23:21:37 UTC 2022|
+|![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8|[nilesoft.org](https://nilesoft.org/)|Sun Jan 15 08:02:20 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.4.0|[nodejs.org](https://nodejs.org)|Fri Jan 06 16:03:05 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.13.0|[nodejs.org](https://nodejs.org)|Fri Jan 06 04:02:49 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
