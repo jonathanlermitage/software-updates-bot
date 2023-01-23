@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Jan 23 20:02:01 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.0 to 17.4.1 ~ 2023-01-23|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 23 16:02:02 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jan 23 16:01:57 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.6+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Sat Jan 21 16:02:32 UTC 2023|
@@ -41,7 +42,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.37|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:28 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:25 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.11|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 08 08:02:23 UTC 2022|
-|![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.1+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Oct 31 12:02:42 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|
