@@ -20,7 +20,7 @@ This bot currently monitors updates for:
 * Maven
 * Nilesoft Shell (a powerful context menu manager for MS Windows File Explorer)
 * NodeJS: LTS and current
-* PostgreSQL: 9.4 to 14
+* PostgreSQL: 9.4 to 15
 * Python 3
 * Spring Boot
 * ThrottleStop
