@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v19.6.0|[nodejs.org](https://nodejs.org)|Thu Feb 02 20:02:41 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20|[golang.org](https://golang.org/dl/)|Wed Feb 01 20:03:02 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Feb 01 12:02:51 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v19.5.0|[nodejs.org](https://nodejs.org)|Wed Jan 25 00:04:28 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.1|[www.postgresql.org](https://www.postgresql.org/download/)|Tue Jan 24 03:02:24 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Jan 23 20:02:01 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.0 to 17.4.1 ~ 2023-01-23|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 23 16:02:02 UTC 2023|
