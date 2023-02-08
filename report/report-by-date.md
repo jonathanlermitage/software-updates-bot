@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.11.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 08 12:03:15 UTC 2023|
+|![logo](../media/logo/python.png) Python 3 mac| 3.11.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 08 12:03:08 UTC 2023|
+|![logo](../media/logo/python.png) Python 3 source| 3.11.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 08 12:03:03 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Feb 07 03:42:23 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:12:57 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:12:56 UTC 2023|
@@ -32,9 +35,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.1 (December 22, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 22 20:02:09 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.190.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Dec 22 12:02:48 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:02:57 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 windows| 3.11.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 07 00:04:16 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 mac| 3.11.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Dec 07 00:04:09 UTC 2022|
-|![logo](../media/logo/python.png) Python 3 source| 3.11.1|[www.python.org](https://www.python.org/downloads/source/)|Wed Dec 07 00:03:55 UTC 2022|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:10:48 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:01:57 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.6|[gradle.org](https://gradle.org/releases/)|Fri Nov 25 16:02:48 UTC 2022|
