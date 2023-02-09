@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:03:10 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:54 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:49 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:44 UTC 2023|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:25 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 08 12:03:15 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 08 12:03:08 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 08 12:03:03 UTC 2023|
@@ -15,7 +20,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.6.0|[nodejs.org](https://nodejs.org)|Thu Feb 02 20:02:41 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20|[golang.org](https://golang.org/dl/)|Wed Feb 01 20:03:02 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Feb 01 12:02:51 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.1|[www.postgresql.org](https://www.postgresql.org/download/)|Tue Jan 24 03:02:24 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Jan 23 20:02:01 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.0 to 17.4.1 ~ 2023-01-23|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 23 16:02:02 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jan 23 16:01:57 UTC 2023|
@@ -38,11 +42,7 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:10:48 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:01:57 UTC 2022|
 |![logo](../media/logo/gradle.png) Gradle|7.6|[gradle.org](https://gradle.org/releases/)|Fri Nov 25 16:02:48 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 11|11.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:30 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:28 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:19 UTC 2022|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:14 UTC 2022|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Nov 10 12:02:52 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
