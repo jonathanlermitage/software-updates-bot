@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 291 - ChatGPT licencie 15% des Bisounours|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 13 12:02:35 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:03:10 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:54 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:49 UTC 2023|
@@ -35,7 +36,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.18+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 20 00:04:06 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.6+10|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 19 16:02:22 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8|[nilesoft.org](https://nilesoft.org/)|Sun Jan 15 08:02:20 UTC 2023|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 290 - Mettre tes lunettes dans ta base de données|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jan 14 12:02:19 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.1 (December 22, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 22 20:02:09 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.190.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Thu Dec 22 12:02:48 UTC 2022|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:02:57 UTC 2022|
