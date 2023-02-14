@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:02:49 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.1 to 17.4.4 ~ 2023-02-13|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Feb 13 20:02:07 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.0|[gradle.org](https://gradle.org/releases/)|Mon Feb 13 16:02:52 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 291 - ChatGPT licencie 15% des Bisounours|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 13 12:02:35 UTC 2023|
@@ -21,7 +22,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:12:06 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.14.0|[nodejs.org](https://nodejs.org)|Fri Feb 03 00:04:19 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.6.0|[nodejs.org](https://nodejs.org)|Thu Feb 02 20:02:41 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.20|[golang.org](https://golang.org/dl/)|Wed Feb 01 20:03:02 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Feb 01 12:02:51 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk19 mac x64|jdk-19.0.2+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk19&jvmVariant=hotspot)|Mon Jan 23 20:02:01 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jan 23 16:01:57 UTC 2023|
