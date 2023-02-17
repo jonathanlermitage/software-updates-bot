@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 17 08:02:46 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.6.1|[nodejs.org](https://nodejs.org)|Fri Feb 17 00:04:36 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.14.1|[nodejs.org](https://nodejs.org)|Fri Feb 17 00:04:30 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.4 to 17.4.5 ~ 2023-02-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Feb 16 16:02:43 UTC 2023|
@@ -43,7 +44,6 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:10:48 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:01:57 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
-|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Nov 10 12:02:52 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 linux x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 23:00:11 UTC 2022|
 |![logo](../media/logo/java.png) Adoptium jdk18 windows x64|jdk-18.0.2.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk18&jvmVariant=hotspot)|Fri Aug 26 17:00:12 UTC 2022|

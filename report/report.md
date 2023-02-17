@@ -63,4 +63,4 @@
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:01:57 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
-|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2022|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu Nov 10 12:02:52 UTC 2022|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 17 08:02:46 UTC 2023|
