@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.0.1|[gradle.org](https://gradle.org/releases/)|Sat Feb 18 00:05:02 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 17 08:02:46 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.6.1|[nodejs.org](https://nodejs.org)|Fri Feb 17 00:04:36 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.14.1|[nodejs.org](https://nodejs.org)|Fri Feb 17 00:04:30 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.4 to 17.4.5 ~ 2023-02-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Feb 16 16:02:43 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.1|[golang.org](https://golang.org/dl/)|Tue Feb 14 20:02:49 UTC 2023|
-|![logo](../media/logo/gradle.png) Gradle|8.0|[gradle.org](https://gradle.org/releases/)|Mon Feb 13 16:02:52 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 291 - ChatGPT licencie 15% des Bisounours|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 13 12:02:35 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:03:10 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:54 UTC 2023|
