@@ -23,7 +23,6 @@ class GoChecker : Checker {
         val titles = body.getElementsByTag("h3")
         val versionTitleFound = titles.toList().find { element: Element -> element.className().contains("toggleButton") }
         var version = versionTitleFound!!.text().trim()
-        version = version.substring(0, version.indexOf(" "))
 
         return SoftwareUpdate(
             listOf(Category.GO.label),
