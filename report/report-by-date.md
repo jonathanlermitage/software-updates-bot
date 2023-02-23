@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|3.0.3.BUILD-SNAPSHOT|[start.spring.io](https://start.spring.io)|Thu Feb 23 12:03:15 UTC 2023|
+|![logo](../media/logo/springboot.png) Spring Boot|3.0.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 23 19:25:58 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8.1|[nilesoft.org](https://nilesoft.org/)|Wed Feb 22 16:02:29 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.7.0|[nodejs.org](https://nodejs.org)|Tue Feb 21 20:03:09 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.14.2|[nodejs.org](https://nodejs.org)|Tue Feb 21 20:02:23 UTC 2023|

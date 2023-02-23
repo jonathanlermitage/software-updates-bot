@@ -3,41 +3,18 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2023-02-21T16:02:58Z</modified>
+  <modified>2023-02-23T19:26:01Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2023-02-21T16:02:58Z</dc:date>
+  <dc:date>2023-02-23T19:26:01Z</dc:date>
   <entry>
-    <title>FAILED -- Tue Feb 21 16:02:58 UTC 2023</title>
+    <title>OK -- Thu Feb 23 19:26:01 UTC 2023</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2023-02-21T16:02:58Z</modified>
-    <issued>2023-02-21T16:02:58Z</issued>
-    <summary type="text/html" mode="escaped">FAILED
-
-&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.GoChecker failed, ignoring
-java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 8
-	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4602)
-	at java.base/java.lang.String.substring(String.java:2705)
-	at biz.lermitage.sub.service.checker.impl.GoChecker.check(GoChecker.kt:26)
-	at biz.lermitage.sub.Application.run(Application.kt:54)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:767)
-	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:751)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291)
-	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:95)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
-	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
-
-&lt;/pre&gt;</summary>
-    <dc:date>2023-02-21T16:02:58Z</dc:date>
+    <modified>2023-02-23T19:26:01Z</modified>
+    <issued>2023-02-23T19:26:01Z</issued>
+    <summary type="text/html" mode="escaped">OK</summary>
+    <dc:date>2023-02-23T19:26:01Z</dc:date>
   </entry>
 </feed>
