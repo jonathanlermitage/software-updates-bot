@@ -10,7 +10,7 @@ plugins {
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.0.3"
+    id("org.springframework.boot") version "3.0.4"
     id("io.spring.dependency-management") version "1.1.0"
     id("com.github.ben-manes.versions") version "0.46.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
