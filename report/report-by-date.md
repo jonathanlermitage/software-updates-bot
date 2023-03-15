@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v19.8.0|[nodejs.org](https://nodejs.org)|Tue Mar 14 20:02:38 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v19.8.1|[nodejs.org](https://nodejs.org)|Wed Mar 15 20:02:44 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.15.0|[nodejs.org](https://nodejs.org)|Wed Mar 08 00:04:08 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.2|[golang.org](https://golang.org/dl/)|Tue Mar 07 20:02:23 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.4.RELEASE|[start.spring.io](https://start.spring.io)|Sat Mar 04 00:04:54 UTC 2023|
