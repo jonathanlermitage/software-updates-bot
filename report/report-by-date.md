@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 292 - Enterprise Go Beans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 20 08:01:55 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.8.1|[nodejs.org](https://nodejs.org)|Wed Mar 15 20:02:44 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.15.0|[nodejs.org](https://nodejs.org)|Wed Mar 08 00:04:08 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.2|[golang.org](https://golang.org/dl/)|Tue Mar 07 20:02:23 UTC 2023|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8.1|[nilesoft.org](https://nilesoft.org/)|Wed Feb 22 16:02:29 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 17 08:02:46 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.4 to 17.4.5 ~ 2023-02-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Feb 16 16:02:43 UTC 2023|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 291 - ChatGPT licencie 15% des Bisounours|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 13 12:02:35 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:03:10 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:54 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:49 UTC 2023|
