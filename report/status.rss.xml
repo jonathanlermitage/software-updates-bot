@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Thu, 23 Mar 2023 00:34:45 GMT</pubDate>
+    <pubDate>Thu, 23 Mar 2023 04:03:10 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2023-03-23T00:34:45Z</dc:date>
+    <dc:date>2023-03-23T04:03:10Z</dc:date>
     <item>
-      <title>FAILED -- Thu Mar 23 00:34:45 UTC 2023</title>
+      <title>FAILED -- Thu Mar 23 04:03:10 UTC 2023</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.Adoptium20WindowsChecker failed, ignoring
@@ -49,49 +49,6 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 521 for URL: https://ramensoftware.com/downloads/7tt_setup.exe?changelog
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1997)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
-	at java.base/java.net.URL.openStream(URL.java:1161)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:2953)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.downloadAsText(ScrapperImpl.kt:64)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:38)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:343)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:102)
-	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:329)
-	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:209)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:135)
-	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:160)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
-	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
-	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:702)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$SpringCGLIB.fetchHtml(&lt;generated&gt;)
-	at biz.lermitage.sub.service.checker.impl.SevenTTChecker.check(SevenTTChecker.kt:21)
-	at biz.lermitage.sub.Application.run(Application.kt:54)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:769)
-	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:753)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:317)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1304)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1293)
-	at biz.lermitage.sub.ApplicationKt.main(Application.kt:130)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
-	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
-	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:95)
-	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
-	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
-
 checker class biz.lermitage.sub.service.checker.impl.Adoptium20MacosChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.AdoptiumChecker.check(AdoptiumChecker.kt:34)
@@ -112,9 +69,9 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</description>
-      <pubDate>Thu, 23 Mar 2023 00:34:45 GMT</pubDate>
+      <pubDate>Thu, 23 Mar 2023 04:03:10 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2023-03-23T00:34:45Z</dc:date>
+      <dc:date>2023-03-23T04:03:10Z</dc:date>
     </item>
   </channel>
 </rss>
