@@ -95,6 +95,45 @@
         "Adoptium",
         "AdoptOpenJDK"
       ],
+      "name": "Adoptium jdk20 linux x64",
+      "website": "https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot",
+      "version": "jdk-20+36",
+      "checkDate": "Mar 23, 2023, 8:02:35 PM",
+      "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "Adoptium",
+        "AdoptOpenJDK"
+      ],
+      "name": "Adoptium jdk20 mac x64",
+      "website": "https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot",
+      "version": "jdk-20+36",
+      "checkDate": "Mar 23, 2023, 8:02:41 PM",
+      "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "Adoptium",
+        "AdoptOpenJDK"
+      ],
+      "name": "Adoptium jdk20 windows x64",
+      "website": "https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot",
+      "version": "jdk-20+36",
+      "checkDate": "Mar 23, 2023, 8:02:12 PM",
+      "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "Adoptium",
+        "AdoptOpenJDK"
+      ],
       "name": "Adoptium jdk8 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
       "version": "jdk8u362-b09",
