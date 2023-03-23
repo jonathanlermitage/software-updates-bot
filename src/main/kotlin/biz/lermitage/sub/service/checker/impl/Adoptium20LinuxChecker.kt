@@ -4,4 +4,4 @@ import biz.lermitage.sub.service.checker.Checker
 import org.springframework.stereotype.Service
 
 @Service
-class Adoptium19LinuxChecker : AdoptiumChecker(19, "linux", "jdk", "x64"), Checker
+class Adoptium20LinuxChecker : AdoptiumChecker(20, "linux", "jdk", "x64"), Checker
