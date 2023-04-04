@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.20.3|[golang.org](https://golang.org/dl/)|Tue Apr 04 20:02:21 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.200.2|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Tue Mar 28 00:04:45 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Mar 23 20:02:41 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 linux x64|jdk-20+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Mar 23 20:02:35 UTC 2023|
@@ -11,7 +12,6 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 292 - Enterprise Go Beans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 20 08:01:55 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.8.1|[nodejs.org](https://nodejs.org)|Wed Mar 15 20:02:44 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.15.0|[nodejs.org](https://nodejs.org)|Wed Mar 08 00:04:08 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.20.2|[golang.org](https://golang.org/dl/)|Tue Mar 07 20:02:23 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.0.2|[gradle.org](https://gradle.org/releases/)|Fri Mar 03 20:02:45 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8.1|[nilesoft.org](https://nilesoft.org/)|Wed Feb 22 16:02:29 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 17 08:02:46 UTC 2023|
