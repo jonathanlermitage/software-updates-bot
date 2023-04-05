@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.11.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Apr 05 12:03:35 UTC 2023|
+|![logo](../media/logo/python.png) Python 3 mac| 3.11.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Apr 05 12:03:06 UTC 2023|
+|![logo](../media/logo/python.png) Python 3 source| 3.11.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Apr 05 12:02:57 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.3|[golang.org](https://golang.org/dl/)|Tue Apr 04 20:02:21 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.200.2|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Tue Mar 28 00:04:45 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Mar 23 20:02:41 UTC 2023|
@@ -20,9 +23,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:49 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:44 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:02:25 UTC 2023|
-|![logo](../media/logo/python.png) Python 3 windows| 3.11.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 08 12:03:15 UTC 2023|
-|![logo](../media/logo/python.png) Python 3 mac| 3.11.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 08 12:03:08 UTC 2023|
-|![logo](../media/logo/python.png) Python 3 source| 3.11.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 08 12:03:03 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Feb 07 03:42:23 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:12:57 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.28|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:12:56 UTC 2023|
