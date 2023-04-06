@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 293 - Interview Maven et builds reproductibles avec Hervé Boutemy|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Apr 06 12:03:11 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Apr 05 12:03:35 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Apr 05 12:03:06 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Apr 05 12:02:57 UTC 2023|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.2|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Mar 23 00:41:31 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.4.5 to 17.5.0 ~ 2023-03-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Mar 20 20:02:54 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 20 12:02:55 UTC 2023|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 292 - Enterprise Go Beans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 20 08:01:55 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.8.1|[nodejs.org](https://nodejs.org)|Wed Mar 15 20:02:44 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.15.0|[nodejs.org](https://nodejs.org)|Wed Mar 08 00:04:08 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.0.2|[gradle.org](https://gradle.org/releases/)|Fri Mar 03 20:02:45 UTC 2023|
