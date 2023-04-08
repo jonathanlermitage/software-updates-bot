@@ -6,11 +6,11 @@ val detektVersion = "1.22.0" // don't forget to update plugin version too
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "1.8.10"
+    val kotlinVersion = "1.8.20"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.0.4"
+    id("org.springframework.boot") version "3.0.5"
     id("io.spring.dependency-management") version "1.1.0"
     id("com.github.ben-manes.versions") version "0.46.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
@@ -32,7 +32,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("com.google.code.gson:gson:2.10.1")
-    implementation("com.jayway.jsonpath:json-path:2.7.0")
+    implementation("com.jayway.jsonpath:json-path:2.8.0")
     implementation("org.jsoup:jsoup:1.15.4") // https://jsoup.org/news/
     implementation("commons-io:commons-io:2.11.0")
     implementation("org.apache.commons:commons-lang3:3.12.0")
