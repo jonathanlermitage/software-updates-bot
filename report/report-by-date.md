@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|v18.16.0|[nodejs.org](https://nodejs.org)|Thu Apr 13 04:02:49 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.1|[gradle.org](https://gradle.org/releases/)|Wed Apr 12 16:02:53 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v19.9.0|[nodejs.org](https://nodejs.org)|Tue Apr 11 04:02:26 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.0 to 17.5.2 ~ 2023-04-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 08 16:02:16 UTC 2023|
@@ -15,7 +16,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|3.0.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 23 16:02:25 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.2|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Mar 23 00:41:31 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 20 12:02:55 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|v18.15.0|[nodejs.org](https://nodejs.org)|Wed Mar 08 00:04:08 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8.1|[nilesoft.org](https://nilesoft.org/)|Wed Feb 22 16:02:29 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 17 08:02:46 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 09 16:03:10 UTC 2023|
