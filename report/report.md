@@ -10,9 +10,9 @@
 |![logo](../media/logo/java.png) Adoptium jdk20 linux x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Apr 20 16:02:17 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Mar 23 20:02:41 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Mar 23 20:02:12 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 20 20:02:40 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 20 20:02:33 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u362-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jan 23 16:01:57 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:50 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:22 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:40 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:02:57 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.20.3|[golang.org](https://golang.org/dl/)|Tue Apr 04 20:02:21 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.1|[gradle.org](https://gradle.org/releases/)|Wed Apr 12 16:02:53 UTC 2023|
