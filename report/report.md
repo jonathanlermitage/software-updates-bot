@@ -8,14 +8,14 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 20 12:03:27 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 20 12:03:07 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 linux x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Apr 20 16:02:17 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Mar 23 20:02:41 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Apr 21 16:02:10 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Apr 21 12:02:10 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:50 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:22 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:40 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.1.0 (2022-12-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Dec 20 12:02:57 UTC 2022|
 |![logo](../media/logo/go.png) Go|go1.20.3|[golang.org](https://golang.org/dl/)|Tue Apr 04 20:02:21 UTC 2023|
-|![logo](../media/logo/gradle.png) Gradle|8.1|[gradle.org](https://gradle.org/releases/)|Wed Apr 12 16:02:53 UTC 2023|
+|![logo](../media/logo/gradle.png) Gradle|8.1.1|[gradle.org](https://gradle.org/releases/)|Fri Apr 21 16:02:39 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:10:48 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|

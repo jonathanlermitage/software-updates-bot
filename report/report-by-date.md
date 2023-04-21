@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.1.1|[gradle.org](https://gradle.org/releases/)|Fri Apr 21 16:02:39 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Apr 21 16:02:10 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Apr 21 12:02:10 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:50 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:40 UTC 2023|
@@ -15,14 +17,12 @@
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.0.0|[nodejs.org](https://nodejs.org)|Tue Apr 18 20:02:39 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 294 - A Devoxx France 2023 en chair en os et en béret|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Apr 17 12:03:08 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.16.0|[nodejs.org](https://nodejs.org)|Thu Apr 13 04:02:49 UTC 2023|
-|![logo](../media/logo/gradle.png) Gradle|8.1|[gradle.org](https://gradle.org/releases/)|Wed Apr 12 16:02:53 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.0 to 17.5.2 ~ 2023-04-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 08 16:02:16 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Apr 05 12:03:35 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Apr 05 12:03:06 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.3|[www.python.org](https://www.python.org/downloads/source/)|Wed Apr 05 12:02:57 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.3|[golang.org](https://golang.org/dl/)|Tue Apr 04 20:02:21 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.200.2|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Tue Mar 28 00:04:45 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Mar 23 20:02:41 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.2|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Mar 23 00:41:31 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 20 12:02:55 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8.1|[nilesoft.org](https://nilesoft.org/)|Wed Feb 22 16:02:29 UTC 2023|
