@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v20.1.0|[nodejs.org](https://nodejs.org)|Wed May 03 20:03:04 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.4|[golang.org](https://golang.org/dl/)|Tue May 02 20:02:06 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.2 to 17.5.5 ~ 2023-04-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 22 20:02:18 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.1.1|[gradle.org](https://gradle.org/releases/)|Fri Apr 21 16:02:39 UTC 2023|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 20 12:03:07 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Apr 19 16:02:29 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.7+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Apr 19 16:02:24 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v20.0.0|[nodejs.org](https://nodejs.org)|Tue Apr 18 20:02:39 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 294 - A Devoxx France 2023 en chair en os et en béret|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Apr 17 12:03:08 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|v18.16.0|[nodejs.org](https://nodejs.org)|Thu Apr 13 04:02:49 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.3|[www.python.org](https://www.python.org/downloads/windows/)|Wed Apr 05 12:03:35 UTC 2023|
