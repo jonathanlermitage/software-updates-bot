@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.1.0|[nodejs.org](https://nodejs.org)|Wed May 03 20:03:04 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.4|[golang.org](https://golang.org/dl/)|Tue May 02 20:02:06 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.2 to 17.5.5 ~ 2023-04-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 22 20:02:18 UTC 2023|
@@ -46,7 +47,6 @@
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:01:57 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|
-|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.5|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Tue Jul 26 01:01:00 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|

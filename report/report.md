@@ -17,7 +17,7 @@
 |![logo](../media/logo/go.png) Go|go1.20.4|[golang.org](https://golang.org/dl/)|Tue May 02 20:02:06 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.1.1|[gradle.org](https://gradle.org/releases/)|Fri Apr 21 16:02:39 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.2.2|[inkscape.org](https://inkscape.org)|Tue Dec 06 00:10:48 UTC 2022|
-|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.150.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Wed Jul 27 04:00:22 UTC 2022|
+|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.200.2|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Tue Mar 28 00:04:45 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.2 to 17.5.5 ~ 2023-04-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 22 20:02:18 UTC 2023|
