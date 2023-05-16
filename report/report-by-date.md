@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|v20.2.0|[nodejs.org](https://nodejs.org)|Tue May 16 20:02:30 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 295 - La librairie rentre dans le cadre|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon May 15 12:02:31 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.5 to 17.6.0 ~ 2023-05-14|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun May 14 16:02:29 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:03:22 UTC 2023|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:39 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:33 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|v20.1.0|[nodejs.org](https://nodejs.org)|Wed May 03 20:03:04 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.4|[golang.org](https://golang.org/dl/)|Tue May 02 20:02:06 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.1.1|[gradle.org](https://gradle.org/releases/)|Fri Apr 21 16:02:39 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Apr 21 16:02:10 UTC 2023|
