@@ -2,19 +2,19 @@ import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-val detektVersion = "1.22.0" // don't forget to update plugin version too
+val detektVersion = "1.23.0" // don't forget to update plugin version too
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "1.8.20"
+    val kotlinVersion = "1.8.21"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.0.5"
+    id("org.springframework.boot") version "3.1.0"
     id("io.spring.dependency-management") version "1.1.0"
     id("com.github.ben-manes.versions") version "0.46.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
-    id("io.gitlab.arturbosch.detekt") version "1.22.0" // IMPORTANT set it to detektVersion's value
+    id("io.gitlab.arturbosch.detekt") version "1.23.0" // IMPORTANT set it to detektVersion's value
     id("biz.lermitage.oga") version "1.1.1"
 }
 
@@ -33,8 +33,8 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("com.google.code.gson:gson:2.10.1")
     implementation("com.jayway.jsonpath:json-path:2.8.0")
-    implementation("org.jsoup:jsoup:1.15.4") // https://jsoup.org/news/
-    implementation("commons-io:commons-io:2.11.0")
+    implementation("org.jsoup:jsoup:1.16.1") // https://jsoup.org/news/
+    implementation("commons-io:commons-io:2.12.0")
     implementation("org.apache.commons:commons-lang3:3.12.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
     implementation("org.springframework.boot:spring-boot-starter-aop")
@@ -48,7 +48,7 @@ dependencies {
 
 detekt {
     toolVersion = detektVersion
-    config = files("./detekt-config.yml")
+    config.setFrom("./detekt-config.yml")
     buildUponDefaultConfig = true
     ignoreFailures = false
 }
