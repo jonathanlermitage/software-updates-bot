@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.20.5|[golang.org](https://golang.org/dl/)|Tue Jun 06 20:02:34 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:02:50 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 296 - Interview Google IA IA I/O 2023|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu May 25 12:02:23 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 19 04:03:03 UTC 2023|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.3|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:39 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:33 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.20.4|[golang.org](https://golang.org/dl/)|Tue May 02 20:02:06 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.1.1|[gradle.org](https://gradle.org/releases/)|Fri Apr 21 16:02:39 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Apr 21 16:02:10 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Apr 21 12:02:10 UTC 2023|
