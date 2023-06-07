@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:45 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:34 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:31 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:22 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:17 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 07 12:03:03 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 07 12:02:59 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 12:02:54 UTC 2023|
@@ -16,12 +21,7 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:02:38 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:02:36 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:02:25 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:03:27 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:03:17 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:03:09 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.29|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:03:04 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:53 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.13|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:47 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:33 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.1.1|[gradle.org](https://gradle.org/releases/)|Fri Apr 21 16:02:39 UTC 2023|
