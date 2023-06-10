@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.0 to 17.6.6 ~ 2023-06-09|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Jun 10 00:04:16 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|v20.3.0|[nodejs.org](https://nodejs.org)|Thu Jun 08 20:02:57 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:45 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:34 UTC 2023|
@@ -15,7 +16,6 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 296 - Interview Google IA IA I/O 2023|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu May 25 12:02:23 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 19 04:03:03 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 18 16:02:38 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.5.5 to 17.6.0 ~ 2023-05-14|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun May 14 16:02:29 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:03:22 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:03:05 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:02:38 UTC 2023|
