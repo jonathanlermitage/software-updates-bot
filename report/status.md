@@ -1,7 +1,7 @@
 FAILED
 
-<pre>checker class biz.lermitage.sub.service.checker.impl.NodeJSCurrentChecker failed, ignoring
-java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0
+<pre>checker class biz.lermitage.sub.service.checker.impl.NodeJSLTSChecker failed, ignoring
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
@@ -24,8 +24,8 @@ java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.NodeJSLTSChecker failed, ignoring
-java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+checker class biz.lermitage.sub.service.checker.impl.NodeJSCurrentChecker failed, ignoring
+java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0
 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
