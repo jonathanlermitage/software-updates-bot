@@ -6,13 +6,13 @@ val detektVersion = "1.23.0" // don't forget to update plugin version too
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "1.8.21"
+    val kotlinVersion = "1.8.22"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.1.0"
+    id("org.springframework.boot") version "3.1.1"
     id("io.spring.dependency-management") version "1.1.0"
-    id("com.github.ben-manes.versions") version "0.46.0"
+    id("com.github.ben-manes.versions") version "0.47.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
     id("io.gitlab.arturbosch.detekt") version "1.23.0" // IMPORTANT set it to detektVersion's value
     id("biz.lermitage.oga") version "1.1.1"
@@ -34,11 +34,11 @@ dependencies {
     implementation("com.google.code.gson:gson:2.10.1")
     implementation("com.jayway.jsonpath:json-path:2.8.0")
     implementation("org.jsoup:jsoup:1.16.1") // https://jsoup.org/news/
-    implementation("commons-io:commons-io:2.12.0")
+    implementation("commons-io:commons-io:2.13.0")
     implementation("org.apache.commons:commons-lang3:3.12.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
     implementation("org.springframework.boot:spring-boot-starter-aop")
-    implementation("org.springframework.retry:spring-retry:2.0.1")
+    implementation("org.springframework.retry:spring-retry:2.0.2")
     kapt("org.springframework.boot:spring-boot-configuration-processor")
     testImplementation("org.springframework.boot:spring-boot-starter-test") {
         exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
