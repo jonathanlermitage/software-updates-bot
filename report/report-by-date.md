@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.2|[gradle.org](https://gradle.org/releases/)|Fri Jun 30 20:02:26 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:06:22 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.3.1|[nodejs.org](https://nodejs.org)|Fri Jun 23 20:21:08 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|18.16.1|[nodejs.org](https://nodejs.org)|Fri Jun 23 20:20:59 UTC 2023|
@@ -27,7 +28,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:03:09 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:33 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
-|![logo](../media/logo/gradle.png) Gradle|8.1.1|[gradle.org](https://gradle.org/releases/)|Fri Apr 21 16:02:39 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Apr 21 16:02:10 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Apr 21 12:02:10 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:50 UTC 2023|
