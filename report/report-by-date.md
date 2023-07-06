@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.6 to 17.6.8 ~ 2023-07-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 06 16:03:09 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.4.0|[nodejs.org](https://nodejs.org)|Wed Jul 05 16:02:21 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.2|[gradle.org](https://gradle.org/releases/)|Fri Jun 30 20:02:26 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:06:22 UTC 2023|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 22 16:02:18 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 297 - Lockless design|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 12 16:03:00 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.0 to 17.6.6 ~ 2023-06-09|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Jun 10 00:04:16 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:45 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:34 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:31 UTC 2023|
