@@ -44,8 +44,16 @@ data class SoftwareUpdate(
     }
 
     companion object {
-        val comparatorByDateDesc: Comparator<SoftwareUpdate> = kotlin.Comparator { o1, o2 ->
-            -(o1.checkDate.compareTo(o2.checkDate))
+        val comparatorByDateDescThenByName: Comparator<SoftwareUpdate> = kotlin.Comparator { o1, o2 ->
+            compareByDateDescThenByName(o1, o2)
+        }
+
+        private fun compareByDateDescThenByName(o1: SoftwareUpdate, o2: SoftwareUpdate): Int {
+            val res = -(o1.checkDate.compareTo(o2.checkDate))
+            if (res == 0) {
+                return (o1.name.compareTo(o2.name))
+            }
+            return res
         }
     }
 }

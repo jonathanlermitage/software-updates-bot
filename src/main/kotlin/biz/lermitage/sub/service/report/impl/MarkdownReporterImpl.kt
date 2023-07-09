@@ -33,7 +33,7 @@ class MarkdownReporterImpl(private val conf: LocalAppConf) : Reporter {
         val reportFile = File(conf.reportFile.mdByDate)
         reportFile.parentFile.mkdirs()
         reportFile.delete()
-        write(reportFile, updates.stream().sorted(SoftwareUpdate.comparatorByDateDesc).collect(Collectors.toList()))
+        write(reportFile, updates.stream().sorted(SoftwareUpdate.comparatorByDateDescThenByName).collect(Collectors.toList()))
     }
 
     private fun write(reportFile: File, updates: List<SoftwareUpdate>) {

@@ -42,7 +42,7 @@ class AtomReporterImpl(private val conf: LocalAppConf) : Reporter {
         }.toList()
 
         val entries = ArrayList<SyndEntry>()
-        updates.stream().sorted(SoftwareUpdate.comparatorByDateDesc).forEach { su: SoftwareUpdate ->
+        updates.stream().sorted(SoftwareUpdate.comparatorByDateDescThenByName).forEach { su: SoftwareUpdate ->
             val description = SyndContentImpl()
             description.type = "text/plain"
             description.value = "${su.name} -- ${su.version} -- ${su.checkDate}"
