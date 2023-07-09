@@ -27,6 +27,9 @@ if [%1] == [test] (
 if [%1] == [cv] (
   gradlew dependencyUpdates
 )
+if [%1] == [cvnd] (
+  gradlew dependencyUpdates --no-daemon
+)
 if [%1] == [p] (
   gradlew clean bootJar --warning-mode all
 )
