@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.2.1|[gradle.org](https://gradle.org/releases/)|Mon Jul 10 16:02:37 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.6 to 17.6.8 ~ 2023-07-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 06 16:03:09 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.4.0|[nodejs.org](https://nodejs.org)|Wed Jul 05 16:02:21 UTC 2023|
-|![logo](../media/logo/gradle.png) Gradle|8.2|[gradle.org](https://gradle.org/releases/)|Fri Jun 30 20:02:26 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:06:22 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|18.16.1|[nodejs.org](https://nodejs.org)|Fri Jun 23 20:20:59 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
