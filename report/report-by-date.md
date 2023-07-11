@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.20.6|[golang.org](https://golang.org/dl/)|Tue Jul 11 16:02:30 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.2.1|[gradle.org](https://gradle.org/releases/)|Mon Jul 10 16:02:37 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.6 to 17.6.8 ~ 2023-07-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 06 16:03:09 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.4.0|[nodejs.org](https://nodejs.org)|Wed Jul 05 16:02:21 UTC 2023|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 07 12:02:59 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 12:02:54 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.4|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 07 12:02:51 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.20.5|[golang.org](https://golang.org/dl/)|Tue Jun 06 20:02:34 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:02:50 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 18 16:02:38 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 11 16:03:22 UTC 2023|
