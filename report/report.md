@@ -57,5 +57,5 @@
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 22 16:02:18 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:02:50 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:01:57 UTC 2022|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.25.9 (Saturday February 19, 2022)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sun Feb 20 18:00:47 UTC 2022|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest BETA Release - 1.26.3 (Sunday July 2, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Jul 12 20:03:06 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 18 16:02:38 UTC 2023|
