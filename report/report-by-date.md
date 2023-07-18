@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|18.17.0|[nodejs.org](https://nodejs.org)|Tue Jul 18 20:02:16 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:03:20 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest BETA Release - 1.26.3 (Sunday July 2, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Jul 12 20:03:06 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.20.6|[golang.org](https://golang.org/dl/)|Tue Jul 11 16:02:30 UTC 2023|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.6 to 17.6.8 ~ 2023-07-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 06 16:03:09 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.4.0|[nodejs.org](https://nodejs.org)|Wed Jul 05 16:02:21 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:06:22 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|18.16.1|[nodejs.org](https://nodejs.org)|Fri Jun 23 20:20:59 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 22 16:02:18 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 297 - Lockless design|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 12 16:03:00 UTC 2023|
