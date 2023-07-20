@@ -10,8 +10,8 @@ plugins {
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.1.1"
-    id("io.spring.dependency-management") version "1.1.1"
+    id("org.springframework.boot") version "3.1.2"
+    id("io.spring.dependency-management") version "1.1.2"
     id("com.github.ben-manes.versions") version "0.47.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
     id("io.gitlab.arturbosch.detekt") version "1.23.0" // IMPORTANT set it to detektVersion's value
