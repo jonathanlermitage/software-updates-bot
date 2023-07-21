@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jul 21 00:04:34 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS Current|20.5.0|[nodejs.org](https://nodejs.org)|Fri Jul 21 00:04:00 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 20 20:02:15 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jul 20 13:34:04 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:02:54 UTC 2023|
@@ -12,7 +14,6 @@
 |![logo](../media/logo/go.png) Go|go1.20.6|[golang.org](https://golang.org/dl/)|Tue Jul 11 16:02:30 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.2.1|[gradle.org](https://gradle.org/releases/)|Mon Jul 10 16:02:37 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.6 to 17.6.8 ~ 2023-07-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 06 16:03:09 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|20.4.0|[nodejs.org](https://nodejs.org)|Wed Jul 05 16:02:21 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:06:22 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 297 - Lockless design|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 12 16:03:00 UTC 2023|
@@ -41,7 +42,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:40 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u372-b07|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 20 20:02:22 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 linux x64|jdk-20.0.1+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Thu Apr 20 16:02:17 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.19+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Apr 20 16:02:12 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8.1|[nilesoft.org](https://nilesoft.org/)|Wed Feb 22 16:02:29 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:12:26 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.1 (December 22, 2022)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 22 20:02:09 UTC 2022|
