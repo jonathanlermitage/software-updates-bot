@@ -3,22 +3,24 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2023-08-02T04:03:04Z</modified>
+  <modified>2023-08-02T08:03:05Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2023-08-02T04:03:04Z</dc:date>
+  <dc:date>2023-08-02T08:03:05Z</dc:date>
   <entry>
-    <title>FAILED -- Wed Aug 02 04:03:04 UTC 2023</title>
+    <title>FAILED -- Wed Aug 02 08:03:05 UTC 2023</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2023-08-02T04:03:04Z</modified>
-    <issued>2023-08-02T04:03:04Z</issued>
+    <modified>2023-08-02T08:03:05Z</modified>
+    <issued>2023-08-02T08:03:05Z</issued>
     <summary type="text/html" mode="escaped">FAILED
 
-&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
-java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.NodeJSCurrentChecker failed, ignoring
+java.lang.IndexOutOfBoundsException: Empty list doesn't contain element at index 0.
+	at kotlin.collections.EmptyList.get(Collections.kt:36)
+	at kotlin.collections.EmptyList.get(Collections.kt:24)
+	at biz.lermitage.sub.service.checker.impl.NodeJSChecker.check(NodeJSChecker.kt:29)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
@@ -56,11 +58,9 @@ java.lang.IndexOutOfBoundsException: Empty list doesn't contain element at index
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.NodeJSCurrentChecker failed, ignoring
-java.lang.IndexOutOfBoundsException: Empty list doesn't contain element at index 0.
-	at kotlin.collections.EmptyList.get(Collections.kt:36)
-	at kotlin.collections.EmptyList.get(Collections.kt:24)
-	at biz.lermitage.sub.service.checker.impl.NodeJSChecker.check(NodeJSChecker.kt:29)
+checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
+java.lang.NullPointerException
+	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
@@ -78,6 +78,6 @@ java.lang.IndexOutOfBoundsException: Empty list doesn't contain element at index
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</summary>
-    <dc:date>2023-08-02T04:03:04Z</dc:date>
+    <dc:date>2023-08-02T08:03:05Z</dc:date>
   </entry>
 </feed>

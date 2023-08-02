@@ -1,8 +1,10 @@
 FAILED
 
-<pre>checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
-java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
+<pre>checker class biz.lermitage.sub.service.checker.impl.NodeJSCurrentChecker failed, ignoring
+java.lang.IndexOutOfBoundsException: Empty list doesn't contain element at index 0.
+	at kotlin.collections.EmptyList.get(Collections.kt:36)
+	at kotlin.collections.EmptyList.get(Collections.kt:24)
+	at biz.lermitage.sub.service.checker.impl.NodeJSChecker.check(NodeJSChecker.kt:29)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
@@ -40,11 +42,9 @@ java.lang.IndexOutOfBoundsException: Empty list doesn't contain element at index
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.NodeJSCurrentChecker failed, ignoring
-java.lang.IndexOutOfBoundsException: Empty list doesn't contain element at index 0.
-	at kotlin.collections.EmptyList.get(Collections.kt:36)
-	at kotlin.collections.EmptyList.get(Collections.kt:24)
-	at biz.lermitage.sub.service.checker.impl.NodeJSChecker.check(NodeJSChecker.kt:29)
+checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
+java.lang.NullPointerException
+	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:771)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:755)
