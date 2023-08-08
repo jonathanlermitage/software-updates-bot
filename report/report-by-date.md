@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.21.0|[golang.org](https://golang.org/dl/)|Tue Aug 08 16:02:26 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.8 to 17.7.0 ~ 2023-08-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Aug 03 20:02:52 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.20.7|[golang.org](https://golang.org/dl/)|Tue Aug 01 20:02:39 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest BETA Release - 1.26.4 (Monday July 24, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Tue Jul 25 04:02:44 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 298 - De l'IA à toutes les sauces|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jul 24 16:02:58 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u382-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jul 24 08:02:44 UTC 2023|
