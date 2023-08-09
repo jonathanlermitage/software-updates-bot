@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|20.5.1|[nodejs.org](https://nodejs.org)|Wed Aug 09 20:03:03 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|18.17.1|[nodejs.org](https://nodejs.org)|Wed Aug 09 20:02:54 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.21.0|[golang.org](https://golang.org/dl/)|Tue Aug 08 16:02:26 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.8 to 17.7.0 ~ 2023-08-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Aug 03 20:02:52 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest BETA Release - 1.26.4 (Monday July 24, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Tue Jul 25 04:02:44 UTC 2023|
@@ -12,14 +14,12 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u382-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 21 20:02:33 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 linux x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Jul 21 20:02:21 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jul 21 00:04:34 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|20.5.0|[nodejs.org](https://nodejs.org)|Fri Jul 21 00:04:00 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 20 20:02:15 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jul 20 13:34:04 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:02:54 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:02:51 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:02:39 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 20 12:02:38 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|18.17.0|[nodejs.org](https://nodejs.org)|Tue Jul 18 20:02:16 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:03:20 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.2.1|[gradle.org](https://gradle.org/releases/)|Mon Jul 10 16:02:37 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:06:22 UTC 2023|
