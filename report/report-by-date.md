@@ -1,5 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:47 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:31 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:30 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:24 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.31|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:23 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:20 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:03:07 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:03:04 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:02:59 UTC 2023|
@@ -29,14 +35,8 @@
 |![logo](../media/logo/gradle.png) Gradle|8.2.1|[gradle.org](https://gradle.org/releases/)|Mon Jul 10 16:02:37 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:06:22 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:45 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.21|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:34 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.14|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:31 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.30|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:22 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 16:02:17 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 07 12:03:03 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 07 12:02:59 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.4|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Jun 07 12:02:54 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.4|[www.python.org](https://www.python.org/downloads/source/)|Wed Jun 07 12:02:51 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:02:50 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 18 16:02:38 UTC 2023|
