@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.3|[gradle.org](https://gradle.org/releases/)|Thu Aug 17 12:02:10 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:47 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:31 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:30 UTC 2023|
@@ -32,7 +33,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.8+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 20 12:02:39 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.20+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 20 12:02:38 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:03:20 UTC 2023|
-|![logo](../media/logo/gradle.png) Gradle|8.2.1|[gradle.org](https://gradle.org/releases/)|Mon Jul 10 16:02:37 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:06:22 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 07 12:03:03 UTC 2023|
