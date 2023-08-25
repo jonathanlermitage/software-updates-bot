@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.0 to 17.7.5 ~ 2023-08-25|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 25 16:02:15 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.2 (August 24, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Aug 24 20:02:54 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.5|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 24 20:02:51 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.5|[www.python.org](https://www.python.org/downloads/source/)|Thu Aug 24 20:02:48 UTC 2023|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.5.1|[nodejs.org](https://nodejs.org)|Wed Aug 09 20:03:03 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|18.17.1|[nodejs.org](https://nodejs.org)|Wed Aug 09 20:02:54 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.21.0|[golang.org](https://golang.org/dl/)|Tue Aug 08 16:02:26 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.6.8 to 17.7.0 ~ 2023-08-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Aug 03 20:02:52 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest BETA Release - 1.26.4 (Monday July 24, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Tue Jul 25 04:02:44 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 298 - De l'IA à toutes les sauces|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jul 24 16:02:58 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u382-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jul 24 08:02:44 UTC 2023|
