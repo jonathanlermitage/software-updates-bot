@@ -2,19 +2,19 @@ import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-val detektVersion = "1.23.0" // IMPORTANT don't forget to update plugin version too
+val detektVersion = "1.23.1" // IMPORTANT don't forget to update plugin version too
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "1.9.0"
+    val kotlinVersion = "1.9.10"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.1.2"
-    id("io.spring.dependency-management") version "1.1.2"
+    id("org.springframework.boot") version "3.1.3"
+    id("io.spring.dependency-management") version "1.1.3"
     id("com.github.ben-manes.versions") version "0.47.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
-    id("io.gitlab.arturbosch.detekt") version "1.23.0" // IMPORTANT set it to detektVersion's value
+    id("io.gitlab.arturbosch.detekt") version "1.23.1" // IMPORTANT set it to detektVersion's value
     id("biz.lermitage.oga") version "1.1.1"
 }
 
@@ -56,7 +56,7 @@ detekt {
 configurations.matching { it.name == "detekt" }.all {
     resolutionStrategy.eachDependency {
         if (requested.group == "org.jetbrains.kotlin") {
-            useVersion("1.8.21")
+            useVersion("1.9.0")
         }
     }
 }
