@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:03:01 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:03:01 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:03:01 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:03:01 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:02:48 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:02:36 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.0 to 17.7.5 ~ 2023-08-25|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 25 16:02:15 UTC 2023|
