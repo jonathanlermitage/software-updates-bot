@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.21.1|[golang.org](https://golang.org/dl/)|Wed Sep 06 16:02:50 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.6.0|[nodejs.org](https://nodejs.org)|Tue Sep 05 00:04:56 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest BETA Release - 1.26.5 (Tuesday August 15, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Sep 02 00:04:16 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Aug 30 16:02:18 UTC 2023|
@@ -27,7 +28,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:02:47 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:02:47 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|18.17.1|[nodejs.org](https://nodejs.org)|Wed Aug 09 20:02:54 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.21.0|[golang.org](https://golang.org/dl/)|Tue Aug 08 16:02:26 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 298 - De l'IA à toutes les sauces|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jul 24 16:02:58 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u382-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jul 24 08:02:44 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Mon Jul 24 08:02:06 UTC 2023|

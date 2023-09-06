@@ -14,7 +14,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u382-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jul 24 08:02:44 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u382-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 21 20:02:33 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:03:20 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.21.0|[golang.org](https://golang.org/dl/)|Tue Aug 08 16:02:26 UTC 2023|
+|![logo](../media/logo/go.png) Go|go1.21.1|[golang.org](https://golang.org/dl/)|Wed Sep 06 16:02:50 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.3|[gradle.org](https://gradle.org/releases/)|Thu Aug 17 12:02:10 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3|[inkscape.org](https://inkscape.org)|Mon Jul 24 00:04:05 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
