@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.5 to 17.8.0 ~ 2023-09-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 11 16:02:41 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 299 - Katia est dans la place !|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 11 12:02:56 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.6.1|[nodejs.org](https://nodejs.org)|Fri Sep 08 20:02:46 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.21.1|[golang.org](https://golang.org/dl/)|Wed Sep 06 16:02:50 UTC 2023|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:03:01 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:02:48 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:02:36 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.0 to 17.7.5 ~ 2023-08-25|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 25 16:02:15 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.2 (August 24, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Aug 24 20:02:54 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.5|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 24 20:02:51 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.5|[www.python.org](https://www.python.org/downloads/source/)|Thu Aug 24 20:02:48 UTC 2023|

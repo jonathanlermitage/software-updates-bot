@@ -20,7 +20,7 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.0 to 17.7.5 ~ 2023-08-25|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Aug 25 16:02:15 UTC 2023|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.5 to 17.8.0 ~ 2023-09-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 11 16:02:41 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 299 - Katia est dans la place !|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 11 12:02:56 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:31 UTC 2023|
