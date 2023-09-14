@@ -12,7 +12,7 @@ plugins {
     kotlin("kapt") version kotlinVersion
     id("org.springframework.boot") version "3.1.3"
     id("io.spring.dependency-management") version "1.1.3"
-    id("com.github.ben-manes.versions") version "0.47.0"
+    id("com.github.ben-manes.versions") version "0.48.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
     id("io.gitlab.arturbosch.detekt") version "1.23.1" // IMPORTANT set it to detektVersion's value
     id("biz.lermitage.oga") version "1.1.1"
@@ -35,7 +35,7 @@ dependencies {
     implementation("com.jayway.jsonpath:json-path:2.8.0")
     implementation("org.jsoup:jsoup:1.16.1") // https://jsoup.org/news/
     implementation("commons-io:commons-io:2.13.0")
-    implementation("org.apache.commons:commons-lang3:3.12.0")
+    implementation("org.apache.commons:commons-lang3:3.13.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
     implementation("org.springframework.boot:spring-boot-starter-aop")
     implementation("org.springframework.retry:spring-retry:2.0.2")
