@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|3.1.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 21 16:02:59 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|18.18.0|[nodejs.org](https://nodejs.org)|Tue Sep 19 00:05:01 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.7.0|[nodejs.org](https://nodejs.org)|Tue Sep 19 00:04:51 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 18 20:02:19 UTC 2023|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.11.5|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 24 20:02:51 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.11.5|[www.python.org](https://www.python.org/downloads/source/)|Thu Aug 24 20:02:48 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.11.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Aug 24 20:02:45 UTC 2023|
-|![logo](../media/logo/springboot.png) Spring Boot|3.1.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Aug 24 12:02:50 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.3|[gradle.org](https://gradle.org/releases/)|Thu Aug 17 12:02:10 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:47 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:31 UTC 2023|
