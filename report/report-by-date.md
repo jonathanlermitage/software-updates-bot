@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9|[nilesoft.org](https://nilesoft.org/)|Wed Sep 27 16:02:38 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 21 16:02:59 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|18.18.0|[nodejs.org](https://nodejs.org)|Tue Sep 19 00:05:01 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.7.0|[nodejs.org](https://nodejs.org)|Tue Sep 19 00:04:51 UTC 2023|
@@ -44,7 +45,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:03:09 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:33 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
-|![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.8.1|[nilesoft.org](https://nilesoft.org/)|Wed Feb 22 16:02:29 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:12:26 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.18|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Nov 29 20:01:57 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
