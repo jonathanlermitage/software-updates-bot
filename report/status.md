@@ -1,8 +1,8 @@
 FAILED
 
-<pre>checker class biz.lermitage.sub.service.checker.impl.Adoptium21WindowsChecker failed, ignoring
+<pre>checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
 java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.AdoptiumChecker.check(AdoptiumChecker.kt:34)
+	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:774)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:758)
@@ -38,7 +38,7 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.Adoptium21LinuxChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.Adoptium21WindowsChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.AdoptiumChecker.check(AdoptiumChecker.kt:34)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
@@ -57,9 +57,9 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.Adoptium21MacosChecker failed, ignoring
 java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
+	at biz.lermitage.sub.service.checker.impl.AdoptiumChecker.check(AdoptiumChecker.kt:34)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:774)
 	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:758)
@@ -76,7 +76,7 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.Adoptium21MacosChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.Adoptium21LinuxChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.AdoptiumChecker.check(AdoptiumChecker.kt:34)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
