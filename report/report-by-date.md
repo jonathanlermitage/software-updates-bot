@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|20.8.0|[nodejs.org](https://nodejs.org)|Fri Sep 29 04:02:18 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9|[nilesoft.org](https://nilesoft.org/)|Wed Sep 27 16:02:38 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 21 16:02:59 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|18.18.0|[nodejs.org](https://nodejs.org)|Tue Sep 19 00:05:01 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|20.7.0|[nodejs.org](https://nodejs.org)|Tue Sep 19 00:04:51 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 18 20:02:19 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.3 (September 15, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Sep 15 16:02:30 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.5 to 17.8.0 ~ 2023-09-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 11 16:02:41 UTC 2023|
