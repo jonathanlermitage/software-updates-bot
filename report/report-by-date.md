@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:04:43 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|20.8.0|[nodejs.org](https://nodejs.org)|Fri Sep 29 04:02:18 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9|[nilesoft.org](https://nilesoft.org/)|Wed Sep 27 16:02:38 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 21 16:02:59 UTC 2023|
@@ -8,7 +9,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.3 (September 15, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Sep 15 16:02:30 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.5 to 17.8.0 ~ 2023-09-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 11 16:02:41 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.21.1|[golang.org](https://golang.org/dl/)|Wed Sep 06 16:02:50 UTC 2023|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest BETA Release - 1.26.5 (Tuesday August 15, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat Sep 02 00:04:16 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Aug 30 16:02:18 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:03:01 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:03:01 UTC 2023|
