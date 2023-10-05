@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.21.2|[golang.org](https://golang.org/dl/)|Thu Oct 05 20:02:33 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.4|[gradle.org](https://gradle.org/releases/)|Thu Oct 05 04:02:32 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 02 16:03:17 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 02 16:03:16 UTC 2023|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 300 - Interview de Jean-Michel Doudoux sur Java 21 par Charles Sabourdin|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 18 20:02:19 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.3 (September 15, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Sep 15 16:02:30 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.7.5 to 17.8.0 ~ 2023-09-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 11 16:02:41 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.21.1|[golang.org](https://golang.org/dl/)|Wed Sep 06 16:02:50 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Aug 30 16:02:18 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.20.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Aug 29 16:03:01 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.8.1+1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Tue Aug 29 16:03:01 UTC 2023|
