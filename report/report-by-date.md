@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 11 16:02:25 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 11 12:02:55 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|18.18.1|[nodejs.org](https://nodejs.org)|Wed Oct 11 00:04:12 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.21.3|[golang.org](https://golang.org/dl/)|Tue Oct 10 20:02:37 UTC 2023|
