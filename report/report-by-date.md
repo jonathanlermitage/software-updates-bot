@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|18.18.2|[nodejs.org](https://nodejs.org)|Sat Oct 14 00:04:14 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|20.8.1|[nodejs.org](https://nodejs.org)|Sat Oct 14 00:04:05 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.8.1|[nodejs.org](https://nodejs.org)|Tue Oct 17 20:02:42 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS Current|21.0.0|[nodejs.org](https://nodejs.org)|Tue Oct 17 20:02:32 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.19|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Oct 12 12:03:14 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 11 16:02:25 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 11 12:02:55 UTC 2023|
