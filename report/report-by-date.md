@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|21.1.0|[nodejs.org](https://nodejs.org)|Tue Oct 24 16:02:39 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.9.0|[nodejs.org](https://nodejs.org)|Tue Oct 24 16:02:36 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Tue Oct 24 12:02:54 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Tue Oct 24 12:02:50 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.9+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Oct 23 20:02:46 UTC 2023|
@@ -11,8 +13,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:04:50 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:04:26 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 18 16:03:06 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|20.8.1|[nodejs.org](https://nodejs.org)|Tue Oct 17 20:02:42 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|21.0.0|[nodejs.org](https://nodejs.org)|Tue Oct 17 20:02:32 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.19|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Oct 12 12:03:14 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21+35|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 11 16:02:25 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.21.3|[golang.org](https://golang.org/dl/)|Tue Oct 10 20:02:37 UTC 2023|
