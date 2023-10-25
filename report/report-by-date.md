@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-8|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 25 12:03:04 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|21.1.0|[nodejs.org](https://nodejs.org)|Tue Oct 24 16:02:39 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.9.0|[nodejs.org](https://nodejs.org)|Tue Oct 24 16:02:36 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Tue Oct 24 12:02:54 UTC 2023|
@@ -42,7 +43,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Jul 21 20:02:41 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 linux x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Jul 21 20:02:21 UTC 2023|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:03:20 UTC 2023|
-|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 29 00:06:22 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:02:50 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 18 16:02:38 UTC 2023|
