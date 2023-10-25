@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 25 16:03:20 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-8|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 25 12:03:04 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|21.1.0|[nodejs.org](https://nodejs.org)|Tue Oct 24 16:02:39 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.9.0|[nodejs.org](https://nodejs.org)|Tue Oct 24 16:02:36 UTC 2023|
@@ -37,7 +38,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:02:59 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:02:47 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 10 16:02:47 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u382-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Jul 24 08:02:44 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Mon Jul 24 08:02:06 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3|[inkscape.org](https://inkscape.org)|Mon Jul 24 00:04:05 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Jul 21 20:02:41 UTC 2023|
