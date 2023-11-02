@@ -59,6 +59,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 02 16:03:16 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.1.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 19 16:02:57 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:02:50 UTC 2023|
-|![logo](../media/logo/vlc.png) VLC|3.0.19|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Oct 12 12:03:14 UTC 2023|
+|![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:04:20 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:04:43 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 18 16:02:38 UTC 2023|
