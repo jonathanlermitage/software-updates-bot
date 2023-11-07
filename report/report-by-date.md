@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.21.4|[golang.org](https://golang.org/dl/)|Tue Nov 07 20:02:33 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:04:20 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.8.5 to 17.9.0 ~ 2023-10-29|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Oct 29 20:02:18 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Oct 27 20:02:03 UTC 2023|
@@ -19,7 +20,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:04:50 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:04:26 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 18 16:03:06 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.21.3|[golang.org](https://golang.org/dl/)|Tue Oct 10 20:02:37 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.4|[gradle.org](https://gradle.org/releases/)|Thu Oct 05 04:02:32 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.0|[www.python.org](https://www.python.org/downloads/source/)|Mon Oct 02 16:03:17 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 02 16:03:16 UTC 2023|
