@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15 (November 9, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Nov 09 12:02:35 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.9.0 to 17.9.3 ~ 2023-11-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Nov 09 00:04:14 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.21.4|[golang.org](https://golang.org/dl/)|Tue Nov 07 20:02:33 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:04:20 UTC 2023|
@@ -26,7 +27,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 02 16:02:33 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:04:43 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9|[nilesoft.org](https://nilesoft.org/)|Wed Sep 27 16:02:38 UTC 2023|
-|![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.14.3 (September 15, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Sep 15 16:02:30 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.15|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:47 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:31 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.22|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:30 UTC 2023|
