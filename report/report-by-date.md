@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.9.0 to 17.9.4 ~ 2023-11-09|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Nov 10 00:04:08 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:03:07 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:27 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:20 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:12 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15 (November 9, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Nov 09 12:02:35 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.9.0 to 17.9.3 ~ 2023-11-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Nov 09 00:04:14 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.21.4|[golang.org](https://golang.org/dl/)|Tue Nov 07 20:02:33 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:04:20 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Oct 27 20:02:03 UTC 2023|
