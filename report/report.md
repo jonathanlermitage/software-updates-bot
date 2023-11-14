@@ -26,9 +26,9 @@
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.9.0 to 17.9.4 ~ 2023-11-09|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Nov 10 00:04:08 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 301 - Minoritaire ou majoritaire, là est la question!|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Oct 23 16:02:50 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:31 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.5|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:20 UTC 2023|
+|![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:57 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:03:09 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 12:02:40 UTC 2023|
