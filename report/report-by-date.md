@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Nov 15 12:02:41 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|21.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 14 20:02:03 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:57 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
@@ -45,7 +46,6 @@
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:03:20 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:02:50 UTC 2023|
-|![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|May 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Thu May 18 16:02:38 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:03:09 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:33 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
