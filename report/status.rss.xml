@@ -4,14 +4,14 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Sat, 18 Nov 2023 04:02:59 GMT</pubDate>
+    <pubDate>Sat, 18 Nov 2023 12:03:34 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2023-11-18T04:02:59Z</dc:date>
+    <dc:date>2023-11-18T12:03:34Z</dc:date>
     <item>
-      <title>FAILED -- Sat Nov 18 04:02:59 UTC 2023</title>
+      <title>FAILED -- Sat Nov 18 12:03:34 UTC 2023</title>
       <description>FAILED
 
-&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
@@ -39,7 +39,7 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
@@ -68,9 +68,9 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</description>
-      <pubDate>Sat, 18 Nov 2023 04:02:59 GMT</pubDate>
+      <pubDate>Sat, 18 Nov 2023 12:03:34 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2023-11-18T04:02:59Z</dc:date>
+      <dc:date>2023-11-18T12:03:34Z</dc:date>
     </item>
   </channel>
 </rss>
