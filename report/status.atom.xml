@@ -3,20 +3,20 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2023-11-20T08:02:56Z</modified>
+  <modified>2023-11-20T12:03:26Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2023-11-20T08:02:56Z</dc:date>
+  <dc:date>2023-11-20T12:03:26Z</dc:date>
   <entry>
-    <title>FAILED -- Mon Nov 20 08:02:56 UTC 2023</title>
+    <title>FAILED -- Mon Nov 20 12:03:26 UTC 2023</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2023-11-20T08:02:56Z</modified>
-    <issued>2023-11-20T08:02:56Z</issued>
+    <modified>2023-11-20T12:03:26Z</modified>
+    <issued>2023-11-20T12:03:26Z</issued>
     <summary type="text/html" mode="escaped">FAILED
 
-&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
@@ -44,7 +44,7 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
-checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
@@ -73,6 +73,6 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
 
 &lt;/pre&gt;</summary>
-    <dc:date>2023-11-20T08:02:56Z</dc:date>
+    <dc:date>2023-11-20T12:03:26Z</dc:date>
   </entry>
 </feed>
