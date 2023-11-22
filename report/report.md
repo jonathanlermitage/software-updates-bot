@@ -41,7 +41,7 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-8|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 25 12:03:04 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9|[nilesoft.org](https://nilesoft.org/)|Wed Sep 27 16:02:38 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|21.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 14 20:02:03 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|20.9.0|[nodejs.org](https://nodejs.org)|Tue Oct 24 16:02:36 UTC 2023|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.10.0|[nodejs.org](https://nodejs.org)|Wed Nov 22 20:02:07 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:12 UTC 2023|
