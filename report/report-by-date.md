@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.10|[nilesoft.org](https://nilesoft.org/)|Sat Dec 02 20:03:04 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.5|[gradle.org](https://gradle.org/releases/)|Thu Nov 30 00:05:01 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 302 - Amour, Gloire et OpenAI|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Nov 27 20:03:07 UTC 2023|
@@ -38,7 +39,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 02 16:03:16 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 02 16:02:33 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:04:43 UTC 2023|
-|![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9|[nilesoft.org](https://nilesoft.org/)|Wed Sep 27 16:02:38 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:24 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Mon Jul 24 08:02:06 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Jul 21 20:02:41 UTC 2023|
