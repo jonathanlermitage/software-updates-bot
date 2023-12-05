@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.21.5|[golang.org](https://golang.org/dl/)|Tue Dec 05 20:02:28 UTC 2023|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 303 - Interview sur Vert.x 4.5 avec Julien Viet|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Dec 04 20:02:51 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.10|[nilesoft.org](https://nilesoft.org/)|Sat Dec 02 20:03:04 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.5|[gradle.org](https://gradle.org/releases/)|Thu Nov 30 00:05:01 UTC 2023|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:12 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15 (November 9, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Nov 09 12:02:35 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.21.4|[golang.org](https://golang.org/dl/)|Tue Nov 07 20:02:33 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:04:20 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Oct 27 20:02:03 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.9+9.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 27 16:02:59 UTC 2023|
