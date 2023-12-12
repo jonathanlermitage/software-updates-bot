@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-9|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 12 16:03:17 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.1|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 08 04:03:38 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.1|[www.python.org](https://www.python.org/downloads/source/)|Fri Dec 08 04:03:32 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 08 04:02:15 UTC 2023|
@@ -28,7 +29,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Oct 27 20:02:03 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.9+9.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 27 16:02:59 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 25 16:03:20 UTC 2023|
-|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-8|[maven.apache.org](https://maven.apache.org/download.cgi)|Wed Oct 25 12:03:04 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Tue Oct 24 12:02:54 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Tue Oct 24 12:02:50 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.9+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Oct 23 20:02:46 UTC 2023|
