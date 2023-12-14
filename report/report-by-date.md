@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|21.4.0|[nodejs.org](https://nodejs.org)|Thu Dec 14 16:55:29 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.9.4 to 18.0.0 ~ 2023-12-13|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Dec 14 00:05:14 UTC 2023|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:02:33 UTC 2023|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-9|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 12 16:03:17 UTC 2023|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 23 16:02:41 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.10.0|[nodejs.org](https://nodejs.org)|Wed Nov 22 20:02:07 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Nov 15 12:02:41 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS Current|21.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 14 20:02:03 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:57 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 16:03:01 UTC 2023|
