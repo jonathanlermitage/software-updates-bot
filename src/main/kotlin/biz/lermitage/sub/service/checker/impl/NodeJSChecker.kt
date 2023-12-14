@@ -22,28 +22,23 @@ abstract class NodeJSChecker(
     lateinit var scrapper: Scrapper
 
     override fun check(): SoftwareUpdate {
-        val json = scrapper.fetchText("https://nodejs.org/node-releases-data.json")
+        val json = scrapper.fetchText("https://nodejs.org/download/release/index.json")
         val apiResponse = Gson().fromJson(json, Array<NodeJSApiResponse>::class.java)
         val versions = apiResponse.toList()
         val version = if (type == NodeJSType.CURRENT) {
             versions[0].version
         } else {
-            if (versions[0].ltsStart.isNullOrBlank()) {
-                versions
-                    .filter { nodeJSApiResponse -> !nodeJSApiResponse.ltsStart.isNullOrBlank() }[0]
-                    .version
-            } else {
-                versions.subList(1, versions.size)
-                    .filter { nodeJSApiResponse -> !nodeJSApiResponse.ltsStart.isNullOrBlank() }[0]
-                    .version
-            }
+            versions
+                .filter { nodeJSApiResponse: NodeJSApiResponse -> nodeJSApiResponse.lts != null }
+                .filter { nodeJSApiResponse: NodeJSApiResponse -> nodeJSApiResponse.lts!!.lowercase() == "iron" }[0]
+                .version
         }
 
         return SoftwareUpdate(
             listOf(Category.NODEJS.label),
             "NodeJS ${type.label}",
             "https://nodejs.org",
-            version,
+            version.replace("v", ""),
             logo = Logo.NODEJS
         )
     }
