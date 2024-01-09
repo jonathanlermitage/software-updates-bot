@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.21.6|[golang.org](https://golang.org/dl/)|Tue Jan 09 20:02:06 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-10|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Dec 22 08:03:23 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 21 20:02:33 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|21.5.0|[nodejs.org](https://nodejs.org)|Tue Dec 19 20:02:32 UTC 2023|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.1|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 08 04:03:38 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.1|[www.python.org](https://www.python.org/downloads/source/)|Fri Dec 08 04:03:32 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 08 04:02:15 UTC 2023|
-|![logo](../media/logo/go.png) Go|go1.21.5|[golang.org](https://golang.org/dl/)|Tue Dec 05 20:02:28 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.10|[nilesoft.org](https://nilesoft.org/)|Sat Dec 02 20:03:04 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.5|[gradle.org](https://gradle.org/releases/)|Thu Nov 30 00:05:01 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
