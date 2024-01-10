@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.11.0|[nodejs.org](https://nodejs.org)|Wed Jan 10 16:02:06 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.21.6|[golang.org](https://golang.org/dl/)|Tue Jan 09 20:02:06 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-10|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Dec 22 08:03:23 UTC 2023|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 21 20:02:33 UTC 2023|
@@ -13,7 +14,6 @@
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.10|[nilesoft.org](https://nilesoft.org/)|Sat Dec 02 20:03:04 UTC 2023|
 |![logo](../media/logo/gradle.png) Gradle|8.5|[gradle.org](https://gradle.org/releases/)|Thu Nov 30 00:05:01 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|20.10.0|[nodejs.org](https://nodejs.org)|Wed Nov 22 20:02:07 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Nov 15 12:02:41 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:57 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
