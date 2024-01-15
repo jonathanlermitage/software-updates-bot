@@ -23,7 +23,7 @@
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|17.9.4 to 18.0.0 ~ 2023-12-13|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Dec 14 00:05:14 UTC 2023|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.0.0 to 18.0.5 ~ 2024-01-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 15 20:02:19 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 305 - Dia critique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 15 12:02:10 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
@@ -38,7 +38,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:33 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:24 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
-|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-10|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Dec 22 08:03:23 UTC 2023|
+|![logo](../media/logo/maven.png) Maven|4.0.0-alpha-12|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Jan 15 20:02:53 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.10|[nilesoft.org](https://nilesoft.org/)|Sat Dec 02 20:03:04 UTC 2023|
 |![logo](../media/logo/nodejs.png) NodeJS Current|21.6.0|[nodejs.org](https://nodejs.org)|Mon Jan 15 16:02:28 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.11.0|[nodejs.org](https://nodejs.org)|Wed Jan 10 16:02:06 UTC 2024|
