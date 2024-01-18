@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 18 16:02:55 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.2+13|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jan 18 16:02:54 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 18 16:02:54 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 18 16:02:24 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 17 16:02:36 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-12|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Jan 15 20:02:53 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.0.0 to 18.0.5 ~ 2024-01-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 15 20:02:19 UTC 2024|
@@ -28,14 +32,10 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:12 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:04:20 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Oct 27 20:02:03 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.9+9.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 27 16:02:59 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 25 16:03:20 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Tue Oct 24 12:02:54 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Tue Oct 24 12:02:50 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 23 16:02:57 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 20 16:02:58 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.9+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Oct 19 20:03:29 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:04:50 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 19 00:04:26 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 18 16:03:06 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:04:43 UTC 2023|
