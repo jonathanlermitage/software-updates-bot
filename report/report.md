@@ -14,7 +14,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.2+13|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jan 18 16:02:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.1+12|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Oct 27 20:02:03 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 19 20:02:27 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u392-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Wed Oct 25 16:03:20 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sat Jan 20 00:04:16 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 19 20:02:09 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.2.0 (2023-07-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jul 14 16:03:20 UTC 2023|
 |![logo](../media/logo/go.png) Go|go1.21.6|[golang.org](https://golang.org/dl/)|Tue Jan 09 20:02:06 UTC 2024|
@@ -57,7 +57,7 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 08 04:02:15 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.1|[www.python.org](https://www.python.org/downloads/source/)|Fri Dec 08 04:03:32 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.1|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 08 04:03:38 UTC 2023|
-|![logo](../media/logo/springboot.png) Spring Boot|3.2.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 21 20:02:33 UTC 2023|
+|![logo](../media/logo/springboot.png) Spring Boot|3.2.2.RELEASE|[start.spring.io](https://start.spring.io)|Sat Jan 20 00:04:37 UTC 2024|
 |![logo](../media/logo/throttlestop.png) ThrottleStop|9.6|[www.techpowerup.com](https://www.techpowerup.com/download/techpowerup-throttlestop/)|Thu May 25 16:02:50 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:04:20 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:04:43 UTC 2023|
