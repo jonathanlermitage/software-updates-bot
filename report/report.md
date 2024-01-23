@@ -2,7 +2,7 @@
 |---|---|---|---|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:02:33 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 18 16:02:54 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 18 16:03:06 UTC 2023|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Jan 23 12:02:12 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 18 20:02:40 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 18 16:02:24 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 17 16:02:36 UTC 2024|

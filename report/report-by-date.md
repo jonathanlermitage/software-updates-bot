@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Jan 23 12:02:12 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|21.6.1|[nodejs.org](https://nodejs.org)|Mon Jan 22 20:02:20 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.2+13|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Sat Jan 20 16:02:39 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.2.RELEASE|[start.spring.io](https://start.spring.io)|Sat Jan 20 00:04:37 UTC 2024|
@@ -37,7 +38,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:12 UTC 2023|
 |![logo](../media/logo/vlc.png) VLC|3.0.20|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Nov 02 00:04:20 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.21+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Wed Oct 18 16:03:06 UTC 2023|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.7 (Sunday October 1st, 2023)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Oct 02 00:04:43 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:24 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Mon Jul 24 08:02:06 UTC 2023|
