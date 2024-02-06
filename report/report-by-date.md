@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.21.7|[golang.org](https://golang.org/dl/)|Tue Feb 06 20:02:14 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.6|[gradle.org](https://gradle.org/releases/)|Sat Feb 03 00:03:42 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.0 (2024-01-25)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jan 26 08:02:26 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Jan 23 12:02:12 UTC 2024|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.0.0 to 18.0.5 ~ 2024-01-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 15 20:02:19 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 305 - Dia critique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 15 12:02:10 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.11.0|[nodejs.org](https://nodejs.org)|Wed Jan 10 16:02:06 UTC 2024|
-|![logo](../media/logo/go.png) Go|go1.21.6|[golang.org](https://golang.org/dl/)|Tue Jan 09 20:02:06 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:02:33 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.1|[www.python.org](https://www.python.org/downloads/windows/)|Fri Dec 08 04:03:38 UTC 2023|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.1|[www.python.org](https://www.python.org/downloads/source/)|Fri Dec 08 04:03:32 UTC 2023|
