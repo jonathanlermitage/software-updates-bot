@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:02:31 UTC 2024|
+|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.33|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:02:22 UTC 2024|
+|![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:02:13 UTC 2024|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.24|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:02:05 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.2|[www.python.org](https://www.python.org/downloads/windows/)|Wed Feb 07 04:02:14 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 source| 3.12.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 07 04:02:02 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 07 00:04:22 UTC 2024|
@@ -28,11 +32,7 @@
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.10|[nilesoft.org](https://nilesoft.org/)|Sat Dec 02 20:03:04 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Nov 2023|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Wed Nov 15 12:02:41 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.6|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:57 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.16|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 16:03:01 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.23|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 16:02:34 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.32|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 13 12:02:40 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:03:07 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:27 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:20 UTC 2023|
