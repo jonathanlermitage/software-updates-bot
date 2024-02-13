@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 306 - Alors tu squash ou tu pointes?|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Feb 13 12:02:10 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 09 12:02:12 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:03:53 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:03:36 UTC 2024|
@@ -31,7 +32,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 17 16:02:36 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-12|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Jan 15 20:02:53 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.0.0 to 18.0.5 ~ 2024-01-15|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jan 15 20:02:19 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 305 - Dia critique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 15 12:02:10 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.11.0|[nodejs.org](https://nodejs.org)|Wed Jan 10 16:02:06 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:02:33 UTC 2023|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.10|[nilesoft.org](https://nilesoft.org/)|Sat Dec 02 20:03:04 UTC 2023|
