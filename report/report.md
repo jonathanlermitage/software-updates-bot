@@ -24,7 +24,7 @@
 |![logo](../media/logo/intel.png) Intel IGP Graphics Drivers|101.3790|[www.techpowerup.com](https://www.techpowerup.com/download/intel-integrated-graphics-drivers/)|Thu Oct 27 08:02:45 UTC 2022|
 |![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.1.0 to 18.1.5 ~ 2024-02-28|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Feb 29 00:04:25 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 306 - Alors tu squash ou tu pointes?|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Feb 13 12:02:10 UTC 2024|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 307 - Interview sur la passion, la créativité et le fun sur le long terme avec Holly Cummins et Mark Jane|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 04 12:06:57 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
