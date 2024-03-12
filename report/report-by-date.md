@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.1.5 to 18.2.0 ~ 2024-03-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Mar 12 00:04:36 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|21.7.1|[nodejs.org](https://nodejs.org)|Sat Mar 09 00:03:59 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.1|[golang.org](https://golang.org/dl/)|Tue Mar 05 20:02:48 UTC 2024|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/python.png) Python 3 source| 3.12.2|[www.python.org](https://www.python.org/downloads/source/)|Wed Feb 07 04:02:02 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Feb 07 00:04:22 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.6|[gradle.org](https://gradle.org/releases/)|Sat Feb 03 00:03:42 UTC 2024|
-|![logo](../media/logo/gpg4win.png) GPG4Win|4.3.0 (2024-01-25)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Jan 26 08:02:26 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Jan 23 12:02:12 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.2+13|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Sat Jan 20 16:02:39 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sat Jan 20 00:04:16 UTC 2024|
