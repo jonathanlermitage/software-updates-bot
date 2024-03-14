@@ -1,9 +1,8 @@
 FAILED
 
-<pre>checker class biz.lermitage.sub.service.checker.impl.Python3MacosChecker failed, ignoring
-java.util.NoSuchElementException: No value present
-	at java.base/java.util.Optional.get(Optional.java:143)
-	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
+<pre>checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
+java.lang.NullPointerException
+	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
@@ -33,10 +32,9 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:53)
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
-checker class biz.lermitage.sub.service.checker.impl.Python3SrcChecker failed, ignoring
-java.util.NoSuchElementException: No value present
-	at java.base/java.util.Optional.get(Optional.java:143)
-	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
+checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
+java.lang.NullPointerException
+	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
@@ -99,9 +97,10 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:53)
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
-checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelWiFiDriversChecker failed, ignoring
-java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
+checker class biz.lermitage.sub.service.checker.impl.Python3MacosChecker failed, ignoring
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
@@ -131,9 +130,10 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:53)
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
-checker class biz.lermitage.sub.service.checker.impl.TechPowerUpIntelGraphicsDriversChecker failed, ignoring
-java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
+checker class biz.lermitage.sub.service.checker.impl.Python3SrcChecker failed, ignoring
+java.util.NoSuchElementException: No value present
+	at java.base/java.util.Optional.get(Optional.java:143)
+	at biz.lermitage.sub.service.checker.impl.PythonChecker.check(PythonChecker.kt:32)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
