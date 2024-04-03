@@ -17,7 +17,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sat Jan 20 00:04:16 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 19 20:02:09 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
-|![logo](../media/logo/go.png) Go|go1.22.1|[golang.org](https://golang.org/dl/)|Tue Mar 05 20:02:48 UTC 2024|
+|![logo](../media/logo/go.png) Go|go1.22.2|[golang.org](https://golang.org/dl/)|Wed Apr 03 16:02:20 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.7|[gradle.org](https://gradle.org/releases/)|Sun Mar 24 08:02:26 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
 |![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
@@ -40,8 +40,8 @@
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-13|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Mar 12 16:02:52 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|21.7.1|[nodejs.org](https://nodejs.org)|Sat Mar 09 00:03:59 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|20.12.0|[nodejs.org](https://nodejs.org)|Tue Mar 26 20:02:13 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS Current|21.7.2|[nodejs.org](https://nodejs.org)|Wed Apr 03 16:02:31 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.12.1|[nodejs.org](https://nodejs.org)|Wed Apr 03 16:02:45 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:02:12 UTC 2024|

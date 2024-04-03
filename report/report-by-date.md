@@ -1,14 +1,14 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.12.1|[nodejs.org](https://nodejs.org)|Wed Apr 03 16:02:45 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS Current|21.7.2|[nodejs.org](https://nodejs.org)|Wed Apr 03 16:02:31 UTC 2024|
+|![logo](../media/logo/go.png) Go|go1.22.2|[golang.org](https://golang.org/dl/)|Wed Apr 03 16:02:20 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.2.0 to 18.2.6 ~ 2024-04-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Apr 01 16:02:55 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|20.12.0|[nodejs.org](https://nodejs.org)|Tue Mar 26 20:02:13 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.7|[gradle.org](https://gradle.org/releases/)|Sun Mar 24 08:02:26 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.2.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 21 16:02:43 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 308 - Après c'est avant|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Mar 19 12:03:32 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-13|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Mar 12 16:02:52 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|21.7.1|[nodejs.org](https://nodejs.org)|Sat Mar 09 00:03:59 UTC 2024|
-|![logo](../media/logo/go.png) Go|go1.22.1|[golang.org](https://golang.org/dl/)|Tue Mar 05 20:02:48 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 09 12:02:12 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:03:53 UTC 2024|
