@@ -2,19 +2,19 @@ import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-val detektVersion = "1.23.4" // IMPORTANT don't forget to update plugin version too
+val detektVersion = "1.23.6" // IMPORTANT don't forget to update plugin version too
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "1.9.22"
+    val kotlinVersion = "1.9.23"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.2.2"
+    id("org.springframework.boot") version "3.2.4"
     id("io.spring.dependency-management") version "1.1.4"
     id("com.github.ben-manes.versions") version "0.51.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
-    id("io.gitlab.arturbosch.detekt") version "1.23.4" // IMPORTANT set it to detektVersion's value
+    id("io.gitlab.arturbosch.detekt") version "1.23.6" // IMPORTANT set it to detektVersion's value
     id("biz.lermitage.oga") version "1.1.1"
 }
 
@@ -34,7 +34,7 @@ dependencies {
     implementation("com.google.code.gson:gson:2.10.1")
     implementation("com.jayway.jsonpath:json-path:2.9.0")
     implementation("org.jsoup:jsoup:1.17.2") // https://jsoup.org/news/
-    implementation("commons-io:commons-io:2.15.1")
+    implementation("commons-io:commons-io:2.16.0")
     implementation("org.apache.commons:commons-lang3:3.14.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
     implementation("org.springframework.boot:spring-boot-starter-aop")
