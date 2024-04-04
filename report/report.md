@@ -20,8 +20,6 @@
 |![logo](../media/logo/go.png) Go|go1.22.2|[golang.org](https://golang.org/dl/)|Wed Apr 03 16:02:20 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.7|[gradle.org](https://gradle.org/releases/)|Sun Mar 24 08:02:26 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
-|![logo](../media/logo/intel.png) Intel Bluetooth Drivers|22.220.1|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-bluetooth-drivers/)|Tue May 09 16:02:48 UTC 2023|
-|![logo](../media/logo/intel.png) Intel Wi-Fi Networking Drivers|22.230.0|[www.techpowerup.com](https://www.techpowerup.com/download/intel-wireless-networking-wifi-adapter-drivers/)|Fri Jun 23 20:02:21 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.2.0 to 18.2.6 ~ 2024-04-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Apr 01 16:02:55 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 309 - React a 10 ans|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Apr 04 12:02:48 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
