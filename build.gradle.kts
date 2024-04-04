@@ -56,7 +56,7 @@ detekt {
 configurations.matching { it.name == "detekt" }.all {
     resolutionStrategy.eachDependency {
         if (requested.group == "org.jetbrains.kotlin") {
-            useVersion("1.9.21") // IMPORTANT update if failed with "detekt was compiled with Kotlin XX but is currently running with YY"
+            useVersion("1.9.23") // IMPORTANT update if failed with "detekt was compiled with Kotlin XX but is currently running with YY"
         }
     }
 }
