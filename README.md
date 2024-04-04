@@ -13,7 +13,6 @@ This bot currently monitors updates for:
 * GPG4Win
 * Gradle
 * Inkscape
-* Wi-Fi and Bluetooth drivers for Windows
 * K-Lite Codec Pack Basic
 * Les Cast Codeurs (a great French podcast)
 * MariaDB
