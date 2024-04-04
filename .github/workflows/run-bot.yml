@@ -20,7 +20,7 @@ jobs:
       - name: Setup Gradle
         uses: gradle/gradle-build-action@v2
       - name: Build app
-        run: ./gradlew clean bootJar
+        run: ./gradlew clean bootJar detekt
       - name: Run app
         run: java -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -Dfile.encoding=UTF-8 -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
       - name: Commit and push changes
