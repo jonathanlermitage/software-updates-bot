@@ -67,7 +67,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
 checker class biz.lermitage.sub.service.checker.impl.NilesoftShellChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 502 for URL: https://nilesoft.org/download/changes
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://nilesoft.org/download/changes
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)

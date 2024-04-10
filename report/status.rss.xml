@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Wed, 10 Apr 2024 16:03:04 GMT</pubDate>
+    <pubDate>Wed, 10 Apr 2024 20:03:33 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2024-04-10T16:03:04Z</dc:date>
+    <dc:date>2024-04-10T20:03:33Z</dc:date>
     <item>
-      <title>FAILED -- Wed Apr 10 16:03:04 UTC 2024</title>
+      <title>FAILED -- Wed Apr 10 20:03:33 UTC 2024</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.Python3MacosChecker failed, ignoring
@@ -78,7 +78,7 @@ java.util.NoSuchElementException: No value present
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
 checker class biz.lermitage.sub.service.checker.impl.NilesoftShellChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 502 for URL: https://nilesoft.org/download/changes
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://nilesoft.org/download/changes
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2000)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
@@ -135,9 +135,9 @@ java.io.IOException: Server returned HTTP response code: 502 for URL: https://ni
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
 &lt;/pre&gt;</description>
-      <pubDate>Wed, 10 Apr 2024 16:03:04 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 20:03:33 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2024-04-10T16:03:04Z</dc:date>
+      <dc:date>2024-04-10T20:03:33Z</dc:date>
     </item>
   </channel>
 </rss>
