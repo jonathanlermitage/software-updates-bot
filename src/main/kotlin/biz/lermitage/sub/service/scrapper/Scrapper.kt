@@ -5,10 +5,10 @@ import org.jsoup.nodes.Element
 interface Scrapper {
 
     /**
-     * Fetch remote content as HTML element. Javascript code is executed and element updated.
+     * Fetch remote content as HTML element. Javascript code is executed if wanted and element updated.
      * Suits for HTML scrapping.
      */
-    fun fetchHtml(url: String): Element
+    fun fetchHtml(url: String, executeJS: Boolean = false): Element
 
     /**
      * Get remote content as text. Javascript code is not executed.

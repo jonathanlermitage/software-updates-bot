@@ -1,5 +1,6 @@
 package biz.lermitage.sub.service.scrapper.impl
 
+import biz.lermitage.sub.Globals
 import biz.lermitage.sub.service.scrapper.Scrapper
 import org.apache.commons.io.IOUtils
 import org.jsoup.Jsoup
@@ -23,22 +24,27 @@ class ScrapperImpl : Scrapper {
 
     @Throws(IOException::class)
     @Retryable(maxAttempts = 3, backoff = Backoff(value = 10_000), include = [IOException::class])
-    override fun fetchHtml(url: String): Element {
+    override fun fetchHtml(url: String, executeJS: Boolean): Element {
         if (fetchFinalCache.containsKey(url)) {
             logger.info("[ * ] reading from Element cache $url")
             return fetchFinalCache[url]!!
         }
         Thread.sleep(1000)
         logger.info("[*  ] fetching $url")
-        /*val res = Jsoup.connect(url)
-            .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
-            .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
-            .userAgent(Globals.SCRAPPER_USER_AGENT)
-            .execute().parse().body()*/
-        val text = downloadAsText(url)
-        val res = Jsoup.parse(text, url)
-        fetchFinalCache[url] = res
-        return res
+        if (executeJS) {
+            val res = Jsoup.connect(url)
+                .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
+                .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
+                .userAgent(Globals.SCRAPPER_USER_AGENT)
+                .execute().parse().body()
+            fetchFinalCache[url] = res
+            return res
+        } else {
+            val text = downloadAsText(url)
+            val res = Jsoup.parse(text, url)
+            fetchFinalCache[url] = res
+            return res
+        }
     }
 
     @Throws(IOException::class)
@@ -50,11 +56,6 @@ class ScrapperImpl : Scrapper {
         }
         Thread.sleep(1000)
         logger.info("[*  ] fetching $url")
-        /*val resold = Jsoup.connect(url)
-            .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
-            .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
-            .userAgent(Globals.SCRAPPER_USER_AGENT)
-            .get().text()*/
         val res = downloadAsText(url)
         fetchSimpleTextCache[url] = res
         return res

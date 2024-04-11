@@ -23,7 +23,7 @@ abstract class PythonChecker(
     lateinit var scrapper: Scrapper
 
     override fun check(): SoftwareUpdate {
-        val body = scrapper.fetchHtml("https://www.python.org/downloads/$platformId/")
+        val body = scrapper.fetchHtml("https://www.python.org/downloads/$platformId/", executeJS = true)
         val versionPrefix = "latest python $majorVersion release - python"
         val version = body.getElementsByAttributeValueStarting("href", "/downloads")
             .stream()
