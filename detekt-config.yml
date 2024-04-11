@@ -76,3 +76,5 @@ style:
     excludePackageStatements: true
     excludeImportStatements: true
     excludeCommentStatements: false
+  ReturnCount:
+    active: false
