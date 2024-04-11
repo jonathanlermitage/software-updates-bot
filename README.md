@@ -8,7 +8,7 @@
 
 This bot currently monitors updates for:
 * 7+ Taskbar Tweaker
-* Adoptium (previously AdoptOpenJDK): every LTS and the latest version
+* Adoptium (previously AdoptOpenJDK): every LTS version
 * Golang SDK
 * GPG4Win
 * Gradle
