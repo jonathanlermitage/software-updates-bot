@@ -11,7 +11,7 @@ java.io.IOException: Server returned HTTP response code: 503 for URL: https://ni
 	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3310)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.downloadAsText(ScrapperImpl.kt:65)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:43)
-	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
 	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351)
