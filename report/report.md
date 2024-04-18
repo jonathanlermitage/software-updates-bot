@@ -4,9 +4,9 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 18 16:02:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Tue Jan 23 12:02:12 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 18 20:02:40 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 18 16:02:24 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 17 16:02:36 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 18 16:02:55 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:03 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:01:55 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:19 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk20 linux x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Jul 21 20:02:21 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Jul 21 20:02:41 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Mon Jul 24 08:02:06 UTC 2023|

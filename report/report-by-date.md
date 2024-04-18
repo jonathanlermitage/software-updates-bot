@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:19 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:03 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:01:55 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.3|[www.python.org](https://www.python.org/downloads/windows/)|Thu Apr 11 14:44:31 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Apr 11 14:43:50 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.12.2|[nodejs.org](https://nodejs.org)|Wed Apr 10 20:03:33 UTC 2024|
@@ -28,11 +31,8 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u402-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 19 20:02:09 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.2+13|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jan 18 20:02:47 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 18 20:02:40 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 18 16:02:55 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.22+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 18 16:02:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.2+13|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jan 18 16:02:54 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 18 16:02:24 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.10+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jan 17 16:02:36 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:02:33 UTC 2023|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
