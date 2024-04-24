@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|22.0.0|[nodejs.org](https://nodejs.org)|Wed Apr 24 20:02:18 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 310 - Les Cast Codeurs à Devoxx France 2024 - sous-titre édition|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Apr 24 12:02:17 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Apr 20 04:02:19 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Apr 19 20:02:10 UTC 2024|
@@ -18,7 +19,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Apr 11 14:43:50 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.12.2|[nodejs.org](https://nodejs.org)|Wed Apr 10 20:03:33 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.2.6 to 18.3.0 ~ 2024-04-10|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Apr 10 20:03:23 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|21.7.3|[nodejs.org](https://nodejs.org)|Wed Apr 10 20:02:58 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.2|[golang.org](https://golang.org/dl/)|Wed Apr 03 16:02:20 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.7|[gradle.org](https://gradle.org/releases/)|Sun Mar 24 08:02:26 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-13|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Mar 12 16:02:52 UTC 2024|
