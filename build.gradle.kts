@@ -10,8 +10,8 @@ plugins {
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.2.4"
-    id("io.spring.dependency-management") version "1.1.4"
+    id("org.springframework.boot") version "3.2.5"
+    id("io.spring.dependency-management") version "1.1.5"
     id("com.github.ben-manes.versions") version "0.51.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
     id("io.gitlab.arturbosch.detekt") version "1.23.6" // IMPORTANT set it to detektVersion's value
@@ -34,7 +34,7 @@ dependencies {
     implementation("com.google.code.gson:gson:2.10.1")
     implementation("com.jayway.jsonpath:json-path:2.9.0")
     implementation("org.jsoup:jsoup:1.17.2") // https://jsoup.org/news/
-    implementation("commons-io:commons-io:2.16.0")
+    implementation("commons-io:commons-io:2.16.1")
     implementation("org.apache.commons:commons-lang3:3.14.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
     implementation("org.springframework.boot:spring-boot-starter-aop")
