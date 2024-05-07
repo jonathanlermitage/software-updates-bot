@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.22.3|[golang.org](https://golang.org/dl/)|Tue May 07 20:01:54 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.13.0|[nodejs.org](https://nodejs.org)|Tue May 07 16:02:17 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|22.1.0|[nodejs.org](https://nodejs.org)|Thu May 02 16:02:21 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 311 - Tu changes ta licence et tu vends|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Apr 29 08:02:16 UTC 2024|
@@ -19,7 +20,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.3|[www.python.org](https://www.python.org/downloads/windows/)|Thu Apr 11 14:44:31 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Apr 11 14:43:50 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.2.6 to 18.3.0 ~ 2024-04-10|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Apr 10 20:03:23 UTC 2024|
-|![logo](../media/logo/go.png) Go|go1.22.2|[golang.org](https://golang.org/dl/)|Wed Apr 03 16:02:20 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.7|[gradle.org](https://gradle.org/releases/)|Sun Mar 24 08:02:26 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-alpha-13|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Mar 12 16:02:52 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
