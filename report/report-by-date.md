@@ -1,7 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:29 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:19 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.13.1|[nodejs.org](https://nodejs.org)|Thu May 09 16:02:15 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.3|[golang.org](https://golang.org/dl/)|Tue May 07 20:01:54 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|20.13.0|[nodejs.org](https://nodejs.org)|Tue May 07 16:02:17 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|22.1.0|[nodejs.org](https://nodejs.org)|Thu May 02 16:02:21 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 311 - Tu changes ta licence et tu vends|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Apr 29 08:02:16 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Apr 20 04:02:19 UTC 2024|
@@ -25,10 +29,6 @@
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 09 12:02:12 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:03:53 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:03:36 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:02:12 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 08 16:02:12 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.17|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:02:31 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.33|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:02:22 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Thu Feb 08 12:02:13 UTC 2024|
