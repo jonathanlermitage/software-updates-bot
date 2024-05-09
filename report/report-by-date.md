@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:29 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:19 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.13.1|[nodejs.org](https://nodejs.org)|Thu May 09 16:02:15 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.3|[golang.org](https://golang.org/dl/)|Tue May 07 20:01:54 UTC 2024|
