@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 312 - Dans la ferme de Mathurin IA IA IO !|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 21 16:02:21 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:46 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:39 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:14 UTC 2024|
@@ -11,7 +12,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:19 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.13.1|[nodejs.org](https://nodejs.org)|Thu May 09 16:02:15 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.3|[golang.org](https://golang.org/dl/)|Tue May 07 20:01:54 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 311 - Tu changes ta licence et tu vends|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Apr 29 08:02:16 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Apr 20 04:02:19 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Apr 19 20:02:10 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Apr 19 16:01:46 UTC 2024|
