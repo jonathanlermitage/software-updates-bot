@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|3.2.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 23 12:02:10 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 312 - Dans la ferme de Mathurin IA IA IO !|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 21 16:02:21 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:46 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:39 UTC 2024|
@@ -18,7 +19,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Apr 19 00:04:51 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 18 20:02:37 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Apr 18 20:02:31 UTC 2024|
-|![logo](../media/logo/springboot.png) Spring Boot|3.2.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 18 20:02:28 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Apr 18 20:02:15 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Apr 18 20:02:05 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 18 20:02:04 UTC 2024|
