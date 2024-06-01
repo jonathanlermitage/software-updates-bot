@@ -20,7 +20,7 @@
 |![logo](../media/logo/go.png) Go|go1.22.3|[golang.org](https://golang.org/dl/)|Tue May 07 20:01:54 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.8|[gradle.org](https://gradle.org/releases/)|Sat Jun 01 00:04:11 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.2.6 to 18.3.0 ~ 2024-04-10|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Apr 10 20:03:23 UTC 2024|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.3.0 to 18.3.5 ~ 2024-06-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Jun 01 16:02:32 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 312 - Dans la ferme de Mathurin IA IA IO !|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 21 16:02:21 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
