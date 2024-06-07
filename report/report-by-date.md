@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.12.4|[www.python.org](https://www.python.org/downloads/windows/)|Fri Jun 07 04:02:37 UTC 2024|
+|![logo](../media/logo/python.png) Python 3 mac| 3.12.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Jun 07 04:02:32 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.4|[golang.org](https://golang.org/dl/)|Tue Jun 04 20:02:24 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.3.0 to 18.3.5 ~ 2024-06-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Jun 01 16:02:32 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.8|[gradle.org](https://gradle.org/releases/)|Sat Jun 01 00:04:11 UTC 2024|
@@ -28,8 +30,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:19 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:03 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:01:55 UTC 2024|
-|![logo](../media/logo/python.png) Python 3 windows| 3.12.3|[www.python.org](https://www.python.org/downloads/windows/)|Thu Apr 11 14:44:31 UTC 2024|
-|![logo](../media/logo/python.png) Python 3 mac| 3.12.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Apr 11 14:43:50 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
 |![logo](../media/logo/vcredist.png) Visual C++ Redistributable Runtimes All-in-One|Feb 2024|[www.techpowerup.com](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)|Fri Feb 09 12:02:12 UTC 2024|
