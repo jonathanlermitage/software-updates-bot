@@ -20,7 +20,7 @@
 |![logo](../media/logo/go.png) Go|go1.22.4|[golang.org](https://golang.org/dl/)|Tue Jun 04 20:02:24 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.8|[gradle.org](https://gradle.org/releases/)|Sat Jun 01 00:04:11 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.3.0 to 18.3.5 ~ 2024-06-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Jun 01 16:02:32 UTC 2024|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.3.5 to 18.4.0 ~ 2024-06-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jun 11 20:02:12 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 312 - Dans la ferme de Mathurin IA IA IO !|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 21 16:02:21 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
@@ -37,7 +37,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:01:48 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|22.2.0|[nodejs.org](https://nodejs.org)|Wed May 15 20:02:16 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS Current|22.3.0|[nodejs.org](https://nodejs.org)|Tue Jun 11 20:01:52 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.14.0|[nodejs.org](https://nodejs.org)|Tue May 28 20:02:31 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|

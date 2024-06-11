@@ -1,10 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.3.5 to 18.4.0 ~ 2024-06-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jun 11 20:02:12 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS Current|22.3.0|[nodejs.org](https://nodejs.org)|Tue Jun 11 20:01:52 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.4|[www.python.org](https://www.python.org/downloads/windows/)|Fri Jun 07 04:02:37 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Jun 07 04:02:32 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.4|[golang.org](https://golang.org/dl/)|Tue Jun 04 20:02:24 UTC 2024|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.3.0 to 18.3.5 ~ 2024-06-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Jun 01 16:02:32 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.8|[gradle.org](https://gradle.org/releases/)|Sat Jun 01 00:04:11 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.14.0|[nodejs.org](https://nodejs.org)|Tue May 28 20:02:31 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:01:48 UTC 2024|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:39 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:14 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:01:56 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|22.2.0|[nodejs.org](https://nodejs.org)|Wed May 15 20:02:16 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:29 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
