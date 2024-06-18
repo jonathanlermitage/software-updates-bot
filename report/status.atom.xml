@@ -3,20 +3,20 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2024-06-18T16:02:55Z</modified>
+  <modified>2024-06-18T20:02:28Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2024-06-18T16:02:55Z</dc:date>
+  <dc:date>2024-06-18T20:02:28Z</dc:date>
   <entry>
-    <title>FAILED -- Tue Jun 18 16:02:55 UTC 2024</title>
+    <title>FAILED -- Tue Jun 18 20:02:28 UTC 2024</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2024-06-18T16:02:55Z</modified>
-    <issued>2024-06-18T16:02:55Z</issued>
+    <modified>2024-06-18T20:02:28Z</modified>
+    <issued>2024-06-18T20:02:28Z</issued>
     <summary type="text/html" mode="escaped">FAILED
 
-&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpThrottleStopChecker failed, ignoring
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpVCRedistChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
@@ -48,7 +48,7 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:53)
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
-checker class biz.lermitage.sub.service.checker.impl.TechPowerUpVCRedistChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.TechPowerUpThrottleStopChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
@@ -81,6 +81,6 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
 &lt;/pre&gt;</summary>
-    <dc:date>2024-06-18T16:02:55Z</dc:date>
+    <dc:date>2024-06-18T20:02:28Z</dc:date>
   </entry>
 </feed>
