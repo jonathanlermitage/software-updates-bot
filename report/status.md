@@ -1,6 +1,6 @@
 FAILED
 
-<pre>checker class biz.lermitage.sub.service.checker.impl.TechPowerUpVCRedistChecker failed, ignoring
+<pre>checker class biz.lermitage.sub.service.checker.impl.TechPowerUpThrottleStopChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
@@ -32,7 +32,7 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:53)
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
-checker class biz.lermitage.sub.service.checker.impl.TechPowerUpThrottleStopChecker failed, ignoring
+checker class biz.lermitage.sub.service.checker.impl.TechPowerUpVCRedistChecker failed, ignoring
 java.lang.NullPointerException
 	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
