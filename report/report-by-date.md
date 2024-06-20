@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.15.0|[nodejs.org](https://nodejs.org)|Thu Jun 20 17:23:58 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 20 15:26:15 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 313 - 313 CCL|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jun 15 12:02:45 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.3.5 to 18.4.0 ~ 2024-06-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jun 11 20:02:12 UTC 2024|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Jun 07 04:02:32 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.4|[golang.org](https://golang.org/dl/)|Tue Jun 04 20:02:24 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.8|[gradle.org](https://gradle.org/releases/)|Sat Jun 01 00:04:11 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|20.14.0|[nodejs.org](https://nodejs.org)|Tue May 28 20:02:31 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:01:48 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:46 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:39 UTC 2024|
