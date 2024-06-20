@@ -2,7 +2,7 @@ FAILED
 
 <pre>checker class biz.lermitage.sub.service.checker.impl.TechPowerUpThrottleStopChecker failed, ignoring
 java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
+	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:38)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
@@ -34,7 +34,7 @@ java.lang.NullPointerException
 
 checker class biz.lermitage.sub.service.checker.impl.TechPowerUpVCRedistChecker failed, ignoring
 java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
+	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:38)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)

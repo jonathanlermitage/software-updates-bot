@@ -4,16 +4,16 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Wed, 19 Jun 2024 16:03:07 GMT</pubDate>
+    <pubDate>Thu, 20 Jun 2024 18:51:53 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2024-06-19T16:03:07Z</dc:date>
+    <dc:date>2024-06-20T18:51:53Z</dc:date>
     <item>
-      <title>FAILED -- Wed Jun 19 16:03:07 UTC 2024</title>
+      <title>FAILED -- Thu Jun 20 18:51:53 UTC 2024</title>
       <description>FAILED
 
 &lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.TechPowerUpThrottleStopChecker failed, ignoring
 java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
+	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:38)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
@@ -45,7 +45,7 @@ java.lang.NullPointerException
 
 checker class biz.lermitage.sub.service.checker.impl.TechPowerUpVCRedistChecker failed, ignoring
 java.lang.NullPointerException
-	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:31)
+	at biz.lermitage.sub.service.checker.impl.TechPowerUpChecker.check(TechPowerUpChecker.kt:38)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:790)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:83)
@@ -76,9 +76,9 @@ java.lang.NullPointerException
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:58)
 
 &lt;/pre&gt;</description>
-      <pubDate>Wed, 19 Jun 2024 16:03:07 GMT</pubDate>
+      <pubDate>Thu, 20 Jun 2024 18:51:53 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2024-06-19T16:03:07Z</dc:date>
+      <dc:date>2024-06-20T18:51:53Z</dc:date>
     </item>
   </channel>
 </rss>
