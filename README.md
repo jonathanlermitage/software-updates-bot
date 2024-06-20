@@ -25,7 +25,8 @@ This bot currently monitors updates for:
 * VeraCrypt
 * VLC
 
-*Visual C++ Redistributable Runtimes All-in-One* and *ThrottleStop* have been removed as the www.techpowerup.com website displays a captcha when coming from a GitHub action. I have no solution for that (if I want to continue to use GitHub actions). Ideas or contributions are highly welcome and appreciated.
+> [!NOTE] 
+> June 2024: *Visual C++ Redistributable Runtimes All-in-One* and *ThrottleStop* have been removed as the www.techpowerup.com website displays a captcha when coming from a GitHub action. I have no solution for that (if I want to continue to use GitHub actions). Ideas or contributions are highly welcome and appreciated.
 
 Update checkers code is here: [source code](https://github.com/jonathanlermitage/software-updates-bot/tree/master/src/main/kotlin/biz/lermitage/sub/service/checker/impl). They are based on Jsoup scrapper, or simply by consumming JSON API.  
 Don't hesitate to submit new checkers. 
