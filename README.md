@@ -22,10 +22,10 @@ This bot currently monitors updates for:
 * PostgreSQL
 * Python 3
 * Spring Boot
-* ThrottleStop
 * VeraCrypt
-* Visual C++ Redistributable Runtimes All-in-One
 * VLC
+
+*Visual C++ Redistributable Runtimes All-in-One* and *ThrottleStop* have been removed as the www.techpowerup.com website displays a captcha when coming from a GitHub runner. I have no solution (at least, no time) for that. Ideas or contributions are highly welcome and appreciated.
 
 Update checkers code is here: [source code](https://github.com/jonathanlermitage/software-updates-bot/tree/master/src/main/kotlin/biz/lermitage/sub/service/checker/impl). They are based on Jsoup scrapper, or simply by consumming JSON API.  
 Don't hesitate to submit new checkers. 
