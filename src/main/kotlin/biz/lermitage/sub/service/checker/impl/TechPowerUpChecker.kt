@@ -21,7 +21,7 @@ abstract class TechPowerUpChecker(
     lateinit var scrapper: Scrapper
 
     override fun check(): SoftwareUpdate {
-        val body = scrapper.fetchHtml(url)
+        val body = scrapper.fetchHtml(url, executeJS = true)
         val titles = body.getElementsByTag("h3")
         val versionTitleFound = titles.toList()
             .find { element: Element ->
