@@ -5,6 +5,7 @@ import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
 import org.jsoup.nodes.Element
+import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
 
 /**
@@ -20,9 +21,15 @@ abstract class TechPowerUpChecker(
     @Autowired
     lateinit var scrapper: Scrapper
 
+    private val logger = LoggerFactory.getLogger(this.javaClass)
+
     override fun check(): SoftwareUpdate {
         val body = scrapper.fetchHtml(url, executeJS = true)
+
         val titles = body.getElementsByTag("h3")
+        logger.info("\n\n---\n\n")
+        logger.info(scrapper.fetchText(url))
+        logger.info("\n\n---\n\n")
         val versionTitleFound = titles.toList()
             .find { element: Element ->
                 element.className().contains("title")
