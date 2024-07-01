@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.0 to 18.4.5 ~ 2024-07-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 01 20:02:07 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.15.0|[nodejs.org](https://nodejs.org)|Thu Jun 20 17:23:58 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 20 15:26:15 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 313 - 313 CCL|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jun 15 12:02:45 UTC 2024|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.3.5 to 18.4.0 ~ 2024-06-11|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jun 11 20:02:12 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|22.3.0|[nodejs.org](https://nodejs.org)|Tue Jun 11 20:01:52 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.4|[www.python.org](https://www.python.org/downloads/windows/)|Fri Jun 07 04:02:37 UTC 2024|
