@@ -18,7 +18,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 18 20:02:37 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.5|[golang.org](https://golang.org/dl/)|Tue Jul 02 20:02:18 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.8|[gradle.org](https://gradle.org/releases/)|Sat Jun 01 00:04:11 UTC 2024|
+|![logo](../media/logo/gradle.png) Gradle|8.9|[gradle.org](https://gradle.org/releases/)|Thu Jul 11 20:02:25 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.0 to 18.4.5 ~ 2024-07-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 01 20:02:07 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 313 - 313 CCL|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Jun 15 12:02:45 UTC 2024|

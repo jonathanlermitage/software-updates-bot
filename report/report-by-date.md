@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.9|[gradle.org](https://gradle.org/releases/)|Thu Jul 11 20:02:25 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|22.4.1|[nodejs.org](https://nodejs.org)|Mon Jul 08 20:02:50 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.15.1|[nodejs.org](https://nodejs.org)|Mon Jul 08 20:02:22 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.5|[golang.org](https://golang.org/dl/)|Tue Jul 02 20:02:18 UTC 2024|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.4|[www.python.org](https://www.python.org/downloads/windows/)|Fri Jun 07 04:02:37 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Jun 07 04:02:32 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.8|[gradle.org](https://gradle.org/releases/)|Sat Jun 01 00:04:11 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:01:48 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:46 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:39 UTC 2024|
