@@ -4,13 +4,13 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Apr 18 20:02:31 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Apr 20 04:02:19 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Apr 19 00:04:51 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:03 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:01:55 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:02:16 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:02:30 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:19 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk20 linux x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Jul 21 20:02:21 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 mac x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Fri Jul 21 20:02:41 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Mon Jul 24 08:02:06 UTC 2023|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Apr 18 20:02:15 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Jul 17 16:01:52 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Apr 19 16:01:46 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Apr 18 20:02:05 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 18 20:02:04 UTC 2024|
@@ -37,7 +37,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:01:48 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|22.4.1|[nodejs.org](https://nodejs.org)|Mon Jul 08 20:02:50 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS Current|22.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 17 16:02:13 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.15.1|[nodejs.org](https://nodejs.org)|Mon Jul 08 20:02:22 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|

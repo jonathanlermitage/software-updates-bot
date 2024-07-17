@@ -1,8 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:02:30 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:02:16 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS Current|22.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 17 16:02:13 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Jul 17 16:01:52 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 314 - 1000 fois 1000 dépendances|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 16 12:02:16 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.9|[gradle.org](https://gradle.org/releases/)|Thu Jul 11 20:02:25 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|22.4.1|[nodejs.org](https://nodejs.org)|Mon Jul 08 20:02:50 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.15.1|[nodejs.org](https://nodejs.org)|Mon Jul 08 20:02:22 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.5|[golang.org](https://golang.org/dl/)|Tue Jul 02 20:02:18 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.0 to 18.4.5 ~ 2024-07-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 01 20:02:07 UTC 2024|
@@ -25,12 +28,9 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Apr 19 00:04:51 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 18 20:02:37 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.23+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Apr 18 20:02:31 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Apr 18 20:02:15 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Apr 18 20:02:05 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 18 20:02:04 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:19 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:02:03 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.11+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 18 16:01:55 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:02:33 UTC 2023|
