@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jul 19 12:02:17 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 00:04:37 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.5 to 18.4.8 ~ 2024-07-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 18 20:02:36 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 18 20:02:25 UTC 2024|
@@ -28,7 +29,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:19 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Apr 19 20:02:10 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Apr 19 16:01:46 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 18 20:02:37 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Apr 18 20:02:05 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
