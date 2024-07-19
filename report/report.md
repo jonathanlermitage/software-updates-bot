@@ -12,9 +12,9 @@
 |![logo](../media/logo/java.png) Adoptium jdk20 windows x64|jdk-20.0.2+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk20&jvmVariant=hotspot)|Mon Jul 24 08:02:06 UTC 2023|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Jul 17 16:01:52 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jul 19 12:02:17 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.3+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Apr 18 20:02:05 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jul 19 16:02:28 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 00:04:37 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Apr 19 20:02:10 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 16:02:05 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 18 20:02:37 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.22.5|[golang.org](https://golang.org/dl/)|Tue Jul 02 20:02:18 UTC 2024|
@@ -37,7 +37,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:01:48 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|22.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 17 16:02:13 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS Current|22.5.1|[nodejs.org](https://nodejs.org)|Fri Jul 19 16:02:14 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.15.1|[nodejs.org](https://nodejs.org)|Mon Jul 08 20:02:22 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
