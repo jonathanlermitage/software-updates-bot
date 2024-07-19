@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 20:02:39 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jul 19 16:02:28 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|22.5.1|[nodejs.org](https://nodejs.org)|Fri Jul 19 16:02:14 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 16:02:05 UTC 2024|
@@ -30,7 +31,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:19 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u412-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 18 20:02:37 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:02:33 UTC 2023|
