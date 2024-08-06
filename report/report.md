@@ -17,10 +17,10 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 25 20:02:21 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 20:02:39 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
-|![logo](../media/logo/go.png) Go|go1.22.5|[golang.org](https://golang.org/dl/)|Tue Jul 02 20:02:18 UTC 2024|
+|![logo](../media/logo/go.png) Go|go1.22.6|[golang.org](https://golang.org/dl/)|Tue Aug 06 20:02:00 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.9|[gradle.org](https://gradle.org/releases/)|Thu Jul 11 20:02:25 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.5 to 18.4.8 ~ 2024-07-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 18 20:02:36 UTC 2024|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.8 to 18.5.0 ~ 2024-08-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 06 20:02:32 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 314 - 1000 fois 1000 dépendances|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 16 12:02:16 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
@@ -37,7 +37,7 @@
 |![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:01:48 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|22.5.1|[nodejs.org](https://nodejs.org)|Fri Jul 19 16:02:14 UTC 2024|
+|![logo](../media/logo/nodejs.png) NodeJS Current|22.6.0|[nodejs.org](https://nodejs.org)|Tue Aug 06 20:01:50 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.16.0|[nodejs.org](https://nodejs.org)|Wed Jul 24 16:02:14 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
