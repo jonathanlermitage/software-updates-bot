@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:51 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:42 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:30 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:26 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 07 16:02:45 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.5|[www.python.org](https://www.python.org/downloads/windows/)|Wed Aug 07 16:02:35 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.8 to 18.5.0 ~ 2024-08-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 06 20:02:32 UTC 2024|
@@ -27,10 +31,6 @@
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.25|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:39 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.18|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:14 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:01:56 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:29 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:25 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 09 16:02:19 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/nilesoftshell.png) Nilesoft Shell|1.9.15|[nilesoft.org](https://nilesoft.org/)|Wed Feb 14 20:02:31 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.1 (December 13, 2023)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Wed Dec 13 04:02:33 UTC 2023|
