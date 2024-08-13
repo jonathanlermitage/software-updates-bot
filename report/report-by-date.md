@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.23.0|[golang.org](https://golang.org/dl/)|Tue Aug 13 20:01:51 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:51 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:42 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:30 UTC 2024|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 07 16:02:45 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.5|[www.python.org](https://www.python.org/downloads/windows/)|Wed Aug 07 16:02:35 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.8 to 18.5.0 ~ 2024-08-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 06 20:02:32 UTC 2024|
-|![logo](../media/logo/go.png) Go|go1.22.6|[golang.org](https://golang.org/dl/)|Tue Aug 06 20:02:00 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|22.6.0|[nodejs.org](https://nodejs.org)|Tue Aug 06 20:01:50 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 25 20:02:21 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.16.0|[nodejs.org](https://nodejs.org)|Wed Jul 24 16:02:14 UTC 2024|
