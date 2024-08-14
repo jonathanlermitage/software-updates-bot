@@ -18,7 +18,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 20:02:39 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.0|[golang.org](https://golang.org/dl/)|Tue Aug 13 20:01:51 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.9|[gradle.org](https://gradle.org/releases/)|Thu Jul 11 20:02:25 UTC 2024|
+|![logo](../media/logo/gradle.png) Gradle|8.10|[gradle.org](https://gradle.org/releases/)|Wed Aug 14 16:01:49 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.8 to 18.5.0 ~ 2024-08-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 06 20:02:32 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 314 - 1000 fois 1000 dépendances|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 16 12:02:16 UTC 2024|

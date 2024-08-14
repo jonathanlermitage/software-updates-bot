@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.10|[gradle.org](https://gradle.org/releases/)|Wed Aug 14 16:01:49 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.9|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:03:55 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:03:50 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:02:56 UTC 2024|
@@ -27,7 +28,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:02:16 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Jul 17 16:01:52 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 314 - 1000 fois 1000 dépendances|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 16 12:02:16 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.9|[gradle.org](https://gradle.org/releases/)|Thu Jul 11 20:02:25 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Sun May 26 16:01:48 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:46 UTC 2024|
