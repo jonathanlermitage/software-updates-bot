@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|22.7.0|[nodejs.org](https://nodejs.org)|Thu Aug 22 16:02:20 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.17.0|[nodejs.org](https://nodejs.org)|Wed Aug 21 20:01:52 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10|[gradle.org](https://gradle.org/releases/)|Wed Aug 14 16:01:49 UTC 2024|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 07 16:02:45 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.5|[www.python.org](https://www.python.org/downloads/windows/)|Wed Aug 07 16:02:35 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.8 to 18.5.0 ~ 2024-08-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 06 20:02:32 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|22.6.0|[nodejs.org](https://nodejs.org)|Tue Aug 06 20:01:50 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 25 20:02:21 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 20:02:39 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jul 19 16:02:28 UTC 2024|
