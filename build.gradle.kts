@@ -1,17 +1,17 @@
 import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
-import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
+import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 val detektVersion = "1.23.6" // IMPORTANT don't forget to update plugin version too
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "1.9.23"
+    val kotlinVersion = "2.0.20"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.3.1"
-    id("io.spring.dependency-management") version "1.1.5"
+    id("org.springframework.boot") version "3.3.3"
+    id("io.spring.dependency-management") version "1.1.6"
     id("com.github.ben-manes.versions") version "0.51.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
     id("io.gitlab.arturbosch.detekt") version "1.23.6" // IMPORTANT set it to detektVersion's value
@@ -30,19 +30,21 @@ repositories {
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
-    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("com.google.code.gson:gson:2.11.0")
     implementation("com.jayway.jsonpath:json-path:2.9.0")
-    implementation("org.jsoup:jsoup:1.17.2") // https://jsoup.org/news/
+    implementation("org.jsoup:jsoup:1.18.1") // https://jsoup.org/news/
     implementation("commons-io:commons-io:2.16.1")
-    implementation("org.apache.commons:commons-lang3:3.14.0")
+    implementation("org.apache.commons:commons-lang3:3.16.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
     implementation("org.springframework.boot:spring-boot-starter-aop")
-    implementation("org.springframework.retry:spring-retry:2.0.6")
+    implementation("org.springframework.retry:spring-retry:2.0.8")
+
     kapt("org.springframework.boot:spring-boot-configuration-processor")
-    testImplementation("org.springframework.boot:spring-boot-starter-test") {
-        exclude(group = "org.junit.vintage", module = "junit-vintage-engine")
-    }
+
+    testImplementation("org.springframework.boot:spring-boot-starter-test")
+    testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
+    testRuntimeOnly("org.junit.platform:junit-platform-launcher")
+
     detektPlugins("io.gitlab.arturbosch.detekt:detekt-formatting:$detektVersion")
 }
 
@@ -51,6 +53,21 @@ detekt {
     config.setFrom("./detekt-config.yml")
     buildUponDefaultConfig = true
     ignoreFailures = false
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(prjJavaVersion.toString())
+        vendor = JvmVendorSpec.ADOPTIUM
+    }
+}
+
+kotlin {
+    compilerOptions {
+        javaParameters = true
+        freeCompilerArgs.addAll("-Xjsr305=strict"/*, "-Xuse-k2"*/)
+        jvmTarget.set(JvmTarget.fromTarget(prjJavaVersion.toString()))
+    }
 }
 
 configurations.matching { it.name == "detekt" }.all {
@@ -64,13 +81,6 @@ configurations.matching { it.name == "detekt" }.all {
 tasks {
     withType<Test> {
         useJUnitPlatform()
-    }
-    withType<KotlinCompile> {
-        kotlinOptions {
-            javaParameters = true
-            freeCompilerArgs = listOf("-Xjsr305=strict"/*, "-Xuse-k2"*/)
-            jvmTarget = prjJavaVersion.toString()
-        }
     }
     withType<DependencyUpdatesTask> {
         checkForGradleUpdate = true
