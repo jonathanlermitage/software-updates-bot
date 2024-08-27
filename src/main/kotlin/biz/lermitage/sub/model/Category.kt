@@ -13,6 +13,7 @@ enum class Category(val label: String) {
     INKSCAPE("Inkscape"),
     JAVA("Java"),
     JDK("JDK"),
+    JETBRAINS("JetBrains"),
     LIBRARY("Library"),
     MARIADB("MariaDB"),
     MAVEN("Maven"),

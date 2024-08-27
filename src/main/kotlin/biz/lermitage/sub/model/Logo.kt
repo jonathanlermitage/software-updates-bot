@@ -9,6 +9,8 @@ enum class Logo(val img: String) {
     GRADLE("gradle.png"),
     INKSCAPE("inkscape.png"),
     INTEL("intel.png"),
+    INTELLIJ("ij.png"),
+    INTELLIJ_EAP("ijeap.png"),
     KLITE("klite.png"),
     MARIADB("mariadb.png"),
     MAVEN("maven.png"),
