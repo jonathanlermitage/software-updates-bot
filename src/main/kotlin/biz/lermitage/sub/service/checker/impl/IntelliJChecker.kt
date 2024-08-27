@@ -64,9 +64,11 @@ abstract class IntelliJChecker(private val isStable: Boolean) : Checker {
             return xPath.compile(xpathExpression).evaluate(xmlDocument, XPathConstants.STRING) as String
         }
 
-        val definitionsUrl = URL("https://www.jetbrains.com/updates/updates.xml") // IMPORTANT if not available, migrate to https://data.services.jetbrains.com/products?code=IC
+        // IMPORTANT if not available, migrate to https://data.services.jetbrains.com/products?code=IC
+        val definitionsUrl = URL("https://www.jetbrains.com/updates/updates.xml")
         val xpathExpression =
-            if (isStable) "/products/product[@name='IntelliJ IDEA']/channel[@id='IC-IU-RELEASE-licensing-RELEASE']/build[1]/@version" else "/products/product[@name='IntelliJ IDEA']/channel[@id='IC-IU-EAP-licensing-EAP']/build[1]/@fullNumber"
+            if (isStable) "/products/product[@name='IntelliJ IDEA']/channel[@id='IC-IU-RELEASE-licensing-RELEASE']/build[1]/@version"
+            else "/products/product[@name='IntelliJ IDEA']/channel[@id='IC-IU-EAP-licensing-EAP']/build[1]/@fullNumber"
         return getOnlineLatestIdeVersion(definitionsUrl, xpathExpression)
     }
 }
