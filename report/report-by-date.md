@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.0.2|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Aug 27 16:33:37 UTC 2024|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|242.20224.91|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Tue Aug 27 16:33:26 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.3.RELEASE|[start.spring.io](https://start.spring.io)|Fri Aug 23 00:04:37 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|22.7.0|[nodejs.org](https://nodejs.org)|Thu Aug 22 16:02:20 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.17.0|[nodejs.org](https://nodejs.org)|Wed Aug 21 20:01:52 UTC 2024|
