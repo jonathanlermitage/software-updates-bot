@@ -22,7 +22,7 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|242.20224.91|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Tue Aug 27 16:33:26 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Aug 29 20:02:30 UTC 2024|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.4.8 to 18.5.0 ~ 2024-08-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 06 20:02:32 UTC 2024|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.0 to 18.5.0 ~ 2024-09-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 02 16:04:02 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 314 - 1000 fois 1000 dépendances|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 16 12:02:16 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
