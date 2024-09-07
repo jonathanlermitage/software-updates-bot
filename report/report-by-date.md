@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.12.6|[www.python.org](https://www.python.org/downloads/windows/)|Sat Sep 07 04:02:43 UTC 2024|
+|![logo](../media/logo/python.png) Python 3 mac| 3.12.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sat Sep 07 04:02:07 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.1|[golang.org](https://golang.org/dl/)|Thu Sep 05 16:02:55 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|22.8.0|[nodejs.org](https://nodejs.org)|Tue Sep 03 16:02:26 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.0 to 18.5.0 ~ 2024-09-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 02 16:04:02 UTC 2024|
@@ -18,8 +20,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:42 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:30 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:26 UTC 2024|
-|![logo](../media/logo/python.png) Python 3 mac| 3.12.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 07 16:02:45 UTC 2024|
-|![logo](../media/logo/python.png) Python 3 windows| 3.12.5|[www.python.org](https://www.python.org/downloads/windows/)|Wed Aug 07 16:02:35 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 25 20:02:21 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 20:02:39 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jul 19 16:02:28 UTC 2024|
