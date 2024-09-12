@@ -20,7 +20,7 @@
 |![logo](../media/logo/go.png) Go|go1.23.1|[golang.org](https://golang.org/dl/)|Thu Sep 05 16:02:55 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.1|[gradle.org](https://gradle.org/releases/)|Mon Sep 09 16:02:52 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|242.20224.91|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Tue Aug 27 16:33:26 UTC 2024|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.12818.47|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 12 12:02:34 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Aug 29 20:02:30 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.0 to 18.5.0 ~ 2024-09-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 02 16:04:02 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 314 - 1000 fois 1000 dépendances|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 16 12:02:16 UTC 2024|

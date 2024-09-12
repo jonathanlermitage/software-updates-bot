@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.12818.47|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 12 12:02:34 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.1|[gradle.org](https://gradle.org/releases/)|Mon Sep 09 16:02:52 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.6|[www.python.org](https://www.python.org/downloads/windows/)|Sat Sep 07 04:02:43 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sat Sep 07 04:02:07 UTC 2024|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Sep 02 12:02:33 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Aug 29 20:02:30 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:04:32 UTC 2024|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|242.20224.91|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Tue Aug 27 16:33:26 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.3.RELEASE|[start.spring.io](https://start.spring.io)|Fri Aug 23 00:04:37 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.17.0|[nodejs.org](https://nodejs.org)|Wed Aug 21 20:01:52 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
