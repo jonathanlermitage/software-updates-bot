@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 315 - les températures ne sont pas déterministes|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 16 12:03:31 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.12818.47|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 12 12:02:34 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.1|[gradle.org](https://gradle.org/releases/)|Mon Sep 09 16:02:52 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.6|[www.python.org](https://www.python.org/downloads/windows/)|Sat Sep 07 04:02:43 UTC 2024|
@@ -32,7 +33,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:02:30 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 17 16:02:16 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Jul 17 16:01:52 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 314 - 1000 fois 1000 dépendances|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 16 12:02:16 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:46 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
