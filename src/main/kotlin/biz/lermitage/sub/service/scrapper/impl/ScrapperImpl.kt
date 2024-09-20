@@ -32,11 +32,13 @@ class ScrapperImpl : Scrapper {
         Thread.sleep(1000)
         logger.info("[*  ] fetching $url")
         if (executeJS) {
-            val res = Jsoup.connect(url)
+            val execute = Jsoup.connect(url)
                 .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
                 .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
                 .userAgent(Globals.SCRAPPER_USER_AGENT)
-                .execute().parse().body()
+                .execute()
+            //logger.info("final url is =${execute.url()}")
+            val res = execute.parse().body()
             fetchFinalCache[url] = res
             return res
         } else {

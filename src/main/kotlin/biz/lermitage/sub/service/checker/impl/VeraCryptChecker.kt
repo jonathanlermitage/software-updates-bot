@@ -18,9 +18,8 @@ class VeraCryptChecker : Checker {
     lateinit var scrapper: Scrapper
 
     override fun check(): SoftwareUpdate {
-        val body = scrapper.fetchHtml("https://www.veracrypt.fr/en/Downloads.html")
-        var version = body.getElementsByTag("h3")[0].text()
-        version = version.replace("Latest Stable Release:", "").trim()
+        val body = scrapper.fetchHtml("https://github.com/veracrypt/VeraCrypt/releases/latest", executeJS = true)
+        val version = body.getElementsByTag("h1")[3].text().replace("VeraCrypt version", "", ignoreCase = true).trim()
 
         return SoftwareUpdate(
             listOf(Category.VERACRYPT.label),
