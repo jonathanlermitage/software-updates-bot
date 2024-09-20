@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.15 (Windows Hotfix)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Sep 20 22:44:23 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.15521.24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 19 16:03:18 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 19 16:03:13 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.2|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Sep 19 00:04:39 UTC 2024|
@@ -11,7 +12,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sat Sep 07 04:02:07 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.1|[golang.org](https://golang.org/dl/)|Thu Sep 05 16:02:55 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Sep 02 12:02:33 UTC 2024|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|Latest Stable Release - 1.26.14 (Sunday August 25th, 2024)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Aug 28 00:04:32 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.17.0|[nodejs.org](https://nodejs.org)|Wed Aug 21 20:01:52 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.9|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:03:55 UTC 2024|
