@@ -7,7 +7,7 @@ import java.nio.charset.StandardCharsets
 
 object Globals {
 
-    const val SCRAPPER_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0"
+    const val SCRAPPER_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0"
     const val SCRAPPER_FOLLOW_REDIRECTS = true
     const val SCRAPPER_IGNORE_CONTENT_TYPE = true // prevent some 4xx errors
 
