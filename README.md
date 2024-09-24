@@ -20,7 +20,6 @@ This bot currently monitors updates for:
 * Les Cast Codeurs (a great French podcast)
 * MariaDB
 * Maven
-* Nilesoft Shell (a powerful context menu manager for MS Windows File Explorer)
 * NodeJS: LTS and current
 * PostgreSQL
 * Python 3

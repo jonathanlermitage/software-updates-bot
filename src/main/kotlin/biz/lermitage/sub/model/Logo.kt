@@ -14,16 +14,12 @@ enum class Logo(val img: String) {
     KLITE("klite.png"),
     MARIADB("mariadb.png"),
     MAVEN("maven.png"),
-    NILESOFTSHELL("nilesoftshell.png"),
     NODEJS("nodejs.png"),
     POSTGRESQL("postgresql.png"),
     PYTHON("python.png"),
-    RHEL("redhat.png"),
     SEVEN_TT("7tt.png"),
     SPRING_BOOT("springboot.png"),
-    THROTTLESTOP("throttlestop.png"),
     VERACRYPT("veracrypt.png"),
-    VC_REDIST("vcredist.png"),
     VLC("vlc.png"),
 
     NONE("")
