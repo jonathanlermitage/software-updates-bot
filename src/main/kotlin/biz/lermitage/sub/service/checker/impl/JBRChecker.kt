@@ -8,13 +8,15 @@ import biz.lermitage.sub.service.scrapper.Scrapper
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 
+// disabled for now
+
 /**
  * JetBrains JBR checker.
  */
-@Service
+//@Service
 class JBRChecker : Checker {
 
-    @Autowired
+    //@Autowired
     lateinit var scrapper: Scrapper
 
     override fun check(): SoftwareUpdate {
