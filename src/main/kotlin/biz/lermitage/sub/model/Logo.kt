@@ -11,6 +11,7 @@ enum class Logo(val img: String) {
     INTEL("intel.png"),
     INTELLIJ("ij.png"),
     INTELLIJ_EAP("ijeap.png"),
+    JBR("jbr.png"),
     KLITE("klite.png"),
     MARIADB("mariadb.png"),
     MAVEN("maven.png"),
