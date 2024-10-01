@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.23.2|[golang.org](https://golang.org/dl/)|Tue Oct 01 20:02:29 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.7|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 01 16:02:42 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 01 16:02:26 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.16718.32|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 26 20:02:08 UTC 2024|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS Current|22.9.0|[nodejs.org](https://nodejs.org)|Wed Sep 18 00:04:43 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.0 to 18.5.5 ~ 2024-09-02|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Sep 16 16:02:15 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 315 - les températures ne sont pas déterministes|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 16 12:03:31 UTC 2024|
-|![logo](../media/logo/go.png) Go|go1.23.1|[golang.org](https://golang.org/dl/)|Thu Sep 05 16:02:55 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Sep 02 12:02:33 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.17.0|[nodejs.org](https://nodejs.org)|Wed Aug 21 20:01:52 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
