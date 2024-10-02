@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.18137.10|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 02 16:02:00 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.2|[golang.org](https://golang.org/dl/)|Tue Oct 01 20:02:29 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.12.7|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 01 16:02:42 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.12.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 01 16:02:26 UTC 2024|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.16718.32|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 26 20:02:08 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 25 20:02:13 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:04:42 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.15 (Windows Hotfix)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Sep 20 22:44:23 UTC 2024|
