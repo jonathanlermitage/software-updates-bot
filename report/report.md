@@ -17,7 +17,7 @@
 |![logo](../media/logo/go.png) Go|go1.23.2|[golang.org](https://golang.org/dl/)|Tue Oct 01 20:02:29 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:04:42 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.3.2|[inkscape.org](https://inkscape.org)|Tue Nov 28 00:03:54 UTC 2023|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.18137.10|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 02 16:02:00 UTC 2024|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.19420.21|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 09 20:02:43 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 25 20:02:13 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.5 to 18.6.0 ~ 2024-10-05|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Oct 05 20:02:25 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 315 - les températures ne sont pas déterministes|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 16 12:03:31 UTC 2024|

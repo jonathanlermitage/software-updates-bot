@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.19420.21|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 09 20:02:43 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 07 20:02:33 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 07 20:02:17 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.5 to 18.6.0 ~ 2024-10-05|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Oct 05 20:02:25 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.0|[nodejs.org](https://nodejs.org)|Thu Oct 03 20:02:29 UTC 2024|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.18137.10|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 02 16:02:00 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.2|[golang.org](https://golang.org/dl/)|Tue Oct 01 20:02:29 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 25 20:02:13 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:04:42 UTC 2024|
