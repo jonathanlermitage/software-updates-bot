@@ -20,7 +20,7 @@
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.19420.21|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 09 20:02:43 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 25 20:02:13 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.5 to 18.6.0 ~ 2024-10-05|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Oct 05 20:02:25 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 315 - les températures ne sont pas déterministes|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 16 12:03:31 UTC 2024|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 316 - Devoxx Belgique 2024 - On rase gratis|[lescastcodeurs.com](https://lescastcodeurs.com)|Sun Oct 13 12:02:21 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
