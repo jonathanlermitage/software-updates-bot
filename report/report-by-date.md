@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 18 16:02:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Oct 18 12:02:44 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 18 12:02:35 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 18 00:05:27 UTC 2024|
@@ -32,7 +33,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 25 20:02:21 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 20:02:39 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.4+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jul 19 16:02:28 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 00:04:37 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.12+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 18 20:02:25 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:46 UTC 2024|
