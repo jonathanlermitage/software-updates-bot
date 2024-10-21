@@ -11,8 +11,8 @@
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.5+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 16 20:02:08 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.5+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Mon Oct 21 12:02:53 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 18 16:02:54 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u422-b05.1|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 25 20:02:21 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u422-b05|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jul 19 20:02:39 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:06 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:31 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.2|[golang.org](https://golang.org/dl/)|Tue Oct 01 20:02:29 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:04:42 UTC 2024|
@@ -20,7 +20,7 @@
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.20847.40|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Oct 21 12:03:28 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 25 20:02:13 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.5.5 to 18.6.0 ~ 2024-10-05|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Oct 05 20:02:25 UTC 2024|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 316 - Devoxx Belgique 2024 - On rase gratis|[lescastcodeurs.com](https://lescastcodeurs.com)|Sun Oct 13 12:02:21 UTC 2024|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 317 - les nouvelles paramétriques|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Oct 21 16:02:08 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
 |![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
 |![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
