@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.21155.17|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Oct 24 20:02:50 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 24 16:02:54 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.4|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Oct 23 16:02:05 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Oct 22 16:02:39 UTC 2024|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 317 - les nouvelles paramétriques|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Oct 21 16:02:08 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:06 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Oct 21 12:03:28 UTC 2024|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.20847.40|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Oct 21 12:03:28 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.5+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Mon Oct 21 12:02:53 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 18 16:02:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Oct 18 12:02:44 UTC 2024|
