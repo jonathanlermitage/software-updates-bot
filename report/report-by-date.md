@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|23.1.0|[nodejs.org](https://nodejs.org)|Fri Oct 25 00:05:17 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.21155.17|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Oct 24 20:02:50 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 24 16:02:54 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.4|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Oct 23 16:02:05 UTC 2024|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 17 16:02:45 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.5+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 16 20:02:35 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.5+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 16 20:02:08 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|23.0.0|[nodejs.org](https://nodejs.org)|Wed Oct 16 16:02:27 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 07 20:02:33 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 07 20:02:17 UTC 2024|
