@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:03:13 UTC 2024|
+|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:03:11 UTC 2024|
+|![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.10|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:03:09 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.21565.23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 30 16:02:44 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.0 to 18.6.5 ~ 2024-10-29|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Oct 29 20:02:14 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.1.0|[nodejs.org](https://nodejs.org)|Fri Oct 25 00:05:17 UTC 2024|
@@ -27,9 +30,6 @@
 |![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:04:42 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.15 (Windows Hotfix)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Sep 20 22:44:23 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.9|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:03:55 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.19|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:03:50 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.26|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Aug 14 12:02:56 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:51 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:42 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:30 UTC 2024|
