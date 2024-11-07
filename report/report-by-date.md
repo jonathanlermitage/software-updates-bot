@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.23.3|[golang.org](https://golang.org/dl/)|Thu Nov 07 00:05:17 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:03:13 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:03:11 UTC 2024|
 |![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.10|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:03:09 UTC 2024|
@@ -26,7 +27,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 07 20:02:33 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 07 20:02:17 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.0|[nodejs.org](https://nodejs.org)|Thu Oct 03 20:02:29 UTC 2024|
-|![logo](../media/logo/go.png) Go|go1.23.2|[golang.org](https://golang.org/dl/)|Tue Oct 01 20:02:29 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:04:42 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.15 (Windows Hotfix)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Sep 20 22:44:23 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
