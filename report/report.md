@@ -21,19 +21,6 @@
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.4|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Oct 23 16:02:05 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.0 to 18.6.5 ~ 2024-10-29|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Oct 29 20:02:14 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 318 - La faille sous la faille sous la faille|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Nov 08 16:02:42 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.0|10.0.38|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:25 UTC 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.10|10.10.7|[downloads.mariadb.org](https://downloads.mariadb.org)|Tue Nov 14 08:02:09 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.1|10.1.48|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed Nov 04 15:00:46 UTC 2020|
-|![logo](../media/logo/mariadb.png) MariaDB 10.11|10.11.10|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:03:09 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.2|10.2.44|[downloads.mariadb.org](https://downloads.mariadb.org)|Sat May 21 07:00:23 UTC 2022|
-|![logo](../media/logo/mariadb.png) MariaDB 10.3|10.3.39|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:03:09 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.4|10.4.34|[downloads.mariadb.org](https://downloads.mariadb.org)|Fri May 17 08:02:46 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.5|10.5.27|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:03:13 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.6|10.6.20|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Nov 04 12:03:11 UTC 2024|
-|![logo](../media/logo/mariadb.png) MariaDB 10.7|10.7.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Feb 06 20:12:26 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.8|10.8.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Wed May 10 16:02:33 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 10.9|10.9.8|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon Aug 14 20:02:24 UTC 2023|
-|![logo](../media/logo/mariadb.png) MariaDB 5.5|5.5.68|[downloads.mariadb.org](https://downloads.mariadb.org)|Mon May 25 17:35:31 UTC 2020|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Oct 22 16:02:39 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.1.0|[nodejs.org](https://nodejs.org)|Fri Oct 25 00:05:17 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.0|[nodejs.org](https://nodejs.org)|Thu Oct 03 20:02:29 UTC 2024|
@@ -43,6 +30,8 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:51 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:26 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:30 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.4|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 09 23:23:52 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 09 23:24:01 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
