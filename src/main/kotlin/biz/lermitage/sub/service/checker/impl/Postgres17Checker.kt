@@ -4,4 +4,4 @@ import biz.lermitage.sub.service.checker.Checker
 import org.springframework.stereotype.Service
 
 @Service
-class MariaDB55Checker : MariaDBChecker("5.5"), Checker
+class Postgres17Checker : PostgresChecker("17"), Checker

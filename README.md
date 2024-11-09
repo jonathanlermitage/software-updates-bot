@@ -18,7 +18,6 @@ This bot currently monitors updates for:
 * IntelliJ IDEA stable and EAP
 * K-Lite Codec Pack Basic
 * Les Cast Codeurs (a great French podcast)
-* MariaDB
 * Maven
 * NodeJS: LTS and current
 * PostgreSQL
