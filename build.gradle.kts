@@ -6,11 +6,11 @@ val detektVersion = "1.23.7" // IMPORTANT don't forget to update plugin version 
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "2.0.20"
+    val kotlinVersion = "2.0.21"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.3.4"
+    id("org.springframework.boot") version "3.3.5"
     id("io.spring.dependency-management") version "1.1.6"
     id("com.github.ben-manes.versions") version "0.51.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
@@ -37,7 +37,7 @@ dependencies {
     implementation("org.apache.commons:commons-lang3:3.17.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
     implementation("org.springframework.boot:spring-boot-starter-aop")
-    implementation("org.springframework.retry:spring-retry:2.0.9")
+    implementation("org.springframework.retry:spring-retry:2.0.10")
 
     kapt("org.springframework.boot:spring-boot-configuration-processor")
 
