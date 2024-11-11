@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.11|[gradle.org](https://gradle.org/releases/)|Mon Nov 11 16:02:28 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 09 23:24:01 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.4|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 09 23:23:52 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 318 - La faille sous la faille sous la faille|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Nov 08 16:02:42 UTC 2024|
@@ -26,7 +27,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 07 20:02:33 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 07 20:02:17 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.0|[nodejs.org](https://nodejs.org)|Thu Oct 03 20:02:29 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.10.2|[gradle.org](https://gradle.org/releases/)|Tue Sep 24 00:04:42 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.15 (Windows Hotfix)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Sep 20 22:44:23 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 08 16:02:51 UTC 2024|
