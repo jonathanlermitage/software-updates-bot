@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|23.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 12 00:05:05 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.11|[gradle.org](https://gradle.org/releases/)|Mon Nov 11 16:02:28 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.0|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 09 23:24:01 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.4|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 09 23:23:52 UTC 2024|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/go.png) Go|go1.23.3|[golang.org](https://golang.org/dl/)|Thu Nov 07 00:05:17 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.21565.23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 30 16:02:44 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.0 to 18.6.5 ~ 2024-10-29|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Oct 29 20:02:14 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|23.1.0|[nodejs.org](https://nodejs.org)|Fri Oct 25 00:05:17 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 24 16:02:54 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.2.4|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Oct 23 16:02:05 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-beta-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Oct 22 16:02:39 UTC 2024|
