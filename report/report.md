@@ -15,7 +15,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:31 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.3|[golang.org](https://golang.org/dl/)|Thu Nov 07 00:05:17 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.11|[gradle.org](https://gradle.org/releases/)|Mon Nov 11 16:02:28 UTC 2024|
+|![logo](../media/logo/gradle.png) Gradle|8.11.1|[gradle.org](https://gradle.org/releases/)|Wed Nov 20 20:02:19 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.21565.23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 30 16:02:44 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Nov 13 16:02:19 UTC 2024|
