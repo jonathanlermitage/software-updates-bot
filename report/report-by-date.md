@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|23.3.0|[nodejs.org](https://nodejs.org)|Thu Nov 21 00:05:08 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.11.1|[gradle.org](https://gradle.org/releases/)|Wed Nov 20 20:02:19 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.1|[nodejs.org](https://nodejs.org)|Wed Nov 20 16:02:35 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.1|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:02:45 UTC 2024|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:02:33 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:02:32 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Nov 13 16:02:19 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|23.2.0|[nodejs.org](https://nodejs.org)|Tue Nov 12 00:05:05 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 318 - La faille sous la faille sous la faille|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Nov 08 16:02:42 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.3|[golang.org](https://golang.org/dl/)|Thu Nov 07 00:05:17 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.21565.23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 30 16:02:44 UTC 2024|
