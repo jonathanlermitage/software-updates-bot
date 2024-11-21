@@ -26,17 +26,17 @@
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.1|[nodejs.org](https://nodejs.org)|Wed Nov 20 16:02:35 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
-|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:02:36 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:02:36 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:02:33 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:02:32 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:02:37 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.1|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 14 16:02:45 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:22 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:20 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:33 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 07 20:02:17 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.0|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 07 20:02:33 UTC 2024|
-|![logo](../media/logo/springboot.png) Spring Boot|3.3.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 24 16:02:54 UTC 2024|
+|![logo](../media/logo/springboot.png) Spring Boot|3.3.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 21 16:02:30 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.15 (Windows Hotfix)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Sep 20 22:44:23 UTC 2024|
