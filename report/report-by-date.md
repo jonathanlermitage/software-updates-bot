@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 16:02:05 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.5 to 18.7.0 ~ 2024-11-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Nov 26 20:02:20 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 21 20:02:16 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:33 UTC 2024|
@@ -34,7 +35,6 @@
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.15 (Windows Hotfix)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Sep 20 22:44:23 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
-|![logo](../media/logo/gpg4win.png) GPG4Win|4.3.1 (2024-03-11)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Mar 12 12:02:08 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
