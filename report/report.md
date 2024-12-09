@@ -18,7 +18,7 @@
 |![logo](../media/logo/gradle.png) Gradle|8.11.1|[gradle.org](https://gradle.org/releases/)|Wed Nov 20 20:02:19 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.21565.23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 30 16:02:44 UTC 2024|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Nov 13 16:02:19 UTC 2024|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Dec 09 16:02:32 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.5 to 18.7.0 ~ 2024-11-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Nov 26 20:02:20 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 318 - La faille sous la faille sous la faille|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Nov 08 16:02:42 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-1|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Nov 29 08:02:28 UTC 2024|
