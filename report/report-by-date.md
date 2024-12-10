@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|23.4.0|[nodejs.org](https://nodejs.org)|Tue Dec 10 16:02:25 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Dec 09 16:02:32 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 04 00:05:05 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Dec 04 00:05:03 UTC 2024|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:22 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:20 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|23.3.0|[nodejs.org](https://nodejs.org)|Thu Nov 21 00:05:08 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.11.1|[gradle.org](https://gradle.org/releases/)|Wed Nov 20 20:02:19 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.1|[nodejs.org](https://nodejs.org)|Wed Nov 20 16:02:35 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 318 - La faille sous la faille sous la faille|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Nov 08 16:02:42 UTC 2024|
