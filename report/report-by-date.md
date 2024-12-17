@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|4.0.0-rc-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 17 04:02:56 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 319 - le ramasse-miettes-charognes|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Dec 17 00:05:20 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.4.0|[nodejs.org](https://nodejs.org)|Tue Dec 10 16:02:25 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Dec 09 16:02:32 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 04 00:05:05 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Dec 04 00:05:03 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.4|[golang.org](https://golang.org/dl/)|Tue Dec 03 20:02:35 UTC 2024|
-|![logo](../media/logo/maven.png) Maven|4.0.0-rc-1|[maven.apache.org](https://maven.apache.org/download.cgi)|Fri Nov 29 08:02:28 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 16:02:05 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.6.5 to 18.7.0 ~ 2024-11-26|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Nov 26 20:02:20 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 21 20:02:16 UTC 2024|
