@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.1.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Dec 19 12:02:34 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.0 to 18.7.5 ~ 2024-12-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Dec 18 20:02:27 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 17 04:02:56 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 319 - le ramasse-miettes-charognes|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Dec 17 00:05:20 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.4.0|[nodejs.org](https://nodejs.org)|Tue Dec 10 16:02:25 UTC 2024|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Dec 09 16:02:32 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 04 00:05:05 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Dec 04 00:05:03 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.23.4|[golang.org](https://golang.org/dl/)|Tue Dec 03 20:02:35 UTC 2024|
