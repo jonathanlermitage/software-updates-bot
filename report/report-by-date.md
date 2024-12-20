@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.12|[gradle.org](https://gradle.org/releases/)|Fri Dec 20 20:02:11 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.5.0|[nodejs.org](https://nodejs.org)|Thu Dec 19 20:02:24 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 19 16:02:23 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.1.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Dec 19 12:02:34 UTC 2024|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:22 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:20 UTC 2024|
-|![logo](../media/logo/gradle.png) Gradle|8.11.1|[gradle.org](https://gradle.org/releases/)|Wed Nov 20 20:02:19 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.1|[nodejs.org](https://nodejs.org)|Wed Nov 20 16:02:35 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.21565.23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 30 16:02:44 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:31 UTC 2024|
