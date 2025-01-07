@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|23.6.0|[nodejs.org](https://nodejs.org)|Tue Jan 07 20:01:54 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 320 - Diataxis, la méthode de documentation|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Dec 21 12:02:19 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.12|[gradle.org](https://gradle.org/releases/)|Fri Dec 20 20:02:11 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS Current|23.5.0|[nodejs.org](https://nodejs.org)|Thu Dec 19 20:02:24 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 19 16:02:23 UTC 2024|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.1.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Dec 19 12:02:34 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.0 to 18.7.5 ~ 2024-12-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Dec 18 20:02:27 UTC 2024|
