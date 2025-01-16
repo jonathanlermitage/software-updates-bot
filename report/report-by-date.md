@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|251.14649.49|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jan 16 00:04:54 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.6.0|[nodejs.org](https://nodejs.org)|Tue Jan 07 20:01:54 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 320 - Diataxis, la méthode de documentation|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Dec 21 12:02:19 UTC 2024|
 |![logo](../media/logo/gradle.png) Gradle|8.12|[gradle.org](https://gradle.org/releases/)|Fri Dec 20 20:02:11 UTC 2024|
@@ -18,7 +19,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:22 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:20 UTC 2024|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.1|[nodejs.org](https://nodejs.org)|Wed Nov 20 16:02:35 UTC 2024|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|243.21565.23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 30 16:02:44 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:31 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:06 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Oct 21 12:03:28 UTC 2024|
