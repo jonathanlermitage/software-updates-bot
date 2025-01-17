@@ -14,11 +14,11 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:06 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:31 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 16:02:05 UTC 2024|
-|![logo](../media/logo/go.png) Go|go1.23.4|[golang.org](https://golang.org/dl/)|Tue Dec 03 20:02:35 UTC 2024|
+|![logo](../media/logo/go.png) Go|go1.23.5|[golang.org](https://golang.org/dl/)|Fri Jan 17 00:05:03 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.12|[gradle.org](https://gradle.org/releases/)|Fri Dec 20 20:02:11 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|251.14649.49|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jan 16 00:04:54 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.1.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Dec 19 12:02:34 UTC 2024|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.2|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Jan 17 00:04:59 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.0 to 18.7.5 ~ 2024-12-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Dec 18 20:02:27 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 320 - Diataxis, la méthode de documentation|[lescastcodeurs.com](https://lescastcodeurs.com)|Sat Dec 21 12:02:19 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 17 04:02:56 UTC 2024|
