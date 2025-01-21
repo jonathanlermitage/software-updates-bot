@@ -1,10 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.2|[nodejs.org](https://nodejs.org)|Tue Jan 21 20:01:50 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS Current|23.6.1|[nodejs.org](https://nodejs.org)|Tue Jan 21 20:01:47 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 321 - Les évènements écran large|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 20 12:02:26 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.23.5|[golang.org](https://golang.org/dl/)|Fri Jan 17 00:05:03 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.2|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Jan 17 00:04:59 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|251.14649.49|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jan 16 00:04:54 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS Current|23.6.0|[nodejs.org](https://nodejs.org)|Tue Jan 07 20:01:54 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.12|[gradle.org](https://gradle.org/releases/)|Fri Dec 20 20:02:11 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 19 16:02:23 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.0 to 18.7.5 ~ 2024-12-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Dec 18 20:02:27 UTC 2024|
@@ -18,7 +19,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:22 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:20 UTC 2024|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.1|[nodejs.org](https://nodejs.org)|Wed Nov 20 16:02:35 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:31 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:06 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Mon Oct 21 12:03:28 UTC 2024|
