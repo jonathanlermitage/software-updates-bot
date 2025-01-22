@@ -17,7 +17,7 @@
 |![logo](../media/logo/go.png) Go|go1.23.5|[golang.org](https://golang.org/dl/)|Fri Jan 17 00:05:03 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.12|[gradle.org](https://gradle.org/releases/)|Fri Dec 20 20:02:11 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|251.14649.49|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jan 16 00:04:54 UTC 2025|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|251.17181.16|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Jan 22 20:02:00 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.2|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Jan 17 00:04:59 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.0 to 18.7.5 ~ 2024-12-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Dec 18 20:02:27 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 321 - Les évènements écran large|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 20 12:02:26 UTC 2025|
@@ -39,4 +39,4 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 04 00:05:05 UTC 2024|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 19 16:02:23 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.15 (Windows Hotfix)|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Sep 20 22:44:23 UTC 2024|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.18|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Jan 22 20:02:13 UTC 2025|
