@@ -5,11 +5,11 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Oct 18 12:02:44 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 17 16:02:58 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 18 00:05:27 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 18 12:02:35 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 16:02:08 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 12:02:53 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.5+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 16 20:02:35 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.6+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jan 23 16:02:12 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.5+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 16 20:02:08 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.5+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Mon Oct 21 12:02:53 UTC 2024|
+|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.6+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jan 23 16:02:18 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 18 16:02:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:06 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:31 UTC 2024|
@@ -37,6 +37,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Dec 04 00:05:03 UTC 2024|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Dec 04 00:05:05 UTC 2024|
-|![logo](../media/logo/springboot.png) Spring Boot|3.4.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 19 16:02:23 UTC 2024|
+|![logo](../media/logo/springboot.png) Spring Boot|3.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 23 16:01:56 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.18|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Jan 22 20:02:13 UTC 2025|
