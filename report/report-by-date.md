@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u442-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 24 00:05:08 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.6+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jan 24 00:05:08 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u442-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 24 00:04:59 UTC 2025|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.2.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Jan 24 00:04:42 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.26+4|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 23 20:02:45 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u442-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jan 23 20:02:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.26+4|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 23 20:02:28 UTC 2025|
@@ -14,7 +18,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.6.1|[nodejs.org](https://nodejs.org)|Tue Jan 21 20:01:47 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 321 - Les évènements écran large|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 20 12:02:26 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.23.5|[golang.org](https://golang.org/dl/)|Fri Jan 17 00:05:03 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.2|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Jan 17 00:04:59 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.12|[gradle.org](https://gradle.org/releases/)|Fri Dec 20 20:02:11 UTC 2024|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.0 to 18.7.5 ~ 2024-12-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Dec 18 20:02:27 UTC 2024|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 17 04:02:56 UTC 2024|
@@ -27,11 +30,8 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:22 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:20 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Mon Oct 21 16:02:06 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u432-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Oct 18 16:02:54 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 18 00:05:27 UTC 2024|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 17 16:02:45 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.5+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Oct 16 20:02:08 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
