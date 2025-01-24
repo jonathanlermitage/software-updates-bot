@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.26+4|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 24 16:02:41 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jan 24 16:02:35 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.6+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jan 24 00:05:08 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u442-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 24 00:05:08 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u442-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 24 00:04:59 UTC 2025|
@@ -30,8 +32,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:22 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:20 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.13+11|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Oct 18 00:05:27 UTC 2024|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.25+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Oct 17 16:02:45 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
