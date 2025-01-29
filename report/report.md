@@ -18,7 +18,7 @@
 |![logo](../media/logo/gradle.png) Gradle|8.12.1|[gradle.org](https://gradle.org/releases/)|Fri Jan 24 20:02:15 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|251.17181.16|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Jan 22 20:02:00 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.2.1|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Jan 24 00:04:42 UTC 2025|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.2.2|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Jan 29 20:01:54 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.0 to 18.7.5 ~ 2024-12-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Dec 18 20:02:27 UTC 2024|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 321 - Les évènements écran large|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 20 12:02:26 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 17 04:02:56 UTC 2024|
