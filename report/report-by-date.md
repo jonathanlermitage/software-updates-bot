@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.20|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 16:02:46 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.2|[www.python.org](https://www.python.org/downloads/windows/)|Tue Feb 04 20:02:38 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Feb 04 20:02:37 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.23.6|[golang.org](https://golang.org/dl/)|Tue Feb 04 20:02:22 UTC 2025|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 16:02:08 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jan 23 16:01:56 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 12:02:53 UTC 2025|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.18|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Jan 22 20:02:13 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.2|[nodejs.org](https://nodejs.org)|Tue Jan 21 20:01:50 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 321 - Les évènements écran large|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jan 20 12:02:26 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.0 to 18.7.5 ~ 2024-12-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Dec 18 20:02:27 UTC 2024|
