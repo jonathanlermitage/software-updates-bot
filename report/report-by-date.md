@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|251.20015.29|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 07 08:02:18 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.20|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 16:02:46 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.2|[www.python.org](https://www.python.org/downloads/windows/)|Tue Feb 04 20:02:38 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Feb 04 20:02:37 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.23.6|[golang.org](https://golang.org/dl/)|Tue Feb 04 20:02:22 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.7.0|[nodejs.org](https://nodejs.org)|Thu Jan 30 20:02:17 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|251.18673.35|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jan 30 16:02:14 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.2.2|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Jan 29 20:01:54 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.12.1|[gradle.org](https://gradle.org/releases/)|Fri Jan 24 20:02:15 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.26+4|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 24 16:02:41 UTC 2025|
