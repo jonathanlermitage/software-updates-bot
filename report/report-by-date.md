@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Feb 12 20:02:26 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.0|[golang.org](https://golang.org/dl/)|Tue Feb 11 20:02:15 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.3|[nodejs.org](https://nodejs.org)|Mon Feb 10 16:02:38 UTC 2025|
@@ -26,12 +31,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 12:02:53 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 17 04:02:56 UTC 2024|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 16:02:05 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:33 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:22 UTC 2024|
-|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:20 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.2 (August 16, 2024)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Fri Aug 16 16:02:02 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
