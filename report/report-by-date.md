@@ -1,10 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS Current|23.8.0|[nodejs.org](https://nodejs.org)|Thu Feb 13 20:02:29 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Feb 12 20:02:26 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.0|[golang.org](https://golang.org/dl/)|Tue Feb 11 20:02:15 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.3|[nodejs.org](https://nodejs.org)|Mon Feb 10 16:02:38 UTC 2025|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.20|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 16:02:46 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.2|[www.python.org](https://www.python.org/downloads/windows/)|Tue Feb 04 20:02:38 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Feb 04 20:02:37 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS Current|23.7.0|[nodejs.org](https://nodejs.org)|Thu Jan 30 20:02:17 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.12.1|[gradle.org](https://gradle.org/releases/)|Fri Jan 24 20:02:15 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.26+4|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 24 16:02:41 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jan 24 16:02:35 UTC 2025|
