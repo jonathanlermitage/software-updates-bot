@@ -15,6 +15,8 @@ localapp:
     md-by-date: "report/report-by-date.md"
     rss: "report/report.rss.xml"
     atom: "report/report.atom.xml"
+    props: "report/report.properties"
+    uc: "report/uc.properties"
   statusfile:
     md: "report/status.md"
     rss: "report/status.rss.xml"

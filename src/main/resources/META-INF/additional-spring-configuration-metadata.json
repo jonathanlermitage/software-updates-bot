@@ -26,6 +26,16 @@
             "description": "Atom report file path."
         },
         {
+            "name": "localapp.reportfile.props",
+            "type": "java.lang.String",
+            "description": "Properties report file path."
+        },
+        {
+            "name": "localapp.reportfile.uc",
+            "type": "java.lang.String",
+            "description": "Update Center report file path."
+        },
+        {
             "name": "localapp.statusfile.md",
             "type": "java.lang.String",
             "description": "Markdown status file path."

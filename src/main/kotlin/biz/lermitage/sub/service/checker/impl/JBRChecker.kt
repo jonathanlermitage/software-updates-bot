@@ -5,8 +5,6 @@ import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
-import org.springframework.beans.factory.annotation.Autowired
-import org.springframework.stereotype.Service
 
 // disabled for now
 

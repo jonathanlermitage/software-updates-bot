@@ -27,6 +27,8 @@ class BaseTests {
             conf.reportFile.mdByDate,
             conf.reportFile.atom,
             conf.reportFile.rss,
+            conf.reportFile.props,
+            conf.reportFile.uc,
             conf.statusFile.md,
             conf.statusFile.atom,
             conf.statusFile.rss
