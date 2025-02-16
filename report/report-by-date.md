@@ -1,17 +1,17 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.20015.29) ~ 2025-02-07|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Sun Feb 16 20:37:56 UTC 2025|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.3 (243.24978.46) ~ 2025-02-12|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Sun Feb 16 20:37:56 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.8.0|[nodejs.org](https://nodejs.org)|Thu Feb 13 20:02:29 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.3|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Feb 12 20:02:26 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.0|[golang.org](https://golang.org/dl/)|Tue Feb 11 20:02:15 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.3|[nodejs.org](https://nodejs.org)|Mon Feb 10 16:02:38 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 322 - Maaaaveeeeen 4 !|[lescastcodeurs.com](https://lescastcodeurs.com)|Sun Feb 09 16:02:03 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.5 to 18.8.0 ~ 2025-02-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Feb 08 20:02:07 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|251.20015.29|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 07 08:02:18 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.20|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 16:02:46 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.2|[www.python.org](https://www.python.org/downloads/windows/)|Tue Feb 04 20:02:38 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Feb 04 20:02:37 UTC 2025|
