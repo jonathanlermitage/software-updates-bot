@@ -5,8 +5,10 @@
 * [JSON report](https://raw.githubusercontent.com/jonathanlermitage/software-updates-bot/master/report/report.json)
 * [Markdown report](report/report.md)
 * [Markdown report (ordered by date)](report/report-by-date.md)
+* [Properties report](report/report.properties)
 * [RSS feed](https://raw.githubusercontent.com/jonathanlermitage/software-updates-bot/master/report/report.rss.xml)
 * [Atom feed](https://raw.githubusercontent.com/jonathanlermitage/software-updates-bot/master/report/report.atom.xml)
+* [JetBrains IDEs versions](report/uc.properties)
 
 This bot currently monitors updates for:
 * 7+ Taskbar Tweaker
