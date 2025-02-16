@@ -40,8 +40,6 @@ class UCReporterImpl(private val conf: LocalAppConf) : Reporter {
 
         val platformTypes = listOf("IU", "IC", "RD", "PC", "WS", "PS", "CL", "GO", "RM", "DG", "RS", "QA")
 
-        lines.add("#${Date()}\n")
-
         platformTypes.forEach { platformType ->
             run {
                 val json = scrapper.fetchText(
