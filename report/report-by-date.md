@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.20015.29) ~ 2025-02-07|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Sun Feb 16 20:37:56 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.3 (243.24978.46) ~ 2025-02-12|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Sun Feb 16 20:37:56 UTC 2025|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.20015.29) ~ 2025-02-07|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Sun Feb 16 20:37:56 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.8.0|[nodejs.org](https://nodejs.org)|Thu Feb 13 20:02:29 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 13 16:02:42 UTC 2025|
