@@ -28,6 +28,7 @@ jobs:
           git add report/*.md
           git add report/*.json
           git add report/*.xml
+          git add report/*.properties
           if [ -z "$(git status --porcelain)" ]; then
             echo "no changes detected"
             exit 0
