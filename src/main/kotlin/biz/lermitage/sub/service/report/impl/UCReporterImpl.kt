@@ -51,7 +51,7 @@ class UCReporterImpl(private val conf: LocalAppConf) : Reporter {
 
                 var ga = releases.firstOrNull { release -> release.type == "release" }
                 if (ga == null) {
-                    ga = Releases(type = "eap", version = "", build = "", date = "")
+                    ga = Releases(type = "release", version = "", build = "", date = "")
                 }
                 var eap = releases.firstOrNull { release -> release.type == "eap" }
                 if (eap == null) {
