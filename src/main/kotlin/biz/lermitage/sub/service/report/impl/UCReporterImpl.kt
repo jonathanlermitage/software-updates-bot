@@ -13,7 +13,6 @@ import org.slf4j.LoggerFactory
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Service
 import java.io.File
-import java.util.Date
 
 @Service
 class UCReporterImpl(private val conf: LocalAppConf) : Reporter {
@@ -38,7 +37,7 @@ class UCReporterImpl(private val conf: LocalAppConf) : Reporter {
     private fun write(reportFile: File) {
         val lines = ArrayList<String>()
 
-        val platformTypes = listOf("IU", "IC", "RD", "PC", "WS", "PS", "CL", "GO", "RM", "DG", "RS", "QA")
+        val platformTypes = listOf("IU", "IC", "RD", "PC", "WS", "PS", "CL", "GO", "RM", "DG", "RS", "QA", "RR")
 
         platformTypes.forEach { platformType ->
             run {
