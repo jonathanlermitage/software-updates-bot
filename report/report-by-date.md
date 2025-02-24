@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.22821.72) ~ 2025-02-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Feb 24 08:02:18 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 20 20:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.21418.62) ~ 2025-02-18|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Tue Feb 18 12:02:38 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.3 (243.24978.46) ~ 2025-02-12|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Sun Feb 16 20:37:56 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.8.0|[nodejs.org](https://nodejs.org)|Thu Feb 13 20:02:29 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.0|[golang.org](https://golang.org/dl/)|Tue Feb 11 20:02:15 UTC 2025|
