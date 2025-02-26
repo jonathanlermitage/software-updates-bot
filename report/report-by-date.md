@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|23.9.0|[nodejs.org](https://nodejs.org)|Wed Feb 26 20:02:18 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.22821.72) ~ 2025-02-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Feb 24 08:02:18 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 20 20:02:34 UTC 2025|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.3 (243.24978.46) ~ 2025-02-12|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Sun Feb 16 20:37:56 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS Current|23.8.0|[nodejs.org](https://nodejs.org)|Thu Feb 13 20:02:29 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.0|[golang.org](https://golang.org/dl/)|Tue Feb 11 20:02:15 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.3|[nodejs.org](https://nodejs.org)|Mon Feb 10 16:02:38 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 322 - Maaaaveeeeen 4 !|[lescastcodeurs.com](https://lescastcodeurs.com)|Sun Feb 09 16:02:03 UTC 2025|
