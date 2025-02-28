@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23536.34) ~ 2025-02-27|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 28 00:05:01 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.9.0|[nodejs.org](https://nodejs.org)|Wed Feb 26 20:02:18 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.22821.72) ~ 2025-02-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Feb 24 08:02:18 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 20 20:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
