@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.24.1|[golang.org](https://golang.org/dl/)|Tue Mar 04 20:02:05 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.4 (243.25659.39) ~ 2025-02-27|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Feb 28 08:02:17 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23536.34) ~ 2025-02-27|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 28 00:05:01 UTC 2025|
@@ -11,7 +12,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
-|![logo](../media/logo/go.png) Go|go1.24.0|[golang.org](https://golang.org/dl/)|Tue Feb 11 20:02:15 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.18.3|[nodejs.org](https://nodejs.org)|Mon Feb 10 16:02:38 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 322 - Maaaaveeeeen 4 !|[lescastcodeurs.com](https://lescastcodeurs.com)|Sun Feb 09 16:02:03 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.5 to 18.8.0 ~ 2025-02-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Feb 08 20:02:07 UTC 2025|
