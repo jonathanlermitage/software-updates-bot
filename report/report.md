@@ -17,8 +17,8 @@
 |![logo](../media/logo/go.png) Go|go1.24.1|[golang.org](https://golang.org/dl/)|Tue Mar 04 20:02:05 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23536.34) ~ 2025-02-27|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 28 00:05:01 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.4 (243.25659.39) ~ 2025-02-27|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Feb 28 08:02:17 UTC 2025|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23774.16) ~ 2025-03-05|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Mar 05 20:02:17 UTC 2025|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.4.1 (243.25659.59) ~ 2025-03-05|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Mar 05 20:02:17 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.7.5 to 18.8.0 ~ 2025-02-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Feb 08 20:02:07 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 322 - Maaaaveeeeen 4 !|[lescastcodeurs.com](https://lescastcodeurs.com)|Sun Feb 09 16:02:03 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-2|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Dec 17 04:02:56 UTC 2024|

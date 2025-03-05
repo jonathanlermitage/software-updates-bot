@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23774.16) ~ 2025-03-05|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Mar 05 20:02:17 UTC 2025|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.4.1 (243.25659.59) ~ 2025-03-05|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Mar 05 20:02:17 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.1|[golang.org](https://golang.org/dl/)|Tue Mar 04 20:02:05 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.4 (243.25659.39) ~ 2025-02-27|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Feb 28 08:02:17 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23536.34) ~ 2025-02-27|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 28 00:05:01 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.9.0|[nodejs.org](https://nodejs.org)|Wed Feb 26 20:02:18 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 20 20:02:34 UTC 2025|
