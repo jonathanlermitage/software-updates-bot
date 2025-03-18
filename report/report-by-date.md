@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.5 (243.26053.27) ~ 2025-03-18|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Mar 18 12:02:49 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 323 - L'accessibilité des messageries chiffrées|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 17 12:02:30 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23774.109) ~ 2025-03-14|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Mar 14 08:02:12 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.10.0|[nodejs.org](https://nodejs.org)|Fri Mar 14 00:05:09 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.19.0|[nodejs.org](https://nodejs.org)|Thu Mar 13 16:02:30 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:02:27 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.4.1 (243.25659.59) ~ 2025-03-05|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Mar 05 20:02:17 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.1|[golang.org](https://golang.org/dl/)|Tue Mar 04 20:02:05 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
