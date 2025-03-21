@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|3.4.4.RELEASE|[start.spring.io](https://start.spring.io)|Fri Mar 21 08:03:00 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.5 (243.26053.27) ~ 2025-03-18|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Mar 18 12:02:49 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 323 - L'accessibilité des messageries chiffrées|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 17 12:02:30 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23774.109) ~ 2025-03-14|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Mar 14 08:02:12 UTC 2025|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/go.png) Go|go1.24.1|[golang.org](https://golang.org/dl/)|Tue Mar 04 20:02:05 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
-|![logo](../media/logo/springboot.png) Spring Boot|3.4.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 20 20:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
