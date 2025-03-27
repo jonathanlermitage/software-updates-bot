@@ -17,7 +17,7 @@
 |![logo](../media/logo/go.png) Go|go1.24.1|[golang.org](https://golang.org/dl/)|Tue Mar 04 20:02:05 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23774.109) ~ 2025-03-14|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Mar 14 08:02:12 UTC 2025|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23774.200) ~ 2025-03-27|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Mar 27 12:02:29 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.5 (243.26053.27) ~ 2025-03-18|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Mar 18 12:02:49 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.8.0 to 18.8.5 ~ 2025-03-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Mar 22 20:02:05 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 323 - L'accessibilité des messageries chiffrées|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 17 12:02:30 UTC 2025|
