@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.13.3|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 08 20:02:54 UTC 2025|
+|![logo](../media/logo/python.png) Python 3 mac| 3.13.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 08 20:02:53 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.2|[golang.org](https://golang.org/dl/)|Tue Apr 01 20:02:24 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|23.11.0|[nodejs.org](https://nodejs.org)|Tue Apr 01 16:03:29 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23774.200) ~ 2025-03-27|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Mar 27 12:02:29 UTC 2025|
@@ -17,8 +19,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.20|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 16:02:46 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.13.2|[www.python.org](https://www.python.org/downloads/windows/)|Tue Feb 04 20:02:38 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 mac| 3.13.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Feb 04 20:02:37 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.26+4|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Jan 24 16:02:41 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jan 24 16:02:35 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.6+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jan 24 00:05:08 UTC 2025|
