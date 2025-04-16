@@ -7,8 +7,8 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jan 24 16:02:35 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 16:02:08 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 12:02:53 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.6+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jan 23 16:02:12 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.6+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jan 24 00:05:08 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Apr 16 16:03:03 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Apr 16 16:03:03 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.6+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jan 23 16:02:18 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u442-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 24 00:04:59 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u442-b06|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Jan 24 00:05:08 UTC 2025|
@@ -18,7 +18,7 @@
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23774.200) ~ 2025-03-27|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Mar 27 12:02:29 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2024.3.5 (243.26053.27) ~ 2025-03-18|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Mar 18 12:02:49 UTC 2025|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1 (251.23774.435) ~ 2025-04-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Apr 16 16:03:14 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.8.0 to 18.8.5 ~ 2025-03-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Mar 22 20:02:05 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 323 - L'accessibilité des messageries chiffrées|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 17 12:02:30 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:02:27 UTC 2025|
