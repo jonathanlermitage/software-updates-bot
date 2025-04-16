@@ -1,7 +1,7 @@
 FAILED
 
-<pre>checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
+<pre>checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
+java.io.IOException: Server returned HTTP response code: 522 for URL: https://ramensoftware.com/downloads/7tt_setup.exe?changelog
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2037)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1626)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
@@ -11,8 +11,7 @@ java.io.IOException: Server returned HTTP response code: 403 for URL: https://in
 	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3327)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.downloadAsText(ScrapperImpl.kt:67)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:45)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
 	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:359)
@@ -27,7 +26,7 @@ java.io.IOException: Server returned HTTP response code: 403 for URL: https://in
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:727)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$SpringCGLIB.fetchHtml(<generated>)
 	at biz.lermitage.sub.service.scrapper.Scrapper$DefaultImpls.fetchHtml$default(Scrapper.kt:11)
-	at biz.lermitage.sub.service.checker.impl.InkscapeChecker.check(InkscapeChecker.kt:22)
+	at biz.lermitage.sub.service.checker.impl.SevenTTChecker.check(SevenTTChecker.kt:21)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:788)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:82)

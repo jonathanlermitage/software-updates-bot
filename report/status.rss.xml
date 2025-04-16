@@ -4,15 +4,15 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Tue, 15 Apr 2025 20:03:39 GMT</pubDate>
+    <pubDate>Wed, 16 Apr 2025 00:08:01 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2025-04-15T20:03:39Z</dc:date>
+    <dc:date>2025-04-16T00:08:01Z</dc:date>
     <item>
-      <title>FAILED -- Tue Apr 15 20:03:39 UTC 2025</title>
+      <title>FAILED -- Wed Apr 16 00:08:01 UTC 2025</title>
       <description>FAILED
 
-&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
+&lt;pre&gt;checker class biz.lermitage.sub.service.checker.impl.SevenTTChecker failed, ignoring
+java.io.IOException: Server returned HTTP response code: 522 for URL: https://ramensoftware.com/downloads/7tt_setup.exe?changelog
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2037)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1626)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
@@ -22,8 +22,7 @@ java.io.IOException: Server returned HTTP response code: 403 for URL: https://in
 	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3327)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.downloadAsText(ScrapperImpl.kt:67)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:45)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at jdk.internal.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
 	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:359)
@@ -38,7 +37,7 @@ java.io.IOException: Server returned HTTP response code: 403 for URL: https://in
 	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:727)
 	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$SpringCGLIB.fetchHtml(&lt;generated&gt;)
 	at biz.lermitage.sub.service.scrapper.Scrapper$DefaultImpls.fetchHtml$default(Scrapper.kt:11)
-	at biz.lermitage.sub.service.checker.impl.InkscapeChecker.check(InkscapeChecker.kt:22)
+	at biz.lermitage.sub.service.checker.impl.SevenTTChecker.check(SevenTTChecker.kt:21)
 	at biz.lermitage.sub.Application.run(Application.kt:54)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$5(SpringApplication.java:788)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:82)
@@ -69,9 +68,9 @@ java.io.IOException: Server returned HTTP response code: 403 for URL: https://in
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:40)
 
 &lt;/pre&gt;</description>
-      <pubDate>Tue, 15 Apr 2025 20:03:39 GMT</pubDate>
+      <pubDate>Wed, 16 Apr 2025 00:08:01 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2025-04-15T20:03:39Z</dc:date>
+      <dc:date>2025-04-16T00:08:01Z</dc:date>
     </item>
   </channel>
 </rss>
