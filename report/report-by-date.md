@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.15+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Apr 17 00:05:44 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.15+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Apr 16 20:02:48 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1 (251.23774.435) ~ 2025-04-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Apr 16 16:03:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Apr 16 16:03:03 UTC 2025|
@@ -30,7 +31,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.26+4|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jan 23 20:02:28 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.6+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jan 23 16:02:18 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 16:02:08 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.14+7|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jan 23 12:02:53 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 16:02:05 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
