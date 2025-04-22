@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|20.19.1|[nodejs.org](https://nodejs.org)|Tue Apr 22 12:03:17 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:02:33 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Sun Apr 20 16:02:32 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.27+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Apr 20 16:02:30 UTC 2025|
@@ -21,7 +22,6 @@
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1 (251.23774.200) ~ 2025-03-27|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Mar 27 12:02:29 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.4.RELEASE|[start.spring.io](https://start.spring.io)|Fri Mar 21 08:03:00 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 323 - L'accessibilité des messageries chiffrées|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Mar 17 12:02:30 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|20.19.0|[nodejs.org](https://nodejs.org)|Thu Mar 13 16:02:30 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:02:27 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
