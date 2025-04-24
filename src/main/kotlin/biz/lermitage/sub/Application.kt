@@ -4,6 +4,7 @@ import biz.lermitage.sub.conf.LocalAppConf
 import biz.lermitage.sub.model.DetailedException
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.service.checker.Checker
+import biz.lermitage.sub.service.dreport.DReporter
 import biz.lermitage.sub.service.report.JsonReportLoader
 import biz.lermitage.sub.service.report.Reporter
 import biz.lermitage.sub.service.report.StatusReporter
@@ -30,6 +31,9 @@ class Application : CommandLineRunner {
 
     @Autowired
     lateinit var reporters: List<Reporter>
+
+    @Autowired
+    lateinit var dReporters: List<DReporter>
 
     @Autowired
     lateinit var jsonReportLoader: JsonReportLoader
@@ -63,8 +67,8 @@ class Application : CommandLineRunner {
                 }
                 latestUpdates.add(check)
             } catch (e: Exception) {
-                logger.warn("checker ${checker::class.java} failed, ignoring", e)
-                errors.add(DetailedException("checker ${checker::class.java} failed, ignoring", e))
+                logger.warn("Checker ${checker::class.java} failed, ignoring", e)
+                errors.add(DetailedException("Checker ${checker::class.java} failed, ignoring", e))
             }
         }
 
@@ -75,8 +79,17 @@ class Application : CommandLineRunner {
             try {
                 reporter.generate(mergedUpdates)
             } catch (e: Exception) {
-                logger.warn("reporter ${reporter::class.java} failed, ignoring", e)
-                errors.add(DetailedException("reporter ${reporter::class.java} failed, ignoring", e))
+                logger.warn("Reporter ${reporter::class.java} failed, ignoring", e)
+                errors.add(DetailedException("Reporter ${reporter::class.java} failed, ignoring", e))
+            }
+        }
+
+        dReporters.forEach { dReporter ->
+            try {
+                dReporter.generate()
+            } catch (e: Exception) {
+                logger.warn("DReporter ${dReporter::class.java} failed, ignoring", e)
+                errors.add(DetailedException("Reporter ${dReporter::class.java} failed, ignoring", e))
             }
         }
 

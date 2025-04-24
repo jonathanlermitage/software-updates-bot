@@ -49,6 +49,16 @@
             "name": "localapp.statusfile.atom",
             "type": "java.lang.String",
             "description": "Atom status file path."
+        },
+        {
+            "name": "localapp.reportfile.jb-marketplace-plugins-latest-all",
+            "type": "java.lang.String",
+            "description": "RSS file path for the list of the latest plugins on the JetBrains marketplace."
+        },
+        {
+            "name": "localapp.reportfile.jb-marketplace-plugins-latest-jetbrains",
+            "type": "java.lang.String",
+            "description": "RSS file path for the list of the latest JetBrains plugins on the JetBrains marketplace."
         }
     ]
 }

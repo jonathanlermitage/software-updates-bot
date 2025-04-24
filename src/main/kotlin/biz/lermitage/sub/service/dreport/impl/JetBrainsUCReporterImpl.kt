@@ -1,11 +1,10 @@
-package biz.lermitage.sub.service.report.impl
+package biz.lermitage.sub.service.dreport.impl
 
 import biz.lermitage.sub.Globals
 import biz.lermitage.sub.conf.LocalAppConf
-import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.model.jetbrains.JetBrainsApiResponse
 import biz.lermitage.sub.model.jetbrains.Release
-import biz.lermitage.sub.service.report.Reporter
+import biz.lermitage.sub.service.dreport.DReporter
 import biz.lermitage.sub.service.scrapper.Scrapper
 import com.google.gson.Gson
 import org.apache.commons.io.FileUtils
@@ -15,19 +14,14 @@ import org.springframework.stereotype.Service
 import java.io.File
 
 @Service
-class UCReporterImpl(private val conf: LocalAppConf) : Reporter {
+class JetBrainsUCReporterImpl(private val conf: LocalAppConf) : DReporter {
 
     private val logger = LoggerFactory.getLogger(this.javaClass)
 
     @Autowired
     lateinit var scrapper: Scrapper
 
-    override fun generate(updates: List<SoftwareUpdate>): Boolean {
-        generateReport()
-        return true
-    }
-
-    private fun generateReport() {
+    override fun generate() {
         val reportFile = File(conf.reportFile.uc)
         reportFile.parentFile.mkdirs()
         reportFile.delete()

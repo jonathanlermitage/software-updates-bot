@@ -3,7 +3,7 @@ spring:
   main.banner-mode: log
   pid:
     fail-on-write-error: false
-    file: manon.pid
+    file: sub.pid
 logging:
   level.root: INFO
   file.path: "logs/"
@@ -17,8 +17,8 @@ localapp:
     atom: "report/report.atom.xml"
     props: "report/report.properties"
     uc: "report/uc.properties"
-    jb-marketplace-plugins-latest-all: "report/report.jb-marketplace-plugins-latest-all.xml"
-    jb-marketplace-plugins-latest-jetbrains: "report/report.jb-marketplace-plugins-latest-jetbrains.xml"
+    jb-marketplace-plugins-latest-all: "report/report.jb-marketplace-plugins-all.rss.xml"
+    jb-marketplace-plugins-latest-jetbrains: "report/report.jb-marketplace-plugins-jetbrains.rss.xml"
   statusfile:
     md: "report/status.md"
     rss: "report/status.rss.xml"
