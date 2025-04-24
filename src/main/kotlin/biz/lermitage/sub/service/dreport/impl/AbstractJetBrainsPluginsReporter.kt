@@ -82,6 +82,6 @@ open abstract class AbstractJetBrainsPluginsReporter(private val vendor: String?
         val fileWriter = FileWriter(reportFile)
         fileWriter.use { output.output(feed, fileWriter) }
 
-        logger.info("saved UC report file to: ${reportFile.absolutePath}")
+        logger.info("saved report file to: ${reportFile.absolutePath}")
     }
 }
