@@ -37,6 +37,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 08 20:02:53 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.3|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 08 20:02:54 UTC 2025|
-|![logo](../media/logo/springboot.png) Spring Boot|3.4.4.RELEASE|[start.spring.io](https://start.spring.io)|Fri Mar 21 08:03:00 UTC 2025|
+|![logo](../media/logo/springboot.png) Spring Boot|3.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 24 16:03:38 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.20|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 16:02:46 UTC 2025|
