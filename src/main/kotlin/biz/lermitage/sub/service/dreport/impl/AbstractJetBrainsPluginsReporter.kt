@@ -61,7 +61,7 @@ open abstract class AbstractJetBrainsPluginsReporter(private val vendor: String?
                     val entry = SyndEntryImpl()
 
                     entry.title = "${p.name} - ${Date(p.cdate)}"
-                    entry.link = "https://plugins.jetbrains.com/${p.link}"
+                    entry.link = "https://plugins.jetbrains.com${p.link}"
                     entry.publishedDate = Date(p.cdate)
 
                     val description = SyndContentImpl()
