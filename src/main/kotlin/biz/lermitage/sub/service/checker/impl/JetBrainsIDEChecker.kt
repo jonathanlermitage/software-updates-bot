@@ -4,7 +4,7 @@ import biz.lermitage.sub.model.Category
 import biz.lermitage.sub.model.Logo
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.model.jetbrains.JetBrainsApiResponse
-import biz.lermitage.sub.model.jetbrains.Releases
+import biz.lermitage.sub.model.jetbrains.Release
 import biz.lermitage.sub.service.checker.Checker
 import biz.lermitage.sub.service.scrapper.Scrapper
 import com.google.gson.Gson
@@ -44,7 +44,7 @@ abstract class JetBrainsIDEChecker(
         )
     }
 
-    private fun findLatestIdeaVersion(isStable: Boolean): Releases {
+    private fun findLatestIdeaVersion(isStable: Boolean): Release {
 
         /** Read a remote file as String. */
         fun readRemoteContent(url: URL): String {

@@ -1,8 +1,8 @@
-package biz.lermitage.sub.model.jetbrains;
+package biz.lermitage.sub.model.jetbrains
 
-import com.google.gson.annotations.SerializedName;
+import com.google.gson.annotations.SerializedName
 
-data class JetBrainsApiResponse (
-    @SerializedName("releases") val releases : List<Releases>,
-    @SerializedName("name") val name : String
+data class JetBrainsApiResponse(
+    @SerializedName("releases") val releases: List<Release>,
+    @SerializedName("name") val name: String
 )

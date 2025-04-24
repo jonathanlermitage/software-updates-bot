@@ -1,8 +1,8 @@
 package biz.lermitage.sub.model.jetbrains
 
-import com.google.gson.annotations.SerializedName;
+import com.google.gson.annotations.SerializedName
 
-data class Releases(
+data class Release(
     @SerializedName("type") val type: String,
     @SerializedName("version") val version: String,
     @SerializedName("build") val build: String,

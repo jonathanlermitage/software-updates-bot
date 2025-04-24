@@ -15,6 +15,8 @@ class LocalAppConf {
         lateinit var atom: String
         lateinit var props: String
         lateinit var uc: String
+        lateinit var jbMarketplacePluginsLatestAll: String
+        lateinit var jbMarketplacePluginsLatestJetbrains: String
     }
 
     val statusFile = StatusFile()

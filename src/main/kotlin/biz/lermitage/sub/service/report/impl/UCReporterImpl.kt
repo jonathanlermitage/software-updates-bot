@@ -4,7 +4,7 @@ import biz.lermitage.sub.Globals
 import biz.lermitage.sub.conf.LocalAppConf
 import biz.lermitage.sub.model.SoftwareUpdate
 import biz.lermitage.sub.model.jetbrains.JetBrainsApiResponse
-import biz.lermitage.sub.model.jetbrains.Releases
+import biz.lermitage.sub.model.jetbrains.Release
 import biz.lermitage.sub.service.report.Reporter
 import biz.lermitage.sub.service.scrapper.Scrapper
 import com.google.gson.Gson
@@ -50,11 +50,11 @@ class UCReporterImpl(private val conf: LocalAppConf) : Reporter {
 
                 var ga = releases.firstOrNull { release -> release.type == "release" }
                 if (ga == null) {
-                    ga = Releases(type = "release", version = "", build = "", date = "")
+                    ga = Release(type = "release", version = "", build = "", date = "")
                 }
                 var eap = releases.firstOrNull { release -> release.type == "eap" }
                 if (eap == null) {
-                    eap = Releases(type = "eap", version = "", build = "", date = "")
+                    eap = Release(type = "eap", version = "", build = "", date = "")
                 }
 
                 lines.add("# ${apiResponse.name}")

@@ -17,6 +17,8 @@ localapp:
     atom: "report/report.atom.xml"
     props: "report/report.properties"
     uc: "report/uc.properties"
+    jb-marketplace-plugins-latest-all: "report/report.jb-marketplace-plugins-latest-all.xml"
+    jb-marketplace-plugins-latest-jetbrains: "report/report.jb-marketplace-plugins-latest-jetbrains.xml"
   statusfile:
     md: "report/status.md"
     rss: "report/status.rss.xml"
