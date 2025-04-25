@@ -15,7 +15,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:02:33 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 16:02:05 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.24.2|[golang.org](https://golang.org/dl/)|Tue Apr 01 20:02:24 UTC 2025|
-|![logo](../media/logo/gradle.png) Gradle|8.13|[gradle.org](https://gradle.org/releases/)|Tue Feb 25 12:02:51 UTC 2025|
+|![logo](../media/logo/gradle.png) Gradle|8.14|[gradle.org](https://gradle.org/releases/)|Fri Apr 25 12:03:08 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1.1 (251.25410.28) ~ 2025-04-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Apr 24 12:03:07 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1 (251.23774.435) ~ 2025-04-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Apr 16 16:03:14 UTC 2025|
