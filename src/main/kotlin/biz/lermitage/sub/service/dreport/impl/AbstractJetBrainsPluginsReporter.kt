@@ -17,7 +17,7 @@ import java.io.File
 import java.io.FileWriter
 import java.util.Date
 
-open abstract class AbstractJetBrainsPluginsReporter(private val vendor: String? = null) : DReporter {
+abstract class AbstractJetBrainsPluginsReporter(private val vendor: String? = null) : DReporter {
 
     private val logger = LoggerFactory.getLogger(this.javaClass)
 
