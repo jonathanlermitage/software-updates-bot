@@ -2,19 +2,19 @@ import com.github.benmanes.gradle.versions.updates.DependencyUpdatesTask
 import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
-val detektVersion = "1.23.7" // IMPORTANT don't forget to update plugin version too
+val detektVersion = "1.23.8" // IMPORTANT don't forget to update plugin version too
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "2.1.10"
+    val kotlinVersion = "2.1.20"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.4.2"
+    id("org.springframework.boot") version "3.4.5"
     id("io.spring.dependency-management") version "1.1.7"
     id("com.github.ben-manes.versions") version "0.52.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
-    id("io.gitlab.arturbosch.detekt") version "1.23.7" // IMPORTANT set it to detektVersion's value
+    id("io.gitlab.arturbosch.detekt") version "1.23.8" // IMPORTANT set it to detektVersion's value
     id("biz.lermitage.oga") version "1.1.1"
 }
 
@@ -30,10 +30,10 @@ repositories {
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
-    implementation("com.google.code.gson:gson:2.12.1")
+    implementation("com.google.code.gson:gson:2.13.1")
     implementation("com.jayway.jsonpath:json-path:2.9.0")
-    implementation("org.jsoup:jsoup:1.18.3") // https://jsoup.org/news/
-    implementation("commons-io:commons-io:2.18.0")
+    implementation("org.jsoup:jsoup:1.19.1") // https://jsoup.org/news/
+    implementation("commons-io:commons-io:2.19.0")
     implementation("org.apache.commons:commons-lang3:3.17.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
     implementation("org.springframework.boot:spring-boot-starter-aop")
@@ -73,7 +73,7 @@ kotlin {
 configurations.matching { it.name == "detekt" }.all {
     resolutionStrategy.eachDependency {
         if (requested.group == "org.jetbrains.kotlin") {
-            useVersion("2.0.10") // IMPORTANT update if failed with "detekt was compiled with Kotlin XX but is currently running with YY"
+            useVersion("2.0.21") // IMPORTANT update if failed with "detekt was compiled with Kotlin XX but is currently running with YY"
         }
     }
 }
