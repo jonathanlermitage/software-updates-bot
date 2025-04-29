@@ -6,6 +6,110 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Pine Script Support - Mon Apr 28 10:09:25 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27219-pine-script-support</link>
+      <description>Provides support for Pine Script with syntax highlighting, formatting, inspections, and auto-completion.
+
+vendor: chainreport
+downloads: 0
+pricingModel: PAID
+xmlId: chain.report.pinescript</description>
+      <pubDate>Mon, 28 Apr 2025 10:09:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27219-pine-script-support</guid>
+      <dc:date>2025-04-28T10:09:25Z</dc:date>
+    </item>
+    <item>
+      <title>statusbar-stocks-plus - Tue Apr 29 13:40:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27234-statusbar-stocks-plus</link>
+      <description>Display stock information in the status bar, configure the list of stocks in Settings-&amp;gt;Tools-&amp;gt;Statusbar Stocks.
+
+vendor: rsuperbrain
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.hms58.statusbarstocksplus</description>
+      <pubDate>Tue, 29 Apr 2025 13:40:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27234-statusbar-stocks-plus</guid>
+      <dc:date>2025-04-29T13:40:50Z</dc:date>
+    </item>
+    <item>
+      <title>OpenInTools - Tue Apr 29 16:29:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27235-openintools</link>
+      <description>OpenInTools provides a seamless way to open your IntelliJ IDEA projects in external editors and IDEs: Visual Studio Code - Open your project with a single clickCursor...
+
+vendor: AbdElraouf Sabri
+downloads: 0
+pricingModel: FREE
+xmlId: dev.abd3lraouf.openintools</description>
+      <pubDate>Tue, 29 Apr 2025 16:29:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27235-openintools</guid>
+      <dc:date>2025-04-29T16:29:59Z</dc:date>
+    </item>
+    <item>
+      <title>JsonSql - Tue Apr 29 01:44:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27210-jsonsql</link>
+      <description>Json Sql Retrieve the desired data from JSON using SQL And convert SQL to JSON again The supported SQL statements are： select *、name、name as alias、name.surname(Multi...
+
+vendor: wwsbdy
+downloads: 0
+pricingModel: FREE
+xmlId: com.zj.jsonsql.JsonSql</description>
+      <pubDate>Tue, 29 Apr 2025 01:44:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27210-jsonsql</guid>
+      <dc:date>2025-04-29T01:44:44Z</dc:date>
+    </item>
+    <item>
+      <title>Latte Test Runner - Mon Apr 28 16:26:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27225-latte-test-runner</link>
+      <description>Latte Test Runner is an IntelliJ-based plugin that provides integration for the Latte Testing Framework. Latte designed for testing applications written in JavaScript...
+
+vendor: Serhii Pimenov
+downloads: 0
+pricingModel: FREE
+xmlId: ua.com.pimenov.latte</description>
+      <pubDate>Mon, 28 Apr 2025 16:26:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27225-latte-test-runner</guid>
+      <dc:date>2025-04-28T16:26:36Z</dc:date>
+    </item>
+    <item>
+      <title>Post Kid - Mon Apr 28 20:16:17 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27226-post-kid</link>
+      <description>PostKid is a lightweight networking tool designed as an IntelliJ IDEA extension. Inspired by Postman, PostKid provides a simple and efficient way to perform networking...
+
+vendor: Robin kumar
+downloads: 0
+pricingModel: FREE
+xmlId: com.kgJr.postKid</description>
+      <pubDate>Mon, 28 Apr 2025 20:16:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27226-post-kid</guid>
+      <dc:date>2025-04-28T20:16:17Z</dc:date>
+    </item>
+    <item>
+      <title>TestDataGender - Tue Apr 29 03:23:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27228-testdatagender</link>
+      <description>Test Data Generator Tool: Randomly Generate Chinese Names, National ID Numbers Mobile Phone Numbers. Go ahead and try it – works like magic every single time!.
+
+vendor: jiangyue
+downloads: 0
+pricingModel: FREE
+xmlId: TestDataGender</description>
+      <pubDate>Tue, 29 Apr 2025 03:23:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27228-testdatagender</guid>
+      <dc:date>2025-04-29T03:23:09Z</dc:date>
+    </item>
+    <item>
+      <title>Home Assistant - Mon Apr 28 20:54:33 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/26381-home-assistant</link>
+      <description>Support for Home Assistant configuration files. Bundled YAML schema from the awesome Visual Studio Code ExtensionGo to definition for any locally defined script...
+
+vendor: Daniele Ricci
+downloads: 25
+pricingModel: FREE
+xmlId: it.casaricci.hass.plugin</description>
+      <pubDate>Mon, 28 Apr 2025 20:54:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26381-home-assistant</guid>
+      <dc:date>2025-04-28T20:54:33Z</dc:date>
+    </item>
+    <item>
       <title>Tinify Image Optimizer - Fri Mar 28 00:12:32 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/26929-tinify-image-optimizer</link>
       <description>This plugin enables efficient conversion and compression of JPG and PNG images using the Tinify API, reducing file sizes without sacrificing quality.
@@ -1200,110 +1304,6 @@ xmlId: ir.amv.os.CodeMarks</description>
       <pubDate>Tue, 22 Apr 2025 16:00:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27048-codemarks</guid>
       <dc:date>2025-04-22T16:00:40Z</dc:date>
-    </item>
-    <item>
-      <title>Commit Message Prefixer - Thu Apr 17 01:59:17 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/26938-commit-message-prefixer</link>
-      <description>A plugin for JetBrains IDEs that automatically prefixes commit messages with information extracted from branch names. Features: Extract information from branch names...
-
-vendor: Aiden Fuller
-downloads: 98
-pricingModel: FREE
-xmlId: org.cobalyte.commit-prefixer</description>
-      <pubDate>Thu, 17 Apr 2025 01:59:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/26938-commit-message-prefixer</guid>
-      <dc:date>2025-04-17T01:59:17Z</dc:date>
-    </item>
-    <item>
-      <title>Build Logic Generator - Tue Apr 15 07:41:11 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27040-build-logic-generator</link>
-      <description>This is a minimal IntelliJ Platform Plugin that helps generate build-logic for gradle based projects.
-
-vendor: Kibet Theo
-downloads: 106
-pricingModel: FREE
-xmlId: com.github.kibettheophilus.buildlogicgenerator</description>
-      <pubDate>Tue, 15 Apr 2025 07:41:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27040-build-logic-generator</guid>
-      <dc:date>2025-04-15T07:41:11Z</dc:date>
-    </item>
-    <item>
-      <title>Smart Coder - Mon Apr 28 09:31:24 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27038-smart-coder</link>
-      <description>Smart Coder based DeepSeek,can act as your coding companion, enabling you to converse within the chat window on the right. This plugin leverages artificial...
-
-vendor: JetGuru
-downloads: 991
-pricingModel: FREE
-xmlId: com.free.zhang.code</description>
-      <pubDate>Mon, 28 Apr 2025 09:31:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27038-smart-coder</guid>
-      <dc:date>2025-04-28T09:31:24Z</dc:date>
-    </item>
-    <item>
-      <title>BOJ Submitter - Fri Apr 11 05:35:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27041-boj-submitter</link>
-      <description>BOJ Submitter is a plugin for the [IntelliJ Platform][docs:intro] that provides a set of tools for working with the BOJ platform. The main goal of this plugin is to...
-
-vendor: Jin Park
-downloads: 35
-pricingModel: FREE
-xmlId: org.jin.plugins.boj</description>
-      <pubDate>Fri, 11 Apr 2025 05:35:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27041-boj-submitter</guid>
-      <dc:date>2025-04-11T05:35:33Z</dc:date>
-    </item>
-    <item>
-      <title>ChatGPT Coder - Sat Apr 26 05:01:21 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27039-chatgpt-coder</link>
-      <description>ChatGPT Tools serve as your coding assistant, allowing real-time interaction in the chat window on the right. This plugin uses AI to not only automatically generate...
-
-vendor: Crystala
-downloads: 774
-pricingModel: FREE
-xmlId: com.chat.gpt.tools</description>
-      <pubDate>Sat, 26 Apr 2025 05:01:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27039-chatgpt-coder</guid>
-      <dc:date>2025-04-26T05:01:21Z</dc:date>
-    </item>
-    <item>
-      <title>Stretch Timer - Thu Apr 10 23:25:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27037-stretch-timer</link>
-      <description>Stretch Timer Plugin for IntelliJ IDEA helps you take regular breaks and stretch during long coding sessions.
-
-vendor: Comedawn
-downloads: 24
-pricingModel: FREE
-xmlId: com.coffebara.stretch-timer</description>
-      <pubDate>Thu, 10 Apr 2025 23:25:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27037-stretch-timer</guid>
-      <dc:date>2025-04-10T23:25:54Z</dc:date>
-    </item>
-    <item>
-      <title>Annotation Doc Helper - Thu Apr 03 16:03:27 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/26966-annotation-doc-helper</link>
-      <description>Struggling to find annotation usage details while coding in IntelliJ IDEA? Introducing a powerful plugin to simplify your workflow! Double-click any annotation in your...
-
-vendor: Tanchengyong
-downloads: 40
-pricingModel: FREE
-xmlId: com.tancy.plug.shouce-annotation-doc-helper</description>
-      <pubDate>Thu, 03 Apr 2025 16:03:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/26966-annotation-doc-helper</guid>
-      <dc:date>2025-04-03T16:03:27Z</dc:date>
-    </item>
-    <item>
-      <title>Explain Selected Code - Fri Apr 11 00:18:00 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27032-explain-selected-code</link>
-      <description>A plugin that displays information about selected code in the editor. Select a piece of code and get insights about what it does simply by pressing Alt+Shift+E or...
-
-vendor: Michael Lahr
-downloads: 61
-pricingModel: FREE
-xmlId: xyz.codeexplain.plugin</description>
-      <pubDate>Fri, 11 Apr 2025 00:18:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27032-explain-selected-code</guid>
-      <dc:date>2025-04-11T00:18:00Z</dc:date>
     </item>
   </channel>
 </rss>
