@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Git Commit Message Support - Wed Apr 30 17:40:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27236-git-commit-message-support</link>
+      <description>Git Commit Message Support A Git commit message support plugin for IntelliJ IDEA-based IDEs. It helps maintain consistent commit message formats and facilitates...
+
+vendor: muheun
+downloads: 0
+pricingModel: FREE
+xmlId: commit-message-support-idea-plugin</description>
+      <pubDate>Wed, 30 Apr 2025 17:40:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27236-git-commit-message-support</guid>
+      <dc:date>2025-04-30T17:40:49Z</dc:date>
+    </item>
+    <item>
+      <title>LTU Progress Bar - Wed Apr 30 17:25:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27244-ltu-progress-bar</link>
+      <description>For LTU devs whose hearts beat stronger. A custom progress bar plugin for IntelliJ IDEA 2024.3+.
+
+vendor: Gytis
+downloads: 0
+pricingModel: FREE
+xmlId: com.ltu.progress.bar.LTUProgressBar</description>
+      <pubDate>Wed, 30 Apr 2025 17:25:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27244-ltu-progress-bar</guid>
+      <dc:date>2025-04-30T17:25:48Z</dc:date>
+    </item>
+    <item>
+      <title>ThingsBoard Toolbox - Wed Apr 30 02:31:24 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27082-thingsboard-toolbox</link>
+      <description>ThingsBoard Server Management and Development Toolbox A comprehensive toolkit that streamlines your ThingsBoard development workflow directly within IntelliJ-based...
+
+vendor: StarDyn
+downloads: 0
+pricingModel: FREE
+xmlId: com.thingsboard.toolbox</description>
+      <pubDate>Wed, 30 Apr 2025 02:31:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27082-thingsboard-toolbox</guid>
+      <dc:date>2025-04-30T02:31:24Z</dc:date>
+    </item>
+    <item>
+      <title>AI Junit Test - Wed Apr 30 03:18:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27240-ai-junit-test</link>
+      <description>Use the deepseek - ai model to generate corresponding unit tests for the code in the project. The usage method is to select a Java file in the Maven project, click...
+
+vendor: FluxAI
+downloads: 0
+pricingModel: FREE
+xmlId: org.ai.unit.my.test</description>
+      <pubDate>Wed, 30 Apr 2025 03:18:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27240-ai-junit-test</guid>
+      <dc:date>2025-04-30T03:18:26Z</dc:date>
+    </item>
+    <item>
       <title>SimpleLocalize - Wed Apr 30 08:02:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27223-simplelocalize</link>
       <description>SimpleLocalize plugin brings you the power of localization directly into your IntelliJ IDEA. Connect your SimpleLocalize project with your IDE and manage translations...
@@ -420,6 +472,19 @@ xmlId: xyz.danizz.extended-prop-searcher</description>
       <pubDate>Tue, 15 Apr 2025 20:07:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27006-properties-placeholder-resolver</guid>
       <dc:date>2025-04-15T20:07:38Z</dc:date>
+    </item>
+    <item>
+      <title>TestCraft-Pro - Wed Apr 30 02:43:41 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27221-testcraft-pro</link>
+      <description>TestCraft is the evolution of the pitest-gradle plugin, expanding its capabilities beyond Gradle-based PITest mutation testing. While the original plugin focused on...
+
+vendor: Jason Lam
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.jaksonlin.testcraftpro</description>
+      <pubDate>Wed, 30 Apr 2025 02:43:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27221-testcraft-pro</guid>
+      <dc:date>2025-04-30T02:43:41Z</dc:date>
     </item>
     <item>
       <title>AI Code Report - Wed Apr 30 05:01:16 UTC 2025</title>
@@ -1215,7 +1280,7 @@ xmlId: com.shinriyo.riverpod-jump-to-provider-for-as</description>
       <dc:date>2025-04-11T23:19:00Z</dc:date>
     </item>
     <item>
-      <title>Smart AI - Sat Apr 26 09:45:36 UTC 2025</title>
+      <title>Smart AI - Wed Apr 30 17:04:12 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27046-smart-ai</link>
       <description>Smart AI serves as your coding companion, allowing you to interact through the chat interface on the right. By utilizing AI technology, specifically based on DeepSeek...
 
@@ -1223,9 +1288,9 @@ vendor: Algorythm
 downloads: 243
 pricingModel: FREE
 xmlId: com.mon.free.coder</description>
-      <pubDate>Sat, 26 Apr 2025 09:45:36 GMT</pubDate>
+      <pubDate>Wed, 30 Apr 2025 17:04:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27046-smart-ai</guid>
-      <dc:date>2025-04-26T09:45:36Z</dc:date>
+      <dc:date>2025-04-30T17:04:12Z</dc:date>
     </item>
     <item>
       <title>Save As - Mon Apr 14 14:15:14 UTC 2025</title>
@@ -1239,71 +1304,6 @@ xmlId: com.gameamea.plugins.SaveAs</description>
       <pubDate>Mon, 14 Apr 2025 14:15:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27047-save-as</guid>
       <dc:date>2025-04-14T14:15:14Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek Translate - Sat Apr 26 00:42:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27050-deepseek-translate</link>
-      <description>Description DeepSeek Translate is an IntelliJ IDEA plugin that provides developers with convenient code translate functionality. This plugin understands and converts...
-
-vendor: JetGuru
-downloads: 740
-pricingModel: FREE
-xmlId: com.deepseek.my.translate</description>
-      <pubDate>Sat, 26 Apr 2025 00:42:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27050-deepseek-translate</guid>
-      <dc:date>2025-04-26T00:42:36Z</dc:date>
-    </item>
-    <item>
-      <title>AI Coding - Fri Apr 25 15:03:29 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27045-ai-coding</link>
-      <description>AI Coding acts as your programming assistant, based on DeepSeek, enabling you to converse within the chat window on the right. This plugin leverages AI technology to...
-
-vendor: Crystala
-downloads: 881
-pricingModel: FREE
-xmlId: com.ai.coding.my</description>
-      <pubDate>Fri, 25 Apr 2025 15:03:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27045-ai-coding</guid>
-      <dc:date>2025-04-25T15:03:29Z</dc:date>
-    </item>
-    <item>
-      <title>LLM Coder - Fri Apr 25 16:02:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27053-llm-coder</link>
-      <description>LLM Coder can serve as your coding assistant, allowing you to chat in the window on the right.The plugin uses AI to automatically generate commit messages. LLM...
-
-vendor: CodeWhisperer
-downloads: 291
-pricingModel: FREE
-xmlId: com.llm.yes.tool</description>
-      <pubDate>Fri, 25 Apr 2025 16:02:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27053-llm-coder</guid>
-      <dc:date>2025-04-25T16:02:05Z</dc:date>
-    </item>
-    <item>
-      <title>Port Manager - Sun Apr 13 07:49:40 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27054-port-manager</link>
-      <description>A plugin to easily find and kill processes running on specific ports. Supports macOS and Windows.
-
-vendor: AudiChuang
-downloads: 37
-pricingModel: FREE
-xmlId: com.audi.portmanager</description>
-      <pubDate>Sun, 13 Apr 2025 07:49:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27054-port-manager</guid>
-      <dc:date>2025-04-13T07:49:40Z</dc:date>
-    </item>
-    <item>
-      <title>Dart Data Class Pro - Mon Apr 21 10:40:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27027-dart-data-class-pro</link>
-      <description>Generate boilerplate for your Dart data classes — now with inspections and Equatable support. Features Code generation Dart Data Class plugin can generate the...
-
-vendor: SoftSense Kft.
-downloads: 77
-pricingModel: PAID
-xmlId: com.softsense.dartdatadas</description>
-      <pubDate>Mon, 21 Apr 2025 10:40:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27027-dart-data-class-pro</guid>
-      <dc:date>2025-04-21T10:40:28Z</dc:date>
     </item>
   </channel>
 </rss>
