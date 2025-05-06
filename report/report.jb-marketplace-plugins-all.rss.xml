@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LocalizeMyApp - Tue May 06 16:38:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27266-localizemyapp</link>
+      <description>Localize your Android strings easily! Select a string key and auto-translate it into all missing languages in your project.
+
+vendor: Nick Bond
+downloads: 2
+pricingModel: FREE
+xmlId: org.chebur.LocalizeMyApp</description>
+      <pubDate>Tue, 06 May 2025 16:38:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27266-localizemyapp</guid>
+      <dc:date>2025-05-06T16:38:58Z</dc:date>
+    </item>
+    <item>
+      <title>ADB Helper - Tue May 06 09:59:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27138-adb-helper</link>
+      <description>you can right-click apk file files use adb Install and PUSH, but you first define your adb path with ANDROID_HOME.
+
+vendor: jiyuren
+downloads: 2
+pricingModel: FREE
+xmlId: com.jiyuren.adb</description>
+      <pubDate>Tue, 06 May 2025 09:59:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27138-adb-helper</guid>
+      <dc:date>2025-05-06T09:59:26Z</dc:date>
+    </item>
+    <item>
       <title>Acrool React Utils - Tue May 06 10:36:02 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27268-acrool-react-utils</link>
       <description>Acrool React Utils is a productivity toolkit for React development. It streamlines the creation of styled-components to minimize context switching and includes tools...
@@ -292,7 +318,7 @@ xmlId: com.majera.conventionalcomments</description>
       <dc:date>2025-05-02T15:11:12Z</dc:date>
     </item>
     <item>
-      <title>Commons Core - Sat May 03 15:24:56 UTC 2025</title>
+      <title>Commons Core - Tue May 06 16:40:47 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27248-commons-core</link>
       <description>IntelliJ Commons Core plugin GitHub | Issues A plugin that adds Commons Core annotations support to IDEA Features @ExtendedEnum.
 
@@ -300,9 +326,9 @@ vendor: Anton Lasevich
 downloads: 16
 pricingModel: FREE
 xmlId: host.anzo.commons-idea</description>
-      <pubDate>Sat, 03 May 2025 15:24:56 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 16:40:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27248-commons-core</guid>
-      <dc:date>2025-05-03T15:24:56Z</dc:date>
+      <dc:date>2025-05-06T16:40:47Z</dc:date>
     </item>
     <item>
       <title>xdt-syntax - Sun May 04 11:01:50 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: com.ai.code.my.review</description>
       <pubDate>Tue, 06 May 2025 12:04:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27114-ai-review</guid>
       <dc:date>2025-05-06T12:04:51Z</dc:date>
-    </item>
-    <item>
-      <title>TechSignific AI - Mon Apr 21 14:24:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/26324-techsignific-ai</link>
-      <description>The TechSignific AI plugin aims to provide easy access to all AI-related tools and services directly within the IntelliJ IDEA environment. Your AI-Augmented Software...
-
-vendor: TechSignific
-downloads: 34
-pricingModel: FREE
-xmlId: com.ai.techsignific.TechSignific</description>
-      <pubDate>Mon, 21 Apr 2025 14:24:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/26324-techsignific-ai</guid>
-      <dc:date>2025-04-21T14:24:33Z</dc:date>
-    </item>
-    <item>
-      <title>Translate AI - Sun May 04 00:06:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27117-translate-ai</link>
-      <description>Description Translate AI is an IntelliJ IDEA plugin that provides developers with convenient code translate functionality. This plugin understands and converts...
-
-vendor: FluxAI
-downloads: 303
-pricingModel: FREE
-xmlId: com.ai.boy.translate</description>
-      <pubDate>Sun, 04 May 2025 00:06:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27117-translate-ai</guid>
-      <dc:date>2025-05-04T00:06:42Z</dc:date>
     </item>
   </channel>
 </rss>
