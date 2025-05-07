@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Tact - Wed May 07 19:23:05 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27290-tact</link>
+      <description>Provides official support for Tact programming language. Features Semantic syntax highlighting Code completion, snippets, imports completion Go to definition...
+
+vendor: TON Studio
+downloads: 0
+pricingModel: FREE
+xmlId: org.tonstudio.tact</description>
+      <pubDate>Wed, 07 May 2025 19:23:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27290-tact</guid>
+      <dc:date>2025-05-07T19:23:05Z</dc:date>
+    </item>
+    <item>
+      <title>GoArrowFunctions - Wed May 07 05:57:42 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27297-goarrowfunctions</link>
+      <description>Introduction Folds Go anonymous functions to display them as arrow functions similar to Java lambdas. 介绍 折叠 Go 匿名函数以将其显示为类似于 Java lambda 的箭头函数。.
+
+vendor: zhen
+downloads: 0
+pricingModel: FREE
+xmlId: com.zhen.goArrowFunctions</description>
+      <pubDate>Wed, 07 May 2025 05:57:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27297-goarrowfunctions</guid>
+      <dc:date>2025-05-07T05:57:42Z</dc:date>
+    </item>
+    <item>
       <title>Cobol Forge - Tue May 06 03:53:49 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27294-cobol-forge</link>
       <description>A small COBOL language plugin for IntelliJ. Provides COPY previews by hovering over inlay hints.
@@ -19,7 +45,7 @@ xmlId: com.mituuz.cobolforge</description>
       <dc:date>2025-05-06T03:53:49Z</dc:date>
     </item>
     <item>
-      <title>External Lib Folding - Mon May 05 20:33:38 UTC 2025</title>
+      <title>External Lib Folding - Wed May 07 18:32:37 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27293-external-lib-folding</link>
       <description>This plugin transforms the flat list in the External Libraries section of IntelliJ IDEA's Project View into a hierarchical tree structure. Features: Organizes external...
 
@@ -27,9 +53,9 @@ vendor: Viktor Koltcov
 downloads: 0
 pricingModel: FREE
 xmlId: com.frees.idea-plugin-external-libraries-folding</description>
-      <pubDate>Mon, 05 May 2025 20:33:38 GMT</pubDate>
+      <pubDate>Wed, 07 May 2025 18:32:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27293-external-lib-folding</guid>
-      <dc:date>2025-05-05T20:33:38Z</dc:date>
+      <dc:date>2025-05-07T18:32:37Z</dc:date>
     </item>
     <item>
       <title>PojoToProto - Sun May 04 15:00:51 UTC 2025</title>
@@ -383,7 +409,7 @@ xmlId: com.github.aignatev.intellijxdtsyntax</description>
       <dc:date>2025-05-04T11:01:50Z</dc:date>
     </item>
     <item>
-      <title>JsonMapper - Wed May 07 14:23:42 UTC 2025</title>
+      <title>JsonMapper - Wed May 07 17:47:03 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27249-jsonmapper</link>
       <description>mapper that map the json to entity model and domain model creating the mapper between.
 
@@ -391,9 +417,9 @@ vendor: Aly Hamalawey
 downloads: 64
 pricingModel: FREE
 xmlId: org.hamalawey.JsonMapper</description>
-      <pubDate>Wed, 07 May 2025 14:23:42 GMT</pubDate>
+      <pubDate>Wed, 07 May 2025 17:47:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27249-jsonmapper</guid>
-      <dc:date>2025-05-07T14:23:42Z</dc:date>
+      <dc:date>2025-05-07T17:47:03Z</dc:date>
     </item>
     <item>
       <title>A-Touch-of-Watermelon - Wed May 07 04:41:35 UTC 2025</title>
@@ -526,7 +552,7 @@ xmlId: dev.abd3lraouf.openintools</description>
       <dc:date>2025-04-29T16:29:59Z</dc:date>
     </item>
     <item>
-      <title>JsonSql - Tue May 06 15:34:24 UTC 2025</title>
+      <title>JsonSql - Wed May 07 18:30:17 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27210-jsonsql</link>
       <description>Json Sql Retrieve the desired data from JSON using SQL And convert SQL to JSON again The supported SQL statements are： select *、name、name as alias、name.surname(Multi...
 
@@ -534,9 +560,9 @@ vendor: wwsbdy
 downloads: 83
 pricingModel: FREE
 xmlId: com.zj.jsonsql.JsonSql</description>
-      <pubDate>Tue, 06 May 2025 15:34:24 GMT</pubDate>
+      <pubDate>Wed, 07 May 2025 18:30:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27210-jsonsql</guid>
-      <dc:date>2025-05-06T15:34:24Z</dc:date>
+      <dc:date>2025-05-07T18:30:17Z</dc:date>
     </item>
     <item>
       <title>Latte Test Runner - Mon Apr 28 16:26:36 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: io.github.abpubli.dot-support</description>
       <pubDate>Sun, 20 Apr 2025 09:01:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27121-dot-support</guid>
       <dc:date>2025-04-20T09:01:34Z</dc:date>
-    </item>
-    <item>
-      <title>AutoMocker - Thu Apr 24 06:25:49 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27108-automocker</link>
-      <description>AutoMocker is an IntelliJ plugin that automatically mocks external service calls. It provides an interactive UI for configuring mock values and allows toggling between...
-
-vendor: HARSHAVARDHANA NAIDU
-downloads: 37
-pricingModel: FREE
-xmlId: com.automocker.plugin</description>
-      <pubDate>Thu, 24 Apr 2025 06:25:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27108-automocker</guid>
-      <dc:date>2025-04-24T06:25:49Z</dc:date>
-    </item>
-    <item>
-      <title>Pretty JSON Log Extend - Sun Apr 20 15:36:32 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27125-pretty-json-log-extend</link>
-      <description>Pretty JSON Log plugin for IntelliJ Platform makes NDJSON (Newline Delimited JSON a.k.a. JSON Lines) logs more readable in the console. It has the following features...
-
-vendor: Idan Shperling
-downloads: 116
-pricingModel: FREE
-xmlId: io.github.idanshperling.prettyjsonlog</description>
-      <pubDate>Sun, 20 Apr 2025 15:36:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27125-pretty-json-log-extend</guid>
-      <dc:date>2025-04-20T15:36:32Z</dc:date>
     </item>
   </channel>
 </rss>
