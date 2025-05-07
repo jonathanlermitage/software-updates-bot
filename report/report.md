@@ -18,7 +18,7 @@
 |![logo](../media/logo/gradle.png) Gradle|8.14|[gradle.org](https://gradle.org/releases/)|Fri Apr 25 12:03:08 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4|[inkscape.org](https://inkscape.org)|Sun Oct 13 20:02:40 UTC 2024|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1.1 (251.25410.28) ~ 2025-04-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Apr 24 12:03:07 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1 (251.23774.435) ~ 2025-04-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Apr 16 16:03:14 UTC 2025|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.1 (251.25410.109) ~ 2025-05-07|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed May 07 16:02:54 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.8.5 to 18.9.0 ~ 2025-04-19|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 19 16:03:05 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 324 - Devoxx France 2025 en live|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Apr 29 12:03:40 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:02:27 UTC 2025|
