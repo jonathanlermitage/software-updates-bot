@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Cobol Forge - Tue May 06 03:53:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27294-cobol-forge</link>
+      <description>A small COBOL language plugin for IntelliJ. Provides COPY previews by hovering over inlay hints.
+
+vendor: Mitja Leino
+downloads: 0
+pricingModel: FREE
+xmlId: com.mituuz.cobolforge</description>
+      <pubDate>Tue, 06 May 2025 03:53:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27294-cobol-forge</guid>
+      <dc:date>2025-05-06T03:53:49Z</dc:date>
+    </item>
+    <item>
+      <title>External Lib Folding - Mon May 05 20:33:38 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27293-external-lib-folding</link>
+      <description>This plugin transforms the flat list in the External Libraries section of IntelliJ IDEA's Project View into a hierarchical tree structure. Features: Organizes external...
+
+vendor: Viktor Koltcov
+downloads: 0
+pricingModel: FREE
+xmlId: com.frees.idea-plugin-external-libraries-folding</description>
+      <pubDate>Mon, 05 May 2025 20:33:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27293-external-lib-folding</guid>
+      <dc:date>2025-05-05T20:33:38Z</dc:date>
+    </item>
+    <item>
+      <title>PojoToProto - Sun May 04 15:00:51 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27281-pojotoproto</link>
+      <description>A simple IntelliJ IDEA plugin for converting Java POJOs to Protocol Buffer (protobuf) definitions. Supports conversion of Java classes to Protocol Buffer...
+
+vendor: Amritesh Gupta
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.amriteshgupta.pojotoproto</description>
+      <pubDate>Sun, 04 May 2025 15:00:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27281-pojotoproto</guid>
+      <dc:date>2025-05-04T15:00:51Z</dc:date>
+    </item>
+    <item>
       <title>LocalizeMyApp - Tue May 06 16:38:58 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27266-localizemyapp</link>
       <description>Localize your Android strings easily! Select a string key and auto-translate it into all missing languages in your project.
@@ -1265,45 +1304,6 @@ xmlId: io.github.idanshperling.prettyjsonlog</description>
       <pubDate>Sun, 20 Apr 2025 15:36:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27125-pretty-json-log-extend</guid>
       <dc:date>2025-04-20T15:36:32Z</dc:date>
-    </item>
-    <item>
-      <title>File Tree Generator - Fri Apr 18 16:40:09 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27113-file-tree-generator</link>
-      <description>Automatically generates and maintains a directory structure documentation file for Python projects. Features: Generates text or markdown documentation of your project...
-
-vendor: avaxerrr
-downloads: 60
-pricingModel: FREE
-xmlId: io.github.avaxerrr.filetreegenerator.dirdoc</description>
-      <pubDate>Fri, 18 Apr 2025 16:40:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27113-file-tree-generator</guid>
-      <dc:date>2025-04-18T16:40:09Z</dc:date>
-    </item>
-    <item>
-      <title>ruoyi-vue-plus-module-fast-generator - Mon Apr 21 02:33:19 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27105-ruoyi-vue-plus-module-fast-generator</link>
-      <description>Introduction RuoYi-Vue-Plus Module Fast Generator is an IntelliJ IDEA plugin designed to streamline the creation of new modules in RuoYi-Vue-Plus projects. It...
-
-vendor: kory kim
-downloads: 43
-pricingModel: FREE
-xmlId: com.github.korykim.ruoyivueplusmodulefastgenerator</description>
-      <pubDate>Mon, 21 Apr 2025 02:33:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27105-ruoyi-vue-plus-module-fast-generator</guid>
-      <dc:date>2025-04-21T02:33:19Z</dc:date>
-    </item>
-    <item>
-      <title>AI Review - Tue May 06 12:04:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27114-ai-review</link>
-      <description>AI Review utilizes advanced artificial intelligence to automatically generate comprehensive assessments of code quality. These reports not only highlight potential...
-
-vendor: LoopSmith
-downloads: 143
-pricingModel: FREE
-xmlId: com.ai.code.my.review</description>
-      <pubDate>Tue, 06 May 2025 12:04:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27114-ai-review</guid>
-      <dc:date>2025-05-06T12:04:51Z</dc:date>
     </item>
   </channel>
 </rss>
