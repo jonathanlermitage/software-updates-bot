@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>PanDev Jira Auto Worklog - Mon Apr 28 09:29:10 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27222-pandev-jira-auto-worklog</link>
+      <description>This plugin automatically logs time spent on tasks in your issue tracking system based on your commits in JetBrains IDEs. Every time you commit changes, the plugin...
+
+vendor: PanDev
+downloads: 2
+pricingModel: PAID
+xmlId: kz.pandev.jira_auto_worklog</description>
+      <pubDate>Mon, 28 Apr 2025 09:29:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27222-pandev-jira-auto-worklog</guid>
+      <dc:date>2025-04-28T09:29:10Z</dc:date>
+    </item>
+    <item>
+      <title>CodePins - Wed May 07 15:47:33 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27300-codepins</link>
+      <description>A lightweight plugin to pin any line of code and revisit it later.轻量图钉插件：可将任意代码行 &#x1f4cc; 添加为图钉，支持备注、跳转、搜索、删除、清空，持久化保存。.
+
+vendor: xuyi
+downloads: 0
+pricingModel: FREE
+xmlId: cn.ilikexff.codepins</description>
+      <pubDate>Wed, 07 May 2025 15:47:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27300-codepins</guid>
+      <dc:date>2025-05-07T15:47:33Z</dc:date>
+    </item>
+    <item>
+      <title>fix-viewer - Wed May 07 09:58:18 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27274-fix-viewer</link>
+      <description>This is a simple intellij plugin for viewing FIX (.fix) files.
+
+vendor: Robert Annett
+downloads: 2
+pricingModel: FREE
+xmlId: com.rannett.fix-viewer</description>
+      <pubDate>Wed, 07 May 2025 09:58:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27274-fix-viewer</guid>
+      <dc:date>2025-05-07T09:58:18Z</dc:date>
+    </item>
+    <item>
+      <title>Faros AI (Enterprise) - Tue May 06 17:58:07 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27238-faros-ai-enterprise-</link>
+      <description>Faros AI IntelliJ Plugin Faros AI IntelliJ Plugin is a powerful tool designed to bring real-time observability into your engineering workflows. With this plugin...
+
+vendor: Faros AI
+downloads: 3
+pricingModel: FREE
+xmlId: faros.ai</description>
+      <pubDate>Tue, 06 May 2025 17:58:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27238-faros-ai-enterprise-</guid>
+      <dc:date>2025-05-06T17:58:07Z</dc:date>
+    </item>
+    <item>
+      <title>Typograf - Wed May 07 08:11:31 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27298-typograf</link>
+      <description>Plugin for Android Studio, allowing to process string resources using the service https://www.artlebedev.ru/typograf/.
+
+vendor: krofes
+downloads: 0
+pricingModel: FREE
+xmlId: me.deft.typograf</description>
+      <pubDate>Wed, 07 May 2025 08:11:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27298-typograf</guid>
+      <dc:date>2025-05-07T08:11:31Z</dc:date>
+    </item>
+    <item>
       <title>Tact - Wed May 07 19:23:05 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27290-tact</link>
       <description>Provides official support for Tact programming language. Features Semantic syntax highlighting Code completion, snippets, imports completion Go to definition...
@@ -279,7 +344,7 @@ xmlId: org.tool.test.dp</description>
       <dc:date>2025-05-03T09:40:12Z</dc:date>
     </item>
     <item>
-      <title>Git Multi Merge - Sat May 03 02:52:42 UTC 2025</title>
+      <title>Git Multi Merge - Wed May 07 22:33:41 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27267-git-multi-merge</link>
       <description>Git Multi Merge Plugin para realizar o merge de uma branch source para múltiplas branches target simultaneamente, com opções de push automático e limpeza de branches...
 
@@ -287,9 +352,9 @@ vendor: Allan Santos
 downloads: 10
 pricingModel: FREE
 xmlId: com.plugin.gitmultimerge</description>
-      <pubDate>Sat, 03 May 2025 02:52:42 GMT</pubDate>
+      <pubDate>Wed, 07 May 2025 22:33:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27267-git-multi-merge</guid>
-      <dc:date>2025-05-03T02:52:42Z</dc:date>
+      <dc:date>2025-05-07T22:33:41Z</dc:date>
     </item>
     <item>
       <title>XhCodeTools - Fri May 02 16:44:49 UTC 2025</title>
@@ -1239,71 +1304,6 @@ xmlId: com.github.onuro.onuro</description>
       <pubDate>Mon, 05 May 2025 06:27:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27132-onuro</guid>
       <dc:date>2025-05-05T06:27:08Z</dc:date>
-    </item>
-    <item>
-      <title>Capi Copy - Tue Apr 22 02:17:14 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27135-capi-copy</link>
-      <description>&#x1f310; [&#x1f1fa;&#x1f1f8; English] Capi Copy helps you copy the current file’s path and content — or all open files — to the clipboard in a format ready for GPT prompts. &#x1f4c4; Copy...
-
-vendor: ByeongSub Jeong
-downloads: 31
-pricingModel: FREE
-xmlId: com.elenintech.capicopy</description>
-      <pubDate>Tue, 22 Apr 2025 02:17:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27135-capi-copy</guid>
-      <dc:date>2025-04-22T02:17:14Z</dc:date>
-    </item>
-    <item>
-      <title>Arthas-UI - Wed May 07 01:33:07 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/26846-arthas-ui</link>
-      <description>An IntelliJ IDEA Plugin that manage Arthas connections for you. Features Download the toolchain automatically (Arthas, Jattach).Support OGNL expression to filter the...
-
-vendor: DeSen Xu
-downloads: 110
-pricingModel: FREE
-xmlId: io.github.vudsen.arthas-ui</description>
-      <pubDate>Wed, 07 May 2025 01:33:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/26846-arthas-ui</guid>
-      <dc:date>2025-05-07T01:33:07Z</dc:date>
-    </item>
-    <item>
-      <title>Ethery - Tue Apr 22 08:58:10 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27128-ethery</link>
-      <description>Ethery Ethery enables developers to create, share, and use custom AI code assistants with our open-source JetBrains extension and hub of models, rules, prompts, docs...
-
-vendor: Rabiloo
-downloads: 195
-pricingModel: FREE
-xmlId: com.github.rabiloo.etheryintellijextension</description>
-      <pubDate>Tue, 22 Apr 2025 08:58:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27128-ethery</guid>
-      <dc:date>2025-04-22T08:58:10Z</dc:date>
-    </item>
-    <item>
-      <title>QuickCode AI - Wed May 07 15:05:00 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27122-quickcode-ai</link>
-      <description>QuickCode AI can serve as your coding assistant, allowing you to chat in the window on the right.The plugin uses AI to automatically generate commit messages...
-
-vendor: CodeWhisperer
-downloads: 377
-pricingModel: FREE
-xmlId: com.free.deep.mycode</description>
-      <pubDate>Wed, 07 May 2025 15:05:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27122-quickcode-ai</guid>
-      <dc:date>2025-05-07T15:05:00Z</dc:date>
-    </item>
-    <item>
-      <title>Dot Support - Sun Apr 20 09:01:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27121-dot-support</link>
-      <description>Provides editing and live preview support for Graphviz DOT language files (.dot). Features: Custom editor with integrated live preview panel. Multiple view modes: Code...
-
-vendor: Andrzej Borucki
-downloads: 78
-pricingModel: FREE
-xmlId: io.github.abpubli.dot-support</description>
-      <pubDate>Sun, 20 Apr 2025 09:01:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27121-dot-support</guid>
-      <dc:date>2025-04-20T09:01:34Z</dc:date>
     </item>
   </channel>
 </rss>
