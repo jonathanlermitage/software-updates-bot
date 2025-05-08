@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>I18next Preview - Thu May 08 08:07:12 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27305-i18next-preview</link>
+      <description>A plugin for i18next translation preview in JavaScript and TypeScript files.
+
+vendor: zjcrender
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.zjcrender.i18next</description>
+      <pubDate>Thu, 08 May 2025 08:07:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27305-i18next-preview</guid>
+      <dc:date>2025-05-08T08:07:12Z</dc:date>
+    </item>
+    <item>
+      <title>Crocodile for GitLab - Wed May 07 22:19:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab</link>
+      <description>Crocodile for GitLab plugin CI/CD variable manager for GitLab hosted projects Features Create, edit and delete CI/CD variables Copy and move variables between...
+
+vendor: Yan Pak
+downloads: 0
+pricingModel: FREE
+xmlId: YanPak.CrocodileForGitLab</description>
+      <pubDate>Wed, 07 May 2025 22:19:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab</guid>
+      <dc:date>2025-05-07T22:19:48Z</dc:date>
+    </item>
+    <item>
+      <title>Kratos Generator - Wed May 07 22:10:54 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27245-kratos-generator</link>
+      <description>Kratos Generator Plugin A code generator plugin for the Kratos microservices framework in GoLand. Provides quick code generation for Kratos projects, including proto...
+
+vendor: MXC
+downloads: 2
+pricingModel: FREE
+xmlId: com.mxc.kratos-generator-plugin</description>
+      <pubDate>Wed, 07 May 2025 22:10:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27245-kratos-generator</guid>
+      <dc:date>2025-05-07T22:10:54Z</dc:date>
+    </item>
+    <item>
+      <title>Cognotik - Thu May 08 02:39:05 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27289-cognotik</link>
+      <description>Cognotik is an open-source AI coding assistant plugin for IntelliJ IDEs, focusing on powerful, high-level agentic tools rather than just code completion. Leverage...
+
+vendor: SimiaCryptus Software
+downloads: 0
+pricingModel: FREE
+xmlId: com.simiacryptus.cognotik</description>
+      <pubDate>Thu, 08 May 2025 02:39:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27289-cognotik</guid>
+      <dc:date>2025-05-08T02:39:05Z</dc:date>
+    </item>
+    <item>
       <title>DubboMocker - Wed May 07 12:52:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27301-dubbomocker</link>
       <description>This is a plugin that quickly generates Mock data based on the dubbo provider, return mock data by intercept dubbo requests. It is very helpful for developer when...
@@ -95,6 +147,19 @@ xmlId: org.tonstudio.tact</description>
       <pubDate>Wed, 07 May 2025 19:23:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27290-tact</guid>
       <dc:date>2025-05-07T19:23:05Z</dc:date>
+    </item>
+    <item>
+      <title>Go Arrow Functions - Thu May 08 02:54:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27297-go-arrow-functions</link>
+      <description>Introduction Folds Go anonymous functions to display them as arrow functions similar to Java lambdas. 介绍 折叠 Go 匿名函数以将其显示为类似于 Java lambda 的箭头函数。.
+
+vendor: zhen
+downloads: 0
+pricingModel: FREE
+xmlId: com.zhen.goArrowFunctions</description>
+      <pubDate>Thu, 08 May 2025 02:54:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27297-go-arrow-functions</guid>
+      <dc:date>2025-05-08T02:54:44Z</dc:date>
     </item>
     <item>
       <title>Cobol Forge - Tue May 06 03:53:49 UTC 2025</title>
@@ -214,7 +279,7 @@ xmlId: com.mygittool.gitcheck</description>
       <dc:date>2025-05-06T13:54:12Z</dc:date>
     </item>
     <item>
-      <title>JavaFactory - Wed May 07 12:33:12 UTC 2025</title>
+      <title>JavaFactory - Thu May 08 11:27:49 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27246-javafactory</link>
       <description>JavaFactory JavaFactory is an LLM-powered IntelliJ plugin that automates code generation from reusable patterns. JavaFactory eliminates repetitive manual coding tasks...
 
@@ -222,9 +287,9 @@ vendor: JavaFactoryPluginDev
 downloads: 55
 pricingModel: FREE
 xmlId: io.github.javafactoryplugindev.plugin</description>
-      <pubDate>Wed, 07 May 2025 12:33:12 GMT</pubDate>
+      <pubDate>Thu, 08 May 2025 11:27:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27246-javafactory</guid>
-      <dc:date>2025-05-07T12:33:12Z</dc:date>
+      <dc:date>2025-05-08T11:27:49Z</dc:date>
     </item>
     <item>
       <title>AI Coworker - Tue Apr 22 22:10:47 UTC 2025</title>
@@ -1228,7 +1293,7 @@ xmlId: com.github.tamj0rd2.anuraplugin</description>
       <dc:date>2025-04-23T10:07:58Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Junit Test - Sat May 03 11:07:48 UTC 2025</title>
+      <title>DeepSeek Junit Test - Thu May 08 11:08:05 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27143-deepseek-junit-test</link>
       <description>Use the deepseek - ai model to generate corresponding unit tests for the code in the project. The usage method is to select a Java file in the Maven project, click...
 
@@ -1236,74 +1301,9 @@ vendor: Vroni
 downloads: 291
 pricingModel: FREE
 xmlId: org.work.deepseek-unit.tools</description>
-      <pubDate>Sat, 03 May 2025 11:07:48 GMT</pubDate>
+      <pubDate>Thu, 08 May 2025 11:08:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27143-deepseek-junit-test</guid>
-      <dc:date>2025-05-03T11:07:48Z</dc:date>
-    </item>
-    <item>
-      <title>Android Drawable Preview Pro - Tue May 06 08:55:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27146-android-drawable-preview-pro</link>
-      <description>Render drawable instead of default icon. Supports binary and vector images.
-
-vendor: husttwj
-downloads: 247
-pricingModel: FREE
-xmlId: com.husttwj.drawablepreview</description>
-      <pubDate>Tue, 06 May 2025 08:55:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27146-android-drawable-preview-pro</guid>
-      <dc:date>2025-05-06T08:55:54Z</dc:date>
-    </item>
-    <item>
-      <title>CommitGraph - Sat Apr 19 14:21:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27116-commitgraph</link>
-      <description>Visualize Git commit history in the IDE, providing functionality similar to GitHub's contribution graph. Helps developers better understand project activity at a...
-
-vendor: bvin
-downloads: 26
-pricingModel: FREE
-xmlId: bvin.dev.plugin.commitgraph</description>
-      <pubDate>Sat, 19 Apr 2025 14:21:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27116-commitgraph</guid>
-      <dc:date>2025-04-19T14:21:26Z</dc:date>
-    </item>
-    <item>
-      <title>SVG Icon Downloader - Sun Apr 20 17:28:12 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27126-svg-icon-downloader</link>
-      <description>A plugin for JetBrains IDEs that finds and downloads SVG icons from svgrepo.com directly from your IDE. Key features: Search and browse SVG icons from svgrepo.com...
-
-vendor: jonasd
-downloads: 41
-pricingModel: FREE
-xmlId: svg.downloader</description>
-      <pubDate>Sun, 20 Apr 2025 17:28:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27126-svg-icon-downloader</guid>
-      <dc:date>2025-04-20T17:28:12Z</dc:date>
-    </item>
-    <item>
-      <title>Onuro - Mon May 05 06:27:08 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27132-onuro</link>
-      <description>Onuro Onuro offers a best in class AI coding experience, designed to make complex interactions with AI feel seamless and easy. Built with high performance and...
-
-vendor: Onuro
-downloads: 316
-pricingModel: FREE
-xmlId: com.github.onuro.onuro</description>
-      <pubDate>Mon, 05 May 2025 06:27:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27132-onuro</guid>
-      <dc:date>2025-05-05T06:27:08Z</dc:date>
-    </item>
-    <item>
-      <title>Capi Copy - Thu May 08 04:42:52 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27135-capi-copy</link>
-      <description>&#x1f310; [&#x1f1fa;&#x1f1f8; English] Capi Copy helps you copy the current file’s path and content — or all open files — to the clipboard in a format ready for GPT prompts. &#x1f4c4; Copy...
-
-vendor: ByeongSub Jeong
-downloads: 32
-pricingModel: FREE
-xmlId: com.elenintech.capicopy</description>
-      <pubDate>Thu, 08 May 2025 04:42:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27135-capi-copy</guid>
-      <dc:date>2025-05-08T04:42:52Z</dc:date>
+      <dc:date>2025-05-08T11:08:05Z</dc:date>
     </item>
   </channel>
 </rss>
