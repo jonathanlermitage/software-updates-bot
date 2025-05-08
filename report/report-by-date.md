@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.1 (251.25410.109) ~ 2025-05-07|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed May 07 16:02:54 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.3|[golang.org](https://golang.org/dl/)|Tue May 06 20:02:42 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.0.0|[nodejs.org](https://nodejs.org)|Tue May 06 16:03:23 UTC 2025|
@@ -25,11 +30,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 08 20:02:53 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:02:27 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 13|13.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 20 16:02:34 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.20|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 16:02:46 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 16:02:05 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|

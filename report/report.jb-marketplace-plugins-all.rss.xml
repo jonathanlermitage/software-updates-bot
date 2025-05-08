@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MyLocalTon - Thu May 08 11:58:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27295-mylocalton</link>
+      <description>TON Blockchain inside IntelliJ: Allows to run local TON blockchain with native explorer and TON HTTP API. Ideal for quick smart-contract development using third-party...
+
+vendor: neodix
+downloads: 1
+pricingModel: FREE
+xmlId: org.ton.mylocalton-intellij</description>
+      <pubDate>Thu, 08 May 2025 11:58:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27295-mylocalton</guid>
+      <dc:date>2025-05-08T11:58:49Z</dc:date>
+    </item>
+    <item>
       <title>I18next Preview - Thu May 08 08:07:12 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27305-i18next-preview</link>
       <description>A plugin for i18next translation preview in JavaScript and TypeScript files.
@@ -19,17 +32,17 @@ xmlId: com.github.zjcrender.i18next</description>
       <dc:date>2025-05-08T08:07:12Z</dc:date>
     </item>
     <item>
-      <title>Crocodile for GitLab - Wed May 07 22:19:48 UTC 2025</title>
+      <title>Crocodile for GitLab - Thu May 08 15:51:03 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab</link>
-      <description>Crocodile for GitLab plugin CI/CD variable manager for GitLab hosted projects Features Create, edit and delete CI/CD variables Copy and move variables between...
+      <description>CI/CD variable manager for GitLab hosted projects Features Create, edit and delete CI/CD variables Copy and move variables between environments Search variables Create...
 
 vendor: Yan Pak
 downloads: 0
 pricingModel: FREE
 xmlId: YanPak.CrocodileForGitLab</description>
-      <pubDate>Wed, 07 May 2025 22:19:48 GMT</pubDate>
+      <pubDate>Thu, 08 May 2025 15:51:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab</guid>
-      <dc:date>2025-05-07T22:19:48Z</dc:date>
+      <dc:date>2025-05-08T15:51:03Z</dc:date>
     </item>
     <item>
       <title>Kratos Generator - Wed May 07 22:10:54 UTC 2025</title>
@@ -942,7 +955,7 @@ xmlId: com.github.hichemtabtech.jettreemark</description>
       <dc:date>2025-05-03T23:18:42Z</dc:date>
     </item>
     <item>
-      <title>SSH Password Manager - Wed Apr 30 14:21:55 UTC 2025</title>
+      <title>SSH Password Manager - Thu May 08 14:18:43 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27192-ssh-password-manager</link>
       <description>A comprehensive SSH password manager which securely initiates SSH connections to the IDE's terminal using your saved, encoded passwords. Features include: Store all...
 
@@ -950,9 +963,9 @@ vendor: feelixs
 downloads: 48
 pricingModel: FREE
 xmlId: com.github.feelixs.sshplugin</description>
-      <pubDate>Wed, 30 Apr 2025 14:21:55 GMT</pubDate>
+      <pubDate>Thu, 08 May 2025 14:18:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27192-ssh-password-manager</guid>
-      <dc:date>2025-04-30T14:21:55Z</dc:date>
+      <dc:date>2025-05-08T14:18:43Z</dc:date>
     </item>
     <item>
       <title>True Dark Candy Color Scheme - Sat Apr 26 19:32:20 UTC 2025</title>
@@ -1059,7 +1072,7 @@ xmlId: com.github.jaksonlin.testcraftpro</description>
       <dc:date>2025-05-06T05:25:42Z</dc:date>
     </item>
     <item>
-      <title>AI Code Report - Sun May 04 10:10:12 UTC 2025</title>
+      <title>AI Code Report - Thu May 08 12:06:30 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27220-ai-code-report</link>
       <description>This plugin leverages deepseek and artificial intelligence to automatically create code quality assessment reports, assisting you in enhancing the quality of your...
 
@@ -1067,9 +1080,9 @@ vendor: Vroni
 downloads: 97
 pricingModel: FREE
 xmlId: com.ai.code.report</description>
-      <pubDate>Sun, 04 May 2025 10:10:12 GMT</pubDate>
+      <pubDate>Thu, 08 May 2025 12:06:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27220-ai-code-report</guid>
-      <dc:date>2025-05-04T10:10:12Z</dc:date>
+      <dc:date>2025-05-08T12:06:30Z</dc:date>
     </item>
     <item>
       <title>Key Actions - Mon Apr 28 07:35:45 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: com.github.tamj0rd2.anuraplugin</description>
       <pubDate>Wed, 23 Apr 2025 10:07:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/26704-anura</guid>
       <dc:date>2025-04-23T10:07:58Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek Junit Test - Thu May 08 11:08:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27143-deepseek-junit-test</link>
-      <description>Use the deepseek - ai model to generate corresponding unit tests for the code in the project. The usage method is to select a Java file in the Maven project, click...
-
-vendor: Vroni
-downloads: 291
-pricingModel: FREE
-xmlId: org.work.deepseek-unit.tools</description>
-      <pubDate>Thu, 08 May 2025 11:08:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27143-deepseek-junit-test</guid>
-      <dc:date>2025-05-08T11:08:05Z</dc:date>
     </item>
   </channel>
 </rss>
