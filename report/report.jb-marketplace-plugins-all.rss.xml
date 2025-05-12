@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>TableTest - Sun May 11 20:03:27 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27334-tabletest</link>
+      <description>Adds support for the table language used in TableTest for data-driven testing in JUnit 5. Features: Auto-formatting TableTest table to align columnsSyntax highlighting...
+
+vendor: Nils Christian Haugen
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.nchaugen.tabletest</description>
+      <pubDate>Sun, 11 May 2025 20:03:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27334-tabletest</guid>
+      <dc:date>2025-05-11T20:03:27Z</dc:date>
+    </item>
+    <item>
+      <title>KarateGen - Thu May 08 01:37:12 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27283-karategen</link>
+      <description>A premium plugin for generating Karate DSL code from various sources like curl commands, Postman collections, or Swagger/OpenAPI specifications. This plugin requires a...
+
+vendor: sercheo
+downloads: 2
+pricingModel: PAID
+xmlId: com.sercheo.KarateGen</description>
+      <pubDate>Thu, 08 May 2025 01:37:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27283-karategen</guid>
+      <dc:date>2025-05-08T01:37:12Z</dc:date>
+    </item>
+    <item>
+      <title>code-review-helper - Fri May 09 11:22:31 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27318-code-review-helper</link>
+      <description>This plugin automatically reviews your Java code using OpenAI's GPT-4 before every commit. It detects bugs, bad practices, performance issues, and security flaws...
+
+vendor: Rohit Phutane
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.rohit091193.codereviewhelper</description>
+      <pubDate>Fri, 09 May 2025 11:22:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27318-code-review-helper</guid>
+      <dc:date>2025-05-09T11:22:31Z</dc:date>
+    </item>
+    <item>
+      <title>CoverageQuickLink - Sun May 11 19:38:52 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27333-coveragequicklink</link>
+      <description>Seamless Code Coverage Analysis Enhance your development workflow with integrated code coverage analysis directly within IntelliJ IDEA. This plugin provides...
+
+vendor: S Manthira Perakshi Sudarson
+downloads: 0
+pricingModel: FREE
+xmlId: org.stark.CoverageQuickLink</description>
+      <pubDate>Sun, 11 May 2025 19:38:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27333-coveragequicklink</guid>
+      <dc:date>2025-05-11T19:38:52Z</dc:date>
+    </item>
+    <item>
+      <title>JumpToNql - Fri May 09 02:39:54 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27304-jumptonql</link>
+      <description>java "NamedQuery" method jump to '.nql.xml' file. java "NamedQuery" 方法跳转到 ".nql.xml" 文件.
+
+vendor: ZhangZemin
+downloads: 4
+pricingModel: FREE
+xmlId: com.skyland.jumptonql</description>
+      <pubDate>Fri, 09 May 2025 02:39:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27304-jumptonql</guid>
+      <dc:date>2025-05-09T02:39:54Z</dc:date>
+    </item>
+    <item>
+      <title>YAML Runner - Mon May 12 07:57:06 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27230-yaml-runner</link>
+      <description>Adds run buttons to YAML files. Click to run or debug directly. It executes the specified Java main method, passing the YAML file path as an argument. In IDEA version...
+
+vendor: saoqixiaomm
+downloads: 1
+pricingModel: FREE
+xmlId: com.mm.yaml-runner</description>
+      <pubDate>Mon, 12 May 2025 07:57:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27230-yaml-runner</guid>
+      <dc:date>2025-05-12T07:57:06Z</dc:date>
+    </item>
+    <item>
       <title>Code Portal - Thu May 08 00:55:18 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27209-code-portal</link>
       <description>Working with multiple editors? Code Portal is a plugin that allows you to open the current file in another editor and retain the cursor position and selection with...
@@ -136,17 +214,17 @@ xmlId: com.clover.dubboMocker</description>
       <dc:date>2025-05-07T12:52:33Z</dc:date>
     </item>
     <item>
-      <title>PanDev Jira Auto Worklog - Mon Apr 28 09:29:10 UTC 2025</title>
+      <title>PanDev Jira Auto Worklog - Mon May 12 14:34:12 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27222-pandev-jira-auto-worklog</link>
-      <description>This plugin automatically logs time spent on tasks in your issue tracking system based on your commits in JetBrains IDEs. Every time you commit changes, the plugin...
+      <description>&#x1f680; PanDev Jira Auto Worklog Effortless Jira time tracking — powered by your Git workflow. This plugin automatically logs time in Jira every time you commit code in...
 
 vendor: PanDev
 downloads: 23
 pricingModel: PAID
 xmlId: kz.pandev.jira_auto_worklog</description>
-      <pubDate>Mon, 28 Apr 2025 09:29:10 GMT</pubDate>
+      <pubDate>Mon, 12 May 2025 14:34:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27222-pandev-jira-auto-worklog</guid>
-      <dc:date>2025-04-28T09:29:10Z</dc:date>
+      <dc:date>2025-05-12T14:34:12Z</dc:date>
     </item>
     <item>
       <title>CodePins - Wed May 07 15:47:33 UTC 2025</title>
@@ -331,7 +409,7 @@ xmlId: com.mixel.stacktrace</description>
       <dc:date>2025-05-04T02:40:32Z</dc:date>
     </item>
     <item>
-      <title>Gitcheck - Tue May 06 13:54:12 UTC 2025</title>
+      <title>Gitcheck - Mon May 12 15:15:22 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27271-gitcheck</link>
       <description>This is used for reminder teammate to pull request from master branch.
 
@@ -339,9 +417,9 @@ vendor: wangleihop
 downloads: 34
 pricingModel: FREE
 xmlId: com.mygittool.gitcheck</description>
-      <pubDate>Tue, 06 May 2025 13:54:12 GMT</pubDate>
+      <pubDate>Mon, 12 May 2025 15:15:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27271-gitcheck</guid>
-      <dc:date>2025-05-06T13:54:12Z</dc:date>
+      <dc:date>2025-05-12T15:15:22Z</dc:date>
     </item>
     <item>
       <title>JavaFactory - Thu May 08 11:27:49 UTC 2025</title>
@@ -1226,84 +1304,6 @@ xmlId: org.jetbrains.idea.maven</description>
       <pubDate>Wed, 07 May 2025 12:30:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27164-maven</guid>
       <dc:date>2025-05-07T12:30:49Z</dc:date>
-    </item>
-    <item>
-      <title>Large Commit Watcher - Tue Apr 29 08:18:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27136-large-commit-watcher</link>
-      <description>Special Thanks to OSSA, Baksal, DexCorder, Jay_R, K3 Large Commit Watcher is a plugin that analyzes the number of changed lines before a Git commit and provides...
-
-vendor: hi_hyung
-downloads: 69
-pricingModel: FREE
-xmlId: com.plugin.commitwatcher</description>
-      <pubDate>Tue, 29 Apr 2025 08:18:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27136-large-commit-watcher</guid>
-      <dc:date>2025-04-29T08:18:39Z</dc:date>
-    </item>
-    <item>
-      <title>Mdx Daemon - Wed Apr 23 21:42:29 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27159-mdx-daemon</link>
-      <description>Boost your Android development productivity with background builds powered by the MDX Daemon. This plugin automatically runs background work as need to boost developer...
-
-vendor: Block
-downloads: 69
-pricingModel: FREE
-xmlId: com.squareup.tools.mdx-daemon-plugin</description>
-      <pubDate>Wed, 23 Apr 2025 21:42:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27159-mdx-daemon</guid>
-      <dc:date>2025-04-23T21:42:29Z</dc:date>
-    </item>
-    <item>
-      <title>QSS Toolkit - Thu Apr 24 10:16:25 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27155-qss-toolkit</link>
-      <description>QSS Toolkit: Complete Qt Style Sheet Support for PyCharm and IntelliJ-based IDEs QSS Toolkit adds comprehensive Qt Style Sheet editing capabilities to PyCharm and...
-
-vendor: avaxerrr
-downloads: 425
-pricingModel: FREE
-xmlId: io.github.avaxerrr.qsstoolkit</description>
-      <pubDate>Thu, 24 Apr 2025 10:16:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27155-qss-toolkit</guid>
-      <dc:date>2025-04-24T10:16:25Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek Junit Tools - Mon May 12 11:11:06 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27163-deepseek-junit-tools</link>
-      <description>Use the deepseek - ai model to generate corresponding unit tests for the code in the project. The usage method is to select a Java file in the Maven project, click...
-
-vendor: CodeWhisperer
-downloads: 233
-pricingModel: FREE
-xmlId: org.mm.tool.junit</description>
-      <pubDate>Mon, 12 May 2025 11:11:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27163-deepseek-junit-tools</guid>
-      <dc:date>2025-05-12T11:11:06Z</dc:date>
-    </item>
-    <item>
-      <title>Flutter Clean Architecture Helper - Thu Apr 24 01:04:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27160-flutter-clean-architecture-helper</link>
-      <description>Adds a generator to the New context menu to create the Clean-Architecture folder structure for a given feature.
-
-vendor: NeoShadow
-downloads: 57
-pricingModel: FREE
-xmlId: org.clean.architecture</description>
-      <pubDate>Thu, 24 Apr 2025 01:04:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27160-flutter-clean-architecture-helper</guid>
-      <dc:date>2025-04-24T01:04:36Z</dc:date>
-    </item>
-    <item>
-      <title>Fast Doc - Tue Apr 29 01:49:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27130-fast-doc</link>
-      <description>English introduction Generate interface documents in markdown format based on spring controller method Help you quickly generate interface documents Lightweight, easy...
-
-vendor: zhen
-downloads: 116
-pricingModel: FREE
-xmlId: com.lwz.doc</description>
-      <pubDate>Tue, 29 Apr 2025 01:49:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27130-fast-doc</guid>
-      <dc:date>2025-04-29T01:49:39Z</dc:date>
     </item>
   </channel>
 </rss>
