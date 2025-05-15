@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.13776.59) ~ 2025-05-15|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 15 16:03:04 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.0.2|[nodejs.org](https://nodejs.org)|Thu May 15 00:05:58 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|20.19.2|[nodejs.org](https://nodejs.org)|Thu May 15 00:05:58 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
@@ -13,7 +14,6 @@
 |![logo](../media/logo/go.png) Go|go1.24.3|[golang.org](https://golang.org/dl/)|Tue May 06 20:02:42 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14|[gradle.org](https://gradle.org/releases/)|Fri Apr 25 12:03:08 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 24 16:03:38 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.1.1 (251.25410.28) ~ 2025-04-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Apr 24 12:03:07 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:02:33 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Sun Apr 20 16:02:32 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.27+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Apr 20 16:02:30 UTC 2025|
