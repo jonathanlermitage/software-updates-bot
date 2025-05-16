@@ -28,10 +28,7 @@ abstract class NodeJSChecker(
         val version = if (type == NodeJSType.CURRENT) {
             versions[0].version
         } else {
-            versions
-                .filter { nodeJSApiResponse: NodeJSApiResponse -> nodeJSApiResponse.lts != null }
-                .filter { nodeJSApiResponse: NodeJSApiResponse -> nodeJSApiResponse.lts!!.lowercase() == "iron" }[0]
-                .version
+            versions.first { nodeJSApiResponse: NodeJSApiResponse -> nodeJSApiResponse.lts != "false" }.version
         }
 
         return SoftwareUpdate(
