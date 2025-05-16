@@ -6,7 +6,7 @@ val detektVersion = "1.23.8" // IMPORTANT don't forget to update plugin version 
 val prjJavaVersion = JavaVersion.VERSION_17
 
 plugins {
-    val kotlinVersion = "2.1.20"
+    val kotlinVersion = "2.1.21"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
@@ -32,7 +32,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("com.google.code.gson:gson:2.13.1")
     implementation("com.jayway.jsonpath:json-path:2.9.0")
-    implementation("org.jsoup:jsoup:1.19.1") // https://jsoup.org/news/
+    implementation("org.jsoup:jsoup:1.20.1") // https://jsoup.org/news/
     implementation("commons-io:commons-io:2.19.0")
     implementation("org.apache.commons:commons-lang3:3.17.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
