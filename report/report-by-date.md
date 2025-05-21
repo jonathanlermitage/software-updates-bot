@@ -1,8 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|22.15.1|[nodejs.org](https://nodejs.org)|Fri May 16 13:04:19 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|22.16.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS Current|24.1.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.9.0 to 18.9.5 ~ 2025-05-21|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed May 21 16:03:02 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.13776.59) ~ 2025-05-15|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 15 16:03:04 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS Current|24.0.2|[nodejs.org](https://nodejs.org)|Thu May 15 00:05:58 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.1.1 (251.25410.129) ~ 2025-05-09|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri May 09 16:03:09 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 325 - Trier le hachis des concurrents|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri May 09 12:03:17 UTC 2025|
@@ -17,7 +18,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:02:33 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Sun Apr 20 16:02:32 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.27+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Apr 20 16:02:30 UTC 2025|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.8.5 to 18.9.0 ~ 2025-04-19|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 19 16:03:05 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Fri Apr 18 00:05:38 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.27+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Fri Apr 18 00:05:35 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 17 20:02:40 UTC 2025|
