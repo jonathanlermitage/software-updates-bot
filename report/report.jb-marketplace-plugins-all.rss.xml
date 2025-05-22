@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Spring Boot Banner - Wed May 21 19:55:41 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27436-spring-boot-banner</link>
+      <description>Spring Boot Banner Generator A simple IntelliJ plugin to generate ASCII art banners for your Spring Boot projects. Right-click from src folder of the project or module...
+
+vendor: Eduardo Maravilla
+downloads: 0
+pricingModel: FREE
+xmlId: org.maravilla.SpringBootBannerPlugin</description>
+      <pubDate>Wed, 21 May 2025 19:55:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27436-spring-boot-banner</guid>
+      <dc:date>2025-05-21T19:55:41Z</dc:date>
+    </item>
+    <item>
+      <title>Show Summary Tooltips - Tue Apr 29 17:59:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27177-show-summary-tooltips</link>
+      <description>This plugin allows you to show tooltips with short description of projects (tag "Description" in .csproj) and C# files (tag "summary" in .cs files) in .sln project...
+
+vendor: AnastasiaKallisto
+downloads: 1
+pricingModel: FREE
+xmlId: com.commonroom.showprojecttreetooltips</description>
+      <pubDate>Tue, 29 Apr 2025 17:59:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27177-show-summary-tooltips</guid>
+      <dc:date>2025-04-29T17:59:35Z</dc:date>
+    </item>
+    <item>
       <title>AI Code Master - Wed May 21 10:18:00 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27428-ai-code-master</link>
       <description>AI Code Master is an IntelliJ IDEA plugin powered by AI to help developers streamline their workflow with intelligent features: AI Commit Message Generation...
@@ -1278,32 +1304,6 @@ xmlId: com.github.dilika.tailwindsmartplugin</description>
       <pubDate>Sat, 10 May 2025 18:57:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27275-tailwind-css-support</guid>
       <dc:date>2025-05-10T18:57:03Z</dc:date>
-    </item>
-    <item>
-      <title>Search Pattern Usages - Mon May 05 09:37:59 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27272-search-pattern-usages</link>
-      <description>A plugin for adding additional targets to a Find Usages operation via Search Patterns for elements (functions, variables, etc) on the same class. Primarily useful for...
-
-vendor: Billy Fletcher
-downloads: 4
-pricingModel: FREE
-xmlId: com.billyfletcher.plugins.SearchPatternUsages</description>
-      <pubDate>Mon, 05 May 2025 09:37:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27272-search-pattern-usages</guid>
-      <dc:date>2025-05-05T09:37:59Z</dc:date>
-    </item>
-    <item>
-      <title>DBSynth - Sat May 03 20:16:06 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27276-dbsynth</link>
-      <description>Database Entity Visualizer - A powerful plugin for visualizing JPA entities and their relationships. This plugin helps developers visualize, analyze, create and...
-
-vendor: Bropy
-downloads: 18
-pricingModel: FREE
-xmlId: org.nx.dbtablescounter</description>
-      <pubDate>Sat, 03 May 2025 20:16:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27276-dbsynth</guid>
-      <dc:date>2025-05-03T20:16:06Z</dc:date>
     </item>
   </channel>
 </rss>
