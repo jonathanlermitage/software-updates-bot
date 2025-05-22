@@ -15,7 +15,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:02:33 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 16:02:05 UTC 2024|
 |![logo](../media/logo/go.png) Go|go1.24.3|[golang.org](https://golang.org/dl/)|Tue May 06 20:02:42 UTC 2025|
-|![logo](../media/logo/gradle.png) Gradle|8.14|[gradle.org](https://gradle.org/releases/)|Fri Apr 25 12:03:08 UTC 2025|
+|![logo](../media/logo/gradle.png) Gradle|8.14.1|[gradle.org](https://gradle.org/releases/)|Thu May 22 16:02:57 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.16512.17) ~ 2025-05-21|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed May 21 20:02:52 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.1.1 (251.25410.129) ~ 2025-05-09|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri May 09 16:03:09 UTC 2025|
@@ -37,6 +37,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 08 20:02:53 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.3|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 08 20:02:54 UTC 2025|
-|![logo](../media/logo/springboot.png) Spring Boot|3.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 24 16:03:38 UTC 2025|
+|![logo](../media/logo/springboot.png) Spring Boot|3.4.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 22 16:03:14 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.20|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 16:02:46 UTC 2025|

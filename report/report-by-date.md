@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|3.4.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu May 22 16:03:14 UTC 2025|
+|![logo](../media/logo/gradle.png) Gradle|8.14.1|[gradle.org](https://gradle.org/releases/)|Thu May 22 16:02:57 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.16512.17) ~ 2025-05-21|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed May 21 20:02:52 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.1.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.16.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
@@ -13,8 +15,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.5|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.3|[golang.org](https://golang.org/dl/)|Tue May 06 20:02:42 UTC 2025|
-|![logo](../media/logo/gradle.png) Gradle|8.14|[gradle.org](https://gradle.org/releases/)|Fri Apr 25 12:03:08 UTC 2025|
-|![logo](../media/logo/springboot.png) Spring Boot|3.4.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 24 16:03:38 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:02:33 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Sun Apr 20 16:02:32 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.27+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sun Apr 20 16:02:30 UTC 2025|
