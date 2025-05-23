@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Icon Decorator - Fri May 23 09:24:51 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27448-icon-decorator</link>
+      <description>This plugin lets you customize icons in the Project View. You can choose from a small set of built-in icons or use your own. The icons are automatically applied based...
+
+vendor: hongjun
+downloads: 0
+pricingModel: FREE
+xmlId: org.my.tool.icon</description>
+      <pubDate>Fri, 23 May 2025 09:24:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27448-icon-decorator</guid>
+      <dc:date>2025-05-23T09:24:51Z</dc:date>
+    </item>
+    <item>
+      <title>BrickBreakerGame - Fri May 23 10:33:47 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27450-brickbreakergame</link>
+      <description>This is a casual brick-breaking mini-game that can help you relax after work 这是一个打砖块的休闲小游戏，能让你在工作之余放松一下 如下图： If you would like to engage in deeper technical...
+
+vendor: xiaodonglicn
+downloads: 0
+pricingModel: FREE
+xmlId: com.lxd.brick-breaker-game</description>
+      <pubDate>Fri, 23 May 2025 10:33:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27450-brickbreakergame</guid>
+      <dc:date>2025-05-23T10:33:47Z</dc:date>
+    </item>
+    <item>
+      <title>PITest - Thu May 22 21:22:28 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27437-pitest</link>
+      <description>Run PIT mutation tests from IntelliJ IDEA. Features: Run against any combination of files -- automatically matches sources and testsSee mutation icons directly in IDE...
+
+vendor: Brendan McCarthy
+downloads: 7
+pricingModel: FREE
+xmlId: com.github.bmccar.pitestidea</description>
+      <pubDate>Thu, 22 May 2025 21:22:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27437-pitest</guid>
+      <dc:date>2025-05-22T21:22:28Z</dc:date>
+    </item>
+    <item>
+      <title>TCA - Fri May 23 03:37:33 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27080-tca</link>
+      <description>Tencent Cloud Code Analysis(TCA) IDEA plugin. Official website: https://tca.tencent.com/. This plugin supports configuring TCA client for local analysis, viewing...
+
+vendor: Tencent Cloud Code Analysis
+downloads: 1
+pricingModel: FREE
+xmlId: com.tencent.TCA</description>
+      <pubDate>Fri, 23 May 2025 03:37:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27080-tca</guid>
+      <dc:date>2025-05-23T03:37:33Z</dc:date>
+    </item>
+    <item>
+      <title>Colorful Color Scheme - Thu May 22 09:57:56 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27441-colorful-color-scheme</link>
+      <description>A Colorful theme for Goland, with highly distinctive colors to help improve code readability.
+
+vendor: Dokiy
+downloads: 0
+pricingModel: FREE
+xmlId: color.scheme.Colorful</description>
+      <pubDate>Thu, 22 May 2025 09:57:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27441-colorful-color-scheme</guid>
+      <dc:date>2025-05-22T09:57:56Z</dc:date>
+    </item>
+    <item>
       <title>Claude Code [Beta] - Wed May 21 00:39:27 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27310-claude-code-beta-</link>
       <description>IMPORTANT: This plugin requires Claude Code to be installed separately. For more information, see claude.ai/code. Integrate Claude Code with your favorite development...
@@ -292,7 +357,7 @@ xmlId: com.liuhao.customImport</description>
       <dc:date>2025-05-17T10:11:54Z</dc:date>
     </item>
     <item>
-      <title>OpenAPI GUI Editor - Wed May 21 11:27:52 UTC 2025</title>
+      <title>OpenAPI GUI Editor - Fri May 23 09:06:28 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27118-openapi-gui-editor</link>
       <description>GUI Editor for OpenAPI specification (OAS) 3.1.*. Why does the plugin exist? While the OpenAPI (former swagger) specification was initially designed to be...
 
@@ -300,9 +365,9 @@ vendor: Anton Okolelov
 downloads: 33
 pricingModel: PAID
 xmlId: com.github.antonokolelov.openapiguieditor</description>
-      <pubDate>Wed, 21 May 2025 11:27:52 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 09:06:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27118-openapi-gui-editor</guid>
-      <dc:date>2025-05-21T11:27:52Z</dc:date>
+      <dc:date>2025-05-23T09:06:28Z</dc:date>
     </item>
     <item>
       <title>Batch Renamer - Sat May 17 09:07:25 UTC 2025</title>
@@ -1239,71 +1304,6 @@ xmlId: org.aixsoft.stream-navigator</description>
       <pubDate>Mon, 05 May 2025 10:23:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27284-stream-navigator</guid>
       <dc:date>2025-05-05T10:23:38Z</dc:date>
-    </item>
-    <item>
-      <title>StackTrace - Mon May 19 00:08:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27279-stacktrace</link>
-      <description>StackTrace is a one-click forensic snapshot for Python debugger sessions. Whenever execution stops—on an exception, breakpoint, or your own hot-key—StackTrace...
-
-vendor: Michael Leitsin
-downloads: 53
-pricingModel: PAID
-xmlId: com.mixel.stacktrace</description>
-      <pubDate>Mon, 19 May 2025 00:08:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27279-stacktrace</guid>
-      <dc:date>2025-05-19T00:08:26Z</dc:date>
-    </item>
-    <item>
-      <title>Gitcheck - Tue May 20 15:42:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27271-gitcheck</link>
-      <description>This is used for reminder teammate to pull request from master branch.
-
-vendor: wangleihop
-downloads: 158
-pricingModel: FREE
-xmlId: com.mygittool.gitcheck</description>
-      <pubDate>Tue, 20 May 2025 15:42:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27271-gitcheck</guid>
-      <dc:date>2025-05-20T15:42:34Z</dc:date>
-    </item>
-    <item>
-      <title>JavaFactory – Pattern-Based LLM Code Generator - Tue May 20 14:34:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27246-javafactory--pattern-based-llm-code-generator</link>
-      <description>JavaFactory JavaFactory is an LLM-powered IntelliJ plugin that automates code generation from reusable patterns. JavaFactory eliminates repetitive manual coding tasks...
-
-vendor: JavaFactoryPluginDev
-downloads: 238
-pricingModel: FREE
-xmlId: io.github.javafactoryplugindev.plugin</description>
-      <pubDate>Tue, 20 May 2025 14:34:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27246-javafactory--pattern-based-llm-code-generator</guid>
-      <dc:date>2025-05-20T14:34:46Z</dc:date>
-    </item>
-    <item>
-      <title>AI Coworker - Tue Apr 22 22:10:47 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27140-ai-coworker</link>
-      <description>AI Tools provides a suite of productivity-enhancing features for developers working with AI systems. The primary functionality, Copy for LLM, enables developers to...
-
-vendor: Felix Astner
-downloads: 33
-pricingModel: FREE
-xmlId: com.felixastner.aitools.ai-tools</description>
-      <pubDate>Tue, 22 Apr 2025 22:10:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27140-ai-coworker</guid>
-      <dc:date>2025-04-22T22:10:47Z</dc:date>
-    </item>
-    <item>
-      <title>Argparse Helper - Mon May 05 07:56:04 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27285-argparse-helper</link>
-      <description>This is the very first helper plugin for argparse in Python! &#x1f389; It’s designed to make working with complex argparse references easier and more enjoyable. Here’s what...
-
-vendor: nowheresin
-downloads: 33
-pricingModel: FREE
-xmlId: argparse.helper</description>
-      <pubDate>Mon, 05 May 2025 07:56:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27285-argparse-helper</guid>
-      <dc:date>2025-05-05T07:56:04Z</dc:date>
     </item>
   </channel>
 </rss>
