@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 16:02:37 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 23 00:06:38 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14.1|[gradle.org](https://gradle.org/releases/)|Thu May 22 16:02:57 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.16512.17) ~ 2025-05-21|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed May 21 20:02:52 UTC 2025|
@@ -32,7 +33,6 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:02:27 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.20|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Wed Feb 05 16:02:46 UTC 2025|
-|![logo](../media/logo/gpg4win.png) GPG4Win|4.4.0 (2024-11-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Thu Nov 28 16:02:05 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|

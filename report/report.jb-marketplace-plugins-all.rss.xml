@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Summon Logs - Fri May 23 13:45:01 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27442-summon-logs</link>
+      <description>This plugin automatically generates logging statements for your code. It analyzes selected lines or the current line and inserts logs with variable values. Supports...
+
+vendor: Arjun Kaverappa
+downloads: 0
+pricingModel: FREE
+xmlId: org.almasons.SummonLog</description>
+      <pubDate>Fri, 23 May 2025 13:45:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27442-summon-logs</guid>
+      <dc:date>2025-05-23T13:45:01Z</dc:date>
+    </item>
+    <item>
       <title>Icon Decorator - Fri May 23 09:24:51 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27448-icon-decorator</link>
       <description>This plugin lets you customize icons in the Project View. You can choose from a small set of built-in icons or use your own. The icons are automatically applied based...
@@ -71,7 +84,7 @@ xmlId: color.scheme.Colorful</description>
       <dc:date>2025-05-22T09:57:56Z</dc:date>
     </item>
     <item>
-      <title>Claude Code [Beta] - Wed May 21 00:39:27 UTC 2025</title>
+      <title>Claude Code [Beta] - Fri May 23 02:21:57 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27310-claude-code-beta-</link>
       <description>IMPORTANT: This plugin requires Claude Code to be installed separately. For more information, see claude.ai/code. Integrate Claude Code with your favorite development...
 
@@ -79,9 +92,9 @@ vendor: Anthropic PBC
 downloads: 2809
 pricingModel: FREE
 xmlId: com.anthropic.code.plugin</description>
-      <pubDate>Wed, 21 May 2025 00:39:27 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 02:21:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27310-claude-code-beta-</guid>
-      <dc:date>2025-05-21T00:39:27Z</dc:date>
+      <dc:date>2025-05-23T02:21:57Z</dc:date>
     </item>
     <item>
       <title>Java 30 Anniversary - Thu May 22 12:27:17 UTC 2025</title>
@@ -1202,7 +1215,7 @@ xmlId: org.tonstudio.tact</description>
       <dc:date>2025-05-07T19:23:05Z</dc:date>
     </item>
     <item>
-      <title>Go Arrow Functions - Tue May 20 08:02:57 UTC 2025</title>
+      <title>Go Arrow Functions - Fri May 23 01:31:11 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27297-go-arrow-functions</link>
       <description>Introduction Folds Go anonymous functions to display them as arrow functions similar to Java lambdas. Trigger mode: Triggered by shortcut keys (Ctrl+NumPad...
 
@@ -1210,9 +1223,9 @@ vendor: zhen
 downloads: 91
 pricingModel: FREE
 xmlId: com.zhen.goArrowFunctions</description>
-      <pubDate>Tue, 20 May 2025 08:02:57 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 01:31:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27297-go-arrow-functions</guid>
-      <dc:date>2025-05-20T08:02:57Z</dc:date>
+      <dc:date>2025-05-23T01:31:11Z</dc:date>
     </item>
     <item>
       <title>Cobol Forge - Tue May 06 03:53:49 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: com.acrool.react.utils</description>
       <pubDate>Sun, 18 May 2025 23:59:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27268-acrool-react-utils</guid>
       <dc:date>2025-05-18T23:59:53Z</dc:date>
-    </item>
-    <item>
-      <title>Stream Navigator - Mon May 05 10:23:38 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27284-stream-navigator</link>
-      <description>Stream Navigator is a plugin for bidirectional navigation between Spring Stream producers and consumers.The plugin will read stream configuration from application and...
-
-vendor: Zhijun Yin
-downloads: 29
-pricingModel: FREE
-xmlId: org.aixsoft.stream-navigator</description>
-      <pubDate>Mon, 05 May 2025 10:23:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27284-stream-navigator</guid>
-      <dc:date>2025-05-05T10:23:38Z</dc:date>
     </item>
   </channel>
 </rss>
