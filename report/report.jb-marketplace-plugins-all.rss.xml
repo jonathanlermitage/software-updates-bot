@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ProofFrog Language - Mon May 26 14:54:47 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27474-prooffrog-language</link>
+      <description>ProofFrog Language plugin adds comprehensive support for the ProofFrog DSL for writing and verifying cryptographic game-hopping proofs. Features include: Real-time...
+
+vendor: Mattias Aabmets
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.aabmets.proof-frog-lang</description>
+      <pubDate>Mon, 26 May 2025 14:54:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27474-prooffrog-language</guid>
+      <dc:date>2025-05-26T14:54:47Z</dc:date>
+    </item>
+    <item>
+      <title>Xeon RobotFramework Support - Tue May 27 11:57:38 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27395-xeon-robotframework-support</link>
+      <description>Robot Framework plugin for PyCharm. If you like this plugin, please leave your review with five stars, also, please star my Github project. Features Syntax...
+
+vendor: Dennis Föller
+downloads: 86
+pricingModel: FREE
+xmlId: dev.xeonkryptos.xeonrobotframeworkplugin</description>
+      <pubDate>Tue, 27 May 2025 11:57:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27395-xeon-robotframework-support</guid>
+      <dc:date>2025-05-27T11:57:38Z</dc:date>
+    </item>
+    <item>
+      <title>/** KoDEx */: Kotlin Documentation Extensions - Mon May 26 14:08:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27473---kodex---kotlin-documentation-extensions</link>
+      <description>IntelliJ plugin counterpart for KoDEx. This can be considered an Beta version. For now, the order of default processors is unconfigurable, but this will be added in...
+
+vendor: Jolan Rensen
+downloads: 0
+pricingModel: FREE
+xmlId: nl.jolanrensen.kodex</description>
+      <pubDate>Mon, 26 May 2025 14:08:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27473---kodex---kotlin-documentation-extensions</guid>
+      <dc:date>2025-05-26T14:08:26Z</dc:date>
+    </item>
+    <item>
+      <title>Portulan - Tue May 27 11:14:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27472-portulan</link>
+      <description>Support for the GeoCss GeoServer language.
+
+vendor: MilliPixel
+downloads: 0
+pricingModel: FREE
+xmlId: org.millipixel.portulan</description>
+      <pubDate>Tue, 27 May 2025 11:14:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27472-portulan</guid>
+      <dc:date>2025-05-27T11:14:09Z</dc:date>
+    </item>
+    <item>
       <title>Orange-tech - Sun May 25 09:28:52 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27463-orange-tech</link>
       <description>This is the Orange IT Station - Technical Blog IDEA plug-in. Welcome to visit this site, which records the front-line practices of architecture, algorithms and codes...
@@ -58,17 +110,17 @@ xmlId: com.github.brendio.smartfold</description>
       <dc:date>2025-05-22T16:46:39Z</dc:date>
     </item>
     <item>
-      <title>Summon Logs - Fri May 23 13:45:01 UTC 2025</title>
+      <title>Summon Logs - Tue May 27 11:26:18 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27442-summon-logs</link>
-      <description>This plugin automatically generates logging statements for your code. It analyzes selected lines or the current line and inserts logs with variable values. Supports...
+      <description>Summon Log Plugin Summon Log is an IntelliJ-based plugin that simplifies and automates logging during Kotlin development. With a single key press (Alt+X), it generates...
 
 vendor: Arjun Kaverappa
 downloads: 48
 pricingModel: FREE
 xmlId: org.almasons.SummonLog</description>
-      <pubDate>Fri, 23 May 2025 13:45:01 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 11:26:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27442-summon-logs</guid>
-      <dc:date>2025-05-23T13:45:01Z</dc:date>
+      <dc:date>2025-05-27T11:26:18Z</dc:date>
     </item>
     <item>
       <title>Icon Decorator - Mon May 26 07:07:51 UTC 2025</title>
@@ -1252,58 +1304,6 @@ xmlId: com.zhen.goArrowFunctions</description>
       <pubDate>Fri, 23 May 2025 01:31:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27297-go-arrow-functions</guid>
       <dc:date>2025-05-23T01:31:11Z</dc:date>
-    </item>
-    <item>
-      <title>Cobol Forge - Tue May 06 03:53:49 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27294-cobol-forge</link>
-      <description>A small COBOL language plugin for IntelliJ. Provides COPY previews by hovering over inlay hints.
-
-vendor: Mitja Leino
-downloads: 49
-pricingModel: FREE
-xmlId: com.mituuz.cobolforge</description>
-      <pubDate>Tue, 06 May 2025 03:53:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27294-cobol-forge</guid>
-      <dc:date>2025-05-06T03:53:49Z</dc:date>
-    </item>
-    <item>
-      <title>External Lib Folding - Wed May 07 18:32:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27293-external-lib-folding</link>
-      <description>This plugin transforms the flat list in the External Libraries section of IntelliJ IDEA's Project View into a hierarchical tree structure. Features: Organizes external...
-
-vendor: Viktor Koltcov
-downloads: 68
-pricingModel: FREE
-xmlId: com.frees.idea-plugin-external-libraries-folding</description>
-      <pubDate>Wed, 07 May 2025 18:32:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27293-external-lib-folding</guid>
-      <dc:date>2025-05-07T18:32:37Z</dc:date>
-    </item>
-    <item>
-      <title>PojoToProto - Sun May 04 15:00:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27281-pojotoproto</link>
-      <description>A simple IntelliJ IDEA plugin for converting Java POJOs to Protocol Buffer (protobuf) definitions. Supports conversion of Java classes to Protocol Buffer...
-
-vendor: Amritesh Gupta
-downloads: 11
-pricingModel: FREE
-xmlId: com.github.amriteshgupta.pojotoproto</description>
-      <pubDate>Sun, 04 May 2025 15:00:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27281-pojotoproto</guid>
-      <dc:date>2025-05-04T15:00:51Z</dc:date>
-    </item>
-    <item>
-      <title>LocalizeMyApp - Wed May 07 12:22:22 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27266-localizemyapp</link>
-      <description>Localize your Android strings easily! Select a string key and auto-translate it into all missing languages in your project — instantly and with accurate context-aware...
-
-vendor: Nick Bond
-downloads: 50
-pricingModel: FREE
-xmlId: org.chebur.LocalizeMyApp</description>
-      <pubDate>Wed, 07 May 2025 12:22:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27266-localizemyapp</guid>
-      <dc:date>2025-05-07T12:22:22Z</dc:date>
     </item>
   </channel>
 </rss>
