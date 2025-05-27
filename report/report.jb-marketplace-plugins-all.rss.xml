@@ -11,7 +11,7 @@
       <description>This is the Orange IT Station - Technical Blog IDEA plug-in. Welcome to visit this site, which records the front-line practices of architecture, algorithms and codes...
 
 vendor: 橙序员
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: tech.shiker.orange-tech</description>
       <pubDate>Sun, 25 May 2025 09:28:52 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: tech.shiker.orange-tech</description>
       <description>The Copilot Prompt Plugin simplifies the creation and management of GitHub Copilot instruction files (.github/copilot-instructions.md) and Git commit instruction files...
 
 vendor: Sébastien NOIROT
-downloads: 2
+downloads: 20
 pricingModel: FREE
 xmlId: com.github.sebnoirot.copilotpromptplugin</description>
       <pubDate>Mon, 26 May 2025 06:51:18 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.github.sebnoirot.copilotpromptplugin</description>
       <description>This plugin lets you customize icons in the Project View. You can choose from a small set of built-in icons or use your own. The icons are automatically applied based...
 
 vendor: Vroni
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: org.tool.extra.icons</description>
       <pubDate>Mon, 26 May 2025 05:53:11 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.github.brendio.smartfold</description>
       <description>This plugin automatically generates logging statements for your code. It analyzes selected lines or the current line and inserts logs with variable values. Supports...
 
 vendor: Arjun Kaverappa
-downloads: 43
+downloads: 48
 pricingModel: FREE
 xmlId: org.almasons.SummonLog</description>
       <pubDate>Fri, 23 May 2025 13:45:01 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: org.almasons.SummonLog</description>
       <description>This plugin lets you customize icons in the Project View. You can choose from a small set of built-in icons or use your own. The icons are automatically applied based...
 
 vendor: hongjun
-downloads: 77
+downloads: 112
 pricingModel: FREE
 xmlId: org.my.tool.icon</description>
       <pubDate>Mon, 26 May 2025 07:07:51 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: org.my.tool.icon</description>
       <description>This is a casual brick-breaking mini-game that can help you relax after work. After installation, a new TAB will appear in the right toolbar and the Tools menu. Click...
 
 vendor: xiaodonglicn
-downloads: 23
+downloads: 64
 pricingModel: FREE
 xmlId: com.lxd.brick-breaker-game</description>
       <pubDate>Mon, 26 May 2025 03:56:47 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.lxd.brick-breaker-game</description>
       <description>Run PIT mutation tests from IntelliJ IDEA. Features: Run against any combination of files -- automatically matches sources and testsSee mutation icons directly in IDE...
 
 vendor: Brendan McCarthy
-downloads: 20
+downloads: 40
 pricingModel: FREE
 xmlId: com.github.bmccar.pitestidea</description>
       <pubDate>Mon, 26 May 2025 19:42:44 GMT</pubDate>
@@ -110,25 +110,12 @@ xmlId: com.github.bmccar.pitestidea</description>
       <dc:date>2025-05-26T19:42:44Z</dc:date>
     </item>
     <item>
-      <title>TCA - Fri May 23 03:37:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27080-tca</link>
-      <description>Tencent Cloud Code Analysis(TCA) IDEA plugin. Official website: https://tca.tencent.com/. This plugin supports configuring TCA client for local analysis, viewing...
-
-vendor: Tencent Cloud Code Analysis
-downloads: 21
-pricingModel: FREE
-xmlId: com.tencent.TCA</description>
-      <pubDate>Fri, 23 May 2025 03:37:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27080-tca</guid>
-      <dc:date>2025-05-23T03:37:33Z</dc:date>
-    </item>
-    <item>
       <title>Colorful Color Scheme - Thu May 22 09:57:56 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27441-colorful-color-scheme</link>
       <description>A Colorful theme for Goland, with highly distinctive colors to help improve code readability.
 
 vendor: Dokiy
-downloads: 10
+downloads: 13
 pricingModel: FREE
 xmlId: color.scheme.Colorful</description>
       <pubDate>Thu, 22 May 2025 09:57:56 GMT</pubDate>
@@ -141,7 +128,7 @@ xmlId: color.scheme.Colorful</description>
       <description>IMPORTANT: This plugin requires Claude Code to be installed separately. For more information, see claude.ai/code. Integrate Claude Code with your favorite development...
 
 vendor: Anthropic PBC
-downloads: 10836
+downloads: 12980
 pricingModel: FREE
 xmlId: com.anthropic.code.plugin</description>
       <pubDate>Fri, 23 May 2025 02:21:57 GMT</pubDate>
@@ -154,7 +141,7 @@ xmlId: com.anthropic.code.plugin</description>
       <description>Your Inner Duke on Splash Screen Deep inside every Java enthusiast lives a hidden Duke – the true soul powering your code and developer vibe. To celebrate Java’s 30th...
 
 vendor: JetBrains s.r.o.
-downloads: 2210
+downloads: 3091
 pricingModel: FREE
 xmlId: com.intellij.java30</description>
       <pubDate>Thu, 22 May 2025 12:27:17 GMT</pubDate>
@@ -167,7 +154,7 @@ xmlId: com.intellij.java30</description>
       <description>Spring Boot Banner Generator A simple IntelliJ plugin to generate ASCII art banners for your Spring Boot projects. Right-click from src folder of the project or module...
 
 vendor: Eduardo Maravilla
-downloads: 17
+downloads: 19
 pricingModel: FREE
 xmlId: org.maravilla.SpringBootBannerPlugin</description>
       <pubDate>Wed, 21 May 2025 19:55:41 GMT</pubDate>
@@ -193,7 +180,7 @@ xmlId: com.commonroom.showprojecttreetooltips</description>
       <description>AI Code Master is an IntelliJ IDEA plugin powered by AI to help developers streamline their workflow with intelligent features: AI Commit Message Generation...
 
 vendor: zhangyanhui
-downloads: 39
+downloads: 49
 pricingModel: FREE
 xmlId: com.yohannzhang.aigit</description>
       <pubDate>Sun, 25 May 2025 10:52:51 GMT</pubDate>
@@ -206,7 +193,7 @@ xmlId: com.yohannzhang.aigit</description>
       <description>Adds support for Informal Model-Driven Development by integrating UMLet 15.1 with the Eclipse Modeling Framework (EMF) to generate various artifacts and code. This...
 
 vendor: Rastislav Vojtuš
-downloads: 33
+downloads: 36
 pricingModel: FREE
 xmlId: cz.cuni.mff.umlift.plugin</description>
       <pubDate>Fri, 16 May 2025 08:48:30 GMT</pubDate>
@@ -219,7 +206,7 @@ xmlId: cz.cuni.mff.umlift.plugin</description>
       <description>AI-Powered UML Diagram Generator This plugin helps you generate UML diagrams from your Java code using DeepSeek AI. Features: UML Flow Diagrams - Generate activity...
 
 vendor: zhou yu
-downloads: 13
+downloads: 16
 pricingModel: FREE
 xmlId: com.huq.idea.flow</description>
       <pubDate>Tue, 20 May 2025 02:56:38 GMT</pubDate>
@@ -232,7 +219,7 @@ xmlId: com.huq.idea.flow</description>
       <description>&#x1f680; Salesforce LogExplorer: Cloud Log Retrieval &amp;amp; Debugging Assistant Salesforce LogExplorer is an IntelliJ IDEA plugin in beta, designed to simplify your debugging...
 
 vendor: Nunzio Capasso
-downloads: 31
+downloads: 34
 pricingModel: FREE
 xmlId: ncap.sflogexplorer.SF-LogExplorer</description>
       <pubDate>Wed, 21 May 2025 11:09:23 GMT</pubDate>
@@ -245,7 +232,7 @@ xmlId: ncap.sflogexplorer.SF-LogExplorer</description>
       <description>Powerful Comment Navigation for SQL, Java, and Kotlin Code Comment Navigator Pro is a premium tool that enhances your coding experience by providing smart navigation...
 
 vendor: Fuuqiu
-downloads: 13
+downloads: 15
 pricingModel: FREE
 xmlId: cn.tinyue.console</description>
       <pubDate>Mon, 19 May 2025 07:36:50 GMT</pubDate>
@@ -258,7 +245,7 @@ xmlId: cn.tinyue.console</description>
       <description>Adds a status marker icon and/or a text behind the class name in the project view based on comment tags. E.g. // STATUS: DONE, // STATUS: TODO, // STATUS: INACTIVE...
 
 vendor: MaxBlu
-downloads: 21
+downloads: 22
 pricingModel: FREE
 xmlId: de.hd.highlight</description>
       <pubDate>Tue, 20 May 2025 08:27:38 GMT</pubDate>
@@ -271,7 +258,7 @@ xmlId: de.hd.highlight</description>
       <description>In the modern software development and text editing fields, Sublime Text, as a widely popular code editor, has always been favored by developers for its color scheme...
 
 vendor: 满船清梦压星河
-downloads: 26
+downloads: 29
 pricingModel: FREE
 xmlId: Fly_Monokai_Sublime_Text</description>
       <pubDate>Tue, 20 May 2025 06:49:08 GMT</pubDate>
@@ -284,7 +271,7 @@ xmlId: Fly_Monokai_Sublime_Text</description>
       <description>Supercharge your run configurations with powerful new IDE macros. This plugin provides support for various utility macros such as Remembering user input values for...
 
 vendor: Stijn De Clercq
-downloads: 19
+downloads: 21
 pricingModel: FREE
 xmlId: com.github.stijndcl.marco</description>
       <pubDate>Mon, 19 May 2025 15:25:17 GMT</pubDate>
@@ -297,7 +284,7 @@ xmlId: com.github.stijndcl.marco</description>
       <description>GitHub | Telegram | Donation Caddyfile syntax support Caddyfile syntax support: syntax highlightingscaffolding (soon)patterns matching (soon)rules inspections (soon...
 
 vendor: xepozz
-downloads: 340
+downloads: 404
 pricingModel: FREE
 xmlId: com.github.xepozz.caddy</description>
       <pubDate>Fri, 16 May 2025 18:13:22 GMT</pubDate>
@@ -310,7 +297,7 @@ xmlId: com.github.xepozz.caddy</description>
       <description>Hoshisuki A simple IntelliJ music player plugin that allows you to play specified music while coding. Features Support for multiple audio formats: The plugin includes...
 
 vendor: xXYxxdMC
-downloads: 36
+downloads: 44
 pricingModel: FREE
 xmlId: com.xxyxxdmc.hoshisuki</description>
       <pubDate>Sun, 25 May 2025 05:25:40 GMT</pubDate>
@@ -323,7 +310,7 @@ xmlId: com.xxyxxdmc.hoshisuki</description>
       <description>Assertive helps developers quickly generate robust unit tests for Java projects. Streamline your testing process with auto-generated test cases and an intuitive tool...
 
 vendor: Assertive
-downloads: 50
+downloads: 55
 pricingModel: FREE
 xmlId: org.assertive.plugin.id</description>
       <pubDate>Thu, 22 May 2025 00:15:23 GMT</pubDate>
@@ -336,7 +323,7 @@ xmlId: org.assertive.plugin.id</description>
       <description>Identify AI code, Assist in recording code automatically generated by AI assistants or code automatically completed by other AI tools.
 
 vendor: Thundersoft-CodeMonitor
-downloads: 17
+downloads: 19
 pricingModel: FREE
 xmlId: com.smartdrive.code-monitor</description>
       <pubDate>Mon, 19 May 2025 03:25:07 GMT</pubDate>
@@ -349,7 +336,7 @@ xmlId: com.smartdrive.code-monitor</description>
       <description>This plugin allows you to copy parts of the codebase to the clipboard, suitable for sharing and using as context for LLMs.
 
 vendor: ModestSwan64
-downloads: 22
+downloads: 25
 pricingModel: FREE
 xmlId: com.modestswan64.CopyCodebaseDetails</description>
       <pubDate>Sat, 17 May 2025 12:49:45 GMT</pubDate>
@@ -362,7 +349,7 @@ xmlId: com.modestswan64.CopyCodebaseDetails</description>
       <description>Production Code Metrics Visualization is an IntelliJ IDEA plugin that brings log and metrics data directly into your development workflow. It lets you import, query...
 
 vendor: Lukáš Tomoszek
-downloads: 13
+downloads: 14
 pricingModel: FREE
 xmlId: com.lukastomoszek.idea.codemetricsvisualization</description>
       <pubDate>Mon, 19 May 2025 20:59:03 GMT</pubDate>
@@ -375,7 +362,7 @@ xmlId: com.lukastomoszek.idea.codemetricsvisualization</description>
       <description>A plugin allowing to highlight "not" and "!" alike in code.
 
 vendor: Kasper Tvede
-downloads: 19
+downloads: 21
 pricingModel: FREE
 xmlId: csense.idea.java-not-highlighter</description>
       <pubDate>Thu, 22 May 2025 18:11:30 GMT</pubDate>
@@ -388,7 +375,7 @@ xmlId: csense.idea.java-not-highlighter</description>
       <description>Right-click to convert English words to Kebab Case style (convert English to lowercase and connect with hyphens). 鼠标右键可以将英文单词转换成Kebab Case风格(英文转换成小写并使用中横线连接).
 
 vendor: Jianghu Long
-downloads: 22
+downloads: 24
 pricingModel: FREE
 xmlId: com.sohocn.kebabCase</description>
       <pubDate>Sat, 17 May 2025 13:27:42 GMT</pubDate>
@@ -401,7 +388,7 @@ xmlId: com.sohocn.kebabCase</description>
       <description>This plugin customizes Python import statements for specific directories. Instead of the standard PyCharm format from a.b.c import d, modules under specific...
 
 vendor: momadacoding
-downloads: 13
+downloads: 16
 pricingModel: FREE
 xmlId: com.liuhao.customImport</description>
       <pubDate>Sat, 17 May 2025 10:11:54 GMT</pubDate>
@@ -414,7 +401,7 @@ xmlId: com.liuhao.customImport</description>
       <description>GUI Editor for OpenAPI specification (OAS) 3.1.*. Why does the plugin exist? While the OpenAPI (former swagger) specification was initially designed to be...
 
 vendor: Anton Okolelov
-downloads: 62
+downloads: 66
 pricingModel: PAID
 xmlId: com.github.antonokolelov.openapiguieditor</description>
       <pubDate>Fri, 23 May 2025 09:06:28 GMT</pubDate>
@@ -427,7 +414,7 @@ xmlId: com.github.antonokolelov.openapiguieditor</description>
       <description>A plugin allows you to rename symbols across your codebase using a simple JSON configuration.
 
 vendor: Anastasiia Solop
-downloads: 11
+downloads: 13
 pricingModel: FREE
 xmlId: solop.cc.batchrenamerplugin</description>
       <pubDate>Sat, 17 May 2025 09:07:25 GMT</pubDate>
@@ -440,7 +427,7 @@ xmlId: solop.cc.batchrenamerplugin</description>
       <description>An IntelliJ IDEA extension providing powerful tools for working with Kore, a Kotlin library for creating Minecraft datapacks without writing JSON. Features: Gutter...
 
 vendor: Ayfri
-downloads: 48
+downloads: 52
 pricingModel: FREE
 xmlId: io.github.ayfri.kore.kore-assistant</description>
       <pubDate>Mon, 19 May 2025 10:48:17 GMT</pubDate>
@@ -453,7 +440,7 @@ xmlId: io.github.ayfri.kore.kore-assistant</description>
       <description>CSS Variables Assistant Enhances CSS variable usage with autocomplete and documentation. Shows variable values in completion suggestions on typing and documentation on...
 
 vendor: Stian Larsen
-downloads: 144
+downloads: 178
 pricingModel: FREE
 xmlId: cssvarsassistant</description>
       <pubDate>Thu, 22 May 2025 12:36:56 GMT</pubDate>
@@ -466,7 +453,7 @@ xmlId: cssvarsassistant</description>
       <description>A productivity plugin for Flutter developers that generates a standard BLoC or Cubit module structure with just a few clicks. &#x1f539; Features: - Generate BLoC or Cubit...
 
 vendor: Bulbul Ahmed
-downloads: 30
+downloads: 32
 pricingModel: FREE
 xmlId: dev.bulbul.flutter_bloc_generator</description>
       <pubDate>Sat, 10 May 2025 10:16:19 GMT</pubDate>
@@ -474,17 +461,17 @@ xmlId: dev.bulbul.flutter_bloc_generator</description>
       <dc:date>2025-05-10T10:16:19Z</dc:date>
     </item>
     <item>
-      <title>Create ArkTS Page - Fri May 09 04:01:35 UTC 2025</title>
+      <title>Create ArkTS Page - Tue May 27 07:23:00 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27314-create-arkts-page</link>
-      <description>Create ArkTS Page 创建模板代码，包含UI以及VM。主要用于MVVM Plugin to support Create ArkTS Page in Huawei DevEco Studio.
+      <description>Provides support for My Framework. The support includes: code completion references For more information visit the project site.
 
 vendor: hengstart
-downloads: 16
+downloads: 17
 pricingModel: FREE
 xmlId: com.zhangheng.arktspage</description>
-      <pubDate>Fri, 09 May 2025 04:01:35 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 07:23:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27314-create-arkts-page</guid>
-      <dc:date>2025-05-09T04:01:35Z</dc:date>
+      <dc:date>2025-05-27T07:23:00Z</dc:date>
     </item>
     <item>
       <title>Agile Component Loader - Sun May 18 14:56:52 UTC 2025</title>
@@ -505,7 +492,7 @@ xmlId: com.danielholgate.agilecomponentloader</description>
       <description>Provides Java Gradle projects import, run configuration and profiler integrations.
 
 vendor: JetBrains s.r.o.
-downloads: 430
+downloads: 465
 pricingModel: FREE
 xmlId: org.jetbrains.plugins.gradle</description>
       <pubDate>Wed, 21 May 2025 13:31:10 GMT</pubDate>
@@ -518,7 +505,7 @@ xmlId: org.jetbrains.plugins.gradle</description>
       <description>Adds support for the Java language, including Java projects, language syntax highlighting, inspections, and all other coding assistance features.
 
 vendor: JetBrains s.r.o.
-downloads: 26
+downloads: 28
 pricingModel: FREE
 xmlId: com.intellij.java</description>
       <pubDate>Wed, 21 May 2025 13:19:54 GMT</pubDate>
@@ -531,7 +518,7 @@ xmlId: com.intellij.java</description>
       <description>Provides editor support for FreeMarker template language. Features: Dedicated file type. Syntax and error highlighting. Coding assistance (code completion...
 
 vendor: JetBrains s.r.o.
-downloads: 390
+downloads: 435
 pricingModel: FREE
 xmlId: com.intellij.freemarker</description>
       <pubDate>Wed, 21 May 2025 13:18:39 GMT</pubDate>
@@ -544,7 +531,7 @@ xmlId: com.intellij.freemarker</description>
       <description>Provides compilation charts for profiling and analyzing compilation time. The plugin visualizes build progress, CPU load, memory usage, and per-thread compilation...
 
 vendor: JetBrains s.r.o.
-downloads: 37
+downloads: 40
 pricingModel: FREE
 xmlId: intellij.compilation.charts</description>
       <pubDate>Wed, 21 May 2025 13:19:00 GMT</pubDate>
@@ -557,7 +544,7 @@ xmlId: intellij.compilation.charts</description>
       <description>Supports JUnit tests. The following features are available: Ability to create JUnit 3.x, JUnit 4.x or JUnit 5.x tests. Navigation between a test and test subject...
 
 vendor: JetBrains s.r.o.
-downloads: 23
+downloads: 25
 pricingModel: FREE
 xmlId: JUnit</description>
       <pubDate>Wed, 21 May 2025 13:30:21 GMT</pubDate>
@@ -570,7 +557,7 @@ xmlId: JUnit</description>
       <description>Provides code inspections and corresponding quick fixes for internationalization in Java source code.
 
 vendor: JetBrains s.r.o.
-downloads: 23
+downloads: 25
 pricingModel: FREE
 xmlId: com.intellij.java-i18n</description>
       <pubDate>Wed, 21 May 2025 13:30:04 GMT</pubDate>
@@ -583,7 +570,7 @@ xmlId: com.intellij.java-i18n</description>
       <description>Supports configuring the IDE using text files (YAML, JSON). Experimental.
 
 vendor: JetBrains s.r.o.
-downloads: 24
+downloads: 26
 pricingModel: FREE
 xmlId: com.intellij.configurationScript</description>
       <pubDate>Wed, 21 May 2025 13:19:37 GMT</pubDate>
@@ -596,7 +583,7 @@ xmlId: com.intellij.configurationScript</description>
       <description>Collects and displays coverage information for Java. To run your code with coverage, open the Run menu and click Run with Coverage. Results are displayed in the...
 
 vendor: JetBrains s.r.o.
-downloads: 22
+downloads: 24
 pricingModel: FREE
 xmlId: Coverage</description>
       <pubDate>Wed, 21 May 2025 13:28:30 GMT</pubDate>
@@ -609,7 +596,7 @@ xmlId: Coverage</description>
       <description>Provides tools for IDE and plugin development, actions that make sense in debug IDE instance, such as View PSI Structure. Want to build a plugin for your favorite...
 
 vendor: JetBrains s.r.o.
-downloads: 25
+downloads: 28
 pricingModel: FREE
 xmlId: com.intellij.dev</description>
       <pubDate>Wed, 21 May 2025 13:27:45 GMT</pubDate>
@@ -622,7 +609,7 @@ xmlId: com.intellij.dev</description>
       <description>AI Playground plugin for IntelliJ Platform IDEs. Features include: - AI-powered code completion - Chat interface for querying LLM models - Integrated AI assistance for...
 
 vendor: JetBrains s.r.o.
-downloads: 47
+downloads: 49
 pricingModel: FREE
 xmlId: intellij.aiplayground</description>
       <pubDate>Wed, 21 May 2025 13:18:22 GMT</pubDate>
@@ -635,7 +622,7 @@ xmlId: intellij.aiplayground</description>
       <description>Provides API for artifact search such as Maven/Gradle dependencies.
 
 vendor: JetBrains s.r.o.
-downloads: 47
+downloads: 49
 pricingModel: FREE
 xmlId: org.jetbrains.idea.reposearch</description>
       <pubDate>Wed, 21 May 2025 13:31:04 GMT</pubDate>
@@ -648,7 +635,7 @@ xmlId: org.jetbrains.idea.reposearch</description>
       <description>The Spanish Language Pack for IJ IDEs family. El Paquete de Idioma Español para la familia de IDEs IJ. Para activar, vaya a Settings | Appearance &amp;amp; Behavior...
 
 vendor: Code
-downloads: 167
+downloads: 181
 pricingModel: FREE
 xmlId: com.ai.dev.tools.languagePack.community.es</description>
       <pubDate>Tue, 13 May 2025 18:20:42 GMT</pubDate>
@@ -661,7 +648,7 @@ xmlId: com.ai.dev.tools.languagePack.community.es</description>
       <description>The Russian Language Pack for IJ IDEs family. Плагин локализации IntelliJ IDEA Community и PyCharm Community на русский язык. Для активации перейдите в Settings...
 
 vendor: Code
-downloads: 179
+downloads: 199
 pricingModel: FREE
 xmlId: com.ai.dev.tools.languagePack.community.ru</description>
       <pubDate>Tue, 13 May 2025 17:56:34 GMT</pubDate>
@@ -674,7 +661,7 @@ xmlId: com.ai.dev.tools.languagePack.community.ru</description>
       <description>The Portuguese Language Pack for IJ IDEs family. Pacote de Idioma Português para a família de IDEs IJ. Para ativar, vá em Configurações | Aparência e Comportamento...
 
 vendor: Code
-downloads: 183
+downloads: 198
 pricingModel: FREE
 xmlId: com.ai.dev.tools.languagePack.community.pt</description>
       <pubDate>Tue, 13 May 2025 18:33:33 GMT</pubDate>
@@ -687,7 +674,7 @@ xmlId: com.ai.dev.tools.languagePack.community.pt</description>
       <description>The Italian Language Pack for IntelliJ IDEs family. Il Pacchetto Lingua Italiana per la famiglia di IDE IntelliJ. Per attivare, vai su Settings | Appearance &amp;amp...
 
 vendor: Code
-downloads: 27
+downloads: 29
 pricingModel: FREE
 xmlId: com.ai.dev.tools.languagePack.community.it</description>
       <pubDate>Tue, 13 May 2025 18:25:11 GMT</pubDate>
@@ -700,7 +687,7 @@ xmlId: com.ai.dev.tools.languagePack.community.it</description>
       <description>The French Language Pack for IntelliJ IDE family.Le Pack de langue français pour la famille d'IDE IntelliJ. Pour activer, allez dans Settings | Appearance &amp;amp...
 
 vendor: Code
-downloads: 42
+downloads: 49
 pricingModel: FREE
 xmlId: com.ai.dev.tools.languagePack.community.fr</description>
       <pubDate>Tue, 13 May 2025 18:14:42 GMT</pubDate>
@@ -713,7 +700,7 @@ xmlId: com.ai.dev.tools.languagePack.community.fr</description>
       <description>The Deutsch Language Pack for IJ IDEs family. Das Deutsche Sprachpaket für die IJ IDE-Familie. Um die Aktivierung durchzuführen, gehen Sie zu Settings | Appearance...
 
 vendor: Code
-downloads: 84
+downloads: 86
 pricingModel: FREE
 xmlId: com.ai.dev.tools.languagePack.community.de</description>
       <pubDate>Tue, 13 May 2025 18:48:54 GMT</pubDate>
@@ -726,7 +713,7 @@ xmlId: com.ai.dev.tools.languagePack.community.de</description>
       <description>Navigate directly from Res.string.key to the source XML file in Compose Multiplatform projects. Enables Cmd+Click (or Ctrl+Click) navigation from resource references...
 
 vendor: HyperEther
-downloads: 214
+downloads: 224
 pricingModel: FREE
 xmlId: com.hyperether.compose-multiplatform-res-locator</description>
       <pubDate>Tue, 20 May 2025 14:14:41 GMT</pubDate>
@@ -739,7 +726,7 @@ xmlId: com.hyperether.compose-multiplatform-res-locator</description>
       <description>Introducing the Class Finder – a productivity-enhancing plugin that seamlessly bridges Java source code with compiled class files. With one-click functionality...
 
 vendor: jinsihou19
-downloads: 31
+downloads: 33
 pricingModel: FREE
 xmlId: org.vito.classfinder</description>
       <pubDate>Tue, 13 May 2025 11:51:54 GMT</pubDate>
@@ -752,7 +739,7 @@ xmlId: org.vito.classfinder</description>
       <description>ts-test-toolbox Unit tests: Adds a context menu item in WebStorm to generate a .test.ts or .test.js file for any JS/TS file. Storybook: Adds a context menu item in...
 
 vendor: Magnus Ferm
-downloads: 103
+downloads: 105
 pricingModel: FREE
 xmlId: org.morkalork.tstesttoolbox</description>
       <pubDate>Sun, 18 May 2025 12:56:59 GMT</pubDate>
@@ -765,7 +752,7 @@ xmlId: org.morkalork.tstesttoolbox</description>
       <description>Adds syntax highlighting and parsing support for Groml configuration files (.groml), including sections, keys, values, arrays, and maps.
 
 vendor: Harley Gilpin
-downloads: 279
+downloads: 306
 pricingModel: FREE
 xmlId: com.github.harleygilpin.gromlsupportplugin</description>
       <pubDate>Thu, 15 May 2025 22:11:52 GMT</pubDate>
@@ -778,7 +765,7 @@ xmlId: com.github.harleygilpin.gromlsupportplugin</description>
       <description>Cryptor is a powerful cryptocurrency price tracker plugin for IntelliJ IDEA. Features: Real-time cryptocurrency price tracking Favorite coins management Auto-refresh...
 
 vendor: Binzer
-downloads: 20
+downloads: 21
 pricingModel: FREE
 xmlId: io.github.lklbjn.cryptor</description>
       <pubDate>Fri, 16 May 2025 07:13:05 GMT</pubDate>
@@ -791,7 +778,7 @@ xmlId: io.github.lklbjn.cryptor</description>
       <description>Picat Plugin provides support for the Picat programming language in IntelliJ IDEA. Features include syntax highlighting, file type recognition, run configuration for...
 
 vendor: Andrii Andriichuk
-downloads: 33
+downloads: 36
 pricingModel: FREE
 xmlId: com.github.avrilfanomar.picatplugin</description>
       <pubDate>Tue, 13 May 2025 21:58:04 GMT</pubDate>
@@ -804,7 +791,7 @@ xmlId: com.github.avrilfanomar.picatplugin</description>
       <description>Applies the "function call" text colorization to ::functionReference expressions.
 
 vendor: David Schneider
-downloads: 24
+downloads: 26
 pricingModel: FREE
 xmlId: com.dalsegnosolutions.kotlinrefhighlighting</description>
       <pubDate>Fri, 09 May 2025 01:26:16 GMT</pubDate>
@@ -817,7 +804,7 @@ xmlId: com.dalsegnosolutions.kotlinrefhighlighting</description>
       <description>This Plugin provides a simple way to run Android and iOS emulators directly from your IDE. It allows you to quickly launch and manage emulators for testing and...
 
 vendor: Pavly Ayoub
-downloads: 73
+downloads: 77
 pricingModel: FREE
 xmlId: com.PiCode.androidiosemulator</description>
       <pubDate>Wed, 14 May 2025 09:20:34 GMT</pubDate>
@@ -830,7 +817,7 @@ xmlId: com.PiCode.androidiosemulator</description>
       <description>Easy generation of dummy data for database tablesSupport for various data types (strings, numbers, dates, etc.)Preview feature to verify generated dataIntuitive UI for...
 
 vendor: Loki Nam
-downloads: 28
+downloads: 31
 pricingModel: FREE
 xmlId: com.github.timan1802.fakedatainsert</description>
       <pubDate>Tue, 13 May 2025 01:49:22 GMT</pubDate>
@@ -856,7 +843,7 @@ xmlId: com.jetbrains.jessiealastor.plugins.alphabetizeit</description>
       <description>Quick Log is a JetBrains IDE plugin that helps you insert styled console.log statements quickly. It supports multi-cursor functionality, includes file name and line...
 
 vendor: TaeGyu Cho
-downloads: 32
+downloads: 33
 pricingModel: FREE
 xmlId: com.0r0loo.quicklog</description>
       <pubDate>Tue, 13 May 2025 08:34:43 GMT</pubDate>
@@ -869,7 +856,7 @@ xmlId: com.0r0loo.quicklog</description>
       <description>Spotify controller for IntelliJ IDEA. Control your music without leaving the IDE.
 
 vendor: Bishal Singh
-downloads: 61
+downloads: 63
 pricingModel: FREE
 xmlId: com.github.magneto3572.spotyy</description>
       <pubDate>Tue, 13 May 2025 16:24:32 GMT</pubDate>
@@ -882,7 +869,7 @@ xmlId: com.github.magneto3572.spotyy</description>
       <description>Support for Nobl9 configuration files through nobl9-language-server LSP integration.
 
 vendor: Nobl9
-downloads: 22
+downloads: 23
 pricingModel: FREE
 xmlId: com.nobl9.nobl9</description>
       <pubDate>Fri, 09 May 2025 13:51:39 GMT</pubDate>
@@ -895,7 +882,7 @@ xmlId: com.nobl9.nobl9</description>
       <description>This plugin lets you customize icons in the Project View. You can choose from a small set of built-in icons or use your own. The icons are automatically applied based...
 
 vendor: JetDev
-downloads: 163
+downloads: 184
 pricingModel: FREE
 xmlId: org.icon.kit.tool.mapper</description>
       <pubDate>Sun, 25 May 2025 07:11:17 GMT</pubDate>
@@ -908,7 +895,7 @@ xmlId: org.icon.kit.tool.mapper</description>
       <description>Provides amtgard builder trait completions. Designed to be used with Amtgard Builder Traits, which is a port of Lombok builder, getter, setter, and toBuilder to PHP...
 
 vendor: Amtgard
-downloads: 19
+downloads: 20
 pricingModel: FREE
 xmlId: com.amtgard.buildertraitscompletions</description>
       <pubDate>Mon, 19 May 2025 14:53:42 GMT</pubDate>
@@ -921,7 +908,7 @@ xmlId: com.amtgard.buildertraitscompletions</description>
       <description>Double click to close the edit tab, like in browser!.
 
 vendor: momadacoding
-downloads: 25
+downloads: 26
 pricingModel: FREE
 xmlId: com.liuhao.doubleClickToCloseTab</description>
       <pubDate>Fri, 09 May 2025 15:37:26 GMT</pubDate>
@@ -934,7 +921,7 @@ xmlId: com.liuhao.doubleClickToCloseTab</description>
       <description>Select Pair Content is a JetBrains IDE plugin that allows you to quickly select content within a file. It has two main functions: Selecting content between matching...
 
 vendor: j-d-ha
-downloads: 30
+downloads: 32
 pricingModel: FREE
 xmlId: com.github.jdha.selectpaircontent</description>
       <pubDate>Fri, 09 May 2025 03:14:49 GMT</pubDate>
@@ -947,7 +934,7 @@ xmlId: com.github.jdha.selectpaircontent</description>
       <description>Interactive Code Walkthroughs for IntelliJ Create guided code tours directly in your IDE. Anchor step-by-step explanations to specific code lines with Markdown/HTML...
 
 vendor: jinsihou19
-downloads: 52
+downloads: 94
 pricingModel: FREE
 xmlId: org.vito.mycodetour</description>
       <pubDate>Mon, 26 May 2025 17:47:01 GMT</pubDate>
@@ -960,7 +947,7 @@ xmlId: org.vito.mycodetour</description>
       <description>OM Function Folding Plugin adds a keyboard shortcut to collapse or expand all function and method blocks in TypeScript files. This is useful for quickly getting an...
 
 vendor: Omnedia
-downloads: 21
+downloads: 22
 pricingModel: FREE
 xmlId: com.omnedia.functionfolding</description>
       <pubDate>Sat, 10 May 2025 12:30:54 GMT</pubDate>
@@ -973,7 +960,7 @@ xmlId: com.omnedia.functionfolding</description>
       <description>Adds support for the table language used in TableTest for data-driven testing in JUnit 5. Features: Auto-formatting TableTest table to align columnsSyntax highlighting...
 
 vendor: Nils Christian Haugen
-downloads: 64
+downloads: 71
 pricingModel: FREE
 xmlId: io.github.nchaugen.tabletest</description>
       <pubDate>Thu, 22 May 2025 19:27:13 GMT</pubDate>
@@ -986,7 +973,7 @@ xmlId: io.github.nchaugen.tabletest</description>
       <description>A premium plugin for generating Karate DSL code from various sources like curl commands, Postman collections, or Swagger/OpenAPI specifications. This plugin requires a...
 
 vendor: sercheo
-downloads: 47
+downloads: 48
 pricingModel: PAID
 xmlId: com.sercheo.KarateGen</description>
       <pubDate>Fri, 16 May 2025 03:10:24 GMT</pubDate>
@@ -999,7 +986,7 @@ xmlId: com.sercheo.KarateGen</description>
       <description>A lightweight AI-based code reviewer plugin that analyzes Java files during commit and highlights issues with suggestions.
 
 vendor: Rohit Phutane
-downloads: 34
+downloads: 36
 pricingModel: FREE
 xmlId: com.github.rohit091193.codereviewhelper</description>
       <pubDate>Thu, 15 May 2025 05:17:36 GMT</pubDate>
@@ -1012,7 +999,7 @@ xmlId: com.github.rohit091193.codereviewhelper</description>
       <description>Seamless Code Coverage Analysis Enhance your development workflow with integrated code coverage analysis directly within IntelliJ IDEA. This plugin provides...
 
 vendor: S Manthira Perakshi Sudarson
-downloads: 235
+downloads: 277
 pricingModel: FREE
 xmlId: org.stark.CoverageQuickLink</description>
       <pubDate>Sun, 25 May 2025 14:27:01 GMT</pubDate>
@@ -1038,7 +1025,7 @@ xmlId: com.skyland.jumptonql</description>
       <description>Adds run buttons to YAML files. Click to run or debug directly. It executes the specified Java main method, passing the YAML file path as an argument. In IDEA version...
 
 vendor: saoqixiaomm
-downloads: 27
+downloads: 28
 pricingModel: FREE
 xmlId: com.mm.yaml-runner</description>
       <pubDate>Mon, 12 May 2025 07:57:06 GMT</pubDate>
@@ -1051,7 +1038,7 @@ xmlId: com.mm.yaml-runner</description>
       <description>Working with multiple editors? Code Portal is a plugin that allows you to open the current file in another editor and with just a command/shortcut/action. Support for...
 
 vendor: jellynugget
-downloads: 47
+downloads: 49
 pricingModel: PAID
 xmlId: com.jellynugget.codeportal</description>
       <pubDate>Fri, 16 May 2025 23:40:43 GMT</pubDate>
@@ -1064,7 +1051,7 @@ xmlId: com.jellynugget.codeportal</description>
       <description>Parquet Viewer is a lightweight and efficient IntelliJ IDEA plugin that allows you to open and explore .parquet files directly within the IDE — no external tools...
 
 vendor: PhilZ Dev
-downloads: 475
+downloads: 509
 pricingModel: FREE
 xmlId: com.bigphil.parquetviewer</description>
       <pubDate>Fri, 16 May 2025 13:52:58 GMT</pubDate>
@@ -1077,7 +1064,7 @@ xmlId: com.bigphil.parquetviewer</description>
       <description>envilope bridges your local development experience with your cloud environment — seamlessly and instantly. Instead of deploying untested code or risking your staging...
 
 vendor: envilope.io
-downloads: 39
+downloads: 40
 pricingModel: FREE
 xmlId: com.envilopeio.envilope</description>
       <pubDate>Thu, 08 May 2025 11:07:19 GMT</pubDate>
@@ -1090,7 +1077,7 @@ xmlId: com.envilopeio.envilope</description>
       <description>Simple IntelliJ IDEA plugin that allows you to copy code files with their relative paths in a format suitable for LLM conversations.
 
 vendor: Dmitry Bykov
-downloads: 141
+downloads: 142
 pricingModel: FREE
 xmlId: com.batyan.QuickLLMCopy</description>
       <pubDate>Mon, 12 May 2025 02:22:18 GMT</pubDate>
@@ -1103,7 +1090,7 @@ xmlId: com.batyan.QuickLLMCopy</description>
       <description>TON Blockchain inside IntelliJ: Allows to run local TON blockchain with native explorer and TON HTTP API. Ideal for quick smart-contract development using third-party...
 
 vendor: neodix
-downloads: 91
+downloads: 93
 pricingModel: FREE
 xmlId: org.ton.mylocalton-intellij</description>
       <pubDate>Fri, 09 May 2025 17:16:44 GMT</pubDate>
@@ -1116,7 +1103,7 @@ xmlId: org.ton.mylocalton-intellij</description>
       <description>A plugin for i18next translation preview in JavaScript and TypeScript files.
 
 vendor: zjcrender
-downloads: 33
+downloads: 35
 pricingModel: FREE
 xmlId: com.github.zjcrender.i18next</description>
       <pubDate>Thu, 08 May 2025 08:07:12 GMT</pubDate>
@@ -1129,7 +1116,7 @@ xmlId: com.github.zjcrender.i18next</description>
       <description>CI/CD variable manager for GitLab hosted projects Features Create, edit and delete CI/CD variables Copy and move variables between environments Search variables Create...
 
 vendor: Yan Pak
-downloads: 227
+downloads: 254
 pricingModel: FREE
 xmlId: YanPak.CrocodileForGitLab</description>
       <pubDate>Sun, 25 May 2025 21:30:54 GMT</pubDate>
@@ -1142,7 +1129,7 @@ xmlId: YanPak.CrocodileForGitLab</description>
       <description>Kratos Generator Plugin A code generator plugin for the Kratos microservices framework in GoLand. Provides quick code generation for Kratos projects, including proto...
 
 vendor: MXC
-downloads: 36
+downloads: 37
 pricingModel: FREE
 xmlId: com.mxc.kratos-generator-plugin</description>
       <pubDate>Wed, 07 May 2025 22:10:54 GMT</pubDate>
@@ -1168,7 +1155,7 @@ xmlId: com.simiacryptus.cognotik</description>
       <description>This is a plugin that quickly generates Mock data based on the dubbo provider, return mock data by intercept dubbo requests. It is very helpful for developer when...
 
 vendor: Dubbo Mocker
-downloads: 22
+downloads: 23
 pricingModel: FREE
 xmlId: com.clover.dubboMocker</description>
       <pubDate>Wed, 07 May 2025 12:52:33 GMT</pubDate>
@@ -1181,7 +1168,7 @@ xmlId: com.clover.dubboMocker</description>
       <description>&#x1f680; PanDev Jira Auto Worklog Effortless Jira time tracking — powered by your Git workflow. This plugin automatically logs time in Jira every time you commit code in...
 
 vendor: PanDev
-downloads: 76
+downloads: 77
 pricingModel: PAID
 xmlId: kz.pandev.jira_auto_worklog</description>
       <pubDate>Wed, 14 May 2025 11:03:38 GMT</pubDate>
@@ -1194,7 +1181,7 @@ xmlId: kz.pandev.jira_auto_worklog</description>
       <description>CodePins - The Modern Code Bookmarking Solution CodePins is a sophisticated code bookmarking tool designed to enhance your coding workflow in complex projects. It...
 
 vendor: xuyi
-downloads: 126
+downloads: 136
 pricingModel: FREE
 xmlId: cn.ilikexff.codepins</description>
       <pubDate>Wed, 21 May 2025 01:13:19 GMT</pubDate>
@@ -1207,7 +1194,7 @@ xmlId: cn.ilikexff.codepins</description>
       <description>FIX Message Viewer Plugin for IntelliJ This is an intellij plugin for viewing FIX (Financial Information eXchange) (.fix) files. This plugin provides rich syntax...
 
 vendor: Robert Annett
-downloads: 114
+downloads: 161
 pricingModel: FREE
 xmlId: com.rannett.fix-viewer</description>
       <pubDate>Mon, 26 May 2025 14:25:40 GMT</pubDate>
@@ -1220,7 +1207,7 @@ xmlId: com.rannett.fix-viewer</description>
       <description>Faros AI IntelliJ Plugin Faros AI IntelliJ Plugin is a powerful tool designed to bring real-time observability into your engineering workflows. With this plugin...
 
 vendor: Faros AI
-downloads: 32
+downloads: 33
 pricingModel: FREE
 xmlId: faros.ai</description>
       <pubDate>Tue, 06 May 2025 17:58:07 GMT</pubDate>
@@ -1246,7 +1233,7 @@ xmlId: me.deft.typograf</description>
       <description>Provides official support for Tact programming language. Features Semantic syntax highlighting Code completion, snippets, imports completion Go to definition...
 
 vendor: TON Studio
-downloads: 70
+downloads: 71
 pricingModel: FREE
 xmlId: org.tonstudio.tact</description>
       <pubDate>Wed, 07 May 2025 19:23:05 GMT</pubDate>
@@ -1259,7 +1246,7 @@ xmlId: org.tonstudio.tact</description>
       <description>Introduction Folds Go anonymous functions to display them as arrow functions similar to Java lambdas. Trigger mode: Triggered by shortcut keys (Ctrl+NumPad...
 
 vendor: zhen
-downloads: 101
+downloads: 105
 pricingModel: FREE
 xmlId: com.zhen.goArrowFunctions</description>
       <pubDate>Fri, 23 May 2025 01:31:11 GMT</pubDate>
@@ -1272,7 +1259,7 @@ xmlId: com.zhen.goArrowFunctions</description>
       <description>A small COBOL language plugin for IntelliJ. Provides COPY previews by hovering over inlay hints.
 
 vendor: Mitja Leino
-downloads: 47
+downloads: 49
 pricingModel: FREE
 xmlId: com.mituuz.cobolforge</description>
       <pubDate>Tue, 06 May 2025 03:53:49 GMT</pubDate>
@@ -1285,7 +1272,7 @@ xmlId: com.mituuz.cobolforge</description>
       <description>This plugin transforms the flat list in the External Libraries section of IntelliJ IDEA's Project View into a hierarchical tree structure. Features: Organizes external...
 
 vendor: Viktor Koltcov
-downloads: 66
+downloads: 68
 pricingModel: FREE
 xmlId: com.frees.idea-plugin-external-libraries-folding</description>
       <pubDate>Wed, 07 May 2025 18:32:37 GMT</pubDate>
@@ -1304,6 +1291,19 @@ xmlId: com.github.amriteshgupta.pojotoproto</description>
       <pubDate>Sun, 04 May 2025 15:00:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27281-pojotoproto</guid>
       <dc:date>2025-05-04T15:00:51Z</dc:date>
+    </item>
+    <item>
+      <title>LocalizeMyApp - Wed May 07 12:22:22 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27266-localizemyapp</link>
+      <description>Localize your Android strings easily! Select a string key and auto-translate it into all missing languages in your project — instantly and with accurate context-aware...
+
+vendor: Nick Bond
+downloads: 50
+pricingModel: FREE
+xmlId: org.chebur.LocalizeMyApp</description>
+      <pubDate>Wed, 07 May 2025 12:22:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27266-localizemyapp</guid>
+      <dc:date>2025-05-07T12:22:22Z</dc:date>
     </item>
   </channel>
 </rss>
