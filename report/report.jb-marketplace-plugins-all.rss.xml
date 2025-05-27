@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AEM VLT Tool - Mon May 26 04:06:01 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27469-aem-vlt-tool</link>
+      <description>The AEM VLT IntelliJ Plugin is an integration tool for developers working with Adobe Experience Manager (AEM). It provides a seamless way to push data (files...
+
+vendor: Kostiantyn Diachenko
+downloads: 0
+pricingModel: FREE
+xmlId: com.kdiachenko.aem-vlt-tool</description>
+      <pubDate>Mon, 26 May 2025 04:06:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27469-aem-vlt-tool</guid>
+      <dc:date>2025-05-26T04:06:01Z</dc:date>
+    </item>
+    <item>
+      <title>Code Flow Navigator - Sat May 24 16:36:25 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27461-code-flow-navigator</link>
+      <description>A powerful IntelliJ IDEA plugin that visualizes method call relationships as an interactive diagram. Select any Java method and instantly generate a tree of its...
+
+vendor: Nour Khalil Rash
+downloads: 4
+pricingModel: FREE
+xmlId: com.navigator.codeflownavigator</description>
+      <pubDate>Sat, 24 May 2025 16:36:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27461-code-flow-navigator</guid>
+      <dc:date>2025-05-24T16:36:25Z</dc:date>
+    </item>
+    <item>
+      <title>Smart Commit Generator - Mon May 26 23:25:56 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27476-smart-commit-generator</link>
+      <description>Generate intelligent commit messages automatically based on your Git changes. Features: Analyzes your staged changes Generates conventional commit messages Detects...
+
+vendor: SIDIDEV
+downloads: 0
+pricingModel: FREE
+xmlId: org.sididev.smart-commit-generator</description>
+      <pubDate>Mon, 26 May 2025 23:25:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27476-smart-commit-generator</guid>
+      <dc:date>2025-05-26T23:25:56Z</dc:date>
+    </item>
+    <item>
       <title>Maven-project-peeker - Tue May 27 03:18:19 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27477-maven-project-peeker</link>
       <description>An IntelliJ plugin that displays essential Maven dependency information when hovering over a dependency tag in the pom.xml file within the editor.
@@ -110,7 +149,7 @@ xmlId: org.millipixel.portulan</description>
       <dc:date>2025-05-27T11:14:09Z</dc:date>
     </item>
     <item>
-      <title>Orange-tech - Sun May 25 09:28:52 UTC 2025</title>
+      <title>Orange-tech - Tue May 27 17:32:57 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27463-orange-tech</link>
       <description>This is the Orange IT Station - Technical Blog IDEA plug-in. Welcome to visit this site, which records the front-line practices of architecture, algorithms and codes...
 
@@ -118,9 +157,9 @@ vendor: 橙序员
 downloads: 4
 pricingModel: FREE
 xmlId: tech.shiker.orange-tech</description>
-      <pubDate>Sun, 25 May 2025 09:28:52 GMT</pubDate>
+      <pubDate>Tue, 27 May 2025 17:32:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27463-orange-tech</guid>
-      <dc:date>2025-05-25T09:28:52Z</dc:date>
+      <dc:date>2025-05-27T17:32:57Z</dc:date>
     </item>
     <item>
       <title>copilot-prompt - Mon May 26 06:51:18 UTC 2025</title>
@@ -212,6 +251,19 @@ xmlId: com.github.bmccar.pitestidea</description>
       <pubDate>Mon, 26 May 2025 19:42:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27437-pitest</guid>
       <dc:date>2025-05-26T19:42:44Z</dc:date>
+    </item>
+    <item>
+      <title>TCA - Fri May 23 13:10:24 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27080-tca</link>
+      <description>Tencent Cloud Code Analysis(TCA) IDEA plugin. Official website: https://tca.tencent.com/. This plugin supports configuring TCA client for local analysis, viewing...
+
+vendor: Tencent Cloud Code Analysis
+downloads: 24
+pricingModel: FREE
+xmlId: com.tencent.TCA</description>
+      <pubDate>Fri, 23 May 2025 13:10:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27080-tca</guid>
+      <dc:date>2025-05-23T13:10:24Z</dc:date>
     </item>
     <item>
       <title>Colorful Color Scheme - Thu May 22 09:57:56 UTC 2025</title>
@@ -489,7 +541,7 @@ xmlId: com.sohocn.kebabCase</description>
     <item>
       <title>CustomImport - Sat May 17 10:11:54 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27389-customimport</link>
-      <description>This plugin customizes Python import statements for specific directories. Instead of the standard PyCharm format from a.b.c import d, modules under specific...
+      <description>This plugin customizes Python import statements for specific directories. Instead of the standard PyCharm format 'from a.b.c import d', modules under specific...
 
 vendor: momadacoding
 downloads: 16
@@ -916,7 +968,7 @@ xmlId: com.PiCode.androidiosemulator</description>
       <dc:date>2025-05-14T09:20:34Z</dc:date>
     </item>
     <item>
-      <title>FakeDataInsert - Tue May 13 01:49:22 UTC 2025</title>
+      <title>FakeDataInsert - Sat May 24 06:43:59 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27317-fakedatainsert</link>
       <description>Easy generation of dummy data for database tablesSupport for various data types (strings, numbers, dates, etc.)Preview feature to verify generated dataIntuitive UI for...
 
@@ -924,9 +976,9 @@ vendor: Loki Nam
 downloads: 31
 pricingModel: FREE
 xmlId: com.github.timan1802.fakedatainsert</description>
-      <pubDate>Tue, 13 May 2025 01:49:22 GMT</pubDate>
+      <pubDate>Sat, 24 May 2025 06:43:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27317-fakedatainsert</guid>
-      <dc:date>2025-05-13T01:49:22Z</dc:date>
+      <dc:date>2025-05-24T06:43:59Z</dc:date>
     </item>
     <item>
       <title>AlphabetizeIt - Mon May 12 19:54:42 UTC 2025</title>
@@ -1252,58 +1304,6 @@ xmlId: com.simiacryptus.cognotik</description>
       <pubDate>Sun, 11 May 2025 23:57:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27289-cognotik</guid>
       <dc:date>2025-05-11T23:57:40Z</dc:date>
-    </item>
-    <item>
-      <title>DubboMocker - Wed May 07 12:52:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27301-dubbomocker</link>
-      <description>This is a plugin that quickly generates Mock data based on the dubbo provider, return mock data by intercept dubbo requests. It is very helpful for developer when...
-
-vendor: Dubbo Mocker
-downloads: 23
-pricingModel: FREE
-xmlId: com.clover.dubboMocker</description>
-      <pubDate>Wed, 07 May 2025 12:52:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27301-dubbomocker</guid>
-      <dc:date>2025-05-07T12:52:33Z</dc:date>
-    </item>
-    <item>
-      <title>PanDev Jira Auto Worklog - Wed May 14 11:03:38 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27222-pandev-jira-auto-worklog</link>
-      <description>&#x1f680; PanDev Jira Auto Worklog Effortless Jira time tracking — powered by your Git workflow. This plugin automatically logs time in Jira every time you commit code in...
-
-vendor: PanDev
-downloads: 77
-pricingModel: PAID
-xmlId: kz.pandev.jira_auto_worklog</description>
-      <pubDate>Wed, 14 May 2025 11:03:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27222-pandev-jira-auto-worklog</guid>
-      <dc:date>2025-05-14T11:03:38Z</dc:date>
-    </item>
-    <item>
-      <title>CodePins - Code Bookmarks - Wed May 21 01:13:19 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27300-codepins--code-bookmarks</link>
-      <description>CodePins - The Modern Code Bookmarking Solution CodePins is a sophisticated code bookmarking tool designed to enhance your coding workflow in complex projects. It...
-
-vendor: xuyi
-downloads: 136
-pricingModel: FREE
-xmlId: cn.ilikexff.codepins</description>
-      <pubDate>Wed, 21 May 2025 01:13:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27300-codepins--code-bookmarks</guid>
-      <dc:date>2025-05-21T01:13:19Z</dc:date>
-    </item>
-    <item>
-      <title>fix-viewer - Mon May 26 14:25:40 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27274-fix-viewer</link>
-      <description>FIX Message Viewer Plugin for IntelliJ This is an intellij plugin for viewing FIX (Financial Information eXchange) (.fix) files. This plugin provides rich syntax...
-
-vendor: Robert Annett
-downloads: 161
-pricingModel: FREE
-xmlId: com.rannett.fix-viewer</description>
-      <pubDate>Mon, 26 May 2025 14:25:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27274-fix-viewer</guid>
-      <dc:date>2025-05-26T14:25:40Z</dc:date>
     </item>
   </channel>
 </rss>
