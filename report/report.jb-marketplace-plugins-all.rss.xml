@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>GLComponent - Wed May 28 03:53:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27425-glcomponent</link>
+      <description>Godlike Sdk Usage Fix Fix SDK source code navigation issue.
+
+vendor: Hango Liang
+downloads: 4
+pricingModel: FREE
+xmlId: com.netease.gl.componnet</description>
+      <pubDate>Wed, 28 May 2025 03:53:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27425-glcomponent</guid>
+      <dc:date>2025-05-28T03:53:09Z</dc:date>
+    </item>
+    <item>
+      <title>Varnish Test Case - Tue May 27 20:34:04 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27484-varnish-test-case</link>
+      <description>Provides syntax highlighting for Varnish Test Case (.vtc) files.
+
+vendor: Toon Van Dooren
+downloads: 0
+pricingModel: FREE
+xmlId: com.varnish.vtc</description>
+      <pubDate>Tue, 27 May 2025 20:34:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27484-varnish-test-case</guid>
+      <dc:date>2025-05-27T20:34:04Z</dc:date>
+    </item>
+    <item>
       <title>Vala Language - Sun May 25 01:45:36 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27464-vala-language</link>
       <description>Vala language support for Jetbrains IDEs. This plugin provides syntax highlighting, code completion, and other features for development with Vala. This currently is in...
@@ -58,7 +84,7 @@ xmlId: org.sididev.smart-commit-generator</description>
       <dc:date>2025-05-26T23:25:56Z</dc:date>
     </item>
     <item>
-      <title>Maven project peeker - Tue May 27 03:18:19 UTC 2025</title>
+      <title>Maven project peeker - Wed May 28 00:51:46 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27477-maven-project-peeker</link>
       <description>An IntelliJ plugin that displays essential Maven dependency information when hovering over a dependency tag in the pom.xml file within the editor.
 
@@ -66,9 +92,9 @@ vendor: Jeffery Xie
 downloads: 1
 pricingModel: FREE
 xmlId: com.jefferyxhy.plugins.maven-project-peeker</description>
-      <pubDate>Tue, 27 May 2025 03:18:19 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 00:51:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27477-maven-project-peeker</guid>
-      <dc:date>2025-05-27T03:18:19Z</dc:date>
+      <dc:date>2025-05-28T00:51:46Z</dc:date>
     </item>
     <item>
       <title>AutoMocker - Sat May 24 13:59:08 UTC 2025</title>
@@ -604,7 +630,7 @@ xmlId: io.github.ayfri.kore.kore-assistant</description>
       <dc:date>2025-05-19T10:48:17Z</dc:date>
     </item>
     <item>
-      <title>CSS Variables Assistant - Tue May 27 21:37:13 UTC 2025</title>
+      <title>CSS Variables Assistant - Wed May 28 12:54:52 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27392-css-variables-assistant</link>
       <description>CSS Variables Assistant Enhances CSS variable usage with autocomplete and documentation. Shows variable values in completion suggestions on typing and documentation on...
 
@@ -612,9 +638,9 @@ vendor: Stian Larsen
 downloads: 195
 pricingModel: FREE
 xmlId: cssvarsassistant</description>
-      <pubDate>Tue, 27 May 2025 21:37:13 GMT</pubDate>
+      <pubDate>Wed, 28 May 2025 12:54:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27392-css-variables-assistant</guid>
-      <dc:date>2025-05-27T21:37:13Z</dc:date>
+      <dc:date>2025-05-28T12:54:52Z</dc:date>
     </item>
     <item>
       <title>Flutter Bloc Temp - Sat May 10 10:16:19 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: com.github.zjcrender.i18next</description>
       <pubDate>Thu, 08 May 2025 08:07:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27305-i18next-preview</guid>
       <dc:date>2025-05-08T08:07:12Z</dc:date>
-    </item>
-    <item>
-      <title>Crocodile for GitLab - Sun May 25 21:30:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab</link>
-      <description>CI/CD variable manager for GitLab hosted projects Features Create, edit and delete CI/CD variables Copy and move variables between environments Search variables Create...
-
-vendor: Yan Pak
-downloads: 262
-pricingModel: FREE
-xmlId: YanPak.CrocodileForGitLab</description>
-      <pubDate>Sun, 25 May 2025 21:30:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27303-crocodile-for-gitlab</guid>
-      <dc:date>2025-05-25T21:30:54Z</dc:date>
-    </item>
-    <item>
-      <title>Kratos Generator - Wed May 07 22:10:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27245-kratos-generator</link>
-      <description>Kratos Generator Plugin A code generator plugin for the Kratos microservices framework in GoLand. Provides quick code generation for Kratos projects, including proto...
-
-vendor: MXC
-downloads: 38
-pricingModel: FREE
-xmlId: com.mxc.kratos-generator-plugin</description>
-      <pubDate>Wed, 07 May 2025 22:10:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27245-kratos-generator</guid>
-      <dc:date>2025-05-07T22:10:54Z</dc:date>
     </item>
   </channel>
 </rss>
