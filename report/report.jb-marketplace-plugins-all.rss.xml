@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Reader - Fri May 30 03:03:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27500-reader</link>
+      <description>This is a reader plugin for viewing PDF and text files (epub support in development...). Designed to make your reading experience more convenient...
+
+vendor: ryr
+downloads: 0
+pricingModel: FREE
+xmlId: org-ryr.reader</description>
+      <pubDate>Fri, 30 May 2025 03:03:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27500-reader</guid>
+      <dc:date>2025-05-30T03:03:58Z</dc:date>
+    </item>
+    <item>
+      <title>Bitrix Controller Navigator - Thu May 29 18:42:53 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27457-bitrix-controller-navigator</link>
+      <description>Bitrix Controller Navigator Provides quick access to Bitrix controller files from their JavaScript references. Key Features: Controller Navigation: Ctrl+Click on...
+
+vendor: yognevoy
+downloads: 4
+pricingModel: FREE
+xmlId: com.yognevoy.bx-controller-navigator</description>
+      <pubDate>Thu, 29 May 2025 18:42:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27457-bitrix-controller-navigator</guid>
+      <dc:date>2025-05-29T18:42:53Z</dc:date>
+    </item>
+    <item>
+      <title>Dextension Templates - Fri May 30 10:44:24 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27504-dextension-templates</link>
+      <description>Makes bridge between Dextension and Android Studio. It provides ability to create Dextension Architecture Templates.
+
+vendor: Oleg Agapchenko
+downloads: 0
+pricingModel: FREE
+xmlId: com.y19th.DextensionTemplates</description>
+      <pubDate>Fri, 30 May 2025 10:44:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27504-dextension-templates</guid>
+      <dc:date>2025-05-30T10:44:24Z</dc:date>
+    </item>
+    <item>
+      <title>Open Telemetry Debug Logs Viewer - Fri May 30 01:42:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/26584-open-telemetry-debug-logs-viewer</link>
+      <description>Open Telemetry debug logs viewer for Rider View Open telemetry output instantly within JetBrains Rider. Usage: Enable open telemetry JSON debug export and start a...
+
+vendor: Jeremy Morren
+downloads: 2
+pricingModel: FREE
+xmlId: com.jeremymorren.opentelemetryriderdebugviewer</description>
+      <pubDate>Fri, 30 May 2025 01:42:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26584-open-telemetry-debug-logs-viewer</guid>
+      <dc:date>2025-05-30T01:42:26Z</dc:date>
+    </item>
+    <item>
+      <title>Always Expand Commit Tool Window - Fri May 30 05:45:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27505-always-expand-commit-tool-window</link>
+      <description>Fully expands the local changes every time you open the commit tool window.
+
+vendor: Ivo Wijnker
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.ivw.expand-commit-tool-window</description>
+      <pubDate>Fri, 30 May 2025 05:45:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27505-always-expand-commit-tool-window</guid>
+      <dc:date>2025-05-30T05:45:35Z</dc:date>
+    </item>
+    <item>
       <title>Yimi CodeGen - Mon May 26 01:52:19 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27458-yimi-codegen</link>
       <description>Yimi CodeGen is an IntelliJ IDEA plugin designed for quickly generating CRUD (Create, Read, Update, Delete) code. It generates code based on Mybatis Model classes and...
@@ -1239,71 +1304,6 @@ xmlId: com.liuhao.doubleClickToCloseTab</description>
       <pubDate>Fri, 09 May 2025 15:37:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27320-doubleclicktoclosetab</guid>
       <dc:date>2025-05-09T15:37:26Z</dc:date>
-    </item>
-    <item>
-      <title>Select Content Pair - Fri May 09 03:14:49 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27313-select-content-pair</link>
-      <description>Select Pair Content is a JetBrains IDE plugin that allows you to quickly select content within a file. It has two main functions: Selecting content between matching...
-
-vendor: j-d-ha
-downloads: 36
-pricingModel: FREE
-xmlId: com.github.jdha.selectpaircontent</description>
-      <pubDate>Fri, 09 May 2025 03:14:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27313-select-content-pair</guid>
-      <dc:date>2025-05-09T03:14:49Z</dc:date>
-    </item>
-    <item>
-      <title>MyCodeTour - Mon May 26 17:47:01 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27323-mycodetour</link>
-      <description>Interactive Code Walkthroughs for IntelliJ Create guided code tours directly in your IDE. Anchor step-by-step explanations to specific code lines with Markdown/HTML...
-
-vendor: jinsihou19
-downloads: 110
-pricingModel: FREE
-xmlId: org.vito.mycodetour</description>
-      <pubDate>Mon, 26 May 2025 17:47:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27323-mycodetour</guid>
-      <dc:date>2025-05-26T17:47:01Z</dc:date>
-    </item>
-    <item>
-      <title>OM Function Folding - Sat May 10 12:30:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27324-om-function-folding</link>
-      <description>OM Function Folding Plugin adds a keyboard shortcut to collapse or expand all function and method blocks in TypeScript files. This is useful for quickly getting an...
-
-vendor: Omnedia
-downloads: 26
-pricingModel: FREE
-xmlId: com.omnedia.functionfolding</description>
-      <pubDate>Sat, 10 May 2025 12:30:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27324-om-function-folding</guid>
-      <dc:date>2025-05-10T12:30:54Z</dc:date>
-    </item>
-    <item>
-      <title>TableTest - Thu May 22 19:27:13 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27334-tabletest</link>
-      <description>Adds support for the table language used in TableTest for data-driven testing in JUnit 5. Features: Auto-formatting TableTest table to align columnsSyntax highlighting...
-
-vendor: Nils Christian Haugen
-downloads: 85
-pricingModel: FREE
-xmlId: io.github.nchaugen.tabletest</description>
-      <pubDate>Thu, 22 May 2025 19:27:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27334-tabletest</guid>
-      <dc:date>2025-05-22T19:27:13Z</dc:date>
-    </item>
-    <item>
-      <title>KarateGen - Fri May 16 03:10:24 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27283-karategen</link>
-      <description>A premium plugin for generating Karate DSL code from various sources like curl commands, Postman collections, or Swagger/OpenAPI specifications. This plugin requires a...
-
-vendor: sercheo
-downloads: 54
-pricingModel: PAID
-xmlId: com.sercheo.KarateGen</description>
-      <pubDate>Fri, 16 May 2025 03:10:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27283-karategen</guid>
-      <dc:date>2025-05-16T03:10:24Z</dc:date>
     </item>
   </channel>
 </rss>
