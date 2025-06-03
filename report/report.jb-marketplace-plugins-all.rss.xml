@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>TLinter - Tue Jun 03 05:53:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27541-tlinter</link>
+      <description>T-Linter provides syntax highlighting for PEP 750 template strings in PyCharm. Features &#x1f3a8; Automatic language injection for template strings with type annotations...
+
+vendor: Kodai Aono
+downloads: 0
+pricingModel: FREE
+xmlId: com.koxudaxi.tlinter</description>
+      <pubDate>Tue, 03 Jun 2025 05:53:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27541-tlinter</guid>
+      <dc:date>2025-06-03T05:53:26Z</dc:date>
+    </item>
+    <item>
+      <title>KTool - Mon Jun 02 15:23:43 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27534-ktool</link>
+      <description>KTool is a powerful development toolset designed to boost efficiency for engineers using the kv development framework. It offers multiple features such as code...
+
+vendor: kalvan2019
+downloads: 0
+pricingModel: FREE
+xmlId: com.kalvan.tool</description>
+      <pubDate>Mon, 02 Jun 2025 15:23:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27534-ktool</guid>
+      <dc:date>2025-06-02T15:23:43Z</dc:date>
+    </item>
+    <item>
       <title>Tabs Per Project - Mon Jun 02 18:10:35 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27536-tabs-per-project</link>
       <description>This plugin helps you organize your open files by grouping them according to their project. Perfect for developers working with multiple projects simultaneously in...
@@ -147,6 +173,19 @@ xmlId: com.jtool-echarts-view.rcc.id</description>
       <pubDate>Fri, 30 May 2025 14:35:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27489-jtools-echarts-view</guid>
       <dc:date>2025-05-30T14:35:05Z</dc:date>
+    </item>
+    <item>
+      <title>Ziit - Mon Jun 02 21:29:27 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27391-ziit</link>
+      <description>The Ziit JetBrains Plugin integrates Ziit, the swiss army knife for coding time tracking, directly into your JetBrains IDE. The main Ziit project can be found on...
+
+vendor: PandaDEV
+downloads: 7
+pricingModel: FREE
+xmlId: net.pandadev.ziit-jetbrains</description>
+      <pubDate>Mon, 02 Jun 2025 21:29:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27391-ziit</guid>
+      <dc:date>2025-06-02T21:29:27Z</dc:date>
     </item>
     <item>
       <title>json_writer - Sat May 31 09:55:03 UTC 2025</title>
@@ -357,7 +396,7 @@ xmlId: io.github.linfers.autoinput</description>
       <dc:date>2025-05-29T08:13:09Z</dc:date>
     </item>
     <item>
-      <title>GLComponent - Wed May 28 18:01:23 UTC 2025</title>
+      <title>GLComponent - Tue Jun 03 08:03:08 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27425-glcomponent</link>
       <description>Godlike Sdk Usage Fix Fix SDK source code navigation issue.
 
@@ -365,9 +404,9 @@ vendor: Hango Liang
 downloads: 34
 pricingModel: FREE
 xmlId: com.netease.gl.componnet</description>
-      <pubDate>Wed, 28 May 2025 18:01:23 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 08:03:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27425-glcomponent</guid>
-      <dc:date>2025-05-28T18:01:23Z</dc:date>
+      <dc:date>2025-06-03T08:03:08Z</dc:date>
     </item>
     <item>
       <title>Varnish Test Case - Tue May 27 20:34:04 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: com.hyperether.compose-multiplatform-res-locator</description>
       <pubDate>Tue, 20 May 2025 14:14:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27348-resource-locator</guid>
       <dc:date>2025-05-20T14:14:41Z</dc:date>
-    </item>
-    <item>
-      <title>ClassFinder - Tue May 13 11:51:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/26069-classfinder</link>
-      <description>Introducing the Class Finder – a productivity-enhancing plugin that seamlessly bridges Java source code with compiled class files. With one-click functionality...
-
-vendor: jinsihou19
-downloads: 43
-pricingModel: FREE
-xmlId: org.vito.classfinder</description>
-      <pubDate>Tue, 13 May 2025 11:51:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/26069-classfinder</guid>
-      <dc:date>2025-05-13T11:51:54Z</dc:date>
-    </item>
-    <item>
-      <title>ts-test-toolbox - Sun May 18 12:56:59 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27327-ts-test-toolbox</link>
-      <description>ts-test-toolbox Unit tests: Adds a context menu item in WebStorm to generate a .test.ts or .test.js file for any JS/TS file. Storybook: Adds a context menu item in...
-
-vendor: Magnus Ferm
-downloads: 131
-pricingModel: FREE
-xmlId: org.morkalork.tstesttoolbox</description>
-      <pubDate>Sun, 18 May 2025 12:56:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27327-ts-test-toolbox</guid>
-      <dc:date>2025-05-18T12:56:59Z</dc:date>
-    </item>
-    <item>
-      <title>Groml Support - Thu May 15 22:11:52 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27358-groml-support</link>
-      <description>Adds syntax highlighting and parsing support for Groml configuration files (.groml), including sections, keys, values, arrays, and maps.
-
-vendor: Harley Gilpin
-downloads: 436
-pricingModel: FREE
-xmlId: com.github.harleygilpin.gromlsupportplugin</description>
-      <pubDate>Thu, 15 May 2025 22:11:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27358-groml-support</guid>
-      <dc:date>2025-05-15T22:11:52Z</dc:date>
     </item>
   </channel>
 </rss>

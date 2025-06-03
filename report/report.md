@@ -20,7 +20,7 @@
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.18003.27) ~ 2025-05-29|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 29 12:05:43 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.1.1 (251.25410.129) ~ 2025-05-09|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri May 09 16:03:09 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.9.0 to 18.9.5 ~ 2025-05-21|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed May 21 16:03:02 UTC 2025|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 325 - Trier le hachis des concurrents|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri May 09 12:03:17 UTC 2025|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 326 - Interview assistants de code IA avec Philippe Charrière et Kevin Aubry|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jun 03 12:06:07 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:02:27 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.1.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.16.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
