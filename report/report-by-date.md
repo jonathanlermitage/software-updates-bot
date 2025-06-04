@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.2 (251.26094.121) ~ 2025-06-04|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Jun 04 16:06:22 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 04 00:08:55 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 04 00:08:54 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 326 - Interview assistants de code IA avec Philippe Charrière et Kevin Aubry|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jun 03 12:06:07 UTC 2025|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.16.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.9.0 to 18.9.5 ~ 2025-05-21|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed May 21 16:03:02 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.1.1 (251.25410.129) ~ 2025-05-09|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri May 09 16:03:09 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|

@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Mistral Code Enterprise - Mon Jun 02 17:33:54 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27493-mistral-code-enterprise</link>
+      <description>Mistral Code Enterprise Mistral Code Enterprise is an AI coding copilot powered by state-of-the-art Mistral coding models. Mistral Code Enterprise is currently only...
+
+vendor: Mistral AI
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.mistralai.mistralcodeintellijextension</description>
+      <pubDate>Mon, 02 Jun 2025 17:33:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27493-mistral-code-enterprise</guid>
+      <dc:date>2025-06-02T17:33:54Z</dc:date>
+    </item>
+    <item>
+      <title>Ctrl+Scroll Tool Window Resize - Wed Jun 04 10:40:19 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27549-ctrl-scroll-tool-window-resize</link>
+      <description>The Ctrl+Scroll plugin enhances your IDE experience by allowing you to resize tool windows using the Ctrl key and mouse wheel. Features: Resize tool windows by holding...
+
+vendor: Jakub Chrzanowski
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.hsz.ctrlscroll</description>
+      <pubDate>Wed, 04 Jun 2025 10:40:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27549-ctrl-scroll-tool-window-resize</guid>
+      <dc:date>2025-06-04T10:40:19Z</dc:date>
+    </item>
+    <item>
       <title>Profiler Lens - Wed Jun 04 02:54:27 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27544-profiler-lens</link>
       <description>Profiler Lens Profiler Lens is an IntelliJ IDEA plugin that enables seamless visualization of Java application profiling results directly within your source code. By...
@@ -19,7 +45,7 @@ xmlId: io.github.robertomahl.visual-java-profiler</description>
       <dc:date>2025-06-04T02:54:27Z</dc:date>
     </item>
     <item>
-      <title>commit-genie - Tue Jun 03 22:26:51 UTC 2025</title>
+      <title>commit-genie - Wed Jun 04 12:53:37 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27496-commit-genie</link>
       <description>Commit Genie is an AI-powered IntelliJ plugin designed to streamline your Git workflow by generating clear, concise commit messages based on your code changes. By...
 
@@ -27,9 +53,9 @@ vendor: Rahul Ray
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.raystatic.commitgenie</description>
-      <pubDate>Tue, 03 Jun 2025 22:26:51 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 12:53:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27496-commit-genie</guid>
-      <dc:date>2025-06-03T22:26:51Z</dc:date>
+      <dc:date>2025-06-04T12:53:37Z</dc:date>
     </item>
     <item>
       <title>Telescope - Tue Jun 03 23:15:10 UTC 2025</title>
@@ -747,7 +773,7 @@ xmlId: color.scheme.Colorful</description>
       <dc:date>2025-05-22T09:57:56Z</dc:date>
     </item>
     <item>
-      <title>Claude Code [Beta] - Wed May 28 01:16:51 UTC 2025</title>
+      <title>Claude Code [Beta] - Wed Jun 04 01:57:40 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27310-claude-code-beta-</link>
       <description>IMPORTANT: This plugin requires Claude Code to be installed separately. For more information, see claude.ai/code. Integrate Claude Code with your favorite development...
 
@@ -755,9 +781,9 @@ vendor: Anthropic PBC
 downloads: 27412
 pricingModel: FREE
 xmlId: com.anthropic.code.plugin</description>
-      <pubDate>Wed, 28 May 2025 01:16:51 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 01:57:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27310-claude-code-beta-</guid>
-      <dc:date>2025-05-28T01:16:51Z</dc:date>
+      <dc:date>2025-06-04T01:57:40Z</dc:date>
     </item>
     <item>
       <title>Java 30 Anniversary - Thu May 22 12:27:17 UTC 2025</title>
@@ -1228,7 +1254,7 @@ xmlId: com.intellij.dev</description>
       <dc:date>2025-05-28T21:43:28Z</dc:date>
     </item>
     <item>
-      <title>AI Playground - Wed May 28 21:42:08 UTC 2025</title>
+      <title>AI Playground - Wed Jun 04 13:24:36 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27370-ai-playground</link>
       <description>AI Playground plugin for IntelliJ Platform IDEs. Features include: - AI-powered code completion - Chat interface for querying LLM models - Integrated AI assistance for...
 
@@ -1236,12 +1262,12 @@ vendor: JetBrains s.r.o.
 downloads: 75
 pricingModel: FREE
 xmlId: intellij.aiplayground</description>
-      <pubDate>Wed, 28 May 2025 21:42:08 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 13:24:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27370-ai-playground</guid>
-      <dc:date>2025-05-28T21:42:08Z</dc:date>
+      <dc:date>2025-06-04T13:24:36Z</dc:date>
     </item>
     <item>
-      <title>Artifacts Repository Search - Wed May 28 21:44:44 UTC 2025</title>
+      <title>Artifacts Repository Search - Wed Jun 04 13:24:31 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27376-artifacts-repository-search</link>
       <description>Provides API for artifact search such as Maven/Gradle dependencies.
 
@@ -1249,9 +1275,9 @@ vendor: JetBrains s.r.o.
 downloads: 78
 pricingModel: FREE
 xmlId: org.jetbrains.idea.reposearch</description>
-      <pubDate>Wed, 28 May 2025 21:44:44 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 13:24:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27376-artifacts-repository-search</guid>
-      <dc:date>2025-05-28T21:44:44Z</dc:date>
+      <dc:date>2025-06-04T13:24:31Z</dc:date>
     </item>
     <item>
       <title>Spanish Language Localization / Paquete De Idioma Español - Tue May 13 18:20:42 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: com.ai.dev.tools.languagePack.community.ru</description>
       <pubDate>Tue, 13 May 2025 17:56:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27350-russian-language-localization---------------</guid>
       <dc:date>2025-05-13T17:56:34Z</dc:date>
-    </item>
-    <item>
-      <title>Portuguese Language Localization / Pacote De Idioma Português - Tue May 13 18:33:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27354-portuguese-language-localization--pacote-de-idioma-portugu-s</link>
-      <description>The Portuguese Language Pack for IJ IDEs family. Pacote de Idioma Português para a família de IDEs IJ. Para ativar, vá em Configurações | Aparência e Comportamento...
-
-vendor: Code
-downloads: 314
-pricingModel: FREE
-xmlId: com.ai.dev.tools.languagePack.community.pt</description>
-      <pubDate>Tue, 13 May 2025 18:33:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27354-portuguese-language-localization--pacote-de-idioma-portugu-s</guid>
-      <dc:date>2025-05-13T18:33:33Z</dc:date>
-    </item>
-    <item>
-      <title>Italian Language Localization / Pacchetto Lingua Italiano - Tue May 13 18:25:11 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27353-italian-language-localization--pacchetto-lingua-italiano</link>
-      <description>The Italian Language Pack for IntelliJ IDEs family. Il Pacchetto Lingua Italiana per la famiglia di IDE IntelliJ. Per attivare, vai su Settings | Appearance &amp;amp...
-
-vendor: Code
-downloads: 48
-pricingModel: FREE
-xmlId: com.ai.dev.tools.languagePack.community.it</description>
-      <pubDate>Tue, 13 May 2025 18:25:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27353-italian-language-localization--pacchetto-lingua-italiano</guid>
-      <dc:date>2025-05-13T18:25:11Z</dc:date>
     </item>
   </channel>
 </rss>
