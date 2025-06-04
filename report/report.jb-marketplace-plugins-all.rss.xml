@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CodeComplex By IFB (free) - Wed Jun 04 12:01:37 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27551-codecomplex-by-ifb-free-</link>
+      <description>CodeComplex by IFB estimates and visualizes the O() complexity of your methods. FREE VERSION. Works seamlessly with Java and Kotlin.
+
+vendor: vodov.vladimir
+downloads: 0
+pricingModel: FREE
+xmlId: com.intfloatbool.CodeComplex</description>
+      <pubDate>Wed, 04 Jun 2025 12:01:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27551-codecomplex-by-ifb-free-</guid>
+      <dc:date>2025-06-04T12:01:37Z</dc:date>
+    </item>
+    <item>
+      <title>ÖBB Progress Bar - Wed Jun 04 19:58:10 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27548--bb-progress-bar</link>
+      <description>This is a Progress Bar Plugin that shows locomotives of the Austrian Federal Railways (ÖBB).
+
+vendor: Peter Bambazek
+downloads: 0
+pricingModel: FREE
+xmlId: software.rabbitgarden.intellij-oebb-progress-bar</description>
+      <pubDate>Wed, 04 Jun 2025 19:58:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27548--bb-progress-bar</guid>
+      <dc:date>2025-06-04T19:58:10Z</dc:date>
+    </item>
+    <item>
+      <title>ToUtf8 - Wed Jun 04 15:19:19 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27552-toutf8</link>
+      <description>There are cases when old Java files contain multiple encodings — for example, a single file might include both Windows-1251 and UTF-8. In such situations, converting...
+
+vendor: Roman Khokhrov
+downloads: 0
+pricingModel: FREE
+xmlId: com.mrkhokh.ToUtf8</description>
+      <pubDate>Wed, 04 Jun 2025 15:19:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27552-toutf8</guid>
+      <dc:date>2025-06-04T15:19:19Z</dc:date>
+    </item>
+    <item>
+      <title>KotlinCompilerDevKit - Wed Jun 04 13:40:14 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27550-kotlincompilerdevkit</link>
+      <description>This plugin enhances the development experience when working with compiler tests in the Kotlin project. Key Features: Split-view editor for test data files and their...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: KotlinCompilerDevKit</description>
+      <pubDate>Wed, 04 Jun 2025 13:40:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27550-kotlincompilerdevkit</guid>
+      <dc:date>2025-06-04T13:40:14Z</dc:date>
+    </item>
+    <item>
       <title>Mistral Code Enterprise - Mon Jun 02 17:33:54 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27493-mistral-code-enterprise</link>
       <description>Mistral Code Enterprise Mistral Code Enterprise is an AI coding copilot powered by state-of-the-art Mistral coding models. Mistral Code Enterprise is currently only...
@@ -30,19 +82,6 @@ xmlId: com.github.hsz.ctrlscroll</description>
       <pubDate>Wed, 04 Jun 2025 10:40:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27549-ctrl-scroll-tool-window-resize</guid>
       <dc:date>2025-06-04T10:40:19Z</dc:date>
-    </item>
-    <item>
-      <title>Profiler Lens - Wed Jun 04 02:54:27 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27544-profiler-lens</link>
-      <description>Profiler Lens Profiler Lens is an IntelliJ IDEA plugin that enables seamless visualization of Java application profiling results directly within your source code. By...
-
-vendor: Roberto Mahl
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.robertomahl.visual-java-profiler</description>
-      <pubDate>Wed, 04 Jun 2025 02:54:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27544-profiler-lens</guid>
-      <dc:date>2025-06-04T02:54:27Z</dc:date>
     </item>
     <item>
       <title>commit-genie - Wed Jun 04 12:53:37 UTC 2025</title>
@@ -344,6 +383,19 @@ xmlId: com.github.ivw.expand-commit-tool-window</description>
       <dc:date>2025-05-30T05:45:35Z</dc:date>
     </item>
     <item>
+      <title>Yimi CodeGen - Wed Jun 04 08:41:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27458-yimi-codegen</link>
+      <description>Yimi CodeGen is an IntelliJ IDEA plugin designed for quickly generating CRUD (Create, Read, Update, Delete) code. It generates code based on Mybatis Model classes and...
+
+vendor: uublue
+downloads: 19
+pricingModel: FREE
+xmlId: com.uublue.yimi.codegen-ce</description>
+      <pubDate>Wed, 04 Jun 2025 08:41:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27458-yimi-codegen</guid>
+      <dc:date>2025-06-04T08:41:35Z</dc:date>
+    </item>
+    <item>
       <title>Commit Generate - WhatTheCommit - Wed May 28 19:35:29 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27486-commit-generate--whatthecommit</link>
       <description>Generate commit message using whatthecommit.com.
@@ -370,7 +422,7 @@ xmlId: com.github.convisoappsec.securecodeintellijplugin</description>
       <dc:date>2025-05-29T13:02:22Z</dc:date>
     </item>
     <item>
-      <title>CodePulse - Mon Jun 02 15:18:49 UTC 2025</title>
+      <title>CodePulse - Wed Jun 04 19:33:38 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27485-codepulse</link>
       <description>CodePulse Track developer productivity across coding and browsing activity. This plugin monitors project file activity in PhpStorm, as well as associated URLs opened...
 
@@ -378,9 +430,9 @@ vendor: francis.labonte
 downloads: 6
 pricingModel: FREE
 xmlId: com.codepulse.timetracker</description>
-      <pubDate>Mon, 02 Jun 2025 15:18:49 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 19:33:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27485-codepulse</guid>
-      <dc:date>2025-06-02T15:18:49Z</dc:date>
+      <dc:date>2025-06-04T19:33:38Z</dc:date>
     </item>
     <item>
       <title>ForkYou - Mon May 26 22:34:34 UTC 2025</title>
@@ -1150,7 +1202,7 @@ xmlId: org.jetbrains.plugins.gradle</description>
       <dc:date>2025-05-28T21:50:19Z</dc:date>
     </item>
     <item>
-      <title>Java - Wed May 28 21:43:04 UTC 2025</title>
+      <title>Java - Wed Jun 04 16:39:58 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27368-java</link>
       <description>Adds support for the Java language, including Java projects, language syntax highlighting, inspections, and all other coding assistance features.
 
@@ -1158,9 +1210,9 @@ vendor: JetBrains s.r.o.
 downloads: 47
 pricingModel: FREE
 xmlId: com.intellij.java</description>
-      <pubDate>Wed, 28 May 2025 21:43:04 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:39:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27368-java</guid>
-      <dc:date>2025-05-28T21:43:04Z</dc:date>
+      <dc:date>2025-06-04T16:39:58Z</dc:date>
     </item>
     <item>
       <title>FreeMarker - Wed May 28 21:44:00 UTC 2025</title>
@@ -1176,7 +1228,7 @@ xmlId: com.intellij.freemarker</description>
       <dc:date>2025-05-28T21:44:00Z</dc:date>
     </item>
     <item>
-      <title>Compilation Charts - Wed May 28 21:50:50 UTC 2025</title>
+      <title>Compilation Charts - Wed Jun 04 16:44:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27371-compilation-charts</link>
       <description>Provides compilation charts for profiling and analyzing compilation time. The plugin visualizes build progress, CPU load, memory usage, and per-thread compilation...
 
@@ -1184,12 +1236,12 @@ vendor: JetBrains s.r.o.
 downloads: 68
 pricingModel: FREE
 xmlId: intellij.compilation.charts</description>
-      <pubDate>Wed, 28 May 2025 21:50:50 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:44:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27371-compilation-charts</guid>
-      <dc:date>2025-05-28T21:50:50Z</dc:date>
+      <dc:date>2025-06-04T16:44:33Z</dc:date>
     </item>
     <item>
-      <title>JUnit - Wed May 28 21:50:45 UTC 2025</title>
+      <title>JUnit - Wed Jun 04 16:44:35 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27372-junit</link>
       <description>Supports JUnit tests. The following features are available: Ability to create JUnit 3.x, JUnit 4.x or JUnit 5.x tests. Navigation between a test and test subject...
 
@@ -1197,12 +1249,12 @@ vendor: JetBrains s.r.o.
 downloads: 42
 pricingModel: FREE
 xmlId: JUnit</description>
-      <pubDate>Wed, 28 May 2025 21:50:45 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:44:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27372-junit</guid>
-      <dc:date>2025-05-28T21:50:45Z</dc:date>
+      <dc:date>2025-06-04T16:44:35Z</dc:date>
     </item>
     <item>
-      <title>Java Internationalization - Wed May 28 21:40:01 UTC 2025</title>
+      <title>Java Internationalization - Wed Jun 04 16:40:05 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27373-java-internationalization</link>
       <description>Provides code inspections and corresponding quick fixes for internationalization in Java source code.
 
@@ -1210,12 +1262,12 @@ vendor: JetBrains s.r.o.
 downloads: 42
 pricingModel: FREE
 xmlId: com.intellij.java-i18n</description>
-      <pubDate>Wed, 28 May 2025 21:40:01 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:40:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27373-java-internationalization</guid>
-      <dc:date>2025-05-28T21:40:01Z</dc:date>
+      <dc:date>2025-06-04T16:40:05Z</dc:date>
     </item>
     <item>
-      <title>Configuration Script - Wed May 28 21:43:11 UTC 2025</title>
+      <title>Configuration Script - Wed Jun 04 16:40:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27375-configuration-script</link>
       <description>Supports configuring the IDE using text files (YAML, JSON). Experimental.
 
@@ -1223,9 +1275,9 @@ vendor: JetBrains s.r.o.
 downloads: 48
 pricingModel: FREE
 xmlId: com.intellij.configurationScript</description>
-      <pubDate>Wed, 28 May 2025 21:43:11 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:40:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27375-configuration-script</guid>
-      <dc:date>2025-05-28T21:43:11Z</dc:date>
+      <dc:date>2025-06-04T16:40:04Z</dc:date>
     </item>
     <item>
       <title>Code Coverage for Java - Wed May 28 21:41:13 UTC 2025</title>
@@ -1241,7 +1293,7 @@ xmlId: Coverage</description>
       <dc:date>2025-05-28T21:41:13Z</dc:date>
     </item>
     <item>
-      <title>DevKit Runtime - Wed May 28 21:43:28 UTC 2025</title>
+      <title>DevKit Runtime - Wed Jun 04 16:38:13 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27377-devkit-runtime</link>
       <description>Provides tools for IDE and plugin development, actions that make sense in debug IDE instance, such as View PSI Structure. Want to build a plugin for your favorite...
 
@@ -1249,61 +1301,9 @@ vendor: JetBrains s.r.o.
 downloads: 45
 pricingModel: FREE
 xmlId: com.intellij.dev</description>
-      <pubDate>Wed, 28 May 2025 21:43:28 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:38:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27377-devkit-runtime</guid>
-      <dc:date>2025-05-28T21:43:28Z</dc:date>
-    </item>
-    <item>
-      <title>AI Playground - Wed Jun 04 13:24:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27370-ai-playground</link>
-      <description>AI Playground plugin for IntelliJ Platform IDEs. Features include: - AI-powered code completion - Chat interface for querying LLM models - Integrated AI assistance for...
-
-vendor: JetBrains s.r.o.
-downloads: 75
-pricingModel: FREE
-xmlId: intellij.aiplayground</description>
-      <pubDate>Wed, 04 Jun 2025 13:24:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27370-ai-playground</guid>
-      <dc:date>2025-06-04T13:24:36Z</dc:date>
-    </item>
-    <item>
-      <title>Artifacts Repository Search - Wed Jun 04 13:24:31 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27376-artifacts-repository-search</link>
-      <description>Provides API for artifact search such as Maven/Gradle dependencies.
-
-vendor: JetBrains s.r.o.
-downloads: 78
-pricingModel: FREE
-xmlId: org.jetbrains.idea.reposearch</description>
-      <pubDate>Wed, 04 Jun 2025 13:24:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27376-artifacts-repository-search</guid>
-      <dc:date>2025-06-04T13:24:31Z</dc:date>
-    </item>
-    <item>
-      <title>Spanish Language Localization / Paquete De Idioma Español - Tue May 13 18:20:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27352-spanish-language-localization--paquete-de-idioma-espa-ol</link>
-      <description>The Spanish Language Pack for IJ IDEs family. El Paquete de Idioma Español para la familia de IDEs IJ. Para activar, vaya a Settings | Appearance &amp;amp; Behavior...
-
-vendor: Code
-downloads: 292
-pricingModel: FREE
-xmlId: com.ai.dev.tools.languagePack.community.es</description>
-      <pubDate>Tue, 13 May 2025 18:20:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27352-spanish-language-localization--paquete-de-idioma-espa-ol</guid>
-      <dc:date>2025-05-13T18:20:42Z</dc:date>
-    </item>
-    <item>
-      <title>Russian Language Localization / Локализация На Русский Язык - Tue May 13 17:56:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27350-russian-language-localization---------------</link>
-      <description>The Russian Language Pack for IJ IDEs family. Плагин локализации IntelliJ IDEA Community и PyCharm Community на русский язык. Для активации перейдите в Settings...
-
-vendor: Code
-downloads: 326
-pricingModel: FREE
-xmlId: com.ai.dev.tools.languagePack.community.ru</description>
-      <pubDate>Tue, 13 May 2025 17:56:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27350-russian-language-localization---------------</guid>
-      <dc:date>2025-05-13T17:56:34Z</dc:date>
+      <dc:date>2025-06-04T16:38:13Z</dc:date>
     </item>
   </channel>
 </rss>

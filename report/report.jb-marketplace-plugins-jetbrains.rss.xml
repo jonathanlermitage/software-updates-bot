@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>KotlinCompilerDevKit - Wed Jun 04 13:40:14 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27550-kotlincompilerdevkit</link>
+      <description>This plugin enhances the development experience when working with compiler tests in the Kotlin project. Key Features: Split-view editor for test data files and their...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: KotlinCompilerDevKit</description>
+      <pubDate>Wed, 04 Jun 2025 13:40:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27550-kotlincompilerdevkit</guid>
+      <dc:date>2025-06-04T13:40:14Z</dc:date>
+    </item>
+    <item>
       <title>Remote Development Server - Wed May 28 21:44:36 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27494-remote-development-server</link>
       <description>Launches IDE in Unattended Mode and provides connection access to a remote client.
@@ -45,7 +58,7 @@ xmlId: org.jetbrains.plugins.gradle</description>
       <dc:date>2025-05-28T21:50:19Z</dc:date>
     </item>
     <item>
-      <title>Java - Wed May 28 21:43:04 UTC 2025</title>
+      <title>Java - Wed Jun 04 16:39:58 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27368-java</link>
       <description>Adds support for the Java language, including Java projects, language syntax highlighting, inspections, and all other coding assistance features.
 
@@ -53,9 +66,9 @@ vendor: JetBrains s.r.o.
 downloads: 47
 pricingModel: FREE
 xmlId: com.intellij.java</description>
-      <pubDate>Wed, 28 May 2025 21:43:04 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:39:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27368-java</guid>
-      <dc:date>2025-05-28T21:43:04Z</dc:date>
+      <dc:date>2025-06-04T16:39:58Z</dc:date>
     </item>
     <item>
       <title>FreeMarker - Wed May 28 21:44:00 UTC 2025</title>
@@ -71,7 +84,7 @@ xmlId: com.intellij.freemarker</description>
       <dc:date>2025-05-28T21:44:00Z</dc:date>
     </item>
     <item>
-      <title>Compilation Charts - Wed May 28 21:50:50 UTC 2025</title>
+      <title>Compilation Charts - Wed Jun 04 16:44:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27371-compilation-charts</link>
       <description>Provides compilation charts for profiling and analyzing compilation time. The plugin visualizes build progress, CPU load, memory usage, and per-thread compilation...
 
@@ -79,12 +92,12 @@ vendor: JetBrains s.r.o.
 downloads: 68
 pricingModel: FREE
 xmlId: intellij.compilation.charts</description>
-      <pubDate>Wed, 28 May 2025 21:50:50 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:44:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27371-compilation-charts</guid>
-      <dc:date>2025-05-28T21:50:50Z</dc:date>
+      <dc:date>2025-06-04T16:44:33Z</dc:date>
     </item>
     <item>
-      <title>JUnit - Wed May 28 21:50:45 UTC 2025</title>
+      <title>JUnit - Wed Jun 04 16:44:35 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27372-junit</link>
       <description>Supports JUnit tests. The following features are available: Ability to create JUnit 3.x, JUnit 4.x or JUnit 5.x tests. Navigation between a test and test subject...
 
@@ -92,12 +105,12 @@ vendor: JetBrains s.r.o.
 downloads: 42
 pricingModel: FREE
 xmlId: JUnit</description>
-      <pubDate>Wed, 28 May 2025 21:50:45 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:44:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27372-junit</guid>
-      <dc:date>2025-05-28T21:50:45Z</dc:date>
+      <dc:date>2025-06-04T16:44:35Z</dc:date>
     </item>
     <item>
-      <title>Java Internationalization - Wed May 28 21:40:01 UTC 2025</title>
+      <title>Java Internationalization - Wed Jun 04 16:40:05 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27373-java-internationalization</link>
       <description>Provides code inspections and corresponding quick fixes for internationalization in Java source code.
 
@@ -105,12 +118,12 @@ vendor: JetBrains s.r.o.
 downloads: 42
 pricingModel: FREE
 xmlId: com.intellij.java-i18n</description>
-      <pubDate>Wed, 28 May 2025 21:40:01 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:40:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27373-java-internationalization</guid>
-      <dc:date>2025-05-28T21:40:01Z</dc:date>
+      <dc:date>2025-06-04T16:40:05Z</dc:date>
     </item>
     <item>
-      <title>Configuration Script - Wed May 28 21:43:11 UTC 2025</title>
+      <title>Configuration Script - Wed Jun 04 16:40:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27375-configuration-script</link>
       <description>Supports configuring the IDE using text files (YAML, JSON). Experimental.
 
@@ -118,9 +131,9 @@ vendor: JetBrains s.r.o.
 downloads: 48
 pricingModel: FREE
 xmlId: com.intellij.configurationScript</description>
-      <pubDate>Wed, 28 May 2025 21:43:11 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:40:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27375-configuration-script</guid>
-      <dc:date>2025-05-28T21:43:11Z</dc:date>
+      <dc:date>2025-06-04T16:40:04Z</dc:date>
     </item>
     <item>
       <title>Code Coverage for Java - Wed May 28 21:41:13 UTC 2025</title>
@@ -136,7 +149,7 @@ xmlId: Coverage</description>
       <dc:date>2025-05-28T21:41:13Z</dc:date>
     </item>
     <item>
-      <title>DevKit Runtime - Wed May 28 21:43:28 UTC 2025</title>
+      <title>DevKit Runtime - Wed Jun 04 16:38:13 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27377-devkit-runtime</link>
       <description>Provides tools for IDE and plugin development, actions that make sense in debug IDE instance, such as View PSI Structure. Want to build a plugin for your favorite...
 
@@ -144,35 +157,9 @@ vendor: JetBrains s.r.o.
 downloads: 45
 pricingModel: FREE
 xmlId: com.intellij.dev</description>
-      <pubDate>Wed, 28 May 2025 21:43:28 GMT</pubDate>
+      <pubDate>Wed, 04 Jun 2025 16:38:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27377-devkit-runtime</guid>
-      <dc:date>2025-05-28T21:43:28Z</dc:date>
-    </item>
-    <item>
-      <title>AI Playground - Wed Jun 04 13:24:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27370-ai-playground</link>
-      <description>AI Playground plugin for IntelliJ Platform IDEs. Features include: - AI-powered code completion - Chat interface for querying LLM models - Integrated AI assistance for...
-
-vendor: JetBrains s.r.o.
-downloads: 75
-pricingModel: FREE
-xmlId: intellij.aiplayground</description>
-      <pubDate>Wed, 04 Jun 2025 13:24:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27370-ai-playground</guid>
-      <dc:date>2025-06-04T13:24:36Z</dc:date>
-    </item>
-    <item>
-      <title>Artifacts Repository Search - Wed Jun 04 13:24:31 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27376-artifacts-repository-search</link>
-      <description>Provides API for artifact search such as Maven/Gradle dependencies.
-
-vendor: JetBrains s.r.o.
-downloads: 78
-pricingModel: FREE
-xmlId: org.jetbrains.idea.reposearch</description>
-      <pubDate>Wed, 04 Jun 2025 13:24:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27376-artifacts-repository-search</guid>
-      <dc:date>2025-06-04T13:24:31Z</dc:date>
+      <dc:date>2025-06-04T16:38:13Z</dc:date>
     </item>
   </channel>
 </rss>
