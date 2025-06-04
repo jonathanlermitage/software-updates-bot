@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.13.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 04 00:08:55 UTC 2025|
+|![logo](../media/logo/python.png) Python 3 mac| 3.13.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 04 00:08:54 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 326 - Interview assistants de code IA avec Philippe Charrière et Kevin Aubry|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jun 03 12:06:07 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.18003.27) ~ 2025-05-29|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 29 12:05:43 UTC 2025|
@@ -29,8 +31,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.15+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Apr 16 20:02:48 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Apr 16 16:03:03 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Apr 16 16:03:03 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.13.3|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 08 20:02:54 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 mac| 3.13.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 08 20:02:53 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:02:27 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
