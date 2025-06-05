@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|8.14.2|[gradle.org](https://gradle.org/releases/)|Thu Jun 05 16:05:31 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.19874.12) ~ 2025-06-04|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jun 05 12:05:51 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.2 (251.26094.121) ~ 2025-06-04|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Jun 04 16:06:22 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.4|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 04 00:08:55 UTC 2025|
@@ -8,7 +9,6 @@
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 16:02:37 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 23 00:06:38 UTC 2025|
-|![logo](../media/logo/gradle.png) Gradle|8.14.1|[gradle.org](https://gradle.org/releases/)|Thu May 22 16:02:57 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.1.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.16.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.9.0 to 18.9.5 ~ 2025-05-21|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed May 21 16:03:02 UTC 2025|
