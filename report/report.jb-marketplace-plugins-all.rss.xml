@@ -6,7 +6,7 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Main Menu Craft - Wed Jun 04 03:23:12 UTC 2025</title>
+      <title>Main Menu Craft - Thu Jun 05 07:58:38 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27529-main-menu-craft</link>
       <description>Overview: This plugin allows you to add customizable menu items to the "Tools" section of the main menu. Although the plugin is currently free to use, we plan to...
 
@@ -14,9 +14,9 @@ vendor: macha
 downloads: 5
 pricingModel: FREE
 xmlId: com.mska3i.mainmenucraft</description>
-      <pubDate>Wed, 04 Jun 2025 03:23:12 GMT</pubDate>
+      <pubDate>Thu, 05 Jun 2025 07:58:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27529-main-menu-craft</guid>
-      <dc:date>2025-06-04T03:23:12Z</dc:date>
+      <dc:date>2025-06-05T07:58:38Z</dc:date>
     </item>
     <item>
       <title>Spring GraphQL - Wed Jun 04 16:51:45 UTC 2025</title>
@@ -56,19 +56,6 @@ xmlId: software.rabbitgarden.intellij-oebb-progress-bar</description>
       <pubDate>Wed, 04 Jun 2025 20:22:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27548--bb-progress-bar</guid>
       <dc:date>2025-06-04T20:22:51Z</dc:date>
-    </item>
-    <item>
-      <title>ToUtf8 - Wed Jun 04 15:19:19 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27552-toutf8</link>
-      <description>There are cases when old Java files contain multiple encodings — for example, a single file might include both Windows-1251 and UTF-8. In such situations, converting...
-
-vendor: Roman Khokhrov
-downloads: 1
-pricingModel: FREE
-xmlId: com.mrkhokh.ToUtf8</description>
-      <pubDate>Wed, 04 Jun 2025 15:19:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27552-toutf8</guid>
-      <dc:date>2025-06-04T15:19:19Z</dc:date>
     </item>
     <item>
       <title>KotlinCompilerDevKit - Wed Jun 04 13:40:14 UTC 2025</title>
@@ -539,7 +526,7 @@ xmlId: io.github.linfers.autoinput</description>
       <dc:date>2025-05-29T08:13:09Z</dc:date>
     </item>
     <item>
-      <title>GLComponent - Tue Jun 03 08:03:08 UTC 2025</title>
+      <title>GLComponent - Thu Jun 05 09:50:18 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27425-glcomponent</link>
       <description>Godlike Sdk Usage Fix Fix SDK source code navigation issue.
 
@@ -547,9 +534,9 @@ vendor: Hango Liang
 downloads: 51
 pricingModel: FREE
 xmlId: com.netease.gl.componnet</description>
-      <pubDate>Tue, 03 Jun 2025 08:03:08 GMT</pubDate>
+      <pubDate>Thu, 05 Jun 2025 09:50:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27425-glcomponent</guid>
-      <dc:date>2025-06-03T08:03:08Z</dc:date>
+      <dc:date>2025-06-05T09:50:18Z</dc:date>
     </item>
     <item>
       <title>Varnish Test Case - Tue May 27 20:34:04 UTC 2025</title>
@@ -1304,6 +1291,19 @@ xmlId: com.intellij.configurationScript</description>
       <pubDate>Wed, 04 Jun 2025 16:40:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27375-configuration-script</guid>
       <dc:date>2025-06-04T16:40:04Z</dc:date>
+    </item>
+    <item>
+      <title>Code Coverage for Java - Wed Jun 04 16:50:42 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27374-code-coverage-for-java</link>
+      <description>Collects and displays coverage information for Java. To run your code with coverage, open the Run menu and click Run with Coverage. Results are displayed in the...
+
+vendor: JetBrains s.r.o.
+downloads: 52
+pricingModel: FREE
+xmlId: Coverage</description>
+      <pubDate>Wed, 04 Jun 2025 16:50:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27374-code-coverage-for-java</guid>
+      <dc:date>2025-06-04T16:50:42Z</dc:date>
     </item>
   </channel>
 </rss>
