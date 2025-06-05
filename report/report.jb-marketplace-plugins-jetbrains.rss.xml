@@ -11,7 +11,7 @@
       <description>Adds support for the Spring for GraphQL. Features: Coding assistance: code completion, inspections. Line markers to generate requests in HTTP Client. List of all...
 
 vendor: JetBrains s.r.o.
-downloads: 123699
+downloads: 124598
 pricingModel: FREE
 xmlId: com.intellij.spring.graphql</description>
       <pubDate>Wed, 04 Jun 2025 16:51:45 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.intellij.spring.graphql</description>
       <description>This plugin enhances the development experience when working with compiler tests in the Kotlin project. Key Features: Split-view editor for test data files and their...
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: KotlinCompilerDevKit</description>
       <pubDate>Wed, 04 Jun 2025 13:40:14 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: KotlinCompilerDevKit</description>
       <description>Launches IDE in Unattended Mode and provides connection access to a remote client.
 
 vendor: JetBrains s.r.o.
-downloads: 14
+downloads: 28
 pricingModel: FREE
 xmlId: com.jetbrains.remoteDevServer</description>
       <pubDate>Wed, 04 Jun 2025 16:51:04 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.jetbrains.remoteDevServer</description>
       <description>Your Inner Duke on Splash Screen Deep inside every Java enthusiast lives a hidden Duke – the true soul powering your code and developer vibe. To celebrate Java’s 30th...
 
 vendor: JetBrains s.r.o.
-downloads: 4753
+downloads: 4813
 pricingModel: FREE
 xmlId: com.intellij.java30</description>
       <pubDate>Thu, 22 May 2025 12:27:17 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.intellij.java30</description>
       <description>Provides Java Gradle projects import, run configuration and profiler integrations.
 
 vendor: JetBrains s.r.o.
-downloads: 849
+downloads: 1197
 pricingModel: FREE
 xmlId: org.jetbrains.plugins.gradle</description>
       <pubDate>Wed, 04 Jun 2025 16:52:09 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: org.jetbrains.plugins.gradle</description>
       <description>Adds support for the Java language, including Java projects, language syntax highlighting, inspections, and all other coding assistance features.
 
 vendor: JetBrains s.r.o.
-downloads: 47
+downloads: 50
 pricingModel: FREE
 xmlId: com.intellij.java</description>
       <pubDate>Wed, 04 Jun 2025 16:39:58 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.intellij.java</description>
       <description>Provides editor support for FreeMarker template language. Features: Dedicated file type. Syntax and error highlighting. Coding assistance (code completion...
 
 vendor: JetBrains s.r.o.
-downloads: 1124
+downloads: 1439
 pricingModel: FREE
 xmlId: com.intellij.freemarker</description>
       <pubDate>Wed, 04 Jun 2025 16:50:17 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.intellij.freemarker</description>
       <description>Provides compilation charts for profiling and analyzing compilation time. The plugin visualizes build progress, CPU load, memory usage, and per-thread compilation...
 
 vendor: JetBrains s.r.o.
-downloads: 68
+downloads: 73
 pricingModel: FREE
 xmlId: intellij.compilation.charts</description>
       <pubDate>Wed, 04 Jun 2025 16:44:33 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: intellij.compilation.charts</description>
       <description>Supports JUnit tests. The following features are available: Ability to create JUnit 3.x, JUnit 4.x or JUnit 5.x tests. Navigation between a test and test subject...
 
 vendor: JetBrains s.r.o.
-downloads: 42
+downloads: 44
 pricingModel: FREE
 xmlId: JUnit</description>
       <pubDate>Wed, 04 Jun 2025 16:44:35 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: JUnit</description>
       <description>Provides code inspections and corresponding quick fixes for internationalization in Java source code.
 
 vendor: JetBrains s.r.o.
-downloads: 42
+downloads: 43
 pricingModel: FREE
 xmlId: com.intellij.java-i18n</description>
       <pubDate>Wed, 04 Jun 2025 16:40:05 GMT</pubDate>
@@ -141,25 +141,12 @@ xmlId: com.intellij.java-i18n</description>
       <description>Supports configuring the IDE using text files (YAML, JSON). Experimental.
 
 vendor: JetBrains s.r.o.
-downloads: 48
+downloads: 50
 pricingModel: FREE
 xmlId: com.intellij.configurationScript</description>
       <pubDate>Wed, 04 Jun 2025 16:40:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27375-configuration-script</guid>
       <dc:date>2025-06-04T16:40:04Z</dc:date>
-    </item>
-    <item>
-      <title>Code Coverage for Java - Wed Jun 04 16:50:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27374-code-coverage-for-java</link>
-      <description>Collects and displays coverage information for Java. To run your code with coverage, open the Run menu and click Run with Coverage. Results are displayed in the...
-
-vendor: JetBrains s.r.o.
-downloads: 40
-pricingModel: FREE
-xmlId: Coverage</description>
-      <pubDate>Wed, 04 Jun 2025 16:50:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27374-code-coverage-for-java</guid>
-      <dc:date>2025-06-04T16:50:42Z</dc:date>
     </item>
   </channel>
 </rss>
