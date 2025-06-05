@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Win1251ToUtf8 - Thu Jun 05 10:47:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27560-win1251toutf8</link>
+      <description>There are cases when old Java files contain multiple encodings — for example, a single file might include both Windows-1251 and UTF-8. In such situations, converting...
+
+vendor: Roman Khokhrov
+downloads: 0
+pricingModel: FREE
+xmlId: com.mrkhokh.Win1251ToUtf8</description>
+      <pubDate>Thu, 05 Jun 2025 10:47:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27560-win1251toutf8</guid>
+      <dc:date>2025-06-05T10:47:48Z</dc:date>
+    </item>
+    <item>
+      <title>Fiskeoye - Thu Jun 05 07:52:31 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27559-fiskeoye</link>
+      <description>Simple intellij plugin that wraps the features found in fiskeoye. The plugin was developed as part of Ship-It at Statens Pensjonskasse.
+
+vendor: Statens pensjonskasse
+downloads: 0
+pricingModel: FREE
+xmlId: no.spk.fiskeoye.plugin</description>
+      <pubDate>Thu, 05 Jun 2025 07:52:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27559-fiskeoye</guid>
+      <dc:date>2025-06-05T07:52:31Z</dc:date>
+    </item>
+    <item>
       <title>Main Menu Craft - Thu Jun 05 07:58:38 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27529-main-menu-craft</link>
       <description>Overview: This plugin allows you to add customizable menu items to the "Tools" section of the main menu. Although the plugin is currently free to use, we plan to...
@@ -801,7 +827,7 @@ xmlId: com.lxd.brick-breaker-game</description>
     <item>
       <title>PITest - Mon May 26 19:42:44 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27437-pitest</link>
-      <description>Run PIT mutation tests from IntelliJ IDEA. Features: Run against any combination of files -- automatically matches sources and testsSee mutation icons directly in IDE...
+      <description>Run PIT mutation tests from IntelliJ IDEA. Features: Run against any combination of Java files -- automatically matches sources and testsSee mutation icons directly in...
 
 vendor: Brendan McCarthy
 downloads: 91
@@ -1111,7 +1137,7 @@ xmlId: com.liuhao.customImport</description>
       <dc:date>2025-05-17T10:11:54Z</dc:date>
     </item>
     <item>
-      <title>OpenAPI GUI Editor - Tue Jun 03 11:52:08 UTC 2025</title>
+      <title>OpenAPI GUI Editor - Thu Jun 05 15:34:55 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27118-openapi-gui-editor</link>
       <description>GUI Editor for OpenAPI specification (OAS) 3.1.*. Why does the plugin exist? While the OpenAPI (former swagger) specification was initially designed to be...
 
@@ -1119,9 +1145,9 @@ vendor: Anton Okolelov
 downloads: 115
 pricingModel: PAID
 xmlId: com.github.antonokolelov.openapiguieditor</description>
-      <pubDate>Tue, 03 Jun 2025 11:52:08 GMT</pubDate>
+      <pubDate>Thu, 05 Jun 2025 15:34:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27118-openapi-gui-editor</guid>
-      <dc:date>2025-06-03T11:52:08Z</dc:date>
+      <dc:date>2025-06-05T15:34:55Z</dc:date>
     </item>
     <item>
       <title>Batch Renamer - Sun Jun 01 06:50:48 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: com.intellij.java-i18n</description>
       <pubDate>Wed, 04 Jun 2025 16:40:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27373-java-internationalization</guid>
       <dc:date>2025-06-04T16:40:05Z</dc:date>
-    </item>
-    <item>
-      <title>Configuration Script - Wed Jun 04 16:40:04 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27375-configuration-script</link>
-      <description>Supports configuring the IDE using text files (YAML, JSON). Experimental.
-
-vendor: JetBrains s.r.o.
-downloads: 50
-pricingModel: FREE
-xmlId: com.intellij.configurationScript</description>
-      <pubDate>Wed, 04 Jun 2025 16:40:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27375-configuration-script</guid>
-      <dc:date>2025-06-04T16:40:04Z</dc:date>
-    </item>
-    <item>
-      <title>Code Coverage for Java - Wed Jun 04 16:50:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27374-code-coverage-for-java</link>
-      <description>Collects and displays coverage information for Java. To run your code with coverage, open the Run menu and click Run with Coverage. Results are displayed in the...
-
-vendor: JetBrains s.r.o.
-downloads: 52
-pricingModel: FREE
-xmlId: Coverage</description>
-      <pubDate>Wed, 04 Jun 2025 16:50:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27374-code-coverage-for-java</guid>
-      <dc:date>2025-06-04T16:50:42Z</dc:date>
     </item>
   </channel>
 </rss>
