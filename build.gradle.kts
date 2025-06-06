@@ -3,7 +3,7 @@ import io.gitlab.arturbosch.detekt.Detekt
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 val detektVersion = "1.23.8" // IMPORTANT don't forget to update plugin version too
-val prjJavaVersion = JavaVersion.VERSION_17
+val prjJavaVersion = JavaVersion.VERSION_21
 
 plugins {
     val kotlinVersion = "2.1.21"
