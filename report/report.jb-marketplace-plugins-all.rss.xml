@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CodeSnapAndroid - Thu Jun 05 21:45:31 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27563-codesnapandroid</link>
+      <description>CodeSnapAndroid is a plugin for Android Studio that allows you to quickly capture and share screenshots of selected code for documentation or collaboration...
+
+vendor: Michel Osorio Barrera
+downloads: 0
+pricingModel: FREE
+xmlId: com.MOBmaster.Production.CodeSnapAndroidt3</description>
+      <pubDate>Thu, 05 Jun 2025 21:45:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27563-codesnapandroid</guid>
+      <dc:date>2025-06-05T21:45:31Z</dc:date>
+    </item>
+    <item>
+      <title>Table Extractor - Fri Jun 06 02:25:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27564-table-extractor</link>
+      <description>One click collection of all database tables in the project. Currently only applicable to MySQL/PostgreSQL/SQLServer/Oracle databases.
+
+vendor: 宋文杰
+downloads: 0
+pricingModel: FREE
+xmlId: com.tables.get</description>
+      <pubDate>Fri, 06 Jun 2025 02:25:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27564-table-extractor</guid>
+      <dc:date>2025-06-06T02:25:16Z</dc:date>
+    </item>
+    <item>
       <title>Win1251ToUtf8 - Fri Jun 06 08:42:21 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27560-win1251toutf8</link>
       <description>There are cases when old Java files contain multiple encodings — for example, a single file might include both Windows-1251 and UTF-8. In such situations, converting...
@@ -1278,32 +1304,6 @@ xmlId: intellij.compilation.charts</description>
       <pubDate>Wed, 04 Jun 2025 16:44:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27371-compilation-charts</guid>
       <dc:date>2025-06-04T16:44:33Z</dc:date>
-    </item>
-    <item>
-      <title>JUnit - Wed Jun 04 16:44:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27372-junit</link>
-      <description>Supports JUnit tests. The following features are available: Ability to create JUnit 3.x, JUnit 4.x or JUnit 5.x tests. Navigation between a test and test subject...
-
-vendor: JetBrains s.r.o.
-downloads: 45
-pricingModel: FREE
-xmlId: JUnit</description>
-      <pubDate>Wed, 04 Jun 2025 16:44:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27372-junit</guid>
-      <dc:date>2025-06-04T16:44:35Z</dc:date>
-    </item>
-    <item>
-      <title>Java Internationalization - Wed Jun 04 16:40:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27373-java-internationalization</link>
-      <description>Provides code inspections and corresponding quick fixes for internationalization in Java source code.
-
-vendor: JetBrains s.r.o.
-downloads: 44
-pricingModel: FREE
-xmlId: com.intellij.java-i18n</description>
-      <pubDate>Wed, 04 Jun 2025 16:40:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27373-java-internationalization</guid>
-      <dc:date>2025-06-04T16:40:05Z</dc:date>
     </item>
   </channel>
 </rss>
