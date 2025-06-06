@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.9.5 to 19.0.0 ~ 2025-06-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Jun 06 16:05:40 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.4|[golang.org](https://golang.org/dl/)|Thu Jun 05 20:05:36 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14.2|[gradle.org](https://gradle.org/releases/)|Thu Jun 05 16:05:31 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.19874.12) ~ 2025-06-04|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jun 05 12:05:51 UTC 2025|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.0.RELEASE|[start.spring.io](https://start.spring.io)|Fri May 23 00:06:38 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.1.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.16.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.9.0 to 18.9.5 ~ 2025-05-21|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed May 21 16:03:02 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
