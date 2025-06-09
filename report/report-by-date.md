@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|18.9.5 to 19.0.0 ~ 2025-06-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Jun 06 16:05:40 UTC 2025|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.0 to 19.0.1 ~ 2025-06-09|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jun 09 16:05:23 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.4|[golang.org](https://golang.org/dl/)|Thu Jun 05 20:05:36 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14.2|[gradle.org](https://gradle.org/releases/)|Thu Jun 05 16:05:31 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.19874.12) ~ 2025-06-04|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jun 05 12:05:51 UTC 2025|
