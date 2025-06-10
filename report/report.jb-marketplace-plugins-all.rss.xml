@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CybeDefend - Tue Jun 10 07:53:45 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27580-cybedefend</link>
+      <description>The CybeDefend IntelliJ Plugin provides seamless integration with the CybeDefend security scanning platform. Start scans directly from the IDE View Summary, SAST, IaC...
+
+vendor: CybeDefend
+downloads: 2
+pricingModel: FREE
+xmlId: com.cybedefend.jetbrains</description>
+      <pubDate>Tue, 10 Jun 2025 07:53:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27580-cybedefend</guid>
+      <dc:date>2025-06-10T07:53:45Z</dc:date>
+    </item>
+    <item>
       <title>OpenTelemetry - Fri Jun 06 14:26:59 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27488-opentelemetry</link>
       <description>The plugin provides support for OpenTelemetry in JetBrains Rider. It helps you combine static analysis with runtime insights, making runtime data like logs, metrics...
@@ -84,7 +97,7 @@ xmlId: org.kiwi.lang</description>
       <dc:date>2025-06-09T06:41:09Z</dc:date>
     </item>
     <item>
-      <title>Highlight on Copy - Sat Jun 07 08:19:47 UTC 2025</title>
+      <title>Highlight on Copy - Tue Jun 10 10:04:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27575-highlight-on-copy</link>
       <description>Highlights the text that was just copied to the clipboard with customizable colors and blinking effects. Features: &#x1f3a8; Highlights copied text with configurable...
 
@@ -92,9 +105,9 @@ vendor: Harry Jenkins
 downloads: 4
 pricingModel: FREE
 xmlId: com.github.hazzajenko.jetbrainshighlightoncopy</description>
-      <pubDate>Sat, 07 Jun 2025 08:19:47 GMT</pubDate>
+      <pubDate>Tue, 10 Jun 2025 10:04:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27575-highlight-on-copy</guid>
-      <dc:date>2025-06-07T08:19:47Z</dc:date>
+      <dc:date>2025-06-10T10:04:04Z</dc:date>
     </item>
     <item>
       <title>JSON Tree Viewer - Tue Jun 10 06:48:26 UTC 2025</title>
@@ -253,7 +266,7 @@ xmlId: com.tables.get</description>
       <dc:date>2025-06-10T05:15:56Z</dc:date>
     </item>
     <item>
-      <title>Win1251ToUtf8 - Fri Jun 06 08:42:21 UTC 2025</title>
+      <title>Win1251ToUtf8 - Tue Jun 10 11:57:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27560-win1251toutf8</link>
       <description>There are cases when old Java files contain multiple encodings — for example, a single file might include both Windows-1251 and UTF-8. In such situations, converting...
 
@@ -261,9 +274,9 @@ vendor: Roman Khokhrov
 downloads: 14
 pricingModel: FREE
 xmlId: com.mrkhokh.Win1251ToUtf8</description>
-      <pubDate>Fri, 06 Jun 2025 08:42:21 GMT</pubDate>
+      <pubDate>Tue, 10 Jun 2025 11:57:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27560-win1251toutf8</guid>
-      <dc:date>2025-06-06T08:42:21Z</dc:date>
+      <dc:date>2025-06-10T11:57:33Z</dc:date>
     </item>
     <item>
       <title>Fiskeoye - Thu Jun 05 07:52:31 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: com.github.xepozz.caddy</description>
       <pubDate>Fri, 16 May 2025 18:13:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27362-caddyfile-support</guid>
       <dc:date>2025-05-16T18:13:22Z</dc:date>
-    </item>
-    <item>
-      <title>Hoshisuki Music Player - Mon Jun 09 20:55:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27400-hoshisuki-music-player</link>
-      <description>Hoshisuki A simple IntelliJ music player plugin that allows you to play specified music while coding. Features Support for multiple audio formats: The plugin includes...
-
-vendor: xXYxxdMC
-downloads: 110
-pricingModel: FREE
-xmlId: com.xxyxxdmc.hoshisuki</description>
-      <pubDate>Mon, 09 Jun 2025 20:55:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27400-hoshisuki-music-player</guid>
-      <dc:date>2025-06-09T20:55:23Z</dc:date>
     </item>
   </channel>
 </rss>
