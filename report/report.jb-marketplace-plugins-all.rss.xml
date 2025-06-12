@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Fyrox Lite / C# - Wed Jun 11 20:35:46 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27613-fyrox-lite--c-</link>
+      <description>Enhances JetBrains Rider with Fyrox Lite / C# support: Helps to create Fyrox C# scripts with proper UUID generation by new items in context menu. Use markers to...
+
+vendor: Nikolay Plekhanov
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.kkolyan.fyroxlite</description>
+      <pubDate>Wed, 11 Jun 2025 20:35:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27613-fyrox-lite--c-</guid>
+      <dc:date>2025-06-11T20:35:46Z</dc:date>
+    </item>
+    <item>
+      <title>Timer Reminder Tool - Wed Jun 11 02:34:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27614-timer-reminder-tool</link>
+      <description>Helps developers manage work time with custom reminders. Features: Set custom reminder intervals Notification popups Simple configuration...
+
+vendor: 张华明
+downloads: 0
+pricingModel: FREE
+xmlId: com.umizhang.plugin</description>
+      <pubDate>Wed, 11 Jun 2025 02:34:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27614-timer-reminder-tool</guid>
+      <dc:date>2025-06-11T02:34:48Z</dc:date>
+    </item>
+    <item>
+      <title>Terra CodeTool - Thu Jun 12 09:46:31 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27620-terra-codetool</link>
+      <description>This plugin adds support for the .tesf file format, designed for Terra, a data-driven World Generator for Minecraft. Key Features: Syntax Highlighting and Formatting...
+
+vendor: Polyhedral Development
+downloads: 0
+pricingModel: FREE
+xmlId: com.dfsek.terra.codetool</description>
+      <pubDate>Thu, 12 Jun 2025 09:46:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27620-terra-codetool</guid>
+      <dc:date>2025-06-12T09:46:31Z</dc:date>
+    </item>
+    <item>
       <title>Harness OSS Gitspaces - Wed Feb 19 18:46:15 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/26595-harness-oss-gitspaces</link>
       <description>Harness Open Source Gitspaces are ready-to-use cloud development environments that can be spun up in one click. These environments come pre-configured with everything...
@@ -19,20 +58,20 @@ xmlId: io.harness.oss.jetbrains.gateway</description>
       <dc:date>2025-02-19T18:46:15Z</dc:date>
     </item>
     <item>
-      <title>Kotlin Compiler DevKit - Thu Jun 12 08:35:47 UTC 2025</title>
+      <title>Kotlin Compiler DevKit - Thu Jun 12 15:43:10 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27616-kotlin-compiler-devkit</link>
-      <description>This plugin enhances the development experience when working with compiler tests in the Kotlin project. Key Features: Split-view editor for test data files and their...
+      <description>This plugin enhances the development experience when working with compiler tests in the Kotlin project or Kotlin compiler plugins. Setup The plugin enhances the editor...
 
 vendor: JetBrains s.r.o.
 downloads: 0
 pricingModel: FREE
 xmlId: org.jetbrains.kotlin.compiler.devkit</description>
-      <pubDate>Thu, 12 Jun 2025 08:35:47 GMT</pubDate>
+      <pubDate>Thu, 12 Jun 2025 15:43:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27616-kotlin-compiler-devkit</guid>
-      <dc:date>2025-06-12T08:35:47Z</dc:date>
+      <dc:date>2025-06-12T15:43:10Z</dc:date>
     </item>
     <item>
-      <title>AI Enterprise - Wed Jun 11 11:31:03 UTC 2025</title>
+      <title>AI Enterprise - Thu Jun 12 12:55:14 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27545-ai-enterprise</link>
       <description>Provides support for enterprise AI features.
 
@@ -40,12 +79,12 @@ vendor: JetBrains s.r.o.
 downloads: 0
 pricingModel: FREE
 xmlId: fleet.ai.enterprise</description>
-      <pubDate>Wed, 11 Jun 2025 11:31:03 GMT</pubDate>
+      <pubDate>Thu, 12 Jun 2025 12:55:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27545-ai-enterprise</guid>
-      <dc:date>2025-06-11T11:31:03Z</dc:date>
+      <dc:date>2025-06-12T12:55:14Z</dc:date>
     </item>
     <item>
-      <title>Experimental AI API - Wed Jun 11 11:31:07 UTC 2025</title>
+      <title>Experimental AI API - Thu Jun 12 12:55:23 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27553-experimental-ai-api</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -53,12 +92,12 @@ vendor: JetBrains s.r.o.
 downloads: 0
 pricingModel: FREE
 xmlId: fleet.ai.experimental</description>
-      <pubDate>Wed, 11 Jun 2025 11:31:07 GMT</pubDate>
+      <pubDate>Thu, 12 Jun 2025 12:55:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27553-experimental-ai-api</guid>
-      <dc:date>2025-06-11T11:31:07Z</dc:date>
+      <dc:date>2025-06-12T12:55:23Z</dc:date>
     </item>
     <item>
-      <title>fleet.run.engine - Wed Jun 11 11:35:58 UTC 2025</title>
+      <title>fleet.run.engine - Thu Jun 12 13:00:20 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27514-fleet-run-engine</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -66,12 +105,12 @@ vendor: JetBrains s.r.o.
 downloads: 0
 pricingModel: FREE
 xmlId: fleet.run.engine</description>
-      <pubDate>Wed, 11 Jun 2025 11:35:58 GMT</pubDate>
+      <pubDate>Thu, 12 Jun 2025 13:00:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27514-fleet-run-engine</guid>
-      <dc:date>2025-06-11T11:35:58Z</dc:date>
+      <dc:date>2025-06-12T13:00:20Z</dc:date>
     </item>
     <item>
-      <title>fleet.run.pty - Wed Jun 11 11:36:05 UTC 2025</title>
+      <title>fleet.run.pty - Thu Jun 12 13:00:29 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27515-fleet-run-pty</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -79,12 +118,12 @@ vendor: JetBrains s.r.o.
 downloads: 0
 pricingModel: FREE
 xmlId: fleet.run.pty</description>
-      <pubDate>Wed, 11 Jun 2025 11:36:05 GMT</pubDate>
+      <pubDate>Thu, 12 Jun 2025 13:00:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27515-fleet-run-pty</guid>
-      <dc:date>2025-06-11T11:36:05Z</dc:date>
+      <dc:date>2025-06-12T13:00:29Z</dc:date>
     </item>
     <item>
-      <title>fleet.run.tasks - Wed Jun 11 11:36:11 UTC 2025</title>
+      <title>fleet.run.tasks - Thu Jun 12 13:00:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27516-fleet-run-tasks</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -92,12 +131,12 @@ vendor: JetBrains s.r.o.
 downloads: 0
 pricingModel: FREE
 xmlId: fleet.run.tasks</description>
-      <pubDate>Wed, 11 Jun 2025 11:36:11 GMT</pubDate>
+      <pubDate>Thu, 12 Jun 2025 13:00:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27516-fleet-run-tasks</guid>
-      <dc:date>2025-06-11T11:36:11Z</dc:date>
+      <dc:date>2025-06-12T13:00:33Z</dc:date>
     </item>
     <item>
-      <title>fleet.run.terminal - Wed Jun 11 11:36:13 UTC 2025</title>
+      <title>fleet.run.terminal - Thu Jun 12 13:00:38 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27517-fleet-run-terminal</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -105,9 +144,9 @@ vendor: JetBrains s.r.o.
 downloads: 0
 pricingModel: FREE
 xmlId: fleet.run.terminal</description>
-      <pubDate>Wed, 11 Jun 2025 11:36:13 GMT</pubDate>
+      <pubDate>Thu, 12 Jun 2025 13:00:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27517-fleet-run-terminal</guid>
-      <dc:date>2025-06-11T11:36:13Z</dc:date>
+      <dc:date>2025-06-12T13:00:38Z</dc:date>
     </item>
     <item>
       <title>AICoding - Tue Jun 10 16:19:37 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: io.github.aabmets.proof-frog-lang</description>
       <pubDate>Sun, 01 Jun 2025 08:13:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27474-prooffrog-language</guid>
       <dc:date>2025-06-01T08:13:41Z</dc:date>
-    </item>
-    <item>
-      <title>Xeon RobotFramework Support - Wed May 28 17:59:00 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27395-xeon-robotframework-support</link>
-      <description>Robot Framework plugin for PyCharm. If you like this plugin, please leave your review with five stars, also, please star my Github project. Features Syntax...
-
-vendor: Dennis Föller
-downloads: 359
-pricingModel: FREE
-xmlId: dev.xeonkryptos.xeonrobotframeworkplugin</description>
-      <pubDate>Wed, 28 May 2025 17:59:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27395-xeon-robotframework-support</guid>
-      <dc:date>2025-05-28T17:59:00Z</dc:date>
-    </item>
-    <item>
-      <title>/** KoDEx */: Kotlin Documentation Extensions - Mon May 26 14:08:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27473---kodex---kotlin-documentation-extensions</link>
-      <description>IntelliJ plugin counterpart for KoDEx. This can be considered an Beta version. For now, the order of default processors is unconfigurable, but this will be added in...
-
-vendor: Jolan Rensen
-downloads: 18
-pricingModel: FREE
-xmlId: nl.jolanrensen.kodex</description>
-      <pubDate>Mon, 26 May 2025 14:08:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27473---kodex---kotlin-documentation-extensions</guid>
-      <dc:date>2025-05-26T14:08:26Z</dc:date>
-    </item>
-    <item>
-      <title>Portulan - Tue May 27 11:14:09 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27472-portulan</link>
-      <description>Support for the GeoCss GeoServer language.
-
-vendor: MilliPixel
-downloads: 36
-pricingModel: FREE
-xmlId: org.millipixel.portulan</description>
-      <pubDate>Tue, 27 May 2025 11:14:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27472-portulan</guid>
-      <dc:date>2025-05-27T11:14:09Z</dc:date>
     </item>
   </channel>
 </rss>
