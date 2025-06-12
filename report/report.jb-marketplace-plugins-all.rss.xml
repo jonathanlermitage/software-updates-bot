@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AI Enterprise - Wed Jun 11 11:31:03 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27545-ai-enterprise</link>
+      <description>Provides support for enterprise AI features.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: fleet.ai.enterprise</description>
+      <pubDate>Wed, 11 Jun 2025 11:31:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27545-ai-enterprise</guid>
+      <dc:date>2025-06-11T11:31:03Z</dc:date>
+    </item>
+    <item>
+      <title>Experimental AI API - Wed Jun 11 11:31:07 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27553-experimental-ai-api</link>
+      <description>No description was specified by the owner of this plugin.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: fleet.ai.experimental</description>
+      <pubDate>Wed, 11 Jun 2025 11:31:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27553-experimental-ai-api</guid>
+      <dc:date>2025-06-11T11:31:07Z</dc:date>
+    </item>
+    <item>
+      <title>fleet.run.engine - Wed Jun 11 11:35:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27514-fleet-run-engine</link>
+      <description>No description was specified by the owner of this plugin.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: fleet.run.engine</description>
+      <pubDate>Wed, 11 Jun 2025 11:35:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27514-fleet-run-engine</guid>
+      <dc:date>2025-06-11T11:35:58Z</dc:date>
+    </item>
+    <item>
+      <title>fleet.run.pty - Wed Jun 11 11:36:05 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27515-fleet-run-pty</link>
+      <description>No description was specified by the owner of this plugin.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: fleet.run.pty</description>
+      <pubDate>Wed, 11 Jun 2025 11:36:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27515-fleet-run-pty</guid>
+      <dc:date>2025-06-11T11:36:05Z</dc:date>
+    </item>
+    <item>
+      <title>fleet.run.tasks - Wed Jun 11 11:36:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27516-fleet-run-tasks</link>
+      <description>No description was specified by the owner of this plugin.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: fleet.run.tasks</description>
+      <pubDate>Wed, 11 Jun 2025 11:36:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27516-fleet-run-tasks</guid>
+      <dc:date>2025-06-11T11:36:11Z</dc:date>
+    </item>
+    <item>
+      <title>fleet.run.terminal - Wed Jun 11 11:36:13 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27517-fleet-run-terminal</link>
+      <description>No description was specified by the owner of this plugin.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: fleet.run.terminal</description>
+      <pubDate>Wed, 11 Jun 2025 11:36:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27517-fleet-run-terminal</guid>
+      <dc:date>2025-06-11T11:36:13Z</dc:date>
+    </item>
+    <item>
       <title>AICoding - Tue Jun 10 16:19:37 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27594-aicoding</link>
       <description>AI Coding is a powerful developer assistant that integrates AI capabilities directly into your IDE. It supports customizable access to major AI services (e.g., OpenAI...
@@ -1226,84 +1304,6 @@ xmlId: com.github.sebnoirot.copilotpromptplugin</description>
       <pubDate>Mon, 26 May 2025 06:51:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27460-copilot-prompt</guid>
       <dc:date>2025-05-26T06:51:18Z</dc:date>
-    </item>
-    <item>
-      <title>Extra Icon - Wed Jun 11 05:04:48 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27470-extra-icon</link>
-      <description>This plugin lets you customize icons in the Project View. Use Extra Icons,You can choose from a small set of built-in icons or use your own. The icons are...
-
-vendor: Vroni
-downloads: 337
-pricingModel: FREE
-xmlId: org.tool.extra.icons</description>
-      <pubDate>Wed, 11 Jun 2025 05:04:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27470-extra-icon</guid>
-      <dc:date>2025-06-11T05:04:48Z</dc:date>
-    </item>
-    <item>
-      <title>SmartFold - Thu May 22 16:46:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27446-smartfold</link>
-      <description>code folding plugin to extend the functionality of the built-in code folding in intellij Features make one line comment foldableprovide a action to fold.
-
-vendor: uncledrew
-downloads: 10
-pricingModel: FREE
-xmlId: com.github.brendio.smartfold</description>
-      <pubDate>Thu, 22 May 2025 16:46:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27446-smartfold</guid>
-      <dc:date>2025-05-22T16:46:39Z</dc:date>
-    </item>
-    <item>
-      <title>Summon Logs - Tue May 27 14:19:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27442-summon-logs</link>
-      <description>Summon Logs Plugin Summon Logs is an IntelliJ-based plugin that simplifies and automates logging during Kotlin development. With a single key press (Alt+X), it...
-
-vendor: Arjun Kaverappa
-downloads: 139
-pricingModel: FREE
-xmlId: org.almasons.SummonLog</description>
-      <pubDate>Tue, 27 May 2025 14:19:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27442-summon-logs</guid>
-      <dc:date>2025-05-27T14:19:23Z</dc:date>
-    </item>
-    <item>
-      <title>Icon Decorator - Mon Jun 09 00:04:18 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27448-icon-decorator</link>
-      <description>This plugin lets you customize icons in the Project View. You can choose from a small set of built-in icons or use your own. The icons are automatically applied based...
-
-vendor: hongjun
-downloads: 440
-pricingModel: FREE
-xmlId: org.my.tool.icon</description>
-      <pubDate>Mon, 09 Jun 2025 00:04:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27448-icon-decorator</guid>
-      <dc:date>2025-06-09T00:04:18Z</dc:date>
-    </item>
-    <item>
-      <title>BrickBreakerGame - Mon May 26 03:56:47 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27450-brickbreakergame</link>
-      <description>This is a casual brick-breaking mini-game that can help you relax after work. After installation, a new TAB will appear in the right toolbar and the Tools menu. Click...
-
-vendor: xiaodonglicn
-downloads: 101
-pricingModel: FREE
-xmlId: com.lxd.brick-breaker-game</description>
-      <pubDate>Mon, 26 May 2025 03:56:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27450-brickbreakergame</guid>
-      <dc:date>2025-05-26T03:56:47Z</dc:date>
-    </item>
-    <item>
-      <title>PITest - Thu Jun 05 21:17:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27437-pitest</link>
-      <description>Run PIT mutation tests from IntelliJ IDEA. Features: Run against any combination of Java files -- automatically matches sources and testsSee mutation icons directly in...
-
-vendor: Brendan McCarthy
-downloads: 137
-pricingModel: FREE
-xmlId: com.github.bmccar.pitestidea</description>
-      <pubDate>Thu, 05 Jun 2025 21:17:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27437-pitest</guid>
-      <dc:date>2025-06-05T21:17:54Z</dc:date>
     </item>
   </channel>
 </rss>
