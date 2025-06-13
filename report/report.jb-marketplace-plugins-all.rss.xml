@@ -6,7 +6,46 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>PHP Serialized Object Viewer - Fri Jun 13 07:10:30 UTC 2025</title>
+      <title>WSL Path Converter - Fri Jun 13 08:23:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27636-wsl-path-converter</link>
+      <description>This plugin allows you to copy the WSL-style path of any file in your project with a single click, saving you the hassle of manual conversion.
+
+vendor: alanxtl
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.alanxtl.wslpathconverter</description>
+      <pubDate>Fri, 13 Jun 2025 08:23:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27636-wsl-path-converter</guid>
+      <dc:date>2025-06-13T08:23:09Z</dc:date>
+    </item>
+    <item>
+      <title>jtools-Gomoku - Fri Jun 13 08:03:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27638-jtools-gomoku</link>
+      <description>Online Gomoku, able to match Gomoku online for battles. 在线五子棋，能在线匹配五子棋进行对战。.
+
+vendor: Reisen7
+downloads: 0
+pricingModel: FREE
+xmlId: com.jtools-Gomoku.rcc.id</description>
+      <pubDate>Fri, 13 Jun 2025 08:03:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27638-jtools-gomoku</guid>
+      <dc:date>2025-06-13T08:03:44Z</dc:date>
+    </item>
+    <item>
+      <title>Pomodoro - Thu Jun 12 10:52:13 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27624-pomodoro</link>
+      <description>Plugin Pomodoro para gestionar tiempos dentro del IDE, compatible con IntelliJ 2024.2 en adelante.
+
+vendor: Juanma Pérez
+downloads: 0
+pricingModel: FREE
+xmlId: com.juanmaperez.pomodoro</description>
+      <pubDate>Thu, 12 Jun 2025 10:52:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27624-pomodoro</guid>
+      <dc:date>2025-06-12T10:52:13Z</dc:date>
+    </item>
+    <item>
+      <title>PHP Serialized Object Viewer - Fri Jun 13 15:19:59 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27623-php-serialized-object-viewer</link>
       <description>PHP Serialized Object Viewer A plugin that monitors clipboard and converts PHP serialized strings to JSON format for display. Key Features Real-time monitoring...
 
@@ -14,9 +53,9 @@ vendor: KunihikoHarada
 downloads: 0
 pricingModel: FREE
 xmlId: io.github.haradakunihiko.intellij-plugin-php-serialized-object-viewer</description>
-      <pubDate>Fri, 13 Jun 2025 07:10:30 GMT</pubDate>
+      <pubDate>Fri, 13 Jun 2025 15:19:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27623-php-serialized-object-viewer</guid>
-      <dc:date>2025-06-13T07:10:30Z</dc:date>
+      <dc:date>2025-06-13T15:19:59Z</dc:date>
     </item>
     <item>
       <title>Easy Naming - Tue Jun 10 13:28:11 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: org.sididev.smart-commit-generator</description>
       <pubDate>Mon, 26 May 2025 23:25:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27476-smart-commit-generator</guid>
       <dc:date>2025-05-26T23:25:56Z</dc:date>
-    </item>
-    <item>
-      <title>Maven project peeker - Wed May 28 00:51:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27477-maven-project-peeker</link>
-      <description>An IntelliJ plugin that displays essential Maven dependency information when hovering over a dependency tag in the pom.xml file within the editor.
-
-vendor: Jeffery Xie
-downloads: 39
-pricingModel: FREE
-xmlId: com.jefferyxhy.plugins.maven-project-peeker</description>
-      <pubDate>Wed, 28 May 2025 00:51:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27477-maven-project-peeker</guid>
-      <dc:date>2025-05-28T00:51:46Z</dc:date>
-    </item>
-    <item>
-      <title>AutoMocker - Sat May 24 13:59:08 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27459-automocker</link>
-      <description>AutoMocker is an IntelliJ plugin that automatically mocks external service calls. It provides an interactive UI for configuring mock values and allows toggling between...
-
-vendor: HARSHAVARDHANA NAIDU
-downloads: 22
-pricingModel: FREE
-xmlId: com.automocker.plugin</description>
-      <pubDate>Sat, 24 May 2025 13:59:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27459-automocker</guid>
-      <dc:date>2025-05-24T13:59:08Z</dc:date>
-    </item>
-    <item>
-      <title>FastBuild - Wed Jun 04 00:58:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27467-fastbuild</link>
-      <description>Introduction Quickly build the project. Compile only the Java files in the current project that are both open and modified. Welcome via email(3530163057@qq.com) Or...
-
-vendor: zhen
-downloads: 147
-pricingModel: FREE
-xmlId: com.zhen.fastBuild</description>
-      <pubDate>Wed, 04 Jun 2025 00:58:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27467-fastbuild</guid>
-      <dc:date>2025-06-04T00:58:26Z</dc:date>
     </item>
   </channel>
 </rss>
