@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Dto Maker - Fri Jun 13 08:38:07 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27633-dto-maker</link>
+      <description>Enhance your development efficiency with the DTO Maker plugin, designed to simplify the creation of Data Transfer Objects. Eliminate tedious manual mapping by...
+
+vendor: thkim
+downloads: 0
+pricingModel: FREE
+xmlId: com.maker.dto-maker</description>
+      <pubDate>Fri, 13 Jun 2025 08:38:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27633-dto-maker</guid>
+      <dc:date>2025-06-13T08:38:07Z</dc:date>
+    </item>
+    <item>
+      <title>Maven Search(MPVP) - Thu Jun 12 21:56:29 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27627-maven-search-mpvp-</link>
+      <description>Maven Project Version Plugin(search), Support Quick Search Project Version. (Support Central Repository and Nexus Repository (remote/private...
+
+vendor: joker-pper
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.jokerpper.intellij-maven-project-version-plugin.maven-search</description>
+      <pubDate>Thu, 12 Jun 2025 21:56:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27627-maven-search-mpvp-</guid>
+      <dc:date>2025-06-12T21:56:29Z</dc:date>
+    </item>
+    <item>
+      <title>Maven Update(MPVP) - Thu Jun 12 22:03:52 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27628-maven-update-mpvp-</link>
+      <description>Maven Project Version Plugin(update), Support Quick Update Version. Maven项目版本更新插件，可用于版本快速傻瓜式升级项目版本. Maven Project Version Plugin(update) And Plugin Menu Added In Tools...
+
+vendor: joker-pper
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.jokerpper.intellij-maven-project-version-plugin.maven-update</description>
+      <pubDate>Thu, 12 Jun 2025 22:03:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27628-maven-update-mpvp-</guid>
+      <dc:date>2025-06-12T22:03:52Z</dc:date>
+    </item>
+    <item>
       <title>WSL Path Converter - Fri Jun 13 08:23:09 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27636-wsl-path-converter</link>
       <description>This plugin allows you to copy the WSL-style path of any file in your project with a single click, saving you the hassle of manual conversion.
@@ -136,7 +175,7 @@ xmlId: org.jetbrains.kotlin.compiler.devkit</description>
       <dc:date>2025-06-12T15:43:10Z</dc:date>
     </item>
     <item>
-      <title>AI Enterprise - Thu Jun 12 12:55:14 UTC 2025</title>
+      <title>AI Enterprise - Fri Jun 13 17:25:21 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27545-ai-enterprise</link>
       <description>Provides support for enterprise AI features.
 
@@ -144,12 +183,12 @@ vendor: JetBrains s.r.o.
 downloads: 1
 pricingModel: FREE
 xmlId: fleet.ai.enterprise</description>
-      <pubDate>Thu, 12 Jun 2025 12:55:14 GMT</pubDate>
+      <pubDate>Fri, 13 Jun 2025 17:25:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27545-ai-enterprise</guid>
-      <dc:date>2025-06-12T12:55:14Z</dc:date>
+      <dc:date>2025-06-13T17:25:21Z</dc:date>
     </item>
     <item>
-      <title>Experimental AI API - Thu Jun 12 12:55:23 UTC 2025</title>
+      <title>Experimental AI API - Fri Jun 13 17:25:24 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27553-experimental-ai-api</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -157,12 +196,12 @@ vendor: JetBrains s.r.o.
 downloads: 1
 pricingModel: FREE
 xmlId: fleet.ai.experimental</description>
-      <pubDate>Thu, 12 Jun 2025 12:55:23 GMT</pubDate>
+      <pubDate>Fri, 13 Jun 2025 17:25:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27553-experimental-ai-api</guid>
-      <dc:date>2025-06-12T12:55:23Z</dc:date>
+      <dc:date>2025-06-13T17:25:24Z</dc:date>
     </item>
     <item>
-      <title>fleet.run.engine - Thu Jun 12 13:00:20 UTC 2025</title>
+      <title>fleet.run.engine - Fri Jun 13 17:30:46 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27514-fleet-run-engine</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -170,12 +209,12 @@ vendor: JetBrains s.r.o.
 downloads: 1
 pricingModel: FREE
 xmlId: fleet.run.engine</description>
-      <pubDate>Thu, 12 Jun 2025 13:00:20 GMT</pubDate>
+      <pubDate>Fri, 13 Jun 2025 17:30:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27514-fleet-run-engine</guid>
-      <dc:date>2025-06-12T13:00:20Z</dc:date>
+      <dc:date>2025-06-13T17:30:46Z</dc:date>
     </item>
     <item>
-      <title>fleet.run.pty - Thu Jun 12 13:00:29 UTC 2025</title>
+      <title>fleet.run.pty - Fri Jun 13 17:30:53 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27515-fleet-run-pty</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -183,12 +222,12 @@ vendor: JetBrains s.r.o.
 downloads: 1
 pricingModel: FREE
 xmlId: fleet.run.pty</description>
-      <pubDate>Thu, 12 Jun 2025 13:00:29 GMT</pubDate>
+      <pubDate>Fri, 13 Jun 2025 17:30:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27515-fleet-run-pty</guid>
-      <dc:date>2025-06-12T13:00:29Z</dc:date>
+      <dc:date>2025-06-13T17:30:53Z</dc:date>
     </item>
     <item>
-      <title>fleet.run.tasks - Thu Jun 12 13:00:33 UTC 2025</title>
+      <title>fleet.run.tasks - Fri Jun 13 17:30:59 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27516-fleet-run-tasks</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -196,12 +235,12 @@ vendor: JetBrains s.r.o.
 downloads: 1
 pricingModel: FREE
 xmlId: fleet.run.tasks</description>
-      <pubDate>Thu, 12 Jun 2025 13:00:33 GMT</pubDate>
+      <pubDate>Fri, 13 Jun 2025 17:30:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27516-fleet-run-tasks</guid>
-      <dc:date>2025-06-12T13:00:33Z</dc:date>
+      <dc:date>2025-06-13T17:30:59Z</dc:date>
     </item>
     <item>
-      <title>fleet.run.terminal - Thu Jun 12 13:00:38 UTC 2025</title>
+      <title>fleet.run.terminal - Fri Jun 13 17:31:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27517-fleet-run-terminal</link>
       <description>No description was specified by the owner of this plugin.
 
@@ -209,9 +248,9 @@ vendor: JetBrains s.r.o.
 downloads: 1
 pricingModel: FREE
 xmlId: fleet.run.terminal</description>
-      <pubDate>Thu, 12 Jun 2025 13:00:38 GMT</pubDate>
+      <pubDate>Fri, 13 Jun 2025 17:31:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27517-fleet-run-terminal</guid>
-      <dc:date>2025-06-12T13:00:38Z</dc:date>
+      <dc:date>2025-06-13T17:31:04Z</dc:date>
     </item>
     <item>
       <title>AICoding - Tue Jun 10 16:19:37 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: com.tbusk.vala_plugin</description>
       <pubDate>Wed, 11 Jun 2025 07:19:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27464-vala-language</guid>
       <dc:date>2025-06-11T07:19:13Z</dc:date>
-    </item>
-    <item>
-      <title>AEM VLT Tool - Sat Jun 07 04:50:43 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27469-aem-vlt-tool</link>
-      <description>The AEM VLT IntelliJ Plugin is an integration tool for developers working with Adobe Experience Manager (AEM). It provides a seamless way to push data (files...
-
-vendor: Kostiantyn Diachenko
-downloads: 150
-pricingModel: FREE
-xmlId: com.kdiachenko.aem-vlt-tool</description>
-      <pubDate>Sat, 07 Jun 2025 04:50:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27469-aem-vlt-tool</guid>
-      <dc:date>2025-06-07T04:50:43Z</dc:date>
-    </item>
-    <item>
-      <title>Code Flow Navigator - Sat May 31 18:52:57 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27461-code-flow-navigator</link>
-      <description>A powerful IntelliJ IDEA plugin that visualizes method call relationships as an interactive diagram. Select any Java method and instantly generate a tree of its...
-
-vendor: Nour Khalil Rash
-downloads: 182
-pricingModel: FREE
-xmlId: com.navigator.codeflownavigator</description>
-      <pubDate>Sat, 31 May 2025 18:52:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27461-code-flow-navigator</guid>
-      <dc:date>2025-05-31T18:52:57Z</dc:date>
-    </item>
-    <item>
-      <title>Smart Commit Generator - Mon May 26 23:25:56 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27476-smart-commit-generator</link>
-      <description>Generate intelligent commit messages automatically based on your Git changes. Features: Analyzes your staged changes Generates conventional commit messages Detects...
-
-vendor: SIDIDEV
-downloads: 33
-pricingModel: FREE
-xmlId: org.sididev.smart-commit-generator</description>
-      <pubDate>Mon, 26 May 2025 23:25:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27476-smart-commit-generator</guid>
-      <dc:date>2025-05-26T23:25:56Z</dc:date>
     </item>
   </channel>
 </rss>
