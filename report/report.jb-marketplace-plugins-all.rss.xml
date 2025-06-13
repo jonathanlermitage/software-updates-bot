@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>PHP Serialized Object Viewer - Fri Jun 13 00:07:15 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27623-php-serialized-object-viewer</link>
+      <description>PHP Serialized Object Viewer A plugin that monitors clipboard and converts PHP serialized strings to JSON format for display. Key Features Real-time monitoring...
+
+vendor: KunihikoHarada
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.haradakunihiko.intellij-plugin-php-serialized-object-viewer</description>
+      <pubDate>Fri, 13 Jun 2025 00:07:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27623-php-serialized-object-viewer</guid>
+      <dc:date>2025-06-13T00:07:15Z</dc:date>
+    </item>
+    <item>
       <title>Easy Naming - Tue Jun 10 13:28:11 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27609-easy-naming</link>
       <description>It is used for the naming of variables, classes, and strings, and provides naming choices in a variety of formats, such as humps, underscores, hyphens, etc...
@@ -357,7 +370,7 @@ xmlId: com.clb.timetools</description>
       <dc:date>2025-06-10T01:12:02Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Code Guard - Wed Jun 11 03:15:15 UTC 2025</title>
+      <title>DeepSeek Code Guard - Fri Jun 13 03:34:57 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27612-deepseek-code-guard</link>
       <description>DeepSeek Code Review leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
 
@@ -365,9 +378,9 @@ vendor: hongjun
 downloads: 79
 pricingModel: FREE
 xmlId: com.code.review.ai</description>
-      <pubDate>Wed, 11 Jun 2025 03:15:15 GMT</pubDate>
+      <pubDate>Fri, 13 Jun 2025 03:34:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27612-deepseek-code-guard</guid>
-      <dc:date>2025-06-11T03:15:15Z</dc:date>
+      <dc:date>2025-06-13T03:34:57Z</dc:date>
     </item>
     <item>
       <title>CybeDefend - Tue Jun 10 07:53:45 UTC 2025</title>
@@ -790,7 +803,7 @@ xmlId: org-ryr.reader</description>
       <link>https://plugins.jetbrains.com/plugin/27540---</link>
       <description>LQ_CodeMind LQ_CodeMind enables developers to create, share, and use custom AI code assistants with our open-source JetBrains extension and hub of models, rules...
 
-vendor: zhangfan
+vendor: longcheer
 downloads: 98
 pricingModel: FREE
 xmlId: com.lq.codemind.intellijextension</description>
@@ -1291,19 +1304,6 @@ xmlId: com.zhen.fastBuild</description>
       <pubDate>Wed, 04 Jun 2025 00:58:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27467-fastbuild</guid>
       <dc:date>2025-06-04T00:58:26Z</dc:date>
-    </item>
-    <item>
-      <title>Ant Translation Generator - Tue May 27 08:42:25 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27480-ant-translation-generator</link>
-      <description>Powerful IntelliJ IDEA plugin for internationalization (i18n). Generate translation keys instantly, manage multiple language files, and leverage AI-powered...
-
-vendor: Fatih Kacar
-downloads: 19
-pricingModel: FREE
-xmlId: com.ant.translation</description>
-      <pubDate>Tue, 27 May 2025 08:42:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27480-ant-translation-generator</guid>
-      <dc:date>2025-05-27T08:42:25Z</dc:date>
     </item>
   </channel>
 </rss>
