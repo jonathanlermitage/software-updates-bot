@@ -331,19 +331,6 @@ xmlId: com.jtools-Gomoku.rcc.id</description>
       <dc:date>2025-06-13T08:03:44Z</dc:date>
     </item>
     <item>
-      <title>Pomodoro - Thu Jun 12 10:52:13 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27624-pomodoro</link>
-      <description>Plugin Pomodoro para gestionar tiempos dentro del IDE, compatible con IntelliJ 2024.2 en adelante.
-
-vendor: Juanma Pérez
-downloads: 10
-pricingModel: FREE
-xmlId: com.juanmaperez.pomodoro</description>
-      <pubDate>Thu, 12 Jun 2025 10:52:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27624-pomodoro</guid>
-      <dc:date>2025-06-12T10:52:13Z</dc:date>
-    </item>
-    <item>
       <title>PHP Serialized Object Viewer - Fri Jun 13 15:19:59 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27623-php-serialized-object-viewer</link>
       <description>PHP Serialized Object Viewer A plugin that monitors clipboard and converts PHP serialized strings to JSON format for display. Key Features Real-time monitoring...
@@ -1304,6 +1291,19 @@ xmlId: com.jtool-echarts-view.rcc.id</description>
       <pubDate>Fri, 13 Jun 2025 07:24:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27489-jtools-echarts-view</guid>
       <dc:date>2025-06-13T07:24:44Z</dc:date>
+    </item>
+    <item>
+      <title>Ziit - Mon Jun 02 21:29:27 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27391-ziit</link>
+      <description>The Ziit JetBrains Plugin integrates Ziit, the swiss army knife for coding time tracking, directly into your JetBrains IDE. The main Ziit project can be found on...
+
+vendor: PandaDEV
+downloads: 40
+pricingModel: FREE
+xmlId: net.pandadev.ziit-jetbrains</description>
+      <pubDate>Mon, 02 Jun 2025 21:29:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27391-ziit</guid>
+      <dc:date>2025-06-02T21:29:27Z</dc:date>
     </item>
   </channel>
 </rss>
