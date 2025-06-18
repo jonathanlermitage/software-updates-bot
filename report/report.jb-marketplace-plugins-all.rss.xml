@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>GoodName - AI Translation Assistant - Wed Jun 18 08:11:52 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27672-goodname--ai-translation-assistant</link>
+      <description>GoodName is a free AI-powered translation tool that helps developers convert Chinese text into English programming naming conventions. Support camelCase, PascalCase...
+
+vendor: 邓云川
+downloads: 0
+pricingModel: FREE
+xmlId: cn.it58.goodname</description>
+      <pubDate>Wed, 18 Jun 2025 08:11:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27672-goodname--ai-translation-assistant</guid>
+      <dc:date>2025-06-18T08:11:52Z</dc:date>
+    </item>
+    <item>
+      <title>Yapi Generate - Wed Jun 18 06:43:57 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27664-yapi-generate</link>
+      <description>This plugin helps developers automatically generate Yapi-compatible JSON structures and documentation based on Java entity classes in IntelliJ IDEA. 该插件用于在 IntelliJ...
+
+vendor: 刘广鑫
+downloads: 0
+pricingModel: FREE
+xmlId: YapiResultGenerate</description>
+      <pubDate>Wed, 18 Jun 2025 06:43:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27664-yapi-generate</guid>
+      <dc:date>2025-06-18T06:43:57Z</dc:date>
+    </item>
+    <item>
+      <title>Kubernetes Control Center (Beta) - Tue Jun 17 08:26:29 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27659-kubernetes-control-center-beta-</link>
+      <description>Kubernetes Control Center Your Kubernetes cluster at your fingertips — inside your IDE. Kubernetes Control Center is a plugin for JetBrains IDEs that helps you explore...
+
+vendor: meanmail.dev
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: dev.meanmail.plugin.k8s</description>
+      <pubDate>Tue, 17 Jun 2025 08:26:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27659-kubernetes-control-center-beta-</guid>
+      <dc:date>2025-06-17T08:26:29Z</dc:date>
+    </item>
+    <item>
       <title>AI Code Checker - Tue Jun 17 11:16:36 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27673-ai-code-checker</link>
       <description>AI Code Checker leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
@@ -43,19 +82,6 @@ xmlId: com.akashsoni.api.plugin</description>
       <pubDate>Tue, 17 Jun 2025 08:38:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27670-oneclick-api-generator</guid>
       <dc:date>2025-06-17T08:38:36Z</dc:date>
-    </item>
-    <item>
-      <title>CleanCodeTrainer - Tue Jun 17 06:25:22 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27645-cleancodetrainer</link>
-      <description>CleanCodeTrainer — Your Clean Code Training Partner On the road to writing code, the pursuit of simplicity and elegance is an eternal theme. The CleanCodeTrainer...
-
-vendor: Shark
-downloads: 3
-pricingModel: FREE
-xmlId: com.istyphoon.CleanCodeTrainer</description>
-      <pubDate>Tue, 17 Jun 2025 06:25:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27645-cleancodetrainer</guid>
-      <dc:date>2025-06-17T06:25:22Z</dc:date>
     </item>
     <item>
       <title>GoLogo - Sat May 31 21:37:39 UTC 2025</title>
@@ -773,7 +799,7 @@ xmlId: com.clb.timetools</description>
       <dc:date>2025-06-10T01:12:02Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Code Guard - Mon Jun 16 07:29:18 UTC 2025</title>
+      <title>DeepSeek Code Guard - Wed Jun 18 07:36:12 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27612-deepseek-code-guard</link>
       <description>DeepSeek Code Guard leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
 
@@ -781,9 +807,9 @@ vendor: hongjun
 downloads: 185
 pricingModel: FREE
 xmlId: com.code.review.ai</description>
-      <pubDate>Mon, 16 Jun 2025 07:29:18 GMT</pubDate>
+      <pubDate>Wed, 18 Jun 2025 07:36:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27612-deepseek-code-guard</guid>
-      <dc:date>2025-06-16T07:29:18Z</dc:date>
+      <dc:date>2025-06-18T07:36:12Z</dc:date>
     </item>
     <item>
       <title>CybeDefend - Tue Jun 10 07:53:45 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: kilua.project.wizard</description>
       <pubDate>Mon, 02 Jun 2025 11:19:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27530-kilua-project-wizard</guid>
       <dc:date>2025-06-02T11:19:38Z</dc:date>
-    </item>
-    <item>
-      <title>Russian Language Pack - Mon Jun 02 11:09:24 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27449-russian-language-pack</link>
-      <description>Russian Language Pack for JetBrains products. Русский языковой пакет для продуктов JetBrains, включая IntelliJ IDEA, PhpStorm, WebStorm и другие. Переводит интерфейс...
-
-vendor: Alex Ivanov
-downloads: 1060
-pricingModel: FREE
-xmlId: su.rus.language-pack</description>
-      <pubDate>Mon, 02 Jun 2025 11:09:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27449-russian-language-pack</guid>
-      <dc:date>2025-06-02T11:09:24Z</dc:date>
-    </item>
-    <item>
-      <title>PandaCoder - Fri Jun 06 15:55:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27533-pandacoder</link>
-      <description>PandaCoder is an intelligent tool designed for Chinese developers that facilitates programming in Chinese environment. Key features include: - Chinese to English...
-
-vendor: 舒一笑
-downloads: 80
-pricingModel: FREE
-xmlId: com.shuyixiao.yixiaoPlugins</description>
-      <pubDate>Fri, 06 Jun 2025 15:55:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27533-pandacoder</guid>
-      <dc:date>2025-06-06T15:55:46Z</dc:date>
     </item>
   </channel>
 </rss>
