@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|3.5.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 19 16:03:23 UTC 2025|
+|![logo](../media/logo/springboot.png) Spring Boot|3.5.2.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 19 20:03:17 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 327 - Mon ami de 30 ans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 16 12:03:43 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.21735.32) ~ 2025-06-16|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Jun 16 08:03:31 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.5|[www.python.org](https://www.python.org/downloads/windows/)|Thu Jun 12 12:03:50 UTC 2025|
