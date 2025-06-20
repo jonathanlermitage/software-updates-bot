@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.23309.22) ~ 2025-06-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jun 20 12:03:47 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.3.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jun 20 08:03:24 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 327 - Mon ami de 30 ans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 16 12:03:43 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.21735.32) ~ 2025-06-16|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Jun 16 08:03:31 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.5|[www.python.org](https://www.python.org/downloads/windows/)|Thu Jun 12 12:03:50 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Jun 12 12:03:49 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.2.0|[nodejs.org](https://nodejs.org)|Tue Jun 10 00:08:49 UTC 2025|
