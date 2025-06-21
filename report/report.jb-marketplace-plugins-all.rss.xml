@@ -84,19 +84,6 @@ xmlId: com.toolkit.ai.code</description>
       <dc:date>2025-06-19T11:16:43Z</dc:date>
     </item>
     <item>
-      <title>Oraclia AI - Fri Jun 20 15:06:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27674-oraclia-ai</link>
-      <description>Oraclia AI is an advanced AI-powered code assistant designed to help developers streamline their programming workflow within JetBrains IDEs. By leveraging...
-
-vendor: Pavel Hernández Chmirenko
-downloads: 31
-pricingModel: FREE
-xmlId: com.oraclia.ai.intellij-plugin</description>
-      <pubDate>Fri, 20 Jun 2025 15:06:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27674-oraclia-ai</guid>
-      <dc:date>2025-06-20T15:06:55Z</dc:date>
-    </item>
-    <item>
       <title>PrettySQL - Fri Jun 20 04:58:14 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27622-prettysql</link>
       <description>PrettySQL is an IntelliJ plugin that beautifies and formats SQL queries automatically, making your code cleaner and easier to read. It supports multiple SQL dialects...
@@ -1304,6 +1291,19 @@ xmlId: software.rabbitgarden.intellij-oebb-progress-bar</description>
       <pubDate>Wed, 04 Jun 2025 20:22:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27548--bb-progress-bar</guid>
       <dc:date>2025-06-04T20:22:51Z</dc:date>
+    </item>
+    <item>
+      <title>Mistral Code Enterprise - Thu Jun 19 16:01:51 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27493-mistral-code-enterprise</link>
+      <description>Mistral Code Enterprise Mistral Code Enterprise is an AI coding copilot powered by state-of-the-art Mistral coding models. Mistral Code Enterprise is currently only...
+
+vendor: Mistral AI
+downloads: 985
+pricingModel: FREE
+xmlId: com.github.mistralai.mistralcodeintellijextension</description>
+      <pubDate>Thu, 19 Jun 2025 16:01:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27493-mistral-code-enterprise</guid>
+      <dc:date>2025-06-19T16:01:51Z</dc:date>
     </item>
   </channel>
 </rss>
