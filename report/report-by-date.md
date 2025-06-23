@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.3 (251.26927.53) ~ 2025-06-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Jun 23 20:03:22 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.23309.22) ~ 2025-06-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jun 20 12:03:47 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.3.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jun 20 08:03:24 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 327 - Mon ami de 30 ans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 16 12:03:43 UTC 2025|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.0 to 19.0.1 ~ 2025-06-09|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jun 09 16:05:23 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.4|[golang.org](https://golang.org/dl/)|Thu Jun 05 20:05:36 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14.2|[gradle.org](https://gradle.org/releases/)|Thu Jun 05 16:05:31 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.2 (251.26094.121) ~ 2025-06-04|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Jun 04 16:06:22 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 16:02:37 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.16.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
