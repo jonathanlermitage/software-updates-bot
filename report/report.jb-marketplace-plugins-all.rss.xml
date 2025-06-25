@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Salesforce Package Generator - Fri Jun 20 16:51:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27704-salesforce-package-generator</link>
+      <description>Build your XML package for your Salesforce deploys With this plugin, you can retrieve metadata resources and quickly generate contents of &#x1f4e6;'package.xml'&#x1f4e6; file for...
+
+vendor: Domenico Migliaccio
+downloads: 2
+pricingModel: FREE
+xmlId: SalesforcePackageGeneratorIJ</description>
+      <pubDate>Fri, 20 Jun 2025 16:51:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27704-salesforce-package-generator</guid>
+      <dc:date>2025-06-20T16:51:11Z</dc:date>
+    </item>
+    <item>
+      <title>TypingCat Pro - Wed Jun 25 01:44:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27744-typingcat-pro</link>
+      <description>TypingCat Pro is a spelling suggestion and auto-completion plugin for English words TypingCat Pro is the enhanced version of TypingCat Features of the previous...
+
+vendor: zhen
+downloads: 0
+pricingModel: FREE
+xmlId: com.zhen.typingcat</description>
+      <pubDate>Wed, 25 Jun 2025 01:44:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27744-typingcat-pro</guid>
+      <dc:date>2025-06-25T01:44:50Z</dc:date>
+    </item>
+    <item>
+      <title>FishTime - Wed Jun 25 08:21:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27727-fishtime</link>
+      <description>moyu Plugin - A lightweight built-in browser for IntelliJ IDEA that lets you access and manage your favorite websites directly inside the IDE. Supports configuring...
+
+vendor: ggbom
+downloads: 4
+pricingModel: FREE
+xmlId: FishTime</description>
+      <pubDate>Wed, 25 Jun 2025 08:21:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27727-fishtime</guid>
+      <dc:date>2025-06-25T08:21:36Z</dc:date>
+    </item>
+    <item>
+      <title>LiteFlow-Helper - Wed Jun 25 03:40:17 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27740-liteflow-helper</link>
+      <description>This plugin provides comprehensive support for the LiteFlow framework, enhancing the development experience within IntelliJ IDEA. It offers powerful features to help...
+
+vendor: Bryan Zhang
+downloads: 0
+pricingModel: FREE
+xmlId: com.yomahub.LiteFlow-Helper</description>
+      <pubDate>Wed, 25 Jun 2025 03:40:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27740-liteflow-helper</guid>
+      <dc:date>2025-06-25T03:40:17Z</dc:date>
+    </item>
+    <item>
       <title>Trailing Spaces - Sun Jun 22 08:15:20 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27720-trailing-spaces</link>
       <description>Trailing Spaces - Jetbrains highlight trailing spaces and delete them in a flash! This plugin is inspired by the Trailing Space extension for Visual Studio Code and...
@@ -45,7 +97,7 @@ xmlId: com.github.melendez1209.upcaser</description>
       <dc:date>2025-06-25T04:07:13Z</dc:date>
     </item>
     <item>
-      <title>Typst Support - Wed Jun 25 02:51:59 UTC 2025</title>
+      <title>Typst Support - Wed Jun 25 03:48:12 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27697-typst-support</link>
       <description>An IntelliJ Plugin for Typst powered by Tinymist Features Live side-by-side preview Changes to documents are updated in the preview window in real time. Reformat files...
 
@@ -53,9 +105,9 @@ vendor: Gareth
 downloads: 6
 pricingModel: FREE
 xmlId: com.github.garetht.typstsupport</description>
-      <pubDate>Wed, 25 Jun 2025 02:51:59 GMT</pubDate>
+      <pubDate>Wed, 25 Jun 2025 03:48:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27697-typst-support</guid>
-      <dc:date>2025-06-25T02:51:59Z</dc:date>
+      <dc:date>2025-06-25T03:48:12Z</dc:date>
     </item>
     <item>
       <title>Earth Restful Helper - Mon Jun 23 07:52:58 UTC 2025</title>
@@ -258,7 +310,7 @@ xmlId: com.dalsegnosolutions.ij.swrf</description>
       <description>Add comments to specific code lines with iconsAdd comments to specific code lines with icons.
 
 vendor: Yunus Emre INCE
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: com.yuunus90.line-comment</description>
       <pubDate>Sat, 21 Jun 2025 23:24:32 GMT</pubDate>
@@ -1252,58 +1304,6 @@ xmlId: com.code.review.ai</description>
       <pubDate>Wed, 25 Jun 2025 11:50:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27612-deepseek-code-guard</guid>
       <dc:date>2025-06-25T11:50:38Z</dc:date>
-    </item>
-    <item>
-      <title>CybeDefend - Tue Jun 10 07:53:45 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27580-cybedefend</link>
-      <description>The CybeDefend IntelliJ Plugin provides seamless integration with the CybeDefend security scanning platform. Start scans directly from the IDE View Summary, SAST, IaC...
-
-vendor: CybeDefend
-downloads: 25
-pricingModel: FREE
-xmlId: com.cybedefend.jetbrains</description>
-      <pubDate>Tue, 10 Jun 2025 07:53:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27580-cybedefend</guid>
-      <dc:date>2025-06-10T07:53:45Z</dc:date>
-    </item>
-    <item>
-      <title>OpenTelemetry - Thu Jun 12 07:56:44 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27488-opentelemetry</link>
-      <description>The plugin provides support for OpenTelemetry in JetBrains Rider. It helps you combine static analysis with runtime insights, making runtime data like logs, metrics...
-
-vendor: JetBrains s.r.o.
-downloads: 566
-pricingModel: FREE
-xmlId: com.jetbrains.opentelemetry</description>
-      <pubDate>Thu, 12 Jun 2025 07:56:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27488-opentelemetry</guid>
-      <dc:date>2025-06-12T07:56:44Z</dc:date>
-    </item>
-    <item>
-      <title>copier - Wed Jun 11 11:02:52 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27566-copier</link>
-      <description>Copier Helper integrates the powerful Copier templating system into your JetBrains IDE. &#x1f680; Scaffold projects from Git-based templates &#x1f6e0;️ Fill template variables via...
-
-vendor: Sébastien NOIROT
-downloads: 68
-pricingModel: FREE
-xmlId: com.github.sebnoirot.copier</description>
-      <pubDate>Wed, 11 Jun 2025 11:02:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27566-copier</guid>
-      <dc:date>2025-06-11T11:02:52Z</dc:date>
-    </item>
-    <item>
-      <title>Cortex Scaffolder - Mon Jun 09 07:38:30 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27577-cortex-scaffolder</link>
-      <description>Cortex Scaffolder is a JetBrains plugin that integrates Cookiecutter templating into your IDE, with advanced support for dynamic templates used by Cortex. The plugin...
-
-vendor: Sébastien NOIROT
-downloads: 31
-pricingModel: FREE
-xmlId: com.sebnoirot.cortexscaffolder</description>
-      <pubDate>Mon, 09 Jun 2025 07:38:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27577-cortex-scaffolder</guid>
-      <dc:date>2025-06-09T07:38:30Z</dc:date>
     </item>
   </channel>
 </rss>
