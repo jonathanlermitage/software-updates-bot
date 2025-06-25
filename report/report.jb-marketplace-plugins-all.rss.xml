@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Semantic Web Language Server - Thu Jun 05 06:42:43 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27501-semantic-web-language-server</link>
+      <description>Provides support for semantic web languages using a Language Server. Includes syntax highlighting, semantic tokens, and validation for Turtle, JSON-LD, and SPARQL...
+
+vendor: ajuvercr
+downloads: 5
+pricingModel: FREE
+xmlId: be.ajuvercr.swls</description>
+      <pubDate>Thu, 05 Jun 2025 06:42:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27501-semantic-web-language-server</guid>
+      <dc:date>2025-06-05T06:42:43Z</dc:date>
+    </item>
+    <item>
       <title>Upcaser - Wed Jun 25 04:07:13 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27707-upcaser</link>
       <description>Upcaser is an IntelliJ Platform plugin that automatically capitalises the first letter of sentences in any text file. When you type a lowercase letter after...
@@ -123,16 +136,16 @@ xmlId: owl.home.ChangeDescriptor</description>
       <dc:date>2025-06-22T09:39:45Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Checker - Wed Jun 25 07:30:09 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27729-deepseek-checker</link>
-      <description>DeepSeek Checker leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
+      <title>DeepSeek Code Check - Wed Jun 25 07:30:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27729-deepseek-code-check</link>
+      <description>DeepSeek Code Check leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
 
 vendor: Infinitron
 downloads: 0
 pricingModel: FREE
 xmlId: com.code.checker.dp</description>
       <pubDate>Wed, 25 Jun 2025 07:30:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27729-deepseek-checker</guid>
+      <guid>https://plugins.jetbrains.com/plugin/27729-deepseek-code-check</guid>
       <dc:date>2025-06-25T07:30:09Z</dc:date>
     </item>
     <item>
@@ -1215,7 +1228,7 @@ xmlId: com.clb.timetools</description>
       <dc:date>2025-06-10T01:12:02Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Code Guard - Sat Jun 21 01:04:01 UTC 2025</title>
+      <title>DeepSeek Code Guard - Wed Jun 25 11:50:38 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27612-deepseek-code-guard</link>
       <description>DeepSeek Code Guard leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
 
@@ -1223,9 +1236,9 @@ vendor: hongjun
 downloads: 276
 pricingModel: FREE
 xmlId: com.code.review.ai</description>
-      <pubDate>Sat, 21 Jun 2025 01:04:01 GMT</pubDate>
+      <pubDate>Wed, 25 Jun 2025 11:50:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27612-deepseek-code-guard</guid>
-      <dc:date>2025-06-21T01:04:01Z</dc:date>
+      <dc:date>2025-06-25T11:50:38Z</dc:date>
     </item>
     <item>
       <title>CybeDefend - Tue Jun 10 07:53:45 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: dev.MikhailShad.nuXmv-plugin</description>
       <pubDate>Sat, 07 Jun 2025 16:40:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27583-nuxmv</guid>
       <dc:date>2025-06-07T16:40:19Z</dc:date>
-    </item>
-    <item>
-      <title>Pond Storm Action - Wed Jun 11 16:23:06 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27599-pond-storm-action</link>
-      <description>A simple motivational plugin for IntelliJ.
-
-vendor: PondBrains
-downloads: 47
-pricingModel: FREE
-xmlId: com.pond.pondstorm</description>
-      <pubDate>Wed, 11 Jun 2025 16:23:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27599-pond-storm-action</guid>
-      <dc:date>2025-06-11T16:23:06Z</dc:date>
     </item>
   </channel>
 </rss>
