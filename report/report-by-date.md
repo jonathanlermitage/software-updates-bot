@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|22.17.0|[nodejs.org](https://nodejs.org)|Wed Jun 25 04:09:29 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.3.0|[nodejs.org](https://nodejs.org)|Wed Jun 25 00:07:02 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.3 (251.26927.53) ~ 2025-06-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Jun 23 20:03:22 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.23309.22) ~ 2025-06-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jun 20 12:03:47 UTC 2025|
@@ -12,7 +13,6 @@
 |![logo](../media/logo/gradle.png) Gradle|8.14.2|[gradle.org](https://gradle.org/releases/)|Thu Jun 05 16:05:31 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 16:02:37 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|22.16.0|[nodejs.org](https://nodejs.org)|Wed May 21 16:03:07 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 08 16:02:58 UTC 2025|
