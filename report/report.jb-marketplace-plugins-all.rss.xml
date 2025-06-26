@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>DarkBanana Color Scheme - Thu Jun 26 03:40:19 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27753-darkbanana-color-scheme</link>
+      <description>A banana theme for Dart or Flutter, where golden yellow represents ripeness and green represents growth.
+
+vendor: WinDataTech
+downloads: 0
+pricingModel: FREE
+xmlId: color.scheme.DarkBanana</description>
+      <pubDate>Thu, 26 Jun 2025 03:40:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27753-darkbanana-color-scheme</guid>
+      <dc:date>2025-06-26T03:40:19Z</dc:date>
+    </item>
+    <item>
       <title>mega-generator-web - Thu Jun 26 05:58:42 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27723-mega-generator-web</link>
       <description>This plugin was created to speed up automation in Java (web part) Features: - Inspection and generation selectors You can propose your feature or idea to development...
@@ -97,7 +110,7 @@ xmlId: FishTime</description>
       <dc:date>2025-06-26T10:29:18Z</dc:date>
     </item>
     <item>
-      <title>LiteFlow-Helper - Wed Jun 25 03:40:17 UTC 2025</title>
+      <title>LiteFlow-Helper - Thu Jun 26 16:14:29 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27740-liteflow-helper</link>
       <description>This plugin provides comprehensive support for the LiteFlow framework, enhancing the development experience within IntelliJ IDEA. It offers powerful features to help...
 
@@ -105,9 +118,9 @@ vendor: Bryan Zhang
 downloads: 2
 pricingModel: FREE
 xmlId: com.yomahub.LiteFlow-Helper</description>
-      <pubDate>Wed, 25 Jun 2025 03:40:17 GMT</pubDate>
+      <pubDate>Thu, 26 Jun 2025 16:14:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27740-liteflow-helper</guid>
-      <dc:date>2025-06-25T03:40:17Z</dc:date>
+      <dc:date>2025-06-26T16:14:29Z</dc:date>
     </item>
     <item>
       <title>Trailing Spaces - Sun Jun 22 08:15:20 UTC 2025</title>
@@ -591,7 +604,7 @@ xmlId: dev.meanmail.plugin.k8s</description>
       <dc:date>2025-06-24T15:49:08Z</dc:date>
     </item>
     <item>
-      <title>AI Code Check - Mon Jun 23 07:11:23 UTC 2025</title>
+      <title>AI Code Check - Thu Jun 26 05:50:40 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27673-ai-code-check</link>
       <description>AI Code Check leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
 
@@ -599,9 +612,9 @@ vendor: FluxAI
 downloads: 110
 pricingModel: FREE
 xmlId: com.ai.code.checker</description>
-      <pubDate>Mon, 23 Jun 2025 07:11:23 GMT</pubDate>
+      <pubDate>Thu, 26 Jun 2025 05:50:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27673-ai-code-check</guid>
-      <dc:date>2025-06-23T07:11:23Z</dc:date>
+      <dc:date>2025-06-26T05:50:40Z</dc:date>
     </item>
     <item>
       <title>Nightvision - Wed Jun 18 14:34:31 UTC 2025</title>
@@ -1150,16 +1163,16 @@ xmlId: fleet.run.terminal</description>
       <dc:date>2025-06-26T00:49:29Z</dc:date>
     </item>
     <item>
-      <title>AI Hepler - Thu Jun 19 16:36:03 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27594-ai-hepler</link>
-      <description>AI Coding is a powerful developer assistant that integrates AI capabilities directly into your IDE. It supports customizable access to major AI services (e.g., OpenAI...
+      <title>Coding By DeepSeek Or ChatGPT Or OtherAI - Thu Jun 19 16:36:03 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27594-coding-by-deepseek-or-chatgpt-or-otherai</link>
+      <description>Coding By DeepSeek Or ChatGPT Or OtherAI is a powerful developer assistant that integrates AI capabilities directly into your IDE. It supports customizable access to...
 
 vendor: jiangze
 downloads: 54
 pricingModel: FREE
 xmlId: com.jiang.ai.plugin</description>
       <pubDate>Thu, 19 Jun 2025 16:36:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27594-ai-hepler</guid>
+      <guid>https://plugins.jetbrains.com/plugin/27594-coding-by-deepseek-or-chatgpt-or-otherai</guid>
       <dc:date>2025-06-19T16:36:03Z</dc:date>
     </item>
     <item>
@@ -1291,19 +1304,6 @@ xmlId: org.bigsy.integrantnavigator</description>
       <pubDate>Sat, 14 Jun 2025 19:30:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27456-integrant-navigator</guid>
       <dc:date>2025-06-14T19:30:57Z</dc:date>
-    </item>
-    <item>
-      <title>EPLang Syntax - Mon Jun 09 21:47:08 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27607-eplang-syntax</link>
-      <description>The plugin provides syntax highlighting for EPLang files. Create a [name].eplang file and start coding to see the plugin in action. Note that this plugin does not...
-
-vendor: Aram Petrosyan
-downloads: 25
-pricingModel: FREE
-xmlId: com.arampetrosyann.eplangSyntax</description>
-      <pubDate>Mon, 09 Jun 2025 21:47:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27607-eplang-syntax</guid>
-      <dc:date>2025-06-09T21:47:08Z</dc:date>
     </item>
   </channel>
 </rss>
