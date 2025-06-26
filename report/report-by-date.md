@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.23591.19) ~ 2025-06-26|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jun 26 16:03:10 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:03:36 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.17.0|[nodejs.org](https://nodejs.org)|Wed Jun 25 04:09:29 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.3.0|[nodejs.org](https://nodejs.org)|Wed Jun 25 00:07:02 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.3 (251.26927.53) ~ 2025-06-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Jun 23 20:03:22 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.23309.22) ~ 2025-06-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jun 20 12:03:47 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.3.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jun 20 08:03:24 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 327 - Mon ami de 30 ans|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 16 12:03:43 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.5|[www.python.org](https://www.python.org/downloads/windows/)|Thu Jun 12 12:03:50 UTC 2025|
