@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:03:36 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.17.0|[nodejs.org](https://nodejs.org)|Wed Jun 25 04:09:29 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.3.0|[nodejs.org](https://nodejs.org)|Wed Jun 25 00:07:02 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.3 (251.26927.53) ~ 2025-06-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Jun 23 20:03:22 UTC 2025|
@@ -31,7 +32,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.15+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Apr 16 20:02:48 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Apr 16 16:03:03 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.7+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Apr 16 16:03:03 UTC 2025|
-|![logo](../media/logo/maven.png) Maven|4.0.0-rc-3|[maven.apache.org](https://maven.apache.org/download.cgi)|Mon Mar 10 16:02:27 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
