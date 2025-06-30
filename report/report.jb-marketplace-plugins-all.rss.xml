@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CronGenerator - Mon Jun 30 11:01:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27767-crongenerator</link>
+      <description>A lightweight tool designed for developers to quickly generate Cron expressions within your IDE. Cron表达式生成插件 专为开发者设计的轻量级工具，帮助您在IDE中快速生成Cron表达式 核心功能...
+
+vendor: n70huihui 热心市民灰灰
+downloads: 0
+pricingModel: FREE
+xmlId: cn.edu.hnu.CronPlugin</description>
+      <pubDate>Mon, 30 Jun 2025 11:01:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27767-crongenerator</guid>
+      <dc:date>2025-06-30T11:01:09Z</dc:date>
+    </item>
+    <item>
+      <title>trsm-night-eyes Color Scheme - Mon Jun 30 14:16:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27794-trsm-night-eyes-color-scheme</link>
+      <description>"A custom theme I created for my own use and decided to share with the community. Designed for a pleasant coding experience, its carefully chosen color palette helps...
+
+vendor: Tiago Machado
+downloads: 0
+pricingModel: FREE
+xmlId: color.scheme.trsm-night-eyes</description>
+      <pubDate>Mon, 30 Jun 2025 14:16:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27794-trsm-night-eyes-color-scheme</guid>
+      <dc:date>2025-06-30T14:16:48Z</dc:date>
+    </item>
+    <item>
+      <title>Apero Git Format - Mon Jun 30 15:46:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27795-apero-git-format</link>
+      <description>A powerful IntelliJ IDEA plugin that helps developers create professional, well-formatted Git commit messages and streamline their Git workflow. ✨ Key Features...
+
+vendor: Thành Nguyễn
+downloads: 0
+pricingModel: FREE
+xmlId: com.thanhnguyen.git.format</description>
+      <pubDate>Mon, 30 Jun 2025 15:46:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27795-apero-git-format</guid>
+      <dc:date>2025-06-30T15:46:36Z</dc:date>
+    </item>
+    <item>
+      <title>Diff Hawk - Mon Jun 30 14:42:22 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27789-diff-hawk</link>
+      <description>Displays the number of inserted and deleted lines between a selected source branch and the current branch.
+
+vendor: Seokwon Jeong
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.sangcomz.diffhawk</description>
+      <pubDate>Mon, 30 Jun 2025 14:42:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27789-diff-hawk</guid>
+      <dc:date>2025-06-30T14:42:22Z</dc:date>
+    </item>
+    <item>
+      <title>Open Markdown with Typora - Mon Jun 30 11:33:20 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27788-open-markdown-with-typora</link>
+      <description>Allows you to open markdown file with external Typora.exe, to open varieties of file types with external applications...
+
+vendor: lcl
+downloads: 0
+pricingModel: FREE
+xmlId: com.lcl100.idea-open-markdown-with-typora-plugin</description>
+      <pubDate>Mon, 30 Jun 2025 11:33:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27788-open-markdown-with-typora</guid>
+      <dc:date>2025-06-30T11:33:20Z</dc:date>
+    </item>
+    <item>
+      <title>Sentra - Mon Jun 30 15:55:08 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27479-sentra</link>
+      <description>Sentra Unit Test Generator Automated Unit Testing for Every Codebase Sentra Unit Test Generator is a powerful IntelliJ plugin that eliminates the manual burden of...
+
+vendor: Sentra
+downloads: 2
+pricingModel: FREE
+xmlId: com.sentra.ut.generator.action</description>
+      <pubDate>Mon, 30 Jun 2025 15:55:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27479-sentra</guid>
+      <dc:date>2025-06-30T15:55:08Z</dc:date>
+    </item>
+    <item>
       <title>Relative Actions - Sun Jun 29 23:00:07 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27775-relative-actions</link>
       <description>Relative Actions allows you to perform actions (move, copy, cut, delete, select and comment) relative to your current line. It behaves similarly to Vim but without...
@@ -58,8 +136,8 @@ xmlId: com.pino.intellij-code-trace</description>
       <dc:date>2025-06-28T13:30:14Z</dc:date>
     </item>
     <item>
-      <title>Translate strings - Sun Jun 29 17:34:49 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27784-translate-strings</link>
+      <title>Apero Translate strings - Sun Jun 29 17:34:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27784-apero-translate-strings</link>
       <description>A powerful string translation plugin for IntelliJ-based IDEs (including Android Studio) that helps developers translate string resources using Google Generative AI...
 
 vendor: Thành Nguyễn
@@ -67,7 +145,7 @@ downloads: 0
 pricingModel: FREE
 xmlId: com.translatestrings.plugin</description>
       <pubDate>Sun, 29 Jun 2025 17:34:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27784-translate-strings</guid>
+      <guid>https://plugins.jetbrains.com/plugin/27784-apero-translate-strings</guid>
       <dc:date>2025-06-29T17:34:49Z</dc:date>
     </item>
     <item>
@@ -188,7 +266,7 @@ xmlId: de.infix.testBalloon.intellijPlugin</description>
       <dc:date>2025-06-26T15:19:23Z</dc:date>
     </item>
     <item>
-      <title>Jira Buddy - Mon Jun 30 09:46:15 UTC 2025</title>
+      <title>Jira Buddy - Mon Jun 30 17:45:15 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27754-jira-buddy</link>
       <description>Jira Buddy is an IntelliJ plugin that helps you with commit messages, navigation to the jira Ticket, pullrequests etc ✨ Features ✅ extract JIRA Ticket number from...
 
@@ -196,9 +274,9 @@ vendor: akmal Sarhan
 downloads: 27
 pricingModel: FREE
 xmlId: com.sarhan.jira-actions-plugin</description>
-      <pubDate>Mon, 30 Jun 2025 09:46:15 GMT</pubDate>
+      <pubDate>Mon, 30 Jun 2025 17:45:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27754-jira-buddy</guid>
-      <dc:date>2025-06-30T09:46:15Z</dc:date>
+      <dc:date>2025-06-30T17:45:15Z</dc:date>
     </item>
     <item>
       <title>Salesforce Package Generator - Fri Jun 20 16:51:11 UTC 2025</title>
@@ -1124,6 +1202,19 @@ xmlId: com.jtools-Gomoku.rcc.id</description>
       <dc:date>2025-06-22T15:35:06Z</dc:date>
     </item>
     <item>
+      <title>Pomodoro - Mon Jun 30 09:21:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27624-pomodoro</link>
+      <description>Plugin Pomodoro to manage time inside IDE, available in IntelliJ 2024.2 or recent versions.
+
+vendor: Juanma Pérez
+downloads: 10
+pricingModel: FREE
+xmlId: com.juanmaperez.pomodoro</description>
+      <pubDate>Mon, 30 Jun 2025 09:21:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27624-pomodoro</guid>
+      <dc:date>2025-06-30T09:21:59Z</dc:date>
+    </item>
+    <item>
       <title>PHP Serialized Object Viewer - Fri Jun 13 15:19:59 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27623-php-serialized-object-viewer</link>
       <description>PHP Serialized Object Viewer A plugin that monitors clipboard and converts PHP serialized strings to JSON format for display. Key Features Real-time monitoring...
@@ -1213,97 +1304,6 @@ xmlId: org.jetbrains.kotlin.compiler.devkit</description>
       <pubDate>Mon, 30 Jun 2025 08:03:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27616-kotlin-compiler-devkit</guid>
       <dc:date>2025-06-30T08:03:04Z</dc:date>
-    </item>
-    <item>
-      <title>AI Enterprise - Sun Jun 29 06:09:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27545-ai-enterprise</link>
-      <description>Provides support for enterprise AI features.
-
-vendor: JetBrains s.r.o.
-downloads: 9
-pricingModel: FREE
-xmlId: fleet.ai.enterprise</description>
-      <pubDate>Sun, 29 Jun 2025 06:09:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27545-ai-enterprise</guid>
-      <dc:date>2025-06-29T06:09:46Z</dc:date>
-    </item>
-    <item>
-      <title>Experimental AI API - Sun Jun 29 06:09:50 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27553-experimental-ai-api</link>
-      <description>No description was specified by the owner of this plugin.
-
-vendor: JetBrains s.r.o.
-downloads: 6
-pricingModel: FREE
-xmlId: fleet.ai.experimental</description>
-      <pubDate>Sun, 29 Jun 2025 06:09:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27553-experimental-ai-api</guid>
-      <dc:date>2025-06-29T06:09:50Z</dc:date>
-    </item>
-    <item>
-      <title>fleet.run.engine - Sun Jun 29 06:15:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27514-fleet-run-engine</link>
-      <description>No description was specified by the owner of this plugin.
-
-vendor: JetBrains s.r.o.
-downloads: 4
-pricingModel: FREE
-xmlId: fleet.run.engine</description>
-      <pubDate>Sun, 29 Jun 2025 06:15:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27514-fleet-run-engine</guid>
-      <dc:date>2025-06-29T06:15:28Z</dc:date>
-    </item>
-    <item>
-      <title>fleet.run.pty - Sun Jun 29 06:15:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27515-fleet-run-pty</link>
-      <description>No description was specified by the owner of this plugin.
-
-vendor: JetBrains s.r.o.
-downloads: 4
-pricingModel: FREE
-xmlId: fleet.run.pty</description>
-      <pubDate>Sun, 29 Jun 2025 06:15:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27515-fleet-run-pty</guid>
-      <dc:date>2025-06-29T06:15:35Z</dc:date>
-    </item>
-    <item>
-      <title>fleet.run.tasks - Sun Jun 29 06:15:40 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27516-fleet-run-tasks</link>
-      <description>No description was specified by the owner of this plugin.
-
-vendor: JetBrains s.r.o.
-downloads: 4
-pricingModel: FREE
-xmlId: fleet.run.tasks</description>
-      <pubDate>Sun, 29 Jun 2025 06:15:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27516-fleet-run-tasks</guid>
-      <dc:date>2025-06-29T06:15:40Z</dc:date>
-    </item>
-    <item>
-      <title>fleet.run.terminal - Sun Jun 29 06:15:43 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27517-fleet-run-terminal</link>
-      <description>No description was specified by the owner of this plugin.
-
-vendor: JetBrains s.r.o.
-downloads: 4
-pricingModel: FREE
-xmlId: fleet.run.terminal</description>
-      <pubDate>Sun, 29 Jun 2025 06:15:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27517-fleet-run-terminal</guid>
-      <dc:date>2025-06-29T06:15:43Z</dc:date>
-    </item>
-    <item>
-      <title>Coding By DeepSeek Or ChatGPT Or OtherAI - Thu Jun 26 16:34:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27594-coding-by-deepseek-or-chatgpt-or-otherai</link>
-      <description>Coding By DeepSeek Or ChatGPT Or OtherAI is a powerful developer assistant that integrates AI capabilities directly into your IDE. It supports customizable access to...
-
-vendor: jiangze
-downloads: 72
-pricingModel: FREE
-xmlId: com.jiang.ai.plugin</description>
-      <pubDate>Thu, 26 Jun 2025 16:34:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27594-coding-by-deepseek-or-chatgpt-or-otherai</guid>
-      <dc:date>2025-06-26T16:34:28Z</dc:date>
     </item>
   </channel>
 </rss>
