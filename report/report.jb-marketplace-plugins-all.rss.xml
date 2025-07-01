@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>KnopkaOgurec - Sun Jun 29 10:28:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27779-knopkaogurec</link>
+      <description>This plugin allows you to run BDD tests (e.g., Cucumber/Gherkin) directly from `.feature` files in the Project View. It generates a temporary test class and supports...
+
+vendor: Artur Ishmurzin
+downloads: 0
+pricingModel: FREE
+xmlId: knopka_ogurec</description>
+      <pubDate>Sun, 29 Jun 2025 10:28:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27779-knopkaogurec</guid>
+      <dc:date>2025-06-29T10:28:36Z</dc:date>
+    </item>
+    <item>
       <title>CronGenerator - Mon Jun 30 11:01:09 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27767-crongenerator</link>
       <description>A lightweight tool designed for developers to quickly generate Cron expressions within your IDE. Cron表达式生成插件 专为开发者设计的轻量级工具，帮助您在IDE中快速生成Cron表达式 核心功能...
@@ -1291,19 +1304,6 @@ xmlId: io.harness.oss.jetbrains.gateway</description>
       <pubDate>Wed, 19 Feb 2025 18:46:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/26595-harness-oss-gitspaces</guid>
       <dc:date>2025-02-19T18:46:15Z</dc:date>
-    </item>
-    <item>
-      <title>Kotlin Compiler DevKit - Mon Jun 30 08:03:04 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27616-kotlin-compiler-devkit</link>
-      <description>This plugin enhances the development experience when working with compiler tests in the Kotlin project or Kotlin compiler plugins. Setup The plugin enhances the editor...
-
-vendor: JetBrains s.r.o.
-downloads: 319
-pricingModel: FREE
-xmlId: org.jetbrains.kotlin.compiler.devkit</description>
-      <pubDate>Mon, 30 Jun 2025 08:03:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27616-kotlin-compiler-devkit</guid>
-      <dc:date>2025-06-30T08:03:04Z</dc:date>
     </item>
   </channel>
 </rss>
