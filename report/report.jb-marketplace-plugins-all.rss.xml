@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>DeepSeek Find Bug - Wed Jul 02 01:29:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27809-deepseek-find-bug</link>
+      <description>DeepSeek Find Bug can serve as your coding assistant, allowing you to chat in the window on the right.Select the code you want to analyze, right-click, and choose a...
+
+vendor: Vroni
+downloads: 0
+pricingModel: FREE
+xmlId: org.find.dp.bug</description>
+      <pubDate>Wed, 02 Jul 2025 01:29:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27809-deepseek-find-bug</guid>
+      <dc:date>2025-07-02T01:29:49Z</dc:date>
+    </item>
+    <item>
       <title>PHP Companion - Mon Jun 30 22:25:57 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27762-php-companion</link>
       <description>PHP Companion Plugin A PhpStorm/IntelliJ plugin that enhances PHP development workflow with advanced navigation and code analysis features, particularly focused on...
@@ -292,7 +305,7 @@ xmlId: com.translatestrings.plugin</description>
       <dc:date>2025-06-30T17:40:07Z</dc:date>
     </item>
     <item>
-      <title>wapilot - Mon Jun 30 03:47:38 UTC 2025</title>
+      <title>wapilot - Wed Jul 02 10:25:09 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27745-wapilot</link>
       <description>Wapilot is an intelligent coding assistance tool provided by Wacai Middleware, offering capabilities such as intelligent code generation, smart Q&amp;amp;A, multi-file...
 
@@ -300,9 +313,9 @@ vendor: bairen
 downloads: 10
 pricingModel: FREE
 xmlId: com.wacai.middleware</description>
-      <pubDate>Mon, 30 Jun 2025 03:47:38 GMT</pubDate>
+      <pubDate>Wed, 02 Jul 2025 10:25:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27745-wapilot</guid>
-      <dc:date>2025-06-30T03:47:38Z</dc:date>
+      <dc:date>2025-07-02T10:25:09Z</dc:date>
     </item>
     <item>
       <title>TID - Tue Jun 03 17:32:24 UTC 2025</title>
@@ -1141,7 +1154,7 @@ xmlId: org.utcook.i18nHelper</description>
       <link>https://plugins.jetbrains.com/plugin/27654-hubl-hero</link>
       <description>The plugin adds first-class support for HubL HubSpot's templating language to IntelliJ IDEA and other JetBrains IDEs. Note that the plugin developers are not...
 
-vendor: Markup Hero
+vendor: Language Heroes
 downloads: 47
 pricingModel: PAID
 xmlId: com.hublhero</description>
@@ -1291,19 +1304,6 @@ xmlId: com.maker.dto-maker</description>
       <pubDate>Thu, 19 Jun 2025 07:47:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27633-dto-maker</guid>
       <dc:date>2025-06-19T07:47:57Z</dc:date>
-    </item>
-    <item>
-      <title>Maven Search(MPVP) - Sat Jun 14 17:23:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27627-maven-search-mpvp-</link>
-      <description>Maven Project Version Plugin(search), Support Quick Search Project Version. (Support Central Repository and Nexus Repository (remote/private...
-
-vendor: joker-pper
-downloads: 75
-pricingModel: FREE
-xmlId: com.github.jokerpper.intellij-maven-project-version-plugin.maven-search</description>
-      <pubDate>Sat, 14 Jun 2025 17:23:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27627-maven-search-mpvp-</guid>
-      <dc:date>2025-06-14T17:23:28Z</dc:date>
     </item>
   </channel>
 </rss>
