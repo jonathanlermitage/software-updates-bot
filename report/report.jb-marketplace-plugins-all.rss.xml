@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AI Agents Debugger - Fri Jul 04 11:01:31 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/26921-ai-agents-debugger</link>
+      <description>Overview The AI Agents Debugger plugin gives you instant visibility into LangGraph agents — right inside your IDE and with zero setup. Key Features Live Agent...
+
+vendor: JetBrains s.r.o.
+downloads: 128
+pricingModel: FREE
+xmlId: org.jetbrains.aidebugger</description>
+      <pubDate>Fri, 04 Jul 2025 11:01:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26921-ai-agents-debugger</guid>
+      <dc:date>2025-07-04T11:01:31Z</dc:date>
+    </item>
+    <item>
+      <title>API Copilot - Thu Jul 03 16:35:15 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27822-api-copilot</link>
+      <description>Integrating API documentation into the IDE Slogan: "Your smart assistant for understanding, navigating, and using APIs — right inside your IDE." GitHub Features...
+
+vendor: Mario Luo
+downloads: 0
+pricingModel: FREE
+xmlId: apicopilot</description>
+      <pubDate>Thu, 03 Jul 2025 16:35:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27822-api-copilot</guid>
+      <dc:date>2025-07-03T16:35:15Z</dc:date>
+    </item>
+    <item>
+      <title>Snipdox Uploader - Thu Jul 03 18:54:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27823-snipdox-uploader</link>
+      <description>Adds a "Upload to Snipdox" action, which postes the selected content onto the Snipdox site. Create a paste: Select the code snippet to upload Right click on the...
+
+vendor: Fedox
+downloads: 0
+pricingModel: FREE
+xmlId: ovh.fedox.snipdox</description>
+      <pubDate>Thu, 03 Jul 2025 18:54:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27823-snipdox-uploader</guid>
+      <dc:date>2025-07-03T18:54:35Z</dc:date>
+    </item>
+    <item>
       <title>Extra IDE Tweaks Lifetime - Tue Jul 01 16:44:10 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27808-extra-ide-tweaks-lifetime</link>
       <description>Some utilities for IDE maintenance and tweaking, plus workarounds for a few IDE issues. See Tools &amp;gt; Extra IDE Tweaks. License types: - Extra IDE Tweaks offers...
@@ -149,7 +188,7 @@ xmlId: com.yourorg.issuebadge</description>
       <dc:date>2025-07-01T05:07:49Z</dc:date>
     </item>
     <item>
-      <title>Dessert Test Generator - Tue Jul 01 10:22:58 UTC 2025</title>
+      <title>Dessert Test Generator - Thu Jul 03 18:15:17 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27804-dessert-test-generator</link>
       <description>Generate unit tests from debugger: Right click on variables in debugger and choose "Generate Test with Dessert". Plugin will take variable values from the stack and...
 
@@ -157,9 +196,9 @@ vendor: Michael Solovev
 downloads: 5
 pricingModel: FREE
 xmlId: com.dessert.test-generator</description>
-      <pubDate>Tue, 01 Jul 2025 10:22:58 GMT</pubDate>
+      <pubDate>Thu, 03 Jul 2025 18:15:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27804-dessert-test-generator</guid>
-      <dc:date>2025-07-01T10:22:58Z</dc:date>
+      <dc:date>2025-07-03T18:15:17Z</dc:date>
     </item>
     <item>
       <title>Yii2 GoTo Magic Getter - Tue Jul 01 15:13:17 UTC 2025</title>
@@ -609,7 +648,7 @@ xmlId: com.github.garetht.typstsupport</description>
       <description>Earth Restful Helper: is one of the plugins in the earth series, primarily used for API management and HTTP interface debugging. Earth Restful Helper &#x1f310; Introduction...
 
 vendor: zhouchao
-downloads: 29
+downloads: 35
 pricingModel: FREE
 xmlId: com.myth.earth.earth-restful-helper</description>
       <pubDate>Mon, 23 Jun 2025 07:52:58 GMT</pubDate>
@@ -903,7 +942,7 @@ xmlId: com.secretsmasker</description>
       <dc:date>2025-06-19T14:59:07Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Toolkit - Tue Jul 01 03:05:09 UTC 2025</title>
+      <title>DeepSeek Toolkit - Fri Jul 04 03:10:18 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27686-deepseek-toolkit</link>
       <description>DeepSeek Toolkit is an intelligent programming assistant plugin powered by the DeepSeek large-scale language model. It leverages cutting-edge AI capabilities to...
 
@@ -911,9 +950,9 @@ vendor: JetDev
 downloads: 469
 pricingModel: FREE
 xmlId: com.toolkit.ai.code</description>
-      <pubDate>Tue, 01 Jul 2025 03:05:09 GMT</pubDate>
+      <pubDate>Fri, 04 Jul 2025 03:10:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27686-deepseek-toolkit</guid>
-      <dc:date>2025-07-01T03:05:09Z</dc:date>
+      <dc:date>2025-07-04T03:10:18Z</dc:date>
     </item>
     <item>
       <title>Oraclia AI - Sat Jun 21 13:21:03 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: fnmap</description>
       <pubDate>Fri, 13 Jun 2025 14:16:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27578-fnmap</guid>
       <dc:date>2025-06-13T14:16:57Z</dc:date>
-    </item>
-    <item>
-      <title>DroidForge: Clean Architecture Generator - Thu Jun 19 10:31:24 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27621-droidforge-clean-architecture-generator</link>
-      <description>DroidForge: Say Goodbye to Boilerplate! Are you tired of the repetitive task of creating dozens of files and folders every time you start a new feature in your Android...
-
-vendor: Alessandro Finocchiaro
-downloads: 54
-pricingModel: FREE
-xmlId: swaix.dev.plugin.cleanarchitecturegenerator</description>
-      <pubDate>Thu, 19 Jun 2025 10:31:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27621-droidforge-clean-architecture-generator</guid>
-      <dc:date>2025-06-19T10:31:24Z</dc:date>
-    </item>
-    <item>
-      <title>Kotlin Clean Code Rearranger - Sat Jun 21 16:01:02 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27537-kotlin-clean-code-rearranger</link>
-      <description>Rearranges functions in Kotlin files and classes according to the Robert C. Martin's Step-down Rule. Available under Code | Rearrange Functions. Default shortcuts...
-
-vendor: Marco Plasmati
-downloads: 63
-pricingModel: FREE
-xmlId: com.github.marcopla99.cleancoderearranger</description>
-      <pubDate>Sat, 21 Jun 2025 16:01:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27537-kotlin-clean-code-rearranger</guid>
-      <dc:date>2025-06-21T16:01:02Z</dc:date>
-    </item>
-    <item>
-      <title>Maven With Me(MPVP) - Sat Jun 14 17:22:00 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27647-maven-with-me-mpvp-</link>
-      <description>Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version. Maven项目版本插件，可用于版本快速傻瓜式升级及项目版本展示和项目版本搜索. Maven Project...
-
-vendor: joker-pper
-downloads: 87
-pricingModel: FREE
-xmlId: com.github.jokerpper.intellij-maven-project-version-plugin.maven-with-me</description>
-      <pubDate>Sat, 14 Jun 2025 17:22:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27647-maven-with-me-mpvp-</guid>
-      <dc:date>2025-06-14T17:22:00Z</dc:date>
     </item>
   </channel>
 </rss>
