@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>SMNIR - Wed Jul 09 08:30:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27866-smnir</link>
+      <description>SMNIR: Smart Method Name Inconsistency Resolver Your AI Code Reviewer, Automatically Detecting and Fixing Misleading Method Names Summary Have you ever been misled by...
+
+vendor: Michael
+downloads: 0
+pricingModel: FREE
+xmlId: com.michael.MethodNameConsistencyChecking.SMNIR</description>
+      <pubDate>Wed, 09 Jul 2025 08:30:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27866-smnir</guid>
+      <dc:date>2025-07-09T08:30:58Z</dc:date>
+    </item>
+    <item>
       <title>Awesome Log Viewer - Fri Jun 27 06:35:50 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27750-awesome-log-viewer</link>
       <description>A versatile log viewer plugin that allows you to view logs in a much nicer way. It also allows you to see the telemetry from Application Insights or Open Telemetry...
@@ -188,7 +201,7 @@ xmlId: com.github.xepozz.php_opcodes_language</description>
       <dc:date>2025-07-05T10:07:32Z</dc:date>
     </item>
     <item>
-      <title>cteXecutor - Tue Jul 08 18:31:44 UTC 2025</title>
+      <title>cteXecutor - Wed Jul 09 12:39:51 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27835-ctexecutor</link>
       <description>Execute and manage Common Table Expressions (CTEs) easily in DataGrip and IntelliJ-based IDEs. Highlights CTEs and allows selective execution of composed queries...
 
@@ -196,9 +209,9 @@ vendor: Yannik Köllmann
 downloads: 14
 pricingModel: FREE
 xmlId: com.ykoellmann.ctexecutor.ctexecutor</description>
-      <pubDate>Tue, 08 Jul 2025 18:31:44 GMT</pubDate>
+      <pubDate>Wed, 09 Jul 2025 12:39:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27835-ctexecutor</guid>
-      <dc:date>2025-07-08T18:31:44Z</dc:date>
+      <dc:date>2025-07-09T12:39:51Z</dc:date>
     </item>
     <item>
       <title>Polycode - Fri Jul 04 12:51:58 UTC 2025</title>
@@ -279,7 +292,7 @@ xmlId: dev.liquidhero</description>
       <dc:date>2025-07-04T00:41:01Z</dc:date>
     </item>
     <item>
-      <title>AI Agents Debugger - Fri Jul 04 11:01:31 UTC 2025</title>
+      <title>AI Agents Debugger - Wed Jul 09 15:43:56 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/26921-ai-agents-debugger</link>
       <description>Overview The AI Agents Debugger plugin gives you instant visibility into LangGraph agents — right inside your IDE and with zero setup. Key Features Live Agent...
 
@@ -287,9 +300,9 @@ vendor: JetBrains s.r.o.
 downloads: 727
 pricingModel: FREE
 xmlId: org.jetbrains.aidebugger</description>
-      <pubDate>Fri, 04 Jul 2025 11:01:31 GMT</pubDate>
+      <pubDate>Wed, 09 Jul 2025 15:43:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/26921-ai-agents-debugger</guid>
-      <dc:date>2025-07-04T11:01:31Z</dc:date>
+      <dc:date>2025-07-09T15:43:56Z</dc:date>
     </item>
     <item>
       <title>API Copilot - Thu Jul 03 16:35:15 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: com.mastercard.hassan.plugins.tobase64</description>
       <pubDate>Wed, 18 Jun 2025 12:52:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27679-base64-encoder-decoder</guid>
       <dc:date>2025-06-18T12:52:03Z</dc:date>
-    </item>
-    <item>
-      <title>Simplified Annotations - Tue Jul 01 02:30:31 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27678-simplified-annotations</link>
-      <description>Handles UAST traversal via AbstractUastVisitor to analyze method call arguments. Supports string resolution from: Direct literals (ULiteralExpression) Binary...
-
-vendor: SkyBlock Simplified
-downloads: 96
-pricingModel: FREE
-xmlId: dev.sbs.simplified-annotations</description>
-      <pubDate>Tue, 01 Jul 2025 02:30:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27678-simplified-annotations</guid>
-      <dc:date>2025-07-01T02:30:31Z</dc:date>
     </item>
   </channel>
 </rss>
