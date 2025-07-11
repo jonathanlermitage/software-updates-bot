@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Prisma Graph Visualizer - Fri Jul 11 07:04:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27817-prisma-graph-visualizer</link>
+      <description>A plugin for graphical visualization of Prisma Schema files. Features: Automatic detection of Prisma Schema files (.prisma) Graphical visualization of data models and...
+
+vendor: Alexander Koch
+downloads: 0
+pricingModel: FREE
+xmlId: com.alexanderkoch.prismagraph</description>
+      <pubDate>Fri, 11 Jul 2025 07:04:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27817-prisma-graph-visualizer</guid>
+      <dc:date>2025-07-11T07:04:44Z</dc:date>
+    </item>
+    <item>
       <title>JnForce - Fri Jul 11 03:49:37 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27728-jnforce</link>
       <description>This plugin generates Kotlin data classes from Salesforce metadata to simplify JSON serialization and deserialization with Jackson. It streamlines integration with...
@@ -318,7 +331,7 @@ xmlId: com.github.xepozz.php_opcodes_language</description>
       <dc:date>2025-07-05T10:07:32Z</dc:date>
     </item>
     <item>
-      <title>cteXecutor - Wed Jul 09 12:39:51 UTC 2025</title>
+      <title>cteXecutor - Fri Jul 11 11:34:05 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27835-ctexecutor</link>
       <description>Execute and manage Common Table Expressions (CTEs) easily in DataGrip and IntelliJ-based IDEs. Highlights CTEs and allows selective execution of composed queries...
 
@@ -326,9 +339,9 @@ vendor: Yannik Köllmann
 downloads: 40
 pricingModel: FREE
 xmlId: com.ykoellmann.ctexecutor.ctexecutor</description>
-      <pubDate>Wed, 09 Jul 2025 12:39:51 GMT</pubDate>
+      <pubDate>Fri, 11 Jul 2025 11:34:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27835-ctexecutor</guid>
-      <dc:date>2025-07-09T12:39:51Z</dc:date>
+      <dc:date>2025-07-11T11:34:05Z</dc:date>
     </item>
     <item>
       <title>Polycode - Fri Jul 04 12:51:58 UTC 2025</title>
@@ -513,7 +526,7 @@ xmlId: cn.mumukehao.plugin</description>
       <dc:date>2025-07-03T11:39:28Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek FindBug - Wed Jul 09 04:03:53 UTC 2025</title>
+      <title>DeepSeek FindBug - Fri Jul 11 10:07:15 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27809-deepseek-findbug</link>
       <description>DeepSeek FindBug can serve as your coding assistant, allowing you to chat in the window on the right.Select the code you want to analyze, right-click, and choose a...
 
@@ -521,9 +534,9 @@ vendor: Vroni
 downloads: 129
 pricingModel: FREE
 xmlId: org.find.dp.bug</description>
-      <pubDate>Wed, 09 Jul 2025 04:03:53 GMT</pubDate>
+      <pubDate>Fri, 11 Jul 2025 10:07:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27809-deepseek-findbug</guid>
-      <dc:date>2025-07-09T04:03:53Z</dc:date>
+      <dc:date>2025-07-11T10:07:15Z</dc:date>
     </item>
     <item>
       <title>PHP Companion - Thu Jul 10 12:54:30 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: com.github.dk98126.branchit</description>
       <pubDate>Fri, 20 Jun 2025 12:45:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27703-branchit</guid>
       <dc:date>2025-06-20T12:45:17Z</dc:date>
-    </item>
-    <item>
-      <title>Mavka AI Tests - Thu Jul 03 10:46:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27702-mavka-ai-tests</link>
-      <description>AI Tests By Mavka – AI-powered Unit Test Generation. Plugin assists developers by generating relevant test cases and helping cover code with unit tests. It streamlines...
-
-vendor: Clear Solutions
-downloads: 37
-pricingModel: FREE
-xmlId: ltd.clearsolutions.ai-tests-by-mavka</description>
-      <pubDate>Thu, 03 Jul 2025 10:46:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27702-mavka-ai-tests</guid>
-      <dc:date>2025-07-03T10:46:42Z</dc:date>
     </item>
   </channel>
 </rss>
