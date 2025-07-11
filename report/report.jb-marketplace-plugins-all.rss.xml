@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>BBS UI - Fri Jul 11 16:48:04 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27894-bbs-ui</link>
+      <description>A plugin for IntelliJ IDEA and Rider to provide a UI for running internal .NET monorepo build infrastructure (BBS) entrypoints Features Quickly launch known entry...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.seclerp.bbsplugin</description>
+      <pubDate>Fri, 11 Jul 2025 16:48:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27894-bbs-ui</guid>
+      <dc:date>2025-07-11T16:48:04Z</dc:date>
+    </item>
+    <item>
       <title>open-in-run-config - Thu Jul 10 20:57:38 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27881-open-in-run-config</link>
       <description>The Open in Run Config plugin allows you to quickly run any Java application configuration with a selected file as a program argument. It's essentially a productivity...
@@ -695,7 +708,7 @@ xmlId: com.maxfouri.yiigotomagicgetter</description>
       <dc:date>2025-07-01T15:13:17Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Code - Sun Jun 29 09:28:36 UTC 2025</title>
+      <title>DeepSeek Code - Fri Jul 11 18:05:49 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27777-deepseek-code</link>
       <description>This plugin is your coding assistant, offering help via the chat window on the right. It uses DeepSeek to auto-generate clear commit messages from your code changes...
 
@@ -703,9 +716,9 @@ vendor: ZenCode
 downloads: 61
 pricingModel: FREE
 xmlId: com.dp.my.code.free</description>
-      <pubDate>Sun, 29 Jun 2025 09:28:36 GMT</pubDate>
+      <pubDate>Fri, 11 Jul 2025 18:05:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27777-deepseek-code</guid>
-      <dc:date>2025-06-29T09:28:36Z</dc:date>
+      <dc:date>2025-07-11T18:05:49Z</dc:date>
     </item>
     <item>
       <title>Spring Assistant @ValueToYml - Tue Jul 01 05:26:51 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: ThriftRequest</description>
       <pubDate>Fri, 20 Jun 2025 10:22:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27684-thrift-request</guid>
       <dc:date>2025-06-20T10:22:13Z</dc:date>
-    </item>
-    <item>
-      <title>Solidity Lite - Wed Jun 25 20:51:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27644-solidity-lite</link>
-      <description>Solidity for JetBrains A light, stable, and feature-rich Solidity language support plugin for JetBrains IDEs. Features Recognizes .sol files as Solidity source files...
-
-vendor: Risen
-downloads: 53329
-pricingModel: FREE
-xmlId: com.solidity.jetbrains</description>
-      <pubDate>Wed, 25 Jun 2025 20:51:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27644-solidity-lite</guid>
-      <dc:date>2025-06-25T20:51:36Z</dc:date>
     </item>
   </channel>
 </rss>
