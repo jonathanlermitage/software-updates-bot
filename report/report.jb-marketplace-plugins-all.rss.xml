@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>open-in-run-config - Thu Jul 10 20:57:38 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27881-open-in-run-config</link>
+      <description>The Open in Run Config plugin allows you to quickly run any Java application configuration with a selected file as a program argument. It's essentially a productivity...
+
+vendor: Glen Schrader
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.gschrader.openinrunconfig</description>
+      <pubDate>Thu, 10 Jul 2025 20:57:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27881-open-in-run-config</guid>
+      <dc:date>2025-07-10T20:57:38Z</dc:date>
+    </item>
+    <item>
+      <title>ProjectLinks - Thu Jul 10 20:40:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27887-projectlinks</link>
+      <description>This plugin reads the README.md file of the current project and extracts links from it. It then provides a selection list to open these links in the default web...
+
+vendor: Lee Laffan
+downloads: 0
+pricingModel: FREE
+xmlId: lee.jetbrains.ProjectLinks</description>
+      <pubDate>Thu, 10 Jul 2025 20:40:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27887-projectlinks</guid>
+      <dc:date>2025-07-10T20:40:11Z</dc:date>
+    </item>
+    <item>
+      <title>Bookmark-Shijinze - Fri Jul 11 13:25:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27891-bookmark-shijinze</link>
+      <description>BookMark-Shijinze [User Guide]: https://gitee.com/sjz12875/book-mark-shijizne-a This is a bookmark plugin that users unanimously praise. Especially suitable for those...
+
+vendor: 史锦泽
+downloads: 0
+pricingModel: FREE
+xmlId: Bookmark-Shijinze</description>
+      <pubDate>Fri, 11 Jul 2025 13:25:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27891-bookmark-shijinze</guid>
+      <dc:date>2025-07-11T13:25:09Z</dc:date>
+    </item>
+    <item>
+      <title>i18n Translate Pro: JVM - Fri Jul 11 01:31:55 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27856-i18n-translate-pro-jvm</link>
+      <description>Automatically translate message resource files to multiple languages using LLM integration with comprehensive Java 21 locale support. Key Features: 200+ Java 21...
+
+vendor: Eastgate Development
+downloads: 2
+pricingModel: PAID
+xmlId: dev.eastgate.i18n-translate-jvm</description>
+      <pubDate>Fri, 11 Jul 2025 01:31:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27856-i18n-translate-pro-jvm</guid>
+      <dc:date>2025-07-11T01:31:55Z</dc:date>
+    </item>
+    <item>
       <title>Prisma Graph Visualizer - Fri Jul 11 07:04:44 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27817-prisma-graph-visualizer</link>
       <description>A plugin for graphical visualization of Prisma Schema files. Features: Automatic detection of Prisma Schema files (.prisma) Graphical visualization of data models and...
@@ -43,6 +95,19 @@ xmlId: com.jjrwa.plugin</description>
       <pubDate>Thu, 10 Jul 2025 04:05:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27871-zs-tools</guid>
       <dc:date>2025-07-10T04:05:39Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Store - Thu Jul 10 11:10:42 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27873-mcp-store</link>
+      <description>Seamlessly install and manage MCP-Server across your AI coding environments. This extension enables one-click deployment of MCP-Server to Cline, GitHub Copilot...
+
+vendor: Autohome NewCar
+downloads: 0
+pricingModel: FREE
+xmlId: com.autohome.mcp-store-for-jetbrains</description>
+      <pubDate>Thu, 10 Jul 2025 11:10:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27873-mcp-store</guid>
+      <dc:date>2025-07-10T11:10:42Z</dc:date>
     </item>
     <item>
       <title>Dart Barrel Manager - Thu Jul 10 13:05:45 UTC 2025</title>
@@ -461,7 +526,7 @@ xmlId: ovh.fedox.snipdox</description>
       <dc:date>2025-07-03T18:54:35Z</dc:date>
     </item>
     <item>
-      <title>Extra IDE Tweaks Lifetime - Tue Jul 01 16:44:10 UTC 2025</title>
+      <title>Extra IDE Tweaks Lifetime - Fri Jul 11 13:23:54 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27808-extra-ide-tweaks-lifetime</link>
       <description>Some utilities for IDE maintenance and tweaking, plus workarounds for a few IDE issues. See Tools &amp;gt; Extra IDE Tweaks. License types: - Extra IDE Tweaks offers...
 
@@ -469,9 +534,9 @@ vendor: Jonathan Lermitage
 downloads: 21
 pricingModel: PAID
 xmlId: lermitage.ij.extraidetweaks.lifetime</description>
-      <pubDate>Tue, 01 Jul 2025 16:44:10 GMT</pubDate>
+      <pubDate>Fri, 11 Jul 2025 13:23:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27808-extra-ide-tweaks-lifetime</guid>
-      <dc:date>2025-07-01T16:44:10Z</dc:date>
+      <dc:date>2025-07-11T13:23:54Z</dc:date>
     </item>
     <item>
       <title>Artifactory Authenticator - Wed Jul 02 21:20:28 UTC 2025</title>
@@ -1239,71 +1304,6 @@ xmlId: com.solidity.jetbrains</description>
       <pubDate>Wed, 25 Jun 2025 20:51:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27644-solidity-lite</guid>
       <dc:date>2025-06-25T20:51:36Z</dc:date>
-    </item>
-    <item>
-      <title>Step-Wise Region Folding - Wed May 28 01:51:38 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27094-step-wise-region-folding</link>
-      <description>Allows stepping through region folding levels. Assigns Ctrl+wheel up/down as defaults, configurable in keymap.
-
-vendor: David Schneider
-downloads: 21
-pricingModel: FREE
-xmlId: com.dalsegnosolutions.ij.swrf</description>
-      <pubDate>Wed, 28 May 2025 01:51:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27094-step-wise-region-folding</guid>
-      <dc:date>2025-05-28T01:51:38Z</dc:date>
-    </item>
-    <item>
-      <title>Line Comment - Sat Jun 21 23:24:32 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27717-line-comment</link>
-      <description>Add comments to specific code lines with iconsAdd comments to specific code lines with icons.
-
-vendor: Yunus Emre INCE
-downloads: 32
-pricingModel: FREE
-xmlId: com.yuunus90.line-comment</description>
-      <pubDate>Sat, 21 Jun 2025 23:24:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27717-line-comment</guid>
-      <dc:date>2025-06-21T23:24:32Z</dc:date>
-    </item>
-    <item>
-      <title>AI CodeEye - Sat Jul 05 19:22:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27573-ai-codeeye</link>
-      <description>AI code reviewer that analyzes your existing code like an expert developer, identifying potential issues, code smells, and improvement opportunities. &#x1f512; Enterprise...
-
-vendor: AI CodeEye
-downloads: 152
-pricingModel: FREEMIUM
-xmlId: com.aicodeeye.plugin</description>
-      <pubDate>Sat, 05 Jul 2025 19:22:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27573-ai-codeeye</guid>
-      <dc:date>2025-07-05T19:22:37Z</dc:date>
-    </item>
-    <item>
-      <title>Files Manager for Claude - Mon Jun 23 10:10:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27681-files-manager-for-claude</link>
-      <description>Indicators and dedicated file list for your IDE. Supports automatic upload of project files to Claude Project. Helps you with file organization and optionally uploads...
-
-vendor: Martin Čerman
-downloads: 58
-pricingModel: PAID
-xmlId: com.claudeProjectFiles.claude.integration</description>
-      <pubDate>Mon, 23 Jun 2025 10:10:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27681-files-manager-for-claude</guid>
-      <dc:date>2025-06-23T10:10:51Z</dc:date>
-    </item>
-    <item>
-      <title>BranchIt - Fri Jun 20 12:45:17 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27703-branchit</link>
-      <description>Adds support to insert the current branch name to the commit message dialogue.
-
-vendor: Daniil Krasnov
-downloads: 27
-pricingModel: FREE
-xmlId: com.github.dk98126.branchit</description>
-      <pubDate>Fri, 20 Jun 2025 12:45:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27703-branchit</guid>
-      <dc:date>2025-06-20T12:45:17Z</dc:date>
     </item>
   </channel>
 </rss>
