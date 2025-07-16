@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|22.17.1|[nodejs.org](https://nodejs.org)|Wed Jul 16 00:06:41 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.4.1|[nodejs.org](https://nodejs.org)|Wed Jul 16 00:06:41 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|22.17.1|[nodejs.org](https://nodejs.org)|Wed Jul 16 00:06:41 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.5|[golang.org](https://golang.org/dl/)|Tue Jul 08 20:02:50 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14.3|[gradle.org](https://gradle.org/releases/)|Fri Jul 04 20:02:59 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.1 to 19.0.5 ~ 2025-06-27|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Jun 27 20:03:04 UTC 2025|
