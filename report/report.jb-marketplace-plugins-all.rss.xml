@@ -175,19 +175,6 @@ xmlId: org.code.gpt.kit</description>
       <dc:date>2025-07-13T11:05:31Z</dc:date>
     </item>
     <item>
-      <title>RuntimeTest - Tue Jul 15 08:40:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27908-runtimetest</link>
-      <description>Execute Java methods at runtime (including both instance and static methods). Supports retrieving beans from the Spring container. If no bean is found, the object will...
-
-vendor: wwsbdy
-downloads: 17
-pricingModel: FREE
-xmlId: com.zj.runtime-test-ui</description>
-      <pubDate>Tue, 15 Jul 2025 08:40:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27908-runtimetest</guid>
-      <dc:date>2025-07-15T08:40:28Z</dc:date>
-    </item>
-    <item>
       <title>Git User Switch - Tue Jul 15 02:27:49 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27912-git-user-switch</link>
       <description>Each time the code is submitted, a prompt pops up asking the user to select git user and automatically switches. source: https://github.com/adeuxy/ideagitswitch...
@@ -231,7 +218,7 @@ xmlId: com.asboy2035.TokyoPurpleFleet</description>
       <link>https://plugins.jetbrains.com/plugin/27894-bbs-ui</link>
       <description>A plugin for IntelliJ IDEA and Rider to provide a UI for running internal .NET monorepo build infrastructure (BBS) entrypoints Features Quickly launch known entry...
 
-vendor: JetBrains s.r.o.
+vendor: Andrii Rublov
 downloads: 39
 pricingModel: FREE
 xmlId: com.github.seclerp.bbsplugin</description>
@@ -331,17 +318,17 @@ xmlId: com.jjrwa.plugin</description>
       <dc:date>2025-07-10T04:05:39Z</dc:date>
     </item>
     <item>
-      <title>MCP Store - Thu Jul 10 11:10:42 UTC 2025</title>
+      <title>MCP Store - Wed Jul 16 11:46:39 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27873-mcp-store</link>
-      <description>Seamlessly install and manage MCP-Server across your AI coding environments. This extension enables one-click deployment of MCP-Server to Cline, GitHub Copilot...
+      <description>Seamlessly install and manage MCP-Server across your AI coding environments. This extension enables one-click deployment of MCP-Server to Lingma, and other compatible...
 
 vendor: Autohome NewCar
 downloads: 171
 pricingModel: FREE
 xmlId: com.autohome.mcp-store-for-jetbrains</description>
-      <pubDate>Thu, 10 Jul 2025 11:10:42 GMT</pubDate>
+      <pubDate>Wed, 16 Jul 2025 11:46:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27873-mcp-store</guid>
-      <dc:date>2025-07-10T11:10:42Z</dc:date>
+      <dc:date>2025-07-16T11:46:39Z</dc:date>
     </item>
     <item>
       <title>Dart Barrel Manager - Sat Jul 12 16:39:39 UTC 2025</title>
@@ -1304,6 +1291,19 @@ xmlId: be.ajuvercr.swls</description>
       <pubDate>Thu, 05 Jun 2025 06:42:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27501-semantic-web-language-server</guid>
       <dc:date>2025-06-05T06:42:43Z</dc:date>
+    </item>
+    <item>
+      <title>Upcaser - Sat Jun 28 03:34:21 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27707-upcaser</link>
+      <description>Upcaser is an IntelliJ Platform plugin that automatically capitalises the first letter of sentences in any text file. When you type a lowercase letter after...
+
+vendor: Yiming Geng
+downloads: 81
+pricingModel: FREE
+xmlId: com.github.melendez1209.upcaser</description>
+      <pubDate>Sat, 28 Jun 2025 03:34:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27707-upcaser</guid>
+      <dc:date>2025-06-28T03:34:21Z</dc:date>
     </item>
   </channel>
 </rss>
