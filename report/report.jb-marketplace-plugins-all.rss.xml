@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>DeepSeek BugFix - Wed Jul 16 10:06:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27834-deepseek-bugfix</link>
+      <description>DeepSeek BugFix is an AI-driven programming assistant plugin built upon the DeepSeek large model, aimed at enhancing the efficiency and quality of coding for...
+
+vendor: ZenCode
+downloads: 6
+pricingModel: FREE
+xmlId: com.fix.bug.find</description>
+      <pubDate>Wed, 16 Jul 2025 10:06:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27834-deepseek-bugfix</guid>
+      <dc:date>2025-07-16T10:06:40Z</dc:date>
+    </item>
+    <item>
       <title>SpEL Type Helper - Wed Jul 16 08:21:42 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27923-spel-type-helper</link>
       <description>Inject custom variable to your SpEL context. Quick Start You have to modify your Java doc to enable our SpEL support. Inject Method Parameters Just add @SpEL...
@@ -500,7 +513,7 @@ xmlId: me.seungjun.colorfuldelimiter</description>
       <dc:date>2025-07-10T12:00:32Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek AI - Wed Jul 09 11:40:29 UTC 2025</title>
+      <title>DeepSeek AI - Thu Jul 17 11:02:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27870-deepseek-ai</link>
       <description>This plugin is your coding assistant, offering help via the chat window on the right. It uses DeepSeek to auto-generate clear commit messages from your code changes...
 
@@ -508,9 +521,9 @@ vendor: JetDev
 downloads: 28
 pricingModel: FREE
 xmlId: com.coder.my.ship</description>
-      <pubDate>Wed, 09 Jul 2025 11:40:29 GMT</pubDate>
+      <pubDate>Thu, 17 Jul 2025 11:02:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27870-deepseek-ai</guid>
-      <dc:date>2025-07-09T11:40:29Z</dc:date>
+      <dc:date>2025-07-17T11:02:04Z</dc:date>
     </item>
     <item>
       <title>Flutter Clean Arch Feature - Tue Jul 08 09:38:05 UTC 2025</title>
@@ -916,7 +929,7 @@ xmlId: cn.mumukehao.plugin</description>
       <dc:date>2025-07-03T11:39:28Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek FindBug - Tue Jul 15 10:06:22 UTC 2025</title>
+      <title>DeepSeek FindBug - Thu Jul 17 10:06:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27809-deepseek-findbug</link>
       <description>DeepSeek FindBug is an AI-driven programming assistant plugin built upon the DeepSeek large model, aimed at enhancing the efficiency and quality of coding for...
 
@@ -924,9 +937,9 @@ vendor: Vroni
 downloads: 255
 pricingModel: FREE
 xmlId: org.find.dp.bug</description>
-      <pubDate>Tue, 15 Jul 2025 10:06:22 GMT</pubDate>
+      <pubDate>Thu, 17 Jul 2025 10:06:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27809-deepseek-findbug</guid>
-      <dc:date>2025-07-15T10:06:22Z</dc:date>
+      <dc:date>2025-07-17T10:06:26Z</dc:date>
     </item>
     <item>
       <title>PHP Companion - Wed Jul 16 23:23:44 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: color.scheme.DarkBanana</description>
       <pubDate>Thu, 26 Jun 2025 03:40:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27753-darkbanana-color-scheme</guid>
       <dc:date>2025-06-26T03:40:19Z</dc:date>
-    </item>
-    <item>
-      <title>mega-generator-web - Thu Jun 26 05:58:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27723-mega-generator-web</link>
-      <description>This plugin was created to speed up automation in Java (web part) Features: - Inspection and generation selectors You can propose your feature or idea to development...
-
-vendor: To be QA. To feel life.
-downloads: 32
-pricingModel: FREE
-xmlId: ru.qa</description>
-      <pubDate>Thu, 26 Jun 2025 05:58:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27723-mega-generator-web</guid>
-      <dc:date>2025-06-26T05:58:42Z</dc:date>
     </item>
   </channel>
 </rss>
