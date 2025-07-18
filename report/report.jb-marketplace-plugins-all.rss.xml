@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Save - Thu Jul 17 19:48:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27936-save</link>
+      <description>Save Button Plugin Adds a Save All button as the first item on the left side of the main toolbar for quick access to the Save All action. This plugin simply adds a...
+
+vendor: meanmail.dev
+downloads: 0
+pricingModel: PAID
+xmlId: dev.meanmail.plugin.save</description>
+      <pubDate>Thu, 17 Jul 2025 19:48:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27936-save</guid>
+      <dc:date>2025-07-17T19:48:50Z</dc:date>
+    </item>
+    <item>
       <title>Visual Env - Fri Jul 18 10:21:19 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27920-visual-env</link>
       <description>Visual Env is an IntelliJ plugin that helps developers visualize and manage environment variables within their projects. This plugin makes it easy to see which...
@@ -253,8 +266,8 @@ xmlId: resxformatter.johanneszab</description>
       <dc:date>2025-07-12T12:11:54Z</dc:date>
     </item>
     <item>
-      <title>Copy File with Problems - Fri Jul 18 09:53:16 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27910-copy-file-with-problems</link>
+      <title>Copy with inline issues - Fri Jul 18 09:53:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27910-copy-with-inline-issues</link>
       <description>Copy with inline issues is a powerful plugin compatible with all JetBrains IDEs that revolutionizes how you share and document code issues. Never lose context when...
 
 vendor: Israel Kli
@@ -262,7 +275,7 @@ downloads: 34
 pricingModel: FREE
 xmlId: com.github.israelkli.intellijplugincopyfilewithproblems</description>
       <pubDate>Fri, 18 Jul 2025 09:53:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27910-copy-file-with-problems</guid>
+      <guid>https://plugins.jetbrains.com/plugin/27910-copy-with-inline-issues</guid>
       <dc:date>2025-07-18T09:53:16Z</dc:date>
     </item>
     <item>
@@ -1046,7 +1059,7 @@ xmlId: com.maxfouri.yiigotomagicgetter</description>
       <dc:date>2025-07-01T15:13:17Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Code - Fri Jul 18 11:01:44 UTC 2025</title>
+      <title>DeepSeek Code - Fri Jul 18 15:05:36 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27777-deepseek-code</link>
       <description>This plugin is your coding assistant, offering help via the chat window on the right. It uses DeepSeek to auto-generate clear commit messages from your code changes...
 
@@ -1054,9 +1067,9 @@ vendor: ZenCode
 downloads: 484
 pricingModel: FREE
 xmlId: com.dp.my.code.free</description>
-      <pubDate>Fri, 18 Jul 2025 11:01:44 GMT</pubDate>
+      <pubDate>Fri, 18 Jul 2025 15:05:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27777-deepseek-code</guid>
-      <dc:date>2025-07-18T11:01:44Z</dc:date>
+      <dc:date>2025-07-18T15:05:36Z</dc:date>
     </item>
     <item>
       <title>Spring Assistant @ValueToYml - Tue Jul 01 05:26:51 UTC 2025</title>
@@ -1267,7 +1280,7 @@ xmlId: com.liuhao.TID</description>
       <dc:date>2025-06-03T17:32:24Z</dc:date>
     </item>
     <item>
-      <title>AI/Run CodeMie - Thu Jul 10 15:16:31 UTC 2025</title>
+      <title>AI/Run CodeMie - Fri Jul 18 13:35:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27730-ai-run-codemie</link>
       <description>AI/Run CodeMie Platform - Fully Agentic Solution for AI-enabled SDLC This is complete integration of CodeMie assistants into IDE and ability to make different tasks...
 
@@ -1275,9 +1288,9 @@ vendor: AI/Run CodeMie
 downloads: 398
 pricingModel: FREE
 xmlId: com.epam.airunIdePlugin</description>
-      <pubDate>Thu, 10 Jul 2025 15:16:31 GMT</pubDate>
+      <pubDate>Fri, 18 Jul 2025 13:35:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27730-ai-run-codemie</guid>
-      <dc:date>2025-07-10T15:16:31Z</dc:date>
+      <dc:date>2025-07-18T13:35:04Z</dc:date>
     </item>
     <item>
       <title>Go - Inlay Type Hints - Thu Jun 26 15:55:00 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: com.horcrux.ssethi.goland-inlay-type-hints</description>
       <pubDate>Thu, 26 Jun 2025 15:55:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27742-go--inlay-type-hints</guid>
       <dc:date>2025-06-26T15:55:00Z</dc:date>
-    </item>
-    <item>
-      <title>mega-generator-core - Fri Jun 27 07:19:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27722-mega-generator-core</link>
-      <description>This plugin was created to speed up development and automation in Java Features: - Generation entity/dao classes - Generation dto classes - Generation java api request...
-
-vendor: To be QA. To feel life.
-downloads: 32
-pricingModel: FREE
-xmlId: ru.qa.megaGenerator</description>
-      <pubDate>Fri, 27 Jun 2025 07:19:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27722-mega-generator-core</guid>
-      <dc:date>2025-06-27T07:19:33Z</dc:date>
     </item>
   </channel>
 </rss>
