@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Tempest - Mon Jul 21 12:45:01 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27971-tempest</link>
+      <description>Provides comprehensive support for the Tempest PHP framework, including syntax highlighting for template interpolations, comments, attributes, conditionals, and loops...
+
+vendor: Márk Magyar
+downloads: 0
+pricingModel: FREE
+xmlId: com.luminarix-labs.tempest</description>
+      <pubDate>Mon, 21 Jul 2025 12:45:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27971-tempest</guid>
+      <dc:date>2025-07-21T12:45:01Z</dc:date>
+    </item>
+    <item>
+      <title>Energy Efficiency Analyzer - Mon Jul 21 11:59:57 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27821-energy-efficiency-analyzer</link>
+      <description>Analyzes code energy efficiency using Ollama LLM.
+
+vendor: Code Nomads
+downloads: 0
+pricingModel: FREE
+xmlId: nl.codenomads.energyefficiencyanalyzer</description>
+      <pubDate>Mon, 21 Jul 2025 11:59:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27821-energy-efficiency-analyzer</guid>
+      <dc:date>2025-07-21T11:59:57Z</dc:date>
+    </item>
+    <item>
+      <title>PHP Chinese Manual - Mon Jul 21 09:50:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27969-php-chinese-manual</link>
+      <description>Hi, A quick reference manual for PHP built-in functions in Chinese, built on the phpstorm-stubs-chinese project While coding, press the default shortcut Ctrl+Q to...
+
+vendor: _Hyouka
+downloads: 0
+pricingModel: FREE
+xmlId: top.netools.phpcm</description>
+      <pubDate>Mon, 21 Jul 2025 09:50:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27969-php-chinese-manual</guid>
+      <dc:date>2025-07-21T09:50:35Z</dc:date>
+    </item>
+    <item>
       <title>DeepSeek AI Review - Sat Jul 19 11:47:28 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27951-deepseek-ai-review</link>
       <description>DeepSeek AI Review leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
@@ -58,7 +97,7 @@ xmlId: tokyo.peya.plugin.Javasm</description>
       <dc:date>2025-07-18T16:19:40Z</dc:date>
     </item>
     <item>
-      <title>ExplAIn - Sun Jul 20 16:56:28 UTC 2025</title>
+      <title>ExplAIn - Mon Jul 21 16:24:53 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27928-explain</link>
       <description>ExplAIn is an IntelliJ plugin that provides AI-generated deep dive explanations for the currently selected Java or Kotlin method. **How to use:** - Add your OpenAI API...
 
@@ -66,9 +105,9 @@ vendor: Nishat Khan
 downloads: 3
 pricingModel: FREE
 xmlId: com.niktech.explain</description>
-      <pubDate>Sun, 20 Jul 2025 16:56:28 GMT</pubDate>
+      <pubDate>Mon, 21 Jul 2025 16:24:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27928-explain</guid>
-      <dc:date>2025-07-20T16:56:28Z</dc:date>
+      <dc:date>2025-07-21T16:24:53Z</dc:date>
     </item>
     <item>
       <title>Mako Android Drawable Importer - Sun Jul 20 16:37:23 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: com.maxfouri.yiigotomagicgetter</description>
       <pubDate>Tue, 01 Jul 2025 15:13:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27793-yii2-goto-magic-getter</guid>
       <dc:date>2025-07-01T15:13:17Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek CoderX - Sat Jul 19 11:15:04 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27777-deepseek-coderx</link>
-      <description>This plugin is your coding assistant, offering help via the chat window on the right. It uses DeepSeek to auto-generate clear commit messages from your code changes...
-
-vendor: ZenCode
-downloads: 817
-pricingModel: FREE
-xmlId: com.dp.my.code.free</description>
-      <pubDate>Sat, 19 Jul 2025 11:15:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27777-deepseek-coderx</guid>
-      <dc:date>2025-07-19T11:15:04Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Assistant @ValueToYml - Tue Jul 01 05:26:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27787-spring-assistant-valuetoyml</link>
-      <description>Allow jumping between Spring @ Value and yml properties.
-
-vendor: Nothing Here
-downloads: 406
-pricingModel: FREE
-xmlId: io.gitee.n__n.valueToYml</description>
-      <pubDate>Tue, 01 Jul 2025 05:26:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27787-spring-assistant-valuetoyml</guid>
-      <dc:date>2025-07-01T05:26:51Z</dc:date>
-    </item>
-    <item>
-      <title>Fish-Island - Tue Jul 01 00:42:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27797-fish-island</link>
-      <description>This plugin provides trending topics and chat features for developers who want to stay informed and connect with others during work breaks. It supports IntelliJ IDEA...
-
-vendor: 聪聪聪
-downloads: 76
-pricingModel: FREE
-xmlId: com.cong.fish.fishplugin</description>
-      <pubDate>Tue, 01 Jul 2025 00:42:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27797-fish-island</guid>
-      <dc:date>2025-07-01T00:42:26Z</dc:date>
     </item>
   </channel>
 </rss>
