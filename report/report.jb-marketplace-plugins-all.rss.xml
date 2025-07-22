@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Cool Request - SSH Task - Mon Jul 21 03:04:20 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27921-cool-request--ssh-task</link>
+      <description>This is a practical automation operation and maintenance tool, supporting batch file uploads and command executions. It is fully compatible with JumpServer, helping...
+
+vendor: xinlin hou
+downloads: 2
+pricingModel: FREE
+xmlId: dev.cool.task.ssh</description>
+      <pubDate>Mon, 21 Jul 2025 03:04:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27921-cool-request--ssh-task</guid>
+      <dc:date>2025-07-21T03:04:20Z</dc:date>
+    </item>
+    <item>
+      <title>LiterateIt - Mon Jul 21 20:18:08 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27975-literateit</link>
+      <description>A plugin for IntelliJ-based IDEs that transliterates selected text between Cyrillic and Latin keyboard layouts with a single shortcut. Converts "Ghbdtn" to "Привет...
+
+vendor: Иван Юшенков
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.yushman.literate</description>
+      <pubDate>Mon, 21 Jul 2025 20:18:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27975-literateit</guid>
+      <dc:date>2025-07-21T20:18:08Z</dc:date>
+    </item>
+    <item>
       <title>PromptPilot - Mon Jul 21 16:33:30 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27974-promptpilot</link>
       <description>PromptPilot is an IntelliJ-based plugin purpose-built for Android Studio. It empowers Android developers to steer AI code generation using context-aware, team-aligned...
@@ -123,7 +149,7 @@ xmlId: com.pino.intellij-code-marker</description>
       <dc:date>2025-07-19T20:03:14Z</dc:date>
     </item>
     <item>
-      <title>Javasm - Fri Jul 18 16:19:40 UTC 2025</title>
+      <title>Javasm - Tue Jul 22 17:25:54 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27944-javasm</link>
       <description>Javasm &amp;amp; JAL If you can't understand it, you don't belong here - Mike Gancarz Javasm is the IntelliJ IDEA plugin for the JAL (Java Assembly Language) — a...
 
@@ -131,9 +157,9 @@ vendor: Peyang
 downloads: 3
 pricingModel: FREE
 xmlId: tokyo.peya.plugin.Javasm</description>
-      <pubDate>Fri, 18 Jul 2025 16:19:40 GMT</pubDate>
+      <pubDate>Tue, 22 Jul 2025 17:25:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27944-javasm</guid>
-      <dc:date>2025-07-18T16:19:40Z</dc:date>
+      <dc:date>2025-07-22T17:25:54Z</dc:date>
     </item>
     <item>
       <title>ExplAIn - Mon Jul 21 16:24:53 UTC 2025</title>
@@ -162,7 +188,7 @@ xmlId: io.dontsayboj.mako</description>
       <dc:date>2025-07-20T16:37:23Z</dc:date>
     </item>
     <item>
-      <title>sunset - Sat Jul 19 09:59:15 UTC 2025</title>
+      <title>sunset - Tue Jul 22 19:44:00 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27950-sunset</link>
       <description>Adds the functionality to change between desired themes for one of the following strategies: Location: Provide a location by specifying a latitude and longitude. The...
 
@@ -170,9 +196,9 @@ vendor: Matthias Hahn
 downloads: 2
 pricingModel: FREE
 xmlId: com.github.hamatthias.sunset</description>
-      <pubDate>Sat, 19 Jul 2025 09:59:15 GMT</pubDate>
+      <pubDate>Tue, 22 Jul 2025 19:44:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27950-sunset</guid>
-      <dc:date>2025-07-19T09:59:15Z</dc:date>
+      <dc:date>2025-07-22T19:44:00Z</dc:date>
     </item>
     <item>
       <title>basic-verilog-support - Fri Jul 18 19:57:14 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: us.billhu.salaryplugin</description>
       <pubDate>Sat, 28 Jun 2025 03:21:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27771-salary-display</guid>
       <dc:date>2025-06-28T03:21:26Z</dc:date>
-    </item>
-    <item>
-      <title>CRD to Sample YAML - Tue Jul 01 07:31:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27800-crd-to-sample-yaml</link>
-      <description>Generate sample YAML files from Kubernetes Custom Resource Definitions. Right-click on CRD YAML files to access the CRD to Sample YAML menu. Generate complete...
-
-vendor: Gergely Brautigam
-downloads: 31
-pricingModel: FREE
-xmlId: com.skarlso.crd-to-sample-yaml</description>
-      <pubDate>Tue, 01 Jul 2025 07:31:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27800-crd-to-sample-yaml</guid>
-      <dc:date>2025-07-01T07:31:54Z</dc:date>
-    </item>
-    <item>
-      <title>HuTouch AI Code - Thu Jul 03 16:32:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27803-hutouch-ai-code</link>
-      <description>HuTouch AI is an Android Studio plugin designed to enhance workflows for HuTouch AI applications. It automatically starts an HTTP server on Android Studio startup...
-
-vendor: Niiti LLC
-downloads: 91
-pricingModel: FREE
-xmlId: com.niiti.hutouchai</description>
-      <pubDate>Thu, 03 Jul 2025 16:32:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27803-hutouch-ai-code</guid>
-      <dc:date>2025-07-03T16:32:35Z</dc:date>
     </item>
   </channel>
 </rss>
