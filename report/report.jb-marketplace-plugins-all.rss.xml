@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Anonymizer - Mon Jul 21 20:41:52 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27977-anonymizer</link>
+      <description>The Anonymizer plugin allows developers to quickly anonymize selected code in the editor. Currently optimized for Java code. This helps obscure potentially sensitive...
+
+vendor: Matej Cisko
+downloads: 1
+pricingModel: FREE
+xmlId: sk.mc.anonymizer</description>
+      <pubDate>Mon, 21 Jul 2025 20:41:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27977-anonymizer</guid>
+      <dc:date>2025-07-21T20:41:52Z</dc:date>
+    </item>
+    <item>
+      <title>Twig Path Resolver - Wed Jul 23 00:10:19 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27987-twig-path-resolver</link>
+      <description>Permite Ctrl + Click em setView("...") para abrir a view .html correspondente.
+
+vendor: Thierry Vinicius Lourenço de Lima
+downloads: 0
+pricingModel: FREE
+xmlId: com.thierry.twigpathresolver</description>
+      <pubDate>Wed, 23 Jul 2025 00:10:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27987-twig-path-resolver</guid>
+      <dc:date>2025-07-23T00:10:19Z</dc:date>
+    </item>
+    <item>
       <title>Maestro Assistant - Tue Jul 22 22:19:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27807-maestro-assistant</link>
       <description>Maestro plugin that enables syntax highlighting and auto-completion for Maestro UI tests. Syntax highlighting for Maestro commands Auto-completion for Maestro actions...
@@ -370,7 +396,7 @@ xmlId: io.github.vudsen.spelth</description>
       <dc:date>2025-07-16T08:21:42Z</dc:date>
     </item>
     <item>
-      <title>CloudCode Java AI Optimizer - Wed Jul 16 16:26:03 UTC 2025</title>
+      <title>CloudCode Java AI Optimizer - Tue Jul 22 21:26:31 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27925-cloudcode-java-ai-optimizer</link>
       <description>Optimize Java code using multiple AI Models.
 
@@ -378,9 +404,9 @@ vendor: Cloudnir
 downloads: 38
 pricingModel: FREE
 xmlId: com.javaoptimizerai</description>
-      <pubDate>Wed, 16 Jul 2025 16:26:03 GMT</pubDate>
+      <pubDate>Tue, 22 Jul 2025 21:26:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27925-cloudcode-java-ai-optimizer</guid>
-      <dc:date>2025-07-16T16:26:03Z</dc:date>
+      <dc:date>2025-07-22T21:26:31Z</dc:date>
     </item>
     <item>
       <title>Easy-Mql - Thu Jul 17 01:43:05 UTC 2025</title>
@@ -617,7 +643,7 @@ xmlId: com.daniilgrachev.CWI</description>
       <dc:date>2025-07-15T18:19:08Z</dc:date>
     </item>
     <item>
-      <title>CodeGPT Assistant - Sun Jul 20 04:06:14 UTC 2025</title>
+      <title>CodeGPT Assistant - Wed Jul 23 05:06:20 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27906-codegpt-assistant</link>
       <description>CodeGPT Assistant can serve as your coding assistant, allowing you to chat in the window on the right. The plugin uses AI to automatically generate commit messages...
 
@@ -625,9 +651,9 @@ vendor: CodeWhisperer
 downloads: 200
 pricingModel: FREE
 xmlId: org.code.gpt.kit</description>
-      <pubDate>Sun, 20 Jul 2025 04:06:14 GMT</pubDate>
+      <pubDate>Wed, 23 Jul 2025 05:06:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27906-codegpt-assistant</guid>
-      <dc:date>2025-07-20T04:06:14Z</dc:date>
+      <dc:date>2025-07-23T05:06:20Z</dc:date>
     </item>
     <item>
       <title>RuntimeTest - Thu Jul 17 17:41:12 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: org.find.dp.bug</description>
       <pubDate>Sat, 19 Jul 2025 10:03:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27809-deepseek-findbug</guid>
       <dc:date>2025-07-19T10:03:55Z</dc:date>
-    </item>
-    <item>
-      <title>PHP Companion - Tue Jul 22 23:50:41 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27762-php-companion</link>
-      <description>PHP Companion Intellij Plugin A PhpStorm/IntelliJ plugin that enhances PHP development workflow with advanced navigation and code analysis features, particularly...
-
-vendor: Olivier Michaud
-downloads: 144
-pricingModel: FREE
-xmlId: org.micoli.php.companion</description>
-      <pubDate>Tue, 22 Jul 2025 23:50:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27762-php-companion</guid>
-      <dc:date>2025-07-22T23:50:41Z</dc:date>
-    </item>
-    <item>
-      <title>Salary Display - Sat Jun 28 03:21:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27771-salary-display</link>
-      <description>Displays your real-time salary earned so far today.
-
-vendor: billhu
-downloads: 42
-pricingModel: FREE
-xmlId: us.billhu.salaryplugin</description>
-      <pubDate>Sat, 28 Jun 2025 03:21:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27771-salary-display</guid>
-      <dc:date>2025-06-28T03:21:26Z</dc:date>
     </item>
   </channel>
 </rss>
