@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>region-fold - Wed Jul 23 20:53:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28003-region-fold</link>
+      <description>A powerful code folding plugin for IntelliJ-based IDEs that adds support for region-based code folding with /* #region */ and /* #endregion */ syntax. Features Code...
+
+vendor: Tony Markham
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.tonymarkham.regionfoldplugin</description>
+      <pubDate>Wed, 23 Jul 2025 20:53:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28003-region-fold</guid>
+      <dc:date>2025-07-23T20:53:11Z</dc:date>
+    </item>
+    <item>
+      <title>bookmark2 - Thu Jul 24 15:51:54 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27689-bookmark2</link>
+      <description>Bookmark2 is read source code new style Home | README USING Use same branch to synchronization bookmarks Please use Bookmark2 bookmarks to record MapKey create/update...
+
+vendor: XingRenFan
+downloads: 7
+pricingModel: FREE
+xmlId: org.bookmark2</description>
+      <pubDate>Thu, 24 Jul 2025 15:51:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27689-bookmark2</guid>
+      <dc:date>2025-07-24T15:51:54Z</dc:date>
+    </item>
+    <item>
       <title>Earth Web Tool - Wed Jul 23 12:40:18 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27996-earth-web-tool</link>
       <description>Earth Web Tool:an earth-series plugin that lets you browse your bookmarked URLs right inside the IDE. Tabs for non-pinned sites are automatically released when closed...
@@ -71,6 +97,19 @@ xmlId: sk.mc.anonymizer</description>
       <dc:date>2025-07-23T20:00:04Z</dc:date>
     </item>
     <item>
+      <title>Twig Path Resolver - Thu Jul 24 00:01:06 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27987-twig-path-resolver</link>
+      <description>Enables Ctrl+Click on setView("...") to quickly open the corresponding .html view file. Compatible with PhpStorm 2022.2 and newer.
+
+vendor: Thierry Vinicius Lourenço de Lima
+downloads: 2
+pricingModel: FREE
+xmlId: com.thierry.twigpathresolver</description>
+      <pubDate>Thu, 24 Jul 2025 00:01:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27987-twig-path-resolver</guid>
+      <dc:date>2025-07-24T00:01:06Z</dc:date>
+    </item>
+    <item>
       <title>Maestro Assistant - Tue Jul 22 22:19:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27807-maestro-assistant</link>
       <description>Maestro plugin that enables syntax highlighting and auto-completion for Maestro UI tests. Syntax highlighting for Maestro commands Auto-completion for Maestro actions...
@@ -125,7 +164,7 @@ xmlId: com.github.egarcia.promptpilot</description>
     <item>
       <title>Code Collector - Tue Jul 22 21:12:47 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27972-code-collector</link>
-      <description>Gather code context for AI assistance by analyzing imports and collecting related Java/Kotlin files. Features: Smart Import Analysis: Follows import chains to collect...
+      <description>Effortlessly extract and format your Java/Kotlin codebase for AI assistants. Features Smart Code Collection: Automatically gathers Java and Kotlin source files with...
 
 vendor: don
 downloads: 38
@@ -461,7 +500,7 @@ xmlId: com.joh.easy-mql</description>
       <dc:date>2025-07-17T01:43:05Z</dc:date>
     </item>
     <item>
-      <title>Highlight Duplicate Values - Tue Jul 15 23:04:03 UTC 2025</title>
+      <title>Highlight Duplicate Values - Wed Jul 23 22:18:25 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27899-highlight-duplicate-values</link>
       <description>Support highlight duplicate property values with some setting options: Scope: Whole project (default) or Current class Highlight level: Error or Warning (default...
 
@@ -469,9 +508,9 @@ vendor: Jin Nguyen
 downloads: 27
 pricingModel: FREE
 xmlId: io.github.projecthsf.property.highlight</description>
-      <pubDate>Tue, 15 Jul 2025 23:04:03 GMT</pubDate>
+      <pubDate>Wed, 23 Jul 2025 22:18:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27899-highlight-duplicate-values</guid>
-      <dc:date>2025-07-15T23:04:03Z</dc:date>
+      <dc:date>2025-07-23T22:18:25Z</dc:date>
     </item>
     <item>
       <title>MCP Language Service Tools - Tue Jul 15 17:49:59 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: ovh.fedox.snipdox</description>
       <pubDate>Thu, 03 Jul 2025 18:54:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27823-snipdox-uploader</guid>
       <dc:date>2025-07-03T18:54:35Z</dc:date>
-    </item>
-    <item>
-      <title>Extra IDE Tweaks Lifetime - Fri Jul 11 13:23:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27808-extra-ide-tweaks-lifetime</link>
-      <description>Some utilities for IDE maintenance and tweaking, plus workarounds for a few IDE issues. See Tools &amp;gt; Extra IDE Tweaks. License types: - Extra IDE Tweaks offers...
-
-vendor: Jonathan Lermitage
-downloads: 75
-pricingModel: PAID
-xmlId: lermitage.ij.extraidetweaks.lifetime</description>
-      <pubDate>Fri, 11 Jul 2025 13:23:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27808-extra-ide-tweaks-lifetime</guid>
-      <dc:date>2025-07-11T13:23:54Z</dc:date>
-    </item>
-    <item>
-      <title>Artifactory Authenticator - Wed Jul 02 21:20:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27816-artifactory-authenticator</link>
-      <description>A plugin for authenticating plugin repositories with Artifactory.
-
-vendor: Slack LLC.
-downloads: 39
-pricingModel: FREE
-xmlId: com.slack.ide.artifactory</description>
-      <pubDate>Wed, 02 Jul 2025 21:20:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27816-artifactory-authenticator</guid>
-      <dc:date>2025-07-02T21:20:28Z</dc:date>
-    </item>
-    <item>
-      <title>AAB Tools - Thu Jul 10 01:28:45 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27766-aab-tools</link>
-      <description>A powerful tool to help manage Android App Bundles (AAB). 主要功能： • 通过 bundletool 集成将 AAB 文件转换为 APKS 格式 • 将 APKS 文件直接安装到 Android 设备 • 从 Gradle 文件自动检测签名配置 • 支持远程代码库扫描...
-
-vendor: 一粒代码
-downloads: 54
-pricingModel: FREE
-xmlId: com.android.aab.tools.aab-tools</description>
-      <pubDate>Thu, 10 Jul 2025 01:28:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27766-aab-tools</guid>
-      <dc:date>2025-07-10T01:28:45Z</dc:date>
     </item>
   </channel>
 </rss>
