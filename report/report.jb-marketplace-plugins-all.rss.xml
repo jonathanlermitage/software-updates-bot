@@ -19,19 +19,6 @@ xmlId: sk.mc.anonymizer</description>
       <dc:date>2025-07-23T20:00:04Z</dc:date>
     </item>
     <item>
-      <title>Twig Path Resolver - Wed Jul 23 00:10:19 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27987-twig-path-resolver</link>
-      <description>Enables Ctrl+Click on setView("...") to quickly open the corresponding .html view file. Compatible with PhpStorm 2022.2 and newer.
-
-vendor: Thierry Vinicius Lourenço de Lima
-downloads: 0
-pricingModel: FREE
-xmlId: com.thierry.twigpathresolver</description>
-      <pubDate>Wed, 23 Jul 2025 00:10:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27987-twig-path-resolver</guid>
-      <dc:date>2025-07-23T00:10:19Z</dc:date>
-    </item>
-    <item>
       <title>Maestro Assistant - Tue Jul 22 22:19:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27807-maestro-assistant</link>
       <description>Maestro plugin that enables syntax highlighting and auto-completion for Maestro UI tests. Syntax highlighting for Maestro commands Auto-completion for Maestro actions...
@@ -1304,6 +1291,19 @@ xmlId: org.find.dp.bug</description>
       <pubDate>Sat, 19 Jul 2025 10:03:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27809-deepseek-findbug</guid>
       <dc:date>2025-07-19T10:03:55Z</dc:date>
+    </item>
+    <item>
+      <title>PHP Companion - Tue Jul 22 23:50:41 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27762-php-companion</link>
+      <description>PHP Companion Intellij Plugin A PhpStorm/IntelliJ plugin that enhances PHP development workflow with advanced navigation and code analysis features, particularly...
+
+vendor: Olivier Michaud
+downloads: 144
+pricingModel: FREE
+xmlId: org.micoli.php.companion</description>
+      <pubDate>Tue, 22 Jul 2025 23:50:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27762-php-companion</guid>
+      <dc:date>2025-07-22T23:50:41Z</dc:date>
     </item>
   </channel>
 </rss>
