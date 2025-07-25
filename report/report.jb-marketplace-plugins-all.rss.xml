@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>EnvCLI - Sun Jul 20 15:13:03 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27953-envcli</link>
+      <description>EnvCLI is an IntelliJ-based environment bootstrapper and AI assistant that helps you configure Android &amp;amp; backend stacks, manage reusable environment templates, and...
+
+vendor: EnvCLI Team
+downloads: 0
+pricingModel: PAID
+xmlId: com.envcli.plugin</description>
+      <pubDate>Sun, 20 Jul 2025 15:13:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27953-envcli</guid>
+      <dc:date>2025-07-20T15:13:03Z</dc:date>
+    </item>
+    <item>
+      <title>Energy Efficiency Analyzer - Thu Jul 24 15:15:07 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28014-energy-efficiency-analyzer</link>
+      <description>Analyzes code energy efficiency using Ollama LLM.
+
+vendor: Code Nomads
+downloads: 0
+pricingModel: FREE
+xmlId: nl.codenomads.energyefficiencyanalyzer</description>
+      <pubDate>Thu, 24 Jul 2025 15:15:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28014-energy-efficiency-analyzer</guid>
+      <dc:date>2025-07-24T15:15:07Z</dc:date>
+    </item>
+    <item>
+      <title>Project Dashboard - Thu Jul 24 11:32:12 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27986-project-dashboard</link>
+      <description>Project Dashboard is a plugin for JetBrains IDEs designed to streamline your project workflow. It provides a convenient side panel with two main tools: an interactive...
+
+vendor: Harry Ya
+downloads: 0
+pricingModel: FREE
+xmlId: com.project.dashboard</description>
+      <pubDate>Thu, 24 Jul 2025 11:32:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27986-project-dashboard</guid>
+      <dc:date>2025-07-24T11:32:12Z</dc:date>
+    </item>
+    <item>
       <title>DeepSeek AICoder - Thu Jul 24 12:13:10 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28011-deepseek-aicoder</link>
       <description>DeepSeek AICoder is an AI-driven programming assistant plugin built upon the DeepSeek large model, aimed at enhancing the efficiency and quality of coding for...
@@ -409,7 +448,7 @@ xmlId: com.mangocat.spotcat</description>
       <dc:date>2025-07-22T03:10:48Z</dc:date>
     </item>
     <item>
-      <title>Unicode Text Cleaner - Sun Jul 20 10:34:07 UTC 2025</title>
+      <title>Unicode Text Cleaner - Thu Jul 24 08:52:23 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27929-unicode-text-cleaner</link>
       <description>Unicode Text Cleaner Detects and cleans problematic Unicode characters that can trigger AI detection systems or cause compatibility issues. Helps normalize text to use...
 
@@ -417,9 +456,9 @@ vendor: Viktor Stoitschev
 downloads: 0
 pricingModel: FREE
 xmlId: com.unicodecleaner</description>
-      <pubDate>Sun, 20 Jul 2025 10:34:07 GMT</pubDate>
+      <pubDate>Thu, 24 Jul 2025 08:52:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27929-unicode-text-cleaner</guid>
-      <dc:date>2025-07-20T10:34:07Z</dc:date>
+      <dc:date>2025-07-24T08:52:23Z</dc:date>
     </item>
     <item>
       <title>Free Colorflow Brackets - Sun Jul 20 23:01:18 UTC 2025</title>
@@ -812,7 +851,7 @@ xmlId: org.code.gpt.kit</description>
       <dc:date>2025-07-23T05:06:20Z</dc:date>
     </item>
     <item>
-      <title>RuntimeTest - Thu Jul 17 17:41:12 UTC 2025</title>
+      <title>RuntimeTest - Fri Jul 25 17:14:15 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27908-runtimetest</link>
       <description>Execute Java methods at runtime (including both instance and static methods). Supports retrieving beans from the Spring container. If no bean is found, the object will...
 
@@ -820,9 +859,9 @@ vendor: wwsbdy
 downloads: 0
 pricingModel: FREE
 xmlId: com.zj.runtime-test-ui</description>
-      <pubDate>Thu, 17 Jul 2025 17:41:12 GMT</pubDate>
+      <pubDate>Fri, 25 Jul 2025 17:14:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27908-runtimetest</guid>
-      <dc:date>2025-07-17T17:41:12Z</dc:date>
+      <dc:date>2025-07-25T17:14:15Z</dc:date>
     </item>
     <item>
       <title>Git User Switch - Thu Jul 17 01:42:38 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: com.ykoellmann.ctexecutor.ctexecutor</description>
       <pubDate>Fri, 11 Jul 2025 11:34:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27835-ctexecutor</guid>
       <dc:date>2025-07-11T11:34:05Z</dc:date>
-    </item>
-    <item>
-      <title>Polycode - Fri Jul 04 12:51:58 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27827-polycode</link>
-      <description>This plugin, Polycode, is designed to significantly enhance navigation within polyglot GoLand projects. It provides seamless and intuitive ways to explore codebases...
-
-vendor: Danushka Herath
-downloads: 14
-pricingModel: FREE
-xmlId: cloud.polycode.plugins.next-coder</description>
-      <pubDate>Fri, 04 Jul 2025 12:51:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27827-polycode</guid>
-      <dc:date>2025-07-04T12:51:58Z</dc:date>
-    </item>
-    <item>
-      <title>rust-analyzer LSP - Mon Jul 07 05:16:44 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27847-rust-analyzer-lsp</link>
-      <description>A plugin for JetBrains IntelliJ IDE providing a rust-analyzer LSP. This plugin is currently a PoC-only, and was initially created to explore IntelliJ's LSP support. It...
-
-vendor: Chris Carini
-downloads: 26
-pricingModel: FREE
-xmlId: com.chriscarini.jetbrains.rust-analyzer-lsp-intellij-plugin</description>
-      <pubDate>Mon, 07 Jul 2025 05:16:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27847-rust-analyzer-lsp</guid>
-      <dc:date>2025-07-07T05:16:44Z</dc:date>
-    </item>
-    <item>
-      <title>GitHub Actions Run Highlighter - Sun Jul 06 14:39:32 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27841-github-actions-run-highlighter</link>
-      <description>Adds proper syntax highlighting for run: steps in GitHub Actions workflows. Supports shell scripts (bash, sh, pwsh, etc.).
-
-vendor: Ruslan Sibgatullin
-downloads: 33
-pricingModel: FREE
-xmlId: com.gha-workflow-plugins.run-syntax-support</description>
-      <pubDate>Sun, 06 Jul 2025 14:39:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27841-github-actions-run-highlighter</guid>
-      <dc:date>2025-07-06T14:39:32Z</dc:date>
     </item>
   </channel>
 </rss>

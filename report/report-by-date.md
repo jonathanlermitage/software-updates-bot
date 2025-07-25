@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.4.1 (251.27812.49) ~ 2025-07-25|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Jul 25 20:02:49 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.0.5 to 19.1.0 ~ 2025-07-24|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jul 24 16:03:08 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jul 24 12:03:51 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.1.3 (251.26927.53) ~ 2025-06-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jul 24 00:06:54 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 24 00:06:45 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 24 00:06:40 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Jul 23 00:06:37 UTC 2025|
