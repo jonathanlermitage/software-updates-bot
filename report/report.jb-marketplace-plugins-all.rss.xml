@@ -331,19 +331,6 @@ xmlId: top.netools.phpcm</description>
       <dc:date>2025-07-23T09:10:11Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek AI Review - Sat Jul 19 11:47:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27951-deepseek-ai-review</link>
-      <description>DeepSeek AI Review leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
-
-vendor: ZenCode
-downloads: 26
-pricingModel: FREE
-xmlId: com.my.dp.review</description>
-      <pubDate>Sat, 19 Jul 2025 11:47:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27951-deepseek-ai-review</guid>
-      <dc:date>2025-07-19T11:47:28Z</dc:date>
-    </item>
-    <item>
       <title>Herb - Sat Jul 19 19:53:55 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27954-herb</link>
       <description>This plugin is a simple wrapper around Herb LSP by Marco Roth. Herb is an ecosystem of developer tooling built specifically around HTML+ERB (.html.erb) files. It is...
@@ -565,7 +552,7 @@ xmlId: com.ringlesoft.visualenv</description>
       <dc:date>2025-07-18T10:21:19Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek BugFix - Fri Jul 18 10:03:28 UTC 2025</title>
+      <title>DeepSeek BugFix - Sat Jul 26 10:07:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27834-deepseek-bugfix</link>
       <description>DeepSeek BugFix is an AI-driven programming assistant plugin built upon the DeepSeek large model, aimed at enhancing the efficiency and quality of coding for...
 
@@ -573,9 +560,9 @@ vendor: ZenCode
 downloads: 52
 pricingModel: FREE
 xmlId: com.fix.bug.find</description>
-      <pubDate>Fri, 18 Jul 2025 10:03:28 GMT</pubDate>
+      <pubDate>Sat, 26 Jul 2025 10:07:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27834-deepseek-bugfix</guid>
-      <dc:date>2025-07-18T10:03:28Z</dc:date>
+      <dc:date>2025-07-26T10:07:26Z</dc:date>
     </item>
     <item>
       <title>SpEL Type Helper - Wed Jul 16 08:21:42 UTC 2025</title>
@@ -838,7 +825,7 @@ xmlId: com.daniilgrachev.CWI</description>
       <dc:date>2025-07-15T18:19:08Z</dc:date>
     </item>
     <item>
-      <title>CodeGPT Assistant - Wed Jul 23 05:06:20 UTC 2025</title>
+      <title>CodeGPT Assistant - Sat Jul 26 11:04:08 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27906-codegpt-assistant</link>
       <description>CodeGPT Assistant can serve as your coding assistant, allowing you to chat in the window on the right. The plugin uses AI to automatically generate commit messages...
 
@@ -846,9 +833,9 @@ vendor: CodeWhisperer
 downloads: 291
 pricingModel: FREE
 xmlId: org.code.gpt.kit</description>
-      <pubDate>Wed, 23 Jul 2025 05:06:20 GMT</pubDate>
+      <pubDate>Sat, 26 Jul 2025 11:04:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27906-codegpt-assistant</guid>
-      <dc:date>2025-07-23T05:06:20Z</dc:date>
+      <dc:date>2025-07-26T11:04:08Z</dc:date>
     </item>
     <item>
       <title>RuntimeTest - Fri Jul 25 17:14:15 UTC 2025</title>
@@ -1304,6 +1291,19 @@ xmlId: com.ykoellmann.ctexecutor.ctexecutor</description>
       <pubDate>Fri, 11 Jul 2025 11:34:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27835-ctexecutor</guid>
       <dc:date>2025-07-11T11:34:05Z</dc:date>
+    </item>
+    <item>
+      <title>Polycode - Fri Jul 04 12:51:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27827-polycode</link>
+      <description>This plugin, Polycode, is designed to significantly enhance navigation within polyglot GoLand projects. It provides seamless and intuitive ways to explore codebases...
+
+vendor: Danushka Herath
+downloads: 15
+pricingModel: FREE
+xmlId: cloud.polycode.plugins.next-coder</description>
+      <pubDate>Fri, 04 Jul 2025 12:51:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27827-polycode</guid>
+      <dc:date>2025-07-04T12:51:58Z</dc:date>
     </item>
   </channel>
 </rss>
