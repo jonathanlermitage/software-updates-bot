@@ -12,7 +12,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Jul 23 00:06:37 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 24 00:06:45 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Apr 17 20:02:40 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u452-b09|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Apr 20 16:02:33 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Jul 27 00:07:28 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 16:02:37 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.24.5|[golang.org](https://golang.org/dl/)|Tue Jul 08 20:02:50 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|8.14.3|[gradle.org](https://gradle.org/releases/)|Fri Jul 04 20:02:59 UTC 2025|
