@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MongoDB - Mon Jul 28 10:51:06 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/24377-mongodb</link>
+      <description>MongoDB Plugin for IntelliJ The MongoDB Plugin for IntelliJ provides seamless integration with MongoDB deployments, whether they are local, containerized, or hosted on...
+
+vendor: MongoDB Inc
+downloads: 1001
+pricingModel: FREE
+xmlId: com.mongodb.jbplugin</description>
+      <pubDate>Mon, 28 Jul 2025 10:51:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/24377-mongodb</guid>
+      <dc:date>2025-07-28T10:51:06Z</dc:date>
+    </item>
+    <item>
+      <title>ElasticPath Developer Tools - Fri Jul 25 05:41:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27989-elasticpath-developer-tools</link>
+      <description>ElasticPath Developer Tools is a powerful IntelliJ IDEA plugin specifically designed for ElasticPath Commerce developers to dramatically reduce development time and...
+
+vendor: Dineshkumar R
+downloads: 2
+pricingModel: FREE
+xmlId: com.lunchdroid.epdevtools</description>
+      <pubDate>Fri, 25 Jul 2025 05:41:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27989-elasticpath-developer-tools</guid>
+      <dc:date>2025-07-25T05:41:50Z</dc:date>
+    </item>
+    <item>
       <title>Database Projects - Tue Jul 01 13:07:27 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27806-database-projects</link>
       <description>The plugin adds support for SQL Server database projects (.sqlproj) in JetBrains Rider. Features: Support for Microsoft.Build.Sql SDK-style projectsProject templates...
@@ -97,7 +123,7 @@ xmlId: dev.eastgate.i18n-translate-web</description>
       <dc:date>2025-07-25T11:00:59Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek CodeBugs - Thu Jul 24 11:53:49 UTC 2025</title>
+      <title>DeepSeek CodeBugs - Mon Jul 28 10:04:31 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28010-deepseek-codebugs</link>
       <description>DeepSeek CodeBugs is an AI-driven programming assistant plugin built upon the DeepSeek large model, aimed at enhancing the efficiency and quality of coding for...
 
@@ -105,9 +131,9 @@ vendor: CodeWhisperer
 downloads: 11
 pricingModel: FREE
 xmlId: com.bug.code.tool</description>
-      <pubDate>Thu, 24 Jul 2025 11:53:49 GMT</pubDate>
+      <pubDate>Mon, 28 Jul 2025 10:04:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28010-deepseek-codebugs</guid>
-      <dc:date>2025-07-24T11:53:49Z</dc:date>
+      <dc:date>2025-07-28T10:04:31Z</dc:date>
     </item>
     <item>
       <title>Trace Recorder - Fri Jul 25 12:40:48 UTC 2025</title>
@@ -1072,7 +1098,7 @@ xmlId: me.seungjun.colorfuldelimiter</description>
       <dc:date>2025-07-10T12:00:32Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Code Assistant - Thu Jul 24 12:03:25 UTC 2025</title>
+      <title>DeepSeek Code Assistant - Mon Jul 28 10:40:31 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27870-deepseek-code-assistant</link>
       <description>This plugin is your coding assistant, offering help via the chat window on the right. It uses DeepSeek to auto-generate clear commit messages from your code changes...
 
@@ -1080,9 +1106,9 @@ vendor: JetDev
 downloads: 671
 pricingModel: FREE
 xmlId: com.coder.my.ship</description>
-      <pubDate>Thu, 24 Jul 2025 12:03:25 GMT</pubDate>
+      <pubDate>Mon, 28 Jul 2025 10:40:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27870-deepseek-code-assistant</guid>
-      <dc:date>2025-07-24T12:03:25Z</dc:date>
+      <dc:date>2025-07-28T10:40:31Z</dc:date>
     </item>
     <item>
       <title>Flutter Clean Arch Feature - Tue Jul 08 09:38:05 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: all.icons.pack.all-icons-pack</description>
       <pubDate>Tue, 22 Jul 2025 06:09:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27843-all-icons-pack</guid>
       <dc:date>2025-07-22T06:09:48Z</dc:date>
-    </item>
-    <item>
-      <title>PHP Opcodes Language - Sat Jul 05 10:07:32 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27833-php-opcodes-language</link>
-      <description>GitHub | Telegram | Donation PHP Opcodes Language support Features: syntax highlightingblock foldingvariable referencesopcodes documentation (soon)rules inspections...
-
-vendor: xepozz
-downloads: 34
-pricingModel: FREE
-xmlId: com.github.xepozz.php_opcodes_language</description>
-      <pubDate>Sat, 05 Jul 2025 10:07:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27833-php-opcodes-language</guid>
-      <dc:date>2025-07-05T10:07:32Z</dc:date>
-    </item>
-    <item>
-      <title>cteXecutor - Fri Jul 11 11:34:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27835-ctexecutor</link>
-      <description>Execute and manage Common Table Expressions (CTEs) easily in DataGrip and IntelliJ-based IDEs. Highlights CTEs and allows selective execution of composed queries...
-
-vendor: Yannik Köllmann
-downloads: 101
-pricingModel: FREE
-xmlId: com.ykoellmann.ctexecutor.ctexecutor</description>
-      <pubDate>Fri, 11 Jul 2025 11:34:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27835-ctexecutor</guid>
-      <dc:date>2025-07-11T11:34:05Z</dc:date>
     </item>
   </channel>
 </rss>
