@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>DeepSeek BugSight - Tue Jul 29 05:56:00 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28041-deepseek-bugsight</link>
+      <description>DeepSeek BugSight is an AI-driven programming assistant plugin built upon the DeepSeek large model, aimed at enhancing the efficiency and quality of coding for...
+
+vendor: Infinitron
+downloads: 0
+pricingModel: FREE
+xmlId: org.bug.tool.sight</description>
+      <pubDate>Tue, 29 Jul 2025 05:56:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28041-deepseek-bugsight</guid>
+      <dc:date>2025-07-29T05:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>DeprecatedControllerRemover - Fri Jul 25 14:51:45 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28007-deprecatedcontrollerremover</link>
+      <description>Controller Cleanup is an IntelliJ plugin that intelligently analyzes your Java/Spring codebase to identify and safely remove deprecated controller methods and unused...
+
+vendor: Wheelseye Technology
+downloads: 0
+pricingModel: FREE
+xmlId: com.wheelseye.controllercleanup</description>
+      <pubDate>Fri, 25 Jul 2025 14:51:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28007-deprecatedcontrollerremover</guid>
+      <dc:date>2025-07-25T14:51:45Z</dc:date>
+    </item>
+    <item>
       <title>LDLib Dev Tool - Tue Jul 29 13:42:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28032-ldlib-dev-tool</link>
       <description>This Plugin is used to enhance mod development with LDLib. It supports annotations from LDLib.
@@ -1020,7 +1046,7 @@ xmlId: Bookmark-Shijinze</description>
       <dc:date>2025-07-15T01:17:34Z</dc:date>
     </item>
     <item>
-      <title>i18n Translate Pro: JVM - Sat Jul 19 15:36:32 UTC 2025</title>
+      <title>i18n Translate Pro: JVM - Mon Jul 28 03:34:29 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27856-i18n-translate-pro-jvm</link>
       <description>Automatically translate message resource files to multiple languages using LLM integration with comprehensive Java locale support. &#x1f4fa; Video Tutorial: Watch our...
 
@@ -1028,9 +1054,9 @@ vendor: Eastgate Development
 downloads: 55
 pricingModel: PAID
 xmlId: dev.eastgate.i18n-translate-jvm</description>
-      <pubDate>Sat, 19 Jul 2025 15:36:32 GMT</pubDate>
+      <pubDate>Mon, 28 Jul 2025 03:34:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27856-i18n-translate-pro-jvm</guid>
-      <dc:date>2025-07-19T15:36:32Z</dc:date>
+      <dc:date>2025-07-28T03:34:29Z</dc:date>
     </item>
     <item>
       <title>Prisma Graph Visualizer - Fri Jul 11 07:04:44 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: com.starsqls.formatter</description>
       <pubDate>Wed, 16 Jul 2025 00:44:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27846-starsqls</guid>
       <dc:date>2025-07-16T00:44:28Z</dc:date>
-    </item>
-    <item>
-      <title>Spring CRUD API Generator - Fri Jul 04 17:43:40 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27828-spring-crud-api-generator</link>
-      <description>This plugin automatically generates a complete CRUD API from a JPA entity. It simplifies the development process by creating all necessary components for your Spring...
-
-vendor: Enokdev
-downloads: 69
-pricingModel: FREE
-xmlId: com.github.tky0065.apigenerator</description>
-      <pubDate>Fri, 04 Jul 2025 17:43:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27828-spring-crud-api-generator</guid>
-      <dc:date>2025-07-04T17:43:40Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot Code Generator - Sun Jul 27 17:59:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27836-spring-boot-code-generator</link>
-      <description>Accelerate Your Spring Boot Development This plugin automatically generates complete Spring Boot application structure from JPA entities or database schemas. It...
-
-vendor: Enokdev
-downloads: 223
-pricingModel: FREE
-xmlId: com.enokdev.spring-api-generator</description>
-      <pubDate>Sun, 27 Jul 2025 17:59:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27836-spring-boot-code-generator</guid>
-      <dc:date>2025-07-27T17:59:26Z</dc:date>
     </item>
   </channel>
 </rss>
