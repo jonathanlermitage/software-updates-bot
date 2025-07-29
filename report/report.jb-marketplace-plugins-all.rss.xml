@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LDLib Dev Tool - Tue Jul 29 13:42:04 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28032-ldlib-dev-tool</link>
+      <description>This Plugin is used to enhance mod development with LDLib. It supports annotations from LDLib.
+
+vendor: KilaBash
+downloads: 0
+pricingModel: FREE
+xmlId: com.lowdragmc.ldlibdevplugin</description>
+      <pubDate>Tue, 29 Jul 2025 13:42:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28032-ldlib-dev-tool</guid>
+      <dc:date>2025-07-29T13:42:04Z</dc:date>
+    </item>
+    <item>
       <title>i18nHelper-AI - Mon Jul 21 01:51:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27931-i18nhelper-ai</link>
       <description>AI Multilingual String Translator is a translation plugin for Android projects. It reads the default strings.xml file and uses AI to automatically translate and update...
@@ -890,7 +903,7 @@ xmlId: org.code.gpt.kit</description>
       <dc:date>2025-07-26T11:04:08Z</dc:date>
     </item>
     <item>
-      <title>RuntimeTest - Fri Jul 25 17:14:15 UTC 2025</title>
+      <title>RuntimeTest - Tue Jul 29 12:33:42 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27908-runtimetest</link>
       <description>Execute Java methods at runtime (including both instance and static methods). Supports retrieving beans from the Spring container. If no bean is found, the object will...
 
@@ -898,9 +911,9 @@ vendor: wwsbdy
 downloads: 141
 pricingModel: FREE
 xmlId: com.zj.runtime-test-ui</description>
-      <pubDate>Fri, 25 Jul 2025 17:14:15 GMT</pubDate>
+      <pubDate>Tue, 29 Jul 2025 12:33:42 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27908-runtimetest</guid>
-      <dc:date>2025-07-25T17:14:15Z</dc:date>
+      <dc:date>2025-07-29T12:33:42Z</dc:date>
     </item>
     <item>
       <title>Git User Switch - Thu Jul 17 01:42:38 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: com.enokdev.spring-api-generator</description>
       <pubDate>Sun, 27 Jul 2025 17:59:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27836-spring-boot-code-generator</guid>
       <dc:date>2025-07-27T17:59:26Z</dc:date>
-    </item>
-    <item>
-      <title>DASM Development - Mon Jul 07 02:52:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27845-dasm-development</link>
-      <description>Auto-completion and inspections for DASM.
-
-vendor: Tom Martin
-downloads: 8
-pricingModel: FREE
-xmlId: io.github.notstirred.dasm.plugin</description>
-      <pubDate>Mon, 07 Jul 2025 02:52:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27845-dasm-development</guid>
-      <dc:date>2025-07-07T02:52:51Z</dc:date>
     </item>
   </channel>
 </rss>
