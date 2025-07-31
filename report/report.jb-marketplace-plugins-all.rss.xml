@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Svelte Templates - Wed Jul 30 23:33:05 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28046-svelte-templates</link>
+      <description>Provides essential Live Templates for Svelte 5 and SvelteKit. Svelte 5 (basic templates, more under active development) SvelteKit (coming soon) Have a look at the...
+
+vendor: ruben.sprengel
+downloads: 0
+pricingModel: FREE
+xmlId: sprengel.ruben.jetbrains-svelte-templates</description>
+      <pubDate>Wed, 30 Jul 2025 23:33:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28046-svelte-templates</guid>
+      <dc:date>2025-07-30T23:33:05Z</dc:date>
+    </item>
+    <item>
+      <title>spring-postman-request-generator - Tue Jul 29 22:00:32 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27997-spring-postman-request-generator</link>
+      <description>Generate Postman collections directly from your Spring controllers without leaving IntelliJ IDEA. This plugin adds a convenient gutter icon next to methods annotated...
+
+vendor: Ferdinand Strobel
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.ferdistro.springpostmanrequestgenerator</description>
+      <pubDate>Tue, 29 Jul 2025 22:00:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27997-spring-postman-request-generator</guid>
+      <dc:date>2025-07-29T22:00:32Z</dc:date>
+    </item>
+    <item>
       <title>Auto Collapse Generics - Wed Jul 30 06:14:34 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28027-auto-collapse-generics</link>
       <description>Automatically folds Java generic type declarations like &amp;lt;T, U&amp;gt; when Java files are opened.
@@ -1278,32 +1304,6 @@ xmlId: com.mrboostudios.MultiKeywordSearch</description>
       <pubDate>Sun, 06 Jul 2025 05:51:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27837-multi-keyword-search</guid>
       <dc:date>2025-07-06T05:51:39Z</dc:date>
-    </item>
-    <item>
-      <title>Json-Parse - Tue Jul 08 06:14:19 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27854-json-parse</link>
-      <description>This is a JSON formatting tool, the parsed JSON string can be folded and expanded, which is very convenient.
-
-vendor: xiaoer
-downloads: 165
-pricingModel: FREE
-xmlId: ink.ican.json-parse</description>
-      <pubDate>Tue, 08 Jul 2025 06:14:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27854-json-parse</guid>
-      <dc:date>2025-07-08T06:14:19Z</dc:date>
-    </item>
-    <item>
-      <title>Goverage - Mon Jul 07 13:02:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27851-goverage</link>
-      <description>Goverage is a JetBrains plugin for GoLand that shows inline test coverage percentages for each function, powered by go tool cover.
-
-vendor: Ruslan Semagin
-downloads: 17
-pricingModel: FREE
-xmlId: com.github.pixel365.goverage</description>
-      <pubDate>Mon, 07 Jul 2025 13:02:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27851-goverage</guid>
-      <dc:date>2025-07-07T13:02:39Z</dc:date>
     </item>
   </channel>
 </rss>
