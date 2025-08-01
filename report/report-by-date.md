@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|22.18.0|[nodejs.org](https://nodejs.org)|Fri Aug 01 00:07:38 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.5.0|[nodejs.org](https://nodejs.org)|Fri Aug 01 00:07:38 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|22.18.0|[nodejs.org](https://nodejs.org)|Fri Aug 01 00:07:38 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.0.0|[gradle.org](https://gradle.org/releases/)|Thu Jul 31 20:02:53 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jul 29 00:07:03 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Jul 27 00:07:28 UTC 2025|
