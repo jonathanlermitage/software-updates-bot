@@ -19,19 +19,6 @@ xmlId: com.kbelab.kbenginex</description>
       <dc:date>2025-07-30T20:30:28Z</dc:date>
     </item>
     <item>
-      <title>DeprecatedControllerRemover - Wed Jul 30 19:11:47 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28052-deprecatedcontrollerremover</link>
-      <description>Deprecated Controller Remover is an IntelliJ plugin that intelligently analyzes your Java/Spring codebase to identify and safely remove deprecated controller methods...
-
-vendor: Wheelseye Technology
-downloads: 1
-pricingModel: FREE
-xmlId: com.wheelseye.deprecatedcontrollerremover</description>
-      <pubDate>Wed, 30 Jul 2025 19:11:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28052-deprecatedcontrollerremover</guid>
-      <dc:date>2025-07-30T19:11:47Z</dc:date>
-    </item>
-    <item>
       <title>Svelte Templates - Fri Aug 01 00:16:31 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28046-svelte-templates</link>
       <description>Provides essential Live Templates for Svelte 5 and SvelteKit. Svelte 5 (sv-*) SvelteKit (svk-*) Have a look at the jetbrains-svelte-templates README to get more...
@@ -58,7 +45,7 @@ xmlId: com.github.ferdistro.springpostmanrequestgenerator</description>
       <dc:date>2025-07-29T22:00:32Z</dc:date>
     </item>
     <item>
-      <title>Auto Collapse Generics - Wed Jul 30 06:14:34 UTC 2025</title>
+      <title>Auto Collapse Generics - Fri Aug 01 12:24:49 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28027-auto-collapse-generics</link>
       <description>Automatically folds Java generic type declarations like &amp;lt;T, U&amp;gt; when Java files are opened.
 
@@ -66,9 +53,9 @@ vendor: Mihai Cazacu
 downloads: 10
 pricingModel: FREE
 xmlId: org.macrobit.auto-collapse-generics</description>
-      <pubDate>Wed, 30 Jul 2025 06:14:34 GMT</pubDate>
+      <pubDate>Fri, 01 Aug 2025 12:24:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28027-auto-collapse-generics</guid>
-      <dc:date>2025-07-30T06:14:34Z</dc:date>
+      <dc:date>2025-08-01T12:24:49Z</dc:date>
     </item>
     <item>
       <title>GenDoc - Mon Jul 28 09:57:12 UTC 2025</title>
@@ -344,17 +331,17 @@ xmlId: com.github.asmaaatya.aqimsalat</description>
       <dc:date>2025-07-25T15:56:48Z</dc:date>
     </item>
     <item>
-      <title>SQL Explainer - Wed Jul 23 08:18:08 UTC 2025</title>
+      <title>SQL Explainer - Fri Aug 01 14:42:03 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27994-sql-explainer</link>
-      <description>Live SQL Query Explainer helps developers understand SQL queries inline within IntelliJ-based IDEs. Features: Inline explanations for SELECT, JOIN, WHERE, GROUP BY...
+      <description>Live SQL Query Explainer helps developers understand SQL queries inline within IntelliJ-based IDEs. Features: Inline explanations for SQL statements including SELECT...
 
 vendor: Gauri Desai
 downloads: 16
 pricingModel: FREE
 xmlId: com.gauri.sqlqueryexplainer</description>
-      <pubDate>Wed, 23 Jul 2025 08:18:08 GMT</pubDate>
+      <pubDate>Fri, 01 Aug 2025 14:42:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27994-sql-explainer</guid>
-      <dc:date>2025-07-23T08:18:08Z</dc:date>
+      <dc:date>2025-08-01T14:42:03Z</dc:date>
     </item>
     <item>
       <title>Naiad Lens - Tue Jul 08 05:47:55 UTC 2025</title>
@@ -1228,7 +1215,7 @@ xmlId: me.seungjun.colorfuldelimiter</description>
       <dc:date>2025-07-10T12:00:32Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Code Assistant - Fri Aug 01 10:06:50 UTC 2025</title>
+      <title>DeepSeek Code Assistant - Fri Aug 01 15:01:56 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27870-deepseek-code-assistant</link>
       <description>This plugin is your coding assistant, offering help via the chat window on the right. It uses DeepSeek to auto-generate clear commit messages from your code changes...
 
@@ -1236,9 +1223,9 @@ vendor: JetDev
 downloads: 918
 pricingModel: FREE
 xmlId: com.coder.my.ship</description>
-      <pubDate>Fri, 01 Aug 2025 10:06:50 GMT</pubDate>
+      <pubDate>Fri, 01 Aug 2025 15:01:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27870-deepseek-code-assistant</guid>
-      <dc:date>2025-08-01T10:06:50Z</dc:date>
+      <dc:date>2025-08-01T15:01:56Z</dc:date>
     </item>
     <item>
       <title>Flutter Clean Arch Feature - Tue Jul 08 09:38:05 UTC 2025</title>
@@ -1304,6 +1291,19 @@ xmlId: fr.socolin.awesomeLogViewer</description>
       <pubDate>Fri, 18 Jul 2025 17:48:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27750-awesome-log-viewer</guid>
       <dc:date>2025-07-18T17:48:53Z</dc:date>
+    </item>
+    <item>
+      <title>AEM Repository Tools - Tue Jul 15 05:41:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27802-aem-repository-tools</link>
+      <description>AEM Repository Tools - ART ART plugin works with one plugin without installing external tools and quickly manages JCR content. This tool is more useful in environments...
+
+vendor: javasin
+downloads: 66
+pricingModel: PAID
+xmlId: com.javasin.art</description>
+      <pubDate>Tue, 15 Jul 2025 05:41:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27802-aem-repository-tools</guid>
+      <dc:date>2025-07-15T05:41:11Z</dc:date>
     </item>
   </channel>
 </rss>
