@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.24.6|[golang.org](https://golang.org/dl/)|Wed Aug 06 20:03:05 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2 (252.23892.409) ~ 2025-08-04|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Aug 04 20:03:07 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.5.0|[nodejs.org](https://nodejs.org)|Fri Aug 01 00:07:38 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.18.0|[nodejs.org](https://nodejs.org)|Fri Aug 01 00:07:38 UTC 2025|
@@ -20,7 +21,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jul 17 20:02:42 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 17 20:02:41 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 328 - Expert généraliste cherche Virtual Thread|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 16 16:03:05 UTC 2025|
-|![logo](../media/logo/go.png) Go|go1.24.5|[golang.org](https://golang.org/dl/)|Tue Jul 08 20:02:50 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:03:36 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.5|[www.python.org](https://www.python.org/downloads/windows/)|Thu Jun 12 12:03:50 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Jun 12 12:03:49 UTC 2025|
