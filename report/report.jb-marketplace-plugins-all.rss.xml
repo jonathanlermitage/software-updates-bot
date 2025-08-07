@@ -110,19 +110,6 @@ xmlId: com.msun.MsunEngineer</description>
       <dc:date>2025-08-06T02:10:15Z</dc:date>
     </item>
     <item>
-      <title>FlutterIntlLineMarker - Tue Aug 05 02:10:30 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28074-flutterintllinemarker</link>
-      <description>Flutter Intl Line Marker Intelligent internationalization text prompting for Flutter/Dart projects. 为 Flutter/Dart 项目提供智能的国际化文本提示功能。 主要功能： &#x1f50d; 智能识别：自动识别...
-
-vendor: zhudyblack
-downloads: 1
-pricingModel: FREE
-xmlId: com.zhudyblack.FlutterIntlLineMarker</description>
-      <pubDate>Tue, 05 Aug 2025 02:10:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28074-flutterintllinemarker</guid>
-      <dc:date>2025-08-05T02:10:30Z</dc:date>
-    </item>
-    <item>
       <title>Dart Barrel Generator - Wed Aug 06 15:44:30 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28106-dart-barrel-generator</link>
       <description>Plugin to generate barrel files in Dart and Flutter projects, simplifying the organization and import of multiple files.
@@ -266,7 +253,7 @@ xmlId: RunVSAgent</description>
       <dc:date>2025-08-04T10:06:07Z</dc:date>
     </item>
     <item>
-      <title>mtlog-analyzer - Tue Aug 05 17:48:15 UTC 2025</title>
+      <title>mtlog-analyzer - Thu Aug 07 03:05:03 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28090-mtlog-analyzer</link>
       <description>Real-time validation for mtlog message templates in Go code. Features: • Automatic template/argument validation • Three severity levels: errors, warnings, suggestions...
 
@@ -274,9 +261,9 @@ vendor: Brandon Williams
 downloads: 9
 pricingModel: FREE
 xmlId: com.mtlog.analyzer</description>
-      <pubDate>Tue, 05 Aug 2025 17:48:15 GMT</pubDate>
+      <pubDate>Thu, 07 Aug 2025 03:05:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28090-mtlog-analyzer</guid>
-      <dc:date>2025-08-05T17:48:15Z</dc:date>
+      <dc:date>2025-08-07T03:05:03Z</dc:date>
     </item>
     <item>
       <title>Structured Highlights - Sat Aug 02 09:42:39 UTC 2025</title>
@@ -1241,7 +1228,7 @@ xmlId: com.javaoptimizerai</description>
       <dc:date>2025-07-22T21:26:31Z</dc:date>
     </item>
     <item>
-      <title>Easy-Mql - Thu Jul 17 01:43:05 UTC 2025</title>
+      <title>Easy-Mql - Thu Aug 07 02:13:09 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27903-easy-mql</link>
       <description>Support code highlighting, auto completion, formatting, and other features of MQL language on the Dassault Systema platform. 支持达索 enovia平台 MQL 语言的代码高亮、自动补全、格式化等功能...
 
@@ -1249,9 +1236,9 @@ vendor: 江欧海
 downloads: 60
 pricingModel: FREE
 xmlId: com.joh.easy-mql</description>
-      <pubDate>Thu, 17 Jul 2025 01:43:05 GMT</pubDate>
+      <pubDate>Thu, 07 Aug 2025 02:13:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27903-easy-mql</guid>
-      <dc:date>2025-07-17T01:43:05Z</dc:date>
+      <dc:date>2025-08-07T02:13:09Z</dc:date>
     </item>
     <item>
       <title>Highlight Duplicate Values - Wed Jul 23 22:18:25 UTC 2025</title>
@@ -1304,6 +1291,19 @@ xmlId: com.rawbytes.recentfiles</description>
       <pubDate>Tue, 15 Jul 2025 21:20:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27918-recent-files</guid>
       <dc:date>2025-07-15T21:20:56Z</dc:date>
+    </item>
+    <item>
+      <title>Algo Debugger - Tue Jul 15 08:41:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27915-algo-debugger</link>
+      <description>The plugin aims to enhance the experience of debugging data structures and algorithms by providing a visual representation of the program's execution data.
+
+vendor: JetBrains s.r.o.
+downloads: 36
+pricingModel: FREE
+xmlId: org.jetbrains.debugger.algo</description>
+      <pubDate>Tue, 15 Jul 2025 08:41:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27915-algo-debugger</guid>
+      <dc:date>2025-07-15T08:41:49Z</dc:date>
     </item>
   </channel>
 </rss>
