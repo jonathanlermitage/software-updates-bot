@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CoreService - Sun Aug 10 10:00:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28150-coreservice</link>
+      <description>Instruments for writing code into core-service.
+
+vendor: mserygin
+downloads: 1
+pricingModel: FREE
+xmlId: CoreService</description>
+      <pubDate>Sun, 10 Aug 2025 10:00:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28150-coreservice</guid>
+      <dc:date>2025-08-10T10:00:16Z</dc:date>
+    </item>
+    <item>
+      <title>CompSci Tools - Mon Aug 11 17:06:43 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28156-compsci-tools</link>
+      <description>The extension lets you download, upload and evaluate the files required by a CompSci Tools programming labs from the environment of IntelliJ. You can also edit and run...
+
+vendor: CompSci Tools
+downloads: 2
+pricingModel: FREE
+xmlId: cstools.moodle.plugin</description>
+      <pubDate>Mon, 11 Aug 2025 17:06:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28156-compsci-tools</guid>
+      <dc:date>2025-08-11T17:06:43Z</dc:date>
+    </item>
+    <item>
+      <title>CodeGPT Code Review - Sun Aug 03 12:53:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28087-codegpt-code-review</link>
+      <description>CodeGPT Code Review leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
+
+vendor: Crystala
+downloads: 2
+pricingModel: FREE
+xmlId: com.my.code.checker</description>
+      <pubDate>Sun, 03 Aug 2025 12:53:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28087-codegpt-code-review</guid>
+      <dc:date>2025-08-03T12:53:49Z</dc:date>
+    </item>
+    <item>
+      <title>writerside-markdown-converter - Sun Aug 10 23:59:53 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28161-writerside-markdown-converter</link>
+      <description>K-Doc Converter An intelligent plugin that converts plain text or Markdown into a format optimized for JetBrains Writerside. Powered by the Google Gemini API, it...
+
+vendor: ckgod
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.ckgod.markdownconverter</description>
+      <pubDate>Sun, 10 Aug 2025 23:59:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28161-writerside-markdown-converter</guid>
+      <dc:date>2025-08-10T23:59:53Z</dc:date>
+    </item>
+    <item>
+      <title>JarLibsConsolidator - Mon Aug 11 03:33:28 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28162-jarlibsconsolidator</link>
+      <description>A one-click tool plugin for collecting and consolidating all JAR dependencies in your project. This plugin recursively scans your project directory to find all JAR...
+
+vendor: Le1a
+downloads: 0
+pricingModel: FREE
+xmlId: org.le1a.JarLibsConsolidator</description>
+      <pubDate>Mon, 11 Aug 2025 03:33:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28162-jarlibsconsolidator</guid>
+      <dc:date>2025-08-11T03:33:28Z</dc:date>
+    </item>
+    <item>
+      <title>inLocal - Thu Aug 07 22:14:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28132-inlocal</link>
+      <description>Switch to any Spring profile locally — instantly.
+
+vendor: Ram
+downloads: 0
+pricingModel: FREE
+xmlId: com.ram.inlocal</description>
+      <pubDate>Thu, 07 Aug 2025 22:14:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28132-inlocal</guid>
+      <dc:date>2025-08-07T22:14:35Z</dc:date>
+    </item>
+    <item>
       <title>Rebaser - Mon Aug 11 10:11:18 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28165-rebaser</link>
       <description>A plugin for Git-based projects to automate rebasing on a specific branch.
@@ -1111,7 +1189,7 @@ xmlId: com.github.egarcia.promptpilot</description>
       <dc:date>2025-07-21T16:33:30Z</dc:date>
     </item>
     <item>
-      <title>Code Collector - Fri Jul 25 10:29:50 UTC 2025</title>
+      <title>Code Collector - Tue Aug 12 15:59:20 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27972-code-collector</link>
       <description>Copy all your code files so you can paste them to AI assistants like ChatGPT. What it does Right-click on files → copies all your code Automatically finds related...
 
@@ -1119,9 +1197,9 @@ vendor: don
 downloads: 76
 pricingModel: FREE
 xmlId: don.codecollector</description>
-      <pubDate>Fri, 25 Jul 2025 10:29:50 GMT</pubDate>
+      <pubDate>Tue, 12 Aug 2025 15:59:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27972-code-collector</guid>
-      <dc:date>2025-07-25T10:29:50Z</dc:date>
+      <dc:date>2025-08-12T15:59:20Z</dc:date>
     </item>
     <item>
       <title>Earth Run Helper - Fri Aug 08 02:15:14 UTC 2025</title>
@@ -1226,84 +1304,6 @@ xmlId: io.dontsayboj.mako</description>
       <pubDate>Sun, 20 Jul 2025 16:37:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27961-mako-android-drawable-importer</guid>
       <dc:date>2025-07-20T16:37:23Z</dc:date>
-    </item>
-    <item>
-      <title>sunset - Sun Aug 03 16:31:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27950-sunset</link>
-      <description>Adds the functionality to change between desired themes for one of the following strategies: Solar Event: Provide a location by specifying a latitude and longitude...
-
-vendor: Matthias Hahn
-downloads: 131
-pricingModel: FREE
-xmlId: com.github.hamatthias.sunset</description>
-      <pubDate>Sun, 03 Aug 2025 16:31:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27950-sunset</guid>
-      <dc:date>2025-08-03T16:31:39Z</dc:date>
-    </item>
-    <item>
-      <title>basic-verilog-support - Fri Jul 18 19:57:14 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27945-basic-verilog-support</link>
-      <description>This plugin adds basic support for the Verilog language for Intellij IDEs. It supports syntax highlighting for keywords and basic code completion. This project was...
-
-vendor: Matthew Shapiro
-downloads: 97
-pricingModel: FREE
-xmlId: com.github.kalldrexx.jbverilogplugin</description>
-      <pubDate>Fri, 18 Jul 2025 19:57:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27945-basic-verilog-support</guid>
-      <dc:date>2025-07-18T19:57:14Z</dc:date>
-    </item>
-    <item>
-      <title>Spotcat - Tue Jul 22 03:10:48 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27948-spotcat</link>
-      <description>Spotify controller for IntelliJ IDEA. Control your music without leaving the IDE.
-
-vendor: MangoCat827
-downloads: 61
-pricingModel: FREE
-xmlId: com.mangocat.spotcat</description>
-      <pubDate>Tue, 22 Jul 2025 03:10:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27948-spotcat</guid>
-      <dc:date>2025-07-22T03:10:48Z</dc:date>
-    </item>
-    <item>
-      <title>Unicode Text Cleaner - Thu Jul 24 08:52:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27929-unicode-text-cleaner</link>
-      <description>Unicode Text Cleaner Detects and cleans problematic Unicode characters that can trigger AI detection systems or cause compatibility issues. Helps normalize text to use...
-
-vendor: Viktor Stoitschev
-downloads: 67
-pricingModel: FREE
-xmlId: com.unicodecleaner</description>
-      <pubDate>Thu, 24 Jul 2025 08:52:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27929-unicode-text-cleaner</guid>
-      <dc:date>2025-07-24T08:52:23Z</dc:date>
-    </item>
-    <item>
-      <title>Free Colorflow Brackets - Tue Aug 05 18:38:17 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27966-free-colorflow-brackets</link>
-      <description>Free Bracket Colorer A completely free alternative to Rainbow Brackets - Colors nested curly braces {} based on nesting depth. Universal Support: Works with C#, Java...
-
-vendor: Daniel Garcia
-downloads: 254
-pricingModel: FREE
-xmlId: com.danielwgarcia.FreeColorflowBrackets</description>
-      <pubDate>Tue, 05 Aug 2025 18:38:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27966-free-colorflow-brackets</guid>
-      <dc:date>2025-08-05T18:38:17Z</dc:date>
-    </item>
-    <item>
-      <title>Package Finder - Mon Jul 21 05:27:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27946-package-finder</link>
-      <description>Search packages across multiple repositories with ease. Features Maven Dependency SearchSearch dependencies in Maven Central.Explore local Maven repository.Support...
-
-vendor: drawsta
-downloads: 72
-pricingModel: FREE
-xmlId: star.intellijplugin.pkgfinder</description>
-      <pubDate>Mon, 21 Jul 2025 05:27:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27946-package-finder</guid>
-      <dc:date>2025-07-21T05:27:37Z</dc:date>
     </item>
   </channel>
 </rss>
