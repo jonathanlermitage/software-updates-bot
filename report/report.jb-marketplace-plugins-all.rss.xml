@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Typing - Wed Aug 13 01:48:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28175-typing</link>
+      <description>Time-Saving Tool: Typing Practice You can directly do typing practice in IntelliJ IDEA without opening a browser. The practice content is displayed in the tool window...
+
+vendor: qiao asteroid
+downloads: 1
+pricingModel: FREE
+xmlId: com.qiao.typing</description>
+      <pubDate>Wed, 13 Aug 2025 01:48:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28175-typing</guid>
+      <dc:date>2025-08-13T01:48:26Z</dc:date>
+    </item>
+    <item>
+      <title>Find in Selected Directory - Tue Aug 12 05:38:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28172-find-in-selected-directory</link>
+      <description>Open the "Find in Files" dialog box in the project view and switch to the selected directory by default. 功能描述 在项目视图中打开“在文件中查找”对话框，默认切换到选定的目录。 说明 快捷键：Ctrl+Shift+Alt+F...
+
+vendor: jesseHessej
+downloads: 0
+pricingModel: FREE
+xmlId: com.jesseHessej.findindir</description>
+      <pubDate>Tue, 12 Aug 2025 05:38:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28172-find-in-selected-directory</guid>
+      <dc:date>2025-08-12T05:38:58Z</dc:date>
+    </item>
+    <item>
       <title>DirEnv Pro - Sun Aug 10 23:17:00 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28160-direnv-pro</link>
       <description>Provides support for direnv tool. Features: Full integration with direnv Detect root .envrc file Detect .envrc modifications after save file: ctrl + s Load direnv file...
@@ -266,7 +292,7 @@ xmlId: at.datenwort.idea-plugins.ZoonesIdeAssistant</description>
       <dc:date>2025-08-12T08:16:45Z</dc:date>
     </item>
     <item>
-      <title>Enum-generate - Mon Aug 11 08:13:36 UTC 2025</title>
+      <title>Enum-generate - Wed Aug 13 08:00:58 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28115-enum-generate</link>
       <description>Enum Generator A plugin to generate Java enum classes from a class field's Javadoc comments. Features: Right-click on a field to generate an enum. Automatically parses...
 
@@ -274,9 +300,9 @@ vendor: weihubeats
 downloads: 11
 pricingModel: FREE
 xmlId: io.github.weihubeats.enum-generate</description>
-      <pubDate>Mon, 11 Aug 2025 08:13:36 GMT</pubDate>
+      <pubDate>Wed, 13 Aug 2025 08:00:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28115-enum-generate</guid>
-      <dc:date>2025-08-11T08:13:36Z</dc:date>
+      <dc:date>2025-08-13T08:00:58Z</dc:date>
     </item>
     <item>
       <title>Remote Sync - Sat Aug 09 14:29:05 UTC 2025</title>
@@ -1059,7 +1085,7 @@ xmlId: com.envcli.plugin</description>
       <dc:date>2025-07-30T06:05:04Z</dc:date>
     </item>
     <item>
-      <title>Energy Efficiency Analyzer - Wed Jul 30 09:50:19 UTC 2025</title>
+      <title>Energy Efficiency Analyzer - Wed Aug 13 08:55:25 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28014-energy-efficiency-analyzer</link>
       <description>Analyzes code energy efficiency using Ollama LLM.
 
@@ -1067,9 +1093,9 @@ vendor: Code Nomads
 downloads: 42
 pricingModel: FREE
 xmlId: nl.codenomads.energyefficiencyanalyzer</description>
-      <pubDate>Wed, 30 Jul 2025 09:50:19 GMT</pubDate>
+      <pubDate>Wed, 13 Aug 2025 08:55:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28014-energy-efficiency-analyzer</guid>
-      <dc:date>2025-07-30T09:50:19Z</dc:date>
+      <dc:date>2025-08-13T08:55:25Z</dc:date>
     </item>
     <item>
       <title>Project Dashboard - Sun Aug 10 13:19:34 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: com.trendyol.maestro-assistant</description>
       <pubDate>Tue, 22 Jul 2025 22:19:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27807-maestro-assistant</guid>
       <dc:date>2025-07-22T22:19:26Z</dc:date>
-    </item>
-    <item>
-      <title>Cool Request - SSH Task - Mon Jul 21 03:04:20 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27921-cool-request--ssh-task</link>
-      <description>This is a practical automation operation and maintenance tool, supporting batch file uploads and command executions. It is fully compatible with JumpServer, helping...
-
-vendor: xinlin hou
-downloads: 62
-pricingModel: FREE
-xmlId: dev.cool.task.ssh</description>
-      <pubDate>Mon, 21 Jul 2025 03:04:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27921-cool-request--ssh-task</guid>
-      <dc:date>2025-07-21T03:04:20Z</dc:date>
-    </item>
-    <item>
-      <title>LiterateIt - Mon Jul 21 20:18:08 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27975-literateit</link>
-      <description>A plugin for IntelliJ-based IDEs that transliterates selected text between Cyrillic and Latin keyboard layouts with a single shortcut. Converts "Ghbdtn" to "Привет...
-
-vendor: Иван Юшенков
-downloads: 37
-pricingModel: FREE
-xmlId: io.github.yushman.literate</description>
-      <pubDate>Mon, 21 Jul 2025 20:18:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27975-literateit</guid>
-      <dc:date>2025-07-21T20:18:08Z</dc:date>
     </item>
   </channel>
 </rss>
