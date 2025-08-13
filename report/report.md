@@ -17,7 +17,7 @@
 |![logo](../media/logo/go.png) Go|go1.25.0|[golang.org](https://golang.org/dl/)|Wed Aug 13 00:06:16 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.0.0|[gradle.org](https://gradle.org/releases/)|Thu Jul 31 20:02:53 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2 (252.23892.248) ~ 2025-07-18|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Sat Jul 19 12:03:16 UTC 2025|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2.1 (252.25557.23) ~ 2025-08-13|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Aug 13 20:03:04 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2 (252.23892.409) ~ 2025-08-04|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Aug 04 20:03:07 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.0 to 19.1.5 ~ 2025-08-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 12 16:03:06 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 328 - Expert généraliste cherche Virtual Thread|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Jul 16 16:03:05 UTC 2025|
