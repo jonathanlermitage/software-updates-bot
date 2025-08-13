@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.25.0|[golang.org](https://golang.org/dl/)|Wed Aug 13 00:06:16 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.0 to 19.1.5 ~ 2025-08-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 12 16:03:06 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.6|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 07 00:06:58 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Aug 07 00:06:57 UTC 2025|
-|![logo](../media/logo/go.png) Go|go1.24.6|[golang.org](https://golang.org/dl/)|Wed Aug 06 20:03:05 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2 (252.23892.409) ~ 2025-08-04|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Aug 04 20:03:07 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.5.0|[nodejs.org](https://nodejs.org)|Fri Aug 01 00:07:38 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.18.0|[nodejs.org](https://nodejs.org)|Fri Aug 01 00:07:38 UTC 2025|
