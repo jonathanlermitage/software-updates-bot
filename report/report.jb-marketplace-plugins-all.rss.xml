@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LazyGit Integration - Thu Aug 14 12:52:18 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28199-lazygit-integration</link>
+      <description>Since any IntelliJ IDE doesn't really support an easy way to immediately open a terminal in the 'editor' panel I've decided to create one which opens LazyGit as an...
+
+vendor: mjstudio
+downloads: 0
+pricingModel: FREE
+xmlId: happy.mjstudio.jetbrains.lazygit</description>
+      <pubDate>Thu, 14 Aug 2025 12:52:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28199-lazygit-integration</guid>
+      <dc:date>2025-08-14T12:52:18Z</dc:date>
+    </item>
+    <item>
+      <title>GitStat - Wed Aug 13 10:50:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28189-gitstat</link>
+      <description>GitStat is a powerful Git statistics tool optimized for IntelliJ IDEA 2025.2 and compatible with future versions. Core Features: • Track file changes, added/deleted...
+
+vendor: kkkdevchn
+downloads: 0
+pricingModel: FREE
+xmlId: com.gitstat</description>
+      <pubDate>Wed, 13 Aug 2025 10:50:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28189-gitstat</guid>
+      <dc:date>2025-08-13T10:50:40Z</dc:date>
+    </item>
+    <item>
+      <title>Live Templates with Selection - Wed Aug 13 10:07:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28174-live-templates-with-selection</link>
+      <description>Expand $SELECTION$ in Live Templates by simply selecting the text and invoking the Template completions.
+
+vendor: Pan Honglei
+downloads: 2
+pricingModel: FREE
+xmlId: dev.ghostflyby.selectionlivetemplate</description>
+      <pubDate>Wed, 13 Aug 2025 10:07:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28174-live-templates-with-selection</guid>
+      <dc:date>2025-08-13T10:07:49Z</dc:date>
+    </item>
+    <item>
       <title>Typing - Thu Aug 14 10:00:53 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28175-typing</link>
       <description>Time-Saving Tool: Typing Practice You can directly do typing practice in IntelliJ IDEA without opening a browser. The practice content is displayed in the tool window...
@@ -84,7 +123,7 @@ xmlId: xyz.foxdevtime.FilePathCommenter</description>
       <dc:date>2025-08-09T11:26:06Z</dc:date>
     </item>
     <item>
-      <title>Kafka UI: Connect to Kafka Brokers, Produce and View Messages - Mon Aug 11 14:40:18 UTC 2025</title>
+      <title>Kafka UI: Connect to Kafka Brokers, Produce and View Messages - Thu Aug 14 07:31:49 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28167-kafka-ui-connect-to-kafka-brokers-produce-and-view-messages</link>
       <description>Kafka UI is a powerful JetBrains plugin that simplifies working with Apache Kafka directly from your IDE. Easily connect to multiple Kafka brokers, including Aiven...
 
@@ -92,9 +131,9 @@ vendor: Aiven
 downloads: 22
 pricingModel: FREE
 xmlId: com.aiven.kafkaui</description>
-      <pubDate>Mon, 11 Aug 2025 14:40:18 GMT</pubDate>
+      <pubDate>Thu, 14 Aug 2025 07:31:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28167-kafka-ui-connect-to-kafka-brokers-produce-and-view-messages</guid>
-      <dc:date>2025-08-11T14:40:18Z</dc:date>
+      <dc:date>2025-08-14T07:31:49Z</dc:date>
     </item>
     <item>
       <title>Word Memory - Thu Aug 07 06:12:44 UTC 2025</title>
@@ -279,7 +318,7 @@ xmlId: lanyun.maas.idea.plugin</description>
       <dc:date>2025-07-30T06:44:01Z</dc:date>
     </item>
     <item>
-      <title>Zoones IDE Assistant - Tue Aug 12 08:16:45 UTC 2025</title>
+      <title>Zoones IDE Assistant - Thu Aug 14 14:34:19 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28163-zoones-ide-assistant</link>
       <description>Zoones IDE Assistant Zoones IDE Assistant streamlines working across Java backends and JavaScript/TypeScript frontends and adds useful developer tooling. It helps you...
 
@@ -287,9 +326,9 @@ vendor: Mario Ivankovits
 downloads: 25
 pricingModel: FREE
 xmlId: at.datenwort.idea-plugins.ZoonesIdeAssistant</description>
-      <pubDate>Tue, 12 Aug 2025 08:16:45 GMT</pubDate>
+      <pubDate>Thu, 14 Aug 2025 14:34:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28163-zoones-ide-assistant</guid>
-      <dc:date>2025-08-12T08:16:45Z</dc:date>
+      <dc:date>2025-08-14T14:34:19Z</dc:date>
     </item>
     <item>
       <title>Enum-generate - Wed Aug 13 08:00:58 UTC 2025</title>
@@ -552,7 +591,7 @@ xmlId: com.dbfg.dart-barrel-generator</description>
       <dc:date>2025-08-06T15:44:30Z</dc:date>
     </item>
     <item>
-      <title>BAML - Wed Aug 06 05:52:07 UTC 2025</title>
+      <title>BAML - Thu Aug 14 07:18:57 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27455-baml</link>
       <description>BAML: Basically a Made-up Language Homepage | Docs | BAML AI Chat | Discord BAML is a simple prompting language for building reliable AI workflows and agents. BAML...
 
@@ -560,9 +599,9 @@ vendor: BoundaryML
 downloads: 69
 pricingModel: FREE
 xmlId: com.boundaryml.jetbrains_ext</description>
-      <pubDate>Wed, 06 Aug 2025 05:52:07 GMT</pubDate>
+      <pubDate>Thu, 14 Aug 2025 07:18:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27455-baml</guid>
-      <dc:date>2025-08-06T05:52:07Z</dc:date>
+      <dc:date>2025-08-14T07:18:57Z</dc:date>
     </item>
     <item>
       <title>Elm Language - Tue Aug 05 08:52:49 UTC 2025</title>
@@ -591,7 +630,7 @@ xmlId: com.github.frankfuenmayor.dart</description>
       <dc:date>2025-08-10T04:12:55Z</dc:date>
     </item>
     <item>
-      <title>Validate - Tue Aug 12 04:13:33 UTC 2025</title>
+      <title>Validate - Thu Aug 14 11:58:25 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28108-validate</link>
       <description>Support for itwmw/validate library in PHPStorm. Provides code completion and validation for RequestData parameters based on ValidatorAttribute configuration.
 
@@ -599,9 +638,9 @@ vendor: WeiMeng
 downloads: 22
 pricingModel: FREE
 xmlId: com.itwmw.validate</description>
-      <pubDate>Tue, 12 Aug 2025 04:13:33 GMT</pubDate>
+      <pubDate>Thu, 14 Aug 2025 11:58:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28108-validate</guid>
-      <dc:date>2025-08-12T04:13:33Z</dc:date>
+      <dc:date>2025-08-14T11:58:25Z</dc:date>
     </item>
     <item>
       <title>StarFactory - Tue Aug 05 14:36:42 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: com.NaiadAI.NaiadLens-jetbrains</description>
       <pubDate>Tue, 05 Aug 2025 03:03:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27634-naiad-lens</guid>
       <dc:date>2025-08-05T03:03:19Z</dc:date>
-    </item>
-    <item>
-      <title>Anonymizer - Fri Jul 25 08:41:32 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27977-anonymizer</link>
-      <description>The Anonymizer plugin allows developers to quickly anonymize selected code in the editor. Currently optimized for Java code. This helps obscure potentially sensitive...
-
-vendor: Matej Cisko
-downloads: 53
-pricingModel: FREE
-xmlId: sk.mc.anonymizer</description>
-      <pubDate>Fri, 25 Jul 2025 08:41:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27977-anonymizer</guid>
-      <dc:date>2025-07-25T08:41:32Z</dc:date>
-    </item>
-    <item>
-      <title>Twig Path Resolver - Thu Jul 24 00:01:06 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27987-twig-path-resolver</link>
-      <description>Enables Ctrl+Click on setView("...") to quickly open the corresponding .html view file. Compatible with PhpStorm 2022.2 and newer.
-
-vendor: Thierry Vinicius Lourenço de Lima
-downloads: 33
-pricingModel: FREE
-xmlId: com.thierry.twigpathresolver</description>
-      <pubDate>Thu, 24 Jul 2025 00:01:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27987-twig-path-resolver</guid>
-      <dc:date>2025-07-24T00:01:06Z</dc:date>
-    </item>
-    <item>
-      <title>Maestro Assistant - Tue Jul 22 22:19:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27807-maestro-assistant</link>
-      <description>Maestro plugin that enables syntax highlighting and auto-completion for Maestro UI tests. Syntax highlighting for Maestro commands Auto-completion for Maestro actions...
-
-vendor: Trendyol
-downloads: 91
-pricingModel: FREE
-xmlId: com.trendyol.maestro-assistant</description>
-      <pubDate>Tue, 22 Jul 2025 22:19:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27807-maestro-assistant</guid>
-      <dc:date>2025-07-22T22:19:26Z</dc:date>
     </item>
   </channel>
 </rss>
