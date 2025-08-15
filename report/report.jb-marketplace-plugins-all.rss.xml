@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Quick Run Toolbar - Fri Aug 15 19:56:27 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28213-quick-run-toolbar</link>
+      <description>Shows pinned Run Configurations as buttons on the main toolbar.
+
+vendor: Daniel Roque
+downloads: 0
+pricingModel: FREE
+xmlId: com.dilongdann.quickrun</description>
+      <pubDate>Fri, 15 Aug 2025 19:56:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28213-quick-run-toolbar</guid>
+      <dc:date>2025-08-15T19:56:27Z</dc:date>
+    </item>
+    <item>
+      <title>API Blueprint - Thu Aug 14 21:41:20 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28202-api-blueprint</link>
+      <description>Provides support for the API Blueprint syntax. Features: Syntax highlighting.
+
+vendor: Anbora Labs
+downloads: 0
+pricingModel: PAID
+xmlId: co.anbora.labs.apiBlueprint</description>
+      <pubDate>Thu, 14 Aug 2025 21:41:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28202-api-blueprint</guid>
+      <dc:date>2025-08-14T21:41:20Z</dc:date>
+    </item>
+    <item>
+      <title>Cursor Launcher - Thu Aug 14 20:51:13 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28207-cursor-launcher</link>
+      <description>Open the current project in the Cursor IDE directly from IntelliJ-based IDEs. Requirements Cursor IDE must be installed on your system. Features One-click action to...
+
+vendor: Adnan Khan
+downloads: 0
+pricingModel: FREE
+xmlId: com.indie.dev.cursor-launcher</description>
+      <pubDate>Thu, 14 Aug 2025 20:51:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28207-cursor-launcher</guid>
+      <dc:date>2025-08-14T20:51:13Z</dc:date>
+    </item>
+    <item>
+      <title>TR955 - Fri Aug 15 06:31:22 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28197-tr955</link>
+      <description>A productivity booster; supports configuring reading directories, number of characters per line, and shortcut keys for previous and next pages; remembers the reading...
+
+vendor: 955-955
+downloads: 0
+pricingModel: FREE
+xmlId: com.lj.txtreader</description>
+      <pubDate>Fri, 15 Aug 2025 06:31:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28197-tr955</guid>
+      <dc:date>2025-08-15T06:31:22Z</dc:date>
+    </item>
+    <item>
       <title>Baboon Support - Fri Aug 15 14:30:51 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28203-baboon-support</link>
       <description>Syntax highlighting for Baboon DML(Data Manipulation Language).
@@ -370,7 +422,7 @@ xmlId: cstools.moodle.plugin</description>
       <dc:date>2025-08-11T17:06:43Z</dc:date>
     </item>
     <item>
-      <title>CodeGPT AI Review - Sun Aug 03 12:53:49 UTC 2025</title>
+      <title>CodeGPT AI Review - Fri Aug 15 05:37:00 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28087-codegpt-ai-review</link>
       <description>CodeGPT AI Review leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
 
@@ -378,9 +430,9 @@ vendor: Crystala
 downloads: 24
 pricingModel: FREE
 xmlId: com.my.code.checker</description>
-      <pubDate>Sun, 03 Aug 2025 12:53:49 GMT</pubDate>
+      <pubDate>Fri, 15 Aug 2025 05:37:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28087-codegpt-ai-review</guid>
-      <dc:date>2025-08-03T12:53:49Z</dc:date>
+      <dc:date>2025-08-15T05:37:00Z</dc:date>
     </item>
     <item>
       <title>K-Doc Converter - Wed Aug 13 23:14:17 UTC 2025</title>
@@ -1252,58 +1304,6 @@ xmlId: com.lunchdroid.epdevtools</description>
       <pubDate>Fri, 25 Jul 2025 05:41:50 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/27989-elasticpath-developer-tools</guid>
       <dc:date>2025-07-25T05:41:50Z</dc:date>
-    </item>
-    <item>
-      <title>Database Projects - Tue Jul 01 13:07:27 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27806-database-projects</link>
-      <description>The plugin adds support for SQL Server database projects (.sqlproj) in JetBrains Rider. Features: Support for Microsoft.Build.Sql SDK-style projectsProject templates...
-
-vendor: JetBrains s.r.o.
-downloads: 2583
-pricingModel: FREE
-xmlId: com.jetbrains.sqlproj</description>
-      <pubDate>Tue, 01 Jul 2025 13:07:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27806-database-projects</guid>
-      <dc:date>2025-07-01T13:07:27Z</dc:date>
-    </item>
-    <item>
-      <title>EnvCLI - Wed Jul 30 06:05:04 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27953-envcli</link>
-      <description>EnvCLI is an IntelliJ-based environment bootstrapper and AI assistant that helps you configure Android &amp;amp; backend stacks, manage reusable environment templates, and...
-
-vendor: EnvCLI Team
-downloads: 50
-pricingModel: PAID
-xmlId: com.envcli.plugin</description>
-      <pubDate>Wed, 30 Jul 2025 06:05:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27953-envcli</guid>
-      <dc:date>2025-07-30T06:05:04Z</dc:date>
-    </item>
-    <item>
-      <title>Energy Efficiency Analyzer - Wed Aug 13 08:55:25 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28014-energy-efficiency-analyzer</link>
-      <description>Analyzes code energy efficiency using Ollama LLM.
-
-vendor: Code Nomads
-downloads: 56
-pricingModel: FREE
-xmlId: nl.codenomads.energyefficiencyanalyzer</description>
-      <pubDate>Wed, 13 Aug 2025 08:55:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28014-energy-efficiency-analyzer</guid>
-      <dc:date>2025-08-13T08:55:25Z</dc:date>
-    </item>
-    <item>
-      <title>Project Dashboard - Sun Aug 10 13:19:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27986-project-dashboard</link>
-      <description>Project Dashboard is a plugin for JetBrains IDEs designed to streamline your project workflow by providing a convenient side panel to manage tasks and resources...
-
-vendor: Harry Ya
-downloads: 193
-pricingModel: FREE
-xmlId: com.project.dashboard</description>
-      <pubDate>Sun, 10 Aug 2025 13:19:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27986-project-dashboard</guid>
-      <dc:date>2025-08-10T13:19:34Z</dc:date>
     </item>
   </channel>
 </rss>
