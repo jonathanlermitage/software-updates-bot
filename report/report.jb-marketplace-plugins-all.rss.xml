@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FileCollector Tools - Sun Aug 17 05:45:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28222-filecollector-tools</link>
+      <description>FileCollector Tools - Efficient Project File Management Collect and organize your project files effortlessly! FileCollector Tools is a powerful IntelliJ IDEA plugin...
+
+vendor: Sviatoslav Ivanov
+downloads: 0
+pricingModel: FREE
+xmlId: uk.team21.filecollect</description>
+      <pubDate>Sun, 17 Aug 2025 05:45:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28222-filecollector-tools</guid>
+      <dc:date>2025-08-17T05:45:59Z</dc:date>
+    </item>
+    <item>
+      <title>soa-helper - Sat Aug 16 11:06:57 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28220-soa-helper</link>
+      <description>1. Support the quick search for the implementation of SOA RPC methods in the project. 2. Support recording RPC jump history。.
+
+vendor: HearingSmile
+downloads: 0
+pricingModel: FREE
+xmlId: cn.bigcoder.soa.tool.soa-helper</description>
+      <pubDate>Sat, 16 Aug 2025 11:06:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28220-soa-helper</guid>
+      <dc:date>2025-08-16T11:06:57Z</dc:date>
+    </item>
+    <item>
+      <title>Enhanced Debug View - Thu Aug 14 19:13:37 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28205-enhanced-debug-view</link>
+      <description>Enhanced Debug View extends PyCharm's debugger by adding the ability to view available object methods, sorted private and protected fields, and all dunder methods and...
+
+vendor: trulander
+downloads: 0
+pricingModel: FREE
+xmlId: com.debugger.enhancedview</description>
+      <pubDate>Thu, 14 Aug 2025 19:13:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28205-enhanced-debug-view</guid>
+      <dc:date>2025-08-14T19:13:37Z</dc:date>
+    </item>
+    <item>
+      <title>PHP Array Converter - Fri Aug 15 15:05:30 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28204-php-array-converter</link>
+      <description>Adds support for mutual conversion between PHP Array and JSON. Features First, open the tool window. View &amp;gt; Tool Windows &amp;gt; PHP Array Converter Right-click menu...
+
+vendor: YUTAKA SUGAO
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.gasu-dev.php-array-converter</description>
+      <pubDate>Fri, 15 Aug 2025 15:05:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28204-php-array-converter</guid>
+      <dc:date>2025-08-15T15:05:30Z</dc:date>
+    </item>
+    <item>
+      <title>FTC Linter - Fri Aug 15 21:33:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28218-ftc-linter</link>
+      <description>Expansive inspections for FTC Java projects (IntelliJ / Android Studio).
+
+vendor: GentrifiedApps
+downloads: 1
+pricingModel: FREE
+xmlId: com.gentrifiedapps.ftc_intellij_plugin</description>
+      <pubDate>Fri, 15 Aug 2025 21:33:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28218-ftc-linter</guid>
+      <dc:date>2025-08-15T21:33:11Z</dc:date>
+    </item>
+    <item>
+      <title>Selvejj - Fri Aug 15 17:48:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28081-selvejj</link>
+      <description>A plugin to provide first-class Jujutsu VCS (jj) integration into JetBrains IDEs.
+
+vendor: Selvejj
+downloads: 1
+pricingModel: FREE
+xmlId: com.selvejj.selvejj</description>
+      <pubDate>Fri, 15 Aug 2025 17:48:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28081-selvejj</guid>
+      <dc:date>2025-08-15T17:48:48Z</dc:date>
+    </item>
+    <item>
+      <title>MSB CodeGen - Sat Aug 16 07:20:21 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28210-msb-codegen</link>
+      <description>MSB CodeGen Plugin for IntelliJ Platform MSB CodeGen is an AI coding assistant that can suggest multi-line code or full functions in real-time. Requirements MSB...
+
+vendor: MSB
+downloads: 0
+pricingModel: FREE
+xmlId: com.msb.intellij-codegen</description>
+      <pubDate>Sat, 16 Aug 2025 07:20:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28210-msb-codegen</guid>
+      <dc:date>2025-08-16T07:20:21Z</dc:date>
+    </item>
+    <item>
       <title>Enhanced HotSwap Enabler - Sat Aug 16 11:01:10 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28214-enhanced-hotswap-enabler</link>
       <description>How to use Select a JDK supporting dcevm (JetBrainsRuntime bundled with IntelliJ e.g.) for RunConfigurations. Start the RunConfiguration with debug mode. features...
@@ -1213,97 +1304,6 @@ xmlId: sprengel.ruben.jetbrains-svelte-templates</description>
       <pubDate>Mon, 11 Aug 2025 20:17:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28046-svelte-templates</guid>
       <dc:date>2025-08-11T20:17:22Z</dc:date>
-    </item>
-    <item>
-      <title>spring-postman-request-generator - Tue Jul 29 22:00:32 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27997-spring-postman-request-generator</link>
-      <description>Generate Postman collections directly from your Spring controllers without leaving IntelliJ IDEA. This plugin adds a convenient gutter icon next to methods annotated...
-
-vendor: Ferdinand Strobel
-downloads: 59
-pricingModel: FREE
-xmlId: com.github.ferdistro.springpostmanrequestgenerator</description>
-      <pubDate>Tue, 29 Jul 2025 22:00:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27997-spring-postman-request-generator</guid>
-      <dc:date>2025-07-29T22:00:32Z</dc:date>
-    </item>
-    <item>
-      <title>Auto Collapse Generics - Fri Aug 01 12:24:49 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28027-auto-collapse-generics</link>
-      <description>Automatically folds Java generic type declarations like &amp;lt;T, U&amp;gt; when Java files are opened.
-
-vendor: Mihai Cazacu
-downloads: 42
-pricingModel: FREE
-xmlId: org.macrobit.auto-collapse-generics</description>
-      <pubDate>Fri, 01 Aug 2025 12:24:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28027-auto-collapse-generics</guid>
-      <dc:date>2025-08-01T12:24:49Z</dc:date>
-    </item>
-    <item>
-      <title>GenDoc - Tue Aug 05 09:03:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27535-gendoc</link>
-      <description>Generate Excel interface documentation Select a method, choose the output directory and the file name to generate the Excel interface documentation.
-
-vendor: mya99730
-downloads: 51
-pricingModel: FREE
-xmlId: com.java.gendoc</description>
-      <pubDate>Tue, 05 Aug 2025 09:03:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27535-gendoc</guid>
-      <dc:date>2025-08-05T09:03:42Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis Smart Assistant - Sun Jul 27 06:25:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28031-mybatis-smart-assistant</link>
-      <description>MyBatis Smart Assistant - Professional MyBatis Development Enhancement Plugin MyBatis Smart Assistant - 专业的MyBatis开发增强插件 English: Provides comprehensive MyBatis...
-
-vendor: 孙 龙
-downloads: 28
-pricingModel: FREE
-xmlId: com.sunl888.mybatis.smart-assistant</description>
-      <pubDate>Sun, 27 Jul 2025 06:25:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28031-mybatis-smart-assistant</guid>
-      <dc:date>2025-07-27T06:25:23Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek BugSight - Fri Aug 15 05:34:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28041-deepseek-bugsight</link>
-      <description>DeepSeek BugSight is an AI-driven programming assistant plugin built upon the DeepSeek large model, aimed at enhancing the efficiency and quality of coding for...
-
-vendor: Infinitron
-downloads: 165
-pricingModel: FREE
-xmlId: org.bug.tool.sight</description>
-      <pubDate>Fri, 15 Aug 2025 05:34:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28041-deepseek-bugsight</guid>
-      <dc:date>2025-08-15T05:34:54Z</dc:date>
-    </item>
-    <item>
-      <title>LDLib Dev Tool - Mon Aug 11 06:58:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28032-ldlib-dev-tool</link>
-      <description>This Plugin is used to enhance mod development with LDLib. It supports annotations from LDLib.
-
-vendor: KilaBash
-downloads: 59
-pricingModel: FREE
-xmlId: com.lowdragmc.ldlibdevplugin</description>
-      <pubDate>Mon, 11 Aug 2025 06:58:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28032-ldlib-dev-tool</guid>
-      <dc:date>2025-08-11T06:58:26Z</dc:date>
-    </item>
-    <item>
-      <title>i18nHelper-AI - Mon Jul 21 01:51:04 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/27931-i18nhelper-ai</link>
-      <description>AI Multilingual String Translator is a translation plugin for Android projects. It reads the default strings.xml file and uses AI to automatically translate and update...
-
-vendor: wcly
-downloads: 41
-pricingModel: FREE
-xmlId: com.github.wcly.i18nhelperai</description>
-      <pubDate>Mon, 21 Jul 2025 01:51:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27931-i18nhelper-ai</guid>
-      <dc:date>2025-07-21T01:51:04Z</dc:date>
     </item>
   </channel>
 </rss>
