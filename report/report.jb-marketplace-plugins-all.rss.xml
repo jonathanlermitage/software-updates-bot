@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Atrocore - Tue Aug 19 10:17:47 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28159-atrocore</link>
+      <description>Advanced PhpStorm plugin providing code completion, type inference, and code generation for custom PHP framework with metadata support.
+
+vendor: Kevin Teguia
+downloads: 4
+pricingModel: FREE
+xmlId: com.atrocore.plugin</description>
+      <pubDate>Tue, 19 Aug 2025 10:17:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28159-atrocore</guid>
+      <dc:date>2025-08-19T10:17:47Z</dc:date>
+    </item>
+    <item>
+      <title>Material Theme UI Islands - Fri Aug 08 14:55:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28142-material-theme-ui-islands</link>
+      <description>Material Theme UI Islands is an external plugin for the Material Theme UI plugin, providing access to the specific features currently only available to premium users...
+
+vendor: Atom Material Themes &amp; Plugins
+downloads: 2
+pricingModel: PAID
+xmlId: org.mallowigi.idea.MaterialThemeUI.Islands</description>
+      <pubDate>Fri, 08 Aug 2025 14:55:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28142-material-theme-ui-islands</guid>
+      <dc:date>2025-08-08T14:55:36Z</dc:date>
+    </item>
+    <item>
+      <title>Material Theme UI Theme Randomizer - Fri Aug 08 14:57:03 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28143-material-theme-ui-theme-randomizer</link>
+      <description>Material Theme UI Theme Randomizer is an external plugin for the Material Theme UI plugin, providing access to the specific features currently only available to...
+
+vendor: Atom Material Themes &amp; Plugins
+downloads: 2
+pricingModel: PAID
+xmlId: org.mallowigi.idea.MaterialThemeUI.ThemeRandomizer</description>
+      <pubDate>Fri, 08 Aug 2025 14:57:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28143-material-theme-ui-theme-randomizer</guid>
+      <dc:date>2025-08-08T14:57:03Z</dc:date>
+    </item>
+    <item>
       <title>Screenshot Pro - Tue Aug 19 07:17:32 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28233-screenshot-pro</link>
       <description>Screenshot Pro — Export code to image with one click Screenshot Pro is a code-to-image plugin for the IntelliJ Platform. It renders directly from editor components and...
@@ -149,7 +188,7 @@ xmlId: com.msb.intellij-codegen</description>
       <dc:date>2025-08-16T07:20:21Z</dc:date>
     </item>
     <item>
-      <title>Enhanced Hotswap Enabler - Tue Aug 19 06:58:06 UTC 2025</title>
+      <title>Enhanced Hotswap Enabler - Tue Aug 19 11:33:03 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28214-enhanced-hotswap-enabler</link>
       <description>How to use Select a JDK supporting dcevm (JetBrainsRuntime bundled with IntelliJ e.g.) for RunConfigurations. Start the RunConfiguration with debug mode. features...
 
@@ -157,9 +196,9 @@ vendor: Pan Honglei
 downloads: 17
 pricingModel: FREE
 xmlId: dev.ghostflyby.dcevm</description>
-      <pubDate>Tue, 19 Aug 2025 06:58:06 GMT</pubDate>
+      <pubDate>Tue, 19 Aug 2025 11:33:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28214-enhanced-hotswap-enabler</guid>
-      <dc:date>2025-08-19T06:58:06Z</dc:date>
+      <dc:date>2025-08-19T11:33:03Z</dc:date>
     </item>
     <item>
       <title>Git Modified Files - Fri Aug 15 16:14:31 UTC 2025</title>
@@ -357,7 +396,7 @@ xmlId: com.mytool.ai.code</description>
       <dc:date>2025-08-17T04:03:19Z</dc:date>
     </item>
     <item>
-      <title>dotenvx - Sat Aug 16 15:37:40 UTC 2025</title>
+      <title>dotenvx - Tue Aug 19 14:41:07 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28148-dotenvx</link>
       <description>Dotenvx is a JetBrains plugin that provides inlay hints for encrypted variables in .env files by Dotenvx. With this plugin, and decrypted values will be displayed as...
 
@@ -365,9 +404,9 @@ vendor: linux_china
 downloads: 108
 pricingModel: FREE
 xmlId: dotenvx</description>
-      <pubDate>Sat, 16 Aug 2025 15:37:40 GMT</pubDate>
+      <pubDate>Tue, 19 Aug 2025 14:41:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28148-dotenvx</guid>
-      <dc:date>2025-08-16T15:37:40Z</dc:date>
+      <dc:date>2025-08-19T14:41:07Z</dc:date>
     </item>
     <item>
       <title>EduPy-Debugger - Thu Aug 14 10:30:17 UTC 2025</title>
@@ -500,7 +539,7 @@ xmlId: xyz.foxdevtime.FilePathCommenter</description>
       <dc:date>2025-08-09T11:26:06Z</dc:date>
     </item>
     <item>
-      <title>Kafka UI: Connect to Kafka Brokers, Produce and View Messages - Thu Aug 14 07:31:49 UTC 2025</title>
+      <title>Kafka UI: Connect to Kafka Brokers, Produce and View Messages - Tue Aug 19 13:40:39 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28167-kafka-ui-connect-to-kafka-brokers-produce-and-view-messages</link>
       <description>Kafka UI is a powerful JetBrains plugin that simplifies working with Apache Kafka directly from your IDE. Easily connect to multiple Kafka brokers, including Aiven...
 
@@ -508,9 +547,9 @@ vendor: Aiven
 downloads: 82
 pricingModel: FREE
 xmlId: com.aiven.kafkaui</description>
-      <pubDate>Thu, 14 Aug 2025 07:31:49 GMT</pubDate>
+      <pubDate>Tue, 19 Aug 2025 13:40:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28167-kafka-ui-connect-to-kafka-brokers-produce-and-view-messages</guid>
-      <dc:date>2025-08-14T07:31:49Z</dc:date>
+      <dc:date>2025-08-19T13:40:39Z</dc:date>
     </item>
     <item>
       <title>Word Memory - Thu Aug 07 06:12:44 UTC 2025</title>
@@ -1241,7 +1280,7 @@ xmlId: io.whitespots.appsecplugin</description>
       <dc:date>2025-08-06T14:23:02Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek AI Review - Sat Aug 16 09:35:16 UTC 2025</title>
+      <title>DeepSeek AI Review - Tue Aug 19 14:32:46 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28024-deepseek-ai-review</link>
       <description>DeepSeek AI Review leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
 
@@ -1249,9 +1288,9 @@ vendor: ZenCode
 downloads: 507
 pricingModel: FREE
 xmlId: com.my.dp.review</description>
-      <pubDate>Sat, 16 Aug 2025 09:35:16 GMT</pubDate>
+      <pubDate>Tue, 19 Aug 2025 14:32:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28024-deepseek-ai-review</guid>
-      <dc:date>2025-08-16T09:35:16Z</dc:date>
+      <dc:date>2025-08-19T14:32:46Z</dc:date>
     </item>
     <item>
       <title>FakeTyping - Mon Aug 04 03:18:08 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: com.futao.fakeTyping</description>
       <pubDate>Mon, 04 Aug 2025 03:18:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28066-faketyping</guid>
       <dc:date>2025-08-04T03:18:08Z</dc:date>
-    </item>
-    <item>
-      <title>Tombi - Fri Jul 25 00:55:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28017-tombi</link>
-      <description>Tombi is a feature-rich language server for TOML. Usage You must have Tombi installed to use this plugin. See Tombi's documentation for more information. Once Tombi is...
-
-vendor: tombi-toml
-downloads: 35
-pricingModel: FREE
-xmlId: tombi</description>
-      <pubDate>Fri, 25 Jul 2025 00:55:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28017-tombi</guid>
-      <dc:date>2025-07-25T00:55:34Z</dc:date>
-    </item>
-    <item>
-      <title>GitWhisper - Thu Jul 31 10:14:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28057-gitwhisper</link>
-      <description>GitWhisper is an IntelliJ IDEA plugin that generates meaningful, conventional commit messages using AI. It supports multiple AI providers (OpenAI, Claude, Gemini...
-
-vendor: Panashe Mushinyi
-downloads: 47
-pricingModel: FREE
-xmlId: com.emacliam.gitwhisper</description>
-      <pubDate>Thu, 31 Jul 2025 10:14:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28057-gitwhisper</guid>
-      <dc:date>2025-07-31T10:14:36Z</dc:date>
-    </item>
-    <item>
-      <title>Rzork CLI Assistant - Fri Aug 01 06:54:47 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28064-rzork-cli-assistant</link>
-      <description>Rzork CLI Assistant - AI-Powered Development Tool The ultimate AI-powered development assistant for IntelliJ IDEA, featuring blazing-fast performance and intelligent...
-
-vendor: Tanishq Chaturvedi
-downloads: 26
-pricingModel: FREE
-xmlId: com.rzork.cli</description>
-      <pubDate>Fri, 01 Aug 2025 06:54:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28064-rzork-cli-assistant</guid>
-      <dc:date>2025-08-01T06:54:47Z</dc:date>
     </item>
   </channel>
 </rss>
