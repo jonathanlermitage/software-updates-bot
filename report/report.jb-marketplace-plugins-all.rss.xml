@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Todo Calendar - Wed Aug 20 10:12:47 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28227-todo-calendar</link>
+      <description>Todo Calendar - Advanced Task Management for IntelliJ IDEA Todo Calendar is a comprehensive task management plugin that integrates seamlessly with IntelliJ IDEA to...
+
+vendor: 이병석
+downloads: 2
+pricingModel: FREE
+xmlId: com.benson.todo-calendar</description>
+      <pubDate>Wed, 20 Aug 2025 10:12:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28227-todo-calendar</guid>
+      <dc:date>2025-08-20T10:12:47Z</dc:date>
+    </item>
+    <item>
+      <title>YourDailyCode - Wed Aug 20 08:33:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28225-yourdailycode</link>
+      <description>YourDailyCode helps you track and manage your coding statistics directly inside IntelliJ IDEA. Tracks lines of code added/removed Monitors time spent coding Shows...
+
+vendor: Hoàng Đình Hiếu
+downloads: 1
+pricingModel: FREE
+xmlId: com.plug.YourCodePlugin</description>
+      <pubDate>Wed, 20 Aug 2025 08:33:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28225-yourdailycode</guid>
+      <dc:date>2025-08-20T08:33:36Z</dc:date>
+    </item>
+    <item>
       <title>CMake Mux - Tue Aug 19 21:01:21 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28231-cmake-mux</link>
       <description>This plugin enables quick CMake project switching in CLion via:Project tool window context action for any CMakeLists.txt, “Pin to CMake Mux”New CMake mux panel to...
@@ -201,7 +227,7 @@ xmlId: com.msb.intellij-codegen</description>
       <dc:date>2025-08-16T07:20:21Z</dc:date>
     </item>
     <item>
-      <title>Enhanced Hotswap Enabler - Wed Aug 20 05:47:45 UTC 2025</title>
+      <title>Enhanced Hotswap Enabler - Wed Aug 20 11:47:34 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28214-enhanced-hotswap-enabler</link>
       <description>How to use Select a JDK supporting dcevm (JetBrainsRuntime bundled with IntelliJ e.g.) for RunConfigurations. Start the RunConfiguration with debug mode. features...
 
@@ -209,9 +235,9 @@ vendor: Pan Honglei
 downloads: 27
 pricingModel: FREE
 xmlId: dev.ghostflyby.dcevm</description>
-      <pubDate>Wed, 20 Aug 2025 05:47:45 GMT</pubDate>
+      <pubDate>Wed, 20 Aug 2025 11:47:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28214-enhanced-hotswap-enabler</guid>
-      <dc:date>2025-08-20T05:47:45Z</dc:date>
+      <dc:date>2025-08-20T11:47:34Z</dc:date>
     </item>
     <item>
       <title>Git Modified Files - Fri Aug 15 16:14:31 UTC 2025</title>
@@ -1059,7 +1085,7 @@ xmlId: com.github.frankfuenmayor.dart</description>
       <dc:date>2025-08-10T04:12:55Z</dc:date>
     </item>
     <item>
-      <title>Validate - Mon Aug 18 10:22:03 UTC 2025</title>
+      <title>Validate - Wed Aug 20 15:41:58 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28108-validate</link>
       <description>Support for itwmw/validate library. Library Code | Documentation Features: Support for RequestData field type inference、completion Code completion for rules and rule...
 
@@ -1067,9 +1093,9 @@ vendor: WeiMeng
 downloads: 48
 pricingModel: FREE
 xmlId: com.itwmw.validate</description>
-      <pubDate>Mon, 18 Aug 2025 10:22:03 GMT</pubDate>
+      <pubDate>Wed, 20 Aug 2025 15:41:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28108-validate</guid>
-      <dc:date>2025-08-18T10:22:03Z</dc:date>
+      <dc:date>2025-08-20T15:41:58Z</dc:date>
     </item>
     <item>
       <title>StarFactory - Tue Aug 05 14:36:42 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: io.github.qavlad.CopyProblemPlus</description>
       <pubDate>Sat, 09 Aug 2025 08:09:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28098-copy-problem-plus</guid>
       <dc:date>2025-08-09T08:09:56Z</dc:date>
-    </item>
-    <item>
-      <title>whitespots-application-security-portal - Wed Aug 06 14:23:02 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28070-whitespots-application-security-portal</link>
-      <description>Description: A Intellij platform plugin to integrate with the Whitespots Application Security Portal and display vulnerabilities related to the current repository...
-
-vendor: Whitespots
-downloads: 45
-pricingModel: FREE
-xmlId: io.whitespots.appsecplugin</description>
-      <pubDate>Wed, 06 Aug 2025 14:23:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28070-whitespots-application-security-portal</guid>
-      <dc:date>2025-08-06T14:23:02Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek AI Review - Tue Aug 19 14:32:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28024-deepseek-ai-review</link>
-      <description>DeepSeek AI Review leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
-
-vendor: ZenCode
-downloads: 599
-pricingModel: FREE
-xmlId: com.my.dp.review</description>
-      <pubDate>Tue, 19 Aug 2025 14:32:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28024-deepseek-ai-review</guid>
-      <dc:date>2025-08-19T14:32:46Z</dc:date>
     </item>
   </channel>
 </rss>
