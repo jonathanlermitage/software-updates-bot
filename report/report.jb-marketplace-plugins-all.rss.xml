@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>PrideBars - Wed Aug 20 15:30:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28246-pridebars</link>
+      <description>Fancy Pride-themed bars for your favorite JetBrains IDE.
+
+vendor: Lumanyx
+downloads: 0
+pricingModel: FREE
+xmlId: fm.luma.pridebars.PrideBars</description>
+      <pubDate>Wed, 20 Aug 2025 15:30:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28246-pridebars</guid>
+      <dc:date>2025-08-20T15:30:59Z</dc:date>
+    </item>
+    <item>
+      <title>One-Click Migration - Wed Aug 20 01:11:51 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28191-one-click-migration</link>
+      <description>One-Click Google Play to Aptoide Billing Migration Plugin for Android Studio Effortlessly migrate your Android apps from Google Play Billing to the Aptoide Billing SDK...
+
+vendor: Aptoide
+downloads: 1
+pricingModel: FREE
+xmlId: aptoide.oneclickmigration</description>
+      <pubDate>Wed, 20 Aug 2025 01:11:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28191-one-click-migration</guid>
+      <dc:date>2025-08-20T01:11:51Z</dc:date>
+    </item>
+    <item>
       <title>Fast-Scroll - Thu Aug 21 11:57:45 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28254-fast-scroll</link>
       <description>Allows you to scroll faster by holding CTRL. Perfectly emulates Eclipse's CTRL-scroll out of the box, but also fully customizable. Supports both block (like Eclipse...
@@ -890,7 +916,7 @@ xmlId: lanyun.maas.idea.plugin</description>
       <dc:date>2025-07-30T06:44:01Z</dc:date>
     </item>
     <item>
-      <title>Zoones IDE Assistant - Mon Aug 18 07:31:25 UTC 2025</title>
+      <title>Zoones IDE Assistant - Thu Aug 21 16:44:53 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28163-zoones-ide-assistant</link>
       <description>Zoones IDE Assistant Zoones IDE Assistant streamlines working across Java backends and JavaScript/TypeScript frontends and adds useful developer tooling. It helps you...
 
@@ -898,9 +924,9 @@ vendor: Mario Ivankovits
 downloads: 88
 pricingModel: FREE
 xmlId: at.datenwort.idea-plugins.ZoonesIdeAssistant</description>
-      <pubDate>Mon, 18 Aug 2025 07:31:25 GMT</pubDate>
+      <pubDate>Thu, 21 Aug 2025 16:44:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28163-zoones-ide-assistant</guid>
-      <dc:date>2025-08-18T07:31:25Z</dc:date>
+      <dc:date>2025-08-21T16:44:53Z</dc:date>
     </item>
     <item>
       <title>Enum-generate - Wed Aug 13 08:00:58 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: co.anbora.labs.serverless.insight</description>
       <pubDate>Tue, 05 Aug 2025 03:21:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28063-serverless-insight</guid>
       <dc:date>2025-08-05T03:21:18Z</dc:date>
-    </item>
-    <item>
-      <title>RunVSAgent - Fri Aug 15 07:00:00 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28068-runvsagent</link>
-      <description>RunVSAgent - Run VSCode-based Coding Agents in JetBrains IDEs RunVSAgent is an innovative cross-platform development tool that enables developers to run VSCode-based...
-
-vendor: wecode-ai
-downloads: 2133
-pricingModel: FREE
-xmlId: RunVSAgent</description>
-      <pubDate>Fri, 15 Aug 2025 07:00:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28068-runvsagent</guid>
-      <dc:date>2025-08-15T07:00:00Z</dc:date>
-    </item>
-    <item>
-      <title>mtlog-analyzer - Wed Aug 20 01:36:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28090-mtlog-analyzer</link>
-      <description>Real-time validation for mtlog message templates in Go code. Features: • Automatic template/argument validation • Three severity levels: errors, warnings, suggestions...
-
-vendor: Brandon Williams
-downloads: 48
-pricingModel: FREE
-xmlId: com.mtlog.analyzer</description>
-      <pubDate>Wed, 20 Aug 2025 01:36:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28090-mtlog-analyzer</guid>
-      <dc:date>2025-08-20T01:36:39Z</dc:date>
     </item>
   </channel>
 </rss>
