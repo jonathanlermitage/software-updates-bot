@@ -6,7 +6,59 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Gerador UML (Mermaid) - Tue Aug 26 12:26:11 UTC 2025</title>
+      <title>ECA - Mon Aug 25 15:50:57 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28289-eca</link>
+      <description>Free OpenSource Intellij plugin with support for AI pair programming via ECA.
+
+vendor: ECA
+downloads: 0
+pricingModel: FREE
+xmlId: dev.eca.eca-intellij</description>
+      <pubDate>Mon, 25 Aug 2025 15:50:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28289-eca</guid>
+      <dc:date>2025-08-25T15:50:57Z</dc:date>
+    </item>
+    <item>
+      <title>vue-translation-batch-updater - Tue Aug 26 15:34:53 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28303-vue-translation-batch-updater</link>
+      <description>This is an IntelliJ plugin for vue-translation-batch-updater . This is an IntelliJ IDEA plugin that provides an easy way to translate keys in your JSON and YAML i18n...
+
+vendor: Paul Combal
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.paulcombal.vuetranslationbatchupdaterintellijplugin</description>
+      <pubDate>Tue, 26 Aug 2025 15:34:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28303-vue-translation-batch-updater</guid>
+      <dc:date>2025-08-26T15:34:53Z</dc:date>
+    </item>
+    <item>
+      <title>macOS Recents - Tue Aug 26 09:50:38 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28297-macos-recents</link>
+      <description>Record the projects in macOS cocoa recent documents, which will show in Dock menu and App Exposé.
+
+vendor: Pan Honglei
+downloads: 0
+pricingModel: FREE
+xmlId: dev.ghostflyby.mac.recents</description>
+      <pubDate>Tue, 26 Aug 2025 09:50:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28297-macos-recents</guid>
+      <dc:date>2025-08-26T09:50:38Z</dc:date>
+    </item>
+    <item>
+      <title>Google Apps Script Support [BETA] - Tue Aug 26 12:43:38 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28301-google-apps-script-support-beta-</link>
+      <description>Google Apps Script Support This plugin provides basic support for Google Apps Script (GAS) in JetBrains IDEs. ⚠️ Beta version — the plugin is in early development. The...
+
+vendor: meanmail.dev
+downloads: 0
+pricingModel: FREE
+xmlId: dev.meanmail.plugin.gas</description>
+      <pubDate>Tue, 26 Aug 2025 12:43:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28301-google-apps-script-support-beta-</guid>
+      <dc:date>2025-08-26T12:43:38Z</dc:date>
+    </item>
+    <item>
+      <title>Gerador UML (Mermaid) - Tue Aug 26 17:12:22 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28262-gerador-uml-mermaid-</link>
       <description>Plugin to generate UML diagrams (Mermaid) directly from Kotlin/Java code.
 
@@ -14,9 +66,9 @@ vendor: jvictororiz
 downloads: 4
 pricingModel: FREE
 xmlId: br.roriz.generator.GeneratorUML</description>
-      <pubDate>Tue, 26 Aug 2025 12:26:11 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 17:12:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28262-gerador-uml-mermaid-</guid>
-      <dc:date>2025-08-26T12:26:11Z</dc:date>
+      <dc:date>2025-08-26T17:12:22Z</dc:date>
     </item>
     <item>
       <title>Discloud for Kotlin/Java Engineers - Tue Aug 26 12:06:53 UTC 2025</title>
@@ -84,7 +136,7 @@ xmlId: mitchinson.cpb</description>
       <dc:date>2025-08-26T04:47:23Z</dc:date>
     </item>
     <item>
-      <title>Code With BongoCat - Fri Aug 22 19:29:03 UTC 2025</title>
+      <title>Code With BongoCat - Tue Aug 26 18:00:40 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28260-code-with-bongocat</link>
       <description>Bongo cat types with you as you code. You can drag the cat where-ever you want on your screen, and you can set a custom size! Includes an idle pose for when you are...
 
@@ -92,9 +144,9 @@ vendor: physicsgeek75
 downloads: 4
 pricingModel: FREE
 xmlId: com.physicsgeek75.bongo</description>
-      <pubDate>Fri, 22 Aug 2025 19:29:03 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 18:00:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28260-code-with-bongocat</guid>
-      <dc:date>2025-08-22T19:29:03Z</dc:date>
+      <dc:date>2025-08-26T18:00:40Z</dc:date>
     </item>
     <item>
       <title>Boson PHP - Mon Aug 25 08:37:05 UTC 2025</title>
@@ -240,7 +292,7 @@ xmlId: com.lee.mybatis.sql.extractor</description>
       <dc:date>2025-08-25T11:38:06Z</dc:date>
     </item>
     <item>
-      <title>Meowsic Player - Mon Aug 25 14:20:31 UTC 2025</title>
+      <title>Meowsic Player - Tue Aug 26 09:15:50 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28287-meowsic-player</link>
       <description>Integrate music player and visualizer to your IDE Features Track players and display the top first listedVisualize audioControl playback (play/pause, next/previous...
 
@@ -248,9 +300,9 @@ vendor: Fiaro Miangaly
 downloads: 4
 pricingModel: FREE
 xmlId: com.github.emiilia.meowsicplayer</description>
-      <pubDate>Mon, 25 Aug 2025 14:20:31 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 09:15:50 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28287-meowsic-player</guid>
-      <dc:date>2025-08-25T14:20:31Z</dc:date>
+      <dc:date>2025-08-26T09:15:50Z</dc:date>
     </item>
     <item>
       <title>REST API Client - Mon Aug 25 13:27:43 UTC 2025</title>
@@ -604,7 +656,7 @@ xmlId: org.mallowigi.idea.MaterialThemeUI.ThemeRandomizer</description>
       <dc:date>2025-08-08T14:57:03Z</dc:date>
     </item>
     <item>
-      <title>Screenshot Pro - Mon Aug 25 04:01:55 UTC 2025</title>
+      <title>Screenshot Pro - Tue Aug 26 14:40:41 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28233-screenshot-pro</link>
       <description>Screenshot Pro — Export code to image with one click Screenshot Pro is a code-to-image plugin for the IntelliJ Platform. It renders directly from editor components and...
 
@@ -612,9 +664,9 @@ vendor: ChangJin Wei
 downloads: 172
 pricingModel: FREE
 xmlId: plus.wcj.jetbrains.plugins.screenshot</description>
-      <pubDate>Mon, 25 Aug 2025 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 14:40:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28233-screenshot-pro</guid>
-      <dc:date>2025-08-25T04:01:55Z</dc:date>
+      <dc:date>2025-08-26T14:40:41Z</dc:date>
     </item>
     <item>
       <title>VueKit - Tue Aug 19 07:43:24 UTC 2025</title>
@@ -1189,7 +1241,7 @@ xmlId: cstools.moodle.plugin</description>
       <dc:date>2025-08-11T17:06:43Z</dc:date>
     </item>
     <item>
-      <title>CodeGPT AI Review - Tue Aug 26 12:32:28 UTC 2025</title>
+      <title>CodeGPT AI Review - Tue Aug 26 14:31:22 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28087-codegpt-ai-review</link>
       <description>CodeGPT AI Review leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
 
@@ -1197,9 +1249,9 @@ vendor: Crystala
 downloads: 288
 pricingModel: FREE
 xmlId: com.my.code.checker</description>
-      <pubDate>Tue, 26 Aug 2025 12:32:28 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 14:31:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28087-codegpt-ai-review</guid>
-      <dc:date>2025-08-26T12:32:28Z</dc:date>
+      <dc:date>2025-08-26T14:31:22Z</dc:date>
     </item>
     <item>
       <title>Writerside Markdown Converter - Thu Aug 21 10:16:31 UTC 2025</title>
@@ -1252,58 +1304,6 @@ xmlId: dev.sebastiano.rebaser</description>
       <pubDate>Mon, 11 Aug 2025 10:11:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28165-rebaser</guid>
       <dc:date>2025-08-11T10:11:18Z</dc:date>
-    </item>
-    <item>
-      <title>Dynatrace Query Language - Tue Aug 12 11:28:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28135-dynatrace-query-language</link>
-      <description>Note This product is a community-driven open-source plugin, helping users write and execute DQL statements within JetBrains IDEs. It's not officially supported by...
-
-vendor: Dynatrace
-downloads: 72
-pricingModel: FREE
-xmlId: pl.thedeem.dql</description>
-      <pubDate>Tue, 12 Aug 2025 11:28:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28135-dynatrace-query-language</guid>
-      <dc:date>2025-08-12T11:28:55Z</dc:date>
-    </item>
-    <item>
-      <title>KTS Support - Mon Aug 11 08:52:57 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28164-kts-support</link>
-      <description>Transforms go-to (CTRL click) support on non-standalone KTS scripts to navigate directly to appropriate Kotlin and Java source code.
-
-vendor: Jire
-downloads: 11
-pricingModel: FREE
-xmlId: org.jire.ktsworkaround.idea.plugin</description>
-      <pubDate>Mon, 11 Aug 2025 08:52:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28164-kts-support</guid>
-      <dc:date>2025-08-11T08:52:57Z</dc:date>
-    </item>
-    <item>
-      <title>MaaS CodeAI - Wed Jul 30 06:44:01 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28048-maas-codeai</link>
-      <description>GitHub |&amp;nbsp; Issues English: Magical AI is a powerful IDEA plugin that supports code generation, automated unit test creation, and AI-driven Q&amp;amp;A. It can...
-
-vendor: hx shi
-downloads: 20
-pricingModel: FREE
-xmlId: lanyun.maas.idea.plugin</description>
-      <pubDate>Wed, 30 Jul 2025 06:44:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28048-maas-codeai</guid>
-      <dc:date>2025-07-30T06:44:01Z</dc:date>
-    </item>
-    <item>
-      <title>Zoones IDE Assistant - Thu Aug 21 16:44:53 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28163-zoones-ide-assistant</link>
-      <description>Zoones IDE Assistant Zoones IDE Assistant streamlines working across Java backends and JavaScript/TypeScript frontends and adds useful developer tooling. It helps you...
-
-vendor: Mario Ivankovits
-downloads: 140
-pricingModel: FREE
-xmlId: at.datenwort.idea-plugins.ZoonesIdeAssistant</description>
-      <pubDate>Thu, 21 Aug 2025 16:44:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28163-zoones-ide-assistant</guid>
-      <dc:date>2025-08-21T16:44:53Z</dc:date>
     </item>
   </channel>
 </rss>
