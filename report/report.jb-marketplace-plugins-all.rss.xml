@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Gerador UML (Mermaid) - Tue Aug 26 12:26:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28262-gerador-uml-mermaid-</link>
+      <description>Plugin to generate UML diagrams (Mermaid) directly from Kotlin/Java code.
+
+vendor: jvictororiz
+downloads: 4
+pricingModel: FREE
+xmlId: br.roriz.generator.GeneratorUML</description>
+      <pubDate>Tue, 26 Aug 2025 12:26:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28262-gerador-uml-mermaid-</guid>
+      <dc:date>2025-08-26T12:26:11Z</dc:date>
+    </item>
+    <item>
+      <title>Discloud for Kotlin/Java Engineers - Tue Aug 26 12:06:53 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28294-discloud-for-kotlin-java-engineers</link>
+      <description>A simple plugin to manage your projects hosted on Discloud, the best Brazilian hosting for large and small projects.
+
+vendor: Discloud
+downloads: 0
+pricingModel: FREE
+xmlId: com.discloud-plugin.discloud</description>
+      <pubDate>Tue, 26 Aug 2025 12:06:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28294-discloud-for-kotlin-java-engineers</guid>
+      <dc:date>2025-08-26T12:06:53Z</dc:date>
+    </item>
+    <item>
+      <title>XML Comments Hider - Mon Aug 25 18:47:51 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28277-xml-comments-hider</link>
+      <description>Provides the ability to hide visibility of XML comments in C# files (/// comments).
+
+vendor: Chris LeBaron
+downloads: 4
+pricingModel: FREE
+xmlId: com.junk.plugins.xmlcommentshider</description>
+      <pubDate>Mon, 25 Aug 2025 18:47:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28277-xml-comments-hider</guid>
+      <dc:date>2025-08-25T18:47:51Z</dc:date>
+    </item>
+    <item>
       <title>sourcerer-mcp - Sun Aug 10 21:15:40 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28155-sourcerer-mcp</link>
       <description>Connects LLMs to your IDE, giving them access to the deep codebase awareness that IntelliJ provides. By extending the IntelliJ MCP Server, this plugin enables LLMs to...
@@ -84,17 +123,17 @@ xmlId: com.github.hidanio.schemagator</description>
       <dc:date>2025-08-25T18:21:39Z</dc:date>
     </item>
     <item>
-      <title>Tree Description - Sun Aug 24 16:17:44 UTC 2025</title>
+      <title>Tree Description - Tue Aug 26 12:40:25 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28276-tree-description</link>
-      <description>Tree Description - A powerful IntelliJ IDEA plugin that adds intelligent path annotations to the project tree, helping developers quickly understand project structure...
+      <description>Tree Description - A lightweight tool for adding notes to your project tree in IntelliJ IDEA. 项目树备注工具 项目树备注工具 是一个轻量级插件，帮助开发者在 IntelliJ IDEA 中快速记录和管理目录或文件备注。 主要特性...
 
 vendor: zhixin cao
 downloads: 1
 pricingModel: FREE
 xmlId: com.github.chinese-annotations</description>
-      <pubDate>Sun, 24 Aug 2025 16:17:44 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 12:40:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28276-tree-description</guid>
-      <dc:date>2025-08-24T16:17:44Z</dc:date>
+      <dc:date>2025-08-26T12:40:25Z</dc:date>
     </item>
     <item>
       <title>Pomodoro Healthy Exercise Timer - Fri Aug 22 17:55:54 UTC 2025</title>
@@ -110,7 +149,7 @@ xmlId: healthy.engineer.healthy-engineer</description>
       <dc:date>2025-08-22T17:55:54Z</dc:date>
     </item>
     <item>
-      <title>Vim Dial - Sat Aug 23 10:55:20 UTC 2025</title>
+      <title>Vim Dial - Tue Aug 26 09:18:46 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28237-vim-dial</link>
       <description>IdeaVim Dial IdeaVim extension with advanced text increment and decrement functionality. It enhances the standard increment/decrement functionality found in Vim...
 
@@ -118,9 +157,9 @@ vendor: Ricardo Rodriguez
 downloads: 6
 pricingModel: FREE
 xmlId: com.magidc.ideavim.dial</description>
-      <pubDate>Sat, 23 Aug 2025 10:55:20 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 09:18:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28237-vim-dial</guid>
-      <dc:date>2025-08-23T10:55:20Z</dc:date>
+      <dc:date>2025-08-26T09:18:46Z</dc:date>
     </item>
     <item>
       <title>Commit Helper - AI Commit Message Generator - Sun Aug 24 23:30:48 UTC 2025</title>
@@ -292,19 +331,6 @@ xmlId: com.github.echentw.typescriptnamespaceimports</description>
       <dc:date>2025-08-26T08:31:31Z</dc:date>
     </item>
     <item>
-      <title>Hibernate Log - Sun Aug 17 10:47:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28166-hibernate-log</link>
-      <description>Hibernate Log - Make SQL Debugging Simple and Efficient! Tired of not seeing complete SQL statements in your Hibernate projects? This plugin will completely transform...
-
-vendor: yalonglee
-downloads: 14
-pricingModel: FREE
-xmlId: org.tiktok.plugin.hibernate.log</description>
-      <pubDate>Sun, 17 Aug 2025 10:47:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28166-hibernate-log</guid>
-      <dc:date>2025-08-17T10:47:35Z</dc:date>
-    </item>
-    <item>
       <title>Pathfinder - Sun Aug 24 10:09:12 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28248-pathfinder</link>
       <description>IntelliJ plugin for file path completion in Markdown files. Type @ in a Markdown file to trigger file path completion from your project.
@@ -357,7 +383,7 @@ xmlId: io.github.projecthsf.go.playground</description>
       <dc:date>2025-08-20T13:52:39Z</dc:date>
     </item>
     <item>
-      <title>PrideBars - Sun Aug 24 16:45:38 UTC 2025</title>
+      <title>PrideBars - Tue Aug 26 12:37:39 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28246-pridebars</link>
       <description>Fancy Pride-themed bars for your favorite JetBrains IDE.
 
@@ -365,9 +391,9 @@ vendor: Lumanyx
 downloads: 21
 pricingModel: FREE
 xmlId: fm.luma.pridebars.PrideBars</description>
-      <pubDate>Sun, 24 Aug 2025 16:45:38 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 12:37:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28246-pridebars</guid>
-      <dc:date>2025-08-24T16:45:38Z</dc:date>
+      <dc:date>2025-08-26T12:37:39Z</dc:date>
     </item>
     <item>
       <title>One-Click Migration - Tue Aug 26 02:28:01 UTC 2025</title>
@@ -1163,7 +1189,7 @@ xmlId: cstools.moodle.plugin</description>
       <dc:date>2025-08-11T17:06:43Z</dc:date>
     </item>
     <item>
-      <title>CodeGPT AI Review - Tue Aug 26 10:35:48 UTC 2025</title>
+      <title>CodeGPT AI Review - Tue Aug 26 12:32:28 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28087-codegpt-ai-review</link>
       <description>CodeGPT AI Review leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
 
@@ -1171,9 +1197,9 @@ vendor: Crystala
 downloads: 288
 pricingModel: FREE
 xmlId: com.my.code.checker</description>
-      <pubDate>Tue, 26 Aug 2025 10:35:48 GMT</pubDate>
+      <pubDate>Tue, 26 Aug 2025 12:32:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28087-codegpt-ai-review</guid>
-      <dc:date>2025-08-26T10:35:48Z</dc:date>
+      <dc:date>2025-08-26T12:32:28Z</dc:date>
     </item>
     <item>
       <title>Writerside Markdown Converter - Thu Aug 21 10:16:31 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: at.datenwort.idea-plugins.ZoonesIdeAssistant</description>
       <pubDate>Thu, 21 Aug 2025 16:44:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28163-zoones-ide-assistant</guid>
       <dc:date>2025-08-21T16:44:53Z</dc:date>
-    </item>
-    <item>
-      <title>Enum-generate - Wed Aug 13 08:00:58 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28115-enum-generate</link>
-      <description>Enum Generator A plugin to generate Java enum classes from a class field's Javadoc comments. Features: Right-click on a field to generate an enum. Automatically parses...
-
-vendor: weihubeats
-downloads: 31
-pricingModel: FREE
-xmlId: io.github.weihubeats.enum-generate</description>
-      <pubDate>Wed, 13 Aug 2025 08:00:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28115-enum-generate</guid>
-      <dc:date>2025-08-13T08:00:58Z</dc:date>
-    </item>
-    <item>
-      <title>Remote Sync - Sun Aug 24 09:36:19 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28138-remote-sync</link>
-      <description>Upload and sync local Git changes to a remote server over SSH — no SFTP/FTP needed.
-
-vendor: Artem Sergienko
-downloads: 112
-pricingModel: FREE
-xmlId: org.blacksoil.remotesync</description>
-      <pubDate>Sun, 24 Aug 2025 09:36:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28138-remote-sync</guid>
-      <dc:date>2025-08-24T09:36:19Z</dc:date>
     </item>
   </channel>
 </rss>
