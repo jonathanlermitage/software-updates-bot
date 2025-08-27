@@ -6,17 +6,30 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>QuickAI - Wed Aug 27 02:11:30 UTC 2025</title>
+      <title>ViewPort - Wed Aug 27 07:45:55 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28290-viewport</link>
+      <description>ViewPort - A lightweight web browser built into all JetBrains IntelliJ Platform IDEs.
+
+vendor: Robin Alvarez
+downloads: 2
+pricingModel: FREE
+xmlId: de.robin.alvarez.ViewPort</description>
+      <pubDate>Wed, 27 Aug 2025 07:45:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28290-viewport</guid>
+      <dc:date>2025-08-27T07:45:55Z</dc:date>
+    </item>
+    <item>
+      <title>QuickAI - Wed Aug 27 12:02:06 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28302-quickai</link>
       <description>QuickAI - Lightning-Fast Bridge Between IntelliJ IDEA and AI Editors &#x1f680; QuickAI - 极速连接 IDEA 与 AI 编辑器 &#x1f3af; 解决痛点 | Solving Pain Points: 厌倦了在 IntelliJ IDEA 和 AI 辅助编辑器（如...
 
-vendor: 油圈馍
+vendor: yaya
 downloads: 0
 pricingModel: FREE
 xmlId: com.yaya.quickai</description>
-      <pubDate>Wed, 27 Aug 2025 02:11:30 GMT</pubDate>
+      <pubDate>Wed, 27 Aug 2025 12:02:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28302-quickai</guid>
-      <dc:date>2025-08-27T02:11:30Z</dc:date>
+      <dc:date>2025-08-27T12:02:06Z</dc:date>
     </item>
     <item>
       <title>ECA - Mon Aug 25 15:50:57 UTC 2025</title>
@@ -162,7 +175,7 @@ xmlId: com.github.xepozz.boson</description>
       <dc:date>2025-08-25T08:37:05Z</dc:date>
     </item>
     <item>
-      <title>Schemagator - Mon Aug 25 18:21:39 UTC 2025</title>
+      <title>Schemagator - Wed Aug 27 14:57:30 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28291-schemagator</link>
       <description>After the Zalando plugin stopped updating, the idea of this plugin was conceived. The main is adding support for json schema. IDE can not support files navigation in...
 
@@ -170,9 +183,9 @@ vendor: Richardas Kuchinskas
 downloads: 21
 pricingModel: FREE
 xmlId: com.github.hidanio.schemagator</description>
-      <pubDate>Mon, 25 Aug 2025 18:21:39 GMT</pubDate>
+      <pubDate>Wed, 27 Aug 2025 14:57:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28291-schemagator</guid>
-      <dc:date>2025-08-25T18:21:39Z</dc:date>
+      <dc:date>2025-08-27T14:57:30Z</dc:date>
     </item>
     <item>
       <title>Pomodoro Healthy Exercise Timer - Fri Aug 22 17:55:54 UTC 2025</title>
@@ -565,7 +578,7 @@ xmlId: com.twig5.navigator</description>
       <dc:date>2025-08-20T08:55:00Z</dc:date>
     </item>
     <item>
-      <title>Todo Calendar - Wed Aug 20 10:12:47 UTC 2025</title>
+      <title>Todo Calendar - Wed Aug 27 10:37:24 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28227-todo-calendar</link>
       <description>Todo Calendar - Advanced Task Management for IntelliJ IDEA Todo Calendar is a comprehensive task management plugin that integrates seamlessly with IntelliJ IDEA to...
 
@@ -573,9 +586,9 @@ vendor: 이병석
 downloads: 29
 pricingModel: FREE
 xmlId: com.benson.todo-calendar</description>
-      <pubDate>Wed, 20 Aug 2025 10:12:47 GMT</pubDate>
+      <pubDate>Wed, 27 Aug 2025 10:37:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28227-todo-calendar</guid>
-      <dc:date>2025-08-20T10:12:47Z</dc:date>
+      <dc:date>2025-08-27T10:37:24Z</dc:date>
     </item>
     <item>
       <title>CMake Mux - Tue Aug 19 21:01:21 UTC 2025</title>
@@ -968,7 +981,7 @@ xmlId: com.inceptionapps.jsonlogviewer.JsonLogViewer</description>
       <dc:date>2025-08-11T13:56:35Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Toolkit - Wed Aug 27 07:03:47 UTC 2025</title>
+      <title>DeepSeek Toolkit - Wed Aug 27 09:04:22 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28128-deepseek-toolkit</link>
       <description>DeepSeek Toolkit is an intelligent programming assistant plugin powered by the DeepSeek large-scale language model. It leverages cutting-edge AI capabilities to...
 
@@ -976,9 +989,9 @@ vendor: JetDev
 downloads: 244
 pricingModel: FREE
 xmlId: com.mytool.ai.code</description>
-      <pubDate>Wed, 27 Aug 2025 07:03:47 GMT</pubDate>
+      <pubDate>Wed, 27 Aug 2025 09:04:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28128-deepseek-toolkit</guid>
-      <dc:date>2025-08-27T07:03:47Z</dc:date>
+      <dc:date>2025-08-27T09:04:22Z</dc:date>
     </item>
     <item>
       <title>dotenvx - Fri Aug 22 15:39:37 UTC 2025</title>
@@ -1124,7 +1137,7 @@ xmlId: xyz.foxdevtime.FilePathCommenter</description>
       <dc:date>2025-08-09T11:26:06Z</dc:date>
     </item>
     <item>
-      <title>Kafka UI: Connect to Kafka Brokers, Produce and View Messages - Tue Aug 19 13:40:39 UTC 2025</title>
+      <title>Kafka UI: Connect to Kafka Brokers, Produce and View Messages - Wed Aug 27 12:42:10 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28167-kafka-ui-connect-to-kafka-brokers-produce-and-view-messages</link>
       <description>Kafka UI is a powerful JetBrains plugin that simplifies working with Apache Kafka directly from your IDE. Easily connect to multiple Kafka brokers, including Aiven...
 
@@ -1132,9 +1145,9 @@ vendor: Aiven
 downloads: 263
 pricingModel: FREE
 xmlId: com.aiven.kafkaui</description>
-      <pubDate>Tue, 19 Aug 2025 13:40:39 GMT</pubDate>
+      <pubDate>Wed, 27 Aug 2025 12:42:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28167-kafka-ui-connect-to-kafka-brokers-produce-and-view-messages</guid>
-      <dc:date>2025-08-19T13:40:39Z</dc:date>
+      <dc:date>2025-08-27T12:42:10Z</dc:date>
     </item>
     <item>
       <title>Word Memory - Thu Aug 07 06:12:44 UTC 2025</title>
@@ -1291,19 +1304,6 @@ xmlId: pl.thedeem.dql</description>
       <pubDate>Tue, 12 Aug 2025 11:28:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28135-dynatrace-query-language</guid>
       <dc:date>2025-08-12T11:28:55Z</dc:date>
-    </item>
-    <item>
-      <title>KTS Support - Mon Aug 11 08:52:57 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28164-kts-support</link>
-      <description>Transforms go-to (CTRL click) support on non-standalone KTS scripts to navigate directly to appropriate Kotlin and Java source code.
-
-vendor: Jire
-downloads: 12
-pricingModel: FREE
-xmlId: org.jire.ktsworkaround.idea.plugin</description>
-      <pubDate>Mon, 11 Aug 2025 08:52:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28164-kts-support</guid>
-      <dc:date>2025-08-11T08:52:57Z</dc:date>
     </item>
   </channel>
 </rss>
