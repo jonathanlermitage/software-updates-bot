@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|24.7.0|[nodejs.org](https://nodejs.org)|Thu Aug 28 00:05:57 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Aug 21 16:03:51 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS Current|24.6.0|[nodejs.org](https://nodejs.org)|Fri Aug 15 00:06:16 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.7|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 14 20:03:13 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Aug 14 20:03:12 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:03:17 UTC 2025|
