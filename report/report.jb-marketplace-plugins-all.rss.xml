@@ -84,19 +84,6 @@ xmlId: iTodoTxt</description>
       <dc:date>2025-08-31T13:26:08Z</dc:date>
     </item>
     <item>
-      <title>Fluid Accessibility Linter - Sun Aug 31 21:01:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28341-fluid-accessibility-linter</link>
-      <description>A fast, context-aware accessibility linter for TYPO3 Fluid templates in PhpStorm and other IntelliJ-based IDEs. It flags issues as you type and offers focused...
-
-vendor: CreateNothing
-downloads: 0
-pricingModel: FREE
-xmlId: com.typo3.fluid.accessibility-linter</description>
-      <pubDate>Sun, 31 Aug 2025 21:01:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28341-fluid-accessibility-linter</guid>
-      <dc:date>2025-08-31T21:01:37Z</dc:date>
-    </item>
-    <item>
       <title>Claude Code Plus - Mon Sep 01 03:27:02 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28343-claude-code-plus</link>
       <description>Claude Code Plus - Advanced AI Programming Assistant Claude Code Plus is an enhanced IntelliJ IDEA plugin that integrates Claude AI directly into your development...
@@ -1304,6 +1291,19 @@ xmlId: com.lsyf.LsyfOllama</description>
       <pubDate>Sat, 16 Aug 2025 09:38:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28088-lsyfollama</guid>
       <dc:date>2025-08-16T09:38:04Z</dc:date>
+    </item>
+    <item>
+      <title>Kf-CR - Wed Aug 13 02:09:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28113-kf-cr</link>
+      <description>AI-powered Code Review tool that intelligently analyzes local code changes through seamless Git integration and workflow automation. This comprehensive plugin provides...
+
+vendor: He Zhixian
+downloads: 41
+pricingModel: FREE
+xmlId: com.jack.kf-cr</description>
+      <pubDate>Wed, 13 Aug 2025 02:09:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28113-kf-cr</guid>
+      <dc:date>2025-08-13T02:09:44Z</dc:date>
     </item>
   </channel>
 </rss>
