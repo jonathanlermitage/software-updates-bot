@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>VividBatis - Fri Aug 29 13:50:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28245-vividbatis</link>
+      <description>Tired of debugging complex dynamic SQL in MyBatis? Wasting time on typos in your OGNL expressions? VividBatis is here to relieve your pain! It brings you two core...
+
+vendor: OOOOONLY
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.only52607.vividbatis</description>
+      <pubDate>Fri, 29 Aug 2025 13:50:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28245-vividbatis</guid>
+      <dc:date>2025-08-29T13:50:11Z</dc:date>
+    </item>
+    <item>
+      <title>Neon - Sun Aug 31 12:46:12 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28338-neon</link>
+      <description>Fork of the original plugin that was removed, provides decent support for Neon configs.
+
+vendor: Nette Community
+downloads: 0
+pricingModel: FREE
+xmlId: org.nette.neon</description>
+      <pubDate>Sun, 31 Aug 2025 12:46:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28338-neon</guid>
+      <dc:date>2025-08-31T12:46:12Z</dc:date>
+    </item>
+    <item>
+      <title>ITodoTxt - Sun Aug 31 13:26:08 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28327-itodotxt</link>
+      <description>A plugin for managing todo.txt files directly within IntelliJ IDEA. This plugin provides a visual interface for working with todo.txt format files, allowing you to...
+
+vendor: Yahocen
+downloads: 2
+pricingModel: FREE
+xmlId: iTodoTxt</description>
+      <pubDate>Sun, 31 Aug 2025 13:26:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28327-itodotxt</guid>
+      <dc:date>2025-08-31T13:26:08Z</dc:date>
+    </item>
+    <item>
+      <title>Fluid Accessibility Linter - Sun Aug 31 21:01:37 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28341-fluid-accessibility-linter</link>
+      <description>A fast, context-aware accessibility linter for TYPO3 Fluid templates in PhpStorm and other IntelliJ-based IDEs. It flags issues as you type and offers focused...
+
+vendor: CreateNothing
+downloads: 0
+pricingModel: FREE
+xmlId: com.typo3.fluid.accessibility-linter</description>
+      <pubDate>Sun, 31 Aug 2025 21:01:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28341-fluid-accessibility-linter</guid>
+      <dc:date>2025-08-31T21:01:37Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Code Plus - Mon Sep 01 03:27:02 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28343-claude-code-plus</link>
+      <description>Claude Code Plus - Advanced AI Programming Assistant Claude Code Plus is an enhanced IntelliJ IDEA plugin that integrates Claude AI directly into your development...
+
+vendor: eriol touwa
+downloads: 0
+pricingModel: FREE
+xmlId: com.claudecodeplus</description>
+      <pubDate>Mon, 01 Sep 2025 03:27:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28343-claude-code-plus</guid>
+      <dc:date>2025-09-01T03:27:02Z</dc:date>
+    </item>
+    <item>
+      <title>Nette Helpers - Mon Sep 01 04:35:43 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28342-nette-helpers</link>
+      <description>Helpers for the Nette Framework, serves as a light replacement for the nette framework helpers that was removed from the marketplace.
+
+vendor: Nette Community
+downloads: 0
+pricingModel: FREE
+xmlId: org.nette.helpers</description>
+      <pubDate>Mon, 01 Sep 2025 04:35:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28342-nette-helpers</guid>
+      <dc:date>2025-09-01T04:35:43Z</dc:date>
+    </item>
+    <item>
+      <title>tbdflow - Mon Sep 01 06:05:23 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28339-tbdflow</link>
+      <description>Integrates the tbdflow command-line tool into your JetBrains IDE, providing a friendly assistant for your Trunk-Based Development (TBD) workflow. This plugin is a...
+
+vendor: Claes Adamsson
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.cladam.tbdflow</description>
+      <pubDate>Mon, 01 Sep 2025 06:05:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28339-tbdflow</guid>
+      <dc:date>2025-09-01T06:05:23Z</dc:date>
+    </item>
+    <item>
       <title>cortex - Wed Aug 20 08:01:25 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28241-cortex</link>
       <description>Cortex IntelliJ Plugin adds smart navigation and links for cortex.yaml files in JetBrains IDEs. What you can do with it: Click on IDs and tags in cortex.yaml to open...
@@ -71,7 +162,7 @@ xmlId: cz.uxf.plugin</description>
       <dc:date>2025-08-29T09:14:32Z</dc:date>
     </item>
     <item>
-      <title>Minecraft Mod Publish Utils - Fri Aug 29 11:35:46 UTC 2025</title>
+      <title>Minecraft Mod Publish Utils - Sun Aug 31 10:34:11 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28320-minecraft-mod-publish-utils</link>
       <description>Help developers publish mods faster and publish mods to multiple supported platforms with just a few clicks.
 
@@ -79,9 +170,9 @@ vendor: Lawson Kay
 downloads: 34
 pricingModel: FREE
 xmlId: one.pkg.modpublish</description>
-      <pubDate>Fri, 29 Aug 2025 11:35:46 GMT</pubDate>
+      <pubDate>Sun, 31 Aug 2025 10:34:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28320-minecraft-mod-publish-utils</guid>
-      <dc:date>2025-08-29T11:35:46Z</dc:date>
+      <dc:date>2025-08-31T10:34:11Z</dc:date>
     </item>
     <item>
       <title>Atomic - Fri Aug 29 14:33:03 UTC 2025</title>
@@ -292,7 +383,7 @@ xmlId: com.yaya.quickai</description>
       <dc:date>2025-08-30T10:09:15Z</dc:date>
     </item>
     <item>
-      <title>ECA - Thu Aug 28 16:34:05 UTC 2025</title>
+      <title>ECA - Sat Aug 30 23:31:18 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28289-eca</link>
       <description>Free OpenSource Intellij plugin with support for AI pair programming via ECA.
 
@@ -300,9 +391,9 @@ vendor: ECA
 downloads: 136
 pricingModel: FREE
 xmlId: dev.eca.eca-intellij</description>
-      <pubDate>Thu, 28 Aug 2025 16:34:05 GMT</pubDate>
+      <pubDate>Sat, 30 Aug 2025 23:31:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28289-eca</guid>
-      <dc:date>2025-08-28T16:34:05Z</dc:date>
+      <dc:date>2025-08-30T23:31:18Z</dc:date>
     </item>
     <item>
       <title>vue-translation-batch-updater - Tue Aug 26 15:34:53 UTC 2025</title>
@@ -448,7 +539,7 @@ xmlId: com.github.hidanio.schemagator</description>
       <dc:date>2025-08-27T14:57:30Z</dc:date>
     </item>
     <item>
-      <title>Tree Description - Fri Aug 29 08:16:55 UTC 2025</title>
+      <title>Tree Description - Fri Aug 29 03:28:40 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28276-tree-description</link>
       <description>Tree Description - A lightweight tool for adding notes to your project tree in IntelliJ IDEA. Key Features Support for Chinese/English interface switching Add notes on...
 
@@ -456,9 +547,9 @@ vendor: zhixin cao
 downloads: 112
 pricingModel: FREE
 xmlId: com.github.chinese-annotations</description>
-      <pubDate>Fri, 29 Aug 2025 08:16:55 GMT</pubDate>
+      <pubDate>Fri, 29 Aug 2025 03:28:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28276-tree-description</guid>
-      <dc:date>2025-08-29T08:16:55Z</dc:date>
+      <dc:date>2025-08-29T03:28:40Z</dc:date>
     </item>
     <item>
       <title>Pomodoro Healthy Exercise Timer - Fri Aug 22 17:55:54 UTC 2025</title>
@@ -487,7 +578,7 @@ xmlId: com.magidc.ideavim.dial</description>
       <dc:date>2025-08-26T09:18:46Z</dc:date>
     </item>
     <item>
-      <title>Commit Helper - AI Commit Message Generator - Sun Aug 24 23:30:48 UTC 2025</title>
+      <title>Commit Helper - AI Commit Message Generator - Sat Aug 30 22:38:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28279-commit-helper--ai-commit-message-generator</link>
       <description>Commit Helper - AI-powered commit message generator for JetBrains IDEs. Features: Generate commit messages automatically with AI Supports multiple providers: Gemini...
 
@@ -495,9 +586,9 @@ vendor: Mete Ulken
 downloads: 23
 pricingModel: FREE
 xmlId: io.github.meteulken.commithelper</description>
-      <pubDate>Sun, 24 Aug 2025 23:30:48 GMT</pubDate>
+      <pubDate>Sat, 30 Aug 2025 22:38:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28279-commit-helper--ai-commit-message-generator</guid>
-      <dc:date>2025-08-24T23:30:48Z</dc:date>
+      <dc:date>2025-08-30T22:38:26Z</dc:date>
     </item>
     <item>
       <title>ZeitBuilder - Wed Aug 27 01:55:44 UTC 2025</title>
@@ -630,7 +721,7 @@ xmlId: com.github.x0x0b.codex-launcher</description>
       <dc:date>2025-08-30T03:18:03Z</dc:date>
     </item>
     <item>
-      <title>Typescript Namespace Imports - Tue Aug 26 08:31:31 UTC 2025</title>
+      <title>Typescript Namespace Imports - Mon Sep 01 03:32:00 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28036-typescript-namespace-imports</link>
       <description>Description This plugin helps you with namespace imports when writing code. A namespace import is an import like: import * as moduleName from 'path/to/module_name...
 
@@ -638,9 +729,9 @@ vendor: Eric Chen
 downloads: 60
 pricingModel: FREE
 xmlId: com.github.echentw.typescriptnamespaceimports</description>
-      <pubDate>Tue, 26 Aug 2025 08:31:31 GMT</pubDate>
+      <pubDate>Mon, 01 Sep 2025 03:32:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28036-typescript-namespace-imports</guid>
-      <dc:date>2025-08-26T08:31:31Z</dc:date>
+      <dc:date>2025-09-01T03:32:00Z</dc:date>
     </item>
     <item>
       <title>Pathfinder - Sun Aug 24 10:09:12 UTC 2025</title>
@@ -799,7 +890,7 @@ xmlId: com.ljh.request.request-man</description>
       <dc:date>2025-08-27T07:36:53Z</dc:date>
     </item>
     <item>
-      <title>MDLCode — Moodle™ Development - Sat Aug 30 12:42:14 UTC 2025</title>
+      <title>MDLCode — Moodle™ Development - Sun Aug 31 19:55:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28229-mdlcode--moodle-development</link>
       <description>Provides support for Moodle development for PHPStorm and IntelliJ IDEA. This plugin is currently in active development and does not have many features yet. We will be...
 
@@ -807,9 +898,9 @@ vendor: LMSCloud.io
 downloads: 68
 pricingModel: FREE
 xmlId: io.lmscloud.mdlcode</description>
-      <pubDate>Sat, 30 Aug 2025 12:42:14 GMT</pubDate>
+      <pubDate>Sun, 31 Aug 2025 19:55:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28229-mdlcode--moodle-development</guid>
-      <dc:date>2025-08-30T12:42:14Z</dc:date>
+      <dc:date>2025-08-31T19:55:04Z</dc:date>
     </item>
     <item>
       <title>RestfulToolX - Tue Aug 26 07:31:30 UTC 2025</title>
@@ -864,8 +955,8 @@ xmlId: net.tagpad.cmakemux</description>
       <dc:date>2025-08-19T21:01:21Z</dc:date>
     </item>
     <item>
-      <title>Atrocore - Tue Aug 19 10:17:47 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28159-atrocore</link>
+      <title>AtroCore Toolkit - Tue Aug 19 10:17:47 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28159-atrocore-toolkit</link>
       <description>AtroCore Data Platform is an open-source, metadata-driven platform for building enterprise applications with flexible data models and customizable business logic. This...
 
 vendor: Kevin Teguia
@@ -873,7 +964,7 @@ downloads: 14
 pricingModel: FREE
 xmlId: com.atrocore.plugin</description>
       <pubDate>Tue, 19 Aug 2025 10:17:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28159-atrocore</guid>
+      <guid>https://plugins.jetbrains.com/plugin/28159-atrocore-toolkit</guid>
       <dc:date>2025-08-19T10:17:47Z</dc:date>
     </item>
     <item>
@@ -1007,7 +1098,7 @@ xmlId: com.github.gasu-dev.php-array-converter</description>
       <dc:date>2025-08-15T15:05:30Z</dc:date>
     </item>
     <item>
-      <title>FTC Linter - Tue Aug 19 22:17:35 UTC 2025</title>
+      <title>FTC Linter - Sun Aug 31 01:21:34 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28218-ftc-linter</link>
       <description>Expansive inspections for FTC Java projects (IntelliJ / Android Studio).
 
@@ -1015,9 +1106,9 @@ vendor: GentrifiedApps
 downloads: 27
 pricingModel: FREE
 xmlId: com.gentrifiedapps.ftc_intellij_plugin</description>
-      <pubDate>Tue, 19 Aug 2025 22:17:35 GMT</pubDate>
+      <pubDate>Sun, 31 Aug 2025 01:21:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28218-ftc-linter</guid>
-      <dc:date>2025-08-19T22:17:35Z</dc:date>
+      <dc:date>2025-08-31T01:21:34Z</dc:date>
     </item>
     <item>
       <title>Selvejj - Fri Aug 15 17:48:48 UTC 2025</title>
@@ -1046,7 +1137,7 @@ xmlId: com.msb.intellij-codegen</description>
       <dc:date>2025-08-16T07:20:21Z</dc:date>
     </item>
     <item>
-      <title>Enhanced Hotswap Enabler - Sun Aug 24 07:16:36 UTC 2025</title>
+      <title>Enhanced Hotswap Enabler - Sun Aug 31 05:21:27 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28214-enhanced-hotswap-enabler</link>
       <description>How to use Select a JDK supporting dcevm (JetBrainsRuntime bundled with IntelliJ e.g.) for RunConfigurations. Start the RunConfiguration with debug mode. features...
 
@@ -1054,9 +1145,9 @@ vendor: Pan Honglei
 downloads: 115
 pricingModel: FREE
 xmlId: dev.ghostflyby.dcevm</description>
-      <pubDate>Sun, 24 Aug 2025 07:16:36 GMT</pubDate>
+      <pubDate>Sun, 31 Aug 2025 05:21:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28214-enhanced-hotswap-enabler</guid>
-      <dc:date>2025-08-24T07:16:36Z</dc:date>
+      <dc:date>2025-08-31T05:21:27Z</dc:date>
     </item>
     <item>
       <title>Git Modified Files - Fri Aug 15 16:14:31 UTC 2025</title>
@@ -1213,97 +1304,6 @@ xmlId: com.jack.kf-cr</description>
       <pubDate>Wed, 13 Aug 2025 02:09:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28113-kf-cr</guid>
       <dc:date>2025-08-13T02:09:44Z</dc:date>
-    </item>
-    <item>
-      <title>spring-check-dashboard - Wed Aug 13 02:40:44 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28144-spring-check-dashboard</link>
-      <description>Spring Boot Dashboard – IntelliJ tool window for Spring projects: explore Endpoints, Beans, detect Services with port, and generate OpenAPI.
-
-vendor: Evan Le
-downloads: 30
-pricingModel: FREE
-xmlId: com.github.elvanss.springcheckdashboard</description>
-      <pubDate>Wed, 13 Aug 2025 02:40:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28144-spring-check-dashboard</guid>
-      <dc:date>2025-08-13T02:40:44Z</dc:date>
-    </item>
-    <item>
-      <title>Json Log Viewer - Mon Aug 11 13:56:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28145-json-log-viewer</link>
-      <description>Json Log Viewer is a powerful tool for visualizing and analyzing JSON-formatted request and response logs. Easily view JSON logs with syntax highlighting and...
-
-vendor: InceptionApp
-downloads: 43
-pricingModel: PAID
-xmlId: com.inceptionapps.jsonlogviewer.JsonLogViewer</description>
-      <pubDate>Mon, 11 Aug 2025 13:56:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28145-json-log-viewer</guid>
-      <dc:date>2025-08-11T13:56:35Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek Toolkit - Wed Aug 27 09:04:22 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28128-deepseek-toolkit</link>
-      <description>DeepSeek Toolkit is an intelligent programming assistant plugin powered by the DeepSeek large-scale language model. It leverages cutting-edge AI capabilities to...
-
-vendor: JetDev
-downloads: 397
-pricingModel: FREE
-xmlId: com.mytool.ai.code</description>
-      <pubDate>Wed, 27 Aug 2025 09:04:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28128-deepseek-toolkit</guid>
-      <dc:date>2025-08-27T09:04:22Z</dc:date>
-    </item>
-    <item>
-      <title>dotenvx - Fri Aug 22 15:39:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28148-dotenvx</link>
-      <description>Dotenvx is a JetBrains plugin that provides inlay hints for encrypted variables in .env files by Dotenvx. With this plugin, and decrypted values will be displayed as...
-
-vendor: linux_china
-downloads: 384
-pricingModel: FREE
-xmlId: dotenvx</description>
-      <pubDate>Fri, 22 Aug 2025 15:39:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28148-dotenvx</guid>
-      <dc:date>2025-08-22T15:39:37Z</dc:date>
-    </item>
-    <item>
-      <title>EduPy-Debugger - Thu Aug 14 10:30:17 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28110-edupy-debugger</link>
-      <description>EduPy-Debugger bietet ein visuelles, webbasiertes Debugging-Erlebnis für Python in PyCharm (Community &amp;amp; Professional) – speziell für den Einsatz im Unterricht. Es...
-
-vendor: Julian Flach
-downloads: 45
-pricingModel: FREE
-xmlId: de.code14.edupydebugger</description>
-      <pubDate>Thu, 14 Aug 2025 10:30:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28110-edupy-debugger</guid>
-      <dc:date>2025-08-14T10:30:17Z</dc:date>
-    </item>
-    <item>
-      <title>Lazygit Runner - Thu Aug 14 12:52:18 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28199-lazygit-runner</link>
-      <description>A JetBrains IDE plugin that integrates lazygit - a simple terminal UI for git commands - directly into your development workflow.
-
-vendor: mjstudio
-downloads: 78
-pricingModel: FREE
-xmlId: happy.mjstudio.jetbrains.lazygit</description>
-      <pubDate>Thu, 14 Aug 2025 12:52:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28199-lazygit-runner</guid>
-      <dc:date>2025-08-14T12:52:18Z</dc:date>
-    </item>
-    <item>
-      <title>GitStat - Wed Aug 13 10:50:40 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28189-gitstat</link>
-      <description>GitStat is a powerful Git statistics tool optimized for IntelliJ IDEA 2025.2 and compatible with future versions. Core Features: • Track file changes, added/deleted...
-
-vendor: kkkdevchn
-downloads: 87
-pricingModel: FREE
-xmlId: com.gitstat</description>
-      <pubDate>Wed, 13 Aug 2025 10:50:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28189-gitstat</guid>
-      <dc:date>2025-08-13T10:50:40Z</dc:date>
     </item>
   </channel>
 </rss>
