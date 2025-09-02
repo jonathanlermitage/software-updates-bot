@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ADB Device Manager - Sun Aug 31 10:24:15 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28335-adb-device-manager</link>
+      <description>Manage Android device screens and testing configs ADB Device Manager helps QA engineers and developers test mobile apps across different screen configurations directly...
+
+vendor: Vladlen Kuznetcov (QA Lead)
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.qavlad.adbdevicemanager</description>
+      <pubDate>Sun, 31 Aug 2025 10:24:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28335-adb-device-manager</guid>
+      <dc:date>2025-08-31T10:24:15Z</dc:date>
+    </item>
+    <item>
+      <title>Yu-RSS - Tue Sep 02 08:41:53 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28354-yu-rss</link>
+      <description>RSS Reader You can use this RSS reader to secretly view RSS feeds you want to see in IDEA, and support adding any RSS feeds you like...
+
+vendor: zongkx
+downloads: 0
+pricingModel: FREE
+xmlId: YuRss</description>
+      <pubDate>Tue, 02 Sep 2025 08:41:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28354-yu-rss</guid>
+      <dc:date>2025-09-02T08:41:53Z</dc:date>
+    </item>
+    <item>
+      <title>AI-Code Review - Tue Sep 02 08:06:43 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28353-ai-code-review</link>
+      <description>AI-powered code review tool for IntelliJ IDEA. Key Features: - Adds AI code review button in Git commit window - Supports multiple LLM services (OpenAI, Claude, etc...
+
+vendor: vinist
+downloads: 0
+pricingModel: FREE
+xmlId: com.vinist.ai.codereview</description>
+      <pubDate>Tue, 02 Sep 2025 08:06:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28353-ai-code-review</guid>
+      <dc:date>2025-09-02T08:06:43Z</dc:date>
+    </item>
+    <item>
+      <title>Camel Bean Navigator - Mon Sep 01 18:51:17 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28351-camel-bean-navigator</link>
+      <description>Jump from Camel .bean() calls directly to Spring beans and methods. Speeds up navigation and debugging in integration routes. Features Go to declaration from...
+
+vendor: dmytro.ha
+downloads: 0
+pricingModel: FREE
+xmlId: org.gaydabura.camel-bean-nav</description>
+      <pubDate>Mon, 01 Sep 2025 18:51:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28351-camel-bean-navigator</guid>
+      <dc:date>2025-09-01T18:51:17Z</dc:date>
+    </item>
+    <item>
       <title>SecretSpec Integration - Mon Sep 01 16:31:48 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28348-secretspec-integration</link>
       <description>Universal SecretSpec Integration plugin for all IntelliJ-based IDEs with per-configuration settings. Features: - &#x1f3af; Per-run-configuration SecretSpec settings (no more...
@@ -149,7 +201,7 @@ xmlId: com.github.sebnoirot.cortex</description>
       <dc:date>2025-08-20T08:01:25Z</dc:date>
     </item>
     <item>
-      <title>switch2ai - Fri Aug 29 13:52:56 UTC 2025</title>
+      <title>switch2ai - Tue Sep 02 03:18:00 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28330-switch2ai</link>
       <description>switch2ai is a JetBrains IDE plugin that enables seamless collaboration between JetBrains IDEs and various AI agents (Cursor, Qoder, Claude code etc.). Key features...
 
@@ -157,9 +209,9 @@ vendor: sinber
 downloads: 36
 pricingModel: FREE
 xmlId: com.github.switch2ai</description>
-      <pubDate>Fri, 29 Aug 2025 13:52:56 GMT</pubDate>
+      <pubDate>Tue, 02 Sep 2025 03:18:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28330-switch2ai</guid>
-      <dc:date>2025-08-29T13:52:56Z</dc:date>
+      <dc:date>2025-09-02T03:18:00Z</dc:date>
     </item>
     <item>
       <title>i18n Translate Lite: Web - Fri Aug 29 13:29:32 UTC 2025</title>
@@ -1252,58 +1304,6 @@ xmlId: io.septimalmind.baboon.baboon-intellij</description>
       <pubDate>Mon, 01 Sep 2025 15:38:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28203-baboon-support</guid>
       <dc:date>2025-09-01T15:38:12Z</dc:date>
-    </item>
-    <item>
-      <title>ADB Wireless Manager - Thu Aug 14 20:19:20 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28206-adb-wireless-manager</link>
-      <description>ADB Wireless Manager - Enhanced Version A comprehensive plugin for managing wireless ADB connections with automatic SDK detection. Features: &#x1f527; Automatic Android SDK...
-
-vendor: Rahmanrezaee
-downloads: 82
-pricingModel: FREE
-xmlId: com.adbwireless.plugin</description>
-      <pubDate>Thu, 14 Aug 2025 20:19:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28206-adb-wireless-manager</guid>
-      <dc:date>2025-08-14T20:19:20Z</dc:date>
-    </item>
-    <item>
-      <title>DSF Highlighter - Thu Aug 21 20:32:48 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28182-dsf-highlighter</link>
-      <description>DSF Syntax Highlighting DSF Syntax Highlighting adds rich syntax coloring and formatting awareness for .dsf files — a custom XML‑like configuration format. Features...
-
-vendor: michaelbergmann
-downloads: 49
-pricingModel: FREE
-xmlId: dev.michaelbergmann.dsfintellij</description>
-      <pubDate>Thu, 21 Aug 2025 20:32:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28182-dsf-highlighter</guid>
-      <dc:date>2025-08-21T20:32:48Z</dc:date>
-    </item>
-    <item>
-      <title>Pseudo Engine - Tue Aug 19 19:40:56 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28133-pseudo-engine</link>
-      <description>The Pseudo Engine is a powerful developer-first AI tool that focuses on structured AI code-gen, AI-safe versioning, and codebase visibility/readability.
-
-vendor: LaunchCo Innovations
-downloads: 94
-pricingModel: FREE
-xmlId: com.recursionai.pseudo</description>
-      <pubDate>Tue, 19 Aug 2025 19:40:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28133-pseudo-engine</guid>
-      <dc:date>2025-08-19T19:40:56Z</dc:date>
-    </item>
-    <item>
-      <title>Cangjie Xiaozhi - Wed Aug 13 16:00:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28153-cangjie-xiaozhi</link>
-      <description>Cangjie XiaoZhi is an AI coding assistant plugin that integrates with Tencent Yuanbao to help developers analyze code. The plugin allows you to send selected code...
-
-vendor: Sean Dong
-downloads: 52
-pricingModel: FREE
-xmlId: com.cangjie.xiaozhi</description>
-      <pubDate>Wed, 13 Aug 2025 16:00:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28153-cangjie-xiaozhi</guid>
-      <dc:date>2025-08-13T16:00:46Z</dc:date>
     </item>
   </channel>
 </rss>
