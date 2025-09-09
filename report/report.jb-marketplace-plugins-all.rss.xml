@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>HDPro-Tools - Mon Sep 08 08:20:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28383-hdpro-tools</link>
+      <description>Ruacon Tools - Image OptimizerA lightweight plugin for Android Studio that helps you optimize images directly inside your project:Scan all images in res/drawable and...
+
+vendor: ruaconytl
+downloads: 3
+pricingModel: FREE
+xmlId: com.github.ruaconytl.plugins</description>
+      <pubDate>Mon, 08 Sep 2025 08:20:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28383-hdpro-tools</guid>
+      <dc:date>2025-09-08T08:20:59Z</dc:date>
+    </item>
+    <item>
+      <title>JarPilot - Mon Sep 08 08:34:12 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28416-jarpilot</link>
+      <description>A lightweight tool for managing remote Spring Boot services directly inside IntelliJ IDEA. Upload JAR files to remote servers Start &amp;amp; stop Spring Boot services...
+
+vendor: Tong Xue Hao
+downloads: 0
+pricingModel: FREE
+xmlId: org.htx</description>
+      <pubDate>Mon, 08 Sep 2025 08:34:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28416-jarpilot</guid>
+      <dc:date>2025-09-08T08:34:12Z</dc:date>
+    </item>
+    <item>
+      <title>InterfaceX - Tue Sep 09 06:05:24 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28412-interfacex</link>
+      <description>A simple and easy-to-use component interface viewer for IntelliJ IDEA. Supports viewing entry points of HTTP, OpenFeign, RabbitMQ consumers, RocketMQ consumers, and...
+
+vendor: Kaylves
+downloads: 0
+pricingModel: FREE
+xmlId: com.kaylves.interfacex</description>
+      <pubDate>Tue, 09 Sep 2025 06:05:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28412-interfacex</guid>
+      <dc:date>2025-09-09T06:05:24Z</dc:date>
+    </item>
+    <item>
+      <title>Lite-workspace - Mon Sep 08 14:10:14 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28398-lite-workspace</link>
+      <description>LiteWorkspace is a lightweight IntelliJ IDEA plugin designed to optimize Spring application startup. It scans and analyzes component definitions to reduce unnecessary...
+
+vendor: tigacat
+downloads: 2
+pricingModel: FREE
+xmlId: io.perfmark.lite-workspace</description>
+      <pubDate>Mon, 08 Sep 2025 14:10:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28398-lite-workspace</guid>
+      <dc:date>2025-09-08T14:10:14Z</dc:date>
+    </item>
+    <item>
       <title>Gradle With Me(GPVP) - Mon Sep 08 10:35:06 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28419-gradle-with-me-gpvp-</link>
       <description>Gradle Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version...
@@ -1252,58 +1304,6 @@ xmlId: io.github.projecthsf.go.playground</description>
       <pubDate>Wed, 20 Aug 2025 13:52:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28244-go-playground</guid>
       <dc:date>2025-08-20T13:52:39Z</dc:date>
-    </item>
-    <item>
-      <title>PrideBars - Tue Aug 26 12:37:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28246-pridebars</link>
-      <description>Fancy Pride-themed bars for your favorite JetBrains IDE.
-
-vendor: Lumanyx
-downloads: 75
-pricingModel: FREE
-xmlId: fm.luma.pridebars.PrideBars</description>
-      <pubDate>Tue, 26 Aug 2025 12:37:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28246-pridebars</guid>
-      <dc:date>2025-08-26T12:37:39Z</dc:date>
-    </item>
-    <item>
-      <title>One-Click Migration - Thu Aug 28 00:49:25 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28191-one-click-migration</link>
-      <description>One-Click Google Play to Aptoide Billing Migration Plugin for Android Studio Effortlessly migrate your Android apps from Google Play Billing to the Aptoide Billing SDK...
-
-vendor: Aptoide
-downloads: 76
-pricingModel: FREE
-xmlId: aptoide.oneclickmigration</description>
-      <pubDate>Thu, 28 Aug 2025 00:49:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28191-one-click-migration</guid>
-      <dc:date>2025-08-28T00:49:25Z</dc:date>
-    </item>
-    <item>
-      <title>Fast-Scroll - Thu Aug 21 11:57:45 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28254-fast-scroll</link>
-      <description>Allows you to scroll faster by holding CTRL. Perfectly emulates Eclipse's CTRL-scroll out of the box, but also fully customizable. Supports both block (like Eclipse...
-
-vendor: Jire
-downloads: 118
-pricingModel: FREE
-xmlId: org.jire.jetbrains.plugin.fast-scroll</description>
-      <pubDate>Thu, 21 Aug 2025 11:57:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28254-fast-scroll</guid>
-      <dc:date>2025-08-21T11:57:45Z</dc:date>
-    </item>
-    <item>
-      <title>MCP Java Source - Thu Aug 21 12:00:09 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28228-mcp-java-source</link>
-      <description>MCP extension for obtaining Java class source code Require JetBrains MCP Server.
-
-vendor: Cui-xf
-downloads: 29
-pricingModel: FREE
-xmlId: org.cc.mcp-java-source</description>
-      <pubDate>Thu, 21 Aug 2025 12:00:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28228-mcp-java-source</guid>
-      <dc:date>2025-08-21T12:00:09Z</dc:date>
     </item>
   </channel>
 </rss>
