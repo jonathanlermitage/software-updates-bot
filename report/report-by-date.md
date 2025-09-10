@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|24.8.0|[nodejs.org](https://nodejs.org)|Wed Sep 10 20:03:46 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2.2 (252.26199.7) ~ 2025-09-03|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 04 00:05:54 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.25.1|[golang.org](https://golang.org/dl/)|Wed Sep 03 20:02:52 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.1 (252.25557.131) ~ 2025-08-29|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Aug 29 12:03:14 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.19.0|[nodejs.org](https://nodejs.org)|Fri Aug 29 00:06:07 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS Current|24.7.0|[nodejs.org](https://nodejs.org)|Thu Aug 28 00:05:57 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Aug 21 16:03:51 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.7|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 14 20:03:13 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Aug 14 20:03:12 UTC 2025|
