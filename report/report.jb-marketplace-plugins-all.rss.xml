@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>BoltDB Explorer - Wed Sep 10 19:59:54 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28440-boltdb-explorer</link>
+      <description>BoltDB Explorer for IntelliJ IDEA - Browse and manage BoltDB database files directly within your IDE. Features include browsing buckets, viewing key-value pairs...
+
+vendor: Owen Rumney
+downloads: 0
+pricingModel: FREE
+xmlId: co.uk.owenrumney.boltdb-explorer-intellij</description>
+      <pubDate>Wed, 10 Sep 2025 19:59:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28440-boltdb-explorer</guid>
+      <dc:date>2025-09-10T19:59:54Z</dc:date>
+    </item>
+    <item>
+      <title>Active Context - Wed Sep 10 16:48:25 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28441-active-context</link>
+      <description>Exposes the active editor's file path and selected text via a REST API for integration with external tools and automation scripts. Features: REST API endpoint at...
+
+vendor: Tony Markham
+downloads: 0
+pricingModel: FREE
+xmlId: com.onlineentity.active-context</description>
+      <pubDate>Wed, 10 Sep 2025 16:48:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28441-active-context</guid>
+      <dc:date>2025-09-10T16:48:25Z</dc:date>
+    </item>
+    <item>
+      <title>build-sync-metrics - Wed Sep 10 21:32:03 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28394-build-sync-metrics</link>
+      <description>Reports IDE sync performance https://github.com/block/ide-metrics-plugin.
+
+vendor: Block, Inc.
+downloads: 2
+pricingModel: FREE
+xmlId: xyz.block.idea.telemetry</description>
+      <pubDate>Wed, 10 Sep 2025 21:32:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28394-build-sync-metrics</guid>
+      <dc:date>2025-09-10T21:32:03Z</dc:date>
+    </item>
+    <item>
+      <title>CodeMark - Tue Sep 09 14:53:34 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28427-codemark</link>
+      <description>Plugin for highlighting code blocks, taking notes, and managing bookmarks.
+
+vendor: Henry Hwang
+downloads: 0
+pricingModel: FREE
+xmlId: com.plug.codemarkplugin</description>
+      <pubDate>Tue, 09 Sep 2025 14:53:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28427-codemark</guid>
+      <dc:date>2025-09-09T14:53:34Z</dc:date>
+    </item>
+    <item>
+      <title>AxiosCodeGen - Wed Sep 10 08:52:22 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28431-axioscodegen</link>
+      <description>Adds support for generating Axios code and JSDoc from SpringMVC Controller classes. Features： Support generating "xxxApi.js" file from "xxxController.java" through the...
+
+vendor: HenryKang
+downloads: 0
+pricingModel: FREE
+xmlId: site.henrykang.plugin.axios-code-gen</description>
+      <pubDate>Wed, 10 Sep 2025 08:52:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28431-axioscodegen</guid>
+      <dc:date>2025-09-10T08:52:22Z</dc:date>
+    </item>
+    <item>
+      <title>FastConvert - Wed Sep 10 10:14:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28433-fastconvert</link>
+      <description>Introduction FastConvert is designed to streamline the process of object conversion in Java projects, eliminating the need for verbose code like x.set(y.get). Its...
+
+vendor: zhen
+downloads: 0
+pricingModel: FREE
+xmlId: com.zhen.fastConvert</description>
+      <pubDate>Wed, 10 Sep 2025 10:14:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28433-fastconvert</guid>
+      <dc:date>2025-09-10T10:14:40Z</dc:date>
+    </item>
+    <item>
+      <title>key-switch - Wed Sep 10 09:30:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28418-key-switch</link>
+      <description>key-switch Automatically switch between Chinese and English input states based on the character type in front of the cursor, making your input experience as smooth as...
+
+vendor: z1263188600
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.zy1263188600.keyswitch</description>
+      <pubDate>Wed, 10 Sep 2025 09:30:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28418-key-switch</guid>
+      <dc:date>2025-09-10T09:30:40Z</dc:date>
+    </item>
+    <item>
       <title>Aleutian Beacon - Fri Aug 22 22:23:46 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/27863-aleutian-beacon</link>
       <description>Coding Coach Aleutian Beacon Analyzes your coding patterns and provides personalized feedback to help you improve. Beacon tracks your changes, refactorings, and other...
@@ -175,7 +266,7 @@ xmlId: com.markdown.editor.plugin</description>
       <dc:date>2025-09-09T11:24:33Z</dc:date>
     </item>
     <item>
-      <title>System Notifier - Fri Sep 05 16:00:26 UTC 2025</title>
+      <title>System Notifier - Tue Sep 09 16:52:58 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28392-system-notifier</link>
       <description>Add native system notifications to the IDE What does this plugin do? It turns important IDE events into native operating system notifications. This way, you can follow...
 
@@ -183,9 +274,9 @@ vendor: Anbora Labs
 downloads: 13
 pricingModel: PAID
 xmlId: co.anbora.labs.system.notifier</description>
-      <pubDate>Fri, 05 Sep 2025 16:00:26 GMT</pubDate>
+      <pubDate>Tue, 09 Sep 2025 16:52:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28392-system-notifier</guid>
-      <dc:date>2025-09-05T16:00:26Z</dc:date>
+      <dc:date>2025-09-09T16:52:58Z</dc:date>
     </item>
     <item>
       <title>Smart Code Screenshots - Fri Sep 05 13:08:25 UTC 2025</title>
@@ -357,7 +448,7 @@ xmlId: lermitage.showsystemmemory</description>
       <dc:date>2025-09-08T23:12:34Z</dc:date>
     </item>
     <item>
-      <title>WP Template Coder - Fri Sep 05 09:23:36 UTC 2025</title>
+      <title>WP Template Coder - Wed Sep 10 03:06:00 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28367-wp-template-coder</link>
       <description>Template management plugin for Android Studio with sharing capabilities. Features: Local Template Management Quick access to template settings Import/Export templates...
 
@@ -365,9 +456,9 @@ vendor: 田锐杰
 downloads: 17
 pricingModel: FREE
 xmlId: com.wepie.coder.wpcoder</description>
-      <pubDate>Fri, 05 Sep 2025 09:23:36 GMT</pubDate>
+      <pubDate>Wed, 10 Sep 2025 03:06:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28367-wp-template-coder</guid>
-      <dc:date>2025-09-05T09:23:36Z</dc:date>
+      <dc:date>2025-09-10T03:06:00Z</dc:date>
     </item>
     <item>
       <title>Vim AnyObject - Sun Sep 07 20:51:24 UTC 2025</title>
@@ -1213,97 +1304,6 @@ xmlId: gedcom-support</description>
       <pubDate>Mon, 25 Aug 2025 08:42:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28266-gedcom-syntax-support</guid>
       <dc:date>2025-08-25T08:42:27Z</dc:date>
-    </item>
-    <item>
-      <title>NetLinx Tools - Mon Aug 25 16:54:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28261-netlinx-tools</link>
-      <description>NetLinx Tools NetLinx Tools is a JetBrains IDE plugin for AMX NetLinx developers that makes working with NetLinx code faster and more convenient. Syntax highlighting...
-
-vendor: meanmail.dev
-downloads: 56
-pricingModel: PAID
-xmlId: dev.meanmail.plugin.netlinx</description>
-      <pubDate>Mon, 25 Aug 2025 16:54:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28261-netlinx-tools</guid>
-      <dc:date>2025-08-25T16:54:28Z</dc:date>
-    </item>
-    <item>
-      <title>Codex Launcher - Mon Sep 08 22:00:14 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28264-codex-launcher</link>
-      <description>IMPORTANT: This plugin requires OpenAI Codex CLI to be installed separately. Overview An unofficial IntelliJ IDEA plugin that seamlessly integrates OpenAI Codex CLI...
-
-vendor: x0x0b
-downloads: 3305
-pricingModel: FREE
-xmlId: com.github.x0x0b.codex-launcher</description>
-      <pubDate>Mon, 08 Sep 2025 22:00:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28264-codex-launcher</guid>
-      <dc:date>2025-09-08T22:00:14Z</dc:date>
-    </item>
-    <item>
-      <title>Typescript Namespace Imports - Mon Sep 01 03:32:00 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28036-typescript-namespace-imports</link>
-      <description>Description This plugin helps you with namespace imports when writing code. A namespace import is an import like: import * as moduleName from 'path/to/module_name...
-
-vendor: Eric Chen
-downloads: 127
-pricingModel: FREE
-xmlId: com.github.echentw.typescriptnamespaceimports</description>
-      <pubDate>Mon, 01 Sep 2025 03:32:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28036-typescript-namespace-imports</guid>
-      <dc:date>2025-09-01T03:32:00Z</dc:date>
-    </item>
-    <item>
-      <title>Hibernate Log - Mon Sep 08 16:07:57 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28166-hibernate-log</link>
-      <description>Hibernate Log - Make SQL Debugging Simple and Efficient! Tired of not seeing complete SQL statements in your Hibernate projects? This plugin will completely transform...
-
-vendor: yalonglee
-downloads: 63
-pricingModel: FREE
-xmlId: org.tiktok.plugin.hibernate.log</description>
-      <pubDate>Mon, 08 Sep 2025 16:07:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28166-hibernate-log</guid>
-      <dc:date>2025-09-08T16:07:57Z</dc:date>
-    </item>
-    <item>
-      <title>Pathfinder - Sun Aug 24 10:09:12 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28248-pathfinder</link>
-      <description>IntelliJ plugin for file path completion in Markdown files. Type @ in a Markdown file to trigger file path completion from your project.
-
-vendor: Bill Hedworth
-downloads: 44
-pricingModel: FREE
-xmlId: com.hedworth.pathfinder</description>
-      <pubDate>Sun, 24 Aug 2025 10:09:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28248-pathfinder</guid>
-      <dc:date>2025-08-24T10:09:12Z</dc:date>
-    </item>
-    <item>
-      <title>File Relationships - Tue Aug 26 04:37:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28258-file-relationships</link>
-      <description>Define relationships between files based on folder/path patterns and open the related file in one click. How it works: The plugin computes the file path relative to...
-
-vendor: Aaron Seabrook
-downloads: 15
-pricingModel: FREE
-xmlId: com.aaronseabrook.plugins.filerelationships</description>
-      <pubDate>Tue, 26 Aug 2025 04:37:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28258-file-relationships</guid>
-      <dc:date>2025-08-26T04:37:33Z</dc:date>
-    </item>
-    <item>
-      <title>Windsurf (Remote Development) - Sun Sep 07 20:03:25 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28187-windsurf-remote-development-</link>
-      <description>Windsurf Plugin (Remote Development) This is the remote development compatible version of the Windsurf Plugin. Please install the plugin on both the host and client...
-
-vendor: Windsurf
-downloads: 22188
-pricingModel: FREE
-xmlId: com.codeium.rd</description>
-      <pubDate>Sun, 07 Sep 2025 20:03:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28187-windsurf-remote-development-</guid>
-      <dc:date>2025-09-07T20:03:25Z</dc:date>
     </item>
   </channel>
 </rss>
