@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>SecureFlag Analyzer - Wed Sep 10 08:07:03 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28430-secureflag-analyzer</link>
+      <description>The SecureFlag Vulnerability Analyzer plugin brings continuous security analysis to your IntelliJ IDE. By integrating with leading LLM APIs (Anthropic and ChatGPT), it...
+
+vendor: SecureFlag Limited
+downloads: 0
+pricingModel: FREE
+xmlId: com.secureflag.plugin</description>
+      <pubDate>Wed, 10 Sep 2025 08:07:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28430-secureflag-analyzer</guid>
+      <dc:date>2025-09-10T08:07:03Z</dc:date>
+    </item>
+    <item>
+      <title>BigClean Scanner - Thu Sep 11 04:15:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28432-bigclean-scanner</link>
+      <description>BigClean Scanner - Code Cleanup Analysis Tool A powerful IntelliJ IDEA plugin for analyzing unused code in your projects, helping developers clean and maintain their...
+
+vendor: hello sheng
+downloads: 0
+pricingModel: FREE
+xmlId: com.hello.bigclean.scanner</description>
+      <pubDate>Thu, 11 Sep 2025 04:15:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28432-bigclean-scanner</guid>
+      <dc:date>2025-09-11T04:15:40Z</dc:date>
+    </item>
+    <item>
       <title>ETRX Code Reviewer - Thu Sep 11 06:43:34 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28439-etrx-code-reviewer</link>
       <description>AI-powered code review plugin for JetBrains IDEs. Features AI code review with customizable prompts Support for Ollama models (default: qwen3:8b) and OpenRouter...
@@ -32,7 +58,7 @@ xmlId: org.marry.SqlParse</description>
       <dc:date>2025-09-11T06:06:27Z</dc:date>
     </item>
     <item>
-      <title>BoltDB Explorer - Wed Sep 10 19:59:54 UTC 2025</title>
+      <title>BoltDB Explorer - Thu Sep 11 08:57:13 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28440-boltdb-explorer</link>
       <description>BoltDB Explorer for IntelliJ IDEA - Browse and manage BoltDB database files directly within your IDE. Features include browsing buckets, viewing key-value pairs...
 
@@ -40,9 +66,9 @@ vendor: Owen Rumney
 downloads: 8
 pricingModel: FREE
 xmlId: co.uk.owenrumney.boltdb-explorer-intellij</description>
-      <pubDate>Wed, 10 Sep 2025 19:59:54 GMT</pubDate>
+      <pubDate>Thu, 11 Sep 2025 08:57:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28440-boltdb-explorer</guid>
-      <dc:date>2025-09-10T19:59:54Z</dc:date>
+      <dc:date>2025-09-11T08:57:13Z</dc:date>
     </item>
     <item>
       <title>Active Context - Wed Sep 10 16:48:25 UTC 2025</title>
@@ -799,7 +825,7 @@ xmlId: cz.uxf.plugin</description>
       <dc:date>2025-09-04T06:51:56Z</dc:date>
     </item>
     <item>
-      <title>Minecraft Mod Publish Utils - Thu Sep 04 05:32:36 UTC 2025</title>
+      <title>Minecraft Mod Publish Utils - Thu Sep 11 11:51:47 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28320-minecraft-mod-publish-utils</link>
       <description>Help developers publish mods faster and publish mods to multiple supported platforms with just a few clicks.
 
@@ -807,9 +833,9 @@ vendor: Lawson Kay
 downloads: 101
 pricingModel: FREE
 xmlId: one.pkg.modpublish</description>
-      <pubDate>Thu, 04 Sep 2025 05:32:36 GMT</pubDate>
+      <pubDate>Thu, 11 Sep 2025 11:51:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28320-minecraft-mod-publish-utils</guid>
-      <dc:date>2025-09-04T05:32:36Z</dc:date>
+      <dc:date>2025-09-11T11:51:47Z</dc:date>
     </item>
     <item>
       <title>Atomic - Fri Aug 29 14:33:03 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: dev.ghostflyby.ideavim.toggleIME</description>
       <pubDate>Mon, 25 Aug 2025 18:09:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28285-vim-toggle-ime</guid>
       <dc:date>2025-08-25T18:09:35Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis SQL Extractor - Mon Aug 25 11:38:06 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28282-mybatis-sql-extractor</link>
-      <description>MyBatis SQL Extractor English (EN): Extract and preview SQL from MyBatis XML. Copy with one click, syntax-highlighted preview. 中文：从 MyBatis Mapper XML 提取 SQL。 Quickly...
-
-vendor: Jiawei Li
-downloads: 23
-pricingModel: FREE
-xmlId: com.lee.mybatis.sql.extractor</description>
-      <pubDate>Mon, 25 Aug 2025 11:38:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28282-mybatis-sql-extractor</guid>
-      <dc:date>2025-08-25T11:38:06Z</dc:date>
-    </item>
-    <item>
-      <title>Meowsic Player - Tue Aug 26 09:15:50 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28287-meowsic-player</link>
-      <description>Integrate music player and visualizer to your IDE Features Track players and display the top first listedVisualize audioControl playback (play/pause, next/previous...
-
-vendor: Fiaro Miangaly
-downloads: 35
-pricingModel: FREE
-xmlId: com.github.emiilia.meowsicplayer</description>
-      <pubDate>Tue, 26 Aug 2025 09:15:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28287-meowsic-player</guid>
-      <dc:date>2025-08-26T09:15:50Z</dc:date>
     </item>
   </channel>
 </rss>
