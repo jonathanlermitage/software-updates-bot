@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FindUsagesInProto - Fri Sep 12 18:37:01 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28457-findusagesinproto</link>
+      <description>Finds declaration of generated class in .proto files.
+
+vendor: Advitalitum
+downloads: 0
+pricingModel: FREE
+xmlId: FindUsagesInProto</description>
+      <pubDate>Fri, 12 Sep 2025 18:37:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28457-findusagesinproto</guid>
+      <dc:date>2025-09-12T18:37:01Z</dc:date>
+    </item>
+    <item>
+      <title>Simpli Forge Manifest Validator - Thu Sep 11 19:26:53 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28201-simpli-forge-manifest-validator</link>
+      <description>Simpli Forge Manifest Validator Streamline your Forge development with smart tooling inside IntelliJ IDEA: Manifest-aware editing — Get instant schema validation and...
+
+vendor: simpli.fyi
+downloads: 16
+pricingModel: PAID
+xmlId: simpli.fyi.plugins.forge.manifest.validator</description>
+      <pubDate>Thu, 11 Sep 2025 19:26:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28201-simpli-forge-manifest-validator</guid>
+      <dc:date>2025-09-11T19:26:53Z</dc:date>
+    </item>
+    <item>
+      <title>Hochleuchter - Fri Sep 12 13:26:42 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28359-hochleuchter</link>
+      <description>Hochleuchter — highlight any text your way Hochleuchter lets you define rules to highlight text in the editor with custom foreground and background colors. Choose...
+
+vendor: Philip Claren
+downloads: 4
+pricingModel: FREE
+xmlId: com.claren.Hochleuchter</description>
+      <pubDate>Fri, 12 Sep 2025 13:26:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28359-hochleuchter</guid>
+      <dc:date>2025-09-12T13:26:42Z</dc:date>
+    </item>
+    <item>
+      <title>LiveLatex - Fri Sep 12 07:11:10 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28449-livelatex</link>
+      <description>LiveLatex LiveLatex LiveLatex: An Intellij IDEA plugin. A LaTeX editor with live preview, insert image... generate table.... Work in progress &#x1f60e;.
+
+vendor: Omar.Iskandarani
+downloads: 0
+pricingModel: FREE
+xmlId: com.omariskandarani.livelatex</description>
+      <pubDate>Fri, 12 Sep 2025 07:11:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28449-livelatex</guid>
+      <dc:date>2025-09-12T07:11:10Z</dc:date>
+    </item>
+    <item>
       <title>Phel Lang - Fri Sep 12 14:18:29 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28459-phel-lang</link>
       <description>Phel is a functional programming language that transpiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet. IDE Features Intelligent Code Completion...
@@ -1252,58 +1304,6 @@ xmlId: mitchinson.cpb</description>
       <pubDate>Tue, 26 Aug 2025 04:47:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28270-celeste-progress-bar</guid>
       <dc:date>2025-08-26T04:47:23Z</dc:date>
-    </item>
-    <item>
-      <title>Code With BongoCat - Tue Aug 26 18:00:40 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28260-code-with-bongocat</link>
-      <description>Bongo cat types with you as you code. You can drag the cat where-ever you want on your screen, and you can set a custom size! Includes an idle pose for when you are...
-
-vendor: physicsgeek75
-downloads: 121
-pricingModel: FREE
-xmlId: com.physicsgeek75.bongo</description>
-      <pubDate>Tue, 26 Aug 2025 18:00:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28260-code-with-bongocat</guid>
-      <dc:date>2025-08-26T18:00:40Z</dc:date>
-    </item>
-    <item>
-      <title>Boson PHP - Mon Aug 25 08:37:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28278-boson-php</link>
-      <description>Support of BosonPHP for IntelliJ IDEA. Boson is a modern, lightweight, and fast PHP framework for building native applications. Read me: https://bosonphp.com/.
-
-vendor: xepozz
-downloads: 17
-pricingModel: FREE
-xmlId: com.github.xepozz.boson</description>
-      <pubDate>Mon, 25 Aug 2025 08:37:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28278-boson-php</guid>
-      <dc:date>2025-08-25T08:37:05Z</dc:date>
-    </item>
-    <item>
-      <title>Schemagator - Wed Aug 27 14:57:30 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28291-schemagator</link>
-      <description>After the Zalando plugin stopped updating, the idea of this plugin was conceived. The main is adding support for json schema. IDE can not support files navigation in...
-
-vendor: Richardas Kuchinskas
-downloads: 68
-pricingModel: FREE
-xmlId: com.github.hidanio.schemagator</description>
-      <pubDate>Wed, 27 Aug 2025 14:57:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28291-schemagator</guid>
-      <dc:date>2025-08-27T14:57:30Z</dc:date>
-    </item>
-    <item>
-      <title>Tree Description - Tue Sep 09 05:14:09 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28276-tree-description</link>
-      <description>Tree Description - A lightweight tool for adding notes to your project tree in IntelliJ IDEA. Key Features Support for Chinese/English interface switching Add notes on...
-
-vendor: zhixin cao
-downloads: 229
-pricingModel: FREE
-xmlId: com.github.chinese-annotations</description>
-      <pubDate>Tue, 09 Sep 2025 05:14:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28276-tree-description</guid>
-      <dc:date>2025-09-09T05:14:09Z</dc:date>
     </item>
   </channel>
 </rss>
