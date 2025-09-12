@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Mago - Fri Sep 12 06:59:22 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28437-mago</link>
+      <description>Github | Telegram | Donation Mago The Oxidized PHP Toolchain. A blazing fast linter, formatter, and static analyzer for PHP, written in Rust. ⚡️The fastest toolchain...
+
+vendor: xepozz
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.xepozz.mago</description>
+      <pubDate>Fri, 12 Sep 2025 06:59:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28437-mago</guid>
+      <dc:date>2025-09-12T06:59:22Z</dc:date>
+    </item>
+    <item>
+      <title>Xross Tools Extension - Mon Sep 08 07:10:01 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28413-xross-tools-extension</link>
+      <description>Xross Tools Extension provides addons to x-series tools, such as xunit, xstate, xdecision, xbehavior and xflow. This plugin depends on com.xrosstools.idea.gef since...
+
+vendor: XrossTools
+downloads: 4
+pricingModel: PAID
+xmlId: com.xrosstools.idea.extension</description>
+      <pubDate>Mon, 08 Sep 2025 07:10:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28413-xross-tools-extension</guid>
+      <dc:date>2025-09-08T07:10:01Z</dc:date>
+    </item>
+    <item>
       <title>SecureFlag Analyzer - Wed Sep 10 08:07:03 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28430-secureflag-analyzer</link>
       <description>The SecureFlag Vulnerability Analyzer plugin brings continuous security analysis to your IntelliJ IDE. By integrating with leading LLM APIs (Anthropic and ChatGPT), it...
@@ -123,7 +149,7 @@ xmlId: site.henrykang.plugin.axios-code-gen</description>
       <dc:date>2025-09-10T08:52:22Z</dc:date>
     </item>
     <item>
-      <title>FastConvert - Wed Sep 10 10:14:40 UTC 2025</title>
+      <title>FastConvert - Fri Sep 12 11:07:35 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28433-fastconvert</link>
       <description>Introduction FastConvert is designed to streamline the process of object conversion in Java projects, eliminating the need for verbose code like x.set(y.get). Its...
 
@@ -131,9 +157,9 @@ vendor: zhen
 downloads: 10
 pricingModel: FREE
 xmlId: com.zhen.fastConvert</description>
-      <pubDate>Wed, 10 Sep 2025 10:14:40 GMT</pubDate>
+      <pubDate>Fri, 12 Sep 2025 11:07:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28433-fastconvert</guid>
-      <dc:date>2025-09-10T10:14:40Z</dc:date>
+      <dc:date>2025-09-12T11:07:35Z</dc:date>
     </item>
     <item>
       <title>key-switch - Wed Sep 10 09:30:40 UTC 2025</title>
@@ -266,7 +292,7 @@ xmlId: com.yourname.pojo2js_ts</description>
       <dc:date>2025-09-06T05:49:38Z</dc:date>
     </item>
     <item>
-      <title>ICommit - Tue Sep 09 23:43:22 UTC 2025</title>
+      <title>ICommit - Fri Sep 12 11:13:49 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28406-icommit</link>
       <description>It is an AI-based code submission tool that automatically generates compliant submissions based on code changes. Features Support customization of...
 
@@ -274,9 +300,9 @@ vendor: kivn
 downloads: 42
 pricingModel: FREE
 xmlId: org.flooc.plugin.icommit</description>
-      <pubDate>Tue, 09 Sep 2025 23:43:22 GMT</pubDate>
+      <pubDate>Fri, 12 Sep 2025 11:13:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28406-icommit</guid>
-      <dc:date>2025-09-09T23:43:22Z</dc:date>
+      <dc:date>2025-09-12T11:13:49Z</dc:date>
     </item>
     <item>
       <title>RAG Inspector - Sun Sep 07 18:07:36 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: com.github.leo_proger.tab_sorter</description>
       <pubDate>Mon, 25 Aug 2025 08:45:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28252-tab-sorter</guid>
       <dc:date>2025-08-25T08:45:57Z</dc:date>
-    </item>
-    <item>
-      <title>Dev Utils - Tue Sep 02 14:10:52 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28271-dev-utils</link>
-      <description>- Apply with dataset: Allow you apply a piece of code to dataset, its helpful for create DTO converters - Name case utils: Convert selected to camel case (yourName...
-
-vendor: Jin Nguyen
-downloads: 60
-pricingModel: FREE
-xmlId: io.github.projecthsf.devutils</description>
-      <pubDate>Tue, 02 Sep 2025 14:10:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28271-dev-utils</guid>
-      <dc:date>2025-09-02T14:10:52Z</dc:date>
-    </item>
-    <item>
-      <title>Vim Toggle IME - Mon Aug 25 18:09:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28285-vim-toggle-ime</link>
-      <description>Auto Disable IME in IdeaVim normal mode. In your ideavimrc set autotoggleime.
-
-vendor: Pan Honglei
-downloads: 37
-pricingModel: FREE
-xmlId: dev.ghostflyby.ideavim.toggleIME</description>
-      <pubDate>Mon, 25 Aug 2025 18:09:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28285-vim-toggle-ime</guid>
-      <dc:date>2025-08-25T18:09:35Z</dc:date>
     </item>
   </channel>
 </rss>
