@@ -5,5 +5,57 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>Collections Viewer in Debugger - Fri Sep 12 14:26:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</link>
+      <description>Support for Collections Viewer in Debugger. Allows to inspect collections in a grid format. Currently supported languages: Java Kotlin.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.debugger.collections.visualizer</description>
+      <pubDate>Fri, 12 Sep 2025 14:26:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</guid>
+      <dc:date>2025-09-12T14:26:44Z</dc:date>
+    </item>
+    <item>
+      <title>Turbo Complete - Fri Sep 12 14:27:28 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28462-turbo-complete</link>
+      <description>Experimental approach to speed up code completion. The plugin implements a new approach to improve code completion's performance perception. Currently, it works only...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.turboComplete</description>
+      <pubDate>Fri, 12 Sep 2025 14:27:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28462-turbo-complete</guid>
+      <dc:date>2025-09-12T14:27:28Z</dc:date>
+    </item>
+    <item>
+      <title>Machine Learning in Marketplace - Fri Sep 12 14:28:20 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28463-machine-learning-in-marketplace</link>
+      <description>The plugin improves the Marketplace search feature by ordering the search results using machine learning, making more relevant results appear higher up the list...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.marketplace.ml</description>
+      <pubDate>Fri, 12 Sep 2025 14:28:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28463-machine-learning-in-marketplace</guid>
+      <dc:date>2025-09-12T14:28:20Z</dc:date>
+    </item>
+    <item>
+      <title>PythonDAP - Fri Sep 12 14:26:27 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28460-pythondap</link>
+      <description>Provides DAP debugger support for all JetBrains IDEs that support Python.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.python.dap.plugin</description>
+      <pubDate>Fri, 12 Sep 2025 14:26:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28460-pythondap</guid>
+      <dc:date>2025-09-12T14:26:27Z</dc:date>
+    </item>
   </channel>
 </rss>

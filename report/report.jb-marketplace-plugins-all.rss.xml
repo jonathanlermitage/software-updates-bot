@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Phel Lang - Fri Sep 12 14:18:29 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28459-phel-lang</link>
+      <description>Phel is a functional programming language that transpiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet. IDE Features Intelligent Code Completion...
+
+vendor: Phel Lang
+downloads: 0
+pricingModel: FREE
+xmlId: org.phellang</description>
+      <pubDate>Fri, 12 Sep 2025 14:18:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28459-phel-lang</guid>
+      <dc:date>2025-09-12T14:18:29Z</dc:date>
+    </item>
+    <item>
+      <title>Collections Viewer in Debugger - Fri Sep 12 14:26:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</link>
+      <description>Support for Collections Viewer in Debugger. Allows to inspect collections in a grid format. Currently supported languages: Java Kotlin.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.debugger.collections.visualizer</description>
+      <pubDate>Fri, 12 Sep 2025 14:26:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</guid>
+      <dc:date>2025-09-12T14:26:44Z</dc:date>
+    </item>
+    <item>
+      <title>Turbo Complete - Fri Sep 12 14:27:28 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28462-turbo-complete</link>
+      <description>Experimental approach to speed up code completion. The plugin implements a new approach to improve code completion's performance perception. Currently, it works only...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.turboComplete</description>
+      <pubDate>Fri, 12 Sep 2025 14:27:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28462-turbo-complete</guid>
+      <dc:date>2025-09-12T14:27:28Z</dc:date>
+    </item>
+    <item>
+      <title>Machine Learning in Marketplace - Fri Sep 12 14:28:20 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28463-machine-learning-in-marketplace</link>
+      <description>The plugin improves the Marketplace search feature by ordering the search results using machine learning, making more relevant results appear higher up the list...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.marketplace.ml</description>
+      <pubDate>Fri, 12 Sep 2025 14:28:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28463-machine-learning-in-marketplace</guid>
+      <dc:date>2025-09-12T14:28:20Z</dc:date>
+    </item>
+    <item>
+      <title>PythonDAP - Fri Sep 12 14:26:27 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28460-pythondap</link>
+      <description>Provides DAP debugger support for all JetBrains IDEs that support Python.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.python.dap.plugin</description>
+      <pubDate>Fri, 12 Sep 2025 14:26:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28460-pythondap</guid>
+      <dc:date>2025-09-12T14:26:27Z</dc:date>
+    </item>
+    <item>
       <title>Mago - Fri Sep 12 06:59:22 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28437-mago</link>
       <description>Github | Telegram | Donation Mago The Oxidized PHP Toolchain. A blazing fast linter, formatter, and static analyzer for PHP, written in Rust. ⚡️The fastest toolchain...
@@ -1239,71 +1304,6 @@ xmlId: com.github.chinese-annotations</description>
       <pubDate>Tue, 09 Sep 2025 05:14:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28276-tree-description</guid>
       <dc:date>2025-09-09T05:14:09Z</dc:date>
-    </item>
-    <item>
-      <title>Pomodoro Healthy Exercise Timer - Fri Aug 22 17:55:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28259-pomodoro-healthy-exercise-timer</link>
-      <description>A Pomodoro style productivity timer designed specifically for engineers to maintain optimal health while coding. This plugin combines the proven Pomodoro technique...
-
-vendor: Vladislav Ogorodnik
-downloads: 43
-pricingModel: PAID
-xmlId: healthy.engineer.healthy-engineer</description>
-      <pubDate>Fri, 22 Aug 2025 17:55:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28259-pomodoro-healthy-exercise-timer</guid>
-      <dc:date>2025-08-22T17:55:54Z</dc:date>
-    </item>
-    <item>
-      <title>Vim Dial - Wed Sep 03 13:58:47 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28237-vim-dial</link>
-      <description>IdeaVim Dial IdeaVim extension with advanced text increment and decrement functionality. It enhances the standard increment/decrement functionality found in Vim...
-
-vendor: Ricardo Rodriguez
-downloads: 42
-pricingModel: FREE
-xmlId: com.magidc.ideavim.dial</description>
-      <pubDate>Wed, 03 Sep 2025 13:58:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28237-vim-dial</guid>
-      <dc:date>2025-09-03T13:58:47Z</dc:date>
-    </item>
-    <item>
-      <title>Commit Helper - AI Commit Message Generator - Sat Aug 30 22:38:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28279-commit-helper--ai-commit-message-generator</link>
-      <description>Commit Helper - AI-powered commit message generator for JetBrains IDEs. Features: Generate commit messages automatically with AI Supports multiple providers: Gemini...
-
-vendor: Mete Ulken
-downloads: 57
-pricingModel: FREE
-xmlId: io.github.meteulken.commithelper</description>
-      <pubDate>Sat, 30 Aug 2025 22:38:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28279-commit-helper--ai-commit-message-generator</guid>
-      <dc:date>2025-08-30T22:38:26Z</dc:date>
-    </item>
-    <item>
-      <title>ZeitBuilder - Wed Aug 27 01:55:44 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28274-zeitbuilder</link>
-      <description>ZeitBuilder - Automatic Builder pattern generator for Java classes. Key Features: Automatic generation: Creates an inner Builder class with fluent methods Field...
-
-vendor: luis angel lopez huari
-downloads: 61
-pricingModel: FREE
-xmlId: com.zeitbuilder.ZeitBuilder</description>
-      <pubDate>Wed, 27 Aug 2025 01:55:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28274-zeitbuilder</guid>
-      <dc:date>2025-08-27T01:55:44Z</dc:date>
-    </item>
-    <item>
-      <title>Tab Sorter - Mon Aug 25 08:45:57 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28252-tab-sorter</link>
-      <description>TabSorter Overview Tired of IntelliJ IDEA opening files wherever it wants? You can forget about that. This IntelliJ IDEA plugin allows you to sort open tabs in the...
-
-vendor: leo_proger
-downloads: 53
-pricingModel: FREE
-xmlId: com.github.leo_proger.tab_sorter</description>
-      <pubDate>Mon, 25 Aug 2025 08:45:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28252-tab-sorter</guid>
-      <dc:date>2025-08-25T08:45:57Z</dc:date>
     </item>
   </channel>
 </rss>
