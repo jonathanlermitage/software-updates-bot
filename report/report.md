@@ -20,7 +20,7 @@
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2.2 (252.26199.7) ~ 2025-09-03|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 04 00:05:54 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.1 (252.25557.131) ~ 2025-08-29|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Aug 29 12:03:14 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.0 to 19.1.5 ~ 2025-08-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 12 16:03:06 UTC 2025|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 329 - L'IA, ce super stagiaire qui nous fait travailler plus|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Aug 14 16:03:10 UTC 2025|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 330 - Nano banana l'AI de Julia|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 15 12:03:37 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:03:36 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.8.0|[nodejs.org](https://nodejs.org)|Wed Sep 10 20:03:46 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.19.0|[nodejs.org](https://nodejs.org)|Fri Aug 29 00:06:07 UTC 2025|

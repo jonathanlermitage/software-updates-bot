@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>TRACE - Mon Sep 15 01:31:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28481-trace</link>
+      <description>TRACE is an intelligent test failure analysis assistant for Cucumber Java tests in IntelliJ IDEA. Key Features: Automatic Failure Detection - Automatically captures...
+
+vendor: Alex Ibasitas
+downloads: 0
+pricingModel: FREE
+xmlId: com.trace</description>
+      <pubDate>Mon, 15 Sep 2025 01:31:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28481-trace</guid>
+      <dc:date>2025-09-15T01:31:26Z</dc:date>
+    </item>
+    <item>
+      <title>YSql - Mon Sep 15 03:13:05 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28466-ysql</link>
+      <description>YSql - SQL Sharding Parser and StringBuffer Code Generator Plugin This is a simple IntelliJ IDEA plugin that provides four core features: SQL Sharding Parser...
+
+vendor: xucux
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.xucux.ysql</description>
+      <pubDate>Mon, 15 Sep 2025 03:13:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28466-ysql</guid>
+      <dc:date>2025-09-15T03:13:05Z</dc:date>
+    </item>
+    <item>
+      <title>Recent Projects Organizer - Fri Sep 12 09:38:17 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28455-recent-projects-organizer</link>
+      <description>Plugin to organize the "Recent Projects" list.
+
+vendor: CodeWriter bv
+downloads: 1
+pricingModel: FREE
+xmlId: be.codewriter.recent_projects_organizer</description>
+      <pubDate>Fri, 12 Sep 2025 09:38:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28455-recent-projects-organizer</guid>
+      <dc:date>2025-09-12T09:38:17Z</dc:date>
+    </item>
+    <item>
       <title>Spark DataFrame Viewer - Thu Sep 11 16:51:48 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28448-spark-dataframe-viewer</link>
       <description>Spark DataFrame Viewer lets you inspect Spark DataFrames directly in PyCharm. In the debugger, right-click a variable and select View Spark DataFrame to open the data...
@@ -279,7 +318,7 @@ xmlId: site.henrykang.plugin.axios-code-gen</description>
       <dc:date>2025-09-10T08:52:22Z</dc:date>
     </item>
     <item>
-      <title>FastConvert - Fri Sep 12 11:07:35 UTC 2025</title>
+      <title>FastConvert - Mon Sep 15 09:35:07 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28433-fastconvert</link>
       <description>Introduction FastConvert is designed to streamline the process of object conversion in Java projects, eliminating the need for verbose code like x.set(y.get). Its...
 
@@ -287,9 +326,9 @@ vendor: zhen
 downloads: 24
 pricingModel: FREE
 xmlId: com.zhen.fastConvert</description>
-      <pubDate>Fri, 12 Sep 2025 11:07:35 GMT</pubDate>
+      <pubDate>Mon, 15 Sep 2025 09:35:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28433-fastconvert</guid>
-      <dc:date>2025-09-12T11:07:35Z</dc:date>
+      <dc:date>2025-09-15T09:35:07Z</dc:date>
     </item>
     <item>
       <title>key-switch - Mon Sep 15 06:38:02 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: br.roriz.generator.GeneratorUML</description>
       <pubDate>Thu, 28 Aug 2025 16:26:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28262-gerador-uml-mermaid-</guid>
       <dc:date>2025-08-28T16:26:17Z</dc:date>
-    </item>
-    <item>
-      <title>XML Comments Hider - Mon Aug 25 18:47:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28277-xml-comments-hider</link>
-      <description>Provides the ability to hide visibility of XML comments in C# files (/// comments).
-
-vendor: Chris LeBaron
-downloads: 14
-pricingModel: FREE
-xmlId: com.junk.plugins.xmlcommentshider</description>
-      <pubDate>Mon, 25 Aug 2025 18:47:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28277-xml-comments-hider</guid>
-      <dc:date>2025-08-25T18:47:51Z</dc:date>
-    </item>
-    <item>
-      <title>sourcerer-mcp - Sun Aug 10 21:15:40 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28155-sourcerer-mcp</link>
-      <description>Connects LLMs to your IDE, giving them access to the deep codebase awareness that IntelliJ provides. By extending the IntelliJ MCP Server, this plugin enables LLMs to...
-
-vendor: Leanid Piliptsevich
-downloads: 12
-pricingModel: FREE
-xmlId: org.pilleo.sourcerer</description>
-      <pubDate>Sun, 10 Aug 2025 21:15:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28155-sourcerer-mcp</guid>
-      <dc:date>2025-08-10T21:15:40Z</dc:date>
-    </item>
-    <item>
-      <title>Dubbo Invoke Generator - Wed Aug 13 16:39:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28192-dubbo-invoke-generator</link>
-      <description>A modern IntelliJ IDEA plugin for generating Dubbo invoke commands from Java interface methods. Features: • Smart command generation: Right-click on Java methods to...
-
-vendor: Zhang Yan
-downloads: 30
-pricingModel: FREE
-xmlId: com.hongyan.dubbo-invoke</description>
-      <pubDate>Wed, 13 Aug 2025 16:39:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28192-dubbo-invoke-generator</guid>
-      <dc:date>2025-08-13T16:39:05Z</dc:date>
     </item>
   </channel>
 </rss>
