@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Spark DataFrame Viewer - Thu Sep 11 16:51:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28448-spark-dataframe-viewer</link>
+      <description>Spark DataFrame Viewer lets you inspect Spark DataFrames directly in PyCharm. In the debugger, right-click a variable and select View Spark DataFrame to open the data...
+
+vendor: Stephan Rumswinkel
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.srwi.sparkdataframeviewer</description>
+      <pubDate>Thu, 11 Sep 2025 16:51:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28448-spark-dataframe-viewer</guid>
+      <dc:date>2025-09-11T16:51:48Z</dc:date>
+    </item>
+    <item>
       <title>FindUsagesInProto - Fri Sep 12 18:37:01 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28457-findusagesinproto</link>
       <description>Finds declaration of generated class in .proto files.
@@ -1291,19 +1304,6 @@ xmlId: com.hongyan.dubbo-invoke</description>
       <pubDate>Wed, 13 Aug 2025 16:39:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28192-dubbo-invoke-generator</guid>
       <dc:date>2025-08-13T16:39:05Z</dc:date>
-    </item>
-    <item>
-      <title>Celeste Progress Bar - Tue Aug 26 04:47:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28270-celeste-progress-bar</link>
-      <description>This is the Celeste Progress Bar for IJ based IDEs based on the Mario Progress Bar by KikiManjaro. It displays a Celeste berry with some pico-8 platformer tiles for...
-
-vendor: Ben Mitchinson
-downloads: 88
-pricingModel: FREE
-xmlId: mitchinson.cpb</description>
-      <pubDate>Tue, 26 Aug 2025 04:47:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28270-celeste-progress-bar</guid>
-      <dc:date>2025-08-26T04:47:23Z</dc:date>
     </item>
   </channel>
 </rss>
