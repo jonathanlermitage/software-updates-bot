@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ContextFetcher - Mon Sep 15 18:41:55 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28470-contextfetcher</link>
+      <description>Helper utility to fetch context to be fed to AI chats. This plugin will help with selecting files, getting the context and copying it to any AI Chat.
+
+vendor: Vittorio Mattei
+downloads: 2
+pricingModel: FREE
+xmlId: com.vittoriomattei.ContextFetcher</description>
+      <pubDate>Mon, 15 Sep 2025 18:41:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28470-contextfetcher</guid>
+      <dc:date>2025-09-15T18:41:55Z</dc:date>
+    </item>
+    <item>
+      <title>Image Viewer Enhancements - Tue Sep 16 01:31:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28491-image-viewer-enhancements</link>
+      <description>An IntelliJ plugin (developed against IntelliJ IDEA 2025.2.1) that adds functionality to the image viewer (color, image coordinates, lockable). Use CTRL+L (Also...
+
+vendor: Eli Gibbs
+downloads: 0
+pricingModel: FREE
+xmlId: com.eligibbs.ive</description>
+      <pubDate>Tue, 16 Sep 2025 01:31:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28491-image-viewer-enhancements</guid>
+      <dc:date>2025-09-16T01:31:50Z</dc:date>
+    </item>
+    <item>
+      <title>dbt Support - Mon Sep 15 21:00:30 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28489-dbt-support</link>
+      <description>Integration with dbt CLI. Syntax highlighting and codeinsight for SQL in Jinja2 templates.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: org.jetbrains.dbt</description>
+      <pubDate>Mon, 15 Sep 2025 21:00:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28489-dbt-support</guid>
+      <dc:date>2025-09-15T21:00:30Z</dc:date>
+    </item>
+    <item>
+      <title>Big Data Tools Core UI - Mon Sep 15 20:59:08 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28487-big-data-tools-core-ui</link>
+      <description>Internal Big Data Tools plugin for Core components.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.bigdatatools.coreUi</description>
+      <pubDate>Mon, 15 Sep 2025 20:59:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28487-big-data-tools-core-ui</guid>
+      <dc:date>2025-09-15T20:59:08Z</dc:date>
+    </item>
+    <item>
+      <title>TestCafe Support - Mon Sep 15 16:58:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28469-testcafe-support</link>
+      <description>Comprehensive TestCafe support for IntelliJ IDEA with intelligent test execution and exclusive test handling. Key Features: Smart Detection: Automatically finds...
+
+vendor: Ari Ayvazyan
+downloads: 4
+pricingModel: FREE
+xmlId: at.itdo.idea-testcafe-runner</description>
+      <pubDate>Mon, 15 Sep 2025 16:58:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28469-testcafe-support</guid>
+      <dc:date>2025-09-15T16:58:11Z</dc:date>
+    </item>
+    <item>
+      <title>Code Assistant - Mon Sep 15 17:57:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28486-code-assistant</link>
+      <description>Code Assistant enhances IntelliJ with AI‑powered code translation, explanation, and interactive chat. It supports OpenAI, DeepSeek, Qwen, and Gemini providers, offers...
+
+vendor: vyibc ai
+downloads: 0
+pricingModel: FREE
+xmlId: com.vyibc.code-assistant</description>
+      <pubDate>Mon, 15 Sep 2025 17:57:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28486-code-assistant</guid>
+      <dc:date>2025-09-15T17:57:50Z</dc:date>
+    </item>
+    <item>
+      <title>Student Mode - Thu Sep 11 15:05:17 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28447-student-mode</link>
+      <description>Student Mode disables quick fix light bulbs and intention previews, forcing students to understand and solve coding problems manually rather than relying on automated...
+
+vendor: Drop Project
+downloads: 3
+pricingModel: FREE
+xmlId: org.dropproject.studentmodeijplugin</description>
+      <pubDate>Thu, 11 Sep 2025 15:05:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28447-student-mode</guid>
+      <dc:date>2025-09-11T15:05:17Z</dc:date>
+    </item>
+    <item>
       <title>Document Viewer - Fri Sep 12 10:45:58 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28456-document-viewer</link>
       <description>The Document Viewer enables developers to seamlessly view Word, Excel, Pdf, Markdown, CSV, and TSV files directly within JetBrains. No more switching between...
@@ -71,7 +162,7 @@ xmlId: org.aibrain.ai_constructor_plugin</description>
       <dc:date>2025-09-13T12:58:25Z</dc:date>
     </item>
     <item>
-      <title>FQNFolder - Sun Sep 14 09:50:22 UTC 2025</title>
+      <title>FQNFolder - Tue Sep 16 14:17:27 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28475-fqnfolder</link>
       <description>Fold full-qualified names that are too long.
 
@@ -79,9 +170,9 @@ vendor: KobeBryant11451
 downloads: 5
 pricingModel: FREE
 xmlId: io.wdsj.FQNFolder</description>
-      <pubDate>Sun, 14 Sep 2025 09:50:22 GMT</pubDate>
+      <pubDate>Tue, 16 Sep 2025 14:17:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28475-fqnfolder</guid>
-      <dc:date>2025-09-14T09:50:22Z</dc:date>
+      <dc:date>2025-09-16T14:17:27Z</dc:date>
     </item>
     <item>
       <title>JTools-Background - Sun Sep 14 14:24:28 UTC 2025</title>
@@ -240,7 +331,7 @@ xmlId: org.phellang</description>
       <dc:date>2025-09-14T10:59:03Z</dc:date>
     </item>
     <item>
-      <title>Collections Viewer in Debugger - Tue Sep 16 06:08:04 UTC 2025</title>
+      <title>Collections Viewer in Debugger - Tue Sep 16 15:33:07 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</link>
       <description>Support for Collections Viewer in Debugger. Allows to inspect collections in a grid format. Currently supported languages: Java Kotlin.
 
@@ -248,12 +339,12 @@ vendor: JetBrains s.r.o.
 downloads: 6
 pricingModel: FREE
 xmlId: com.intellij.debugger.collections.visualizer</description>
-      <pubDate>Tue, 16 Sep 2025 06:08:04 GMT</pubDate>
+      <pubDate>Tue, 16 Sep 2025 15:33:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</guid>
-      <dc:date>2025-09-16T06:08:04Z</dc:date>
+      <dc:date>2025-09-16T15:33:07Z</dc:date>
     </item>
     <item>
-      <title>Turbo Complete - Fri Sep 12 14:27:28 UTC 2025</title>
+      <title>Turbo Complete - Tue Sep 16 15:34:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28462-turbo-complete</link>
       <description>Experimental approach to speed up code completion. The plugin implements a new approach to improve code completion's performance perception. Currently, it works only...
 
@@ -261,9 +352,9 @@ vendor: JetBrains s.r.o.
 downloads: 3
 pricingModel: FREE
 xmlId: com.intellij.turboComplete</description>
-      <pubDate>Fri, 12 Sep 2025 14:27:28 GMT</pubDate>
+      <pubDate>Tue, 16 Sep 2025 15:34:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28462-turbo-complete</guid>
-      <dc:date>2025-09-12T14:27:28Z</dc:date>
+      <dc:date>2025-09-16T15:34:26Z</dc:date>
     </item>
     <item>
       <title>Machine Learning in Marketplace - Fri Sep 12 14:28:20 UTC 2025</title>
@@ -279,7 +370,7 @@ xmlId: com.intellij.marketplace.ml</description>
       <dc:date>2025-09-12T14:28:20Z</dc:date>
     </item>
     <item>
-      <title>PythonDAP - Fri Sep 12 14:26:27 UTC 2025</title>
+      <title>PythonDAP - Tue Sep 16 15:32:43 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28460-pythondap</link>
       <description>Provides DAP debugger support for all JetBrains IDEs that support Python.
 
@@ -287,9 +378,9 @@ vendor: JetBrains s.r.o.
 downloads: 5
 pricingModel: FREE
 xmlId: intellij.python.dap.plugin</description>
-      <pubDate>Fri, 12 Sep 2025 14:26:27 GMT</pubDate>
+      <pubDate>Tue, 16 Sep 2025 15:32:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28460-pythondap</guid>
-      <dc:date>2025-09-12T14:26:27Z</dc:date>
+      <dc:date>2025-09-16T15:32:43Z</dc:date>
     </item>
     <item>
       <title>Mago - Fri Sep 12 06:59:22 UTC 2025</title>
@@ -669,7 +760,7 @@ xmlId: com.stoic.ActionScriptPlugin</description>
       <dc:date>2025-09-11T06:00:01Z</dc:date>
     </item>
     <item>
-      <title>HarmonyOS Component Center - Fri Sep 05 08:09:57 UTC 2025</title>
+      <title>HarmonyOS Component Center - Tue Sep 16 11:32:36 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28183-harmonyos-component-center</link>
       <description>A developer-centric hub featuring a diverse array of adaptable components that adhere to HarmonyOS standards. It facilitates rapid project initiation for developers...
 
@@ -677,9 +768,9 @@ vendor: Huawei Eco-Market
 downloads: 47
 pricingModel: FREE
 xmlId: com.huawei.agc.ecomarket.component.plugin</description>
-      <pubDate>Fri, 05 Sep 2025 08:09:57 GMT</pubDate>
+      <pubDate>Tue, 16 Sep 2025 11:32:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28183-harmonyos-component-center</guid>
-      <dc:date>2025-09-05T08:09:57Z</dc:date>
+      <dc:date>2025-09-16T11:32:36Z</dc:date>
     </item>
     <item>
       <title>Indian Progress Bar - Sun Sep 07 14:27:18 UTC 2025</title>
@@ -825,7 +916,7 @@ xmlId: com.wepie.coder.wpcoder</description>
       <dc:date>2025-09-10T03:06:00Z</dc:date>
     </item>
     <item>
-      <title>Vim AnyObject - Sun Sep 07 20:51:24 UTC 2025</title>
+      <title>Vim AnyObject - Mon Sep 15 22:23:51 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28333-vim-anyobject</link>
       <description>Vim AnyObject Unleash the power of text objects An extension for IdeaVim plugin that adds useful text objects to improve your productivity on JetBrains IDEs. Text...
 
@@ -833,9 +924,9 @@ vendor: Ricardo Rodriguez
 downloads: 43
 pricingModel: FREE
 xmlId: com.magidc.ideavim.anyObject</description>
-      <pubDate>Sun, 07 Sep 2025 20:51:24 GMT</pubDate>
+      <pubDate>Mon, 15 Sep 2025 22:23:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28333-vim-anyobject</guid>
-      <dc:date>2025-09-07T20:51:24Z</dc:date>
+      <dc:date>2025-09-15T22:23:51Z</dc:date>
     </item>
     <item>
       <title>MockGen Server - Wed Sep 03 02:41:02 UTC 2025</title>
@@ -1213,97 +1304,6 @@ xmlId: com.github.xepozz.fs_info</description>
       <pubDate>Thu, 28 Aug 2025 16:19:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28300-filesystem-info</guid>
       <dc:date>2025-08-28T16:19:23Z</dc:date>
-    </item>
-    <item>
-      <title>YamlAndPropertiesConvertor - Wed Aug 27 15:33:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28316-yamlandpropertiesconvertor</link>
-      <description>Mutual conversion between YAML configuration and Properties configuration. convert yaml and properties.
-
-vendor: WUXIN
-downloads: 56
-pricingModel: FREE
-xmlId: com.wx.YamlAndPropertiesConvertor</description>
-      <pubDate>Wed, 27 Aug 2025 15:33:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28316-yamlandpropertiesconvertor</guid>
-      <dc:date>2025-08-27T15:33:42Z</dc:date>
-    </item>
-    <item>
-      <title>Discloud - Fri Aug 29 20:20:43 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28304-discloud</link>
-      <description>A simple plugin to manage your projects hosted on Discloud, the best Brazilian hosting for large and small projects.
-
-vendor: Discloud
-downloads: 65
-pricingModel: FREE
-xmlId: com.discloud-plugin.discloud</description>
-      <pubDate>Fri, 29 Aug 2025 20:20:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28304-discloud</guid>
-      <dc:date>2025-08-29T20:20:43Z</dc:date>
-    </item>
-    <item>
-      <title>Codefetti - Wed Aug 27 17:23:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28313-codefetti</link>
-      <description>A celebratory plugin that shows confetti when builds succeed! Make your successful builds more fun with Codefetti!.
-
-vendor: Tessa Vos
-downloads: 102
-pricingModel: FREE
-xmlId: com.tessavos.Codefetti</description>
-      <pubDate>Wed, 27 Aug 2025 17:23:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28313-codefetti</guid>
-      <dc:date>2025-08-27T17:23:26Z</dc:date>
-    </item>
-    <item>
-      <title>Simple AI Code Reviewer - Thu Sep 04 06:09:12 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28311-simple-ai-code-reviewer</link>
-      <description>A simple AI Code Review plugin. Perform AI-powered code review when committing code Generate Markdown format reports Support custom API and model configuration 简单的 AI...
-
-vendor: NeoZhou
-downloads: 99
-pricingModel: FREE
-xmlId: io.github.aowubulao.simple-ai-reviewer</description>
-      <pubDate>Thu, 04 Sep 2025 06:09:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28311-simple-ai-code-reviewer</guid>
-      <dc:date>2025-09-04T06:09:12Z</dc:date>
-    </item>
-    <item>
-      <title>ReDoSChecker - Tue Aug 12 17:14:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28171-redoschecker</link>
-      <description>This tool is used to check whether the regular expression has defects that cause ReDos. Usage: Select the regular expression to be checked. The regular expression can...
-
-vendor: MyBread
-downloads: 42
-pricingModel: PAID
-xmlId: com.rain.ReDoSChecker</description>
-      <pubDate>Tue, 12 Aug 2025 17:14:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28171-redoschecker</guid>
-      <dc:date>2025-08-12T17:14:23Z</dc:date>
-    </item>
-    <item>
-      <title>QuickMark - Sun Sep 07 01:31:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28305-quickmark</link>
-      <description>QuickMark integration for JetBrains IDEs. Provides fast Markdown linting with real-time feedback through LSP integration. Features: Real-time Markdown linting with...
-
-vendor: Evgeny Kropotin
-downloads: 46
-pricingModel: FREE
-xmlId: com.ekropotin.jetbrains-quickmark</description>
-      <pubDate>Sun, 07 Sep 2025 01:31:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28305-quickmark</guid>
-      <dc:date>2025-09-07T01:31:37Z</dc:date>
-    </item>
-    <item>
-      <title>Xmem syntax highlight - Wed Aug 27 09:42:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28310-xmem-syntax-highlight</link>
-      <description>Support for xmem files (.xmem) with syntax highlighting.
-
-vendor: Idriss Cornuau
-downloads: 24
-pricingModel: FREE
-xmlId: com.idcom4.xmemsyntaxhighlight</description>
-      <pubDate>Wed, 27 Aug 2025 09:42:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28310-xmem-syntax-highlight</guid>
-      <dc:date>2025-08-27T09:42:36Z</dc:date>
     </item>
   </channel>
 </rss>
