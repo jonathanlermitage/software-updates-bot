@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.5 to 19.2.0 ~ 2025-09-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Sep 16 20:02:49 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 330 - Nano banana l'AI de Julia|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 15 12:03:37 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.8.0|[nodejs.org](https://nodejs.org)|Wed Sep 10 20:03:46 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2.2 (252.26199.7) ~ 2025-09-03|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 04 00:05:54 UTC 2025|
@@ -14,7 +15,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:03:17 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:03:17 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:03:17 UTC 2025|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.0 to 19.1.5 ~ 2025-08-12|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 12 16:03:06 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.0.0|[gradle.org](https://gradle.org/releases/)|Thu Jul 31 20:02:53 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jul 29 00:07:03 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Jul 27 00:07:28 UTC 2025|
