@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Annotale - Wed Sep 17 15:06:20 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28508-annotale</link>
+      <description>Novel Annotation Viewer This plugin allows you to read novel content directly inside your code as annotations. Render novel text as annotations Support custom novel...
+
+vendor: The-Yin1
+downloads: 0
+pricingModel: FREE
+xmlId: com.dhy.annotale</description>
+      <pubDate>Wed, 17 Sep 2025 15:06:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28508-annotale</guid>
+      <dc:date>2025-09-17T15:06:20Z</dc:date>
+    </item>
+    <item>
+      <title>Toml2Go - Sun Sep 14 12:51:43 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28336-toml2go</link>
+      <description>An IDEA plugin for Toml configuration files, supporting mutual jumps between Toml configurations and Go code references to enhance development efficiency.
+
+vendor: 初秋的土豆
+downloads: 2
+pricingModel: FREE
+xmlId: com.argel.Toml2Go</description>
+      <pubDate>Sun, 14 Sep 2025 12:51:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28336-toml2go</guid>
+      <dc:date>2025-09-14T12:51:43Z</dc:date>
+    </item>
+    <item>
+      <title>Per Document Jump History - Thu Aug 14 00:49:19 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28194-per-document-jump-history</link>
+      <description>Adds Back (Current Document) and Forward (Current Document) actions which track jump history inside current document only. Holding "Shift" while invoking them switches...
+
+vendor: Konstantin Sobolev
+downloads: 3
+pricingModel: FREE
+xmlId: com.github.eprst.ijperdocumenthistory</description>
+      <pubDate>Thu, 14 Aug 2025 00:49:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28194-per-document-jump-history</guid>
+      <dc:date>2025-08-14T00:49:19Z</dc:date>
+    </item>
+    <item>
+      <title>ticket-commit-guard - Wed Sep 17 07:37:47 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28505-ticket-commit-guard</link>
+      <description>Automatically prefixes your commit message with the issue key from the current Git branch (e.g., ABC-123: your message). Keeps commits consistent with your tracker...
+
+vendor: Jonathan Augusto Jorge
+downloads: 0
+pricingModel: FREE
+xmlId: com.jonathan.ticketguard.commitprefix</description>
+      <pubDate>Wed, 17 Sep 2025 07:37:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28505-ticket-commit-guard</guid>
+      <dc:date>2025-09-17T07:37:47Z</dc:date>
+    </item>
+    <item>
+      <title>Stock Watcher - Tue Sep 16 08:56:32 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28492-stock-watcher</link>
+      <description>A stock monitoring plugin for IntelliJ IDEA that allows you to keep an eye on your stock portfolio while coding. !Only the A-share market is supported...
+
+vendor: Tang Shaohui
+downloads: 0
+pricingModel: FREE
+xmlId: cn.tangshh.stock-watcher</description>
+      <pubDate>Tue, 16 Sep 2025 08:56:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28492-stock-watcher</guid>
+      <dc:date>2025-09-16T08:56:32Z</dc:date>
+    </item>
+    <item>
+      <title>File Type Switcher - Tue Sep 16 12:24:33 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28499-file-type-switcher</link>
+      <description>File Type Switcher File Type Switcher addresses a common pain in JetBrains IDEs: when multiple plugins register support for the same file extension, the IDE allows you...
+
+vendor: meanmail.dev
+downloads: 0
+pricingModel: FREE
+xmlId: dev.meanmail.plugin.file-type-switcher</description>
+      <pubDate>Tue, 16 Sep 2025 12:24:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28499-file-type-switcher</guid>
+      <dc:date>2025-09-16T12:24:33Z</dc:date>
+    </item>
+    <item>
       <title>REST API Client Code Generator - Sat Sep 13 19:34:13 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28472-rest-api-client-code-generator</link>
       <description>Generate C# and TypeScript REST API clients from OpenAPI / Swagger specs using: NSwag, Refitter, OpenAPI Generator, Kiota, Swagger Codegen CLI, AutoRest (preview...
@@ -175,7 +253,7 @@ xmlId: com.perforator.perforator</description>
       <dc:date>2025-09-14T16:38:49Z</dc:date>
     </item>
     <item>
-      <title>AI Brain - Sat Sep 13 12:58:25 UTC 2025</title>
+      <title>AI Brain - Tue Sep 16 10:50:52 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28468-ai-brain</link>
       <description>Key features include: - Get a description of a project and its contents in one click - Get a description of a file - Modify entire files or selected code fragments...
 
@@ -183,9 +261,9 @@ vendor: AI Brain
 downloads: 12
 pricingModel: FREE
 xmlId: org.aibrain.ai_constructor_plugin</description>
-      <pubDate>Sat, 13 Sep 2025 12:58:25 GMT</pubDate>
+      <pubDate>Tue, 16 Sep 2025 10:50:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28468-ai-brain</guid>
-      <dc:date>2025-09-13T12:58:25Z</dc:date>
+      <dc:date>2025-09-16T10:50:52Z</dc:date>
     </item>
     <item>
       <title>FQNFolder - Tue Sep 16 14:17:27 UTC 2025</title>
@@ -929,7 +1007,7 @@ xmlId: lermitage.showsystemmemory</description>
       <dc:date>2025-09-08T23:12:34Z</dc:date>
     </item>
     <item>
-      <title>WP Template Coder - Wed Sep 10 03:06:00 UTC 2025</title>
+      <title>WP Template Coder - Wed Sep 17 09:58:36 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28367-wp-template-coder</link>
       <description>Template management plugin for Android Studio with sharing capabilities. Features: Local Template Management Quick access to template settings Import/Export templates...
 
@@ -937,9 +1015,9 @@ vendor: 田锐杰
 downloads: 29
 pricingModel: FREE
 xmlId: com.wepie.coder.wpcoder</description>
-      <pubDate>Wed, 10 Sep 2025 03:06:00 GMT</pubDate>
+      <pubDate>Wed, 17 Sep 2025 09:58:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28367-wp-template-coder</guid>
-      <dc:date>2025-09-10T03:06:00Z</dc:date>
+      <dc:date>2025-09-17T09:58:36Z</dc:date>
     </item>
     <item>
       <title>Vim AnyObject - Tue Sep 16 20:49:29 UTC 2025</title>
@@ -1226,84 +1304,6 @@ xmlId: dev.eastgate.i18n-translate-web-lite</description>
       <pubDate>Mon, 08 Sep 2025 12:47:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28325-i18n-translate-lite-web</guid>
       <dc:date>2025-09-08T12:47:03Z</dc:date>
-    </item>
-    <item>
-      <title>i18n Translate Lite: JVM - Mon Sep 08 12:46:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28324-i18n-translate-lite-jvm</link>
-      <description>Revolutionary Smart Text to i18n Lite: FREE FOREVER plugin that transforms hardcoded strings into Spring Boot MessageSource calls instantly! The same game-changing...
-
-vendor: Eastgate Development
-downloads: 48
-pricingModel: FREE
-xmlId: dev.eastgate.i18n-translate-jvm-lite</description>
-      <pubDate>Mon, 08 Sep 2025 12:46:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28324-i18n-translate-lite-jvm</guid>
-      <dc:date>2025-09-08T12:46:34Z</dc:date>
-    </item>
-    <item>
-      <title>UXF - Thu Sep 04 06:51:56 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28326-uxf</link>
-      <description>UXF development plugin with translation support. Features: • Shows translation text when Cmd+click (macOS) or Ctrl+click (Windows/Linux) on translation keys • Supports...
-
-vendor: UXFans
-downloads: 51
-pricingModel: FREE
-xmlId: cz.uxf.plugin</description>
-      <pubDate>Thu, 04 Sep 2025 06:51:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28326-uxf</guid>
-      <dc:date>2025-09-04T06:51:56Z</dc:date>
-    </item>
-    <item>
-      <title>Minecraft Mod Publish Utils - Thu Sep 11 11:51:47 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28320-minecraft-mod-publish-utils</link>
-      <description>Help developers publish mods faster and publish mods to multiple supported platforms with just a few clicks.
-
-vendor: Lawson Kay
-downloads: 150
-pricingModel: FREE
-xmlId: one.pkg.modpublish</description>
-      <pubDate>Thu, 11 Sep 2025 11:51:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28320-minecraft-mod-publish-utils</guid>
-      <dc:date>2025-09-11T11:51:47Z</dc:date>
-    </item>
-    <item>
-      <title>Atomic - Fri Aug 29 14:33:03 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28321-atomic</link>
-      <description>Atomic Plugin - Code Generator for Atomic Framework Generate entity API extension methods for the Atomic Framework - a reactive procedural game framework for C# and...
-
-vendor: Iaroslav Sarchuk
-downloads: 21
-pricingModel: FREE
-xmlId: com.sarchuk.atomic</description>
-      <pubDate>Fri, 29 Aug 2025 14:33:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28321-atomic</guid>
-      <dc:date>2025-08-29T14:33:03Z</dc:date>
-    </item>
-    <item>
-      <title>zero-moyu - Fri Aug 29 07:57:11 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28322-zero-moyu</link>
-      <description>zero-moyu - Discreet Novel Reading Plugin A discreet novel reading plugin for IntelliJ IDEA that allows you to read TXT novels while working, perfectly disguised as...
-
-vendor: Zhang Jianzhe
-downloads: 65
-pricingModel: FREE
-xmlId: com.zeromoyu.idea</description>
-      <pubDate>Fri, 29 Aug 2025 07:57:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28322-zero-moyu</guid>
-      <dc:date>2025-08-29T07:57:11Z</dc:date>
-    </item>
-    <item>
-      <title>Git Churn - Fri Aug 29 09:17:41 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28319-git-churn</link>
-      <description>GitHub | Telegram | Donation Git Churn This plugin provides a Git Churn analysis: How often a file has been changed since the specific timeColor the most changed files...
-
-vendor: xepozz
-downloads: 85
-pricingModel: FREE
-xmlId: com.github.xepozz.git_churn</description>
-      <pubDate>Fri, 29 Aug 2025 09:17:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28319-git-churn</guid>
-      <dc:date>2025-08-29T09:17:41Z</dc:date>
     </item>
   </channel>
 </rss>
