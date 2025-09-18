@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Job Completion Notifier - Sat Sep 06 15:26:02 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28403-job-completion-notifier</link>
+      <description>An IntelliJ IDEA plugin that sends a native macOS system notification when long-running tasks (such as builds or tests) complete. This helps developers who step away...
+
+vendor: shafri amir
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.amirshafri.javastackjobnotificationcompletion</description>
+      <pubDate>Sat, 06 Sep 2025 15:26:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28403-job-completion-notifier</guid>
+      <dc:date>2025-09-06T15:26:02Z</dc:date>
+    </item>
+    <item>
+      <title>Earth Develop Tool - Tue Sep 16 12:27:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28500-earth-develop-tool</link>
+      <description>Earth Develop Tool: is one of the plugins in the earth series, a development assistant that collects some useful tools needed during the development process. Earth...
+
+vendor: zhouchao
+downloads: 0
+pricingModel: FREE
+xmlId: com.myth.earth.earth-develop-tool</description>
+      <pubDate>Tue, 16 Sep 2025 12:27:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28500-earth-develop-tool</guid>
+      <dc:date>2025-09-16T12:27:36Z</dc:date>
+    </item>
+    <item>
       <title>Luau - Wed Sep 17 18:10:34 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/24957-luau</link>
       <description>This plugin adds support for Luau language Luau LSP integration (Only for IDEs with LSP support)StyLua: format action and ability to use it instead of builtin-in IDEA...
@@ -84,7 +110,7 @@ xmlId: com.jonathan.ticketguard.commitprefix</description>
       <dc:date>2025-09-17T07:37:47Z</dc:date>
     </item>
     <item>
-      <title>Stock Watcher - Tue Sep 16 08:56:32 UTC 2025</title>
+      <title>Stock Watcher - Thu Sep 18 02:51:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28492-stock-watcher</link>
       <description>A stock monitoring plugin for IntelliJ IDEA that allows you to keep an eye on your stock portfolio while coding. !Only the A-share market is supported...
 
@@ -92,9 +118,9 @@ vendor: Tang Shaohui
 downloads: 0
 pricingModel: FREE
 xmlId: cn.tangshh.stock-watcher</description>
-      <pubDate>Tue, 16 Sep 2025 08:56:32 GMT</pubDate>
+      <pubDate>Thu, 18 Sep 2025 02:51:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28492-stock-watcher</guid>
-      <dc:date>2025-09-16T08:56:32Z</dc:date>
+      <dc:date>2025-09-18T02:51:33Z</dc:date>
     </item>
     <item>
       <title>File Type Switcher - Tue Sep 16 12:24:33 UTC 2025</title>
@@ -656,7 +682,7 @@ xmlId: site.henrykang.plugin.axios-code-gen</description>
       <dc:date>2025-09-10T08:52:22Z</dc:date>
     </item>
     <item>
-      <title>FastConvert - Mon Sep 15 09:35:07 UTC 2025</title>
+      <title>FastConvert - Thu Sep 18 02:23:31 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28433-fastconvert</link>
       <description>Introduction FastConvert is designed to streamline the process of object conversion in Java projects, eliminating the need for verbose code like x.set(y.get). Its...
 
@@ -664,9 +690,9 @@ vendor: zhen
 downloads: 35
 pricingModel: FREE
 xmlId: com.zhen.fastConvert</description>
-      <pubDate>Mon, 15 Sep 2025 09:35:07 GMT</pubDate>
+      <pubDate>Thu, 18 Sep 2025 02:23:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28433-fastconvert</guid>
-      <dc:date>2025-09-15T09:35:07Z</dc:date>
+      <dc:date>2025-09-18T02:23:31Z</dc:date>
     </item>
     <item>
       <title>key-switch - Tue Sep 16 08:31:49 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: org.nette.helpers</description>
       <pubDate>Mon, 08 Sep 2025 10:55:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28342-nette-helpers</guid>
       <dc:date>2025-09-08T10:55:58Z</dc:date>
-    </item>
-    <item>
-      <title>tbdflow - Mon Sep 01 15:23:03 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28339-tbdflow</link>
-      <description>Integrates the tbdflow command-line tool into your JetBrains IDE, providing a friendly assistant for your Trunk-Based Development (TBD) workflow. This plugin is a...
-
-vendor: Claes Adamsson
-downloads: 66
-pricingModel: FREE
-xmlId: io.github.cladam.tbdflow</description>
-      <pubDate>Mon, 01 Sep 2025 15:23:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28339-tbdflow</guid>
-      <dc:date>2025-09-01T15:23:03Z</dc:date>
-    </item>
-    <item>
-      <title>cortex - Wed Aug 20 08:01:25 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28241-cortex</link>
-      <description>Cortex IntelliJ Plugin adds smart navigation and links for cortex.yaml files in JetBrains IDEs. What you can do with it: Click on IDs and tags in cortex.yaml to open...
-
-vendor: Sébastien NOIROT
-downloads: 33
-pricingModel: FREE
-xmlId: com.github.sebnoirot.cortex</description>
-      <pubDate>Wed, 20 Aug 2025 08:01:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28241-cortex</guid>
-      <dc:date>2025-08-20T08:01:25Z</dc:date>
     </item>
   </channel>
 </rss>
