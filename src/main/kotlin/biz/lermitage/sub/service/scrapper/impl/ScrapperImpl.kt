@@ -10,7 +10,7 @@ import org.springframework.retry.annotation.Backoff
 import org.springframework.retry.annotation.Retryable
 import org.springframework.stereotype.Service
 import java.io.IOException
-import java.net.URL
+import java.net.URI
 import java.nio.charset.StandardCharsets
 import java.util.concurrent.ConcurrentHashMap
 
@@ -64,6 +64,6 @@ class ScrapperImpl : Scrapper {
     }
 
     private fun downloadAsText(url: String): String {
-        return IOUtils.toString(URL(url), StandardCharsets.UTF_8)
+        return IOUtils.toString(URI.create(url), StandardCharsets.UTF_8)
     }
 }
