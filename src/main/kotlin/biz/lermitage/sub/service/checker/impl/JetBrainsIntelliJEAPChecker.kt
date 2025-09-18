@@ -5,4 +5,4 @@ import biz.lermitage.sub.service.checker.Checker
 import org.springframework.stereotype.Service
 
 @Service
-class JetBrainsIntelliJEAPChecker : JetBrainsIDEChecker("IntelliJ IDEA EAP", "IC", false, "https://www.jetbrains.com/idea/nextversion/", Logo.INTELLIJ_EAP), Checker
+class JetBrainsIntelliJEAPChecker : JetBrainsIDEChecker("IntelliJ IDEA EAP", "IU", false, "https://www.jetbrains.com/idea/nextversion/", Logo.INTELLIJ_EAP), Checker

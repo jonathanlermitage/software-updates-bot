@@ -5,4 +5,4 @@ import biz.lermitage.sub.service.checker.Checker
 import org.springframework.stereotype.Service
 
 @Service
-class JetBrainsIntelliJChecker : JetBrainsIDEChecker("IntelliJ IDEA", "IC", true, "https://www.jetbrains.com/idea/", Logo.INTELLIJ), Checker
+class JetBrainsIntelliJChecker : JetBrainsIDEChecker("IntelliJ IDEA", "IU", true, "https://www.jetbrains.com/idea/", Logo.INTELLIJ), Checker
