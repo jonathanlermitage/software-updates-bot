@@ -31,7 +31,7 @@ class JetBrainsUCReporterImpl(private val conf: LocalAppConf) : DReporter {
     private fun write(reportFile: File) {
         val lines = ArrayList<String>()
 
-        val platformTypes = listOf("IU", "IC", "RD", "PC", "WS", "PS", "CL", "GO", "RM", "DG", "RS", "QA", "RR")
+        val platformTypes = listOf("IU", "IC", "RD", "PC", "WS", "PS", "CL", "GO", "RM", "DG", "RS", "RR")
 
         val errors = ArrayList<Exception>()
 
