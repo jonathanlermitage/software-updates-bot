@@ -17,7 +17,7 @@
 |![logo](../media/logo/go.png) Go|go1.25.1|[golang.org](https://golang.org/dl/)|Wed Sep 03 20:02:52 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.0.0|[gradle.org](https://gradle.org/releases/)|Thu Jul 31 20:02:53 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.2.2 (252.26199.7) ~ 2025-09-03|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 04 00:05:54 UTC 2025|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.17525.95) ~ 2025-09-16|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 18 13:31:28 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.1 (252.25557.131) ~ 2025-08-29|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Aug 29 12:03:14 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.5 to 19.2.0 ~ 2025-09-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Sep 16 20:02:49 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 330 - Nano banana l'AI de Julia|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 15 12:03:37 UTC 2025|
