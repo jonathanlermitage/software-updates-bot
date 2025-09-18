@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/springboot.png) Spring Boot|3.5.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 18 16:03:46 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.17525.95) ~ 2025-09-16|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 18 13:31:28 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.5 to 19.2.0 ~ 2025-09-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Sep 16 20:02:49 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 330 - Nano banana l'AI de Julia|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 15 12:03:37 UTC 2025|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/go.png) Go|go1.25.1|[golang.org](https://golang.org/dl/)|Wed Sep 03 20:02:52 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.1 (252.25557.131) ~ 2025-08-29|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Aug 29 12:03:14 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.19.0|[nodejs.org](https://nodejs.org)|Fri Aug 29 00:06:07 UTC 2025|
-|![logo](../media/logo/springboot.png) Spring Boot|3.5.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Aug 21 16:03:51 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.7|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 14 20:03:13 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.13.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Thu Aug 14 20:03:12 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:03:17 UTC 2025|
