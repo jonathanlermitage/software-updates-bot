@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Luau - Wed Sep 17 18:10:34 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/24957-luau</link>
+      <description>This plugin adds support for Luau language Luau LSP integration (Only for IDEs with LSP support)StyLua: format action and ability to use it instead of builtin-in IDEA...
+
+vendor: Aleksandr Slepchenkov
+downloads: 17
+pricingModel: FREE
+xmlId: com.github.aleksandrsl.intellijluau</description>
+      <pubDate>Wed, 17 Sep 2025 18:10:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/24957-luau</guid>
+      <dc:date>2025-09-17T18:10:34Z</dc:date>
+    </item>
+    <item>
+      <title>Odoo - Wed Sep 17 14:49:45 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28501-odoo</link>
+      <description>Language server support for Odoo projects in PyCharm. This PyCharm plugin integrates the OdooLS language server for Odoo projects. It provides advanced language...
+
+vendor: Odoo
+downloads: 0
+pricingModel: FREE
+xmlId: com.odoo.odools</description>
+      <pubDate>Wed, 17 Sep 2025 14:49:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28501-odoo</guid>
+      <dc:date>2025-09-17T14:49:45Z</dc:date>
+    </item>
+    <item>
       <title>Annotale - Wed Sep 17 15:06:20 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28508-annotale</link>
       <description>Novel Annotation Viewer This plugin allows you to read novel content directly inside your code as annotations. Render novel text as annotations Support custom novel...
@@ -1033,17 +1059,17 @@ xmlId: com.magidc.ideavim.anyObject</description>
       <dc:date>2025-09-16T20:49:29Z</dc:date>
     </item>
     <item>
-      <title>MockGen Server - Wed Sep 03 02:41:02 UTC 2025</title>
+      <title>MockGen Server - Tue Sep 09 12:43:44 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28365-mockgen-server</link>
       <description>MockGen Server lets you instantly generate a fully functional mock API server from your OpenAPI/Swagger specifications — directly inside IntelliJ IDEA. Upload your...
 
 vendor: codebodhi
 downloads: 37
-pricingModel: FREE
+pricingModel: FREEMIUM
 xmlId: com.codebodhi.mockgen</description>
-      <pubDate>Wed, 03 Sep 2025 02:41:02 GMT</pubDate>
+      <pubDate>Tue, 09 Sep 2025 12:43:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28365-mockgen-server</guid>
-      <dc:date>2025-09-03T02:41:02Z</dc:date>
+      <dc:date>2025-09-09T12:43:44Z</dc:date>
     </item>
     <item>
       <title>IFlow - Wed Sep 03 03:16:35 UTC 2025</title>
@@ -1278,32 +1304,6 @@ xmlId: com.github.sebnoirot.cortex</description>
       <pubDate>Wed, 20 Aug 2025 08:01:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28241-cortex</guid>
       <dc:date>2025-08-20T08:01:25Z</dc:date>
-    </item>
-    <item>
-      <title>switch2ai - Tue Sep 02 03:18:00 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28330-switch2ai</link>
-      <description>switch2ai is a JetBrains IDE plugin that enables seamless collaboration between JetBrains IDEs and various AI agents (Cursor, Qoder, Claude code etc.). Key features...
-
-vendor: sinber
-downloads: 104
-pricingModel: FREE
-xmlId: com.github.switch2ai</description>
-      <pubDate>Tue, 02 Sep 2025 03:18:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28330-switch2ai</guid>
-      <dc:date>2025-09-02T03:18:00Z</dc:date>
-    </item>
-    <item>
-      <title>i18n Translate Lite: Web - Mon Sep 08 12:47:03 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28325-i18n-translate-lite-web</link>
-      <description>Revolutionary Smart Text to i18n Lite: FREE FOREVER plugin that transforms hardcoded strings into React, Vue, Angular, and Next.js i18n calls instantly! The same...
-
-vendor: Eastgate Development
-downloads: 86
-pricingModel: FREE
-xmlId: dev.eastgate.i18n-translate-web-lite</description>
-      <pubDate>Mon, 08 Sep 2025 12:47:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28325-i18n-translate-lite-web</guid>
-      <dc:date>2025-09-08T12:47:03Z</dc:date>
     </item>
   </channel>
 </rss>
