@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.20558.43) ~ 2025-09-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Sep 19 16:03:19 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.2 (252.26199.169) ~ 2025-09-19|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Sep 19 12:03:53 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.1.0|[gradle.org](https://gradle.org/releases/)|Thu Sep 18 16:29:55 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 18 16:03:46 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.17525.95) ~ 2025-09-16|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 18 13:31:28 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.5 to 19.2.0 ~ 2025-09-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Sep 16 20:02:49 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 330 - Nano banana l'AI de Julia|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 15 12:03:37 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.8.0|[nodejs.org](https://nodejs.org)|Wed Sep 10 20:03:46 UTC 2025|
