@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Clean Architecture Generator (CAG) - Fri Sep 19 09:05:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28529-clean-architecture-generator-cag-</link>
+      <description>Provides quick actions to create: Architecture Package - A Clean Architecture architecture package Features - Complete feature modules with presentation, domain, and...
+
+vendor: Eran Boudjnah
+downloads: 0
+pricingModel: FREE
+xmlId: com.mitteloupe.cleanarchitecturegenerator</description>
+      <pubDate>Fri, 19 Sep 2025 09:05:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28529-clean-architecture-generator-cag-</guid>
+      <dc:date>2025-09-19T09:05:16Z</dc:date>
+    </item>
+    <item>
+      <title>LLM Brains - Thu Sep 18 21:58:57 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28522-llm-brains</link>
+      <description>LLM Brains: open popular CLI coding agents (Claude, Codex, Gemini) in an IDE terminal. Adds a toolbar button (&#x1faf4;) with options and a check to see what is installed.
+
+vendor: Peter Forret
+downloads: 0
+pricingModel: FREE
+xmlId: com.forret.llmbrains</description>
+      <pubDate>Thu, 18 Sep 2025 21:58:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28522-llm-brains</guid>
+      <dc:date>2025-09-18T21:58:57Z</dc:date>
+    </item>
+    <item>
+      <title>4Dev - Thu Sep 18 07:58:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28442-4dev</link>
+      <description>4Dev — The Future of Coding Agents in JetBrains IDEs 4Dev isn’t just another tool. It’s a gateway — bringing VSCode-powered coding agents and extensions to JetBrains...
+
+vendor: South System
+downloads: 1
+pricingModel: FREE
+xmlId: 4dev</description>
+      <pubDate>Thu, 18 Sep 2025 07:58:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28442-4dev</guid>
+      <dc:date>2025-09-18T07:58:50Z</dc:date>
+    </item>
+    <item>
       <title>Hex Viewer - Thu Sep 18 13:02:36 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28521-hex-viewer</link>
       <description>A simple, built-in Hex Viewer for IntelliJ-based IDEs. It allows you to view any file as raw bytes in a classic hex + ASCII layout. Use the provided action to open the...
@@ -344,7 +383,7 @@ xmlId: com.eligibbs.ive</description>
       <dc:date>2025-09-16T01:31:50Z</dc:date>
     </item>
     <item>
-      <title>Big Data Tools Google Cloud - Mon Sep 15 21:06:42 UTC 2025</title>
+      <title>Big Data Tools Google Cloud - Fri Sep 19 11:24:15 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28490-big-data-tools-google-cloud</link>
       <description>Internal Big Data Tools plugin for Google Cloud components.
 
@@ -352,12 +391,12 @@ vendor: JetBrains s.r.o.
 downloads: 15
 pricingModel: FREE
 xmlId: intellij.bigdatatools.gcloud</description>
-      <pubDate>Mon, 15 Sep 2025 21:06:42 GMT</pubDate>
+      <pubDate>Fri, 19 Sep 2025 11:24:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28490-big-data-tools-google-cloud</guid>
-      <dc:date>2025-09-15T21:06:42Z</dc:date>
+      <dc:date>2025-09-19T11:24:15Z</dc:date>
     </item>
     <item>
-      <title>dbt Support - Mon Sep 15 21:00:30 UTC 2025</title>
+      <title>dbt Support - Fri Sep 19 11:23:40 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28489-dbt-support</link>
       <description>Integration with dbt CLI. Syntax highlighting and codeinsight for SQL in Jinja2 templates.
 
@@ -365,12 +404,12 @@ vendor: JetBrains s.r.o.
 downloads: 11
 pricingModel: FREE
 xmlId: org.jetbrains.dbt</description>
-      <pubDate>Mon, 15 Sep 2025 21:00:30 GMT</pubDate>
+      <pubDate>Fri, 19 Sep 2025 11:23:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28489-dbt-support</guid>
-      <dc:date>2025-09-15T21:00:30Z</dc:date>
+      <dc:date>2025-09-19T11:23:40Z</dc:date>
     </item>
     <item>
-      <title>Big Data Tools AWS Base - Mon Sep 15 20:59:46 UTC 2025</title>
+      <title>Big Data Tools AWS Base - Fri Sep 19 11:32:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28488-big-data-tools-aws-base</link>
       <description>Internal Big Data Tools plugin for AWS components.
 
@@ -378,12 +417,12 @@ vendor: JetBrains s.r.o.
 downloads: 88
 pricingModel: FREE
 xmlId: intellij.bigdatatools.awsBase</description>
-      <pubDate>Mon, 15 Sep 2025 20:59:46 GMT</pubDate>
+      <pubDate>Fri, 19 Sep 2025 11:32:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28488-big-data-tools-aws-base</guid>
-      <dc:date>2025-09-15T20:59:46Z</dc:date>
+      <dc:date>2025-09-19T11:32:04Z</dc:date>
     </item>
     <item>
-      <title>Big Data Tools Core UI - Mon Sep 15 20:59:08 UTC 2025</title>
+      <title>Big Data Tools Core UI - Fri Sep 19 11:28:39 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28487-big-data-tools-core-ui</link>
       <description>Internal Big Data Tools plugin for Core components.
 
@@ -391,9 +430,9 @@ vendor: JetBrains s.r.o.
 downloads: 126
 pricingModel: FREE
 xmlId: intellij.bigdatatools.coreUi</description>
-      <pubDate>Mon, 15 Sep 2025 20:59:08 GMT</pubDate>
+      <pubDate>Fri, 19 Sep 2025 11:28:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28487-big-data-tools-core-ui</guid>
-      <dc:date>2025-09-15T20:59:08Z</dc:date>
+      <dc:date>2025-09-19T11:28:39Z</dc:date>
     </item>
     <item>
       <title>TestCafe Support - Tue Sep 16 17:57:54 UTC 2025</title>
@@ -422,7 +461,7 @@ xmlId: com.vyibc.code-assistant</description>
       <dc:date>2025-09-15T17:57:50Z</dc:date>
     </item>
     <item>
-      <title>Student Mode - Thu Sep 18 09:39:52 UTC 2025</title>
+      <title>Student Mode - Fri Sep 19 09:47:52 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28447-student-mode</link>
       <description>Student Mode disables quick fix light bulbs and intention previews, forcing students to understand and solve coding problems manually rather than relying on automated...
 
@@ -430,9 +469,9 @@ vendor: Drop Project
 downloads: 17
 pricingModel: FREE
 xmlId: org.dropproject.studentmodeijplugin</description>
-      <pubDate>Thu, 18 Sep 2025 09:39:52 GMT</pubDate>
+      <pubDate>Fri, 19 Sep 2025 09:47:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28447-student-mode</guid>
-      <dc:date>2025-09-18T09:39:52Z</dc:date>
+      <dc:date>2025-09-19T09:47:52Z</dc:date>
     </item>
     <item>
       <title>Document Viewer - Fri Sep 19 05:59:49 UTC 2025</title>
@@ -669,7 +708,7 @@ xmlId: org.phellang</description>
       <dc:date>2025-09-14T10:59:03Z</dc:date>
     </item>
     <item>
-      <title>Collections Viewer in Debugger - Tue Sep 16 15:33:07 UTC 2025</title>
+      <title>Collections Viewer in Debugger - Fri Sep 19 11:23:16 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</link>
       <description>Support for Collections Viewer in Debugger. Allows to inspect collections in a grid format. Currently supported languages: Java Kotlin.
 
@@ -677,9 +716,9 @@ vendor: JetBrains s.r.o.
 downloads: 6090
 pricingModel: FREE
 xmlId: com.intellij.debugger.collections.visualizer</description>
-      <pubDate>Tue, 16 Sep 2025 15:33:07 GMT</pubDate>
+      <pubDate>Fri, 19 Sep 2025 11:23:16 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</guid>
-      <dc:date>2025-09-16T15:33:07Z</dc:date>
+      <dc:date>2025-09-19T11:23:16Z</dc:date>
     </item>
     <item>
       <title>Turbo Complete - Tue Sep 16 15:34:26 UTC 2025</title>
@@ -695,7 +734,7 @@ xmlId: com.intellij.turboComplete</description>
       <dc:date>2025-09-16T15:34:26Z</dc:date>
     </item>
     <item>
-      <title>Machine Learning in Marketplace - Fri Sep 12 14:28:20 UTC 2025</title>
+      <title>Machine Learning in Marketplace - Fri Sep 19 11:23:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28463-machine-learning-in-marketplace</link>
       <description>The plugin improves the Marketplace search feature by ordering the search results using machine learning, making more relevant results appear higher up the list...
 
@@ -703,9 +742,9 @@ vendor: JetBrains s.r.o.
 downloads: 12
 pricingModel: FREE
 xmlId: com.intellij.marketplace.ml</description>
-      <pubDate>Fri, 12 Sep 2025 14:28:20 GMT</pubDate>
+      <pubDate>Fri, 19 Sep 2025 11:23:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28463-machine-learning-in-marketplace</guid>
-      <dc:date>2025-09-12T14:28:20Z</dc:date>
+      <dc:date>2025-09-19T11:23:26Z</dc:date>
     </item>
     <item>
       <title>PythonDAP - Tue Sep 16 15:32:43 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: com.magidc.ideavim.anyObject</description>
       <pubDate>Thu, 18 Sep 2025 13:56:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28333-vim-anyobject</guid>
       <dc:date>2025-09-18T13:56:22Z</dc:date>
-    </item>
-    <item>
-      <title>MockGen Server - Tue Sep 09 12:43:44 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28365-mockgen-server</link>
-      <description>MockGen Server lets you instantly generate a fully functional mock API server from your OpenAPI/Swagger specifications — directly inside IntelliJ IDEA. Upload your...
-
-vendor: codebodhi
-downloads: 45
-pricingModel: FREEMIUM
-xmlId: com.codebodhi.mockgen</description>
-      <pubDate>Tue, 09 Sep 2025 12:43:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28365-mockgen-server</guid>
-      <dc:date>2025-09-09T12:43:44Z</dc:date>
-    </item>
-    <item>
-      <title>IFlow - Wed Sep 03 03:16:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28355-iflow</link>
-      <description>iFlow plugin provides communication capability between IDE and external clients, allowing deep integration of external CLI clients into the IDE. File monitoring...
-
-vendor: iFlow AI
-downloads: 2265
-pricingModel: FREE
-xmlId: com.iflow.idea</description>
-      <pubDate>Wed, 03 Sep 2025 03:16:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28355-iflow</guid>
-      <dc:date>2025-09-03T03:16:35Z</dc:date>
-    </item>
-    <item>
-      <title>Image Comment - Tue Sep 02 13:18:48 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28357-image-comment</link>
-      <description>A Rider plugin that allows images in summary comments.
-
-vendor: Mehmet Hayri Çakır
-downloads: 8
-pricingModel: FREE
-xmlId: net.graywolfstudio.plugins.imagecomment</description>
-      <pubDate>Tue, 02 Sep 2025 13:18:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28357-image-comment</guid>
-      <dc:date>2025-09-02T13:18:48Z</dc:date>
     </item>
   </channel>
 </rss>
