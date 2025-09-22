@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>DoCheckKtNPE - Tue Sep 09 09:32:24 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28198-docheckktnpe</link>
+      <description>This plugin is designed to check for NullPointerException issues in Kotlin files, especially ones arising from interactions with Java.
+
+vendor: Carson带你学Android
+downloads: 5
+pricingModel: FREE
+xmlId: com.release.DoCheckKtNPE</description>
+      <pubDate>Tue, 09 Sep 2025 09:32:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28198-docheckktnpe</guid>
+      <dc:date>2025-09-09T09:32:24Z</dc:date>
+    </item>
+    <item>
+      <title>Hello World - Thu Sep 18 23:52:03 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28526-hello-world</link>
+      <description>Hello World adds a simple action to the Tools and context menus, demonstrating a minimal IntelliJ Platform plugin setup. Features: Action visible in the Tools menu...
+
+vendor: Tanisha Badgujar
+downloads: 0
+pricingModel: FREE
+xmlId: com.tanisha.helloworldplugin</description>
+      <pubDate>Thu, 18 Sep 2025 23:52:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28526-hello-world</guid>
+      <dc:date>2025-09-18T23:52:03Z</dc:date>
+    </item>
+    <item>
+      <title>Jump Jump - Sat Sep 20 07:43:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28536-jump-jump</link>
+      <description>Jump Jump plugin provides convenient code navigation features to improve development efficiency. Main Features: Supports bidirectional navigation between iBATIS sqlMap...
+
+vendor: chianzhouwy
+downloads: 0
+pricingModel: FREE
+xmlId: idea-sqlmap-spring-navigator</description>
+      <pubDate>Sat, 20 Sep 2025 07:43:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28536-jump-jump</guid>
+      <dc:date>2025-09-20T07:43:49Z</dc:date>
+    </item>
+    <item>
+      <title>MoraCode - Mon Sep 22 10:25:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28318-moracode</link>
+      <description>MoraCode revolutionizes code analysis by putting privacy and security first. Our IntelliJ plugin empowers developers to leverage AI while maintaining complete control...
+
+vendor: Moracode
+downloads: 31
+pricingModel: FREE
+xmlId: ai.moracode.intellijplugin</description>
+      <pubDate>Mon, 22 Sep 2025 10:25:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28318-moracode</guid>
+      <dc:date>2025-09-22T10:25:44Z</dc:date>
+    </item>
+    <item>
       <title>Selective Context - Fri Sep 19 16:53:19 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28532-selective-context</link>
       <description>Select files or folders, preview in a tool window, and copy as XML/YAML/JSON/Markdown.
@@ -160,19 +212,6 @@ xmlId: com.github.abharath9.promptdeck</description>
       <pubDate>Thu, 18 Sep 2025 03:49:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28518-prompt-deck</guid>
       <dc:date>2025-09-18T03:49:58Z</dc:date>
-    </item>
-    <item>
-      <title>MSB CodeGen - Thu Sep 18 03:44:03 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28517-msb-codegen</link>
-      <description>MSB CodeGen Plugin for IntelliJ Platform MSB CodeGen is an AI coding assistant that can suggest multi-line code or full functions in real-time. Requirements MSB...
-
-vendor: MSB
-downloads: 4
-pricingModel: FREE
-xmlId: com.msb.intellij-codegen</description>
-      <pubDate>Thu, 18 Sep 2025 03:44:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28517-msb-codegen</guid>
-      <dc:date>2025-09-18T03:44:03Z</dc:date>
     </item>
     <item>
       <title>Creative Themes - Thu Sep 18 07:43:04 UTC 2025</title>
@@ -643,7 +682,7 @@ xmlId: com.trace</description>
       <dc:date>2025-09-16T06:41:40Z</dc:date>
     </item>
     <item>
-      <title>YSql - Wed Sep 17 02:07:07 UTC 2025</title>
+      <title>YSql - Mon Sep 22 08:39:27 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28466-ysql</link>
       <description>YSql - SQL Sharding Parser and StringBuffer Code Generator Plugin This is a simple IntelliJ IDEA plugin that provides four core features: SQL Sharding Parser...
 
@@ -651,9 +690,9 @@ vendor: xucux
 downloads: 43
 pricingModel: FREE
 xmlId: com.github.xucux.ysql</description>
-      <pubDate>Wed, 17 Sep 2025 02:07:07 GMT</pubDate>
+      <pubDate>Mon, 22 Sep 2025 08:39:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28466-ysql</guid>
-      <dc:date>2025-09-17T02:07:07Z</dc:date>
+      <dc:date>2025-09-22T08:39:27Z</dc:date>
     </item>
     <item>
       <title>Recent Projects Organizer - Thu Sep 18 13:44:51 UTC 2025</title>
@@ -851,7 +890,7 @@ xmlId: com.hello.bigclean.scanner</description>
       <dc:date>2025-09-11T04:15:40Z</dc:date>
     </item>
     <item>
-      <title>ETRX Code Reviewer - Thu Sep 11 06:43:34 UTC 2025</title>
+      <title>ETRX Code Reviewer - Mon Sep 22 11:49:56 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28439-etrx-code-reviewer</link>
       <description>AI-powered code review plugin for JetBrains IDEs. Features AI code review with customizable prompts Support for Ollama models (default: qwen3:8b) and OpenRouter...
 
@@ -859,9 +898,9 @@ vendor: Chiny Chiu
 downloads: 33
 pricingModel: FREE
 xmlId: com.etrx.codereviewer</description>
-      <pubDate>Thu, 11 Sep 2025 06:43:34 GMT</pubDate>
+      <pubDate>Mon, 22 Sep 2025 11:49:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28439-etrx-code-reviewer</guid>
-      <dc:date>2025-09-11T06:43:34Z</dc:date>
+      <dc:date>2025-09-22T11:49:56Z</dc:date>
     </item>
     <item>
       <title>MybatisAnnotationSql - Thu Sep 11 06:06:27 UTC 2025</title>
@@ -1265,45 +1304,6 @@ xmlId: com.metaor.json-plugin</description>
       <pubDate>Thu, 04 Sep 2025 07:57:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28370-log-to-json</guid>
       <dc:date>2025-09-04T07:57:59Z</dc:date>
-    </item>
-    <item>
-      <title>SQL Auto Replace - Thu Sep 04 06:29:25 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28376-sql-auto-replace</link>
-      <description>SQL Abbreviation Expander: Code Faster with Shortcuts This plugin is designed for developers and data professionals who work extensively with SQL in IntelliJ-based...
-
-vendor: whoami-e
-downloads: 24
-pricingModel: FREE
-xmlId: com.whoami.sql-auto-replace</description>
-      <pubDate>Thu, 04 Sep 2025 06:29:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28376-sql-auto-replace</guid>
-      <dc:date>2025-09-04T06:29:25Z</dc:date>
-    </item>
-    <item>
-      <title>pub.dev Package Versions - Wed Sep 03 22:58:57 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28361-pub-dev-package-versions</link>
-      <description>Provides version completion for pubspec.yaml files in Dart and Flutter projects. Features: Suggests the latest version of dependencies directly from pub.dev. Lists...
-
-vendor: Faruk Emre
-downloads: 61
-pricingModel: FREE
-xmlId: me.femrek.pub_dev_version_fetcher</description>
-      <pubDate>Wed, 03 Sep 2025 22:58:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28361-pub-dev-package-versions</guid>
-      <dc:date>2025-09-03T22:58:57Z</dc:date>
-    </item>
-    <item>
-      <title>SreenMoveEditor - Thu Sep 04 02:23:41 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28375-sreenmoveeditor</link>
-      <description>ScreenMoveEditor is an innovative IntelliJ IDEA plugin that brings advanced code editing experience with screen capture functionality: Press F4 to quickly capture...
-
-vendor: 3563198204qq
-downloads: 44
-pricingModel: FREE
-xmlId: com.com.print.sreenmoveeditor</description>
-      <pubDate>Thu, 04 Sep 2025 02:23:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28375-sreenmoveeditor</guid>
-      <dc:date>2025-09-04T02:23:41Z</dc:date>
     </item>
   </channel>
 </rss>
