@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.22441.33) ~ 2025-09-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 25 12:03:49 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.20.0|[nodejs.org](https://nodejs.org)|Wed Sep 24 16:03:06 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.20558.43) ~ 2025-09-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Sep 19 16:03:19 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.2 (252.26199.169) ~ 2025-09-19|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Sep 19 12:03:53 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.1.0|[gradle.org](https://gradle.org/releases/)|Thu Sep 18 16:29:55 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 18 16:03:46 UTC 2025|
