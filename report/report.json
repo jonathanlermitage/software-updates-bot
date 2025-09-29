@@ -134,6 +134,45 @@
         "Adoptium",
         "AdoptOpenJDK"
       ],
+      "name": "Adoptium jdk25 linux x64",
+      "website": "https://adoptium.net/releases.html?variant=openjdk25&jvmVariant=hotspot",
+      "version": "jdk-25+36",
+      "checkDate": "Sep 29, 2025, 2:21:46 PM",
+      "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "Adoptium",
+        "AdoptOpenJDK"
+      ],
+      "name": "Adoptium jdk25 mac x64",
+      "website": "https://adoptium.net/releases.html?variant=openjdk25&jvmVariant=hotspot",
+      "version": "jdk-25+36",
+      "checkDate": "Sep 29, 2025, 2:21:46 PM",
+      "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "Adoptium",
+        "AdoptOpenJDK"
+      ],
+      "name": "Adoptium jdk25 windows x64",
+      "website": "https://adoptium.net/releases.html?variant=openjdk25&jvmVariant=hotspot",
+      "version": "jdk-25+36",
+      "checkDate": "Sep 29, 2025, 2:21:46 PM",
+      "logo": "ADOPTIUM"
+    },
+    {
+      "categories": [
+        "Java",
+        "JDK",
+        "Adoptium",
+        "AdoptOpenJDK"
+      ],
       "name": "Adoptium jdk8 linux x64",
       "website": "https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot",
       "version": "jdk8u462-b08",
@@ -369,6 +408,17 @@
       "website": "https://www.postgresql.org/download/",
       "version": "17.6",
       "checkDate": "Aug 14, 2025, 4:03:17 PM",
+      "logo": "POSTGRESQL"
+    },
+    {
+      "categories": [
+        "Database",
+        "PostgreSQL"
+      ],
+      "name": "PostgreSQL 18",
+      "website": "https://www.postgresql.org/download/",
+      "version": "18.0",
+      "checkDate": "Sep 29, 2025, 2:22:05 PM",
       "logo": "POSTGRESQL"
     },
     {

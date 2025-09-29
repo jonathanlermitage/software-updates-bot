@@ -1,5 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.0|[www.postgresql.org](https://www.postgresql.org/download/)|Mon Sep 29 14:22:05 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk25&jvmVariant=hotspot)|Mon Sep 29 14:21:46 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk25&jvmVariant=hotspot)|Mon Sep 29 14:21:46 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk25&jvmVariant=hotspot)|Mon Sep 29 14:21:46 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.9.0|[nodejs.org](https://nodejs.org)|Thu Sep 25 20:03:27 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.22441.33) ~ 2025-09-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 25 12:03:49 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.20.0|[nodejs.org](https://nodejs.org)|Wed Sep 24 16:03:06 UTC 2025|
