@@ -31,7 +31,7 @@ dependencies {
     implementation("com.jayway.jsonpath:json-path:2.9.0")
     implementation("org.jsoup:jsoup:1.21.2") // https://jsoup.org/news/
     implementation("commons-io:commons-io:2.20.0")
-    implementation("org.apache.commons:commons-lang3:3.18.0")
+    implementation("org.apache.commons:commons-lang3:3.19.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
     implementation("org.springframework.boot:spring-boot-starter-aop")
     implementation("org.springframework.retry:spring-retry:2.0.12")
