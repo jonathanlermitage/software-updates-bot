@@ -25,10 +25,10 @@ if [%1] == [test] (
   gradlew clean cleanTest test --warning-mode all
 )
 if [%1] == [cv] (
-  gradlew dependencyUpdates
+  gradlew dependencyUpdates --no-parallel
 )
 if [%1] == [cvnd] (
-  gradlew dependencyUpdates --no-daemon
+  gradlew dependencyUpdates --no-parallel --no-daemon
 )
 if [%1] == [p] (
   gradlew clean bootJar --warning-mode all
