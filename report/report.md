@@ -1,21 +1,21 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.3 (March 1, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Sun Mar 02 00:05:49 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jul 19 00:06:14 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Sat Jul 19 00:06:14 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk11&jvmVariant=hotspot)|Thu Jul 24 00:06:40 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Fri Jul 18 16:03:39 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Thu Jul 17 20:02:41 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk17&jvmVariant=hotspot)|Wed Jul 23 00:06:35 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Fri Jul 18 16:03:41 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Thu Jul 17 20:02:42 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk21&jvmVariant=hotspot)|Wed Jul 23 00:06:37 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk25&jvmVariant=hotspot)|Mon Sep 29 14:21:46 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk25&jvmVariant=hotspot)|Mon Sep 29 14:21:46 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25+36|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk25&jvmVariant=hotspot)|Mon Sep 29 14:21:46 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Thu Jul 24 00:06:45 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Tue Jul 29 00:07:03 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/releases.html?variant=openjdk8&jvmVariant=hotspot)|Sun Jul 27 00:07:28 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jul 19 00:06:14 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jul 19 00:06:14 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 24 00:06:40 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 18 16:03:39 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 17 20:02:41 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 23 00:06:35 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 18 16:03:41 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 17 20:02:42 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 23 00:06:37 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 24 00:06:45 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Jul 29 00:07:03 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Sun Jul 27 00:07:28 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 16:02:37 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.25.1|[golang.org](https://golang.org/dl/)|Wed Sep 03 20:02:52 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.1.0|[gradle.org](https://gradle.org/releases/)|Thu Sep 18 16:29:55 UTC 2025|

@@ -6,121 +6,17 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Creative Themes - Thu Sep 18 07:43:04 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28513-creative-themes</link>
-      <description>Our plugin transforms your IDE into a truly personal space, blending generative AI with creativity to craft unique, stylish backgrounds and progress dialogs from...
+      <title>Big Data Tools Google Azure - Thu Sep 25 10:14:37 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28574-big-data-tools-google-azure</link>
+      <description>Internal Big Data Tools plugin for Azure components.
 
 vendor: JetBrains s.r.o.
-downloads: 46
+downloads: 16
 pricingModel: FREE
-xmlId: com.jetbrains.creative.themes</description>
-      <pubDate>Thu, 18 Sep 2025 07:43:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28513-creative-themes</guid>
-      <dc:date>2025-09-18T07:43:04Z</dc:date>
-    </item>
-    <item>
-      <title>Big Data Tools Google Cloud - Thu Sep 25 10:11:22 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28490-big-data-tools-google-cloud</link>
-      <description>Internal Big Data Tools plugin for Google Cloud components.
-
-vendor: JetBrains s.r.o.
-downloads: 179
-pricingModel: FREE
-xmlId: intellij.bigdatatools.gcloud</description>
-      <pubDate>Thu, 25 Sep 2025 10:11:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28490-big-data-tools-google-cloud</guid>
-      <dc:date>2025-09-25T10:11:22Z</dc:date>
-    </item>
-    <item>
-      <title>dbt Support - Thu Sep 25 10:10:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28489-dbt-support</link>
-      <description>Integration with dbt CLI. Syntax highlighting and codeinsight for SQL in Jinja2 templates.
-
-vendor: JetBrains s.r.o.
-downloads: 22
-pricingModel: FREE
-xmlId: org.jetbrains.dbt</description>
-      <pubDate>Thu, 25 Sep 2025 10:10:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28489-dbt-support</guid>
-      <dc:date>2025-09-25T10:10:51Z</dc:date>
-    </item>
-    <item>
-      <title>Big Data Tools AWS Base - Thu Sep 25 10:08:14 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28488-big-data-tools-aws-base</link>
-      <description>Internal Big Data Tools plugin for AWS components.
-
-vendor: JetBrains s.r.o.
-downloads: 303
-pricingModel: FREE
-xmlId: intellij.bigdatatools.awsBase</description>
-      <pubDate>Thu, 25 Sep 2025 10:08:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28488-big-data-tools-aws-base</guid>
-      <dc:date>2025-09-25T10:08:14Z</dc:date>
-    </item>
-    <item>
-      <title>Big Data Tools Core UI - Thu Sep 25 10:07:49 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28487-big-data-tools-core-ui</link>
-      <description>Internal Big Data Tools plugin for Core components.
-
-vendor: JetBrains s.r.o.
-downloads: 446
-pricingModel: FREE
-xmlId: intellij.bigdatatools.coreUi</description>
-      <pubDate>Thu, 25 Sep 2025 10:07:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28487-big-data-tools-core-ui</guid>
-      <dc:date>2025-09-25T10:07:49Z</dc:date>
-    </item>
-    <item>
-      <title>Collections Viewer in Debugger - Thu Sep 25 12:57:56 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</link>
-      <description>Support for Collections Viewer in Debugger. Allows to inspect collections in a grid format. Currently supported languages: Java Kotlin.
-
-vendor: JetBrains s.r.o.
-downloads: 18150
-pricingModel: FREE
-xmlId: com.intellij.debugger.collections.visualizer</description>
-      <pubDate>Thu, 25 Sep 2025 12:57:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28461-collections-viewer-in-debugger</guid>
-      <dc:date>2025-09-25T12:57:56Z</dc:date>
-    </item>
-    <item>
-      <title>Turbo Complete - Wed Sep 24 17:10:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28462-turbo-complete</link>
-      <description>Experimental approach to speed up code completion. The plugin implements a new approach to improve code completion's performance perception. Currently, it works only...
-
-vendor: JetBrains s.r.o.
-downloads: 46
-pricingModel: FREE
-xmlId: com.intellij.turboComplete</description>
-      <pubDate>Wed, 24 Sep 2025 17:10:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28462-turbo-complete</guid>
-      <dc:date>2025-09-24T17:10:39Z</dc:date>
-    </item>
-    <item>
-      <title>Machine Learning in Marketplace - Wed Sep 24 17:13:12 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28463-machine-learning-in-marketplace</link>
-      <description>The plugin improves the Marketplace search feature by ordering the search results using machine learning, making more relevant results appear higher up the list...
-
-vendor: JetBrains s.r.o.
-downloads: 33
-pricingModel: FREE
-xmlId: com.intellij.marketplace.ml</description>
-      <pubDate>Wed, 24 Sep 2025 17:13:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28463-machine-learning-in-marketplace</guid>
-      <dc:date>2025-09-24T17:13:12Z</dc:date>
-    </item>
-    <item>
-      <title>PythonDAP - Wed Sep 24 17:11:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28460-pythondap</link>
-      <description>Provides DAP debugger support for all JetBrains IDEs that support Python.
-
-vendor: JetBrains s.r.o.
-downloads: 92
-pricingModel: FREE
-xmlId: intellij.python.dap.plugin</description>
-      <pubDate>Wed, 24 Sep 2025 17:11:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28460-pythondap</guid>
-      <dc:date>2025-09-24T17:11:26Z</dc:date>
+xmlId: intellij.bigdatatools.azure</description>
+      <pubDate>Thu, 25 Sep 2025 10:14:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28574-big-data-tools-google-azure</guid>
+      <dc:date>2025-09-25T10:14:37Z</dc:date>
     </item>
   </channel>
 </rss>
