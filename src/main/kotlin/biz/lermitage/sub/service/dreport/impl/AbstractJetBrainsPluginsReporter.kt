@@ -36,7 +36,7 @@ abstract class AbstractJetBrainsPluginsReporter(private val vendor: String? = nu
     private fun write(reportFile: File) {
         val json = scrapper.fetchText(
             "https://plugins.jetbrains.com/api/searchPlugins?excludeTags=internal" +
-                "&excludeTags=theme&max=100&offset=0&orderBy=publish%20date" +
+                "&excludeTags=theme&max=20&offset=0&orderBy=publish%20date" +
                 "&products=androidstudio&products=appcode&products=aqua&products=clion" +
                 "&products=dataspell&products=dbe&products=fleet&products=go" +
                 "&products=idea&products=idea_ce&products=mps&products=phpstorm" +
