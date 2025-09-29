@@ -40,7 +40,7 @@ abstract class AdoptiumChecker(
         return SoftwareUpdate(
             listOf(Category.JAVA.label, Category.JDK.label, Category.ADOPTIUM.label, Category.ADOPT_OPEN_JDK.label),
             "Adoptium $imageType$major $os $architecture",
-            "https://adoptium.net/releases.html?variant=openjdk$major&jvmVariant=hotspot",
+            "https://adoptium.net/temurin/releases/",
             version,
             logo = Logo.ADOPTIUM
         )
