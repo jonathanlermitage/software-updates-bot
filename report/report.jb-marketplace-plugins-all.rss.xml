@@ -19,17 +19,30 @@ xmlId: com.zeros.ScriptAssistant</description>
       <dc:date>2025-09-29T07:49:33Z</dc:date>
     </item>
     <item>
-      <title>Project File Notes - Mon Sep 29 07:07:59 UTC 2025</title>
+      <title>Kingbase SQL Checker - Mon Sep 29 06:40:30 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28409-kingbase-sql-checker</link>
+      <description>Checks SQL syntax for Kingbase databases in MyBatis XML files. Supports connection configuration and SQL execution.
+
+vendor: 1578442339
+downloads: 4
+pricingModel: FREE
+xmlId: com.lq.kingbase</description>
+      <pubDate>Mon, 29 Sep 2025 06:40:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28409-kingbase-sql-checker</guid>
+      <dc:date>2025-09-29T06:40:30Z</dc:date>
+    </item>
+    <item>
+      <title>Project File Notes - Mon Sep 29 07:20:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28588-project-file-notes</link>
-      <description>**Powerful and versatile code annotation tool.** This plugin supports file and class level annotations, automatic display in the editor, project view markers, and...
+      <description>A powerful IDE plugin for file and class-level Markdown notes in JetBrains IDEs. Project File Notes —— 终结大型项目“代码迷宫”的 IDE 批注利器...
 
 vendor: 王利国
 downloads: 0
 pricingModel: FREE
 xmlId: com.projectfilenotes.plugin</description>
-      <pubDate>Mon, 29 Sep 2025 07:07:59 GMT</pubDate>
+      <pubDate>Mon, 29 Sep 2025 07:20:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28588-project-file-notes</guid>
-      <dc:date>2025-09-29T07:07:59Z</dc:date>
+      <dc:date>2025-09-29T07:20:33Z</dc:date>
     </item>
     <item>
       <title>QuickView - Fri Sep 26 15:02:05 UTC 2025</title>
@@ -251,19 +264,6 @@ xmlId: de.mehtrick.bjoern-intellij-plugin</description>
       <pubDate>Sun, 21 Sep 2025 18:59:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28543-bjoern-language-support</guid>
       <dc:date>2025-09-21T18:59:48Z</dc:date>
-    </item>
-    <item>
-      <title>Columbus AI Debugger - Mon Sep 22 06:41:27 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28496-columbus-ai-debugger</link>
-      <description>Investigate complex codebases and resolve debugging challenges. Just describe the issue - Columbus performs structured investigation and will find the root cause. What...
-
-vendor: Lightrun
-downloads: 28
-pricingModel: FREE
-xmlId: com.lightrun.columbus</description>
-      <pubDate>Mon, 22 Sep 2025 06:41:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28496-columbus-ai-debugger</guid>
-      <dc:date>2025-09-22T06:41:27Z</dc:date>
     </item>
   </channel>
 </rss>
