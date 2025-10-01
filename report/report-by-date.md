@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.2.0 to 19.2.5 ~ 2025-10-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Oct 01 20:03:03 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.0|[www.postgresql.org](https://www.postgresql.org/download/)|Mon Sep 29 14:22:05 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.2 (252.26199.169) ~ 2025-09-19|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Sep 19 12:03:53 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.1.0|[gradle.org](https://gradle.org/releases/)|Thu Sep 18 16:29:55 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 18 16:03:46 UTC 2025|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.1.5 to 19.2.0 ~ 2025-09-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Sep 16 20:02:49 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 330 - Nano banana l'AI de Julia|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 15 12:03:37 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.25.1|[golang.org](https://golang.org/dl/)|Wed Sep 03 20:02:52 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.13.7|[www.python.org](https://www.python.org/downloads/windows/)|Thu Aug 14 20:03:13 UTC 2025|
