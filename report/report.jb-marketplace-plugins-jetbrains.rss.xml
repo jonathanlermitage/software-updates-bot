@@ -5,5 +5,31 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>XLS Loader - Tue Sep 30 05:57:24 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28604-xls-loader</link>
+      <description>Loader for XLS files for use in Data Editor.
+
+vendor: JetBrains s.r.o.
+downloads: 2
+pricingModel: FREE
+xmlId: intellij.grid.loader.xls</description>
+      <pubDate>Tue, 30 Sep 2025 05:57:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28604-xls-loader</guid>
+      <dc:date>2025-09-30T05:57:24Z</dc:date>
+    </item>
+    <item>
+      <title>Json Loader - Tue Sep 30 06:02:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28605-json-loader</link>
+      <description>Loader for JSON files for use in Data Editor.
+
+vendor: JetBrains s.r.o.
+downloads: 1
+pricingModel: FREE
+xmlId: intellij.grid.loader.json</description>
+      <pubDate>Tue, 30 Sep 2025 06:02:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28605-json-loader</guid>
+      <dc:date>2025-09-30T06:02:59Z</dc:date>
+    </item>
   </channel>
 </rss>
