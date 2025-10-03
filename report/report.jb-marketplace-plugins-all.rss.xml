@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Material Symbols - Thu Oct 02 16:02:29 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28620-material-symbols</link>
+      <description>Plugin to view and download Material Symbols directly from the IDE.
+
+vendor: Abhimanyu N
+downloads: 0
+pricingModel: FREE
+xmlId: com.makeappssimple.material.symbols</description>
+      <pubDate>Thu, 02 Oct 2025 16:02:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28620-material-symbols</guid>
+      <dc:date>2025-10-02T16:02:29Z</dc:date>
+    </item>
+    <item>
+      <title>CodeGenByVelocity - Wed Oct 01 07:54:33 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28593-codegenbyvelocity</link>
+      <description>Code Generate By Velocity Template Save Code Generate Velocity Template If you have any suggestions, questions or bugs about this plugin, please issue them on gitee...
+
+vendor: huang jiyang
+downloads: 1
+pricingModel: FREE
+xmlId: CodeGenByVelocity</description>
+      <pubDate>Wed, 01 Oct 2025 07:54:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28593-codegenbyvelocity</guid>
+      <dc:date>2025-10-01T07:54:33Z</dc:date>
+    </item>
+    <item>
       <title>ProxyThemAll - Thu Oct 02 11:58:39 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28611-proxythemall</link>
       <description>ProxyThemAll is an IntelliJ IDEA plugin that makes it easy to toggle proxy settings on and off with just one click, including automatic Git proxy synchronization. Key...
 
 vendor: HoLuLuLu
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: org.holululu.proxythemall</description>
       <pubDate>Thu, 02 Oct 2025 11:58:39 GMT</pubDate>
@@ -19,17 +45,30 @@ xmlId: org.holululu.proxythemall</description>
       <dc:date>2025-10-02T11:58:39Z</dc:date>
     </item>
     <item>
-      <title>MockkHttp - Thu Oct 02 10:50:03 UTC 2025</title>
+      <title>Project Identifier - Wed Oct 01 14:54:52 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28578-project-identifier</link>
+      <description>Project Identifier helps you tell multiple IDE projects apart by adding a subtle, low-opacity text watermark to the editor background. &#x1f31f; What It Does The IntelliJ...
+
+vendor: Lucas
+downloads: 6
+pricingModel: FREE
+xmlId: com.github.lucsartes.intellijprojectidentifierplugin</description>
+      <pubDate>Wed, 01 Oct 2025 14:54:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28578-project-identifier</guid>
+      <dc:date>2025-10-01T14:54:52Z</dc:date>
+    </item>
+    <item>
+      <title>MockkHttp - Thu Oct 02 16:39:21 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28616-mockkhttp</link>
       <description>Network Traffic Interceptor for Android Development Intercept and modify HTTP/HTTPS traffic from Android applications running in emulators. Perfect for testing...
 
 vendor: Sergiy Alonso
-downloads: 0
+downloads: 19
 pricingModel: FREE
 xmlId: com.sergiy.dev.MockkHttp</description>
-      <pubDate>Thu, 02 Oct 2025 10:50:03 GMT</pubDate>
+      <pubDate>Thu, 02 Oct 2025 16:39:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28616-mockkhttp</guid>
-      <dc:date>2025-10-02T10:50:03Z</dc:date>
+      <dc:date>2025-10-02T16:39:21Z</dc:date>
     </item>
     <item>
       <title>MBKarate For AutoTest - Thu Oct 02 21:23:45 UTC 2025</title>
@@ -37,7 +76,7 @@ xmlId: com.sergiy.dev.MockkHttp</description>
       <description>For Karate framework support in IntelliJ IDEA. Features: Syntax Highlighting Code Completion Go to Definition Code Commenting Feature Formating Jira Issue Integration...
 
 vendor: Van Thanh Duy
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.mb.mb-plugin</description>
       <pubDate>Thu, 02 Oct 2025 21:23:45 GMT</pubDate>
@@ -45,30 +84,69 @@ xmlId: com.mb.mb-plugin</description>
       <dc:date>2025-10-02T21:23:45Z</dc:date>
     </item>
     <item>
-      <title>Spiral Framework - Wed Oct 01 08:53:17 UTC 2025</title>
+      <title>Java Doc Customizer - Thu Oct 02 02:09:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28614-java-doc-customizer</link>
+      <description>Making JavaDoc more readable. And you can customize how java doc rendered as you want.
+
+vendor: Carry
+downloads: 4
+pricingModel: FREE
+xmlId: java.doc.customizer</description>
+      <pubDate>Thu, 02 Oct 2025 02:09:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28614-java-doc-customizer</guid>
+      <dc:date>2025-10-02T02:09:50Z</dc:date>
+    </item>
+    <item>
+      <title>Milvus Vector Database Connector - Wed Oct 01 14:32:32 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28615-milvus-vector-database-connector</link>
+      <description>Milvus Vector Database Connector for JetBrains IDEs A comprehensive plugin that enables seamless integration with Milvus vector databases directly from your JetBrains...
+
+vendor: Stanislav Lazarenko
+downloads: 5
+pricingModel: FREE
+xmlId: dev.potik.milvus-connector</description>
+      <pubDate>Wed, 01 Oct 2025 14:32:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28615-milvus-vector-database-connector</guid>
+      <dc:date>2025-10-01T14:32:32Z</dc:date>
+    </item>
+    <item>
+      <title>Autoprefix Commit Messages - Fri Oct 03 06:50:18 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28598-autoprefix-commit-messages</link>
+      <description>Automatically adds the branch name to the git commit message. There are other plugins that do (did) that. But they were unmaintained and did not work.
+
+vendor: sander.hautvast
+downloads: 12
+pricingModel: FREE
+xmlId: nl.top-squad.autoprefix-commit</description>
+      <pubDate>Fri, 03 Oct 2025 06:50:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28598-autoprefix-commit-messages</guid>
+      <dc:date>2025-10-03T06:50:18Z</dc:date>
+    </item>
+    <item>
+      <title>Spiral Framework - Thu Oct 02 08:53:52 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28608-spiral-framework</link>
       <description>Github | Telegram | Official Website | Donation Spiral Framework Spiral Framework is a modern PHP framework designed to power faster, cleaner, superior software...
 
 vendor: xepozz
-downloads: 7
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.xepozz.spiral</description>
-      <pubDate>Wed, 01 Oct 2025 08:53:17 GMT</pubDate>
+      <pubDate>Thu, 02 Oct 2025 08:53:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28608-spiral-framework</guid>
-      <dc:date>2025-10-01T08:53:17Z</dc:date>
+      <dc:date>2025-10-02T08:53:52Z</dc:date>
     </item>
     <item>
-      <title>ElderBlocks - Thu Oct 02 12:21:24 UTC 2025</title>
+      <title>ElderBlocks - Thu Oct 02 13:19:09 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28599-elderblocks</link>
       <description>Fold unused code blocks for easier code navigation and improved code readability. This plugin helps developers to focus on the essential parts of their code by...
 
 vendor: Tunisoft
-downloads: 12
+downloads: 44
 pricingModel: FREE
 xmlId: net.prestalife.elderblocks</description>
-      <pubDate>Thu, 02 Oct 2025 12:21:24 GMT</pubDate>
+      <pubDate>Thu, 02 Oct 2025 13:19:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28599-elderblocks</guid>
-      <dc:date>2025-10-02T12:21:24Z</dc:date>
+      <dc:date>2025-10-02T13:19:09Z</dc:date>
     </item>
     <item>
       <title>Inline Voice Notes - Mon Sep 29 19:56:41 UTC 2025</title>
@@ -76,7 +154,7 @@ xmlId: net.prestalife.elderblocks</description>
       <description>Record short voice notes attached to specific lines of code. Click the gutter icon to play.
 
 vendor: Thanos Tsiamis
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: io.github.thanostsiamis.voicenotes</description>
       <pubDate>Mon, 29 Sep 2025 19:56:41 GMT</pubDate>
@@ -89,7 +167,7 @@ xmlId: io.github.thanostsiamis.voicenotes</description>
       <description>Customize colors for PHP types. Highlight specified classes, interfaces, enums, and all other PHP types with your own colors. Usage Set colors for specific types in...
 
 vendor: Re7r
-downloads: 6
+downloads: 16
 pricingModel: FREE
 xmlId: com.github.re7r.phpColorCast</description>
       <pubDate>Wed, 01 Oct 2025 22:04:19 GMT</pubDate>
@@ -102,7 +180,7 @@ xmlId: com.github.re7r.phpColorCast</description>
       <description>Loader for XLS files for use in Data Editor.
 
 vendor: JetBrains s.r.o.
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: intellij.grid.loader.xls</description>
       <pubDate>Tue, 30 Sep 2025 05:57:24 GMT</pubDate>
@@ -115,7 +193,7 @@ xmlId: intellij.grid.loader.xls</description>
       <description>Loader for JSON files for use in Data Editor.
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: intellij.grid.loader.json</description>
       <pubDate>Tue, 30 Sep 2025 06:02:59 GMT</pubDate>
@@ -128,7 +206,7 @@ xmlId: intellij.grid.loader.json</description>
       <description>A powerful IntelliJ IDEA plugin for Java developers with intelligent code generation features. 功能强大的 IntelliJ IDEA 插件，为 Java 开发者提供智能代码生成功能。 核心功能： • 智能一键生成 - 智能识别并执行操作...
 
 vendor: glowxq
-downloads: 10
+downloads: 13
 pricingModel: FREE
 xmlId: com.glowxq.plugs.oneclick</description>
       <pubDate>Tue, 30 Sep 2025 10:38:16 GMT</pubDate>
@@ -141,7 +219,7 @@ xmlId: com.glowxq.plugs.oneclick</description>
       <description>Regenbogen clarifies the debugging process by visualizing debugger events as a program execution sequence that can be exported and shared.
 
 vendor: Kate Kiricheva
-downloads: 12
+downloads: 14
 pricingModel: FREE
 xmlId: de.regenbogen.regenbogen</description>
       <pubDate>Tue, 30 Sep 2025 00:19:08 GMT</pubDate>
@@ -154,7 +232,7 @@ xmlId: de.regenbogen.regenbogen</description>
       <description>An intelligent code completion and chat assistant plugin for IntelliJ-based IDEs, powered by capable AI models. Code4Me V2 enhances your development workflow with...
 
 vendor: Code4Me
-downloads: 9
+downloads: 14
 pricingModel: FREE
 xmlId: me.code4me</description>
       <pubDate>Tue, 30 Sep 2025 12:55:24 GMT</pubDate>
@@ -167,7 +245,7 @@ xmlId: me.code4me</description>
       <description>ScriptAssistant - A powerful tool designed for Android automation testers and developers to enhance efficiency in writing uiautomator2 scripts. Key Features...
 
 vendor: Zeros2619
-downloads: 9
+downloads: 11
 pricingModel: FREE
 xmlId: com.zeros.ScriptAssistant</description>
       <pubDate>Mon, 29 Sep 2025 07:49:33 GMT</pubDate>
@@ -180,90 +258,12 @@ xmlId: com.zeros.ScriptAssistant</description>
       <description>The plugin provides integration with Atlassian Jira. Currently, only Jira Cloud is supported. Key features: Create and browse issues Add and view comments Integration...
 
 vendor: IP Kudelevskiy Yevgeniy Valerevich
-downloads: 33
+downloads: 41
 pricingModel: FREE
 xmlId: com.majera.jira</description>
       <pubDate>Thu, 25 Sep 2025 16:50:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28575-jira-integration-pro</guid>
       <dc:date>2025-09-25T16:50:06Z</dc:date>
-    </item>
-    <item>
-      <title>Logger Auto Folding - Fri Sep 26 16:03:24 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28577-logger-auto-folding</link>
-      <description>This plugin lets you stay focused on business logic instead of getting distracted by logs. This plugin will automatically fold calls to LoggerInterface methods...
-
-vendor: Enco
-downloads: 19
-pricingModel: PAID
-xmlId: org.enco.logger-folding</description>
-      <pubDate>Fri, 26 Sep 2025 16:03:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28577-logger-auto-folding</guid>
-      <dc:date>2025-09-26T16:03:24Z</dc:date>
-    </item>
-    <item>
-      <title>Kingbase SQL Checker - Tue Sep 30 02:02:07 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28409-kingbase-sql-checker</link>
-      <description>Checks SQL syntax for Kingbase databases in MyBatis XML files. Supports connection configuration and SQL execution.
-
-vendor: 1578442339
-downloads: 18
-pricingModel: FREE
-xmlId: com.lq.kingbase</description>
-      <pubDate>Tue, 30 Sep 2025 02:02:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28409-kingbase-sql-checker</guid>
-      <dc:date>2025-09-30T02:02:07Z</dc:date>
-    </item>
-    <item>
-      <title>Tempest PHP - Sun Sep 28 13:05:00 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28504-tempest-php</link>
-      <description>Github | Documentation | Discord Tempest PHP framework support. The framework that gets out of your way. Tempest embraces modern PHP and covers a wide range of...
-
-vendor: xepozz
-downloads: 8
-pricingModel: FREE
-xmlId: com.github.tempest.framework</description>
-      <pubDate>Sun, 28 Sep 2025 13:05:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28504-tempest-php</guid>
-      <dc:date>2025-09-28T13:05:00Z</dc:date>
-    </item>
-    <item>
-      <title>Assign DevOps TestCase - Sun Sep 28 15:32:43 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28592-assign-devops-testcase</link>
-      <description>The action allows you to assign test information to the Associated Automation tab in Azure DevOps Test Case. This is the first version, so any feedback is welcome. The...
-
-vendor: Krzysztof Rutana
-downloads: 6
-pricingModel: FREE
-xmlId: com.jetbrains.plugins.devopstcplugin</description>
-      <pubDate>Sun, 28 Sep 2025 15:32:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28592-assign-devops-testcase</guid>
-      <dc:date>2025-09-28T15:32:43Z</dc:date>
-    </item>
-    <item>
-      <title>Log SQL Converter - Sun Sep 28 07:57:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28590-log-sql-converter</link>
-      <description>Log SQL Converter is a useful plugin for developers. It helps to quickly convert SQL templates and parameters in logs into executable SQL statements. Core functions...
-
-vendor: Landy Lee
-downloads: 10
-pricingModel: FREE
-xmlId: com.landy.logSqlConvert</description>
-      <pubDate>Sun, 28 Sep 2025 07:57:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28590-log-sql-converter</guid>
-      <dc:date>2025-09-28T07:57:51Z</dc:date>
-    </item>
-    <item>
-      <title>Crypto Price - Sun Sep 28 06:24:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28573-crypto-price</link>
-      <description>This plugin displays the current coin price in the status bar and toolwindow, powered by BigONE.
-
-vendor: ultra numb
-downloads: 7
-pricingModel: FREE
-xmlId: com.ultranumb.idea.plugin.cryptoPrice</description>
-      <pubDate>Sun, 28 Sep 2025 06:24:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28573-crypto-price</guid>
-      <dc:date>2025-09-28T06:24:39Z</dc:date>
     </item>
   </channel>
 </rss>
