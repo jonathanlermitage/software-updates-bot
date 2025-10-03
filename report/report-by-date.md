@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.24325.38) ~ 2025-10-03|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Oct 03 12:03:30 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.3 (252.26830.84) ~ 2025-10-02|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Oct 02 20:03:38 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.2.0 to 19.2.5 ~ 2025-10-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Oct 01 20:03:03 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.0|[www.postgresql.org](https://www.postgresql.org/download/)|Mon Sep 29 14:22:05 UTC 2025|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.9.0|[nodejs.org](https://nodejs.org)|Thu Sep 25 20:03:27 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.22441.33) ~ 2025-09-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Sep 25 12:03:49 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.20.0|[nodejs.org](https://nodejs.org)|Wed Sep 24 16:03:06 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.1.0|[gradle.org](https://gradle.org/releases/)|Thu Sep 18 16:29:55 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 18 16:03:46 UTC 2025|
