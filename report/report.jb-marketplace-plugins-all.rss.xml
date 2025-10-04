@@ -6,12 +6,103 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>GitViz Horizontal - Sat Oct 04 06:21:15 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28633-gitviz-horizontal</link>
+      <description>Shows the Git history horizontally with author, commit message, SHA, tags, and branches.
+
+vendor: kambei
+downloads: 0
+pricingModel: FREE
+xmlId: dev.kambei.gitviz</description>
+      <pubDate>Sat, 04 Oct 2025 06:21:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28633-gitviz-horizontal</guid>
+      <dc:date>2025-10-04T06:21:15Z</dc:date>
+    </item>
+    <item>
+      <title>Better-Exclude - Fri Oct 03 08:54:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28629-better-exclude</link>
+      <description>An auto excluder for node_modules folder for React Native projects.
+
+vendor: Łukasz Kosmaty
+downloads: 3
+pricingModel: FREE
+xmlId: io.github.lukmccall.better-exclude</description>
+      <pubDate>Fri, 03 Oct 2025 08:54:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28629-better-exclude</guid>
+      <dc:date>2025-10-03T08:54:36Z</dc:date>
+    </item>
+    <item>
+      <title>AWS Cloud Explorer - Fri Oct 03 11:10:34 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28628-aws-cloud-explorer</link>
+      <description>AWS cloud database explorer for data source creation.
+
+vendor: JetBrains s.r.o.
+downloads: 2
+pricingModel: FREE
+xmlId: intellij.database.cloudExplorer.aws</description>
+      <pubDate>Fri, 03 Oct 2025 11:10:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28628-aws-cloud-explorer</guid>
+      <dc:date>2025-10-03T11:10:34Z</dc:date>
+    </item>
+    <item>
+      <title>AhaPilot - Thu Oct 02 08:06:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28607-ahapilot</link>
+      <description>AhaPilot is an AI programming assistant for enterprise-level development, deeply integrated with mainstream IDE environments, and installed as a plugin in the editor...
+
+vendor: AhaPilot
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.ahapilot.extension</description>
+      <pubDate>Thu, 02 Oct 2025 08:06:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28607-ahapilot</guid>
+      <dc:date>2025-10-02T08:06:40Z</dc:date>
+    </item>
+    <item>
+      <title>Copy File ContentX - Thu Oct 02 02:31:06 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28618-copy-file-contentx</link>
+      <description>Copy File Content is a plugin that enhances your workflow by allowing you to quickly copy the contents of selected files and directories to the clipboard, formatted...
+
+vendor: Rafael Diaz
+downloads: 4
+pricingModel: FREE
+xmlId: io.availe.copyfilecontentx</description>
+      <pubDate>Thu, 02 Oct 2025 02:31:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28618-copy-file-contentx</guid>
+      <dc:date>2025-10-02T02:31:06Z</dc:date>
+    </item>
+    <item>
+      <title>Paused Changelists - Thu Oct 02 16:35:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28624-paused-changelists</link>
+      <description>Pause changelists to keep them visible while shelving their changes. Features Toggle Pause: Right-click any changelist and select "Toggle Pause Changelist" or use...
+
+vendor: kmrh47
+downloads: 8
+pricingModel: FREE
+xmlId: dev.togglepaused.paused-changelists</description>
+      <pubDate>Thu, 02 Oct 2025 16:35:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28624-paused-changelists</guid>
+      <dc:date>2025-10-02T16:35:59Z</dc:date>
+    </item>
+    <item>
+      <title>FPP - Thu Oct 02 00:18:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28612-fpp</link>
+      <description>Adds F Prime Prime language support including syntax highlighting and error checking.
+
+vendor: Kevinthegreat
+downloads: 2
+pricingModel: FREE
+xmlId: com.kevinthegreat.FPP</description>
+      <pubDate>Thu, 02 Oct 2025 00:18:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28612-fpp</guid>
+      <dc:date>2025-10-02T00:18:26Z</dc:date>
+    </item>
+    <item>
       <title>Sort Lines with Comment - Thu Oct 02 20:57:02 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28626-sort-lines-with-comment</link>
       <description>Sort blocks of lines with a comment. On the line before the lines to be sorted use one of the following sort patterns: Simple sort: [asc|desc]Group sort: { order...
 
 vendor: Jodie Weldon
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.jodiew.sortlines</description>
       <pubDate>Thu, 02 Oct 2025 20:57:02 GMT</pubDate>
@@ -19,12 +110,25 @@ xmlId: com.github.jodiew.sortlines</description>
       <dc:date>2025-10-02T20:57:02Z</dc:date>
     </item>
     <item>
+      <title>StackSnack - Library Stack Frame Hider - Wed Oct 01 21:10:10 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28597-stacksnack--library-stack-frame-hider</link>
+      <description>StackSnack StackSnack helps you cut through the noise in your debugger by hiding library stack frames. This keeps your focus on your code, making debugging sessions...
+
+vendor: heisen273
+downloads: 10
+pricingModel: FREE
+xmlId: com.stackframehider</description>
+      <pubDate>Wed, 01 Oct 2025 21:10:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28597-stacksnack--library-stack-frame-hider</guid>
+      <dc:date>2025-10-01T21:10:10Z</dc:date>
+    </item>
+    <item>
       <title>Material Symbols - Thu Oct 02 16:02:29 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28620-material-symbols</link>
       <description>Plugin to view and download Material Symbols directly from the IDE.
 
 vendor: Abhimanyu N
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.makeappssimple.material.symbols</description>
       <pubDate>Thu, 02 Oct 2025 16:02:29 GMT</pubDate>
@@ -32,12 +136,25 @@ xmlId: com.makeappssimple.material.symbols</description>
       <dc:date>2025-10-02T16:02:29Z</dc:date>
     </item>
     <item>
+      <title>orika-helper - Thu Oct 02 09:39:39 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28621-orika-helper</link>
+      <description>A powerful IntelliJ IDEA plugin designed specifically for analyzing and tracing field mapping relationships and call hierarchies in Orika mapping framework. Helps...
+
+vendor: 1020862019
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.wangfan1314.orikahelper</description>
+      <pubDate>Thu, 02 Oct 2025 09:39:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28621-orika-helper</guid>
+      <dc:date>2025-10-02T09:39:39Z</dc:date>
+    </item>
+    <item>
       <title>CodeGenByVelocity - Wed Oct 01 07:54:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28593-codegenbyvelocity</link>
       <description>Code Generate By Velocity Template Save Code Generate Velocity Template If you have any suggestions, questions or bugs about this plugin, please issue them on gitee...
 
 vendor: huang jiyang
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: CodeGenByVelocity</description>
       <pubDate>Wed, 01 Oct 2025 07:54:33 GMT</pubDate>
@@ -50,7 +167,7 @@ xmlId: CodeGenByVelocity</description>
       <description>ProxyThemAll is an IntelliJ IDEA plugin that makes it easy to toggle proxy settings on and off with just one click, including automatic Git proxy synchronization. Key...
 
 vendor: HoLuLuLu
-downloads: 11
+downloads: 19
 pricingModel: FREE
 xmlId: org.holululu.proxythemall</description>
       <pubDate>Thu, 02 Oct 2025 11:58:39 GMT</pubDate>
@@ -63,7 +180,7 @@ xmlId: org.holululu.proxythemall</description>
       <description>Project Identifier helps you tell multiple IDE projects apart by adding a subtle, low-opacity text watermark to the editor background. &#x1f31f; What It Does The IntelliJ...
 
 vendor: Lucas
-downloads: 6
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.lucsartes.intellijprojectidentifierplugin</description>
       <pubDate>Wed, 01 Oct 2025 14:54:52 GMT</pubDate>
@@ -76,7 +193,7 @@ xmlId: com.github.lucsartes.intellijprojectidentifierplugin</description>
       <description>Network Traffic Interceptor for Android Development Intercept and modify HTTP/HTTPS traffic from Android applications running in emulators. Perfect for testing...
 
 vendor: Sergiy Alonso
-downloads: 19
+downloads: 25
 pricingModel: FREE
 xmlId: com.sergiy.dev.MockkHttp</description>
       <pubDate>Thu, 02 Oct 2025 16:39:21 GMT</pubDate>
@@ -84,17 +201,17 @@ xmlId: com.sergiy.dev.MockkHttp</description>
       <dc:date>2025-10-02T16:39:21Z</dc:date>
     </item>
     <item>
-      <title>MBKarate For AutoTest - Fri Oct 03 14:19:37 UTC 2025</title>
+      <title>MBKarate For AutoTest - Fri Oct 03 16:49:15 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28613-mbkarate-for-autotest</link>
       <description>For Karate framework support in IntelliJ IDEA. Features: Go to Definition for call read Indexing and Autocomplete for call read (file and scenario tags) Documentation...
 
 vendor: Van Thanh Duy
-downloads: 7
+downloads: 27
 pricingModel: FREE
 xmlId: com.mb.mb-plugin</description>
-      <pubDate>Fri, 03 Oct 2025 14:19:37 GMT</pubDate>
+      <pubDate>Fri, 03 Oct 2025 16:49:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28613-mbkarate-for-autotest</guid>
-      <dc:date>2025-10-03T14:19:37Z</dc:date>
+      <dc:date>2025-10-03T16:49:15Z</dc:date>
     </item>
     <item>
       <title>Java Doc Customizer - Thu Oct 02 02:09:50 UTC 2025</title>
@@ -102,7 +219,7 @@ xmlId: com.mb.mb-plugin</description>
       <description>Making JavaDoc more readable. And you can customize how java doc rendered as you want.
 
 vendor: Carry
-downloads: 4
+downloads: 6
 pricingModel: FREE
 xmlId: java.doc.customizer</description>
       <pubDate>Thu, 02 Oct 2025 02:09:50 GMT</pubDate>
@@ -115,7 +232,7 @@ xmlId: java.doc.customizer</description>
       <description>Milvus Vector Database Connector for JetBrains IDEs A comprehensive plugin that enables seamless integration with Milvus vector databases directly from your JetBrains...
 
 vendor: Stanislav Lazarenko
-downloads: 5
+downloads: 8
 pricingModel: FREE
 xmlId: dev.potik.milvus-connector</description>
       <pubDate>Wed, 01 Oct 2025 14:32:32 GMT</pubDate>
@@ -128,7 +245,7 @@ xmlId: dev.potik.milvus-connector</description>
       <description>Automatically adds the branch name to the git commit message. There are other plugins that do (did) that. But they were unmaintained and did not work.
 
 vendor: sander.hautvast
-downloads: 12
+downloads: 24
 pricingModel: FREE
 xmlId: nl.top-squad.autoprefix-commit</description>
       <pubDate>Fri, 03 Oct 2025 06:50:18 GMT</pubDate>
@@ -141,129 +258,12 @@ xmlId: nl.top-squad.autoprefix-commit</description>
       <description>Github | Telegram | Official Website | Donation Spiral Framework Spiral Framework is a modern PHP framework designed to power faster, cleaner, superior software...
 
 vendor: xepozz
-downloads: 13
+downloads: 19
 pricingModel: FREE
 xmlId: com.github.xepozz.spiral</description>
       <pubDate>Thu, 02 Oct 2025 08:53:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28608-spiral-framework</guid>
       <dc:date>2025-10-02T08:53:52Z</dc:date>
-    </item>
-    <item>
-      <title>ElderBlocks - Thu Oct 02 13:19:09 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28599-elderblocks</link>
-      <description>Fold unused code blocks for easier code navigation and improved code readability. This plugin helps developers to focus on the essential parts of their code by...
-
-vendor: Tunisoft
-downloads: 44
-pricingModel: FREE
-xmlId: net.prestalife.elderblocks</description>
-      <pubDate>Thu, 02 Oct 2025 13:19:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28599-elderblocks</guid>
-      <dc:date>2025-10-02T13:19:09Z</dc:date>
-    </item>
-    <item>
-      <title>Inline Voice Notes - Mon Sep 29 19:56:41 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28600-inline-voice-notes</link>
-      <description>Record short voice notes attached to specific lines of code. Click the gutter icon to play.
-
-vendor: Thanos Tsiamis
-downloads: 5
-pricingModel: FREE
-xmlId: io.github.thanostsiamis.voicenotes</description>
-      <pubDate>Mon, 29 Sep 2025 19:56:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28600-inline-voice-notes</guid>
-      <dc:date>2025-09-29T19:56:41Z</dc:date>
-    </item>
-    <item>
-      <title>PHP Color Cast - Wed Oct 01 22:04:19 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28601-php-color-cast</link>
-      <description>Customize colors for PHP types. Highlight specified classes, interfaces, enums, and all other PHP types with your own colors. Usage Set colors for specific types in...
-
-vendor: Re7r
-downloads: 16
-pricingModel: FREE
-xmlId: com.github.re7r.phpColorCast</description>
-      <pubDate>Wed, 01 Oct 2025 22:04:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28601-php-color-cast</guid>
-      <dc:date>2025-10-01T22:04:19Z</dc:date>
-    </item>
-    <item>
-      <title>XLS Loader - Tue Sep 30 05:57:24 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28604-xls-loader</link>
-      <description>Loader for XLS files for use in Data Editor.
-
-vendor: JetBrains s.r.o.
-downloads: 5
-pricingModel: FREE
-xmlId: intellij.grid.loader.xls</description>
-      <pubDate>Tue, 30 Sep 2025 05:57:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28604-xls-loader</guid>
-      <dc:date>2025-09-30T05:57:24Z</dc:date>
-    </item>
-    <item>
-      <title>Json Loader - Tue Sep 30 06:02:59 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28605-json-loader</link>
-      <description>Loader for JSON files for use in Data Editor.
-
-vendor: JetBrains s.r.o.
-downloads: 4
-pricingModel: FREE
-xmlId: intellij.grid.loader.json</description>
-      <pubDate>Tue, 30 Sep 2025 06:02:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28605-json-loader</guid>
-      <dc:date>2025-09-30T06:02:59Z</dc:date>
-    </item>
-    <item>
-      <title>OneClick - Tue Sep 30 10:38:16 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28606-oneclick</link>
-      <description>A powerful IntelliJ IDEA plugin for Java developers with intelligent code generation features. 功能强大的 IntelliJ IDEA 插件，为 Java 开发者提供智能代码生成功能。 核心功能： • 智能一键生成 - 智能识别并执行操作...
-
-vendor: glowxq
-downloads: 13
-pricingModel: FREE
-xmlId: com.glowxq.plugs.oneclick</description>
-      <pubDate>Tue, 30 Sep 2025 10:38:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28606-oneclick</guid>
-      <dc:date>2025-09-30T10:38:16Z</dc:date>
-    </item>
-    <item>
-      <title>Regenbogen - Tue Sep 30 00:19:08 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28602-regenbogen</link>
-      <description>Regenbogen clarifies the debugging process by visualizing debugger events as a program execution sequence that can be exported and shared.
-
-vendor: Kate Kiricheva
-downloads: 14
-pricingModel: FREE
-xmlId: de.regenbogen.regenbogen</description>
-      <pubDate>Tue, 30 Sep 2025 00:19:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28602-regenbogen</guid>
-      <dc:date>2025-09-30T00:19:08Z</dc:date>
-    </item>
-    <item>
-      <title>Code4Me V2 - Tue Sep 30 12:55:24 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28610-code4me-v2</link>
-      <description>An intelligent code completion and chat assistant plugin for IntelliJ-based IDEs, powered by capable AI models. Code4Me V2 enhances your development workflow with...
-
-vendor: Code4Me
-downloads: 14
-pricingModel: FREE
-xmlId: me.code4me</description>
-      <pubDate>Tue, 30 Sep 2025 12:55:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28610-code4me-v2</guid>
-      <dc:date>2025-09-30T12:55:24Z</dc:date>
-    </item>
-    <item>
-      <title>ScriptAssistant - Mon Sep 29 07:49:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28587-scriptassistant</link>
-      <description>ScriptAssistant - A powerful tool designed for Android automation testers and developers to enhance efficiency in writing uiautomator2 scripts. Key Features...
-
-vendor: Zeros2619
-downloads: 11
-pricingModel: FREE
-xmlId: com.zeros.ScriptAssistant</description>
-      <pubDate>Mon, 29 Sep 2025 07:49:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28587-scriptassistant</guid>
-      <dc:date>2025-09-29T07:49:33Z</dc:date>
     </item>
   </channel>
 </rss>
