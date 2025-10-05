@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Yatagan Conditions - Fri Oct 03 11:54:25 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/24546-yatagan-conditions</link>
+      <description>An unofficial plugin providing IDE support for Yatagan's @Condition/@ConditionExpression. Functionality Syntax highlighting for values inside @ConditionExpression and...
+
+vendor: Fedor Ihnatkevich
+downloads: 3
+pricingModel: FREE
+xmlId: io.github.jeffset.yatagan.yatagan-conditions</description>
+      <pubDate>Fri, 03 Oct 2025 11:54:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/24546-yatagan-conditions</guid>
+      <dc:date>2025-10-03T11:54:25Z</dc:date>
+    </item>
+    <item>
       <title>GitViz Horizontal - Sat Oct 04 06:39:05 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28633-gitviz-horizontal</link>
       <description>Shows the Git history horizontally with author, commit message, SHA, tags, and branches.
 
 vendor: kambei
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: dev.kambei.gitviz</description>
       <pubDate>Sat, 04 Oct 2025 06:39:05 GMT</pubDate>
@@ -19,12 +32,51 @@ xmlId: dev.kambei.gitviz</description>
       <dc:date>2025-10-04T06:39:05Z</dc:date>
     </item>
     <item>
+      <title>Machine Learning Code Completion - Fri Oct 03 09:38:23 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28632-machine-learning-code-completion</link>
+      <description>The plugin improves code completion feature by reordering of elements in the completion popup by ranking more relevant items higher using machine learning. To enable...
+
+vendor: JetBrains s.r.o.
+downloads: 1
+pricingModel: FREE
+xmlId: com.intellij.completion.ml.ranking</description>
+      <pubDate>Fri, 03 Oct 2025 09:38:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28632-machine-learning-code-completion</guid>
+      <dc:date>2025-10-03T09:38:23Z</dc:date>
+    </item>
+    <item>
+      <title>Machine Learning in Search Everywhere - Fri Oct 03 09:37:42 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28631-machine-learning-in-search-everywhere</link>
+      <description>The plugin improves the Search Everywhere feature by ordering the search results using machine learning, making more relevant results appear higher up the list...
+
+vendor: JetBrains s.r.o.
+downloads: 1
+pricingModel: FREE
+xmlId: com.intellij.searcheverywhere.ml</description>
+      <pubDate>Fri, 03 Oct 2025 09:37:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28631-machine-learning-in-search-everywhere</guid>
+      <dc:date>2025-10-03T09:37:42Z</dc:date>
+    </item>
+    <item>
+      <title>Machine Learning in Find Usages - Fri Oct 03 09:35:04 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28630-machine-learning-in-find-usages</link>
+      <description>The plugin is collecting anonymized data for training a machine learning model to improve the performance of the show usages and find usages features. It will...
+
+vendor: JetBrains s.r.o.
+downloads: 1
+pricingModel: FREE
+xmlId: com.intellij.findusages.ml</description>
+      <pubDate>Fri, 03 Oct 2025 09:35:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28630-machine-learning-in-find-usages</guid>
+      <dc:date>2025-10-03T09:35:04Z</dc:date>
+    </item>
+    <item>
       <title>Better-Exclude - Fri Oct 03 08:54:36 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28629-better-exclude</link>
       <description>An auto excluder for node_modules folder for React Native projects.
 
 vendor: Łukasz Kosmaty
-downloads: 3
+downloads: 10
 pricingModel: FREE
 xmlId: io.github.lukmccall.better-exclude</description>
       <pubDate>Fri, 03 Oct 2025 08:54:36 GMT</pubDate>
@@ -37,7 +89,7 @@ xmlId: io.github.lukmccall.better-exclude</description>
       <description>AWS cloud database explorer for data source creation.
 
 vendor: JetBrains s.r.o.
-downloads: 2
+downloads: 11
 pricingModel: FREE
 xmlId: intellij.database.cloudExplorer.aws</description>
       <pubDate>Fri, 03 Oct 2025 11:10:34 GMT</pubDate>
@@ -50,7 +102,7 @@ xmlId: intellij.database.cloudExplorer.aws</description>
       <description>AhaPilot is an AI programming assistant for enterprise-level development, deeply integrated with mainstream IDE environments, and installed as a plugin in the editor...
 
 vendor: AhaPilot
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.ahapilot.extension</description>
       <pubDate>Thu, 02 Oct 2025 08:06:40 GMT</pubDate>
@@ -63,7 +115,7 @@ xmlId: com.github.ahapilot.extension</description>
       <description>Copy File Content is a plugin that enhances your workflow by allowing you to quickly copy the contents of selected files and directories to the clipboard, formatted...
 
 vendor: Rafael Diaz
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: io.availe.copyfilecontentx</description>
       <pubDate>Thu, 02 Oct 2025 02:31:06 GMT</pubDate>
@@ -76,7 +128,7 @@ xmlId: io.availe.copyfilecontentx</description>
       <description>Pause changelists to keep them visible while shelving their changes. Features Toggle Pause: Right-click any changelist and select "Toggle Pause Changelist" or use...
 
 vendor: kmrh47
-downloads: 8
+downloads: 10
 pricingModel: FREE
 xmlId: dev.togglepaused.paused-changelists</description>
       <pubDate>Thu, 02 Oct 2025 16:35:59 GMT</pubDate>
@@ -89,7 +141,7 @@ xmlId: dev.togglepaused.paused-changelists</description>
       <description>Adds F Prime Prime language support including syntax highlighting and error checking.
 
 vendor: Kevinthegreat
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.kevinthegreat.FPP</description>
       <pubDate>Thu, 02 Oct 2025 00:18:26 GMT</pubDate>
@@ -102,7 +154,7 @@ xmlId: com.kevinthegreat.FPP</description>
       <description>Sort blocks of lines with a comment. On the line before the lines to be sorted use one of the following sort patterns: Simple sort: [asc|desc]Group sort: { order...
 
 vendor: Jodie Weldon
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.jodiew.sortlines</description>
       <pubDate>Thu, 02 Oct 2025 20:57:02 GMT</pubDate>
@@ -115,7 +167,7 @@ xmlId: com.github.jodiew.sortlines</description>
       <description>StackSnack StackSnack helps you cut through the noise in your debugger by hiding library stack frames. This keeps your focus on your code, making debugging sessions...
 
 vendor: heisen273
-downloads: 10
+downloads: 12
 pricingModel: FREE
 xmlId: com.stackframehider</description>
       <pubDate>Wed, 01 Oct 2025 21:10:10 GMT</pubDate>
@@ -141,7 +193,7 @@ xmlId: com.makeappssimple.material.symbols</description>
       <description>A powerful IntelliJ IDEA plugin designed specifically for analyzing and tracing field mapping relationships and call hierarchies in Orika mapping framework. Helps...
 
 vendor: 1020862019
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.wangfan1314.orikahelper</description>
       <pubDate>Thu, 02 Oct 2025 09:39:39 GMT</pubDate>
@@ -154,7 +206,7 @@ xmlId: com.github.wangfan1314.orikahelper</description>
       <description>Code Generate By Velocity Template Save Code Generate Velocity Template If you have any suggestions, questions or bugs about this plugin, please issue them on gitee...
 
 vendor: huang jiyang
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: CodeGenByVelocity</description>
       <pubDate>Wed, 01 Oct 2025 07:54:33 GMT</pubDate>
@@ -193,7 +245,7 @@ xmlId: com.github.lucsartes.intellijprojectidentifierplugin</description>
       <description>Network Traffic Interceptor for Android Development Intercept and modify HTTP/HTTPS traffic from Android applications running in emulators. Perfect for testing...
 
 vendor: Sergiy Alonso
-downloads: 25
+downloads: 27
 pricingModel: FREE
 xmlId: com.sergiy.dev.MockkHttp</description>
       <pubDate>Thu, 02 Oct 2025 16:39:21 GMT</pubDate>
@@ -206,64 +258,12 @@ xmlId: com.sergiy.dev.MockkHttp</description>
       <description>For Karate framework support in IntelliJ IDEA. Features: Go to Definition for call read Indexing and Autocomplete for call read (file and scenario tags) Documentation...
 
 vendor: Van Thanh Duy
-downloads: 27
+downloads: 34
 pricingModel: FREE
 xmlId: com.mb.mb-plugin</description>
       <pubDate>Fri, 03 Oct 2025 16:49:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28613-mbkarate-for-autotest</guid>
       <dc:date>2025-10-03T16:49:15Z</dc:date>
-    </item>
-    <item>
-      <title>Java Doc Customizer - Thu Oct 02 02:09:50 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28614-java-doc-customizer</link>
-      <description>Making JavaDoc more readable. And you can customize how java doc rendered as you want.
-
-vendor: Carry
-downloads: 6
-pricingModel: FREE
-xmlId: java.doc.customizer</description>
-      <pubDate>Thu, 02 Oct 2025 02:09:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28614-java-doc-customizer</guid>
-      <dc:date>2025-10-02T02:09:50Z</dc:date>
-    </item>
-    <item>
-      <title>Milvus Vector Database Connector - Wed Oct 01 14:32:32 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28615-milvus-vector-database-connector</link>
-      <description>Milvus Vector Database Connector for JetBrains IDEs A comprehensive plugin that enables seamless integration with Milvus vector databases directly from your JetBrains...
-
-vendor: Stanislav Lazarenko
-downloads: 8
-pricingModel: FREE
-xmlId: dev.potik.milvus-connector</description>
-      <pubDate>Wed, 01 Oct 2025 14:32:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28615-milvus-vector-database-connector</guid>
-      <dc:date>2025-10-01T14:32:32Z</dc:date>
-    </item>
-    <item>
-      <title>Autoprefix Commit Messages - Fri Oct 03 06:50:18 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28598-autoprefix-commit-messages</link>
-      <description>Automatically adds the branch name to the git commit message. There are other plugins that do (did) that. But they were unmaintained and did not work.
-
-vendor: sander.hautvast
-downloads: 24
-pricingModel: FREE
-xmlId: nl.top-squad.autoprefix-commit</description>
-      <pubDate>Fri, 03 Oct 2025 06:50:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28598-autoprefix-commit-messages</guid>
-      <dc:date>2025-10-03T06:50:18Z</dc:date>
-    </item>
-    <item>
-      <title>Spiral Framework - Thu Oct 02 08:53:52 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28608-spiral-framework</link>
-      <description>Github | Telegram | Official Website | Donation Spiral Framework Spiral Framework is a modern PHP framework designed to power faster, cleaner, superior software...
-
-vendor: xepozz
-downloads: 19
-pricingModel: FREE
-xmlId: com.github.xepozz.spiral</description>
-      <pubDate>Thu, 02 Oct 2025 08:53:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28608-spiral-framework</guid>
-      <dc:date>2025-10-02T08:53:52Z</dc:date>
     </item>
   </channel>
 </rss>
