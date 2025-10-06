@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MAML - Mon Oct 06 04:44:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28634-maml</link>
+      <description>A plugin for JetBrains IDE's providing comprehensive language support for MAML (Minimal Abstract Markup Language) files. Core Features Syntax HighlightingCode...
+
+vendor: David Septimus
+downloads: 2
+pricingModel: FREE
+xmlId: com.davidseptimus.maml</description>
+      <pubDate>Mon, 06 Oct 2025 04:44:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28634-maml</guid>
+      <dc:date>2025-10-06T04:44:35Z</dc:date>
+    </item>
+    <item>
       <title>Yatagan Conditions - Fri Oct 03 11:54:25 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/24546-yatagan-conditions</link>
       <description>An unofficial plugin providing IDE support for Yatagan's @Condition/@ConditionExpression. Functionality Syntax highlighting for values inside @ConditionExpression and...
@@ -175,7 +188,7 @@ xmlId: com.stackframehider</description>
       <dc:date>2025-10-01T21:10:10Z</dc:date>
     </item>
     <item>
-      <title>Material Symbols - Thu Oct 02 16:02:29 UTC 2025</title>
+      <title>Material Symbols - Sun Oct 05 17:53:52 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28620-material-symbols</link>
       <description>Plugin to view and download Material Symbols directly from the IDE.
 
@@ -183,9 +196,9 @@ vendor: Abhimanyu N
 downloads: 1
 pricingModel: FREE
 xmlId: com.makeappssimple.material.symbols</description>
-      <pubDate>Thu, 02 Oct 2025 16:02:29 GMT</pubDate>
+      <pubDate>Sun, 05 Oct 2025 17:53:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28620-material-symbols</guid>
-      <dc:date>2025-10-02T16:02:29Z</dc:date>
+      <dc:date>2025-10-05T17:53:52Z</dc:date>
     </item>
     <item>
       <title>orika-helper - Thu Oct 02 09:39:39 UTC 2025</title>
@@ -242,7 +255,7 @@ xmlId: com.github.lucsartes.intellijprojectidentifierplugin</description>
     <item>
       <title>MockkHttp - Thu Oct 02 16:39:21 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28616-mockkhttp</link>
-      <description>Network Traffic Interceptor for Android Development Intercept and modify HTTP/HTTPS traffic from Android applications running in emulators. Perfect for testing...
+      <description>Network Traffic Interceptor for Android Development Capture and inspect HTTP/HTTPS traffic from your Android applications using OkHttp interceptors. Perfect for...
 
 vendor: Sergiy Alonso
 downloads: 27
@@ -251,19 +264,6 @@ xmlId: com.sergiy.dev.MockkHttp</description>
       <pubDate>Thu, 02 Oct 2025 16:39:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28616-mockkhttp</guid>
       <dc:date>2025-10-02T16:39:21Z</dc:date>
-    </item>
-    <item>
-      <title>MBKarate For AutoTest - Mon Oct 06 15:17:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28613-mbkarate-for-autotest</link>
-      <description>For Karate framework support in IntelliJ IDEA. Features: Go to Definition for call read Indexing and Autocomplete for call read (file and scenario tags) Documentation...
-
-vendor: Van Thanh Duy
-downloads: 35
-pricingModel: FREE
-xmlId: com.mb.mb-plugin</description>
-      <pubDate>Mon, 06 Oct 2025 15:17:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28613-mbkarate-for-autotest</guid>
-      <dc:date>2025-10-06T15:17:36Z</dc:date>
     </item>
   </channel>
 </rss>
