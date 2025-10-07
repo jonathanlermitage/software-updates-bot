@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AGSL Tools - Sat Oct 04 15:22:43 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28637-agsl-tools</link>
+      <description>AGSL Tools Real-time AGSL shader preview Uniform parameters tuning AGSL syntax highlighting AGSL autocompletion.
+
+vendor: Ivan Mikhailuts
+downloads: 0
+pricingModel: FREE
+xmlId: com.mrtarantas.AGSL</description>
+      <pubDate>Sat, 04 Oct 2025 15:22:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28637-agsl-tools</guid>
+      <dc:date>2025-10-04T15:22:43Z</dc:date>
+    </item>
+    <item>
+      <title>Infection - Tue Oct 07 05:24:04 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28650-infection</link>
+      <description>Github | Telegram | Official Website | Donation Infection PHP Infection is a PHP mutation testing library based on AST (Abstract Syntax Tree) mutations. It works as a...
+
+vendor: xepozz
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.xepozz.infection</description>
+      <pubDate>Tue, 07 Oct 2025 05:24:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28650-infection</guid>
+      <dc:date>2025-10-07T05:24:04Z</dc:date>
+    </item>
+    <item>
       <title>MAML - Mon Oct 06 04:44:35 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28634-maml</link>
       <description>A plugin for JetBrains IDE's providing comprehensive language support for MAML (Minimal Abstract Markup Language) files. Core Features Syntax HighlightingCode...
 
 vendor: David Septimus
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: com.davidseptimus.maml</description>
       <pubDate>Mon, 06 Oct 2025 04:44:35 GMT</pubDate>
@@ -24,7 +50,7 @@ xmlId: com.davidseptimus.maml</description>
       <description>An unofficial plugin providing IDE support for Yatagan's @Condition/@ConditionExpression. Functionality Syntax highlighting for values inside @ConditionExpression and...
 
 vendor: Fedor Ihnatkevich
-downloads: 4
+downloads: 7
 pricingModel: FREE
 xmlId: io.github.jeffset.yatagan.yatagan-conditions</description>
       <pubDate>Fri, 03 Oct 2025 11:54:25 GMT</pubDate>
@@ -37,7 +63,7 @@ xmlId: io.github.jeffset.yatagan.yatagan-conditions</description>
       <description>Shows the Git history horizontally with author, commit message, SHA, tags, and branches.
 
 vendor: kambei
-downloads: 6
+downloads: 9
 pricingModel: FREE
 xmlId: dev.kambei.gitviz</description>
       <pubDate>Sat, 04 Oct 2025 06:39:05 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: dev.kambei.gitviz</description>
       <description>The plugin improves code completion feature by reordering of elements in the completion popup by ranking more relevant items higher using machine learning. To enable...
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.intellij.completion.ml.ranking</description>
       <pubDate>Fri, 03 Oct 2025 09:38:23 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: com.intellij.completion.ml.ranking</description>
       <description>The plugin improves the Search Everywhere feature by ordering the search results using machine learning, making more relevant results appear higher up the list...
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.intellij.searcheverywhere.ml</description>
       <pubDate>Fri, 03 Oct 2025 09:37:42 GMT</pubDate>
@@ -76,7 +102,7 @@ xmlId: com.intellij.searcheverywhere.ml</description>
       <description>The plugin is collecting anonymized data for training a machine learning model to improve the performance of the show usages and find usages features. It will...
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.intellij.findusages.ml</description>
       <pubDate>Fri, 03 Oct 2025 09:35:04 GMT</pubDate>
@@ -89,7 +115,7 @@ xmlId: com.intellij.findusages.ml</description>
       <description>An auto excluder for node_modules folder for React Native projects.
 
 vendor: Łukasz Kosmaty
-downloads: 10
+downloads: 19
 pricingModel: FREE
 xmlId: io.github.lukmccall.better-exclude</description>
       <pubDate>Fri, 03 Oct 2025 08:54:36 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: io.github.lukmccall.better-exclude</description>
       <description>AWS cloud database explorer for data source creation.
 
 vendor: JetBrains s.r.o.
-downloads: 13
+downloads: 22
 pricingModel: FREE
 xmlId: intellij.database.cloudExplorer.aws</description>
       <pubDate>Fri, 03 Oct 2025 11:10:34 GMT</pubDate>
@@ -115,7 +141,7 @@ xmlId: intellij.database.cloudExplorer.aws</description>
       <description>AhaPilot is an AI programming assistant for enterprise-level development, deeply integrated with mainstream IDE environments, and installed as a plugin in the editor...
 
 vendor: AhaPilot
-downloads: 5
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.ahapilot.extension</description>
       <pubDate>Thu, 02 Oct 2025 08:06:40 GMT</pubDate>
@@ -128,7 +154,7 @@ xmlId: com.github.ahapilot.extension</description>
       <description>Copy File Content is a plugin that enhances your workflow by allowing you to quickly copy the contents of selected files and directories to the clipboard, formatted...
 
 vendor: Rafael Diaz
-downloads: 6
+downloads: 12
 pricingModel: FREE
 xmlId: io.availe.copyfilecontentx</description>
       <pubDate>Thu, 02 Oct 2025 02:31:06 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: io.availe.copyfilecontentx</description>
       <description>Pause changelists to keep them visible while shelving their changes. Features Toggle Pause: Right-click any changelist and select "Toggle Pause Changelist" or use...
 
 vendor: kmrh47
-downloads: 12
+downloads: 16
 pricingModel: FREE
 xmlId: dev.togglepaused.paused-changelists</description>
       <pubDate>Thu, 02 Oct 2025 16:35:59 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: dev.togglepaused.paused-changelists</description>
       <description>Adds F Prime Prime language support including syntax highlighting and error checking.
 
 vendor: Kevinthegreat
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.kevinthegreat.FPP</description>
       <pubDate>Thu, 02 Oct 2025 00:18:26 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: com.kevinthegreat.FPP</description>
       <description>Sort blocks of lines with a comment. On the line before the lines to be sorted use one of the following sort patterns: Simple sort: [asc|desc]Group sort: { order...
 
 vendor: Jodie Weldon
-downloads: 6
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.jodiew.sortlines</description>
       <pubDate>Thu, 02 Oct 2025 20:57:02 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: com.github.jodiew.sortlines</description>
       <description>StackSnack StackSnack helps you cut through the noise in your debugger by hiding library stack frames. This keeps your focus on your code, making debugging sessions...
 
 vendor: heisen273
-downloads: 13
+downloads: 19
 pricingModel: FREE
 xmlId: com.stackframehider</description>
       <pubDate>Wed, 01 Oct 2025 21:10:10 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: com.stackframehider</description>
       <description>Plugin to view and download Material Symbols directly from the IDE.
 
 vendor: Abhimanyu N
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.makeappssimple.material.symbols</description>
       <pubDate>Sun, 05 Oct 2025 17:53:52 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: com.makeappssimple.material.symbols</description>
       <description>A powerful IntelliJ IDEA plugin designed specifically for analyzing and tracing field mapping relationships and call hierarchies in Orika mapping framework. Helps...
 
 vendor: 1020862019
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.wangfan1314.orikahelper</description>
       <pubDate>Thu, 02 Oct 2025 09:39:39 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: com.github.wangfan1314.orikahelper</description>
       <description>Code Generate By Velocity Template Save Code Generate Velocity Template If you have any suggestions, questions or bugs about this plugin, please issue them on gitee...
 
 vendor: huang jiyang
-downloads: 4
+downloads: 6
 pricingModel: FREE
 xmlId: CodeGenByVelocity</description>
       <pubDate>Wed, 01 Oct 2025 07:54:33 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: CodeGenByVelocity</description>
       <description>ProxyThemAll is an IntelliJ IDEA plugin that makes it easy to toggle proxy settings on and off with just one click, including automatic Git proxy synchronization. Key...
 
 vendor: HoLuLuLu
-downloads: 19
+downloads: 23
 pricingModel: FREE
 xmlId: org.holululu.proxythemall</description>
       <pubDate>Thu, 02 Oct 2025 11:58:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28611-proxythemall</guid>
       <dc:date>2025-10-02T11:58:39Z</dc:date>
-    </item>
-    <item>
-      <title>Project Identifier - Wed Oct 01 14:54:52 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28578-project-identifier</link>
-      <description>Project Identifier helps you tell multiple IDE projects apart by adding a subtle, low-opacity text watermark to the editor background. &#x1f31f; What It Does The IntelliJ...
-
-vendor: Lucas
-downloads: 13
-pricingModel: FREE
-xmlId: com.github.lucsartes.intellijprojectidentifierplugin</description>
-      <pubDate>Wed, 01 Oct 2025 14:54:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28578-project-identifier</guid>
-      <dc:date>2025-10-01T14:54:52Z</dc:date>
-    </item>
-    <item>
-      <title>MockkHttp - Mon Oct 06 18:12:38 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28616-mockkhttp</link>
-      <description>Network Traffic Interceptor for Android Development Capture and inspect HTTP/HTTPS traffic from your Android applications using OkHttp interceptors. Perfect for...
-
-vendor: Sergiy Alonso
-downloads: 27
-pricingModel: FREE
-xmlId: com.sergiy.dev.MockkHttp</description>
-      <pubDate>Mon, 06 Oct 2025 18:12:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28616-mockkhttp</guid>
-      <dc:date>2025-10-06T18:12:38Z</dc:date>
     </item>
   </channel>
 </rss>
