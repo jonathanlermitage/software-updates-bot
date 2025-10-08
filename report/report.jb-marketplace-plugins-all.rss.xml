@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Azure Cloud Explorer - Wed Oct 08 16:18:01 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28665-azure-cloud-explorer</link>
+      <description>Azure cloud database explorer for data source creation.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.database.cloudExplorer.azure</description>
+      <pubDate>Wed, 08 Oct 2025 16:18:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28665-azure-cloud-explorer</guid>
+      <dc:date>2025-10-08T16:18:01Z</dc:date>
+    </item>
+    <item>
+      <title>Gestures - Wed Oct 08 16:17:56 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28664-gestures</link>
+      <description>Adds swipe gesture support in the IDE. Features Dismiss notifications with a three-finger swipe to the right. Close opened Tool Windows with a three-finger swipe down...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.gestures</description>
+      <pubDate>Wed, 08 Oct 2025 16:17:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28664-gestures</guid>
+      <dc:date>2025-10-08T16:17:56Z</dc:date>
+    </item>
+    <item>
+      <title>JShell - Wed Oct 08 16:17:28 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28663-jshell</link>
+      <description>Provides an interactive Java Shell (JShell) console for quick prototyping and testing of Java code directly within the IDE.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.java.jshell</description>
+      <pubDate>Wed, 08 Oct 2025 16:17:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28663-jshell</guid>
+      <dc:date>2025-10-08T16:17:28Z</dc:date>
+    </item>
+    <item>
+      <title>Google Cloud Explorer - Wed Oct 08 14:38:37 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28662-google-cloud-explorer</link>
+      <description>Google cloud database explorer for data source creation.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.database.cloudExplorer.gcloud</description>
+      <pubDate>Wed, 08 Oct 2025 14:38:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28662-google-cloud-explorer</guid>
+      <dc:date>2025-10-08T14:38:37Z</dc:date>
+    </item>
+    <item>
       <title>Echo Exception - Tue Oct 07 20:54:31 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28655-echo-exception</link>
       <description>Your Exceptions Have Never Sounded This Epic! Transform boring stack traces into legendary moments. When your code throws an exception, hear it announced by iconic...
@@ -212,58 +264,6 @@ xmlId: intellij.database.cloudExplorer.aws</description>
       <pubDate>Wed, 08 Oct 2025 09:09:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28628-aws-cloud-explorer</guid>
       <dc:date>2025-10-08T09:09:21Z</dc:date>
-    </item>
-    <item>
-      <title>AhaPilot - Thu Oct 02 08:06:40 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28607-ahapilot</link>
-      <description>AhaPilot is an AI programming assistant for enterprise-level development, deeply integrated with mainstream IDE environments, and installed as a plugin in the editor...
-
-vendor: AhaPilot
-downloads: 8
-pricingModel: FREE
-xmlId: com.github.ahapilot.extension</description>
-      <pubDate>Thu, 02 Oct 2025 08:06:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28607-ahapilot</guid>
-      <dc:date>2025-10-02T08:06:40Z</dc:date>
-    </item>
-    <item>
-      <title>Copy File ContentX - Thu Oct 02 02:31:06 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28618-copy-file-contentx</link>
-      <description>Copy File Content is a plugin that enhances your workflow by allowing you to quickly copy the contents of selected files and directories to the clipboard, formatted...
-
-vendor: Rafael Diaz
-downloads: 12
-pricingModel: FREE
-xmlId: io.availe.copyfilecontentx</description>
-      <pubDate>Thu, 02 Oct 2025 02:31:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28618-copy-file-contentx</guid>
-      <dc:date>2025-10-02T02:31:06Z</dc:date>
-    </item>
-    <item>
-      <title>Paused Changelists - Thu Oct 02 16:35:59 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28624-paused-changelists</link>
-      <description>Pause changelists to keep them visible while shelving their changes. Features Toggle Pause: Right-click any changelist and select "Toggle Pause Changelist" or use...
-
-vendor: kmrh47
-downloads: 20
-pricingModel: FREE
-xmlId: dev.togglepaused.paused-changelists</description>
-      <pubDate>Thu, 02 Oct 2025 16:35:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28624-paused-changelists</guid>
-      <dc:date>2025-10-02T16:35:59Z</dc:date>
-    </item>
-    <item>
-      <title>FPP - Thu Oct 02 00:18:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28612-fpp</link>
-      <description>Adds F Prime Prime language support including syntax highlighting and error checking.
-
-vendor: Kevinthegreat
-downloads: 5
-pricingModel: FREE
-xmlId: com.kevinthegreat.FPP</description>
-      <pubDate>Thu, 02 Oct 2025 00:18:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28612-fpp</guid>
-      <dc:date>2025-10-02T00:18:26Z</dc:date>
     </item>
   </channel>
 </rss>
