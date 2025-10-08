@@ -11,7 +11,7 @@
       <description>CodeLens - Your Ultimate Bitbucket Code Review Companion for IntelliJ! &#x1f680; Transform your development workflow with seamless Bitbucket integration directly in your IDE...
 
 vendor: Pedro Dias
-downloads: 3
+downloads: 5
 pricingModel: PAID
 xmlId: dias.pedro.bitbucket</description>
       <pubDate>Mon, 06 Oct 2025 18:17:03 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: dias.pedro.bitbucket</description>
       <description>Gradle Assistant helps you resolve Gradle build issues effortlessly. Whenever a Gradle error occurs, it automatically detects the issue and shows a dialog asking if...
 
 vendor: Rahul Arora
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: com.plugins.gradle_assistant</description>
       <pubDate>Tue, 07 Oct 2025 17:29:48 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.plugins.gradle_assistant</description>
       <description>Watson is an Intellij adaption of the Sherlock Vs Code Plugin for Inlang Paraglide. It offers the following Features: Extraction of string literals into message...
 
 vendor: Kenowi
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.kenowi.watson</description>
       <pubDate>Sat, 04 Oct 2025 15:40:19 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: dev.kenowi.watson</description>
       <description>AGSL Tools Real-time AGSL shader preview Uniform parameters tuning AGSL syntax highlighting AGSL autocompletion.
 
 vendor: Ivan Mikhailuts
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.mrtarantas.AGSL</description>
       <pubDate>Sat, 04 Oct 2025 15:22:43 GMT</pubDate>
@@ -58,12 +58,38 @@ xmlId: com.mrtarantas.AGSL</description>
       <dc:date>2025-10-04T15:22:43Z</dc:date>
     </item>
     <item>
+      <title>Canopy - Sun Oct 05 17:55:18 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28641-canopy</link>
+      <description>Canopy - JIRA to Azure DevOps Bridge A comprehensive plugin that streamlines the development workflow between JIRA issue tracking and Azure DevOps version control...
+
+vendor: Sprigbyte
+downloads: 2
+pricingModel: FREE
+xmlId: com.sprigbyte.canopy</description>
+      <pubDate>Sun, 05 Oct 2025 17:55:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28641-canopy</guid>
+      <dc:date>2025-10-05T17:55:18Z</dc:date>
+    </item>
+    <item>
+      <title>Apply Diff to Current File - Sun Oct 05 09:25:10 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28582-apply-diff-to-current-file</link>
+      <description>Apply diffs from clipboard to the current editor with preview. Supports fenced diffs, unified hunks, GitHub suggestions, and selection patches.
+
+vendor: Zapshark Technologies LLC
+downloads: 8
+pricingModel: FREE
+xmlId: com.zapshark.applydiff</description>
+      <pubDate>Sun, 05 Oct 2025 09:25:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28582-apply-diff-to-current-file</guid>
+      <dc:date>2025-10-05T09:25:10Z</dc:date>
+    </item>
+    <item>
       <title>Infection - Tue Oct 07 05:24:04 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28650-infection</link>
       <description>Github | Telegram | Official Website | Donation Infection PHP Infection is a PHP mutation testing library based on AST (Abstract Syntax Tree) mutations. It works as a...
 
 vendor: xepozz
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.xepozz.infection</description>
       <pubDate>Tue, 07 Oct 2025 05:24:04 GMT</pubDate>
@@ -76,7 +102,7 @@ xmlId: com.github.xepozz.infection</description>
       <description>A plugin for JetBrains IDE's providing comprehensive language support for MAML (Minimal Abstract Markup Language) files. Core Features Syntax HighlightingCode...
 
 vendor: David Septimus
-downloads: 6
+downloads: 14
 pricingModel: FREE
 xmlId: com.davidseptimus.maml</description>
       <pubDate>Mon, 06 Oct 2025 04:44:35 GMT</pubDate>
@@ -89,7 +115,7 @@ xmlId: com.davidseptimus.maml</description>
       <description>An unofficial plugin providing IDE support for Yatagan's @Condition/@ConditionExpression. Functionality Syntax highlighting for values inside @ConditionExpression and...
 
 vendor: Fedor Ihnatkevich
-downloads: 7
+downloads: 8
 pricingModel: FREE
 xmlId: io.github.jeffset.yatagan.yatagan-conditions</description>
       <pubDate>Fri, 03 Oct 2025 11:54:25 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: io.github.lukmccall.better-exclude</description>
       <description>AWS cloud database explorer for data source creation.
 
 vendor: JetBrains s.r.o.
-downloads: 22
+downloads: 28
 pricingModel: FREE
 xmlId: intellij.database.cloudExplorer.aws</description>
       <pubDate>Fri, 03 Oct 2025 11:10:34 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: io.availe.copyfilecontentx</description>
       <description>Pause changelists to keep them visible while shelving their changes. Features Toggle Pause: Right-click any changelist and select "Toggle Pause Changelist" or use...
 
 vendor: kmrh47
-downloads: 16
+downloads: 20
 pricingModel: FREE
 xmlId: dev.togglepaused.paused-changelists</description>
       <pubDate>Thu, 02 Oct 2025 16:35:59 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: com.kevinthegreat.FPP</description>
       <description>Sort blocks of lines with a comment. On the line before the lines to be sorted use one of the following sort patterns: Simple sort: [asc|desc]Group sort: { order...
 
 vendor: Jodie Weldon
-downloads: 9
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.jodiew.sortlines</description>
       <pubDate>Thu, 02 Oct 2025 20:57:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28626-sort-lines-with-comment</guid>
       <dc:date>2025-10-02T20:57:02Z</dc:date>
-    </item>
-    <item>
-      <title>StackSnack - Library Stack Frame Hider - Wed Oct 01 21:10:10 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28597-stacksnack--library-stack-frame-hider</link>
-      <description>StackSnack StackSnack helps you cut through the noise in your debugger by hiding library stack frames. This keeps your focus on your code, making debugging sessions...
-
-vendor: heisen273
-downloads: 19
-pricingModel: FREE
-xmlId: com.stackframehider</description>
-      <pubDate>Wed, 01 Oct 2025 21:10:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28597-stacksnack--library-stack-frame-hider</guid>
-      <dc:date>2025-10-01T21:10:10Z</dc:date>
-    </item>
-    <item>
-      <title>Material Symbols - Mon Oct 06 19:22:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28620-material-symbols</link>
-      <description>Plugin to view and download Material Symbols directly from the IDE.
-
-vendor: Abhimanyu N
-downloads: 3
-pricingModel: FREE
-xmlId: com.makeappssimple.material.symbols</description>
-      <pubDate>Mon, 06 Oct 2025 19:22:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28620-material-symbols</guid>
-      <dc:date>2025-10-06T19:22:51Z</dc:date>
     </item>
   </channel>
 </rss>
