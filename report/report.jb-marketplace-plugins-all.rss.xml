@@ -50,7 +50,7 @@ xmlId: com.intellij.gestures</description>
       <description>Provides an interactive Java Shell (JShell) console for quick prototyping and testing of Java code directly within the IDE.
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: intellij.java.jshell</description>
       <pubDate>Wed, 08 Oct 2025 16:17:28 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: intellij.database.cloudExplorer.gcloud</description>
       <description>Your Exceptions Have Never Sounded This Epic! Transform boring stack traces into legendary moments. When your code throws an exception, hear it announced by iconic...
 
 vendor: Haseeb Ansari
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.haseebxd.echoexception</description>
       <pubDate>Tue, 07 Oct 2025 20:54:31 GMT</pubDate>
@@ -84,12 +84,64 @@ xmlId: com.github.haseebxd.echoexception</description>
       <dc:date>2025-10-07T20:54:31Z</dc:date>
     </item>
     <item>
+      <title>Toggleable Islands - Wed Oct 08 05:08:02 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28660-toggleable-islands</link>
+      <description>Toggleable Islands adds three actions that let you quickly hide and re‑open the last active tool window on each island (left, right, bottom). How it works: Each island...
+
+vendor: Hovrawl
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.hovrawl.jetbrainstoggleabletoolwindows</description>
+      <pubDate>Wed, 08 Oct 2025 05:08:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28660-toggleable-islands</guid>
+      <dc:date>2025-10-08T05:08:02Z</dc:date>
+    </item>
+    <item>
+      <title>AdbVortex - Wed Oct 08 04:43:38 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28658-adbvortex</link>
+      <description>AdbVortex: Share your computer's internet connection with a connected Android device via ADB. Start/Stop an embedded HTTP proxy on your computer Automatically...
+
+vendor: Carlos Javier Torres Pensa
+downloads: 3
+pricingModel: FREE
+xmlId: com.pensa.adbvortex</description>
+      <pubDate>Wed, 08 Oct 2025 04:43:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28658-adbvortex</guid>
+      <dc:date>2025-10-08T04:43:38Z</dc:date>
+    </item>
+    <item>
+      <title>Fork of the Zowe COBOL Language Support - Fri Oct 03 15:38:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28625-fork-of-the-zowe-cobol-language-support</link>
+      <description>Fork of the Zowe COBOL Language Support Plugin. Provides TextMate syntax highlighting and LSP support for the IBM Enterprise COBOL.
+
+vendor: The Hand Of Doom
+downloads: 6
+pricingModel: FREE
+xmlId: org.hod.cobol</description>
+      <pubDate>Fri, 03 Oct 2025 15:38:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28625-fork-of-the-zowe-cobol-language-support</guid>
+      <dc:date>2025-10-03T15:38:48Z</dc:date>
+    </item>
+    <item>
+      <title>Completor - Tue Oct 07 19:46:39 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28654-completor</link>
+      <description>Dynamic Autocompletion from External Data Sources Tired of manually typing keys, IDs, or constants defined in external XML or JSON files? Completor bridges that gap by...
+
+vendor: umut cansu
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.umutcansu.Completor</description>
+      <pubDate>Tue, 07 Oct 2025 19:46:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28654-completor</guid>
+      <dc:date>2025-10-07T19:46:39Z</dc:date>
+    </item>
+    <item>
       <title>CodeLens - Mon Oct 06 18:17:03 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28584-codelens</link>
       <description>CodeLens - Your Ultimate Bitbucket Code Review Companion for IntelliJ! &#x1f680; Transform your development workflow with seamless Bitbucket integration directly in your IDE...
 
 vendor: Pedro Dias
-downloads: 5
+downloads: 17
 pricingModel: PAID
 xmlId: dias.pedro.bitbucket</description>
       <pubDate>Mon, 06 Oct 2025 18:17:03 GMT</pubDate>
@@ -102,7 +154,7 @@ xmlId: dias.pedro.bitbucket</description>
       <description>Gradle Assistant helps you resolve Gradle build issues effortlessly. Whenever a Gradle error occurs, it automatically detects the issue and shows a dialog asking if...
 
 vendor: Rahul Arora
-downloads: 6
+downloads: 12
 pricingModel: FREE
 xmlId: com.plugins.gradle_assistant</description>
       <pubDate>Tue, 07 Oct 2025 17:29:48 GMT</pubDate>
@@ -115,7 +167,7 @@ xmlId: com.plugins.gradle_assistant</description>
       <description>Watson is an Intellij adaption of the Sherlock Vs Code Plugin for Inlang Paraglide. It offers the following Features: Extraction of string literals into message...
 
 vendor: Kenowi
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: dev.kenowi.watson</description>
       <pubDate>Sat, 04 Oct 2025 15:40:19 GMT</pubDate>
@@ -128,7 +180,7 @@ xmlId: dev.kenowi.watson</description>
       <description>AGSL Tools Real-time AGSL shader preview Uniform parameters tuning AGSL syntax highlighting AGSL autocompletion.
 
 vendor: Ivan Mikhailuts
-downloads: 3
+downloads: 12
 pricingModel: FREE
 xmlId: com.mrtarantas.AGSL</description>
       <pubDate>Sat, 04 Oct 2025 15:22:43 GMT</pubDate>
@@ -141,7 +193,7 @@ xmlId: com.mrtarantas.AGSL</description>
       <description>Canopy - JIRA to Azure DevOps Bridge A comprehensive plugin that streamlines the development workflow between JIRA issue tracking and Azure DevOps version control...
 
 vendor: Sprigbyte
-downloads: 2
+downloads: 9
 pricingModel: FREE
 xmlId: com.sprigbyte.canopy</description>
       <pubDate>Wed, 08 Oct 2025 07:46:41 GMT</pubDate>
@@ -154,7 +206,7 @@ xmlId: com.sprigbyte.canopy</description>
       <description>Apply diffs from clipboard to the current editor with preview. Supports fenced diffs, unified hunks, GitHub suggestions, and selection patches.
 
 vendor: Zapshark Technologies LLC
-downloads: 8
+downloads: 14
 pricingModel: FREE
 xmlId: com.zapshark.applydiff</description>
       <pubDate>Sun, 05 Oct 2025 09:25:10 GMT</pubDate>
@@ -167,7 +219,7 @@ xmlId: com.zapshark.applydiff</description>
       <description>Github | Telegram | Official Website | Donation Infection PHP Infection is a PHP mutation testing library based on AST (Abstract Syntax Tree) mutations. It works as a...
 
 vendor: xepozz
-downloads: 4
+downloads: 7
 pricingModel: FREE
 xmlId: com.github.xepozz.infection</description>
       <pubDate>Tue, 07 Oct 2025 05:24:04 GMT</pubDate>
@@ -212,58 +264,6 @@ xmlId: dev.kambei.gitviz</description>
       <pubDate>Sat, 04 Oct 2025 06:39:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28633-gitviz-horizontal</guid>
       <dc:date>2025-10-04T06:39:05Z</dc:date>
-    </item>
-    <item>
-      <title>Machine Learning Code Completion - Wed Oct 08 09:06:14 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28632-machine-learning-code-completion</link>
-      <description>The plugin improves code completion feature by reordering of elements in the completion popup by ranking more relevant items higher using machine learning. To enable...
-
-vendor: JetBrains s.r.o.
-downloads: 4
-pricingModel: FREE
-xmlId: com.intellij.completion.ml.ranking</description>
-      <pubDate>Wed, 08 Oct 2025 09:06:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28632-machine-learning-code-completion</guid>
-      <dc:date>2025-10-08T09:06:14Z</dc:date>
-    </item>
-    <item>
-      <title>Machine Learning in Search Everywhere - Wed Oct 08 09:04:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28631-machine-learning-in-search-everywhere</link>
-      <description>The plugin improves the Search Everywhere feature by ordering the search results using machine learning, making more relevant results appear higher up the list...
-
-vendor: JetBrains s.r.o.
-downloads: 2
-pricingModel: FREE
-xmlId: com.intellij.searcheverywhere.ml</description>
-      <pubDate>Wed, 08 Oct 2025 09:04:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28631-machine-learning-in-search-everywhere</guid>
-      <dc:date>2025-10-08T09:04:37Z</dc:date>
-    </item>
-    <item>
-      <title>Machine Learning in Find Usages - Wed Oct 08 09:09:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28630-machine-learning-in-find-usages</link>
-      <description>The plugin is collecting anonymized data for training a machine learning model to improve the performance of the show usages and find usages features. It will...
-
-vendor: JetBrains s.r.o.
-downloads: 2
-pricingModel: FREE
-xmlId: com.intellij.findusages.ml</description>
-      <pubDate>Wed, 08 Oct 2025 09:09:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28630-machine-learning-in-find-usages</guid>
-      <dc:date>2025-10-08T09:09:46Z</dc:date>
-    </item>
-    <item>
-      <title>Better-Exclude - Fri Oct 03 08:54:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28629-better-exclude</link>
-      <description>An auto excluder for node_modules folder for React Native projects.
-
-vendor: Łukasz Kosmaty
-downloads: 19
-pricingModel: FREE
-xmlId: io.github.lukmccall.better-exclude</description>
-      <pubDate>Fri, 03 Oct 2025 08:54:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28629-better-exclude</guid>
-      <dc:date>2025-10-03T08:54:36Z</dc:date>
     </item>
   </channel>
 </rss>
