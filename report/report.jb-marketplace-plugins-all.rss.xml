@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Spring Explyt - Tue Oct 14 14:35:53 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28675-spring-explyt</link>
+      <description>The Explyt Spring Plugin enhances your IntelliJ IDEA Community experience, making Spring development in Java, Kotlin, and Scala more productive and enjoyable. It...
+
+vendor: Explyt Ltd
+downloads: 1
+pricingModel: FREE
+xmlId: com.explyt.spring</description>
+      <pubDate>Tue, 14 Oct 2025 14:35:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28675-spring-explyt</guid>
+      <dc:date>2025-10-14T14:35:53Z</dc:date>
+    </item>
+    <item>
+      <title>swarm - Tue Oct 14 16:15:22 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28709-swarm</link>
+      <description>swarm is a file management utility that copies content from designated files and directories, while providing directory tree generation capabilities for selected...
+
+vendor: Brayden Carlson
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.braycarlson.swarm</description>
+      <pubDate>Tue, 14 Oct 2025 16:15:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28709-swarm</guid>
+      <dc:date>2025-10-14T16:15:22Z</dc:date>
+    </item>
+    <item>
+      <title>UDF Generator - Fri Oct 10 17:38:17 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28678-udf-generator</link>
+      <description>Plugin that generates UDF (Unidirectional Data Flow) pattern: Event, State, ViewModel.
+
+vendor: Ahmed Elfeky
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.AhmedMohamedKhaledIbrahem.udfgenerator</description>
+      <pubDate>Fri, 10 Oct 2025 17:38:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28678-udf-generator</guid>
+      <dc:date>2025-10-10T17:38:17Z</dc:date>
+    </item>
+    <item>
       <title>intercept-wave - Tue Oct 14 08:27:05 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28704-intercept-wave</link>
       <description>A powerful IntelliJ IDEA plugin that provides local HTTP Mock server functionality for developers. It intercepts specific APIs and returns preset mock data, while...
@@ -225,45 +264,6 @@ xmlId: com.github.apspan.jsonviewer</description>
       <pubDate>Sun, 12 Oct 2025 20:48:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28691-json-tree-explorer</guid>
       <dc:date>2025-10-12T20:48:10Z</dc:date>
-    </item>
-    <item>
-      <title>SMNIR - Sat Oct 11 10:23:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28689-smnir</link>
-      <description>SMNIR: Smart Method Name Inconsistency Resolver Your AI Code Reviewer, Automatically Detecting and Fixing Misleading Method Names Summary Have you ever been misled by...
-
-vendor: Michael
-downloads: 2
-pricingModel: FREE
-xmlId: com.michael.MethodNameConsistencyChecking.SMNIR</description>
-      <pubDate>Sat, 11 Oct 2025 10:23:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28689-smnir</guid>
-      <dc:date>2025-10-11T10:23:46Z</dc:date>
-    </item>
-    <item>
-      <title>FlashAPI Generator - Mon Oct 13 12:56:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28699-flashapi-generator</link>
-      <description>FlashAPI Generator for Flutter helps developers generate full BLoC-based Clean Architecture from any REST API with minimal effort. It creates data, domain, and...
-
-vendor: prem kumar
-downloads: 23
-pricingModel: FREE
-xmlId: com.flashapi.android-studio</description>
-      <pubDate>Mon, 13 Oct 2025 12:56:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28699-flashapi-generator</guid>
-      <dc:date>2025-10-13T12:56:05Z</dc:date>
-    </item>
-    <item>
-      <title>Karate Chop Debugger - Tue Oct 14 14:15:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28671-karate-chop-debugger</link>
-      <description>Karate Chop Debugger is an unofficial IntelliJ plugin that makes debugging Karate test cases a lot easier. Set breakpoints directly in your .feature files, run tests...
-
-vendor: Srikanth Iyengar
-downloads: 72
-pricingModel: FREE
-xmlId: in.srikanthk.devlabs.karate-chop-debugger</description>
-      <pubDate>Tue, 14 Oct 2025 14:15:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28671-karate-chop-debugger</guid>
-      <dc:date>2025-10-14T14:15:35Z</dc:date>
     </item>
   </channel>
 </rss>
