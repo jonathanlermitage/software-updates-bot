@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.25.3|[golang.org](https://golang.org/dl/)|Tue Oct 14 00:05:55 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|24.10.0|[nodejs.org](https://nodejs.org)|Thu Oct 09 00:05:49 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.25908.13) ~ 2025-10-08|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 08 12:03:49 UTC 2025|
-|![logo](../media/logo/go.png) Go|go1.25.2|[golang.org](https://golang.org/dl/)|Tue Oct 07 20:03:02 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.0|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 07 16:03:17 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 07 16:03:16 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.3 (252.26830.84) ~ 2025-10-02|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Oct 02 20:03:38 UTC 2025|
