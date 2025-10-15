@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Claude Code Terminal - Wed Oct 15 06:57:54 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28717-claude-code-terminal</link>
+      <description>Claude Code Terminal — Run claude (Claude Code CLI) seamlessly inside IntelliJ-based IDEs. No more switching to external terminals. 在 IntelliJ IDEA / Android Studio...
+
+vendor: Hamdi Wanis
+downloads: 0
+pricingModel: FREE
+xmlId: com.hamdiwanis.claude</description>
+      <pubDate>Wed, 15 Oct 2025 06:57:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28717-claude-code-terminal</guid>
+      <dc:date>2025-10-15T06:57:54Z</dc:date>
+    </item>
+    <item>
+      <title>Snow CLI - Wed Oct 15 03:18:23 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28715-snow-cli</link>
+      <description>Snow AI CLI integration for JetBrains IDEs. Provides intelligent code navigation and search powered by AI. Features: WebSocket-based integration with Snow CLI...
+
+vendor: mufasa
+downloads: 0
+pricingModel: FREE
+xmlId: com.snow.plugin</description>
+      <pubDate>Wed, 15 Oct 2025 03:18:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28715-snow-cli</guid>
+      <dc:date>2025-10-15T03:18:23Z</dc:date>
+    </item>
+    <item>
+      <title>Markdown HTML Syntax Highlighter - Wed Oct 15 01:13:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28714-markdown-html-syntax-highlighter</link>
+      <description>Provides syntax highlighting for HTML code in Markdown files outside of code blocks. Features: Highlights HTML tag names Highlights HTML attributes and values...
+
+vendor: ShiYi
+downloads: 0
+pricingModel: FREE
+xmlId: org.shiyi.MarkdownHTMLSyntax</description>
+      <pubDate>Wed, 15 Oct 2025 01:13:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28714-markdown-html-syntax-highlighter</guid>
+      <dc:date>2025-10-15T01:13:58Z</dc:date>
+    </item>
+    <item>
+      <title>Database Seed Generator - Tue Oct 14 23:44:24 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28713-database-seed-generator</link>
+      <description>Database Seed Generator is a JetBrains plugin that generates synthetic SQL data to populate database schemas. &#x1f5c3;️ Database Seed Generator Database Seed Generator is a...
+
+vendor: LuisPPB16
+downloads: 0
+pricingModel: FREE
+xmlId: com.luisppb16.dbseed</description>
+      <pubDate>Tue, 14 Oct 2025 23:44:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28713-database-seed-generator</guid>
+      <dc:date>2025-10-14T23:44:24Z</dc:date>
+    </item>
+    <item>
+      <title>Man Page Editor - Tue Oct 14 20:12:37 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28711-man-page-editor</link>
+      <description>A man page editor for IntelliJ-based IDEs. Features: Syntax highlighting for man pages Live preview with split-view editor Hover documentation for macros with...
+
+vendor: aar10n
+downloads: 0
+pricingModel: FREE
+xmlId: dev.agb.manpage</description>
+      <pubDate>Tue, 14 Oct 2025 20:12:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28711-man-page-editor</guid>
+      <dc:date>2025-10-14T20:12:37Z</dc:date>
+    </item>
+    <item>
       <title>Spring Explyt - Tue Oct 14 14:35:53 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28675-spring-explyt</link>
       <description>The Explyt Spring Plugin enhances your IntelliJ IDEA Community experience, making Spring development in Java, Kotlin, and Scala more productive and enjoyable. It...
@@ -32,7 +97,7 @@ xmlId: com.github.braycarlson.swarm</description>
       <dc:date>2025-10-14T16:15:22Z</dc:date>
     </item>
     <item>
-      <title>UDF Generator - Fri Oct 10 17:38:17 UTC 2025</title>
+      <title>UDF Generator - Wed Oct 15 07:44:02 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28678-udf-generator</link>
       <description>Plugin that generates UDF (Unidirectional Data Flow) pattern: Event, State, ViewModel.
 
@@ -40,9 +105,9 @@ vendor: Ahmed Elfeky
 downloads: 5
 pricingModel: FREE
 xmlId: io.github.AhmedMohamedKhaledIbrahem.udfgenerator</description>
-      <pubDate>Fri, 10 Oct 2025 17:38:17 GMT</pubDate>
+      <pubDate>Wed, 15 Oct 2025 07:44:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28678-udf-generator</guid>
-      <dc:date>2025-10-10T17:38:17Z</dc:date>
+      <dc:date>2025-10-15T07:44:02Z</dc:date>
     </item>
     <item>
       <title>intercept-wave - Wed Oct 15 06:51:13 UTC 2025</title>
@@ -199,71 +264,6 @@ xmlId: dev.go.atlas</description>
       <pubDate>Sat, 11 Oct 2025 01:07:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28679-atlas-helper</guid>
       <dc:date>2025-10-11T01:07:46Z</dc:date>
-    </item>
-    <item>
-      <title>AGENTS.md Generator - Tue Oct 14 10:44:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28698-agents-md-generator</link>
-      <description>AGENTS.md Generator is a plugin for Android developers that automatically generates the AGENTS.md file for your project. Modes: - AI Mode: Uses Groq or Gemini APIs...
-
-vendor: Víctor Manuel Cañada Ojeda
-downloads: 26
-pricingModel: FREE
-xmlId: canada.victor.agentsgenerator</description>
-      <pubDate>Tue, 14 Oct 2025 10:44:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28698-agents-md-generator</guid>
-      <dc:date>2025-10-14T10:44:26Z</dc:date>
-    </item>
-    <item>
-      <title>HHVM - Tue Oct 07 14:07:48 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28652-hhvm</link>
-      <description>Github | Telegram | HHVM Website | Hacklang Website | Donation Hack Language (HHVM) Plugin Hack is an object-oriented programming language for building reliable...
-
-vendor: xepozz
-downloads: 7
-pricingModel: FREE
-xmlId: com.github.xepozz.hhvm</description>
-      <pubDate>Tue, 07 Oct 2025 14:07:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28652-hhvm</guid>
-      <dc:date>2025-10-07T14:07:48Z</dc:date>
-    </item>
-    <item>
-      <title>Daily Newspaper Generator - Mon Oct 13 09:38:14 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28682-daily-newspaper-generator</link>
-      <description>One-click parsing of Git commit records, intelligent generation of structured daily reports, support for commit classification and workload statistics, saving manual...
-
-vendor: 刘春池
-downloads: 12
-pricingModel: FREE
-xmlId: com.fighting.study.daily_newspaper_generator</description>
-      <pubDate>Mon, 13 Oct 2025 09:38:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28682-daily-newspaper-generator</guid>
-      <dc:date>2025-10-13T09:38:14Z</dc:date>
-    </item>
-    <item>
-      <title>bean-copy-helper - Sat Oct 11 09:32:43 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28686-bean-copy-helper</link>
-      <description>BeanCopy Assistant Currently supports recognition and conversion of property copying for org.springframework.beans.BeanUtils...
-
-vendor: Ares_xue
-downloads: 9
-pricingModel: FREE
-xmlId: cn.ares.bean-copy-helper</description>
-      <pubDate>Sat, 11 Oct 2025 09:32:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28686-bean-copy-helper</guid>
-      <dc:date>2025-10-11T09:32:43Z</dc:date>
-    </item>
-    <item>
-      <title>JSON Tree Explorer - Sun Oct 12 20:48:10 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28691-json-tree-explorer</link>
-      <description>A powerful JSON Tree Explorer plugin for all JetBrains IDEs that provides an intuitive tree view for browsing and editing JSON data with collapsible/expandable nodes...
-
-vendor: Apos Spanos
-downloads: 14
-pricingModel: FREE
-xmlId: com.github.apspan.jsonviewer</description>
-      <pubDate>Sun, 12 Oct 2025 20:48:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28691-json-tree-explorer</guid>
-      <dc:date>2025-10-12T20:48:10Z</dc:date>
     </item>
   </channel>
 </rss>
