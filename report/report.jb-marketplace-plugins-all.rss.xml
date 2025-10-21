@@ -6,12 +6,51 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Flexible Solidity - Mon Oct 20 19:05:01 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28744-flexible-solidity</link>
+      <description>Professional Solidity IDE for IntelliJ IDEA. Complete language implementation with 10+ security checks, 8+ gas optimizations, and 27+ smart contract templates...
+
+vendor: Ilscipio GmbH
+downloads: 6
+pricingModel: PAID
+xmlId: com.flexible.solidity</description>
+      <pubDate>Mon, 20 Oct 2025 19:05:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28744-flexible-solidity</guid>
+      <dc:date>2025-10-20T19:05:01Z</dc:date>
+    </item>
+    <item>
+      <title>Recent Projects Tree - Mon Oct 20 23:40:33 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28765-recent-projects-tree</link>
+      <description>Organize your Recent Projects menu into tree view. The common part of the tree (if there is any) is removed for faster usage.
+
+vendor: Vlatko Gjorgievski
+downloads: 0
+pricingModel: FREE
+xmlId: org.livitbox.intellij-recent-tree-view</description>
+      <pubDate>Mon, 20 Oct 2025 23:40:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28765-recent-projects-tree</guid>
+      <dc:date>2025-10-20T23:40:33Z</dc:date>
+    </item>
+    <item>
+      <title>bpmn-viewer - Sat Oct 18 15:57:55 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28755-bpmn-viewer</link>
+      <description>Provides view capabilities for BPMN diagrams in YAML format Display rendered diagram in editorSynchronise selection between code and diagramDedicated diff comparing...
+
+vendor: bpmn-viewer
+downloads: 0
+pricingModel: FREE
+xmlId: com.diagram</description>
+      <pubDate>Sat, 18 Oct 2025 15:57:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28755-bpmn-viewer</guid>
+      <dc:date>2025-10-18T15:57:55Z</dc:date>
+    </item>
+    <item>
       <title>Edit-Tabs-Location - Mon Oct 20 09:23:54 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28761-edit-tabs-location</link>
       <description>A lightweight plugin for quickly switching editor tabs position. 快速切换编辑器Tabs位置的插件 支持将Tabs从顶部切换到左侧显示 支持将Tabs从左侧切换到顶部显示 支持在所有标签末尾的扩展菜单内（三个点）切换位置...
 
 vendor: ApeAssistant
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: show.ywy.Edit-Tabs-Location</description>
       <pubDate>Mon, 20 Oct 2025 09:23:54 GMT</pubDate>
@@ -24,7 +63,7 @@ xmlId: show.ywy.Edit-Tabs-Location</description>
       <description>A developer friendly browser plugin integrated into IntelliJ IDEA ✨ Features: &#x1f310; Embedded Chromium Browser - Complete Modern Web Browsing Capability &#x1f4f1; Device mode...
 
 vendor: Fashion
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: com.fashion.devbrowser</description>
       <pubDate>Mon, 20 Oct 2025 11:49:31 GMT</pubDate>
@@ -37,7 +76,7 @@ xmlId: com.fashion.devbrowser</description>
       <description>Copies text in a format that can be more easily pasted into Keynote.
 
 vendor: Code with the Italians
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: dev.sebastiano.plugins.copyforkeynote</description>
       <pubDate>Sun, 19 Oct 2025 17:57:28 GMT</pubDate>
@@ -50,7 +89,7 @@ xmlId: dev.sebastiano.plugins.copyforkeynote</description>
       <description>This plugin supports FASTA file syntax for BioInformatics nucleic acids (DNA and RNA) and protein sequences research.
 
 vendor: Ksenija Kivojenko
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.kivojenko.plugin.fasta</description>
       <pubDate>Sun, 19 Oct 2025 13:06:56 GMT</pubDate>
@@ -63,7 +102,7 @@ xmlId: com.kivojenko.plugin.fasta</description>
       <description>This plugin adds Poryscript support to Jetbrains IDEs like IntelliJ or CLion. It provides syntax highlighting via a TextMate bundle and runs the Poryscript language...
 
 vendor: okafke
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.okafke.poryscriptidea</description>
       <pubDate>Sat, 18 Oct 2025 14:25:01 GMT</pubDate>
@@ -76,7 +115,7 @@ xmlId: com.github.okafke.poryscriptidea</description>
       <description>Github | Donation Phan Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness Donation...
 
 vendor: Dmitrii Derepko
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.xepozz.phan</description>
       <pubDate>Sat, 18 Oct 2025 14:12:58 GMT</pubDate>
@@ -89,7 +128,7 @@ xmlId: com.github.xepozz.phan</description>
       <description>JUnit Test Manager simplifies JUnit testing in Java projects: generate run configurations with custom VM options, group tests by regex paths, and auto-relocate...
 
 vendor: ikjapan
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.my.junit.testmanager</description>
       <pubDate>Sat, 18 Oct 2025 13:10:20 GMT</pubDate>
@@ -102,7 +141,7 @@ xmlId: com.my.junit.testmanager</description>
       <description>Automatically watches project source and resource files for external changes and triggers IntelliJ's "Reload All From Disk" and "Build" action when changes are...
 
 vendor: radut
-downloads: 6
+downloads: 26
 pricingModel: FREE
 xmlId: com.radut.plugin.bfw</description>
       <pubDate>Mon, 20 Oct 2025 10:38:40 GMT</pubDate>
@@ -115,7 +154,7 @@ xmlId: com.radut.plugin.bfw</description>
       <description>Kanban Board for IntelliJ IDEA based IDE A lightweight kanban board plugin to manage your development tasks directly in your IDE. Features: Create multiple projects...
 
 vendor: Mafujul
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: me.mafu.kanban</description>
       <pubDate>Fri, 17 Oct 2025 20:23:39 GMT</pubDate>
@@ -128,7 +167,7 @@ xmlId: me.mafu.kanban</description>
       <description>Rider Commons Core plugin GitHub | Issues A plugin that adds Commons Core annotations support to Rider Features [IDAReference] attribute for C# - Navigate to IDA Pro...
 
 vendor: Anton Lasevich
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: host.anzo.commons-rider</description>
       <pubDate>Sat, 18 Oct 2025 01:54:32 GMT</pubDate>
@@ -141,7 +180,7 @@ xmlId: host.anzo.commons-rider</description>
       <description>Belarusian Language Pack for the JetBrains IDE family. Пераклад інтэрфейсу для сямейства IDE JetBrains на беларускую мову. Дадайце родную мову ў сваю працу і...
 
 vendor: krp
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: org.bel.language-pack.BelarusianLanguagePack</description>
       <pubDate>Sat, 18 Oct 2025 09:31:53 GMT</pubDate>
@@ -154,7 +193,7 @@ xmlId: org.bel.language-pack.BelarusianLanguagePack</description>
       <description>CRP XML Debugger adds debugging support for XML-based model such as BPMN and CMMN executed in java. It enables developers to set breakpoints directly in XML files and...
 
 vendor: crystal processes
-downloads: 2
+downloads: 30
 pricingModel: FREE
 xmlId: crystal-processes-xml-debugger</description>
       <pubDate>Mon, 20 Oct 2025 18:30:52 GMT</pubDate>
@@ -167,7 +206,7 @@ xmlId: crystal-processes-xml-debugger</description>
       <description>Intercepts Run Configuration logs and proposes AI-driven solutions to help you debug faster. Features Automatic error detection from console logs AI-powered solution...
 
 vendor: mrp
-downloads: 15
+downloads: 18
 pricingModel: FREE
 xmlId: com.mloggerai.plugin</description>
       <pubDate>Sun, 12 Oct 2025 00:30:41 GMT</pubDate>
@@ -180,7 +219,7 @@ xmlId: com.mloggerai.plugin</description>
       <description>Git Merge Into is a plugin that helps you quickly merge the current branch into another branch.
 
 vendor: Daniel Sery
-downloads: 35
+downloads: 40
 pricingModel: FREE
 xmlId: com.github.iml885203.intellijgitrebaseonto</description>
       <pubDate>Fri, 17 Oct 2025 17:57:20 GMT</pubDate>
@@ -193,7 +232,7 @@ xmlId: com.github.iml885203.intellijgitrebaseonto</description>
       <description>Code Screenshot Take a screenshot of the current code as an image Right click on the "Code Screenshot" option in the code area You can set relevant parameters in File...
 
 vendor: wolfcode
-downloads: 19
+downloads: 62
 pricingModel: FREE
 xmlId: wolfcode.screenshot.code</description>
       <pubDate>Tue, 21 Oct 2025 03:46:09 GMT</pubDate>
@@ -219,51 +258,12 @@ xmlId: top.cgio.generate</description>
       <description>Publish Tracker plugin for JetBrains IDEs A comprehensive tool for plugin developers to monitor and track the verification and publishing status of their plugins on...
 
 vendor: Shrikant Badwaik
-downloads: 3
+downloads: 4
 pricingModel: FREE
 xmlId: com.shrikantbadwaik.jb-publish-tracker</description>
       <pubDate>Thu, 16 Oct 2025 04:42:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28705-publish-verify-tracker</guid>
       <dc:date>2025-10-16T04:42:07Z</dc:date>
-    </item>
-    <item>
-      <title>Vim CmdFloat - Sun Oct 19 14:47:38 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28732-vim-cmdfloat</link>
-      <description>IdeaVim-CmdFloat provides an editor-themed command-line overlay for IdeaVim. When it detects triggers such as :, /, or ?, it shows a visual panel with instant focus...
-
-vendor: yelog
-downloads: 163
-pricingModel: FREE
-xmlId: com.yelog.ideavim.cmdfloat</description>
-      <pubDate>Sun, 19 Oct 2025 14:47:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28732-vim-cmdfloat</guid>
-      <dc:date>2025-10-19T14:47:38Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Modulith - Fri Oct 17 12:45:56 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28733-spring-modulith</link>
-      <description>This plugin provides comprehensive support for developing Spring Modulith applications in IntelliJ IDEA. It introduces tooling to help developers visualize modules...
-
-vendor: JetBrains s.r.o.
-downloads: 3
-pricingModel: FREE
-xmlId: com.intellij.spring.modulith</description>
-      <pubDate>Fri, 17 Oct 2025 12:45:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28733-spring-modulith</guid>
-      <dc:date>2025-10-17T12:45:56Z</dc:date>
-    </item>
-    <item>
-      <title>Snow - Mon Oct 20 01:32:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28718-snow</link>
-      <description>Snow - A New Programming Language for the AI Era Snow is a modern language designed for the era of large language models (LLMs), aiming to make it easier for AI to...
-
-vendor: JCNC
-downloads: 39
-pricingModel: FREE
-xmlId: org.jcnc.snow-IntelliJ</description>
-      <pubDate>Mon, 20 Oct 2025 01:32:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28718-snow</guid>
-      <dc:date>2025-10-20T01:32:05Z</dc:date>
     </item>
   </channel>
 </rss>
