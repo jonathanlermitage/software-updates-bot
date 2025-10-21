@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>TranslitUA - Tue Oct 21 12:58:04 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28779-translitua</link>
+      <description>Plugin for transliterating Cyrillic text in Ukrainian into Latin script. Based on the official transliteration table approved by the Verkhovna Rada of Ukraine...
+
+vendor: Ihor Dziuba
+downloads: 0
+pricingModel: FREE
+xmlId: dev.idzb.TranslitUA</description>
+      <pubDate>Tue, 21 Oct 2025 12:58:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28779-translitua</guid>
+      <dc:date>2025-10-21T12:58:04Z</dc:date>
+    </item>
+    <item>
       <title>Flexible Solidity - Mon Oct 20 19:05:01 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28744-flexible-solidity</link>
       <description>Professional Solidity IDE for IntelliJ IDEA. Complete language implementation with 10+ security checks, 8+ gas optimizations, and 27+ smart contract templates...
@@ -95,6 +108,19 @@ xmlId: com.kivojenko.plugin.fasta</description>
       <pubDate>Sun, 19 Oct 2025 13:06:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28757-fasta-format-support</guid>
       <dc:date>2025-10-19T13:06:56Z</dc:date>
+    </item>
+    <item>
+      <title>FDM - Mon Oct 20 10:50:34 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28738-fdm</link>
+      <description>Toggle Git VCS directory mappings with a single shortcut. What it does: Opens a lightweight dialog to quickly enable/disable Git VCS directory mappings per...
+
+vendor: finncu
+downloads: 6
+pricingModel: FREE
+xmlId: de.cyan.fca.fdm-plugin</description>
+      <pubDate>Mon, 20 Oct 2025 10:50:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28738-fdm</guid>
+      <dc:date>2025-10-20T10:50:34Z</dc:date>
     </item>
     <item>
       <title>Poryscript - Sat Oct 18 14:25:01 UTC 2025</title>
@@ -238,32 +264,6 @@ xmlId: wolfcode.screenshot.code</description>
       <pubDate>Tue, 21 Oct 2025 03:46:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28706-code-screenshot</guid>
       <dc:date>2025-10-21T03:46:09Z</dc:date>
-    </item>
-    <item>
-      <title>AI Commitor - Thu Oct 16 13:54:22 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28736-ai-commitor</link>
-      <description>AI-powered Git commit message generator AI-powered Git commit message generator that supports multiple AI models and provides an experience similar to popular AI...
-
-vendor: AI Commitor
-downloads: 3
-pricingModel: FREE
-xmlId: top.cgio.generate</description>
-      <pubDate>Thu, 16 Oct 2025 13:54:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28736-ai-commitor</guid>
-      <dc:date>2025-10-16T13:54:22Z</dc:date>
-    </item>
-    <item>
-      <title>Publish/Verify Tracker - Thu Oct 16 04:42:07 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28705-publish-verify-tracker</link>
-      <description>Publish Tracker plugin for JetBrains IDEs A comprehensive tool for plugin developers to monitor and track the verification and publishing status of their plugins on...
-
-vendor: Shrikant Badwaik
-downloads: 4
-pricingModel: FREE
-xmlId: com.shrikantbadwaik.jb-publish-tracker</description>
-      <pubDate>Thu, 16 Oct 2025 04:42:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28705-publish-verify-tracker</guid>
-      <dc:date>2025-10-16T04:42:07Z</dc:date>
     </item>
   </channel>
 </rss>
