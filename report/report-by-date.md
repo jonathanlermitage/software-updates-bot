@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|22.21.0|[nodejs.org](https://nodejs.org)|Tue Oct 21 00:07:11 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.27642.30) ~ 2025-10-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Oct 20 12:03:37 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.0.0|[nodejs.org](https://nodejs.org)|Wed Oct 15 20:03:29 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.25.3|[golang.org](https://golang.org/dl/)|Tue Oct 14 00:05:55 UTC 2025|
@@ -11,7 +12,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25+36|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Sep 29 14:21:46 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|22.20.0|[nodejs.org](https://nodejs.org)|Wed Sep 24 16:03:06 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.1.0|[gradle.org](https://gradle.org/releases/)|Thu Sep 18 16:29:55 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Sep 18 16:03:46 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 330 - Nano banana l'AI de Julia|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 15 12:03:37 UTC 2025|
