@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>BPLS - Wed Oct 22 11:56:37 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28802-bpls</link>
+      <description>BPLS Support This plugin enables full BPLS Coding support. Features Syntax highlighting Auto-suggest New run configuration Compatiable with any JetBrains IDE.
+
+vendor: Cortlet
+downloads: 0
+pricingModel: FREE
+xmlId: com.cortlet.bpls</description>
+      <pubDate>Wed, 22 Oct 2025 11:56:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28802-bpls</guid>
+      <dc:date>2025-10-22T11:56:37Z</dc:date>
+    </item>
+    <item>
+      <title>Spring Transaction Inspector - Wed Oct 22 06:52:30 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28789-spring-transaction-inspector</link>
+      <description>Spring Transaction Inspector Catch Spring @Transactional pitfalls before they reach production! This plugin performs static analysis to detect common transaction...
+
+vendor: closeup1202
+downloads: 0
+pricingModel: FREE
+xmlId: com.visualize-transaction</description>
+      <pubDate>Wed, 22 Oct 2025 06:52:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28789-spring-transaction-inspector</guid>
+      <dc:date>2025-10-22T06:52:30Z</dc:date>
+    </item>
+    <item>
+      <title>Code Achievement - Wed Oct 22 10:03:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28688-code-achievement</link>
+      <description>Code Achievement System - Gamify Your Coding Journey A professional code statistics and achievement tracking plugin that helps developers quantify their coding...
+
+vendor: 赵铁柱
+downloads: 2
+pricingModel: FREE
+xmlId: thoven.achievement.net.idea-plugin-achievement</description>
+      <pubDate>Wed, 22 Oct 2025 10:03:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28688-code-achievement</guid>
+      <dc:date>2025-10-22T10:03:09Z</dc:date>
+    </item>
+    <item>
       <title>C/C++ Language Support - Wed Oct 22 13:42:22 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28804-c-c--language-support</link>
       <description>The plugin brings modern, intelligent C and C++ development support.
@@ -225,45 +264,6 @@ xmlId: show.ywy.Edit-Tabs-Location</description>
       <pubDate>Tue, 21 Oct 2025 08:25:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28761-edit-tabs-location</guid>
       <dc:date>2025-10-21T08:25:45Z</dc:date>
-    </item>
-    <item>
-      <title>DevBrowser - Tue Oct 21 13:24:30 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28760-devbrowser</link>
-      <description>A developer friendly browser plugin integrated into IntelliJ IDEA ✨ Features: &#x1f310; Embedded Chromium Browser - Complete Modern Web Browsing Capability &#x1f4f1; Device mode...
-
-vendor: Fashion
-downloads: 46
-pricingModel: FREE
-xmlId: com.fashion.devbrowser</description>
-      <pubDate>Tue, 21 Oct 2025 13:24:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28760-devbrowser</guid>
-      <dc:date>2025-10-21T13:24:30Z</dc:date>
-    </item>
-    <item>
-      <title>Copy for Keynote - Sun Oct 19 17:57:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28758-copy-for-keynote</link>
-      <description>Copies text in a format that can be more easily pasted into Keynote.
-
-vendor: Code with the Italians
-downloads: 12
-pricingModel: FREE
-xmlId: dev.sebastiano.plugins.copyforkeynote</description>
-      <pubDate>Sun, 19 Oct 2025 17:57:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28758-copy-for-keynote</guid>
-      <dc:date>2025-10-19T17:57:28Z</dc:date>
-    </item>
-    <item>
-      <title>FASTA Format Support - Wed Oct 22 15:42:31 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28757-fasta-format-support</link>
-      <description>This plugin supports FASTA file syntax for BioInformatics nucleic acids (DNA and RNA) and protein sequences research.
-
-vendor: Ksenija Kivojenko
-downloads: 7
-pricingModel: FREE
-xmlId: com.kivojenko.plugin.fasta</description>
-      <pubDate>Wed, 22 Oct 2025 15:42:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28757-fasta-format-support</guid>
-      <dc:date>2025-10-22T15:42:31Z</dc:date>
     </item>
   </channel>
 </rss>
