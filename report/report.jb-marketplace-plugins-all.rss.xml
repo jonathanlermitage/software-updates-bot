@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Light_Lite Color Scheme - Thu Oct 23 06:48:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28810-light-lite-color-scheme</link>
+      <description>A minimalistic light colour scheme for PHP developers.
+
+vendor: brendt
+downloads: 0
+pricingModel: FREE
+xmlId: color.scheme.Light_Lite</description>
+      <pubDate>Thu, 23 Oct 2025 06:48:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28810-light-lite-color-scheme</guid>
+      <dc:date>2025-10-23T06:48:09Z</dc:date>
+    </item>
+    <item>
+      <title>Photon_Light Color Scheme - Thu Oct 23 06:57:54 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28812-photon-light-color-scheme</link>
+      <description>A high-contrast light color scheme based on Mozilla's Photon theme.
+
+vendor: brendt
+downloads: 0
+pricingModel: FREE
+xmlId: color.scheme.Photon_Light</description>
+      <pubDate>Thu, 23 Oct 2025 06:57:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28812-photon-light-color-scheme</guid>
+      <dc:date>2025-10-23T06:57:54Z</dc:date>
+    </item>
+    <item>
+      <title>TSID Tools - Thu Oct 23 00:34:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/27558-tsid-tools</link>
+      <description>Ferramenta para gerar e converter TSID (Time Sortable Identifier) em formatos string e long. Inclui geração automática e conversão baseada no tipo digitado.
+
+vendor: josecjuniors
+downloads: 2
+pricingModel: FREE
+xmlId: com.josecjuniors.tsidplugin</description>
+      <pubDate>Thu, 23 Oct 2025 00:34:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27558-tsid-tools</guid>
+      <dc:date>2025-10-23T00:34:48Z</dc:date>
+    </item>
+    <item>
+      <title>Watercommit - Thu Oct 23 01:39:52 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28803-watercommit</link>
+      <description>A plugin designed to provide teams with a unified Git commit convention, featuring built-in common types and scopes. It helps developers quickly generate standardized...
+
+vendor: water-commit
+downloads: 0
+pricingModel: FREE
+xmlId: net.ahwater.watercommit</description>
+      <pubDate>Thu, 23 Oct 2025 01:39:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28803-watercommit</guid>
+      <dc:date>2025-10-23T01:39:52Z</dc:date>
+    </item>
+    <item>
       <title>secure-developer-spaces - Wed Oct 22 07:49:53 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28790-secure-developer-spaces</link>
       <description>JetBrains IDE plugin for Citrix SDS workspaces. Connects to SDS monitoring systems when using SSH.
@@ -32,7 +84,7 @@ xmlId: com.cortlet.bpls</description>
       <dc:date>2025-10-22T11:56:37Z</dc:date>
     </item>
     <item>
-      <title>Spring Transaction Inspector - Wed Oct 22 06:52:30 UTC 2025</title>
+      <title>Spring Transaction Inspector - Thu Oct 23 10:58:39 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28789-spring-transaction-inspector</link>
       <description>Spring Transaction Inspector Catch Spring @Transactional pitfalls before they reach production! This plugin performs static analysis to detect common transaction...
 
@@ -40,9 +92,9 @@ vendor: closeup1202
 downloads: 2
 pricingModel: FREE
 xmlId: com.visualize-transaction</description>
-      <pubDate>Wed, 22 Oct 2025 06:52:30 GMT</pubDate>
+      <pubDate>Thu, 23 Oct 2025 10:58:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28789-spring-transaction-inspector</guid>
-      <dc:date>2025-10-22T06:52:30Z</dc:date>
+      <dc:date>2025-10-23T10:58:39Z</dc:date>
     </item>
     <item>
       <title>Code Achievement - Wed Oct 22 10:03:09 UTC 2025</title>
@@ -212,58 +264,6 @@ xmlId: org.xege.creator</description>
       <pubDate>Wed, 22 Oct 2025 04:56:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28785-xege-creator</guid>
       <dc:date>2025-10-22T04:56:15Z</dc:date>
-    </item>
-    <item>
-      <title>TranslitUA - Wed Oct 22 08:52:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28779-translitua</link>
-      <description>Plugin for transliterating Cyrillic text in Ukrainian into Latin script. Based on the official transliteration table approved by the Verkhovna Rada of Ukraine...
-
-vendor: Ihor Dziuba
-downloads: 6
-pricingModel: FREE
-xmlId: dev.idzb.TranslitUA</description>
-      <pubDate>Wed, 22 Oct 2025 08:52:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28779-translitua</guid>
-      <dc:date>2025-10-22T08:52:51Z</dc:date>
-    </item>
-    <item>
-      <title>Flexible Solidity - Mon Oct 20 19:05:01 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28744-flexible-solidity</link>
-      <description>Professional Solidity IDE for IntelliJ IDEA. Complete language implementation with 10+ security checks, 8+ gas optimizations, and 27+ smart contract templates...
-
-vendor: Ilscipio GmbH
-downloads: 40
-pricingModel: PAID
-xmlId: com.flexible.solidity</description>
-      <pubDate>Mon, 20 Oct 2025 19:05:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28744-flexible-solidity</guid>
-      <dc:date>2025-10-20T19:05:01Z</dc:date>
-    </item>
-    <item>
-      <title>Recent Projects Tree - Wed Oct 22 14:37:30 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28765-recent-projects-tree</link>
-      <description>Organize your Recent Projects menu into tree view. This plugin adds a new action to the File menu that shows your recent projects in a directory tree view, making it...
-
-vendor: Vlatko Gjorgievski
-downloads: 80
-pricingModel: FREE
-xmlId: org.livitbox.intellij-recent-tree-view</description>
-      <pubDate>Wed, 22 Oct 2025 14:37:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28765-recent-projects-tree</guid>
-      <dc:date>2025-10-22T14:37:30Z</dc:date>
-    </item>
-    <item>
-      <title>bpmn-viewer - Sat Oct 18 15:57:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28755-bpmn-viewer</link>
-      <description>Provides view capabilities for BPMN diagrams in YAML format Display rendered diagram in editorSynchronise selection between code and diagramDedicated diff comparing...
-
-vendor: bpmn-viewer
-downloads: 8
-pricingModel: FREE
-xmlId: com.diagram</description>
-      <pubDate>Sat, 18 Oct 2025 15:57:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28755-bpmn-viewer</guid>
-      <dc:date>2025-10-18T15:57:55Z</dc:date>
     </item>
   </channel>
 </rss>
