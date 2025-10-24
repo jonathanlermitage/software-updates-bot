@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Crypto Price Display - Fri Oct 24 03:13:42 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28821-crypto-price-display</link>
+      <description>Crypto Price Display Plugin Display real-time cryptocurrency prices directly in your IDE status bar. Features: Real-time price updates Configurable cryptocurrency...
+
+vendor: defimore
+downloads: 0
+pricingModel: FREE
+xmlId: com.defimore.crypto-price-plugin</description>
+      <pubDate>Fri, 24 Oct 2025 03:13:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28821-crypto-price-display</guid>
+      <dc:date>2025-10-24T03:13:42Z</dc:date>
+    </item>
+    <item>
+      <title>AIVory - Fri Oct 24 08:05:13 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28745-aivory</link>
+      <description>A comprehensive compliance and security validation plugin for IntelliJ IDEA. AIVory enforces OWASP Top 10 security standards in real-time, detects AI-generated code...
+
+vendor: AIVory, Inc.
+downloads: 4
+pricingModel: FREE
+xmlId: com.aivory</description>
+      <pubDate>Fri, 24 Oct 2025 08:05:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28745-aivory</guid>
+      <dc:date>2025-10-24T08:05:13Z</dc:date>
+    </item>
+    <item>
       <title>Armada Syntax Highlighter - Mon Oct 20 23:19:52 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28772-armada-syntax-highlighter</link>
       <description>Armada Syntax Highlighter annotates additional language tokens for for use by editor color schemes to provide an improved syntax highlighting experience in JetBrains...
@@ -238,32 +264,6 @@ xmlId: com.intellij.cmake</description>
       <pubDate>Wed, 22 Oct 2025 10:20:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28794-cmake</guid>
       <dc:date>2025-10-22T10:20:10Z</dc:date>
-    </item>
-    <item>
-      <title>CLion - Wed Oct 22 10:28:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28796-clion</link>
-      <description>Essential plugin for C/C++ development that enhances productivity and code quality. Provides support for multiple toolchains, compilers, and third-party tools.
-
-vendor: JetBrains s.r.o.
-downloads: 5
-pricingModel: FREE
-xmlId: com.intellij.clion</description>
-      <pubDate>Wed, 22 Oct 2025 10:28:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28796-clion</guid>
-      <dc:date>2025-10-22T10:28:46Z</dc:date>
-    </item>
-    <item>
-      <title>Meson - Wed Oct 22 10:29:25 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28797-meson</link>
-      <description>Provides support for Meson projects in CLion.
-
-vendor: JetBrains s.r.o.
-downloads: 2
-pricingModel: FREE
-xmlId: com.intellij.clion.meson</description>
-      <pubDate>Wed, 22 Oct 2025 10:29:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28797-meson</guid>
-      <dc:date>2025-10-22T10:29:25Z</dc:date>
     </item>
   </channel>
 </rss>
