@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.9+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 00:05:26 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 00:05:25 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.7.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 23 16:03:57 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.27864.23) ~ 2025-10-22|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 22 20:03:02 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|22.21.0|[nodejs.org](https://nodejs.org)|Tue Oct 21 00:07:11 UTC 2025|
@@ -28,8 +30,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 23 00:06:35 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jul 19 00:06:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jul 19 00:06:14 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 18 16:03:41 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 18 16:03:39 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 17 20:02:42 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 17 20:02:41 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:03:36 UTC 2025|
