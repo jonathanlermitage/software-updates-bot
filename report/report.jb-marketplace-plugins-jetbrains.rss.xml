@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CLion Catch - Wed Oct 22 10:30:18 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28799-clion-catch</link>
+      <description>This plugin enables Catch 1.x and Catch 2.x test frameworks support in CLion. Catch 2.x modern, C++-native, header-only, test framework for unit-tests, TDD and BDD...
+
+vendor: JetBrains s.r.o.
+downloads: 3
+pricingModel: FREE
+xmlId: org.jetbrains.plugins.clion.test.catch</description>
+      <pubDate>Wed, 22 Oct 2025 10:30:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28799-clion-catch</guid>
+      <dc:date>2025-10-22T10:30:18Z</dc:date>
+    </item>
+    <item>
       <title>C/C++ Language Support - Wed Oct 22 13:42:22 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28804-c-c--language-support</link>
       <description>The plugin brings modern, intelligent C and C++ development support.
@@ -43,19 +56,6 @@ xmlId: org.jetbrains.plugins.clion.test.boost</description>
       <pubDate>Wed, 22 Oct 2025 10:18:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28792-clion-boost-test</guid>
       <dc:date>2025-10-22T10:18:30Z</dc:date>
-    </item>
-    <item>
-      <title>CMake - Wed Oct 22 10:20:10 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28794-cmake</link>
-      <description>Provides support for CMake: open CMake projects, edit CMake files with smart assistance, configure and build projects, run and debug targets, and other related...
-
-vendor: JetBrains s.r.o.
-downloads: 3
-pricingModel: FREE
-xmlId: com.intellij.cmake</description>
-      <pubDate>Wed, 22 Oct 2025 10:20:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28794-cmake</guid>
-      <dc:date>2025-10-22T10:20:10Z</dc:date>
     </item>
   </channel>
 </rss>
