@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Station Deploy Tool - Tue Oct 21 07:04:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28774-station-deploy-tool</link>
+      <description>Station Deploy Tool - A convenient plugin for deploying Station extensions.
+
+vendor: Station
+downloads: 0
+pricingModel: FREE
+xmlId: com.stationdm.tool</description>
+      <pubDate>Tue, 21 Oct 2025 07:04:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28774-station-deploy-tool</guid>
+      <dc:date>2025-10-21T07:04:40Z</dc:date>
+    </item>
+    <item>
+      <title>JAVA_HOME SDK Sync - Wed Oct 22 21:36:31 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28807-java-home-sdk-sync</link>
+      <description>Synchronize your Project SDK with the JAVA_HOME environment variable on project startup. Features: Shows a notification on project startup to sync the Project SDK with...
+
+vendor: ludosch
+downloads: 2
+pricingModel: FREE
+xmlId: com.ludosch.sync-java-home</description>
+      <pubDate>Wed, 22 Oct 2025 21:36:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28807-java-home-sdk-sync</guid>
+      <dc:date>2025-10-22T21:36:31Z</dc:date>
+    </item>
+    <item>
       <title>Ollama Helper - Thu Oct 23 10:29:55 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28815-ollama-helper</link>
       <description>Ollama Assistant can serve as your intelligent coding assistant, enabling you to interact directly through the chat window on the right. You can ask for help with code...
 
 vendor: MyCode
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: ord.dev.code.tool</description>
       <pubDate>Thu, 23 Oct 2025 10:29:55 GMT</pubDate>
@@ -24,7 +50,7 @@ xmlId: ord.dev.code.tool</description>
       <description>Plugin for generate swagger annotations like ApiResponse, Tag ,Summary ,Min ,Max ,maxLength etc. Work with classes who have annotation @RestController/Controller and...
 
 vendor: Ivashkins
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: ru.vtb.nik.Sap2u</description>
       <pubDate>Thu, 23 Oct 2025 11:27:22 GMT</pubDate>
@@ -37,7 +63,7 @@ xmlId: ru.vtb.nik.Sap2u</description>
       <description>A minimalistic light colour scheme for PHP developers.
 
 vendor: brendt
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: color.scheme.Light_Lite</description>
       <pubDate>Thu, 23 Oct 2025 06:48:09 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: color.scheme.Light_Lite</description>
       <description>A high-contrast light color scheme based on Mozilla's Photon theme.
 
 vendor: brendt
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: color.scheme.Photon_Light</description>
       <pubDate>Thu, 23 Oct 2025 06:57:54 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: color.scheme.Photon_Light</description>
       <description>Ferramenta para gerar e converter TSID (Time Sortable Identifier) em formatos string e long. Inclui geração automática e conversão baseada no tipo digitado.
 
 vendor: josecjuniors
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.josecjuniors.tsidplugin</description>
       <pubDate>Thu, 23 Oct 2025 00:34:48 GMT</pubDate>
@@ -71,12 +97,25 @@ xmlId: com.josecjuniors.tsidplugin</description>
       <dc:date>2025-10-23T00:34:48Z</dc:date>
     </item>
     <item>
+      <title>Text Highlighter - Thu Oct 23 09:13:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28814-text-highlighter</link>
+      <description>Text Highlighter Simple and powerful text highlighting plugin for JetBrains IDEs. Mark important code sections with color-coded highlights that persist across...
+
+vendor: Samuel Lastrina
+downloads: 1
+pricingModel: FREE
+xmlId: com.highlighter.text-highlighter</description>
+      <pubDate>Thu, 23 Oct 2025 09:13:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28814-text-highlighter</guid>
+      <dc:date>2025-10-23T09:13:26Z</dc:date>
+    </item>
+    <item>
       <title>Watercommit - Thu Oct 23 01:39:52 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28803-watercommit</link>
       <description>A plugin designed to provide teams with a unified Git commit convention, featuring built-in common types and scopes. It helps developers quickly generate standardized...
 
 vendor: water-commit
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: net.ahwater.watercommit</description>
       <pubDate>Thu, 23 Oct 2025 01:39:52 GMT</pubDate>
@@ -89,7 +128,7 @@ xmlId: net.ahwater.watercommit</description>
       <description>JetBrains IDE plugin for Citrix SDS workspaces. Connects to SDS monitoring systems when using SSH.
 
 vendor: Strong Network
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.torsteinmeyer.strongintellijplugin</description>
       <pubDate>Wed, 22 Oct 2025 07:49:53 GMT</pubDate>
@@ -97,17 +136,17 @@ xmlId: com.github.torsteinmeyer.strongintellijplugin</description>
       <dc:date>2025-10-22T07:49:53Z</dc:date>
     </item>
     <item>
-      <title>E# - Wed Oct 22 11:56:37 UTC 2025</title>
+      <title>E# - Fri Oct 24 06:56:08 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28802-e-</link>
-      <description>BPLS Support This plugin enables full BPLS Coding support. Features Syntax highlighting Auto-suggest New run configuration Compatiable with any JetBrains IDE.
+      <description>E# Support This plugin enables full E# Coding support. Features Syntax highlighting Auto-suggest New run configuration Compatiable with any JetBrains IDE.
 
 vendor: Cortlet
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.cortlet.bpls</description>
-      <pubDate>Wed, 22 Oct 2025 11:56:37 GMT</pubDate>
+      <pubDate>Fri, 24 Oct 2025 06:56:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28802-e-</guid>
-      <dc:date>2025-10-22T11:56:37Z</dc:date>
+      <dc:date>2025-10-24T06:56:08Z</dc:date>
     </item>
     <item>
       <title>Spring Transaction Inspector - Thu Oct 23 10:58:39 UTC 2025</title>
@@ -115,7 +154,7 @@ xmlId: com.cortlet.bpls</description>
       <description>Spring Transaction Inspector Catch Spring @Transactional pitfalls before they reach production! This plugin performs static analysis to detect common transaction...
 
 vendor: closeup1202
-downloads: 2
+downloads: 41
 pricingModel: FREE
 xmlId: com.visualize-transaction</description>
       <pubDate>Thu, 23 Oct 2025 10:58:39 GMT</pubDate>
@@ -128,7 +167,7 @@ xmlId: com.visualize-transaction</description>
       <description>Code Achievement System - Gamify Your Coding Journey A professional code statistics and achievement tracking plugin that helps developers quantify their coding...
 
 vendor: 赵铁柱
-downloads: 4
+downloads: 14
 pricingModel: FREE
 xmlId: thoven.achievement.net.idea-plugin-achievement</description>
       <pubDate>Wed, 22 Oct 2025 10:03:09 GMT</pubDate>
@@ -141,7 +180,7 @@ xmlId: thoven.achievement.net.idea-plugin-achievement</description>
       <description>The plugin brings modern, intelligent C and C++ development support.
 
 vendor: JetBrains s.r.o.
-downloads: 3
+downloads: 8
 pricingModel: FREE
 xmlId: org.jetbrains.plugins.clion.radler</description>
       <pubDate>Wed, 22 Oct 2025 13:42:22 GMT</pubDate>
@@ -154,7 +193,7 @@ xmlId: org.jetbrains.plugins.clion.radler</description>
       <description>This plugin enables Google Testing and Mocking Framework test frameworks support in CLion.
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: org.jetbrains.plugins.clion.test.google</description>
       <pubDate>Wed, 22 Oct 2025 10:19:38 GMT</pubDate>
@@ -167,7 +206,7 @@ xmlId: org.jetbrains.plugins.clion.test.google</description>
       <description>This plugin enables Boost.Test test frameworks support in CLion.
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: org.jetbrains.plugins.clion.test.boost</description>
       <pubDate>Wed, 22 Oct 2025 10:18:30 GMT</pubDate>
@@ -180,7 +219,7 @@ xmlId: org.jetbrains.plugins.clion.test.boost</description>
       <description>Provides support for CMake: open CMake projects, edit CMake files with smart assistance, configure and build projects, run and debug targets, and other related...
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.intellij.cmake</description>
       <pubDate>Wed, 22 Oct 2025 10:20:10 GMT</pubDate>
@@ -193,7 +232,7 @@ xmlId: com.intellij.cmake</description>
       <description>Essential plugin for C/C++ development that enhances productivity and code quality. Provides support for multiple toolchains, compilers, and third-party tools.
 
 vendor: JetBrains s.r.o.
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.intellij.clion</description>
       <pubDate>Wed, 22 Oct 2025 10:28:46 GMT</pubDate>
@@ -206,7 +245,7 @@ xmlId: com.intellij.clion</description>
       <description>Provides support for Meson projects in CLion.
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.intellij.clion.meson</description>
       <pubDate>Wed, 22 Oct 2025 10:29:25 GMT</pubDate>
@@ -219,51 +258,12 @@ xmlId: com.intellij.clion.meson</description>
       <description>Provides support for Clang compiler database projects.
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.intellij.clion-compdb</description>
       <pubDate>Wed, 22 Oct 2025 10:33:16 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28800-compilation-database</guid>
       <dc:date>2025-10-22T10:33:16Z</dc:date>
-    </item>
-    <item>
-      <title>Quick Pick Class - Tue Oct 21 12:11:30 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28778-quick-pick-class</link>
-      <description>Quick locate class file in file explorer.
-
-vendor: joeygong
-downloads: 5
-pricingModel: FREE
-xmlId: com.github.joeygong95.quickpickclassjetbrainplugin</description>
-      <pubDate>Tue, 21 Oct 2025 12:11:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28778-quick-pick-class</guid>
-      <dc:date>2025-10-21T12:11:30Z</dc:date>
-    </item>
-    <item>
-      <title>Avalonia Previewer - Tue Oct 21 14:55:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28783-avalonia-previewer</link>
-      <description>Community fork of the Avalonia integration for JetBrains Rider. Adds a live preview for Avalonia XAML files and additional features. Based on the original...
-
-vendor: SuperJMN
-downloads: 26
-pricingModel: FREE
-xmlId: avalonia-previewer</description>
-      <pubDate>Tue, 21 Oct 2025 14:55:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28783-avalonia-previewer</guid>
-      <dc:date>2025-10-21T14:55:37Z</dc:date>
-    </item>
-    <item>
-      <title>Make Targets - Tue Oct 21 13:23:13 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28775-make-targets</link>
-      <description>Quick access to Makefile targets with a convenient dropdown menu in the toolbar. Features Dropdown menu in the toolbar showing all available Makefile targets Displays...
-
-vendor: brainbo
-downloads: 10
-pricingModel: FREE
-xmlId: de.brainbo.make-targets</description>
-      <pubDate>Tue, 21 Oct 2025 13:23:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28775-make-targets</guid>
-      <dc:date>2025-10-21T13:23:13Z</dc:date>
     </item>
   </channel>
 </rss>
