@@ -6,17 +6,43 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>OctoQuery - Sun Oct 26 15:54:47 UTC 2025</title>
+      <title>My Junit Test - Tue Oct 28 03:06:02 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28864-my-junit-test</link>
+      <description>Use the deepseek - ai model to generate corresponding unit tests for the code in the project. The usage method is to select a file in the project, click "Generate Unit...
+
+vendor: Sorcerer
+downloads: 0
+pricingModel: FREE
+xmlId: org.simple.test.my</description>
+      <pubDate>Tue, 28 Oct 2025 03:06:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28864-my-junit-test</guid>
+      <dc:date>2025-10-28T03:06:02Z</dc:date>
+    </item>
+    <item>
+      <title>Quick Serializable Impl - Tue Oct 28 04:41:39 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28839-quick-serializable-impl</link>
+      <description>A plugin that quickly implements the Serializable interface and generates a serialVersionUID for Java classes. Quickly implement the Serializable interface and...
+
+vendor: WUXIN
+downloads: 2
+pricingModel: FREE
+xmlId: org.wx.QuickSerializableImpl</description>
+      <pubDate>Tue, 28 Oct 2025 04:41:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28839-quick-serializable-impl</guid>
+      <dc:date>2025-10-28T04:41:39Z</dc:date>
+    </item>
+    <item>
+      <title>OctoQuery - Tue Oct 28 07:06:05 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28845-octoquery</link>
       <description>OctoQuery is a lightweight IntelliJ plugin that automatically formats SQL queries written inside Spring Data JPA @Query and @NativeQuery annotations. It intelligently...
 
 vendor: Kongkiat
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: me.kongkiat.octoquery</description>
-      <pubDate>Sun, 26 Oct 2025 15:54:47 GMT</pubDate>
+      <pubDate>Tue, 28 Oct 2025 07:06:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28845-octoquery</guid>
-      <dc:date>2025-10-26T15:54:47Z</dc:date>
+      <dc:date>2025-10-28T07:06:05Z</dc:date>
     </item>
     <item>
       <title>kmp-module-generator - Sun Oct 26 04:08:20 UTC 2025</title>
@@ -24,7 +50,7 @@ xmlId: me.kongkiat.octoquery</description>
       <description>A powerful plugin for IntelliJ IDEA and Android Studio that automates Kotlin Multiplatform and Android module creation using customizable FreeMarker templates. Key...
 
 vendor: NonoxyS
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.nonoxys.kmpmodulegenerator</description>
       <pubDate>Sun, 26 Oct 2025 04:08:20 GMT</pubDate>
@@ -37,7 +63,7 @@ xmlId: com.github.nonoxys.kmpmodulegenerator</description>
       <description>Style Generator Templates for Flutter The main goal of this template is to speed up the setup phase for your styles. See style_generator on pub.dev The following...
 
 vendor: YukiAttano
-downloads: 3
+downloads: 4
 pricingModel: FREE
 xmlId: attano.yukiteru.stylegenerator.livetemplates</description>
       <pubDate>Sat, 25 Oct 2025 11:43:34 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: attano.yukiteru.stylegenerator.livetemplates</description>
       <description>AI Javadoc: You Know, for Javaer, Fun Automatically generate high-quality JavaDoc comments for Java projects using AI services. This plugin supports multiple AI...
 
 vendor: dong4j
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: dev.dong4j.zeka.stack.idea.plugin</description>
       <pubDate>Sat, 25 Oct 2025 17:48:45 GMT</pubDate>
@@ -58,17 +84,17 @@ xmlId: dev.dong4j.zeka.stack.idea.plugin</description>
       <dc:date>2025-10-25T17:48:45Z</dc:date>
     </item>
     <item>
-      <title>Todo Inspection - Sun Oct 26 17:12:32 UTC 2025</title>
+      <title>Todo Inspection - Tue Oct 28 06:07:45 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28829-todo-inspection</link>
       <description>Reports TODO/FIXME comments that are missing a Jira ticket reference or that point to a ticket that is closed, resolved, or non-existent.
 
 vendor: frimTEC
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.frimtec.idea-todo-inspection-plugin</description>
-      <pubDate>Sun, 26 Oct 2025 17:12:32 GMT</pubDate>
+      <pubDate>Tue, 28 Oct 2025 06:07:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28829-todo-inspection</guid>
-      <dc:date>2025-10-26T17:12:32Z</dc:date>
+      <dc:date>2025-10-28T06:07:45Z</dc:date>
     </item>
     <item>
       <title>Allay IDE Support - Sun Oct 26 17:02:34 UTC 2025</title>
@@ -76,7 +102,7 @@ xmlId: com.github.frimtec.idea-todo-inspection-plugin</description>
       <description>IntelliJ IDEA plugin that provides support for Allay Gradle Plugin development. Features: Kotlin DSL support for allay {} configuration block Code completion for Allay...
 
 vendor: Allay IDE Plugin
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: miroshka.allayideplugin</description>
       <pubDate>Sun, 26 Oct 2025 17:02:34 GMT</pubDate>
@@ -84,17 +110,17 @@ xmlId: miroshka.allayideplugin</description>
       <dc:date>2025-10-26T17:02:34Z</dc:date>
     </item>
     <item>
-      <title>Icon Tool - Mon Oct 27 06:54:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28826-icon-tool</link>
-      <description>This plugin lets you customize icons in the Project View. You can choose from a small set of built-in icons or use your own. The icons are automatically applied based...
+      <title>DeepSeek AI.Assistant - Tue Oct 28 05:33:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28826-deepseek-ai-assistant</link>
+      <description>This plugin is not just about creating intelligent commit messages using AI technology; it serves as your ultimate programming companion. With its intuitive chat...
 
 vendor: Sorcerer
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: org.code.icon.tool</description>
-      <pubDate>Mon, 27 Oct 2025 06:54:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28826-icon-tool</guid>
-      <dc:date>2025-10-27T06:54:23Z</dc:date>
+      <pubDate>Tue, 28 Oct 2025 05:33:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28826-deepseek-ai-assistant</guid>
+      <dc:date>2025-10-28T05:33:59Z</dc:date>
     </item>
     <item>
       <title>Code Lotus, Native context intelligence with MCP &amp; A2A - Mon Oct 27 11:58:24 UTC 2025</title>
@@ -102,7 +128,7 @@ xmlId: org.code.icon.tool</description>
       <description>AutoDev CodeLotus is a context-intelligence middleware layer designed to serve as the “context brain” for AI-driven coding tools. Rather than being another end-user...
 
 vendor: Phodal Huang
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.phodal.lotus</description>
       <pubDate>Mon, 27 Oct 2025 11:58:24 GMT</pubDate>
@@ -115,7 +141,7 @@ xmlId: com.phodal.lotus</description>
       <description>Quickly create Java files (classes, interfaces, records, enums) with keyboard shortcuts from any context in the editor (as opposed to having a file or package selected...
 
 vendor: Ricardas Faturovas
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: org.ricardasfaturovas.JavaFileCreator</description>
       <pubDate>Fri, 24 Oct 2025 11:45:28 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: com.sabik.runkit</description>
       <description>Testo PHP – is a modern PHP testing library.
 
 vendor: Dmitrii Derepko
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.xepozz.testo</description>
       <pubDate>Sun, 26 Oct 2025 11:43:41 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: com.github.xepozz.testo</description>
       <description>A beautiful modern icon theme for JetBrains IDEs that enhances your development experience with stunning visual aesthetics. Modern Icon Theme - Beautiful Icons for...
 
 vendor: Xingyao
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.modernicons.icon-theme</description>
       <pubDate>Sun, 26 Oct 2025 16:59:57 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: com.modernicons.icon-theme</description>
       <description>Fast Run - Quick Terminal Command Manager Save and execute your favorite terminal commands with a single click! Features: Save Multiple Commands: Store unlimited...
 
 vendor: Fast Run
-downloads: 0
+downloads: 13
 pricingModel: FREE
 xmlId: com.ofirs.fastrun</description>
       <pubDate>Mon, 27 Oct 2025 09:33:29 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: com.ofirs.fastrun</description>
       <description>Gradle Wrapper Mirror Automatically replace Gradle Wrapper distributionUrl with fast domestic mirrors (Aliyun, Tencent, Tsinghua Tuna, or your own URL) when...
 
 vendor: Ace哥
-downloads: 3
+downloads: 12
 pricingModel: FREE
 xmlId: net.ace.grmw</description>
       <pubDate>Sat, 25 Oct 2025 04:13:40 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: net.ace.grmw</description>
       <description>Crypto Price Display Plugin Display real-time cryptocurrency prices directly in your IDE status bar. Features: Real-time price updates Configurable cryptocurrency...
 
 vendor: defimore
-downloads: 12
+downloads: 19
 pricingModel: FREE
 xmlId: com.defimore.crypto-price-plugin</description>
       <pubDate>Fri, 24 Oct 2025 03:13:42 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: com.defimore.crypto-price-plugin</description>
       <description>A comprehensive compliance and security validation plugin for IntelliJ IDEA. AIVory enforces OWASP Top 10 security standards in real-time, detects AI-generated code...
 
 vendor: AIVory, Inc.
-downloads: 15
+downloads: 17
 pricingModel: FREE
 xmlId: com.aivory</description>
       <pubDate>Fri, 24 Oct 2025 08:05:13 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: com.aivory</description>
       <description>Armada Syntax Highlighter annotates additional language tokens for for use by editor color schemes to provide an improved syntax highlighting experience in JetBrains...
 
 vendor: David Septimus
-downloads: 18
+downloads: 58
 pricingModel: FREE
 xmlId: com.github.davidseptimus.armada-syntax-highlighter</description>
       <pubDate>Mon, 20 Oct 2025 23:19:52 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: com.github.davidseptimus.armada-syntax-highlighter</description>
       <description>Station Deploy Tool - A convenient plugin for deploying Station extensions.
 
 vendor: Station
-downloads: 10
+downloads: 45
 pricingModel: FREE
 xmlId: com.stationdm.tool</description>
       <pubDate>Mon, 27 Oct 2025 04:02:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28774-station-deploy-tool</guid>
       <dc:date>2025-10-27T04:02:06Z</dc:date>
-    </item>
-    <item>
-      <title>JAVA_HOME SDK Sync - Wed Oct 22 21:36:31 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28807-java-home-sdk-sync</link>
-      <description>Synchronize your Project SDK with the JAVA_HOME environment variable on project startup. Features: Shows a notification on project startup to sync the Project SDK with...
-
-vendor: ludosch
-downloads: 14
-pricingModel: FREE
-xmlId: com.ludosch.sync-java-home</description>
-      <pubDate>Wed, 22 Oct 2025 21:36:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28807-java-home-sdk-sync</guid>
-      <dc:date>2025-10-22T21:36:31Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek Coder AI - Mon Oct 27 10:53:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28815-deepseek-coder-ai</link>
-      <description>DeepSeek Coder acts as your intelligent coding companion, powered by DeepSeek and other large language models, enabling interaction through the chat window on the...
-
-vendor: DevWand
-downloads: 201
-pricingModel: FREE
-xmlId: ord.dev.code.tool</description>
-      <pubDate>Mon, 27 Oct 2025 10:53:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28815-deepseek-coder-ai</guid>
-      <dc:date>2025-10-27T10:53:34Z</dc:date>
     </item>
   </channel>
 </rss>
