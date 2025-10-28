@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.11.0|[nodejs.org](https://nodejs.org)|Tue Oct 28 20:04:14 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS Current|25.1.0|[nodejs.org](https://nodejs.org)|Tue Oct 28 20:04:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 16:03:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 12:03:31 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 16:03:21 UTC 2025|
@@ -8,8 +10,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 00:05:25 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|3.5.7.RELEASE|[start.spring.io](https://start.spring.io)|Thu Oct 23 16:03:57 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.27864.23) ~ 2025-10-22|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 22 20:03:02 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|22.21.0|[nodejs.org](https://nodejs.org)|Tue Oct 21 00:07:11 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS Current|25.0.0|[nodejs.org](https://nodejs.org)|Wed Oct 15 20:03:29 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.25.3|[golang.org](https://golang.org/dl/)|Tue Oct 14 00:05:55 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.0|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 07 16:03:17 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 07 16:03:16 UTC 2025|
