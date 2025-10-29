@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.11.0|[nodejs.org](https://nodejs.org)|Tue Oct 28 20:04:14 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.1.0|[nodejs.org](https://nodejs.org)|Tue Oct 28 20:04:14 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.11.0|[nodejs.org](https://nodejs.org)|Tue Oct 28 20:04:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 16:03:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 12:03:31 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 16:03:21 UTC 2025|
