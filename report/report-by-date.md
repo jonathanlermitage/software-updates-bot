@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 30 04:02:53 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.2.0|[gradle.org](https://gradle.org/releases/)|Thu Oct 30 00:06:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 29 12:03:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 29 04:06:10 UTC 2025|
@@ -25,7 +26,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:03:17 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:03:17 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Jul 29 00:07:03 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Sun Jul 27 00:07:28 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 24 00:06:40 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 23 00:06:37 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 23 00:06:35 UTC 2025|

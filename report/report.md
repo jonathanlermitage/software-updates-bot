@@ -15,7 +15,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 29 12:03:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 16:03:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Jul 29 00:07:03 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Sun Jul 27 00:07:28 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 30 04:02:53 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 16:02:37 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.25.3|[golang.org](https://golang.org/dl/)|Tue Oct 14 00:05:55 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.2.0|[gradle.org](https://gradle.org/releases/)|Thu Oct 30 00:06:34 UTC 2025|
