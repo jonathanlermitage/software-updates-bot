@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>akari-bot-dev - Thu Oct 30 15:41:13 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28884-akari-bot-dev</link>
+      <description>This plugin is designed to provide convenient functionality for developing modules for Akari Bot, and is suitable for the Pycharm platform. 本插件旨在为 Akari Bot...
+
+vendor: Teahouse Studios
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.teahousestudios.akaribot.dev</description>
+      <pubDate>Thu, 30 Oct 2025 15:41:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28884-akari-bot-dev</guid>
+      <dc:date>2025-10-30T15:41:13Z</dc:date>
+    </item>
+    <item>
+      <title>SmartDoc - Thu Oct 30 17:53:11 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28786-smartdoc</link>
+      <description>SmartDoc plugin acts as an AI agent responsible for method document update. For each given method, it receives the request (from right click within method area and...
+
+vendor: Vahid Etemadi
+downloads: 0
+pricingModel: FREE
+xmlId: com.vahid.plugin.SmartDoc</description>
+      <pubDate>Thu, 30 Oct 2025 17:53:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28786-smartdoc</guid>
+      <dc:date>2025-10-30T17:53:11Z</dc:date>
+    </item>
+    <item>
       <title>MyBatis Utils - Wed Oct 29 06:07:41 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28870-mybatis-utils</link>
       <description>Refresh MyBatis XML binding, obtain method-bound XML information, and collect executed SQL, with XML parameter hints and auto-completion for if, foreach. Quick Start...
@@ -238,32 +264,6 @@ xmlId: dev.dong4j.zeka.stack.idea.plugin</description>
       <pubDate>Thu, 30 Oct 2025 10:07:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28835-ai-javadoc</guid>
       <dc:date>2025-10-30T10:07:53Z</dc:date>
-    </item>
-    <item>
-      <title>Todo Inspection - Wed Oct 29 17:38:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28829-todo-inspection</link>
-      <description>Reports TODO/FIXME comments that are missing a Jira ticket reference or that point to a ticket that is closed, resolved, or non-existent.
-
-vendor: frimTEC
-downloads: 292
-pricingModel: FREE
-xmlId: com.github.frimtec.idea-todo-inspection-plugin</description>
-      <pubDate>Wed, 29 Oct 2025 17:38:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28829-todo-inspection</guid>
-      <dc:date>2025-10-29T17:38:55Z</dc:date>
-    </item>
-    <item>
-      <title>Allay IDE Support - Sun Oct 26 17:02:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28848-allay-ide-support</link>
-      <description>IntelliJ IDEA plugin that provides support for Allay Gradle Plugin development. Features: Kotlin DSL support for allay {} configuration block Code completion for Allay...
-
-vendor: Allay IDE Plugin
-downloads: 5
-pricingModel: FREE
-xmlId: miroshka.allayideplugin</description>
-      <pubDate>Sun, 26 Oct 2025 17:02:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28848-allay-ide-support</guid>
-      <dc:date>2025-10-26T17:02:34Z</dc:date>
     </item>
   </channel>
 </rss>
