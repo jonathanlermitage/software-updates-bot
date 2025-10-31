@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AngelScript for Unreal - Thu Oct 30 14:27:53 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28888-angelscript-for-unreal</link>
+      <description>This fork provides AngelScript language support tailored for Unreal Engine projects, powered by lsp4ij. It leverages the Unreal AngelScript Language Server to provide...
+
+vendor: api.haus
+downloads: 0
+pricingModel: FREE
+xmlId: api.haus.unreal-angelscript</description>
+      <pubDate>Thu, 30 Oct 2025 14:27:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28888-angelscript-for-unreal</guid>
+      <dc:date>2025-10-30T14:27:53Z</dc:date>
+    </item>
+    <item>
+      <title>Json Simple - Thu Oct 30 06:15:30 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28881-json-simple</link>
+      <description>JSON Simple Plugin based on IntelliJ IDEs. It makes JSON processing a breeze! With advanced features such as JSON validation, beautification, and conversion between...
+
+vendor: Sorcerer
+downloads: 0
+pricingModel: FREE
+xmlId: com.json.simple.kit</description>
+      <pubDate>Thu, 30 Oct 2025 06:15:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28881-json-simple</guid>
+      <dc:date>2025-10-30T06:15:30Z</dc:date>
+    </item>
+    <item>
       <title>akari-bot-dev - Thu Oct 30 15:41:13 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28884-akari-bot-dev</link>
       <description>This plugin is designed to provide convenient functionality for developing modules for Akari Bot, and is suitable for the Pycharm platform. 本插件旨在为 Akari Bot...
@@ -188,7 +214,7 @@ xmlId: com.github.jawehrung.terminalsnippets</description>
       <dc:date>2025-10-28T19:02:51Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek AI Coding - Tue Oct 28 03:06:02 UTC 2025</title>
+      <title>DeepSeek AI Coding - Wed Oct 29 03:11:10 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28864-deepseek-ai-coding</link>
       <description>DeepSeek AI Coding acts as your coding companion, enabling you to interact via the chat window on the right. This plugin leverages AI technology to automatically...
 
@@ -196,9 +222,9 @@ vendor: Sorcerer
 downloads: 20
 pricingModel: FREE
 xmlId: org.simple.test.my</description>
-      <pubDate>Tue, 28 Oct 2025 03:06:02 GMT</pubDate>
+      <pubDate>Wed, 29 Oct 2025 03:11:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28864-deepseek-ai-coding</guid>
-      <dc:date>2025-10-28T03:06:02Z</dc:date>
+      <dc:date>2025-10-29T03:11:10Z</dc:date>
     </item>
     <item>
       <title>Quick Serializable Impl - Tue Oct 28 04:41:39 UTC 2025</title>
@@ -238,32 +264,6 @@ xmlId: com.github.nonoxys.kmpmodulegenerator</description>
       <pubDate>Sun, 26 Oct 2025 04:08:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28838-kmp-module-generator</guid>
       <dc:date>2025-10-26T04:08:20Z</dc:date>
-    </item>
-    <item>
-      <title>Style Generator Templates for Flutter - Sat Oct 25 11:43:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28833-style-generator-templates-for-flutter</link>
-      <description>Style Generator Templates for Flutter The main goal of this template is to speed up the setup phase for your styles. See style_generator on pub.dev The following...
-
-vendor: YukiAttano
-downloads: 11
-pricingModel: FREE
-xmlId: attano.yukiteru.stylegenerator.livetemplates</description>
-      <pubDate>Sat, 25 Oct 2025 11:43:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28833-style-generator-templates-for-flutter</guid>
-      <dc:date>2025-10-25T11:43:34Z</dc:date>
-    </item>
-    <item>
-      <title>AI Javadoc - Thu Oct 30 10:07:53 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28835-ai-javadoc</link>
-      <description>Website | GitHub | Issues | Help AI Javadoc: You Know, for Javaer, Fun Automatically generate high-quality JavaDoc comments for Java projects using AI services. This...
-
-vendor: dong4j
-downloads: 25
-pricingModel: FREE
-xmlId: dev.dong4j.zeka.stack.idea.plugin</description>
-      <pubDate>Thu, 30 Oct 2025 10:07:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28835-ai-javadoc</guid>
-      <dc:date>2025-10-30T10:07:53Z</dc:date>
     </item>
   </channel>
 </rss>
