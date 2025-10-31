@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Gerry Keymap - Fri Oct 31 07:19:51 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28892-gerry-keymap</link>
+      <description>Gerry's custom keymap. Keymap: Show setting: Alt+S Select current file: Alt+C Find in project: Alt+F Replace in project: Alt+R Paste multiple: Alt+V Toggle column...
+
+vendor: Gerry
+downloads: 0
+pricingModel: FREE
+xmlId: com.gerry.keymap</description>
+      <pubDate>Fri, 31 Oct 2025 07:19:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28892-gerry-keymap</guid>
+      <dc:date>2025-10-31T07:19:51Z</dc:date>
+    </item>
+    <item>
       <title>Json Simple - Thu Oct 30 06:15:30 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28881-json-simple</link>
       <description>JSON Simple Plugin based on IntelliJ IDEs. It makes JSON processing a breeze! With advanced features such as JSON validation, beautification, and conversion between...
 
 vendor: Sorcerer
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.json.simple.kit</description>
       <pubDate>Thu, 30 Oct 2025 06:15:30 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: com.json.simple.kit</description>
       <description>This plugin is designed to provide convenient functionality for developing modules for Akari Bot, and is suitable for the Pycharm platform. 本插件旨在为 Akari Bot...
 
 vendor: Teahouse Studios
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.teahousestudios.akaribot.dev</description>
       <pubDate>Thu, 30 Oct 2025 15:41:13 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.github.teahousestudios.akaribot.dev</description>
       <description>SmartDoc plugin acts as an AI agent responsible for method document update. For each given method, it receives the request (from right click within method area and...
 
 vendor: Vahid Etemadi
-downloads: 0
+downloads: 14
 pricingModel: FREE
 xmlId: com.vahid.plugin.SmartDoc</description>
       <pubDate>Thu, 30 Oct 2025 17:53:11 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.vahid.plugin.SmartDoc</description>
       <description>Refresh MyBatis XML binding, obtain method-bound XML information, and collect executed SQL, with XML parameter hints and auto-completion for if, foreach. Quick Start...
 
 vendor: wwsbdy
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.zj.mybatis-utils</description>
       <pubDate>Wed, 29 Oct 2025 06:07:41 GMT</pubDate>
@@ -58,17 +71,17 @@ xmlId: com.zj.mybatis-utils</description>
       <dc:date>2025-10-29T06:07:41Z</dc:date>
     </item>
     <item>
-      <title>UTPromptHelper - Sun Oct 26 10:23:45 UTC 2025</title>
+      <title>UTPromptHelper - Fri Oct 31 07:47:48 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28735-utprompthelper</link>
       <description>UTPromptHelper - Smart Unit Test Prompt Generator UTPromptHelper is a powerful IntelliJ IDEA plugin designed to automatically generate high-quality unit test prompts...
 
 vendor: bowen
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.ut.prompt.UTPromptHelper</description>
-      <pubDate>Sun, 26 Oct 2025 10:23:45 GMT</pubDate>
+      <pubDate>Fri, 31 Oct 2025 07:47:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28735-utprompthelper</guid>
-      <dc:date>2025-10-26T10:23:45Z</dc:date>
+      <dc:date>2025-10-31T07:47:48Z</dc:date>
     </item>
     <item>
       <title>AndroidLocalizePlus - Wed Oct 29 15:46:14 UTC 2025</title>
@@ -76,7 +89,7 @@ xmlId: com.ut.prompt.UTPromptHelper</description>
       <description>Website | GitHub | Issues | Reviews Android/KMP(Kotlin Multiplatform) localization plugin. supports multiple languages and multiple translators. Features Multiple...
 
 vendor: NTMSoftware
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.ntm.androidlocalizeplus</description>
       <pubDate>Wed, 29 Oct 2025 15:46:14 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.ntm.androidlocalizeplus</description>
       <description>Smart Editor Switcher - Intelligent Editor Switching Tool A professional editor switching plugin that enables seamless transitions between JetBrains IDE and other...
 
 vendor: Smart Editor Switcher
-downloads: 0
+downloads: 16
 pricingModel: FREE
 xmlId: io.yanxxcloud.editorswitcher</description>
       <pubDate>Thu, 30 Oct 2025 01:45:29 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: io.yanxxcloud.editorswitcher</description>
       <description>Translate AI is an IntelliJ IDEA plugin that provides developers with convenient code translate functionality. This plugin understands and converts terminology...
 
 vendor: DevWand
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.my.code.tools</description>
       <pubDate>Mon, 27 Oct 2025 10:57:16 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.my.code.tools</description>
       <description>Language Server Protocol support for RON (Rust Object Notation) files. Features: Type validation based on Rust struct/enum definitions Intelligent code completion for...
 
 vendor: Jason McGhee
-downloads: 20
+downloads: 28
 pricingModel: FREE
 xmlId: today.jason.ron-lsp-intellij</description>
       <pubDate>Wed, 29 Oct 2025 04:39:36 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: today.jason.ron-lsp-intellij</description>
       <description>NF-e Tools is an IntelliJ plugin that helps developers create and validate Brazilian NF-e keys. Features: Generate random NF-e keys. Create NF-e keys using CNPJ and...
 
 vendor: josecjuniors
-downloads: 16
+downloads: 17
 pricingModel: FREE
 xmlId: com.josecjuniors.NF-e-Tools</description>
       <pubDate>Mon, 27 Oct 2025 23:29:54 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.josecjuniors.NF-e-Tools</description>
       <description>AI Translate Variable — A smart naming translator for developers. AI Translate Variable — 智能变量命名翻译助手 &#x1f525; 中文说明： 中文变量？按 Alt+P 秒变英文！ 一键将中文变量名、函数名翻译成地道英文命名，让命名规范又自然...
 
 vendor: LEON X
-downloads: 41
+downloads: 44
 pricingModel: FREE
 xmlId: com.leon.aiTranslateVar</description>
       <pubDate>Tue, 28 Oct 2025 09:35:48 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: com.leon.aiTranslateVar</description>
       <description>Provide meaningfully (and navigable) Structure View for gradle.build Groovy files, instead of default empty one.
 
 vendor: Artsiom Chapialiou
-downloads: 86
+downloads: 87
 pricingModel: FREE
 xmlId: artsiom.chapialiou.gradle.build.structure.view</description>
       <pubDate>Tue, 28 Oct 2025 11:06:13 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: artsiom.chapialiou.gradle.build.structure.view</description>
       <description>What is GitHub Copilot app modernization?GitHub Copilot app modernization is an AI assistant that helps you modernize your app faster, with streamline end-to-end...
 
 vendor: Microsoft Corporation
-downloads: 241
+downloads: 353
 pricingModel: FREE
 xmlId: com.github.copilot.appmod</description>
       <pubDate>Thu, 30 Oct 2025 14:11:10 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.github.copilot.appmod</description>
       <description>Lenter - AI-Powered Code Documentation &amp;amp; Bug Reporting Automate routine developer tasks: generate KDoc comments and create formatted Jira bug reports directly from...
 
 vendor: The Boring Developers
-downloads: 29
+downloads: 49
 pricingModel: FREE
 xmlId: com.theboringdevelopers.commentator</description>
       <pubDate>Thu, 30 Oct 2025 15:54:44 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.theboringdevelopers.commentator</description>
       <description>Terminal Snippets is an plugin that allows you to quickly inject predefined command snippets into the terminal. Features &#x1f680; Quick access to frequently used terminal...
 
 vendor: jawehrung
-downloads: 38
+downloads: 40
 pricingModel: FREE
 xmlId: com.github.jawehrung.terminalsnippets</description>
       <pubDate>Tue, 28 Oct 2025 19:02:51 GMT</pubDate>
@@ -201,17 +214,17 @@ xmlId: com.github.jawehrung.terminalsnippets</description>
       <dc:date>2025-10-28T19:02:51Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek AI Coding - Wed Oct 29 03:11:10 UTC 2025</title>
+      <title>DeepSeek AI Coding - Fri Oct 31 07:16:54 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28864-deepseek-ai-coding</link>
-      <description>DeepSeek AI Coding acts as your coding companion, enabling you to interact via the chat window on the right. This plugin leverages AI technology to automatically...
+      <description>DeepSeek Coding acts as your coding companion, enabling you to interact via the chat window on the right. This plugin leverages AI technology to automatically generate...
 
 vendor: Sorcerer
-downloads: 20
+downloads: 28
 pricingModel: FREE
 xmlId: org.simple.test.my</description>
-      <pubDate>Wed, 29 Oct 2025 03:11:10 GMT</pubDate>
+      <pubDate>Fri, 31 Oct 2025 07:16:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28864-deepseek-ai-coding</guid>
-      <dc:date>2025-10-29T03:11:10Z</dc:date>
+      <dc:date>2025-10-31T07:16:54Z</dc:date>
     </item>
     <item>
       <title>Quick Serializable Impl - Tue Oct 28 04:41:39 UTC 2025</title>
@@ -219,7 +232,7 @@ xmlId: org.simple.test.my</description>
       <description>A plugin that quickly implements the Serializable interface and generates a serialVersionUID for Java classes. Quickly implement the Serializable interface and...
 
 vendor: WUXIN
-downloads: 20
+downloads: 24
 pricingModel: FREE
 xmlId: org.wx.QuickSerializableImpl</description>
       <pubDate>Tue, 28 Oct 2025 04:41:39 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: org.wx.QuickSerializableImpl</description>
       <description>OctoQuery is the ultimate SQL companion for Spring Data JPA developers. This intelligent IntelliJ plugin automatically formats your SQL queries and even generates Java...
 
 vendor: Kongkiat
-downloads: 27
+downloads: 34
 pricingModel: FREE
 xmlId: me.kongkiat.octoquery</description>
       <pubDate>Wed, 29 Oct 2025 08:56:28 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: me.kongkiat.octoquery</description>
       <description>A powerful plugin for IntelliJ IDEA and Android Studio that automates Kotlin Multiplatform and Android module creation using customizable FreeMarker templates. Key...
 
 vendor: NonoxyS
-downloads: 19
+downloads: 23
 pricingModel: FREE
 xmlId: com.github.nonoxys.kmpmodulegenerator</description>
       <pubDate>Sun, 26 Oct 2025 04:08:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28838-kmp-module-generator</guid>
       <dc:date>2025-10-26T04:08:20Z</dc:date>
-    </item>
-    <item>
-      <title>Style Generator Templates for Flutter - Sat Oct 25 11:43:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28833-style-generator-templates-for-flutter</link>
-      <description>Style Generator Templates for Flutter The main goal of this template is to speed up the setup phase for your styles. See style_generator on pub.dev The following...
-
-vendor: YukiAttano
-downloads: 11
-pricingModel: FREE
-xmlId: attano.yukiteru.stylegenerator.livetemplates</description>
-      <pubDate>Sat, 25 Oct 2025 11:43:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28833-style-generator-templates-for-flutter</guid>
-      <dc:date>2025-10-25T11:43:34Z</dc:date>
     </item>
   </channel>
 </rss>
