@@ -22,7 +22,7 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.27864.23) ~ 2025-10-22|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Oct 22 20:03:02 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.4 (252.27397.103) ~ 2025-10-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Oct 24 04:04:01 UTC 2025|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.2.0 to 19.2.5 ~ 2025-10-01|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Oct 01 20:03:03 UTC 2025|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.2.5 to 19.3.0 ~ 2025-10-31|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Oct 31 20:03:15 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 330 - Nano banana l'AI de Julia|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 15 12:03:37 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-4|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Jun 26 08:03:36 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.1.0|[nodejs.org](https://nodejs.org)|Tue Oct 28 20:04:14 UTC 2025|
