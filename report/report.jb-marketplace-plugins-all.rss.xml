@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Snapshot Html Preview Viewer - Thu Oct 30 09:19:43 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28828-snapshot-html-preview-viewer</link>
+      <description>Snap Preview Plugin allows developers to open and preview `.snap` files directly within the JetBrains Rider editor as rendered HTML. Ideal for teams working with...
+
+vendor: Borja Salamanca
+downloads: 4
+pricingModel: FREE
+xmlId: com.bsg.snapviewer.SnapshotPreviewPlugin</description>
+      <pubDate>Thu, 30 Oct 2025 09:19:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28828-snapshot-html-preview-viewer</guid>
+      <dc:date>2025-10-30T09:19:43Z</dc:date>
+    </item>
+    <item>
+      <title>Cursor Opener - Fri Oct 31 00:01:14 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28891-cursor-opener</link>
+      <description>A plugin to quickly open the current file in Cursor editor at the same line number. Simply use the configured hotkey (default: Ctrl+Shift+P / Cmd+Shift+P) to open the...
+
+vendor: Mykola Yatsenko
+downloads: 0
+pricingModel: FREE
+xmlId: com.air.cursor.opener</description>
+      <pubDate>Fri, 31 Oct 2025 00:01:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28891-cursor-opener</guid>
+      <dc:date>2025-10-31T00:01:14Z</dc:date>
+    </item>
+    <item>
       <title>Gerry Keymap - Fri Oct 31 07:19:51 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28892-gerry-keymap</link>
       <description>Gerry's custom keymap. Keymap: Show setting: Alt+S Select current file: Alt+C Find in project: Alt+F Replace in project: Alt+R Paste multiple: Alt+V Toggle column...
@@ -45,7 +71,7 @@ xmlId: com.github.teahousestudios.akaribot.dev</description>
       <dc:date>2025-10-30T15:41:13Z</dc:date>
     </item>
     <item>
-      <title>SmartDoc - Thu Oct 30 17:53:11 UTC 2025</title>
+      <title>SmartDoc - Fri Oct 31 10:32:08 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28786-smartdoc</link>
       <description>SmartDoc plugin acts as an AI agent responsible for method document update. For each given method, it receives the request (from right click within method area and...
 
@@ -53,9 +79,9 @@ vendor: Vahid Etemadi
 downloads: 14
 pricingModel: FREE
 xmlId: com.vahid.plugin.SmartDoc</description>
-      <pubDate>Thu, 30 Oct 2025 17:53:11 GMT</pubDate>
+      <pubDate>Fri, 31 Oct 2025 10:32:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28786-smartdoc</guid>
-      <dc:date>2025-10-30T17:53:11Z</dc:date>
+      <dc:date>2025-10-31T10:32:08Z</dc:date>
     </item>
     <item>
       <title>MyBatis Utils - Wed Oct 29 06:07:41 UTC 2025</title>
@@ -214,7 +240,7 @@ xmlId: com.github.jawehrung.terminalsnippets</description>
       <dc:date>2025-10-28T19:02:51Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek AI Coding - Fri Oct 31 07:16:54 UTC 2025</title>
+      <title>DeepSeek AI Coding - Fri Oct 31 09:04:23 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28864-deepseek-ai-coding</link>
       <description>DeepSeek Coding acts as your coding companion, enabling you to interact via the chat window on the right. This plugin leverages AI technology to automatically generate...
 
@@ -222,9 +248,9 @@ vendor: Sorcerer
 downloads: 28
 pricingModel: FREE
 xmlId: org.simple.test.my</description>
-      <pubDate>Fri, 31 Oct 2025 07:16:54 GMT</pubDate>
+      <pubDate>Fri, 31 Oct 2025 09:04:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28864-deepseek-ai-coding</guid>
-      <dc:date>2025-10-31T07:16:54Z</dc:date>
+      <dc:date>2025-10-31T09:04:23Z</dc:date>
     </item>
     <item>
       <title>Quick Serializable Impl - Tue Oct 28 04:41:39 UTC 2025</title>
@@ -238,32 +264,6 @@ xmlId: org.wx.QuickSerializableImpl</description>
       <pubDate>Tue, 28 Oct 2025 04:41:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28839-quick-serializable-impl</guid>
       <dc:date>2025-10-28T04:41:39Z</dc:date>
-    </item>
-    <item>
-      <title>OctoQuery - Wed Oct 29 08:56:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28845-octoquery</link>
-      <description>OctoQuery is the ultimate SQL companion for Spring Data JPA developers. This intelligent IntelliJ plugin automatically formats your SQL queries and even generates Java...
-
-vendor: Kongkiat
-downloads: 34
-pricingModel: FREE
-xmlId: me.kongkiat.octoquery</description>
-      <pubDate>Wed, 29 Oct 2025 08:56:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28845-octoquery</guid>
-      <dc:date>2025-10-29T08:56:28Z</dc:date>
-    </item>
-    <item>
-      <title>kmp-module-generator - Sun Oct 26 04:08:20 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28838-kmp-module-generator</link>
-      <description>A powerful plugin for IntelliJ IDEA and Android Studio that automates Kotlin Multiplatform and Android module creation using customizable FreeMarker templates. Key...
-
-vendor: NonoxyS
-downloads: 23
-pricingModel: FREE
-xmlId: com.github.nonoxys.kmpmodulegenerator</description>
-      <pubDate>Sun, 26 Oct 2025 04:08:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28838-kmp-module-generator</guid>
-      <dc:date>2025-10-26T04:08:20Z</dc:date>
     </item>
   </channel>
 </rss>
