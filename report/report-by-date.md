@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Nov 01 16:03:04 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.2.5 to 19.3.0 ~ 2025-10-31|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Oct 31 20:03:15 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.9+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 31 00:06:20 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 31 00:06:19 UTC 2025|
@@ -28,7 +29,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:03:17 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 14 16:03:17 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u462-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Jul 29 00:07:03 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 24 00:06:40 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.28+6|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jul 19 00:06:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.8+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 17 20:02:42 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.16+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 17 20:02:41 UTC 2025|
