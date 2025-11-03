@@ -5,5 +5,18 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>C/C++ Package Manager - Mon Nov 03 09:41:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28914-c-c--package-manager</link>
+      <description>Provides integration with the vcpkg package manager: UI for working with vcpkg packages, quick-fixes for adding the missing packages automatically.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.jetbrains.clion.plugins.packageManager</description>
+      <pubDate>Mon, 03 Nov 2025 09:41:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28914-c-c--package-manager</guid>
+      <dc:date>2025-11-03T09:41:59Z</dc:date>
+    </item>
   </channel>
 </rss>

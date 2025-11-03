@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>APIneer - Mon Nov 03 13:26:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28871-apineer</link>
+      <description>Scans Java projects for REST API endpoints and provides quick testing capabilities. Features: Automatically discovers REST endpoints from Spring Boot and JAX-RS...
+
+vendor: Prakhar Rathi
+downloads: 2
+pricingModel: FREE
+xmlId: rathi.prakhar.apineer</description>
+      <pubDate>Mon, 03 Nov 2025 13:26:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28871-apineer</guid>
+      <dc:date>2025-11-03T13:26:35Z</dc:date>
+    </item>
+    <item>
+      <title>ADB Menu - Mon Nov 03 07:45:21 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28868-adb-menu</link>
+      <description>Original Plugin Link: https://github.com/pbreault/adb-idea Adds the following ADB commands to Android Studio and Intellij: ADB Uninstall App ADB Kill App ADB Start App...
+
+vendor: Raghav Satyadev
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.raghavsatyadev.adbidea</description>
+      <pubDate>Mon, 03 Nov 2025 07:45:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28868-adb-menu</guid>
+      <dc:date>2025-11-03T07:45:21Z</dc:date>
+    </item>
+    <item>
+      <title>C/C++ Package Manager - Mon Nov 03 09:41:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28914-c-c--package-manager</link>
+      <description>Provides integration with the vcpkg package manager: UI for working with vcpkg packages, quick-fixes for adding the missing packages automatically.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.jetbrains.clion.plugins.packageManager</description>
+      <pubDate>Mon, 03 Nov 2025 09:41:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28914-c-c--package-manager</guid>
+      <dc:date>2025-11-03T09:41:59Z</dc:date>
+    </item>
+    <item>
       <title>AutoShowDoc - Wed Oct 29 08:15:46 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28268-autoshowdoc</link>
       <description>English: AutoShowDoc is a plugin that automatically generates API documentation from your Java controller methods and exports them to RunApi platforms. 中文...
@@ -225,45 +264,6 @@ xmlId: com.leon.aiTranslateVar</description>
       <pubDate>Tue, 28 Oct 2025 09:35:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28865-ai-translate-variable</guid>
       <dc:date>2025-10-28T09:35:48Z</dc:date>
-    </item>
-    <item>
-      <title>gradle.build Structure View - Tue Oct 28 11:06:13 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28850-gradle-build-structure-view</link>
-      <description>Provide meaningfully (and navigable) Structure View for gradle.build Groovy files, instead of default empty one.
-
-vendor: Artsiom Chapialiou
-downloads: 88
-pricingModel: FREE
-xmlId: artsiom.chapialiou.gradle.build.structure.view</description>
-      <pubDate>Tue, 28 Oct 2025 11:06:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28850-gradle-build-structure-view</guid>
-      <dc:date>2025-10-28T11:06:13Z</dc:date>
-    </item>
-    <item>
-      <title>GitHub Copilot app modernization - Thu Oct 30 14:11:10 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28791-github-copilot-app-modernization</link>
-      <description>What is GitHub Copilot app modernization?GitHub Copilot app modernization is an AI assistant that helps you modernize your app faster, with streamline end-to-end...
-
-vendor: Microsoft Corporation
-downloads: 466
-pricingModel: FREE
-xmlId: com.github.copilot.appmod</description>
-      <pubDate>Thu, 30 Oct 2025 14:11:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28791-github-copilot-app-modernization</guid>
-      <dc:date>2025-10-30T14:11:10Z</dc:date>
-    </item>
-    <item>
-      <title>Lenter - Thu Oct 30 15:54:44 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28860-lenter</link>
-      <description>Lenter - AI-Powered Code Documentation &amp;amp; Bug Reporting Automate routine developer tasks: generate KDoc comments and create formatted Jira bug reports directly from...
-
-vendor: The Boring Developers
-downloads: 56
-pricingModel: FREE
-xmlId: com.theboringdevelopers.commentator</description>
-      <pubDate>Thu, 30 Oct 2025 15:54:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28860-lenter</guid>
-      <dc:date>2025-10-30T15:54:44Z</dc:date>
     </item>
   </channel>
 </rss>
