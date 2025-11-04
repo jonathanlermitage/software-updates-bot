@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Compose Stability Analyzer - Tue Nov 04 11:33:41 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28767-compose-stability-analyzer</link>
+      <description>Developer: skydoves (Jaewoong Eum) Provides real-time stability analysis for Jetpack Compose functions directly in the IDE. Features: Hover Tooltips: See detailed...
+
+vendor: skydoves
+downloads: 0
+pricingModel: FREE
+xmlId: com.skydoves.compose.stability.analyzer.idea</description>
+      <pubDate>Tue, 04 Nov 2025 11:33:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28767-compose-stability-analyzer</guid>
+      <dc:date>2025-11-04T11:33:41Z</dc:date>
+    </item>
+    <item>
+      <title>PHP String Field - Tue Nov 04 01:12:14 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28920-php-string-field</link>
+      <description>PHP String Field is a PhpStorm plugin that adds navigation and reference support for string parameters, Including nested fields accessed via dot notation...
+
+vendor: Re7r
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.re7r.phpStringField</description>
+      <pubDate>Tue, 04 Nov 2025 01:12:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28920-php-string-field</guid>
+      <dc:date>2025-11-04T01:12:14Z</dc:date>
+    </item>
+    <item>
+      <title>SnapshotDB - Mon Nov 03 21:14:48 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28918-snapshotdb</link>
+      <description>SnapshotDB – see what really changed in your database New project, unfamiliar system, and you want to understand what happens in the database after a certain action...
+
+vendor: Michał Zimka
+downloads: 0
+pricingModel: FREE
+xmlId: pl.michalzimka.snapshotdb</description>
+      <pubDate>Mon, 03 Nov 2025 21:14:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28918-snapshotdb</guid>
+      <dc:date>2025-11-03T21:14:48Z</dc:date>
+    </item>
+    <item>
+      <title>TNG Test Generator - Tue Nov 04 00:46:47 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28919-tng-test-generator</link>
+      <description>An IntelliJ IDEA plugin for generating tests using TNG. Supports Ruby (Rails), Go, Python, TypeScript, and JavaScript projects. Generate tests directly from your...
+
+vendor: tng.sh
+downloads: 0
+pricingModel: FREE
+xmlId: sh.tng.intellij-plugin</description>
+      <pubDate>Tue, 04 Nov 2025 00:46:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28919-tng-test-generator</guid>
+      <dc:date>2025-11-04T00:46:47Z</dc:date>
+    </item>
+    <item>
       <title>Blackbox - Mon Nov 03 19:36:57 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28902-blackbox</link>
       <description>Blackbox AI Agent AI-powered coding assistant for intelligent code generation, analysis, and problem-solving.
@@ -175,7 +227,7 @@ xmlId: com.adapts.ChatPlugin</description>
       <dc:date>2025-10-31T16:04:57Z</dc:date>
     </item>
     <item>
-      <title>GradleArtisan - Fri Oct 31 23:12:26 UTC 2025</title>
+      <title>GradleArtisan - Tue Nov 04 15:45:46 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28877-gradleartisan</link>
       <description>Gradle Artisan A powerful tool window for Android and Gradle developers designed to streamline task management. Gradle Artisan simplifies running, favoriting, and...
 
@@ -183,21 +235,21 @@ vendor: umut cansu
 downloads: 11
 pricingModel: FREE
 xmlId: io.github.umutcansu.GradleArtisan</description>
-      <pubDate>Fri, 31 Oct 2025 23:12:26 GMT</pubDate>
+      <pubDate>Tue, 04 Nov 2025 15:45:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28877-gradleartisan</guid>
-      <dc:date>2025-10-31T23:12:26Z</dc:date>
+      <dc:date>2025-11-04T15:45:46Z</dc:date>
     </item>
     <item>
-      <title>AWS CodeCost - Sat Nov 01 20:04:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28905-aws-codecost</link>
-      <description>AWS CodeCost - Free Edition ML-powered AWS cost estimation for Python &amp;amp; Java projects. ✨ Features: Smart Code Analysis - Detects AWS services (Lambda, S3...
+      <title>AWS CodeCost Analyzer - Sat Nov 01 20:04:55 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28905-aws-codecost-analyzer</link>
+      <description>AWS CodeCost ML-powered AWS cost estimation for Python &amp;amp; Java projects. Features: Smart Code Analysis - Detects AWS services (Lambda, S3, DynamoDB, EC2) ML Cost...
 
 vendor: Sayimpu
 downloads: 1
 pricingModel: FREE
 xmlId: com.aws.codecost</description>
       <pubDate>Sat, 01 Nov 2025 20:04:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28905-aws-codecost</guid>
+      <guid>https://plugins.jetbrains.com/plugin/28905-aws-codecost-analyzer</guid>
       <dc:date>2025-11-01T20:04:55Z</dc:date>
     </item>
     <item>
@@ -212,58 +264,6 @@ xmlId: ai.minedb.nebula</description>
       <pubDate>Mon, 03 Nov 2025 14:21:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28909-minedb</guid>
       <dc:date>2025-11-03T14:21:49Z</dc:date>
-    </item>
-    <item>
-      <title>Magicka - Mon Nov 03 10:06:25 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28887-magicka</link>
-      <description>Magicka plugin for JetBrains IDEs, providing shader code generation and text processing tools for visual effects development.
-
-vendor: kwai
-downloads: 1
-pricingModel: FREE
-xmlId: com.kwai.magicka</description>
-      <pubDate>Mon, 03 Nov 2025 10:06:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28887-magicka</guid>
-      <dc:date>2025-11-03T10:06:25Z</dc:date>
-    </item>
-    <item>
-      <title>WPSP Helper - Tue Oct 28 05:47:49 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28841-wpsp-helper</link>
-      <description>WPSP Helper helps you navigate and suggest routes in the WPSP framework accurately and extremely quickly. Perfect support for WordPress plugin building projects using...
-
-vendor: OCEANCODEX
-downloads: 4
-pricingModel: FREE
-xmlId: com.wpsp.wpsp-helper</description>
-      <pubDate>Tue, 28 Oct 2025 05:47:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28841-wpsp-helper</guid>
-      <dc:date>2025-10-28T05:47:49Z</dc:date>
-    </item>
-    <item>
-      <title>APIneer - Mon Nov 03 13:26:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28871-apineer</link>
-      <description>Scans Java projects for REST API endpoints and provides quick testing capabilities. Features: Automatically discovers REST endpoints from Spring Boot and JAX-RS...
-
-vendor: Prakhar Rathi
-downloads: 12
-pricingModel: FREE
-xmlId: rathi.prakhar.apineer</description>
-      <pubDate>Mon, 03 Nov 2025 13:26:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28871-apineer</guid>
-      <dc:date>2025-11-03T13:26:35Z</dc:date>
-    </item>
-    <item>
-      <title>ADB Menu - Mon Nov 03 07:45:21 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28868-adb-menu</link>
-      <description>Original Plugin Link: https://github.com/pbreault/adb-idea Adds the following ADB commands to Android Studio and Intellij: ADB Uninstall App ADB Kill App ADB Start App...
-
-vendor: Raghav Satyadev
-downloads: 10
-pricingModel: FREE
-xmlId: io.github.raghavsatyadev.adbidea</description>
-      <pubDate>Mon, 03 Nov 2025 07:45:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28868-adb-menu</guid>
-      <dc:date>2025-11-03T07:45:21Z</dc:date>
     </item>
   </channel>
 </rss>
