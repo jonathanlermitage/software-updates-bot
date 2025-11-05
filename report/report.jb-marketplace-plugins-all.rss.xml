@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Keyboard Typing Sounds - Wed Nov 05 10:15:01 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28925-keyboard-typing-sounds</link>
+      <description>Plays keyboard typing sounds in IntelliJ IDEA, similar to Opera GX.
+
+vendor: Guacamoleboy
+downloads: 0
+pricingModel: FREE
+xmlId: dk.project.app</description>
+      <pubDate>Wed, 05 Nov 2025 10:15:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28925-keyboard-typing-sounds</guid>
+      <dc:date>2025-11-05T10:15:01Z</dc:date>
+    </item>
+    <item>
+      <title>Sentry Issue Integration - Tue Nov 04 17:58:30 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28923-sentry-issue-integration</link>
+      <description>This plugin adds integration with Sentry into the IDE. It will show issues from Sentry on the lines they are related to.
+
+vendor: Martin Malek
+downloads: 0
+pricingModel: FREE
+xmlId: com.pagewiser.idea.sentry</description>
+      <pubDate>Tue, 04 Nov 2025 17:58:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28923-sentry-issue-integration</guid>
+      <dc:date>2025-11-04T17:58:30Z</dc:date>
+    </item>
+    <item>
+      <title>AI Sandbox for GoLand - Tue Nov 04 12:33:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28673-ai-sandbox-for-goland</link>
+      <description>AI Sandbox streamlines working with local LLMs (Llama 3, Phi-3, DeepSeek Coder via Ollama) directly in GoLand. It adds a dedicated editor panel to download models, run...
+
+vendor: JetBrains s.r.o.
+downloads: 2
+pricingModel: FREE
+xmlId: org.jetbrains.plugins.ai_sandbox</description>
+      <pubDate>Tue, 04 Nov 2025 12:33:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28673-ai-sandbox-for-goland</guid>
+      <dc:date>2025-11-04T12:33:44Z</dc:date>
+    </item>
+    <item>
       <title>DevRhythm - Tue Oct 28 20:02:08 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28806-devrhythm</link>
       <description>DevRhythm — Understanding Coding Rhythm in Programming Courses DevRhythm is a lightweight PyCharm/IntelliJ plugin developed for research on programmer activity rhythms...
@@ -149,7 +188,7 @@ xmlId: com.github.gyeom.jiraautomation</description>
       <dc:date>2025-11-02T12:07:10Z</dc:date>
     </item>
     <item>
-      <title>FTC Snippets - Sun Nov 02 21:07:16 UTC 2025</title>
+      <title>FTC Snippets - Wed Nov 05 00:59:35 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28911-ftc-snippets</link>
       <description>NOTE: This only works with the FTC SDK. You must download that before using this plugin, otherwise it's pointless. FTC Snippets adds one-click code templates and...
 
@@ -157,9 +196,9 @@ vendor: Somto Anaedu (Team #23594)
 downloads: 10
 pricingModel: FREE
 xmlId: com.ontalent.ftcsnippets</description>
-      <pubDate>Sun, 02 Nov 2025 21:07:16 GMT</pubDate>
+      <pubDate>Wed, 05 Nov 2025 00:59:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28911-ftc-snippets</guid>
-      <dc:date>2025-11-02T21:07:16Z</dc:date>
+      <dc:date>2025-11-05T00:59:35Z</dc:date>
     </item>
     <item>
       <title>Free Enhanced MyBatis2 - Fri Oct 31 07:16:07 UTC 2025</title>
@@ -225,45 +264,6 @@ xmlId: me.dirtydan16.BetterJump</description>
       <pubDate>Sun, 02 Nov 2025 17:38:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28895-betterjump</guid>
       <dc:date>2025-11-02T17:38:52Z</dc:date>
-    </item>
-    <item>
-      <title>Knoll - Fri Oct 31 16:04:57 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28899-knoll</link>
-      <description>Adapts AI brings an AI-powered chat assistant - Knoll, directly into your IDE. It helps you query wiki documentation, generate code snippets, and interact with project...
-
-vendor: Adapts
-downloads: 9
-pricingModel: FREE
-xmlId: com.adapts.ChatPlugin</description>
-      <pubDate>Fri, 31 Oct 2025 16:04:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28899-knoll</guid>
-      <dc:date>2025-10-31T16:04:57Z</dc:date>
-    </item>
-    <item>
-      <title>GradleArtisan - Tue Nov 04 15:45:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28877-gradleartisan</link>
-      <description>Gradle Artisan A powerful tool window for Android and Gradle developers designed to streamline task management. Gradle Artisan simplifies running, favoriting, and...
-
-vendor: umut cansu
-downloads: 40
-pricingModel: FREE
-xmlId: io.github.umutcansu.GradleArtisan</description>
-      <pubDate>Tue, 04 Nov 2025 15:45:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28877-gradleartisan</guid>
-      <dc:date>2025-11-04T15:45:46Z</dc:date>
-    </item>
-    <item>
-      <title>AWS CodeCost Analyzer - Sat Nov 01 20:04:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28905-aws-codecost-analyzer</link>
-      <description>AWS CodeCost ML-powered AWS cost estimation for Python &amp;amp; Java projects. Features: Smart Code Analysis - Detects AWS services (Lambda, S3, DynamoDB, EC2) ML Cost...
-
-vendor: Sayimpu
-downloads: 4
-pricingModel: FREE
-xmlId: com.aws.codecost</description>
-      <pubDate>Sat, 01 Nov 2025 20:04:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28905-aws-codecost-analyzer</guid>
-      <dc:date>2025-11-01T20:04:55Z</dc:date>
     </item>
   </channel>
 </rss>
