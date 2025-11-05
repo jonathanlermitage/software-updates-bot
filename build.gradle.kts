@@ -4,13 +4,13 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 val prjJavaVersion = JavaVersion.VERSION_21
 
 plugins {
-    val kotlinVersion = "2.2.20"
+    val kotlinVersion = "2.2.21"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.5.6"
+    id("org.springframework.boot") version "3.5.7"
     id("io.spring.dependency-management") version "1.1.7"
-    id("com.github.ben-manes.versions") version "0.52.0"
+    id("com.github.ben-manes.versions") version "0.53.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
     id("biz.lermitage.oga") version "1.1.1"
 }
@@ -28,7 +28,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("com.google.code.gson:gson:2.13.2")
-    implementation("com.jayway.jsonpath:json-path:2.9.0")
+    implementation("com.jayway.jsonpath:json-path:2.10.0")
     implementation("org.jsoup:jsoup:1.21.2") // https://jsoup.org/news/
     implementation("commons-io:commons-io:2.20.0")
     implementation("org.apache.commons:commons-lang3:3.19.0")
