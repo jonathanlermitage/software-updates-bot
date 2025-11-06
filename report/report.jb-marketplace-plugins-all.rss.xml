@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>StungCat Progress Bar - Thu Nov 06 09:12:14 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28932-stungcat-progress-bar</link>
+      <description>A cute progress bar plugin featuring StungCat (bee-stung cat) for IntelliJ IDEA Based on NyanProgressBar by Dmitry Batkovich Original...
+
+vendor: daehyun kim
+downloads: 0
+pricingModel: FREE
+xmlId: daehyun.kim.stungcat</description>
+      <pubDate>Thu, 06 Nov 2025 09:12:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28932-stungcat-progress-bar</guid>
+      <dc:date>2025-11-06T09:12:14Z</dc:date>
+    </item>
+    <item>
+      <title>Perplexity Chat Integration - Thu Nov 06 12:50:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28929-perplexity-chat-integration</link>
+      <description>Integrates Perplexity AI chat directly into your IDE. Get instant access to AI-powered conversations without leaving your code editor. Perfect for quick research, code...
+
+vendor: Pralexio
+downloads: 0
+pricingModel: FREE
+xmlId: fr.pralexio.perplexityintegration</description>
+      <pubDate>Thu, 06 Nov 2025 12:50:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28929-perplexity-chat-integration</guid>
+      <dc:date>2025-11-06T12:50:50Z</dc:date>
+    </item>
+    <item>
+      <title>Doorman for Boundary - Wed Nov 05 15:01:04 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28831-doorman-for-boundary</link>
+      <description>This plugin allows you to easily create and manage data sources from HashiCorp Boundary targets, enabling secure, just-in-time access to databases directly within your...
+
+vendor: Sergey Zhabinskii
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.serzhby.tools.plugins.doorman</description>
+      <pubDate>Wed, 05 Nov 2025 15:01:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28831-doorman-for-boundary</guid>
+      <dc:date>2025-11-05T15:01:04Z</dc:date>
+    </item>
+    <item>
+      <title>StartupBuilder - Thu Nov 06 10:13:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28934-startupbuilder</link>
+      <description>StartupBuilder automatically builds and updates your project as soon as it opens in IntelliJ IDEA. It helps developers ensure their codebase and dependencies are...
+
+vendor: Arteh
+downloads: 0
+pricingModel: FREE
+xmlId: app.arteh.StartupBuilder</description>
+      <pubDate>Thu, 06 Nov 2025 10:13:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28934-startupbuilder</guid>
+      <dc:date>2025-11-06T10:13:09Z</dc:date>
+    </item>
+    <item>
+      <title>JPlus - Thu Nov 06 09:58:51 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28817-jplus</link>
+      <description>JPlus is a Java superset language running on the JVM. It preserves Java syntax while adding modern features like strict null safety, type inference, and functional...
+
+vendor: JPlus
+downloads: 5
+pricingModel: FREE
+xmlId: jplus.plugin</description>
+      <pubDate>Thu, 06 Nov 2025 09:58:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28817-jplus</guid>
+      <dc:date>2025-11-06T09:58:51Z</dc:date>
+    </item>
+    <item>
       <title>DebugMate - Wed Nov 05 14:19:07 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28903-debugmate</link>
       <description>Introduction DebugMate is an IntelliJ IDEA companion plugin that enhances database debugging and runtime configuration by surfacing SQL/Mongo execution details...
@@ -199,71 +264,6 @@ xmlId: com.madmanbeavis.spt-id-highlighter</description>
       <pubDate>Sun, 02 Nov 2025 11:36:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28901-spt-id-highlighter</guid>
       <dc:date>2025-11-02T11:36:27Z</dc:date>
-    </item>
-    <item>
-      <title>QuickTerminal - Terminal In Editor for AI Development - Sat Nov 01 10:58:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28400-quickterminal--terminal-in-editor-for-ai-development</link>
-      <description>QuickTerminal - Terminal In Editor - Lightning-Fast Terminal Access for Modern Development QuickTerminal transforms your IDE into a command-line powerhouse. Press...
-
-vendor: BalaKumar
-downloads: 32
-pricingModel: FREE
-xmlId: dev.balakumar.quickterminal</description>
-      <pubDate>Sat, 01 Nov 2025 10:58:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28400-quickterminal--terminal-in-editor-for-ai-development</guid>
-      <dc:date>2025-11-01T10:58:46Z</dc:date>
-    </item>
-    <item>
-      <title>Simple Junit - Fri Oct 31 13:55:00 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28897-simple-junit</link>
-      <description>Use the deepseek - ai model to generate corresponding unit tests for the code in the project. The usage method is to select a file in the project, click "Generate Unit...
-
-vendor: dialycode
-downloads: 19
-pricingModel: FREE
-xmlId: org.sm.yms.toolkit</description>
-      <pubDate>Fri, 31 Oct 2025 13:55:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28897-simple-junit</guid>
-      <dc:date>2025-10-31T13:55:00Z</dc:date>
-    </item>
-    <item>
-      <title>jira-automation - Sun Nov 02 12:07:10 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28907-jira-automation</link>
-      <description>Jira Automation is an IntelliJ IDEA plugin that automatically creates Jira tickets from your code changes using AI. Features AI-Powered Ticket Generation: Analyzes...
-
-vendor: Daegyeom Kim
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.gyeom.jiraautomation</description>
-      <pubDate>Sun, 02 Nov 2025 12:07:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28907-jira-automation</guid>
-      <dc:date>2025-11-02T12:07:10Z</dc:date>
-    </item>
-    <item>
-      <title>FTC Snippets - Wed Nov 05 00:59:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28911-ftc-snippets</link>
-      <description>NOTE: This only works with the FTC SDK. You must download that before using this plugin, otherwise it's pointless. FTC Snippets adds one-click code templates and...
-
-vendor: Somto Anaedu (Team #23594)
-downloads: 25
-pricingModel: FREE
-xmlId: com.ontalent.ftcsnippets</description>
-      <pubDate>Wed, 05 Nov 2025 00:59:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28911-ftc-snippets</guid>
-      <dc:date>2025-11-05T00:59:35Z</dc:date>
-    </item>
-    <item>
-      <title>Free Enhanced MyBatis2 - Fri Oct 31 07:16:07 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28893-free-enhanced-mybatis2</link>
-      <description>This is an enhanced plugin for IDEA to support MyBatis, based on previous plugin Free Mybatis Plugin. here is the main features: generate mapper xml files navigate...
-
-vendor: Free Enhanced MyBatis2
-downloads: 10
-pricingModel: FREE
-xmlId: cn.wuzhizhan.idea.mybatis.free-idea-mybatis2</description>
-      <pubDate>Fri, 31 Oct 2025 07:16:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28893-free-enhanced-mybatis2</guid>
-      <dc:date>2025-10-31T07:16:07Z</dc:date>
     </item>
   </channel>
 </rss>
