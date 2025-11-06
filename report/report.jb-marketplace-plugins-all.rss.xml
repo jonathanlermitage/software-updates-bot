@@ -6,7 +6,46 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Text Highlighter - Tue Oct 28 02:57:34 UTC 2025</title>
+      <title>DebugMate - Wed Nov 05 14:19:07 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28903-debugmate</link>
+      <description>Introduction DebugMate is an IntelliJ IDEA companion plugin that enhances database debugging and runtime configuration by surfacing SQL/Mongo execution details...
+
+vendor: azbh111
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.azbh111.dm.DebugMate</description>
+      <pubDate>Wed, 05 Nov 2025 14:19:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28903-debugmate</guid>
+      <dc:date>2025-11-05T14:19:07Z</dc:date>
+    </item>
+    <item>
+      <title>Git Remote Actions - Thu Nov 06 03:14:13 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28880-git-remote-actions</link>
+      <description>An IntelliJ IDEA plugin designed to enhance GitLab workflow by providing seamless integration for managing merge requests and tags directly from the IDE. Core...
+
+vendor: Jackson Chen
+downloads: 1
+pricingModel: PAID
+xmlId: com.jc.plugin.gitlab</description>
+      <pubDate>Thu, 06 Nov 2025 03:14:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28880-git-remote-actions</guid>
+      <dc:date>2025-11-06T03:14:13Z</dc:date>
+    </item>
+    <item>
+      <title>Switch2Trae - Thu Nov 06 01:47:10 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28912-switch2trae</link>
+      <description>Switch2Trae enables effortless switching between JetBrains IDEs and Trae IDE while maintaining your workflow context. &#x1f680; Seamless IDE Integration with Trae ✨ Key...
+
+vendor: Yan
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.yan.switch2trae</description>
+      <pubDate>Thu, 06 Nov 2025 01:47:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28912-switch2trae</guid>
+      <dc:date>2025-11-06T01:47:10Z</dc:date>
+    </item>
+    <item>
+      <title>Text Highlighter - Thu Nov 06 04:20:16 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28840-text-highlighter</link>
       <description>Text Highlighter Simple and powerful text highlighting plugin for JetBrains IDEs. Mark important code sections with color-coded highlights that persist across...
 
@@ -14,9 +53,9 @@ vendor: Samuel Lastrina
 downloads: 4
 pricingModel: PAID
 xmlId: com.highlighter.text-highlighter</description>
-      <pubDate>Tue, 28 Oct 2025 02:57:34 GMT</pubDate>
+      <pubDate>Thu, 06 Nov 2025 04:20:16 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28840-text-highlighter</guid>
-      <dc:date>2025-10-28T02:57:34Z</dc:date>
+      <dc:date>2025-11-06T04:20:16Z</dc:date>
     </item>
     <item>
       <title>Keyboard Typing Sounds - Wed Nov 05 10:15:01 UTC 2025</title>
@@ -123,7 +162,7 @@ xmlId: sh.tng.intellij-plugin</description>
       <dc:date>2025-11-04T00:46:47Z</dc:date>
     </item>
     <item>
-      <title>Blackbox - Mon Nov 03 19:36:57 UTC 2025</title>
+      <title>Blackbox - Wed Nov 05 20:13:39 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28902-blackbox</link>
       <description>Blackbox AI Agent AI-powered coding assistant for intelligent code generation, analysis, and problem-solving.
 
@@ -131,9 +170,9 @@ vendor: blackbox.ai
 downloads: 56
 pricingModel: FREE
 xmlId: ai.blackbox.jetbrains</description>
-      <pubDate>Mon, 03 Nov 2025 19:36:57 GMT</pubDate>
+      <pubDate>Wed, 05 Nov 2025 20:13:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28902-blackbox</guid>
-      <dc:date>2025-11-03T19:36:57Z</dc:date>
+      <dc:date>2025-11-05T20:13:39Z</dc:date>
     </item>
     <item>
       <title>AI Rust Doc - Mon Nov 03 10:50:14 UTC 2025</title>
@@ -225,45 +264,6 @@ xmlId: cn.wuzhizhan.idea.mybatis.free-idea-mybatis2</description>
       <pubDate>Fri, 31 Oct 2025 07:16:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28893-free-enhanced-mybatis2</guid>
       <dc:date>2025-10-31T07:16:07Z</dc:date>
-    </item>
-    <item>
-      <title>Indonesian Language Pack / Paket Bahasa Indonesia - Thu Nov 06 05:00:31 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28908-indonesian-language-pack--paket-bahasa-indonesia</link>
-      <description>The Indonesian Language Pack localizes the UI of IntelliJ-based IDEs into Indonesian (Bahasa Indonesia). Bahasa Indonesia: Paket Bahasa Indonesia menyediakan...
-
-vendor: Eastgate Development
-downloads: 8
-pricingModel: FREEMIUM
-xmlId: dev.eastgate.language.pack.id</description>
-      <pubDate>Thu, 06 Nov 2025 05:00:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28908-indonesian-language-pack--paket-bahasa-indonesia</guid>
-      <dc:date>2025-11-06T05:00:31Z</dc:date>
-    </item>
-    <item>
-      <title>Floxy Flow Viewer - Fri Oct 31 19:08:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28900-floxy-flow-viewer</link>
-      <description>Visualize and validate floxy.Builder workflows in GoLand.
-
-vendor: rom8726
-downloads: 8
-pricingModel: FREE
-xmlId: com.floxy.flow.viewer</description>
-      <pubDate>Fri, 31 Oct 2025 19:08:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28900-floxy-flow-viewer</guid>
-      <dc:date>2025-10-31T19:08:42Z</dc:date>
-    </item>
-    <item>
-      <title>Codota AI Assist - Tue Nov 04 02:43:10 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28906-codota-ai-assist</link>
-      <description>Codota Assistant serves as your intelligent coding assistant, based on DeepSeek and other large model technologies, allowing you to interact via the chat window on the...
-
-vendor: StackSmith
-downloads: 117
-pricingModel: FREE
-xmlId: com.kite.code.ollma</description>
-      <pubDate>Tue, 04 Nov 2025 02:43:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28906-codota-ai-assist</guid>
-      <dc:date>2025-11-04T02:43:10Z</dc:date>
     </item>
   </channel>
 </rss>
