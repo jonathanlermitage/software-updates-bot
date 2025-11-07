@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ToddySoft: MSpec Language Support - Thu Nov 06 15:49:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28936-toddysoft-mspec-language-support</link>
+      <description>Provides support for editing Apache PLC4X MSpec (Message Specification) files. Features: Syntax highlighting for MSpec files Code completion for field types and data...
+
+vendor: ToddySoft GmbH
+downloads: 0
+pricingModel: FREE
+xmlId: com.toddysoft.mspec</description>
+      <pubDate>Thu, 06 Nov 2025 15:49:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28936-toddysoft-mspec-language-support</guid>
+      <dc:date>2025-11-06T15:49:36Z</dc:date>
+    </item>
+    <item>
+      <title>Countdown to clocking off - Fri Nov 07 03:13:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28941-countdown-to-clocking-off</link>
+      <description>Hey, guys! Are you also tired of endless work and longing for the moment when you finish work? Our new Idea plugin - 'Countdown to Off Work' - is here to save you...
+
+vendor: 常自在
+downloads: 0
+pricingModel: FREE
+xmlId: com.hxl.offdowntime</description>
+      <pubDate>Fri, 07 Nov 2025 03:13:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28941-countdown-to-clocking-off</guid>
+      <dc:date>2025-11-07T03:13:16Z</dc:date>
+    </item>
+    <item>
+      <title>Thisifier - Fri Nov 07 01:43:57 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28939-thisifier</link>
+      <description>This plugin helps Java developers quickly add the 'this.' prefix to method calls, improving code consistency and readability. Simply right-click and select "Add 'this...
+
+vendor: Jianghu Long
+downloads: 0
+pricingModel: FREE
+xmlId: com.sohocn.thisifier</description>
+      <pubDate>Fri, 07 Nov 2025 01:43:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28939-thisifier</guid>
+      <dc:date>2025-11-07T01:43:57Z</dc:date>
+    </item>
+    <item>
+      <title>SecureCoder - Mon Nov 03 13:32:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28916-securecoder</link>
+      <description>SecureCoder brings security to your IDE by AI suggestions, and running quick critics before code lands.
+
+vendor: David
+downloads: 2
+pricingModel: FREE
+xmlId: de.tuda.securecoder</description>
+      <pubDate>Mon, 03 Nov 2025 13:32:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28916-securecoder</guid>
+      <dc:date>2025-11-03T13:32:59Z</dc:date>
+    </item>
+    <item>
+      <title>PMD X - Thu Nov 06 15:47:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28935-pmd-x</link>
+      <description>Provides code analysis and highlighting with PMD - an extensible cross-language static code analyzer. The plugin is optimized for real-time analysis and zero...
+
+vendor: XDEV Software
+downloads: 0
+pricingModel: FREE
+xmlId: software.xdev.pmd</description>
+      <pubDate>Thu, 06 Nov 2025 15:47:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28935-pmd-x</guid>
+      <dc:date>2025-11-06T15:47:09Z</dc:date>
+    </item>
+    <item>
       <title>Enhanced NASM Assembly Support - Fri Nov 07 04:29:45 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28913-enhanced-nasm-assembly-support</link>
       <description>Enhanced IDE support for NASM x86_64 assembly language development. Compatible with all JetBrains IDEs (IntelliJ IDEA, CLion, PyCharm, WebStorm, etc.) with additional...
@@ -58,7 +123,7 @@ xmlId: fr.pralexio.perplexityintegration</description>
       <dc:date>2025-11-06T12:50:50Z</dc:date>
     </item>
     <item>
-      <title>Doorman for Boundary - Wed Nov 05 15:01:04 UTC 2025</title>
+      <title>Doorman for Boundary - Thu Nov 06 16:49:03 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28831-doorman-for-boundary</link>
       <description>This plugin allows you to easily create and manage data sources from HashiCorp Boundary targets, enabling secure, just-in-time access to databases directly within your...
 
@@ -66,9 +131,9 @@ vendor: Sergey Zhabinskii
 downloads: 5
 pricingModel: FREE
 xmlId: com.github.serzhby.tools.plugins.doorman</description>
-      <pubDate>Wed, 05 Nov 2025 15:01:04 GMT</pubDate>
+      <pubDate>Thu, 06 Nov 2025 16:49:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28831-doorman-for-boundary</guid>
-      <dc:date>2025-11-05T15:01:04Z</dc:date>
+      <dc:date>2025-11-06T16:49:03Z</dc:date>
     </item>
     <item>
       <title>StartupBuilder - Thu Nov 06 10:13:09 UTC 2025</title>
@@ -199,71 +264,6 @@ xmlId: com.devrhythm.devrhythm</description>
       <pubDate>Tue, 28 Oct 2025 20:02:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28806-devrhythm</guid>
       <dc:date>2025-10-28T20:02:08Z</dc:date>
-    </item>
-    <item>
-      <title>Compose Stability Analyzer - Tue Nov 04 11:33:41 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28767-compose-stability-analyzer</link>
-      <description>Developer: skydoves (Jaewoong Eum) Provides real-time stability analysis for Jetpack Compose functions directly in the IDE. Features: Hover Tooltips: See detailed...
-
-vendor: skydoves
-downloads: 915
-pricingModel: FREE
-xmlId: com.skydoves.compose.stability.analyzer.idea</description>
-      <pubDate>Tue, 04 Nov 2025 11:33:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28767-compose-stability-analyzer</guid>
-      <dc:date>2025-11-04T11:33:41Z</dc:date>
-    </item>
-    <item>
-      <title>PHP String Field - Thu Nov 06 22:35:57 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28920-php-string-field</link>
-      <description>PHP String Field adds navigation and references support for string parameters of property names. Including nested fields accessed via dot notation...
-
-vendor: Re7r
-downloads: 10
-pricingModel: FREE
-xmlId: com.github.re7r.phpStringField</description>
-      <pubDate>Thu, 06 Nov 2025 22:35:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28920-php-string-field</guid>
-      <dc:date>2025-11-06T22:35:57Z</dc:date>
-    </item>
-    <item>
-      <title>SnapshotDB - Mon Nov 03 21:14:48 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28918-snapshotdb</link>
-      <description>SnapshotDB – see what really changed in your database New project, unfamiliar system, and you want to understand what happens in the database after a certain action...
-
-vendor: Michał Zimka
-downloads: 8
-pricingModel: FREE
-xmlId: pl.michalzimka.snapshotdb</description>
-      <pubDate>Mon, 03 Nov 2025 21:14:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28918-snapshotdb</guid>
-      <dc:date>2025-11-03T21:14:48Z</dc:date>
-    </item>
-    <item>
-      <title>TNG Test Generator - Tue Nov 04 00:46:47 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28919-tng-test-generator</link>
-      <description>An IntelliJ IDEA plugin for generating tests using TNG. Supports Ruby (Rails), Go, Python, TypeScript, and JavaScript projects. Generate tests directly from your...
-
-vendor: tng.sh
-downloads: 13
-pricingModel: FREE
-xmlId: sh.tng.intellij-plugin</description>
-      <pubDate>Tue, 04 Nov 2025 00:46:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28919-tng-test-generator</guid>
-      <dc:date>2025-11-04T00:46:47Z</dc:date>
-    </item>
-    <item>
-      <title>Blackbox - Wed Nov 05 20:13:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28902-blackbox</link>
-      <description>Blackbox AI Agent AI-powered coding assistant for intelligent code generation, analysis, and problem-solving.
-
-vendor: blackbox.ai
-downloads: 94
-pricingModel: FREE
-xmlId: ai.blackbox.jetbrains</description>
-      <pubDate>Wed, 05 Nov 2025 20:13:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28902-blackbox</guid>
-      <dc:date>2025-11-05T20:13:39Z</dc:date>
     </item>
   </channel>
 </rss>
