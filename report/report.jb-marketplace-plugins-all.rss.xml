@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Terramate - Thu Oct 30 21:52:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28890-terramate</link>
+      <description>Official Terramate plugin for IntelliJ IDEA and other JetBrains IDEs. Terramate helps you manage and orchestrate Terraform/OpenTofu infrastructure with powerful code...
+
+vendor: Terramate
+downloads: 0
+pricingModel: FREE
+xmlId: io.terramate</description>
+      <pubDate>Thu, 30 Oct 2025 21:52:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28890-terramate</guid>
+      <dc:date>2025-10-30T21:52:16Z</dc:date>
+    </item>
+    <item>
       <title>StungCat Progress Bar - Thu Nov 06 09:12:14 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28932-stungcat-progress-bar</link>
       <description>A cute progress bar plugin featuring StungCat (bee-stung cat) for IntelliJ IDEA Based on NyanProgressBar by Dmitry Batkovich Original...
@@ -188,17 +201,17 @@ xmlId: com.skydoves.compose.stability.analyzer.idea</description>
       <dc:date>2025-11-04T11:33:41Z</dc:date>
     </item>
     <item>
-      <title>PHP String Field - Tue Nov 04 01:12:14 UTC 2025</title>
+      <title>PHP String Field - Thu Nov 06 22:35:57 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28920-php-string-field</link>
-      <description>PHP String Field is a PhpStorm plugin that adds navigation and reference support for string parameters, Including nested fields accessed via dot notation...
+      <description>PHP String Field adds navigation and references support for string parameters of property names. Including nested fields accessed via dot notation...
 
 vendor: Re7r
 downloads: 7
 pricingModel: FREE
 xmlId: com.github.re7r.phpStringField</description>
-      <pubDate>Tue, 04 Nov 2025 01:12:14 GMT</pubDate>
+      <pubDate>Thu, 06 Nov 2025 22:35:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28920-php-string-field</guid>
-      <dc:date>2025-11-04T01:12:14Z</dc:date>
+      <dc:date>2025-11-06T22:35:57Z</dc:date>
     </item>
     <item>
       <title>SnapshotDB - Mon Nov 03 21:14:48 UTC 2025</title>
@@ -251,19 +264,6 @@ xmlId: gudqs7.github.io.rust.doc</description>
       <pubDate>Mon, 03 Nov 2025 10:50:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28915-ai-rust-doc</guid>
       <dc:date>2025-11-03T10:50:14Z</dc:date>
-    </item>
-    <item>
-      <title>SPT ID Highlighter - Sun Nov 02 11:36:27 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28901-spt-id-highlighter</link>
-      <description>A comprehensive development tool for the Single Player Tarkov project. Provides intelligent ID recognition, rich documentation, and extensive customization for SPT...
-
-vendor: MadManBeavis
-downloads: 17
-pricingModel: FREE
-xmlId: com.madmanbeavis.spt-id-highlighter</description>
-      <pubDate>Sun, 02 Nov 2025 11:36:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28901-spt-id-highlighter</guid>
-      <dc:date>2025-11-02T11:36:27Z</dc:date>
     </item>
   </channel>
 </rss>
