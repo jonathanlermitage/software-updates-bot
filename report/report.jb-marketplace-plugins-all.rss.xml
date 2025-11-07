@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Enhanced NASM Assembly Support - Fri Nov 07 04:29:45 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28913-enhanced-nasm-assembly-support</link>
+      <description>Enhanced IDE support for NASM x86_64 assembly language development. Compatible with all JetBrains IDEs (IntelliJ IDEA, CLion, PyCharm, WebStorm, etc.) with additional...
+
+vendor: aar10n
+downloads: 0
+pricingModel: FREE
+xmlId: dev.agb.nasmplugin</description>
+      <pubDate>Fri, 07 Nov 2025 04:29:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28913-enhanced-nasm-assembly-support</guid>
+      <dc:date>2025-11-07T04:29:45Z</dc:date>
+    </item>
+    <item>
       <title>Terramate - Thu Oct 30 21:52:16 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28890-terramate</link>
       <description>Official Terramate plugin for IntelliJ IDEA and other JetBrains IDEs. Terramate helps you manage and orchestrate Terraform/OpenTofu infrastructure with powerful code...
@@ -251,19 +264,6 @@ xmlId: ai.blackbox.jetbrains</description>
       <pubDate>Wed, 05 Nov 2025 20:13:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28902-blackbox</guid>
       <dc:date>2025-11-05T20:13:39Z</dc:date>
-    </item>
-    <item>
-      <title>AI Rust Doc - Mon Nov 03 10:50:14 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28915-ai-rust-doc</link>
-      <description>Generate Rust function documentation using DeepSeek. Right-click to generate for a single method Right-click to generate for a file Right-click to generate for...
-
-vendor: 心累7
-downloads: 4
-pricingModel: FREE
-xmlId: gudqs7.github.io.rust.doc</description>
-      <pubDate>Mon, 03 Nov 2025 10:50:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28915-ai-rust-doc</guid>
-      <dc:date>2025-11-03T10:50:14Z</dc:date>
     </item>
   </channel>
 </rss>
