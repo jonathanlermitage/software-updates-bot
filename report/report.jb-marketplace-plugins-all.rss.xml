@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>DeepSeek Code Scan - Mon Nov 10 11:53:00 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28966-deepseek-code-scan</link>
+      <description>This plugin leverages deepseek and artificial intelligence to automatically create code quality assessment reports, assisting you in enhancing the quality of your...
+
+vendor: Sorcerer
+downloads: 0
+pricingModel: FREE
+xmlId: com.review.tool.code</description>
+      <pubDate>Mon, 10 Nov 2025 11:53:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28966-deepseek-code-scan</guid>
+      <dc:date>2025-11-10T11:53:00Z</dc:date>
+    </item>
+    <item>
+      <title>Ravel Remapper - Mon Nov 10 10:57:06 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28938-ravel-remapper</link>
+      <description>Ravel is a plugin for IntelliJ IDEA to remap source files, based on PSI and Mapping-IO. Supports remapping: JavaKotlinMixin and MixinExtras1Class Tweaker / Access...
+
+vendor: deirn.bai.lol
+downloads: 0
+pricingModel: FREE
+xmlId: lol.bai.ravel</description>
+      <pubDate>Mon, 10 Nov 2025 10:57:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28938-ravel-remapper</guid>
+      <dc:date>2025-11-10T10:57:06Z</dc:date>
+    </item>
+    <item>
+      <title>PineScript v6 Language Support - Mon Nov 10 12:16:21 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28949-pinescript-v6-language-support</link>
+      <description>Comprehensive PineScript v6 language support for IntelliJ-based IDEs. This is an independent, non-commercial plugin that provides IDE support for Pine Script language...
+
+vendor: odyssee
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.houseofai.pinescript</description>
+      <pubDate>Mon, 10 Nov 2025 12:16:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28949-pinescript-v6-language-support</guid>
+      <dc:date>2025-11-10T12:16:21Z</dc:date>
+    </item>
+    <item>
+      <title>LookML Support - Mon Nov 10 15:44:29 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28971-lookml-support</link>
+      <description>Comprehensive Looker Modeling Language (LookML) support for IntelliJ-based IDEs. Features: Syntax Highlighting - Keywords, strings, SQL blocks, field references File...
+
+vendor: Andrii Kobtsev
+downloads: 0
+pricingModel: FREE
+xmlId: com.andriidev.lookml</description>
+      <pubDate>Mon, 10 Nov 2025 15:44:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28971-lookml-support</guid>
+      <dc:date>2025-11-10T15:44:29Z</dc:date>
+    </item>
+    <item>
+      <title>Mjolnir for FTC - Fri Nov 07 21:56:13 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28769-mjolnir-for-ftc</link>
+      <description>Features (Implemented) Easy Opmode Creation Support for Java &amp;amp; KotlinSelector for LinearOpMode vs Iterative (Regular) OpmodeSelector for Autonomous vs TeleOp...
+
+vendor: 5273 ARC Thunder
+downloads: 2
+pricingModel: FREE
+xmlId: com.plugin</description>
+      <pubDate>Fri, 07 Nov 2025 21:56:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28769-mjolnir-for-ftc</guid>
+      <dc:date>2025-11-07T21:56:13Z</dc:date>
+    </item>
+    <item>
       <title>BrightScript Syntax - Sun Nov 09 13:41:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28957-brightscript-syntax</link>
       <description>BrightScript syntax highlighting support for WebStorm and other JetBrains IDEs. Features: Syntax highlighting for BrightScript (.brs) files Keywords, operators, and...
@@ -123,19 +188,6 @@ xmlId: dev.sandipchitale.jb-dependency-git-repo</description>
       <dc:date>2025-11-09T05:57:30Z</dc:date>
     </item>
     <item>
-      <title>Accessibility Compliance Checker Pro - Sun Nov 09 18:52:50 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28959-accessibility-compliance-checker-pro</link>
-      <description>Accessibility Compliance Checker Pro Professional WCAG/ADA compliance scanning with legal report generation for web applications. Features: Real-time accessibility...
-
-vendor: Jakub Jirák
-downloads: 0
-pricingModel: FREE
-xmlId: com.accessibility.compliance-checker-pro</description>
-      <pubDate>Sun, 09 Nov 2025 18:52:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28959-accessibility-compliance-checker-pro</guid>
-      <dc:date>2025-11-09T18:52:50Z</dc:date>
-    </item>
-    <item>
       <title>Test Progress Bar - Fri Nov 07 13:25:28 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28859-test-progress-bar</link>
       <description>Minimal progress bar popup for tests: Displayed at the bottom of the editor Hides Run/Debug tool windows when tests are started Configurable size, position...
@@ -201,7 +253,7 @@ xmlId: de.tuda.securecoder</description>
       <dc:date>2025-11-03T13:32:59Z</dc:date>
     </item>
     <item>
-      <title>PMD X - Thu Nov 06 15:47:09 UTC 2025</title>
+      <title>PMD X - Mon Nov 10 16:55:39 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28935-pmd-x</link>
       <description>Provides code analysis and highlighting with PMD - an extensible cross-language static code analyzer. The plugin is optimized for real-time analysis and zero...
 
@@ -209,61 +261,9 @@ vendor: XDEV Software
 downloads: 6
 pricingModel: FREE
 xmlId: software.xdev.pmd</description>
-      <pubDate>Thu, 06 Nov 2025 15:47:09 GMT</pubDate>
+      <pubDate>Mon, 10 Nov 2025 16:55:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28935-pmd-x</guid>
-      <dc:date>2025-11-06T15:47:09Z</dc:date>
-    </item>
-    <item>
-      <title>Enhanced NASM Assembly Support - Fri Nov 07 04:29:45 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28913-enhanced-nasm-assembly-support</link>
-      <description>Enhanced IDE support for NASM x86_64 assembly language development. Compatible with all JetBrains IDEs (IntelliJ IDEA, CLion, PyCharm, WebStorm, etc.) with additional...
-
-vendor: aar10n
-downloads: 26
-pricingModel: FREE
-xmlId: dev.agb.nasmplugin</description>
-      <pubDate>Fri, 07 Nov 2025 04:29:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28913-enhanced-nasm-assembly-support</guid>
-      <dc:date>2025-11-07T04:29:45Z</dc:date>
-    </item>
-    <item>
-      <title>Terramate - Thu Oct 30 21:52:16 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28890-terramate</link>
-      <description>Official Terramate plugin for IntelliJ IDEA and other JetBrains IDEs. Terramate helps you manage and orchestrate Terraform/OpenTofu infrastructure with powerful code...
-
-vendor: Terramate
-downloads: 13
-pricingModel: FREE
-xmlId: io.terramate</description>
-      <pubDate>Thu, 30 Oct 2025 21:52:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28890-terramate</guid>
-      <dc:date>2025-10-30T21:52:16Z</dc:date>
-    </item>
-    <item>
-      <title>StungCat Progress Bar - Thu Nov 06 09:12:14 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28932-stungcat-progress-bar</link>
-      <description>A cute progress bar plugin featuring StungCat (bee-stung cat) for IntelliJ IDEA Based on NyanProgressBar by Dmitry Batkovich Original...
-
-vendor: daehyun kim
-downloads: 16
-pricingModel: FREE
-xmlId: daehyun.kim.stungcat</description>
-      <pubDate>Thu, 06 Nov 2025 09:12:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28932-stungcat-progress-bar</guid>
-      <dc:date>2025-11-06T09:12:14Z</dc:date>
-    </item>
-    <item>
-      <title>Perplexity Chat Integration - Thu Nov 06 12:50:50 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28929-perplexity-chat-integration</link>
-      <description>Integrates Perplexity AI chat directly into your IDE. Get instant access to AI-powered conversations without leaving your code editor. Perfect for quick research, code...
-
-vendor: Pralexio
-downloads: 110
-pricingModel: FREE
-xmlId: fr.pralexio.perplexityintegration</description>
-      <pubDate>Thu, 06 Nov 2025 12:50:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28929-perplexity-chat-integration</guid>
-      <dc:date>2025-11-06T12:50:50Z</dc:date>
+      <dc:date>2025-11-10T16:55:39Z</dc:date>
     </item>
   </channel>
 </rss>
