@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.11.1|[nodejs.org](https://nodejs.org)|Wed Nov 12 00:06:54 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS Current|25.2.0|[nodejs.org](https://nodejs.org)|Wed Nov 12 00:06:54 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 331 - Le retour des jackson 5|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Nov 06 16:04:37 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:29 UTC 2025|
@@ -15,8 +17,6 @@
 |![logo](../media/logo/gradle.png) Gradle|9.2.0|[gradle.org](https://gradle.org/releases/)|Thu Oct 30 00:06:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 29 12:03:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 29 04:06:10 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS Current|25.1.0|[nodejs.org](https://nodejs.org)|Tue Oct 28 20:04:14 UTC 2025|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.11.0|[nodejs.org](https://nodejs.org)|Tue Oct 28 20:04:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 16:03:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 12:03:31 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 16:03:21 UTC 2025|
