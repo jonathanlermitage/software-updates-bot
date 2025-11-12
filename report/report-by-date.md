@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.11.1|[nodejs.org](https://nodejs.org)|Wed Nov 12 00:06:54 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.2.0|[nodejs.org](https://nodejs.org)|Wed Nov 12 00:06:54 UTC 2025|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.11.1|[nodejs.org](https://nodejs.org)|Wed Nov 12 00:06:54 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 331 - Le retour des jackson 5|[lescastcodeurs.com](https://lescastcodeurs.com)|Thu Nov 06 16:04:37 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:29 UTC 2025|
