@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Code Element Sorter - Wed Nov 12 06:10:34 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28993-code-element-sorter</link>
+      <description>Usage: Right-click menu, select "Sort Members A-Z" Intelligent Sorting: Intelligent sorting of variables and methods in the current page, supporting both full-page...
+
+vendor: Jianghu Long
+downloads: 0
+pricingModel: FREE
+xmlId: com.sohocn.codeElementSorter</description>
+      <pubDate>Wed, 12 Nov 2025 06:10:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28993-code-element-sorter</guid>
+      <dc:date>2025-11-12T06:10:34Z</dc:date>
+    </item>
+    <item>
+      <title>Cpplint-Nova - Tue Nov 11 18:04:51 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28989-cpplint-nova</link>
+      <description>A cpplint plugin for JetBrains CLion 2025.2+ with support for CLion Nova. This plugin automatically runs cpplint against your C++ files while you write code, showing...
+
+vendor: Brad Chamberlain
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.meet-brad-ch.clion-cpplint-nova</description>
+      <pubDate>Tue, 11 Nov 2025 18:04:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28989-cpplint-nova</guid>
+      <dc:date>2025-11-11T18:04:51Z</dc:date>
+    </item>
+    <item>
+      <title>Parquet Studio - Thu Nov 13 09:12:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29009-parquet-studio</link>
+      <description>Professional CRUD editor for Parquet files using DuckDB. Open, edit, search, and save Parquet files directly in IntelliJ IDEA.
+
+vendor: Jhordy Huaman
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.jhordyhuaman.parquetstudio</description>
+      <pubDate>Thu, 13 Nov 2025 09:12:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29009-parquet-studio</guid>
+      <dc:date>2025-11-13T09:12:59Z</dc:date>
+    </item>
+    <item>
+      <title>ANSI Log Viewer - Thu Nov 13 10:38:34 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29008-ansi-log-viewer</link>
+      <description>Adds ANSI color rendering (SGR, 256-color, truecolor) to configured extensions (default *.log). Features: Configurable file extensions Folding ANSI escape sequences...
+
+vendor: Jakub Jirák
+downloads: 0
+pricingModel: FREE
+xmlId: com.jakubjirak.ansilog.viewer</description>
+      <pubDate>Thu, 13 Nov 2025 10:38:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29008-ansi-log-viewer</guid>
+      <dc:date>2025-11-13T10:38:34Z</dc:date>
+    </item>
+    <item>
       <title>Epub-reader - Mon Nov 10 02:00:48 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28942-epub-reader</link>
       <description>EPUB Reader lets you open and read .epub files directly in IntelliJ IDEA. Supports importing .epub books Displays chapters in a tool window Simple navigation with...
@@ -110,7 +162,7 @@ xmlId: com.aiekick.cmakesourcegroups</description>
       <dc:date>2025-11-11T11:35:29Z</dc:date>
     </item>
     <item>
-      <title>SpinnerHelper - Tue Nov 11 01:31:51 UTC 2025</title>
+      <title>SpinnerHelper - Thu Nov 13 08:21:55 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28927-spinnerhelper</link>
       <description>SpinnerHelper is a professional plugin designed for IntelliJ IDEA to enhance 3DE development efficiency. It optimizes the development experience through intelligent...
 
@@ -118,9 +170,9 @@ vendor: BD Team One
 downloads: 21
 pricingModel: FREE
 xmlId: cn.github.SpinnerHelper</description>
-      <pubDate>Tue, 11 Nov 2025 01:31:51 GMT</pubDate>
+      <pubDate>Thu, 13 Nov 2025 08:21:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28927-spinnerhelper</guid>
-      <dc:date>2025-11-11T01:31:51Z</dc:date>
+      <dc:date>2025-11-13T08:21:55Z</dc:date>
     </item>
     <item>
       <title>Ona Remote - Mon Nov 10 22:09:14 UTC 2025</title>
@@ -212,58 +264,6 @@ xmlId: com.andriidev.lookml</description>
       <pubDate>Wed, 12 Nov 2025 16:22:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28971-lookml-support</guid>
       <dc:date>2025-11-12T16:22:48Z</dc:date>
-    </item>
-    <item>
-      <title>Mjolnir for FTC - Fri Nov 07 21:56:13 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28769-mjolnir-for-ftc</link>
-      <description>Features (Implemented) Easy Opmode Creation Support for Java &amp;amp; KotlinSelector for LinearOpMode vs Iterative (Regular) OpmodeSelector for Autonomous vs TeleOp...
-
-vendor: 5273 ARC Thunder
-downloads: 7
-pricingModel: FREE
-xmlId: com.plugin</description>
-      <pubDate>Fri, 07 Nov 2025 21:56:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28769-mjolnir-for-ftc</guid>
-      <dc:date>2025-11-07T21:56:13Z</dc:date>
-    </item>
-    <item>
-      <title>BrightScript Syntax - Sun Nov 09 13:41:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28957-brightscript-syntax</link>
-      <description>BrightScript syntax highlighting support for WebStorm and other JetBrains IDEs. Features: Syntax highlighting for BrightScript (.brs) files Keywords, operators, and...
-
-vendor: Maxim Pietukhov
-downloads: 7
-pricingModel: FREE
-xmlId: com.maximpietukhov.brightscript-syntax</description>
-      <pubDate>Sun, 09 Nov 2025 13:41:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28957-brightscript-syntax</guid>
-      <dc:date>2025-11-09T13:41:33Z</dc:date>
-    </item>
-    <item>
-      <title>SequenceDiagramRComments - Sun Nov 09 12:49:58 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28956-sequencediagramrcomments</link>
-      <description>this plugin is a fork of SequencePlugin with this plugin, you can newest Support comment on export pumlgenerate Simple Sequence Diagram.Navigate the code by click the...
-
-vendor: Minliang
-downloads: 11
-pricingModel: FREE
-xmlId: SequenceDiagramRComments</description>
-      <pubDate>Sun, 09 Nov 2025 12:49:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28956-sequencediagramrcomments</guid>
-      <dc:date>2025-11-09T12:49:58Z</dc:date>
-    </item>
-    <item>
-      <title>InvalidProjectsCleaner - Sun Nov 09 12:05:13 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28955-invalidprojectscleaner</link>
-      <description>InvalidProjectsCleaner — Clean invalid (non-existing path) projects from the IntelliJ IDEA Welcome screen and Tools menu with one click. 一键清理 IDEA 欢迎页中路径无效的项目 功能特性...
-
-vendor: InvalidProjectsCleaner
-downloads: 11
-pricingModel: FREE
-xmlId: com.gujiangfei.invalidprojectscleaner</description>
-      <pubDate>Sun, 09 Nov 2025 12:05:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28955-invalidprojectscleaner</guid>
-      <dc:date>2025-11-09T12:05:13Z</dc:date>
     </item>
   </channel>
 </rss>
