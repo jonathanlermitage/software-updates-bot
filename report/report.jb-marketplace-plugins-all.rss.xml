@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Firebase Pro - Mon Nov 17 17:29:18 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28937-firebase-pro</link>
+      <description>Firebase Pro Provides rich language support, validation, navigation, and tooling for Firebase configuration and rules files. Gain a comprehensive suite of Firebase...
+
+vendor: JHTech Labs
+downloads: 8
+pricingModel: PAID
+xmlId: com.jhtech.firebasepro</description>
+      <pubDate>Mon, 17 Nov 2025 17:29:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28937-firebase-pro</guid>
+      <dc:date>2025-11-17T17:29:18Z</dc:date>
+    </item>
+    <item>
+      <title>Another Git Worktree - Wed Nov 19 03:23:04 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29058-another-git-worktree</link>
+      <description>Another Git Worktree A visual Git worktree management plugin for IntelliJ IDEA that helps you manage multiple working trees efficiently. Features Worktree List...
+
+vendor: another_gitworktree
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.nwen.another_gitworktree</description>
+      <pubDate>Wed, 19 Nov 2025 03:23:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29058-another-git-worktree</guid>
+      <dc:date>2025-11-19T03:23:04Z</dc:date>
+    </item>
+    <item>
+      <title>OasisPALM - Tue Nov 18 21:48:36 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29068-oasispalm</link>
+      <description>OasisPALM-IDEA is an IntelliJ IDEA plugin that provides support for the OasisPALM modeling language. It includes syntax highlighting and error annotations.
+
+vendor: Oasis
+downloads: 0
+pricingModel: FREE
+xmlId: org.openalgebra.OasisPALM</description>
+      <pubDate>Tue, 18 Nov 2025 21:48:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29068-oasispalm</guid>
+      <dc:date>2025-11-18T21:48:36Z</dc:date>
+    </item>
+    <item>
+      <title>Maven Settings Switcher - Tue Nov 18 15:16:31 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29065-maven-settings-switcher</link>
+      <description>Automatically applies different Maven settings files based on project directory. Easily manage multiple Maven configurations for different projects without manual...
+
+vendor: Mustache
+downloads: 0
+pricingModel: FREE
+xmlId: cn.com.mustache.plugin.mavensettingsswitcher</description>
+      <pubDate>Tue, 18 Nov 2025 15:16:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29065-maven-settings-switcher</guid>
+      <dc:date>2025-11-18T15:16:31Z</dc:date>
+    </item>
+    <item>
+      <title>CodeScoring SCA - Tue Nov 18 15:12:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28700-codescoring-sca</link>
+      <description>CodeScoring Software Composition Analysis (SCA) for IntelliJ-based IDEs Identify and fix vulnerable dependencies in your projects with real-time scanning, intelligent...
+
+vendor: CodeScoring
+downloads: 2
+pricingModel: FREE
+xmlId: com.codescoring.ide.sca</description>
+      <pubDate>Tue, 18 Nov 2025 15:12:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28700-codescoring-sca</guid>
+      <dc:date>2025-11-18T15:12:09Z</dc:date>
+    </item>
+    <item>
+      <title>pytest Language Server - Tue Nov 18 18:00:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29056-pytest-language-server</link>
+      <description>A blazingly fast Language Server Protocol implementation for pytest fixtures, written in Rust. Features: Go to Definition: Jump to fixture definitions from usage Find...
+
+vendor: bellini666
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.bellini666.pytest-language-server</description>
+      <pubDate>Tue, 18 Nov 2025 18:00:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29056-pytest-language-server</guid>
+      <dc:date>2025-11-18T18:00:16Z</dc:date>
+    </item>
+    <item>
       <title>Gauge MindMap - Mon Nov 17 16:48:51 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29031-gauge-mindmap</link>
       <description>Visualize Gauge specifications as interactive mindmaps Gauge MindMap is an IntelliJ IDEA plugin that transforms your Gauge specification files into beautiful...
@@ -34,7 +112,7 @@ xmlId: dev.gdw.Shutdown-Tasks</description>
     <item>
       <title>JiHu-GitLab CR-Kilo - Mon Nov 17 07:37:48 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28994-jihu-gitlab-cr-kilo</link>
-      <description>CodeRider-Kilo Gallop coding with AI CodeRider-Kilo, developed by JiHu GitLab, is a next-generation software production tool based on generative artificial...
+      <description>CodeRider-Kilo The most fluent agentic coding CodeRider-Kilo, developed by JiHu GitLab, is a next-generation software production tool based on generative artificial...
 
 vendor: JiHu GitLab
 downloads: 20
@@ -186,84 +264,6 @@ xmlId: ai.cockpit.reasoning.jetbrains</description>
       <pubDate>Fri, 14 Nov 2025 16:33:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29025-ai-cockpit-reasoning</guid>
       <dc:date>2025-11-14T16:33:47Z</dc:date>
-    </item>
-    <item>
-      <title>Spockk - Fri Nov 14 12:29:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29021-spockk</link>
-      <description>Provides seamless integration of the Spockk testing and specification framework with IntelliJ: Detects Spockk syntax in test sources Supports executing Spockk tests...
-
-vendor: Pavlo Shevchenko
-downloads: 9
-pricingModel: FREE
-xmlId: io.github.pshevche.spockk.spockk-intellij-plugin</description>
-      <pubDate>Fri, 14 Nov 2025 12:29:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29021-spockk</guid>
-      <dc:date>2025-11-14T12:29:46Z</dc:date>
-    </item>
-    <item>
-      <title>Artemis String Normalizer - Sun Nov 16 14:17:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29010-artemis-string-normalizer</link>
-      <description>Artemis String Normalizer This plugin is an independent tool and is not affiliated with, endorsed by, or connected to Artemis or TUM. A postfix template that converts...
-
-vendor: Flocki
-downloads: 77
-pricingModel: FREE
-xmlId: dev.flocki.artemis_string_normalizer</description>
-      <pubDate>Sun, 16 Nov 2025 14:17:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29010-artemis-string-normalizer</guid>
-      <dc:date>2025-11-16T14:17:42Z</dc:date>
-    </item>
-    <item>
-      <title>Houston Color Scheme - Sun Nov 16 10:00:31 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29022-houston-color-scheme</link>
-      <description>This is a color theme called Houston for CLion featuring cool blues, minty greens, and soft purples Only for C/C++ Unsuppoted for other languages Don't use it with them.
-
-vendor: Houston for C/C++
-downloads: 68
-pricingModel: FREE
-xmlId: color.scheme.Houston</description>
-      <pubDate>Sun, 16 Nov 2025 10:00:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29022-houston-color-scheme</guid>
-      <dc:date>2025-11-16T10:00:31Z</dc:date>
-    </item>
-    <item>
-      <title>Tempest Color Scheme - Fri Nov 14 07:03:04 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29016-tempest-color-scheme</link>
-      <description>A modern and minimal light color scheme used by Tempest.
-
-vendor: brendt
-downloads: 35
-pricingModel: FREE
-xmlId: color.scheme.Tempest</description>
-      <pubDate>Fri, 14 Nov 2025 07:03:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29016-tempest-color-scheme</guid>
-      <dc:date>2025-11-14T07:03:04Z</dc:date>
-    </item>
-    <item>
-      <title>R3BL Copy Selection Path and Range - Thu Nov 13 18:47:45 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29012-r3bl-copy-selection-path-and-range</link>
-      <description>Copy file path with selected line ranges in Claude Code compatible format. No selection: path/to/file.kt Single line: path/to/file.kt:42 Multi-line...
-
-vendor: R3BL
-downloads: 12
-pricingModel: FREE
-xmlId: com.r3bl.copy-selection-path</description>
-      <pubDate>Thu, 13 Nov 2025 18:47:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29012-r3bl-copy-selection-path-and-range</guid>
-      <dc:date>2025-11-13T18:47:45Z</dc:date>
-    </item>
-    <item>
-      <title>ngx-translate-intellisense - Thu Nov 13 18:34:16 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29011-ngx-translate-intellisense</link>
-      <description>This IntelliJ IDEA plugin enhances the development experience for Angular applications using ngx-translate. It provides intelligent code completion, inline hints, and...
-
-vendor: Ahmed Elhakim
-downloads: 23
-pricingModel: FREE
-xmlId: com.github.ahmedwelhakim.ngxtranslateintellisense</description>
-      <pubDate>Thu, 13 Nov 2025 18:34:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29011-ngx-translate-intellisense</guid>
-      <dc:date>2025-11-13T18:34:16Z</dc:date>
     </item>
   </channel>
 </rss>
