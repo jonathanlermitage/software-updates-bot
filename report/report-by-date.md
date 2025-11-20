@@ -1,6 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|3.5.8.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 16:03:44 UTC 2025|
+|![logo](../media/logo/springboot.png) Spring Boot|4.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 20:04:39 UTC 2025|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.5 (252.28238.7) ~ 2025-11-20|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Nov 20 20:04:25 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.28294.169) ~ 2025-11-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Nov 19 12:03:33 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 332 - Groquik revient, Emmanuel s'en va|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Nov 18 12:04:05 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.2.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 17 16:03:34 UTC 2025|
@@ -28,7 +29,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 16:03:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 12:03:31 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 16:03:21 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.4 (252.27397.103) ~ 2025-10-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Oct 24 04:04:01 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.9+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 00:05:26 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 00:05:25 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.0|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 07 16:03:17 UTC 2025|

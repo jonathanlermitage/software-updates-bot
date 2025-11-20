@@ -21,7 +21,7 @@
 |![logo](../media/logo/gradle.png) Gradle|9.2.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 17 16:03:34 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.28294.169) ~ 2025-11-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Nov 19 12:03:33 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.4 (252.27397.103) ~ 2025-10-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Oct 24 04:04:01 UTC 2025|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.5 (252.28238.7) ~ 2025-11-20|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Nov 20 20:04:25 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.2.5 to 19.3.0 ~ 2025-10-31|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Oct 31 20:03:15 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 332 - Groquik revient, Emmanuel s'en va|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Nov 18 12:04:05 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
@@ -41,6 +41,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 07 16:03:16 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.0|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 07 16:03:17 UTC 2025|
-|![logo](../media/logo/springboot.png) Spring Boot|3.5.8.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 16:03:44 UTC 2025|
+|![logo](../media/logo/springboot.png) Spring Boot|4.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 20:04:39 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|

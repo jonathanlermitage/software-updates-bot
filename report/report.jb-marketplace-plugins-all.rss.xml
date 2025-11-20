@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Sciak Flow for Gitlab - Wed Nov 19 12:14:28 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29075-sciak-flow-for-gitlab</link>
+      <description>Sciak Flow Plugin for Gitlab Simple plugin for interacting with Gitlab, the plugin functionality are about: Pipeline management Merge request This plugin is not...
+
+vendor: Mirko Sciachero
+downloads: 0
+pricingModel: FREE
+xmlId: com.gitlab.msciachero.sciak-flow-gitlab-plugin</description>
+      <pubDate>Wed, 19 Nov 2025 12:14:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29075-sciak-flow-for-gitlab</guid>
+      <dc:date>2025-11-19T12:14:28Z</dc:date>
+    </item>
+    <item>
+      <title>Azure DevOps Integration - Wed Nov 19 21:54:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28889-azure-devops-integration</link>
+      <description>Azure DevOps Integration for JetBrains IDEs Integrate Azure DevOps directly into your JetBrains IDE with a dedicated Tool Window for managing Pull Requests, inspired...
+
+vendor: Paol0B
+downloads: 2
+pricingModel: FREE
+xmlId: paol0b.AzureDevOps</description>
+      <pubDate>Wed, 19 Nov 2025 21:54:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28889-azure-devops-integration</guid>
+      <dc:date>2025-11-19T21:54:26Z</dc:date>
+    </item>
+    <item>
       <title>TI-Basic - Thu Nov 20 12:04:42 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28722-ti-basic</link>
       <description>TI-BASIC IntelliJ plugin This is an IntelliJ plugin for the TI-BASIC language, used for programming the calculator. This plugin adds many functionalities to the...
@@ -58,7 +84,7 @@ xmlId: hao.wu.go-to-component</description>
       <dc:date>2025-11-19T14:30:57Z</dc:date>
     </item>
     <item>
-      <title>AutoMR-V2 - Wed Nov 19 08:57:52 UTC 2025</title>
+      <title>AutoMR-V2 - Thu Nov 20 03:18:25 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29071-automr-v2</link>
       <description>This is a convenient plugin for automatically submitting pull requests. 这是一款方便的自动提交合并代码请求的插件. 配置文件内容如下: { "GITLAB_API_URL" : "https://git.yyrd.com/api/v4", // GitLab...
 
@@ -66,9 +92,9 @@ vendor: 希文777
 downloads: 4
 pricingModel: FREE
 xmlId: com.xiwen.AutoMR-V2</description>
-      <pubDate>Wed, 19 Nov 2025 08:57:52 GMT</pubDate>
+      <pubDate>Thu, 20 Nov 2025 03:18:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29071-automr-v2</guid>
-      <dc:date>2025-11-19T08:57:52Z</dc:date>
+      <dc:date>2025-11-20T03:18:25Z</dc:date>
     </item>
     <item>
       <title>DH Dependency Vulnerable - Wed Nov 19 10:10:41 UTC 2025</title>
@@ -149,7 +175,7 @@ xmlId: com.codescoring.ide.sca</description>
       <dc:date>2025-11-18T15:12:09Z</dc:date>
     </item>
     <item>
-      <title>pytest Language Server - Tue Nov 18 18:00:16 UTC 2025</title>
+      <title>pytest Language Server - Thu Nov 20 00:58:40 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29056-pytest-language-server</link>
       <description>A blazingly fast Language Server Protocol implementation for pytest fixtures, written in Rust. Features: Go to Definition: Jump to fixture definitions from usage Code...
 
@@ -157,9 +183,9 @@ vendor: bellini666
 downloads: 8
 pricingModel: FREE
 xmlId: com.github.bellini666.pytest-language-server</description>
-      <pubDate>Tue, 18 Nov 2025 18:00:16 GMT</pubDate>
+      <pubDate>Thu, 20 Nov 2025 00:58:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29056-pytest-language-server</guid>
-      <dc:date>2025-11-18T18:00:16Z</dc:date>
+      <dc:date>2025-11-20T00:58:40Z</dc:date>
     </item>
     <item>
       <title>Gauge MindMap - Mon Nov 17 16:48:51 UTC 2025</title>
@@ -238,32 +264,6 @@ xmlId: com.aquilax.appsec</description>
       <pubDate>Mon, 17 Nov 2025 11:27:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28967-aquilax-appsec</guid>
       <dc:date>2025-11-17T11:27:30Z</dc:date>
-    </item>
-    <item>
-      <title>RestfulTool2 - Sun Nov 16 05:51:45 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29032-restfultool2</link>
-      <description>RestfulTool2 GitCode A set of auxiliary tools for Restful service development Provides a display window of Services tree Double click the URL to jump directly to the...
-
-vendor: togoup
-downloads: 21
-pricingModel: FREE
-xmlId: top.togoup.restful.tool2</description>
-      <pubDate>Sun, 16 Nov 2025 05:51:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29032-restfultool2</guid>
-      <dc:date>2025-11-16T05:51:45Z</dc:date>
-    </item>
-    <item>
-      <title>V2EX LogScope - Sun Nov 16 05:58:51 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29034-v2ex-logscope</link>
-      <description>V2EX LogScope is an IntelliJ IDEA plugin that renders V2EX content in a log-style window so you can stay updated without leaving your IDE. V2EX LogScope 是一个 IntelliJ...
-
-vendor: jsnjfz
-downloads: 5
-pricingModel: FREE
-xmlId: com.github.jsnjfz.logscope</description>
-      <pubDate>Sun, 16 Nov 2025 05:58:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29034-v2ex-logscope</guid>
-      <dc:date>2025-11-16T05:58:51Z</dc:date>
     </item>
   </channel>
 </rss>
