@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>laravel-route-jump - Wed Nov 19 00:32:05 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29069-laravel-route-jump</link>
+      <description>Jump from a Laravel URL to the corresponding Controller@method in PhpStorm or IntelliJ IDEA. Key capabilities: Instant navigation from URLs to controller...
+
+vendor: tommykw
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.tommykw.laravelroutejump</description>
+      <pubDate>Wed, 19 Nov 2025 00:32:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29069-laravel-route-jump</guid>
+      <dc:date>2025-11-19T00:32:05Z</dc:date>
+    </item>
+    <item>
       <title>Point I18n - Tue Nov 18 12:41:06 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29062-point-i18n</link>
       <description>Point I18n extension for working with localization in Point projects. Supports translation synchronization, key search, and inline translation display in the editor...
@@ -251,19 +264,6 @@ xmlId: com.github.jsnjfz.logscope</description>
       <pubDate>Sun, 16 Nov 2025 05:58:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29034-v2ex-logscope</guid>
       <dc:date>2025-11-16T05:58:51Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek AI Scan. - Mon Nov 17 11:06:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29035-deepseek-ai-scan-</link>
-      <description>DeepSeek AI Scan utilizes advanced artificial intelligence to automatically generate comprehensive assessments of code quality. These reports not only highlight...
-
-vendor: simpledev
-downloads: 17
-pricingModel: FREE
-xmlId: com.code.ai.scan.kit</description>
-      <pubDate>Mon, 17 Nov 2025 11:06:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29035-deepseek-ai-scan-</guid>
-      <dc:date>2025-11-17T11:06:36Z</dc:date>
     </item>
   </channel>
 </rss>
