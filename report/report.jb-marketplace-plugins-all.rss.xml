@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Curler - Wed Nov 19 18:24:56 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28422-curler</link>
+      <description>Generate cURL strings from Spring REST endpoints. Features: Generate cURL strings from Spring REST endpoints directly from code Execute requests to Spring REST...
+
+vendor: Yan Rodrigues Nalon
+downloads: 4
+pricingModel: FREE
+xmlId: dev.nalon.curler-plugin</description>
+      <pubDate>Wed, 19 Nov 2025 18:24:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28422-curler</guid>
+      <dc:date>2025-11-19T18:24:56Z</dc:date>
+    </item>
+    <item>
+      <title>Obsidian Bridge - Fri Nov 21 06:48:37 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29098-obsidian-bridge</link>
+      <description>Obsidian integration for IntelliJ IDEA that brings Obsidian-style markdown features to your IDE. Features: WikiLink Support: Navigate between notes using [[FileName...
+
+vendor: Martin
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.mhlavac.intellijobsidian</description>
+      <pubDate>Fri, 21 Nov 2025 06:48:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29098-obsidian-bridge</guid>
+      <dc:date>2025-11-21T06:48:37Z</dc:date>
+    </item>
+    <item>
+      <title>Web Components Language Server - Fri Nov 21 14:39:50 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29094-web-components-language-server</link>
+      <description>Web Components Language Server for JetBrains IDEs Advanced editor support for using Web Components and custom elements in WebStorm, IntelliJ IDEA, and other JetBrains...
+
+vendor: wc-toolkit
+downloads: 0
+pricingModel: FREE
+xmlId: com.wc-toolkit.web-components-language-server</description>
+      <pubDate>Fri, 21 Nov 2025 14:39:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29094-web-components-language-server</guid>
+      <dc:date>2025-11-21T14:39:50Z</dc:date>
+    </item>
+    <item>
       <title>GitLab Pipeline Monitor - Fri Nov 21 09:29:41 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29096-gitlab-pipeline-monitor</link>
       <description>GitLab Pipeline Monitor - Professional CI/CD Management A powerful IntelliJ plugin for real-time GitLab CI/CD pipeline monitoring and management, designed to...
@@ -225,45 +264,6 @@ xmlId: com.github.tommykw.laravelroutejump</description>
       <pubDate>Wed, 19 Nov 2025 00:32:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29069-laravel-route-jump</guid>
       <dc:date>2025-11-19T00:32:05Z</dc:date>
-    </item>
-    <item>
-      <title>Point I18n - Fri Nov 21 08:17:44 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29062-point-i18n</link>
-      <description>Point I18n extension for working with localization in Point projects. Supports translation synchronization, key search, and inline translation display in the editor...
-
-vendor: Point I18n
-downloads: 8
-pricingModel: FREE
-xmlId: com.point.i18n</description>
-      <pubDate>Fri, 21 Nov 2025 08:17:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29062-point-i18n</guid>
-      <dc:date>2025-11-21T08:17:44Z</dc:date>
-    </item>
-    <item>
-      <title>Go-to-component - Wed Nov 19 14:30:57 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29070-go-to-component</link>
-      <description>This plugin provides bidirectional navigation between Umi convention-based routes and components, supporting the following two scenarios: From routes.ts to target...
-
-vendor: go-to-component
-downloads: 6
-pricingModel: FREE
-xmlId: hao.wu.go-to-component</description>
-      <pubDate>Wed, 19 Nov 2025 14:30:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29070-go-to-component</guid>
-      <dc:date>2025-11-19T14:30:57Z</dc:date>
-    </item>
-    <item>
-      <title>PanDev Metrics - Thu Nov 20 15:43:45 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29078-pandev-metrics</link>
-      <description>PanDev Metrics — Data-Driven Development Analytics PanDev Metrics is an ecosystem designed to digitize development processes and enable true data-driven...
-
-vendor: PanDev
-downloads: 12
-pricingModel: FREE
-xmlId: io.pandev.metrics-plugin</description>
-      <pubDate>Thu, 20 Nov 2025 15:43:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29078-pandev-metrics</guid>
-      <dc:date>2025-11-20T15:43:45Z</dc:date>
     </item>
   </channel>
 </rss>
