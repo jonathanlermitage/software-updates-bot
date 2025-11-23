@@ -45,7 +45,7 @@ class Application : CommandLineRunner {
     lateinit var statusReporter: StatusReporter
 
     @Suppress("TooGenericExceptionCaught") // we want to catch all exceptions to skip bad reports
-    override fun run(vararg args: String?) {
+    override fun run(vararg args: String) {
         logGCStats()
         logMemoryStats()
 

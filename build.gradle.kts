@@ -8,7 +8,7 @@ plugins {
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "3.5.7"
+    id("org.springframework.boot") version "4.0.0"
     id("io.spring.dependency-management") version "1.1.7"
     id("com.github.ben-manes.versions") version "0.53.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
@@ -26,15 +26,17 @@ repositories {
 
 dependencies {
     implementation("org.springframework.boot:spring-boot-starter")
+    implementation("org.springframework.boot:spring-boot-starter-aspectj")
+    implementation("org.springframework.retry:spring-retry:2.0.12")
+
     implementation("org.jetbrains.kotlin:kotlin-reflect")
+
     implementation("com.google.code.gson:gson:2.13.2")
     implementation("com.jayway.jsonpath:json-path:2.10.0")
     implementation("org.jsoup:jsoup:1.21.2") // https://jsoup.org/news/
-    implementation("commons-io:commons-io:2.20.0")
-    implementation("org.apache.commons:commons-lang3:3.19.0")
+    implementation("commons-io:commons-io:2.21.0")
+    implementation("org.apache.commons:commons-lang3:3.20.0")
     implementation("com.rometools:rome:2.1.0") // https://github.com/rometools/rome/releases
-    implementation("org.springframework.boot:spring-boot-starter-aop")
-    implementation("org.springframework.retry:spring-retry:2.0.12")
 
     kapt("org.springframework.boot:spring-boot-configuration-processor")
 
