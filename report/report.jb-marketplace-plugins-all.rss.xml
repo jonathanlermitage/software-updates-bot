@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Synthetic Quota Tracker - Mon Nov 24 11:51:41 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29104-synthetic-quota-tracker</link>
+      <description>Shows your Synthetic API quota usage in the IDE status bar and updates it periodically.
+
+vendor: TheSingular
+downloads: 0
+pricingModel: FREE
+xmlId: com.thesingular.synthetic-quota-tracker</description>
+      <pubDate>Mon, 24 Nov 2025 11:51:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29104-synthetic-quota-tracker</guid>
+      <dc:date>2025-11-24T11:51:41Z</dc:date>
+    </item>
+    <item>
+      <title>Image Editor - Mon Nov 24 06:32:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29116-image-editor</link>
+      <description>View and edit images right inside your IDE. Supports PNG, JPG/JPEG, GIF, BMP, ICO, WEBP, and TIFF. Fast, smooth zoom with fit to screen Easy pan and scroll; looks...
+
+vendor: meanmail.dev
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: dev.meanmail.plugin.image-editor</description>
+      <pubDate>Mon, 24 Nov 2025 06:32:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29116-image-editor</guid>
+      <dc:date>2025-11-24T06:32:09Z</dc:date>
+    </item>
+    <item>
+      <title>maven-buddy - Mon Nov 24 14:44:27 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29123-maven-buddy</link>
+      <description>Maven Buddy is an IntelliJ IDEA plugin that helps you quickly search and add Maven dependencies from Maven Central directly within your IDE. This plugin streamlines...
+
+vendor: zjarlin
+downloads: 0
+pricingModel: FREE
+xmlId: site.addzero.maven-buddy</description>
+      <pubDate>Mon, 24 Nov 2025 14:44:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29123-maven-buddy</guid>
+      <dc:date>2025-11-24T14:44:27Z</dc:date>
+    </item>
+    <item>
       <title>Curler - Wed Nov 19 18:24:56 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28422-curler</link>
       <description>Generate cURL strings from Spring REST endpoints. Features: Generate cURL strings from Spring REST endpoints directly from code Execute requests to Spring REST...
@@ -58,7 +97,7 @@ xmlId: com.kylewu.gitlabpipeline</description>
       <dc:date>2025-11-21T09:29:41Z</dc:date>
     </item>
     <item>
-      <title>MiniMessage-formatter - Thu Nov 20 21:36:55 UTC 2025</title>
+      <title>MiniMessage-formatter - Sat Nov 22 22:23:48 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29095-minimessage-formatter</link>
       <description>Syntax highlighting for MiniMessage color tags in Java and Kotlin code. Features Real-time preview of MiniMessage color tags in string literals Support for named...
 
@@ -66,9 +105,9 @@ vendor: Inspect
 downloads: 30
 pricingModel: FREE
 xmlId: me.inspect.mini-message-format-viewer</description>
-      <pubDate>Thu, 20 Nov 2025 21:36:55 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 22:23:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29095-minimessage-formatter</guid>
-      <dc:date>2025-11-20T21:36:55Z</dc:date>
+      <dc:date>2025-11-22T22:23:48Z</dc:date>
     </item>
     <item>
       <title>RunControl - Thu Nov 20 17:39:31 UTC 2025</title>
@@ -225,45 +264,6 @@ xmlId: paol0b.AzureDevOps</description>
       <pubDate>Wed, 19 Nov 2025 21:54:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28889-azure-devops-integration</guid>
       <dc:date>2025-11-19T21:54:26Z</dc:date>
-    </item>
-    <item>
-      <title>TI-Basic - Thu Nov 20 12:04:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28722-ti-basic</link>
-      <description>TI-BASIC IntelliJ plugin This is an IntelliJ plugin for the TI-BASIC language, used for programming the calculator. This plugin adds many functionalities to the...
-
-vendor: Peter Tillema
-downloads: 31
-pricingModel: FREE
-xmlId: nl.petertillema.tibasic</description>
-      <pubDate>Thu, 20 Nov 2025 12:04:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28722-ti-basic</guid>
-      <dc:date>2025-11-20T12:04:42Z</dc:date>
-    </item>
-    <item>
-      <title>Laravel Route Jump - Wed Nov 19 00:32:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29069-laravel-route-jump</link>
-      <description>Jump from a Laravel URL to the corresponding Controller@method in PhpStorm or IntelliJ IDEA. Key capabilities: Instant navigation from URLs to controller...
-
-vendor: tommykw
-downloads: 32
-pricingModel: FREE
-xmlId: com.github.tommykw.laravelroutejump</description>
-      <pubDate>Wed, 19 Nov 2025 00:32:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29069-laravel-route-jump</guid>
-      <dc:date>2025-11-19T00:32:05Z</dc:date>
-    </item>
-    <item>
-      <title>Point I18n - Fri Nov 21 08:17:44 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29062-point-i18n</link>
-      <description>Point I18n extension for working with localization in Point projects. Supports translation synchronization, key search, and inline translation display in the editor...
-
-vendor: Point I18n
-downloads: 27
-pricingModel: FREE
-xmlId: com.point.i18n</description>
-      <pubDate>Fri, 21 Nov 2025 08:17:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29062-point-i18n</guid>
-      <dc:date>2025-11-21T08:17:44Z</dc:date>
     </item>
   </channel>
 </rss>
