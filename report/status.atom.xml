@@ -3,74 +3,18 @@
   <title>software-updates-bot status</title>
   <link rel="alternate" href="https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.atom.xml" />
   <tagline>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</tagline>
-  <modified>2025-11-25T00:06:20Z</modified>
+  <modified>2025-11-25T04:06:55Z</modified>
   <dc:creator>Jonathan Lermitage</dc:creator>
-  <dc:date>2025-11-25T00:06:20Z</dc:date>
+  <dc:date>2025-11-25T04:06:55Z</dc:date>
   <entry>
-    <title>FAILED -- Tue Nov 25 00:06:20 UTC 2025</title>
+    <title>OK -- Tue Nov 25 04:06:55 UTC 2025</title>
     <author>
       <name />
     </author>
     <id />
-    <modified>2025-11-25T00:06:20Z</modified>
-    <issued>2025-11-25T00:06:20Z</issued>
-    <summary type="text/html" mode="escaped">FAILED
-
-&lt;pre&gt;Checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2028)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1629)
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
-	at java.base/java.net.URL.openStream(URL.java:1325)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3476)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3451)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3565)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3524)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.downloadAsText(ScrapperImpl.kt:67)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:45)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:359)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:158)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:114)
-	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:357)
-	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:246)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:135)
-	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:162)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
-	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:719)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$SpringCGLIB.fetchHtml(&lt;generated&gt;)
-	at biz.lermitage.sub.service.scrapper.Scrapper.fetchHtml$default(Scrapper.kt:11)
-	at biz.lermitage.sub.service.checker.impl.InkscapeChecker.check(InkscapeChecker.kt:22)
-	at biz.lermitage.sub.Application.run(Application.kt:58)
-	at org.springframework.boot.SpringApplication.lambda$callRunner$1(SpringApplication.java:801)
-	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:82)
-	at org.springframework.util.function.ThrowingConsumer.accept(ThrowingConsumer.java:60)
-	at org.springframework.util.function.ThrowingConsumer$1.accept(ThrowingConsumer.java:86)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:809)
-	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:800)
-	at org.springframework.boot.SpringApplication.lambda$callRunners$0(SpringApplication.java:785)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184)
-	at java.base/java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:357)
-	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:510)
-	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
-	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151)
-	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174)
-	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
-	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
-	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:785)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:328)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1374)
-	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
-	at biz.lermitage.sub.ApplicationKt.main(Application.kt:143)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:106)
-	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:64)
-	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:40)
-
-&lt;/pre&gt;</summary>
-    <dc:date>2025-11-25T00:06:20Z</dc:date>
+    <modified>2025-11-25T04:06:55Z</modified>
+    <issued>2025-11-25T04:06:55Z</issued>
+    <summary type="text/html" mode="escaped">OK</summary>
+    <dc:date>2025-11-25T04:06:55Z</dc:date>
   </entry>
 </feed>
