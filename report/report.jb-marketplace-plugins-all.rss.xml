@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>DeepSeek AI Git - Sun Nov 23 07:25:55 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29110-deepseek-ai-git</link>
+      <description>The plugin uses DeepSeek and AI to automatically generate commit messages.The plugin leverages advanced artificial intelligence technologies to automatically generate...
+
+vendor: StackSmith
+downloads: 0
+pricingModel: FREE
+xmlId: com.dp.git.ai.tool</description>
+      <pubDate>Sun, 23 Nov 2025 07:25:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29110-deepseek-ai-git</guid>
+      <dc:date>2025-11-23T07:25:55Z</dc:date>
+    </item>
+    <item>
+      <title>Pprof Plus: Visual Analytics - Fri Nov 21 19:31:54 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29103-pprof-plus-visual-analytics</link>
+      <description>A powerful performance analysis plugin that brings go tool pprof directly into your IDE. Visualize, analyze, and optimize your Go applications without leaving GoLand...
+
+vendor: spelens-gud
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.spelens.pprofview</description>
+      <pubDate>Fri, 21 Nov 2025 19:31:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29103-pprof-plus-visual-analytics</guid>
+      <dc:date>2025-11-21T19:31:54Z</dc:date>
+    </item>
+    <item>
+      <title>Current Fragment - Mon Nov 24 11:15:03 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29122-current-fragment</link>
+      <description>Find the current Activity and Fragments of running Android app via ADB. Supports Android 7-14.
+
+vendor: CurrentFragment
+downloads: 0
+pricingModel: FREE
+xmlId: com.yash.currentfragment</description>
+      <pubDate>Mon, 24 Nov 2025 11:15:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29122-current-fragment</guid>
+      <dc:date>2025-11-24T11:15:03Z</dc:date>
+    </item>
+    <item>
+      <title>MyBatis Log Panda - Sun Nov 23 16:49:37 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29115-mybatis-log-panda</link>
+      <description>MyBatis Log Panda - MyBatis SQL Log Monitoring Tool A specialized SQL log monitoring plugin designed for MyBatis developers, providing real-time capture, analysis, and...
+
+vendor: 舒一笑不秃头
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.mybatis.log.panda</description>
+      <pubDate>Sun, 23 Nov 2025 16:49:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29115-mybatis-log-panda</guid>
+      <dc:date>2025-11-23T16:49:37Z</dc:date>
+    </item>
+    <item>
       <title>Synthetic Quota Tracker - Mon Nov 24 11:51:41 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29104-synthetic-quota-tracker</link>
       <description>Shows your Synthetic API quota usage in the IDE status bar and updates it periodically.
@@ -45,7 +97,7 @@ xmlId: site.addzero.maven-buddy</description>
       <dc:date>2025-11-24T14:44:27Z</dc:date>
     </item>
     <item>
-      <title>Curler - Wed Nov 19 18:24:56 UTC 2025</title>
+      <title>Curler - Sat Nov 22 01:04:06 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28422-curler</link>
       <description>Generate cURL strings from Spring REST endpoints. Features: Generate cURL strings from Spring REST endpoints directly from code Execute requests to Spring REST...
 
@@ -53,9 +105,9 @@ vendor: Yan Rodrigues Nalon
 downloads: 11
 pricingModel: FREE
 xmlId: dev.nalon.curler-plugin</description>
-      <pubDate>Wed, 19 Nov 2025 18:24:56 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 01:04:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28422-curler</guid>
-      <dc:date>2025-11-19T18:24:56Z</dc:date>
+      <dc:date>2025-11-22T01:04:06Z</dc:date>
     </item>
     <item>
       <title>Obsidian Bridge - Fri Nov 21 06:48:37 UTC 2025</title>
@@ -212,58 +264,6 @@ xmlId: com.jakubjirak.metalshader</description>
       <pubDate>Thu, 20 Nov 2025 15:21:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29038-metal-shader-support</guid>
       <dc:date>2025-11-20T15:21:11Z</dc:date>
-    </item>
-    <item>
-      <title>Hexana - Thu Nov 20 14:41:15 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29090-hexana</link>
-      <description>Hexana is a WebAssembly analysis and inspection tool integrated into JetBrains IDEs. It provides a structured view of WASM modules, including imports, exports...
-
-vendor: JetBrains s.r.o.
-downloads: 20
-pricingModel: FREE
-xmlId: org.jetbrains.hexana</description>
-      <pubDate>Thu, 20 Nov 2025 14:41:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29090-hexana</guid>
-      <dc:date>2025-11-20T14:41:15Z</dc:date>
-    </item>
-    <item>
-      <title>Switch2VSCode - Thu Nov 20 12:57:56 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29087-switch2vscode</link>
-      <description>Switch2VSCode is a JetBrains IDE plugin that lets you open any file or project directly in Visual Studio Code while keeping the caret position. Key Features Open the...
-
-vendor: Switch2VSCode
-downloads: 11
-pricingModel: FREE
-xmlId: com.github.qczone.switch2vscode</description>
-      <pubDate>Thu, 20 Nov 2025 12:57:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29087-switch2vscode</guid>
-      <dc:date>2025-11-20T12:57:56Z</dc:date>
-    </item>
-    <item>
-      <title>Sciak Flow for Gitlab - Wed Nov 19 12:14:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29075-sciak-flow-for-gitlab</link>
-      <description>Sciak Flow Plugin for Gitlab Simple plugin for interacting with Gitlab, the plugin functionality are about: Pipeline management Merge request This plugin is not...
-
-vendor: Mirko Sciachero
-downloads: 11
-pricingModel: FREE
-xmlId: com.gitlab.msciachero.sciak-flow-gitlab-plugin</description>
-      <pubDate>Wed, 19 Nov 2025 12:14:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29075-sciak-flow-for-gitlab</guid>
-      <dc:date>2025-11-19T12:14:28Z</dc:date>
-    </item>
-    <item>
-      <title>Azure DevOps Integration - Wed Nov 19 21:54:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28889-azure-devops-integration</link>
-      <description>Azure DevOps Integration for JetBrains IDEs Integrate Azure DevOps directly into your JetBrains IDE with a dedicated Tool Window for managing Pull Requests, inspired...
-
-vendor: Paol0B
-downloads: 48
-pricingModel: FREE
-xmlId: paol0b.AzureDevOps</description>
-      <pubDate>Wed, 19 Nov 2025 21:54:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28889-azure-devops-integration</guid>
-      <dc:date>2025-11-19T21:54:26Z</dc:date>
     </item>
   </channel>
 </rss>
