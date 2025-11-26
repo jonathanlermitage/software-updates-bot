@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>SmartEnv - Mon Nov 24 23:43:19 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29129-smartenv</link>
+      <description>SmartEnv injects profile-driven environment variables right before launching run configurations. Compose values from .env, .properties, YAML, JSON (flattened or blob...
+
+vendor: SmartEnv Team
+downloads: 0
+pricingModel: FREE
+xmlId: dev.smartenv.smartenv</description>
+      <pubDate>Mon, 24 Nov 2025 23:43:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29129-smartenv</guid>
+      <dc:date>2025-11-24T23:43:19Z</dc:date>
+    </item>
+    <item>
+      <title>Simple Translate - Sun Nov 23 07:50:33 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29111-simple-translate</link>
+      <description>DeepSeek Translate is an IntelliJ IDEA plugin that provides developers with convenient code translate functionality. This plugin understands and converts terminology...
+
+vendor: keteme
+downloads: 0
+pricingModel: FREE
+xmlId: org.translate.ai.simple</description>
+      <pubDate>Sun, 23 Nov 2025 07:50:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29111-simple-translate</guid>
+      <dc:date>2025-11-23T07:50:33Z</dc:date>
+    </item>
+    <item>
+      <title>LogParser Pro - Sun Nov 23 19:38:23 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29050-logparser-pro</link>
+      <description>LogParser Pro - Professional Log Analysis for JetBrains IDEs Core Features: Syntax highlighting for JSON, plaintext, Apache/Nginx logs Log level filtering (ERROR...
+
+vendor: Jakub Jirák
+downloads: 8
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.logparser.pro</description>
+      <pubDate>Sun, 23 Nov 2025 19:38:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29050-logparser-pro</guid>
+      <dc:date>2025-11-23T19:38:23Z</dc:date>
+    </item>
+    <item>
+      <title>Gherkin Buddy - Mon Nov 24 19:45:56 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29125-gherkin-buddy</link>
+      <description>Gherkin Buddy helps you manage your Gherkin feature files. Overview of all Gherkin files, scenarios, and steps. Generate new scenarios based on existing steps.
+
+vendor: Jakub Jirák
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.gherkinbuddy</description>
+      <pubDate>Mon, 24 Nov 2025 19:45:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29125-gherkin-buddy</guid>
+      <dc:date>2025-11-24T19:45:56Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode (unofficial) - Mon Nov 24 08:19:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29089-opencode-unofficial-</link>
+      <description>OpenCode (unofficial) JetBrains Plugin Unofficial OpenCode JetBrains plugin. Drag and drop files to context (JetBrains: from Project Window; VS Code: from Explorer or...
+
+vendor: paviko
+downloads: 1
+pricingModel: FREE
+xmlId: paviko</description>
+      <pubDate>Mon, 24 Nov 2025 08:19:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29089-opencode-unofficial-</guid>
+      <dc:date>2025-11-24T08:19:40Z</dc:date>
+    </item>
+    <item>
+      <title>Codex Chat - Tue Nov 25 22:32:42 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29101-codex-chat</link>
+      <description>Codex Chat extension for your IDE Integrates OpenAI Codex CLI into IDE as a native chat window. Key Features Access all GPT-5.1 models including GPT-5.1 Codex Max with...
+
+vendor: ScrumCoin
+downloads: 5
+pricingModel: FREE
+xmlId: codex-brain</description>
+      <pubDate>Tue, 25 Nov 2025 22:32:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29101-codex-chat</guid>
+      <dc:date>2025-11-25T22:32:42Z</dc:date>
+    </item>
+    <item>
       <title>DeepSeek AI Git - Sun Nov 23 07:25:55 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29110-deepseek-ai-git</link>
       <description>The plugin uses DeepSeek and AI to automatically generate commit messages.The plugin leverages advanced artificial intelligence technologies to automatically generate...
@@ -136,7 +214,7 @@ xmlId: com.wc-toolkit.web-components-language-server</description>
       <dc:date>2025-11-21T14:39:50Z</dc:date>
     </item>
     <item>
-      <title>GitLab Pipeline Monitor - Fri Nov 21 09:29:41 UTC 2025</title>
+      <title>GitLab Pipeline Monitor - Mon Nov 24 08:30:12 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29096-gitlab-pipeline-monitor</link>
       <description>GitLab Pipeline Monitor - Professional CI/CD Management A powerful IntelliJ plugin for real-time GitLab CI/CD pipeline monitoring and management, designed to...
 
@@ -144,9 +222,9 @@ vendor: DogDrinkWater
 downloads: 26
 pricingModel: FREE
 xmlId: com.kylewu.gitlabpipeline</description>
-      <pubDate>Fri, 21 Nov 2025 09:29:41 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 08:30:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29096-gitlab-pipeline-monitor</guid>
-      <dc:date>2025-11-21T09:29:41Z</dc:date>
+      <dc:date>2025-11-24T08:30:12Z</dc:date>
     </item>
     <item>
       <title>MiniMessage-formatter - Sat Nov 22 22:23:48 UTC 2025</title>
@@ -186,84 +264,6 @@ xmlId: com.rovo.lsp</description>
       <pubDate>Mon, 24 Nov 2025 09:16:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29093-rovo-lsp</guid>
       <dc:date>2025-11-24T09:16:49Z</dc:date>
-    </item>
-    <item>
-      <title>Factory Droid - Thu Nov 20 16:50:42 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28649-factory-droid</link>
-      <description>Factory Droid embeds Factory's AI coding agent directly in your JetBrains IDE so teams can ship faster with enterprise-grade guardrails. Highlights Launch Factory...
-
-vendor: Factory
-downloads: 78
-pricingModel: FREE
-xmlId: com.factory.jetbrains-plugin</description>
-      <pubDate>Thu, 20 Nov 2025 16:50:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28649-factory-droid</guid>
-      <dc:date>2025-11-20T16:50:42Z</dc:date>
-    </item>
-    <item>
-      <title>VulnSpeed - GPU-Accelerated SAST - Tue Nov 18 18:00:47 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29001-vulnspeed--gpu-accelerated-sast</link>
-      <description>VulnSpeed - Real-Time Security Vulnerability Detection 50-100x faster than traditional SAST tools using GPU acceleration (Metal/CUDA/OpenCL) &#x1f680; Key Features Ultra-Fast...
-
-vendor: Jakub Jirák
-downloads: 26
-pricingModel: FREEMIUM
-xmlId: com.jakubjirak.vulnspeed</description>
-      <pubDate>Tue, 18 Nov 2025 18:00:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29001-vulnspeed--gpu-accelerated-sast</guid>
-      <dc:date>2025-11-18T18:00:47Z</dc:date>
-    </item>
-    <item>
-      <title>GPU Dev Accelerator Ultimate - Sun Nov 16 20:26:02 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29044-gpu-dev-accelerator-ultimate</link>
-      <description>GPU Dev Accelerator Ultimate - Professional GPU Development IDE The most advanced cross-platform GPU development environment for CUDA, Metal, OpenCL, and Vulkan...
-
-vendor: Jakub Jirák
-downloads: 15
-pricingModel: PAID
-xmlId: com.jakubjirak.gpudev.ultimate</description>
-      <pubDate>Sun, 16 Nov 2025 20:26:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29044-gpu-dev-accelerator-ultimate</guid>
-      <dc:date>2025-11-16T20:26:02Z</dc:date>
-    </item>
-    <item>
-      <title>Robot Framework Professional - Sun Nov 23 19:57:09 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29046-robot-framework-professional</link>
-      <description>Robot Framework Professional - Enterprise-Grade Test Automation The most advanced Robot Framework IDE plugin with freemium model and premium enterprise features...
-
-vendor: Jakub Jirák
-downloads: 67
-pricingModel: FREEMIUM
-xmlId: com.jakubjirak.robotframework</description>
-      <pubDate>Sun, 23 Nov 2025 19:57:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29046-robot-framework-professional</guid>
-      <dc:date>2025-11-23T19:57:09Z</dc:date>
-    </item>
-    <item>
-      <title>Kei - API Contract Testing - Tue Nov 18 16:24:04 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29067-kei--api-contract-testing</link>
-      <description>Kei – API Contract Testing Real-time OpenAPI &amp;amp; GraphQL validation directly in your IDE. ✓ Automatic contract discovery (OpenAPI, GraphQL) ✓ Real-time validation as...
-
-vendor: Jakub Jirák
-downloads: 9
-pricingModel: FREEMIUM
-xmlId: com.jakubjirak.plugin</description>
-      <pubDate>Tue, 18 Nov 2025 16:24:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29067-kei--api-contract-testing</guid>
-      <dc:date>2025-11-18T16:24:04Z</dc:date>
-    </item>
-    <item>
-      <title>Metal Shader Support - Thu Nov 20 15:21:11 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29038-metal-shader-support</link>
-      <description>Metal Shader Support Comprehensive Metal Shading Language support for IntelliJ-based IDEs. Features Syntax highlighting for Metal Shading Language 3.2 Code completion...
-
-vendor: Jakub Jirák
-downloads: 26
-pricingModel: FREE
-xmlId: com.jakubjirak.metalshader</description>
-      <pubDate>Thu, 20 Nov 2025 15:21:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29038-metal-shader-support</guid>
-      <dc:date>2025-11-20T15:21:11Z</dc:date>
     </item>
   </channel>
 </rss>
