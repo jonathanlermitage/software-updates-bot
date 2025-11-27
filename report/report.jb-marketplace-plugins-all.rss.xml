@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Intel DPC++ Support - Thu Nov 27 06:58:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29045-intel-dpc--support</link>
+      <description>Intel DPC++ (Data Parallel C++) Support for JetBrains IDEs Brings comprehensive Intel oneAPI DPC++/SYCL development capabilities to all JetBrains IDEs with C/C...
+
+vendor: Jakub Jirák
+downloads: 3
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.dpcpp</description>
+      <pubDate>Thu, 27 Nov 2025 06:58:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29045-intel-dpc--support</guid>
+      <dc:date>2025-11-27T06:58:26Z</dc:date>
+    </item>
+    <item>
+      <title>CenterTest - Tue Nov 18 13:56:42 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29063-centertest</link>
+      <description>Provides integration with AnkrPt CenterTest automated testing for Guidewire implementations.
+
+vendor: Kimputing
+downloads: 2
+pricingModel: FREE
+xmlId: com.ankrpt.CenterTestPlugin</description>
+      <pubDate>Tue, 18 Nov 2025 13:56:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29063-centertest</guid>
+      <dc:date>2025-11-18T13:56:42Z</dc:date>
+    </item>
+    <item>
+      <title>IntelliAI Engine - Thu Nov 27 04:13:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29152-intelliai-engine</link>
+      <description>GitHub | Issues IntelliAI Engine is a foundational IntelliJ extension for plugin developers. It exposes a unified AI Service API, centralized configuration UI, secure...
+
+vendor: dong4j
+downloads: 0
+pricingModel: FREE
+xmlId: dev.dong4j.zeka.stack.idea.plugin.common.ai</description>
+      <pubDate>Thu, 27 Nov 2025 04:13:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29152-intelliai-engine</guid>
+      <dc:date>2025-11-27T04:13:16Z</dc:date>
+    </item>
+    <item>
+      <title>Quanta AI - Thu Nov 27 03:27:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29113-quanta-ai</link>
+      <description>Quanta — AI coding assistant for IntelliJ Quanta AI integrates a context-aware AI assistant directly into your IntelliJ-based IDE. Access intelligent code review...
+
+vendor: Quanta Dance
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.quanta_dance.quanta-ai-intellij-plugin</description>
+      <pubDate>Thu, 27 Nov 2025 03:27:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29113-quanta-ai</guid>
+      <dc:date>2025-11-27T03:27:35Z</dc:date>
+    </item>
+    <item>
+      <title>Case Switcher - Thu Nov 27 08:28:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29017-case-switcher</link>
+      <description>Case Switcher Use Shift + Alt + , and Shift + Alt + . to quickly cycle selected text through different naming styles. Supported naming styles: camelCase CamelCase...
+
+vendor: wwsbdy
+downloads: 1
+pricingModel: FREE
+xmlId: com.zj.case-switcher</description>
+      <pubDate>Thu, 27 Nov 2025 08:28:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29017-case-switcher</guid>
+      <dc:date>2025-11-27T08:28:58Z</dc:date>
+    </item>
+    <item>
+      <title>Codefree JavaDoc - Thu Nov 27 07:15:38 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29157-codefree-javadoc</link>
+      <description>Designed specifically for batch generation of compliant JavaDoc comments that meet company standards and Checkstyle requirements. Unlike general-purpose AI tools or...
+
+vendor: dong4j
+downloads: 0
+pricingModel: FREE
+xmlId: com.sctelcp.idea.plugin.codefree</description>
+      <pubDate>Thu, 27 Nov 2025 07:15:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29157-codefree-javadoc</guid>
+      <dc:date>2025-11-27T07:15:38Z</dc:date>
+    </item>
+    <item>
+      <title>problem4ai - Thu Nov 27 05:14:21 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29153-problem4ai</link>
+      <description>Problem4AI is an IntelliJ IDEA plugin that automatically collects compilation errors and warnings from your project, and generates AI-friendly prompts for quick fixes...
+
+vendor: zjarlin
+downloads: 0
+pricingModel: FREE
+xmlId: site.addzero.problem4ai</description>
+      <pubDate>Thu, 27 Nov 2025 05:14:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29153-problem4ai</guid>
+      <dc:date>2025-11-27T05:14:21Z</dc:date>
+    </item>
+    <item>
       <title>Listing Generator - Mon Nov 24 22:34:43 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29128-listing-generator</link>
       <description>IntelliJ Platform integration for the Listing Generator CLI tool. Provides interactive UI for generating dense code contexts optimized for AI assistants like ChatGPT...
@@ -58,17 +149,17 @@ xmlId: com.poeticcoder.pipelinelens</description>
       <dc:date>2025-11-26T14:22:37Z</dc:date>
     </item>
     <item>
-      <title>AI Diff Review - Wed Nov 26 11:12:59 UTC 2025</title>
+      <title>AI Diff Review - Thu Nov 27 08:35:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29112-ai-diff-review</link>
-      <description>An in-IDE AI diff reviewer that runs at commit time and can block only high‑risk changes. &#x1f4b0; Pricing &amp;amp; Trial 14-day free trial: Try all features free for 14 days...
+      <description>Stop bugs before they reach your repository. AI Diff Review is your intelligent safety net, analyzing code changes at commit time to catch security flaws, logic...
 
 vendor: ContentaSoft
 downloads: 2
 pricingModel: PAID
 xmlId: com.contenta.ai.analysis</description>
-      <pubDate>Wed, 26 Nov 2025 11:12:59 GMT</pubDate>
+      <pubDate>Thu, 27 Nov 2025 08:35:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29112-ai-diff-review</guid>
-      <dc:date>2025-11-26T11:12:59Z</dc:date>
+      <dc:date>2025-11-27T08:35:33Z</dc:date>
     </item>
     <item>
       <title>Visualkube Jet - Thu Nov 27 06:57:21 UTC 2025</title>
@@ -123,7 +214,7 @@ xmlId: com.gitlab.codelydev.codelyintellijextension</description>
       <dc:date>2025-11-26T11:19:23Z</dc:date>
     </item>
     <item>
-      <title>BDD Test Automation Pro - Wed Nov 26 07:57:44 UTC 2025</title>
+      <title>BDD Test Automation Pro - Thu Nov 27 04:33:31 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29042-bdd-test-automation-pro</link>
       <description>BDD Test Automation Pro Next-generation BDD/Gherkin plugin for JetBrains IDEs with AI-powered features, advanced navigation, and enterprise-scale performance. Key...
 
@@ -131,9 +222,9 @@ vendor: Jakub Jirák
 downloads: 3
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.bdd-test-automation</description>
-      <pubDate>Wed, 26 Nov 2025 07:57:44 GMT</pubDate>
+      <pubDate>Thu, 27 Nov 2025 04:33:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29042-bdd-test-automation-pro</guid>
-      <dc:date>2025-11-26T07:57:44Z</dc:date>
+      <dc:date>2025-11-27T04:33:31Z</dc:date>
     </item>
     <item>
       <title>Elasticsearch Log - Wed Nov 26 13:18:37 UTC 2025</title>
@@ -173,97 +264,6 @@ xmlId: io.github.heisiar.compose-multiplatform-wizard</description>
       <pubDate>Wed, 26 Nov 2025 01:05:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29108-compose-multiplatform-wizard</guid>
       <dc:date>2025-11-26T01:05:54Z</dc:date>
-    </item>
-    <item>
-      <title>Odoo Shortcuts - Wed Nov 26 16:07:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29136-odoo-shortcuts</link>
-      <description>Odoo Shortcuts - Complete Odoo Development Toolkit for PyCharm Complete Odoo development toolkit with file generators, Odoo Explorer, powerful scaffolds, and addon...
-
-vendor: Odoo Shortcuts
-downloads: 13
-pricingModel: FREE
-xmlId: com.mvintg.odoo-shortcuts</description>
-      <pubDate>Wed, 26 Nov 2025 16:07:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29136-odoo-shortcuts</guid>
-      <dc:date>2025-11-26T16:07:05Z</dc:date>
-    </item>
-    <item>
-      <title>Terminal Manager - Wed Nov 26 15:30:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29134-terminal-manager</link>
-      <description>Customize which terminal tabs open on project startup and configure their working directories and shell types. Features: Configure multiple terminal tabs to open...
-
-vendor: Beat Bächi
-downloads: 42
-pricingModel: FREE
-xmlId: org.nanoya.terminal-manager</description>
-      <pubDate>Wed, 26 Nov 2025 15:30:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29134-terminal-manager</guid>
-      <dc:date>2025-11-26T15:30:34Z</dc:date>
-    </item>
-    <item>
-      <title>Merge Hell Runner - Wed Nov 26 14:08:07 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29132-merge-hell-runner</link>
-      <description>Merge Hell Runner is a hardcore side-scrolling survival game running directly inside your IntelliJ IDEA. Code. Commit. PANIC. Tired of resolving conflicts manually...
-
-vendor: PhilZ Dev
-downloads: 7
-pricingModel: FREE
-xmlId: com.bigphil.mergehell</description>
-      <pubDate>Wed, 26 Nov 2025 14:08:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29132-merge-hell-runner</guid>
-      <dc:date>2025-11-26T14:08:07Z</dc:date>
-    </item>
-    <item>
-      <title>SmartEnv - Mon Nov 24 23:43:19 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29129-smartenv</link>
-      <description>SmartEnv injects profile-driven environment variables right before launching run configurations. Compose values from .env, .properties, YAML, JSON (flattened or blob...
-
-vendor: SmartEnv Team
-downloads: 9
-pricingModel: FREE
-xmlId: dev.smartenv.smartenv</description>
-      <pubDate>Mon, 24 Nov 2025 23:43:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29129-smartenv</guid>
-      <dc:date>2025-11-24T23:43:19Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek Translate AI - Wed Nov 26 02:56:18 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29111-deepseek-translate-ai</link>
-      <description>DeepSeek Translate is an IntelliJ IDEA plugin that provides developers with convenient code translate functionality. This plugin understands and converts terminology...
-
-vendor: keteme
-downloads: 25
-pricingModel: FREE
-xmlId: org.translate.ai.simple</description>
-      <pubDate>Wed, 26 Nov 2025 02:56:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29111-deepseek-translate-ai</guid>
-      <dc:date>2025-11-26T02:56:18Z</dc:date>
-    </item>
-    <item>
-      <title>LogParser Pro - Sun Nov 23 19:38:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29050-logparser-pro</link>
-      <description>LogParser Pro - Professional Log Analysis for JetBrains IDEs Core Features: Syntax highlighting for JSON, plaintext, Apache/Nginx logs Log level filtering (ERROR...
-
-vendor: Jakub Jirák
-downloads: 19
-pricingModel: FREEMIUM
-xmlId: com.jakubjirak.logparser.pro</description>
-      <pubDate>Sun, 23 Nov 2025 19:38:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29050-logparser-pro</guid>
-      <dc:date>2025-11-23T19:38:23Z</dc:date>
-    </item>
-    <item>
-      <title>Gherkin Buddy - Wed Nov 26 17:25:53 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29125-gherkin-buddy</link>
-      <description>Gherkin Buddy helps you manage your Gherkin feature files. Overview of all Gherkin files, scenarios, and steps. Generate new scenarios based on existing steps.
-
-vendor: Jakub Jirák
-downloads: 28
-pricingModel: FREEMIUM
-xmlId: com.jakubjirak.gherkinbuddy</description>
-      <pubDate>Wed, 26 Nov 2025 17:25:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29125-gherkin-buddy</guid>
-      <dc:date>2025-11-26T17:25:53Z</dc:date>
     </item>
   </channel>
 </rss>
