@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Eclipse-inspired Color Scheme - Thu Nov 27 21:18:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29162-eclipse-inspired-color-scheme</link>
+      <description>I worked in Eclipse for many years, and when I switched to IntelliJ IDEA, I realized I liked almost everything except... the editor's color scheme. Oh yeah, that was...
+
+vendor: Hummel009's Soft
+downloads: 0
+pricingModel: FREE
+xmlId: color.scheme.Eclipse-inspired</description>
+      <pubDate>Thu, 27 Nov 2025 21:18:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29162-eclipse-inspired-color-scheme</guid>
+      <dc:date>2025-11-27T21:18:16Z</dc:date>
+    </item>
+    <item>
+      <title>Gemini-Codex - Fri Nov 28 06:33:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29165-gemini-codex</link>
+      <description>Launch the Gemini CLI or Codex CLI directly from the IDE and send selected code to your assistant without leaving the editor. Requirements: Gemini CLI and/or Codex CLI...
+
+vendor: Gia Tien
+downloads: 0
+pricingModel: FREE
+xmlId: com.google.geminix</description>
+      <pubDate>Fri, 28 Nov 2025 06:33:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29165-gemini-codex</guid>
+      <dc:date>2025-11-28T06:33:40Z</dc:date>
+    </item>
+    <item>
       <title>goto - Thu Nov 27 03:26:13 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29150-goto</link>
       <description>Currently provides a single command, "Go to Line (Preview)", which gives you a proper preview for navigating to a line in the current file. Featureset: Command "Go to...
@@ -84,6 +110,19 @@ xmlId: dev.dong4j.zeka.stack.idea.plugin.common.ai</description>
       <dc:date>2025-11-28T09:35:45Z</dc:date>
     </item>
     <item>
+      <title>IntelliAI Changelog - Fri Nov 28 12:49:05 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29154-intelliai-changelog</link>
+      <description>IntelliAI Changelog is an IntelliJ IDEA plugin that uses AI to generate changelogs, reports, and commit messages. GitHub | Issues ⚡ Powered by IntelliAI Engine...
+
+vendor: dong4j
+downloads: 0
+pricingModel: FREE
+xmlId: dev.dong4j.zeka.stack.idea.plugin.changelog</description>
+      <pubDate>Fri, 28 Nov 2025 12:49:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29154-intelliai-changelog</guid>
+      <dc:date>2025-11-28T12:49:05Z</dc:date>
+    </item>
+    <item>
       <title>Quanta AI - Fri Nov 28 10:51:30 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29113-quanta-ai</link>
       <description>Quanta — AI coding assistant for IntelliJ Quanta AI integrates a context-aware AI assistant directly into your IntelliJ-based IDE. Access intelligent code review...
@@ -110,7 +149,7 @@ xmlId: com.zj.case-switcher</description>
       <dc:date>2025-11-27T08:28:58Z</dc:date>
     </item>
     <item>
-      <title>Codefree JavaDoc - Thu Nov 27 07:15:38 UTC 2025</title>
+      <title>Codefree JavaDoc - Fri Nov 28 13:00:09 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29157-codefree-javadoc</link>
       <description>Designed specifically for batch generation of compliant JavaDoc comments that meet company standards and Checkstyle requirements. Unlike general-purpose AI tools or...
 
@@ -118,9 +157,9 @@ vendor: dong4j
 downloads: 6
 pricingModel: FREE
 xmlId: com.sctelcp.idea.plugin.codefree</description>
-      <pubDate>Thu, 27 Nov 2025 07:15:38 GMT</pubDate>
+      <pubDate>Fri, 28 Nov 2025 13:00:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29157-codefree-javadoc</guid>
-      <dc:date>2025-11-27T07:15:38Z</dc:date>
+      <dc:date>2025-11-28T13:00:09Z</dc:date>
     </item>
     <item>
       <title>problem4ai - Thu Nov 27 05:14:21 UTC 2025</title>
@@ -225,45 +264,6 @@ xmlId: com.bitrix24.workday</description>
       <pubDate>Wed, 26 Nov 2025 08:25:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29142-bitrix24-workday-tracker</guid>
       <dc:date>2025-11-26T08:25:25Z</dc:date>
-    </item>
-    <item>
-      <title>Always Debug - Wed Nov 26 08:34:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29077-always-debug</link>
-      <description>A tiny plugin with a simple mission: block the Run button. Because, as everyone knows, a real developer only uses Debug. (If you were planning to click Run… well...
-
-vendor: llombardi
-downloads: 17
-pricingModel: FREE
-xmlId: com.llombardi.plugins.always-debug</description>
-      <pubDate>Wed, 26 Nov 2025 08:34:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29077-always-debug</guid>
-      <dc:date>2025-11-26T08:34:37Z</dc:date>
-    </item>
-    <item>
-      <title>Codely - Fri Nov 28 02:26:06 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29053-codely</link>
-      <description>Codely is your internal AI coding assistant.
-
-vendor: Unity China
-downloads: 14
-pricingModel: FREE
-xmlId: com.gitlab.codelydev.codelyintellijextension</description>
-      <pubDate>Fri, 28 Nov 2025 02:26:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29053-codely</guid>
-      <dc:date>2025-11-28T02:26:06Z</dc:date>
-    </item>
-    <item>
-      <title>BDD Test Automation Pro - Thu Nov 27 04:33:31 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29042-bdd-test-automation-pro</link>
-      <description>BDD Test Automation Pro Next-generation BDD/Gherkin plugin for JetBrains IDEs with AI-powered features, advanced navigation, and enterprise-scale performance. Key...
-
-vendor: Jakub Jirák
-downloads: 12
-pricingModel: FREEMIUM
-xmlId: com.jakubjirak.bdd-test-automation</description>
-      <pubDate>Thu, 27 Nov 2025 04:33:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29042-bdd-test-automation-pro</guid>
-      <dc:date>2025-11-27T04:33:31Z</dc:date>
     </item>
   </channel>
 </rss>
