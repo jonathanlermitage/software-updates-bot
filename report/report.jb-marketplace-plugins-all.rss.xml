@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Vento Template Engine - Fri Nov 28 23:11:30 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29036-vento-template-engine</link>
+      <description>Vento plugin for JetBrain's WebStorm &amp;amp; IntelliJ IDEA Ultimate IDE Provides support for the VentoJs template engine. Vento is used in the SSG Lume framework to...
+
+vendor: Florian Hehlen
+downloads: 2
+pricingModel: FREE
+xmlId: org.js.vento.plugin</description>
+      <pubDate>Fri, 28 Nov 2025 23:11:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29036-vento-template-engine</guid>
+      <dc:date>2025-11-28T23:11:30Z</dc:date>
+    </item>
+    <item>
+      <title>Rust Gutter Breakpoints - Fri Nov 28 13:08:34 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29173-rust-gutter-breakpoints</link>
+      <description>Enables setting Rust breakpoints in Android Studio by hooking in the existing C/C++ breakpoint support. With this plugin you can toggle breakpoints in Rust code by...
+
+vendor: klindstrom
+downloads: 0
+pricingModel: FREE
+xmlId: net.klindstrom.gutterbreakpointsrustplugin</description>
+      <pubDate>Fri, 28 Nov 2025 13:08:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29173-rust-gutter-breakpoints</guid>
+      <dc:date>2025-11-28T13:08:34Z</dc:date>
+    </item>
+    <item>
+      <title>WKT Map Viewer - Fri Nov 28 18:15:20 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29181-wkt-map-viewer</link>
+      <description>Visualizes selected WKT string on a map using Leaflet.
+
+vendor: RyanBuu
+downloads: 0
+pricingModel: FREE
+xmlId: dev.ryanbuu.wktmapviewer</description>
+      <pubDate>Fri, 28 Nov 2025 18:15:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29181-wkt-map-viewer</guid>
+      <dc:date>2025-11-28T18:15:20Z</dc:date>
+    </item>
+    <item>
+      <title>darksouls-progress-bar - Fri Nov 28 18:40:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28960-darksouls-progress-bar</link>
+      <description>Bring a bit of soul into your IDE. This plugin replaces IntelliJ’s default progress bar with iconic visuals inspired by Dark Souls and Elden Ring. During builds...
+
+vendor: diether18
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.jagieloadrian.darksoulsprogressbar</description>
+      <pubDate>Fri, 28 Nov 2025 18:40:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28960-darksouls-progress-bar</guid>
+      <dc:date>2025-11-28T18:40:59Z</dc:date>
+    </item>
+    <item>
       <title>IDE Index MCP Server - Fri Nov 28 13:16:53 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29174-ide-index-mcp-server</link>
       <description>IDE Index MCP Server provides AI coding assistants with access to IntelliJ IDEA's powerful code intelligence features through the Model Context Protocol (MCP...
@@ -212,58 +264,6 @@ xmlId: site.addzero.problem4ai</description>
       <pubDate>Thu, 27 Nov 2025 05:14:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29153-problem4ai</guid>
       <dc:date>2025-11-27T05:14:21Z</dc:date>
-    </item>
-    <item>
-      <title>Listing Generator - Mon Nov 24 22:34:43 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29128-listing-generator</link>
-      <description>IntelliJ Platform integration for the Listing Generator CLI tool. Provides interactive UI for generating dense code contexts optimized for AI assistants like ChatGPT...
-
-vendor: Max-Moro
-downloads: 8
-pricingModel: FREE
-xmlId: maxmoro.lg</description>
-      <pubDate>Mon, 24 Nov 2025 22:34:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29128-listing-generator</guid>
-      <dc:date>2025-11-24T22:34:43Z</dc:date>
-    </item>
-    <item>
-      <title>Schema Lens - Wed Nov 26 12:42:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29124-schema-lens</link>
-      <description>SchemaLens - Comprehensive Database Schema Inspector SchemaLens is a powerful DataGrip plugin that provides a comprehensive, tabbed interface for viewing database...
-
-vendor: Mustache
-downloads: 6
-pricingModel: FREE
-xmlId: cn.com.mustache.plugin.schemalens</description>
-      <pubDate>Wed, 26 Nov 2025 12:42:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29124-schema-lens</guid>
-      <dc:date>2025-11-26T12:42:33Z</dc:date>
-    </item>
-    <item>
-      <title>ADBConnectWiFi - Fri Nov 28 09:54:46 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29145-adbconnectwifi</link>
-      <description>ADB Connect over WiFi This plugin lets you quickly connect your Android device over WiFi. Enable developer mode on you android phone Connect the phone to the same WiFi...
-
-vendor: Wegielek
-downloads: 19
-pricingModel: FREE
-xmlId: com.wegielek.ADBConnectWiFi</description>
-      <pubDate>Fri, 28 Nov 2025 09:54:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29145-adbconnectwifi</guid>
-      <dc:date>2025-11-28T09:54:46Z</dc:date>
-    </item>
-    <item>
-      <title>PipelineLens - Wed Nov 26 14:22:37 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29146-pipelinelens</link>
-      <description>PipelineLens - Professional Jenkins Pipeline Development Tool PipelineLens is an IntelliJ IDEA plugin designed specifically for Jenkins Pipeline development, providing...
-
-vendor: 舒一笑不秃头
-downloads: 12
-pricingModel: FREE
-xmlId: com.poeticcoder.pipelinelens</description>
-      <pubDate>Wed, 26 Nov 2025 14:22:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29146-pipelinelens</guid>
-      <dc:date>2025-11-26T14:22:37Z</dc:date>
     </item>
   </channel>
 </rss>
