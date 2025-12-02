@@ -17,7 +17,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 30 04:02:53 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 16:02:37 UTC 2025|
-|![logo](../media/logo/go.png) Go|go1.25.4|[golang.org](https://golang.org/dl/)|Wed Nov 05 20:03:32 UTC 2025|
+|![logo](../media/logo/go.png) Go|go1.25.5|[golang.org](https://golang.org/dl/)|Tue Dec 02 20:03:24 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.2.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 17 16:03:34 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.28294.169) ~ 2025-11-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Nov 19 12:03:33 UTC 2025|
@@ -39,8 +39,8 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
-|![logo](../media/logo/python.png) Python 3 mac| 3.14.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 07 16:03:16 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.0|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 07 16:03:17 UTC 2025|
+|![logo](../media/logo/python.png) Python 3 mac| 3.14.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 02 20:03:38 UTC 2025|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 02 20:03:39 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 20:04:39 UTC 2025|
 |![logo](../media/logo/vlc.png) VLC|3.0.21|[www.videolan.org](https://www.videolan.org/vlc/)|Sun Jun 09 12:02:44 UTC 2024|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|

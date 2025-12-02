@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.1|[www.python.org](https://www.python.org/downloads/windows/)|Tue Dec 02 20:03:39 UTC 2025|
+|![logo](../media/logo/python.png) Python 3 mac| 3.14.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Dec 02 20:03:38 UTC 2025|
+|![logo](../media/logo/go.png) Go|go1.25.5|[golang.org](https://golang.org/dl/)|Tue Dec 02 20:03:24 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 20:04:39 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.5 (252.28238.7) ~ 2025-11-20|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Nov 20 20:04:25 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.28294.169) ~ 2025-11-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Nov 19 12:03:33 UTC 2025|
@@ -17,7 +20,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:29 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:28 UTC 2025|
-|![logo](../media/logo/go.png) Go|go1.25.4|[golang.org](https://golang.org/dl/)|Wed Nov 05 20:03:32 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.9+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Nov 04 00:06:27 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Nov 01 16:03:04 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.2.5 to 19.3.0 ~ 2025-10-31|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Oct 31 20:03:15 UTC 2025|
@@ -31,8 +33,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 16:03:21 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.9+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 00:05:26 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 24 00:05:25 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.0|[www.python.org](https://www.python.org/downloads/windows/)|Tue Oct 07 16:03:17 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 mac| 3.14.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Oct 07 16:03:16 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|4.4.1 (2025-05-21)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri May 23 16:02:37 UTC 2025|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.2|[inkscape.org](https://inkscape.org)|Mon May 12 20:02:39 UTC 2025|
