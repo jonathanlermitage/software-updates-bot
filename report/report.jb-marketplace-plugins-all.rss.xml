@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Wallpaper Carousel - Sat Nov 29 20:59:56 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29198-wallpaper-carousel</link>
+      <description>Automatically rotate random background images in your IDE editor. Features: • Set a folder of images to rotate through • Configurable auto-change interval...
+
+vendor: praise2112
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.praise2112.wallpapercarousel</description>
+      <pubDate>Sat, 29 Nov 2025 20:59:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29198-wallpaper-carousel</guid>
+      <dc:date>2025-11-29T20:59:56Z</dc:date>
+    </item>
+    <item>
+      <title>IDE Workflows (Beta) - Mon Dec 01 18:06:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29224-ide-workflows-beta-</link>
+      <description>A visual workflow automation plugin for JetBrains IDEs. Create, edit and run automated workflows directly in your IDE using a node-based visual editor or YAML...
+
+vendor: meanmail.dev
+downloads: 0
+pricingModel: PAID
+xmlId: dev.meanmail.plugin.ide-workflows</description>
+      <pubDate>Mon, 01 Dec 2025 18:06:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29224-ide-workflows-beta-</guid>
+      <dc:date>2025-12-01T18:06:35Z</dc:date>
+    </item>
+    <item>
       <title>Template Pattern Highlighter - Mon Dec 01 15:35:34 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29221-template-pattern-highlighter</link>
       <description>Highlights text matching the pattern {{.*}} in Java string literals and comments. This plugin makes it easy to spot template variables in your code by applying custom...
@@ -24,7 +50,7 @@ xmlId: oleh.bilyk.varhighlight</description>
       <description>ParagraphJump helps you quickly navigate between paragraphs or logical blocks in your code or text by jumping to the next or previous empty line. Use Shift+Control+9...
 
 vendor: Tobias Sigmann
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.siggisigmann.ParagraphJump</description>
       <pubDate>Mon, 01 Dec 2025 15:31:34 GMT</pubDate>
@@ -37,7 +63,7 @@ xmlId: com.github.siggisigmann.ParagraphJump</description>
       <description>IntelliJ IDEA plugin for visualizing Mixin injections in real-time using a side-by-side view.
 
 vendor: Mixin Visualizer
-downloads: 0
+downloads: 20
 pricingModel: FREE
 xmlId: dev.wvr.mixinvisualizer</description>
       <pubDate>Mon, 01 Dec 2025 11:33:59 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: dev.wvr.mixinvisualizer</description>
       <description>AiCodeImprover is a plugin for IntelliJ IDEA that allows you to improve code with AI. Use the power of artificial intelligence to optimize your code.
 
 vendor: AiCodeImprover
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.catinbeard.AiCodeImprover</description>
       <pubDate>Mon, 01 Dec 2025 15:36:44 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: com.github.catinbeard.AiCodeImprover</description>
       <description>A plugin based on ADB. Menu -&amp;gt; Tools -&amp;gt; ADB Toolkit: Get app information Get device information Get app start time Quickly clear debug app data Quickly start the...
 
 vendor: ClassOps
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: io.github.classops.ADBHelper</description>
       <pubDate>Mon, 01 Dec 2025 10:19:17 GMT</pubDate>
@@ -76,7 +102,7 @@ xmlId: io.github.classops.ADBHelper</description>
       <description>Painless Language Syntax Highlighting provides syntax highlighting for Elasticsearch's Painless scripting language in IntelliJ-based IDEs. Features Syntax highlighting...
 
 vendor: Traackr
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.traackr.painless</description>
       <pubDate>Sun, 30 Nov 2025 01:07:52 GMT</pubDate>
@@ -89,7 +115,7 @@ xmlId: com.traackr.painless</description>
       <description>LQ_CodeMind LQ_CodeMind enables developers to create, share, and use custom AI code assistants with our open-source JetBrains extension and hub of models, rules...
 
 vendor: lq-developer
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.lq.codemind.intellijextension</description>
       <pubDate>Mon, 01 Dec 2025 01:00:16 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: com.lq.codemind.intellijextension</description>
       <description>Syntax highlighting, completion and IDE integration for the Java Bytecode Patch Language.
 
 vendor: Karma Krafts
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: dev.karmakrafts.jbpl</description>
       <pubDate>Sun, 30 Nov 2025 20:53:54 GMT</pubDate>
@@ -115,7 +141,7 @@ xmlId: dev.karmakrafts.jbpl</description>
       <description>BookmarkPalace is an enhanced code bookmark system for JetBrains IDEs - making code navigation more efficient and helping you understand code better! 书签宫殿 - JetBrains...
 
 vendor: longlong coder
-downloads: 5
+downloads: 26
 pricingModel: FREE
 xmlId: com.longlong.bookmark</description>
       <pubDate>Mon, 01 Dec 2025 17:01:54 GMT</pubDate>
@@ -128,7 +154,7 @@ xmlId: com.longlong.bookmark</description>
       <description>Dev Agent is an AI-powered intelligent development assistant plugin for IntelliJ Platform that seamlessly integrates a powerful AI development agent into your IDE. It...
 
 vendor: DEDE-cn F
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.alibaba.icbu.devagent</description>
       <pubDate>Sun, 30 Nov 2025 14:30:52 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: com.alibaba.icbu.devagent</description>
       <description>A handy toolbox plugin for IntelliJ IDEA with JSON formatting, URL encoding/decoding, Base64 encoding/decoding, encryption/decryption, random string generation, and...
 
 vendor: yk9546
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.wonders.cToolKit</description>
       <pubDate>Sun, 30 Nov 2025 10:48:13 GMT</pubDate>
@@ -149,16 +175,16 @@ xmlId: com.wonders.cToolKit</description>
       <dc:date>2025-11-30T10:48:13Z</dc:date>
     </item>
     <item>
-      <title>Simple Test - Sun Nov 30 09:32:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29203-simple-test</link>
+      <title>DeepSeek Test AI - Sun Nov 30 09:32:28 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29203-deepseek-test-ai</link>
       <description>Use the deepseek - ai model to generate corresponding unit tests for the code in the project. The usage method is to select a file in the project, click "Generate Unit...
 
 vendor: keteme
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.yy.test.ai.simple</description>
       <pubDate>Sun, 30 Nov 2025 09:32:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29203-simple-test</guid>
+      <guid>https://plugins.jetbrains.com/plugin/29203-deepseek-test-ai</guid>
       <dc:date>2025-11-30T09:32:28Z</dc:date>
     </item>
     <item>
@@ -167,7 +193,7 @@ xmlId: com.yy.test.ai.simple</description>
       <description>Maven Buddy is an IntelliJ IDEA plugin that helps you quickly search and add Maven dependencies from Maven Central directly within your IDE. This plugin streamlines...
 
 vendor: zjarlin
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: site.addzero.maven-buddy</description>
       <pubDate>Tue, 02 Dec 2025 02:22:21 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: site.addzero.maven-buddy</description>
       <description>Gradle Buddy: Smart Module Loading for Large Gradle Projects 核心宗旨：只加载打开的 Gradle 模块，按需加载，自动释放。 痛点 (Pain Points) 你是否遇到过这些问题？ Gradle Sync 慢如蜗牛 &#x1f40c;项目有 50+ 个模块，每次 Sync 需要...
 
 vendor: zjarlin
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: site.addzero.gradle-buddy</description>
       <pubDate>Sun, 30 Nov 2025 10:17:26 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: site.addzero.gradle-buddy</description>
       <description>GitHub | Telegram | Donation | Official website TOON syntax support TOON (Token-Oriented Object Notation) syntax support: syntax highlightingpatterns matching...
 
 vendor: Dmitrii Derepko
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.xepozz.toon</description>
       <pubDate>Sun, 30 Nov 2025 06:15:42 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: com.github.xepozz.toon</description>
       <description>Visual API Documentation Designer - Zero Learning Curve, High Efficiency This plugin provides a complete API design and management solution with key features: Visual...
 
 vendor: api-mediator
-downloads: 3
+downloads: 8
 pricingModel: FREE
 xmlId: io.github.luons.api-mediator</description>
       <pubDate>Sun, 30 Nov 2025 06:44:13 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: io.github.luons.api-mediator</description>
       <description>MCP server enabling AI assistants to control IDE debuggers in JetBrains IDEs. Pointbreak bridges AI assistants to your IDE's native debugger, allowing them to: Set...
 
 vendor: Pointbreak
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.withpointbreak.ide</description>
       <pubDate>Sun, 30 Nov 2025 02:55:51 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: com.withpointbreak.ide</description>
       <description>Unofficial TUM Exam Integrity Plugin Developed by Sriyash Kommalapati. Enforces strict exam regulations by automatically disabling 25+ known AI tools: JetBrains AI...
 
 vendor: Sriyash Kommalapati
-downloads: 4
+downloads: 6
 pricingModel: FREE
 xmlId: de.tum.exam.mode</description>
       <pubDate>Sat, 29 Nov 2025 11:28:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29186-tum-exam-mode</guid>
       <dc:date>2025-11-29T11:28:35Z</dc:date>
-    </item>
-    <item>
-      <title>SI Translation Validator - Mon Dec 01 10:07:22 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29196-si-translation-validator</link>
-      <description>Checks translations of the SI() function in JSP files.
-
-vendor: Nodirbek Himmatov
-downloads: 2
-pricingModel: FREE
-xmlId: uz.fb.SI_validator</description>
-      <pubDate>Mon, 01 Dec 2025 10:07:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29196-si-translation-validator</guid>
-      <dc:date>2025-12-01T10:07:22Z</dc:date>
-    </item>
-    <item>
-      <title>TrueFlow - Deterministic Code Visualizer - Mon Dec 01 12:34:06 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29197-trueflow--deterministic-code-visualizer</link>
-      <description>TrueFlow - Deterministic Code Visualizer &amp;amp; Explainer Unblackbox LLM code with deterministic truth. Reveals hidden execution paths of AI-generated code. Zero-code...
-
-vendor: hevolve.ai
-downloads: 2
-pricingModel: FREE
-xmlId: ai.hevolve.trueflow</description>
-      <pubDate>Mon, 01 Dec 2025 12:34:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29197-trueflow--deterministic-code-visualizer</guid>
-      <dc:date>2025-12-01T12:34:06Z</dc:date>
     </item>
   </channel>
 </rss>
