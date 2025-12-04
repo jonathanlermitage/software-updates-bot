@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Keyscope - Thu Dec 04 10:20:08 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29250-keyscope</link>
+      <description>The Native Redis/Valkey IDE for JetBrains Keyscope is a modern GUI client for Redis and Valkey. Supports Standalone, Cluster, and Sentinel modes with SSH Tunneling...
+
+vendor: Infradise
+downloads: 0
+pricingModel: FREE
+xmlId: dev.keyscope.plugin</description>
+      <pubDate>Thu, 04 Dec 2025 10:20:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29250-keyscope</guid>
+      <dc:date>2025-12-04T10:20:08Z</dc:date>
+    </item>
+    <item>
+      <title>KongQuery - Thu Dec 04 10:10:55 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29256-kongquery</link>
+      <description>KongQuery is the ultimate SQL companion for Spring Data JPA developers. This intelligent IntelliJ plugin automatically formats your SQL queries and even generates Java...
+
+vendor: Kongkiat
+downloads: 0
+pricingModel: FREE
+xmlId: me.kongkiat.kongquery</description>
+      <pubDate>Thu, 04 Dec 2025 10:10:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29256-kongquery</guid>
+      <dc:date>2025-12-04T10:10:55Z</dc:date>
+    </item>
+    <item>
       <title>Safely Obfuscate Source - Tue Dec 02 13:12:49 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29213-safely-obfuscate-source</link>
       <description>Safe File Obfuscator is an Android Studio plugin that preemptively obfuscates Activity classes and their associated layout files. Unlike standard build-time...
@@ -71,17 +97,17 @@ xmlId: com.github.puotek.armaconfigplugin</description>
       <dc:date>2025-12-03T03:22:28Z</dc:date>
     </item>
     <item>
-      <title>HttpMate - Tue Dec 02 13:44:21 UTC 2025</title>
+      <title>HttpMate - Thu Dec 04 14:09:35 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29229-httpmate</link>
       <description>HttpMate is a powerful IntelliJ IDEA plugin designed to help developers quickly search and navigate to REST APIs within their projects. It supports Spring Boot and...
 
-vendor: HttpMate
+vendor: Ricky
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.jeraxxxxxxx.httpmate</description>
-      <pubDate>Tue, 02 Dec 2025 13:44:21 GMT</pubDate>
+      <pubDate>Thu, 04 Dec 2025 14:09:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29229-httpmate</guid>
-      <dc:date>2025-12-02T13:44:21Z</dc:date>
+      <dc:date>2025-12-04T14:09:35Z</dc:date>
     </item>
     <item>
       <title>TabX - Tue Dec 02 14:47:24 UTC 2025</title>
@@ -162,7 +188,7 @@ xmlId: com.bixuebihui.idea-tablegear</description>
       <dc:date>2025-12-02T11:00:40Z</dc:date>
     </item>
     <item>
-      <title>QTA SmartTest - Tue Dec 02 08:10:07 UTC 2025</title>
+      <title>QTA SmartTest - Thu Dec 04 10:47:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29217-qta-smarttest</link>
       <description>QTA SmartTest is a next-generation AI-driven testing platform built by the QTA team, revolutionizing traditional testing workflows with AI technology. It provides...
 
@@ -170,9 +196,9 @@ vendor: QTA
 downloads: 0
 pricingModel: FREE
 xmlId: com.tencent.qcov</description>
-      <pubDate>Tue, 02 Dec 2025 08:10:07 GMT</pubDate>
+      <pubDate>Thu, 04 Dec 2025 10:47:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29217-qta-smarttest</guid>
-      <dc:date>2025-12-02T08:10:07Z</dc:date>
+      <dc:date>2025-12-04T10:47:26Z</dc:date>
     </item>
     <item>
       <title>Keeper Security - Mon Dec 01 21:41:29 UTC 2025</title>
@@ -238,32 +264,6 @@ xmlId: dev.meanmail.plugin.ide-workflows</description>
       <pubDate>Mon, 01 Dec 2025 18:06:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29224-ide-workflows-beta-</guid>
       <dc:date>2025-12-01T18:06:35Z</dc:date>
-    </item>
-    <item>
-      <title>Template Pattern Highlighter - Tue Dec 02 22:12:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29221-template-pattern-highlighter</link>
-      <description>Highlights text matching the pattern {{.*}} in Java string literals and comments. This plugin makes it easy to spot template variables in your code by applying custom...
-
-vendor: Oleh Bilyk
-downloads: 0
-pricingModel: FREE
-xmlId: oleh.bilyk.varhighlight</description>
-      <pubDate>Tue, 02 Dec 2025 22:12:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29221-template-pattern-highlighter</guid>
-      <dc:date>2025-12-02T22:12:55Z</dc:date>
-    </item>
-    <item>
-      <title>ParagraphJump - Mon Dec 01 15:31:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29222-paragraphjump</link>
-      <description>ParagraphJump helps you quickly navigate between paragraphs or logical blocks in your code or text by jumping to the next or previous empty line. Use Shift+Control+9...
-
-vendor: Tobias Sigmann
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.siggisigmann.ParagraphJump</description>
-      <pubDate>Mon, 01 Dec 2025 15:31:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29222-paragraphjump</guid>
-      <dc:date>2025-12-01T15:31:34Z</dc:date>
     </item>
   </channel>
 </rss>
