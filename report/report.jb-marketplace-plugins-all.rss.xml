@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Safely Obfuscate Source - Tue Dec 02 13:12:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29213-safely-obfuscate-source</link>
+      <description>Safe File Obfuscator is an Android Studio plugin that preemptively obfuscates Activity classes and their associated layout files. Unlike standard build-time...
+
+vendor: BHT
+downloads: 4
+pricingModel: FREE
+xmlId: com.obfuscator.tool.safe_file_obfuscator</description>
+      <pubDate>Tue, 02 Dec 2025 13:12:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29213-safely-obfuscate-source</guid>
+      <dc:date>2025-12-02T13:12:49Z</dc:date>
+    </item>
+    <item>
+      <title>Accessibility Compliance Helper Pro - Wed Dec 03 05:41:27 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28974-accessibility-compliance-helper-pro</link>
+      <description>Accessibility Compliance Checker Pro Professional WCAG/ADA compliance scanning with legal report generation for web applications. Core Features: Real-time...
+
+vendor: Jakub Jirák
+downloads: 3
+pricingModel: PAID
+xmlId: com.jakubjirak.compliance-checker-pro</description>
+      <pubDate>Wed, 03 Dec 2025 05:41:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28974-accessibility-compliance-helper-pro</guid>
+      <dc:date>2025-12-03T05:41:27Z</dc:date>
+    </item>
+    <item>
       <title>Manage Scheduled Events - Tue Dec 02 17:57:47 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29225-manage-scheduled-events</link>
       <description>An IntelliJ Platform plugin that discovers and lists methods annotated with @Scheduled in Java/Spring projects. It provides a "Scheduled Events" tool window to browse...
@@ -238,32 +264,6 @@ xmlId: com.github.siggisigmann.ParagraphJump</description>
       <pubDate>Mon, 01 Dec 2025 15:31:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29222-paragraphjump</guid>
       <dc:date>2025-12-01T15:31:34Z</dc:date>
-    </item>
-    <item>
-      <title>mixin-visualizer - Mon Dec 01 11:33:59 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29218-mixin-visualizer</link>
-      <description>IntelliJ IDEA plugin for visualizing Mixin injections in real-time using a side-by-side view.
-
-vendor: Mixin Visualizer
-downloads: 20
-pricingModel: FREE
-xmlId: dev.wvr.mixinvisualizer</description>
-      <pubDate>Mon, 01 Dec 2025 11:33:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29218-mixin-visualizer</guid>
-      <dc:date>2025-12-01T11:33:59Z</dc:date>
-    </item>
-    <item>
-      <title>AiCodeImprover - Mon Dec 01 15:36:44 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29204-aicodeimprover</link>
-      <description>AiCodeImprover is a plugin for IntelliJ IDEA that allows you to improve code with AI. Use the power of artificial intelligence to optimize your code.
-
-vendor: AiCodeImprover
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.catinbeard.AiCodeImprover</description>
-      <pubDate>Mon, 01 Dec 2025 15:36:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29204-aicodeimprover</guid>
-      <dc:date>2025-12-01T15:36:44Z</dc:date>
     </item>
   </channel>
 </rss>
