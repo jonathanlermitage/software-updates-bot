@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Advanced SQL Injection - Thu Dec 04 03:35:20 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29252-advanced-sql-injection</link>
+      <description>English: This plugin demonstrates advanced SQL (or any other) language injection in YAML and other structured files using directory- or prefix-based rules. It supports...
+
+vendor: queukat
+downloads: 0
+pricingModel: FREE
+xmlId: com.queukat.advsqlinjection</description>
+      <pubDate>Thu, 04 Dec 2025 03:35:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29252-advanced-sql-injection</guid>
+      <dc:date>2025-12-04T03:35:20Z</dc:date>
+    </item>
+    <item>
+      <title>WxBackImage - Thu Dec 04 02:54:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29097-wxbackimage</link>
+      <description>Background Image Auto Switcher for IntelliJ IDEA Automatically switch background images to make your IntelliJ IDEA more colorful and coding more enjoyable! ✨ Key...
+
+vendor: 浩阳 梁
+downloads: 0
+pricingModel: FREE
+xmlId: com.wangxilhy.WxBackImage</description>
+      <pubDate>Thu, 04 Dec 2025 02:54:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29097-wxbackimage</guid>
+      <dc:date>2025-12-04T02:54:35Z</dc:date>
+    </item>
+    <item>
+      <title>Xaml Styles Diagram - Wed Dec 03 15:25:30 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29245-xaml-styles-diagram</link>
+      <description>Display diagram of XAML styles in the file.
+
+vendor: kDg
+downloads: 0
+pricingModel: FREE
+xmlId: com.kDg.xamlStyleDiagram</description>
+      <pubDate>Wed, 03 Dec 2025 15:25:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29245-xaml-styles-diagram</guid>
+      <dc:date>2025-12-03T15:25:30Z</dc:date>
+    </item>
+    <item>
+      <title>SecureWatch - Thu Dec 04 02:26:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29168-securewatch</link>
+      <description>SecureWatch - Code Security Monitor A real-time code security monitor designed for Chinese security audit requirements (QAX, MLPS 2.0). Watches your code continuously...
+
+vendor: pengfei t
+downloads: 2
+pricingModel: FREE
+xmlId: com.scan.SecurityScan</description>
+      <pubDate>Thu, 04 Dec 2025 02:26:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29168-securewatch</guid>
+      <dc:date>2025-12-04T02:26:44Z</dc:date>
+    </item>
+    <item>
+      <title>RestPilot - Smart Spring Boot Client - Thu Dec 04 07:05:08 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29254-restpilot--smart-spring-boot-client</link>
+      <description>The "Swiss Army Knife" for Spring Boot API Testing RestPilot is not just a REST client; it's an intelligent assistant that lives inside your IntelliJ IDEA. It bridges...
+
+vendor: PhilZ Dev
+downloads: 0
+pricingModel: FREE
+xmlId: com.phil.ultimate.rest.client</description>
+      <pubDate>Thu, 04 Dec 2025 07:05:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29254-restpilot--smart-spring-boot-client</guid>
+      <dc:date>2025-12-04T07:05:08Z</dc:date>
+    </item>
+    <item>
+      <title>Djot - Thu Dec 04 19:50:43 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29244-djot</link>
+      <description>Djot markup language support for JetBrains IDEs. Features Syntax highlighting via TextMate grammar Live preview panel Export to HTML File type recognition (.djot) Live...
+
+vendor: PHP Collective
+downloads: 0
+pricingModel: FREE
+xmlId: org.phpcollective.djot</description>
+      <pubDate>Thu, 04 Dec 2025 19:50:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29244-djot</guid>
+      <dc:date>2025-12-04T19:50:43Z</dc:date>
+    </item>
+    <item>
       <title>Keyscope - Thu Dec 04 10:20:08 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29250-keyscope</link>
       <description>The Native Redis/Valkey IDE for JetBrains Keyscope is a modern GUI client for Redis and Valkey. Supports Standalone, Cluster, and Sentinel modes with SSH Tunneling...
@@ -37,7 +115,7 @@ xmlId: me.kongkiat.kongquery</description>
       <description>Safe File Obfuscator is an Android Studio plugin that preemptively obfuscates Activity classes and their associated layout files. Unlike standard build-time...
 
 vendor: BHT
-downloads: 4
+downloads: 6
 pricingModel: FREE
 xmlId: com.obfuscator.tool.safe_file_obfuscator</description>
       <pubDate>Tue, 02 Dec 2025 13:12:49 GMT</pubDate>
@@ -50,7 +128,7 @@ xmlId: com.obfuscator.tool.safe_file_obfuscator</description>
       <description>Accessibility Compliance Checker Pro Professional WCAG/ADA compliance scanning with legal report generation for web applications. Core Features: Real-time...
 
 vendor: Jakub Jirák
-downloads: 3
+downloads: 9
 pricingModel: PAID
 xmlId: com.jakubjirak.compliance-checker-pro</description>
       <pubDate>Wed, 03 Dec 2025 05:41:27 GMT</pubDate>
@@ -63,7 +141,7 @@ xmlId: com.jakubjirak.compliance-checker-pro</description>
       <description>An IntelliJ Platform plugin that discovers and lists methods annotated with @Scheduled in Java/Spring projects. It provides a "Scheduled Events" tool window to browse...
 
 vendor: Ksenija Kivojenko
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.kivojenko.plugin.manage-scheduled-events</description>
       <pubDate>Tue, 02 Dec 2025 17:57:47 GMT</pubDate>
@@ -76,7 +154,7 @@ xmlId: com.kivojenko.plugin.manage-scheduled-events</description>
       <description>Features Single Directory Component (SDC) Integration Provide completion for using component in Twig.Provide a goto symbol for using component in Twig.Provide...
 
 vendor: Luhur Abdi Rizal
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: me.elabee.idea.drupal</description>
       <pubDate>Tue, 02 Dec 2025 20:34:01 GMT</pubDate>
@@ -102,7 +180,7 @@ xmlId: com.github.puotek.armaconfigplugin</description>
       <description>HttpMate is a powerful IntelliJ IDEA plugin designed to help developers quickly search and navigate to REST APIs within their projects. It supports Spring Boot and...
 
 vendor: Ricky
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.jeraxxxxxxx.httpmate</description>
       <pubDate>Thu, 04 Dec 2025 14:09:35 GMT</pubDate>
@@ -115,7 +193,7 @@ xmlId: com.github.jeraxxxxxxx.httpmate</description>
       <description>Allows you to edit the name of your tabs. No need to check the folder name anymore, just rename your tabs to something else for better recognition.
 
 vendor: elpideus
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.elpideus.tabx</description>
       <pubDate>Tue, 02 Dec 2025 14:47:24 GMT</pubDate>
@@ -123,17 +201,17 @@ xmlId: com.elpideus.tabx</description>
       <dc:date>2025-12-02T14:47:24Z</dc:date>
     </item>
     <item>
-      <title>Debugger MCP Server - Tue Dec 02 21:56:57 UTC 2025</title>
+      <title>Debugger MCP Server - Thu Dec 04 06:36:11 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29233-debugger-mcp-server</link>
       <description>Debugger MCP Server gives AI coding assistants complete control over the IDE's debugger through the Model Context Protocol (MCP). Let your AI assistant debug code...
 
 vendor: hechtcarmel
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.hechtcarmel.jetbrainsdebuggermcpplugin</description>
-      <pubDate>Tue, 02 Dec 2025 21:56:57 GMT</pubDate>
+      <pubDate>Thu, 04 Dec 2025 06:36:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29233-debugger-mcp-server</guid>
-      <dc:date>2025-12-02T21:56:57Z</dc:date>
+      <dc:date>2025-12-04T06:36:11Z</dc:date>
     </item>
     <item>
       <title>Fu Trade - Tue Dec 02 14:13:01 UTC 2025</title>
@@ -141,7 +219,7 @@ xmlId: com.github.hechtcarmel.jetbrainsdebuggermcpplugin</description>
       <description>FuTrade is a professional stock management plugin for IDEA developers focusing on A-share and Hong Kong stock markets. It enables real-time quote monitoring for all...
 
 vendor: WANG DINGFU
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.wangdingfu.fustockplugin</description>
       <pubDate>Tue, 02 Dec 2025 14:13:01 GMT</pubDate>
@@ -154,7 +232,7 @@ xmlId: com.github.wangdingfu.fustockplugin</description>
       <description>Multi-cloud deployment management from your IDE. Deploy to AWS, Azure, GCP, Hetzner, RunPod, and DeepInfra with one-click Terraform integration, visual topology...
 
 vendor: AIVory, Inc.
-downloads: 0
+downloads: 14
 pricingModel: FREE
 xmlId: com.ilscipio.aivory.architect</description>
       <pubDate>Wed, 03 Dec 2025 12:33:42 GMT</pubDate>
@@ -167,7 +245,7 @@ xmlId: com.ilscipio.aivory.architect</description>
       <description>This plugin displays a small mascot image at the bottom-right corner of the IntelliJ window. Users can also customize the mascot by choosing any local image file...
 
 vendor: corner-mascot-plugin
-downloads: 0
+downloads: 13
 pricingModel: FREE
 xmlId: com.khope.cornermascot</description>
       <pubDate>Thu, 04 Dec 2025 01:26:49 GMT</pubDate>
@@ -180,90 +258,12 @@ xmlId: com.khope.cornermascot</description>
       <description>TableGear Language Support for IntelliJ IDEA Provides intelligent code completion, syntax highlighting, and validation for tablegen*.properties and es*.properties...
 
 vendor: bixuebihui.com
-downloads: 5
+downloads: 24
 pricingModel: FREE
 xmlId: com.bixuebihui.idea-tablegear</description>
       <pubDate>Tue, 02 Dec 2025 11:00:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29160-tablegear-language-support</guid>
       <dc:date>2025-12-02T11:00:40Z</dc:date>
-    </item>
-    <item>
-      <title>QTA SmartTest - Thu Dec 04 10:47:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29217-qta-smarttest</link>
-      <description>QTA SmartTest is a next-generation AI-driven testing platform built by the QTA team, revolutionizing traditional testing workflows with AI technology. It provides...
-
-vendor: QTA
-downloads: 0
-pricingModel: FREE
-xmlId: com.tencent.qcov</description>
-      <pubDate>Thu, 04 Dec 2025 10:47:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29217-qta-smarttest</guid>
-      <dc:date>2025-12-04T10:47:26Z</dc:date>
-    </item>
-    <item>
-      <title>Keeper Security - Mon Dec 01 21:41:29 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28670-keeper-security</link>
-      <description>A comprehensive JetBrains IDE plugin that integrates Keeper Security vault functionality directly into your development workflow. The plugin provides secure secret...
-
-vendor: Keeper Security
-downloads: 6
-pricingModel: FREE
-xmlId: com.keepersecurity.jetbrains</description>
-      <pubDate>Mon, 01 Dec 2025 21:41:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28670-keeper-security</guid>
-      <dc:date>2025-12-01T21:41:29Z</dc:date>
-    </item>
-    <item>
-      <title>Station Deploy Tool - Tue Dec 02 01:49:13 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29187-station-deploy-tool</link>
-      <description>Station Deploy Tool - A convenient plugin for deploying Station extensions.
-
-vendor: Station Digital Media
-downloads: 2
-pricingModel: FREE
-xmlId: com.stationdm.tool</description>
-      <pubDate>Tue, 02 Dec 2025 01:49:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29187-station-deploy-tool</guid>
-      <dc:date>2025-12-02T01:49:13Z</dc:date>
-    </item>
-    <item>
-      <title>OpenSCAD - Tue Dec 02 00:41:50 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29214-openscad</link>
-      <description>OpenSCAD Language Support Full-featured IntelliJ IDEA plugin for OpenSCAD with syntax highlighting, code intelligence, and real-time 3D preview. Support this project...
-
-vendor: l2trace99
-downloads: 8
-pricingModel: FREE
-xmlId: org.openscad.plugin</description>
-      <pubDate>Tue, 02 Dec 2025 00:41:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29214-openscad</guid>
-      <dc:date>2025-12-02T00:41:50Z</dc:date>
-    </item>
-    <item>
-      <title>Wallpaper Carousel - Sat Nov 29 20:59:56 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29198-wallpaper-carousel</link>
-      <description>Automatically rotate random background images in your IDE editor. Features: • Set a folder of images to rotate through • Configurable auto-change interval...
-
-vendor: praise2112
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.praise2112.wallpapercarousel</description>
-      <pubDate>Sat, 29 Nov 2025 20:59:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29198-wallpaper-carousel</guid>
-      <dc:date>2025-11-29T20:59:56Z</dc:date>
-    </item>
-    <item>
-      <title>IDE Workflows (Beta) - Mon Dec 01 18:06:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29224-ide-workflows-beta-</link>
-      <description>A visual workflow automation plugin for JetBrains IDEs. Create, edit and run automated workflows directly in your IDE using a node-based visual editor or YAML...
-
-vendor: meanmail.dev
-downloads: 0
-pricingModel: PAID
-xmlId: dev.meanmail.plugin.ide-workflows</description>
-      <pubDate>Mon, 01 Dec 2025 18:06:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29224-ide-workflows-beta-</guid>
-      <dc:date>2025-12-01T18:06:35Z</dc:date>
     </item>
   </channel>
 </rss>
