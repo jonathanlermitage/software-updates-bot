@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Transloco Overlay - Wed Dec 03 20:36:41 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29246-transloco-overlay</link>
+      <description>A powerful translation management tool for Transloco in Angular projects. Create, edit, and navigate translations directly from your HTML templates. ✨ Key Features...
+
+vendor: Bailey Le
+downloads: 1
+pricingModel: FREE
+xmlId: com.baileyble.TranslocoOverlay</description>
+      <pubDate>Wed, 03 Dec 2025 20:36:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29246-transloco-overlay</guid>
+      <dc:date>2025-12-03T20:36:41Z</dc:date>
+    </item>
+    <item>
+      <title>Git Assume Unchanged - Fri Dec 05 10:47:13 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29274-git-assume-unchanged</link>
+      <description>Easily manage Git's assume-unchanged flag directly from IntelliJ IDEA. This plugin provides convenient actions to mark files as "assume-unchanged" or remove that flag...
+
+vendor: Aswin
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.gitassume</description>
+      <pubDate>Fri, 05 Dec 2025 10:47:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29274-git-assume-unchanged</guid>
+      <dc:date>2025-12-05T10:47:13Z</dc:date>
+    </item>
+    <item>
+      <title>bab - Thu Dec 04 23:19:57 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29264-bab</link>
+      <description>IntelliJ IDEA plugin for bab - a simple, cross-platform task runner. Features File type recognition for babfile.yml and babfile.yaml (case-insensitive)YAML syntax...
+
+vendor: bab
+downloads: 0
+pricingModel: FREE
+xmlId: sh.bab.plugin</description>
+      <pubDate>Thu, 04 Dec 2025 23:19:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29264-bab</guid>
+      <dc:date>2025-12-04T23:19:57Z</dc:date>
+    </item>
+    <item>
+      <title>Maven Update Pro(MPVP) - Fri Dec 05 09:05:28 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-</link>
+      <description>Maven Project Version Plugin(update), Support Quick Update Version. Maven项目版本更新插件，可用于版本快速傻瓜式升级项目版本. Maven Project Version Plugin(update) And Plugin Menu Added In Tools...
+
+vendor: 新程快咖员
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.github.jokerpper.intellij-maven-project-version-plugin.maven-update-pro</description>
+      <pubDate>Fri, 05 Dec 2025 09:05:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-</guid>
+      <dc:date>2025-12-05T09:05:28Z</dc:date>
+    </item>
+    <item>
       <title>Maven Search Pro(MPVP) - Fri Dec 05 09:04:54 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29270-maven-search-pro-mpvp-</link>
       <description>Maven Project Version Plugin(search), Support Quick Search Project Version. (Support Central Repository and Nexus Repository (remote/private...
@@ -188,7 +240,7 @@ xmlId: com.obfuscator.tool.safe_file_obfuscator</description>
       <dc:date>2025-12-02T13:12:49Z</dc:date>
     </item>
     <item>
-      <title>Accessibility Compliance Helper Pro - Wed Dec 03 05:41:27 UTC 2025</title>
+      <title>Accessibility Compliance Helper Pro - Fri Dec 05 11:26:30 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/28974-accessibility-compliance-helper-pro</link>
       <description>Accessibility Compliance Checker Pro Professional WCAG/ADA compliance scanning with legal report generation for web applications. Core Features: Real-time...
 
@@ -196,9 +248,9 @@ vendor: Jakub Jirák
 downloads: 15
 pricingModel: PAID
 xmlId: com.jakubjirak.compliance-checker-pro</description>
-      <pubDate>Wed, 03 Dec 2025 05:41:27 GMT</pubDate>
+      <pubDate>Fri, 05 Dec 2025 11:26:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28974-accessibility-compliance-helper-pro</guid>
-      <dc:date>2025-12-03T05:41:27Z</dc:date>
+      <dc:date>2025-12-05T11:26:30Z</dc:date>
     </item>
     <item>
       <title>Manage Scheduled Events - Tue Dec 02 17:57:47 UTC 2025</title>
@@ -212,58 +264,6 @@ xmlId: com.kivojenko.plugin.manage-scheduled-events</description>
       <pubDate>Tue, 02 Dec 2025 17:57:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29225-manage-scheduled-events</guid>
       <dc:date>2025-12-02T17:57:47Z</dc:date>
-    </item>
-    <item>
-      <title>Drupal Toolkit - Tue Dec 02 20:34:01 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29232-drupal-toolkit</link>
-      <description>Features Single Directory Component (SDC) Integration Provide completion for using component in Twig.Provide a goto symbol for using component in Twig.Provide...
-
-vendor: Luhur Abdi Rizal
-downloads: 7
-pricingModel: FREE
-xmlId: me.elabee.idea.drupal</description>
-      <pubDate>Tue, 02 Dec 2025 20:34:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29232-drupal-toolkit</guid>
-      <dc:date>2025-12-02T20:34:01Z</dc:date>
-    </item>
-    <item>
-      <title>arma-config-support - Wed Dec 03 03:22:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29234-arma-config-support</link>
-      <description>Language support for Arma 3-style configuration files (config.cpp, .hpp, etc.) in IntelliJ-based IDEs. Features Syntax highlighting for classes, assignments, macros...
-
-vendor: Puotek
-downloads: 7
-pricingModel: FREE
-xmlId: com.github.puotek.armaconfigplugin</description>
-      <pubDate>Wed, 03 Dec 2025 03:22:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29234-arma-config-support</guid>
-      <dc:date>2025-12-03T03:22:28Z</dc:date>
-    </item>
-    <item>
-      <title>HttpMate - Thu Dec 04 14:09:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29229-httpmate</link>
-      <description>HttpMate is a powerful IntelliJ IDEA plugin designed to help developers quickly search and navigate to REST APIs within their projects. It supports Spring Boot and...
-
-vendor: Ricky
-downloads: 26
-pricingModel: FREE
-xmlId: com.github.jeraxxxxxxx.httpmate</description>
-      <pubDate>Thu, 04 Dec 2025 14:09:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29229-httpmate</guid>
-      <dc:date>2025-12-04T14:09:35Z</dc:date>
-    </item>
-    <item>
-      <title>TabX - Tue Dec 02 14:47:24 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29230-tabx</link>
-      <description>Allows you to edit the name of your tabs. No need to check the folder name anymore, just rename your tabs to something else for better recognition.
-
-vendor: elpideus
-downloads: 9
-pricingModel: FREE
-xmlId: com.elpideus.tabx</description>
-      <pubDate>Tue, 02 Dec 2025 14:47:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29230-tabx</guid>
-      <dc:date>2025-12-02T14:47:24Z</dc:date>
     </item>
   </channel>
 </rss>
