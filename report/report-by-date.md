@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3 (253.28294.334) ~ 2025-12-08|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Dec 08 16:03:21 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.2|[www.python.org](https://www.python.org/downloads/windows/)|Sat Dec 06 00:06:34 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 05 20:03:33 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.3.0 to 19.3.5 ~ 2025-12-04|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Dec 04 20:03:09 UTC 2025|
 |![logo](../media/logo/go.png) Go|go1.25.5|[golang.org](https://golang.org/dl/)|Tue Dec 02 20:03:24 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 20:04:39 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.2.5 (252.28238.7) ~ 2025-11-20|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Nov 20 20:04:25 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.28294.169) ~ 2025-11-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Nov 19 12:03:33 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 332 - Groquik revient, Emmanuel s'en va|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Nov 18 12:04:05 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.2.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 17 16:03:34 UTC 2025|
