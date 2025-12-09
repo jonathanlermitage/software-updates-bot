@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Fancy Event Sounds - Mon Dec 08 21:05:01 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29305-fancy-event-sounds</link>
+      <description>Event Sounds This is a plugin for IntelliJ IDEA that plays sounds when an event occurs. The reason i remade this plugin is that, I can not seem to find a plugin that...
+
+vendor: mordisk
+downloads: 0
+pricingModel: FREE
+xmlId: com.mordisk.eventsounds</description>
+      <pubDate>Mon, 08 Dec 2025 21:05:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29305-fancy-event-sounds</guid>
+      <dc:date>2025-12-08T21:05:01Z</dc:date>
+    </item>
+    <item>
+      <title>ComposeGuard - Tue Dec 09 07:50:09 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29308-composeguard</link>
+      <description>Developer: androidpoet (Ranbir Singh) Real-time detection of Compose best practices and rule violations in Android Studio. Features: 27 Compose Rules: Naming...
+
+vendor: androidpoet
+downloads: 0
+pricingModel: FREE
+xmlId: io.androidpoet.composeguard</description>
+      <pubDate>Tue, 09 Dec 2025 07:50:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29308-composeguard</guid>
+      <dc:date>2025-12-09T07:50:09Z</dc:date>
+    </item>
+    <item>
       <title>xygeni - Fri Dec 05 12:21:02 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29079-xygeni</link>
       <description>Xygeni Security Plugin Secure your codebase with Secrets, SAST, SCA, IaC &amp;amp; Supply Chain scanning directly within your VS Code environment. Xygeni Security Scanner...
@@ -214,6 +240,19 @@ xmlId: com.scan.SecurityScan</description>
       <dc:date>2025-12-04T02:26:44Z</dc:date>
     </item>
     <item>
+      <title>RestPilot - Smart Spring Boot Client - Tue Dec 09 07:46:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29254-restpilot--smart-spring-boot-client</link>
+      <description>RestPilot: The "Swiss Army Knife" for Spring Boot API Testing RestPilot is an intelligent, code-aware REST client that lives inside your IntelliJ IDEA. It bridges the...
+
+vendor: PhilZ Dev
+downloads: 11
+pricingModel: FREE
+xmlId: com.phil.ultimate.rest.client</description>
+      <pubDate>Tue, 09 Dec 2025 07:46:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29254-restpilot--smart-spring-boot-client</guid>
+      <dc:date>2025-12-09T07:46:59Z</dc:date>
+    </item>
+    <item>
       <title>Djot - Thu Dec 04 19:50:43 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29244-djot</link>
       <description>Djot markup language support for JetBrains IDEs. Features Syntax highlighting via TextMate grammar Live preview panel Export to HTML File type recognition (.djot) Live...
@@ -225,45 +264,6 @@ xmlId: org.phpcollective.djot</description>
       <pubDate>Thu, 04 Dec 2025 19:50:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29244-djot</guid>
       <dc:date>2025-12-04T19:50:43Z</dc:date>
-    </item>
-    <item>
-      <title>Keyscope - Tue Dec 09 01:11:32 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29250-keyscope</link>
-      <description>The Native Redis/Valkey IDE for JetBrains Keyscope is a modern, native, high-performance, lightweight Redis and Valkey management plugin for JetBrains IDEs...
-
-vendor: Infradise
-downloads: 25
-pricingModel: FREE
-xmlId: dev.keyscope.plugin</description>
-      <pubDate>Tue, 09 Dec 2025 01:11:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29250-keyscope</guid>
-      <dc:date>2025-12-09T01:11:32Z</dc:date>
-    </item>
-    <item>
-      <title>KongQuery - Thu Dec 04 10:10:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29256-kongquery</link>
-      <description>KongQuery is the ultimate SQL companion for Spring Data JPA developers. This intelligent IntelliJ plugin automatically formats your SQL queries and even generates Java...
-
-vendor: Kongkiat
-downloads: 5
-pricingModel: FREE
-xmlId: me.kongkiat.kongquery</description>
-      <pubDate>Thu, 04 Dec 2025 10:10:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29256-kongquery</guid>
-      <dc:date>2025-12-04T10:10:55Z</dc:date>
-    </item>
-    <item>
-      <title>Safely Obfuscate Source - Tue Dec 02 13:12:49 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29213-safely-obfuscate-source</link>
-      <description>Safe File Obfuscator is an Android Studio plugin that safely obfuscates Activity classes and layout XML files before build time. It updates all references across the...
-
-vendor: BHT
-downloads: 16
-pricingModel: FREE
-xmlId: com.obfuscator.tool.safe_file_obfuscator</description>
-      <pubDate>Tue, 02 Dec 2025 13:12:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29213-safely-obfuscate-source</guid>
-      <dc:date>2025-12-02T13:12:49Z</dc:date>
     </item>
   </channel>
 </rss>
