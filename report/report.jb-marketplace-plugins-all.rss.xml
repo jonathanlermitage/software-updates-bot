@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>TAL Language Support - Tue Dec 09 22:21:52 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29315-tal-language-support</link>
+      <description>TAL Language Support provides syntax highlighting, commenting, and code folding for .tal and .map files. Features: Syntax highlighting for keywords, identifiers...
+
+vendor: Pakkit
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.xversial.talintellij</description>
+      <pubDate>Tue, 09 Dec 2025 22:21:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29315-tal-language-support</guid>
+      <dc:date>2025-12-09T22:21:52Z</dc:date>
+    </item>
+    <item>
+      <title>AutoGo - Mon Dec 08 09:38:14 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29299-autogo</link>
+      <description>An Android automation testing framework built with Golang, designed for efficient and flexible interaction with Android devices. It supports UI automation, system...
+
+vendor: 不解释
+downloads: 0
+pricingModel: FREE
+xmlId: com.autogo</description>
+      <pubDate>Mon, 08 Dec 2025 09:38:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29299-autogo</guid>
+      <dc:date>2025-12-08T09:38:14Z</dc:date>
+    </item>
+    <item>
+      <title>LUMOS - Sun Dec 07 09:24:40 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29293-lumos</link>
+      <description>LUMOS language support for IntelliJ IDEA, Rust Rover, and CLion. Write once in .lumos schema language → Generate type-safe Rust + TypeScript for Solana development...
+
+vendor: LUMOS
+downloads: 0
+pricingModel: FREE
+xmlId: com.getlumos.plugin</description>
+      <pubDate>Sun, 07 Dec 2025 09:24:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29293-lumos</guid>
+      <dc:date>2025-12-07T09:24:40Z</dc:date>
+    </item>
+    <item>
+      <title>Phalcon Route - Sun Dec 07 14:33:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29289-phalcon-route</link>
+      <description>Phalcon Route is a helper plugin created to easily type your routes using a helper method like route() from phalcon named routes. This plugin can easily be used in any...
+
+vendor: Vasile Bogdan Raica
+downloads: 4
+pricingModel: FREE
+xmlId: ro.raicabogdan.route</description>
+      <pubDate>Sun, 07 Dec 2025 14:33:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29289-phalcon-route</guid>
+      <dc:date>2025-12-07T14:33:16Z</dc:date>
+    </item>
+    <item>
+      <title>Ru BizGen - Sun Dec 07 20:19:23 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29294-ru-bizgen</link>
+      <description>Ru BizGen is a generator of Russian-like test data for fast development. Плагин ускоряет разработку, помогая генерировать реалистичные тестовые данные прямо в...
+
+vendor: Emelianenko Dmitrii
+downloads: 0
+pricingModel: FREE
+xmlId: ru.eda.plgn.bizgen</description>
+      <pubDate>Sun, 07 Dec 2025 20:19:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29294-ru-bizgen</guid>
+      <dc:date>2025-12-07T20:19:23Z</dc:date>
+    </item>
+    <item>
+      <title>MinecraftDevServer - Sat Dec 06 07:49:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29285-minecraftdevserver</link>
+      <description>Allows Minecraft plugin developers to spin up a lightweight Minecraft server inside their IDE for testing and debugging purposes.
+
+vendor: NickAwrist
+downloads: 2
+pricingModel: FREE
+xmlId: com.nickawrist.MinecraftDevServer</description>
+      <pubDate>Sat, 06 Dec 2025 07:49:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29285-minecraftdevserver</guid>
+      <dc:date>2025-12-06T07:49:16Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Powered AI Assistant - Mon Dec 08 08:00:23 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29297-claude-powered-ai-assistant</link>
+      <description>Use latest version of Claude directly in your idea. It knows about your project and files and can help you with any coding task.
+
+vendor: Next Code Gen
+downloads: 0
+pricingModel: FREE
+xmlId: com.nextcodegen.claude</description>
+      <pubDate>Mon, 08 Dec 2025 08:00:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29297-claude-powered-ai-assistant</guid>
+      <dc:date>2025-12-08T08:00:23Z</dc:date>
+    </item>
+    <item>
       <title>Truly Beyond Compare - Sat Dec 06 14:12:12 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29279-truly-beyond-compare</link>
       <description>Compare files across branches even when Git rename detection fails. When major refactors move files across modules and rewrite packages, Git's rename detection breaks...
@@ -173,97 +264,6 @@ xmlId: net.sysrqassociates.jetbrains.plugins.reclaim</description>
       <pubDate>Sat, 06 Dec 2025 21:17:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29249-reclaim</guid>
       <dc:date>2025-12-06T21:17:36Z</dc:date>
-    </item>
-    <item>
-      <title>Transloco Overlay - Fri Dec 05 13:58:53 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29246-transloco-overlay</link>
-      <description>A powerful translation management tool for Transloco in Angular projects. Create, edit, and navigate translations directly from your HTML templates. ✨ Key Features...
-
-vendor: Bailey Le
-downloads: 16
-pricingModel: FREE
-xmlId: com.baileyble.TranslocoOverlay</description>
-      <pubDate>Fri, 05 Dec 2025 13:58:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29246-transloco-overlay</guid>
-      <dc:date>2025-12-05T13:58:53Z</dc:date>
-    </item>
-    <item>
-      <title>Git Assume Unchanged - Tue Dec 09 04:52:01 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29274-git-assume-unchanged</link>
-      <description>Easily manage Git's assume-unchanged flag directly from IntelliJ IDEA. This plugin provides convenient actions to mark files as "assume-unchanged" or remove that flag...
-
-vendor: Aswin
-downloads: 87
-pricingModel: FREE
-xmlId: io.github.gitassume</description>
-      <pubDate>Tue, 09 Dec 2025 04:52:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29274-git-assume-unchanged</guid>
-      <dc:date>2025-12-09T04:52:01Z</dc:date>
-    </item>
-    <item>
-      <title>bab - Tue Dec 09 16:36:02 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29264-bab</link>
-      <description>IntelliJ plugin for bab, The modern task runner. Provides syntax highlighting, code completion, and schema validation for Babfiles. Features Editor Support Syntax...
-
-vendor: bab
-downloads: 102
-pricingModel: FREE
-xmlId: sh.bab.plugin</description>
-      <pubDate>Tue, 09 Dec 2025 16:36:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29264-bab</guid>
-      <dc:date>2025-12-09T16:36:02Z</dc:date>
-    </item>
-    <item>
-      <title>Maven Update Pro(MPVP) - Fri Dec 05 09:05:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-</link>
-      <description>Maven Project Version Plugin(update), Support Quick Update Version. Maven项目版本更新插件，可用于版本快速傻瓜式升级项目版本. Maven Project Version Plugin(update) And Plugin Menu Added In Tools...
-
-vendor: 新程快咖员
-downloads: 11
-pricingModel: FREEMIUM
-xmlId: com.github.jokerpper.intellij-maven-project-version-plugin.maven-update-pro</description>
-      <pubDate>Fri, 05 Dec 2025 09:05:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29271-maven-update-pro-mpvp-</guid>
-      <dc:date>2025-12-05T09:05:28Z</dc:date>
-    </item>
-    <item>
-      <title>Maven Search Pro(MPVP) - Fri Dec 05 09:04:54 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29270-maven-search-pro-mpvp-</link>
-      <description>Maven Project Version Plugin(search), Support Quick Search Project Version. (Support Central Repository and Nexus Repository (remote/private...
-
-vendor: 新程快咖员
-downloads: 13
-pricingModel: FREEMIUM
-xmlId: com.github.jokerpper.intellij-maven-project-version-plugin.maven-search-pro</description>
-      <pubDate>Fri, 05 Dec 2025 09:04:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29270-maven-search-pro-mpvp-</guid>
-      <dc:date>2025-12-05T09:04:54Z</dc:date>
-    </item>
-    <item>
-      <title>Maven With Me Pro(MPVP) - Fri Dec 05 09:04:33 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29269-maven-with-me-pro-mpvp-</link>
-      <description>Maven Project Version Plugin, Support Quick Update Version And Show Project Version And Search Project Version And Quick Generate Badges For Common Project Version...
-
-vendor: 新程快咖员
-downloads: 18
-pricingModel: FREEMIUM
-xmlId: com.github.jokerpper.intellij-maven-project-version-plugin.maven-with-me-pro</description>
-      <pubDate>Fri, 05 Dec 2025 09:04:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29269-maven-with-me-pro-mpvp-</guid>
-      <dc:date>2025-12-05T09:04:33Z</dc:date>
-    </item>
-    <item>
-      <title>Branch Warner - Fri Dec 05 11:26:05 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29258-branch-warner</link>
-      <description>Marks the editor with a badge when the current Git branch matches a warning pattern.
-
-vendor: robNice
-downloads: 24
-pricingModel: FREE
-xmlId: de.rc.branch-warner</description>
-      <pubDate>Fri, 05 Dec 2025 11:26:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29258-branch-warner</guid>
-      <dc:date>2025-12-05T11:26:05Z</dc:date>
     </item>
   </channel>
 </rss>
