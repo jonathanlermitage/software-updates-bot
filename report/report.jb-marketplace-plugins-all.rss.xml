@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Wi-Fi Stay Awake - Sat Dec 06 23:18:51 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29290-wi-fi-stay-awake</link>
+      <description>Wi-Fi Stay Awake adds a toolbar toggle to Android Studio that controls device stay-awake behavior via ADB. This helps maintain a stable debugging session over USB or...
+
+vendor: Tramontána Computing LLC
+downloads: 2
+pricingModel: FREE
+xmlId: hu.co.tramontana.wifi_stay_awake</description>
+      <pubDate>Sat, 06 Dec 2025 23:18:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29290-wi-fi-stay-awake</guid>
+      <dc:date>2025-12-06T23:18:51Z</dc:date>
+    </item>
+    <item>
+      <title>Cutekit - Wed Dec 10 12:58:24 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29321-cutekit</link>
+      <description>Adds the CuteKit Explorer tool window for browsing CuteKit projects and externs.
+
+vendor: Cute Engineering
+downloads: 0
+pricingModel: FREE
+xmlId: engineering.cute.cutekit.integration</description>
+      <pubDate>Wed, 10 Dec 2025 12:58:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29321-cutekit</guid>
+      <dc:date>2025-12-10T12:58:24Z</dc:date>
+    </item>
+    <item>
+      <title>Libraries in Project View - Wed Dec 10 10:51:52 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29322-libraries-in-project-view</link>
+      <description>Show project libraries in a separate node in the project pane.
+
+vendor: Sergej Koščejev
+downloads: 0
+pricingModel: FREE
+xmlId: com.spclngs.projectlibs</description>
+      <pubDate>Wed, 10 Dec 2025 10:51:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29322-libraries-in-project-view</guid>
+      <dc:date>2025-12-10T10:51:52Z</dc:date>
+    </item>
+    <item>
+      <title>Yaml inline annotate - Wed Dec 10 08:25:38 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29319-yaml-inline-annotate</link>
+      <description>Displaying inline hint for enum in yaml files.
+
+vendor: Sergey P. Gorshkov
+downloads: 0
+pricingModel: FREE
+xmlId: ru.codit.yaml-inline-annotate</description>
+      <pubDate>Wed, 10 Dec 2025 08:25:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29319-yaml-inline-annotate</guid>
+      <dc:date>2025-12-10T08:25:38Z</dc:date>
+    </item>
+    <item>
+      <title>Symfony API 4 Postman - Wed Nov 12 06:13:16 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28985-symfony-api-4-postman</link>
+      <description>SymfonyAPI4Postman is a tool that enhances productivity for PHP developers. It helps you Export Symfony API to Postman. Note: Supports Symfony framework version 6.3...
+
+vendor: 毛蝴蝶
+downloads: 2
+pricingModel: PAID
+xmlId: com.butterfly.symfony.api.postman</description>
+      <pubDate>Wed, 12 Nov 2025 06:13:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28985-symfony-api-4-postman</guid>
+      <dc:date>2025-11-12T06:13:16Z</dc:date>
+    </item>
+    <item>
       <title>TAL Language Support - Tue Dec 09 22:21:52 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29315-tal-language-support</link>
       <description>TAL Language Support provides syntax highlighting, commenting, and code folding for .tal and .map files. Features: Syntax highlighting for keywords, identifiers...
@@ -199,71 +264,6 @@ xmlId: com.structuregram.simple.id</description>
       <pubDate>Tue, 09 Dec 2025 14:18:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29263-simple-structuregram</guid>
       <dc:date>2025-12-09T14:18:45Z</dc:date>
-    </item>
-    <item>
-      <title>MacroCheck - Fri Dec 05 14:10:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29276-macrocheck</link>
-      <description>Plugin for checking macro definitions in C/C++ code.
-
-vendor: UnboundFanatic
-downloads: 2
-pricingModel: FREE
-xmlId: core.MacroCheck</description>
-      <pubDate>Fri, 05 Dec 2025 14:10:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29276-macrocheck</guid>
-      <dc:date>2025-12-05T14:10:23Z</dc:date>
-    </item>
-    <item>
-      <title>Fancy Event Sounds - Mon Dec 08 21:05:01 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29305-fancy-event-sounds</link>
-      <description>Event Sounds This is a plugin for IntelliJ IDEA that plays sounds when an event occurs. The reason i remade this plugin is that, I can not seem to find a plugin that...
-
-vendor: mordisk
-downloads: 1
-pricingModel: FREE
-xmlId: com.mordisk.eventsounds</description>
-      <pubDate>Mon, 08 Dec 2025 21:05:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29305-fancy-event-sounds</guid>
-      <dc:date>2025-12-08T21:05:01Z</dc:date>
-    </item>
-    <item>
-      <title>ComposeGuard - Wed Dec 10 15:38:48 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29308-composeguard</link>
-      <description>Developer: androidpoet (Ranbir Singh) Real-time detection of Compose best practices and rule violations in Android Studio. Features: 32 Compose Rules: Naming...
-
-vendor: androidpoet
-downloads: 2
-pricingModel: FREE
-xmlId: io.androidpoet.composeguard</description>
-      <pubDate>Wed, 10 Dec 2025 15:38:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29308-composeguard</guid>
-      <dc:date>2025-12-10T15:38:48Z</dc:date>
-    </item>
-    <item>
-      <title>xygeni - Fri Dec 05 12:21:02 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29079-xygeni</link>
-      <description>Xygeni Security Plugin Secure your codebase with Secrets, SAST, SCA, IaC &amp;amp; Supply Chain scanning directly within your VS Code environment. Xygeni Security Scanner...
-
-vendor: Xygeni Security
-downloads: 7
-pricingModel: FREE
-xmlId: xygeni</description>
-      <pubDate>Fri, 05 Dec 2025 12:21:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29079-xygeni</guid>
-      <dc:date>2025-12-05T12:21:02Z</dc:date>
-    </item>
-    <item>
-      <title>Reclaim - Sat Dec 06 21:17:36 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29249-reclaim</link>
-      <description>Multi-platform recycle bin integration for IntelliJ Platform IDEs. Instead of permanently deleting files, this plugin moves them to your operating system's recycle...
-
-vendor: sysrq associates
-downloads: 104
-pricingModel: FREE
-xmlId: net.sysrqassociates.jetbrains.plugins.reclaim</description>
-      <pubDate>Sat, 06 Dec 2025 21:17:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29249-reclaim</guid>
-      <dc:date>2025-12-06T21:17:36Z</dc:date>
     </item>
   </channel>
 </rss>
