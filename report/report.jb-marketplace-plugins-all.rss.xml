@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Hyperskill Academy - Thu Dec 11 10:18:28 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28001-hyperskill-academy</link>
+      <description>Learn with Hyperskill right in your IDE Hyperskill is a project-based learning platform where you can learn programming through building real-world applications in...
+
+vendor: Hyperskill
+downloads: 227
+pricingModel: FREE
+xmlId: org.hyperskill.academy</description>
+      <pubDate>Thu, 11 Dec 2025 10:18:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28001-hyperskill-academy</guid>
+      <dc:date>2025-12-11T10:18:28Z</dc:date>
+    </item>
+    <item>
+      <title>graphUi - Thu Dec 11 07:12:07 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29314-graphui</link>
+      <description>The Graph Visualizer plugin for IntelliJ IDEA allows you to quickly visualize graphs by simply providing the edges as input. No need to manually draw graphs anymore...
+
+vendor: taraksuthar
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.taraksutharmitigata.graphui</description>
+      <pubDate>Thu, 11 Dec 2025 07:12:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29314-graphui</guid>
+      <dc:date>2025-12-11T07:12:07Z</dc:date>
+    </item>
+    <item>
+      <title>Santa Claus ProgressBar - Thu Dec 11 03:32:41 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29327-santa-claus-progressbar</link>
+      <description>A festive progress bar with animated Santa Claus for IntelliJ IDEA and other JetBrains IDEs.
+
+vendor: cardosofgui
+downloads: 0
+pricingModel: FREE
+xmlId: com.cardosofgui.santaclausprogress</description>
+      <pubDate>Thu, 11 Dec 2025 03:32:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29327-santa-claus-progressbar</guid>
+      <dc:date>2025-12-11T03:32:41Z</dc:date>
+    </item>
+    <item>
       <title>Wi-Fi Stay Awake - Sat Dec 06 23:18:51 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29290-wi-fi-stay-awake</link>
       <description>Wi-Fi Stay Awake adds a toolbar toggle to Android Studio that controls device stay-awake behavior via ADB. This helps maintain a stable debugging session over USB or...
@@ -19,7 +58,7 @@ xmlId: hu.co.tramontana.wifi_stay_awake</description>
       <dc:date>2025-12-06T23:18:51Z</dc:date>
     </item>
     <item>
-      <title>Cutekit - Wed Dec 10 12:58:24 UTC 2025</title>
+      <title>Cutekit - Thu Dec 11 08:42:45 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29321-cutekit</link>
       <description>Adds the CuteKit Explorer tool window for browsing CuteKit projects and externs.
 
@@ -27,9 +66,9 @@ vendor: Cute Engineering
 downloads: 0
 pricingModel: FREE
 xmlId: engineering.cute.cutekit.integration</description>
-      <pubDate>Wed, 10 Dec 2025 12:58:24 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 08:42:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29321-cutekit</guid>
-      <dc:date>2025-12-10T12:58:24Z</dc:date>
+      <dc:date>2025-12-11T08:42:45Z</dc:date>
     </item>
     <item>
       <title>Libraries in Project View - Wed Dec 10 10:51:52 UTC 2025</title>
@@ -225,45 +264,6 @@ xmlId: com.github.audichuang.clipcode</description>
       <pubDate>Sat, 06 Dec 2025 05:32:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29284-clipcode</guid>
       <dc:date>2025-12-06T05:32:23Z</dc:date>
-    </item>
-    <item>
-      <title>Intellego Grok AI Assistant - Wed Dec 10 02:32:28 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29268-intellego-grok-ai-assistant</link>
-      <description>Welcome to the Intelego – Your Grok AI Assistant Hello, fellow developer! Intellego brings the power of Grok by xAI directly into your favorite JetBrains IDE, so you...
-
-vendor: Diligite Iustitiam LLC
-downloads: 7
-pricingModel: FREE
-xmlId: world.diligiteiustitiam.intellego</description>
-      <pubDate>Wed, 10 Dec 2025 02:32:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29268-intellego-grok-ai-assistant</guid>
-      <dc:date>2025-12-10T02:32:28Z</dc:date>
-    </item>
-    <item>
-      <title>Plop - Fri Dec 05 14:11:49 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29277-plop</link>
-      <description>Run Plop code generators right from your IDE. This plugin detects a project's plopfile.js/plopfile.ts, lists available generators, and adds a Plop submenu to the New...
-
-vendor: Jasny
-downloads: 2
-pricingModel: FREE
-xmlId: net.jasny.plop</description>
-      <pubDate>Fri, 05 Dec 2025 14:11:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29277-plop</guid>
-      <dc:date>2025-12-05T14:11:49Z</dc:date>
-    </item>
-    <item>
-      <title>Simple Structuregram - Tue Dec 09 14:18:45 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29263-simple-structuregram</link>
-      <description>A simple plugin to generate Nassi-Shneiderman diagrams from Java methods. Usage: Highlight a method name or body, Right Click -&amp;gt; Generate Structuregram.
-
-vendor: Adam Nashar
-downloads: 13
-pricingModel: FREE
-xmlId: com.structuregram.simple.id</description>
-      <pubDate>Tue, 09 Dec 2025 14:18:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29263-simple-structuregram</guid>
-      <dc:date>2025-12-09T14:18:45Z</dc:date>
     </item>
   </channel>
 </rss>
