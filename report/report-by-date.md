@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 333 - A vendre OSS primitif TBE|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Dec 15 16:03:58 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.12.0|[nodejs.org](https://nodejs.org)|Wed Dec 10 20:03:56 UTC 2025|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3 (253.28294.334) ~ 2025-12-08|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Dec 08 16:03:21 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.2|[www.python.org](https://www.python.org/downloads/windows/)|Sat Dec 06 00:06:34 UTC 2025|
@@ -8,7 +9,6 @@
 |![logo](../media/logo/go.png) Go|go1.25.5|[golang.org](https://golang.org/dl/)|Tue Dec 02 20:03:24 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Nov 20 20:04:39 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3 (253.28294.169) ~ 2025-11-19|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Nov 19 12:03:33 UTC 2025|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 332 - Groquik revient, Emmanuel s'en va|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Nov 18 12:04:05 UTC 2025|
 |![logo](../media/logo/gradle.png) Gradle|9.2.1|[gradle.org](https://gradle.org/releases/)|Mon Nov 17 16:03:34 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.2.1|[nodejs.org](https://nodejs.org)|Mon Nov 17 12:03:44 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
