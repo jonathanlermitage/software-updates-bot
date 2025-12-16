@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>WingCode - Mon Dec 15 05:25:35 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29374-wingcode</link>
+      <description>WingCode is a comprehensive AI coding assistant that enhances developer productivity through intelligent code completion, AI-powered suggestions, and seamless...
+
+vendor: WingCode
+downloads: 0
+pricingModel: FREE
+xmlId: com.wenguang.ai.assistant</description>
+      <pubDate>Mon, 15 Dec 2025 05:25:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29374-wingcode</guid>
+      <dc:date>2025-12-15T05:25:35Z</dc:date>
+    </item>
+    <item>
       <title>Code Review Plus - Sun Dec 14 02:10:33 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29361-code-review-plus</link>
       <description>Code Review Plus - Smart Git Branch Review Tool An IntelliJ plugin for efficient Git branch code review with intelligent status tracking and incremental review...
 
 vendor: Zero
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: code-review-plus</description>
       <pubDate>Sun, 14 Dec 2025 02:10:33 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.dawang.bookmark-plugin</description>
       <description>This plugin adds an action to open all modified files from selected commits in the Git log. Features Right-click on one or more commits in the Git log view.Select...
 
 vendor: Naoyuki Kodama
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.naoyukik.ijtabmanagerex</description>
       <pubDate>Sat, 13 Dec 2025 03:35:38 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.github.naoyukik.ijtabmanagerex</description>
       <description>Structurizr DSL Support for JetBrains IDEs Full language support for Structurizr DSL - the text-based language for C4 model architecture diagrams. Features ✨ Syntax...
 
 vendor: Jakub Jirák
-downloads: 1
+downloads: 3
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.structurizr</description>
       <pubDate>Fri, 12 Dec 2025 19:10:28 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.jakubjirak.structurizr</description>
       <description>Claude Code GUI - A powerful AI assistant and productivity tool that brings Claude Code capabilities with an intuitive graphical interface directly into IntelliJ IDEA...
 
 vendor: CodeMossAI
-downloads: 3
+downloads: 11
 pricingModel: FREE
 xmlId: com.github.idea-claude-code-gui</description>
       <pubDate>Sat, 13 Dec 2025 18:36:58 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.github.idea-claude-code-gui</description>
       <description>Km-Quick-Mybatis is an IntelliJ IDEA plugin that enables quick navigation between Java classes and MyBatis Mapper files.It helps developers improve productivity by...
 
 vendor: wx98
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: cn.wx1998.kmerit.jetbrains.plugins.quickmybatis</description>
       <pubDate>Mon, 15 Dec 2025 17:07:09 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: cn.wx1998.kmerit.jetbrains.plugins.quickmybatis</description>
       <description>This Achievements IntelliJ Platform Plugin adds some fun when coding. It allows one to get and check achievements for writing and running Java programs, or using your...
 
 vendor: Andret2344
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: eu.andret.plugin.achievementsforintellij</description>
       <pubDate>Sat, 13 Dec 2025 14:06:50 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: eu.andret.plugin.achievementsforintellij</description>
       <description>A vocabulary plugin for IntelliJ IDEA. Manage your own custom vocabulary with words and their meanings in a dedicated tool window. Quickly look up the meaning of any...
 
 vendor: cloudlab-standardVoca
-downloads: 3
+downloads: 4
 pricingModel: FREE
 xmlId: com.yourcompany.voca</description>
       <pubDate>Sun, 07 Dec 2025 11:46:15 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.github.lyr426.write-me</description>
       <description>Stop "Ctrl+Z" Anxiety with Local Code Checkpoints. Code Checkpoints is a "Save State" tool for your code. It works independently of Git, allowing you to save versions...
 
 vendor: Amr Hegazi
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.amrg.checkpoints</description>
       <pubDate>Sat, 13 Dec 2025 21:23:14 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.amrg.checkpoints</description>
       <description>LocalDevTools is your Swiss Army knife for encoding, decoding, hashing, and generating data directly within your IDE. Access 15 powerful codecs through an intuitive...
 
 vendor: Baretto
-downloads: 2
+downloads: 3
 pricingModel: PAID
 xmlId: com.github.mehdielke.localdevtools</description>
       <pubDate>Fri, 12 Dec 2025 12:51:21 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: com.github.mehdielke.localdevtools</description>
       <description>A JetBrains Platform plugin that automatically tracks your coding time and provides comprehensive analytics to help you understand your development patterns and...
 
 vendor: AhogeK
-downloads: 0
+downloads: 46
 pricingModel: FREE
 xmlId: com.ahogek.code-time-tracker</description>
       <pubDate>Mon, 15 Dec 2025 09:16:06 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: com.ahogek.code-time-tracker</description>
       <description>Linux.do Explorer - Browse Linux.do Forum in IntelliJ IDEA Linux.do Explorer is a powerful IntelliJ IDEA plugin that allows you to browse the Linux.do forum content...
 
 vendor: TooAme
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.linuxdo.explorer</description>
       <pubDate>Mon, 15 Dec 2025 16:21:36 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.linuxdo.explorer</description>
       <description>Stag - Technology Version Feed Stay up-to-date with the latest technology version releases from various open source projects, directly within your IDE. Features...
 
 vendor: stag
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.ktyhub.idea.plugin.stag</description>
       <pubDate>Tue, 09 Dec 2025 01:53:25 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.ktyhub.idea.plugin.stag</description>
       <description>Seamlessly integrate Antigravity with IntelliJ IDEA. This plugin allows you to open your current file directly in the Antigravity editor, keeping your context by...
 
 vendor: huangpeng
-downloads: 0
+downloads: 23
 pricingModel: FREE
 xmlId: com.github.ppphuang.idea-antigravity-plugin</description>
       <pubDate>Sun, 14 Dec 2025 14:54:39 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.github.ppphuang.idea-antigravity-plugin</description>
       <description>AI-powered code assistance via local or remote Ollama API. Provides chat and agent modes for intelligent code completion and automation. Supports file mentioning...
 
 vendor: Turknet DevOps Team
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.turknet.devops.lucid-chat</description>
       <pubDate>Sun, 14 Dec 2025 21:20:50 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.turknet.devops.lucid-chat</description>
       <description>FuTrade is a professional stock management plugin for IDEA developers focusing on A-share and Hong Kong stock markets. It enables real-time quote monitoring for all...
 
 vendor: WANG DINGFU
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: cn.fudoc.stock</description>
       <pubDate>Mon, 15 Dec 2025 16:40:02 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: cn.fudoc.stock</description>
       <description>GitCommitStats provides real-time visibility into your uncommitted changes directly in the status bar. Know exactly what you're about to commit before you hit that...
 
 vendor: SukiEva
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.sukieva.gitcommitstats</description>
       <pubDate>Sun, 14 Dec 2025 13:54:44 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.github.sukieva.gitcommitstats</description>
       <description>JSON Viewer Plugin based on IntelliJ IDEs. It makes JSON processing a breeze! With advanced features such as JSON validation, beautification, and conversion between...
 
 vendor: skyblue
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.json.view.simple</description>
       <pubDate>Sun, 14 Dec 2025 10:01:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29366-json-view</guid>
       <dc:date>2025-12-14T10:01:28Z</dc:date>
-    </item>
-    <item>
-      <title>Super Path Copier - Sun Dec 14 06:46:09 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29365-super-path-copier</link>
-      <description>A powerful path copying plugin that converts Windows backslashes to forward slashes automatically. Features Copy Absolute Path - Copy full path with forward slashes...
-
-vendor: popo
-downloads: 0
-pricingModel: FREE
-xmlId: com.bubble.super-path-copier</description>
-      <pubDate>Sun, 14 Dec 2025 06:46:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29365-super-path-copier</guid>
-      <dc:date>2025-12-14T06:46:09Z</dc:date>
     </item>
   </channel>
 </rss>
