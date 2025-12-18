@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.1 (253.29346.138) ~ 2025-12-18|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Dec 18 16:03:15 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 333 - A vendre OSS primitif TBE|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Dec 15 16:03:58 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.12.0|[nodejs.org](https://nodejs.org)|Wed Dec 10 20:03:56 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3 (253.28294.334) ~ 2025-12-08|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Dec 08 16:03:21 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.2|[www.python.org](https://www.python.org/downloads/windows/)|Sat Dec 06 00:06:34 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 05 20:03:33 UTC 2025|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.3.0 to 19.3.5 ~ 2025-12-04|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Dec 04 20:03:09 UTC 2025|
