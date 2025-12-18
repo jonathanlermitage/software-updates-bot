@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Python LSP - Thu Dec 18 15:27:15 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29422-python-lsp</link>
+      <description>This plugin enhances PyCharm with integrated support for ty, pyrefly, ruff, pyright, and base LSP tooling. It provides fast linting with ruff, precise type checking...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.python.lsp</description>
+      <pubDate>Thu, 18 Dec 2025 15:27:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29422-python-lsp</guid>
+      <dc:date>2025-12-18T15:27:15Z</dc:date>
+    </item>
+    <item>
       <title>AEM Integration - Wed Dec 17 20:21:03 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29404-aem-integration</link>
       <description>Professional AEM development toolkit. Complete HTL (Sightly) and FreeMarker template support with syntax highlighting, autocomplete, and go-to-definition. Built-in...
@@ -251,19 +264,6 @@ xmlId: ronsijm.templater</description>
       <pubDate>Tue, 16 Dec 2025 23:51:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29385-templater</guid>
       <dc:date>2025-12-16T23:51:13Z</dc:date>
-    </item>
-    <item>
-      <title>Composable Selection - Tue Dec 16 17:07:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29376-composable-selection</link>
-      <description>Developer: dungngminh Provides easy way to select Composable function Features: Keyboard Shorcut and Context Action to quick select Composable function.
-
-vendor: dungngminh
-downloads: 37
-pricingModel: FREE
-xmlId: com.github.dungngminh.composableselection</description>
-      <pubDate>Tue, 16 Dec 2025 17:07:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29376-composable-selection</guid>
-      <dc:date>2025-12-16T17:07:55Z</dc:date>
     </item>
   </channel>
 </rss>

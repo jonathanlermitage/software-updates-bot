@@ -5,5 +5,18 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>Python LSP - Thu Dec 18 15:27:15 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29422-python-lsp</link>
+      <description>This plugin enhances PyCharm with integrated support for ty, pyrefly, ruff, pyright, and base LSP tooling. It provides fast linting with ruff, precise type checking...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.python.lsp</description>
+      <pubDate>Thu, 18 Dec 2025 15:27:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29422-python-lsp</guid>
+      <dc:date>2025-12-18T15:27:15Z</dc:date>
+    </item>
   </channel>
 </rss>
