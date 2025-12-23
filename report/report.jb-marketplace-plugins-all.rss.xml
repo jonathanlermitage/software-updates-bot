@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ReqRun - Mon Dec 22 10:48:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29471-reqrun</link>
+      <description>ReqRun is a minimal HTTP client for IntelliJ IDEA Community that lives in .http files. Fast to run, easy to read. Features Run request blocks with gutter markers or...
+
+vendor: Aidar Khusainov
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.aidarkhusainov.reqrun</description>
+      <pubDate>Mon, 22 Dec 2025 10:48:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29471-reqrun</guid>
+      <dc:date>2025-12-22T10:48:58Z</dc:date>
+    </item>
+    <item>
+      <title>Spring Boot CRUD Generator - Mon Dec 22 15:56:49 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29476-spring-boot-crud-generator</link>
+      <description>Spring Boot CRUD Generator is an IntelliJ IDEA plugin that generates production-ready CRUD layers for Spring Boot applications directly from a JPA entity. Generated...
+
+vendor: Karan Sahani
+downloads: 0
+pricingModel: FREE
+xmlId: com.karan.springbootcrud</description>
+      <pubDate>Mon, 22 Dec 2025 15:56:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29476-spring-boot-crud-generator</guid>
+      <dc:date>2025-12-22T15:56:49Z</dc:date>
+    </item>
+    <item>
+      <title>php-trait-inline-viewer - Mon Dec 22 12:02:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29472-php-trait-inline-viewer</link>
+      <description>A PhpStorm plugin that allows you to view PHP classes with their traits expanded inline, making it easier to understand the complete structure of classes that use...
+
+vendor: tommykw
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.tommykw.phptraitinlineviewer</description>
+      <pubDate>Mon, 22 Dec 2025 12:02:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29472-php-trait-inline-viewer</guid>
+      <dc:date>2025-12-22T12:02:58Z</dc:date>
+    </item>
+    <item>
+      <title>SSH Publisher - Sat Dec 20 16:35:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29440-ssh-publisher</link>
+      <description>A powerful SSH client plugin for JetBrains IDEs with SSH connection management, terminal emulation, and parallel multi-file upload capabilities. SSH Connection...
+
+vendor: lhstack
+downloads: 2
+pricingModel: FREE
+xmlId: com.lhstack.ssh-publisher</description>
+      <pubDate>Sat, 20 Dec 2025 16:35:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29440-ssh-publisher</guid>
+      <dc:date>2025-12-20T16:35:58Z</dc:date>
+    </item>
+    <item>
+      <title>legado reader - Sat Dec 20 18:49:25 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/20974-legado-reader</link>
+      <description>Legado Reader is a JetBrains IDE plugin based on the open-source reading app Legado It brings a reading experience into the IDE, allowing developers to read anytime...
+
+vendor: Nan Cheung
+downloads: 0
+pricingModel: FREE
+xmlId: com.nancheung.plugins.jetbrains.legado-reader</description>
+      <pubDate>Sat, 20 Dec 2025 18:49:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/20974-legado-reader</guid>
+      <dc:date>2025-12-20T18:49:25Z</dc:date>
+    </item>
+    <item>
+      <title>Tom cat Progress - Mon Dec 22 14:15:19 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29475-tom-cat-progress</link>
+      <description>Replaces your IDE's progress bars with Tom and jerry.
+
+vendor: DPT Software
+downloads: 0
+pricingModel: PAID
+xmlId: com.ptd.tomcatprogress</description>
+      <pubDate>Mon, 22 Dec 2025 14:15:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29475-tom-cat-progress</guid>
+      <dc:date>2025-12-22T14:15:19Z</dc:date>
+    </item>
+    <item>
+      <title>Git Guard - Fri Dec 19 20:50:59 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29437-git-guard</link>
+      <description>GitGuard Enforce Git workflow standards and code quality rules before commits reach your repository. Features Branch Protection Block commits to main, master, and...
+
+vendor: GitGaurd
+downloads: 0
+pricingModel: FREE
+xmlId: creator.solutions.git-plugin</description>
+      <pubDate>Fri, 19 Dec 2025 20:50:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29437-git-guard</guid>
+      <dc:date>2025-12-19T20:50:59Z</dc:date>
+    </item>
+    <item>
       <title>Script Runner - Sat Dec 20 08:01:12 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29443-script-runner</link>
       <description>Script Runner - Quick Script Execution for IntelliJ IDEA A powerful IntelliJ IDEA plugin that allows you to quickly run local project scripts directly from the editor...
@@ -71,17 +162,17 @@ xmlId: com.saysawgames.filelinknavigator</description>
       <dc:date>2025-12-20T08:53:00Z</dc:date>
     </item>
     <item>
-      <title>Extended MCP Server - Sun Dec 21 19:46:11 UTC 2025</title>
+      <title>Extended MCP Server - Mon Dec 22 21:49:44 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29460-extended-mcp-server</link>
-      <description>Extended MCP Server extends the built-in IntelliJ IDEA MCP server by adding additional tools within the IDE. Features: Search in dependencies: Search for text patterns...
+      <description>Extended MCP Server extends the built-in JetBrains IDE MCP server by adding additional tools within the IDE. Features: Search in dependencies: Search for text patterns...
 
 vendor: Pavel Sushkov
 downloads: 0
 pricingModel: FREE
 xmlId: io.github.sushkovpv.extended-intellij-mcp</description>
-      <pubDate>Sun, 21 Dec 2025 19:46:11 GMT</pubDate>
+      <pubDate>Mon, 22 Dec 2025 21:49:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29460-extended-mcp-server</guid>
-      <dc:date>2025-12-21T19:46:11Z</dc:date>
+      <dc:date>2025-12-22T21:49:44Z</dc:date>
     </item>
     <item>
       <title>Feign Client Navigator - Mon Dec 22 09:35:35 UTC 2025</title>
@@ -151,7 +242,7 @@ xmlId: com.changelogpro</description>
     <item>
       <title>AI Token Counter - Sun Dec 14 21:33:49 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29309-ai-token-counter</link>
-      <description>Token Counter for Gemini A lightweight utility designed for developers working with Large Language Models (LLMs) like Gemini. What it does: It calculates the...
+      <description>100% Local, Privacy-First Token Counter &#x1f512; Stop guessing your AI costs. The AI Token Counter is the essential tool for developers working with LLMs (Gemini, OpenAI...
 
 vendor: triangcircularmedia
 downloads: 3
@@ -173,97 +264,6 @@ xmlId: com.crossguild.difffrog</description>
       <pubDate>Fri, 19 Dec 2025 21:22:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29433-difffrog</guid>
       <dc:date>2025-12-19T21:22:59Z</dc:date>
-    </item>
-    <item>
-      <title>Android Bug Analyzer - Fri Dec 19 10:54:43 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29432-android-bug-analyzer</link>
-      <description>Analyze Android bug reports directly in Android Studio. Android Bug Analyzer is an Android Studio plugin built to solve performance bottlenecks and tooling...
-
-vendor: YiDroid
-downloads: 6
-pricingModel: FREE
-xmlId: com.yidroid.buganalyzer.plugin</description>
-      <pubDate>Fri, 19 Dec 2025 10:54:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29432-android-bug-analyzer</guid>
-      <dc:date>2025-12-19T10:54:43Z</dc:date>
-    </item>
-    <item>
-      <title>CallIt - Fri Dec 19 02:38:17 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29428-callit</link>
-      <description>CallIt - AI-Powered Naming Assistant CallIt is an intelligent naming assistant powered by Google Gemini AI that helps you generate perfect variable and function names...
-
-vendor: hshim
-downloads: 11
-pricingModel: FREE
-xmlId: com.hshim.callIt</description>
-      <pubDate>Fri, 19 Dec 2025 02:38:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29428-callit</guid>
-      <dc:date>2025-12-19T02:38:17Z</dc:date>
-    </item>
-    <item>
-      <title>Serena - Fri Dec 19 16:35:34 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/28946-serena</link>
-      <description>Equips the Serena MCP server with symbolic retrieval and editing capabilities powered by your JetBrains IDE.
-
-vendor: Oraios Software
-downloads: 154
-pricingModel: PAID
-xmlId: de.oraios.serena</description>
-      <pubDate>Fri, 19 Dec 2025 16:35:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28946-serena</guid>
-      <dc:date>2025-12-19T16:35:34Z</dc:date>
-    </item>
-    <item>
-      <title>Event Library Helper - Thu Dec 18 08:25:06 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29413-event-library-helper</link>
-      <description>An IntelliJ plugin for my high performance event system.
-
-vendor: Event Library Plugin
-downloads: 7
-pricingModel: FREE
-xmlId: event-library-plugin</description>
-      <pubDate>Thu, 18 Dec 2025 08:25:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29413-event-library-helper</guid>
-      <dc:date>2025-12-18T08:25:06Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis Plus Generator - Fri Dec 19 03:55:39 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29415-mybatis-plus-generator</link>
-      <description>A powerful MyBatis Plus code generator plugin for IntelliJ IDEA that automatically generates code from database tables. MyBatis Plus Code Generator Automatically...
-
-vendor: dragon-guo
-downloads: 30
-pricingModel: FREE
-xmlId: com.mybatisplus.generator</description>
-      <pubDate>Fri, 19 Dec 2025 03:55:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29415-mybatis-plus-generator</guid>
-      <dc:date>2025-12-19T03:55:39Z</dc:date>
-    </item>
-    <item>
-      <title>File Folder - Thu Dec 18 16:26:35 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29423-file-folder</link>
-      <description>Groups related files (like tsconfig.json, tsconfig.spec.json) into collapsible virtual folders in the project tree.
-
-vendor: plexworlds.com
-downloads: 23
-pricingModel: FREE
-xmlId: com.plexworlds.file-folder</description>
-      <pubDate>Thu, 18 Dec 2025 16:26:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29423-file-folder</guid>
-      <dc:date>2025-12-18T16:26:35Z</dc:date>
-    </item>
-    <item>
-      <title>Doraemon Progress - Fri Dec 19 17:19:23 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29420-doraemon-progress</link>
-      <description>Replaces your IDE's progress bars with Doraemon.
-
-vendor: DPT Software
-downloads: 42
-pricingModel: PAID
-xmlId: com.ptd.doraemonprogress</description>
-      <pubDate>Fri, 19 Dec 2025 17:19:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29420-doraemon-progress</guid>
-      <dc:date>2025-12-19T17:19:23Z</dc:date>
     </item>
   </channel>
 </rss>
