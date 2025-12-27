@@ -19,6 +19,8 @@ jobs:
           java-version: 21
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v5 # https://github.com/gradle/actions/tree/main/setup-gradle
+        with:
+          gradle-version: wrapper
       - name: Build app
         run: ./gradlew clean bootJar
       - name: Run app
