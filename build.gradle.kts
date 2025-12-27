@@ -4,11 +4,11 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 val prjJavaVersion = JavaVersion.VERSION_21
 
 plugins {
-    val kotlinVersion = "2.2.21"
+    val kotlinVersion = "2.3.0"
     kotlin("jvm") version kotlinVersion
     kotlin("plugin.spring") version kotlinVersion
     kotlin("kapt") version kotlinVersion
-    id("org.springframework.boot") version "4.0.0"
+    id("org.springframework.boot") version "4.0.1"
     id("io.spring.dependency-management") version "1.1.7"
     id("com.github.ben-manes.versions") version "0.53.0"
     id("project-report") // https://docs.gradle.org/current/userguide/project_report_plugin.html
