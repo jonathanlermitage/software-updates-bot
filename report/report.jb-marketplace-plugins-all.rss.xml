@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Copilot AI Assistant - Fri Jan 02 11:00:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29586-copilot-ai-assistant</link>
+      <description>Copilot AI Assistant serves as your intelligent coding assistant, based on DeepSeek and other large model technologies, allowing you to interact via the chat window on...
+
+vendor: CodeAlchemist
+downloads: 0
+pricingModel: FREE
+xmlId: ord.cp.code.ai.kit</description>
+      <pubDate>Fri, 02 Jan 2026 11:00:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29586-copilot-ai-assistant</guid>
+      <dc:date>2026-01-02T11:00:34Z</dc:date>
+    </item>
+    <item>
+      <title>Messi Progressbar - Fri Jan 02 11:45:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29587-messi-progressbar</link>
+      <description>Replaces your IDE's progress bars with Messi.
+
+vendor: NTT Soft
+downloads: 0
+pricingModel: PAID
+xmlId: com.ptd.messiprogress</description>
+      <pubDate>Fri, 02 Jan 2026 11:45:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29587-messi-progressbar</guid>
+      <dc:date>2026-01-02T11:45:37Z</dc:date>
+    </item>
+    <item>
+      <title>Mickey Progressbar - Fri Jan 02 03:54:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29583-mickey-progressbar</link>
+      <description>Replaces your IDE's progress bars with Mickey mouse. 将你的 IDE 进度条替换为米老鼠。 IDE の進捗バーをミッキーマウスに置き換えます。 IDE의 진행 표시줄을 미키 마우스로 교체합니다.
+
+vendor: DPT Software
+downloads: 0
+pricingModel: PAID
+xmlId: com.ptd.mickeyprogress</description>
+      <pubDate>Fri, 02 Jan 2026 03:54:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29583-mickey-progressbar</guid>
+      <dc:date>2026-01-02T03:54:55Z</dc:date>
+    </item>
+    <item>
       <title>PasteMD - Thu Jan 01 07:38:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29576-pastemd</link>
       <description>Share Markdown documents instantly with PasteMD. Features: - Share selected text or entire file with one click - Automatic URL copy to clipboard - Customizable...
@@ -58,7 +97,7 @@ xmlId: io.github.aalsanie.formatter</description>
       <dc:date>2026-01-01T12:31:52Z</dc:date>
     </item>
     <item>
-      <title>LISA AI Assistant - Fri Jan 02 11:56:55 UTC 2026</title>
+      <title>LISA AI Assistant - Fri Jan 02 14:35:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29577-lisa-ai-assistant</link>
       <description>LISA (Language-Integrated Smart Agent) is a powerful AI companion designed to help you code faster and more efficiently. Features Intelligent Chat: Chat with LISA to...
 
@@ -66,9 +105,9 @@ vendor: trinadhkoya
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.trinadhkoya.lisaintellijplugin</description>
-      <pubDate>Fri, 02 Jan 2026 11:56:55 GMT</pubDate>
+      <pubDate>Fri, 02 Jan 2026 14:35:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29577-lisa-ai-assistant</guid>
-      <dc:date>2026-01-02T11:56:55Z</dc:date>
+      <dc:date>2026-01-02T14:35:24Z</dc:date>
     </item>
     <item>
       <title>QuickTodo - Thu Jan 01 02:38:40 UTC 2026</title>
@@ -201,7 +240,7 @@ xmlId: com.smarttodo.panel</description>
       <dc:date>2025-12-30T11:06:58Z</dc:date>
     </item>
     <item>
-      <title>Vestige - Temporal Code Intelligence - Mon Dec 29 21:47:27 UTC 2025</title>
+      <title>Vestige - Temporal Code Intelligence - Fri Jan 02 09:45:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29532-vestige--temporal-code-intelligence</link>
       <description>Vestige brings temporal awareness directly into your code editor. See which code is ancient, which is churning, and which just changed—all without leaving your file...
 
@@ -209,9 +248,9 @@ vendor: Nwatu Ifeanyichukwu Ernest
 downloads: 3
 pricingModel: FREE
 xmlId: com.codecharlan.vestige</description>
-      <pubDate>Mon, 29 Dec 2025 21:47:27 GMT</pubDate>
+      <pubDate>Fri, 02 Jan 2026 09:45:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29532-vestige--temporal-code-intelligence</guid>
-      <dc:date>2025-12-29T21:47:27Z</dc:date>
+      <dc:date>2026-01-02T09:45:05Z</dc:date>
     </item>
     <item>
       <title>Junie Undo Fix - Mon Dec 29 21:10:55 UTC 2025</title>
@@ -225,45 +264,6 @@ xmlId: io.github.sushkovpv.junie-undo-fix</description>
       <pubDate>Mon, 29 Dec 2025 21:10:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29559-junie-undo-fix</guid>
       <dc:date>2025-12-29T21:10:55Z</dc:date>
-    </item>
-    <item>
-      <title>RNToolBox - Mon Dec 29 20:59:48 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29555-rntoolbox</link>
-      <description>High-fidelity React Native DevTools inside IntelliJ IDEA. - Network Inspector: Full request/response capture with JSON trees. - Console Logs: Advanced stream with...
-
-vendor: GSCodes
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gscodes.rntoolbox.free</description>
-      <pubDate>Mon, 29 Dec 2025 20:59:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29555-rntoolbox</guid>
-      <dc:date>2025-12-29T20:59:48Z</dc:date>
-    </item>
-    <item>
-      <title>AI Commit Assistant - Thu Jan 01 13:07:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29558-ai-commit-assistant</link>
-      <description>Automatically generate Git commit messages using AI/LLM providers. Supports OpenAI, Anthropic (Claude), and local Ollama instances.
-
-vendor: RustMelody
-downloads: 0
-pricingModel: FREE
-xmlId: com.prathanbomb.diffsense</description>
-      <pubDate>Thu, 01 Jan 2026 13:07:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29558-ai-commit-assistant</guid>
-      <dc:date>2026-01-01T13:07:38Z</dc:date>
-    </item>
-    <item>
-      <title>GN Language - Thu Jan 01 08:37:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29463-gn-language</link>
-      <description>A language server for GN, the build configuration language used in Chromium, Fuchsia, and other projects. Features Syntax highlighting Syntax error reporting...
-
-vendor: Google
-downloads: 44
-pricingModel: FREE
-xmlId: com.google.gn</description>
-      <pubDate>Thu, 01 Jan 2026 08:37:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29463-gn-language</guid>
-      <dc:date>2026-01-01T08:37:53Z</dc:date>
     </item>
   </channel>
 </rss>
