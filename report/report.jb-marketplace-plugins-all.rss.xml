@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Kibbler - Claude Code Assistant - Tue Dec 30 05:44:44 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29494-kibbler--claude-code-assistant</link>
+      <description>Kibbler lets you control Claude Code from your iPhone. Chat with Claude, review code changes, and approve edits - all from your phone while your computer does the...
+
+vendor: Kibbler
+downloads: 3
+pricingModel: FREE
+xmlId: com.kibbler.plugin</description>
+      <pubDate>Tue, 30 Dec 2025 05:44:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29494-kibbler--claude-code-assistant</guid>
+      <dc:date>2025-12-30T05:44:44Z</dc:date>
+    </item>
+    <item>
       <title>Copilot AI Assistant - Fri Jan 02 11:00:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29586-copilot-ai-assistant</link>
       <description>Copilot AI Assistant serves as your intelligent coding assistant, based on DeepSeek and other large model technologies, allowing you to interact via the chat window on...
@@ -97,7 +110,7 @@ xmlId: io.github.aalsanie.formatter</description>
       <dc:date>2026-01-01T12:31:52Z</dc:date>
     </item>
     <item>
-      <title>LISA AI Assistant - Fri Jan 02 14:35:24 UTC 2026</title>
+      <title>LISA AI Assistant - Fri Jan 02 16:52:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29577-lisa-ai-assistant</link>
       <description>LISA (Language-Integrated Smart Agent) is a powerful AI companion designed to help you code faster and more efficiently. Features Intelligent Chat: Chat with LISA to...
 
@@ -105,9 +118,9 @@ vendor: trinadhkoya
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.trinadhkoya.lisaintellijplugin</description>
-      <pubDate>Fri, 02 Jan 2026 14:35:24 GMT</pubDate>
+      <pubDate>Fri, 02 Jan 2026 16:52:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29577-lisa-ai-assistant</guid>
-      <dc:date>2026-01-02T14:35:24Z</dc:date>
+      <dc:date>2026-01-02T16:52:38Z</dc:date>
     </item>
     <item>
       <title>QuickTodo - Thu Jan 01 02:38:40 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.codecharlan.vestige</description>
       <pubDate>Fri, 02 Jan 2026 09:45:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29532-vestige--temporal-code-intelligence</guid>
       <dc:date>2026-01-02T09:45:05Z</dc:date>
-    </item>
-    <item>
-      <title>Junie Undo Fix - Mon Dec 29 21:10:55 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29559-junie-undo-fix</link>
-      <description>Experimental fix for hotkeys in the Junie tool window. This plugin restores Undo, Redo, Copy, Paste and other standard hotkeys in the Junie Compose interface. Warning...
-
-vendor: Pavel Sushkov
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.sushkovpv.junie-undo-fix</description>
-      <pubDate>Mon, 29 Dec 2025 21:10:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29559-junie-undo-fix</guid>
-      <dc:date>2025-12-29T21:10:55Z</dc:date>
     </item>
   </channel>
 </rss>
