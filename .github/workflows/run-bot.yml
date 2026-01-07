@@ -17,14 +17,11 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: 21
-      - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v5 # https://github.com/gradle/actions/tree/main/setup-gradle
-        with:
-          gradle-version: wrapper
+          cache: 'maven'
       - name: Build app
-        run: ./gradlew clean bootJar
+        run: ./mvnw --no-transfer-progress clean package -DskipTests -B -U
       - name: Run app
-        run: java -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -Dfile.encoding=UTF-8 -jar build/libs/software-updates-bot-0.0.1-SNAPSHOT.jar
+        run: java -XX:+TieredCompilation -XX:TieredStopAtLevel=1 -Dfile.encoding=UTF-8 -jar target/software-updates-bot-0.0.1-SNAPSHOT.jar
       - name: Commit and push changes
         run: |
           git add report/*.md
