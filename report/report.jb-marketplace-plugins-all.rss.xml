@@ -32,19 +32,6 @@ xmlId: vadl.intellij-openvadl</description>
       <dc:date>2026-01-07T10:01:52Z</dc:date>
     </item>
     <item>
-      <title>Advanced Git Features - Mon Jan 05 16:50:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29640-advanced-git-features</link>
-      <description>Adds several useful actions to Git IntelliJ support which are not available in the main Git plugin. Create a branch from master Delete the current branch and switch to...
-
-vendor: Max Medvedev
-downloads: 0
-pricingModel: FREE
-xmlId: max.medvedev.git-helper</description>
-      <pubDate>Mon, 05 Jan 2026 16:50:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29640-advanced-git-features</guid>
-      <dc:date>2026-01-05T16:50:43Z</dc:date>
-    </item>
-    <item>
       <title>Go Template LSP - Mon Jan 05 16:41:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29548-go-template-lsp</link>
       <description>Go Template LSP Add LSP support and a better feedback loop while working with text/template and html/template package Additionally, the LSP introduces a type system in...
@@ -264,6 +251,19 @@ xmlId: io.logspace.jetbrains</description>
       <pubDate>Mon, 05 Jan 2026 14:41:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29630-logspace</guid>
       <dc:date>2026-01-05T14:41:37Z</dc:date>
+    </item>
+    <item>
+      <title>Pikachu Progressbar - Mon Jan 05 14:54:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29637-pikachu-progressbar</link>
+      <description>Replaces your IDE's progress bars with Pikachu. 将你的 IDE 进度条替换为皮卡丘。 IDE の進捗バーをピカチュウに置き換えます。 IDE의 진행 표시줄을 피카츄로 교체합니다.
+
+vendor: DPT Software
+downloads: 34
+pricingModel: PAID
+xmlId: com.ptd.pikachuprogress</description>
+      <pubDate>Mon, 05 Jan 2026 14:54:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29637-pikachu-progressbar</guid>
+      <dc:date>2026-01-05T14:54:56Z</dc:date>
     </item>
   </channel>
 </rss>
