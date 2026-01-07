@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Jira Connector - Mon Jan 05 17:54:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29642-jira-connector</link>
+      <description>Jira integration for JetBrains IDEs. View, filter, and manage Jira issues directly from your IDE. Features: Browse issues by project, board, or sprint Filter by...
+
+vendor: kevinquillen
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.kevinquillen.jira</description>
+      <pubDate>Mon, 05 Jan 2026 17:54:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29642-jira-connector</guid>
+      <dc:date>2026-01-05T17:54:10Z</dc:date>
+    </item>
+    <item>
+      <title>OpenVADL - Wed Jan 07 10:01:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29659-openvadl</link>
+      <description>Provides support for the OpenVALD language.
+
+vendor: flofriday
+downloads: 0
+pricingModel: FREE
+xmlId: vadl.intellij-openvadl</description>
+      <pubDate>Wed, 07 Jan 2026 10:01:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29659-openvadl</guid>
+      <dc:date>2026-01-07T10:01:52Z</dc:date>
+    </item>
+    <item>
+      <title>Advanced Git Features - Mon Jan 05 16:50:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29640-advanced-git-features</link>
+      <description>Adds several useful actions to Git IntelliJ support which are not available in the main Git plugin. Create a branch from master Delete the current branch and switch to...
+
+vendor: Max Medvedev
+downloads: 0
+pricingModel: FREE
+xmlId: max.medvedev.git-helper</description>
+      <pubDate>Mon, 05 Jan 2026 16:50:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29640-advanced-git-features</guid>
+      <dc:date>2026-01-05T16:50:43Z</dc:date>
+    </item>
+    <item>
       <title>Go Template LSP - Mon Jan 05 16:41:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29548-go-template-lsp</link>
       <description>Go Template LSP Add LSP support and a better feedback loop while working with text/template and html/template package Additionally, the LSP introduces a type system in...
@@ -225,45 +264,6 @@ xmlId: io.logspace.jetbrains</description>
       <pubDate>Mon, 05 Jan 2026 14:41:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29630-logspace</guid>
       <dc:date>2026-01-05T14:41:37Z</dc:date>
-    </item>
-    <item>
-      <title>Pikachu Progressbar - Mon Jan 05 14:54:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29637-pikachu-progressbar</link>
-      <description>Replaces your IDE's progress bars with Pikachu. 将你的 IDE 进度条替换为皮卡丘。 IDE の進捗バーをピカチュウに置き換えます。 IDE의 진행 표시줄을 피카츄로 교체합니다.
-
-vendor: DPT Software
-downloads: 34
-pricingModel: PAID
-xmlId: com.ptd.pikachuprogress</description>
-      <pubDate>Mon, 05 Jan 2026 14:54:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29637-pikachu-progressbar</guid>
-      <dc:date>2026-01-05T14:54:56Z</dc:date>
-    </item>
-    <item>
-      <title>WeChat MiniProgram Dev Tools - Mon Jan 05 12:17:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29634-wechat-miniprogram-dev-tools</link>
-      <description>WeChat Mini Program Plugin - Support for IntelliJ IDEA 2025.3 微信小程序插件，支持 2025.3 Support WeChat Mini Program project 使用入门 打开微信小程序或QQ小程序项目 确保project.config.json配置文件存在...
-
-vendor: chief
-downloads: 6
-pricingModel: FREE
-xmlId: com.chief.ijplugin.weapp</description>
-      <pubDate>Mon, 05 Jan 2026 12:17:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29634-wechat-miniprogram-dev-tools</guid>
-      <dc:date>2026-01-05T12:17:32Z</dc:date>
-    </item>
-    <item>
-      <title>LogSensei - Mon Jan 05 10:13:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29628-logsensei</link>
-      <description>LogSensei helps Java developers write better logging code by detecting missing logs and suggesting appropriate log levels. Features: Catch blocks — detects empty catch...
-
-vendor: Jakub Bone
-downloads: 4
-pricingModel: FREE
-xmlId: com.jakubbone.logsensei</description>
-      <pubDate>Mon, 05 Jan 2026 10:13:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29628-logsensei</guid>
-      <dc:date>2026-01-05T10:13:20Z</dc:date>
     </item>
   </channel>
 </rss>
