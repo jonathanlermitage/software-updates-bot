@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.1.1 (253.29346.240) ~ 2026-01-08|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jan 08 16:02:47 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.3.5 to 19.4.0 ~ 2026-01-07|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jan 08 00:05:55 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 334 - Interview de Muriel Ekovich sur les biais cognitifs|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Dec 24 16:04:03 UTC 2025|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.1.RELEASE|[start.spring.io](https://start.spring.io)|Thu Dec 18 20:03:18 UTC 2025|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.1 (253.29346.138) ~ 2025-12-18|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Dec 18 16:03:15 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.12.0|[nodejs.org](https://nodejs.org)|Wed Dec 10 20:03:56 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.2|[www.python.org](https://www.python.org/downloads/windows/)|Sat Dec 06 00:06:34 UTC 2025|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 05 20:03:33 UTC 2025|
