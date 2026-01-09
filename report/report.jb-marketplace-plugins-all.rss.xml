@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Auto Git CR - Fri Jan 09 08:25:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29692-auto-git-cr</link>
+      <description>Auto Code Review Plugin Automatically triggers an AI code review after git commit. Features: Auto-analyzes committed changes using Gemini/OpenAI. Generates a Markdown...
+
+vendor: AutoGitCr
+downloads: 0
+pricingModel: FREE
+xmlId: com.wankai.gitcr</description>
+      <pubDate>Fri, 09 Jan 2026 08:25:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29692-auto-git-cr</guid>
+      <dc:date>2026-01-09T08:25:10Z</dc:date>
+    </item>
+    <item>
+      <title>SpEL Validator Support - Fri Jan 09 10:14:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29693-spel-validator-support</link>
+      <description>Development support for SpEL Validator framework in IntelliJ IDEA. 为 SpEL Validator 框架提供开发支持的 IntelliJ IDEA 插件。 主要功能 / Features: SpEL 语言注入和语法高亮 / SpEL language...
+
+vendor: SpEL Validator Support
+downloads: 0
+pricingModel: FREE
+xmlId: cn.sticki.spel-validator-support</description>
+      <pubDate>Fri, 09 Jan 2026 10:14:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29693-spel-validator-support</guid>
+      <dc:date>2026-01-09T10:14:24Z</dc:date>
+    </item>
+    <item>
+      <title>bpmn-diff - Fri Jan 09 08:44:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29687-bpmn-diff</link>
+      <description>This bpmn-diff IntelliJ Platform Plugin that compares two BPMN files and visualizes the differences.
+
+vendor: Catrun404
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.catrun404.bpmndiff</description>
+      <pubDate>Fri, 09 Jan 2026 08:44:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29687-bpmn-diff</guid>
+      <dc:date>2026-01-09T08:44:44Z</dc:date>
+    </item>
+    <item>
+      <title>JSON to ArkTS - Fri Jan 09 08:01:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29691-json-to-arkts</link>
+      <description>DevEco Studio ArkTS Code Generator Plugin. Features: 1. Select JSON -&amp;gt; Right Click -&amp;gt; Generate ArkTS Class/Interface 2. Select ArkTS Interface -&amp;gt; Right Click...
+
+vendor: 程序员佩奇
+downloads: 0
+pricingModel: FREE
+xmlId: com.peiqi.json2arkts</description>
+      <pubDate>Fri, 09 Jan 2026 08:01:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29691-json-to-arkts</guid>
+      <dc:date>2026-01-09T08:01:47Z</dc:date>
+    </item>
+    <item>
       <title>ApiDocGenerate - Thu Jan 08 01:38:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29554-apidocgenerate</link>
       <description>API Doc Generate - Spring MVC API Documentation Generator A powerful IntelliJ IDEA plugin designed for Spring MVC projects that automatically generates...
@@ -84,7 +136,7 @@ xmlId: com.exmay.gitcoffee.codebot.gitcoffee-codebot</description>
       <dc:date>2026-01-08T05:42:20Z</dc:date>
     </item>
     <item>
-      <title>DevSwitch - Thu Jan 08 13:45:01 UTC 2026</title>
+      <title>DevSwitch - Fri Jan 09 07:41:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29668-devswitch</link>
       <description>DevSwitch - Android Developer Settings Control Quickly toggle Android developer settings on connected devices directly from your IDE. Features Quick Access - Control...
 
@@ -92,9 +144,9 @@ vendor: Tinkrmux
 downloads: 21
 pricingModel: FREE
 xmlId: com.tinkrmux.DevSwitch</description>
-      <pubDate>Thu, 08 Jan 2026 13:45:01 GMT</pubDate>
+      <pubDate>Fri, 09 Jan 2026 07:41:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29668-devswitch</guid>
-      <dc:date>2026-01-08T13:45:01Z</dc:date>
+      <dc:date>2026-01-09T07:41:31Z</dc:date>
     </item>
     <item>
       <title>Earth Config Track - Tue Jan 06 00:59:24 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.anabulatovic.UniqueCompletion</description>
       <pubDate>Mon, 05 Jan 2026 16:44:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29639-unique-completion</guid>
       <dc:date>2026-01-05T16:44:31Z</dc:date>
-    </item>
-    <item>
-      <title>Ping Me - Tue Jan 06 02:56:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29650-ping-me</link>
-      <description>Ping Me macOS Only IntelliJ IDEA Plugin ⚠️ Important Notice: This plugin only works on macOS and relies on the Reminders app and AppleScript. Windows or Linux cannot...
-
-vendor: ljus
-downloads: 8
-pricingModel: FREE
-xmlId: net.ljus.ide.pingme.ping-me</description>
-      <pubDate>Tue, 06 Jan 2026 02:56:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29650-ping-me</guid>
-      <dc:date>2026-01-06T02:56:45Z</dc:date>
-    </item>
-    <item>
-      <title>EzCord Utils - Mon Jan 05 21:27:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29591-ezcord-utils</link>
-      <description>EzCord Utils - Supercharge Your Discord Bot Development! A powerful IntelliJ plugin designed to streamline your Discord bot development workflow with EzCord. Say...
-
-vendor: Gecko-Development
-downloads: 17
-pricingModel: FREE
-xmlId: me.geckotv.ezcord-utils</description>
-      <pubDate>Mon, 05 Jan 2026 21:27:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29591-ezcord-utils</guid>
-      <dc:date>2026-01-05T21:27:27Z</dc:date>
-    </item>
-    <item>
-      <title>Dingo Language Support - Tue Jan 06 02:44:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29631-dingo-language-support</link>
-      <description>Dingo Language Support Language support for Dingo - a modern meta-language for Go that adds Result/Option types, pattern matching, error propagation, and more...
-
-vendor: MadAppGang
-downloads: 8
-pricingModel: FREE
-xmlId: com.madappgang.dingo</description>
-      <pubDate>Tue, 06 Jan 2026 02:44:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29631-dingo-language-support</guid>
-      <dc:date>2026-01-06T02:44:40Z</dc:date>
-    </item>
-    <item>
-      <title>FocusGuard - Tue Jan 06 02:29:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29638-focusguard</link>
-      <description>FocusGuard helps developers avoid burnout by tracking focused coding time. ⏱ File &amp;amp; project time tracking &#x1f514; Smart break reminders ⏸ Break mode.
-
-vendor: Rundiang
-downloads: 8
-pricingModel: FREE
-xmlId: com.focusguard.plugin</description>
-      <pubDate>Tue, 06 Jan 2026 02:29:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29638-focusguard</guid>
-      <dc:date>2026-01-06T02:29:10Z</dc:date>
     </item>
   </channel>
 </rss>
