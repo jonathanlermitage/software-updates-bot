@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Flutter Forge - Thu Jan 08 12:08:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29661-flutter-forge</link>
+      <description>Flutter Forge is an IntelliJ Platform plugin that provides a professional UI and a Dart Script Runner to generate production-grade Flutter projects and features. It...
+
+vendor: Abdalluh Essam
+downloads: 4
+pricingModel: FREE
+xmlId: com.abdallahessam.flutterforge</description>
+      <pubDate>Thu, 08 Jan 2026 12:08:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29661-flutter-forge</guid>
+      <dc:date>2026-01-08T12:08:11Z</dc:date>
+    </item>
+    <item>
+      <title>Sweep Remote (Gateway Client) - Thu Jan 08 19:17:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29679-sweep-remote-gateway-client-</link>
+      <description>This plugin is only for Gateway. Install on Client only. Other users should use the standard extension in the JetBrains Marketplace.
+
+vendor: Sweep AI
+downloads: 1
+pricingModel: FREE
+xmlId: dev.sweep.assistant.gateway.client</description>
+      <pubDate>Thu, 08 Jan 2026 19:17:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29679-sweep-remote-gateway-client-</guid>
+      <dc:date>2026-01-08T19:17:51Z</dc:date>
+    </item>
+    <item>
+      <title>Mario Progressbar - Thu Jan 08 16:51:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29683-mario-progressbar</link>
+      <description>Replaces your IDE's progress bars with Mario. 将你的 IDE 进度条替换为马里奥。 IDE の進捗バーをマリオに置き換えます。 IDE의 진행 표시줄을 마리오로 교체합니다.
+
+vendor: DPT Software
+downloads: 0
+pricingModel: PAID
+xmlId: com.ptd.marioprogress</description>
+      <pubDate>Thu, 08 Jan 2026 16:51:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29683-mario-progressbar</guid>
+      <dc:date>2026-01-08T16:51:09Z</dc:date>
+    </item>
+    <item>
       <title>Auto Git CR - Fri Jan 09 08:25:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29692-auto-git-cr</link>
       <description>Auto Code Review Plugin Automatically triggers an AI code review after git commit. Features: Auto-analyzes committed changes using Gemini/OpenAI. Generates a Markdown...
@@ -56,6 +95,19 @@ xmlId: com.peiqi.json2arkts</description>
       <pubDate>Fri, 09 Jan 2026 08:01:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29691-json-to-arkts</guid>
       <dc:date>2026-01-09T08:01:47Z</dc:date>
+    </item>
+    <item>
+      <title>Sweep Remote (Gateway Host) - Thu Jan 08 19:20:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29680-sweep-remote-gateway-host-</link>
+      <description>This plugin is for Gateway IDEs only. Install on Host only. Other users should use the standard extension in the JetBrains Marketplace.
+
+vendor: Sweep AI
+downloads: 0
+pricingModel: FREE
+xmlId: dev.sweep.assistant.gateway.host</description>
+      <pubDate>Thu, 08 Jan 2026 19:20:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29680-sweep-remote-gateway-host-</guid>
+      <dc:date>2026-01-08T19:20:23Z</dc:date>
     </item>
     <item>
       <title>ApiDocGenerate - Thu Jan 08 01:38:17 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: io.github.bhuyanp.funky-banners</description>
       <pubDate>Wed, 07 Jan 2026 22:43:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29672-funky-banners</guid>
       <dc:date>2026-01-07T22:43:14Z</dc:date>
-    </item>
-    <item>
-      <title>Jira Connector - Mon Jan 05 17:54:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29642-jira-connector</link>
-      <description>Jira integration for JetBrains IDEs. View, filter, and manage Jira issues directly from your IDE. Features: Browse issues by project, board, or sprint Filter by...
-
-vendor: kevinquillen
-downloads: 11
-pricingModel: FREE
-xmlId: com.github.kevinquillen.jira</description>
-      <pubDate>Mon, 05 Jan 2026 17:54:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29642-jira-connector</guid>
-      <dc:date>2026-01-05T17:54:10Z</dc:date>
-    </item>
-    <item>
-      <title>OpenVADL - Wed Jan 07 10:01:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29659-openvadl</link>
-      <description>Provides support for the OpenVALD language.
-
-vendor: flofriday
-downloads: 13
-pricingModel: FREE
-xmlId: vadl.intellij-openvadl</description>
-      <pubDate>Wed, 07 Jan 2026 10:01:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29659-openvadl</guid>
-      <dc:date>2026-01-07T10:01:52Z</dc:date>
-    </item>
-    <item>
-      <title>Go Template LSP - Mon Jan 05 16:41:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29548-go-template-lsp</link>
-      <description>Go Template LSP Add LSP support and a better feedback loop while working with text/template and html/template package Additionally, the LSP introduces a type system in...
-
-vendor: Steve Djumo
-downloads: 12
-pricingModel: FREE
-xmlId: com.github.yayolande.go-template-lsp</description>
-      <pubDate>Mon, 05 Jan 2026 16:41:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29548-go-template-lsp</guid>
-      <dc:date>2026-01-05T16:41:20Z</dc:date>
-    </item>
-    <item>
-      <title>Unique Completion - Mon Jan 05 16:44:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29639-unique-completion</link>
-      <description>A productivity tool that cleans up IntelliSense suggestions. It hides variables from the autocomplete list if they have already been added to the current List.of() or...
-
-vendor: Ana Bulatović
-downloads: 8
-pricingModel: FREE
-xmlId: com.anabulatovic.UniqueCompletion</description>
-      <pubDate>Mon, 05 Jan 2026 16:44:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29639-unique-completion</guid>
-      <dc:date>2026-01-05T16:44:31Z</dc:date>
     </item>
   </channel>
 </rss>
