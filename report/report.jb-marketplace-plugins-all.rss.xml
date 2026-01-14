@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Camel Graph Visualization - Tue Jan 13 20:42:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29758-camel-graph-visualization</link>
+      <description>Visualizes Apache Camel routes defined in Java DSL. Parses your source code to generate a graph of routes, endpoints, and processors.
+
+vendor: Gquadross
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.gquad.camelgraph</description>
+      <pubDate>Tue, 13 Jan 2026 20:42:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29758-camel-graph-visualization</guid>
+      <dc:date>2026-01-13T20:42:58Z</dc:date>
+    </item>
+    <item>
+      <title>SSH Tunnel Manager - Wed Jan 14 08:40:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29666-ssh-tunnel-manager</link>
+      <description>SSH Tunnel Manager for IntelliJ IDEA Easily manage SSH tunnels (local and reverse) with a user-friendly interface.
+
+vendor: zjy
+downloads: 2
+pricingModel: FREE
+xmlId: com.sshtunnel.manager</description>
+      <pubDate>Wed, 14 Jan 2026 08:40:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29666-ssh-tunnel-manager</guid>
+      <dc:date>2026-01-14T08:40:14Z</dc:date>
+    </item>
+    <item>
       <title>Copy 4 LM - Wed Jan 14 09:37:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29740-copy-4-lm</link>
       <description>Copy4LM is a plugin that enables quick copying of selected file or directory contents to the clipboard in a customizable format tailored for LLMs (Large Language...
@@ -203,7 +229,7 @@ xmlId: com.xiaomi.imybatis</description>
     <item>
       <title>File Converter - Sun Jan 11 13:34:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29712-file-converter</link>
-      <description>File Converter | Universal Document Format Converter A JetBrains IDE plugin for seamless conversion between document formats: Document Conversion: Markdown ↔ Word...
+      <description>File Converter | Universal Document &amp;amp; Config Format Converter A JetBrains IDE plugin for seamless conversion between document and config formats: Document...
 
 vendor: frank.hutiefang
 downloads: 2
@@ -238,32 +264,6 @@ xmlId: com.ptd.kaitoprogress</description>
       <pubDate>Tue, 13 Jan 2026 15:18:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29755-kaito-kid-progressbar</guid>
       <dc:date>2026-01-13T15:18:14Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek AI Check - Sun Jan 11 07:44:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29707-deepseek-ai-check</link>
-      <description>DeepSeek AI Check leverages DeepSeek artificial intelligence to automatically create comprehensive code quality assessment reports. These reports not only highlight...
-
-vendor: DailyCode
-downloads: 1
-pricingModel: FREE
-xmlId: org.check.ai.ds</description>
-      <pubDate>Sun, 11 Jan 2026 07:44:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29707-deepseek-ai-check</guid>
-      <dc:date>2026-01-11T07:44:16Z</dc:date>
-    </item>
-    <item>
-      <title>Unqueryvet - SQL Query Linter - Mon Jan 12 09:50:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29733-unqueryvet--sql-query-linter</link>
-      <description>Go SQL Linter for detecting inconsistency queries in Go code. Real-time SELECT * detection (including aliased wildcards and subqueries) Detection in string...
-
-vendor: MIRREX.DEV
-downloads: 2
-pricingModel: FREE
-xmlId: dev.unqueryvet</description>
-      <pubDate>Mon, 12 Jan 2026 09:50:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29733-unqueryvet--sql-query-linter</guid>
-      <dc:date>2026-01-12T09:50:13Z</dc:date>
     </item>
   </channel>
 </rss>
