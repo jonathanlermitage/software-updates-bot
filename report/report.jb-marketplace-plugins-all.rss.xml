@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Karate Debug - Thu Jan 15 16:55:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29773-karate-debug</link>
+      <description>Debug Karate API tests with full breakpoint support, step-through debugging, variable inspection, and real-time match diagnostics. Features Breakpoint Debugging - Set...
+
+vendor: j8d
+downloads: 0
+pricingModel: FREE
+xmlId: com.j8d.karate-debug</description>
+      <pubDate>Thu, 15 Jan 2026 16:55:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29773-karate-debug</guid>
+      <dc:date>2026-01-15T16:55:25Z</dc:date>
+    </item>
+    <item>
+      <title>Inspection API - Sat Jan 10 03:06:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29580-inspection-api</link>
+      <description>Exposes JetBrains IDE inspection results via HTTP API for automated tools and AI assistants.
+
+vendor: Shiny Computers
+downloads: 1
+pricingModel: FREE
+xmlId: com.shiny.inspection.api</description>
+      <pubDate>Sat, 10 Jan 2026 03:06:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29580-inspection-api</guid>
+      <dc:date>2026-01-10T03:06:56Z</dc:date>
+    </item>
+    <item>
+      <title>DevExpress Template Kit - Fri Dec 19 07:24:58 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/28875-devexpress-template-kit</link>
+      <description>Create web, desktop, mobile, and hybrid projects powered by DevExpress products: Reports, BI Dashboard, Office File API, Cross-Platform .NET UI Framework (XAF), and UI...
+
+vendor: DevExpress
+downloads: 41
+pricingModel: FREE
+xmlId: devexpress.templatekit</description>
+      <pubDate>Fri, 19 Dec 2025 07:24:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28875-devexpress-template-kit</guid>
+      <dc:date>2025-12-19T07:24:58Z</dc:date>
+    </item>
+    <item>
       <title>Worktree Manager - Thu Jan 15 06:26:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29725-worktree-manager</link>
       <description>Manage Git worktrees directly from IntelliJ IDEA. Features Create Worktrees - Create new worktrees from existing or new branches with customizable paths Open Worktrees...
@@ -97,7 +136,7 @@ xmlId: io.github.ceracharlescc.copy4lm</description>
       <dc:date>2026-01-14T09:37:13Z</dc:date>
     </item>
     <item>
-      <title>Pervaziv AI Cortex - Mon Jan 12 23:55:27 UTC 2026</title>
+      <title>Pervaziv AI Cortex - Thu Jan 15 05:50:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29664-pervaziv-ai-cortex</link>
       <description>AI Coding and Security Agent to write new code, scan and fix issues expeditiously. Cortex brings security and code insights directly into your favorite development...
 
@@ -105,9 +144,9 @@ vendor: Pervaziv AI
 downloads: 6
 pricingModel: FREE
 xmlId: com.pervazivai.cortex</description>
-      <pubDate>Mon, 12 Jan 2026 23:55:27 GMT</pubDate>
+      <pubDate>Thu, 15 Jan 2026 05:50:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29664-pervaziv-ai-cortex</guid>
-      <dc:date>2026-01-12T23:55:27Z</dc:date>
+      <dc:date>2026-01-15T05:50:45Z</dc:date>
     </item>
     <item>
       <title>Codex - Sun Jan 11 16:16:45 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: shogun.sun.voice_comments</description>
       <pubDate>Mon, 12 Jan 2026 07:18:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29718-voice-comments</guid>
       <dc:date>2026-01-12T07:18:19Z</dc:date>
-    </item>
-    <item>
-      <title>Satan API Claude Assistant - Mon Jan 12 06:44:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29726-satan-api-claude-assistant</link>
-      <description>A Claude AI assistant plugin based on Satan API, allowing you to chat with Claude directly in your IDE. Features: - Chat with Claude AI directly in IDE - Code...
-
-vendor: satan
-downloads: 2
-pricingModel: FREE
-xmlId: com.satan.claude.idea.plugin</description>
-      <pubDate>Mon, 12 Jan 2026 06:44:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29726-satan-api-claude-assistant</guid>
-      <dc:date>2026-01-12T06:44:10Z</dc:date>
-    </item>
-    <item>
-      <title>Git Status Indicator - Tue Jan 13 15:27:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29752-git-status-indicator</link>
-      <description>Shows a colored icon in the status bar indicating Git repository status: Green: No uncommitted changes Red: Uncommitted changes present Click the icon to open the...
-
-vendor: vladimir.biro
-downloads: 48
-pricingModel: FREE
-xmlId: com.vladimir.biro.gitstatus</description>
-      <pubDate>Tue, 13 Jan 2026 15:27:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29752-git-status-indicator</guid>
-      <dc:date>2026-01-13T15:27:22Z</dc:date>
-    </item>
-    <item>
-      <title>ZAFrida UI - Tue Jan 13 13:33:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29754-zafrida-ui</link>
-      <description>ZAFrida UI is a Frida UI tool window for PyCharm / JetBrains IDEs. List devices via frida-ls-devices List targets via frida-ps Run/Stop frida with your existing frida...
-
-vendor: ZAFrida
-downloads: 7
-pricingModel: FREE
-xmlId: com.zafrida.ui</description>
-      <pubDate>Tue, 13 Jan 2026 13:33:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29754-zafrida-ui</guid>
-      <dc:date>2026-01-13T13:33:48Z</dc:date>
     </item>
   </channel>
 </rss>
