@@ -23,7 +23,7 @@
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3.2 (253.30387.20) ~ 2026-01-14|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Jan 14 20:01:40 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.1.1 (253.29346.240) ~ 2026-01-08|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jan 08 16:02:47 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.3.5 to 19.4.0 ~ 2026-01-07|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jan 08 00:05:55 UTC 2026|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 334 - Interview de Muriel Ekovich sur les biais cognitifs|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Dec 24 16:04:03 UTC 2025|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 335 - 200 terminaux en prod vendredi|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jan 16 12:02:40 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.3.0|[nodejs.org](https://nodejs.org)|Tue Jan 13 16:03:15 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.13.0|[nodejs.org](https://nodejs.org)|Tue Jan 13 16:03:15 UTC 2026|
