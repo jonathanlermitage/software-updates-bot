@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Close Unrelated Tabs - Thu Jan 15 21:10:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29784-close-unrelated-tabs</link>
+      <description>Close all editor tabs that are not related to the current file. Right-click on any editor tab amd select "Close Unrelated Tabs" to keep only tabs that: Reference the...
+
+vendor: Ana Bulatović
+downloads: 0
+pricingModel: FREE
+xmlId: com.anabulatovic.close-unrelated-tabs</description>
+      <pubDate>Thu, 15 Jan 2026 21:10:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29784-close-unrelated-tabs</guid>
+      <dc:date>2026-01-15T21:10:53Z</dc:date>
+    </item>
+    <item>
+      <title>Sonic Progressbar - Sun Jan 11 09:22:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29710-sonic-progressbar</link>
+      <description>Replaces your IDE's progress bars with Sonic. 将你的 IDE 进度条替换为索尼克。 IDE の進捗バーをソニックに置き換えます。 IDE의 진행 표시줄을 소닉으로 교체합니다.
+
+vendor: DPT Software
+downloads: 0
+pricingModel: PAID
+xmlId: com.ptd.sonicprogress</description>
+      <pubDate>Sun, 11 Jan 2026 09:22:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29710-sonic-progressbar</guid>
+      <dc:date>2026-01-11T09:22:30Z</dc:date>
+    </item>
+    <item>
+      <title>Titans-tk-mybatis-generator - Thu Jan 15 00:39:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29774-titans-tk-mybatis-generator</link>
+      <description>MyBatis Tk Code Generator is a plugin that supports MySQL or Oracle DDL parsing and automatically generates MyBatis entity classes, Mapper interfaces and XML mapping...
+
+vendor: zto
+downloads: 0
+pricingModel: FREE
+xmlId: com.zto.titans-tk-mybatis-generator</description>
+      <pubDate>Thu, 15 Jan 2026 00:39:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29774-titans-tk-mybatis-generator</guid>
+      <dc:date>2026-01-15T00:39:53Z</dc:date>
+    </item>
+    <item>
+      <title>BabelMarkdown - Fri Jan 16 11:13:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29779-babelmarkdown</link>
+      <description>Babel Markdown is a translation preview tool for Markdown documents. Babel Markdown English · 中文 · License English Babel Markdown brings real-time AI translation...
+
+vendor: aikilan
+downloads: 0
+pricingModel: FREE
+xmlId: com.babelmarkdown.aikilan</description>
+      <pubDate>Fri, 16 Jan 2026 11:13:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29779-babelmarkdown</guid>
+      <dc:date>2026-01-16T11:13:03Z</dc:date>
+    </item>
+    <item>
+      <title>Hytale .ui Support - Thu Jan 15 16:33:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29783-hytale-ui-support</link>
+      <description>Syntax highlighting and IDE support for .ui files used in UI definitions. This plugin provides comprehensive support for .ui files, making it easier to work with UI...
+
+vendor: Bungee
+downloads: 0
+pricingModel: FREE
+xmlId: de.bungee.idea.plugins.uifile</description>
+      <pubDate>Thu, 15 Jan 2026 16:33:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29783-hytale-ui-support</guid>
+      <dc:date>2026-01-15T16:33:21Z</dc:date>
+    </item>
+    <item>
+      <title>Smart Push Review - Thu Jan 15 13:30:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29738-smart-push-review</link>
+      <description>Smart Push Review Plugin Smart Push Review Plugin adds an AI-powered code review step directly into the Git commit workflow. Review code changes before pushing...
+
+vendor: Nishant Baranwal
+downloads: 2
+pricingModel: FREE
+xmlId: org.nishant.pushreview</description>
+      <pubDate>Thu, 15 Jan 2026 13:30:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29738-smart-push-review</guid>
+      <dc:date>2026-01-15T13:30:08Z</dc:date>
+    </item>
+    <item>
+      <title>SimpleEvents Toolkit - Thu Jan 15 13:57:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29780-simpleevents-toolkit</link>
+      <description>Provides PSI augmentation and error Highlighting for the SimpleEvents Library.
+
+vendor: Villagerzock
+downloads: 0
+pricingModel: FREE
+xmlId: net.villagerzock.simpleEventToolkit</description>
+      <pubDate>Thu, 15 Jan 2026 13:57:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29780-simpleevents-toolkit</guid>
+      <dc:date>2026-01-15T13:57:35Z</dc:date>
+    </item>
+    <item>
       <title>Karate Debug - Thu Jan 15 16:55:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29773-karate-debug</link>
       <description>Debug Karate API tests with full breakpoint support, step-through debugging, variable inspection, and real-time match diagnostics. Features Breakpoint Debugging - Set...
@@ -173,97 +264,6 @@ xmlId: com.projectsapo</description>
       <pubDate>Sun, 11 Jan 2026 23:51:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29721-project-sapo</guid>
       <dc:date>2026-01-11T23:51:15Z</dc:date>
-    </item>
-    <item>
-      <title>Context Basket - Sun Jan 11 20:16:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29716-context-basket</link>
-      <description>Collect files into a basket and copy their contents to clipboard for AI prompting workflows. Right-click files/folders to add to basket View selected files in the tool...
-
-vendor: Michal Jarnot
-downloads: 6
-pricingModel: FREE
-xmlId: com.michaljarnot.contextbasket</description>
-      <pubDate>Sun, 11 Jan 2026 20:16:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29716-context-basket</guid>
-      <dc:date>2026-01-11T20:16:34Z</dc:date>
-    </item>
-    <item>
-      <title>CodeShield AI - Tue Jan 13 08:22:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29750-codeshield-ai</link>
-      <description>CodeShield AI provides ultimate protection for AI-assisted coding. Track, visualize, and rollback AI-generated code changes with precision. Works with GitHub Copilot...
-
-vendor: Proscendia
-downloads: 33
-pricingModel: FREE
-xmlId: com.codeshield.ai</description>
-      <pubDate>Tue, 13 Jan 2026 08:22:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29750-codeshield-ai</guid>
-      <dc:date>2026-01-13T08:22:06Z</dc:date>
-    </item>
-    <item>
-      <title>Circom Language Support - Tue Jan 13 11:49:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29751-circom-language-support</link>
-      <description>Circom Language Support provides syntax highlighting and IDE features for Circom, the domain-specific language for writing arithmetic circuits used in zero-knowledge...
-
-vendor: Turbine Cash
-downloads: 10
-pricingModel: FREE
-xmlId: cash.turbine.circom</description>
-      <pubDate>Tue, 13 Jan 2026 11:49:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29751-circom-language-support</guid>
-      <dc:date>2026-01-13T11:49:47Z</dc:date>
-    </item>
-    <item>
-      <title>Noir Language Support - Tue Jan 13 13:17:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29753-noir-language-support</link>
-      <description>Language support for the Noir zero-knowledge programming language. Features Native syntax highlighting for .nr filesLSP integration with nargo lsp for full IDE...
-
-vendor: Turbine Cash
-downloads: 11
-pricingModel: FREE
-xmlId: cash.turbine.noir</description>
-      <pubDate>Tue, 13 Jan 2026 13:17:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29753-noir-language-support</guid>
-      <dc:date>2026-01-13T13:17:14Z</dc:date>
-    </item>
-    <item>
-      <title>Jetra - Tue Jan 13 19:26:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29717-jetra</link>
-      <description>Jetra - Jira Integration for JetBrains IDEs Seamlessly integrate Jira with your JetBrains IDE. Manage tickets, create branches, and track issues without ever leaving...
-
-vendor: Creator-Solutions
-downloads: 13
-pricingModel: FREE
-xmlId: creator.solutions.jetra</description>
-      <pubDate>Tue, 13 Jan 2026 19:26:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29717-jetra</guid>
-      <dc:date>2026-01-13T19:26:10Z</dc:date>
-    </item>
-    <item>
-      <title>Yara Hero - Sun Jan 11 22:16:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29705-yara-hero</link>
-      <description>The plugin adds first-class support for YARA to IntelliJ IDEA and other JetBrains IDEs. Installation Once you install the plugin, you'll get syntax highlighting and...
-
-vendor: Language Heroes
-downloads: 10
-pricingModel: PAID
-xmlId: com.langheroes.yara</description>
-      <pubDate>Sun, 11 Jan 2026 22:16:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29705-yara-hero</guid>
-      <dc:date>2026-01-11T22:16:23Z</dc:date>
-    </item>
-    <item>
-      <title>Voice Comments - Mon Jan 12 07:18:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29718-voice-comments</link>
-      <description>A simple plugin for creating voice comments directly in the code editor. What it does: Adds recording and playback controls to the selected line of code. Saves audio...
-
-vendor: Shogun_Sun
-downloads: 3
-pricingModel: FREE
-xmlId: shogun.sun.voice_comments</description>
-      <pubDate>Mon, 12 Jan 2026 07:18:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29718-voice-comments</guid>
-      <dc:date>2026-01-12T07:18:19Z</dc:date>
     </item>
   </channel>
 </rss>
