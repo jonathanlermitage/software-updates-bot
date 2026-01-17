@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Tag Navigator - Fri Jan 09 07:32:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29690-tag-navigator</link>
+      <description>tagNavigator lets you quickly jump to files or components by tags, streamlining navigation in large projects.
+
+vendor: TagNavigator
+downloads: 0
+pricingModel: FREE
+xmlId: com.ming.tagNavigator</description>
+      <pubDate>Fri, 09 Jan 2026 07:32:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29690-tag-navigator</guid>
+      <dc:date>2026-01-09T07:32:33Z</dc:date>
+    </item>
+    <item>
+      <title>i18n Format - Fri Jan 09 04:24:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29689-i18n-format</link>
+      <description>This plugin provides inline hints and tag navigation for Vue/i18n projects. It allows configuring custom tag mappings via a JSON file and enables quick navigation from...
+
+vendor: I18nFormat
+downloads: 0
+pricingModel: FREE
+xmlId: com.ming.i18nformat</description>
+      <pubDate>Fri, 09 Jan 2026 04:24:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29689-i18n-format</guid>
+      <dc:date>2026-01-09T04:24:52Z</dc:date>
+    </item>
+    <item>
       <title>Close Unrelated Tabs - Thu Jan 15 21:10:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29784-close-unrelated-tabs</link>
       <description>Close all editor tabs that are not related to the current file. Right-click on any editor tab amd select "Close Unrelated Tabs" to keep only tabs that: Reference the...
@@ -238,32 +264,6 @@ xmlId: com.pervazivai.cortex</description>
       <pubDate>Thu, 15 Jan 2026 05:50:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29664-pervaziv-ai-cortex</guid>
       <dc:date>2026-01-15T05:50:45Z</dc:date>
-    </item>
-    <item>
-      <title>Codex - Sun Jan 11 16:16:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29713-codex</link>
-      <description>Codex - Copy the project-relative file path from the editor context menu and add line numbers when text is selected. Select code and use Ctrl+Alt+K (Win/Linux) or...
-
-vendor: kkk
-downloads: 427
-pricingModel: FREE
-xmlId: com.codex.copy-path</description>
-      <pubDate>Sun, 11 Jan 2026 16:16:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29713-codex</guid>
-      <dc:date>2026-01-11T16:16:45Z</dc:date>
-    </item>
-    <item>
-      <title>Project Sapo - Sun Jan 11 23:51:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29721-project-sapo</link>
-      <description>A smart vulnerability scanner for your project dependencies. Project Sapo integrates directly into your IDE to detect security vulnerabilities in your Gradle and Maven...
-
-vendor: Luis Pepe
-downloads: 9
-pricingModel: FREE
-xmlId: com.projectsapo</description>
-      <pubDate>Sun, 11 Jan 2026 23:51:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29721-project-sapo</guid>
-      <dc:date>2026-01-11T23:51:15Z</dc:date>
     </item>
   </channel>
 </rss>
