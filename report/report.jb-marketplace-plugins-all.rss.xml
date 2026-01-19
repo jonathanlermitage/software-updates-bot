@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CodeLingo - Fri Jan 16 11:35:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29793-codelingo</link>
+      <description>CodeLingo transforms cryptic Java error messages into plain, human-readable explanations directly in your console. Perfect for students, junior developers, or anyone...
+
+vendor: izandegeer
+downloads: 0
+pricingModel: FREE
+xmlId: com.izandegeer.codelingo</description>
+      <pubDate>Fri, 16 Jan 2026 11:35:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29793-codelingo</guid>
+      <dc:date>2026-01-16T11:35:55Z</dc:date>
+    </item>
+    <item>
+      <title>Feign Client Mock - Fri Jan 16 09:49:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29762-feign-client-mock</link>
+      <description>An IntelliJ Plugin for Quickly Mocking Feign Client Responses This plugin allows developers to rapidly generate and preview Feign Client return values during...
+
+vendor: lizhiwei
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.lizhiwei88.feign.mock.agent.feign.mock.plugin</description>
+      <pubDate>Fri, 16 Jan 2026 09:49:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29762-feign-client-mock</guid>
+      <dc:date>2026-01-16T09:49:46Z</dc:date>
+    </item>
+    <item>
+      <title>CallFlow Visualizer - Sat Jan 17 09:20:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29803-callflow-visualizer</link>
+      <description>CallFlow Visualizer Visualize method call flows in Spring Boot codebases with bidirectional analysis. Features Caller Analysis: Find all methods that call the selected...
+
+vendor: base6666
+downloads: 1
+pricingModel: FREE
+xmlId: com.callflow.visualizer</description>
+      <pubDate>Sat, 17 Jan 2026 09:20:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29803-callflow-visualizer</guid>
+      <dc:date>2026-01-17T09:20:37Z</dc:date>
+    </item>
+    <item>
+      <title>SCP-PojoGo - Fri Jan 16 07:47:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29598-scp-pojogo</link>
+      <description>A plug-in that adapts to the Java language, enhances POJO operations and improves the development experience. Its current functions are as follows: - Find Filter...
+
+vendor: SCP-Planet
+downloads: 3
+pricingModel: FREE
+xmlId: com.scp-planet.idea.pojo_go</description>
+      <pubDate>Fri, 16 Jan 2026 07:47:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29598-scp-pojogo</guid>
+      <dc:date>2026-01-16T07:47:11Z</dc:date>
+    </item>
+    <item>
+      <title>Clean Architecture Toolkit (Android &amp; Flutter) - Fri Jan 16 19:35:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29799-clean-architecture-toolkit-android--flutter-</link>
+      <description>Generate MVVM Clean Architecture feature boilerplate for Android and Flutter. Generate production-ready Clean Architecture (MVVM) boilerplate for Android and Flutter...
+
+vendor: Ahmed Hegazy
+downloads: 1
+pricingModel: FREE
+xmlId: dev.ahmedhegazy.clean-architecture-generator</description>
+      <pubDate>Fri, 16 Jan 2026 19:35:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29799-clean-architecture-toolkit-android--flutter-</guid>
+      <dc:date>2026-01-16T19:35:59Z</dc:date>
+    </item>
+    <item>
+      <title>tenshine Git Flow - Mon Jan 19 07:52:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29787-tenshine-git-flow</link>
+      <description>An IntelliJ IDEA plugin that provides a complete Git Flow UI integration, enabling advanced repository operations based on Vincent Driessen's branching model. IntelliJ...
+
+vendor: BaldHead
+downloads: 0
+pricingModel: FREE
+xmlId: tenshineGitFlow</description>
+      <pubDate>Mon, 19 Jan 2026 07:52:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29787-tenshine-git-flow</guid>
+      <dc:date>2026-01-19T07:52:06Z</dc:date>
+    </item>
+    <item>
       <title>Tag Navigator - Fri Jan 09 07:32:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29690-tag-navigator</link>
       <description>tagNavigator lets you quickly jump to files or components by tags, streamlining navigation in large projects.
@@ -84,7 +162,7 @@ xmlId: com.babelmarkdown.aikilan</description>
       <dc:date>2026-01-16T11:13:03Z</dc:date>
     </item>
     <item>
-      <title>Hytale .ui Support - Sun Jan 18 21:09:19 UTC 2026</title>
+      <title>Hytale .ui Support - Mon Jan 19 10:33:51 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29783-hytale-ui-support</link>
       <description>Syntax highlighting and IDE support for .ui files used in UI definitions. This plugin provides comprehensive support for .ui files, making it easier to work with UI...
 
@@ -92,9 +170,9 @@ vendor: Bungee
 downloads: 531
 pricingModel: FREE
 xmlId: de.bungee.idea.plugins.uifile</description>
-      <pubDate>Sun, 18 Jan 2026 21:09:19 GMT</pubDate>
+      <pubDate>Mon, 19 Jan 2026 10:33:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29783-hytale-ui-support</guid>
-      <dc:date>2026-01-18T21:09:19Z</dc:date>
+      <dc:date>2026-01-19T10:33:51Z</dc:date>
     </item>
     <item>
       <title>Smart Push Review - Thu Jan 15 13:30:08 UTC 2026</title>
@@ -186,84 +264,6 @@ xmlId: com.vector.cfg.dvcfg-intellij</description>
       <pubDate>Wed, 14 Jan 2026 15:42:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29770-davinci-configurator-classic</guid>
       <dc:date>2026-01-14T15:42:04Z</dc:date>
-    </item>
-    <item>
-      <title>Knip - Wed Jan 14 10:34:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29765-knip</link>
-      <description>Knip - Find unused files, dependencies and exports in your JavaScript/TypeScript projects. This plugin integrates the Knip language server into JetBrains IDEs...
-
-vendor: Jan-Niklas Wortmann
-downloads: 17
-pricingModel: FREE
-xmlId: com.github.niklaswortmann.knipintellijplugin</description>
-      <pubDate>Wed, 14 Jan 2026 10:34:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29765-knip</guid>
-      <dc:date>2026-01-14T10:34:17Z</dc:date>
-    </item>
-    <item>
-      <title>Jupyter Notebook Colab - Wed Jan 14 14:32:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29769-jupyter-notebook-colab</link>
-      <description>Provides Google Colab integration for Jupyter Notebooks.
-
-vendor: JetBrains s.r.o.
-downloads: 13
-pricingModel: FREE
-xmlId: intellij.jupyter.colab</description>
-      <pubDate>Wed, 14 Jan 2026 14:32:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29769-jupyter-notebook-colab</guid>
-      <dc:date>2026-01-14T14:32:15Z</dc:date>
-    </item>
-    <item>
-      <title>Camel Graph Visualization - Wed Jan 14 21:02:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29758-camel-graph-visualization</link>
-      <description>Visualizes Apache Camel routes defined in Java DSL. Parses your source code to generate a graph of routes, endpoints, and processors.
-
-vendor: Gquadross
-downloads: 12
-pricingModel: FREE
-xmlId: com.github.gquad.camelgraph</description>
-      <pubDate>Wed, 14 Jan 2026 21:02:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29758-camel-graph-visualization</guid>
-      <dc:date>2026-01-14T21:02:57Z</dc:date>
-    </item>
-    <item>
-      <title>SSH Tunnel Manager - Wed Jan 14 08:40:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29666-ssh-tunnel-manager</link>
-      <description>SSH Tunnel Manager for IntelliJ IDEA Easily manage SSH tunnels (local and reverse) with a user-friendly interface.
-
-vendor: zjy
-downloads: 14
-pricingModel: FREE
-xmlId: com.sshtunnel.manager</description>
-      <pubDate>Wed, 14 Jan 2026 08:40:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29666-ssh-tunnel-manager</guid>
-      <dc:date>2026-01-14T08:40:14Z</dc:date>
-    </item>
-    <item>
-      <title>Copy 4 LM - Wed Jan 14 09:37:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29740-copy-4-lm</link>
-      <description>Copy4LM is a plugin that enables quick copying of selected file or directory contents to the clipboard in a customizable format tailored for LLMs (Large Language...
-
-vendor: C.C.
-downloads: 25
-pricingModel: FREE
-xmlId: io.github.ceracharlescc.copy4lm</description>
-      <pubDate>Wed, 14 Jan 2026 09:37:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29740-copy-4-lm</guid>
-      <dc:date>2026-01-14T09:37:13Z</dc:date>
-    </item>
-    <item>
-      <title>Pervaziv AI Cortex - Thu Jan 15 05:50:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29664-pervaziv-ai-cortex</link>
-      <description>AI Coding and Security Agent to write new code, scan and fix issues expeditiously. Cortex brings security and code insights directly into your favorite development...
-
-vendor: Pervaziv AI
-downloads: 23
-pricingModel: FREE
-xmlId: com.pervazivai.cortex</description>
-      <pubDate>Thu, 15 Jan 2026 05:50:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29664-pervaziv-ai-cortex</guid>
-      <dc:date>2026-01-15T05:50:45Z</dc:date>
     </item>
   </channel>
 </rss>
