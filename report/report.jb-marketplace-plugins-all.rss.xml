@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Auto Language - Fri Jan 16 22:44:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29798-auto-language</link>
+      <description>This plugin automatically switches the input language based on the cursor position in the IntelliJ IDEA editor. Twitter: @BasheirHassan تقوم هذه الإضافة تلقائيا...
+
+vendor: Basheir Hassan
+downloads: 2
+pricingModel: FREE
+xmlId: com.autolanguage.switcher</description>
+      <pubDate>Fri, 16 Jan 2026 22:44:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29798-auto-language</guid>
+      <dc:date>2026-01-16T22:44:24Z</dc:date>
+    </item>
+    <item>
+      <title>BLTC - Sun Jan 18 19:20:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29802-bltc</link>
+      <description>BLTC - Before Launch Text Condition Enables a run configuration to start when the Before Launch task's output matches a condition.
+
+vendor: rayman13579
+downloads: 0
+pricingModel: FREE
+xmlId: at.rayman.bltc</description>
+      <pubDate>Sun, 18 Jan 2026 19:20:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29802-bltc</guid>
+      <dc:date>2026-01-18T19:20:27Z</dc:date>
+    </item>
+    <item>
+      <title>Skopio - Sun Jan 18 18:07:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29817-skopio</link>
+      <description>Skopio tracks your activity in JetBrains IDEs and records categorized events such as coding, debugging, compiling, writing docs, testing, and code reviewing. Events...
+
+vendor: Skopio
+downloads: 0
+pricingModel: FREE
+xmlId: com.samwahome.skopio-jetbrains.skopio-jetbrains</description>
+      <pubDate>Sun, 18 Jan 2026 18:07:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29817-skopio</guid>
+      <dc:date>2026-01-18T18:07:21Z</dc:date>
+    </item>
+    <item>
+      <title>Hytale Development Tools - Sun Jan 18 22:28:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29807-hytale-development-tools</link>
+      <description>A comprehensive toolkit for developing Hytale server plugins in IntelliJ IDEA. Features: Project Wizard for new Hytale plugin projectsLive Templates: hyevent, hycmd...
+
+vendor: Hytale Docs
+downloads: 1
+pricingModel: FREE
+xmlId: com.hytaledocs.hytale</description>
+      <pubDate>Sun, 18 Jan 2026 22:28:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29807-hytale-development-tools</guid>
+      <dc:date>2026-01-18T22:28:10Z</dc:date>
+    </item>
+    <item>
       <title>AI Naming Assistant - Mon Jan 19 04:50:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29825-ai-naming-assistant</link>
       <description>An intelligent AI-powered variable naming assistant. Supports multiple naming formats (camelCase, PascalCase, snake_case, etc.) and automatically generates...
@@ -45,7 +97,7 @@ xmlId: com.dsplugin.dsgitcelebration</description>
       <dc:date>2026-01-19T15:17:31Z</dc:date>
     </item>
     <item>
-      <title>CodeLingo - Fri Jan 16 11:35:55 UTC 2026</title>
+      <title>CodeLingo - Mon Jan 19 17:43:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29793-codelingo</link>
       <description>CodeLingo transforms cryptic Java error messages into plain, human-readable explanations directly in your console. Perfect for students, junior developers, or anyone...
 
@@ -53,9 +105,9 @@ vendor: izandegeer
 downloads: 0
 pricingModel: FREE
 xmlId: com.izandegeer.codelingo</description>
-      <pubDate>Fri, 16 Jan 2026 11:35:55 GMT</pubDate>
+      <pubDate>Mon, 19 Jan 2026 17:43:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29793-codelingo</guid>
-      <dc:date>2026-01-16T11:35:55Z</dc:date>
+      <dc:date>2026-01-19T17:43:37Z</dc:date>
     </item>
     <item>
       <title>Feign Client Mock - Fri Jan 16 09:49:46 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: de.bungee.idea.plugins.uifile</description>
       <pubDate>Mon, 19 Jan 2026 10:33:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29783-hytale-ui-support</guid>
       <dc:date>2026-01-19T10:33:51Z</dc:date>
-    </item>
-    <item>
-      <title>Smart Push Review - Thu Jan 15 13:30:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29738-smart-push-review</link>
-      <description>Smart Push Review Plugin Smart Push Review Plugin adds an AI-powered code review step directly into the Git commit workflow. Review code changes before pushing...
-
-vendor: Nishant Baranwal
-downloads: 15
-pricingModel: FREE
-xmlId: org.nishant.pushreview</description>
-      <pubDate>Thu, 15 Jan 2026 13:30:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29738-smart-push-review</guid>
-      <dc:date>2026-01-15T13:30:08Z</dc:date>
-    </item>
-    <item>
-      <title>SimpleEvents Toolkit - Thu Jan 15 13:57:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29780-simpleevents-toolkit</link>
-      <description>Provides PSI augmentation and error Highlighting for the SimpleEvents Library.
-
-vendor: Villagerzock
-downloads: 6
-pricingModel: FREE
-xmlId: net.villagerzock.simpleEventToolkit</description>
-      <pubDate>Thu, 15 Jan 2026 13:57:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29780-simpleevents-toolkit</guid>
-      <dc:date>2026-01-15T13:57:35Z</dc:date>
-    </item>
-    <item>
-      <title>Karate Debug - Thu Jan 15 16:55:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29773-karate-debug</link>
-      <description>Debug Karate API tests with full breakpoint support, step-through debugging, variable inspection, and real-time match diagnostics. Features Breakpoint Debugging - Set...
-
-vendor: j8d
-downloads: 13
-pricingModel: FREE
-xmlId: com.j8d.karate-debug</description>
-      <pubDate>Thu, 15 Jan 2026 16:55:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29773-karate-debug</guid>
-      <dc:date>2026-01-15T16:55:25Z</dc:date>
-    </item>
-    <item>
-      <title>Inspection API - Sat Jan 10 03:06:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29580-inspection-api</link>
-      <description>Exposes JetBrains IDE inspection results via HTTP API for automated tools and AI assistants.
-
-vendor: Shiny Computers
-downloads: 10
-pricingModel: FREE
-xmlId: com.shiny.inspection.api</description>
-      <pubDate>Sat, 10 Jan 2026 03:06:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29580-inspection-api</guid>
-      <dc:date>2026-01-10T03:06:56Z</dc:date>
     </item>
   </channel>
 </rss>
