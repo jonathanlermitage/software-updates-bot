@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>OCD Imports Formatter - Sort Import Lines by Length - Tue Jan 20 08:51:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29840-ocd-imports-formatter--sort-import-lines-by-length</link>
+      <description>Automatically sorts import statements after code formatting, ordering them by line length (longest to shortest) and then alphabetically.
+
+vendor: Momo
+downloads: 0
+pricingModel: FREE
+xmlId: rs.moma.ocd-formatter</description>
+      <pubDate>Tue, 20 Jan 2026 08:51:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29840-ocd-imports-formatter--sort-import-lines-by-length</guid>
+      <dc:date>2026-01-20T08:51:47Z</dc:date>
+    </item>
+    <item>
+      <title>JSON to Java/Kotlin Object - Mon Jan 19 14:29:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29796-json-to-java-kotlin-object</link>
+      <description>Convert JSON to Java/Kotlin classes with ease. Features Generate Java classes or Kotlin data classes from JSON Lombok support: @Data, @Getter, @Setter...
+
+vendor: Hyunsoo Jo
+downloads: 3
+pricingModel: FREE
+xmlId: com.ninja.json-to-objects</description>
+      <pubDate>Mon, 19 Jan 2026 14:29:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29796-json-to-java-kotlin-object</guid>
+      <dc:date>2026-01-19T14:29:21Z</dc:date>
+    </item>
+    <item>
+      <title>Temporal.io - Sun Jan 18 18:08:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29819-temporal-io</link>
+      <description>A JetBrains IDE plugin for browsing and navigating Temporal workflows. Features: Workflow Browser — Browse workflows with status, type, and timestamps directly from...
+
+vendor: smolchanovsky
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.smolchanovsky.temporalplugin</description>
+      <pubDate>Sun, 18 Jan 2026 18:08:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29819-temporal-io</guid>
+      <dc:date>2026-01-18T18:08:05Z</dc:date>
+    </item>
+    <item>
+      <title>easy-build-gitlab - Mon Jan 19 10:22:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29427-easy-build-gitlab</link>
+      <description>[GitLab Pipeline Tool] A powerful IntelliJ plugin for GitLab CI/CD management. Key Features: ✔ Direct Build: Build selected projects with one click ✔ Smart Merge...
+
+vendor: easy-build-plugin
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.easy-build-plugin</description>
+      <pubDate>Mon, 19 Jan 2026 10:22:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29427-easy-build-gitlab</guid>
+      <dc:date>2026-01-19T10:22:18Z</dc:date>
+    </item>
+    <item>
       <title>Jinja2 Enhanced - Sun Jan 18 17:59:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29804-jinja2-enhanced</link>
       <description>Jinja2 Enhanced Support for JetBrains IDEs Professional-grade Jinja2 template support with comprehensive syntax analysis, intelligent error detection, and advanced...
@@ -149,7 +201,7 @@ xmlId: com.scp-planet.idea.pojo_go</description>
       <dc:date>2026-01-16T07:47:11Z</dc:date>
     </item>
     <item>
-      <title>Clean Architecture Toolkit (Android &amp; Flutter) - Fri Jan 16 19:35:59 UTC 2026</title>
+      <title>Clean Architecture Toolkit (Android &amp; Flutter) - Mon Jan 19 12:27:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29799-clean-architecture-toolkit-android--flutter-</link>
       <description>Generate MVVM Clean Architecture feature boilerplate for Android and Flutter. Generate production-ready Clean Architecture (MVVM) boilerplate for Android and Flutter...
 
@@ -157,9 +209,9 @@ vendor: Ahmed Hegazy
 downloads: 3
 pricingModel: FREE
 xmlId: dev.ahmedhegazy.clean-architecture-generator</description>
-      <pubDate>Fri, 16 Jan 2026 19:35:59 GMT</pubDate>
+      <pubDate>Mon, 19 Jan 2026 12:27:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29799-clean-architecture-toolkit-android--flutter-</guid>
-      <dc:date>2026-01-16T19:35:59Z</dc:date>
+      <dc:date>2026-01-19T12:27:05Z</dc:date>
     </item>
     <item>
       <title>tenshine Git Flow - Mon Jan 19 07:52:06 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.anabulatovic.close-unrelated-tabs</description>
       <pubDate>Sun, 18 Jan 2026 15:09:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29784-close-unrelated-tabs</guid>
       <dc:date>2026-01-18T15:09:23Z</dc:date>
-    </item>
-    <item>
-      <title>Sonic Progressbar - Sun Jan 11 09:22:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29710-sonic-progressbar</link>
-      <description>Replaces your IDE's progress bars with Sonic. 将你的 IDE 进度条替换为索尼克。 IDE の進捗バーをソニックに置き換えます。 IDE의 진행 표시줄을 소닉으로 교체합니다.
-
-vendor: DPT Software
-downloads: 23
-pricingModel: PAID
-xmlId: com.ptd.sonicprogress</description>
-      <pubDate>Sun, 11 Jan 2026 09:22:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29710-sonic-progressbar</guid>
-      <dc:date>2026-01-11T09:22:30Z</dc:date>
-    </item>
-    <item>
-      <title>Titans-tk-mybatis-generator - Thu Jan 15 00:39:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29774-titans-tk-mybatis-generator</link>
-      <description>MyBatis Tk Code Generator is a plugin that supports MySQL or Oracle DDL parsing and automatically generates MyBatis entity classes, Mapper interfaces and XML mapping...
-
-vendor: zto
-downloads: 8
-pricingModel: FREE
-xmlId: com.zto.titans-tk-mybatis-generator</description>
-      <pubDate>Thu, 15 Jan 2026 00:39:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29774-titans-tk-mybatis-generator</guid>
-      <dc:date>2026-01-15T00:39:53Z</dc:date>
-    </item>
-    <item>
-      <title>BabelMarkdown - Mon Jan 19 09:39:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29779-babelmarkdown</link>
-      <description>Babel Markdown is a translation preview tool for Markdown documents. Babel Markdown English · 中文 · License English Babel Markdown brings real-time AI translation...
-
-vendor: aikilan
-downloads: 11
-pricingModel: FREE
-xmlId: com.babelmarkdown.aikilan</description>
-      <pubDate>Mon, 19 Jan 2026 09:39:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29779-babelmarkdown</guid>
-      <dc:date>2026-01-19T09:39:51Z</dc:date>
-    </item>
-    <item>
-      <title>Hytale .ui Support - Mon Jan 19 10:33:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29783-hytale-ui-support</link>
-      <description>Syntax highlighting and IDE support for .ui files used in UI definitions. This plugin provides comprehensive support for .ui files, making it easier to work with UI...
-
-vendor: Bungee
-downloads: 822
-pricingModel: FREE
-xmlId: de.bungee.idea.plugins.uifile</description>
-      <pubDate>Mon, 19 Jan 2026 10:33:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29783-hytale-ui-support</guid>
-      <dc:date>2026-01-19T10:33:51Z</dc:date>
     </item>
   </channel>
 </rss>
