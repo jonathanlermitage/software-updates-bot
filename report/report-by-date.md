@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.17801.55) ~ 2026-01-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Tue Jan 20 20:21:16 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.4.0|[nodejs.org](https://nodejs.org)|Mon Jan 19 20:01:59 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.3.0|[gradle.org](https://gradle.org/releases/)|Fri Jan 16 16:02:10 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 335 - 200 terminaux en prod vendredi|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jan 16 12:02:40 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.25.6|[golang.org](https://golang.org/dl/)|Thu Jan 15 20:02:37 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2025.3.2 (253.30387.20) ~ 2026-01-14|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Jan 14 20:01:40 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.0 (2026-01-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jan 14 20:01:33 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.13.0|[nodejs.org](https://nodejs.org)|Tue Jan 13 16:03:15 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.1.1 (253.29346.240) ~ 2026-01-08|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jan 08 16:02:47 UTC 2026|

@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Ether - Sat Dec 20 19:32:26 UTC 2025</title>
+      <link>https://plugins.jetbrains.com/plugin/29452-ether</link>
+      <description>Language support for the Ray programming language and the Ether's IDE functionality (https://github.com/orbitmines/ray).
+
+vendor: OrbitMines
+downloads: 0
+pricingModel: FREE
+xmlId: com.orbitmines.Ether</description>
+      <pubDate>Sat, 20 Dec 2025 19:32:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29452-ether</guid>
+      <dc:date>2025-12-20T19:32:26Z</dc:date>
+    </item>
+    <item>
+      <title>DDLABS-Gitifier - Sun Jan 18 20:27:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29821-ddlabs-gitifier</link>
+      <description>Gitifier is a free and open-source light-weight IntelliJ IDEA plugin that allows developers to easily share their complete codebase directly to GitHub.com, GitLab.com...
+
+vendor: Debadatta Mishra
+downloads: 1
+pricingModel: FREE
+xmlId: com.ddlab.rnd.ddlabs-gitifier</description>
+      <pubDate>Sun, 18 Jan 2026 20:27:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29821-ddlabs-gitifier</guid>
+      <dc:date>2026-01-18T20:27:58Z</dc:date>
+    </item>
+    <item>
+      <title>Hytale Development - Sun Jan 18 20:53:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29822-hytale-development</link>
+      <description>Hytale Development brings IDE support for Hytale server plugin development to IntelliJ IDEA. Features: Auto-detect HytaleServer.jar from your Hytale installationJSON...
+
+vendor: CriticalRange
+downloads: 1
+pricingModel: FREE
+xmlId: com.criticalrange.hytaledev</description>
+      <pubDate>Sun, 18 Jan 2026 20:53:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29822-hytale-development</guid>
+      <dc:date>2026-01-18T20:53:25Z</dc:date>
+    </item>
+    <item>
+      <title>ReStructuredText Preview (Standalone) - Tue Jan 20 02:06:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29835-restructuredtext-preview-standalone-</link>
+      <description>Adds standalone HTML preview for ReStructuredText files without requiring the Python plugin. Uses your system's rst2html command (from docutils) to render previews...
+
+vendor: Brad Stancel
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.stancel.rst-preview-standalone</description>
+      <pubDate>Tue, 20 Jan 2026 02:06:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29835-restructuredtext-preview-standalone-</guid>
+      <dc:date>2026-01-20T02:06:20Z</dc:date>
+    </item>
+    <item>
+      <title>PrayerTimeReminder - Tue Jan 20 06:38:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29830-prayertimereminder</link>
+      <description>PrayerTimeReminder reminds you of daily prayer times with status bar countdowns and notifications.
+
+vendor: Teqo
+downloads: 0
+pricingModel: FREE
+xmlId: me.teqo.prayertimereminder</description>
+      <pubDate>Tue, 20 Jan 2026 06:38:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29830-prayertimereminder</guid>
+      <dc:date>2026-01-20T06:38:30Z</dc:date>
+    </item>
+    <item>
+      <title>Dot Plus - Wed Jan 14 21:40:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29772-dot-plus</link>
+      <description>Provides editing and live preview support for Graphviz DOT language files (.dot). Features: Custom editor with integrated live preview panel. Multiple view modes: Code...
+
+vendor: Rework Biz
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: org.abpubli.dot</description>
+      <pubDate>Wed, 14 Jan 2026 21:40:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29772-dot-plus</guid>
+      <dc:date>2026-01-14T21:40:54Z</dc:date>
+    </item>
+    <item>
       <title>OCD Imports Formatter - Sort Import Lines by Length - Tue Jan 20 08:51:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29840-ocd-imports-formatter--sort-import-lines-by-length</link>
       <description>Automatically sorts import statements after code formatting, ordering them by line length (longest to shortest) and then alphabetically.
@@ -186,84 +264,6 @@ xmlId: com.callflow.visualizer</description>
       <pubDate>Tue, 20 Jan 2026 06:16:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29803-callflow-visualizer</guid>
       <dc:date>2026-01-20T06:16:46Z</dc:date>
-    </item>
-    <item>
-      <title>SCP-PojoGo - Fri Jan 16 07:47:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29598-scp-pojogo</link>
-      <description>A plug-in that adapts to the Java language, enhances POJO operations and improves the development experience. Its current functions are as follows: - Find Filter...
-
-vendor: SCP-Planet
-downloads: 4
-pricingModel: FREE
-xmlId: com.scp-planet.idea.pojo_go</description>
-      <pubDate>Fri, 16 Jan 2026 07:47:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29598-scp-pojogo</guid>
-      <dc:date>2026-01-16T07:47:11Z</dc:date>
-    </item>
-    <item>
-      <title>Clean Architecture Toolkit (Android &amp; Flutter) - Mon Jan 19 12:27:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29799-clean-architecture-toolkit-android--flutter-</link>
-      <description>Generate MVVM Clean Architecture feature boilerplate for Android and Flutter. Generate production-ready Clean Architecture (MVVM) boilerplate for Android and Flutter...
-
-vendor: Ahmed Hegazy
-downloads: 3
-pricingModel: FREE
-xmlId: dev.ahmedhegazy.clean-architecture-generator</description>
-      <pubDate>Mon, 19 Jan 2026 12:27:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29799-clean-architecture-toolkit-android--flutter-</guid>
-      <dc:date>2026-01-19T12:27:05Z</dc:date>
-    </item>
-    <item>
-      <title>tenshine Git Flow - Mon Jan 19 07:52:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29787-tenshine-git-flow</link>
-      <description>An IntelliJ IDEA plugin that provides a complete Git Flow UI integration, enabling advanced repository operations based on Vincent Driessen's branching model. IntelliJ...
-
-vendor: BaldHead
-downloads: 17
-pricingModel: FREE
-xmlId: tenshineGitFlow</description>
-      <pubDate>Mon, 19 Jan 2026 07:52:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29787-tenshine-git-flow</guid>
-      <dc:date>2026-01-19T07:52:06Z</dc:date>
-    </item>
-    <item>
-      <title>Tag Navigator - Fri Jan 09 07:32:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29690-tag-navigator</link>
-      <description>tagNavigator lets you quickly jump to files or components by tags, streamlining navigation in large projects.
-
-vendor: TagNavigator
-downloads: 6
-pricingModel: FREE
-xmlId: com.ming.tagNavigator</description>
-      <pubDate>Fri, 09 Jan 2026 07:32:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29690-tag-navigator</guid>
-      <dc:date>2026-01-09T07:32:33Z</dc:date>
-    </item>
-    <item>
-      <title>i18n Format - Fri Jan 09 04:24:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29689-i18n-format</link>
-      <description>This plugin provides inline hints and tag navigation for Vue/i18n projects. It allows configuring custom tag mappings via a JSON file and enables quick navigation from...
-
-vendor: I18nFormat
-downloads: 8
-pricingModel: FREE
-xmlId: com.ming.i18nformat</description>
-      <pubDate>Fri, 09 Jan 2026 04:24:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29689-i18n-format</guid>
-      <dc:date>2026-01-09T04:24:52Z</dc:date>
-    </item>
-    <item>
-      <title>Close Unrelated Tabs - Sun Jan 18 15:09:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29784-close-unrelated-tabs</link>
-      <description>Close all editor tabs that are not related to the current file. Right-click on any editor tab and select "Close Unrelated Tabs" to keep only tabs that: Reference the...
-
-vendor: Ana Bulatović
-downloads: 111
-pricingModel: FREE
-xmlId: com.anabulatovic.close-unrelated-tabs</description>
-      <pubDate>Sun, 18 Jan 2026 15:09:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29784-close-unrelated-tabs</guid>
-      <dc:date>2026-01-18T15:09:23Z</dc:date>
     </item>
   </channel>
 </rss>
