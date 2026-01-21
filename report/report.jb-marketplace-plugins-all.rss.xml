@@ -6,7 +6,33 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Chemistry - Wed Jan 21 13:14:41 UTC 2026</title>
+      <title>Captain America Progress - Wed Jan 21 14:10:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29862-captain-america-progress</link>
+      <description>Replaces your IDE's progress bars with Captain America.
+
+vendor: DPT Software
+downloads: 0
+pricingModel: PAID
+xmlId: com.ptd.captainprogress</description>
+      <pubDate>Wed, 21 Jan 2026 14:10:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29862-captain-america-progress</guid>
+      <dc:date>2026-01-21T14:10:34Z</dc:date>
+    </item>
+    <item>
+      <title>Iron Man Progress - Wed Jan 21 15:30:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29863-iron-man-progress</link>
+      <description>Replaces your IDE's progress bars with Iron Man.
+
+vendor: DPT Software
+downloads: 0
+pricingModel: PAID
+xmlId: com.ptd.ironprogress</description>
+      <pubDate>Wed, 21 Jan 2026 15:30:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29863-iron-man-progress</guid>
+      <dc:date>2026-01-21T15:30:17Z</dc:date>
+    </item>
+    <item>
+      <title>Chemistry - Wed Jan 21 16:43:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29847-chemistry</link>
       <description>Depict chemical structure right in the IDE. Currently only SMILES format is supported: Alt+Shift+D / Option+Shift+D - depict chemical structure. Only SMILES format is...
 
@@ -14,9 +40,9 @@ vendor: Elsci
 downloads: 0
 pricingModel: FREE
 xmlId: io.elsci.intellij-chemistry-plugin</description>
-      <pubDate>Wed, 21 Jan 2026 13:14:41 GMT</pubDate>
+      <pubDate>Wed, 21 Jan 2026 16:43:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29847-chemistry</guid>
-      <dc:date>2026-01-21T13:14:41Z</dc:date>
+      <dc:date>2026-01-21T16:43:40Z</dc:date>
     </item>
     <item>
       <title>linthis - Wed Jan 21 12:07:56 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.orbitmines.Ether</description>
       <pubDate>Sat, 20 Dec 2025 19:32:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29452-ether</guid>
       <dc:date>2025-12-20T19:32:26Z</dc:date>
-    </item>
-    <item>
-      <title>DDLABS-Gitifier - Sun Jan 18 20:27:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29821-ddlabs-gitifier</link>
-      <description>Gitifier is a free and open-source light-weight IntelliJ IDEA plugin that allows developers to easily share their complete codebase directly to GitHub.com, GitLab.com...
-
-vendor: Debadatta Mishra
-downloads: 3
-pricingModel: FREE
-xmlId: com.ddlab.rnd.ddlabs-gitifier</description>
-      <pubDate>Sun, 18 Jan 2026 20:27:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29821-ddlabs-gitifier</guid>
-      <dc:date>2026-01-18T20:27:58Z</dc:date>
-    </item>
-    <item>
-      <title>Hytale Development - Sun Jan 18 20:53:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29822-hytale-development</link>
-      <description>Hytale Development brings IDE support for Hytale server plugin development to IntelliJ IDEA. Features: Auto-detect HytaleServer.jar from your Hytale installationJSON...
-
-vendor: CriticalRange
-downloads: 13
-pricingModel: FREE
-xmlId: com.criticalrange.hytaledev</description>
-      <pubDate>Sun, 18 Jan 2026 20:53:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29822-hytale-development</guid>
-      <dc:date>2026-01-18T20:53:25Z</dc:date>
     </item>
   </channel>
 </rss>
