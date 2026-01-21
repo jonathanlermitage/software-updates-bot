@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Chemistry - Wed Jan 21 13:14:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29847-chemistry</link>
+      <description>Depict chemical structure right in the IDE. Currently only SMILES format is supported: Alt+Shift+D / Option+Shift+D - depict chemical structure. Only SMILES format is...
+
+vendor: Elsci
+downloads: 0
+pricingModel: FREE
+xmlId: io.elsci.intellij-chemistry-plugin</description>
+      <pubDate>Wed, 21 Jan 2026 13:14:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29847-chemistry</guid>
+      <dc:date>2026-01-21T13:14:41Z</dc:date>
+    </item>
+    <item>
+      <title>linthis - Wed Jan 21 12:07:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29860-linthis</link>
+      <description>linthis - Multi-language Linter and Formatter A unified linting and formatting tool for multiple programming languages, powered by the linthis Language Server Protocol...
+
+vendor: linthis
+downloads: 0
+pricingModel: FREE
+xmlId: com.mojeter.linthis.plugin</description>
+      <pubDate>Wed, 21 Jan 2026 12:07:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29860-linthis</guid>
+      <dc:date>2026-01-21T12:07:56Z</dc:date>
+    </item>
+    <item>
+      <title>Project Tabs - Wed Jan 21 13:27:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29857-project-tabs</link>
+      <description>Adds a project tab bar at the top of the IDE to easily switch between open projects on Linux.
+
+vendor: Artificyal
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.artificyal.projecttabs</description>
+      <pubDate>Wed, 21 Jan 2026 13:27:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29857-project-tabs</guid>
+      <dc:date>2026-01-21T13:27:18Z</dc:date>
+    </item>
+    <item>
+      <title>gradle-module-sleep - Wed Jan 21 04:23:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29851-gradle-module-sleep</link>
+      <description>Gradle Module Sleep: Smart On-Demand Module Loading for Large Projects Gradle Module Sleep supercharges your IDE performance by intelligently loading only the Gradle...
+
+vendor: zjarlin
+downloads: 0
+pricingModel: FREE
+xmlId: site.addzero.gradle-module-sleep</description>
+      <pubDate>Wed, 21 Jan 2026 04:23:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29851-gradle-module-sleep</guid>
+      <dc:date>2026-01-21T04:23:32Z</dc:date>
+    </item>
+    <item>
+      <title>Console log prettify - Wed Jan 21 02:58:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29850-console-log-prettify</link>
+      <description>Console log prettify plugin for IntelliJ Platform makes NDJSON (Newline Delimited JSON a.k.a. JSON Lines) logs more readable in the console. It has the following...
+
+vendor: softreigns
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.softreigns.consolelogprettify</description>
+      <pubDate>Wed, 21 Jan 2026 02:58:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29850-console-log-prettify</guid>
+      <dc:date>2026-01-21T02:58:34Z</dc:date>
+    </item>
+    <item>
+      <title>Twin Peaks - Progress Bar - Tue Jan 20 21:42:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29820-twin-peaks--progress-bar</link>
+      <description>Twin Peaks inspired progress bar for JetBrains IDEs. Unofficial plugin made by a fan of David Lynch.
+
+vendor: Ancelotow
+downloads: 0
+pricingModel: FREE
+xmlId: org.ancelotow.twin-peaks-progress-bar</description>
+      <pubDate>Tue, 20 Jan 2026 21:42:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29820-twin-peaks--progress-bar</guid>
+      <dc:date>2026-01-20T21:42:36Z</dc:date>
+    </item>
+    <item>
+      <title>Chronicle - Wed Jan 21 01:46:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29848-chronicle</link>
+      <description>Chronicle is an IDE plugin that helps you build ready-to-implement handoff documents for members of your team. Simply hit record, and walk through the code, narrating...
+
+vendor: Chris Morrell
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.inxilpro.chronicle</description>
+      <pubDate>Wed, 21 Jan 2026 01:46:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29848-chronicle</guid>
+      <dc:date>2026-01-21T01:46:52Z</dc:date>
+    </item>
+    <item>
       <title>Shared Indexes - Tue Jan 20 15:02:49 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29844-shared-indexes</link>
       <description>The plugin reduces overall indexing time and CPU usage by using bundled or downloaded shared indexes. Check out the Shared Project Indexes plugin to build and download...
@@ -173,97 +264,6 @@ xmlId: com.criticalrange.hytaledev</description>
       <pubDate>Sun, 18 Jan 2026 20:53:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29822-hytale-development</guid>
       <dc:date>2026-01-18T20:53:25Z</dc:date>
-    </item>
-    <item>
-      <title>ReStructuredText Preview (Standalone) - Tue Jan 20 02:06:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29835-restructuredtext-preview-standalone-</link>
-      <description>Adds standalone HTML preview for ReStructuredText files without requiring the Python plugin. Uses your system's rst2html command (from docutils) to render previews...
-
-vendor: Brad Stancel
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.stancel.rst-preview-standalone</description>
-      <pubDate>Tue, 20 Jan 2026 02:06:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29835-restructuredtext-preview-standalone-</guid>
-      <dc:date>2026-01-20T02:06:20Z</dc:date>
-    </item>
-    <item>
-      <title>PrayerTimeReminder - Tue Jan 20 06:38:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29830-prayertimereminder</link>
-      <description>PrayerTimeReminder reminds you of daily prayer times with status bar countdowns and notifications.
-
-vendor: Teqo
-downloads: 1
-pricingModel: FREE
-xmlId: me.teqo.prayertimereminder</description>
-      <pubDate>Tue, 20 Jan 2026 06:38:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29830-prayertimereminder</guid>
-      <dc:date>2026-01-20T06:38:30Z</dc:date>
-    </item>
-    <item>
-      <title>Dot Plus - Wed Jan 14 21:40:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29772-dot-plus</link>
-      <description>Provides editing and live preview support for Graphviz DOT language files (.dot). Features: Custom editor with integrated live preview panel. Multiple view modes: Code...
-
-vendor: Rework Biz
-downloads: 5
-pricingModel: FREEMIUM
-xmlId: org.abpubli.dot</description>
-      <pubDate>Wed, 14 Jan 2026 21:40:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29772-dot-plus</guid>
-      <dc:date>2026-01-14T21:40:54Z</dc:date>
-    </item>
-    <item>
-      <title>OCD Imports Formatter - Sort Import Lines by Length - Tue Jan 20 08:51:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29840-ocd-imports-formatter--sort-import-lines-by-length</link>
-      <description>Automatically sorts import statements after code formatting, ordering them by line length (longest to shortest) and then alphabetically.
-
-vendor: Momo
-downloads: 14
-pricingModel: FREE
-xmlId: rs.moma.ocd-formatter</description>
-      <pubDate>Tue, 20 Jan 2026 08:51:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29840-ocd-imports-formatter--sort-import-lines-by-length</guid>
-      <dc:date>2026-01-20T08:51:47Z</dc:date>
-    </item>
-    <item>
-      <title>JSON to Java/Kotlin Object - Mon Jan 19 14:29:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29796-json-to-java-kotlin-object</link>
-      <description>Convert JSON to Java/Kotlin classes with ease. Features Generate Java classes or Kotlin data classes from JSON Lombok support: @Data, @Getter, @Setter...
-
-vendor: Hyunsoo Jo
-downloads: 6
-pricingModel: FREE
-xmlId: com.ninja.json-to-objects</description>
-      <pubDate>Mon, 19 Jan 2026 14:29:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29796-json-to-java-kotlin-object</guid>
-      <dc:date>2026-01-19T14:29:21Z</dc:date>
-    </item>
-    <item>
-      <title>Temporal.io - Sun Jan 18 18:08:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29819-temporal-io</link>
-      <description>A JetBrains IDE plugin for browsing and navigating Temporal workflows. Features: Workflow Browser — Browse workflows with status, type, and timestamps directly from...
-
-vendor: smolchanovsky
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.smolchanovsky.temporalplugin</description>
-      <pubDate>Sun, 18 Jan 2026 18:08:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29819-temporal-io</guid>
-      <dc:date>2026-01-18T18:08:05Z</dc:date>
-    </item>
-    <item>
-      <title>easy-build-gitlab - Mon Jan 19 10:22:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29427-easy-build-gitlab</link>
-      <description>[GitLab Pipeline Tool] A powerful IntelliJ plugin for GitLab CI/CD management. Key Features: ✔ Direct Build: Build selected projects with one click ✔ Smart Merge...
-
-vendor: easy-build-plugin
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.easy-build-plugin</description>
-      <pubDate>Mon, 19 Jan 2026 10:22:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29427-easy-build-gitlab</guid>
-      <dc:date>2026-01-19T10:22:18Z</dc:date>
     </item>
   </channel>
 </rss>
