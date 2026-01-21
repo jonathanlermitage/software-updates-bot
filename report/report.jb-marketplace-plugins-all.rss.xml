@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Shared Indexes - Tue Jan 20 15:02:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29844-shared-indexes</link>
+      <description>The plugin reduces overall indexing time and CPU usage by using bundled or downloaded shared indexes. Check out the Shared Project Indexes plugin to build and download...
+
+vendor: JetBrains s.r.o.
+downloads: 2
+pricingModel: FREE
+xmlId: intellij.indexing.shared.core</description>
+      <pubDate>Tue, 20 Jan 2026 15:02:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29844-shared-indexes</guid>
+      <dc:date>2026-01-20T15:02:49Z</dc:date>
+    </item>
+    <item>
+      <title>Proto to HTTP - Tue Jan 20 14:41:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29843-proto-to-http</link>
+      <description>Generate .http files from Protocol Buffer (.proto) files for gRPC testing in JetBrains HTTP Client. Features: Generate HTTP requests from proto service definitions...
+
+vendor: Vladislav Bulgakov
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.proto2http</description>
+      <pubDate>Tue, 20 Jan 2026 14:41:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29843-proto-to-http</guid>
+      <dc:date>2026-01-20T14:41:43Z</dc:date>
+    </item>
+    <item>
+      <title>JBL Python Project Generator - Tue Jan 20 14:19:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29412-jbl-python-project-generator</link>
+      <description>JBL Python Project Generator - Python Project Structure Generator One-click Python project structure generator, helping beginners quickly set up standardized projects...
+
+vendor: Jebe Liao
+downloads: 0
+pricingModel: FREE
+xmlId: com.jbl.pythonprojectgen</description>
+      <pubDate>Tue, 20 Jan 2026 14:19:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29412-jbl-python-project-generator</guid>
+      <dc:date>2026-01-20T14:19:01Z</dc:date>
+    </item>
+    <item>
+      <title>HytaleModdingTool - Wed Jan 21 09:30:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29800-hytalemoddingtool</link>
+      <description>This plugin helps with Modding Hytale, a popular game developed by Hypixel.
+
+vendor: LP4
+downloads: 1
+pricingModel: FREE
+xmlId: dev.lp4.HytaleModdingTool</description>
+      <pubDate>Wed, 21 Jan 2026 09:30:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29800-hytalemoddingtool</guid>
+      <dc:date>2026-01-21T09:30:47Z</dc:date>
+    </item>
+    <item>
       <title>CodeCricket - Sun Jan 18 11:06:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29810-codecricket</link>
       <description>CodeCricket brings live cricket action directly into your IntelliJ IDE. Track live matches, detailed scorecards, and ball-by-ball commentary without leaving your...
@@ -212,58 +264,6 @@ xmlId: com.github.easy-build-plugin</description>
       <pubDate>Mon, 19 Jan 2026 10:22:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29427-easy-build-gitlab</guid>
       <dc:date>2026-01-19T10:22:18Z</dc:date>
-    </item>
-    <item>
-      <title>Jinja2 Enhanced - Sun Jan 18 17:59:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29804-jinja2-enhanced</link>
-      <description>Jinja2 Enhanced Support for JetBrains IDEs Professional-grade Jinja2 template support with comprehensive syntax analysis, intelligent error detection, and advanced...
-
-vendor: SomeBlackMagic
-downloads: 15
-pricingModel: PAID
-xmlId: com.jinja2enhanced</description>
-      <pubDate>Sun, 18 Jan 2026 17:59:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29804-jinja2-enhanced</guid>
-      <dc:date>2026-01-18T17:59:02Z</dc:date>
-    </item>
-    <item>
-      <title>Auto Language - Fri Jan 16 22:44:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29798-auto-language</link>
-      <description>This plugin automatically switches the input language based on the cursor position in the IntelliJ IDEA editor. Twitter: @BasheirHassan تقوم هذه الإضافة تلقائيا...
-
-vendor: Basheir Hassan
-downloads: 22
-pricingModel: FREE
-xmlId: com.autolanguage.switcher</description>
-      <pubDate>Fri, 16 Jan 2026 22:44:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29798-auto-language</guid>
-      <dc:date>2026-01-16T22:44:24Z</dc:date>
-    </item>
-    <item>
-      <title>BLTC - Sun Jan 18 19:20:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29802-bltc</link>
-      <description>BLTC - Before Launch Text Condition Enables a run configuration to start when the Before Launch task's output matches a condition.
-
-vendor: rayman13579
-downloads: 11
-pricingModel: FREE
-xmlId: at.rayman.bltc</description>
-      <pubDate>Sun, 18 Jan 2026 19:20:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29802-bltc</guid>
-      <dc:date>2026-01-18T19:20:27Z</dc:date>
-    </item>
-    <item>
-      <title>Skopio - Sun Jan 18 18:07:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29817-skopio</link>
-      <description>Skopio tracks your activity in JetBrains IDEs and records categorized events such as coding, debugging, compiling, writing docs, testing, and code reviewing. Events...
-
-vendor: Skopio
-downloads: 12
-pricingModel: FREE
-xmlId: com.samwahome.skopio-jetbrains.skopio-jetbrains</description>
-      <pubDate>Sun, 18 Jan 2026 18:07:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29817-skopio</guid>
-      <dc:date>2026-01-18T18:07:21Z</dc:date>
     </item>
   </channel>
 </rss>
