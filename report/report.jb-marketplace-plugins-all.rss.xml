@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CodeCricket - Sun Jan 18 11:06:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29810-codecricket</link>
+      <description>CodeCricket brings live cricket action directly into your IntelliJ IDE. Track live matches, detailed scorecards, and ball-by-ball commentary without leaving your...
+
+vendor: Gurjot Singh
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.gurjot1142.codecricket</description>
+      <pubDate>Sun, 18 Jan 2026 11:06:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29810-codecricket</guid>
+      <dc:date>2026-01-18T11:06:12Z</dc:date>
+    </item>
+    <item>
+      <title>NestJS Framework Support - Mon Jan 19 01:03:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29823-nestjs-framework-support</link>
+      <description>NestJS Support plugin provides comprehensive IDE support for NestJS projects. Features: Automatic framework detection for NestJS projectsFile templates for...
+
+vendor: COCONUTmkII
+downloads: 1
+pricingModel: FREE
+xmlId: com.coconutmkii.nestjssupport</description>
+      <pubDate>Mon, 19 Jan 2026 01:03:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29823-nestjs-framework-support</guid>
+      <dc:date>2026-01-19T01:03:50Z</dc:date>
+    </item>
+    <item>
+      <title>Dev Notes - Mon Jan 19 17:23:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29831-dev-notes</link>
+      <description>A global Dev Notes tool window that provides a curated UI for managing text and Markdown scratch files. Notes persist across projects and IDE restarts using JetBrains...
+
+vendor: Maorlv
+downloads: 0
+pricingModel: FREE
+xmlId: io.maorlv.devnotes</description>
+      <pubDate>Mon, 19 Jan 2026 17:23:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29831-dev-notes</guid>
+      <dc:date>2026-01-19T17:23:23Z</dc:date>
+    </item>
+    <item>
+      <title>Codex Link - Sun Jan 18 16:49:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29814-codex-link</link>
+      <description>Important: Install the OpenAI Codex CLI separately before using this plugin. For Windows users: Please select your terminal shell in the plugin settings (Settings...
+
+vendor: Eisermann
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.eisermann.codex-link</description>
+      <pubDate>Sun, 18 Jan 2026 16:49:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29814-codex-link</guid>
+      <dc:date>2026-01-18T16:49:39Z</dc:date>
+    </item>
+    <item>
+      <title>Gemini Link - Sun Jan 18 16:50:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29815-gemini-link</link>
+      <description>Important: Install the Gemini CLI separately before using this plugin. For Windows users: Please select your terminal shell in the plugin settings (Settings (→ Other...
+
+vendor: Eisermann
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.eisermann.gemini-link</description>
+      <pubDate>Sun, 18 Jan 2026 16:50:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29815-gemini-link</guid>
+      <dc:date>2026-01-18T16:50:23Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode Link - Sun Jan 18 16:52:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29816-opencode-link</link>
+      <description>Important: Install the OpenCode CLI separately before using this plugin. For Windows users: Please select your terminal shell in the plugin settings (Settings (→ Other...
+
+vendor: Eisermann
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.eisermann.opencode-link</description>
+      <pubDate>Sun, 18 Jan 2026 16:52:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29816-opencode-link</guid>
+      <dc:date>2026-01-18T16:52:14Z</dc:date>
+    </item>
+    <item>
       <title>Ether - Sat Dec 20 19:32:26 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29452-ether</link>
       <description>Language support for the Ray programming language and the Ether's IDE functionality (https://github.com/orbitmines/ray).
@@ -186,84 +264,6 @@ xmlId: com.samwahome.skopio-jetbrains.skopio-jetbrains</description>
       <pubDate>Sun, 18 Jan 2026 18:07:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29817-skopio</guid>
       <dc:date>2026-01-18T18:07:21Z</dc:date>
-    </item>
-    <item>
-      <title>Hytale Development Tools - Sun Jan 18 22:28:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29807-hytale-development-tools</link>
-      <description>A comprehensive toolkit for developing Hytale server plugins in IntelliJ IDEA. Features: Project Wizard for new Hytale plugin projectsLive Templates: hyevent, hycmd...
-
-vendor: Hytale Docs
-downloads: 57
-pricingModel: FREE
-xmlId: com.hytaledocs.hytale</description>
-      <pubDate>Sun, 18 Jan 2026 22:28:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29807-hytale-development-tools</guid>
-      <dc:date>2026-01-18T22:28:10Z</dc:date>
-    </item>
-    <item>
-      <title>AI Naming Assistant - Mon Jan 19 04:50:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29825-ai-naming-assistant</link>
-      <description>An intelligent AI-powered variable naming assistant. Supports multiple naming formats (camelCase, PascalCase, snake_case, etc.) and automatically generates...
-
-vendor: putl
-downloads: 2
-pricingModel: FREE
-xmlId: badgertech.putl.ideaplugle</description>
-      <pubDate>Mon, 19 Jan 2026 04:50:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29825-ai-naming-assistant</guid>
-      <dc:date>2026-01-19T04:50:38Z</dc:date>
-    </item>
-    <item>
-      <title>IDE Survivors - Sat Jan 17 00:09:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29801-ide-survivors</link>
-      <description>IDE Survivors is a game built inside IntelliJ IDEA.Hey there, human. I’m Runzo. Yes, your IDE’s Run button.I’ve been living inside IntelliJ IDEA for 25 years, watching...
-
-vendor: JetBrains s.r.o.
-downloads: 181
-pricingModel: FREE
-xmlId: com.glycin.intellij25</description>
-      <pubDate>Sat, 17 Jan 2026 00:09:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29801-ide-survivors</guid>
-      <dc:date>2026-01-17T00:09:47Z</dc:date>
-    </item>
-    <item>
-      <title>DSGitCelebration - Mon Jan 19 15:17:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29827-dsgitcelebration</link>
-      <description>DSGitCelebration Adds Dark Souls–style visual and audio celebrations to Git actions inside JetBrains IDEs. When performing Git actions such as commit, merge, push, or...
-
-vendor: Gnegnoli
-downloads: 22
-pricingModel: FREE
-xmlId: com.dsplugin.dsgitcelebration</description>
-      <pubDate>Mon, 19 Jan 2026 15:17:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29827-dsgitcelebration</guid>
-      <dc:date>2026-01-19T15:17:31Z</dc:date>
-    </item>
-    <item>
-      <title>CodeLingo - Mon Jan 19 17:43:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29793-codelingo</link>
-      <description>CodeLingo transforms cryptic Java error messages into plain, human-readable explanations directly in your console. Perfect for students, junior developers, or anyone...
-
-vendor: izandegeer
-downloads: 14
-pricingModel: FREE
-xmlId: com.izandegeer.codelingo</description>
-      <pubDate>Mon, 19 Jan 2026 17:43:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29793-codelingo</guid>
-      <dc:date>2026-01-19T17:43:37Z</dc:date>
-    </item>
-    <item>
-      <title>CallFlow Visualizer - Tue Jan 20 06:16:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29803-callflow-visualizer</link>
-      <description>CallFlow Visualizer Visualize method call flows in Spring Boot codebases with bidirectional analysis. Features Caller Analysis: Find all methods that call the selected...
-
-vendor: base6666
-downloads: 2
-pricingModel: FREE
-xmlId: com.callflow.visualizer</description>
-      <pubDate>Tue, 20 Jan 2026 06:16:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29803-callflow-visualizer</guid>
-      <dc:date>2026-01-20T06:16:46Z</dc:date>
     </item>
   </channel>
 </rss>
