@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CodeEcho - Sat Jan 17 05:34:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29700-codeecho</link>
+      <description>CodeEcho is an IntelliJ plugin for code change impact analysis and test suggestion generation. Call Chain Tracing: Traces from changed methods back to business entry...
+
+vendor: solidSpoon
+downloads: 1
+pricingModel: FREE
+xmlId: xyz.solidspoon.codeecho</description>
+      <pubDate>Sat, 17 Jan 2026 05:34:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29700-codeecho</guid>
+      <dc:date>2026-01-17T05:34:33Z</dc:date>
+    </item>
+    <item>
+      <title>Structured Log Viewer - Wed Jan 21 22:10:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29759-structured-log-viewer</link>
+      <description>Allow to see logstash json logs from viewer with search, filter and formatting functionalities.
+
+vendor: Stephan DROC
+downloads: 0
+pricingModel: FREE
+xmlId: org.logviewer</description>
+      <pubDate>Wed, 21 Jan 2026 22:10:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29759-structured-log-viewer</guid>
+      <dc:date>2026-01-21T22:10:26Z</dc:date>
+    </item>
+    <item>
       <title>Captain America Progress - Wed Jan 21 14:10:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29862-captain-america-progress</link>
       <description>Replaces your IDE's progress bars with Captain America.
@@ -238,32 +264,6 @@ xmlId: com.github.eisermann.gemini-link</description>
       <pubDate>Sun, 18 Jan 2026 16:50:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29815-gemini-link</guid>
       <dc:date>2026-01-18T16:50:23Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode Link - Sun Jan 18 16:52:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29816-opencode-link</link>
-      <description>Important: Install the OpenCode CLI separately before using this plugin. For Windows users: Please select your terminal shell in the plugin settings (Settings (→ Other...
-
-vendor: Eisermann
-downloads: 24
-pricingModel: FREE
-xmlId: com.github.eisermann.opencode-link</description>
-      <pubDate>Sun, 18 Jan 2026 16:52:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29816-opencode-link</guid>
-      <dc:date>2026-01-18T16:52:14Z</dc:date>
-    </item>
-    <item>
-      <title>Ether - Sat Dec 20 19:32:26 UTC 2025</title>
-      <link>https://plugins.jetbrains.com/plugin/29452-ether</link>
-      <description>Language support for the Ray programming language and the Ether's IDE functionality (https://github.com/orbitmines/ray).
-
-vendor: OrbitMines
-downloads: 7
-pricingModel: FREE
-xmlId: com.orbitmines.Ether</description>
-      <pubDate>Sat, 20 Dec 2025 19:32:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29452-ether</guid>
-      <dc:date>2025-12-20T19:32:26Z</dc:date>
     </item>
   </channel>
 </rss>
