@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Kickstart - Wed Jan 21 18:45:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29865-kickstart</link>
+      <description>Kickstart is an Android Studio plugin that helps developers instantly bootstrap Android projects with clean architecture (MVVM / MVP / MVI), core base classes, and...
+
+vendor: Kickstart
+downloads: 0
+pricingModel: FREE
+xmlId: com.kickstart.plugin</description>
+      <pubDate>Wed, 21 Jan 2026 18:45:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29865-kickstart</guid>
+      <dc:date>2026-01-21T18:45:47Z</dc:date>
+    </item>
+    <item>
+      <title>ImageEdit Pro - Sat Jan 17 06:46:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29778-imageedit-pro</link>
+      <description>ImageEdit Pro is a comprehensive image annotation and editing tool built directly into your IDE. Key features: Annotation tools: Arrows, curved arrows, lines...
+
+vendor: Jetplugins
+downloads: 1
+pricingModel: PAID
+xmlId: dev.jetplugins.imageeditpro</description>
+      <pubDate>Sat, 17 Jan 2026 06:46:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29778-imageedit-pro</guid>
+      <dc:date>2026-01-17T06:46:38Z</dc:date>
+    </item>
+    <item>
+      <title>Commit-Translator - Wed Jan 21 21:39:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29868-commit-translator</link>
+      <description>Commit Translator is an IntelliJ IDEA plugin that translates your commit messages to English using OpenAI-compatible APIs. Features One-Click Translation: Translate...
+
+vendor: Commit Translator
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.darleywey.committranslator</description>
+      <pubDate>Wed, 21 Jan 2026 21:39:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29868-commit-translator</guid>
+      <dc:date>2026-01-21T21:39:32Z</dc:date>
+    </item>
+    <item>
+      <title>SAA Graph Composer - Thu Jan 22 05:28:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29871-saa-graph-composer</link>
+      <description>The official IntelliJ IDEA plugin for the SAA Graph Composer framework. This plugin is designed to supercharge your development with Spring AI Alibaba Graph. It...
+
+vendor: chrisis58
+downloads: 0
+pricingModel: FREE
+xmlId: cn.teacy.ai.saa.graph.composer</description>
+      <pubDate>Thu, 22 Jan 2026 05:28:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29871-saa-graph-composer</guid>
+      <dc:date>2026-01-22T05:28:17Z</dc:date>
+    </item>
+    <item>
       <title>CodeEcho - Sat Jan 17 05:34:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29700-codeecho</link>
       <description>CodeEcho is an IntelliJ plugin for code change impact analysis and test suggestion generation. Call Chain Tracing: Traces from changed methods back to business entry...
@@ -136,7 +188,7 @@ xmlId: org.ancelotow.twin-peaks-progress-bar</description>
       <dc:date>2026-01-20T21:42:36Z</dc:date>
     </item>
     <item>
-      <title>Chronicle - Wed Jan 21 01:46:52 UTC 2026</title>
+      <title>Chronicle - Wed Jan 21 20:41:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29848-chronicle</link>
       <description>Chronicle is an IDE plugin that helps you build ready-to-implement handoff documents for members of your team. Simply hit record, and walk through the code, narrating...
 
@@ -144,9 +196,9 @@ vendor: Chris Morrell
 downloads: 2
 pricingModel: FREE
 xmlId: com.github.inxilpro.chronicle</description>
-      <pubDate>Wed, 21 Jan 2026 01:46:52 GMT</pubDate>
+      <pubDate>Wed, 21 Jan 2026 20:41:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29848-chronicle</guid>
-      <dc:date>2026-01-21T01:46:52Z</dc:date>
+      <dc:date>2026-01-21T20:41:19Z</dc:date>
     </item>
     <item>
       <title>Shared Indexes - Tue Jan 20 15:02:49 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.github.gurjot1142.codecricket</description>
       <pubDate>Sun, 18 Jan 2026 11:06:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29810-codecricket</guid>
       <dc:date>2026-01-18T11:06:12Z</dc:date>
-    </item>
-    <item>
-      <title>NestJS Framework Support - Mon Jan 19 01:03:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29823-nestjs-framework-support</link>
-      <description>NestJS Support plugin provides comprehensive IDE support for NestJS projects. Features: Automatic framework detection for NestJS projectsFile templates for...
-
-vendor: COCONUTmkII
-downloads: 15
-pricingModel: FREE
-xmlId: com.coconutmkii.nestjssupport</description>
-      <pubDate>Mon, 19 Jan 2026 01:03:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29823-nestjs-framework-support</guid>
-      <dc:date>2026-01-19T01:03:50Z</dc:date>
-    </item>
-    <item>
-      <title>Dev Notes - Mon Jan 19 17:23:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29831-dev-notes</link>
-      <description>A global Dev Notes tool window that provides a curated UI for managing text and Markdown scratch files. Notes persist across projects and IDE restarts using JetBrains...
-
-vendor: Maorlv
-downloads: 8
-pricingModel: FREE
-xmlId: io.maorlv.devnotes</description>
-      <pubDate>Mon, 19 Jan 2026 17:23:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29831-dev-notes</guid>
-      <dc:date>2026-01-19T17:23:23Z</dc:date>
-    </item>
-    <item>
-      <title>Codex Link - Sun Jan 18 16:49:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29814-codex-link</link>
-      <description>Important: Install the OpenAI Codex CLI separately before using this plugin. For Windows users: Please select your terminal shell in the plugin settings (Settings...
-
-vendor: Eisermann
-downloads: 10
-pricingModel: FREE
-xmlId: com.github.eisermann.codex-link</description>
-      <pubDate>Sun, 18 Jan 2026 16:49:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29814-codex-link</guid>
-      <dc:date>2026-01-18T16:49:39Z</dc:date>
-    </item>
-    <item>
-      <title>Gemini Link - Sun Jan 18 16:50:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29815-gemini-link</link>
-      <description>Important: Install the Gemini CLI separately before using this plugin. For Windows users: Please select your terminal shell in the plugin settings (Settings (→ Other...
-
-vendor: Eisermann
-downloads: 20
-pricingModel: FREE
-xmlId: com.github.eisermann.gemini-link</description>
-      <pubDate>Sun, 18 Jan 2026 16:50:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29815-gemini-link</guid>
-      <dc:date>2026-01-18T16:50:23Z</dc:date>
     </item>
   </channel>
 </rss>
