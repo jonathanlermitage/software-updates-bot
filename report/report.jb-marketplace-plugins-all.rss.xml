@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Foldable ProjectView Fix - Thu Jan 22 15:19:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29876-foldable-projectview-fix</link>
+      <description>Foldable ProjectView plugin with enhanced features and performance optimizations.
+
+vendor: suq
+downloads: 0
+pricingModel: FREE
+xmlId: ski.chrzanow.foldableprojectviewfix</description>
+      <pubDate>Thu, 22 Jan 2026 15:19:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29876-foldable-projectview-fix</guid>
+      <dc:date>2026-01-22T15:19:06Z</dc:date>
+    </item>
+    <item>
+      <title>Tiltfile Support - Thu Jan 22 15:08:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29875-tiltfile-support</link>
+      <description>Support for Tiltfile: syntax highlighting and completion.
+
+vendor: Guillaume Delré
+downloads: 0
+pricingModel: FREE
+xmlId: com.gdelre.tiltfile</description>
+      <pubDate>Thu, 22 Jan 2026 15:08:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29875-tiltfile-support</guid>
+      <dc:date>2026-01-22T15:08:32Z</dc:date>
+    </item>
+    <item>
+      <title>Hytale UI - Thu Jan 22 18:49:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29867-hytale-ui</link>
+      <description>Provides comprehensive support for Hytale UI (.ui) files in IntelliJ-based IDEs. Features Syntax Highlighting: Color-coded keywords, properties, strings, numbers, and...
+
+vendor: Hytale
+downloads: 0
+pricingModel: FREE
+xmlId: fr.azerks.HytaleUI</description>
+      <pubDate>Thu, 22 Jan 2026 18:49:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29867-hytale-ui</guid>
+      <dc:date>2026-01-22T18:49:02Z</dc:date>
+    </item>
+    <item>
+      <title>Test First - AI Guided TDD Flow - Thu Jan 22 13:18:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29697-test-first--ai-guided-tdd-flow</link>
+      <description>Currently, the plugin only supports BYOK (Bring your own API key)! The Why The goal of this plugin is to keep developers engaged in the development process...
+
+vendor: Oleksii Volotskov Software Engineering
+downloads: 2
+pricingModel: FREE
+xmlId: com.seech.testfirst</description>
+      <pubDate>Thu, 22 Jan 2026 13:18:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29697-test-first--ai-guided-tdd-flow</guid>
+      <dc:date>2026-01-22T13:18:09Z</dc:date>
+    </item>
+    <item>
       <title>FixGen - Thu Jan 22 12:51:49 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29842-fixgen</link>
       <description>Generate UUID directly into empty strings via intention action. Place cursor inside an empty string literal ("") and invoke the intention to insert a generated UUID.
@@ -84,7 +136,7 @@ xmlId: com.kickstart.plugin</description>
       <dc:date>2026-01-21T18:45:47Z</dc:date>
     </item>
     <item>
-      <title>ImageEdit Pro - Sat Jan 17 06:46:38 UTC 2026</title>
+      <title>ImageEdit Pro - Thu Jan 22 23:45:51 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29778-imageedit-pro</link>
       <description>ImageEdit Pro is a comprehensive image annotation and editing tool built directly into your IDE. Key features: Annotation tools: Arrows, curved arrows, lines...
 
@@ -92,9 +144,9 @@ vendor: Jetplugins
 downloads: 4
 pricingModel: PAID
 xmlId: dev.jetplugins.imageeditpro</description>
-      <pubDate>Sat, 17 Jan 2026 06:46:38 GMT</pubDate>
+      <pubDate>Thu, 22 Jan 2026 23:45:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29778-imageedit-pro</guid>
-      <dc:date>2026-01-17T06:46:38Z</dc:date>
+      <dc:date>2026-01-22T23:45:51Z</dc:date>
     </item>
     <item>
       <title>Commit-Translator - Wed Jan 21 21:39:32 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.github.artificyal.projecttabs</description>
       <pubDate>Wed, 21 Jan 2026 23:00:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29857-project-tabs</guid>
       <dc:date>2026-01-21T23:00:37Z</dc:date>
-    </item>
-    <item>
-      <title>gradle-module-sleep - Wed Jan 21 04:23:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29851-gradle-module-sleep</link>
-      <description>Gradle Module Sleep: Smart On-Demand Module Loading for Large Projects Gradle Module Sleep supercharges your IDE performance by intelligently loading only the Gradle...
-
-vendor: zjarlin
-downloads: 9
-pricingModel: FREE
-xmlId: site.addzero.gradle-module-sleep</description>
-      <pubDate>Wed, 21 Jan 2026 04:23:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29851-gradle-module-sleep</guid>
-      <dc:date>2026-01-21T04:23:32Z</dc:date>
-    </item>
-    <item>
-      <title>Console log prettify - Thu Jan 22 01:49:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29850-console-log-prettify</link>
-      <description>Console log prettify plugin for IntelliJ Platform makes NDJSON (Newline Delimited JSON a.k.a. JSON Lines) logs more readable in the console. It has the following...
-
-vendor: softreigns
-downloads: 45
-pricingModel: FREE
-xmlId: io.github.softreigns.consolelogprettify</description>
-      <pubDate>Thu, 22 Jan 2026 01:49:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29850-console-log-prettify</guid>
-      <dc:date>2026-01-22T01:49:32Z</dc:date>
-    </item>
-    <item>
-      <title>Twin Peaks - Progress Bar - Tue Jan 20 21:42:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29820-twin-peaks--progress-bar</link>
-      <description>Twin Peaks inspired progress bar for JetBrains IDEs. Unofficial plugin made by a fan of David Lynch.
-
-vendor: Ancelotow
-downloads: 12
-pricingModel: FREE
-xmlId: org.ancelotow.twin-peaks-progress-bar</description>
-      <pubDate>Tue, 20 Jan 2026 21:42:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29820-twin-peaks--progress-bar</guid>
-      <dc:date>2026-01-20T21:42:36Z</dc:date>
-    </item>
-    <item>
-      <title>Chronicle - Wed Jan 21 20:41:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29848-chronicle</link>
-      <description>Chronicle is an IDE plugin that helps you build ready-to-implement handoff documents for members of your team. Simply hit record, and walk through the code, narrating...
-
-vendor: Chris Morrell
-downloads: 9
-pricingModel: FREE
-xmlId: com.github.inxilpro.chronicle</description>
-      <pubDate>Wed, 21 Jan 2026 20:41:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29848-chronicle</guid>
-      <dc:date>2026-01-21T20:41:19Z</dc:date>
     </item>
   </channel>
 </rss>
