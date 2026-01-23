@@ -6,12 +6,77 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FixGen - Thu Jan 22 12:51:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29842-fixgen</link>
+      <description>Generate UUID directly into empty strings via intention action. Place cursor inside an empty string literal ("") and invoke the intention to insert a generated UUID.
+
+vendor: Denis Zabozhanov
+downloads: 1
+pricingModel: FREE
+xmlId: ru.fixprice.fixplugin</description>
+      <pubDate>Thu, 22 Jan 2026 12:51:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29842-fixgen</guid>
+      <dc:date>2026-01-22T12:51:49Z</dc:date>
+    </item>
+    <item>
+      <title>JBL Explore Json And Yaml - Thu Jan 22 11:24:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29874-jbl-explore-json-and-yaml</link>
+      <description>A powerful tool for JSON, YAML, Properties, and Java POJO conversion and validation. Features: ✓ JSON/YAML validation with detailed error messages ✓ Format and minify...
+
+vendor: Jebe Liao
+downloads: 0
+pricingModel: FREE
+xmlId: com.jbliao.jblexplorejsonandyaml</description>
+      <pubDate>Thu, 22 Jan 2026 11:24:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29874-jbl-explore-json-and-yaml</guid>
+      <dc:date>2026-01-22T11:24:16Z</dc:date>
+    </item>
+    <item>
+      <title>Context Combiner - Thu Jan 22 11:03:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29873-context-combiner</link>
+      <description>Boost your AI coding workflow with ContextCombiner! ContextCombiner is a productivity tool designed to help developers quickly gather code context for Large Language...
+
+vendor: JellyBebra
+downloads: 0
+pricingModel: FREE
+xmlId: com.jellybebra.ContextCombiner</description>
+      <pubDate>Thu, 22 Jan 2026 11:03:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29873-context-combiner</guid>
+      <dc:date>2026-01-22T11:03:21Z</dc:date>
+    </item>
+    <item>
+      <title>Lukee Reader - Thu Jan 22 10:59:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29872-lukee-reader</link>
+      <description>A novel reading plugin for IntelliJ IDEA that provides a discreet reading experience with excellent interaction design. Read novels directly in your IDE's notification...
+
+vendor: 1111
+downloads: 0
+pricingModel: FREE
+xmlId: com.novelreader.plugin</description>
+      <pubDate>Thu, 22 Jan 2026 10:59:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29872-lukee-reader</guid>
+      <dc:date>2026-01-22T10:59:29Z</dc:date>
+    </item>
+    <item>
+      <title>Advanced Android Project View - Fri Jan 23 06:54:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29829-advanced-android-project-view</link>
+      <description>Advanced Android Project View enhances the Android Studio project view by providing quick access to commonly used directories and files that are normally hidden or...
+
+vendor: Zayden Phung
+downloads: 1
+pricingModel: FREE
+xmlId: com.z8dn.plugins.a2pt</description>
+      <pubDate>Fri, 23 Jan 2026 06:54:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29829-advanced-android-project-view</guid>
+      <dc:date>2026-01-23T06:54:23Z</dc:date>
+    </item>
+    <item>
       <title>Kickstart - Wed Jan 21 18:45:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29865-kickstart</link>
       <description>Kickstart is an Android Studio plugin that helps developers instantly bootstrap Android projects with clean architecture (MVVM / MVP / MVI), core base classes, and...
 
 vendor: Kickstart
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.kickstart.plugin</description>
       <pubDate>Wed, 21 Jan 2026 18:45:47 GMT</pubDate>
@@ -24,7 +89,7 @@ xmlId: com.kickstart.plugin</description>
       <description>ImageEdit Pro is a comprehensive image annotation and editing tool built directly into your IDE. Key features: Annotation tools: Arrows, curved arrows, lines...
 
 vendor: Jetplugins
-downloads: 1
+downloads: 4
 pricingModel: PAID
 xmlId: dev.jetplugins.imageeditpro</description>
       <pubDate>Sat, 17 Jan 2026 06:46:38 GMT</pubDate>
@@ -37,7 +102,7 @@ xmlId: dev.jetplugins.imageeditpro</description>
       <description>Commit Translator is an IntelliJ IDEA plugin that translates your commit messages to English using OpenAI-compatible APIs. Features One-Click Translation: Translate...
 
 vendor: Commit Translator
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.darleywey.committranslator</description>
       <pubDate>Wed, 21 Jan 2026 21:39:32 GMT</pubDate>
@@ -50,7 +115,7 @@ xmlId: com.github.darleywey.committranslator</description>
       <description>The official IntelliJ IDEA plugin for the SAA Graph Composer framework. This plugin is designed to supercharge your development with Spring AI Alibaba Graph. It...
 
 vendor: chrisis58
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: cn.teacy.ai.saa.graph.composer</description>
       <pubDate>Thu, 22 Jan 2026 05:28:17 GMT</pubDate>
@@ -63,7 +128,7 @@ xmlId: cn.teacy.ai.saa.graph.composer</description>
       <description>CodeEcho is an IntelliJ plugin for code change impact analysis and test suggestion generation. Call Chain Tracing: Traces from changed methods back to business entry...
 
 vendor: solidSpoon
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: xyz.solidspoon.codeecho</description>
       <pubDate>Sat, 17 Jan 2026 05:34:33 GMT</pubDate>
@@ -76,7 +141,7 @@ xmlId: xyz.solidspoon.codeecho</description>
       <description>Allow to see logstash json logs from viewer with search, filter and formatting functionalities.
 
 vendor: Stephan DROC
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: org.logviewer</description>
       <pubDate>Wed, 21 Jan 2026 22:10:26 GMT</pubDate>
@@ -89,7 +154,7 @@ xmlId: org.logviewer</description>
       <description>Replaces your IDE's progress bars with Captain America.
 
 vendor: DPT Software
-downloads: 4
+downloads: 18
 pricingModel: PAID
 xmlId: com.ptd.captainprogress</description>
       <pubDate>Wed, 21 Jan 2026 14:10:34 GMT</pubDate>
@@ -102,7 +167,7 @@ xmlId: com.ptd.captainprogress</description>
       <description>Replaces your IDE's progress bars with Iron Man.
 
 vendor: DPT Software
-downloads: 4
+downloads: 22
 pricingModel: PAID
 xmlId: com.ptd.ironprogress</description>
       <pubDate>Wed, 21 Jan 2026 15:30:17 GMT</pubDate>
@@ -115,7 +180,7 @@ xmlId: com.ptd.ironprogress</description>
       <description>Depict chemical structure right in the IDE. Currently only SMILES format is supported: Alt+Shift+D / Option+Shift+D - depict chemical structure. Only SMILES format is...
 
 vendor: Elsci
-downloads: 23
+downloads: 32
 pricingModel: FREE
 xmlId: io.elsci.intellij-chemistry-plugin</description>
       <pubDate>Wed, 21 Jan 2026 16:43:40 GMT</pubDate>
@@ -128,7 +193,7 @@ xmlId: io.elsci.intellij-chemistry-plugin</description>
       <description>linthis - Multi-language Linter and Formatter A unified linting and formatting tool for multiple programming languages, powered by the linthis Language Server Protocol...
 
 vendor: linthis
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.mojeter.linthis.plugin</description>
       <pubDate>Fri, 23 Jan 2026 03:17:05 GMT</pubDate>
@@ -141,7 +206,7 @@ xmlId: com.mojeter.linthis.plugin</description>
       <description>Adds a project tab bar at the top of the IDE to easily switch between open projects on Linux.
 
 vendor: Artificyal
-downloads: 20
+downloads: 40
 pricingModel: FREE
 xmlId: com.github.artificyal.projecttabs</description>
       <pubDate>Wed, 21 Jan 2026 23:00:37 GMT</pubDate>
@@ -154,7 +219,7 @@ xmlId: com.github.artificyal.projecttabs</description>
       <description>Gradle Module Sleep: Smart On-Demand Module Loading for Large Projects Gradle Module Sleep supercharges your IDE performance by intelligently loading only the Gradle...
 
 vendor: zjarlin
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: site.addzero.gradle-module-sleep</description>
       <pubDate>Wed, 21 Jan 2026 04:23:32 GMT</pubDate>
@@ -167,7 +232,7 @@ xmlId: site.addzero.gradle-module-sleep</description>
       <description>Console log prettify plugin for IntelliJ Platform makes NDJSON (Newline Delimited JSON a.k.a. JSON Lines) logs more readable in the console. It has the following...
 
 vendor: softreigns
-downloads: 3
+downloads: 45
 pricingModel: FREE
 xmlId: io.github.softreigns.consolelogprettify</description>
       <pubDate>Thu, 22 Jan 2026 01:49:32 GMT</pubDate>
@@ -180,7 +245,7 @@ xmlId: io.github.softreigns.consolelogprettify</description>
       <description>Twin Peaks inspired progress bar for JetBrains IDEs. Unofficial plugin made by a fan of David Lynch.
 
 vendor: Ancelotow
-downloads: 6
+downloads: 12
 pricingModel: FREE
 xmlId: org.ancelotow.twin-peaks-progress-bar</description>
       <pubDate>Tue, 20 Jan 2026 21:42:36 GMT</pubDate>
@@ -193,77 +258,12 @@ xmlId: org.ancelotow.twin-peaks-progress-bar</description>
       <description>Chronicle is an IDE plugin that helps you build ready-to-implement handoff documents for members of your team. Simply hit record, and walk through the code, narrating...
 
 vendor: Chris Morrell
-downloads: 2
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.inxilpro.chronicle</description>
       <pubDate>Wed, 21 Jan 2026 20:41:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29848-chronicle</guid>
       <dc:date>2026-01-21T20:41:19Z</dc:date>
-    </item>
-    <item>
-      <title>Shared Indexes - Tue Jan 20 15:02:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29844-shared-indexes</link>
-      <description>The plugin reduces overall indexing time and CPU usage by using bundled or downloaded shared indexes. Check out the Shared Project Indexes plugin to build and download...
-
-vendor: JetBrains s.r.o.
-downloads: 3
-pricingModel: FREE
-xmlId: intellij.indexing.shared.core</description>
-      <pubDate>Tue, 20 Jan 2026 15:02:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29844-shared-indexes</guid>
-      <dc:date>2026-01-20T15:02:49Z</dc:date>
-    </item>
-    <item>
-      <title>Proto to HTTP - Tue Jan 20 14:41:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29843-proto-to-http</link>
-      <description>Generate .http files from Protocol Buffer (.proto) files for gRPC testing in JetBrains HTTP Client. Features: Generate HTTP requests from proto service definitions...
-
-vendor: Vladislav Bulgakov
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.proto2http</description>
-      <pubDate>Tue, 20 Jan 2026 14:41:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29843-proto-to-http</guid>
-      <dc:date>2026-01-20T14:41:43Z</dc:date>
-    </item>
-    <item>
-      <title>JBL Python Project Generator - Tue Jan 20 14:19:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29412-jbl-python-project-generator</link>
-      <description>JBL Python Project Generator - Python Project Structure Generator One-click Python project structure generator, helping beginners quickly set up standardized projects...
-
-vendor: Jebe Liao
-downloads: 3
-pricingModel: FREE
-xmlId: com.jbl.pythonprojectgen</description>
-      <pubDate>Tue, 20 Jan 2026 14:19:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29412-jbl-python-project-generator</guid>
-      <dc:date>2026-01-20T14:19:01Z</dc:date>
-    </item>
-    <item>
-      <title>HytaleModdingTool - Wed Jan 21 09:30:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29800-hytalemoddingtool</link>
-      <description>This plugin helps with Modding Hytale, a popular game developed by Hypixel.
-
-vendor: LP4
-downloads: 43
-pricingModel: FREE
-xmlId: dev.lp4.HytaleModdingTool</description>
-      <pubDate>Wed, 21 Jan 2026 09:30:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29800-hytalemoddingtool</guid>
-      <dc:date>2026-01-21T09:30:47Z</dc:date>
-    </item>
-    <item>
-      <title>CodeCricket - Sun Jan 18 11:06:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29810-codecricket</link>
-      <description>CodeCricket brings live cricket action directly into your IntelliJ IDE. Track live matches, detailed scorecards, and ball-by-ball commentary without leaving your...
-
-vendor: Gurjot Singh
-downloads: 11
-pricingModel: FREE
-xmlId: com.github.gurjot1142.codecricket</description>
-      <pubDate>Sun, 18 Jan 2026 11:06:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29810-codecricket</guid>
-      <dc:date>2026-01-18T11:06:12Z</dc:date>
     </item>
   </channel>
 </rss>
