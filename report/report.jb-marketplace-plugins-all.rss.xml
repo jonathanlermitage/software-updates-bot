@@ -149,19 +149,6 @@ xmlId: com.gdelre.tiltfile</description>
       <dc:date>2026-01-22T15:08:32Z</dc:date>
     </item>
     <item>
-      <title>Hytale UI - Thu Jan 22 18:49:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29867-hytale-ui</link>
-      <description>Provides comprehensive support for Hytale UI (.ui) files in IntelliJ-based IDEs. Features Syntax Highlighting: Color-coded keywords, properties, strings, numbers, and...
-
-vendor: Hytale
-downloads: 0
-pricingModel: FREE
-xmlId: fr.azerks.HytaleUI</description>
-      <pubDate>Thu, 22 Jan 2026 18:49:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29867-hytale-ui</guid>
-      <dc:date>2026-01-22T18:49:02Z</dc:date>
-    </item>
-    <item>
       <title>Test First - AI Guided TDD Flow - Thu Jan 22 13:18:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29697-test-first--ai-guided-tdd-flow</link>
       <description>Currently, the plugin only supports BYOK (Bring your own API key)! The Why The goal of this plugin is to keep developers engaged in the development process...
@@ -264,6 +251,19 @@ xmlId: dev.jetplugins.imageeditpro</description>
       <pubDate>Thu, 22 Jan 2026 23:45:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29778-imageedit-pro</guid>
       <dc:date>2026-01-22T23:45:51Z</dc:date>
+    </item>
+    <item>
+      <title>Commit Translator - Wed Jan 21 21:39:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29868-commit-translator</link>
+      <description>Commit Translator is an IntelliJ IDEA plugin that translates your commit messages to English using OpenAI-compatible APIs. Features One-Click Translation: Translate...
+
+vendor: Commit Translator
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.darleywey.committranslator</description>
+      <pubDate>Wed, 21 Jan 2026 21:39:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29868-commit-translator</guid>
+      <dc:date>2026-01-21T21:39:32Z</dc:date>
     </item>
   </channel>
 </rss>
