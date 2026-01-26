@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Display IDE Version - Fri Jan 23 21:46:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29893-display-ide-version</link>
+      <description>A lightweight IntelliJ Platform plugin that displays the current IDE version directly in your interface. It helps you quickly identify which version of the IDE you are...
+
+vendor: Nadia Tarashkevich
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.nadiatarashkevich.displayideversion</description>
+      <pubDate>Fri, 23 Jan 2026 21:46:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29893-display-ide-version</guid>
+      <dc:date>2026-01-23T21:46:07Z</dc:date>
+    </item>
+    <item>
       <title>External Inspections - Sat Jan 24 09:20:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29890-external-inspections</link>
       <description>GitHub | Telegram | Donation External Inspections Let external tools inspect your code and provide feedback. Features XML Support: Define diagnostics using standard...
@@ -251,19 +264,6 @@ xmlId: dev.jetplugins.imageeditpro</description>
       <pubDate>Thu, 22 Jan 2026 23:45:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29778-imageedit-pro</guid>
       <dc:date>2026-01-22T23:45:51Z</dc:date>
-    </item>
-    <item>
-      <title>Commit Translator - Wed Jan 21 21:39:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29868-commit-translator</link>
-      <description>Commit Translator is an IntelliJ IDEA plugin that translates your commit messages to English using OpenAI-compatible APIs. Features One-Click Translation: Translate...
-
-vendor: Commit Translator
-downloads: 11
-pricingModel: FREE
-xmlId: com.github.darleywey.committranslator</description>
-      <pubDate>Wed, 21 Jan 2026 21:39:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29868-commit-translator</guid>
-      <dc:date>2026-01-21T21:39:32Z</dc:date>
     </item>
   </channel>
 </rss>
