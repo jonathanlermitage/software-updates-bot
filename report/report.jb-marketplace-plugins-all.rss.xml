@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Config Builder - Fri Jan 23 19:11:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29892-config-builder</link>
+      <description>Config Builder is an IntelliJ IDEA plugin that lets you visually build and manage configuration files using a tree-based editor with live preview.
+
+vendor: Splodgebox
+downloads: 0
+pricingModel: FREE
+xmlId: net.splodgebox.configbuilder</description>
+      <pubDate>Fri, 23 Jan 2026 19:11:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29892-config-builder</guid>
+      <dc:date>2026-01-23T19:11:02Z</dc:date>
+    </item>
+    <item>
+      <title>BZShaderGUI - Sat Jan 24 11:07:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29898-bzshadergui</link>
+      <description>A JetBrains Rider plugin that provides custom property tag completion for Unity Shader files. Supports both built-in Unity tags and custom tags defined in...
+
+vendor: BzshaderGUI
+downloads: 0
+pricingModel: FREE
+xmlId: com.bzshadergui</description>
+      <pubDate>Sat, 24 Jan 2026 11:07:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29898-bzshadergui</guid>
+      <dc:date>2026-01-24T11:07:34Z</dc:date>
+    </item>
+    <item>
+      <title>CrabPeek - Sat Jan 24 11:38:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29899-crabpeek</link>
+      <description>CrabPeek - Macro Expansion Viewer for RustRover Expand Rust macros directly in RustRover and inspect results in a dedicated editor tab. Hover provides cached previews...
+
+vendor: Okayfine
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.okayfine.crabpeek</description>
+      <pubDate>Sat, 24 Jan 2026 11:38:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29899-crabpeek</guid>
+      <dc:date>2026-01-24T11:38:11Z</dc:date>
+    </item>
+    <item>
+      <title>EOF Mark - Sun Jan 25 09:31:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29906-eof-mark</link>
+      <description>EOF Mark Displays an [EOF] marker at the end of files in the editor, making it easy to identify where the file content ends. Features Shows [EOF] marker at the end of...
+
+vendor: msfukui
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.msfukui.intellijplugineofmark</description>
+      <pubDate>Sun, 25 Jan 2026 09:31:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29906-eof-mark</guid>
+      <dc:date>2026-01-25T09:31:03Z</dc:date>
+    </item>
+    <item>
+      <title>HdcDevTools - Thu Jan 22 07:19:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29790-hdcdevtools</link>
+      <description>Adds the following hdc commands to DevEco Studio : hdc device UDID hdc get device UDID hdc uninstall App hdc uninstall App with HSP hdc kill App hdc start App hdc...
+
+vendor: cctv
+downloads: 3
+pricingModel: FREE
+xmlId: com.mahongyin.hdc_tools</description>
+      <pubDate>Thu, 22 Jan 2026 07:19:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29790-hdcdevtools</guid>
+      <dc:date>2026-01-22T07:19:10Z</dc:date>
+    </item>
+    <item>
       <title>DrawJavaCalls - Sun Jan 25 13:39:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29908-drawjavacalls</link>
       <description>With a simply click draw Java Calls between methods to diagrams. Put the cursor inside a java method, and press CTRL + SHIFT + U to start. The selected method will be...
@@ -34,7 +99,7 @@ xmlId: me.rafaelldi.einburgerungstest</description>
     <item>
       <title>Alibaba Cloud DevOps Integration - Sun Jan 25 13:35:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29907-alibaba-cloud-devops-integration</link>
-      <description>Alibaba Cloud DevOps Integration Plugin This JetBrains plugin brings Alibaba Cloud DevOps (Codeup/Projex) workflows into your IDE, letting you browse work items...
+      <description>This JetBrains plugin brings Alibaba Cloud DevOps (Codeup/Projex) workflows into your IDE, letting you browse work items, manage merge requests, and handle repo...
 
 vendor: ChangJin Wei
 downloads: 0
@@ -199,71 +264,6 @@ xmlId: com.github.xepozz.external_inspections</description>
       <pubDate>Mon, 26 Jan 2026 10:02:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29890-external-inspections</guid>
       <dc:date>2026-01-26T10:02:29Z</dc:date>
-    </item>
-    <item>
-      <title>Claudia - Fri Jan 23 15:35:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29889-claudia</link>
-      <description>Claudia is a PhpStorm plugin that helps Claude Code users work more efficiently. Features: Send files and folders to Claude Code terminal with a hotkey Context menu...
-
-vendor: sercraft
-downloads: 19
-pricingModel: FREE
-xmlId: com.sercraft.claudia</description>
-      <pubDate>Fri, 23 Jan 2026 15:35:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29889-claudia</guid>
-      <dc:date>2026-01-23T15:35:53Z</dc:date>
-    </item>
-    <item>
-      <title>OFBiz Integration - Fri Jan 23 13:41:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29883-ofbiz-integration</link>
-      <description>OFBiz development without the pain. Autocomplete for entities, services, screens. Click-through navigation. Freemarker editing. All built-in. Features Project Setup...
-
-vendor: Ilscipio GmbH
-downloads: 12
-pricingModel: PAID
-xmlId: com.ilscipio.ofbiz</description>
-      <pubDate>Fri, 23 Jan 2026 13:41:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29883-ofbiz-integration</guid>
-      <dc:date>2026-01-23T13:41:42Z</dc:date>
-    </item>
-    <item>
-      <title>StickyProjectFolder - Fri Jan 23 10:41:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29884-stickyprojectfolder</link>
-      <description>Sticky Project Folder plugin for JetBrains IDEs. Keeps parent directories visible at the top of the Project View when scrolling. Features Sticky headers for...
-
-vendor: Rafał Janiczek
-downloads: 18
-pricingModel: FREE
-xmlId: com.github.erjotek.stickyprojectfolder</description>
-      <pubDate>Fri, 23 Jan 2026 10:41:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29884-stickyprojectfolder</guid>
-      <dc:date>2026-01-23T10:41:21Z</dc:date>
-    </item>
-    <item>
-      <title>Nereid - Fri Jan 23 12:11:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29877-nereid</link>
-      <description>Nereid - Full-Featured Mermaid Diagram Support A powerful, free, and open-source plugin for creating and editing Mermaid diagrams in JetBrains IDEs. Features Live...
-
-vendor: Mirko Zagami
-downloads: 12
-pricingModel: FREE
-xmlId: com.nereid.mermaid</description>
-      <pubDate>Fri, 23 Jan 2026 12:11:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29877-nereid</guid>
-      <dc:date>2026-01-23T12:11:39Z</dc:date>
-    </item>
-    <item>
-      <title>Searchfox - Fri Jan 23 10:14:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29885-searchfox</link>
-      <description>Integrates Searchfox into IntelliJ IDEs (IDEA, Android Studio, etc.).
-
-vendor: Marcin Koziński
-downloads: 9
-pricingModel: FREE
-xmlId: com.github.marcinkozinski.searchfox</description>
-      <pubDate>Fri, 23 Jan 2026 10:14:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29885-searchfox</guid>
-      <dc:date>2026-01-23T10:14:46Z</dc:date>
     </item>
   </channel>
 </rss>
