@@ -6,6 +6,110 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Claude Code Usage - Tue Jan 27 13:30:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29946-claude-code-usage</link>
+      <description>Displays your Claude subscription usage limits in the IDE status bar. Note: This plugin tracks subscription quota usage only (5-hour, 7-day limits). It does not track...
+
+vendor: Dmitry Polushkin
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.dmitry.claudeusage</description>
+      <pubDate>Tue, 27 Jan 2026 13:30:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29946-claude-code-usage</guid>
+      <dc:date>2026-01-27T13:30:20Z</dc:date>
+    </item>
+    <item>
+      <title>DevTrackr - Time Tracking for Developers - Sun Jan 25 06:46:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29904-devtrackr--time-tracking-for-developers</link>
+      <description>Track how long you work on projects and files in JetBrains IDEs. Boost your productivity with DevTrackr, the seamless time-tracking plugin for JetBrains IDEs. Track...
+
+vendor: Devtrackr
+downloads: 1
+pricingModel: FREE
+xmlId: com.devtrackr.jetbrains</description>
+      <pubDate>Sun, 25 Jan 2026 06:46:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29904-devtrackr--time-tracking-for-developers</guid>
+      <dc:date>2026-01-25T06:46:03Z</dc:date>
+    </item>
+    <item>
+      <title>VisualStudioDarkIslands Color Scheme - Tue Jan 27 12:21:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29944-visualstudiodarkislands-color-scheme</link>
+      <description>A darker variant of Visual Studio Dark theme combining VS Dark syntax colors with Islands Dark backgrounds for comfortable coding.
+
+vendor: Catofood
+downloads: 0
+pricingModel: FREE
+xmlId: color.scheme.VisualStudioDarkIslands</description>
+      <pubDate>Tue, 27 Jan 2026 12:21:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29944-visualstudiodarkislands-color-scheme</guid>
+      <dc:date>2026-01-27T12:21:18Z</dc:date>
+    </item>
+    <item>
+      <title>Json2Typescript - Tue Jan 27 15:15:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29947-json2typescript</link>
+      <description>Json2Typescript is a lightweight IntelliJ / WebStorm plugin that converts copied JSON data into TypeScript type definitions with one click. Features: Convert JSON to...
+
+vendor: Json2Typescript
+downloads: 0
+pricingModel: FREE
+xmlId: com.pan.Json2Typescript</description>
+      <pubDate>Tue, 27 Jan 2026 15:15:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29947-json2typescript</guid>
+      <dc:date>2026-01-27T15:15:03Z</dc:date>
+    </item>
+    <item>
+      <title>rumdl - Tue Jan 27 10:46:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29943-rumdl</link>
+      <description>A fast Markdown linter and formatter, written in Rust. Features Real-time linting diagnostics in the editor Format on save support Quick fixes for common issues...
+
+vendor: Ruben Jongejan
+downloads: 0
+pricingModel: FREE
+xmlId: dev.rumdl</description>
+      <pubDate>Tue, 27 Jan 2026 10:46:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29943-rumdl</guid>
+      <dc:date>2026-01-27T10:46:11Z</dc:date>
+    </item>
+    <item>
+      <title>Free Rainbow Brackets (Delimiters) - Sun Jan 25 20:19:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29914-free-rainbow-brackets-delimiters-</link>
+      <description>Simplest delimiter coloring free! Rainbow coloring for (), [], {} based on nesting level. Works in multiple IDEs (RustRover, Rider, IntelliJ-based). Features Rainbow...
+
+vendor: Yagir
+downloads: 1
+pricingModel: FREE
+xmlId: dev.yaro.rainbowbraces</description>
+      <pubDate>Sun, 25 Jan 2026 20:19:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29914-free-rainbow-brackets-delimiters-</guid>
+      <dc:date>2026-01-25T20:19:33Z</dc:date>
+    </item>
+    <item>
+      <title>MagicCodeCompletion - Tue Jan 27 07:58:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29942-magiccodecompletion</link>
+      <description>JetBrains IDEs plugin for AI-assisted code completion using OpenAI-compatible APIs with agentic file reading and multi-edit capabilities. How to Use: 1. Open Tools...
+
+vendor: Avin Lambrero
+downloads: 0
+pricingModel: FREE
+xmlId: com.c75.MagicCodeCompletion</description>
+      <pubDate>Tue, 27 Jan 2026 07:58:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29942-magiccodecompletion</guid>
+      <dc:date>2026-01-27T07:58:07Z</dc:date>
+    </item>
+    <item>
+      <title>std-naming-hound - Tue Jan 27 15:01:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29937-std-naming-hound</link>
+      <description>Std Naming Hound is an IntelliJ plugin that helps you search a standardized glossary (terms/words/domains), build column names, and generate SQL quickly. Highlights...
+
+vendor: dongjin
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.ydj515.stdnaminghound</description>
+      <pubDate>Tue, 27 Jan 2026 15:01:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29937-std-naming-hound</guid>
+      <dc:date>2026-01-27T15:01:52Z</dc:date>
+    </item>
+    <item>
       <title>Git Worktree Manager - Tue Jan 27 05:56:29 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29905-git-worktree-manager</link>
       <description>Simplify Git worktree management in Android Studio and IntelliJ IDEA. Create, list, and delete Git worktrees with just a few clicks. Perfect for Android developers who...
@@ -58,7 +162,7 @@ xmlId: su.rus.language-pack.igalexor</description>
       <dc:date>2026-01-26T19:13:14Z</dc:date>
     </item>
     <item>
-      <title>Worksnaps Time Tracker - Mon Jan 26 17:16:33 UTC 2026</title>
+      <title>Worksnaps Time Tracker - Tue Jan 27 08:53:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29934-worksnaps-time-tracker</link>
       <description>Worksnaps Time Tracker for PhpStorm Display your Worksnaps time tracking statistics directly in the PhpStorm status bar. Features Real-time display of worked hours for...
 
@@ -66,9 +170,9 @@ vendor: Worksnaps Plugin for PhpStorm
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.curkan.phpstorm-plugin-worksnaps</description>
-      <pubDate>Mon, 26 Jan 2026 17:16:33 GMT</pubDate>
+      <pubDate>Tue, 27 Jan 2026 08:53:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29934-worksnaps-time-tracker</guid>
-      <dc:date>2026-01-26T17:16:33Z</dc:date>
+      <dc:date>2026-01-27T08:53:27Z</dc:date>
     </item>
     <item>
       <title>3D-Model-Viewer - Mon Jan 26 16:34:08 UTC 2026</title>
@@ -160,110 +264,6 @@ xmlId: net.splodgebox.configbuilder</description>
       <pubDate>Fri, 23 Jan 2026 19:11:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29892-config-builder</guid>
       <dc:date>2026-01-23T19:11:02Z</dc:date>
-    </item>
-    <item>
-      <title>BZShaderGUI - Sat Jan 24 11:07:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29898-bzshadergui</link>
-      <description>A JetBrains Rider plugin that provides custom property tag completion for Unity Shader files. Supports both built-in Unity tags and custom tags defined in...
-
-vendor: BzshaderGUI
-downloads: 1
-pricingModel: FREE
-xmlId: com.bzshadergui</description>
-      <pubDate>Sat, 24 Jan 2026 11:07:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29898-bzshadergui</guid>
-      <dc:date>2026-01-24T11:07:34Z</dc:date>
-    </item>
-    <item>
-      <title>CrabPeek - Tue Jan 27 06:29:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29899-crabpeek</link>
-      <description>CrabPeek - Macro Expansion Viewer for RustRover Expand Rust macros directly in RustRover and inspect results in a dedicated editor tab. Hover provides cached previews...
-
-vendor: Okayfine
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.okayfine.crabpeek</description>
-      <pubDate>Tue, 27 Jan 2026 06:29:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29899-crabpeek</guid>
-      <dc:date>2026-01-27T06:29:38Z</dc:date>
-    </item>
-    <item>
-      <title>EOF Mark - Sun Jan 25 09:31:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29906-eof-mark</link>
-      <description>EOF Mark Displays an [EOF] marker at the end of files in the editor, making it easy to identify where the file content ends. Features Shows [EOF] marker at the end of...
-
-vendor: msfukui
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.msfukui.intellijplugineofmark</description>
-      <pubDate>Sun, 25 Jan 2026 09:31:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29906-eof-mark</guid>
-      <dc:date>2026-01-25T09:31:03Z</dc:date>
-    </item>
-    <item>
-      <title>HdcDevTools - Thu Jan 22 07:19:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29790-hdcdevtools</link>
-      <description>Adds the following hdc commands to DevEco Studio : hdc device UDID hdc get device UDID hdc uninstall App hdc uninstall App with HSP hdc kill App hdc start App hdc...
-
-vendor: cctv
-downloads: 6
-pricingModel: FREE
-xmlId: com.mahongyin.hdc_tools</description>
-      <pubDate>Thu, 22 Jan 2026 07:19:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29790-hdcdevtools</guid>
-      <dc:date>2026-01-22T07:19:10Z</dc:date>
-    </item>
-    <item>
-      <title>DrawJavaCalls - Sun Jan 25 13:39:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29908-drawjavacalls</link>
-      <description>With a simply click draw Java Calls between methods to diagrams. Put the cursor inside a java method, and press CTRL + SHIFT + U to start. The selected method will be...
-
-vendor: helliu
-downloads: 2
-pricingModel: FREE
-xmlId: com.helliu.DrawJavaCalls</description>
-      <pubDate>Sun, 25 Jan 2026 13:39:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29908-drawjavacalls</guid>
-      <dc:date>2026-01-25T13:39:38Z</dc:date>
-    </item>
-    <item>
-      <title>Einbuergerungstest - Sun Jan 25 17:59:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29911-einbuergerungstest</link>
-      <description>Plugin for practicing Einbuergerungstest exam.
-
-vendor: Rafaelldi
-downloads: 5
-pricingModel: FREE
-xmlId: me.rafaelldi.einburgerungstest</description>
-      <pubDate>Sun, 25 Jan 2026 17:59:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29911-einbuergerungstest</guid>
-      <dc:date>2026-01-25T17:59:46Z</dc:date>
-    </item>
-    <item>
-      <title>Alibaba Cloud DevOps Integration - Mon Jan 26 17:07:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29907-alibaba-cloud-devops-integration</link>
-      <description>This JetBrains plugin brings Alibaba Cloud DevOps (Codeup/Projex) workflows into your IDE, letting you browse work items, manage merge requests, and handle repo...
-
-vendor: ChangJin Wei
-downloads: 3
-pricingModel: FREE
-xmlId: plus.wcj.jetbrains.plugins.AlibabaCloudDevOpsIntegration</description>
-      <pubDate>Mon, 26 Jan 2026 17:07:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29907-alibaba-cloud-devops-integration</guid>
-      <dc:date>2026-01-26T17:07:26Z</dc:date>
-    </item>
-    <item>
-      <title>Java Insight - Sun Jan 25 18:15:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29866-java-insight</link>
-      <description>Java Insight is a powerful IntelliJ IDEA plugin designed for comprehensive runtime analysis and debugging of Java applications. User...
-
-vendor: Java Insight
-downloads: 4
-pricingModel: FREE
-xmlId: org.aopbuddy.plugin</description>
-      <pubDate>Sun, 25 Jan 2026 18:15:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29866-java-insight</guid>
-      <dc:date>2026-01-25T18:15:21Z</dc:date>
     </item>
   </channel>
 </rss>

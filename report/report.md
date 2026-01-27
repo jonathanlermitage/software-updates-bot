@@ -16,13 +16,13 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 16:03:14 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 30 04:02:53 UTC 2025|
-|![logo](../media/logo/gpg4win.png) GPG4Win|5.0.0 (2026-01-14)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jan 14 20:01:33 UTC 2026|
+|![logo](../media/logo/gpg4win.png) GPG4Win|5.0.1 (2026-01-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jan 27 20:01:58 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.25.6|[golang.org](https://golang.org/dl/)|Thu Jan 15 20:02:37 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.3.0|[gradle.org](https://gradle.org/releases/)|Fri Jan 16 16:02:10 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.17801.55) ~ 2026-01-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Tue Jan 20 20:21:16 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.2 (253.30387.90) ~ 2026-01-22|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jan 22 16:04:34 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.3.5 to 19.4.0 ~ 2026-01-07|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jan 08 00:05:55 UTC 2026|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.0 to 19.4.5 ~ 2026-01-27|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jan 27 20:02:07 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 335 - 200 terminaux en prod vendredi|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jan 16 12:02:40 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.5.0|[nodejs.org](https://nodejs.org)|Tue Jan 27 00:06:48 UTC 2026|
