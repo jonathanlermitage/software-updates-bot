@@ -11,7 +11,7 @@
       <description>Config Builder is an IntelliJ IDEA plugin that lets you visually build and manage configuration files using a tree-based editor with live preview.
 
 vendor: Splodgebox
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: net.splodgebox.configbuilder</description>
       <pubDate>Fri, 23 Jan 2026 19:11:02 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: net.splodgebox.configbuilder</description>
       <description>A JetBrains Rider plugin that provides custom property tag completion for Unity Shader files. Supports both built-in Unity tags and custom tags defined in...
 
 vendor: BzshaderGUI
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.bzshadergui</description>
       <pubDate>Sat, 24 Jan 2026 11:07:34 GMT</pubDate>
@@ -32,17 +32,17 @@ xmlId: com.bzshadergui</description>
       <dc:date>2026-01-24T11:07:34Z</dc:date>
     </item>
     <item>
-      <title>CrabPeek - Sat Jan 24 11:38:11 UTC 2026</title>
+      <title>CrabPeek - Tue Jan 27 06:29:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29899-crabpeek</link>
       <description>CrabPeek - Macro Expansion Viewer for RustRover Expand Rust macros directly in RustRover and inspect results in a dedicated editor tab. Hover provides cached previews...
 
 vendor: Okayfine
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.okayfine.crabpeek</description>
-      <pubDate>Sat, 24 Jan 2026 11:38:11 GMT</pubDate>
+      <pubDate>Tue, 27 Jan 2026 06:29:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29899-crabpeek</guid>
-      <dc:date>2026-01-24T11:38:11Z</dc:date>
+      <dc:date>2026-01-27T06:29:38Z</dc:date>
     </item>
     <item>
       <title>EOF Mark - Sun Jan 25 09:31:03 UTC 2026</title>
@@ -50,7 +50,7 @@ xmlId: com.github.okayfine.crabpeek</description>
       <description>EOF Mark Displays an [EOF] marker at the end of files in the editor, making it easy to identify where the file content ends. Features Shows [EOF] marker at the end of...
 
 vendor: msfukui
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.msfukui.intellijplugineofmark</description>
       <pubDate>Sun, 25 Jan 2026 09:31:03 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.github.msfukui.intellijplugineofmark</description>
       <description>Adds the following hdc commands to DevEco Studio : hdc device UDID hdc get device UDID hdc uninstall App hdc uninstall App with HSP hdc kill App hdc start App hdc...
 
 vendor: cctv
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: com.mahongyin.hdc_tools</description>
       <pubDate>Thu, 22 Jan 2026 07:19:10 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.mahongyin.hdc_tools</description>
       <description>With a simply click draw Java Calls between methods to diagrams. Put the cursor inside a java method, and press CTRL + SHIFT + U to start. The selected method will be...
 
 vendor: helliu
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.helliu.DrawJavaCalls</description>
       <pubDate>Sun, 25 Jan 2026 13:39:38 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.helliu.DrawJavaCalls</description>
       <description>Plugin for practicing Einbuergerungstest exam.
 
 vendor: Rafaelldi
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: me.rafaelldi.einburgerungstest</description>
       <pubDate>Sun, 25 Jan 2026 17:59:46 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: me.rafaelldi.einburgerungstest</description>
       <description>This JetBrains plugin brings Alibaba Cloud DevOps (Codeup/Projex) workflows into your IDE, letting you browse work items, manage merge requests, and handle repo...
 
 vendor: ChangJin Wei
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: plus.wcj.jetbrains.plugins.AlibabaCloudDevOpsIntegration</description>
       <pubDate>Sun, 25 Jan 2026 13:35:54 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: plus.wcj.jetbrains.plugins.AlibabaCloudDevOpsIntegration</description>
       <description>Java Insight is a powerful IntelliJ IDEA plugin designed for comprehensive runtime analysis and debugging of Java applications. &#x1f3af; Key Features: Method Call Chain...
 
 vendor: Java Insight
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: org.aopbuddy.plugin</description>
       <pubDate>Sun, 25 Jan 2026 18:15:21 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: org.aopbuddy.plugin</description>
       <description>Hytale Modding is a comprehensive IntelliJ IDEA plugin that streamlines the development of Hytale server mods. This plugin provides a complete project generator with...
 
 vendor: HyContent
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: net.hycontent.hytale-modding</description>
       <pubDate>Sat, 24 Jan 2026 16:10:21 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: net.hycontent.hytale-modding</description>
       <description>Batch Rename Plugin for Java and Kotlin Files English Description: A plugin for batch renaming Java and Kotlin class files in Android Project. This plugin helps...
 
 vendor: Bril
-downloads: 9
+downloads: 14
 pricingModel: FREE
 xmlId: com.bril.plugin.plugintest</description>
       <pubDate>Mon, 26 Jan 2026 08:00:39 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.bril.check16k</description>
       <description>MyBatis SQL Logger - Enhanced SQL Logging Tool for MyBatis/MyBatis-Plus MyBatis / MyBatis-Plus SQL 日志增强工具 自动监听控制台 MyBatis SQL 日志，进行格式化和参数替换，提供美观的 SQL 展示。 功能特性： ✅ 自动识别...
 
 vendor: 程序员curen
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.mybatis.sql.beautifier</description>
       <pubDate>Tue, 27 Jan 2026 03:03:13 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.mybatis.sql.beautifier</description>
       <description>A comprehensive IntelliJ IDEA plugin that enables you to run and debug Japa tests directly from your IDE, similar to how Jest or Mocha tests work in WebStorm. Key...
 
 vendor: Jhony112
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: org.jhony112.JapaRunner</description>
       <pubDate>Sun, 25 Jan 2026 23:15:40 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: org.jhony112.JapaRunner</description>
       <description>Enkidu catches runtime linkage failures early before they reach production.
 
 vendor: Shamash
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.enkidu</description>
       <pubDate>Mon, 26 Jan 2026 04:46:25 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: io.enkidu</description>
       <description>A plugin that helps you standardize submissions This plug-in used to help FuChuang employees submit git commit messages in a standardized way. 一个可帮助您标准化提交内容的插件...
 
 vendor: fuchuang
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: com.fc.plugin.fc-commit-validator</description>
       <pubDate>Mon, 26 Jan 2026 06:29:54 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.fc.plugin.fc-commit-validator</description>
       <description>Castor: Because Alt-Tabbing is for Quitters. Your code lives in the IDE. Why should your AI live in a browser? Castor brings the brain of Gemini right into your...
 
 vendor: u-rang
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.urang.castor</description>
       <pubDate>Mon, 26 Jan 2026 02:24:15 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.urang.castor</description>
       <description>A lightweight IntelliJ Platform plugin that displays the current IDE version directly in your interface. It helps you quickly identify which version of the IDE you are...
 
 vendor: Nadia Tarashkevich
-downloads: 2
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.nadiatarashkevich.displayideversion</description>
       <pubDate>Fri, 23 Jan 2026 21:46:07 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.github.nadiatarashkevich.displayideversion</description>
       <description>GitHub | Telegram | Donation External Inspections Let external tools inspect your code and provide feedback. Features XML Support: Define diagnostics using standard...
 
 vendor: Dmitrii Derepko
-downloads: 51
+downloads: 93
 pricingModel: FREE
 xmlId: com.github.xepozz.external_inspections</description>
       <pubDate>Mon, 26 Jan 2026 10:02:29 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.github.xepozz.external_inspections</description>
       <description>Claudia is a PhpStorm plugin that helps Claude Code users work more efficiently. Features: Send files and folders to Claude Code terminal with a hotkey Context menu...
 
 vendor: sercraft
-downloads: 19
+downloads: 32
 pricingModel: FREE
 xmlId: com.sercraft.claudia</description>
       <pubDate>Fri, 23 Jan 2026 19:47:25 GMT</pubDate>
