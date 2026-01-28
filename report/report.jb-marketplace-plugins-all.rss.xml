@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>DoneIt - Tue Jan 27 09:46:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29845-doneit</link>
+      <description>Plugin for marking file status (Done / In Progress). Stay focused and track your progress!.
+
+vendor: DoneIt
+downloads: 2
+pricingModel: PAID
+xmlId: org.product.catalog.service.DoneIt</description>
+      <pubDate>Tue, 27 Jan 2026 09:46:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29845-doneit</guid>
+      <dc:date>2026-01-27T09:46:17Z</dc:date>
+    </item>
+    <item>
       <title>Claude Code Usage - Tue Jan 27 13:30:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29946-claude-code-usage</link>
       <description>Displays your Claude subscription usage limits in the IDE status bar. Note: This plugin tracks subscription quota usage only (5-hour, 7-day limits). It does not track...
@@ -251,19 +264,6 @@ xmlId: com.uorm.rust</description>
       <pubDate>Mon, 26 Jan 2026 10:51:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29926-uorm-helper</guid>
       <dc:date>2026-01-26T10:51:56Z</dc:date>
-    </item>
-    <item>
-      <title>Config Builder - Fri Jan 23 19:11:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29892-config-builder</link>
-      <description>Config Builder is an IntelliJ IDEA plugin that lets you visually build and manage configuration files using a tree-based editor with live preview.
-
-vendor: Splodgebox
-downloads: 2
-pricingModel: FREE
-xmlId: net.splodgebox.configbuilder</description>
-      <pubDate>Fri, 23 Jan 2026 19:11:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29892-config-builder</guid>
-      <dc:date>2026-01-23T19:11:02Z</dc:date>
     </item>
   </channel>
 </rss>
