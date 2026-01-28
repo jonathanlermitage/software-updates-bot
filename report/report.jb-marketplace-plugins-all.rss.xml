@@ -24,7 +24,7 @@ xmlId: org.product.catalog.service.DoneIt</description>
       <description>Displays your Claude subscription usage limits in the IDE status bar. Note: This plugin tracks subscription quota usage only (5-hour, 7-day limits). It does not track...
 
 vendor: Dmitry Polushkin
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.dmitry.claudeusage</description>
       <pubDate>Tue, 27 Jan 2026 13:30:20 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.github.dmitry.claudeusage</description>
       <description>Track how long you work on projects and files in JetBrains IDEs. Boost your productivity with DevTrackr, the seamless time-tracking plugin for JetBrains IDEs. Track...
 
 vendor: Devtrackr
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.devtrackr.jetbrains</description>
       <pubDate>Sun, 25 Jan 2026 06:46:03 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.devtrackr.jetbrains</description>
       <description>A darker variant of Visual Studio Dark theme combining VS Dark syntax colors with Islands Dark backgrounds for comfortable coding.
 
 vendor: Catofood
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: color.scheme.VisualStudioDarkIslands</description>
       <pubDate>Tue, 27 Jan 2026 12:21:18 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: color.scheme.VisualStudioDarkIslands</description>
       <description>Json2Typescript is a lightweight IntelliJ / WebStorm plugin that converts copied JSON data into TypeScript type definitions with one click. Features: Convert JSON to...
 
 vendor: Json2Typescript
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.pan.Json2Typescript</description>
       <pubDate>Tue, 27 Jan 2026 15:15:03 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.pan.Json2Typescript</description>
       <description>A fast Markdown linter and formatter, written in Rust. Features Real-time linting diagnostics in the editor Format on save support Quick fixes for common issues...
 
 vendor: Ruben Jongejan
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: dev.rumdl</description>
       <pubDate>Tue, 27 Jan 2026 10:46:11 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: dev.rumdl</description>
       <description>Simplest delimiter coloring free! Rainbow coloring for (), [], {} based on nesting level. Works in multiple IDEs (RustRover, Rider, IntelliJ-based). Features Rainbow...
 
 vendor: Yagir
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: dev.yaro.rainbowbraces</description>
       <pubDate>Sun, 25 Jan 2026 20:19:33 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: dev.yaro.rainbowbraces</description>
       <description>JetBrains IDEs plugin for AI-assisted code completion using OpenAI-compatible APIs with agentic file reading and multi-edit capabilities. How to Use: 1. Open Tools...
 
 vendor: Avin Lambrero
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.c75.MagicCodeCompletion</description>
       <pubDate>Tue, 27 Jan 2026 07:58:07 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.c75.MagicCodeCompletion</description>
       <description>Std Naming Hound is an IntelliJ plugin that helps you search a standardized glossary (terms/words/domains), build column names, and generate SQL quickly. Highlights...
 
 vendor: dongjin
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.ydj515.stdnaminghound</description>
       <pubDate>Tue, 27 Jan 2026 15:01:52 GMT</pubDate>
@@ -123,17 +123,17 @@ xmlId: com.github.ydj515.stdnaminghound</description>
       <dc:date>2026-01-27T15:01:52Z</dc:date>
     </item>
     <item>
-      <title>Git Worktree Manager - Tue Jan 27 05:56:29 UTC 2026</title>
+      <title>Git Worktree Manager - Wed Jan 28 07:19:42 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29905-git-worktree-manager</link>
       <description>Simplify Git worktree management in Android Studio and IntelliJ IDEA. Create, list, and delete Git worktrees with just a few clicks. Perfect for Android developers who...
 
 vendor: PurringLabs
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: com.purringlabs.gitworktree.git-worktree-manager</description>
-      <pubDate>Tue, 27 Jan 2026 05:56:29 GMT</pubDate>
+      <pubDate>Wed, 28 Jan 2026 07:19:42 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29905-git-worktree-manager</guid>
-      <dc:date>2026-01-27T05:56:29Z</dc:date>
+      <dc:date>2026-01-28T07:19:42Z</dc:date>
     </item>
     <item>
       <title>OSS Browser - Tue Jan 27 03:39:19 UTC 2026</title>
@@ -141,7 +141,7 @@ xmlId: com.purringlabs.gitworktree.git-worktree-manager</description>
       <description>English OSS Browser is an IntelliJ IDEA plugin for managing object storage services compatible with the AWS S3 protocol. It is built on AWS SDK for Java v2 and...
 
 vendor: zhangjing
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: sp.zhangjing.idea-oss-plugin</description>
       <pubDate>Tue, 27 Jan 2026 03:39:19 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: sp.zhangjing.idea-oss-plugin</description>
       <description>Health Reminder - A plugin to help you maintain healthy habits during long coding sessions. 主要功能: 定时提醒喝水（默认30分钟） 定时提醒休息眼睛（默认20分钟） 支持自定义提醒类型 多种提醒方式：弹窗对话框、气泡通知、状态栏提示...
 
 vendor: 健康提醒助手
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.healthreminder.plugin</description>
       <pubDate>Tue, 27 Jan 2026 02:13:47 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.healthreminder.plugin</description>
       <description>Russian Language Pack (igalexor Edition) Профессиональная локализация интерфейса для всей линейки IDE от JetBrains. Основные возможности: Полный перевод главного меню...
 
 vendor: igalexor
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: su.rus.language-pack.igalexor</description>
       <pubDate>Mon, 26 Jan 2026 19:13:14 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: su.rus.language-pack.igalexor</description>
       <description>Worksnaps Time Tracker for PhpStorm Display your Worksnaps time tracking statistics directly in the PhpStorm status bar. Features Real-time display of worked hours for...
 
 vendor: Worksnaps Plugin for PhpStorm
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.curkan.phpstorm-plugin-worksnaps</description>
       <pubDate>Tue, 27 Jan 2026 08:53:27 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.github.curkan.phpstorm-plugin-worksnaps</description>
       <description>View and inspect 3D models directly in your IntelliJ-based IDE. Features View 3D models directly in the editor Wireframe mode toggle via status bar Animation playback...
 
 vendor: Coterie Kenya
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: ke.co.coterie.plugins.model3d-viewer</description>
       <pubDate>Mon, 26 Jan 2026 16:34:08 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: ke.co.coterie.plugins.model3d-viewer</description>
       <description>Import and export SQL Server .bacpac files directly from DataGrip's context menu. A .bacpac file is a portable backup format for SQL Server and Azure SQL databases...
 
 vendor: Carlos Gomez
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: me.carandev.bacpac</description>
       <pubDate>Mon, 26 Jan 2026 17:01:39 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: me.carandev.bacpac</description>
       <description>Real-time gold price display plugin for JetBrains IDEs. Supports both domestic gold price (AU9999) and international gold price (XAU), helping you track gold price...
 
 vendor: Corgi 写代码
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: com.stackstark.observegold</description>
       <pubDate>Mon, 26 Jan 2026 15:54:47 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.stackstark.observegold</description>
       <description>Browse OpenAPI specifications in a rich UI and preview realistic mock responses for any endpoint — without running a backend server.
 
 vendor: codebodhi
-downloads: 1
+downloads: 6
 pricingModel: PAID
 xmlId: com.codebodhi.api-explorer</description>
       <pubDate>Mon, 26 Jan 2026 07:01:34 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.codebodhi.api-explorer</description>
       <description>Foldable Project View plugin with enhanced features and performance optimizations.
 
 vendor: suq
-downloads: 2
+downloads: 11
 pricingModel: FREE
 xmlId: ski.chrzanow.foldableprojectviewfix</description>
       <pubDate>Mon, 26 Jan 2026 13:13:33 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: ski.chrzanow.foldableprojectviewfix</description>
       <description>Support for Uorm in Rust projects, including SQL highlighting and navigation between Rust structs and XML mappers.
 
 vendor: Uorm Helper
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.uorm.rust</description>
       <pubDate>Mon, 26 Jan 2026 10:51:56 GMT</pubDate>
