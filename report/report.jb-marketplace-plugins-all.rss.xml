@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Copy Selection Path - Wed Jan 28 01:50:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29954-copy-selection-path</link>
+      <description>A lightweight IntelliJ Platform plugin that helps you quickly copy file paths with line numbers from your code selection. Perfect for: code reviews, bug reports, team...
+
+vendor: mao ruibin
+downloads: 0
+pricingModel: FREE
+xmlId: com.whcater.copy-selection-path</description>
+      <pubDate>Wed, 28 Jan 2026 01:50:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29954-copy-selection-path</guid>
+      <dc:date>2026-01-28T01:50:12Z</dc:date>
+    </item>
+    <item>
+      <title>kotest-generator - Wed Jan 28 01:54:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29955-kotest-generator</link>
+      <description>Kotest Generator is an IntelliJ IDEA plugin that analyzes Kotlin classes and methods to automatically generate Kotest-based test code. It provides test templates...
+
+vendor: Kade
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.kadeyoo.kotestgenerator</description>
+      <pubDate>Wed, 28 Jan 2026 01:54:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29955-kotest-generator</guid>
+      <dc:date>2026-01-28T01:54:56Z</dc:date>
+    </item>
+    <item>
+      <title>Asset Import &amp; Style Enforcer - Wed Jan 28 11:38:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29968-asset-import--style-enforcer</link>
+      <description>Enforces Asset Java Coding Guidelines for Auto Import and Code Style. Checks settings on project startup and prompts to auto-fix if they don't match the standard.
+
+vendor: haha
+downloads: 0
+pricingModel: FREE
+xmlId: com.harryye.asset.import.plugin</description>
+      <pubDate>Wed, 28 Jan 2026 11:38:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29968-asset-import--style-enforcer</guid>
+      <dc:date>2026-01-28T11:38:51Z</dc:date>
+    </item>
+    <item>
       <title>Netrwoon - Wed Jan 28 10:23:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29965-netrwoon</link>
       <description>Netrwoon is a VIM-Netrw like directory listing plugin.
@@ -71,7 +110,7 @@ xmlId: io.github.StellarDeca.lazyime.jetbrains</description>
       <dc:date>2026-01-28T06:07:57Z</dc:date>
     </item>
     <item>
-      <title>Jenkinsfile Syntax Highlighter - Tue Jan 27 18:27:55 UTC 2026</title>
+      <title>Jenkinsfile Syntax Highlighter - Wed Jan 28 22:14:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29948-jenkinsfile-syntax-highlighter</link>
       <description>Comprehensive syntax highlighting and language support for Jenkinsfile (Jenkins Pipeline) files in IntelliJ-based IDEs. Key Features: Syntax Highlighting - Color-coded...
 
@@ -79,9 +118,9 @@ vendor: Valerii Bashtovoi
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.bashtovoi.jenkinsfile-syntax-highlighter</description>
-      <pubDate>Tue, 27 Jan 2026 18:27:55 GMT</pubDate>
+      <pubDate>Wed, 28 Jan 2026 22:14:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29948-jenkinsfile-syntax-highlighter</guid>
-      <dc:date>2026-01-27T18:27:55Z</dc:date>
+      <dc:date>2026-01-28T22:14:01Z</dc:date>
     </item>
     <item>
       <title>I18n Toolkit - Wed Jan 28 06:29:12 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: dev.yaro.rainbowbraces</description>
       <pubDate>Wed, 28 Jan 2026 10:00:42 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29914-free-rainbow-brackets-delimiters-</guid>
       <dc:date>2026-01-28T10:00:42Z</dc:date>
-    </item>
-    <item>
-      <title>MagicCodeCompletion - Tue Jan 27 07:58:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29942-magiccodecompletion</link>
-      <description>JetBrains IDEs plugin for AI-assisted code completion using OpenAI-compatible APIs with agentic file reading and multi-edit capabilities. How to Use: 1. Open Tools...
-
-vendor: Avin Lambrero
-downloads: 3
-pricingModel: FREE
-xmlId: com.c75.MagicCodeCompletion</description>
-      <pubDate>Tue, 27 Jan 2026 07:58:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29942-magiccodecompletion</guid>
-      <dc:date>2026-01-27T07:58:07Z</dc:date>
-    </item>
-    <item>
-      <title>std-naming-hound - Wed Jan 28 12:51:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29937-std-naming-hound</link>
-      <description>Std Naming Hound is an IntelliJ plugin that helps you search a standardized glossary (terms/words/domains), build column names, and generate SQL quickly. Highlights...
-
-vendor: dongjin
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.ydj515.stdnaminghound</description>
-      <pubDate>Wed, 28 Jan 2026 12:51:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29937-std-naming-hound</guid>
-      <dc:date>2026-01-28T12:51:28Z</dc:date>
-    </item>
-    <item>
-      <title>Git Worktree Manager - Wed Jan 28 08:18:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29905-git-worktree-manager</link>
-      <description>Simplify Git worktree management in Android Studio and IntelliJ IDEA. Create, list, and delete Git worktrees with just a few clicks. Perfect for Android developers who...
-
-vendor: PurringLabs
-downloads: 9
-pricingModel: FREE
-xmlId: com.purringlabs.gitworktree.git-worktree-manager</description>
-      <pubDate>Wed, 28 Jan 2026 08:18:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29905-git-worktree-manager</guid>
-      <dc:date>2026-01-28T08:18:39Z</dc:date>
     </item>
   </channel>
 </rss>
