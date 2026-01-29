@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Scan The Planet - Mon Jan 26 07:03:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29924-scan-the-planet</link>
+      <description>Scan The Planet is an IntelliJ plugin that scans MCP (Model Context Protocol) servers and related code for security risks using the SAFE-MCP technique catalog. It can...
+
+vendor: Astha AI Inc.
+downloads: 2
+pricingModel: FREE
+xmlId: ai.astha.scantheplanet.idea</description>
+      <pubDate>Mon, 26 Jan 2026 07:03:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29924-scan-the-planet</guid>
+      <dc:date>2026-01-26T07:03:08Z</dc:date>
+    </item>
+    <item>
+      <title>Lime MQL Editing - Tue Jan 27 05:41:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29941-lime-mql-editing</link>
+      <description>MetaQuotes MQL4 and MQL5 support for IntelliJ IDEA. Forked from the original mqlidea plugin by investorflow.ru and updated for the latest IDE. Setup: Please Uninstall...
+
+vendor: Lime Mojito Pty Ltd
+downloads: 1
+pricingModel: FREE
+xmlId: com.limemojito.oss.mqlidea</description>
+      <pubDate>Tue, 27 Jan 2026 05:41:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29941-lime-mql-editing</guid>
+      <dc:date>2026-01-27T05:41:15Z</dc:date>
+    </item>
+    <item>
+      <title>Agentlang - Mon Jan 26 06:50:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29922-agentlang</link>
+      <description>Agentlang support for IntelliJ-based IDEs. Syntax highlighting with the bundled TextMate grammar Language Server Protocol features (diagnostics, completion...
+
+vendor: Pratik Karki
+downloads: 2
+pricingModel: FREE
+xmlId: ai.agentlang</description>
+      <pubDate>Mon, 26 Jan 2026 06:50:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29922-agentlang</guid>
+      <dc:date>2026-01-26T06:50:38Z</dc:date>
+    </item>
+    <item>
       <title>CopySelectLine - Wed Jan 28 01:50:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29954-copyselectline</link>
       <description>A lightweight IntelliJ Platform plugin that helps you quickly copy file paths with line numbers from your code selection. Perfect for: code reviews, bug reports, team...
@@ -110,7 +149,7 @@ xmlId: io.github.StellarDeca.lazyime.jetbrains</description>
       <dc:date>2026-01-28T06:07:57Z</dc:date>
     </item>
     <item>
-      <title>Jenkinsfile Syntax Highlighter - Wed Jan 28 22:14:01 UTC 2026</title>
+      <title>Jenkinsfile Syntax Highlighter - Thu Jan 29 10:12:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29948-jenkinsfile-syntax-highlighter</link>
       <description>Comprehensive syntax highlighting and language support for Jenkinsfile (Jenkins Pipeline) files in IntelliJ-based IDEs. Key Features: Syntax Highlighting - Color-coded...
 
@@ -118,9 +157,9 @@ vendor: Valerii Bashtovoi
 downloads: 8
 pricingModel: FREE
 xmlId: com.github.bashtovoi.jenkinsfile-syntax-highlighter</description>
-      <pubDate>Wed, 28 Jan 2026 22:14:01 GMT</pubDate>
+      <pubDate>Thu, 29 Jan 2026 10:12:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29948-jenkinsfile-syntax-highlighter</guid>
-      <dc:date>2026-01-28T22:14:01Z</dc:date>
+      <dc:date>2026-01-29T10:12:57Z</dc:date>
     </item>
     <item>
       <title>I18n Toolkit - Thu Jan 29 06:24:01 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: color.scheme.VisualStudioDarkIslands</description>
       <pubDate>Tue, 27 Jan 2026 12:21:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29944-visualstudiodarkislands-color-scheme</guid>
       <dc:date>2026-01-27T12:21:18Z</dc:date>
-    </item>
-    <item>
-      <title>Json2Typescript - Wed Jan 28 14:49:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29947-json2typescript</link>
-      <description>Json2Typescript is a lightweight IntelliJ / WebStorm plugin that converts copied JSON data into TypeScript type definitions with one click. Features: Convert JSON to...
-
-vendor: Json2Typescript
-downloads: 69
-pricingModel: FREE
-xmlId: com.pan.Json2Typescript</description>
-      <pubDate>Wed, 28 Jan 2026 14:49:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29947-json2typescript</guid>
-      <dc:date>2026-01-28T14:49:55Z</dc:date>
-    </item>
-    <item>
-      <title>rumdl - Tue Jan 27 10:46:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29943-rumdl</link>
-      <description>A fast Markdown linter and formatter, written in Rust. Features Real-time linting diagnostics in the editor Format on save support Quick fixes for common issues...
-
-vendor: Ruben Jongejan
-downloads: 11
-pricingModel: FREE
-xmlId: dev.rumdl</description>
-      <pubDate>Tue, 27 Jan 2026 10:46:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29943-rumdl</guid>
-      <dc:date>2026-01-27T10:46:11Z</dc:date>
-    </item>
-    <item>
-      <title>Free Rainbow Brackets (Delimiters) - Wed Jan 28 10:00:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29914-free-rainbow-brackets-delimiters-</link>
-      <description>Simplest delimiter coloring free! Rainbow coloring for (), [], {} based on nesting level. Works in multiple IDEs (RustRover, Rider, IntelliJ-based). Features Rainbow...
-
-vendor: Yagir
-downloads: 84
-pricingModel: FREE
-xmlId: dev.yaro.rainbowbraces</description>
-      <pubDate>Wed, 28 Jan 2026 10:00:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29914-free-rainbow-brackets-delimiters-</guid>
-      <dc:date>2026-01-28T10:00:42Z</dc:date>
     </item>
   </channel>
 </rss>
