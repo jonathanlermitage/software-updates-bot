@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Artifact Swap - Fri Jan 30 02:10:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29972-artifact-swap</link>
+      <description>Manage large Gradle builds in your IDE by swapping projects with prebuild artifacts (https://engineering.block.xyz/blog/shrinking-elephants).
+
+vendor: Block, Inc.
+downloads: 0
+pricingModel: FREE
+xmlId: xyz.block.artifactswap</description>
+      <pubDate>Fri, 30 Jan 2026 02:10:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29972-artifact-swap</guid>
+      <dc:date>2026-01-30T02:10:01Z</dc:date>
+    </item>
+    <item>
+      <title>Mermaid Studio - Fri Jan 30 11:06:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29870-mermaid-studio</link>
+      <description>Mermaid Studio is a best-in-class IDE for authoring and generating Mermaid diagrams, built on the JetBrains platform. Whether you're a developer documenting...
+
+vendor: Tachi Labs
+downloads: 47
+pricingModel: PAID
+xmlId: dev.tachilabs.mermaidstudio</description>
+      <pubDate>Fri, 30 Jan 2026 11:06:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29870-mermaid-studio</guid>
+      <dc:date>2026-01-30T11:06:46Z</dc:date>
+    </item>
+    <item>
       <title>DevServer - Fri Jan 30 03:12:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29986-devserver</link>
       <description>DevServer is an all-in-one server management plugin for IntelliJ IDEA. DevServer 是一款面向开发者的 IntelliJ IDEA 插件，旨在提供 一站式服务器开发与运维解决方案。 通过它，你可以直接在 IDE...
@@ -175,17 +201,17 @@ xmlId: com.github.xenforo.query</description>
       <dc:date>2026-01-29T18:56:56Z</dc:date>
     </item>
     <item>
-      <title>Service Links - Sat Jan 17 01:33:11 UTC 2026</title>
+      <title>Service Links - Fri Jan 30 19:36:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29795-service-links</link>
-      <description>Service Links lets you attach project-specific links (Git, Jira, Jenkins, Confluence, etc.) and open them instantly from the toolbar, status bar, wheel popup, or...
+      <description>Keep all project links in one place and open them instantly from the IDE. Service Links puts Git, Jira, Confluence, CI, docs, dashboards, and anything else one click...
 
 vendor: Chris Binder
 downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.chrisbinder.servicelinks</description>
-      <pubDate>Sat, 17 Jan 2026 01:33:11 GMT</pubDate>
+      <pubDate>Fri, 30 Jan 2026 19:36:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29795-service-links</guid>
-      <dc:date>2026-01-17T01:33:11Z</dc:date>
+      <dc:date>2026-01-30T19:36:11Z</dc:date>
     </item>
     <item>
       <title>Agent Skills Manager - Thu Jan 29 00:07:02 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: ai.astha.scantheplanet.idea</description>
       <pubDate>Mon, 26 Jan 2026 07:03:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29924-scan-the-planet</guid>
       <dc:date>2026-01-26T07:03:08Z</dc:date>
-    </item>
-    <item>
-      <title>Lime MQL Editing - Tue Jan 27 05:41:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29941-lime-mql-editing</link>
-      <description>MetaQuotes MQL4 and MQL5 support for IntelliJ IDEA. Forked from the original mqlidea plugin by investorflow.ru and updated for the latest IDE. Setup: Please Uninstall...
-
-vendor: Lime Mojito Pty Ltd
-downloads: 2
-pricingModel: FREE
-xmlId: com.limemojito.oss.mqlidea</description>
-      <pubDate>Tue, 27 Jan 2026 05:41:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29941-lime-mql-editing</guid>
-      <dc:date>2026-01-27T05:41:15Z</dc:date>
-    </item>
-    <item>
-      <title>Agentlang - Mon Jan 26 06:50:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29922-agentlang</link>
-      <description>Agentlang support for IntelliJ-based IDEs. Syntax highlighting with the bundled TextMate grammar Language Server Protocol features (diagnostics, completion...
-
-vendor: Pratik Karki
-downloads: 4
-pricingModel: FREE
-xmlId: ai.agentlang</description>
-      <pubDate>Mon, 26 Jan 2026 06:50:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29922-agentlang</guid>
-      <dc:date>2026-01-26T06:50:38Z</dc:date>
     </item>
   </channel>
 </rss>
