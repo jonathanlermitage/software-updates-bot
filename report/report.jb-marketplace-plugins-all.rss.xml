@@ -6,7 +6,46 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Livewire Component Folder - Fri Jan 30 11:04:24 UTC 2026</title>
+      <title>DevServer - Fri Jan 30 03:12:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29986-devserver</link>
+      <description>DevServer is an all-in-one server management plugin for IntelliJ IDEA. DevServer 是一款面向开发者的 IntelliJ IDEA 插件，旨在提供 一站式服务器开发与运维解决方案。 通过它，你可以直接在 IDE...
+
+vendor: DevServer
+downloads: 0
+pricingModel: FREE
+xmlId: intellij-devserver-plugin</description>
+      <pubDate>Fri, 30 Jan 2026 03:12:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29986-devserver</guid>
+      <dc:date>2026-01-30T03:12:33Z</dc:date>
+    </item>
+    <item>
+      <title>Typing Training - Thu Jan 29 20:29:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29984-typing-training</link>
+      <description>Master the art of coding at the speed of thought. While many developers focus on learning new frameworks and languages, the fundamental skill of touch typing is often...
+
+vendor: Yauheni Slizh
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.kiolk.typingplugin</description>
+      <pubDate>Thu, 29 Jan 2026 20:29:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29984-typing-training</guid>
+      <dc:date>2026-01-29T20:29:58Z</dc:date>
+    </item>
+    <item>
+      <title>DDL Generator - Thu Jan 29 10:37:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29976-ddl-generator</link>
+      <description>DDL Generator - A powerful IntelliJ IDEA plugin for generating Java code from database DDL statements with just one click. English | 中文介绍 ✨ Key Features One-Click...
+
+vendor: DDL Code Generator
+downloads: 0
+pricingModel: FREE
+xmlId: com.ddl.generator.plugin</description>
+      <pubDate>Thu, 29 Jan 2026 10:37:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29976-ddl-generator</guid>
+      <dc:date>2026-01-29T10:37:31Z</dc:date>
+    </item>
+    <item>
+      <title>Livewire Component Folder - Fri Jan 30 12:47:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29990-livewire-component-folder</link>
       <description>Livewire Component Folder Enhanced project tree view for Laravel Livewire components. Features Displays component name instead of folder name with lightning bolt icon...
 
@@ -14,9 +53,9 @@ vendor: Wojt Janowski
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.livewirecomponentfolder</description>
-      <pubDate>Fri, 30 Jan 2026 11:04:24 GMT</pubDate>
+      <pubDate>Fri, 30 Jan 2026 12:47:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29990-livewire-component-folder</guid>
-      <dc:date>2026-01-30T11:04:24Z</dc:date>
+      <dc:date>2026-01-30T12:47:00Z</dc:date>
     </item>
     <item>
       <title>FlywayHelper - Wed Jan 28 11:56:10 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: ai.agentlang</description>
       <pubDate>Mon, 26 Jan 2026 06:50:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29922-agentlang</guid>
       <dc:date>2026-01-26T06:50:38Z</dc:date>
-    </item>
-    <item>
-      <title>CopySelectLine - Thu Jan 29 01:29:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29954-copyselectline</link>
-      <description>A lightweight IntelliJ Platform plugin that helps you quickly copy file paths with line numbers from your code selection. Perfect for: code reviews, bug reports, team...
-
-vendor: mao ruibin
-downloads: 10
-pricingModel: FREE
-xmlId: com.whcater.copy-selection-path</description>
-      <pubDate>Thu, 29 Jan 2026 01:29:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29954-copyselectline</guid>
-      <dc:date>2026-01-29T01:29:54Z</dc:date>
-    </item>
-    <item>
-      <title>kotest-generator - Wed Jan 28 01:54:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29955-kotest-generator</link>
-      <description>Kotest Generator is an IntelliJ IDEA plugin that analyzes Kotlin classes and methods to automatically generate Kotest-based test code. It provides test templates...
-
-vendor: Kade
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.kadeyoo.kotestgenerator</description>
-      <pubDate>Wed, 28 Jan 2026 01:54:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29955-kotest-generator</guid>
-      <dc:date>2026-01-28T01:54:56Z</dc:date>
-    </item>
-    <item>
-      <title>Asset Import &amp; Style Enforcer - Fri Jan 30 07:08:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29968-asset-import--style-enforcer</link>
-      <description>Enforces Asset Java Coding Guidelines for Auto Import and Code Style. Checks settings on project startup and prompts to auto-fix if they don't match the standard.
-
-vendor: haha
-downloads: 7
-pricingModel: FREE
-xmlId: com.harryye.asset.import.plugin</description>
-      <pubDate>Fri, 30 Jan 2026 07:08:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29968-asset-import--style-enforcer</guid>
-      <dc:date>2026-01-30T07:08:58Z</dc:date>
     </item>
   </channel>
 </rss>
