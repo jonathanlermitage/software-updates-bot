@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FlywayHelper - Wed Jan 28 11:56:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29964-flywayhelper</link>
+      <description>Flyway database version management helper plugin for IntelliJ IDEA. Features: Get the latest SQL version of each branch in your project One-click fix for Flyway SQL...
+
+vendor: 速猿科技有限公司
+downloads: 0
+pricingModel: FREE
+xmlId: com.aliyun.codeup.plugin.flyway.version</description>
+      <pubDate>Wed, 28 Jan 2026 11:56:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29964-flywayhelper</guid>
+      <dc:date>2026-01-28T11:56:10Z</dc:date>
+    </item>
+    <item>
       <title>ANTLR4 Plus - Mon Jan 26 00:13:48 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29781-antlr4-plus</link>
       <description>New in ANTLR4+ Dual Runtime Support - Choose between Java (ECJ) or Kotlin compiler for grammar preview. Both compilers are bundled - no external JDK required Compiled...
@@ -19,17 +32,17 @@ xmlId: com.antlr4plus</description>
       <dc:date>2026-01-26T00:13:48Z</dc:date>
     </item>
     <item>
-      <title>Runner for GitHub Actions - Thu Jan 29 16:04:48 UTC 2026</title>
+      <title>Runner for GitHub Actions - Fri Jan 30 03:18:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29981-runner-for-github-actions</link>
       <description>Run selected scripts (or files) directly on GitHub Actions from your JetBrains IDE. Ideal for tasks requiring high bandwidth (e.g., Docker image mirroring) or specific...
 
-vendor: Runner for GitHub Actions
+vendor: foyoux
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.foyoux.githubactionrunner</description>
-      <pubDate>Thu, 29 Jan 2026 16:04:48 GMT</pubDate>
+      <pubDate>Fri, 30 Jan 2026 03:18:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29981-runner-for-github-actions</guid>
-      <dc:date>2026-01-29T16:04:48Z</dc:date>
+      <dc:date>2026-01-30T03:18:11Z</dc:date>
     </item>
     <item>
       <title>Unreal Project Model Mods Fix - Wed Jan 28 23:48:56 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.crhistianm.netrwoon</description>
       <pubDate>Wed, 28 Jan 2026 10:23:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29965-netrwoon</guid>
       <dc:date>2026-01-28T10:23:31Z</dc:date>
-    </item>
-    <item>
-      <title>Method Tracker - Wed Jan 28 10:53:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29967-method-tracker</link>
-      <description>Method Tracker A lightweight, non-intrusive performance profiling tool for Java developers. This plugin identifies latency bottlenecks in your code by recording...
-
-vendor: znzhang
-downloads: 1
-pricingModel: FREE
-xmlId: com.znzhang.method-tracker</description>
-      <pubDate>Wed, 28 Jan 2026 10:53:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29967-method-tracker</guid>
-      <dc:date>2026-01-28T10:53:02Z</dc:date>
     </item>
   </channel>
 </rss>
