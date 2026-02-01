@@ -29,7 +29,7 @@ class GradleChecker : Checker {
         return SoftwareUpdate(
             listOf(Category.JAVA.label, Category.GRADLE.label),
             "Gradle",
-            "https://gradle.org/releases/",
+            "https://gradle.org/releases",
             version,
             logo = Logo.GRADLE
         )
