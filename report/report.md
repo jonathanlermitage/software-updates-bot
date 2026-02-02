@@ -13,7 +13,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jan 22 12:02:46 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 29 04:06:10 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jan 31 00:06:46 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 16:03:14 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Feb 02 12:05:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:34 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 30 04:02:53 UTC 2025|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.1 (2026-01-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jan 27 20:01:58 UTC 2026|

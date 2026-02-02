@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Feb 02 12:05:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jan 31 00:06:46 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jan 30 04:29:31 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.19799.20) ~ 2026-01-29|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jan 29 16:07:59 UTC 2026|
@@ -36,7 +37,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 31 00:06:19 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 30 04:02:53 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.1+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 29 04:06:10 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Oct 28 16:03:14 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
