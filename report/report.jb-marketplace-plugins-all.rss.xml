@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Flexible Nuxt.js - Mon Feb 02 13:23:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30004-flexible-nuxt-js</link>
+      <description>Real Nuxt IDE. Auto-import scanning, composable completion, 50+ live templates, config validation, inspections, run/debug. Nuxt 2, 3 &amp;amp; 4. Runs locally. Core...
+
+vendor: Ilscipio GmbH
+downloads: 2
+pricingModel: PAID
+xmlId: com.ilscipio.nuxtjs</description>
+      <pubDate>Mon, 02 Feb 2026 13:23:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30004-flexible-nuxt-js</guid>
+      <dc:date>2026-02-02T13:23:41Z</dc:date>
+    </item>
+    <item>
+      <title>Flutter Skill - Mon Feb 02 11:38:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29991-flutter-skill</link>
+      <description>Flutter Skill Give your AI Agent eyes and hands inside your Flutter app. Flutter Skill is a bridge that connects AI Agents (like Claude Code, Cursor, Windsurf...
+
+vendor: ai-dashboad
+downloads: 1
+pricingModel: FREE
+xmlId: com.aidashboad.flutterskill</description>
+      <pubDate>Mon, 02 Feb 2026 11:38:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29991-flutter-skill</guid>
+      <dc:date>2026-02-02T11:38:57Z</dc:date>
+    </item>
+    <item>
       <title>Artifact Swap - Fri Jan 30 02:10:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29972-artifact-swap</link>
       <description>Manage large Gradle builds in your IDE by swapping projects with prebuild artifacts (https://engineering.block.xyz/blog/shrinking-elephants).
@@ -110,7 +136,7 @@ xmlId: com.antlr4plus</description>
       <dc:date>2026-01-26T00:13:48Z</dc:date>
     </item>
     <item>
-      <title>Runner for GitHub Actions - Fri Jan 30 11:51:56 UTC 2026</title>
+      <title>Runner for GitHub Actions - Mon Feb 02 12:13:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29981-runner-for-github-actions</link>
       <description>Run selected scripts (or files) directly on GitHub Actions from your JetBrains IDE. Ideal for tasks requiring high bandwidth (e.g., Docker image mirroring), specific...
 
@@ -118,9 +144,9 @@ vendor: foyoux
 downloads: 89
 pricingModel: FREE
 xmlId: com.github.foyoux.githubactionrunner</description>
-      <pubDate>Fri, 30 Jan 2026 11:51:56 GMT</pubDate>
+      <pubDate>Mon, 02 Feb 2026 12:13:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29981-runner-for-github-actions</guid>
-      <dc:date>2026-01-30T11:51:56Z</dc:date>
+      <dc:date>2026-02-02T12:13:34Z</dc:date>
     </item>
     <item>
       <title>Unreal Project Model Mods Fix - Wed Jan 28 23:48:56 UTC 2026</title>
@@ -201,7 +227,7 @@ xmlId: com.github.xenforo.query</description>
       <dc:date>2026-01-29T18:56:56Z</dc:date>
     </item>
     <item>
-      <title>Service Links - Sun Feb 01 22:47:27 UTC 2026</title>
+      <title>Service Links - Mon Feb 02 14:23:39 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29795-service-links</link>
       <description>Keep all project links in one place and open them instantly from the IDE. Service Links puts Git, Jira, Confluence, CI, docs, dashboards, and anything else one click...
 
@@ -209,9 +235,9 @@ vendor: Chris Binder
 downloads: 70
 pricingModel: FREEMIUM
 xmlId: com.chrisbinder.servicelinks</description>
-      <pubDate>Sun, 01 Feb 2026 22:47:27 GMT</pubDate>
+      <pubDate>Mon, 02 Feb 2026 14:23:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29795-service-links</guid>
-      <dc:date>2026-02-01T22:47:27Z</dc:date>
+      <dc:date>2026-02-02T14:23:39Z</dc:date>
     </item>
     <item>
       <title>Agent Skills Manager - Sun Feb 01 12:52:28 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: site.addzero.package-fixer</description>
       <pubDate>Thu, 29 Jan 2026 07:12:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29977-package-fixer</guid>
       <dc:date>2026-01-29T07:12:29Z</dc:date>
-    </item>
-    <item>
-      <title>RedisFX - Mon Jan 26 06:33:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29921-redisfx</link>
-      <description>RedisFX A fully functional Redis client. RedisFX Independent Client Usage Guide Features SSH and SSL/TLS protocol support Cluster and Sentinel mode support String...
-
-vendor: tanh
-downloads: 21
-pricingModel: FREE
-xmlId: io.github.tanhuang2016.redisfx-idea</description>
-      <pubDate>Mon, 26 Jan 2026 06:33:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29921-redisfx</guid>
-      <dc:date>2026-01-26T06:33:23Z</dc:date>
-    </item>
-    <item>
-      <title>Scan The Planet - Mon Jan 26 07:03:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29924-scan-the-planet</link>
-      <description>Scan The Planet is an IntelliJ plugin that scans MCP (Model Context Protocol) servers and related code for security risks using the SAFE-MCP technique catalog. It can...
-
-vendor: Astha AI Inc.
-downloads: 10
-pricingModel: FREE
-xmlId: ai.astha.scantheplanet.idea</description>
-      <pubDate>Mon, 26 Jan 2026 07:03:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29924-scan-the-planet</guid>
-      <dc:date>2026-01-26T07:03:08Z</dc:date>
     </item>
   </channel>
 </rss>
