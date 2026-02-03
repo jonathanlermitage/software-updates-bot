@@ -3,13 +3,13 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 28 12:02:28 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:28 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Nov 01 16:03:04 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:41 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 21 16:05:10 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:29 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:43 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 31 00:06:19 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 21 12:02:36 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jan 30 04:29:31 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.9+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 31 00:06:20 UTC 2025|
+|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jan 22 12:02:46 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 00:08:19 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jan 31 00:06:46 UTC 2026|
@@ -39,8 +39,8 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
-|![logo](../media/logo/python.png) Python 3 mac| 3.14.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Dec 05 20:03:33 UTC 2025|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.2|[www.python.org](https://www.python.org/downloads/windows/)|Sat Dec 06 00:06:34 UTC 2025|
+|![logo](../media/logo/python.png) Python 3 mac| 3.14.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Feb 03 20:07:05 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.3|[www.python.org](https://www.python.org/downloads/windows/)|Tue Feb 03 20:07:06 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jan 23 12:03:01 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
