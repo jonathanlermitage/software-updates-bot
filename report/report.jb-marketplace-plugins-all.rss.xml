@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Flexible Nuxt.js - Mon Feb 02 13:23:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30004-flexible-nuxt-js</link>
-      <description>Real Nuxt IDE. Auto-import scanning, composable completion, 50+ live templates, config validation, inspections, run/debug. Nuxt 2, 3 &amp;amp; 4. Runs locally. Core...
+      <title>Hurlex - Hurl Language Support - Mon Feb 02 20:40:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30032-hurlex--hurl-language-support</link>
+      <description>Full-featured language support for Hurl HTTP testing files. Syntax highlighting with customizable colors Code completion for HTTP methods, sections, predicates, and...
 
-vendor: Ilscipio GmbH
-downloads: 2
-pricingModel: PAID
-xmlId: com.ilscipio.nuxtjs</description>
-      <pubDate>Mon, 02 Feb 2026 13:23:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30004-flexible-nuxt-js</guid>
-      <dc:date>2026-02-02T13:23:41Z</dc:date>
+vendor: chadw
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.chadw.intellijhurl</description>
+      <pubDate>Mon, 02 Feb 2026 20:40:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30032-hurlex--hurl-language-support</guid>
+      <dc:date>2026-02-02T20:40:26Z</dc:date>
     </item>
     <item>
-      <title>Flutter Skill - Mon Feb 02 11:38:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29991-flutter-skill</link>
-      <description>Flutter Skill Give your AI Agent eyes and hands inside your Flutter app. Flutter Skill is a bridge that connects AI Agents (like Claude Code, Cursor, Windsurf...
+      <title>file-ref-tags - Mon Feb 02 02:53:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29999-file-ref-tags</link>
+      <description>File Ref Tags is a JetBrains IDE plugin for managing and quickly accessing code references. It allows users to add files, code snippets, and comments to a reference...
 
-vendor: ai-dashboad
+vendor: LuckTech
+downloads: 0
+pricingModel: FREE
+xmlId: lirentech.file-ref-tags</description>
+      <pubDate>Mon, 02 Feb 2026 02:53:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29999-file-ref-tags</guid>
+      <dc:date>2026-02-02T02:53:09Z</dc:date>
+    </item>
+    <item>
+      <title>Git Insight - Thu Jan 29 18:39:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29982-git-insight</link>
+      <description>Git Insight brings comprehensive code statistics to your JetBrains IDE. Track developer contributions, analyze codebase scale, detect problematic commits, and merge...
+
+vendor: makcbrain
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.gitinsight</description>
+      <pubDate>Thu, 29 Jan 2026 18:39:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29982-git-insight</guid>
+      <dc:date>2026-01-29T18:39:40Z</dc:date>
+    </item>
+    <item>
+      <title>INK - AI Guided TDD Flow - Mon Feb 02 10:12:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30027-ink--ai-guided-tdd-flow</link>
+      <description>Currently, the plugin only supports Gemini 3 with BYOK (Bring your own API key)! The Why The goal of this plugin is to keep developers engaged in the development...
+
+vendor: Oleksii Volotskov Software Engineering
+downloads: 0
+pricingModel: FREE
+xmlId: com.seech.ink</description>
+      <pubDate>Mon, 02 Feb 2026 10:12:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30027-ink--ai-guided-tdd-flow</guid>
+      <dc:date>2026-02-02T10:12:43Z</dc:date>
+    </item>
+    <item>
+      <title>Google Cloud Dataform - Mon Feb 02 17:30:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30020-google-cloud-dataform</link>
+      <description>Plugin to develop using google cloud dataform. Google Cloud, Dataform, BigQuery, SQLX, Javascript.
+
+vendor: rbr
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.rejeb.gcp-dataform-plugin</description>
+      <pubDate>Mon, 02 Feb 2026 17:30:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30020-google-cloud-dataform</guid>
+      <dc:date>2026-02-02T17:30:48Z</dc:date>
+    </item>
+    <item>
+      <title>I18n-Extractor - Mon Feb 02 15:42:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29998-i18n-extractor</link>
+      <description>Vue Chinese i18n Extractor This plugin helps developers quickly internationalize hard-coded Chinese strings in Vue Single File Components (.vue): - Scans template text...
+
+vendor: i18n-extractor
+downloads: 2
+pricingModel: FREE
+xmlId: com.pan.vue-i18n-extractor</description>
+      <pubDate>Mon, 02 Feb 2026 15:42:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29998-i18n-extractor</guid>
+      <dc:date>2026-02-02T15:42:10Z</dc:date>
+    </item>
+    <item>
+      <title>Structured Coroutines - Sat Jan 31 22:32:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30009-structured-coroutines</link>
+      <description>Enforces structured concurrency best practices for Kotlin Coroutines. Features: Real-time inspections for coroutine anti-patterns Quick fixes for automatic code...
+
+vendor: Santiago Mattiauda
 downloads: 1
 pricingModel: FREE
-xmlId: com.aidashboad.flutterskill</description>
-      <pubDate>Mon, 02 Feb 2026 11:38:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29991-flutter-skill</guid>
-      <dc:date>2026-02-02T11:38:57Z</dc:date>
+xmlId: io.github.santimattius.structured-coroutines</description>
+      <pubDate>Sat, 31 Jan 2026 22:32:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30009-structured-coroutines</guid>
+      <dc:date>2026-01-31T22:32:29Z</dc:date>
     </item>
     <item>
-      <title>Artifact Swap - Fri Jan 30 02:10:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29972-artifact-swap</link>
-      <description>Manage large Gradle builds in your IDE by swapping projects with prebuild artifacts (https://engineering.block.xyz/blog/shrinking-elephants).
+      <title>Methodos - Generate Method Names With AI - Sat Jan 31 22:38:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30010-methodos--generate-method-names-with-ai</link>
+      <description>Methodos is an AI-powered IntelliJ plugin that generates meaningful method names. The plugin communicates with a backend service to provide AI-based suggestions. An...
 
-vendor: Block, Inc.
-downloads: 12
+vendor: Mustafa Sis
+downloads: 0
 pricingModel: FREE
-xmlId: xyz.block.artifactswap</description>
-      <pubDate>Fri, 30 Jan 2026 02:10:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29972-artifact-swap</guid>
-      <dc:date>2026-01-30T02:10:01Z</dc:date>
+xmlId: com.mustafasis.methodosplugin</description>
+      <pubDate>Sat, 31 Jan 2026 22:38:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30010-methodos--generate-method-names-with-ai</guid>
+      <dc:date>2026-01-31T22:38:47Z</dc:date>
     </item>
     <item>
-      <title>Mermaid Studio - Fri Jan 30 11:06:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29870-mermaid-studio</link>
-      <description>Mermaid Studio is a best-in-class IDE for authoring and generating Mermaid diagrams, built on the JetBrains platform. Whether you're a developer documenting...
+      <title>Git Branch Border - Sun Feb 01 23:46:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30023-git-branch-border</link>
+      <description>Displays a colored border around the IDE window based on the current Git branch. Features: Visual indication of current branch via colored window border Configurable...
 
-vendor: Tachi Labs
-downloads: 100
-pricingModel: PAID
-xmlId: dev.tachilabs.mermaidstudio</description>
-      <pubDate>Fri, 30 Jan 2026 11:06:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29870-mermaid-studio</guid>
-      <dc:date>2026-01-30T11:06:46Z</dc:date>
+vendor: vladimir.biro
+downloads: 0
+pricingModel: FREE
+xmlId: com.vladimir.biro.branchborder</description>
+      <pubDate>Sun, 01 Feb 2026 23:46:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30023-git-branch-border</guid>
+      <dc:date>2026-02-01T23:46:01Z</dc:date>
     </item>
     <item>
-      <title>DevServer - Fri Jan 30 03:12:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29986-devserver</link>
-      <description>DevServer is an all-in-one server management plugin for IntelliJ IDEA. DevServer 是一款面向开发者的 IntelliJ IDEA 插件，旨在提供 一站式服务器开发与运维解决方案。 通过它，你可以直接在 IDE...
+      <title>AI Coder Assistant - Sun Feb 01 07:21:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30014-ai-coder-assistant</link>
+      <description>AI Code Assistant is a programming assistant plugin developed based on the DeepSeek large model. It focuses on enhancing programmers' coding efficiency and code...
 
-vendor: DevServer
+vendor: CodePilot
+downloads: 0
+pricingModel: FREE
+xmlId: org.code.assist.dev.tool</description>
+      <pubDate>Sun, 01 Feb 2026 07:21:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30014-ai-coder-assistant</guid>
+      <dc:date>2026-02-01T07:21:22Z</dc:date>
+    </item>
+    <item>
+      <title>ApiHop - Mon Feb 02 02:11:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29927-apihop</link>
+      <description>ApiHop - One-click API sync for developers Scan Java/Spring Boot project APIs and sync them to ApiHop. Scan Spring MVC controllers (@RestController, @RequestMapping...
+
+vendor: glowxq
+downloads: 0
+pricingModel: FREE
+xmlId: tech.apihop.idea-plugin</description>
+      <pubDate>Mon, 02 Feb 2026 02:11:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29927-apihop</guid>
+      <dc:date>2026-02-02T02:11:37Z</dc:date>
+    </item>
+    <item>
+      <title>CopyToMd - Sun Feb 01 13:54:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30016-copytomd</link>
+      <description>IntelliJ IDEA plugin that provides quick file and folder copying utilities with markdown formatting.
+
+vendor: Pavel
+downloads: 0
+pricingModel: FREE
+xmlId: com.pavel.cpideaplugin</description>
+      <pubDate>Sun, 01 Feb 2026 13:54:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30016-copytomd</guid>
+      <dc:date>2026-02-01T13:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode Companion - Sat Jan 31 23:29:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30006-opencode-companion</link>
+      <description>Seamlessly integrate OpenCode CLI with your JetBrains IDE. Send selected code directly to OpenCode with full context - file paths, line numbers, and custom...
+
+vendor: devmoon
+downloads: 1
+pricingModel: FREE
+xmlId: eu.devmoon.opencode-companion</description>
+      <pubDate>Sat, 31 Jan 2026 23:29:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30006-opencode-companion</guid>
+      <dc:date>2026-01-31T23:29:28Z</dc:date>
+    </item>
+    <item>
+      <title>CodeDiary - Mon Feb 02 08:49:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29992-codediary</link>
+      <description>CodeDiary is an IntelliJ plugin that generates daily reports from Git commit history. 根据 Git 提交记录生成日报。 主要功能： 按时间范围查询当前项目的 Git 提交（支持今天、最近 3/7/30/90 天...
+
+vendor: 薛伟同学
+downloads: 0
+pricingModel: FREE
+xmlId: fun.xuewei.codediary</description>
+      <pubDate>Mon, 02 Feb 2026 08:49:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29992-codediary</guid>
+      <dc:date>2026-02-02T08:49:00Z</dc:date>
+    </item>
+    <item>
+      <title>SimpleTextTools - Thu Jan 29 13:27:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29910-simpletexttools</link>
+      <description>Provides convenient text editing tools to enhance multi-caret editing and text formatting efficiency. Key Features: SplitNewLines - Split text into multiple lines by...
+
+vendor: SimpleTextTools
 downloads: 5
 pricingModel: FREE
-xmlId: intellij-devserver-plugin</description>
-      <pubDate>Fri, 30 Jan 2026 03:12:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29986-devserver</guid>
-      <dc:date>2026-01-30T03:12:33Z</dc:date>
+xmlId: com.jf.jf</description>
+      <pubDate>Thu, 29 Jan 2026 13:27:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29910-simpletexttools</guid>
+      <dc:date>2026-01-29T13:27:51Z</dc:date>
     </item>
     <item>
-      <title>Typing Training - Sat Jan 31 21:27:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29984-typing-training</link>
-      <description>Improved stability and usability. - Added ability to drag typing dialog to any position on the screen. - Improved stability.
+      <title>Xueqiu Reader - Mon Feb 02 07:17:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30026-xueqiu-reader</link>
+      <description>A simple IntelliJ IDEA plugin to read Xueqiu hot news, following timeline and 24/7 news.
 
-vendor: Yauheni Slizh
-downloads: 71
+vendor: Xueqiu Reader
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.kiolk.typingplugin</description>
-      <pubDate>Sat, 31 Jan 2026 21:27:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29984-typing-training</guid>
-      <dc:date>2026-01-31T21:27:36Z</dc:date>
+xmlId: top.putop.plugin</description>
+      <pubDate>Mon, 02 Feb 2026 07:17:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30026-xueqiu-reader</guid>
+      <dc:date>2026-02-02T07:17:04Z</dc:date>
     </item>
     <item>
-      <title>DDL Generator - Thu Jan 29 10:37:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29976-ddl-generator</link>
-      <description>DDL Generator - A powerful IntelliJ IDEA plugin for generating Java code from database DDL statements with just one click. English | 中文介绍 ✨ Key Features One-Click...
+      <title>AdonisJS Helper - Mon Feb 02 15:33:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30029-adonisjs-helper</link>
+      <description>Helps to initialize AdonisJS projects via the IDE.
 
-vendor: DDL Code Generator
-downloads: 4
+vendor: Artificyal
+downloads: 0
 pricingModel: FREE
-xmlId: com.ddl.generator.plugin</description>
-      <pubDate>Thu, 29 Jan 2026 10:37:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29976-ddl-generator</guid>
-      <dc:date>2026-01-29T10:37:31Z</dc:date>
+xmlId: com.artificyal.adonisjs.plugin</description>
+      <pubDate>Mon, 02 Feb 2026 15:33:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30029-adonisjs-helper</guid>
+      <dc:date>2026-02-02T15:33:41Z</dc:date>
     </item>
     <item>
-      <title>Livewire Component Folder - Fri Jan 30 12:47:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29990-livewire-component-folder</link>
-      <description>Livewire Component Folder Enhanced project tree view for Laravel Livewire components. Features Displays component name instead of folder name with lightning bolt icon...
+      <title>DDLABS-Redacter - Sat Jan 31 17:49:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30005-ddlabs-redacter</link>
+      <description>Redacter is a lightweight, free, and open-source IntelliJ IDEA plugin that empowers developers to quickly safeguard projects by redacting/revealing sensitive files...
 
-vendor: Wojt Janowski
-downloads: 36
+vendor: Debadatta Mishra
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.livewirecomponentfolder</description>
-      <pubDate>Fri, 30 Jan 2026 12:47:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29990-livewire-component-folder</guid>
-      <dc:date>2026-01-30T12:47:00Z</dc:date>
+xmlId: com.ddlab.rnd.ddlabs-redacter</description>
+      <pubDate>Sat, 31 Jan 2026 17:49:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30005-ddlabs-redacter</guid>
+      <dc:date>2026-01-31T17:49:57Z</dc:date>
     </item>
     <item>
-      <title>FlywayHelper - Wed Jan 28 11:56:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29964-flywayhelper</link>
-      <description>Flyway database version management helper plugin for IntelliJ IDEA. Features: Get the latest SQL version of each branch in your project One-click fix for Flyway SQL...
+      <title>FTC Code Snippets - Sun Feb 01 17:37:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30017-ftc-code-snippets</link>
+      <description>A productivity plugin for FIRST Tech Challenge (FTC) robotics teams using IntelliJ IDEA or Android Studio. Note: This plugin generates templates for the SolversLib...
 
-vendor: 速猿科技有限公司
-downloads: 8
+vendor: Cohen
+downloads: 0
 pricingModel: FREE
-xmlId: com.aliyun.codeup.plugin.flyway.version</description>
-      <pubDate>Wed, 28 Jan 2026 11:56:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29964-flywayhelper</guid>
-      <dc:date>2026-01-28T11:56:10Z</dc:date>
+xmlId: com.cohenhill.ftc.codesnippets</description>
+      <pubDate>Sun, 01 Feb 2026 17:37:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30017-ftc-code-snippets</guid>
+      <dc:date>2026-02-01T17:37:19Z</dc:date>
     </item>
     <item>
-      <title>ANTLR4 Plus - Mon Jan 26 00:13:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29781-antlr4-plus</link>
-      <description>New in ANTLR4+ Dual Runtime Support - Choose between Java (ECJ) or Kotlin compiler for grammar preview. Both compilers are bundled - no external JDK required Compiled...
+      <title>SQL Server Monitoring - Sat Jan 31 21:44:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30007-sql-server-monitoring</link>
+      <description>A JetBrains plugin to monitor SQL Server databases directly within your IDE, including DataGrip and IntelliJ IDEA Ultimate. Key Features: Real-time monitoring of...
 
-vendor: Antoni Tremblay
-downloads: 41
-pricingModel: PAID
-xmlId: com.antlr4plus</description>
-      <pubDate>Mon, 26 Jan 2026 00:13:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29781-antlr4-plus</guid>
-      <dc:date>2026-01-26T00:13:48Z</dc:date>
-    </item>
-    <item>
-      <title>Runner for GitHub Actions - Mon Feb 02 12:13:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29981-runner-for-github-actions</link>
-      <description>Run selected scripts (or files) directly on GitHub Actions from your JetBrains IDE. Ideal for tasks requiring high bandwidth (e.g., Docker image mirroring), specific...
-
-vendor: foyoux
-downloads: 89
+vendor: Ancelotow
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.foyoux.githubactionrunner</description>
-      <pubDate>Mon, 02 Feb 2026 12:13:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29981-runner-for-github-actions</guid>
-      <dc:date>2026-02-02T12:13:34Z</dc:date>
-    </item>
-    <item>
-      <title>Unreal Project Model Mods Fix - Wed Jan 28 23:48:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29974-unreal-project-model-mods-fix</link>
-      <description>Fixes Rider .uproject Solution Model not showing Unreal Engine C++ plugins located under ProjectDir/Mods in the Solution Explorer. Associated issue on YouTrack...
-
-vendor: Archengius (Nikita Zolotukhin)
-downloads: 7
-pricingModel: FREE
-xmlId: me.archengius.projectmodelmodsfix</description>
-      <pubDate>Wed, 28 Jan 2026 23:48:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29974-unreal-project-model-mods-fix</guid>
-      <dc:date>2026-01-28T23:48:56Z</dc:date>
-    </item>
-    <item>
-      <title>Fish Shell - Thu Jan 29 23:38:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29973-fish-shell</link>
-      <description>Comprehensive language support for Fish shell scripts with advanced IDE features. Syntax Highlighting Rich highlighting for keywords, variables, strings, comments...
-
-vendor: Fish Shell
-downloads: 81
-pricingModel: FREE
-xmlId: com.github.toxdev.fish</description>
-      <pubDate>Thu, 29 Jan 2026 23:38:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29973-fish-shell</guid>
-      <dc:date>2026-01-29T23:38:40Z</dc:date>
-    </item>
-    <item>
-      <title>Git AI - Mon Feb 02 05:56:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29953-git-ai</link>
-      <description>Git AI tracks code generated by AI coding agents in your JetBrains IDE. When AI agents like GitHub Copilot make edits, Git AI automatically records which lines were...
-
-vendor: Git AI
-downloads: 12
-pricingModel: FREE
-xmlId: com.usegitai.plugins.jetbrains</description>
-      <pubDate>Mon, 02 Feb 2026 05:56:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29953-git-ai</guid>
-      <dc:date>2026-02-02T05:56:22Z</dc:date>
-    </item>
-    <item>
-      <title>SQLinForm SQL Formatter - Thu Jan 15 23:28:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29786-sqlinform-sql-formatter</link>
-      <description>Professional SQL Formatter for JetBrains IDEs SQLinForm formats your SQL code with over 200 customizable options, supporting 25+ SQL dialects. Features 200+ formatting...
-
-vendor: Gu.The Software
-downloads: 19
-pricingModel: FREE
-xmlId: com.sqlinform.jetbrains</description>
-      <pubDate>Thu, 15 Jan 2026 23:28:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29786-sqlinform-sql-formatter</guid>
-      <dc:date>2026-01-15T23:28:22Z</dc:date>
-    </item>
-    <item>
-      <title>DevToolbox - Thu Jan 29 12:39:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29978-devtoolbox</link>
-      <description>A comprehensive developer toolbox plugin for IntelliJ IDEA, providing essential utilities for daily development tasks. Features: JSON Formatter - Beautify, compress...
-
-vendor: yichangyiwai
-downloads: 10
-pricingModel: FREE
-xmlId: com.yichangyiwai.devtoolbox</description>
-      <pubDate>Thu, 29 Jan 2026 12:39:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29978-devtoolbox</guid>
-      <dc:date>2026-01-29T12:39:58Z</dc:date>
-    </item>
-    <item>
-      <title>XenForo Query - Thu Jan 29 18:56:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/27119-xenforo-query</link>
-      <description>Supercharge your XenForo projects in PhpStorm with the XenForo Query plugin! It connects directly to your project's database, giving you a powerful toolkit for...
-
-vendor: XenForo
-downloads: 31
-pricingModel: FREE
-xmlId: com.github.xenforo.query</description>
-      <pubDate>Thu, 29 Jan 2026 18:56:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27119-xenforo-query</guid>
-      <dc:date>2026-01-29T18:56:56Z</dc:date>
-    </item>
-    <item>
-      <title>Service Links - Mon Feb 02 14:23:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29795-service-links</link>
-      <description>Keep all project links in one place and open them instantly from the IDE. Service Links puts Git, Jira, Confluence, CI, docs, dashboards, and anything else one click...
-
-vendor: Chris Binder
-downloads: 70
-pricingModel: FREEMIUM
-xmlId: com.chrisbinder.servicelinks</description>
-      <pubDate>Mon, 02 Feb 2026 14:23:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29795-service-links</guid>
-      <dc:date>2026-02-02T14:23:39Z</dc:date>
-    </item>
-    <item>
-      <title>Agent Skills Manager - Sun Feb 01 12:52:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29975-agent-skills-manager</link>
-      <description>Agent Skills Manager is an IntelliJ IDEA plugin that transforms your development environment into a powerful "skills" server for AI assistants. It allows you to export...
-
-vendor: B@RTlab
-downloads: 32
-pricingModel: FREE
-xmlId: com.bartlab.agentskills</description>
-      <pubDate>Sun, 01 Feb 2026 12:52:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29975-agent-skills-manager</guid>
-      <dc:date>2026-02-01T12:52:28Z</dc:date>
-    </item>
-    <item>
-      <title>package-fixer - Thu Jan 29 07:12:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29977-package-fixer</link>
-      <description>Package Fixer is an IntelliJ IDEA plugin action that aligns Java and Kotlin package declarations with the directory structure for selected folders. Usage Ensure the...
-
-vendor: zjarlin
-downloads: 7
-pricingModel: FREE
-xmlId: site.addzero.package-fixer</description>
-      <pubDate>Thu, 29 Jan 2026 07:12:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29977-package-fixer</guid>
-      <dc:date>2026-01-29T07:12:29Z</dc:date>
+xmlId: org.ancelotow.sql-server-monitoring</description>
+      <pubDate>Sat, 31 Jan 2026 21:44:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30007-sql-server-monitoring</guid>
+      <dc:date>2026-01-31T21:44:16Z</dc:date>
     </item>
   </channel>
 </rss>
