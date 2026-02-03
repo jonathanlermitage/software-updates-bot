@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|25.6.0|[nodejs.org](https://nodejs.org)|Tue Feb 03 12:05:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 00:08:19 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Feb 02 12:05:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jan 31 00:06:46 UTC 2026|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 28 12:02:28 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.0 to 19.4.5 ~ 2026-01-27|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jan 27 20:02:07 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.1 (2026-01-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jan 27 20:01:58 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|25.5.0|[nodejs.org](https://nodejs.org)|Tue Jan 27 00:06:48 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.2.RELEASE|[start.spring.io](https://start.spring.io)|Fri Jan 23 12:03:01 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.2 (253.30387.90) ~ 2026-01-22|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jan 22 16:04:34 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jan 22 12:02:46 UTC 2026|
