@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.25.7|[golang.org](https://golang.org/dl/)|Wed Feb 04 16:12:24 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Feb 04 00:06:12 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.3|[www.python.org](https://www.python.org/downloads/windows/)|Tue Feb 03 20:07:06 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Feb 03 20:07:05 UTC 2026|
@@ -22,7 +23,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 21 16:05:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 21 12:02:36 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 335 - 200 terminaux en prod vendredi|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jan 16 12:02:40 UTC 2026|
-|![logo](../media/logo/go.png) Go|go1.25.6|[golang.org](https://golang.org/dl/)|Thu Jan 15 20:02:37 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.13.0|[nodejs.org](https://nodejs.org)|Tue Jan 13 16:03:15 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
