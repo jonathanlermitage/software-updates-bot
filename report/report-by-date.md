@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Feb 04 00:06:12 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.3|[www.python.org](https://www.python.org/downloads/windows/)|Tue Feb 03 20:07:06 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Feb 03 20:07:05 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:44 UTC 2026|
@@ -34,7 +35,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.1|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:34 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.29+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 06 12:03:28 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.17+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 31 00:06:19 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u472-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 30 04:02:53 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
