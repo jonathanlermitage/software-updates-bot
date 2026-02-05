@@ -20,7 +20,7 @@
 |![logo](../media/logo/go.png) Go|go1.25.7|[golang.org](https://golang.org/dl/)|Wed Feb 04 16:12:24 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.3.1|[gradle.org](https://gradle.org/releases)|Thu Jan 29 16:07:55 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.19799.20) ~ 2026-01-29|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jan 29 16:07:59 UTC 2026|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.20362.25) ~ 2026-02-05|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Feb 05 12:06:27 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.2 (253.30387.90) ~ 2026-01-22|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jan 22 16:04:34 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.0 to 19.4.5 ~ 2026-01-27|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jan 27 20:02:07 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 335 - 200 terminaux en prod vendredi|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Jan 16 12:02:40 UTC 2026|

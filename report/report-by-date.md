@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.20362.25) ~ 2026-02-05|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Feb 05 12:06:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:14 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Feb 04 20:05:42 UTC 2026|
@@ -15,7 +16,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Feb 02 12:05:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jan 31 00:06:46 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jan 30 04:29:31 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.19799.20) ~ 2026-01-29|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jan 29 16:07:59 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.3.1|[gradle.org](https://gradle.org/releases)|Thu Jan 29 16:07:55 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 28 12:02:28 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.0 to 19.4.5 ~ 2026-01-27|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jan 27 20:02:07 UTC 2026|
