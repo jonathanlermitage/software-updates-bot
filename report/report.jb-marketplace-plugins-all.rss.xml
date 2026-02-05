@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Nginx Configuration Formatter - Wed Feb 04 01:18:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30013-nginx-configuration-formatter</link>
+      <description>Format Nginx configuration files with proper indentation and structure. Shortcuts: Ctrl + Alt + Shift + N command + option + shift + N (for macOS) The reformatter is...
+
+vendor: AyakuraYuki
+downloads: 1
+pricingModel: FREE
+xmlId: cc.ayakurayuki.nginx-configuration-formatter</description>
+      <pubDate>Wed, 04 Feb 2026 01:18:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30013-nginx-configuration-formatter</guid>
+      <dc:date>2026-02-04T01:18:19Z</dc:date>
+    </item>
+    <item>
+      <title>GherkinLint - Wed Feb 04 14:27:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30061-gherkinlint</link>
+      <description>Write consistent, review-ready BDD Gherkin with a single click. GherkinLint validates selected steps in feature files and story files (Cucumber, JBehave), flags...
+
+vendor: Vivek Chatrola
+downloads: 0
+pricingModel: FREE
+xmlId: com.vchatrola.gherkinlint</description>
+      <pubDate>Wed, 04 Feb 2026 14:27:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30061-gherkinlint</guid>
+      <dc:date>2026-02-04T14:27:22Z</dc:date>
+    </item>
+    <item>
       <title>XEChat - Wed Feb 04 07:14:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29939-xechat</link>
       <description>Enjoy the fun of instant chatting in IDEA! Main features: 1. Instant chatting 2. Online game battles 3. Reading novels 4. Watching videos through browser, including...
@@ -238,32 +264,6 @@ xmlId: dev.dong4j.zeka.stack.idea.plugin.terminal</description>
       <pubDate>Tue, 03 Feb 2026 16:52:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29989-intelliai-terminal</guid>
       <dc:date>2026-02-03T16:52:01Z</dc:date>
-    </item>
-    <item>
-      <title>Live Coverage - Tue Feb 03 13:17:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30048-live-coverage</link>
-      <description>Live Coverage Provides real-time code coverage analysis, powered by JaCoCo. Features Cumulative Coverage Mode: Continuously highlights all executed code. Use "Clear...
-
-vendor: Showen Development
-downloads: 1
-pricingModel: FREE
-xmlId: org.showen.livecoverageplugin</description>
-      <pubDate>Tue, 03 Feb 2026 13:17:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30048-live-coverage</guid>
-      <dc:date>2026-02-03T13:17:22Z</dc:date>
-    </item>
-    <item>
-      <title>Matrix Hero - Tue Feb 03 22:54:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30022-matrix-hero</link>
-      <description>The plugin adds first-class support for MATLAB to IntelliJ IDEA and other JetBrains IDEs. Note that the plugin developers are not affiliated with MathWorks and are...
-
-vendor: Language Heroes
-downloads: 2
-pricingModel: PAID
-xmlId: com.langheroes.matlab</description>
-      <pubDate>Tue, 03 Feb 2026 22:54:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30022-matrix-hero</guid>
-      <dc:date>2026-02-03T22:54:45Z</dc:date>
     </item>
   </channel>
 </rss>
