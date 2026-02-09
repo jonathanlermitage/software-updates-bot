@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Parquet SQL Viewer - Fri Feb 06 08:00:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30067-parquet-sql-viewer</link>
+      <description>High-performance Parquet file viewer using DuckDB SQL. Fast local processing: Powered by the DuckDB engine. Full SQL support: Perform JOINs, aggregations, and filters...
+
+vendor: MukeshSinghRana
+downloads: 6
+pricingModel: FREE
+xmlId: no.statnett.parquet.sql</description>
+      <pubDate>Fri, 06 Feb 2026 08:00:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30067-parquet-sql-viewer</guid>
+      <dc:date>2026-02-06T08:00:06Z</dc:date>
+    </item>
+    <item>
+      <title>BreakBeat - Mon Feb 09 16:01:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30106-breakbeat</link>
+      <description>BreakBeat – Audible Debugging for IntelliJ Bring your debugging experience to life with BreakBeat, the IntelliJ plugin that plays custom sounds whenever your...
+
+vendor: Nikola Laskov
+downloads: 1
+pricingModel: FREE
+xmlId: bg.laskov.breakbeat</description>
+      <pubDate>Mon, 09 Feb 2026 16:01:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30106-breakbeat</guid>
+      <dc:date>2026-02-09T16:01:35Z</dc:date>
+    </item>
+    <item>
+      <title>wor - Mon Feb 09 14:34:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30127-wor</link>
+      <description>World of Refactoring transforms your IntelliJ IDEA refactoring workflow into an engaging experience! Earn XP, level up, and complete quests as you improve your...
+
+vendor: World Of Refactorer
+downloads: 0
+pricingModel: FREE
+xmlId: com.yot.wor</description>
+      <pubDate>Mon, 09 Feb 2026 14:34:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30127-wor</guid>
+      <dc:date>2026-02-09T14:34:46Z</dc:date>
+    </item>
+    <item>
+      <title>OpenapiSpecGenie - Mon Feb 09 14:01:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30125-openapispecgenie</link>
+      <description>OpenapiSpecGenie is an IntelliJ IDEA plugin for generating OpenAPI 3.1 specifications from Spring Boot applications. OpenapiSpecGenie 是一款面向 Spring Boot 的 OpenAPI...
+
+vendor: xinglan
+downloads: 0
+pricingModel: FREE
+xmlId: cn.duxinglan.openapispecgenie</description>
+      <pubDate>Mon, 09 Feb 2026 14:01:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30125-openapispecgenie</guid>
+      <dc:date>2026-02-09T14:01:39Z</dc:date>
+    </item>
+    <item>
       <title>CSS to RFS - Mon Feb 09 13:31:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30126-css-to-rfs</link>
       <description>CSS to RFS converts between standard CSS property declarations and Bootstrap RFS @include rfs() mixin syntax directly in your editor. Features: Convert CSS properties...
@@ -136,7 +188,7 @@ xmlId: com.hqz.quick.ai.quick-ai-plugin</description>
       <dc:date>2026-02-09T03:21:24Z</dc:date>
     </item>
     <item>
-      <title>OverCode - Sun Feb 08 17:17:21 UTC 2026</title>
+      <title>OverCode - Mon Feb 09 16:56:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30117-overcode</link>
       <description>OverCode is an intelligent AI assistant plugin for IntelliJ IDEA. It provides seamless integration with various LLM providers (OpenAI, Gemini, Ollama) to help...
 
@@ -144,9 +196,9 @@ vendor: guofan
 downloads: 0
 pricingModel: FREE
 xmlId: com.guofan.overcode</description>
-      <pubDate>Sun, 08 Feb 2026 17:17:21 GMT</pubDate>
+      <pubDate>Mon, 09 Feb 2026 16:56:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30117-overcode</guid>
-      <dc:date>2026-02-08T17:17:21Z</dc:date>
+      <dc:date>2026-02-09T16:56:46Z</dc:date>
     </item>
     <item>
       <title>Auto Deploy to Remote Server - Mon Feb 09 03:01:53 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: codesign.redtiger.markdown-live-image</description>
       <pubDate>Sat, 07 Feb 2026 17:25:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30003-markdown-live-image</guid>
       <dc:date>2026-02-07T17:25:52Z</dc:date>
-    </item>
-    <item>
-      <title>LDAP Explorer - Sun Feb 08 16:30:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30104-ldap-explorer</link>
-      <description>LDAP Explorer plugin for IntelliJ IDEA - A powerful tool to manage and explore LDAP directories. Features Connection Management - Create, edit, and delete LDAP...
-
-vendor: Manuel Kolm
-downloads: 16
-pricingModel: FREE
-xmlId: com.ktlwap.ldap-explorer</description>
-      <pubDate>Sun, 08 Feb 2026 16:30:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30104-ldap-explorer</guid>
-      <dc:date>2026-02-08T16:30:36Z</dc:date>
-    </item>
-    <item>
-      <title>Tell Me - Sat Feb 07 14:13:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30101-tell-me</link>
-      <description>A powerful local AI assistant for IntelliJ IDEA. Analyze, explain, and refactor your code using local LLMs via Ollama. Features: Local &amp;amp; Private: All processing is...
-
-vendor: EaseStack
-downloads: 7
-pricingModel: FREE
-xmlId: com.tellme.tellme-plugin</description>
-      <pubDate>Sat, 07 Feb 2026 14:13:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30101-tell-me</guid>
-      <dc:date>2026-02-07T14:13:02Z</dc:date>
-    </item>
-    <item>
-      <title>QuikLog - Sun Feb 08 19:06:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30096-quiklog</link>
-      <description>QuikLog lets you quickly insert debug log statements for any variable in your code. Stop writing repetitive console.log statements manually!.
-
-vendor: codeygallup
-downloads: 31
-pricingModel: FREE
-xmlId: com.codeygallup.quiklog-intellij</description>
-      <pubDate>Sun, 08 Feb 2026 19:06:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30096-quiklog</guid>
-      <dc:date>2026-02-08T19:06:32Z</dc:date>
-    </item>
-    <item>
-      <title>Elasticsearch ES|QL - Thu Feb 05 11:51:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/28898-elasticsearch-es-ql</link>
-      <description>Experimental IntelliJ IDEA Plugin to provide ESQL autocomplete, syntax check and documentation to strings.
-
-vendor: Elastic
-downloads: 16
-pricingModel: FREE
-xmlId: co.elastic.esql-idea-plugin</description>
-      <pubDate>Thu, 05 Feb 2026 11:51:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28898-elasticsearch-es-ql</guid>
-      <dc:date>2026-02-05T11:51:27Z</dc:date>
     </item>
   </channel>
 </rss>
