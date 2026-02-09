@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>OverCode - Sun Feb 08 17:17:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30117-overcode</link>
+      <description>OverCode is an intelligent AI assistant plugin for IntelliJ IDEA. It provides seamless integration with various LLM providers (OpenAI, Gemini, Ollama) to help...
+
+vendor: guofan
+downloads: 0
+pricingModel: FREE
+xmlId: com.guofan.overcode</description>
+      <pubDate>Sun, 08 Feb 2026 17:17:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30117-overcode</guid>
+      <dc:date>2026-02-08T17:17:21Z</dc:date>
+    </item>
+    <item>
+      <title>Auto Deploy to Remote Server - Mon Feb 09 03:01:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30120-auto-deploy-to-remote-server</link>
+      <description>Auto Deploy Plugin A powerful IntelliJ IDEA plugin for automated deployment to remote servers via SSH. Features Custom Run Configuration for deployment tasks Automatic...
+
+vendor: liuyang
+downloads: 0
+pricingModel: FREE
+xmlId: com.deploy.auto-deploy</description>
+      <pubDate>Mon, 09 Feb 2026 03:01:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30120-auto-deploy-to-remote-server</guid>
+      <dc:date>2026-02-09T03:01:53Z</dc:date>
+    </item>
+    <item>
+      <title>DevFocus - Sun Feb 08 12:59:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30114-devfocus</link>
+      <description>DevFocus helps you apply the Pomodoro Technique to your development workflow without leaving the editor. Use it to set focused 25-minute sessions, get break reminders...
+
+vendor: Akshay Ashok
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.akshayashokcode.devfocus</description>
+      <pubDate>Sun, 08 Feb 2026 12:59:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30114-devfocus</guid>
+      <dc:date>2026-02-08T12:59:44Z</dc:date>
+    </item>
+    <item>
+      <title>CodeMate Assistant - Mon Feb 09 02:41:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30119-codemate-assistant</link>
+      <description>CodeMate is a code assistant plugin for IntelliJ IDEA. It improves development efficiency with batch setter generation, method skeleton generation, MyBatis to SQL...
+
+vendor: wrxfxdd
+downloads: 0
+pricingModel: FREE
+xmlId: com.wrx.codemate</description>
+      <pubDate>Mon, 09 Feb 2026 02:41:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30119-codemate-assistant</guid>
+      <dc:date>2026-02-09T02:41:10Z</dc:date>
+    </item>
+    <item>
       <title>Multiads-Utils - Sat Feb 07 17:56:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30066-multiads-utils</link>
       <description>Flutter Tools and Utils For MultiAds and Rb Properties.
@@ -201,69 +253,17 @@ xmlId: com.jsonpathsearch</description>
       <dc:date>2026-02-06T08:44:31Z</dc:date>
     </item>
     <item>
-      <title>GitDiffBatch - Sun Feb 08 09:59:46 UTC 2026</title>
+      <title>GitDiffBatch - Mon Feb 09 09:36:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30102-gitdiffbatch</link>
-      <description>Display the Diff of the selected modified files in Git Log in batch, facilitating manual review of code merges. Usage: 1. Select the commits you want to view in Git...
+      <description>A Painfully Real Scenario: Manual Code Merge in IntelliJ IDEA If you use IntelliJ IDEA (or any JetBrains IDE) and frequently need to manually merge code, you have...
 
 vendor: 忒星科技
 downloads: 6
 pricingModel: FREE
 xmlId: com.teixing.gitdiffbatch</description>
-      <pubDate>Sun, 08 Feb 2026 09:59:46 GMT</pubDate>
+      <pubDate>Mon, 09 Feb 2026 09:36:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30102-gitdiffbatch</guid>
-      <dc:date>2026-02-08T09:59:46Z</dc:date>
-    </item>
-    <item>
-      <title>Android Localization Assistant - Fri Feb 06 19:30:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30099-android-localization-assistant</link>
-      <description>Assistant for Android localization. Automatically translates strings.xml and arrays.xml using various translation services.
-
-vendor: zigzagyc
-downloads: 8
-pricingModel: FREE
-xmlId: com.antigravity.localization.android-localization-extension</description>
-      <pubDate>Fri, 06 Feb 2026 19:30:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30099-android-localization-assistant</guid>
-      <dc:date>2026-02-06T19:30:26Z</dc:date>
-    </item>
-    <item>
-      <title>Reader Master - Fri Feb 06 06:59:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30080-reader-master</link>
-      <description>English Reader Master: A high-performance EPUB reader integrated into your IDE. Read technical books while coding. Controls: Supports left and right arrow keys, A/D...
-
-vendor: haj1megg8
-downloads: 12
-pricingModel: FREE
-xmlId: com.shaoYe.reader</description>
-      <pubDate>Fri, 06 Feb 2026 06:59:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30080-reader-master</guid>
-      <dc:date>2026-02-06T06:59:40Z</dc:date>
-    </item>
-    <item>
-      <title>Priset - The Autonomous AI Engineering Partner - Fri Feb 06 10:33:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29894-priset--the-autonomous-ai-engineering-partner</link>
-      <description>Priset – The Autonomous AI Engineering Partner Build Better Software, Faster, with Unrivaled Autonomy, securely within the JetBrains Suite. The Priset Pitch: Build...
-
-vendor: Priset – The Autonomous AI Engineering Partner
-downloads: 15
-pricingModel: FREE
-xmlId: com.priset.plugin</description>
-      <pubDate>Fri, 06 Feb 2026 10:33:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29894-priset--the-autonomous-ai-engineering-partner</guid>
-      <dc:date>2026-02-06T10:33:55Z</dc:date>
-    </item>
-    <item>
-      <title>doodler - Thu Feb 05 16:53:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30082-doodler</link>
-      <description>Minimal doodling canvas in the IDE. Create quick sketches and freehand notes without leaving your editor. Key features: Simple pen and shapes drawing on a clean...
-
-vendor: Jan Chabik
-downloads: 13
-pricingModel: FREE
-xmlId: com.janchabik.doodler</description>
-      <pubDate>Thu, 05 Feb 2026 16:53:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30082-doodler</guid>
-      <dc:date>2026-02-05T16:53:26Z</dc:date>
+      <dc:date>2026-02-09T09:36:46Z</dc:date>
     </item>
   </channel>
 </rss>
