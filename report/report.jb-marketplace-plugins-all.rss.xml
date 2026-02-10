@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>HyUI - Mon Feb 09 15:45:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30098-hyui</link>
+      <description>A plugin to provide editor features for Hytale UI files.
+
+vendor: UltraDev
+downloads: 2
+pricingModel: FREE
+xmlId: app.ultradev.hytaleui</description>
+      <pubDate>Mon, 09 Feb 2026 15:45:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30098-hyui</guid>
+      <dc:date>2026-02-09T15:45:03Z</dc:date>
+    </item>
+    <item>
+      <title>agent-dispatcher - Mon Feb 09 15:49:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30128-agent-dispatcher</link>
+      <description>Manage multiple ACP (Agent Client Protocol) compatible coding agents directly from your IDE. Agent Dispatcher provides multi-agent session management, real-time...
+
+vendor: Phodal Huang
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.phodal.agentdispatcher</description>
+      <pubDate>Mon, 09 Feb 2026 15:49:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30128-agent-dispatcher</guid>
+      <dc:date>2026-02-09T15:49:14Z</dc:date>
+    </item>
+    <item>
+      <title>Fast Rainbow Brackets - Mon Feb 09 19:38:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30131-fast-rainbow-brackets</link>
+      <description>Colorize matching brackets with rainbow colors for improved readability.
+
+vendor: Paol0B
+downloads: 0
+pricingModel: FREE
+xmlId: it.paol0b.rainbowbrackets</description>
+      <pubDate>Mon, 09 Feb 2026 19:38:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30131-fast-rainbow-brackets</guid>
+      <dc:date>2026-02-09T19:38:01Z</dc:date>
+    </item>
+    <item>
+      <title>Unicode Tikki - Mon Feb 09 15:55:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30129-unicode-tikki</link>
+      <description>Converts non-ASCII Unicode characters (codes above U+007F) to escaped UTF-16 sequences (\uXXXX) and vice versa. ASCII characters (U+0000 through U+007F) remain...
+
+vendor: Anatolii Vasilev
+downloads: 0
+pricingModel: FREE
+xmlId: com.myskillskit.unicode</description>
+      <pubDate>Mon, 09 Feb 2026 15:55:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30129-unicode-tikki</guid>
+      <dc:date>2026-02-09T15:55:01Z</dc:date>
+    </item>
+    <item>
       <title>Parquet SQL Viewer - Fri Feb 06 08:00:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30067-parquet-sql-viewer</link>
       <description>High-performance Parquet file viewer using DuckDB SQL. Fast local processing: Powered by the DuckDB engine. Full SQL support: Perform JOINs, aggregations, and filters...
@@ -162,7 +214,7 @@ xmlId: com.github.zhenyuan.gitpullreminder</description>
       <dc:date>2026-02-08T02:56:30Z</dc:date>
     </item>
     <item>
-      <title>Wippy - Mon Feb 09 10:50:57 UTC 2026</title>
+      <title>Wippy - Mon Feb 09 17:53:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30113-wippy</link>
       <description>Github | Telegram | Documentation | Donation Wippy IntelliJ IDEA plugin that provides first-class support for the Wippy agentic platform. It understands registry entry...
 
@@ -170,9 +222,9 @@ vendor: xepozz
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.xepozz.wippy</description>
-      <pubDate>Mon, 09 Feb 2026 10:50:57 GMT</pubDate>
+      <pubDate>Mon, 09 Feb 2026 17:53:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30113-wippy</guid>
-      <dc:date>2026-02-09T10:50:57Z</dc:date>
+      <dc:date>2026-02-09T17:53:13Z</dc:date>
     </item>
     <item>
       <title>Quick AI - Mon Feb 09 03:21:24 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.deploy.auto-deploy</description>
       <pubDate>Mon, 09 Feb 2026 03:01:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30120-auto-deploy-to-remote-server</guid>
       <dc:date>2026-02-09T03:01:53Z</dc:date>
-    </item>
-    <item>
-      <title>DevFocus - Sun Feb 08 12:59:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30114-devfocus</link>
-      <description>DevFocus helps you apply the Pomodoro Technique to your development workflow without leaving the editor. Use it to set focused 25-minute sessions, get break reminders...
-
-vendor: Akshay Ashok
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.akshayashokcode.devfocus</description>
-      <pubDate>Sun, 08 Feb 2026 12:59:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30114-devfocus</guid>
-      <dc:date>2026-02-08T12:59:44Z</dc:date>
-    </item>
-    <item>
-      <title>CodeMate Assistant - Mon Feb 09 02:41:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30119-codemate-assistant</link>
-      <description>CodeMate is a code assistant plugin for IntelliJ IDEA. It improves development efficiency with batch setter generation, method skeleton generation, MyBatis to SQL...
-
-vendor: wrxfxdd
-downloads: 0
-pricingModel: FREE
-xmlId: com.wrx.codemate</description>
-      <pubDate>Mon, 09 Feb 2026 02:41:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30119-codemate-assistant</guid>
-      <dc:date>2026-02-09T02:41:10Z</dc:date>
-    </item>
-    <item>
-      <title>Multiads-Utils - Sat Feb 07 17:56:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30066-multiads-utils</link>
-      <description>Flutter Tools and Utils For MultiAds and Rb Properties.
-
-vendor: Rb Techlab
-downloads: 20
-pricingModel: FREE
-xmlId: com.coderrb.flutter-utils-rb</description>
-      <pubDate>Sat, 07 Feb 2026 17:56:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30066-multiads-utils</guid>
-      <dc:date>2026-02-07T17:56:21Z</dc:date>
-    </item>
-    <item>
-      <title>Markdown Live Image - Sat Feb 07 17:25:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30003-markdown-live-image</link>
-      <description>Visual &amp;amp; Organized Markdown Editing Live Markdown enhances your IntelliJ IDEA experience by bringing seamless image management and real-time visual feedback...
-
-vendor: Codesign
-downloads: 4
-pricingModel: FREE
-xmlId: codesign.redtiger.markdown-live-image</description>
-      <pubDate>Sat, 07 Feb 2026 17:25:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30003-markdown-live-image</guid>
-      <dc:date>2026-02-07T17:25:52Z</dc:date>
     </item>
   </channel>
 </rss>
