@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.13.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS Current|25.6.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 336 - Interview Kotlin avec Arnaud Giuliani|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Feb 06 16:09:49 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.20362.25) ~ 2026-02-05|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Feb 05 12:06:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:14 UTC 2026|
@@ -12,7 +14,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:43 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:41 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|25.6.0|[nodejs.org](https://nodejs.org)|Tue Feb 03 12:05:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 00:08:19 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Feb 02 12:05:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jan 31 00:06:46 UTC 2026|
@@ -26,7 +27,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jan 22 12:02:46 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 21 16:05:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 21 12:02:36 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.13.0|[nodejs.org](https://nodejs.org)|Tue Jan 13 16:03:15 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
