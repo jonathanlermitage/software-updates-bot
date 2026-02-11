@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Stock View - Wed Feb 11 06:16:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30147-stock-view</link>
+      <description>A powerful IntelliJ IDEA plugin for real-time viewing of Chinese A-share stock data within the IDE. Key Features: Real-time Market Data: View real-time stock prices...
+
+vendor: ADUN
+downloads: 0
+pricingModel: FREE
+xmlId: com.stockview.plugin</description>
+      <pubDate>Wed, 11 Feb 2026 06:16:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30147-stock-view</guid>
+      <dc:date>2026-02-11T06:16:34Z</dc:date>
+    </item>
+    <item>
       <title>HoverDict - Tue Feb 10 08:27:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30137-hoverdict</link>
       <description>HoverDict — Instant offline hover translation for JetBrains IDEs. Hover over any English word in the editor to see its Chinese translation. Powered by ECDICT...
@@ -73,7 +86,7 @@ xmlId: de.buschmann.nextflow-lsp</description>
     <item>
       <title>JMS Worker - Fri Feb 06 19:51:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30081-jms-worker</link>
-      <description>Browse and send messages to JMS queues directly from IntelliJ IDEA. Features: Support for Apache ActiveMQ Artemis Support for IBM MQ Browse queue messages without...
+      <description>Browse and send messages to JMS queues and topics directly from IntelliJ IDEA. Features: Support for Apache ActiveMQ Artemis Support for IBM MQ Browse queue messages...
 
 vendor: MIRA
 downloads: 4
@@ -214,7 +227,7 @@ xmlId: bg.laskov.breakbeat</description>
       <dc:date>2026-02-10T20:37:12Z</dc:date>
     </item>
     <item>
-      <title>OpenapiSpecGenie - Mon Feb 09 14:01:39 UTC 2026</title>
+      <title>OpenapiSpecGenie - Wed Feb 11 14:39:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30125-openapispecgenie</link>
       <description>OpenapiSpecGenie is an IntelliJ IDEA plugin for generating OpenAPI 3.1 specifications from Spring Boot applications. OpenapiSpecGenie 是一款面向 Spring Boot 的 OpenAPI...
 
@@ -222,9 +235,9 @@ vendor: xinglan
 downloads: 8
 pricingModel: FREE
 xmlId: cn.duxinglan.openapispecgenie</description>
-      <pubDate>Mon, 09 Feb 2026 14:01:39 GMT</pubDate>
+      <pubDate>Wed, 11 Feb 2026 14:39:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30125-openapispecgenie</guid>
-      <dc:date>2026-02-09T14:01:39Z</dc:date>
+      <dc:date>2026-02-11T14:39:13Z</dc:date>
     </item>
     <item>
       <title>CSS to RFS - Mon Feb 09 13:31:09 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.github.cinari4.springprofileeditor</description>
       <pubDate>Tue, 10 Feb 2026 17:24:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30111-spring-profile-editor</guid>
       <dc:date>2026-02-10T17:24:04Z</dc:date>
-    </item>
-    <item>
-      <title>ANSIFlow - Sat Feb 07 20:55:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30105-ansiflow</link>
-      <description>Transform your log files into colorful, readable output! ANSIFlow automatically renders ANSI escape sequences in log files, making colored terminal output beautifully...
-
-vendor: ANSIFlOW
-downloads: 22
-pricingModel: FREE
-xmlId: com.ansiflow</description>
-      <pubDate>Sat, 07 Feb 2026 20:55:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30105-ansiflow</guid>
-      <dc:date>2026-02-07T20:55:05Z</dc:date>
     </item>
   </channel>
 </rss>
