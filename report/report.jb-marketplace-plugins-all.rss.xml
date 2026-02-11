@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Drawable Importer - Wed Feb 11 06:24:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29789-drawable-importer</link>
+      <description>A simple and efficient Android Studio / IntelliJ IDEA plugin for batch importing Android drawable resources. 一个简单高效的 Android Studio / IntelliJ IDEA 插件，用于批量导入 Android...
+
+vendor: Dong
+downloads: 5
+pricingModel: FREE
+xmlId: com.yndongyong.drawableimporter</description>
+      <pubDate>Wed, 11 Feb 2026 06:24:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29789-drawable-importer</guid>
+      <dc:date>2026-02-11T06:24:27Z</dc:date>
+    </item>
+    <item>
+      <title>Catalog File Comments - Wed Feb 11 01:11:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30144-catalog-file-comments</link>
+      <description>Catalog File Comments Your Code Directory "Sticky Notes" &amp;amp; Enterprise Architecture Panorama 你的代码目录“便利贴” &amp;amp; 企业级架构全景图 In large projects, filenames often fail to...
+
+vendor: QingXianStuio
+downloads: 0
+pricingModel: FREE
+xmlId: com.annotation.catalogfilecomment</description>
+      <pubDate>Wed, 11 Feb 2026 01:11:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30144-catalog-file-comments</guid>
+      <dc:date>2026-02-11T01:11:53Z</dc:date>
+    </item>
+    <item>
+      <title>Beacon Terminal Navigator - Wed Feb 11 14:38:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30152-beacon-terminal-navigator</link>
+      <description>Beacon Terminal Navigator Companion plugin for Beacon, a macOS menu bar app that sends notifications when Claude Code tasks complete. This plugin provides a local HTTP...
+
+vendor: lyoo
+downloads: 0
+pricingModel: FREE
+xmlId: dev.lyoo.beacon.terminal-navigator</description>
+      <pubDate>Wed, 11 Feb 2026 14:38:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30152-beacon-terminal-navigator</guid>
+      <dc:date>2026-02-11T14:38:53Z</dc:date>
+    </item>
+    <item>
       <title>Stock View - Wed Feb 11 06:16:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30147-stock-view</link>
       <description>A powerful IntelliJ IDEA plugin for real-time viewing of Chinese A-share stock data within the IDE. Key Features: Real-time Market Data: View real-time stock prices...
@@ -19,7 +58,7 @@ xmlId: com.stockview.plugin</description>
       <dc:date>2026-02-11T06:16:34Z</dc:date>
     </item>
     <item>
-      <title>HoverDict - Tue Feb 10 08:27:35 UTC 2026</title>
+      <title>HoverDict - Wed Feb 11 03:02:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30137-hoverdict</link>
       <description>HoverDict — Instant offline hover translation for JetBrains IDEs. Hover over any English word in the editor to see its Chinese translation. Powered by ECDICT...
 
@@ -27,9 +66,9 @@ vendor: helloxiaojii@gmail.com
 downloads: 1
 pricingModel: FREE
 xmlId: com.hoverdict.plugin</description>
-      <pubDate>Tue, 10 Feb 2026 08:27:35 GMT</pubDate>
+      <pubDate>Wed, 11 Feb 2026 03:02:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30137-hoverdict</guid>
-      <dc:date>2026-02-10T08:27:35Z</dc:date>
+      <dc:date>2026-02-11T03:02:46Z</dc:date>
     </item>
     <item>
       <title>Safeguard.sh IDE Extension - Mon Feb 09 12:37:55 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: bg.laskov.breakbeat</description>
       <pubDate>Tue, 10 Feb 2026 20:37:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30106-breakbeat</guid>
       <dc:date>2026-02-10T20:37:12Z</dc:date>
-    </item>
-    <item>
-      <title>OpenapiSpecGenie - Wed Feb 11 14:39:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30125-openapispecgenie</link>
-      <description>OpenapiSpecGenie is an IntelliJ IDEA plugin for generating OpenAPI 3.1 specifications from Spring Boot applications. OpenapiSpecGenie 是一款面向 Spring Boot 的 OpenAPI...
-
-vendor: xinglan
-downloads: 8
-pricingModel: FREE
-xmlId: cn.duxinglan.openapispecgenie</description>
-      <pubDate>Wed, 11 Feb 2026 14:39:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30125-openapispecgenie</guid>
-      <dc:date>2026-02-11T14:39:13Z</dc:date>
-    </item>
-    <item>
-      <title>CSS to RFS - Mon Feb 09 13:31:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30126-css-to-rfs</link>
-      <description>CSS to RFS converts between standard CSS property declarations and Bootstrap RFS @include rfs() mixin syntax directly in your editor. Features: Convert CSS properties...
-
-vendor: Jannik Sohn
-downloads: 8
-pricingModel: FREE
-xmlId: dev.csstorfs</description>
-      <pubDate>Mon, 09 Feb 2026 13:31:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30126-css-to-rfs</guid>
-      <dc:date>2026-02-09T13:31:09Z</dc:date>
-    </item>
-    <item>
-      <title>spring-profile-editor - Tue Feb 10 17:24:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30111-spring-profile-editor</link>
-      <description>Unified Profile Management for Spring Boot Manage Spring Boot configurations across multiple profiles and files within a single, integrated tool window. Spring Profile...
-
-vendor: KAuxia
-downloads: 37
-pricingModel: FREE
-xmlId: com.github.cinari4.springprofileeditor</description>
-      <pubDate>Tue, 10 Feb 2026 17:24:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30111-spring-profile-editor</guid>
-      <dc:date>2026-02-10T17:24:04Z</dc:date>
     </item>
   </channel>
 </rss>
