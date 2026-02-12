@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Faker Quick - Wed Feb 11 02:48:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30145-faker-quick</link>
+      <description>Provides faker completions inside string literals for any language. Features: Autocomplete 100+ data generators. Triggered by typing faker. inside any string literal...
+
+vendor: Anbora Labs
+downloads: 0
+pricingModel: PAID
+xmlId: co.anbora.labs.faker</description>
+      <pubDate>Wed, 11 Feb 2026 02:48:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30145-faker-quick</guid>
+      <dc:date>2026-02-11T02:48:19Z</dc:date>
+    </item>
+    <item>
+      <title>Maven Project Version Manager - Wed Feb 11 06:44:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30030-maven-project-version-manager</link>
+      <description>Enhances Maven project management by showing current project versions in the Project view and offering a simple dialog to update parent and project versions quickly.
+
+vendor: class
+downloads: 4
+pricingModel: FREE
+xmlId: com.ltp.maven.maven-version-plugin</description>
+      <pubDate>Wed, 11 Feb 2026 06:44:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30030-maven-project-version-manager</guid>
+      <dc:date>2026-02-11T06:44:43Z</dc:date>
+    </item>
+    <item>
       <title>File Age Banner - Wed Feb 11 22:11:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30160-file-age-banner</link>
       <description>File Age Banner Adds a small banner at the top of each file showing when it was last updated in Git. Features Displays time since last commitMaps files to fun age...
@@ -149,7 +175,7 @@ xmlId: com.quocnguyen.smartbuildview</description>
       <dc:date>2026-02-10T21:26:46Z</dc:date>
     </item>
     <item>
-      <title>Git Merge Into - Wed Feb 11 05:38:13 UTC 2026</title>
+      <title>Git Merge Into - Thu Feb 12 01:07:41 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30138-git-merge-into</link>
       <description>Git Merge Into is a plugin that helps you quickly merge the current branch into another branch — without leaving your IDE. How to Use Keyboard shortcut: Press Alt+G...
 
@@ -157,9 +183,9 @@ vendor: Logan
 downloads: 1
 pricingModel: FREE
 xmlId: com.github.iml885203.intellijgitmergeinto</description>
-      <pubDate>Wed, 11 Feb 2026 05:38:13 GMT</pubDate>
+      <pubDate>Thu, 12 Feb 2026 01:07:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30138-git-merge-into</guid>
-      <dc:date>2026-02-11T05:38:13Z</dc:date>
+      <dc:date>2026-02-12T01:07:41Z</dc:date>
     </item>
     <item>
       <title>Nextflow LSP - Tue Feb 10 14:07:02 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.github.yoannteruel.jetbrainsworktreeplugin</description>
       <pubDate>Tue, 10 Feb 2026 12:03:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30140-git-worktree-tool</guid>
       <dc:date>2026-02-10T12:03:23Z</dc:date>
-    </item>
-    <item>
-      <title>HyUI - Mon Feb 09 15:45:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30098-hyui</link>
-      <description>A plugin to provide editor features for Hytale UI files.
-
-vendor: UltraDev
-downloads: 21
-pricingModel: FREE
-xmlId: app.ultradev.hytaleui</description>
-      <pubDate>Mon, 09 Feb 2026 15:45:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30098-hyui</guid>
-      <dc:date>2026-02-09T15:45:03Z</dc:date>
-    </item>
-    <item>
-      <title>Agent Dispatcher - Wed Feb 11 10:03:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30128-agent-dispatcher</link>
-      <description>Manage multiple ACP (Agent Client Protocol) compatible coding agents directly from your IDE. Agent Dispatcher provides multi-agent session management, real-time...
-
-vendor: Phodal Huang
-downloads: 17
-pricingModel: FREE
-xmlId: com.github.phodal.agentdispatcher</description>
-      <pubDate>Wed, 11 Feb 2026 10:03:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30128-agent-dispatcher</guid>
-      <dc:date>2026-02-11T10:03:13Z</dc:date>
     </item>
   </channel>
 </rss>
