@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.0|[golang.org](https://golang.org/dl/)|Tue Feb 10 20:10:49 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.6.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.13.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|
@@ -31,11 +36,6 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
-|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.1|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
