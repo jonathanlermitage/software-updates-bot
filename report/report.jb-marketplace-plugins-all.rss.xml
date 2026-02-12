@@ -6,17 +6,69 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Faker Quick - Wed Feb 11 02:48:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30145-faker-quick</link>
-      <description>Provides faker completions inside string literals for any language. Features: Autocomplete 100+ data generators. Triggered by typing faker. inside any string literal...
+      <title>Hover Translate - Thu Feb 12 01:35:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30146-hover-translate</link>
+      <description>Hover Translate — Offline English-Chinese hover translation plugin for JetBrains IDEs. 700K+ dictionary entries, no API keys, no network required...
 
-vendor: Anbora Labs
+vendor: helloxiaojii@gmail.com
 downloads: 0
-pricingModel: PAID
-xmlId: co.anbora.labs.faker</description>
-      <pubDate>Wed, 11 Feb 2026 02:48:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30145-faker-quick</guid>
-      <dc:date>2026-02-11T02:48:19Z</dc:date>
+pricingModel: FREE
+xmlId: com.hovertranslate.plugin</description>
+      <pubDate>Thu, 12 Feb 2026 01:35:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30146-hover-translate</guid>
+      <dc:date>2026-02-12T01:35:10Z</dc:date>
+    </item>
+    <item>
+      <title>PatternIO - Thu Feb 12 15:04:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30170-patternio</link>
+      <description>PatternIO - AI-Powered Static Analysis for Java Detect code smells, GRASP violations, and generate UML diagrams directly from IntelliJ IDEA. Features Code Analysis...
+
+vendor: PatternIO
+downloads: 0
+pricingModel: FREE
+xmlId: dev.patternio.plugin</description>
+      <pubDate>Thu, 12 Feb 2026 15:04:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30170-patternio</guid>
+      <dc:date>2026-02-12T15:04:54Z</dc:date>
+    </item>
+    <item>
+      <title>Magento 1 Types - Fri Feb 06 10:49:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30091-magento-1-types</link>
+      <description>Provides enhanced IDE support for Magento 1.x projects in PhpStorm and other JetBrains IDEs. Features: Type Resolution — Resolves types for Mage::getModel...
+
+vendor: intheweb
+downloads: 3
+pricingModel: FREE
+xmlId: intheweb.magento_1_support</description>
+      <pubDate>Fri, 06 Feb 2026 10:49:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30091-magento-1-types</guid>
+      <dc:date>2026-02-06T10:49:43Z</dc:date>
+    </item>
+    <item>
+      <title>Code Drafts - Thu Feb 12 16:12:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30175-code-drafts</link>
+      <description>Personal code notebook for PhpStorm. Save your implementation notes (Twig, preprocess, JS) in one place and reuse them quickly.
+
+vendor: Code Drafts
+downloads: 0
+pricingModel: FREE
+xmlId: com.localblocks.plugin</description>
+      <pubDate>Thu, 12 Feb 2026 16:12:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30175-code-drafts</guid>
+      <dc:date>2026-02-12T16:12:20Z</dc:date>
+    </item>
+    <item>
+      <title>Jakarta Migration - Fri Feb 06 13:25:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30093-jakarta-migration</link>
+      <description>Jakarta Migration IntelliJ Plugin provides tools to analyze and migrate Java applications from Java EE 8 (javax.*) to Jakarta EE 9+ (jakarta.*). Features: - Migration...
+
+vendor: Adrian M
+downloads: 2
+pricingModel: FREE
+xmlId: com.adrianmikula.jakarta-migration</description>
+      <pubDate>Fri, 06 Feb 2026 13:25:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30093-jakarta-migration</guid>
+      <dc:date>2026-02-06T13:25:05Z</dc:date>
     </item>
     <item>
       <title>Maven Project Version Manager - Wed Feb 11 06:44:43 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.mira.jmsworker</description>
       <pubDate>Wed, 11 Feb 2026 12:11:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30081-jms-worker</guid>
       <dc:date>2026-02-11T12:11:38Z</dc:date>
-    </item>
-    <item>
-      <title>sapi2md - Fri Feb 06 08:54:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30075-sapi2md</link>
-      <description>sapi2md generates concise Markdown API docs from Spring MVC controllers, optimized for AI-assisted front-end workflows. Key features: Export selected controller...
-
-vendor: kkmigu
-downloads: 5
-pricingModel: FREE
-xmlId: com.migu.sapi2md</description>
-      <pubDate>Fri, 06 Feb 2026 08:54:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30075-sapi2md</guid>
-      <dc:date>2026-02-06T08:54:55Z</dc:date>
-    </item>
-    <item>
-      <title>AsciiDoc Pro - Tue Feb 10 16:31:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30142-asciidoc-pro</link>
-      <description>AsciiDoc Pro is a full-featured AsciiDoc editing plugin for IntelliJ-based IDEs. It provides a live preview with scroll synchronization, syntax highlighting, code...
-
-vendor: Jetplugins
-downloads: 24
-pricingModel: PAID
-xmlId: dev.jetplugins.asciidocpro</description>
-      <pubDate>Tue, 10 Feb 2026 16:31:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30142-asciidoc-pro</guid>
-      <dc:date>2026-02-10T16:31:22Z</dc:date>
-    </item>
-    <item>
-      <title>Port Manage - Tue Feb 10 06:52:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30135-port-manage</link>
-      <description>Port Manage - Manage System Ports Easily A lightweight port management plugin that helps developers quickly view and manage system port usage within IntelliJ IDEA. Key...
-
-vendor: port-manage
-downloads: 11
-pricingModel: FREE
-xmlId: com.portmanage.plugin</description>
-      <pubDate>Tue, 10 Feb 2026 06:52:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30135-port-manage</guid>
-      <dc:date>2026-02-10T06:52:07Z</dc:date>
-    </item>
-    <item>
-      <title>Git Worktree Tool - Tue Feb 10 12:03:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30140-git-worktree-tool</link>
-      <description>Git worktree management for JetBrains IDEs.
-
-vendor: Yoann Teruel
-downloads: 10
-pricingModel: FREE
-xmlId: com.github.yoannteruel.jetbrainsworktreeplugin</description>
-      <pubDate>Tue, 10 Feb 2026 12:03:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30140-git-worktree-tool</guid>
-      <dc:date>2026-02-10T12:03:23Z</dc:date>
     </item>
   </channel>
 </rss>
