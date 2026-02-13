@@ -20,7 +20,7 @@
 |![logo](../media/logo/go.png) Go|go1.26.0|[golang.org](https://golang.org/dl/)|Tue Feb 10 20:10:49 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.3.1|[gradle.org](https://gradle.org/releases)|Thu Jan 29 16:07:55 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.20362.25) ~ 2026-02-05|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Feb 05 12:06:27 UTC 2026|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.20869.38) ~ 2026-02-13|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 13 16:11:40 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.2 (253.30387.90) ~ 2026-01-22|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jan 22 16:04:34 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.0 to 19.4.5 ~ 2026-01-27|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jan 27 20:02:07 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 336 - Interview Kotlin avec Arnaud Giuliani|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Feb 06 16:09:49 UTC 2026|
