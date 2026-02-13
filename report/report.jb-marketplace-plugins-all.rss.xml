@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Ghostty Claude - Thu Feb 12 10:41:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30166-ghostty-claude</link>
+      <description>Open Ghostty terminal with Claude Code, passing current file and selection context from IntelliJ editor. Features One shortcut (Cmd+Opt+K / Ctrl+Alt+K) to launch...
+
+vendor: lcalmsky
+downloads: 0
+pricingModel: FREE
+xmlId: io.lcalmsky.github.ghostty-claude</description>
+      <pubDate>Thu, 12 Feb 2026 10:41:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30166-ghostty-claude</guid>
+      <dc:date>2026-02-12T10:41:03Z</dc:date>
+    </item>
+    <item>
       <title>ChainSharp Chain Hints - Thu Feb 12 20:51:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30184-chainsharp-chain-hints</link>
       <description>Inlay hints for ChainSharp workflow chains, showing TIn and TOut types for each .Chain&amp;lt;StepType&amp;gt;(), .ShortCircuit&amp;lt;StepType&amp;gt;(), and...
@@ -251,19 +264,6 @@ xmlId: com.hoverdict.plugin</description>
       <pubDate>Wed, 11 Feb 2026 03:02:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30137-hoverdict</guid>
       <dc:date>2026-02-11T03:02:46Z</dc:date>
-    </item>
-    <item>
-      <title>Safeguard.sh IDE Extension - Mon Feb 09 12:37:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30031-safeguard-sh-ide-extension</link>
-      <description>Safeguard Vulnerability Remediation Detect and fix security vulnerabilities in your dependencies directly from your IDE. Features Real-time vulnerability scanning...
-
-vendor: Safeguard.sh Inc
-downloads: 14
-pricingModel: FREE
-xmlId: SafeguardshIdeExtension</description>
-      <pubDate>Mon, 09 Feb 2026 12:37:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30031-safeguard-sh-ide-extension</guid>
-      <dc:date>2026-02-09T12:37:55Z</dc:date>
     </item>
   </channel>
 </rss>
