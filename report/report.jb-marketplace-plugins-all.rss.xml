@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ChainSharp Chain Hints - Thu Feb 12 20:51:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30184-chainsharp-chain-hints</link>
+      <description>Inlay hints for ChainSharp workflow chains, showing TIn and TOut types for each .Chain&amp;lt;StepType&amp;gt;(), .ShortCircuit&amp;lt;StepType&amp;gt;(), and...
+
+vendor: ChainSharp
+downloads: 0
+pricingModel: FREE
+xmlId: com.jetbrains.plugins.chainsharp</description>
+      <pubDate>Thu, 12 Feb 2026 20:51:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30184-chainsharp-chain-hints</guid>
+      <dc:date>2026-02-12T20:51:58Z</dc:date>
+    </item>
+    <item>
+      <title>Codex Notes - Thu Feb 12 18:07:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30177-codex-notes</link>
+      <description>Codex Notes is a powerful IntelliJ IDEA plugin for managing notes directly within your IDE. Keep your thoughts, code snippets, and documentation organized without...
+
+vendor: Stanley Gomes
+downloads: 0
+pricingModel: FREE
+xmlId: com.nazarethlabs.codex</description>
+      <pubDate>Thu, 12 Feb 2026 18:07:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30177-codex-notes</guid>
+      <dc:date>2026-02-12T18:07:22Z</dc:date>
+    </item>
+    <item>
+      <title>NiceTools - Thu Feb 12 10:28:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29734-nicetools</link>
+      <description>A practical toolkit for IntelliJ developers with Git enhancements and code utilities. Git Enhancements Add descriptions when creating branches View branch descriptions...
+
+vendor: nicetools
+downloads: 4
+pricingModel: FREE
+xmlId: com.savey.nicetools</description>
+      <pubDate>Thu, 12 Feb 2026 10:28:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29734-nicetools</guid>
+      <dc:date>2026-02-12T10:28:43Z</dc:date>
+    </item>
+    <item>
       <title>Hover Translate - Thu Feb 12 01:35:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30146-hover-translate</link>
       <description>Hover Translate — Offline English-Chinese hover translation plugin for JetBrains IDEs. 700K+ dictionary entries, no API keys, no network required...
@@ -69,6 +108,19 @@ xmlId: com.adrianmikula.jakarta-migration</description>
       <pubDate>Fri, 06 Feb 2026 13:25:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30093-jakarta-migration</guid>
       <dc:date>2026-02-06T13:25:05Z</dc:date>
+    </item>
+    <item>
+      <title>Faker Quick - Thu Feb 12 22:13:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30145-faker-quick</link>
+      <description>Provides faker completions inside string literals for any language. Features: Autocomplete 100+ data generators. Triggered by typing faker. inside any string literal...
+
+vendor: Anbora Labs
+downloads: 0
+pricingModel: PAID
+xmlId: co.anbora.labs.faker</description>
+      <pubDate>Thu, 12 Feb 2026 22:13:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30145-faker-quick</guid>
+      <dc:date>2026-02-12T22:13:06Z</dc:date>
     </item>
     <item>
       <title>Maven Project Version Manager - Wed Feb 11 06:44:43 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: SafeguardshIdeExtension</description>
       <pubDate>Mon, 09 Feb 2026 12:37:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30031-safeguard-sh-ide-extension</guid>
       <dc:date>2026-02-09T12:37:55Z</dc:date>
-    </item>
-    <item>
-      <title>Android + Build Files View - Thu Feb 12 11:20:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30136-android--build-files-view</link>
-      <description>Adds a new "Android + Build" view that shows the same structure as Android view, but with build.gradle, proguard-rules.pro, and consumer-rules.pro visible under each...
-
-vendor: Quoc Nguyen
-downloads: 69
-pricingModel: FREE
-xmlId: com.quocnguyen.smartbuildview</description>
-      <pubDate>Thu, 12 Feb 2026 11:20:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30136-android--build-files-view</guid>
-      <dc:date>2026-02-12T11:20:46Z</dc:date>
-    </item>
-    <item>
-      <title>Git Merge Into - Thu Feb 12 01:07:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30138-git-merge-into</link>
-      <description>Git Merge Into is a plugin that helps you quickly merge the current branch into another branch — without leaving your IDE. How to Use Keyboard shortcut: Press Alt+G...
-
-vendor: Logan
-downloads: 70
-pricingModel: FREE
-xmlId: com.github.iml885203.intellijgitmergeinto</description>
-      <pubDate>Thu, 12 Feb 2026 01:07:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30138-git-merge-into</guid>
-      <dc:date>2026-02-12T01:07:41Z</dc:date>
-    </item>
-    <item>
-      <title>Nextflow LSP - Tue Feb 10 14:07:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30100-nextflow-lsp</link>
-      <description>Unofficial community plugin that adds lightweight Nextflow LSP support by connecting your IDE to the Nextflow Language Server JAR. Configure the server JAR path in...
-
-vendor: Lukas Buschmann
-downloads: 9
-pricingModel: FREE
-xmlId: de.buschmann.nextflow-lsp</description>
-      <pubDate>Tue, 10 Feb 2026 14:07:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30100-nextflow-lsp</guid>
-      <dc:date>2026-02-10T14:07:02Z</dc:date>
-    </item>
-    <item>
-      <title>JMS Worker - Wed Feb 11 12:11:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30081-jms-worker</link>
-      <description>Browse and send messages to JMS queues and topics directly from IntelliJ IDEA. Features: Support for Apache ActiveMQ Artemis Support for IBM MQ Browse queue messages...
-
-vendor: MIRA
-downloads: 10
-pricingModel: FREE
-xmlId: com.mira.jmsworker</description>
-      <pubDate>Wed, 11 Feb 2026 12:11:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30081-jms-worker</guid>
-      <dc:date>2026-02-11T12:11:38Z</dc:date>
     </item>
   </channel>
 </rss>
