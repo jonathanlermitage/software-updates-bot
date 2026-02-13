@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Test Case - Thu Feb 05 09:20:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30079-test-case</link>
+      <description>Enhanced JUnit 5 test generation with Mockito, branch coverage, and JaCoCo integration. Enhanced JUnit 5 测试生成插件，支持 Mockito、分支覆盖。.
+
+vendor: 涂 伟
+downloads: 3
+pricingModel: FREE
+xmlId: com.tony.testcaseplugin</description>
+      <pubDate>Thu, 05 Feb 2026 09:20:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30079-test-case</guid>
+      <dc:date>2026-02-05T09:20:13Z</dc:date>
+    </item>
+    <item>
+      <title>Rhai Language Support - Thu Feb 12 23:56:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30068-rhai-language-support</link>
+      <description>Full-featured language support for the Rhai scripting language. Features: Syntax highlighting with customizable colors Code completion for keywords, builtins, and...
+
+vendor: Gleb Mikhailov
+downloads: 5
+pricingModel: FREE
+xmlId: org.rhai.rhai-highlight-plugin</description>
+      <pubDate>Thu, 12 Feb 2026 23:56:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30068-rhai-language-support</guid>
+      <dc:date>2026-02-12T23:56:14Z</dc:date>
+    </item>
+    <item>
       <title>Ghostty Claude - Thu Feb 12 10:41:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30166-ghostty-claude</link>
       <description>Open Ghostty terminal with Claude Code, passing current file and selection context from IntelliJ editor. Features One shortcut (Cmd+Opt+K / Ctrl+Alt+K) to launch...
@@ -32,7 +58,7 @@ xmlId: com.jetbrains.plugins.chainsharp</description>
       <dc:date>2026-02-12T20:51:58Z</dc:date>
     </item>
     <item>
-      <title>Codex Notes - Thu Feb 12 18:07:22 UTC 2026</title>
+      <title>Codex Notes - Fri Feb 13 17:43:48 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30177-codex-notes</link>
       <description>Codex Notes is a powerful IntelliJ IDEA plugin for managing notes directly within your IDE. Keep your thoughts, code snippets, and documentation organized without...
 
@@ -40,9 +66,9 @@ vendor: Stanley Gomes
 downloads: 9
 pricingModel: FREE
 xmlId: com.nazarethlabs.codex</description>
-      <pubDate>Thu, 12 Feb 2026 18:07:22 GMT</pubDate>
+      <pubDate>Fri, 13 Feb 2026 17:43:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30177-codex-notes</guid>
-      <dc:date>2026-02-12T18:07:22Z</dc:date>
+      <dc:date>2026-02-13T17:43:48Z</dc:date>
     </item>
     <item>
       <title>NiceTools - Thu Feb 12 10:28:43 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: dev.lyoo.beacon.terminal-navigator</description>
       <pubDate>Wed, 11 Feb 2026 14:38:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30152-beacon-terminal-navigator</guid>
       <dc:date>2026-02-11T14:38:53Z</dc:date>
-    </item>
-    <item>
-      <title>Stock View - Wed Feb 11 06:16:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30147-stock-view</link>
-      <description>A powerful IntelliJ IDEA plugin for real-time viewing of Chinese A-share stock data within the IDE. Key Features: Real-time Market Data: View real-time stock prices...
-
-vendor: ADUN
-downloads: 3
-pricingModel: FREE
-xmlId: com.stockview.plugin</description>
-      <pubDate>Wed, 11 Feb 2026 06:16:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30147-stock-view</guid>
-      <dc:date>2026-02-11T06:16:34Z</dc:date>
-    </item>
-    <item>
-      <title>HoverDict - Wed Feb 11 03:02:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30137-hoverdict</link>
-      <description>HoverDict — Instant offline hover translation for JetBrains IDEs. Hover over any English word in the editor to see its Chinese translation. Powered by ECDICT...
-
-vendor: helloxiaojii@gmail.com
-downloads: 26
-pricingModel: FREE
-xmlId: com.hoverdict.plugin</description>
-      <pubDate>Wed, 11 Feb 2026 03:02:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30137-hoverdict</guid>
-      <dc:date>2026-02-11T03:02:46Z</dc:date>
     </item>
   </channel>
 </rss>
