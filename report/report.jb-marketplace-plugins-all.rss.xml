@@ -24,7 +24,7 @@ xmlId: com.ddoong2.direnvloader</description>
       <description>Fathom helps AI coding assistants (Claude, Gemini, Codex, and others) better understand your Unreal Engine 5 C++ projects. It provides MCP tools that give LLMs access...
 
 vendor: Tideshift Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.tideshiftlabs.fathom</description>
       <pubDate>Fri, 13 Feb 2026 03:17:41 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.tony.testcaseplugin</description>
       <description>Full-featured language support for the Rhai scripting language. Features: Syntax highlighting with customizable colors Code completion for keywords, builtins, and...
 
 vendor: Gleb Mikhailov
-downloads: 5
+downloads: 6
 pricingModel: FREE
 xmlId: org.rhai.rhai-highlight-plugin</description>
       <pubDate>Thu, 12 Feb 2026 23:56:14 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: org.rhai.rhai-highlight-plugin</description>
       <description>Open Ghostty terminal with Claude Code, passing current file and selection context from IntelliJ editor. Features One shortcut (Cmd+Opt+K / Ctrl+Alt+K) to launch...
 
 vendor: lcalmsky
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: io.lcalmsky.github.ghostty-claude</description>
       <pubDate>Thu, 12 Feb 2026 10:41:03 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: io.lcalmsky.github.ghostty-claude</description>
       <description>Inlay hints for ChainSharp workflow chains, showing TIn and TOut types for each .Chain&amp;lt;StepType&amp;gt;(), .ShortCircuit&amp;lt;StepType&amp;gt;(), and...
 
 vendor: ChainSharp
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.jetbrains.plugins.chainsharp</description>
       <pubDate>Thu, 12 Feb 2026 20:51:58 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.jetbrains.plugins.chainsharp</description>
       <description>Codex Notes is a powerful IntelliJ IDEA plugin for managing notes directly within your IDE. Keep your thoughts, code snippets, and documentation organized without...
 
 vendor: Stanley Gomes
-downloads: 9
+downloads: 36
 pricingModel: FREE
 xmlId: com.nazarethlabs.codex</description>
       <pubDate>Fri, 13 Feb 2026 17:43:48 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.nazarethlabs.codex</description>
       <description>A practical toolkit for IntelliJ developers with Git enhancements and code utilities. Git Enhancements Add descriptions when creating branches View branch descriptions...
 
 vendor: nicetools
-downloads: 5
+downloads: 10
 pricingModel: FREE
 xmlId: com.savey.nicetools</description>
       <pubDate>Thu, 12 Feb 2026 10:28:43 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.savey.nicetools</description>
       <description>Hover Translate — Offline English-Chinese hover translation plugin for JetBrains IDEs. 700K+ dictionary entries, no API keys, no network required...
 
 vendor: helloxiaojii@gmail.com
-downloads: 2
+downloads: 15
 pricingModel: FREE
 xmlId: com.hovertranslate.plugin</description>
       <pubDate>Thu, 12 Feb 2026 01:35:10 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.hovertranslate.plugin</description>
       <description>PatternIO - AI-Powered Static Analysis for Java Detect code smells, GRASP violations, and generate UML diagrams directly from IntelliJ IDEA. Features Code Analysis...
 
 vendor: PatternIO
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: dev.patternio.plugin</description>
       <pubDate>Thu, 12 Feb 2026 15:04:54 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: dev.patternio.plugin</description>
       <description>Provides enhanced IDE support for Magento 1.x projects in PhpStorm and other JetBrains IDEs. Features: Type Resolution — Resolves types for Mage::getModel...
 
 vendor: intheweb
-downloads: 4
+downloads: 8
 pricingModel: FREE
 xmlId: intheweb.magento_1_support</description>
       <pubDate>Fri, 13 Feb 2026 07:50:56 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: intheweb.magento_1_support</description>
       <description>Personal code notebook for PhpStorm. Save your implementation notes (Twig, preprocess, JS) in one place and reuse them quickly.
 
 vendor: Code Drafts
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.localblocks.plugin</description>
       <pubDate>Thu, 12 Feb 2026 16:12:20 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.localblocks.plugin</description>
       <description>Jakarta Migration IntelliJ Plugin provides tools to analyze and migrate Java applications from Java EE 8 (javax.*) to Jakarta EE 9+ (jakarta.*). Features: - Migration...
 
 vendor: Adrian M
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.adrianmikula.jakarta-migration</description>
       <pubDate>Fri, 06 Feb 2026 13:25:05 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.adrianmikula.jakarta-migration</description>
       <description>Provides faker completions inside string literals for any language. Features: Autocomplete 100+ data generators. Triggered by typing faker. inside any string literal...
 
 vendor: Anbora Labs
-downloads: 4
+downloads: 23
 pricingModel: PAID
 xmlId: co.anbora.labs.faker</description>
       <pubDate>Thu, 12 Feb 2026 22:13:06 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: co.anbora.labs.faker</description>
       <description>Enhances Maven project management by showing current project versions in the Project view and offering a simple dialog to update parent and project versions quickly.
 
 vendor: class
-downloads: 14
+downloads: 15
 pricingModel: FREE
 xmlId: com.ltp.maven.maven-version-plugin</description>
       <pubDate>Wed, 11 Feb 2026 06:44:43 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.ltp.maven.maven-version-plugin</description>
       <description>File Age Banner Adds a small banner at the top of each file showing when it was last updated in Git. Features Displays time since last commitMaps files to fun age...
 
 vendor: Nane Petrossian
-downloads: 72
+downloads: 84
 pricingModel: FREE
 xmlId: com.nanulik.fileagebanner</description>
       <pubDate>Thu, 12 Feb 2026 14:25:19 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.nanulik.fileagebanner</description>
       <description>Sends basic IDE performance telemetry to analytics backend.
 
 vendor: Eduard Bosch
-downloads: 11
+downloads: 13
 pricingModel: FREE
 xmlId: com.eduardbosch.idemetrics</description>
       <pubDate>Tue, 10 Feb 2026 09:20:30 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.github.minetoblend.osuprogressbar</description>
       <description>Tailwind CSS for many languages - autocomplete, documentation, color previews + drag&amp;amp;drop components. Unlike language-specific Tailwind plugins, Flexible Tailwind...
 
 vendor: Ilscipio GmbH
-downloads: 14
+downloads: 21
 pricingModel: FREEMIUM
 xmlId: com.ilscipio.tailwind</description>
       <pubDate>Wed, 11 Feb 2026 16:56:43 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.ilscipio.tailwind</description>
       <description>A simple and efficient Android Studio / IntelliJ IDEA plugin for batch importing Android drawable resources. 一个简单高效的 Android Studio / IntelliJ IDEA 插件，用于批量导入 Android...
 
 vendor: Dong
-downloads: 14
+downloads: 36
 pricingModel: FREE
 xmlId: com.yndongyong.drawableimporter</description>
       <pubDate>Fri, 13 Feb 2026 08:48:05 GMT</pubDate>
