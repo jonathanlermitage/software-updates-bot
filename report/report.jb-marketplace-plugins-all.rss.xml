@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Direnv Loader - Fri Feb 13 16:04:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30187-direnv-loader</link>
+      <description>Direnv Loader Automatically injects direnv-managed environment variables into IntelliJ Run Configurations at execution time. Features Automatic Environment Injection...
+
+vendor: daejoon ko
+downloads: 0
+pricingModel: FREE
+xmlId: com.ddoong2.direnvloader</description>
+      <pubDate>Fri, 13 Feb 2026 16:04:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30187-direnv-loader</guid>
+      <dc:date>2026-02-13T16:04:59Z</dc:date>
+    </item>
+    <item>
+      <title>Fathom - Fri Feb 13 03:17:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30185-fathom</link>
+      <description>Fathom helps AI coding assistants (Claude, Gemini, Codex, and others) better understand your Unreal Engine 5 C++ projects. It provides MCP tools that give LLMs access...
+
+vendor: Tideshift Labs
+downloads: 0
+pricingModel: FREE
+xmlId: com.tideshiftlabs.fathom</description>
+      <pubDate>Fri, 13 Feb 2026 03:17:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30185-fathom</guid>
+      <dc:date>2026-02-13T03:17:41Z</dc:date>
+    </item>
+    <item>
       <title>Test Case - Thu Feb 05 09:20:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30079-test-case</link>
       <description>Enhanced JUnit 5 test generation with Mockito, branch coverage, and JaCoCo integration. Enhanced JUnit 5 测试生成插件，支持 Mockito、分支覆盖。.
@@ -238,32 +264,6 @@ xmlId: com.yndongyong.drawableimporter</description>
       <pubDate>Fri, 13 Feb 2026 08:48:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29789-drawable-importer</guid>
       <dc:date>2026-02-13T08:48:05Z</dc:date>
-    </item>
-    <item>
-      <title>Catalog File Comments - Wed Feb 11 01:11:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30144-catalog-file-comments</link>
-      <description>Catalog File Comments Your Code Directory "Sticky Notes" &amp;amp; Enterprise Architecture Panorama 你的代码目录“便利贴” &amp;amp; 企业级架构全景图 In large projects, filenames often fail to...
-
-vendor: QingXianStuio
-downloads: 8
-pricingModel: FREE
-xmlId: com.annotation.catalogfilecomment</description>
-      <pubDate>Wed, 11 Feb 2026 01:11:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30144-catalog-file-comments</guid>
-      <dc:date>2026-02-11T01:11:53Z</dc:date>
-    </item>
-    <item>
-      <title>Beacon Terminal Navigator - Wed Feb 11 14:38:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30152-beacon-terminal-navigator</link>
-      <description>Beacon Terminal Navigator Companion plugin for Beacon, a macOS menu bar app that sends notifications when Claude Code tasks complete. This plugin provides a local HTTP...
-
-vendor: lyoo
-downloads: 10
-pricingModel: FREE
-xmlId: dev.lyoo.beacon.terminal-navigator</description>
-      <pubDate>Wed, 11 Feb 2026 14:38:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30152-beacon-terminal-navigator</guid>
-      <dc:date>2026-02-11T14:38:53Z</dc:date>
     </item>
   </channel>
 </rss>
