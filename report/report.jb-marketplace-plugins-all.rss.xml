@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Sealify: KubeSeal Helper - Sat Feb 14 18:46:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/22571-sealify-kubeseal-helper</link>
+      <description>Adds an option to use kubeseal inside of IntelliJ for YAML files. Convert YAML files to sealed secrets with IntelliJ intentions (alt + enter).
+
+vendor: Jonas Eckstein
+downloads: 144
+pricingModel: FREE
+xmlId: de.jonaseckstein.KubeSeal</description>
+      <pubDate>Sat, 14 Feb 2026 18:46:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/22571-sealify-kubeseal-helper</guid>
+      <dc:date>2026-02-14T18:46:06Z</dc:date>
+    </item>
+    <item>
       <title>Direnv Loader - Fri Feb 13 16:04:59 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30187-direnv-loader</link>
       <description>Direnv Loader Automatically injects direnv-managed environment variables into IntelliJ Run Configurations at execution time. Features Automatic Environment Injection...
@@ -251,19 +264,6 @@ xmlId: com.ilscipio.tailwind</description>
       <pubDate>Wed, 11 Feb 2026 16:56:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30153-flexible-tailwind</guid>
       <dc:date>2026-02-11T16:56:43Z</dc:date>
-    </item>
-    <item>
-      <title>Drawable Importer - Fri Feb 13 08:48:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29789-drawable-importer</link>
-      <description>A simple and efficient Android Studio / IntelliJ IDEA plugin for batch importing Android drawable resources. 一个简单高效的 Android Studio / IntelliJ IDEA 插件，用于批量导入 Android...
-
-vendor: Dong
-downloads: 36
-pricingModel: FREE
-xmlId: com.yndongyong.drawableimporter</description>
-      <pubDate>Fri, 13 Feb 2026 08:48:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29789-drawable-importer</guid>
-      <dc:date>2026-02-13T08:48:05Z</dc:date>
     </item>
   </channel>
 </rss>
