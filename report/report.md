@@ -23,7 +23,7 @@
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.20869.38) ~ 2026-02-13|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 13 16:11:40 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.2 (253.30387.90) ~ 2026-01-22|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jan 22 16:04:34 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.0 to 19.4.5 ~ 2026-01-27|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jan 27 20:02:07 UTC 2026|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 336 - Interview Kotlin avec Arnaud Giuliani|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Feb 06 16:09:49 UTC 2026|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 337 - Datacenters Carrier Class dans l'espace|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 16 12:07:19 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.6.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.13.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|

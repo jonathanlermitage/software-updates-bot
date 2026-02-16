@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 337 - Datacenters Carrier Class dans l'espace|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 16 12:07:19 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.20869.38) ~ 2026-02-13|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 13 16:11:40 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
@@ -9,7 +10,6 @@
 |![logo](../media/logo/go.png) Go|go1.26.0|[golang.org](https://golang.org/dl/)|Tue Feb 10 20:10:49 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.6.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.13.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 336 - Interview Kotlin avec Arnaud Giuliani|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Feb 06 16:09:49 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:14 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Feb 04 20:05:42 UTC 2026|
