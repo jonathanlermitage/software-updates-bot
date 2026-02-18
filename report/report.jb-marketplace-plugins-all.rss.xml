@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Protocol Inspector - Thu Jan 29 21:06:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29805-protocol-inspector</link>
+      <description>Protocol Inspector helps you analyze SIP/SDP logs inside JetBrains IDEs. What you can do Split large logs into individual SIP messages (INVITE / 200 OK / BYE / …) View...
+
+vendor: Neurahex
+downloads: 4
+pricingModel: FREE
+xmlId: com.waheni.protocolinspector.protocol-inspector</description>
+      <pubDate>Thu, 29 Jan 2026 21:06:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29805-protocol-inspector</guid>
+      <dc:date>2026-01-29T21:06:57Z</dc:date>
+    </item>
+    <item>
       <title>Spring Property Navigator - Sat Feb 14 10:02:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30212-spring-property-navigator</link>
       <description>Provides bidirectional navigation between Spring Boot property keys and their Java usages. Ctrl+Click on @Value("${key}") to jump to the property definition Ctrl+Click...
@@ -99,7 +112,7 @@ xmlId: com.mangkyu.yaml-properties-hinter</description>
     <item>
       <title>Tally - Tue Feb 17 12:23:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30255-tally</link>
-      <description>IntelliJ Platform plugin for tally, powered by tally lsp --stdio.
+      <description>Lint, format, and auto-fix Dockerfiles and Containerfiles in IntelliJ. BuildKit-native diagnostics plus Hadolint-compatible and modernization rules. Safe quick fixes...
 
 vendor: WharfLab
 downloads: 0
@@ -134,6 +147,19 @@ xmlId: net.canb.alloy</description>
       <pubDate>Mon, 16 Feb 2026 19:42:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30232-grafana-alloy</guid>
       <dc:date>2026-02-16T19:42:59Z</dc:date>
+    </item>
+    <item>
+      <title>GitHub Status Monitor - Mon Feb 16 18:57:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30245-github-status-monitor</link>
+      <description>Monitor GitHub service health in real-time. Stay informed about GitHub's operational status without ever leaving your IDE. Avoid the frustration of "ghost" errors by...
+
+vendor: Fabiano Augusto de Mello
+downloads: 1
+pricingModel: FREE
+xmlId: com.birojow.githubstatus</description>
+      <pubDate>Mon, 16 Feb 2026 18:57:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30245-github-status-monitor</guid>
+      <dc:date>2026-02-16T18:57:04Z</dc:date>
     </item>
     <item>
       <title>AwesomeExtensions - Mon Feb 16 17:05:47 UTC 2026</title>
@@ -201,7 +227,7 @@ xmlId: com.claudecode.notifications</description>
       <dc:date>2026-02-14T22:52:43Z</dc:date>
     </item>
     <item>
-      <title>TODO++ - Sun Feb 15 12:43:18 UTC 2026</title>
+      <title>TODO++ - Wed Feb 18 14:04:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30223-todo-</link>
       <description>Enhanced TODO Management for Developers Take your TODO comments to the next level! TODO++ adds powerful features to manage, organize, and track TODOs across your...
 
@@ -209,12 +235,12 @@ vendor: prasad.vennam
 downloads: 4
 pricingModel: FREE
 xmlId: com.todoplus</description>
-      <pubDate>Sun, 15 Feb 2026 12:43:18 GMT</pubDate>
+      <pubDate>Wed, 18 Feb 2026 14:04:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30223-todo-</guid>
-      <dc:date>2026-02-15T12:43:18Z</dc:date>
+      <dc:date>2026-02-18T14:04:18Z</dc:date>
     </item>
     <item>
-      <title>Metal Analyzer - Wed Feb 18 11:56:00 UTC 2026</title>
+      <title>Metal Analyzer - Wed Feb 18 12:30:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30222-metal-analyzer</link>
       <description>Metal Shading Language (MSL) support powered by the metal-analyzer language server. Real-time diagnostics via xcrun metal Auto-completion for built-in types...
 
@@ -222,9 +248,9 @@ vendor: eugenebokhan
 downloads: 2
 pricingModel: FREE
 xmlId: com.github.computergraphicstools.metalanalyzer</description>
-      <pubDate>Wed, 18 Feb 2026 11:56:00 GMT</pubDate>
+      <pubDate>Wed, 18 Feb 2026 12:30:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30222-metal-analyzer</guid>
-      <dc:date>2026-02-18T11:56:00Z</dc:date>
+      <dc:date>2026-02-18T12:30:47Z</dc:date>
     </item>
     <item>
       <title>PasteImages - Sat Feb 14 15:02:13 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.github.jasonw-lab.pasteimages</description>
       <pubDate>Sat, 14 Feb 2026 15:02:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30220-pasteimages</guid>
       <dc:date>2026-02-14T15:02:13Z</dc:date>
-    </item>
-    <item>
-      <title>kotlin-null-fixer - Sat Feb 14 07:36:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30211-kotlin-null-fixer</link>
-      <description>Batch fix Kotlin null-safety errors in one click. Automatically replaces unsafe dot calls (.) with safe calls (?.) on nullable receivers, and fixes return type...
-
-vendor: zjarlin
-downloads: 1
-pricingModel: FREE
-xmlId: site.addzero.kotlin-null-fixer</description>
-      <pubDate>Sat, 14 Feb 2026 07:36:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30211-kotlin-null-fixer</guid>
-      <dc:date>2026-02-14T07:36:30Z</dc:date>
-    </item>
-    <item>
-      <title>java-null-fixer - Sat Feb 14 07:35:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30210-java-null-fixer</link>
-      <description>Batch fix Java null-pointer warnings in one click. Automatically applies IntelliJ built-in Quick Fixes (Surround with null check, etc.) to all "may produce...
-
-vendor: zjarlin
-downloads: 1
-pricingModel: FREE
-xmlId: site.addzero.java-null-fixer</description>
-      <pubDate>Sat, 14 Feb 2026 07:35:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30210-java-null-fixer</guid>
-      <dc:date>2026-02-14T07:35:51Z</dc:date>
     </item>
   </channel>
 </rss>
