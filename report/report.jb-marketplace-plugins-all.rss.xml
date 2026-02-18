@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Blender Probe - Tue Jan 27 03:16:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29756-blender-probe</link>
+      <description>Blender Probe bridges PyCharm and Blender with Code Completion, Testing, Debugging, and Hot Reloading. ⚠️ Compatibility Note: (Public Beta) While Blender Probe is...
+
+vendor: unclepomedev
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.unclepomedev.blenderprobeforpycharm</description>
+      <pubDate>Tue, 27 Jan 2026 03:16:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29756-blender-probe</guid>
+      <dc:date>2026-01-27T03:16:07Z</dc:date>
+    </item>
+    <item>
+      <title>GalataJ Profiler - Wed Feb 18 03:13:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30260-galataj-profiler</link>
+      <description>See where your Java app spends time — right in your IDE. GalataJ shows method-level performance metrics inline in your code. No dashboards. No context switching. Just...
+
+vendor: GalataJ
+downloads: 0
+pricingModel: FREE
+xmlId: com.galataj.plugin</description>
+      <pubDate>Wed, 18 Feb 2026 03:13:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30260-galataj-profiler</guid>
+      <dc:date>2026-02-18T03:13:37Z</dc:date>
+    </item>
+    <item>
       <title>Noctud - Fri Feb 13 02:04:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30173-noctud</link>
       <description>IDE support for the Noctud Collection PHP library — provides Map view method forwarding and autocompletion for Collection, List, Set, and Map types.
@@ -37,7 +63,7 @@ xmlId: md.route.soap_desk</description>
       <description>Adds an option to use kubeseal inside of IntelliJ for YAML files. Convert YAML files to sealed secrets with IntelliJ intentions (alt + enter).
 
 vendor: Jonas Eckstein
-downloads: 178
+downloads: 183
 pricingModel: FREE
 xmlId: de.jonaseckstein.KubeSeal</description>
       <pubDate>Sat, 14 Feb 2026 18:46:06 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: de.jonaseckstein.KubeSeal</description>
       <description>Direnv Loader Automatically injects direnv-managed environment variables into IntelliJ Run Configurations at execution time. Features Automatic Environment Injection...
 
 vendor: daejoon ko
-downloads: 11
+downloads: 13
 pricingModel: FREE
 xmlId: com.ddoong2.direnvloader</description>
       <pubDate>Fri, 13 Feb 2026 16:04:59 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: com.ddoong2.direnvloader</description>
       <description>Fathom helps AI coding assistants (Claude, Gemini, Codex, and others) better understand your Unreal Engine 5 C++ projects. It provides MCP tools that give LLMs access...
 
 vendor: Tideshift Labs
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: com.tideshiftlabs.fathom</description>
       <pubDate>Fri, 13 Feb 2026 03:17:41 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: org.rhai.rhai-highlight-plugin</description>
       <description>Open Ghostty terminal with Claude Code, passing current file and selection context from IntelliJ editor. Features One shortcut (Cmd+Opt+K / Ctrl+Alt+K) to launch...
 
 vendor: lcalmsky
-downloads: 29
+downloads: 34
 pricingModel: FREE
 xmlId: io.lcalmsky.github.ghostty-claude</description>
       <pubDate>Thu, 12 Feb 2026 10:41:03 GMT</pubDate>
@@ -128,7 +154,7 @@ xmlId: com.jetbrains.plugins.chainsharp</description>
       <description>Codex Notes is a powerful IntelliJ IDEA plugin for managing notes directly within your IDE. Keep your thoughts, code snippets, and documentation organized without...
 
 vendor: Stanley Gomes
-downloads: 223
+downloads: 259
 pricingModel: FREE
 xmlId: com.nazarethlabs.codex</description>
       <pubDate>Mon, 16 Feb 2026 07:38:10 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: com.savey.nicetools</description>
       <description>Hover Translate — Offline English-Chinese hover translation plugin for JetBrains IDEs. 700K+ dictionary entries, no API keys, no network required...
 
 vendor: helloxiaojii@gmail.com
-downloads: 34
+downloads: 38
 pricingModel: FREE
 xmlId: com.hovertranslate.plugin</description>
       <pubDate>Thu, 12 Feb 2026 01:35:10 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: com.hovertranslate.plugin</description>
       <description>PatternIO - AI-Powered Static Analysis for Java Detect code smells, GRASP violations, and generate UML diagrams directly from IntelliJ IDEA. Features Code Analysis...
 
 vendor: PatternIO
-downloads: 9
+downloads: 11
 pricingModel: FREE
 xmlId: dev.patternio.plugin</description>
       <pubDate>Thu, 12 Feb 2026 15:04:54 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: com.adrianmikula.jakarta-migration</description>
       <description>Provides faker completions inside string literals for any language. Features: Autocomplete 100+ data generators. Triggered by typing faker. inside any string literal...
 
 vendor: Anbora Labs
-downloads: 28
+downloads: 29
 pricingModel: PAID
 xmlId: co.anbora.labs.faker</description>
       <pubDate>Thu, 12 Feb 2026 22:13:06 GMT</pubDate>
@@ -238,32 +264,6 @@ xmlId: com.ltp.maven.maven-version-plugin</description>
       <pubDate>Wed, 11 Feb 2026 06:44:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30030-maven-project-version-manager</guid>
       <dc:date>2026-02-11T06:44:43Z</dc:date>
-    </item>
-    <item>
-      <title>File Age Banner - Thu Feb 12 14:25:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30160-file-age-banner</link>
-      <description>File Age Banner Adds a small banner at the top of each file showing when it was last updated in Git. Features Displays time since last commitMaps files to fun age...
-
-vendor: Nane Petrossian
-downloads: 86
-pricingModel: FREE
-xmlId: com.nanulik.fileagebanner</description>
-      <pubDate>Thu, 12 Feb 2026 14:25:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30160-file-age-banner</guid>
-      <dc:date>2026-02-12T14:25:19Z</dc:date>
-    </item>
-    <item>
-      <title>ide-metrics - Tue Feb 10 09:20:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30139-ide-metrics</link>
-      <description>Sends basic IDE performance telemetry to analytics backend.
-
-vendor: Eduard Bosch
-downloads: 14
-pricingModel: FREE
-xmlId: com.eduardbosch.idemetrics</description>
-      <pubDate>Tue, 10 Feb 2026 09:20:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30139-ide-metrics</guid>
-      <dc:date>2026-02-10T09:20:30Z</dc:date>
     </item>
   </channel>
 </rss>
