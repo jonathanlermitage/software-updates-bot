@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Elem CSS Class Support - Mon Feb 16 11:55:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30241-elem-css-class-support</link>
+      <description>Provides CSS class completion and navigation for the Elem PHP templating library. Features CSS Class Completion - Get autocomplete suggestions for CSS classes when...
+
+vendor: epic-64
+downloads: 1
+pricingModel: FREE
+xmlId: com.epic64.elem-phpstorm-plugin</description>
+      <pubDate>Mon, 16 Feb 2026 11:55:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30241-elem-css-class-support</guid>
+      <dc:date>2026-02-16T11:55:31Z</dc:date>
+    </item>
+    <item>
+      <title>Copy Selection Context - Wed Feb 18 12:43:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30262-copy-selection-context</link>
+      <description>Copy file paths, line numbers, and code to clipboard for AI assistant workflows. One shortcut (Ctrl+Alt+C / Cmd+Alt+C) copies your current selection — or the current...
+
+vendor: Jihoon Jeon
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.hon454.copy-selection-context</description>
+      <pubDate>Wed, 18 Feb 2026 12:43:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30262-copy-selection-context</guid>
+      <dc:date>2026-02-18T12:43:39Z</dc:date>
+    </item>
+    <item>
+      <title>Typst Pro - Sun Feb 15 23:41:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30231-typst-pro</link>
+      <description>Full-featured Typst support for all JetBrains IDEs, powered by the Tinymist language server. Features: Syntax highlighting for markup, code, and math modesLive preview...
+
+vendor: Jetplugins
+downloads: 1
+pricingModel: PAID
+xmlId: dev.jetplugins.typst</description>
+      <pubDate>Sun, 15 Feb 2026 23:41:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30231-typst-pro</guid>
+      <dc:date>2026-02-15T23:41:06Z</dc:date>
+    </item>
+    <item>
+      <title>ADB Hub - Wed Feb 18 19:34:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30230-adb-hub</link>
+      <description>ADB Hub is an IntelliJ Platform plugin that helps Android developers manage connected devices and applications without leaving the IDE. Features Device management...
+
+vendor: Hakan Dındış
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.hakandindis.plugins.adbhub</description>
+      <pubDate>Wed, 18 Feb 2026 19:34:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30230-adb-hub</guid>
+      <dc:date>2026-02-18T19:34:22Z</dc:date>
+    </item>
+    <item>
+      <title>Redmine / Jira Task Links - Sun Feb 15 16:04:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30228-redmine--jira-task-links</link>
+      <description>Detects task IDs in Git commit messages using a configurable regex and turns them into clickable links.
+
+vendor: intheweb
+downloads: 2
+pricingModel: FREE
+xmlId: intheweb.commit_task_links</description>
+      <pubDate>Sun, 15 Feb 2026 16:04:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30228-redmine--jira-task-links</guid>
+      <dc:date>2026-02-15T16:04:07Z</dc:date>
+    </item>
+    <item>
+      <title>Serial Monitor - Mon Feb 16 12:28:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30243-serial-monitor</link>
+      <description>A powerful Serial Port Monitor with real-time data visualization for JetBrains IDEs. Perfect for Arduino, ESP32, embedded systems, and IoT development. Monitor serial...
+
+vendor: Serial Monitor
+downloads: 2
+pricingModel: FREE
+xmlId: com.serialmonitor.cuiwang</description>
+      <pubDate>Mon, 16 Feb 2026 12:28:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30243-serial-monitor</guid>
+      <dc:date>2026-02-16T12:28:19Z</dc:date>
+    </item>
+    <item>
+      <title>Chatter AI Blame - Wed Feb 18 18:36:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30267-chatter-ai-blame</link>
+      <description>Git blame tells you who changed a line. Chatter tells you why. AI Blame — annotate editor lines with the AI session (Claude Code, Codex CLI) that last changed them and...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: org.jetbrains.llm.chatter.ai-blame</description>
+      <pubDate>Wed, 18 Feb 2026 18:36:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30267-chatter-ai-blame</guid>
+      <dc:date>2026-02-18T18:36:14Z</dc:date>
+    </item>
+    <item>
       <title>Protocol Inspector - Thu Jan 29 21:06:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29805-protocol-inspector</link>
       <description>Protocol Inspector helps you analyze SIP/SDP logs inside JetBrains IDEs. What you can do Split large logs into individual SIP messages (INVITE / 200 OK / BYE / …) View...
@@ -110,7 +201,7 @@ xmlId: com.mangkyu.yaml-properties-hinter</description>
       <dc:date>2026-02-17T14:47:16Z</dc:date>
     </item>
     <item>
-      <title>Tally - Tue Feb 17 12:23:54 UTC 2026</title>
+      <title>Tally - Wed Feb 18 17:49:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30255-tally</link>
       <description>Lint, format, and auto-fix Dockerfiles and Containerfiles in IntelliJ. BuildKit-native diagnostics plus Hadolint-compatible and modernization rules. Safe quick fixes...
 
@@ -118,9 +209,9 @@ vendor: WharfLab
 downloads: 0
 pricingModel: FREE
 xmlId: io.github.wharflab.tally</description>
-      <pubDate>Tue, 17 Feb 2026 12:23:54 GMT</pubDate>
+      <pubDate>Wed, 18 Feb 2026 17:49:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30255-tally</guid>
-      <dc:date>2026-02-17T12:23:54Z</dc:date>
+      <dc:date>2026-02-18T17:49:17Z</dc:date>
     </item>
     <item>
       <title>Connexion - Tue Feb 17 08:55:38 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: se.thruput.awesomeextensions</description>
       <pubDate>Mon, 16 Feb 2026 17:05:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30149-awesomeextensions</guid>
       <dc:date>2026-02-16T17:05:47Z</dc:date>
-    </item>
-    <item>
-      <title>Akeyless MCP - Sun Feb 08 16:25:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30116-akeyless-mcp</link>
-      <description>Akeyless MCP Plugin for JetBrains IDEs Integrate Akeyless secrets management directly into your JetBrains IDE through the Model Context Protocol (MCP). Browse, create...
-
-vendor: Akeyless
-downloads: 1
-pricingModel: FREE
-xmlId: com.akeyless.mcp</description>
-      <pubDate>Sun, 08 Feb 2026 16:25:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30116-akeyless-mcp</guid>
-      <dc:date>2026-02-08T16:25:15Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode UX+ GUI Only (unofficial) - Sun Feb 15 12:35:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30227-opencode-ux-gui-only-unofficial-</link>
-      <description>OpenCode UX+ (unofficial) JetBrains Plugin Unofficial OpenCode JetBrains plugin. Drag and drop files to context (JetBrains: from Project Window; VS Code: from Explorer...
-
-vendor: paviko
-downloads: 1
-pricingModel: FREE
-xmlId: paviko.opencode-ux-plus-gui-only</description>
-      <pubDate>Sun, 15 Feb 2026 12:35:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30227-opencode-ux-gui-only-unofficial-</guid>
-      <dc:date>2026-02-15T12:35:34Z</dc:date>
-    </item>
-    <item>
-      <title>Kora - Sun Feb 15 07:33:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30225-kora</link>
-      <description>Provides Spring-like "Go to Declaration" navigation for the Kora DI framework. Navigate from dependency injection points (constructor parameters, factory method...
-
-vendor: Daniil Sudomoin
-downloads: 1
-pricingModel: FREE
-xmlId: ru.dsudomoin.kora-plugin</description>
-      <pubDate>Sun, 15 Feb 2026 07:33:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30225-kora</guid>
-      <dc:date>2026-02-15T07:33:46Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Code Notifications - Sat Feb 14 22:52:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30224-claude-code-notifications</link>
-      <description>Receive IDE and system notifications from Claude Code CLI events via hooks.
-
-vendor: Claude Code Notifications
-downloads: 1
-pricingModel: FREE
-xmlId: com.claudecode.notifications</description>
-      <pubDate>Sat, 14 Feb 2026 22:52:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30224-claude-code-notifications</guid>
-      <dc:date>2026-02-14T22:52:43Z</dc:date>
-    </item>
-    <item>
-      <title>TODO++ - Wed Feb 18 14:04:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30223-todo-</link>
-      <description>Enhanced TODO Management for Developers Take your TODO comments to the next level! TODO++ adds powerful features to manage, organize, and track TODOs across your...
-
-vendor: prasad.vennam
-downloads: 4
-pricingModel: FREE
-xmlId: com.todoplus</description>
-      <pubDate>Wed, 18 Feb 2026 14:04:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30223-todo-</guid>
-      <dc:date>2026-02-18T14:04:18Z</dc:date>
-    </item>
-    <item>
-      <title>Metal Analyzer - Wed Feb 18 12:30:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30222-metal-analyzer</link>
-      <description>Metal Shading Language (MSL) support powered by the metal-analyzer language server. Real-time diagnostics via xcrun metal Auto-completion for built-in types...
-
-vendor: eugenebokhan
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.computergraphicstools.metalanalyzer</description>
-      <pubDate>Wed, 18 Feb 2026 12:30:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30222-metal-analyzer</guid>
-      <dc:date>2026-02-18T12:30:47Z</dc:date>
-    </item>
-    <item>
-      <title>PasteImages - Sat Feb 14 15:02:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30220-pasteimages</link>
-      <description>Paste images directly from clipboard into Markdown Documents in Intellij. Images files are deposited in a configurable directory relative to the markdown.
-
-vendor: jasonw-lab
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.jasonw-lab.pasteimages</description>
-      <pubDate>Sat, 14 Feb 2026 15:02:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30220-pasteimages</guid>
-      <dc:date>2026-02-14T15:02:13Z</dc:date>
     </item>
   </channel>
 </rss>
