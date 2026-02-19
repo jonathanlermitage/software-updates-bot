@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Adversarial Inputs Detector - Thu Feb 12 20:49:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30183-adversarial-inputs-detector</link>
+      <description>Adversarial Inputs Detector A JetBrains IDE plugin that detects malicious content in documentation and code files that can exploit AI coding assistants. What It Does...
+
+vendor: Cranium AI
+downloads: 2
+pricingModel: FREE
+xmlId: com.craniumai.adversarialinputs</description>
+      <pubDate>Thu, 12 Feb 2026 20:49:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30183-adversarial-inputs-detector</guid>
+      <dc:date>2026-02-12T20:49:28Z</dc:date>
+    </item>
+    <item>
+      <title>Container Inspector for Symfony - Mon Feb 16 08:39:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30235-container-inspector-for-symfony</link>
+      <description>Visualize and explore your Symfony Dependency Injection Container with an interactive graph interface. Inspect your Symfony DI Container Interactive Graph...
+
+vendor: KonstantinCodes
+downloads: 2
+pricingModel: FREE
+xmlId: codes.konstantin.containerinspector</description>
+      <pubDate>Mon, 16 Feb 2026 08:39:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30235-container-inspector-for-symfony</guid>
+      <dc:date>2026-02-16T08:39:44Z</dc:date>
+    </item>
+    <item>
+      <title>spring-boot-runner - Mon Feb 16 15:18:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30174-spring-boot-runner</link>
+      <description>A plugin for IntelliJ IDEA that allows you to run Spring Boot projects packaged as WAR files using the embedded Tomcat, without the need to configure an external...
+
+vendor: MrYisusX
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.mryisusx.customspringbootrunner</description>
+      <pubDate>Mon, 16 Feb 2026 15:18:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30174-spring-boot-runner</guid>
+      <dc:date>2026-02-16T15:18:20Z</dc:date>
+    </item>
+    <item>
+      <title>On-Device AI Bridge - Wed Feb 18 15:45:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30259-on-device-ai-bridge</link>
+      <description>Exposes the on-device AI (FoundationModels) as an OpenAI-compatible REST API. Requires macOS 26+ (Tahoe) with on-device AI enabled and Apple Silicon. Use with Cursor...
+
+vendor: Code with the Italians
+downloads: 0
+pricingModel: FREE
+xmlId: dev.sebastiano.plugins.appleintelligence</description>
+      <pubDate>Wed, 18 Feb 2026 15:45:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30259-on-device-ai-bridge</guid>
+      <dc:date>2026-02-18T15:45:59Z</dc:date>
+    </item>
+    <item>
       <title>Elem CSS Class Support - Mon Feb 16 11:55:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30241-elem-css-class-support</link>
       <description>Provides CSS class completion and navigation for the Elem PHP templating library. Features CSS Class Completion - Get autocomplete suggestions for CSS classes when...
@@ -84,7 +136,7 @@ xmlId: com.serialmonitor.cuiwang</description>
       <dc:date>2026-02-16T12:28:19Z</dc:date>
     </item>
     <item>
-      <title>Chatter AI Blame - Wed Feb 18 18:36:14 UTC 2026</title>
+      <title>Chatter AI Blame - Wed Feb 18 22:50:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30267-chatter-ai-blame</link>
       <description>Git blame tells you who changed a line. Chatter tells you why. AI Blame — annotate editor lines with the AI session (Claude Code, Codex CLI) that last changed them and...
 
@@ -92,9 +144,9 @@ vendor: JetBrains s.r.o.
 downloads: 0
 pricingModel: FREE
 xmlId: org.jetbrains.llm.chatter.ai-blame</description>
-      <pubDate>Wed, 18 Feb 2026 18:36:14 GMT</pubDate>
+      <pubDate>Wed, 18 Feb 2026 22:50:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30267-chatter-ai-blame</guid>
-      <dc:date>2026-02-18T18:36:14Z</dc:date>
+      <dc:date>2026-02-18T22:50:12Z</dc:date>
     </item>
     <item>
       <title>Protocol Inspector - Thu Jan 29 21:06:57 UTC 2026</title>
@@ -110,7 +162,7 @@ xmlId: com.waheni.protocolinspector.protocol-inspector</description>
       <dc:date>2026-01-29T21:06:57Z</dc:date>
     </item>
     <item>
-      <title>Spring Property Navigator - Sat Feb 14 10:02:05 UTC 2026</title>
+      <title>Spring Property Navigator - Thu Feb 19 00:01:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30212-spring-property-navigator</link>
       <description>Provides bidirectional navigation between Spring Boot property keys and their Java usages. Ctrl+Click on @Value("${key}") to jump to the property definition Ctrl+Click...
 
@@ -118,9 +170,9 @@ vendor: NovaIntelix
 downloads: 1
 pricingModel: FREEMIUM
 xmlId: com.navigator.spring-property-navigator</description>
-      <pubDate>Sat, 14 Feb 2026 10:02:05 GMT</pubDate>
+      <pubDate>Thu, 19 Feb 2026 00:01:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30212-spring-property-navigator</guid>
-      <dc:date>2026-02-14T10:02:05Z</dc:date>
+      <dc:date>2026-02-19T00:01:27Z</dc:date>
     </item>
     <item>
       <title>Flutter Compile - Wed Feb 18 03:40:53 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: io.github.wharflab.tally</description>
       <pubDate>Wed, 18 Feb 2026 17:49:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30255-tally</guid>
       <dc:date>2026-02-18T17:49:17Z</dc:date>
-    </item>
-    <item>
-      <title>Connexion - Tue Feb 17 08:55:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30253-connexion</link>
-      <description>Connexion / OpenAPI assistance for Python projects in PyCharm / IntelliJ-based IDEs. Key features: Inspections for unresolved Connexion references in JSON and YAML...
-
-vendor: chbndrhnns
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.chbndrhnns.connexion</description>
-      <pubDate>Tue, 17 Feb 2026 08:55:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30253-connexion</guid>
-      <dc:date>2026-02-17T08:55:38Z</dc:date>
-    </item>
-    <item>
-      <title>Grafana Alloy - Mon Feb 16 19:42:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30232-grafana-alloy</link>
-      <description>Syntax highlighting, code folding, bracket matching, navigate to declaration, and comment support for Grafana Alloy configuration files (.alloy). This entire plugin...
-
-vendor: Can Burak Cilingir
-downloads: 5
-pricingModel: FREE
-xmlId: net.canb.alloy</description>
-      <pubDate>Mon, 16 Feb 2026 19:42:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30232-grafana-alloy</guid>
-      <dc:date>2026-02-16T19:42:59Z</dc:date>
-    </item>
-    <item>
-      <title>GitHub Status Monitor - Mon Feb 16 18:57:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30245-github-status-monitor</link>
-      <description>Monitor GitHub service health in real-time. Stay informed about GitHub's operational status without ever leaving your IDE. Avoid the frustration of "ghost" errors by...
-
-vendor: Fabiano Augusto de Mello
-downloads: 1
-pricingModel: FREE
-xmlId: com.birojow.githubstatus</description>
-      <pubDate>Mon, 16 Feb 2026 18:57:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30245-github-status-monitor</guid>
-      <dc:date>2026-02-16T18:57:04Z</dc:date>
-    </item>
-    <item>
-      <title>AwesomeExtensions - Mon Feb 16 17:05:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30149-awesomeextensions</link>
-      <description>Adds the missing extensions to Rider Generate Extension Method.
-
-vendor: Thruput
-downloads: 2
-pricingModel: FREE
-xmlId: se.thruput.awesomeextensions</description>
-      <pubDate>Mon, 16 Feb 2026 17:05:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30149-awesomeextensions</guid>
-      <dc:date>2026-02-16T17:05:47Z</dc:date>
     </item>
   </channel>
 </rss>
