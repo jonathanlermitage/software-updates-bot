@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Log Injector - Thu Feb 19 00:24:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30268-log-injector</link>
+      <description>Log Injector - Boost Your Debugging Workflow Speed up your debugging process by automatically inserting and removing logging statements in your Java and Kotlin code...
+
+vendor: Yauheni Slizh
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.kiolk.loggingplugin</description>
+      <pubDate>Thu, 19 Feb 2026 00:24:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30268-log-injector</guid>
+      <dc:date>2026-02-19T00:24:58Z</dc:date>
+    </item>
+    <item>
+      <title>NuGet Auto-Fill - Wed Feb 18 11:31:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30246-nuget-auto-fill</link>
+      <description>NuGet Auto-Fill Automatically detects and fills NuGet feed credential dialogs in JetBrains Rider. Features: Automatic detection of NuGet credential dialogs Secure...
+
+vendor: tt4-GmbH
+downloads: 1
+pricingModel: FREE
+xmlId: com.tt4.rider-nuget-autofill</description>
+      <pubDate>Wed, 18 Feb 2026 11:31:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30246-nuget-auto-fill</guid>
+      <dc:date>2026-02-18T11:31:39Z</dc:date>
+    </item>
+    <item>
       <title>Adversarial Inputs Detector - Thu Feb 12 20:49:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30183-adversarial-inputs-detector</link>
       <description>Adversarial Inputs Detector A JetBrains IDE plugin that detects malicious content in documentation and code files that can exploit AI coding assistants. What It Does...
@@ -37,7 +63,7 @@ xmlId: codes.konstantin.containerinspector</description>
       <description>A plugin for IntelliJ IDEA that allows you to run Spring Boot projects packaged as WAR files using the embedded Tomcat, without the need to configure an external...
 
 vendor: MrYisusX
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.mryisusx.customspringbootrunner</description>
       <pubDate>Mon, 16 Feb 2026 15:18:20 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: com.github.mryisusx.customspringbootrunner</description>
       <description>Exposes the on-device AI (FoundationModels) as an OpenAI-compatible REST API. Requires macOS 26+ (Tahoe) with on-device AI enabled and Apple Silicon. Use with Cursor...
 
 vendor: Code with the Italians
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.sebastiano.plugins.appleintelligence</description>
       <pubDate>Wed, 18 Feb 2026 15:45:59 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: dev.jetplugins.typst</description>
       <description>ADB Hub is an IntelliJ Platform plugin that helps Android developers manage connected devices and applications without leaving the IDE. Features Device management...
 
 vendor: Hakan Dındış
-downloads: 1
+downloads: 37
 pricingModel: FREE
 xmlId: com.github.hakandindis.plugins.adbhub</description>
       <pubDate>Wed, 18 Feb 2026 19:34:22 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: com.serialmonitor.cuiwang</description>
       <description>Git blame tells you who changed a line. Chatter tells you why. AI Blame — annotate editor lines with the AI session (Claude Code, Codex CLI) that last changed them and...
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: org.jetbrains.llm.chatter.ai-blame</description>
       <pubDate>Wed, 18 Feb 2026 22:50:12 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: org.jetbrains.llm.chatter.ai-blame</description>
       <description>Protocol Inspector helps you analyze SIP/SDP logs inside JetBrains IDEs. What you can do Split large logs into individual SIP messages (INVITE / 200 OK / BYE / …) View...
 
 vendor: Neurahex
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: com.waheni.protocolinspector.protocol-inspector</description>
       <pubDate>Thu, 29 Jan 2026 21:06:57 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: com.waheni.protocolinspector.protocol-inspector</description>
       <description>Provides bidirectional navigation between Spring Boot property keys and their Java usages. Ctrl+Click on @Value("${key}") to jump to the property definition Ctrl+Click...
 
 vendor: NovaIntelix
-downloads: 1
+downloads: 3
 pricingModel: FREEMIUM
 xmlId: com.navigator.spring-property-navigator</description>
       <pubDate>Thu, 19 Feb 2026 00:54:53 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: com.navigator.spring-property-navigator</description>
       <description>Manage multiple Flutter SDK versions from Android Studio / IntelliJ IDEA. Toolbar combo box to switch between installed Flutter SDKs Tool window showing installed...
 
 vendor: FlutterPlaza.com
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.flutterplaza.fluttercompile</description>
       <pubDate>Wed, 18 Feb 2026 03:40:53 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: com.flutterplaza.fluttercompile</description>
       <description>Velo Assistant is a guided project bootstrapper for Flutter developers, built to feel like a native part of Android Studio. It helps you: • Choose your Flutter SDK...
 
 vendor: VeloLabs
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: cloud.azaeem.veloplugin</description>
       <pubDate>Wed, 18 Feb 2026 01:32:32 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: cloud.azaeem.veloplugin</description>
       <description>ECProperty Completion Enhance your development workflow with fully customizable code completion for *.property file type. This plugin allows you to define your own...
 
 vendor: Sulan Abubakarov
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: dev.sulan.ecproperty</description>
       <pubDate>Tue, 17 Feb 2026 18:07:24 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: dev.sulan.ecproperty</description>
       <description>Object Dumper for Rider Reflection-based Rider extension for exporting in-memory objects during debugging to C# Object Initialization Code, JSON, Visual Basic Object...
 
 vendor: Raffinert
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.yellowflavor.objectdumper</description>
       <pubDate>Tue, 17 Feb 2026 16:10:38 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: com.yellowflavor.objectdumper</description>
       <description>Network traffic inspector for Android apps using the Flocon SDK. Features Real-time network traffic inspection from connected Android devices View HTTP...
 
 vendor: setheclark
-downloads: 4
+downloads: 17
 pricingModel: FREE
 xmlId: io.github.setheclark.flocon_plugin</description>
       <pubDate>Tue, 17 Feb 2026 15:26:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30172-flocon-network-inspector</guid>
       <dc:date>2026-02-17T15:26:30Z</dc:date>
-    </item>
-    <item>
-      <title>YAML Properties Hinter - Tue Feb 17 14:47:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30256-yaml-properties-hinter</link>
-      <description>Displays the full properties-style dot-notation path for YAML keys as a block inlay hint above the current line. Full path hint Shows the dot-notation path (e.g...
-
-vendor: MangKyu
-downloads: 0
-pricingModel: FREE
-xmlId: com.mangkyu.yaml-properties-hinter</description>
-      <pubDate>Tue, 17 Feb 2026 14:47:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30256-yaml-properties-hinter</guid>
-      <dc:date>2026-02-17T14:47:16Z</dc:date>
-    </item>
-    <item>
-      <title>Tally - Thu Feb 19 01:06:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30255-tally</link>
-      <description>Lint, format, and auto-fix Dockerfiles and Containerfiles in IntelliJ. BuildKit-native diagnostics plus Hadolint-compatible and modernization rules. Safe quick fixes...
-
-vendor: WharfLab
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.wharflab.tally</description>
-      <pubDate>Thu, 19 Feb 2026 01:06:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30255-tally</guid>
-      <dc:date>2026-02-19T01:06:49Z</dc:date>
     </item>
   </channel>
 </rss>
