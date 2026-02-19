@@ -19,19 +19,6 @@ xmlId: com.github.kiolk.loggingplugin</description>
       <dc:date>2026-02-19T00:24:58Z</dc:date>
     </item>
     <item>
-      <title>NuGet Auto-Fill - Wed Feb 18 11:31:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30246-nuget-auto-fill</link>
-      <description>NuGet Auto-Fill Automatically detects and fills NuGet feed credential dialogs in JetBrains Rider. Features: Automatic detection of NuGet credential dialogs Secure...
-
-vendor: tt4-GmbH
-downloads: 1
-pricingModel: FREE
-xmlId: com.tt4.rider-nuget-autofill</description>
-      <pubDate>Wed, 18 Feb 2026 11:31:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30246-nuget-auto-fill</guid>
-      <dc:date>2026-02-18T11:31:39Z</dc:date>
-    </item>
-    <item>
       <title>Adversarial Inputs Detector - Thu Feb 12 20:49:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30183-adversarial-inputs-detector</link>
       <description>Adversarial Inputs Detector A JetBrains IDE plugin that detects malicious content in documentation and code files that can exploit AI coding assistants. What It Does...
@@ -162,7 +149,7 @@ xmlId: com.serialmonitor.cuiwang</description>
       <dc:date>2026-02-16T12:28:19Z</dc:date>
     </item>
     <item>
-      <title>Chatter AI Blame - Wed Feb 18 22:50:12 UTC 2026</title>
+      <title>Chatter AI Blame - Thu Feb 19 09:55:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30267-chatter-ai-blame</link>
       <description>Git blame tells you who changed a line. Chatter tells you why. AI Blame — annotate editor lines with the AI session (Claude Code, Codex CLI) that last changed them and...
 
@@ -170,9 +157,9 @@ vendor: JetBrains s.r.o.
 downloads: 9
 pricingModel: FREE
 xmlId: org.jetbrains.llm.chatter.ai-blame</description>
-      <pubDate>Wed, 18 Feb 2026 22:50:12 GMT</pubDate>
+      <pubDate>Thu, 19 Feb 2026 09:55:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30267-chatter-ai-blame</guid>
-      <dc:date>2026-02-18T22:50:12Z</dc:date>
+      <dc:date>2026-02-19T09:55:21Z</dc:date>
     </item>
     <item>
       <title>Protocol Inspector - Thu Jan 29 21:06:57 UTC 2026</title>
@@ -264,6 +251,19 @@ xmlId: io.github.setheclark.flocon_plugin</description>
       <pubDate>Tue, 17 Feb 2026 15:26:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30172-flocon-network-inspector</guid>
       <dc:date>2026-02-17T15:26:30Z</dc:date>
+    </item>
+    <item>
+      <title>YAML Properties Hinter - Tue Feb 17 14:47:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30256-yaml-properties-hinter</link>
+      <description>Displays the full properties-style dot-notation path for YAML keys as a block inlay hint above the current line. Full path hint Shows the dot-notation path (e.g...
+
+vendor: MangKyu
+downloads: 1
+pricingModel: FREE
+xmlId: com.mangkyu.yaml-properties-hinter</description>
+      <pubDate>Tue, 17 Feb 2026 14:47:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30256-yaml-properties-hinter</guid>
+      <dc:date>2026-02-17T14:47:16Z</dc:date>
     </item>
   </channel>
 </rss>
