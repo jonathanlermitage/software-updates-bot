@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Log Finder - Thu Feb 19 17:05:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30275-log-finder</link>
+      <description>Log Finder Scan your Android project for Log.d(), Log.v(), Log.i(), Log.w(), Log.e(), Timber, and println() statements. View results in a beautiful, filterable tool...
+
+vendor: sanjay kumar
+downloads: 0
+pricingModel: FREE
+xmlId: com.logdfinder</description>
+      <pubDate>Thu, 19 Feb 2026 17:05:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30275-log-finder</guid>
+      <dc:date>2026-02-19T17:05:36Z</dc:date>
+    </item>
+    <item>
+      <title>Database Helpers - Thu Feb 19 18:40:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30217-database-helpers</link>
+      <description>Simplifies database connection management in DataGrip and IntelliJ IDEA Ultimate. Features: Automatically creates data sources from docker-compose files Detects...
+
+vendor: sandstorm
+downloads: 2
+pricingModel: FREE
+xmlId: de.sandstorm.database-helpers</description>
+      <pubDate>Thu, 19 Feb 2026 18:40:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30217-database-helpers</guid>
+      <dc:date>2026-02-19T18:40:00Z</dc:date>
+    </item>
+    <item>
       <title>WorktreeWise - Thu Feb 19 15:55:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29869-worktreewise</link>
       <description>Switch Git worktrees and open projects in WorktreeWise directly from your IDE. Preserve bookmarks, run configurations, and IDE context while staying fast and...
@@ -19,7 +45,7 @@ xmlId: com.worktreewise.jetbrains</description>
       <dc:date>2026-02-19T15:55:52Z</dc:date>
     </item>
     <item>
-      <title>LocalizePipe - Thu Feb 19 10:43:22 UTC 2026</title>
+      <title>LocalizePipe - Thu Feb 19 18:54:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30265-localizepipe</link>
       <description>LocalizePipe helps you localize strings.xml faster inside IntelliJ. It scans Android and Compose Multiplatform resource folders, finds missing or unchanged...
 
@@ -27,9 +53,9 @@ vendor: Aaron.Dietz
 downloads: 1
 pricingModel: FREE
 xmlId: de.aarondietz.LocalizePipe</description>
-      <pubDate>Thu, 19 Feb 2026 10:43:22 GMT</pubDate>
+      <pubDate>Thu, 19 Feb 2026 18:54:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30265-localizepipe</guid>
-      <dc:date>2026-02-19T10:43:22Z</dc:date>
+      <dc:date>2026-02-19T18:54:44Z</dc:date>
     </item>
     <item>
       <title>Log Injector - Thu Feb 19 00:24:58 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.flutterplaza.fluttercompile</description>
       <pubDate>Wed, 18 Feb 2026 03:40:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30261-flutter-compile</guid>
       <dc:date>2026-02-18T03:40:53Z</dc:date>
-    </item>
-    <item>
-      <title>Velo Assistant - Wed Feb 18 01:32:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30239-velo-assistant</link>
-      <description>Velo Assistant is a guided project bootstrapper for Flutter developers, built to feel like a native part of Android Studio. It helps you: • Choose your Flutter SDK...
-
-vendor: VeloLabs
-downloads: 4
-pricingModel: FREE
-xmlId: cloud.azaeem.veloplugin</description>
-      <pubDate>Wed, 18 Feb 2026 01:32:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30239-velo-assistant</guid>
-      <dc:date>2026-02-18T01:32:32Z</dc:date>
-    </item>
-    <item>
-      <title>ECProperty Completion - Tue Feb 17 18:07:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30258-ecproperty-completion</link>
-      <description>ECProperty Completion Enhance your development workflow with fully customizable code completion for *.property file type. This plugin allows you to define your own...
-
-vendor: Sulan Abubakarov
-downloads: 5
-pricingModel: FREE
-xmlId: dev.sulan.ecproperty</description>
-      <pubDate>Tue, 17 Feb 2026 18:07:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30258-ecproperty-completion</guid>
-      <dc:date>2026-02-17T18:07:24Z</dc:date>
     </item>
   </channel>
 </rss>
