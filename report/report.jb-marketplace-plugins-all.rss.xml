@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>JUnit Test Generator - Fri Feb 20 14:38:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30287-junit-test-generator</link>
+      <description>Auto-generate JUnit 5 + Mockito test cases from any Java service class. Detects all injected dependencies and creates @Mock fields automatically Generates @InjectMocks...
+
+vendor: Praveen Kumar Aasuri
+downloads: 0
+pricingModel: FREE
+xmlId: com.testgen.junit-generator</description>
+      <pubDate>Fri, 20 Feb 2026 14:38:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30287-junit-test-generator</guid>
+      <dc:date>2026-02-20T14:38:40Z</dc:date>
+    </item>
+    <item>
+      <title>env-inject - Fri Feb 20 14:24:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30271-env-inject</link>
+      <description>IntelliJ plugin that injects environment variables into JVM Run Configurations (Java, Kotlin, Scala) by calling an external command before launch. The command outputs...
+
+vendor: Joachim Bargsten
+downloads: 2
+pricingModel: FREE
+xmlId: org.bargsten.envinject</description>
+      <pubDate>Fri, 20 Feb 2026 14:24:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30271-env-inject</guid>
+      <dc:date>2026-02-20T14:24:32Z</dc:date>
+    </item>
+    <item>
+      <title>Vim Coach - Fri Feb 20 12:51:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30148-vim-coach</link>
+      <description>Vim Coach is an IntelliJ Platform plugin designed to help developers learn and master Vim keybindings. The plugin provides bite-sized Vim tips through notifications...
+
+vendor: Poorya
+downloads: 10
+pricingModel: FREE
+xmlId: com.github.pooryam92.vimcoach</description>
+      <pubDate>Fri, 20 Feb 2026 12:51:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30148-vim-coach</guid>
+      <dc:date>2026-02-20T12:51:06Z</dc:date>
+    </item>
+    <item>
       <title>Compose Resources Kit - Fri Feb 20 03:08:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30280-compose-resources-kit</link>
       <description>Ever add a string to your strings.xml, switch back to your Kotlin file, and get Unresolved reference? This plugin fixes that. It watches your composeResources...
@@ -225,45 +264,6 @@ xmlId: dev.jetplugins.typst</description>
       <pubDate>Thu, 19 Feb 2026 08:53:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30231-typst-pro</guid>
       <dc:date>2026-02-19T08:53:26Z</dc:date>
-    </item>
-    <item>
-      <title>ADB Hub - Wed Feb 18 19:34:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30230-adb-hub</link>
-      <description>ADB Hub is an IntelliJ Platform plugin that helps Android developers manage connected devices and applications without leaving the IDE. Features Device management...
-
-vendor: Hakan Dındış
-downloads: 78
-pricingModel: FREE
-xmlId: com.github.hakandindis.plugins.adbhub</description>
-      <pubDate>Wed, 18 Feb 2026 19:34:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30230-adb-hub</guid>
-      <dc:date>2026-02-18T19:34:22Z</dc:date>
-    </item>
-    <item>
-      <title>Redmine / Jira Task Links - Sun Feb 15 16:04:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30228-redmine--jira-task-links</link>
-      <description>Detects task IDs in Git commit messages using a configurable regex and turns them into clickable links.
-
-vendor: intheweb
-downloads: 8
-pricingModel: FREE
-xmlId: intheweb.commit_task_links</description>
-      <pubDate>Sun, 15 Feb 2026 16:04:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30228-redmine--jira-task-links</guid>
-      <dc:date>2026-02-15T16:04:07Z</dc:date>
-    </item>
-    <item>
-      <title>Serial Monitor - Mon Feb 16 12:28:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30243-serial-monitor</link>
-      <description>A powerful Serial Port Monitor with real-time data visualization for JetBrains IDEs. Perfect for Arduino, ESP32, embedded systems, and IoT development. Monitor serial...
-
-vendor: Serial Monitor
-downloads: 18
-pricingModel: FREE
-xmlId: com.serialmonitor.cuiwang</description>
-      <pubDate>Mon, 16 Feb 2026 12:28:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30243-serial-monitor</guid>
-      <dc:date>2026-02-16T12:28:19Z</dc:date>
     </item>
   </channel>
 </rss>
