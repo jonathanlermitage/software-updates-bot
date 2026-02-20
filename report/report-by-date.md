@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.21525.39) ~ 2026-02-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 20 20:03:11 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 19 16:14:44 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.5 to 19.5.0 ~ 2026-02-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Feb 17 00:08:24 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 337 - Datacenters Carrier Class dans l'espace|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 16 12:07:19 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.20869.38) ~ 2026-02-13|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 13 16:11:40 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|

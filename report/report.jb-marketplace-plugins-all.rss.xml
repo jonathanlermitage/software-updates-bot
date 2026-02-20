@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Gemini Context Packer - Tue Feb 17 13:57:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30168-gemini-context-packer</link>
+      <description>Gemini Context Packer Secure. Compact. AI-Ready. Gemini Context Packer is the essential security and efficiency tool for Android developers using AI. Stop pasting raw...
+
+vendor: triangcircularmedia
+downloads: 1
+pricingModel: PAID
+xmlId: com.triangcircularmedia.plugins.contextpacker</description>
+      <pubDate>Tue, 17 Feb 2026 13:57:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30168-gemini-context-packer</guid>
+      <dc:date>2026-02-17T13:57:38Z</dc:date>
+    </item>
+    <item>
+      <title>MiConvert Image Compressor - Fri Feb 20 09:10:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30281-miconvert-image-compressor</link>
+      <description>Optimize images without breaking your coding flow! Compress and optimize images (PNG, JPG, WebP) directly within your IDE with a single click. Instantly reduce project...
+
+vendor: MiConvert
+downloads: 0
+pricingModel: FREE
+xmlId: com.miconvert.imagecompressor</description>
+      <pubDate>Fri, 20 Feb 2026 09:10:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30281-miconvert-image-compressor</guid>
+      <dc:date>2026-02-20T09:10:16Z</dc:date>
+    </item>
+    <item>
+      <title>txtar file support - Fri Feb 20 12:29:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30286-txtar-file-support</link>
+      <description>Support for the txtar file format. Features: File Type Recognition: Automatically recognizes .txtar files. Syntax Highlighting: Basic syntax highlighting for txtar...
+
+vendor: Arran Ubels
+downloads: 0
+pricingModel: FREE
+xmlId: com.arran4.txtar</description>
+      <pubDate>Fri, 20 Feb 2026 12:29:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30286-txtar-file-support</guid>
+      <dc:date>2026-02-20T12:29:59Z</dc:date>
+    </item>
+    <item>
       <title>JUnit Test Generator - Fri Feb 20 14:38:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30287-junit-test-generator</link>
       <description>Auto-generate JUnit 5 + Mockito test cases from any Java service class. Detects all injected dependencies and creates @Mock fields automatically Generates @InjectMocks...
@@ -84,7 +123,7 @@ xmlId: io.marktone.plugin</description>
       <dc:date>2026-02-19T22:48:15Z</dc:date>
     </item>
     <item>
-      <title>Azure Templates Navigator - Fri Feb 20 09:30:57 UTC 2026</title>
+      <title>Azure Templates Navigator - Fri Feb 20 18:23:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30272-azure-templates-navigator</link>
       <description>Azure Templates Navigator supercharges your Azure DevOps pipeline development in IntelliJ-based IDEs. Working with Azure Pipelines templates across multiple...
 
@@ -92,9 +131,9 @@ vendor: Bogdan Bujor
 downloads: 0
 pricingModel: FREE
 xmlId: com.bogdanbujor.azure-templates-navigator</description>
-      <pubDate>Fri, 20 Feb 2026 09:30:57 GMT</pubDate>
+      <pubDate>Fri, 20 Feb 2026 18:23:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30272-azure-templates-navigator</guid>
-      <dc:date>2026-02-20T09:30:57Z</dc:date>
+      <dc:date>2026-02-20T18:23:04Z</dc:date>
     </item>
     <item>
       <title>Log Finder - Thu Feb 19 17:05:36 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: dev.sebastiano.plugins.appleintelligence</description>
       <pubDate>Wed, 18 Feb 2026 15:45:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30259-on-device-ai-bridge</guid>
       <dc:date>2026-02-18T15:45:59Z</dc:date>
-    </item>
-    <item>
-      <title>Elem CSS Class Support - Mon Feb 16 11:55:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30241-elem-css-class-support</link>
-      <description>Provides CSS class completion and navigation for the Elem PHP templating library. Features CSS Class Completion - Get autocomplete suggestions for CSS classes when...
-
-vendor: epic-64
-downloads: 5
-pricingModel: FREE
-xmlId: com.epic64.elem-phpstorm-plugin</description>
-      <pubDate>Mon, 16 Feb 2026 11:55:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30241-elem-css-class-support</guid>
-      <dc:date>2026-02-16T11:55:31Z</dc:date>
-    </item>
-    <item>
-      <title>Copy Selection Context - Wed Feb 18 12:43:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30262-copy-selection-context</link>
-      <description>Copy file paths, line numbers, and code to clipboard for AI assistant workflows. One shortcut (Ctrl+Alt+C / Cmd+Alt+C) copies your current selection — or the current...
-
-vendor: Jihoon Jeon
-downloads: 14
-pricingModel: FREE
-xmlId: com.github.hon454.copy-selection-context</description>
-      <pubDate>Wed, 18 Feb 2026 12:43:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30262-copy-selection-context</guid>
-      <dc:date>2026-02-18T12:43:39Z</dc:date>
-    </item>
-    <item>
-      <title>Typst Pro - Thu Feb 19 08:53:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30231-typst-pro</link>
-      <description>Full-featured Typst support for all JetBrains IDEs, powered by the Tinymist language server. Features: Syntax highlighting for markup, code, and math modesLive preview...
-
-vendor: Jetplugins
-downloads: 14
-pricingModel: PAID
-xmlId: dev.jetplugins.typst</description>
-      <pubDate>Thu, 19 Feb 2026 08:53:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30231-typst-pro</guid>
-      <dc:date>2026-02-19T08:53:26Z</dc:date>
     </item>
   </channel>
 </rss>
