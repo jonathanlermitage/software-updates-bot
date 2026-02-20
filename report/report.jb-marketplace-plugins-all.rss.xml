@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Compose Resources Kit - Fri Feb 20 03:08:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30280-compose-resources-kit</link>
+      <description>Ever add a string to your strings.xml, switch back to your Kotlin file, and get Unresolved reference? This plugin fixes that. It watches your composeResources...
+
+vendor: jordond
+downloads: 0
+pricingModel: FREE
+xmlId: dev.jordond.compose-resources-kit</description>
+      <pubDate>Fri, 20 Feb 2026 03:08:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30280-compose-resources-kit</guid>
+      <dc:date>2026-02-20T03:08:13Z</dc:date>
+    </item>
+    <item>
+      <title>npm quick - Thu Feb 19 23:44:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30279-npm-quick</link>
+      <description>npm quick is a lightweight and powerful plugin that allows you to discover and run npm, pnpm, and yarn scripts instantly from a searchable popup, without leaving your...
+
+vendor: David Vigo
+downloads: 0
+pricingModel: FREE
+xmlId: com.dvigo.npmquick</description>
+      <pubDate>Thu, 19 Feb 2026 23:44:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30279-npm-quick</guid>
+      <dc:date>2026-02-19T23:44:58Z</dc:date>
+    </item>
+    <item>
+      <title>MarkTone - Thu Feb 19 22:48:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30278-marktone</link>
+      <description>MarkTone automatically generates and applies Markdown preview styles that match your current IDE theme. Features Extracts colors and fonts from your active IDE theme...
+
+vendor: marzmesas
+downloads: 0
+pricingModel: FREE
+xmlId: io.marktone.plugin</description>
+      <pubDate>Thu, 19 Feb 2026 22:48:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30278-marktone</guid>
+      <dc:date>2026-02-19T22:48:15Z</dc:date>
+    </item>
+    <item>
+      <title>Azure Templates Navigator - Thu Feb 19 14:54:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30272-azure-templates-navigator</link>
+      <description>Azure Templates Navigator supercharges your Azure DevOps pipeline development in IntelliJ-based IDEs. Working with Azure Pipelines templates across multiple...
+
+vendor: Bogdan Bujor
+downloads: 0
+pricingModel: FREE
+xmlId: com.bogdanbujor.azure-templates-navigator</description>
+      <pubDate>Thu, 19 Feb 2026 14:54:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30272-azure-templates-navigator</guid>
+      <dc:date>2026-02-19T14:54:38Z</dc:date>
+    </item>
+    <item>
       <title>Log Finder - Thu Feb 19 17:05:36 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30275-log-finder</link>
       <description>Log Finder Scan your Android project for Log.d(), Log.v(), Log.i(), Log.w(), Log.e(), Timber, and println() statements. View results in a beautiful, filterable tool...
@@ -37,7 +89,7 @@ xmlId: de.sandstorm.database-helpers</description>
       <description>Switch Git worktrees and open projects in WorktreeWise directly from your IDE. Preserve bookmarks, run configurations, and IDE context while staying fast and...
 
 vendor: WorktreeWise
-downloads: 6
+downloads: 13
 pricingModel: FREE
 xmlId: com.worktreewise.jetbrains</description>
       <pubDate>Thu, 19 Feb 2026 15:55:52 GMT</pubDate>
@@ -50,7 +102,7 @@ xmlId: com.worktreewise.jetbrains</description>
       <description>LocalizePipe helps you localize strings.xml faster inside IntelliJ. It scans Android and Compose Multiplatform resource folders, finds missing or unchanged...
 
 vendor: Aaron.Dietz
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: de.aarondietz.LocalizePipe</description>
       <pubDate>Thu, 19 Feb 2026 18:54:44 GMT</pubDate>
@@ -63,7 +115,7 @@ xmlId: de.aarondietz.LocalizePipe</description>
       <description>Log Injector - Boost Your Debugging Workflow Speed up your debugging process by automatically inserting and removing logging statements in your Java and Kotlin code...
 
 vendor: Yauheni Slizh
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.kiolk.loggingplugin</description>
       <pubDate>Thu, 19 Feb 2026 00:24:58 GMT</pubDate>
@@ -76,7 +128,7 @@ xmlId: com.github.kiolk.loggingplugin</description>
       <description>NuGet Auto-Fill Automatically detects and fills NuGet feed credential dialogs in JetBrains Rider. Features: Automatic detection of NuGet credential dialogs Secure...
 
 vendor: tt4-GmbH
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.tt4.rider-nuget-autofill</description>
       <pubDate>Thu, 19 Feb 2026 19:44:48 GMT</pubDate>
@@ -89,7 +141,7 @@ xmlId: com.tt4.rider-nuget-autofill</description>
       <description>Adversarial Inputs Detector A JetBrains IDE plugin that detects malicious content in documentation and code files that can exploit AI coding assistants. What It Does...
 
 vendor: Cranium AI
-downloads: 2
+downloads: 14
 pricingModel: FREE
 xmlId: com.craniumai.adversarialinputs</description>
       <pubDate>Thu, 12 Feb 2026 20:49:28 GMT</pubDate>
@@ -102,7 +154,7 @@ xmlId: com.craniumai.adversarialinputs</description>
       <description>Visualize and explore your Symfony Dependency Injection Container with an interactive graph interface. Inspect your Symfony DI Container Interactive Graph...
 
 vendor: KonstantinCodes
-downloads: 2
+downloads: 11
 pricingModel: FREE
 xmlId: codes.konstantin.containerinspector</description>
       <pubDate>Mon, 16 Feb 2026 08:39:44 GMT</pubDate>
@@ -115,7 +167,7 @@ xmlId: codes.konstantin.containerinspector</description>
       <description>A plugin for IntelliJ IDEA that allows you to run Spring Boot projects packaged as WAR files using the embedded Tomcat, without the need to configure an external...
 
 vendor: MrYisusX
-downloads: 2
+downloads: 12
 pricingModel: FREE
 xmlId: com.github.mryisusx.customspringbootrunner</description>
       <pubDate>Mon, 16 Feb 2026 15:18:20 GMT</pubDate>
@@ -128,7 +180,7 @@ xmlId: com.github.mryisusx.customspringbootrunner</description>
       <description>Exposes the on-device AI (FoundationModels) as an OpenAI-compatible REST API. Requires macOS 26+ (Tahoe) with on-device AI enabled and Apple Silicon. Use with Cursor...
 
 vendor: Code with the Italians
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: dev.sebastiano.plugins.appleintelligence</description>
       <pubDate>Wed, 18 Feb 2026 15:45:59 GMT</pubDate>
@@ -141,7 +193,7 @@ xmlId: dev.sebastiano.plugins.appleintelligence</description>
       <description>Provides CSS class completion and navigation for the Elem PHP templating library. Features CSS Class Completion - Get autocomplete suggestions for CSS classes when...
 
 vendor: epic-64
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.epic64.elem-phpstorm-plugin</description>
       <pubDate>Mon, 16 Feb 2026 11:55:31 GMT</pubDate>
@@ -154,7 +206,7 @@ xmlId: com.epic64.elem-phpstorm-plugin</description>
       <description>Copy file paths, line numbers, and code to clipboard for AI assistant workflows. One shortcut (Ctrl+Alt+C / Cmd+Alt+C) copies your current selection — or the current...
 
 vendor: Jihoon Jeon
-downloads: 0
+downloads: 14
 pricingModel: FREE
 xmlId: com.github.hon454.copy-selection-context</description>
       <pubDate>Wed, 18 Feb 2026 12:43:39 GMT</pubDate>
@@ -167,7 +219,7 @@ xmlId: com.github.hon454.copy-selection-context</description>
       <description>Full-featured Typst support for all JetBrains IDEs, powered by the Tinymist language server. Features: Syntax highlighting for markup, code, and math modesLive preview...
 
 vendor: Jetplugins
-downloads: 1
+downloads: 14
 pricingModel: PAID
 xmlId: dev.jetplugins.typst</description>
       <pubDate>Thu, 19 Feb 2026 08:53:26 GMT</pubDate>
@@ -180,7 +232,7 @@ xmlId: dev.jetplugins.typst</description>
       <description>ADB Hub is an IntelliJ Platform plugin that helps Android developers manage connected devices and applications without leaving the IDE. Features Device management...
 
 vendor: Hakan Dındış
-downloads: 37
+downloads: 78
 pricingModel: FREE
 xmlId: com.github.hakandindis.plugins.adbhub</description>
       <pubDate>Wed, 18 Feb 2026 19:34:22 GMT</pubDate>
@@ -193,7 +245,7 @@ xmlId: com.github.hakandindis.plugins.adbhub</description>
       <description>Detects task IDs in Git commit messages using a configurable regex and turns them into clickable links.
 
 vendor: intheweb
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: intheweb.commit_task_links</description>
       <pubDate>Sun, 15 Feb 2026 16:04:07 GMT</pubDate>
@@ -206,64 +258,12 @@ xmlId: intheweb.commit_task_links</description>
       <description>A powerful Serial Port Monitor with real-time data visualization for JetBrains IDEs. Perfect for Arduino, ESP32, embedded systems, and IoT development. Monitor serial...
 
 vendor: Serial Monitor
-downloads: 2
+downloads: 18
 pricingModel: FREE
 xmlId: com.serialmonitor.cuiwang</description>
       <pubDate>Mon, 16 Feb 2026 12:28:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30243-serial-monitor</guid>
       <dc:date>2026-02-16T12:28:19Z</dc:date>
-    </item>
-    <item>
-      <title>Chatter AI Blame - Thu Feb 19 09:55:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30267-chatter-ai-blame</link>
-      <description>Git blame tells you who changed a line. Chatter tells you why. AI Blame — annotate editor lines with the AI session (Claude Code, Codex CLI) that last changed them and...
-
-vendor: JetBrains s.r.o.
-downloads: 9
-pricingModel: FREE
-xmlId: org.jetbrains.llm.chatter.ai-blame</description>
-      <pubDate>Thu, 19 Feb 2026 09:55:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30267-chatter-ai-blame</guid>
-      <dc:date>2026-02-19T09:55:21Z</dc:date>
-    </item>
-    <item>
-      <title>Protocol Inspector - Thu Jan 29 21:06:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29805-protocol-inspector</link>
-      <description>Protocol Inspector helps you analyze SIP/SDP logs inside JetBrains IDEs. What you can do Split large logs into individual SIP messages (INVITE / 200 OK / BYE / …) View...
-
-vendor: Neurahex
-downloads: 5
-pricingModel: FREE
-xmlId: com.waheni.protocolinspector.protocol-inspector</description>
-      <pubDate>Thu, 29 Jan 2026 21:06:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29805-protocol-inspector</guid>
-      <dc:date>2026-01-29T21:06:57Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Property Navigator - Thu Feb 19 00:54:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30212-spring-property-navigator</link>
-      <description>Provides bidirectional navigation between Spring Boot property keys and their Java usages. Ctrl+Click on @Value("${key}") to jump to the property definition Ctrl+Click...
-
-vendor: NovaIntelix
-downloads: 3
-pricingModel: FREEMIUM
-xmlId: com.navigator.spring-property-navigator</description>
-      <pubDate>Thu, 19 Feb 2026 00:54:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30212-spring-property-navigator</guid>
-      <dc:date>2026-02-19T00:54:53Z</dc:date>
-    </item>
-    <item>
-      <title>Flutter Compile - Wed Feb 18 03:40:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30261-flutter-compile</link>
-      <description>Manage multiple Flutter SDK versions from Android Studio / IntelliJ IDEA. Toolbar combo box to switch between installed Flutter SDKs Tool window showing installed...
-
-vendor: FlutterPlaza.com
-downloads: 10
-pricingModel: FREE
-xmlId: com.flutterplaza.fluttercompile</description>
-      <pubDate>Wed, 18 Feb 2026 03:40:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30261-flutter-compile</guid>
-      <dc:date>2026-02-18T03:40:53Z</dc:date>
     </item>
   </channel>
 </rss>
