@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Astro Pro - Fri Feb 20 16:05:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30290-astro-pro</link>
+      <description>Astro Pro is a comprehensive IntelliJ plugin for Astro development with premium IDE support. Features Syntax and language support Syntax highlighting for .astro files...
+
+vendor: Jetplugins
+downloads: 0
+pricingModel: PAID
+xmlId: com.astroproPlugin</description>
+      <pubDate>Fri, 20 Feb 2026 16:05:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30290-astro-pro</guid>
+      <dc:date>2026-02-20T16:05:57Z</dc:date>
+    </item>
+    <item>
       <title>SaltStack - Fri Feb 20 16:37:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30291-saltstack</link>
       <description>SaltStack Formula Support for JetBrains IDEs Provides IDE support for SaltStack .sls formula files — the YAML+Jinja2 hybrid format used for Salt states, pillars, top...
@@ -97,17 +110,17 @@ xmlId: com.github.pooryam92.vimcoach</description>
       <dc:date>2026-02-20T12:51:06Z</dc:date>
     </item>
     <item>
-      <title>Compose Resources Kit - Fri Feb 20 03:08:13 UTC 2026</title>
+      <title>Compose Resources Kit - Sat Feb 21 03:58:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30280-compose-resources-kit</link>
-      <description>Ever add a string to your strings.xml, switch back to your Kotlin file, and get Unresolved reference? This plugin fixes that. It watches your composeResources...
+      <description>A collection of tools for working with Compose Multiplatform resources. Automated resource accessor generation, resource navigation, and management. Features Automatic...
 
 vendor: jordond
 downloads: 0
 pricingModel: FREE
 xmlId: dev.jordond.compose-resources-kit</description>
-      <pubDate>Fri, 20 Feb 2026 03:08:13 GMT</pubDate>
+      <pubDate>Sat, 21 Feb 2026 03:58:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30280-compose-resources-kit</guid>
-      <dc:date>2026-02-20T03:08:13Z</dc:date>
+      <dc:date>2026-02-21T03:58:18Z</dc:date>
     </item>
     <item>
       <title>npm quick - Thu Feb 19 23:44:58 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: codes.konstantin.containerinspector</description>
       <pubDate>Mon, 16 Feb 2026 08:39:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30235-container-inspector-for-symfony</guid>
       <dc:date>2026-02-16T08:39:44Z</dc:date>
-    </item>
-    <item>
-      <title>spring-boot-runner - Mon Feb 16 15:18:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30174-spring-boot-runner</link>
-      <description>A plugin for IntelliJ IDEA that allows you to run Spring Boot projects packaged as WAR files using the embedded Tomcat, without the need to configure an external...
-
-vendor: MrYisusX
-downloads: 12
-pricingModel: FREE
-xmlId: com.github.mryisusx.customspringbootrunner</description>
-      <pubDate>Mon, 16 Feb 2026 15:18:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30174-spring-boot-runner</guid>
-      <dc:date>2026-02-16T15:18:20Z</dc:date>
     </item>
   </channel>
 </rss>
