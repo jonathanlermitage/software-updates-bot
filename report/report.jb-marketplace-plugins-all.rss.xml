@@ -6,6 +6,201 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ADR Companion - Wed Feb 18 10:17:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30189-adr-companion</link>
+      <description>ADR Companion — Architecture Decision Records in Your IDE Stop losing architectural decisions in wikis and chat threads. ADR Companion brings Architecture Decision...
+
+vendor: Jakub Jirák
+downloads: 10
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.adrcompanion</description>
+      <pubDate>Wed, 18 Feb 2026 10:17:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30189-adr-companion</guid>
+      <dc:date>2026-02-18T10:17:08Z</dc:date>
+    </item>
+    <item>
+      <title>Branch Health Dashboard - Wed Feb 18 10:19:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30191-branch-health-dashboard</link>
+      <description>Monitor, score, and clean up your Git branches — right inside your IDE Branch Health Dashboard gives every Git branch a health score from 0 to 100. It tracks branch...
+
+vendor: Jakub Jirák
+downloads: 11
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.branchhealth</description>
+      <pubDate>Wed, 18 Feb 2026 10:19:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30191-branch-health-dashboard</guid>
+      <dc:date>2026-02-18T10:19:20Z</dc:date>
+    </item>
+    <item>
+      <title>Dead Code &amp; Drift Radar - Wed Feb 18 10:20:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30193-dead-code--drift-radar</link>
+      <description>Dead Code &amp;amp; Drift Radar — Find Forgotten Code Before It Becomes Debt Identify abandoned, drifting, and dead code in your project using git history and static...
+
+vendor: Jakub Jirák
+downloads: 8
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.deadcoderadar</description>
+      <pubDate>Wed, 18 Feb 2026 10:20:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30193-dead-code--drift-radar</guid>
+      <dc:date>2026-02-18T10:20:30Z</dc:date>
+    </item>
+    <item>
+      <title>Docstring Freshness Monitor - Wed Feb 18 10:22:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30195-docstring-freshness-monitor</link>
+      <description>Docstring Freshness Monitor — Keep Your Documentation as Fresh as Your Code Detect stale documentation automatically using git history analysis. Every docstring gets a...
+
+vendor: Jakub Jirák
+downloads: 8
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.docfreshness</description>
+      <pubDate>Wed, 18 Feb 2026 10:22:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30195-docstring-freshness-monitor</guid>
+      <dc:date>2026-02-18T10:22:05Z</dc:date>
+    </item>
+    <item>
+      <title>Git-Aware Dev Journal - Wed Feb 18 10:22:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30196-git-aware-dev-journal</link>
+      <description>Git-Aware Dev Journal — Remember Why You Wrote That Code A development journal that links notes to your git context. Every entry captures the commit, branch, and file...
+
+vendor: Jakub Jirák
+downloads: 9
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.devjournal</description>
+      <pubDate>Wed, 18 Feb 2026 10:22:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30196-git-aware-dev-journal</guid>
+      <dc:date>2026-02-18T10:22:43Z</dc:date>
+    </item>
+    <item>
+      <title>Git Workflow Enforcer - Wed Feb 18 10:24:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30197-git-workflow-enforcer</link>
+      <description>Git Workflow Enforcer — Automatic Branch, Commit, and Merge Validation Stop catching Git convention violations in code reviews. Git Workflow Enforcer validates branch...
+
+vendor: Jakub Jirák
+downloads: 7
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.gitworkflow</description>
+      <pubDate>Wed, 18 Feb 2026 10:24:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30197-git-workflow-enforcer</guid>
+      <dc:date>2026-02-18T10:24:14Z</dc:date>
+    </item>
+    <item>
+      <title>Local Secrets Tripwire - Wed Feb 18 10:25:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30199-local-secrets-tripwire</link>
+      <description>Local Secrets Tripwire — Real-Time Secret Detection for Your IDE Leaked secrets are the #1 cause of security breaches. Local Secrets Tripwire scans your files in real...
+
+vendor: Jakub Jirák
+downloads: 7
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.secretstripwire</description>
+      <pubDate>Wed, 18 Feb 2026 10:25:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30199-local-secrets-tripwire</guid>
+      <dc:date>2026-02-18T10:25:24Z</dc:date>
+    </item>
+    <item>
+      <title>Run Config Drift Detector - Wed Feb 18 10:26:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30200-run-config-drift-detector</link>
+      <description>Run Config Drift Detector — Eliminate "Works on My Machine" Run Config Drift Detector compares your IDE run configurations against a .run-requirements.yaml manifest...
+
+vendor: Jakub Jirák
+downloads: 10
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.runconfigdrift</description>
+      <pubDate>Wed, 18 Feb 2026 10:26:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30200-run-config-drift-detector</guid>
+      <dc:date>2026-02-18T10:26:50Z</dc:date>
+    </item>
+    <item>
+      <title>Slow Build Hotspots - Wed Feb 18 10:27:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30201-slow-build-hotspots</link>
+      <description>Slow Build Hotspots — Find and Fix Gradle Build Bottlenecks Analyzes your Gradle build profiles to pinpoint slow tasks, cache misses, and non-incremental operations...
+
+vendor: Jakub Jirák
+downloads: 10
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.buildhotspots</description>
+      <pubDate>Wed, 18 Feb 2026 10:27:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30201-slow-build-hotspots</guid>
+      <dc:date>2026-02-18T10:27:44Z</dc:date>
+    </item>
+    <item>
+      <title>Technical Debt Accountant - Wed Feb 18 10:28:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30202-technical-debt-accountant</link>
+      <description>Technical Debt Accountant — Quantify Code Debt in Dollars Speak management's language. Technical Debt Accountant transforms abstract code quality issues into dollar...
+
+vendor: Jakub Jirák
+downloads: 11
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.debtaccountant</description>
+      <pubDate>Wed, 18 Feb 2026 10:28:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30202-technical-debt-accountant</guid>
+      <dc:date>2026-02-18T10:28:27Z</dc:date>
+    </item>
+    <item>
+      <title>Terminal Safety Rails - Wed Feb 18 10:28:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30203-terminal-safety-rails</link>
+      <description>Terminal Safety Rails — Intercept Dangerous Commands Before Execution A single destructive command can ruin your day. Terminal Safety Rails intercepts dangerous...
+
+vendor: Jakub Jirák
+downloads: 8
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.terminalsafety</description>
+      <pubDate>Wed, 18 Feb 2026 10:28:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30203-terminal-safety-rails</guid>
+      <dc:date>2026-02-18T10:28:51Z</dc:date>
+    </item>
+    <item>
+      <title>KubeContext Safety - Wed Feb 18 10:25:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30204-kubecontext-safety</link>
+      <description>KubeContext Safety — Color-Coded Kubernetes Context Guard for Your IDE One wrong kubectl command in the wrong context can take down production. KubeContext Safety adds...
+
+vendor: Jakub Jirák
+downloads: 11
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.kubecontextsafety</description>
+      <pubDate>Wed, 18 Feb 2026 10:25:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30204-kubecontext-safety</guid>
+      <dc:date>2026-02-18T10:25:01Z</dc:date>
+    </item>
+    <item>
+      <title>Flaky Test Detector - Wed Feb 18 10:22:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30205-flaky-test-detector</link>
+      <description>Flaky Test Detector — Stop Guessing Which Tests You Can Trust Automatically track test execution history and identify flaky tests in your project. Each test gets a...
+
+vendor: Jakub Jirák
+downloads: 9
+pricingModel: FREEMIUM
+xmlId: com.jakubjirak.flakytestdetector</description>
+      <pubDate>Wed, 18 Feb 2026 10:22:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30205-flaky-test-detector</guid>
+      <dc:date>2026-02-18T10:22:22Z</dc:date>
+    </item>
+    <item>
+      <title>ObfuscateGuard - Wed Feb 18 10:26:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30234-obfuscateguard</link>
+      <description>ObfuscateGuard — Obfuscation Orchestration for Java/Kotlin ObfuscateGuard is a workflow, analysis, and governance layer for Java/Kotlin obfuscation. It works on top of...
+
+vendor: Jakub Jirák
+downloads: 10
+pricingModel: FREEMIUM
+xmlId: dev.htmeta.obfuscateguard</description>
+      <pubDate>Wed, 18 Feb 2026 10:26:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30234-obfuscateguard</guid>
+      <dc:date>2026-02-18T10:26:05Z</dc:date>
+    </item>
+    <item>
+      <title>Metal GPU Monitor - Wed Feb 18 20:27:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30266-metal-gpu-monitor</link>
+      <description>Metal GPU Monitor — Real-Time GPU Monitoring for macOS Monitor your Apple GPU performance directly inside your JetBrains IDE. Metal GPU Monitor provides real-time...
+
+vendor: Jakub Jirák
+downloads: 6
+pricingModel: FREEMIUM
+xmlId: dev.htmeta.mgm</description>
+      <pubDate>Wed, 18 Feb 2026 20:27:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30266-metal-gpu-monitor</guid>
+      <dc:date>2026-02-18T20:27:49Z</dc:date>
+    </item>
+    <item>
       <title>Astro Pro - Fri Feb 20 16:05:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30290-astro-pro</link>
       <description>Astro Pro is a comprehensive IntelliJ plugin for Astro development with premium IDE support. Features Syntax and language support Syntax highlighting for .astro files...
@@ -69,201 +264,6 @@ xmlId: com.arran4.txtar</description>
       <pubDate>Fri, 20 Feb 2026 12:29:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30286-txtar-file-support</guid>
       <dc:date>2026-02-20T12:29:59Z</dc:date>
-    </item>
-    <item>
-      <title>JUnit Test Generator - Fri Feb 20 14:38:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30287-junit-test-generator</link>
-      <description>Auto-generate JUnit 5 + Mockito test cases from any Java service class. Detects all injected dependencies and creates @Mock fields automatically Generates @InjectMocks...
-
-vendor: Praveen Kumar Aasuri
-downloads: 1
-pricingModel: FREE
-xmlId: com.testgen.junit-generator</description>
-      <pubDate>Fri, 20 Feb 2026 14:38:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30287-junit-test-generator</guid>
-      <dc:date>2026-02-20T14:38:40Z</dc:date>
-    </item>
-    <item>
-      <title>env-inject - Fri Feb 20 14:24:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30271-env-inject</link>
-      <description>IntelliJ plugin that injects environment variables into JVM Run Configurations (Java, Kotlin, Scala) by calling an external command before launch. The command outputs...
-
-vendor: Joachim Bargsten
-downloads: 10
-pricingModel: FREE
-xmlId: org.bargsten.envinject</description>
-      <pubDate>Fri, 20 Feb 2026 14:24:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30271-env-inject</guid>
-      <dc:date>2026-02-20T14:24:32Z</dc:date>
-    </item>
-    <item>
-      <title>Vim Coach - Fri Feb 20 12:51:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30148-vim-coach</link>
-      <description>Vim Coach is an IntelliJ Platform plugin designed to help developers learn and master Vim keybindings. The plugin provides bite-sized Vim tips through notifications...
-
-vendor: Poorya
-downloads: 18
-pricingModel: FREE
-xmlId: com.github.pooryam92.vimcoach</description>
-      <pubDate>Fri, 20 Feb 2026 12:51:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30148-vim-coach</guid>
-      <dc:date>2026-02-20T12:51:06Z</dc:date>
-    </item>
-    <item>
-      <title>Compose Resources Kit - Sat Feb 21 03:58:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30280-compose-resources-kit</link>
-      <description>A collection of tools for working with Compose Multiplatform resources. Automated resource accessor generation, resource navigation, and management. Features Automatic...
-
-vendor: jordond
-downloads: 6
-pricingModel: FREE
-xmlId: dev.jordond.compose-resources-kit</description>
-      <pubDate>Sat, 21 Feb 2026 03:58:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30280-compose-resources-kit</guid>
-      <dc:date>2026-02-21T03:58:18Z</dc:date>
-    </item>
-    <item>
-      <title>npm quick - Thu Feb 19 23:44:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30279-npm-quick</link>
-      <description>npm quick is a lightweight and powerful plugin that allows you to discover and run npm, pnpm, and yarn scripts instantly from a searchable popup, without leaving your...
-
-vendor: David Vigo
-downloads: 2
-pricingModel: FREE
-xmlId: com.dvigo.npmquick</description>
-      <pubDate>Thu, 19 Feb 2026 23:44:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30279-npm-quick</guid>
-      <dc:date>2026-02-19T23:44:58Z</dc:date>
-    </item>
-    <item>
-      <title>MarkTone - Thu Feb 19 22:48:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30278-marktone</link>
-      <description>MarkTone automatically generates and applies Markdown preview styles that match your current IDE theme. Features Extracts colors and fonts from your active IDE theme...
-
-vendor: marzmesas
-downloads: 5
-pricingModel: FREE
-xmlId: io.marktone.plugin</description>
-      <pubDate>Thu, 19 Feb 2026 22:48:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30278-marktone</guid>
-      <dc:date>2026-02-19T22:48:15Z</dc:date>
-    </item>
-    <item>
-      <title>Azure Templates Navigator - Fri Feb 20 18:23:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30272-azure-templates-navigator</link>
-      <description>Azure Templates Navigator supercharges your Azure DevOps pipeline development in IntelliJ-based IDEs. Working with Azure Pipelines templates across multiple...
-
-vendor: Bogdan Bujor
-downloads: 10
-pricingModel: FREE
-xmlId: com.bogdanbujor.azure-templates-navigator</description>
-      <pubDate>Fri, 20 Feb 2026 18:23:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30272-azure-templates-navigator</guid>
-      <dc:date>2026-02-20T18:23:04Z</dc:date>
-    </item>
-    <item>
-      <title>Log Finder - Thu Feb 19 17:05:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30275-log-finder</link>
-      <description>Log Finder Scan your Android project for Log.d(), Log.v(), Log.i(), Log.w(), Log.e(), Timber, and println() statements. View results in a beautiful, filterable tool...
-
-vendor: sanjay kumar
-downloads: 7
-pricingModel: FREE
-xmlId: com.logdfinder</description>
-      <pubDate>Thu, 19 Feb 2026 17:05:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30275-log-finder</guid>
-      <dc:date>2026-02-19T17:05:36Z</dc:date>
-    </item>
-    <item>
-      <title>Database Helpers - Thu Feb 19 18:40:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30217-database-helpers</link>
-      <description>Simplifies database connection management in DataGrip and IntelliJ IDEA Ultimate. Features: Automatically creates data sources from docker-compose files Detects...
-
-vendor: sandstorm
-downloads: 10
-pricingModel: FREE
-xmlId: de.sandstorm.database-helpers</description>
-      <pubDate>Thu, 19 Feb 2026 18:40:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30217-database-helpers</guid>
-      <dc:date>2026-02-19T18:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>WorktreeWise - Thu Feb 19 15:55:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29869-worktreewise</link>
-      <description>Switch Git worktrees and open projects in WorktreeWise directly from your IDE. Preserve bookmarks, run configurations, and IDE context while staying fast and...
-
-vendor: WorktreeWise
-downloads: 17
-pricingModel: FREE
-xmlId: com.worktreewise.jetbrains</description>
-      <pubDate>Thu, 19 Feb 2026 15:55:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29869-worktreewise</guid>
-      <dc:date>2026-02-19T15:55:52Z</dc:date>
-    </item>
-    <item>
-      <title>LocalizePipe - Thu Feb 19 18:54:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30265-localizepipe</link>
-      <description>LocalizePipe helps you localize strings.xml faster inside IntelliJ. It scans Android and Compose Multiplatform resource folders, finds missing or unchanged...
-
-vendor: Aaron.Dietz
-downloads: 15
-pricingModel: FREE
-xmlId: de.aarondietz.LocalizePipe</description>
-      <pubDate>Thu, 19 Feb 2026 18:54:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30265-localizepipe</guid>
-      <dc:date>2026-02-19T18:54:44Z</dc:date>
-    </item>
-    <item>
-      <title>Log Injector - Thu Feb 19 00:24:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30268-log-injector</link>
-      <description>Log Injector - Boost Your Debugging Workflow Speed up your debugging process by automatically inserting and removing logging statements in your Java and Kotlin code...
-
-vendor: Yauheni Slizh
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.kiolk.loggingplugin</description>
-      <pubDate>Thu, 19 Feb 2026 00:24:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30268-log-injector</guid>
-      <dc:date>2026-02-19T00:24:58Z</dc:date>
-    </item>
-    <item>
-      <title>NuGet Auto-Fill - Fri Feb 20 21:02:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30246-nuget-auto-fill</link>
-      <description>NuGet Auto-Fill Automatically detects and fills NuGet feed credential dialogs in JetBrains Rider. Features: Automatic detection of NuGet credential dialogs Secure...
-
-vendor: tt4-GmbH
-downloads: 13
-pricingModel: FREE
-xmlId: com.tt4.rider-nuget-autofill</description>
-      <pubDate>Fri, 20 Feb 2026 21:02:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30246-nuget-auto-fill</guid>
-      <dc:date>2026-02-20T21:02:32Z</dc:date>
-    </item>
-    <item>
-      <title>Adversarial Inputs Detector - Thu Feb 12 20:49:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30183-adversarial-inputs-detector</link>
-      <description>Adversarial Inputs Detector A JetBrains IDE plugin that detects malicious content in documentation and code files that can exploit AI coding assistants. What It Does...
-
-vendor: Cranium AI
-downloads: 14
-pricingModel: FREE
-xmlId: com.craniumai.adversarialinputs</description>
-      <pubDate>Thu, 12 Feb 2026 20:49:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30183-adversarial-inputs-detector</guid>
-      <dc:date>2026-02-12T20:49:28Z</dc:date>
-    </item>
-    <item>
-      <title>Container Inspector for Symfony - Mon Feb 16 08:39:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30235-container-inspector-for-symfony</link>
-      <description>Visualize and explore your Symfony Dependency Injection Container with an interactive graph interface. Inspect your Symfony DI Container Interactive Graph...
-
-vendor: KonstantinCodes
-downloads: 11
-pricingModel: FREE
-xmlId: codes.konstantin.containerinspector</description>
-      <pubDate>Mon, 16 Feb 2026 08:39:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30235-container-inspector-for-symfony</guid>
-      <dc:date>2026-02-16T08:39:44Z</dc:date>
     </item>
   </channel>
 </rss>
