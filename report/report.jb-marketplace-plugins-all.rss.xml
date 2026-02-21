@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>SaltStack - Fri Feb 20 16:37:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30291-saltstack</link>
+      <description>SaltStack Formula Support for JetBrains IDEs Provides IDE support for SaltStack .sls formula files — the YAML+Jinja2 hybrid format used for Salt states, pillars, top...
+
+vendor: SomeBlackMagic
+downloads: 0
+pricingModel: PAID
+xmlId: com.someblackmagic.saltstack</description>
+      <pubDate>Fri, 20 Feb 2026 16:37:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30291-saltstack</guid>
+      <dc:date>2026-02-20T16:37:12Z</dc:date>
+    </item>
+    <item>
       <title>Gemini Context Packer - Tue Feb 17 13:57:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30168-gemini-context-packer</link>
       <description>Gemini Context Packer Secure. Compact. AI-Ready. Gemini Context Packer is the essential security and efficiency tool for Android developers using AI. Stop pasting raw...
@@ -201,7 +214,7 @@ xmlId: com.github.kiolk.loggingplugin</description>
       <dc:date>2026-02-19T00:24:58Z</dc:date>
     </item>
     <item>
-      <title>NuGet Auto-Fill - Fri Feb 20 11:05:30 UTC 2026</title>
+      <title>NuGet Auto-Fill - Fri Feb 20 21:02:32 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30246-nuget-auto-fill</link>
       <description>NuGet Auto-Fill Automatically detects and fills NuGet feed credential dialogs in JetBrains Rider. Features: Automatic detection of NuGet credential dialogs Secure...
 
@@ -209,9 +222,9 @@ vendor: tt4-GmbH
 downloads: 3
 pricingModel: FREE
 xmlId: com.tt4.rider-nuget-autofill</description>
-      <pubDate>Fri, 20 Feb 2026 11:05:30 GMT</pubDate>
+      <pubDate>Fri, 20 Feb 2026 21:02:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30246-nuget-auto-fill</guid>
-      <dc:date>2026-02-20T11:05:30Z</dc:date>
+      <dc:date>2026-02-20T21:02:32Z</dc:date>
     </item>
     <item>
       <title>Adversarial Inputs Detector - Thu Feb 12 20:49:28 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.github.mryisusx.customspringbootrunner</description>
       <pubDate>Mon, 16 Feb 2026 15:18:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30174-spring-boot-runner</guid>
       <dc:date>2026-02-16T15:18:20Z</dc:date>
-    </item>
-    <item>
-      <title>On-Device AI Bridge - Wed Feb 18 15:45:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30259-on-device-ai-bridge</link>
-      <description>Exposes the on-device AI (FoundationModels) as an OpenAI-compatible REST API. Requires macOS 26+ (Tahoe) with on-device AI enabled and Apple Silicon. Use with Cursor...
-
-vendor: Code with the Italians
-downloads: 8
-pricingModel: FREE
-xmlId: dev.sebastiano.plugins.appleintelligence</description>
-      <pubDate>Wed, 18 Feb 2026 15:45:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30259-on-device-ai-bridge</guid>
-      <dc:date>2026-02-18T15:45:59Z</dc:date>
     </item>
   </channel>
 </rss>

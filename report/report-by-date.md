@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.3 (253.31033.145) ~ 2026-02-20|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Sat Feb 21 00:08:06 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.21525.39) ~ 2026-02-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 20 20:03:11 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 19 16:14:44 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.5 to 19.5.0 ~ 2026-02-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Feb 17 00:08:24 UTC 2026|
@@ -28,7 +29,6 @@
 |![logo](../media/logo/gradle.png) Gradle|9.3.1|[gradle.org](https://gradle.org/releases)|Thu Jan 29 16:07:55 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 28 12:02:28 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.1 (2026-01-27)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Tue Jan 27 20:01:58 UTC 2026|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.2 (253.30387.90) ~ 2026-01-22|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jan 22 16:04:34 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jan 22 12:02:46 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 21 16:05:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 21 12:02:36 UTC 2026|
