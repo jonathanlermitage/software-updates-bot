@@ -11,7 +11,7 @@
       <description>ADR Companion — Architecture Decision Records in Your IDE Stop losing architectural decisions in wikis and chat threads. ADR Companion brings Architecture Decision...
 
 vendor: Jakub Jirák
-downloads: 10
+downloads: 12
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.adrcompanion</description>
       <pubDate>Sat, 21 Feb 2026 14:02:00 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.jakubjirak.adrcompanion</description>
       <description>Monitor, score, and clean up your Git branches — right inside your IDE Branch Health Dashboard gives every Git branch a health score from 0 to 100. It tracks branch...
 
 vendor: Jakub Jirák
-downloads: 11
+downloads: 12
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.branchhealth</description>
       <pubDate>Sat, 21 Feb 2026 14:03:32 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.jakubjirak.branchhealth</description>
       <description>Dead Code &amp;amp; Drift Radar — Find Forgotten Code Before It Becomes Debt Identify abandoned, drifting, and dead code in your project using git history and static...
 
 vendor: Jakub Jirák
-downloads: 8
+downloads: 9
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.deadcoderadar</description>
       <pubDate>Sat, 21 Feb 2026 14:03:47 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.jakubjirak.deadcoderadar</description>
       <description>Docstring Freshness Monitor — Keep Your Documentation as Fresh as Your Code Detect stale documentation automatically using git history analysis. Every docstring gets a...
 
 vendor: Jakub Jirák
-downloads: 8
+downloads: 10
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.docfreshness</description>
       <pubDate>Sat, 21 Feb 2026 14:04:27 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.jakubjirak.docfreshness</description>
       <description>Git-Aware Dev Journal — Remember Why You Wrote That Code A development journal that links notes to your git context. Every entry captures the commit, branch, and file...
 
 vendor: Jakub Jirák
-downloads: 9
+downloads: 10
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.devjournal</description>
       <pubDate>Sat, 21 Feb 2026 14:04:57 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.jakubjirak.devjournal</description>
       <description>Git Workflow Enforcer — Automatic Branch, Commit, and Merge Validation Stop catching Git convention violations in code reviews. Git Workflow Enforcer validates branch...
 
 vendor: Jakub Jirák
-downloads: 7
+downloads: 8
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.gitworkflow</description>
       <pubDate>Sat, 21 Feb 2026 14:05:16 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.jakubjirak.gitworkflow</description>
       <description>Local Secrets Tripwire — Real-Time Secret Detection for Your IDE Leaked secrets are the #1 cause of security breaches. Local Secrets Tripwire scans your files in real...
 
 vendor: Jakub Jirák
-downloads: 7
+downloads: 9
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.secretstripwire</description>
       <pubDate>Sat, 21 Feb 2026 14:06:00 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.jakubjirak.secretstripwire</description>
       <description>Run Config Drift Detector — Eliminate "Works on My Machine" Run Config Drift Detector compares your IDE run configurations against a .run-requirements.yaml manifest...
 
 vendor: Jakub Jirák
-downloads: 10
+downloads: 31
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.runconfigdrift</description>
       <pubDate>Sat, 21 Feb 2026 14:08:17 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.jakubjirak.runconfigdrift</description>
       <description>Slow Build Hotspots — Find and Fix Gradle Build Bottlenecks Analyzes your Gradle build profiles to pinpoint slow tasks, cache misses, and non-incremental operations...
 
 vendor: Jakub Jirák
-downloads: 10
+downloads: 33
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.buildhotspots</description>
       <pubDate>Sat, 21 Feb 2026 14:08:51 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.jakubjirak.buildhotspots</description>
       <description>Technical Debt Accountant — Quantify Code Debt in Dollars Speak management's language. Technical Debt Accountant transforms abstract code quality issues into dollar...
 
 vendor: Jakub Jirák
-downloads: 11
+downloads: 38
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.debtaccountant</description>
       <pubDate>Sat, 21 Feb 2026 14:09:23 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.jakubjirak.debtaccountant</description>
       <description>Terminal Safety Rails — Intercept Dangerous Commands Before Execution A single destructive command can ruin your day. Terminal Safety Rails intercepts dangerous...
 
 vendor: Jakub Jirák
-downloads: 8
+downloads: 42
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.terminalsafety</description>
       <pubDate>Sat, 21 Feb 2026 14:09:40 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.jakubjirak.terminalsafety</description>
       <description>KubeContext Safety — Color-Coded Kubernetes Context Guard for Your IDE One wrong kubectl command in the wrong context can take down production. KubeContext Safety adds...
 
 vendor: Jakub Jirák
-downloads: 11
+downloads: 12
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.kubecontextsafety</description>
       <pubDate>Sat, 21 Feb 2026 14:05:40 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.jakubjirak.kubecontextsafety</description>
       <description>Flaky Test Detector — Stop Guessing Which Tests You Can Trust Automatically track test execution history and identify flaky tests in your project. Each test gets a...
 
 vendor: Jakub Jirák
-downloads: 9
+downloads: 11
 pricingModel: FREEMIUM
 xmlId: com.jakubjirak.flakytestdetector</description>
       <pubDate>Sat, 21 Feb 2026 14:04:40 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.jakubjirak.flakytestdetector</description>
       <description>ObfuscateGuard — Obfuscation Orchestration for Java/Kotlin ObfuscateGuard is a workflow, analysis, and governance layer for Java/Kotlin obfuscation. It works on top of...
 
 vendor: Jakub Jirák
-downloads: 10
+downloads: 21
 pricingModel: FREEMIUM
 xmlId: dev.htmeta.obfuscateguard</description>
       <pubDate>Sat, 21 Feb 2026 14:07:16 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.htmeta.obfuscateguard</description>
       <description>Metal GPU Monitor — Real-Time GPU Monitoring for macOS Monitor your Apple GPU performance directly inside your JetBrains IDE. Metal GPU Monitor provides real-time...
 
 vendor: Jakub Jirák
-downloads: 6
+downloads: 7
 pricingModel: FREEMIUM
 xmlId: dev.htmeta.mgm</description>
       <pubDate>Wed, 18 Feb 2026 20:27:49 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: dev.htmeta.mgm</description>
       <description>Astro Pro is a comprehensive IntelliJ plugin for Astro development with premium IDE support. Features Syntax and language support Syntax highlighting for .astro files...
 
 vendor: Jetplugins
-downloads: 0
+downloads: 14
 pricingModel: PAID
 xmlId: com.astroproPlugin</description>
       <pubDate>Fri, 20 Feb 2026 16:05:57 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.astroproPlugin</description>
       <description>SaltStack Formula Support for JetBrains IDEs Provides IDE support for SaltStack .sls formula files — the YAML+Jinja2 hybrid format used for Salt states, pillars, top...
 
 vendor: SomeBlackMagic
-downloads: 1
+downloads: 10
 pricingModel: PAID
 xmlId: com.someblackmagic.saltstack</description>
       <pubDate>Fri, 20 Feb 2026 16:37:12 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.someblackmagic.saltstack</description>
       <description>Gemini Context Packer Secure. Compact. AI-Ready. Gemini Context Packer is the essential security and efficiency tool for Android developers using AI. Stop pasting raw...
 
 vendor: triangcircularmedia
-downloads: 2
+downloads: 8
 pricingModel: PAID
 xmlId: com.triangcircularmedia.plugins.contextpacker</description>
       <pubDate>Tue, 17 Feb 2026 13:57:38 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.triangcircularmedia.plugins.contextpacker</description>
       <description>Optimize images without breaking your coding flow! Compress and optimize images (PNG, JPG, WebP) directly within your IDE with a single click. Instantly reduce project...
 
 vendor: MiConvert
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.miconvert.imagecompressor</description>
       <pubDate>Fri, 20 Feb 2026 09:10:16 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.miconvert.imagecompressor</description>
       <description>Support for the txtar file format. Features: File Type Recognition: Automatically recognizes .txtar files. Syntax Highlighting: Basic syntax highlighting for txtar...
 
 vendor: Arran Ubels
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: com.arran4.txtar</description>
       <pubDate>Fri, 20 Feb 2026 12:29:59 GMT</pubDate>
