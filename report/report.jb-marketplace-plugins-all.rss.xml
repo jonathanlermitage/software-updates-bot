@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ReviewBridge - Sat Feb 21 17:05:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30310-reviewbridge</link>
+      <description>Convert local review edits into structured GitHub and GitLab PR/MR inline suggestions with a single action — then let your teammates accept the change with one click...
+
+vendor: ReviewBridge
+downloads: 8
+pricingModel: FREE
+xmlId: xyz.reviewbridge.reviewbridge</description>
+      <pubDate>Sat, 21 Feb 2026 17:05:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30310-reviewbridge</guid>
+      <dc:date>2026-02-21T17:05:45Z</dc:date>
+    </item>
+    <item>
       <title>ADR Companion - Sat Feb 21 14:02:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30189-adr-companion</link>
       <description>ADR Companion — Architecture Decision Records in Your IDE Stop losing architectural decisions in wikis and chat threads. ADR Companion brings Architecture Decision...
@@ -251,19 +264,6 @@ xmlId: com.miconvert.imagecompressor</description>
       <pubDate>Fri, 20 Feb 2026 09:10:16 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30281-miconvert-image-compressor</guid>
       <dc:date>2026-02-20T09:10:16Z</dc:date>
-    </item>
-    <item>
-      <title>txtar file support - Fri Feb 20 12:29:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30286-txtar-file-support</link>
-      <description>Support for the txtar file format. Features: File Type Recognition: Automatically recognizes .txtar files. Syntax Highlighting: Basic syntax highlighting for txtar...
-
-vendor: Arran Ubels
-downloads: 7
-pricingModel: FREE
-xmlId: com.arran4.txtar</description>
-      <pubDate>Fri, 20 Feb 2026 12:29:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30286-txtar-file-support</guid>
-      <dc:date>2026-02-20T12:29:59Z</dc:date>
     </item>
   </channel>
 </rss>
