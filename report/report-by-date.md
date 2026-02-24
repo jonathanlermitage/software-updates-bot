@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 24 16:18:30 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS Current|25.7.0|[nodejs.org](https://nodejs.org)|Tue Feb 24 16:18:30 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.3 (253.31033.145) ~ 2026-02-20|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Sat Feb 21 00:08:06 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.21525.39) ~ 2026-02-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 20 20:03:11 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 19 16:14:44 UTC 2026|
@@ -11,8 +13,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.0|[golang.org](https://golang.org/dl/)|Tue Feb 10 20:10:49 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|25.6.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.13.1|[nodejs.org](https://nodejs.org)|Tue Feb 10 16:19:55 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:14 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Feb 04 20:05:42 UTC 2026|
