@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LazyGit Commit - Thu Feb 05 08:25:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30076-lazygit-commit</link>
+      <description>LazyGit Commit - Your Smart AI Coding Companion! Tired of staring at a blank screen trying to summarize your code changes? Let LazyGit Commit handle the boring stuff...
+
+vendor: LazyGit Commit
+downloads: 3
+pricingModel: FREE
+xmlId: com.casualness.aicommit.id</description>
+      <pubDate>Thu, 05 Feb 2026 08:25:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30076-lazygit-commit</guid>
+      <dc:date>2026-02-05T08:25:50Z</dc:date>
+    </item>
+    <item>
+      <title>Terminal Kitty Keys - Tue Feb 24 08:13:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30338-terminal-kitty-keys</link>
+      <description>Sends kitty keyboard protocol (CSI u) escape sequences for Shift+Enter in the JetBrains built-in terminal, enabling proper newline support in TUI apps like Claude...
+
+vendor: Chad Woolley
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.thewoolleyman.jetbrains.terminalkittykeys</description>
+      <pubDate>Tue, 24 Feb 2026 08:13:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30338-terminal-kitty-keys</guid>
+      <dc:date>2026-02-24T08:13:36Z</dc:date>
+    </item>
+    <item>
       <title>More Star Trek Progress Bars - Tue Feb 24 06:46:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30337-more-star-trek-progress-bars</link>
       <description>Replaces IntelliJ's progress bars with Star Trek starships. The ship flies across the bar with a warp trail streaming behind it. Ships: USS Enterprise (NCC-1701)USS...
@@ -238,32 +264,6 @@ xmlId: com.miconvert.assetpreview</description>
       <pubDate>Sun, 22 Feb 2026 15:27:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30320-miconvert-asset-preview</guid>
       <dc:date>2026-02-22T15:27:36Z</dc:date>
-    </item>
-    <item>
-      <title>JTools HTTP Client - Mon Feb 23 14:58:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30302-jtools-http-client</link>
-      <description>Lightweight HTTP client with endpoint discovery and request history. Usage / 使用手册 Open the HTTP Client tool window (right side or View | Tool Windows). Click the...
-
-vendor: lhstack
-downloads: 6
-pricingModel: FREE
-xmlId: com.lhstack.https</description>
-      <pubDate>Mon, 23 Feb 2026 14:58:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30302-jtools-http-client</guid>
-      <dc:date>2026-02-23T14:58:55Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Review - Sat Feb 21 13:02:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30307-claude-review</link>
-      <description>AI-Powered Code Review on Save Claude Review runs Claude Code on your unstaged git diffs every time you save a file, showing findings as inline editor annotations with...
-
-vendor: kmfink
-downloads: 5
-pricingModel: FREE
-xmlId: io.github.kmscheuer.claude-review</description>
-      <pubDate>Sat, 21 Feb 2026 13:02:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30307-claude-review</guid>
-      <dc:date>2026-02-21T13:02:06Z</dc:date>
     </item>
   </channel>
 </rss>
