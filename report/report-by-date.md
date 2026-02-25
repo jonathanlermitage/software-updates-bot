@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.21849.20) ~ 2026-02-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Feb 25 15:08:21 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.7.0|[nodejs.org](https://nodejs.org)|Tue Feb 24 16:18:30 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 24 16:18:30 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.3 (253.31033.145) ~ 2026-02-20|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Sat Feb 21 00:08:06 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.21525.39) ~ 2026-02-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Feb 20 20:03:11 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 19 16:14:44 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.5 to 19.5.0 ~ 2026-02-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Feb 17 00:08:24 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 337 - Datacenters Carrier Class dans l'espace|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 16 12:07:19 UTC 2026|
