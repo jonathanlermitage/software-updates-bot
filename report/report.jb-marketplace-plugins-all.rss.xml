@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Node Manager - Wed Feb 25 06:15:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30348-node-manager</link>
+      <description>Node Manager Manage Node.js versions directly within IntelliJ IDEA. Features View, install, switch, and uninstall Node.js versions Support for nvm and fnm...
+
+vendor: Node Manager
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.nicestudent.nodemanager</description>
+      <pubDate>Wed, 25 Feb 2026 06:15:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30348-node-manager</guid>
+      <dc:date>2026-02-25T06:15:33Z</dc:date>
+    </item>
+    <item>
+      <title>JimmerZ - Wed Feb 25 07:23:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30347-jimmerz</link>
+      <description>JimmerZ code generator, related dependencies: SpringBoot, jimmer, lombok, by default generates entity classes, DTO classes, Service interfaces, Service implementation...
+
+vendor: HeavenLuan
+downloads: 0
+pricingModel: FREE
+xmlId: com.zzl.JimmerZ</description>
+      <pubDate>Wed, 25 Feb 2026 07:23:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30347-jimmerz</guid>
+      <dc:date>2026-02-25T07:23:58Z</dc:date>
+    </item>
+    <item>
+      <title>SQL Select Generator - Wed Feb 25 01:25:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30345-sql-select-generator</link>
+      <description>SQL Select Generator A simple and efficient IntelliJ IDEA plugin for generating SELECT SQL statements from database tables. Features: Right-click on any database table...
+
+vendor: formels
+downloads: 0
+pricingModel: FREE
+xmlId: com.plugins.sqlgen</description>
+      <pubDate>Wed, 25 Feb 2026 01:25:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30345-sql-select-generator</guid>
+      <dc:date>2026-02-25T01:25:52Z</dc:date>
+    </item>
+    <item>
+      <title>SR-Forge-Assistant - Wed Feb 25 02:39:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30334-sr-forge-assistant</link>
+      <description>Intelligent coding assistant for SR-Forge ML framework YAML configuration files in PyCharm and IntelliJ IDEA. Features _target_ completion — fuzzy-search Python class...
+
+vendor: Tomasz Tarasiewicz
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.ttarasiewicz.srforgeassistant</description>
+      <pubDate>Wed, 25 Feb 2026 02:39:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30334-sr-forge-assistant</guid>
+      <dc:date>2026-02-25T02:39:15Z</dc:date>
+    </item>
+    <item>
+      <title>Ultimate Claude UI - Tue Feb 24 22:57:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30343-ultimate-claude-ui</link>
+      <description>Native IntelliJ plugin for AI-powered coding with Claude and Codex. Direct HTTP API calls, no JCEF/Node.js — pure Kotlin + Swing.
+
+vendor: Daniil Sudomoin
+downloads: 0
+pricingModel: FREE
+xmlId: ru.dsudomoin.claude-code-gui</description>
+      <pubDate>Tue, 24 Feb 2026 22:57:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30343-ultimate-claude-ui</guid>
+      <dc:date>2026-02-24T22:57:38Z</dc:date>
+    </item>
+    <item>
       <title>LazyGit Commit - Thu Feb 05 08:25:50 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30076-lazygit-commit</link>
       <description>LazyGit Commit - Your Smart AI Coding Companion! Tired of staring at a blank screen trying to summarize your code changes? Let LazyGit Commit handle the boring stuff...
@@ -37,7 +102,7 @@ xmlId: com.github.thewoolleyman.jetbrains.terminalkittykeys</description>
       <description>Replaces IntelliJ's progress bars with Star Trek starships. The ship flies across the bar with a warp trail streaming behind it. Ships: USS Enterprise (NCC-1701)USS...
 
 vendor: Simon Stratmann
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.simonstratmann.morestartrekprogressbars</description>
       <pubDate>Tue, 24 Feb 2026 06:46:28 GMT</pubDate>
@@ -50,7 +115,7 @@ xmlId: com.github.simonstratmann.morestartrekprogressbars</description>
       <description>This plugin provides actions to quickly open specific settings pages: Appearance &amp;amp; BehaviorKeymapEditorPluginsVersion ControlBuild, Execution, DeploymentLanguages...
 
 vendor: Nadia Tarashkevich
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.nadiatarashkevich.settingpageaction</description>
       <pubDate>Tue, 24 Feb 2026 06:15:09 GMT</pubDate>
@@ -63,7 +128,7 @@ xmlId: com.github.nadiatarashkevich.settingpageaction</description>
       <description>Object Convert to MyBatis ResultMap And Copy.
 
 vendor: Do Hyuk
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: embrace-plugin.convertObjToResultMap</description>
       <pubDate>Tue, 24 Feb 2026 05:45:13 GMT</pubDate>
@@ -76,7 +141,7 @@ xmlId: embrace-plugin.convertObjToResultMap</description>
       <description>Java Code Quality Checker - Spell Check, Naming and Readability. FREE with Google Gemini. Press Alt+Shift+Q on any Java file.
 
 vendor: Praveen Kumar Aasuri
-downloads: 6
+downloads: 17
 pricingModel: FREE
 xmlId: com.javaqualitychecker.plugin</description>
       <pubDate>Mon, 23 Feb 2026 07:37:20 GMT</pubDate>
@@ -89,7 +154,7 @@ xmlId: com.javaqualitychecker.plugin</description>
       <description>Git workflow assistant: fetch, rebase, squash, and force-push with --force-with-lease in one click. Keeps your branches clean before merge.
 
 vendor: Anti-Manual Lab
-downloads: 4
+downloads: 10
 pricingModel: FREE
 xmlId: com.cleancommit</description>
       <pubDate>Mon, 23 Feb 2026 15:35:39 GMT</pubDate>
@@ -102,7 +167,7 @@ xmlId: com.cleancommit</description>
       <description>Kogito Desk - Kogito Process Navigator for IntelliJ IDEA Navigate between your Kogito BPMN processes and Java code as easily as you navigate between Java classes. See...
 
 vendor: ROUTE.MD
-downloads: 2
+downloads: 6
 pricingModel: PAID
 xmlId: md.route.kogitodesk</description>
       <pubDate>Sun, 22 Feb 2026 19:41:34 GMT</pubDate>
@@ -115,7 +180,7 @@ xmlId: md.route.kogitodesk</description>
       <description>One-click deployment helper with version bumping and Git safety checks.
 
 vendor: robNice
-downloads: 4
+downloads: 23
 pricingModel: FREE
 xmlId: de.robnice.deploybutler</description>
       <pubDate>Tue, 24 Feb 2026 10:31:29 GMT</pubDate>
@@ -128,7 +193,7 @@ xmlId: de.robnice.deploybutler</description>
       <description>Search Finder is a powerful plugin that lets you search for any keyword, class name, or string across your entire project and navigate to each occurrence instantly...
 
 vendor: sanjay kumar
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.searchfinder</description>
       <pubDate>Sat, 21 Feb 2026 11:28:38 GMT</pubDate>
@@ -141,7 +206,7 @@ xmlId: com.searchfinder</description>
       <description>TOON to Kotlin Data Class Generator — Convert TOON (Token-Oriented Object Notation) formatted text into production-ready Kotlin data classes with a single click...
 
 vendor: Saroj Kumar Sahu
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.toon.kotlin.TOONToKotlinClass</description>
       <pubDate>Sat, 21 Feb 2026 00:38:28 GMT</pubDate>
@@ -154,7 +219,7 @@ xmlId: com.toon.kotlin.TOONToKotlinClass</description>
       <description>Shows currently open editor tabs in a persistent tool window panel, similar to VSCode's Open Editors view. Persistent panel — dockable tool window on the left side...
 
 vendor: Shimba Bu
-downloads: 5
+downloads: 16
 pricingModel: FREE
 xmlId: com.shimba.openeditors</description>
       <pubDate>Sun, 22 Feb 2026 01:34:02 GMT</pubDate>
@@ -167,7 +232,7 @@ xmlId: com.shimba.openeditors</description>
       <description>Smart Commit — AI-Powered Git Commit Message Generator Automatically generate professional, meaningful Git commit messages by analyzing your staged changes. Features...
 
 vendor: WebSouf
-downloads: 3
+downloads: 13
 pricingModel: FREE
 xmlId: com.smartcommit</description>
       <pubDate>Sat, 21 Feb 2026 01:52:10 GMT</pubDate>
@@ -180,7 +245,7 @@ xmlId: com.smartcommit</description>
       <description>Claude Code GUI for JetBrains IDEs - Cursor-like UX.
 
 vendor: yhk1038
-downloads: 7
+downloads: 25
 pricingModel: FREE
 xmlId: com.github.yhk1038.claude-code-gui</description>
       <pubDate>Mon, 23 Feb 2026 10:07:25 GMT</pubDate>
@@ -193,77 +258,12 @@ xmlId: com.github.yhk1038.claude-code-gui</description>
       <description>Rikki is a lightweight AI coding assistant for JetBrains IDEs. No backend server required — connects directly to LLM APIs. Chat Agent An AI panel that can read files...
 
 vendor: Creeper5261
-downloads: 3
+downloads: 10
 pricingModel: FREE
 xmlId: com.zzf.rikki.idea</description>
       <pubDate>Sun, 22 Feb 2026 12:52:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30315-rikki-code-agent</guid>
       <dc:date>2026-02-22T12:52:04Z</dc:date>
-    </item>
-    <item>
-      <title>SafeGradle - Sun Feb 22 15:14:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30319-safegradle</link>
-      <description>SafeGradle is an IntelliJ Platform plugin designed to enhance your security by scanning project build scripts for malicious code before you open them. Features...
-
-vendor: Mohammed Alaa
-downloads: 4
-pricingModel: FREE
-xmlId: com.mohammedalaamorsi.safegradle</description>
-      <pubDate>Sun, 22 Feb 2026 15:14:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30319-safegradle</guid>
-      <dc:date>2026-02-22T15:14:02Z</dc:date>
-    </item>
-    <item>
-      <title>AI Commit Message - Tue Feb 24 00:13:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30328-ai-commit-message</link>
-      <description>Generate commit messages in Conventional Commits format using Anthropic Claude AI. Features One-click commit message generation from staged changes Conventional...
-
-vendor: AI Commit Message (Claude by Anthropic)
-downloads: 35
-pricingModel: FREE
-xmlId: com.aicommitmessage</description>
-      <pubDate>Tue, 24 Feb 2026 00:13:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30328-ai-commit-message</guid>
-      <dc:date>2026-02-24T00:13:55Z</dc:date>
-    </item>
-    <item>
-      <title>Aam-Helper - Sun Feb 22 15:08:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30314-aam-helper</link>
-      <description>A small plugin to help with AAM files. It provides syntax highlighting, code completion, and a tool window for easy access to AAM-related features.
-
-vendor: INiNiDS
-downloads: 6
-pricingModel: FREE
-xmlId: com.ininids.aam-helper</description>
-      <pubDate>Sun, 22 Feb 2026 15:08:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30314-aam-helper</guid>
-      <dc:date>2026-02-22T15:08:30Z</dc:date>
-    </item>
-    <item>
-      <title>nadle - Sat Feb 21 07:10:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30300-nadle</link>
-      <description>Integrates Nadle task execution into IntelliJ IDEA. Features: Run icons next to tasks.register("name", fn) definitions for one-click executionLanguage intelligence...
-
-vendor: Nadle
-downloads: 5
-pricingModel: FREE
-xmlId: com.github.nadlejs.nadle</description>
-      <pubDate>Sat, 21 Feb 2026 07:10:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30300-nadle</guid>
-      <dc:date>2026-02-21T07:10:29Z</dc:date>
-    </item>
-    <item>
-      <title>MiConvert Asset Preview - Sun Feb 22 15:27:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30320-miconvert-asset-preview</link>
-      <description>Preview image assets and colors directly in your code editor on hover. &#x1f5bc;️ Hover over image paths (.png, .jpg, .webp, .svg, .gif) to see a thumbnail preview &#x1f3a8; Hover...
-
-vendor: MiConvert
-downloads: 1
-pricingModel: FREE
-xmlId: com.miconvert.assetpreview</description>
-      <pubDate>Sun, 22 Feb 2026 15:27:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30320-miconvert-asset-preview</guid>
-      <dc:date>2026-02-22T15:27:36Z</dc:date>
     </item>
   </channel>
 </rss>
