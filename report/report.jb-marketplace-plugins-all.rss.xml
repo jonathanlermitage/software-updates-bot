@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Parquet SQL Viewer - Wed Feb 25 12:35:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30352-parquet-sql-viewer</link>
+      <description>High-performance Parquet file viewer using DuckDB SQL. Fast local processing: Powered by the DuckDB engine. Full SQL support: Perform JOINs, aggregations, and filters...
+
+vendor: MukeshSinghRana
+downloads: 0
+pricingModel: FREE
+xmlId: no.msr.parquet.sql</description>
+      <pubDate>Wed, 25 Feb 2026 12:35:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30352-parquet-sql-viewer</guid>
+      <dc:date>2026-02-25T12:35:51Z</dc:date>
+    </item>
+    <item>
+      <title>Lucide Icons - Wed Feb 25 14:36:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30284-lucide-icons</link>
+      <description>Lucide Icons — The Premium Icon Experience for IntelliJ IDEA ✨ Elevate your development environment with Lucide Icons, a meticulously crafted icon replacement plugin...
+
+vendor: Modibo Sissoko
+downloads: 2
+pricingModel: PAID
+xmlId: com.lucideicons.dilika</description>
+      <pubDate>Wed, 25 Feb 2026 14:36:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30284-lucide-icons</guid>
+      <dc:date>2026-02-25T14:36:31Z</dc:date>
+    </item>
+    <item>
+      <title>Easy Project Configuration Selector - Wed Feb 25 10:42:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30351-easy-project-configuration-selector</link>
+      <description>Easy Project Configuration Selector allows you to quickly switch between different environment configurations. Define multiple environments (dev, staging, production...
+
+vendor: Borja Salamanca
+downloads: 0
+pricingModel: FREE
+xmlId: com.bsg.easyconfig.EasyProjectConfigurationSelector</description>
+      <pubDate>Wed, 25 Feb 2026 10:42:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30351-easy-project-configuration-selector</guid>
+      <dc:date>2026-02-25T10:42:53Z</dc:date>
+    </item>
+    <item>
+      <title>InputSpark - Wed Feb 25 08:03:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30350-inputspark</link>
+      <description>InputSpark is an intelligent input method switcher plugin designed for IntelliJ IDEA. It automatically switches between English and Chinese input methods based on the...
+
+vendor: BigBlueBaby
+downloads: 0
+pricingModel: FREE
+xmlId: com.inputspark</description>
+      <pubDate>Wed, 25 Feb 2026 08:03:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30350-inputspark</guid>
+      <dc:date>2026-02-25T08:03:22Z</dc:date>
+    </item>
+    <item>
       <title>Node Manager - Wed Feb 25 06:15:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30348-node-manager</link>
       <description>Node Manager Manage Node.js versions directly within IntelliJ IDEA. Features View, install, switch, and uninstall Node.js versions Support for nvm and fnm...
@@ -212,58 +264,6 @@ xmlId: com.toon.kotlin.TOONToKotlinClass</description>
       <pubDate>Sat, 21 Feb 2026 00:38:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30297-toontokotlinclass</guid>
       <dc:date>2026-02-21T00:38:28Z</dc:date>
-    </item>
-    <item>
-      <title>Open Editors - Sun Feb 22 01:34:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30294-open-editors</link>
-      <description>Shows currently open editor tabs in a persistent tool window panel, similar to VSCode's Open Editors view. Persistent panel — dockable tool window on the left side...
-
-vendor: Shimba Bu
-downloads: 16
-pricingModel: FREE
-xmlId: com.shimba.openeditors</description>
-      <pubDate>Sun, 22 Feb 2026 01:34:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30294-open-editors</guid>
-      <dc:date>2026-02-22T01:34:02Z</dc:date>
-    </item>
-    <item>
-      <title>Smart Commit - Sat Feb 21 01:52:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30298-smart-commit</link>
-      <description>Smart Commit — AI-Powered Git Commit Message Generator Automatically generate professional, meaningful Git commit messages by analyzing your staged changes. Features...
-
-vendor: WebSouf
-downloads: 13
-pricingModel: FREE
-xmlId: com.smartcommit</description>
-      <pubDate>Sat, 21 Feb 2026 01:52:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30298-smart-commit</guid>
-      <dc:date>2026-02-21T01:52:10Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Code with GUI - Mon Feb 23 10:07:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30313-claude-code-with-gui</link>
-      <description>Claude Code GUI for JetBrains IDEs - Cursor-like UX.
-
-vendor: yhk1038
-downloads: 25
-pricingModel: FREE
-xmlId: com.github.yhk1038.claude-code-gui</description>
-      <pubDate>Mon, 23 Feb 2026 10:07:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30313-claude-code-with-gui</guid>
-      <dc:date>2026-02-23T10:07:25Z</dc:date>
-    </item>
-    <item>
-      <title>Rikki Code Agent - Sun Feb 22 12:52:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30315-rikki-code-agent</link>
-      <description>Rikki is a lightweight AI coding assistant for JetBrains IDEs. No backend server required — connects directly to LLM APIs. Chat Agent An AI panel that can read files...
-
-vendor: Creeper5261
-downloads: 10
-pricingModel: FREE
-xmlId: com.zzf.rikki.idea</description>
-      <pubDate>Sun, 22 Feb 2026 12:52:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30315-rikki-code-agent</guid>
-      <dc:date>2026-02-22T12:52:04Z</dc:date>
     </item>
   </channel>
 </rss>
