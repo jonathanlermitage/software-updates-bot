@@ -1,5 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.21849.20) ~ 2026-02-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Feb 25 15:08:21 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.7.0|[nodejs.org](https://nodejs.org)|Tue Feb 24 16:18:30 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 24 16:18:30 UTC 2026|
@@ -7,11 +12,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 19 16:14:44 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.5 to 19.5.0 ~ 2026-02-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Feb 17 00:08:24 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 337 - Datacenters Carrier Class dans l'espace|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 16 12:07:19 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.21|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 15|15.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.8|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.2|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 12 16:16:42 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.0|[golang.org](https://golang.org/dl/)|Tue Feb 10 20:10:49 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:14 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:10 UTC 2026|
