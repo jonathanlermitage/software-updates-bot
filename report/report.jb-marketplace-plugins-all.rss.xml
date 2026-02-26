@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MyBatis Field Sync - Thu Feb 26 02:45:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30360-mybatis-field-sync</link>
+      <description>Synchronize selected Java entity fields into MyBatis mapper XML statements.
+
+vendor: MyBatis Field Sync
+downloads: 0
+pricingModel: FREE
+xmlId: com.eagga.mybatis-field-sync</description>
+      <pubDate>Thu, 26 Feb 2026 02:45:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30360-mybatis-field-sync</guid>
+      <dc:date>2026-02-26T02:45:49Z</dc:date>
+    </item>
+    <item>
+      <title>Gradle MCP - Thu Feb 26 04:59:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30361-gradle-mcp</link>
+      <description>MCP toolset for IntelliJ Gradle integration. It can: list linked Gradle projectslist Gradle tasks and task detailsrun arbitrary Gradle tasks via the Gradle tool window...
+
+vendor: ghostflyby
+downloads: 0
+pricingModel: FREE
+xmlId: dev.ghostflyby.mcp.gradle</description>
+      <pubDate>Thu, 26 Feb 2026 04:59:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30361-gradle-mcp</guid>
+      <dc:date>2026-02-26T04:59:47Z</dc:date>
+    </item>
+    <item>
+      <title>Cipher Decryptor - Thu Feb 26 09:43:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30288-cipher-decryptor</link>
+      <description>Decrypts {cipher}... values in configuration files using a configured Java KeyStore. Features: Configure Java KeyStore (.jks) file location Set keystore alias...
+
+vendor: Zoltán Császi
+downloads: 0
+pricingModel: FREE
+xmlId: com.csaszi.cipher-decryptor</description>
+      <pubDate>Thu, 26 Feb 2026 09:43:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30288-cipher-decryptor</guid>
+      <dc:date>2026-02-26T09:43:53Z</dc:date>
+    </item>
+    <item>
       <title>AlgoJar - Wed Feb 25 23:50:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30359-algojar</link>
       <description>IntelliJ IDEA plugin for configuring and launching JAR-based algorithms in a distributed computing environment via the Coordinator cluster API. Features: Configure...
@@ -225,45 +264,6 @@ xmlId: com.github.nadiatarashkevich.settingpageaction</description>
       <pubDate>Tue, 24 Feb 2026 06:15:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30336-settingpageaction</guid>
       <dc:date>2026-02-24T06:15:09Z</dc:date>
-    </item>
-    <item>
-      <title>ConvertObjToResultMap - Tue Feb 24 05:45:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30133-convertobjtoresultmap</link>
-      <description>Object Convert to MyBatis ResultMap And Copy.
-
-vendor: Do Hyuk
-downloads: 22
-pricingModel: FREE
-xmlId: embrace-plugin.convertObjToResultMap</description>
-      <pubDate>Tue, 24 Feb 2026 05:45:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30133-convertobjtoresultmap</guid>
-      <dc:date>2026-02-24T05:45:13Z</dc:date>
-    </item>
-    <item>
-      <title>Java Code Quality Checker - Mon Feb 23 07:37:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30303-java-code-quality-checker</link>
-      <description>Java Code Quality Checker - Spell Check, Naming and Readability. FREE with Google Gemini. Press Alt+Shift+Q on any Java file.
-
-vendor: Praveen Kumar Aasuri
-downloads: 17
-pricingModel: FREE
-xmlId: com.javaqualitychecker.plugin</description>
-      <pubDate>Mon, 23 Feb 2026 07:37:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30303-java-code-quality-checker</guid>
-      <dc:date>2026-02-23T07:37:20Z</dc:date>
-    </item>
-    <item>
-      <title>Clean Commit - Mon Feb 23 15:35:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30331-clean-commit</link>
-      <description>Git workflow assistant: fetch, rebase, squash, and force-push with --force-with-lease in one click. Keeps your branches clean before merge.
-
-vendor: Anti-Manual Lab
-downloads: 11
-pricingModel: FREE
-xmlId: com.cleancommit</description>
-      <pubDate>Mon, 23 Feb 2026 15:35:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30331-clean-commit</guid>
-      <dc:date>2026-02-23T15:35:39Z</dc:date>
     </item>
   </channel>
 </rss>
