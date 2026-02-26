@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.21849.20) ~ 2026-02-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Feb 25 15:08:21 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.7.0|[nodejs.org](https://nodejs.org)|Tue Feb 24 16:18:30 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 24 16:18:30 UTC 2026|
