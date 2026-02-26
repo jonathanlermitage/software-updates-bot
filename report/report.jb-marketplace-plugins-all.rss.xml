@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AlgoJar - Wed Feb 25 23:50:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30359-algojar</link>
+      <description>IntelliJ IDEA plugin for configuring and launching JAR-based algorithms in a distributed computing environment via the Coordinator cluster API. Features: Configure...
+
+vendor: Algorithm Jar Upload Plagin
+downloads: 0
+pricingModel: FREE
+xmlId: com.gambikus.algojar</description>
+      <pubDate>Wed, 25 Feb 2026 23:50:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30359-algojar</guid>
+      <dc:date>2026-02-25T23:50:07Z</dc:date>
+    </item>
+    <item>
+      <title>GitBot Commit - Wed Feb 25 20:26:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30332-gitbot-commit</link>
+      <description>GitBot Commit generates AI commit messages directly from your staged changes, integrated into the IntelliJ IDEA Git Commit workflow. How it works: Click the ⚡ AI...
+
+vendor: Felipe Rosa - frshaka
+downloads: 1
+pricingModel: FREE
+xmlId: com.frshaka.gitbot</description>
+      <pubDate>Wed, 25 Feb 2026 20:26:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30332-gitbot-commit</guid>
+      <dc:date>2026-02-25T20:26:13Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Server Extension for Unity - Wed Feb 25 19:35:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30357-mcp-server-extension-for-unity</link>
+      <description>A plugin that extends the MCP Server plugin built into JetBrains Rider. Adds tools for operating Unity Editor from any Coding Agents.
+
+vendor: Koji Hasegawa
+downloads: 0
+pricingModel: FREE
+xmlId: com.nowsprinting.mcp-extension-unity</description>
+      <pubDate>Wed, 25 Feb 2026 19:35:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30357-mcp-server-extension-for-unity</guid>
+      <dc:date>2026-02-25T19:35:31Z</dc:date>
+    </item>
+    <item>
+      <title>Theme Randomizer 2025.3 - Wed Feb 25 17:09:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30356-theme-randomizer-2025-3</link>
+      <description>This is a fork of the ever popular Theme Randomizer plugin that has been updated to work with the latest Intellij versions.
+
+vendor: xtina
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.xtina.intellijthemerandomizer</description>
+      <pubDate>Wed, 25 Feb 2026 17:09:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30356-theme-randomizer-2025-3</guid>
+      <dc:date>2026-02-25T17:09:33Z</dc:date>
+    </item>
+    <item>
       <title>OX Security - Mon Feb 23 13:18:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30086-ox-security</link>
       <description>OX JetBrains Plugin The OX JetBrains Plugin provides scanning code changes locally within JetBrains IDEs. It integrates with the OX Security platform and is intended...
@@ -17,19 +69,6 @@ xmlId: ox.security.plugin</description>
       <pubDate>Mon, 23 Feb 2026 13:18:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30086-ox-security</guid>
       <dc:date>2026-02-23T13:18:45Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle MCP - Wed Feb 25 07:46:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30349-gradle-mcp</link>
-      <description>Provide MCP tools for Gradle: list available Gradle tasks for a projectrun arbitrary Gradle tasks from MCP.
-
-vendor: ghostflyby
-downloads: 0
-pricingModel: FREE
-xmlId: dev.ghostflyby.gradle.mcp</description>
-      <pubDate>Wed, 25 Feb 2026 07:46:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30349-gradle-mcp</guid>
-      <dc:date>2026-02-25T07:46:59Z</dc:date>
     </item>
     <item>
       <title>Parquet SQL Viewer - Wed Feb 25 12:35:51 UTC 2026</title>
@@ -50,7 +89,7 @@ xmlId: no.msr.parquet.sql</description>
       <description>Lucide Icons — The Premium Icon Experience for IntelliJ IDEA ✨ Elevate your development environment with Lucide Icons, a meticulously crafted icon replacement plugin...
 
 vendor: Modibo Sissoko
-downloads: 2
+downloads: 4
 pricingModel: PAID
 xmlId: com.lucideicons.dilika</description>
       <pubDate>Wed, 25 Feb 2026 14:36:31 GMT</pubDate>
@@ -76,7 +115,7 @@ xmlId: com.bsg.easyconfig.EasyProjectConfigurationSelector</description>
       <description>Node Manager Manage Node.js versions directly within IntelliJ IDEA. Features View, install, switch, and uninstall Node.js versions Support for nvm and fnm...
 
 vendor: Node Manager
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: com.github.nicestudent.nodemanager</description>
       <pubDate>Wed, 25 Feb 2026 06:15:33 GMT</pubDate>
@@ -89,7 +128,7 @@ xmlId: com.github.nicestudent.nodemanager</description>
       <description>JimmerZ code generator, related dependencies: SpringBoot, jimmer, lombok, by default generates entity classes, DTO classes, Service interfaces, Service implementation...
 
 vendor: HeavenLuan
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.zzl.JimmerZ</description>
       <pubDate>Wed, 25 Feb 2026 07:23:58 GMT</pubDate>
@@ -102,7 +141,7 @@ xmlId: com.zzl.JimmerZ</description>
       <description>SQL Select Generator A simple and efficient IntelliJ IDEA plugin for generating SELECT SQL statements from database tables. Features: Right-click on any database table...
 
 vendor: formels
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.plugins.sqlgen</description>
       <pubDate>Wed, 25 Feb 2026 09:35:59 GMT</pubDate>
@@ -110,17 +149,17 @@ xmlId: com.plugins.sqlgen</description>
       <dc:date>2026-02-25T09:35:59Z</dc:date>
     </item>
     <item>
-      <title>SR-Forge-Assistant - Wed Feb 25 02:39:15 UTC 2026</title>
+      <title>SR-Forge-Assistant - Wed Feb 25 15:36:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30334-sr-forge-assistant</link>
       <description>Intelligent coding assistant for SR-Forge ML framework YAML configuration files in PyCharm and IntelliJ IDEA. Features _target_ completion — fuzzy-search Python class...
 
 vendor: Tomasz Tarasiewicz
-downloads: 1
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.ttarasiewicz.srforgeassistant</description>
-      <pubDate>Wed, 25 Feb 2026 02:39:15 GMT</pubDate>
+      <pubDate>Wed, 25 Feb 2026 15:36:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30334-sr-forge-assistant</guid>
-      <dc:date>2026-02-25T02:39:15Z</dc:date>
+      <dc:date>2026-02-25T15:36:28Z</dc:date>
     </item>
     <item>
       <title>Ultimate Claude UI - Tue Feb 24 22:57:38 UTC 2026</title>
@@ -128,7 +167,7 @@ xmlId: com.github.ttarasiewicz.srforgeassistant</description>
       <description>Native IntelliJ plugin for AI-powered coding with Claude and Codex. Direct HTTP API calls, no JCEF/Node.js — pure Kotlin + Swing.
 
 vendor: Daniil Sudomoin
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: ru.dsudomoin.claude-code-gui</description>
       <pubDate>Tue, 24 Feb 2026 22:57:38 GMT</pubDate>
@@ -141,7 +180,7 @@ xmlId: ru.dsudomoin.claude-code-gui</description>
       <description>LazyGit Commit - Your Smart AI Coding Companion! Tired of staring at a blank screen trying to summarize your code changes? Let LazyGit Commit handle the boring stuff...
 
 vendor: LazyGit Commit
-downloads: 3
+downloads: 12
 pricingModel: FREE
 xmlId: com.casualness.aicommit.id</description>
       <pubDate>Thu, 05 Feb 2026 08:25:50 GMT</pubDate>
@@ -154,7 +193,7 @@ xmlId: com.casualness.aicommit.id</description>
       <description>Sends kitty keyboard protocol (CSI u) escape sequences for Shift+Enter in the JetBrains built-in terminal, enabling proper newline support in TUI apps like Claude...
 
 vendor: Chad Woolley
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.thewoolleyman.jetbrains.terminalkittykeys</description>
       <pubDate>Tue, 24 Feb 2026 08:13:36 GMT</pubDate>
@@ -167,7 +206,7 @@ xmlId: com.github.thewoolleyman.jetbrains.terminalkittykeys</description>
       <description>Replaces IntelliJ's progress bars with Star Trek starships. The ship flies across the bar with a warp trail streaming behind it. Ships: USS Enterprise (NCC-1701)USS...
 
 vendor: Simon Stratmann
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.simonstratmann.morestartrekprogressbars</description>
       <pubDate>Tue, 24 Feb 2026 06:46:28 GMT</pubDate>
@@ -180,7 +219,7 @@ xmlId: com.github.simonstratmann.morestartrekprogressbars</description>
       <description>This plugin provides actions to quickly open specific settings pages: Appearance &amp;amp; BehaviorKeymapEditorPluginsVersion ControlBuild, Execution, DeploymentLanguages...
 
 vendor: Nadia Tarashkevich
-downloads: 5
+downloads: 11
 pricingModel: FREE
 xmlId: com.github.nadiatarashkevich.settingpageaction</description>
       <pubDate>Tue, 24 Feb 2026 06:15:09 GMT</pubDate>
@@ -193,7 +232,7 @@ xmlId: com.github.nadiatarashkevich.settingpageaction</description>
       <description>Object Convert to MyBatis ResultMap And Copy.
 
 vendor: Do Hyuk
-downloads: 18
+downloads: 22
 pricingModel: FREE
 xmlId: embrace-plugin.convertObjToResultMap</description>
       <pubDate>Tue, 24 Feb 2026 05:45:13 GMT</pubDate>
@@ -219,51 +258,12 @@ xmlId: com.javaqualitychecker.plugin</description>
       <description>Git workflow assistant: fetch, rebase, squash, and force-push with --force-with-lease in one click. Keeps your branches clean before merge.
 
 vendor: Anti-Manual Lab
-downloads: 10
+downloads: 11
 pricingModel: FREE
 xmlId: com.cleancommit</description>
       <pubDate>Mon, 23 Feb 2026 15:35:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30331-clean-commit</guid>
       <dc:date>2026-02-23T15:35:39Z</dc:date>
-    </item>
-    <item>
-      <title>Kogito Desk - Sun Feb 22 19:41:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30322-kogito-desk</link>
-      <description>Kogito Desk - Kogito Process Navigator for IntelliJ IDEA Navigate between your Kogito BPMN processes and Java code as easily as you navigate between Java classes. See...
-
-vendor: ROUTE.MD
-downloads: 6
-pricingModel: PAID
-xmlId: md.route.kogitodesk</description>
-      <pubDate>Sun, 22 Feb 2026 19:41:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30322-kogito-desk</guid>
-      <dc:date>2026-02-22T19:41:34Z</dc:date>
-    </item>
-    <item>
-      <title>DeployButler - Tue Feb 24 10:31:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30306-deploybutler</link>
-      <description>One-click deployment helper with version bumping and Git safety checks.
-
-vendor: robNice
-downloads: 23
-pricingModel: FREE
-xmlId: de.robnice.deploybutler</description>
-      <pubDate>Tue, 24 Feb 2026 10:31:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30306-deploybutler</guid>
-      <dc:date>2026-02-24T10:31:29Z</dc:date>
-    </item>
-    <item>
-      <title>Search Finder - Sat Feb 21 11:28:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30305-search-finder</link>
-      <description>Search Finder is a powerful plugin that lets you search for any keyword, class name, or string across your entire project and navigate to each occurrence instantly...
-
-vendor: sanjay kumar
-downloads: 6
-pricingModel: FREE
-xmlId: com.searchfinder</description>
-      <pubDate>Sat, 21 Feb 2026 11:28:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30305-search-finder</guid>
-      <dc:date>2026-02-21T11:28:38Z</dc:date>
     </item>
   </channel>
 </rss>
