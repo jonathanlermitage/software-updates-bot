@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CodeRef - Smart Java Analyzer with ML Engine - Sun Feb 22 16:17:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30317-coderef--smart-java-analyzer-with-ml-engine</link>
+      <description>A smart Java code analysis plugin that inspects, refactors, and generates tests — powered by an adaptive ML engine that learns from your workflow. Features...
+
+vendor: Netbrain Intergrated Solutions
+downloads: 4
+pricingModel: FREEMIUM
+xmlId: com.coderef.plugin</description>
+      <pubDate>Sun, 22 Feb 2026 16:17:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30317-coderef--smart-java-analyzer-with-ml-engine</guid>
+      <dc:date>2026-02-22T16:17:03Z</dc:date>
+    </item>
+    <item>
+      <title>Coding Switch - Fri Feb 27 07:30:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30383-coding-switch</link>
+      <description>Coding Switch - AI Coding Assistant Config Manager Manage and switch configurations for Claude Code, Codex, Gemini CLI, and OpenCode. Features Provider Management...
+
+vendor: Coding Switch
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.mostbean.codingswitch</description>
+      <pubDate>Fri, 27 Feb 2026 07:30:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30383-coding-switch</guid>
+      <dc:date>2026-02-27T07:30:05Z</dc:date>
+    </item>
+    <item>
+      <title>bonsai - Thu Feb 26 22:06:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30381-bonsai</link>
+      <description>This toolwindow plugin provides a visual representation of your project structure on an interactive canvas with zoom and pan capabilities. Configurable filters and...
+
+vendor: loremigliore
+downloads: 0
+pricingModel: FREE
+xmlId: com.loremigliore.bonsai</description>
+      <pubDate>Thu, 26 Feb 2026 22:06:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30381-bonsai</guid>
+      <dc:date>2026-02-26T22:06:04Z</dc:date>
+    </item>
+    <item>
+      <title>Clear App Storage Before Deploy - Thu Feb 26 21:44:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30379-clear-app-storage-before-deploy</link>
+      <description>Clear App Storage Before Deploy Adds a convenient toggle button to the main toolbar that controls Android Studio's built-in "Clear app storage before deployment...
+
+vendor: Pavel Indziukou
+downloads: 0
+pricingModel: FREE
+xmlId: com.clearstorage.clear-storage-plugin</description>
+      <pubDate>Thu, 26 Feb 2026 21:44:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30379-clear-app-storage-before-deploy</guid>
+      <dc:date>2026-02-26T21:44:40Z</dc:date>
+    </item>
+    <item>
+      <title>ElasticSearcher - Mon Feb 23 08:42:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30326-elasticsearcher</link>
+      <description>Overview ElasticSearcher brings Elasticsearch workflows directly into JetBrains IDEs so you can inspect indices, run queries, and debug responses without leaving the...
+
+vendor: goldentapstudio
+downloads: 1
+pricingModel: FREE
+xmlId: com.zhaksyaslan.elasticsearcher</description>
+      <pubDate>Mon, 23 Feb 2026 08:42:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30326-elasticsearcher</guid>
+      <dc:date>2026-02-23T08:42:53Z</dc:date>
+    </item>
+    <item>
+      <title>AI Review - Thu Feb 26 20:42:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30378-ai-review</link>
+      <description>AI-Powered Code Review for JetBrains IDEs Get GitHub PR-style code reviews directly inside your IDE, powered by Claude Code CLI. AI Review collects your git diffs...
+
+vendor: SmartToolboxOrg
+downloads: 0
+pricingModel: FREE
+xmlId: com.aireview.plugin</description>
+      <pubDate>Thu, 26 Feb 2026 20:42:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30378-ai-review</guid>
+      <dc:date>2026-02-26T20:42:22Z</dc:date>
+    </item>
+    <item>
       <title>Workspace MCP - Thu Feb 26 14:04:30 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30368-workspace-mcp</link>
       <description>MCP toolset for IntelliJ workspace operations, including VFS, Document, and Symbol Navigation integrations. VFS tools...
@@ -24,7 +102,7 @@ xmlId: dev.ghostflyby.mcp.workspace</description>
       <description>Parse and visualize documentation from YAML files. Provides a tool window for working with YAML API documentation.
 
 vendor: ChikleevBogdan
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: com.apiHelper.yaml-docs</description>
       <pubDate>Thu, 26 Feb 2026 18:36:09 GMT</pubDate>
@@ -32,7 +110,7 @@ xmlId: com.apiHelper.yaml-docs</description>
       <dc:date>2026-02-26T18:36:09Z</dc:date>
     </item>
     <item>
-      <title>Cap'n Proto Support - Thu Feb 26 19:54:13 UTC 2026</title>
+      <title>Cap'n Proto Support - Fri Feb 27 04:44:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30377-cap-n-proto-support</link>
       <description>Complete Cap'n Proto schema language support for IntelliJ-based IDEs. Features: Syntax Highlighting: Full syntax coloring for structs, enums, interfaces, annotations...
 
@@ -40,9 +118,9 @@ vendor: mberkyilmaz
 downloads: 0
 pricingModel: FREE
 xmlId: com.mberk-yilmaz.capnp</description>
-      <pubDate>Thu, 26 Feb 2026 19:54:13 GMT</pubDate>
+      <pubDate>Fri, 27 Feb 2026 04:44:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30377-cap-n-proto-support</guid>
-      <dc:date>2026-02-26T19:54:13Z</dc:date>
+      <dc:date>2026-02-27T04:44:27Z</dc:date>
     </item>
     <item>
       <title>Work Helper - Thu Feb 26 16:22:36 UTC 2026</title>
@@ -76,7 +154,7 @@ xmlId: com.github.faah</description>
       <description>Enables Cmd+Click navigation from proto-generated Kotlin code to .proto source definitions. Fills the gap where IntelliJ's Protocol Buffers plugin handles Java but not...
 
 vendor: Ryan Bern
-downloads: 0
+downloads: 16
 pricingModel: FREE
 xmlId: com.ryanbern.protonavigation</description>
       <pubDate>Thu, 26 Feb 2026 18:16:33 GMT</pubDate>
@@ -89,7 +167,7 @@ xmlId: com.ryanbern.protonavigation</description>
       <description>Generate a tree structure from a tree file or a glob file from a list of files or folders Plugin adds a new filetype (.tree). This file format is often produced by...
 
 vendor: Stephane Passignat
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: fr.exygen.tree-generator</description>
       <pubDate>Thu, 26 Feb 2026 10:49:03 GMT</pubDate>
@@ -115,7 +193,7 @@ xmlId: com.github.xausky.opencodewebui</description>
       <description>Synchronize selected Java entity fields into MyBatis mapper XML statements.
 
 vendor: MyBatis Field Sync
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.eagga.mybatis-field-sync</description>
       <pubDate>Thu, 26 Feb 2026 02:45:49 GMT</pubDate>
@@ -128,7 +206,7 @@ xmlId: com.eagga.mybatis-field-sync</description>
       <description>MCP toolset for IntelliJ Gradle integration. It can: list linked Gradle projectslist Gradle tasks and task detailsrun arbitrary Gradle tasks via the Gradle tool window...
 
 vendor: ghostflyby
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.ghostflyby.mcp.gradle</description>
       <pubDate>Thu, 26 Feb 2026 04:59:47 GMT</pubDate>
@@ -141,7 +219,7 @@ xmlId: dev.ghostflyby.mcp.gradle</description>
       <description>Decrypts {cipher}... values in configuration files using a configured Java KeyStore. Features: Configure Java KeyStore (.jks) file location Set keystore alias...
 
 vendor: Zoltán Császi
-downloads: 0
+downloads: 19
 pricingModel: FREE
 xmlId: com.csaszi.cipher-decryptor</description>
       <pubDate>Thu, 26 Feb 2026 09:43:53 GMT</pubDate>
@@ -154,7 +232,7 @@ xmlId: com.csaszi.cipher-decryptor</description>
       <description>IntelliJ IDEA plugin for configuring and launching JAR-based algorithms in a distributed computing environment via the Coordinator cluster API. Features: Configure...
 
 vendor: Algorithm Jar Upload Plagin
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.gambikus.algojar</description>
       <pubDate>Thu, 26 Feb 2026 15:11:08 GMT</pubDate>
@@ -167,7 +245,7 @@ xmlId: com.gambikus.algojar</description>
       <description>GitBot Commit generates AI-powered commit messages directly from your staged changes, integrated into IntelliJ IDEA's native Git Commit workflow. It reads your git...
 
 vendor: Felipe Rosa - frshaka
-downloads: 1
+downloads: 11
 pricingModel: FREE
 xmlId: com.frshaka.gitbot</description>
       <pubDate>Thu, 26 Feb 2026 14:44:24 GMT</pubDate>
@@ -180,90 +258,12 @@ xmlId: com.frshaka.gitbot</description>
       <description>A plugin that extends the MCP Server plugin built into JetBrains Rider. Adds tools for operating Unity Editor from any Coding Agents.
 
 vendor: Koji Hasegawa
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.nowsprinting.mcp-extension-unity</description>
       <pubDate>Wed, 25 Feb 2026 19:35:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30357-mcp-server-extension-for-unity</guid>
       <dc:date>2026-02-25T19:35:31Z</dc:date>
-    </item>
-    <item>
-      <title>Theme Randomizer 2025.3 - Wed Feb 25 17:09:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30356-theme-randomizer-2025-3</link>
-      <description>This is a fork of the ever popular Theme Randomizer plugin that has been updated to work with the latest Intellij versions.
-
-vendor: xtina
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.xtina.intellijthemerandomizer</description>
-      <pubDate>Wed, 25 Feb 2026 17:09:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30356-theme-randomizer-2025-3</guid>
-      <dc:date>2026-02-25T17:09:33Z</dc:date>
-    </item>
-    <item>
-      <title>OX Security - Mon Feb 23 13:18:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30086-ox-security</link>
-      <description>OX JetBrains Plugin The OX JetBrains Plugin provides scanning code changes locally within JetBrains IDEs. It integrates with the OX Security platform and is intended...
-
-vendor: OX Security
-downloads: 3
-pricingModel: FREE
-xmlId: ox.security.plugin</description>
-      <pubDate>Mon, 23 Feb 2026 13:18:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30086-ox-security</guid>
-      <dc:date>2026-02-23T13:18:45Z</dc:date>
-    </item>
-    <item>
-      <title>Parquet SQL Viewer - Wed Feb 25 12:35:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30352-parquet-sql-viewer</link>
-      <description>High-performance Parquet file viewer using DuckDB SQL. Fast local processing: Powered by the DuckDB engine. Full SQL support: Perform JOINs, aggregations, and filters...
-
-vendor: MukeshSinghRana
-downloads: 0
-pricingModel: FREE
-xmlId: no.msr.parquet.sql</description>
-      <pubDate>Wed, 25 Feb 2026 12:35:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30352-parquet-sql-viewer</guid>
-      <dc:date>2026-02-25T12:35:51Z</dc:date>
-    </item>
-    <item>
-      <title>Lucide Icons - Wed Feb 25 14:36:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30284-lucide-icons</link>
-      <description>Lucide Icons — The Premium Icon Experience for IntelliJ IDEA ✨ Elevate your development environment with Lucide Icons, a meticulously crafted icon replacement plugin...
-
-vendor: Modibo Sissoko
-downloads: 4
-pricingModel: PAID
-xmlId: com.lucideicons.dilika</description>
-      <pubDate>Wed, 25 Feb 2026 14:36:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30284-lucide-icons</guid>
-      <dc:date>2026-02-25T14:36:31Z</dc:date>
-    </item>
-    <item>
-      <title>Easy Project Configuration Selector - Wed Feb 25 10:42:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30351-easy-project-configuration-selector</link>
-      <description>Easy Project Configuration Selector allows you to quickly switch between different environment configurations. Define multiple environments (dev, staging, production...
-
-vendor: Borja Salamanca
-downloads: 0
-pricingModel: FREE
-xmlId: com.bsg.easyconfig.EasyProjectConfigurationSelector</description>
-      <pubDate>Wed, 25 Feb 2026 10:42:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30351-easy-project-configuration-selector</guid>
-      <dc:date>2026-02-25T10:42:53Z</dc:date>
-    </item>
-    <item>
-      <title>InputSpark - Thu Feb 26 09:33:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30350-inputspark</link>
-      <description>InputSpark is an intelligent input method switcher plugin designed for IntelliJ IDEA. It automatically switches between English and Chinese input methods based on the...
-
-vendor: BigBlueBaby
-downloads: 0
-pricingModel: FREE
-xmlId: com.inputspark</description>
-      <pubDate>Thu, 26 Feb 2026 09:33:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30350-inputspark</guid>
-      <dc:date>2026-02-26T09:33:53Z</dc:date>
     </item>
   </channel>
 </rss>
