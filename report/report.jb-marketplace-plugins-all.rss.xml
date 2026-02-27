@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>API First &amp; Mocking Studio - Fri Feb 27 11:00:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30376-api-first--mocking-studio</link>
+      <description>Native API Client and Mocking Server for JetBrains IDEs. Fully replaces external API clients directly within your IDE. Supports OpenAPI 3.0/3.1, Swagger 2.0, and...
+
+vendor: Jakub Jirák
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.apifirst.mocking.studio</description>
+      <pubDate>Fri, 27 Feb 2026 11:00:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30376-api-first--mocking-studio</guid>
+      <dc:date>2026-02-27T11:00:46Z</dc:date>
+    </item>
+    <item>
       <title>JetBrains AI Assistant Experimental Features - Fri Feb 27 10:51:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30055-jetbrains-ai-assistant-experimental-features</link>
       <description>A set of experimental, proactive AI-powered features designed to help you with your everyday development tasks by surfacing the right context at the right time. What's...
@@ -251,19 +264,6 @@ xmlId: com.eagga.mybatis-field-sync</description>
       <pubDate>Thu, 26 Feb 2026 02:45:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30360-mybatis-field-sync</guid>
       <dc:date>2026-02-26T02:45:49Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle MCP - Thu Feb 26 04:59:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30361-gradle-mcp</link>
-      <description>MCP toolset for IntelliJ Gradle integration. It can: list linked Gradle projectslist Gradle tasks and task detailsrun arbitrary Gradle tasks via the Gradle tool window...
-
-vendor: ghostflyby
-downloads: 2
-pricingModel: FREE
-xmlId: dev.ghostflyby.mcp.gradle</description>
-      <pubDate>Thu, 26 Feb 2026 04:59:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30361-gradle-mcp</guid>
-      <dc:date>2026-02-26T04:59:47Z</dc:date>
     </item>
   </channel>
 </rss>
