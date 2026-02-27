@@ -6,7 +6,98 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>API First &amp; Mocking Studio - Fri Feb 27 11:00:46 UTC 2026</title>
+      <title>BetterCommentHighlighter - Fri Feb 27 09:10:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30388-bettercommenthighlighter</link>
+      <description>Highlights C-family /// comments with a configurable editor color.
+
+vendor: Lenorink
+downloads: 0
+pricingModel: FREE
+xmlId: org.lenorink.bettercommenthighlighter</description>
+      <pubDate>Fri, 27 Feb 2026 09:10:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30388-bettercommenthighlighter</guid>
+      <dc:date>2026-02-27T09:10:25Z</dc:date>
+    </item>
+    <item>
+      <title>OpenTelemetry Diagnostic - Fri Feb 27 17:39:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30395-opentelemetry-diagnostic</link>
+      <description>Advanced diagnostic plugin for IntelliJ Platform with OpenTelemetry integration. Features: Export telemetry spans via OTLP to any compatible backend Track exceptions...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.jetbrains.otp.diagnostic</description>
+      <pubDate>Fri, 27 Feb 2026 17:39:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30395-opentelemetry-diagnostic</guid>
+      <dc:date>2026-02-27T17:39:07Z</dc:date>
+    </item>
+    <item>
+      <title>Samurai Test Runner - Fri Feb 27 14:33:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30391-samurai-test-runner</link>
+      <description>GoLand integration for the Samurai scoped testing framework. Samurai is a Go testing framework with path isolation: you define a test tree using a single s.Test...
+
+vendor: zerosixty
+downloads: 0
+pricingModel: FREE
+xmlId: com.samurai.testrunner</description>
+      <pubDate>Fri, 27 Feb 2026 14:33:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30391-samurai-test-runner</guid>
+      <dc:date>2026-02-27T14:33:13Z</dc:date>
+    </item>
+    <item>
+      <title>BOJ Helper - Fri Feb 27 17:00:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30394-boj-helper</link>
+      <description>BOJ HelperView and test Baekjoon Online Judge problems directly in your JetBrains IDE.백준 온라인 저지 문제를 JetBrains IDE에서 바로 보고 테스트하세요. 주요 기능문제 자동 불러오기파일명에서 문제 번호를 자동 인식합니다...
+
+vendor: Ikjun Oh
+downloads: 0
+pricingModel: FREE
+xmlId: app.meot.boj-helper</description>
+      <pubDate>Fri, 27 Feb 2026 17:00:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30394-boj-helper</guid>
+      <dc:date>2026-02-27T17:00:44Z</dc:date>
+    </item>
+    <item>
+      <title>Blockchain Tools - Fri Feb 27 15:10:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30393-blockchain-tools</link>
+      <description>Blockchain Tools is an IntelliJ Platform plugin that helps developers working with blockchain applications by providing quick generation and validation of...
+
+vendor: ekinof
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.ekinof.blockchaintools</description>
+      <pubDate>Fri, 27 Feb 2026 15:10:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30393-blockchain-tools</guid>
+      <dc:date>2026-02-27T15:10:47Z</dc:date>
+    </item>
+    <item>
+      <title>Elasticsearch Java Client Examples Autocomplete - Fri Feb 27 17:50:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30396-elasticsearch-java-client-examples-autocomplete</link>
+      <description>Experimental IntelliJ IDEA Plugin to provide inline autocompletion for the Elasticsearch Java Client with examples from the documentation.
+
+vendor: Elastic
+downloads: 0
+pricingModel: FREE
+xmlId: co.elastic.docs-java-client</description>
+      <pubDate>Fri, 27 Feb 2026 17:50:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30396-elasticsearch-java-client-examples-autocomplete</guid>
+      <dc:date>2026-02-27T17:50:37Z</dc:date>
+    </item>
+    <item>
+      <title>SonarQube Jira Issuer - Fri Feb 27 15:09:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer</link>
+      <description>SonarQube Jira Issuer — Generate Jira-ready ticket content from SonarQube issues. Connect to your SonarQube server, load issues by type and status, then export batched...
+
+vendor: IZEM TECHNOLOGIES
+downloads: 0
+pricingModel: FREE
+xmlId: com.sonarjiraissuer.plugin</description>
+      <pubDate>Fri, 27 Feb 2026 15:09:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer</guid>
+      <dc:date>2026-02-27T15:09:00Z</dc:date>
+    </item>
+    <item>
+      <title>API First &amp; Mocking Studio - Fri Feb 27 17:55:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30376-api-first--mocking-studio</link>
       <description>Native API Client and Mocking Server for JetBrains IDEs. Fully replaces external API clients directly within your IDE. Supports OpenAPI 3.0/3.1, Swagger 2.0, and...
 
@@ -14,12 +105,12 @@ vendor: Jakub Jirák
 downloads: 0
 pricingModel: FREEMIUM
 xmlId: com.apifirst.mocking.studio</description>
-      <pubDate>Fri, 27 Feb 2026 11:00:46 GMT</pubDate>
+      <pubDate>Fri, 27 Feb 2026 17:55:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30376-api-first--mocking-studio</guid>
-      <dc:date>2026-02-27T11:00:46Z</dc:date>
+      <dc:date>2026-02-27T17:55:07Z</dc:date>
     </item>
     <item>
-      <title>JetBrains AI Assistant Experimental Features - Fri Feb 27 10:51:01 UTC 2026</title>
+      <title>JetBrains AI Assistant Experimental Features - Fri Feb 27 16:28:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30055-jetbrains-ai-assistant-experimental-features</link>
       <description>A set of experimental, proactive AI-powered features designed to help you with your everyday development tasks by surfacing the right context at the right time. What's...
 
@@ -27,9 +118,9 @@ vendor: JetBrains s.r.o.
 downloads: 145
 pricingModel: FREE
 xmlId: com.intellij.ml.llm.experimental</description>
-      <pubDate>Fri, 27 Feb 2026 10:51:01 GMT</pubDate>
+      <pubDate>Fri, 27 Feb 2026 16:28:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30055-jetbrains-ai-assistant-experimental-features</guid>
-      <dc:date>2026-02-27T10:51:01Z</dc:date>
+      <dc:date>2026-02-27T16:28:19Z</dc:date>
     </item>
     <item>
       <title>Auto-Tips - Fri Feb 27 06:35:52 UTC 2026</title>
@@ -162,7 +253,7 @@ xmlId: dev.ghostflyby.mcp.workspace</description>
       <dc:date>2026-02-27T08:41:33Z</dc:date>
     </item>
     <item>
-      <title>YAML Docs Parser - Thu Feb 26 18:36:09 UTC 2026</title>
+      <title>YAML Docs Parser - Fri Feb 27 12:10:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30342-yaml-docs-parser</link>
       <description>Parse and visualize documentation from YAML files. Provides a tool window for working with YAML API documentation.
 
@@ -170,100 +261,9 @@ vendor: ChikleevBogdan
 downloads: 10
 pricingModel: FREE
 xmlId: com.apiHelper.yaml-docs</description>
-      <pubDate>Thu, 26 Feb 2026 18:36:09 GMT</pubDate>
+      <pubDate>Fri, 27 Feb 2026 12:10:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30342-yaml-docs-parser</guid>
-      <dc:date>2026-02-26T18:36:09Z</dc:date>
-    </item>
-    <item>
-      <title>Cap'n Proto Support - Fri Feb 27 04:44:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30377-cap-n-proto-support</link>
-      <description>Complete Cap'n Proto schema language support for IntelliJ-based IDEs. Features: Syntax Highlighting: Full syntax coloring for structs, enums, interfaces, annotations...
-
-vendor: mberkyilmaz
-downloads: 0
-pricingModel: FREE
-xmlId: com.mberk-yilmaz.capnp</description>
-      <pubDate>Fri, 27 Feb 2026 04:44:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30377-cap-n-proto-support</guid>
-      <dc:date>2026-02-27T04:44:27Z</dc:date>
-    </item>
-    <item>
-      <title>Work Helper - Thu Feb 26 16:22:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30371-work-helper</link>
-      <description>Generate dynamic UI from Excel column definitions. Reads column names, sizes (W/H), and enums to create a data entry form. 中文： 这是该插件的终极商业版本，集成了审计溯源、文件管理和极致的交互体验。 ## 1...
-
-vendor: jiangze
-downloads: 0
-pricingModel: FREE
-xmlId: com.manus.excelui</description>
-      <pubDate>Thu, 26 Feb 2026 16:22:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30371-work-helper</guid>
-      <dc:date>2026-02-26T16:22:36Z</dc:date>
-    </item>
-    <item>
-      <title>Faah - Thu Feb 26 08:41:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30367-faah</link>
-      <description>Faah — Exception Sound Alerter Plays a custom sound alert whenever an exception, error, or fatal crash is detected in any console, terminal, run configuration, or...
-
-vendor: Ahsan Kabir
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.faah</description>
-      <pubDate>Thu, 26 Feb 2026 08:41:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30367-faah</guid>
-      <dc:date>2026-02-26T08:41:33Z</dc:date>
-    </item>
-    <item>
-      <title>Proto Kotlin Navigation - Thu Feb 26 18:16:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30375-proto-kotlin-navigation</link>
-      <description>Enables Cmd+Click navigation from proto-generated Kotlin code to .proto source definitions. Fills the gap where IntelliJ's Protocol Buffers plugin handles Java but not...
-
-vendor: Ryan Bern
-downloads: 16
-pricingModel: FREE
-xmlId: com.ryanbern.protonavigation</description>
-      <pubDate>Thu, 26 Feb 2026 18:16:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30375-proto-kotlin-navigation</guid>
-      <dc:date>2026-02-26T18:16:33Z</dc:date>
-    </item>
-    <item>
-      <title>Tree-Generator - Thu Feb 26 10:49:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30330-tree-generator</link>
-      <description>Generate a tree structure from a tree file or a glob file from a list of files or folders Plugin adds a new filetype (.tree). This file format is often produced by...
-
-vendor: Stephane Passignat
-downloads: 3
-pricingModel: FREE
-xmlId: fr.exygen.tree-generator</description>
-      <pubDate>Thu, 26 Feb 2026 10:49:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30330-tree-generator</guid>
-      <dc:date>2026-02-26T10:49:03Z</dc:date>
-    </item>
-    <item>
-      <title>opencode-web-ui - Thu Feb 26 07:18:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30364-opencode-web-ui</link>
-      <description>Plugin Description Note: This is an unofficial plugin for OpenCode, maintained by the community and not affiliated with OpenCode. Features Auto-start Service - Click...
-
-vendor: XATeam
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.xausky.opencodewebui</description>
-      <pubDate>Thu, 26 Feb 2026 07:18:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30364-opencode-web-ui</guid>
-      <dc:date>2026-02-26T07:18:49Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis Field Sync - Thu Feb 26 02:45:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30360-mybatis-field-sync</link>
-      <description>Synchronize selected Java entity fields into MyBatis mapper XML statements.
-
-vendor: MyBatis Field Sync
-downloads: 1
-pricingModel: FREE
-xmlId: com.eagga.mybatis-field-sync</description>
-      <pubDate>Thu, 26 Feb 2026 02:45:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30360-mybatis-field-sync</guid>
-      <dc:date>2026-02-26T02:45:49Z</dc:date>
+      <dc:date>2026-02-27T12:10:19Z</dc:date>
     </item>
   </channel>
 </rss>
