@@ -6,6 +6,110 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Workspace MCP - Thu Feb 26 14:04:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30368-workspace-mcp</link>
+      <description>MCP toolset for IntelliJ workspace operations, including VFS, Document, and Symbol Navigation integrations. VFS tools...
+
+vendor: ghostflyby
+downloads: 0
+pricingModel: FREE
+xmlId: dev.ghostflyby.mcp.workspace</description>
+      <pubDate>Thu, 26 Feb 2026 14:04:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30368-workspace-mcp</guid>
+      <dc:date>2026-02-26T14:04:30Z</dc:date>
+    </item>
+    <item>
+      <title>YAML Docs Parser - Thu Feb 26 18:36:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30342-yaml-docs-parser</link>
+      <description>Parse and visualize documentation from YAML files. Provides a tool window for working with YAML API documentation.
+
+vendor: ChikleevBogdan
+downloads: 1
+pricingModel: FREE
+xmlId: com.apiHelper.yaml-docs</description>
+      <pubDate>Thu, 26 Feb 2026 18:36:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30342-yaml-docs-parser</guid>
+      <dc:date>2026-02-26T18:36:09Z</dc:date>
+    </item>
+    <item>
+      <title>Cap'n Proto Support - Thu Feb 26 19:54:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30377-cap-n-proto-support</link>
+      <description>Complete Cap'n Proto schema language support for IntelliJ-based IDEs. Features: Syntax Highlighting: Full syntax coloring for structs, enums, interfaces, annotations...
+
+vendor: mberkyilmaz
+downloads: 0
+pricingModel: FREE
+xmlId: com.mberk-yilmaz.capnp</description>
+      <pubDate>Thu, 26 Feb 2026 19:54:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30377-cap-n-proto-support</guid>
+      <dc:date>2026-02-26T19:54:13Z</dc:date>
+    </item>
+    <item>
+      <title>Work Helper - Thu Feb 26 16:22:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30371-work-helper</link>
+      <description>Generate dynamic UI from Excel column definitions. Reads column names, sizes (W/H), and enums to create a data entry form. 中文： 这是该插件的终极商业版本，集成了审计溯源、文件管理和极致的交互体验。 ## 1...
+
+vendor: jiangze
+downloads: 0
+pricingModel: FREE
+xmlId: com.manus.excelui</description>
+      <pubDate>Thu, 26 Feb 2026 16:22:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30371-work-helper</guid>
+      <dc:date>2026-02-26T16:22:36Z</dc:date>
+    </item>
+    <item>
+      <title>Faah - Thu Feb 26 08:41:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30367-faah</link>
+      <description>Faah — Exception Sound Alerter Plays a custom sound alert whenever an exception, error, or fatal crash is detected in any console, terminal, run configuration, or...
+
+vendor: Ahsan Kabir
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.faah</description>
+      <pubDate>Thu, 26 Feb 2026 08:41:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30367-faah</guid>
+      <dc:date>2026-02-26T08:41:33Z</dc:date>
+    </item>
+    <item>
+      <title>Proto Kotlin Navigation - Thu Feb 26 18:16:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30375-proto-kotlin-navigation</link>
+      <description>Enables Cmd+Click navigation from proto-generated Kotlin code to .proto source definitions. Fills the gap where IntelliJ's Protocol Buffers plugin handles Java but not...
+
+vendor: Ryan Bern
+downloads: 0
+pricingModel: FREE
+xmlId: com.ryanbern.protonavigation</description>
+      <pubDate>Thu, 26 Feb 2026 18:16:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30375-proto-kotlin-navigation</guid>
+      <dc:date>2026-02-26T18:16:33Z</dc:date>
+    </item>
+    <item>
+      <title>Tree-Generator - Thu Feb 26 10:49:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30330-tree-generator</link>
+      <description>Generate a tree structure from a tree file or a glob file from a list of files or folders Plugin adds a new filetype (.tree). This file format is often produced by...
+
+vendor: Stephane Passignat
+downloads: 2
+pricingModel: FREE
+xmlId: fr.exygen.tree-generator</description>
+      <pubDate>Thu, 26 Feb 2026 10:49:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30330-tree-generator</guid>
+      <dc:date>2026-02-26T10:49:03Z</dc:date>
+    </item>
+    <item>
+      <title>opencode-web-ui - Thu Feb 26 07:18:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30364-opencode-web-ui</link>
+      <description>Plugin Description Note: This is an unofficial plugin for OpenCode, maintained by the community and not affiliated with OpenCode. Features Auto-start Service - Click...
+
+vendor: XATeam
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.xausky.opencodewebui</description>
+      <pubDate>Thu, 26 Feb 2026 07:18:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30364-opencode-web-ui</guid>
+      <dc:date>2026-02-26T07:18:49Z</dc:date>
+    </item>
+    <item>
       <title>MyBatis Field Sync - Thu Feb 26 02:45:49 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30360-mybatis-field-sync</link>
       <description>Synchronize selected Java entity fields into MyBatis mapper XML statements.
@@ -45,7 +149,7 @@ xmlId: com.csaszi.cipher-decryptor</description>
       <dc:date>2026-02-26T09:43:53Z</dc:date>
     </item>
     <item>
-      <title>AlgoJar - Wed Feb 25 23:50:07 UTC 2026</title>
+      <title>AlgoJar - Thu Feb 26 15:11:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30359-algojar</link>
       <description>IntelliJ IDEA plugin for configuring and launching JAR-based algorithms in a distributed computing environment via the Coordinator cluster API. Features: Configure...
 
@@ -53,12 +157,12 @@ vendor: Algorithm Jar Upload Plagin
 downloads: 0
 pricingModel: FREE
 xmlId: com.gambikus.algojar</description>
-      <pubDate>Wed, 25 Feb 2026 23:50:07 GMT</pubDate>
+      <pubDate>Thu, 26 Feb 2026 15:11:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30359-algojar</guid>
-      <dc:date>2026-02-25T23:50:07Z</dc:date>
+      <dc:date>2026-02-26T15:11:08Z</dc:date>
     </item>
     <item>
-      <title>GitBot Commit - Wed Feb 25 20:26:13 UTC 2026</title>
+      <title>GitBot Commit - Thu Feb 26 14:44:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30332-gitbot-commit</link>
       <description>GitBot Commit generates AI-powered commit messages directly from your staged changes, integrated into IntelliJ IDEA's native Git Commit workflow. It reads your git...
 
@@ -66,9 +170,9 @@ vendor: Felipe Rosa - frshaka
 downloads: 1
 pricingModel: FREE
 xmlId: com.frshaka.gitbot</description>
-      <pubDate>Wed, 25 Feb 2026 20:26:13 GMT</pubDate>
+      <pubDate>Thu, 26 Feb 2026 14:44:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30332-gitbot-commit</guid>
-      <dc:date>2026-02-25T20:26:13Z</dc:date>
+      <dc:date>2026-02-26T14:44:24Z</dc:date>
     </item>
     <item>
       <title>MCP Server Extension for Unity - Wed Feb 25 19:35:31 UTC 2026</title>
@@ -149,121 +253,17 @@ xmlId: com.bsg.easyconfig.EasyProjectConfigurationSelector</description>
       <dc:date>2026-02-25T10:42:53Z</dc:date>
     </item>
     <item>
-      <title>Node Manager - Wed Feb 25 06:15:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30348-node-manager</link>
-      <description>Node Manager Manage Node.js versions directly within IntelliJ IDEA. Features View, install, switch, and uninstall Node.js versions Support for nvm and fnm...
+      <title>InputSpark - Thu Feb 26 09:33:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30350-inputspark</link>
+      <description>InputSpark is an intelligent input method switcher plugin designed for IntelliJ IDEA. It automatically switches between English and Chinese input methods based on the...
 
-vendor: Node Manager
-downloads: 18
+vendor: BigBlueBaby
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.nicestudent.nodemanager</description>
-      <pubDate>Wed, 25 Feb 2026 06:15:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30348-node-manager</guid>
-      <dc:date>2026-02-25T06:15:33Z</dc:date>
-    </item>
-    <item>
-      <title>JimmerZ - Thu Feb 26 13:14:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30347-jimmerz</link>
-      <description>JimmerZ code generator, related dependencies: SpringBoot, jimmer, lombok, by default generates entity classes, DTO classes, Service interfaces, Service implementation...
-
-vendor: HeavenLuan
-downloads: 7
-pricingModel: FREE
-xmlId: com.zzl.JimmerZ</description>
-      <pubDate>Thu, 26 Feb 2026 13:14:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30347-jimmerz</guid>
-      <dc:date>2026-02-26T13:14:17Z</dc:date>
-    </item>
-    <item>
-      <title>SQL Select Generator - Wed Feb 25 09:35:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30345-sql-select-generator</link>
-      <description>SQL Select Generator A simple and efficient IntelliJ IDEA plugin for generating SELECT SQL statements from database tables. Features: Right-click on any database table...
-
-vendor: formels
-downloads: 9
-pricingModel: FREE
-xmlId: com.plugins.sqlgen</description>
-      <pubDate>Wed, 25 Feb 2026 09:35:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30345-sql-select-generator</guid>
-      <dc:date>2026-02-25T09:35:59Z</dc:date>
-    </item>
-    <item>
-      <title>SR-Forge-Assistant - Wed Feb 25 15:36:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30334-sr-forge-assistant</link>
-      <description>Intelligent coding assistant for SR-Forge ML framework YAML configuration files in PyCharm and IntelliJ IDEA. Features _target_ completion — fuzzy-search Python class...
-
-vendor: Tomasz Tarasiewicz
-downloads: 13
-pricingModel: FREE
-xmlId: com.github.ttarasiewicz.srforgeassistant</description>
-      <pubDate>Wed, 25 Feb 2026 15:36:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30334-sr-forge-assistant</guid>
-      <dc:date>2026-02-25T15:36:28Z</dc:date>
-    </item>
-    <item>
-      <title>Ultimate Claude UI - Tue Feb 24 22:57:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30343-ultimate-claude-ui</link>
-      <description>Native IntelliJ plugin for AI-powered coding with Claude and Codex. Direct HTTP API calls, no JCEF/Node.js — pure Kotlin + Swing.
-
-vendor: Daniil Sudomoin
-downloads: 9
-pricingModel: FREE
-xmlId: ru.dsudomoin.claude-code-gui</description>
-      <pubDate>Tue, 24 Feb 2026 22:57:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30343-ultimate-claude-ui</guid>
-      <dc:date>2026-02-24T22:57:38Z</dc:date>
-    </item>
-    <item>
-      <title>LazyGit Commit - Thu Feb 05 08:25:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30076-lazygit-commit</link>
-      <description>LazyGit Commit - Your Smart AI Coding Companion! Tired of staring at a blank screen trying to summarize your code changes? Let LazyGit Commit handle the boring stuff...
-
-vendor: LazyGit Commit
-downloads: 12
-pricingModel: FREE
-xmlId: com.casualness.aicommit.id</description>
-      <pubDate>Thu, 05 Feb 2026 08:25:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30076-lazygit-commit</guid>
-      <dc:date>2026-02-05T08:25:50Z</dc:date>
-    </item>
-    <item>
-      <title>Terminal Kitty Keys - Tue Feb 24 08:13:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30338-terminal-kitty-keys</link>
-      <description>Sends kitty keyboard protocol (CSI u) escape sequences for Shift+Enter in the JetBrains built-in terminal, enabling proper newline support in TUI apps like Claude...
-
-vendor: Chad Woolley
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.thewoolleyman.jetbrains.terminalkittykeys</description>
-      <pubDate>Tue, 24 Feb 2026 08:13:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30338-terminal-kitty-keys</guid>
-      <dc:date>2026-02-24T08:13:36Z</dc:date>
-    </item>
-    <item>
-      <title>More Star Trek Progress Bars - Tue Feb 24 06:46:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30337-more-star-trek-progress-bars</link>
-      <description>Replaces IntelliJ's progress bars with Star Trek starships. The ship flies across the bar with a warp trail streaming behind it. Ships: USS Enterprise (NCC-1701)USS...
-
-vendor: Simon Stratmann
-downloads: 10
-pricingModel: FREE
-xmlId: com.github.simonstratmann.morestartrekprogressbars</description>
-      <pubDate>Tue, 24 Feb 2026 06:46:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30337-more-star-trek-progress-bars</guid>
-      <dc:date>2026-02-24T06:46:28Z</dc:date>
-    </item>
-    <item>
-      <title>SettingPageAction - Tue Feb 24 06:15:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30336-settingpageaction</link>
-      <description>This plugin provides actions to quickly open specific settings pages: Appearance &amp;amp; BehaviorKeymapEditorPluginsVersion ControlBuild, Execution, DeploymentLanguages...
-
-vendor: Nadia Tarashkevich
-downloads: 11
-pricingModel: FREE
-xmlId: com.github.nadiatarashkevich.settingpageaction</description>
-      <pubDate>Tue, 24 Feb 2026 06:15:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30336-settingpageaction</guid>
-      <dc:date>2026-02-24T06:15:09Z</dc:date>
+xmlId: com.inputspark</description>
+      <pubDate>Thu, 26 Feb 2026 09:33:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30350-inputspark</guid>
+      <dc:date>2026-02-26T09:33:53Z</dc:date>
     </item>
   </channel>
 </rss>
