@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>JetBrains AI Assistant Experimental Features - Fri Feb 27 10:51:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30055-jetbrains-ai-assistant-experimental-features</link>
+      <description>A set of experimental, proactive AI-powered features designed to help you with your everyday development tasks by surfacing the right context at the right time. What's...
+
+vendor: JetBrains s.r.o.
+downloads: 145
+pricingModel: FREE
+xmlId: com.intellij.ml.llm.experimental</description>
+      <pubDate>Fri, 27 Feb 2026 10:51:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30055-jetbrains-ai-assistant-experimental-features</guid>
+      <dc:date>2026-02-27T10:51:01Z</dc:date>
+    </item>
+    <item>
+      <title>Auto-Tips - Fri Feb 27 06:35:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29918-auto-tips</link>
+      <description>Auto-Tips is an intelligent, non-intrusive code hint plugin. When developers call APIs or methods marked with @tips annotations, the plugin automatically displays...
+
+vendor: Myj
+downloads: 4
+pricingModel: FREE
+xmlId: cn.myjdemo.auto-tips</description>
+      <pubDate>Fri, 27 Feb 2026 06:35:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29918-auto-tips</guid>
+      <dc:date>2026-02-27T06:35:52Z</dc:date>
+    </item>
+    <item>
+      <title>Ide-Window-Capture - Fri Feb 27 06:25:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30386-ide-window-capture</link>
+      <description>A plugin to capture a screenshot of a specified Tool Window and save it to the project root.
+
+vendor: Ethan
+downloads: 0
+pricingModel: FREE
+xmlId: y.e.ide-window-capture</description>
+      <pubDate>Fri, 27 Feb 2026 06:25:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30386-ide-window-capture</guid>
+      <dc:date>2026-02-27T06:25:01Z</dc:date>
+    </item>
+    <item>
+      <title>view-file-size - Fri Feb 27 09:19:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30318-view-file-size</link>
+      <description>Plugin Description A very simple and straightforward IntelliJ IDEA plugin that allows to view the size of a selected file. You can: • Right-click any file in the...
+
+vendor: Daniel Marandici
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.danielcode2020.viewfilesize</description>
+      <pubDate>Fri, 27 Feb 2026 09:19:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30318-view-file-size</guid>
+      <dc:date>2026-02-27T09:19:18Z</dc:date>
+    </item>
+    <item>
       <title>CodeRef - Smart Java Analyzer with ML Engine - Sun Feb 22 16:17:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30317-coderef--smart-java-analyzer-with-ml-engine</link>
       <description>A smart Java code analysis plugin that inspects, refactors, and generates tests — powered by an adaptive ML engine that learns from your workflow. Features...
@@ -84,7 +136,7 @@ xmlId: com.aireview.plugin</description>
       <dc:date>2026-02-26T20:42:22Z</dc:date>
     </item>
     <item>
-      <title>Workspace MCP - Thu Feb 26 14:04:30 UTC 2026</title>
+      <title>Workspace MCP - Fri Feb 27 08:41:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30368-workspace-mcp</link>
       <description>MCP toolset for IntelliJ workspace operations, including VFS, Document, and Symbol Navigation integrations. VFS tools...
 
@@ -92,9 +144,9 @@ vendor: ghostflyby
 downloads: 0
 pricingModel: FREE
 xmlId: dev.ghostflyby.mcp.workspace</description>
-      <pubDate>Thu, 26 Feb 2026 14:04:30 GMT</pubDate>
+      <pubDate>Fri, 27 Feb 2026 08:41:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30368-workspace-mcp</guid>
-      <dc:date>2026-02-26T14:04:30Z</dc:date>
+      <dc:date>2026-02-27T08:41:33Z</dc:date>
     </item>
     <item>
       <title>YAML Docs Parser - Thu Feb 26 18:36:09 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: dev.ghostflyby.mcp.gradle</description>
       <pubDate>Thu, 26 Feb 2026 04:59:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30361-gradle-mcp</guid>
       <dc:date>2026-02-26T04:59:47Z</dc:date>
-    </item>
-    <item>
-      <title>Cipher Decryptor - Thu Feb 26 09:43:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30288-cipher-decryptor</link>
-      <description>Decrypts {cipher}... values in configuration files using a configured Java KeyStore. Features: Configure Java KeyStore (.jks) file location Set keystore alias...
-
-vendor: Zoltán Császi
-downloads: 19
-pricingModel: FREE
-xmlId: com.csaszi.cipher-decryptor</description>
-      <pubDate>Thu, 26 Feb 2026 09:43:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30288-cipher-decryptor</guid>
-      <dc:date>2026-02-26T09:43:53Z</dc:date>
-    </item>
-    <item>
-      <title>AlgoJar - Thu Feb 26 15:11:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30359-algojar</link>
-      <description>IntelliJ IDEA plugin for configuring and launching JAR-based algorithms in a distributed computing environment via the Coordinator cluster API. Features: Configure...
-
-vendor: Algorithm Jar Upload Plagin
-downloads: 4
-pricingModel: FREE
-xmlId: com.gambikus.algojar</description>
-      <pubDate>Thu, 26 Feb 2026 15:11:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30359-algojar</guid>
-      <dc:date>2026-02-26T15:11:08Z</dc:date>
-    </item>
-    <item>
-      <title>GitBot Commit - Thu Feb 26 14:44:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30332-gitbot-commit</link>
-      <description>GitBot Commit generates AI-powered commit messages directly from your staged changes, integrated into IntelliJ IDEA's native Git Commit workflow. It reads your git...
-
-vendor: Felipe Rosa - frshaka
-downloads: 11
-pricingModel: FREE
-xmlId: com.frshaka.gitbot</description>
-      <pubDate>Thu, 26 Feb 2026 14:44:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30332-gitbot-commit</guid>
-      <dc:date>2026-02-26T14:44:24Z</dc:date>
-    </item>
-    <item>
-      <title>MCP Server Extension for Unity - Wed Feb 25 19:35:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30357-mcp-server-extension-for-unity</link>
-      <description>A plugin that extends the MCP Server plugin built into JetBrains Rider. Adds tools for operating Unity Editor from any Coding Agents.
-
-vendor: Koji Hasegawa
-downloads: 11
-pricingModel: FREE
-xmlId: com.nowsprinting.mcp-extension-unity</description>
-      <pubDate>Wed, 25 Feb 2026 19:35:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30357-mcp-server-extension-for-unity</guid>
-      <dc:date>2026-02-25T19:35:31Z</dc:date>
     </item>
   </channel>
 </rss>
