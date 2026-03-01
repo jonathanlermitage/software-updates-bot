@@ -11,7 +11,7 @@
       <description>Highlights C-family /// comments with a configurable editor color.
 
 vendor: Lenorink
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: org.lenorink.bettercommenthighlighter</description>
       <pubDate>Fri, 27 Feb 2026 09:10:25 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: org.lenorink.bettercommenthighlighter</description>
       <description>Advanced diagnostic plugin for IntelliJ Platform with OpenTelemetry integration. Features: Export telemetry spans via OTLP to any compatible backend Track exceptions...
 
 vendor: JetBrains s.r.o.
-downloads: 4
+downloads: 10
 pricingModel: FREE
 xmlId: com.jetbrains.otp.diagnostic</description>
       <pubDate>Fri, 27 Feb 2026 17:39:07 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.jetbrains.otp.diagnostic</description>
       <description>GoLand integration for the Samurai scoped testing framework. Samurai is a Go testing framework with path isolation: you define a test tree using a single s.Test...
 
 vendor: zerosixty
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.samurai.testrunner</description>
       <pubDate>Fri, 27 Feb 2026 14:33:13 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.samurai.testrunner</description>
       <description>BOJ HelperView and test Baekjoon Online Judge problems directly in your JetBrains IDE.백준 온라인 저지 문제를 JetBrains IDE에서 바로 보고 테스트하세요. 주요 기능문제 자동 불러오기파일명에서 문제 번호를 자동 인식합니다...
 
 vendor: Ikjun Oh
-downloads: 4
+downloads: 13
 pricingModel: FREE
 xmlId: app.meot.boj-helper</description>
       <pubDate>Fri, 27 Feb 2026 17:00:44 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: app.meot.boj-helper</description>
       <description>Blockchain Tools is an IntelliJ Platform plugin that helps developers working with blockchain applications by providing quick generation and validation of...
 
 vendor: ekinof
-downloads: 0
+downloads: 40
 pricingModel: FREE
 xmlId: com.github.ekinof.blockchaintools</description>
       <pubDate>Sat, 28 Feb 2026 12:14:01 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.github.ekinof.blockchaintools</description>
       <description>Experimental IntelliJ IDEA Plugin to provide inline autocompletion for the Elasticsearch Java Client with examples from the documentation.
 
 vendor: Elastic
-downloads: 12
+downloads: 22
 pricingModel: FREE
 xmlId: co.elastic.docs-java-client</description>
       <pubDate>Fri, 27 Feb 2026 17:50:37 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: co.elastic.docs-java-client</description>
       <description>SonarQube Jira Issuer — Generate Jira-ready ticket content from SonarQube issues. Connect to your SonarQube server, load issues by type and status, then export batched...
 
 vendor: IZEM TECHNOLOGIES
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.sonarjiraissuer.plugin</description>
       <pubDate>Fri, 27 Feb 2026 15:09:00 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.sonarjiraissuer.plugin</description>
       <description>Native API Client and Mocking Server for JetBrains IDEs. Fully replaces external API clients directly within your IDE. Supports OpenAPI 3.0/3.1, Swagger 2.0, and...
 
 vendor: Jakub Jirák
-downloads: 34
+downloads: 55
 pricingModel: FREEMIUM
 xmlId: com.apifirst.mocking.studio</description>
       <pubDate>Fri, 27 Feb 2026 17:55:07 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.apifirst.mocking.studio</description>
       <description>A set of experimental, proactive AI-powered features designed to help you with your everyday development tasks by surfacing the right context at the right time. What's...
 
 vendor: JetBrains s.r.o.
-downloads: 184
+downloads: 218
 pricingModel: FREE
 xmlId: com.intellij.ml.llm.experimental</description>
       <pubDate>Fri, 27 Feb 2026 16:28:19 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.intellij.ml.llm.experimental</description>
       <description>Auto-Tips is an intelligent, non-intrusive code hint plugin. When developers call APIs or methods marked with @tips annotations, the plugin automatically displays...
 
 vendor: Myj
-downloads: 7
+downloads: 9
 pricingModel: FREE
 xmlId: cn.myjdemo.auto-tips</description>
       <pubDate>Fri, 27 Feb 2026 06:35:52 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: cn.myjdemo.auto-tips</description>
       <description>A plugin to capture a screenshot of a specified Tool Window and save it to the project root.
 
 vendor: Ethan
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: y.e.ide-window-capture</description>
       <pubDate>Fri, 27 Feb 2026 06:25:01 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: y.e.ide-window-capture</description>
       <description>Plugin Description A very simple and straightforward IntelliJ IDEA plugin that allows to view the size of a selected file. You can: • Right-click any file in the...
 
 vendor: Daniel Marandici
-downloads: 6
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.danielcode2020.viewfilesize</description>
       <pubDate>Fri, 27 Feb 2026 09:19:18 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.github.danielcode2020.viewfilesize</description>
       <description>A smart Java code analysis plugin that inspects, refactors, and generates tests — powered by an adaptive ML engine that learns from your workflow. Features...
 
 vendor: Netbrain Intergrated Solutions
-downloads: 13
+downloads: 17
 pricingModel: FREEMIUM
 xmlId: com.coderef.plugin</description>
       <pubDate>Sun, 22 Feb 2026 16:17:03 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.coderef.plugin</description>
       <description>Coding Switch - AI Coding Assistant Config Manager Manage and switch configurations for Claude Code, Codex, Gemini CLI, and OpenCode. Features Provider Management...
 
 vendor: Coding Switch
-downloads: 29
+downloads: 132
 pricingModel: FREE
 xmlId: com.github.mostbean.codingswitch</description>
       <pubDate>Sat, 28 Feb 2026 07:45:59 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.github.mostbean.codingswitch</description>
       <description>This toolwindow plugin provides a visual representation of your project structure on an interactive canvas with zoom and pan capabilities. Configurable filters and...
 
 vendor: loremigliore
-downloads: 26
+downloads: 37
 pricingModel: FREE
 xmlId: com.loremigliore.bonsai</description>
       <pubDate>Thu, 26 Feb 2026 22:06:04 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.loremigliore.bonsai</description>
       <description>Clear App Storage Before Deploy Adds a convenient toggle button to the main toolbar that controls Android Studio's built-in "Clear app storage before deployment...
 
 vendor: Pavel Indziukou
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.clearstorage.clear-storage-plugin</description>
       <pubDate>Thu, 26 Feb 2026 21:44:40 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.clearstorage.clear-storage-plugin</description>
       <description>Overview ElasticSearcher brings Elasticsearch workflows directly into JetBrains IDEs so you can inspect indices, run queries, and debug responses without leaving the...
 
 vendor: goldentapstudio
-downloads: 6
+downloads: 11
 pricingModel: FREE
 xmlId: com.zhaksyaslan.elasticsearcher</description>
       <pubDate>Mon, 23 Feb 2026 08:42:53 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.zhaksyaslan.elasticsearcher</description>
       <description>AI-Powered Code Review for JetBrains IDEs Get GitHub PR-style code reviews directly inside your IDE, powered by Claude Code CLI. AI Review collects your git diffs...
 
 vendor: SmartToolboxOrg
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.aireview.plugin</description>
       <pubDate>Thu, 26 Feb 2026 20:42:22 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.aireview.plugin</description>
       <description>MCP toolset for IntelliJ workspace operations, including VFS, Document, and Symbol Navigation integrations. VFS tools...
 
 vendor: ghostflyby
-downloads: 15
+downloads: 19
 pricingModel: FREE
 xmlId: dev.ghostflyby.mcp.workspace</description>
       <pubDate>Fri, 27 Feb 2026 08:41:33 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: dev.ghostflyby.mcp.workspace</description>
       <description>Parse and visualize documentation from YAML files. Provides a tool window for working with YAML API documentation.
 
 vendor: ChikleevBogdan
-downloads: 26
+downloads: 32
 pricingModel: FREE
 xmlId: com.apiHelper.yaml-docs</description>
       <pubDate>Fri, 27 Feb 2026 12:10:19 GMT</pubDate>
