@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>BOJ Assistant - Sun Mar 01 05:34:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30420-boj-assistant</link>
+      <description>BOJ Assistant is a plugin that automates solving Baekjoon Online Judge (BOJ) problems directly within IntelliJ IDEA and PyCharm. 백준 문제 생성, 테스트, 제출을 IDE 내부에서 한 번에 처리할 수...
+
+vendor: kimdongwoo
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.kimdongwoo0930.bojpluginforjetbrains</description>
+      <pubDate>Sun, 01 Mar 2026 05:34:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30420-boj-assistant</guid>
+      <dc:date>2026-03-01T05:34:08Z</dc:date>
+    </item>
+    <item>
+      <title>Passage - Sat Feb 28 08:28:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30366-passage</link>
+      <description>Passage – Real-time Work &amp;amp; Salary Progress Tracker. A second-level real-time work progress widget in the status bar. Track your working time and salary growth...
+
+vendor: Azeze
+downloads: 2
+pricingModel: FREE
+xmlId: Passage</description>
+      <pubDate>Sat, 28 Feb 2026 08:28:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30366-passage</guid>
+      <dc:date>2026-02-28T08:28:19Z</dc:date>
+    </item>
+    <item>
+      <title>K8s Pod Env Injector - Sat Feb 28 11:42:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30406-k8s-pod-env-injector</link>
+      <description>Injects Kubernetes Pod environment variables into Spring Boot Run Configurations.
+
+vendor: oh yongsu
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.k8spodenv</description>
+      <pubDate>Sat, 28 Feb 2026 11:42:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30406-k8s-pod-env-injector</guid>
+      <dc:date>2026-02-28T11:42:19Z</dc:date>
+    </item>
+    <item>
+      <title>Kaiten Integration - Sat Feb 28 12:52:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30407-kaiten-integration</link>
+      <description>JetBrains IDE integration with Kaiten project management system. Browse tasks, track progress across boards, and automatically record time spent — all without leaving...
+
+vendor: Roman Miroshnikov
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.scadar.kaitenplugin</description>
+      <pubDate>Sat, 28 Feb 2026 12:52:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30407-kaiten-integration</guid>
+      <dc:date>2026-02-28T12:52:25Z</dc:date>
+    </item>
+    <item>
+      <title>Ignite - Sat Feb 28 05:28:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30028-ignite</link>
+      <description>Ignite: Execute Java Methods Instantly with Arthas Integration Ignite is a powerful developer tool designed for IntelliJ IDEA. It acts as a bridge between your code...
+
+vendor: weihubeats
+downloads: 4
+pricingModel: FREE
+xmlId: io.github.weihubeats.ignite-plugin</description>
+      <pubDate>Sat, 28 Feb 2026 05:28:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30028-ignite</guid>
+      <dc:date>2026-02-28T05:28:57Z</dc:date>
+    </item>
+    <item>
+      <title>FAAAAH on Fail - Sat Feb 28 05:22:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30372-faaaah-on-fail</link>
+      <description>Plays a loud FAAAAH sound whenever something goes wrong in your IDE — so you can't miss a failure even if you look away. Detects failures from: ✅ JUnit / test...
+
+vendor: Rohit Patil
+downloads: 3
+pricingModel: FREE
+xmlId: com.github.rohtspatil.faaahonfailintellij</description>
+      <pubDate>Sat, 28 Feb 2026 05:22:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30372-faaaah-on-fail</guid>
+      <dc:date>2026-02-28T05:22:00Z</dc:date>
+    </item>
+    <item>
+      <title>Error Sound Alert - Fri Feb 27 22:21:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30398-error-sound-alert</link>
+      <description>Error Sound Alert plays an audio alert the moment a Run/Debug process exits with an error, so you can stay focused on other work and only look up when something goes...
+
+vendor: Drost Wades
+downloads: 3
+pricingModel: FREE
+xmlId: com.drostwades.errorsound</description>
+      <pubDate>Fri, 27 Feb 2026 22:21:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30398-error-sound-alert</guid>
+      <dc:date>2026-02-27T22:21:13Z</dc:date>
+    </item>
+    <item>
       <title>BetterCommentHighlighter - Fri Feb 27 09:10:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30388-bettercommenthighlighter</link>
       <description>Highlights C-family /// comments with a configurable editor color.
@@ -24,7 +115,7 @@ xmlId: org.lenorink.bettercommenthighlighter</description>
       <description>Advanced diagnostic plugin for IntelliJ Platform with OpenTelemetry integration. Features: Export telemetry spans via OTLP to any compatible backend Track exceptions...
 
 vendor: JetBrains s.r.o.
-downloads: 10
+downloads: 14
 pricingModel: FREE
 xmlId: com.jetbrains.otp.diagnostic</description>
       <pubDate>Fri, 27 Feb 2026 17:39:07 GMT</pubDate>
@@ -45,17 +136,17 @@ xmlId: com.samurai.testrunner</description>
       <dc:date>2026-02-27T14:33:13Z</dc:date>
     </item>
     <item>
-      <title>BOJ Helper - Fri Feb 27 17:00:44 UTC 2026</title>
+      <title>BOJ Helper - Sun Mar 01 13:23:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30394-boj-helper</link>
       <description>BOJ HelperView and test Baekjoon Online Judge problems directly in your JetBrains IDE.백준 온라인 저지 문제를 JetBrains IDE에서 바로 보고 테스트하세요. 주요 기능문제 자동 불러오기파일명에서 문제 번호를 자동 인식합니다...
 
 vendor: Ikjun Oh
-downloads: 13
+downloads: 28
 pricingModel: FREE
 xmlId: app.meot.boj-helper</description>
-      <pubDate>Fri, 27 Feb 2026 17:00:44 GMT</pubDate>
+      <pubDate>Sun, 01 Mar 2026 13:23:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30394-boj-helper</guid>
-      <dc:date>2026-02-27T17:00:44Z</dc:date>
+      <dc:date>2026-03-01T13:23:05Z</dc:date>
     </item>
     <item>
       <title>Blockchain Tools - Sat Feb 28 12:14:01 UTC 2026</title>
@@ -63,7 +154,7 @@ xmlId: app.meot.boj-helper</description>
       <description>Blockchain Tools is an IntelliJ Platform plugin that helps developers working with blockchain applications by providing quick generation and validation of...
 
 vendor: ekinof
-downloads: 40
+downloads: 55
 pricingModel: FREE
 xmlId: com.github.ekinof.blockchaintools</description>
       <pubDate>Sat, 28 Feb 2026 12:14:01 GMT</pubDate>
@@ -76,7 +167,7 @@ xmlId: com.github.ekinof.blockchaintools</description>
       <description>Experimental IntelliJ IDEA Plugin to provide inline autocompletion for the Elasticsearch Java Client with examples from the documentation.
 
 vendor: Elastic
-downloads: 22
+downloads: 29
 pricingModel: FREE
 xmlId: co.elastic.docs-java-client</description>
       <pubDate>Fri, 27 Feb 2026 17:50:37 GMT</pubDate>
@@ -89,7 +180,7 @@ xmlId: co.elastic.docs-java-client</description>
       <description>SonarQube Jira Issuer — Generate Jira-ready ticket content from SonarQube issues. Connect to your SonarQube server, load issues by type and status, then export batched...
 
 vendor: IZEM TECHNOLOGIES
-downloads: 8
+downloads: 12
 pricingModel: FREE
 xmlId: com.sonarjiraissuer.plugin</description>
       <pubDate>Fri, 27 Feb 2026 15:09:00 GMT</pubDate>
@@ -102,7 +193,7 @@ xmlId: com.sonarjiraissuer.plugin</description>
       <description>Native API Client and Mocking Server for JetBrains IDEs. Fully replaces external API clients directly within your IDE. Supports OpenAPI 3.0/3.1, Swagger 2.0, and...
 
 vendor: Jakub Jirák
-downloads: 55
+downloads: 57
 pricingModel: FREEMIUM
 xmlId: com.apifirst.mocking.studio</description>
       <pubDate>Fri, 27 Feb 2026 17:55:07 GMT</pubDate>
@@ -115,7 +206,7 @@ xmlId: com.apifirst.mocking.studio</description>
       <description>A set of experimental, proactive AI-powered features designed to help you with your everyday development tasks by surfacing the right context at the right time. What's...
 
 vendor: JetBrains s.r.o.
-downloads: 218
+downloads: 242
 pricingModel: FREE
 xmlId: com.intellij.ml.llm.experimental</description>
       <pubDate>Fri, 27 Feb 2026 16:28:19 GMT</pubDate>
@@ -123,17 +214,17 @@ xmlId: com.intellij.ml.llm.experimental</description>
       <dc:date>2026-02-27T16:28:19Z</dc:date>
     </item>
     <item>
-      <title>Auto-Tips - Fri Feb 27 06:35:52 UTC 2026</title>
+      <title>Auto-Tips - Sat Feb 28 05:05:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29918-auto-tips</link>
       <description>Auto-Tips is an intelligent, non-intrusive code hint plugin. When developers call APIs or methods marked with @tips annotations, the plugin automatically displays...
 
 vendor: Myj
-downloads: 9
+downloads: 11
 pricingModel: FREE
 xmlId: cn.myjdemo.auto-tips</description>
-      <pubDate>Fri, 27 Feb 2026 06:35:52 GMT</pubDate>
+      <pubDate>Sat, 28 Feb 2026 05:05:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29918-auto-tips</guid>
-      <dc:date>2026-02-27T06:35:52Z</dc:date>
+      <dc:date>2026-02-28T05:05:31Z</dc:date>
     </item>
     <item>
       <title>Ide-Window-Capture - Fri Feb 27 06:25:01 UTC 2026</title>
@@ -141,7 +232,7 @@ xmlId: cn.myjdemo.auto-tips</description>
       <description>A plugin to capture a screenshot of a specified Tool Window and save it to the project root.
 
 vendor: Ethan
-downloads: 5
+downloads: 6
 pricingModel: FREE
 xmlId: y.e.ide-window-capture</description>
       <pubDate>Fri, 27 Feb 2026 06:25:01 GMT</pubDate>
@@ -154,7 +245,7 @@ xmlId: y.e.ide-window-capture</description>
       <description>Plugin Description A very simple and straightforward IntelliJ IDEA plugin that allows to view the size of a selected file. You can: • Right-click any file in the...
 
 vendor: Daniel Marandici
-downloads: 13
+downloads: 14
 pricingModel: FREE
 xmlId: com.github.danielcode2020.viewfilesize</description>
       <pubDate>Fri, 27 Feb 2026 09:19:18 GMT</pubDate>
@@ -167,103 +258,12 @@ xmlId: com.github.danielcode2020.viewfilesize</description>
       <description>An intelligent Java code analysis agent that learns from your workflow — adapting its findings, severity rankings, and fix priorities to your codebase over time...
 
 vendor: Netbrain Intergrated Solutions
-downloads: 17
+downloads: 19
 pricingModel: FREEMIUM
 xmlId: com.coderef.plugin</description>
       <pubDate>Sun, 22 Feb 2026 16:17:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30317-coderef--smart-java-analyzer-with-ml-engine</guid>
       <dc:date>2026-02-22T16:17:03Z</dc:date>
-    </item>
-    <item>
-      <title>Coding Switch - Mon Mar 02 01:29:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30383-coding-switch</link>
-      <description>Coding Switch - AI Coding Assistant Config Manager Manage and switch configurations for Claude Code, Codex, Gemini CLI, and OpenCode. Features Provider Management...
-
-vendor: Coding Switch
-downloads: 132
-pricingModel: FREE
-xmlId: com.github.mostbean.codingswitch</description>
-      <pubDate>Mon, 02 Mar 2026 01:29:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30383-coding-switch</guid>
-      <dc:date>2026-03-02T01:29:26Z</dc:date>
-    </item>
-    <item>
-      <title>bonsai - Thu Feb 26 22:06:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30381-bonsai</link>
-      <description>This toolwindow plugin provides a visual representation of your project structure on an interactive canvas with zoom and pan capabilities. Configurable filters and...
-
-vendor: loremigliore
-downloads: 37
-pricingModel: FREE
-xmlId: com.loremigliore.bonsai</description>
-      <pubDate>Thu, 26 Feb 2026 22:06:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30381-bonsai</guid>
-      <dc:date>2026-02-26T22:06:04Z</dc:date>
-    </item>
-    <item>
-      <title>Clear App Storage Before Deploy - Thu Feb 26 21:44:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30379-clear-app-storage-before-deploy</link>
-      <description>Clear App Storage Before Deploy Adds a convenient toggle button to the main toolbar that controls Android Studio's built-in "Clear app storage before deployment...
-
-vendor: Pavel Indziukou
-downloads: 5
-pricingModel: FREE
-xmlId: com.clearstorage.clear-storage-plugin</description>
-      <pubDate>Thu, 26 Feb 2026 21:44:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30379-clear-app-storage-before-deploy</guid>
-      <dc:date>2026-02-26T21:44:40Z</dc:date>
-    </item>
-    <item>
-      <title>ElasticSearcher - Mon Feb 23 08:42:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30326-elasticsearcher</link>
-      <description>Overview ElasticSearcher brings Elasticsearch workflows directly into JetBrains IDEs so you can inspect indices, run queries, and debug responses without leaving the...
-
-vendor: goldentapstudio
-downloads: 11
-pricingModel: FREE
-xmlId: com.zhaksyaslan.elasticsearcher</description>
-      <pubDate>Mon, 23 Feb 2026 08:42:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30326-elasticsearcher</guid>
-      <dc:date>2026-02-23T08:42:53Z</dc:date>
-    </item>
-    <item>
-      <title>AI Review - Thu Feb 26 20:42:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30378-ai-review</link>
-      <description>AI-Powered Code Review for JetBrains IDEs Get GitHub PR-style code reviews directly inside your IDE, powered by Claude Code CLI. AI Review collects your git diffs...
-
-vendor: SmartToolboxOrg
-downloads: 4
-pricingModel: FREE
-xmlId: com.aireview.plugin</description>
-      <pubDate>Thu, 26 Feb 2026 20:42:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30378-ai-review</guid>
-      <dc:date>2026-02-26T20:42:22Z</dc:date>
-    </item>
-    <item>
-      <title>Workspace MCP - Fri Feb 27 08:41:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30368-workspace-mcp</link>
-      <description>MCP toolset for IntelliJ workspace operations, including VFS, Document, and Symbol Navigation integrations. VFS tools...
-
-vendor: ghostflyby
-downloads: 19
-pricingModel: FREE
-xmlId: dev.ghostflyby.mcp.workspace</description>
-      <pubDate>Fri, 27 Feb 2026 08:41:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30368-workspace-mcp</guid>
-      <dc:date>2026-02-27T08:41:33Z</dc:date>
-    </item>
-    <item>
-      <title>YAML Docs Parser - Fri Feb 27 12:10:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30342-yaml-docs-parser</link>
-      <description>Parse and visualize documentation from YAML files. Provides a tool window for working with YAML API documentation.
-
-vendor: ChikleevBogdan
-downloads: 32
-pricingModel: FREE
-xmlId: com.apiHelper.yaml-docs</description>
-      <pubDate>Fri, 27 Feb 2026 12:10:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30342-yaml-docs-parser</guid>
-      <dc:date>2026-02-27T12:10:19Z</dc:date>
     </item>
   </channel>
 </rss>
