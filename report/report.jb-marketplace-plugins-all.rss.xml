@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>agents-skills-finder - Sun Mar 01 20:40:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30382-agents-skills-finder</link>
+      <description>Agents Skills Finder is an IntelliJ plugin that discovers and indexes skills from the .agents/skills directory in your project. Search skills by name or description...
+
+vendor: Alejandro Urrestarazu
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.urrestarazualejandro.agentsskillsfinder</description>
+      <pubDate>Sun, 01 Mar 2026 20:40:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30382-agents-skills-finder</guid>
+      <dc:date>2026-03-01T20:40:27Z</dc:date>
+    </item>
+    <item>
+      <title>JPQL2SQL - Mon Mar 02 09:23:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30434-jpql2sql</link>
+      <description>JPQL2SQL converts JPQL queries from @Query annotations into native SQL — directly in your IDE. Right-click any @Query annotation and instantly copy the equivalent...
+
+vendor: Jan de Graaf
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.jtdegraaf.jpql2sql</description>
+      <pubDate>Mon, 02 Mar 2026 09:23:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30434-jpql2sql</guid>
+      <dc:date>2026-03-02T09:23:34Z</dc:date>
+    </item>
+    <item>
+      <title>MermaidVisualizer - Sun Mar 01 19:07:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30432-mermaidvisualizer</link>
+      <description>Renders Mermaid diagrams in the Markdown preview using the official Mermaid.js library (v11.12.x). Supports all 22+ diagram types: flowchart, sequence, class, ER...
+
+vendor: AlexTDev
+downloads: 0
+pricingModel: FREE
+xmlId: com.alextdev.MermaidVisualizer</description>
+      <pubDate>Sun, 01 Mar 2026 19:07:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30432-mermaidvisualizer</guid>
+      <dc:date>2026-03-01T19:07:01Z</dc:date>
+    </item>
+    <item>
+      <title>Git Worktree Hub - Sun Mar 01 18:44:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30431-git-worktree-hub</link>
+      <description>Manage Git worktrees from within JetBrains IDEs. List, add, remove, and open Git worktrees directly from the IDE without leaving your workflow. Features include: View...
+
+vendor: Bipin Paul
+downloads: 0
+pricingModel: FREE
+xmlId: com.iambipinpaul.gitworktreemanager</description>
+      <pubDate>Sun, 01 Mar 2026 18:44:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30431-git-worktree-hub</guid>
+      <dc:date>2026-03-01T18:44:51Z</dc:date>
+    </item>
+    <item>
+      <title>Apk/Aab Installer - Mon Mar 02 03:34:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30384-apk-aab-installer</link>
+      <description>APK/AAB Multi-Device Installer Streamline your Android deployment process by installing packages to one or multiple devices simultaneously. Key Features: Multi-Device...
+
+vendor: KIP2
+downloads: 1
+pricingModel: FREE
+xmlId: com.kip2.apkinstaller</description>
+      <pubDate>Mon, 02 Mar 2026 03:34:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30384-apk-aab-installer</guid>
+      <dc:date>2026-03-02T03:34:42Z</dc:date>
+    </item>
+    <item>
+      <title>Prettier Java - Sun Mar 01 23:59:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30437-prettier-java</link>
+      <description>Format Java files using Prettier with prettier-plugin-java. Zero-latency: Uses an embedded V8 engine (Javet). No external Node.js required. Ctrl+Alt+L: Replaces or...
+
+vendor: Carlos Solórzano
+downloads: 0
+pricingModel: FREE
+xmlId: com.prettierjavaplugin</description>
+      <pubDate>Sun, 01 Mar 2026 23:59:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30437-prettier-java</guid>
+      <dc:date>2026-03-01T23:59:22Z</dc:date>
+    </item>
+    <item>
+      <title>IDE Agent for Copilot - Sun Mar 01 22:43:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30415-ide-agent-for-copilot</link>
+      <description>Copilot Bridge transforms GitHub Copilot from a chat assistant into a true coding agent inside your JetBrains IDE. Instead of suggesting code in isolation, the agent...
+
+vendor: Henrik Westergård
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.catatafishen.ideagentforcopilot</description>
+      <pubDate>Sun, 01 Mar 2026 22:43:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30415-ide-agent-for-copilot</guid>
+      <dc:date>2026-03-01T22:43:58Z</dc:date>
+    </item>
+    <item>
       <title>BOJ Assistant - Sun Mar 01 05:34:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30420-boj-assistant</link>
       <description>BOJ Assistant is a plugin that automates solving Baekjoon Online Judge (BOJ) problems directly within IntelliJ IDEA and PyCharm. 백준 문제 생성, 테스트, 제출을 IDE 내부에서 한 번에 처리할 수...
@@ -173,97 +264,6 @@ xmlId: co.elastic.docs-java-client</description>
       <pubDate>Fri, 27 Feb 2026 17:50:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30396-elasticsearch-java-client-examples-autocomplete</guid>
       <dc:date>2026-02-27T17:50:37Z</dc:date>
-    </item>
-    <item>
-      <title>SonarQube Jira Issuer - Fri Feb 27 15:09:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer</link>
-      <description>SonarQube Jira Issuer — Generate Jira-ready ticket content from SonarQube issues. Connect to your SonarQube server, load issues by type and status, then export batched...
-
-vendor: IZEM TECHNOLOGIES
-downloads: 12
-pricingModel: FREE
-xmlId: com.sonarjiraissuer.plugin</description>
-      <pubDate>Fri, 27 Feb 2026 15:09:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30389-sonarqube-jira-issuer</guid>
-      <dc:date>2026-02-27T15:09:00Z</dc:date>
-    </item>
-    <item>
-      <title>API First &amp; Mocking Studio - Fri Feb 27 17:55:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30376-api-first--mocking-studio</link>
-      <description>Native API Client and Mocking Server for JetBrains IDEs. Fully replaces external API clients directly within your IDE. Supports OpenAPI 3.0/3.1, Swagger 2.0, and...
-
-vendor: Jakub Jirák
-downloads: 57
-pricingModel: FREEMIUM
-xmlId: com.apifirst.mocking.studio</description>
-      <pubDate>Fri, 27 Feb 2026 17:55:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30376-api-first--mocking-studio</guid>
-      <dc:date>2026-02-27T17:55:07Z</dc:date>
-    </item>
-    <item>
-      <title>JetBrains AI Assistant Experimental Features - Fri Feb 27 16:28:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30055-jetbrains-ai-assistant-experimental-features</link>
-      <description>A set of experimental, proactive AI-powered features designed to help you with your everyday development tasks by surfacing the right context at the right time. What's...
-
-vendor: JetBrains s.r.o.
-downloads: 242
-pricingModel: FREE
-xmlId: com.intellij.ml.llm.experimental</description>
-      <pubDate>Fri, 27 Feb 2026 16:28:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30055-jetbrains-ai-assistant-experimental-features</guid>
-      <dc:date>2026-02-27T16:28:19Z</dc:date>
-    </item>
-    <item>
-      <title>Auto-Tips - Sat Feb 28 05:05:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29918-auto-tips</link>
-      <description>Auto-Tips is an intelligent, non-intrusive code hint plugin. When developers call APIs or methods marked with @tips annotations, the plugin automatically displays...
-
-vendor: Myj
-downloads: 11
-pricingModel: FREE
-xmlId: cn.myjdemo.auto-tips</description>
-      <pubDate>Sat, 28 Feb 2026 05:05:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29918-auto-tips</guid>
-      <dc:date>2026-02-28T05:05:31Z</dc:date>
-    </item>
-    <item>
-      <title>Ide-Window-Capture - Fri Feb 27 06:25:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30386-ide-window-capture</link>
-      <description>A plugin to capture a screenshot of a specified Tool Window and save it to the project root.
-
-vendor: Ethan
-downloads: 6
-pricingModel: FREE
-xmlId: y.e.ide-window-capture</description>
-      <pubDate>Fri, 27 Feb 2026 06:25:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30386-ide-window-capture</guid>
-      <dc:date>2026-02-27T06:25:01Z</dc:date>
-    </item>
-    <item>
-      <title>view-file-size - Fri Feb 27 09:19:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30318-view-file-size</link>
-      <description>Plugin Description A very simple and straightforward IntelliJ IDEA plugin that allows to view the size of a selected file. You can: • Right-click any file in the...
-
-vendor: Daniel Marandici
-downloads: 14
-pricingModel: FREE
-xmlId: com.github.danielcode2020.viewfilesize</description>
-      <pubDate>Fri, 27 Feb 2026 09:19:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30318-view-file-size</guid>
-      <dc:date>2026-02-27T09:19:18Z</dc:date>
-    </item>
-    <item>
-      <title>CodeRef - Smart Java Analyzer with ML Engine - Sun Feb 22 16:17:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30317-coderef--smart-java-analyzer-with-ml-engine</link>
-      <description>An intelligent Java code analysis agent that learns from your workflow — adapting its findings, severity rankings, and fix priorities to your codebase over time...
-
-vendor: Netbrain Intergrated Solutions
-downloads: 19
-pricingModel: FREEMIUM
-xmlId: com.coderef.plugin</description>
-      <pubDate>Sun, 22 Feb 2026 16:17:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30317-coderef--smart-java-analyzer-with-ml-engine</guid>
-      <dc:date>2026-02-22T16:17:03Z</dc:date>
     </item>
   </channel>
 </rss>
