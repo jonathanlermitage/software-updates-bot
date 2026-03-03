@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Kotlin Android S.O.L.I.D Arch - Tue Mar 03 04:17:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30455-kotlin-android-s-o-l-i-d-arch</link>
+      <description>Example of Android Kotlin Clean Architecture We generate minimum setup of ViewModel, UseCase, and Repository automatically with additional support for Retrofit and...
+
+vendor: Mikkel Septiano
+downloads: 0
+pricingModel: FREE
+xmlId: com.android.kotlin.architecture</description>
+      <pubDate>Tue, 03 Mar 2026 04:17:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30455-kotlin-android-s-o-l-i-d-arch</guid>
+      <dc:date>2026-03-03T04:17:19Z</dc:date>
+    </item>
+    <item>
+      <title>Run In Terminal (macOS) - Tue Mar 03 06:32:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30458-run-in-terminal-macos-</link>
+      <description>Reuse the active macOS Terminal window to execute selected shell script lines directly from the editor, preserving the same working directory, environment variables...
+
+vendor: Nick
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.nickcentral.runinterminal</description>
+      <pubDate>Tue, 03 Mar 2026 06:32:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30458-run-in-terminal-macos-</guid>
+      <dc:date>2026-03-03T06:32:51Z</dc:date>
+    </item>
+    <item>
+      <title>Flutter Asset Viewer Pro - Sat Feb 28 11:34:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30405-flutter-asset-viewer-pro</link>
+      <description>Flutter &amp;amp; Dart asset manager for Android Studio and IntelliJ IDEA. Browse, preview, and insert image paths directly into your Flutter code. Supports PNG, JPG, SVG...
+
+vendor: om-chauhan
+downloads: 1
+pricingModel: FREE
+xmlId: com.omchauhan.flutterassetviewer</description>
+      <pubDate>Sat, 28 Feb 2026 11:34:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30405-flutter-asset-viewer-pro</guid>
+      <dc:date>2026-02-28T11:34:46Z</dc:date>
+    </item>
+    <item>
       <title>Zero-Trust Enterprise Secret Guardian - Sat Feb 28 15:40:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30409-zero-trust-enterprise-secret-guardian</link>
       <description>Zero-Trust Enterprise Secret Guardian Eliminate security risks associated with leaked sensitive data (API keys, database access, cloud certificates) during local...
@@ -114,7 +153,7 @@ xmlId: io.github.artemzuev.project-organizer</description>
       <link>https://plugins.jetbrains.com/plugin/30439-file-closer</link>
       <description>File Closer is a JetBrains IDE plugin that lets you bulk-close open editor tabs grouped by file extension. When dozens of tabs pile up, closing them one by one is...
 
-vendor: ichizoku
+vendor: Ichizoku, Inc.
 downloads: 2
 pricingModel: FREE
 xmlId: com.github.maruryota.filecloserplugin</description>
@@ -225,45 +264,6 @@ xmlId: com.github.urrestarazualejandro.agentsskillsfinder</description>
       <pubDate>Sun, 01 Mar 2026 20:40:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30382-agents-skills-finder</guid>
       <dc:date>2026-03-01T20:40:27Z</dc:date>
-    </item>
-    <item>
-      <title>JPQL2SQL - Mon Mar 02 23:09:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30434-jpql2sql</link>
-      <description>JPQL2SQL converts JPQL queries from @Query annotations into native SQL — directly in your IDE. Right-click any @Query annotation and instantly copy the equivalent...
-
-vendor: Jan de Graaf
-downloads: 43
-pricingModel: FREE
-xmlId: com.github.jtdegraaf.jpql2sql</description>
-      <pubDate>Mon, 02 Mar 2026 23:09:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30434-jpql2sql</guid>
-      <dc:date>2026-03-02T23:09:42Z</dc:date>
-    </item>
-    <item>
-      <title>MermaidVisualizer - Sun Mar 01 19:07:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30432-mermaidvisualizer</link>
-      <description>Renders Mermaid diagrams in the Markdown preview using the official Mermaid.js library (v11.12.x). Supports all 22+ diagram types: flowchart, sequence, class, ER...
-
-vendor: AlexTDev
-downloads: 19
-pricingModel: FREE
-xmlId: com.alextdev.MermaidVisualizer</description>
-      <pubDate>Sun, 01 Mar 2026 19:07:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30432-mermaidvisualizer</guid>
-      <dc:date>2026-03-01T19:07:01Z</dc:date>
-    </item>
-    <item>
-      <title>Git Worktree Hub - Sun Mar 01 18:44:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30431-git-worktree-hub</link>
-      <description>Manage Git worktrees from within JetBrains IDEs. List, add, remove, and open Git worktrees directly from the IDE without leaving your workflow. Features include: View...
-
-vendor: Bipin Paul
-downloads: 8
-pricingModel: FREE
-xmlId: com.iambipinpaul.gitworktreemanager</description>
-      <pubDate>Sun, 01 Mar 2026 18:44:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30431-git-worktree-hub</guid>
-      <dc:date>2026-03-01T18:44:51Z</dc:date>
     </item>
   </channel>
 </rss>
