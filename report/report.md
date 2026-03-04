@@ -22,7 +22,7 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.21849.20) ~ 2026-02-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Feb 25 15:08:21 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.3 (253.31033.145) ~ 2026-02-20|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Sat Feb 21 00:08:06 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.4.5 to 19.5.0 ~ 2026-02-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Feb 17 00:08:24 UTC 2026|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.5.0 to 19.5.5 ~ 2026-03-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Mar 04 00:08:03 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 337 - Datacenters Carrier Class dans l'espace|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Feb 16 12:07:19 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.8.0|[nodejs.org](https://nodejs.org)|Tue Mar 03 16:11:50 UTC 2026|
