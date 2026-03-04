@@ -32,7 +32,7 @@ xmlId: com.ilscipio.gutenberghelper</description>
       <dc:date>2026-03-03T16:49:45Z</dc:date>
     </item>
     <item>
-      <title>Stormies - Pixel Agents - Tue Mar 03 16:17:43 UTC 2026</title>
+      <title>Stormies - Pixel Agents - Wed Mar 04 03:37:55 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30474-stormies--pixel-agents</link>
       <description>Pixel art office where your Claude Code agents come to life as animated characters. Watch your AI coding assistants work in a charming virtual office environment.
 
@@ -40,22 +40,9 @@ vendor: EzPlugins
 downloads: 0
 pricingModel: FREE
 xmlId: com.pixelagents.jetbrains</description>
-      <pubDate>Tue, 03 Mar 2026 16:17:43 GMT</pubDate>
+      <pubDate>Wed, 04 Mar 2026 03:37:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30474-stormies--pixel-agents</guid>
-      <dc:date>2026-03-03T16:17:43Z</dc:date>
-    </item>
-    <item>
-      <title>SVN Merge Helper - Tue Mar 03 11:04:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30466-svn-merge-helper</link>
-      <description>SVN Merge Helper A plugin for SVN merge operations Features: Quick search and browse commit history across branches View changed files with diff support Batch merge...
-
-vendor: ligohan
-downloads: 0
-pricingModel: FREE
-xmlId: com.svnmerge.helper</description>
-      <pubDate>Tue, 03 Mar 2026 11:04:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30466-svn-merge-helper</guid>
-      <dc:date>2026-03-03T11:04:38Z</dc:date>
+      <dc:date>2026-03-04T03:37:55Z</dc:date>
     </item>
     <item>
       <title>ApproveJ - Tue Mar 03 13:19:34 UTC 2026</title>
@@ -123,21 +110,8 @@ xmlId: com.agentport.jetbrains-acp</description>
       <dc:date>2026-03-03T15:35:01Z</dc:date>
     </item>
     <item>
-      <title>OpenOpencode - Tue Mar 03 09:09:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30463-openopencode</link>
-      <description>OpenOpencode Right-click on a project folder in the Project View to open it with OpenCode or ClaudeCode in the terminal.
-
-vendor: OpenOpencode
-downloads: 0
-pricingModel: FREE
-xmlId: com.terminalai.plugin</description>
-      <pubDate>Tue, 03 Mar 2026 09:09:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30463-openopencode</guid>
-      <dc:date>2026-03-03T09:09:51Z</dc:date>
-    </item>
-    <item>
-      <title>kimijb - Tue Mar 03 10:30:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30461-kimijb</link>
+      <title>Kimi JB - Tue Mar 03 10:30:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30461-kimi-jb</link>
       <description>Run kimi-cli directly inside GoLand with an embedded interactive terminal. Provides a dedicated Kimi tool window for daily coding workflows. Supports Option+K (macOS...
 
 vendor: errpunk
@@ -145,7 +119,7 @@ downloads: 0
 pricingModel: FREE
 xmlId: com.github.kimijb</description>
       <pubDate>Tue, 03 Mar 2026 10:30:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30461-kimijb</guid>
+      <guid>https://plugins.jetbrains.com/plugin/30461-kimi-jb</guid>
       <dc:date>2026-03-03T10:30:04Z</dc:date>
     </item>
     <item>
@@ -264,6 +238,32 @@ xmlId: com.jumpout.plugin</description>
       <pubDate>Mon, 02 Mar 2026 09:31:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30442-jumpout</guid>
       <dc:date>2026-03-02T09:31:37Z</dc:date>
+    </item>
+    <item>
+      <title>Checkmarx Developer Assist - Mon Mar 02 09:18:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30440-checkmarx-developer-assist</link>
+      <description>Checkmarx Developer Assist delivers context-aware security guidance directly within your IDE, helping prevent vulnerabilities before they reach the pipeline. As...
+
+vendor: Checkmarx
+downloads: 5
+pricingModel: FREE
+xmlId: com.checkmarx.devassist-jetbrains-plugin</description>
+      <pubDate>Mon, 02 Mar 2026 09:18:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30440-checkmarx-developer-assist</guid>
+      <dc:date>2026-03-02T09:18:31Z</dc:date>
+    </item>
+    <item>
+      <title>Agent GUI - Tue Mar 03 09:01:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30428-agent-gui</link>
+      <description>Agent GUI — A unified GUI for AI coding agents inside your IDE Agent GUI provides a native chat interface for AI coding agents directly within your JetBrains IDE...
+
+vendor: matsumo0922
+downloads: 1
+pricingModel: FREE
+xmlId: me.matsumo.agent-gui-plugin</description>
+      <pubDate>Tue, 03 Mar 2026 09:01:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30428-agent-gui</guid>
+      <dc:date>2026-03-03T09:01:25Z</dc:date>
     </item>
   </channel>
 </rss>
