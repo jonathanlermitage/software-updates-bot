@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>HideUnlockUltimate - Wed Mar 04 15:37:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30494-hideunlockultimate</link>
+      <description>Hide the Unlock Ultimate button to free up UI space and improve layout clarity in IntelliJ IDEA Community Edition. This plugin only affects the visibility of the...
+
+vendor: Luke
+downloads: 0
+pricingModel: FREE
+xmlId: com.luke.hideultimate.HideUnlockUltimate</description>
+      <pubDate>Wed, 04 Mar 2026 15:37:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30494-hideunlockultimate</guid>
+      <dc:date>2026-03-04T15:37:51Z</dc:date>
+    </item>
+    <item>
+      <title>Project Opener Makoto - Wed Mar 04 12:57:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30400-project-opener-makoto</link>
+      <description>Quickly open projects by name. Configure root directories to scan for projects (Gradle, Maven, etc.) and use Ctrl+Alt+Shift+O (Mac: ⌃⌥⇧O) to search and open any...
+
+vendor: Makotons
+downloads: 2
+pricingModel: FREE
+xmlId: com.makoto.project-opener-makoto</description>
+      <pubDate>Wed, 04 Mar 2026 12:57:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30400-project-opener-makoto</guid>
+      <dc:date>2026-03-04T12:57:52Z</dc:date>
+    </item>
+    <item>
+      <title>vibe-task - Wed Mar 04 11:57:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30484-vibe-task</link>
+      <description>A lightweight task/memo plugin for "vibe coding": Quickly record inspirations within the IDE, categorize and view them by project/module, and support JSON/Markdown...
+
+vendor: zjarlin
+downloads: 0
+pricingModel: FREE
+xmlId: site.addzero.vibetask</description>
+      <pubDate>Wed, 04 Mar 2026 11:57:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30484-vibe-task</guid>
+      <dc:date>2026-03-04T11:57:25Z</dc:date>
+    </item>
+    <item>
       <title>SuperVisor - Wed Mar 04 03:49:26 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30459-supervisor</link>
       <description>Overview SuperVisor brings Supervisor process management directly into JetBrains IDEs so you can monitor workers, run actions, and inspect logs without leaving your...
@@ -149,7 +188,7 @@ xmlId: com.pixelagents.jetbrains</description>
       <dc:date>2026-03-04T06:22:43Z</dc:date>
     </item>
     <item>
-      <title>ApproveJ - Tue Mar 03 13:19:34 UTC 2026</title>
+      <title>ApproveJ - Wed Mar 04 18:19:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30468-approvej</link>
       <description>Approval testing support for ApproveJ: diff viewer and one-click approval of .received files.
 
@@ -157,9 +196,9 @@ vendor: ApproveJ
 downloads: 1
 pricingModel: FREE
 xmlId: org.approvej</description>
-      <pubDate>Tue, 03 Mar 2026 13:19:34 GMT</pubDate>
+      <pubDate>Wed, 04 Mar 2026 18:19:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30468-approvej</guid>
-      <dc:date>2026-03-03T13:19:34Z</dc:date>
+      <dc:date>2026-03-04T18:19:02Z</dc:date>
     </item>
     <item>
       <title>Commit-Craft - Tue Mar 03 09:41:05 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: com.github.kimijb</description>
       <pubDate>Wed, 04 Mar 2026 02:20:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30461-kimi-jb</guid>
       <dc:date>2026-03-04T02:20:35Z</dc:date>
-    </item>
-    <item>
-      <title>zMyBatis - Dynamic SQL Runner with Parameters - Mon Mar 02 19:44:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30447-zmybatis--dynamic-sql-runner-with-parameters</link>
-      <description>zMyBatis is a JetBrains IDE plugin that lets you execute MyBatis mapper queries directly from XML mapper files or Java/Kotlin annotation-based mappers — without...
-
-vendor: algorist
-downloads: 1
-pricingModel: FREE
-xmlId: com.algorist.zMyBatis</description>
-      <pubDate>Mon, 02 Mar 2026 19:44:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30447-zmybatis--dynamic-sql-runner-with-parameters</guid>
-      <dc:date>2026-03-02T19:44:46Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Batch Runner - Tue Mar 03 14:46:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30410-spring-batch-runner</link>
-      <description>Run Spring Batch jobs with a single click. This plugin adds ▶ Run icons to your batch job configuration classes—no more manually typing --spring.batch.job.names...
-
-vendor: mayleaf
-downloads: 38
-pricingModel: FREE
-xmlId: com.github.mayleaf.springbatchrunner</description>
-      <pubDate>Tue, 03 Mar 2026 14:46:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30410-spring-batch-runner</guid>
-      <dc:date>2026-03-03T14:46:42Z</dc:date>
-    </item>
-    <item>
-      <title>Kotlin Android S.O.L.I.D Arch - Tue Mar 03 04:17:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30455-kotlin-android-s-o-l-i-d-arch</link>
-      <description>Example of Android Kotlin Clean Architecture We generate minimum setup of ViewModel, UseCase, and Repository automatically with additional support for Retrofit and...
-
-vendor: Mikkel Septiano
-downloads: 3
-pricingModel: FREE
-xmlId: com.android.kotlin.architecture</description>
-      <pubDate>Tue, 03 Mar 2026 04:17:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30455-kotlin-android-s-o-l-i-d-arch</guid>
-      <dc:date>2026-03-03T04:17:19Z</dc:date>
     </item>
   </channel>
 </rss>
