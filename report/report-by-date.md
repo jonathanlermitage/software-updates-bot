@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.22158.46) ~ 2026-03-05|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Mar 05 20:08:54 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.4.0|[gradle.org](https://gradle.org/releases)|Wed Mar 04 16:09:04 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.5.0 to 19.5.5 ~ 2026-03-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Mar 04 00:08:03 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.8.0|[nodejs.org](https://nodejs.org)|Tue Mar 03 16:11:50 UTC 2026|
@@ -8,7 +9,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.21849.20) ~ 2026-02-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Feb 25 15:08:21 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.14.0|[nodejs.org](https://nodejs.org)|Tue Feb 24 16:18:30 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.3 (253.31033.145) ~ 2026-02-20|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Sat Feb 21 00:08:06 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.3.RELEASE|[start.spring.io](https://start.spring.io)|Thu Feb 19 16:14:44 UTC 2026|
