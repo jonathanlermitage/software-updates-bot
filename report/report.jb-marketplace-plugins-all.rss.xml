@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>KeepGoing - Tue Mar 03 03:44:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30449-keepgoing</link>
+      <description>Return to unfinished projects without the mental friction. KeepGoing captures development session checkpoints and shows a re-entry briefing when you return to a...
+
+vendor: KeepGoing.dev
+downloads: 1
+pricingModel: FREE
+xmlId: com.keepgoing.plugin</description>
+      <pubDate>Tue, 03 Mar 2026 03:44:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30449-keepgoing</guid>
+      <dc:date>2026-03-03T03:44:21Z</dc:date>
+    </item>
+    <item>
+      <title>Refio - Wed Mar 04 11:36:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30487-refio</link>
+      <description>Refio - Local-First AI Coding Assistant The only AI coding assistant that combines native IntelliJ integration with 100% local data control and 50-70% lower API costs...
+
+vendor: jclab
+downloads: 0
+pricingModel: FREE
+xmlId: pl.jclab.refio</description>
+      <pubDate>Wed, 04 Mar 2026 11:36:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30487-refio</guid>
+      <dc:date>2026-03-04T11:36:26Z</dc:date>
+    </item>
+    <item>
+      <title>uni-app x Language Service - Wed Mar 04 09:34:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30438-uni-app-x-language-service</link>
+      <description>uni-app x Language Service Plugin for WebStorm/IntelliJ IDEA. Provides language support for uni-app x development: File type recognition for .uvue and .uts files...
+
+vendor: Lansyn
+downloads: 1
+pricingModel: FREE
+xmlId: com.lansyn.uniappx-language-service</description>
+      <pubDate>Wed, 04 Mar 2026 09:34:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30438-uni-app-x-language-service</guid>
+      <dc:date>2026-03-04T09:34:35Z</dc:date>
+    </item>
+    <item>
+      <title>Water Reminder - Wed Mar 04 15:01:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30493-water-reminder</link>
+      <description>Reminds you to drink water while coding! Features: &#x1f4a7; Water drop icon in the status bar Configurable reminder interval (1–480 minutes) Enable/disable with one click.
+
+vendor: f3dc4r
+downloads: 0
+pricingModel: FREE
+xmlId: com.f3dc4r.waterreminder</description>
+      <pubDate>Wed, 04 Mar 2026 15:01:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30493-water-reminder</guid>
+      <dc:date>2026-03-04T15:01:48Z</dc:date>
+    </item>
+    <item>
       <title>HideUnlockUltimate - Wed Mar 04 15:37:51 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30494-hideunlockultimate</link>
       <description>Hide the Unlock Ultimate button to free up UI space and improve layout clarity in IntelliJ IDEA Community Edition. This plugin only affects the visibility of the...
@@ -188,6 +240,19 @@ xmlId: com.pixelagents.jetbrains</description>
       <dc:date>2026-03-04T06:22:43Z</dc:date>
     </item>
     <item>
+      <title>SVN Merge Helper - Wed Mar 04 08:39:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30466-svn-merge-helper</link>
+      <description>SVN Merge Helper A plugin for SVN merge operations Features: Quick search and browse commit history across branches View changed files with diff support Batch merge...
+
+vendor: ligohan
+downloads: 1
+pricingModel: FREE
+xmlId: com.svnmerge.helper</description>
+      <pubDate>Wed, 04 Mar 2026 08:39:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30466-svn-merge-helper</guid>
+      <dc:date>2026-03-04T08:39:52Z</dc:date>
+    </item>
+    <item>
       <title>ApproveJ - Wed Mar 04 18:19:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30468-approvej</link>
       <description>Approval testing support for ApproveJ: diff viewer and one-click approval of .received files.
@@ -199,71 +264,6 @@ xmlId: org.approvej</description>
       <pubDate>Wed, 04 Mar 2026 18:19:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30468-approvej</guid>
       <dc:date>2026-03-04T18:19:02Z</dc:date>
-    </item>
-    <item>
-      <title>Commit-Craft - Tue Mar 03 09:41:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30464-commit-craft</link>
-      <description>Commit Craft is an IntelliJ plugin that automatically generates meaningful Git commit messages based on your staged changes. Features: AI-powered commit message...
-
-vendor: Misbah Sarfaraz
-downloads: 1
-pricingModel: FREE
-xmlId: com.okaymisba.commit-craft</description>
-      <pubDate>Tue, 03 Mar 2026 09:41:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30464-commit-craft</guid>
-      <dc:date>2026-03-03T09:41:05Z</dc:date>
-    </item>
-    <item>
-      <title>Agent Control - Tue Mar 03 13:31:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30469-agent-control</link>
-      <description>Monitor and manage terminal sessions from a Kanban-style board inside your IDE. Agent Control adds a tool window that displays all terminal sessions as cards organized...
-
-vendor: Roman Pronskiy
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.pronskiy.agentcontrol</description>
-      <pubDate>Tue, 03 Mar 2026 13:31:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30469-agent-control</guid>
-      <dc:date>2026-03-03T13:31:01Z</dc:date>
-    </item>
-    <item>
-      <title>Faaah Sound - Tue Mar 03 15:53:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30473-faaah-sound</link>
-      <description>Faaah Sound - Hear every crash! Plays a "Faaah!" sound as soon as a crash is detected in the Android Studio Logcat. Features Automatically detects Logcat crashes...
-
-vendor: Yahia
-downloads: 2
-pricingModel: FREE
-xmlId: com.faaah.sound.plugin</description>
-      <pubDate>Tue, 03 Mar 2026 15:53:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30473-faaah-sound</guid>
-      <dc:date>2026-03-03T15:53:58Z</dc:date>
-    </item>
-    <item>
-      <title>AgentPort - Tue Mar 03 15:35:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30472-agentport</link>
-      <description>Universal ACP client — connect any ACP agent to your JetBrains IDE.
-
-vendor: AgentPort
-downloads: 2
-pricingModel: FREE
-xmlId: com.agentport.jetbrains-acp</description>
-      <pubDate>Tue, 03 Mar 2026 15:35:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30472-agentport</guid>
-      <dc:date>2026-03-03T15:35:01Z</dc:date>
-    </item>
-    <item>
-      <title>Kimi JB - Wed Mar 04 02:20:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30461-kimi-jb</link>
-      <description>Run kimi-cli directly inside GoLand with an embedded interactive terminal. Provides a dedicated Kimi tool window for daily coding workflows. Supports Option+K (macOS...
-
-vendor: errpunk
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.kimijb</description>
-      <pubDate>Wed, 04 Mar 2026 02:20:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30461-kimi-jb</guid>
-      <dc:date>2026-03-04T02:20:35Z</dc:date>
     </item>
   </channel>
 </rss>
