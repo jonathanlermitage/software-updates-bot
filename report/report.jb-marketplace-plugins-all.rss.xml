@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Flexible ABAP - Wed Mar 04 10:33:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30488-flexible-abap</link>
+      <description>Professional SAP development: ABAP, CDS views, and RAP behavior definitions. Smart completion, 70+ templates, 25 postfix templates, hover docs. We built this plugin...
+
+vendor: Ilscipio GmbH
+downloads: 0
+pricingModel: PAID
+xmlId: com.ilscipio.language.abap</description>
+      <pubDate>Wed, 04 Mar 2026 10:33:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30488-flexible-abap</guid>
+      <dc:date>2026-03-04T10:33:40Z</dc:date>
+    </item>
+    <item>
       <title>KeepGoing - Tue Mar 03 03:44:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30449-keepgoing</link>
       <description>Return to unfinished projects without the mental friction. KeepGoing captures development session checkpoints and shows a re-entry briefing when you return to a...
 
 vendor: KeepGoing.dev
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.keepgoing.plugin</description>
       <pubDate>Tue, 03 Mar 2026 03:44:21 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: com.keepgoing.plugin</description>
       <description>Refio - Local-First AI Coding Assistant The only AI coding assistant that combines native IntelliJ integration with 100% local data control and 50-70% lower API costs...
 
 vendor: jclab
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: pl.jclab.refio</description>
       <pubDate>Wed, 04 Mar 2026 11:36:26 GMT</pubDate>
@@ -32,16 +45,16 @@ xmlId: pl.jclab.refio</description>
       <dc:date>2026-03-04T11:36:26Z</dc:date>
     </item>
     <item>
-      <title>uni-app x Language Service - Wed Mar 04 09:34:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30438-uni-app-x-language-service</link>
-      <description>uni-app x Language Service Plugin for WebStorm/IntelliJ IDEA. Provides language support for uni-app x development: File type recognition for .uvue and .uts files...
+      <title>Uniappx Language Service - Wed Mar 04 09:34:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30438-uniappx-language-service</link>
+      <description>English Language Service Plugin for uni-app x development in WebStorm/IntelliJ IDEA. Features File Type Recognition - Support for .uvue and .uts files Syntax...
 
 vendor: Lansyn
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.lansyn.uniappx-language-service</description>
       <pubDate>Wed, 04 Mar 2026 09:34:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30438-uni-app-x-language-service</guid>
+      <guid>https://plugins.jetbrains.com/plugin/30438-uniappx-language-service</guid>
       <dc:date>2026-03-04T09:34:35Z</dc:date>
     </item>
     <item>
@@ -50,7 +63,7 @@ xmlId: com.lansyn.uniappx-language-service</description>
       <description>Reminds you to drink water while coding! Features: &#x1f4a7; Water drop icon in the status bar Configurable reminder interval (1–480 minutes) Enable/disable with one click.
 
 vendor: f3dc4r
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.f3dc4r.waterreminder</description>
       <pubDate>Wed, 04 Mar 2026 15:01:48 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.f3dc4r.waterreminder</description>
       <description>Hide the Unlock Ultimate button to free up UI space and improve layout clarity in IntelliJ IDEA Community Edition. This plugin only affects the visibility of the...
 
 vendor: Luke
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.luke.hideultimate.HideUnlockUltimate</description>
       <pubDate>Wed, 04 Mar 2026 15:37:51 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.luke.hideultimate.HideUnlockUltimate</description>
       <description>Quickly open projects by name. Configure root directories to scan for projects (Gradle, Maven, etc.) and use Ctrl+Alt+Shift+O (Mac: ⌃⌥⇧O) to search and open any...
 
 vendor: Makotons
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.makoto.project-opener-makoto</description>
       <pubDate>Wed, 04 Mar 2026 12:57:52 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.makoto.project-opener-makoto</description>
       <description>A lightweight task/memo plugin for "vibe coding": Quickly record inspirations within the IDE, categorize and view them by project/module, and support JSON/Markdown...
 
 vendor: zjarlin
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: site.addzero.vibetask</description>
       <pubDate>Wed, 04 Mar 2026 11:57:25 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: site.addzero.vibetask</description>
       <description>Overview SuperVisor brings Supervisor process management directly into JetBrains IDEs so you can monitor workers, run actions, and inspect logs without leaving your...
 
 vendor: goldentapstudio
-downloads: 0
+downloads: 6
 pricingModel: PAID
 xmlId: com.zhaksyaslan.supervisor</description>
       <pubDate>Wed, 04 Mar 2026 03:49:26 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.zhaksyaslan.supervisor</description>
       <description>Provides integration with Unity Version Control, the distributed version control system powered by Plastic SCM.
 
 vendor: Unity Technologies SF
-downloads: 2
+downloads: 9
 pricingModel: FREE
 xmlId: com.unity.versioncontrol</description>
       <pubDate>Fri, 27 Feb 2026 21:14:21 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.unity.versioncontrol</description>
       <description>Every Session Tells a Story — Track your coding journey with meaningful context. Kodo is a developer productivity tracker that focuses on sessions over hours. Like a...
 
 vendor: Usman Hassan
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: codes.kodo</description>
       <pubDate>Tue, 03 Mar 2026 04:25:49 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: codes.kodo</description>
       <description>Endpoint Lens helps you understand Spring HTTP mappings in large projects. It indexes controller endpoints, provides fast search/navigation, and warns about duplicate...
 
 vendor: mingovvv
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: io.github.mingovvv.endpoint-lens</description>
       <pubDate>Thu, 05 Mar 2026 02:10:01 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: io.github.mingovvv.endpoint-lens</description>
       <description>Display the list of open projects in the status bar at the bottom of the IDE, and click to switch. 在 IDE 底部状态栏显示打开的项目列表，点击切换。 效果...
 
 vendor: zjarlin
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: site.addzero.project-toggle</description>
       <pubDate>Wed, 04 Mar 2026 03:50:32 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: site.addzero.project-toggle</description>
       <description>The Kogito IntelliJ Plugin brings powerful visual editing capabilities for Business Process Model and Notation (BPMN) and Decision Model and Notation (DMN) files...
 
 vendor: Palmer Software Consulting
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.palmersoftwareconsulting.kogitointellijplugin</description>
       <pubDate>Wed, 04 Mar 2026 05:40:29 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.github.palmersoftwareconsulting.kogitointellijplugin</description>
       <description>DarkBlue theme is a clean and modern dark color scheme designed for C++ development in IntelliJ-based IDEs.
 
 vendor: lagcompensation
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: color.scheme.DarkBlue</description>
       <pubDate>Wed, 04 Mar 2026 02:32:48 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: color.scheme.DarkBlue</description>
       <description>Gh-Workflows lets you browse, monitor, and trigger GitHub Actions workflows directly from your IntelliJ-based IDE. Take full control of GitHub Actions without leaving...
 
 vendor: WAD_duhwan
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.wadleeduhwan.ghworkflows</description>
       <pubDate>Thu, 05 Mar 2026 01:16:11 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.github.wadleeduhwan.ghworkflows</description>
       <description>Env Desk - Environment Manager for IntelliJ IDEA Manage your entire local development environment from a single tool window. Switch environment profiles, start Docker...
 
 vendor: ROUTE.MD
-downloads: 3
+downloads: 9
 pricingModel: PAID
 xmlId: md.route.envdesk</description>
       <pubDate>Tue, 03 Mar 2026 17:17:11 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: md.route.envdesk</description>
       <description>Block editor toolkit for WordPress — autocomplete, block.json schema, block browser, theme.json, and JS scaffolding. Write WordPress block markup faster with smart...
 
 vendor: Ilscipio GmbH
-downloads: 1
+downloads: 8
 pricingModel: PAID
 xmlId: com.ilscipio.gutenberghelper</description>
       <pubDate>Tue, 03 Mar 2026 16:49:45 GMT</pubDate>
@@ -227,17 +240,17 @@ xmlId: com.ilscipio.gutenberghelper</description>
       <dc:date>2026-03-03T16:49:45Z</dc:date>
     </item>
     <item>
-      <title>Stormies - Pixel Agents - Wed Mar 04 06:22:43 UTC 2026</title>
+      <title>Stormies - Pixel Agents - Thu Mar 05 04:31:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30474-stormies--pixel-agents</link>
       <description>Pixel art office where your Claude Code agents come to life as animated characters. Watch your AI coding assistants work in a charming virtual office environment.
 
 vendor: EzPlugins
-downloads: 1
+downloads: 66
 pricingModel: FREE
 xmlId: com.pixelagents.jetbrains</description>
-      <pubDate>Wed, 04 Mar 2026 06:22:43 GMT</pubDate>
+      <pubDate>Thu, 05 Mar 2026 04:31:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30474-stormies--pixel-agents</guid>
-      <dc:date>2026-03-04T06:22:43Z</dc:date>
+      <dc:date>2026-03-05T04:31:37Z</dc:date>
     </item>
     <item>
       <title>SVN Merge Helper - Thu Mar 05 04:04:22 UTC 2026</title>
@@ -245,25 +258,12 @@ xmlId: com.pixelagents.jetbrains</description>
       <description>SVN Merge Helper A plugin for SVN merge operations Features: Quick search and browse commit history across branches View changed files with diff support Batch merge...
 
 vendor: lijun
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.svnmerge.helper</description>
       <pubDate>Thu, 05 Mar 2026 04:04:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30466-svn-merge-helper</guid>
       <dc:date>2026-03-05T04:04:22Z</dc:date>
-    </item>
-    <item>
-      <title>ApproveJ - Wed Mar 04 18:19:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30468-approvej</link>
-      <description>Approval testing support for ApproveJ: diff viewer and one-click approval of .received files.
-
-vendor: ApproveJ
-downloads: 1
-pricingModel: FREE
-xmlId: org.approvej</description>
-      <pubDate>Wed, 04 Mar 2026 18:19:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30468-approvej</guid>
-      <dc:date>2026-03-04T18:19:02Z</dc:date>
     </item>
   </channel>
 </rss>
