@@ -6,7 +6,72 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Pebble Watchface/App Development - Sun Mar 08 14:03:15 UTC 2026</title>
+      <title>SwitchIDE - Sat Mar 07 10:51:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30532-switchide</link>
+      <description>SwitchIDE is a JetBrains IDE plugin that enables seamless switching between different IDEs and IntelliJ IDEA while maintaining precise cursor position.
+
+vendor: Home Battles
+downloads: 2
+pricingModel: FREE
+xmlId: com.homebattles.SwitchIDE</description>
+      <pubDate>Sat, 07 Mar 2026 10:51:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30532-switchide</guid>
+      <dc:date>2026-03-07T10:51:12Z</dc:date>
+    </item>
+    <item>
+      <title>AICommitMessages - Sat Mar 07 18:26:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30544-aicommitmessages</link>
+      <description>AI Commit Messages generates descriptive git commit messages using Cursor CLI or Copilot CLI. Simply click the "Generate Commit Message" button in the commit dialog to...
+
+vendor: Home Battles
+downloads: 1
+pricingModel: FREE
+xmlId: com.homebattles.AICommitMessages</description>
+      <pubDate>Sat, 07 Mar 2026 18:26:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30544-aicommitmessages</guid>
+      <dc:date>2026-03-07T18:26:12Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Server for Code Intelligence - Mon Mar 09 15:56:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30561-mcp-server-for-code-intelligence</link>
+      <description>An MCP (Model Context Protocol) server that runs inside the ReSharper/Rider backend process, exposing code intelligence features to AI assistants via HTTP. Available...
+
+vendor: Joshua Light
+downloads: 0
+pricingModel: FREE
+xmlId: com.j-light.resharper-mcp</description>
+      <pubDate>Mon, 09 Mar 2026 15:56:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30561-mcp-server-for-code-intelligence</guid>
+      <dc:date>2026-03-09T15:56:33Z</dc:date>
+    </item>
+    <item>
+      <title>ScyllaDB Alternator Explorer - Sat Mar 07 21:28:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30547-scylladb-alternator-explorer</link>
+      <description>DataGrip plugin to connect, browse, and query Scylla Alternator and Amazon DynamoDB tables. Includes saved connection profiles, table tree view, schema details...
+
+vendor: Gabriel Presoto
+downloads: 1
+pricingModel: FREE
+xmlId: com.scyllaexplorer.alternator.explorer</description>
+      <pubDate>Sat, 07 Mar 2026 21:28:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30547-scylladb-alternator-explorer</guid>
+      <dc:date>2026-03-07T21:28:29Z</dc:date>
+    </item>
+    <item>
+      <title>Dep Lens - Sun Mar 08 13:34:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30555-dep-lens</link>
+      <description>View details of third-party dependencies.
+
+vendor: gaoxiao
+downloads: 0
+pricingModel: FREE
+xmlId: deplens</description>
+      <pubDate>Sun, 08 Mar 2026 13:34:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30555-dep-lens</guid>
+      <dc:date>2026-03-08T13:34:13Z</dc:date>
+    </item>
+    <item>
+      <title>Pebble Watchface/App Development - Mon Mar 09 15:40:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30556-pebble-watchface-app-development</link>
       <description>This Plugin is for development of Pebble Watchface or App. It provides tools to build, run, and debug your Pebble projects directly from JetBrains IDEs, including an...
 
@@ -14,9 +79,9 @@ vendor: Changing,LLC.(JP)
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.changingjp.jetbrainspluginforpebblewatch</description>
-      <pubDate>Sun, 08 Mar 2026 14:03:15 GMT</pubDate>
+      <pubDate>Mon, 09 Mar 2026 15:40:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30556-pebble-watchface-app-development</guid>
-      <dc:date>2026-03-08T14:03:15Z</dc:date>
+      <dc:date>2026-03-09T15:40:58Z</dc:date>
     </item>
     <item>
       <title>VitePress - Mon Mar 09 11:32:22 UTC 2026</title>
@@ -84,7 +149,7 @@ xmlId: com.plugin.curl</description>
       <dc:date>2026-03-07T18:09:48Z</dc:date>
     </item>
     <item>
-      <title>Direnv - Sat Mar 07 16:32:52 UTC 2026</title>
+      <title>Direnv - Mon Mar 09 14:28:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30539-direnv</link>
       <description>This plugin provides an action to import environment variables from direnv into the Java process that is running the IDE. Automatic Import before every Run/Debug To...
 
@@ -92,9 +157,9 @@ vendor: Ao Li
 downloads: 1
 pricingModel: FREE
 xmlId: al.aoli.intellijdirenv</description>
-      <pubDate>Sat, 07 Mar 2026 16:32:52 GMT</pubDate>
+      <pubDate>Mon, 09 Mar 2026 14:28:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30539-direnv</guid>
-      <dc:date>2026-03-07T16:32:52Z</dc:date>
+      <dc:date>2026-03-09T14:28:46Z</dc:date>
     </item>
     <item>
       <title>TDengine Driver Integration - Sat Mar 07 15:34:36 UTC 2026</title>
@@ -199,71 +264,6 @@ xmlId: com.github.commitanalyzer</description>
       <pubDate>Sun, 08 Mar 2026 12:29:42 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30554-git-commit-analyzer</guid>
       <dc:date>2026-03-08T12:29:42Z</dc:date>
-    </item>
-    <item>
-      <title>Terminal Command Snippets - Sun Mar 08 09:27:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30553-terminal-command-snippets</link>
-      <description>Terminal Command Snippets – Categorized terminal commands at the click of a button. Manage snippets and categories under File → Settings → Tools → Terminal Command...
-
-vendor: EICK.IT GmbH
-downloads: 0
-pricingModel: FREE
-xmlId: com.terminalsnippets.plugin</description>
-      <pubDate>Sun, 08 Mar 2026 09:27:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30553-terminal-command-snippets</guid>
-      <dc:date>2026-03-08T09:27:43Z</dc:date>
-    </item>
-    <item>
-      <title>SecureFlag Findings2Training - Fri Mar 06 13:52:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30516-secureflag-findings2training</link>
-      <description>Analyzes security problems in your project and recommends relevant SecureFlag training and practice labs.
-
-vendor: SecureFlag Limited
-downloads: 14
-pricingModel: FREE
-xmlId: com.secureflag.findings2training</description>
-      <pubDate>Fri, 06 Mar 2026 13:52:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30516-secureflag-findings2training</guid>
-      <dc:date>2026-03-06T13:52:42Z</dc:date>
-    </item>
-    <item>
-      <title>SoundOnAction - Fri Mar 06 19:10:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30505-soundonaction</link>
-      <description>Plays sound effects for IDE actions like file create, delete, and build results.
-
-vendor: Prateek Gaur
-downloads: 21
-pricingModel: FREE
-xmlId: er.prateek.SoundOnAction</description>
-      <pubDate>Fri, 06 Mar 2026 19:10:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30505-soundonaction</guid>
-      <dc:date>2026-03-06T19:10:30Z</dc:date>
-    </item>
-    <item>
-      <title>WinFloat - Mon Mar 02 16:52:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30450-winfloat</link>
-      <description>Embedded Chromium browser inside the Rider editor area. Click the WinFloat icon in the side strip to open/close it.
-
-vendor: CodeRaft
-downloads: 14
-pricingModel: FREE
-xmlId: com.coderaft.winfloat</description>
-      <pubDate>Mon, 02 Mar 2026 16:52:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30450-winfloat</guid>
-      <dc:date>2026-03-02T16:52:08Z</dc:date>
-    </item>
-    <item>
-      <title>Qualimetry Gherkin Analyzer - Tue Mar 03 21:34:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30479-qualimetry-gherkin-analyzer</link>
-      <description>Static analysis of Cucumber Gherkin feature files (.feature) in IntelliJ IDEA, Rider, and other JetBrains IDEs. Also runs in JetBrains Qodana. Powered by the same...
-
-vendor: Qualimetry
-downloads: 10
-pricingModel: FREE
-xmlId: com.qualimetry.gherkin</description>
-      <pubDate>Tue, 03 Mar 2026 21:34:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30479-qualimetry-gherkin-analyzer</guid>
-      <dc:date>2026-03-03T21:34:43Z</dc:date>
     </item>
   </channel>
 </rss>
