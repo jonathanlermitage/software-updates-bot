@@ -6,7 +6,33 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>JSON Keypath Navigator - Mon Mar 09 12:06:10 UTC 2026</title>
+      <title>Mindmap - Tue Mar 10 14:59:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30511-mindmap</link>
+      <description>Mind map editor plugin with a JCEF-based bridge. Current scope: open and edit .km/.xmind files, import XMind content, save .km files, and export PNG images.
+
+vendor: mindmapx
+downloads: 1
+pricingModel: FREE
+xmlId: com.souche.mindmap.idea</description>
+      <pubDate>Tue, 10 Mar 2026 14:59:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30511-mindmap</guid>
+      <dc:date>2026-03-10T14:59:36Z</dc:date>
+    </item>
+    <item>
+      <title>JumpServer Database Credentials - Tue Mar 10 06:30:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30508-jumpserver-database-credentials</link>
+      <description>Automatically fetch database credentials from JumpServer and apply them to DataGrip connection configurations. Simplifies the workflow of connecting to databases...
+
+vendor: wwr
+downloads: 2
+pricingModel: FREE
+xmlId: com.wwr.plugin.jumpserver</description>
+      <pubDate>Tue, 10 Mar 2026 06:30:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30508-jumpserver-database-credentials</guid>
+      <dc:date>2026-03-10T06:30:38Z</dc:date>
+    </item>
+    <item>
+      <title>JSON Keypath Navigator - Tue Mar 10 12:50:56 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30577-json-keypath-navigator</link>
       <description>Navigate to any element in a JSON file using a dot-separated keypath like foo.bar.baz — think XPath, but for JSON. Features Navigate by keypath — open the keypath...
 
@@ -14,9 +40,9 @@ vendor: Jan Paul Stegeman
 downloads: 0
 pricingModel: FREE
 xmlId: net.elidon.jsonkeypath</description>
-      <pubDate>Mon, 09 Mar 2026 12:06:10 GMT</pubDate>
+      <pubDate>Tue, 10 Mar 2026 12:50:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30577-json-keypath-navigator</guid>
-      <dc:date>2026-03-09T12:06:10Z</dc:date>
+      <dc:date>2026-03-10T12:50:56Z</dc:date>
     </item>
     <item>
       <title>spek - OpenSpec Viewer - Tue Mar 10 08:30:23 UTC 2026</title>
@@ -58,17 +84,17 @@ xmlId: com.abouten.svnpackager</description>
       <dc:date>2026-03-10T08:03:44Z</dc:date>
     </item>
     <item>
-      <title>Copy Path for Claude Code - Tue Mar 10 07:49:10 UTC 2026</title>
+      <title>Copy Path for Claude Code - Tue Mar 10 14:02:42 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30598-copy-path-for-claude-code</link>
       <description>Copy Path for Claude Code Copy file and folder path references in the Claude Code @-mention format directly from your IDE. Paste them into Claude Code conversations so...
 
-vendor: teppasit
+vendor: teppasit.w
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.copypathforclaudecode</description>
-      <pubDate>Tue, 10 Mar 2026 07:49:10 GMT</pubDate>
+      <pubDate>Tue, 10 Mar 2026 14:02:42 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30598-copy-path-for-claude-code</guid>
-      <dc:date>2026-03-10T07:49:10Z</dc:date>
+      <dc:date>2026-03-10T14:02:42Z</dc:date>
     </item>
     <item>
       <title>Better-Changelist - Tue Mar 10 10:28:41 UTC 2026</title>
@@ -136,7 +162,7 @@ xmlId: io.aldefy.rebound.ide</description>
       <dc:date>2026-03-10T02:12:05Z</dc:date>
     </item>
     <item>
-      <title>Quint - Mon Mar 09 23:48:54 UTC 2026</title>
+      <title>Quint - Tue Mar 10 15:50:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30590-quint</link>
       <description>Language support for the Quint specification language. Syntax highlighting Code completion (keywords, scope-aware identifiers, qualified references) Go-to-definition...
 
@@ -144,9 +170,9 @@ vendor: dearlordylord
 downloads: 0
 pricingModel: FREE
 xmlId: com.dearlordylord.quint.idea</description>
-      <pubDate>Mon, 09 Mar 2026 23:48:54 GMT</pubDate>
+      <pubDate>Tue, 10 Mar 2026 15:50:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30590-quint</guid>
-      <dc:date>2026-03-09T23:48:54Z</dc:date>
+      <dc:date>2026-03-10T15:50:46Z</dc:date>
     </item>
     <item>
       <title>Bitcoin Price Bar - Mon Mar 09 21:44:34 UTC 2026</title>
@@ -175,7 +201,7 @@ xmlId: com.github.imsuperlative.intellijpesttyped</description>
       <dc:date>2026-03-09T22:06:55Z</dc:date>
     </item>
     <item>
-      <title>WorksOnMyMachine - Mon Mar 09 19:01:14 UTC 2026</title>
+      <title>WorksOnMyMachine - Tue Mar 10 13:50:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30586-worksonmymachine</link>
       <description>WorksOnMyMachine adds sound effects to Android Studio build events. The plugin plays customizable sounds when: a build startsa build succeedsa build fails You can...
 
@@ -183,9 +209,9 @@ vendor: amitcodr
 downloads: 6
 pricingModel: FREE
 xmlId: com.github.amitcodr.worksonmymachine</description>
-      <pubDate>Mon, 09 Mar 2026 19:01:14 GMT</pubDate>
+      <pubDate>Tue, 10 Mar 2026 13:50:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30586-worksonmymachine</guid>
-      <dc:date>2026-03-09T19:01:14Z</dc:date>
+      <dc:date>2026-03-10T13:50:37Z</dc:date>
     </item>
     <item>
       <title>JsonPathEditor - Fri Mar 06 14:10:09 UTC 2026</title>
@@ -227,7 +253,7 @@ xmlId: com.jeromelearner.projectwarning</description>
       <dc:date>2026-03-09T14:24:17Z</dc:date>
     </item>
     <item>
-      <title>Static-Data - Sun Mar 08 22:02:30 UTC 2026</title>
+      <title>Static-Data - Tue Mar 10 12:51:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30565-static-data</link>
       <description>Provides support for static-data. static-data generates builders and other utilities at compile-time in order to provide a better developer experience, with strict...
 
@@ -235,35 +261,9 @@ vendor: Static Studios
 downloads: 1
 pricingModel: FREE
 xmlId: net.staticstudios.data.ide</description>
-      <pubDate>Sun, 08 Mar 2026 22:02:30 GMT</pubDate>
+      <pubDate>Tue, 10 Mar 2026 12:51:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30565-static-data</guid>
-      <dc:date>2026-03-08T22:02:30Z</dc:date>
-    </item>
-    <item>
-      <title>DevGlobe - Mon Mar 09 09:21:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30572-devglobe</link>
-      <description>Appear on a 3D globe in real time while you code. Your activity shows up live on devglobe.xyz — other developers can see you, discover your projects, and find your...
-
-vendor: DevGlobe
-downloads: 2
-pricingModel: FREE
-xmlId: xyz.devglobe.plugin</description>
-      <pubDate>Mon, 09 Mar 2026 09:21:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30572-devglobe</guid>
-      <dc:date>2026-03-09T09:21:10Z</dc:date>
-    </item>
-    <item>
-      <title>Skeleton Clean Architecture Android - Mon Mar 09 08:00:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30570-skeleton-clean-architecture-android</link>
-      <description>Android Skeleton Clean Architecture Generator This plugin helps Android developers quickly scaffold a Clean Architecture skeleton in Kotlin. Generated Components...
-
-vendor: samseptiano
-downloads: 1
-pricingModel: FREE
-xmlId: org.samseptiano.demoplugin</description>
-      <pubDate>Mon, 09 Mar 2026 08:00:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30570-skeleton-clean-architecture-android</guid>
-      <dc:date>2026-03-09T08:00:19Z</dc:date>
+      <dc:date>2026-03-10T12:51:58Z</dc:date>
     </item>
   </channel>
 </rss>
