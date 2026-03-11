@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Composer Sync Check - Tue Mar 10 18:45:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30616-composer-sync-check</link>
+      <description>Composer Sync Check is an IntelliJ Platform plugin (tested in PhpStorm) that detects when your Composer dependencies may be out of sync with the current project state...
+
+vendor: kodesoft
+downloads: 0
+pricingModel: FREE
+xmlId: composer-sync-check</description>
+      <pubDate>Tue, 10 Mar 2026 18:45:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30616-composer-sync-check</guid>
+      <dc:date>2026-03-10T18:45:40Z</dc:date>
+    </item>
+    <item>
       <title>Icarus - Tue Mar 10 13:01:23 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30610-icarus</link>
       <description>A development toolkit, providing integration of Icarus Builder build system into JetBrains' products.
 
 vendor: 64rl0
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: org.carlogtt.plugins.icarus</description>
       <pubDate>Tue, 10 Mar 2026 13:01:23 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: org.carlogtt.plugins.icarus</description>
       <description>Method Timer — Automatic Method Execution Time Profiling Automatically measures Java method execution time and displays results as Code Vision lenses above method...
 
 vendor: Ivan Mezentsev
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.methodtimer</description>
       <pubDate>Tue, 10 Mar 2026 13:40:37 GMT</pubDate>
@@ -32,7 +45,7 @@ xmlId: com.github.methodtimer</description>
       <dc:date>2026-03-10T13:40:37Z</dc:date>
     </item>
     <item>
-      <title>AI Git Commit Helper - Tue Mar 10 10:44:13 UTC 2026</title>
+      <title>AI Git Commit Helper - Wed Mar 11 07:27:48 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30604-ai-git-commit-helper</link>
       <description>AI Git Commit Helper: generates Conventional Commits style commit messages from your Git changes, with configurable OpenAI-compatible API (at least 40 characters). 根据...
 
@@ -40,9 +53,9 @@ vendor: ghl
 downloads: 0
 pricingModel: FREE
 xmlId: com.aigit</description>
-      <pubDate>Tue, 10 Mar 2026 10:44:13 GMT</pubDate>
+      <pubDate>Wed, 11 Mar 2026 07:27:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30604-ai-git-commit-helper</guid>
-      <dc:date>2026-03-10T10:44:13Z</dc:date>
+      <dc:date>2026-03-11T07:27:48Z</dc:date>
     </item>
     <item>
       <title>JetWings - Tue Mar 10 19:52:30 UTC 2026</title>
@@ -50,7 +63,7 @@ xmlId: com.aigit</description>
       <description>JetWings connects your IntelliJ IDE to your mobile device for remote monitoring and control via the cloud. Receive IDE notifications and trigger actions from your...
 
 vendor: Dorkag
-downloads: 12
+downloads: 15
 pricingModel: FREE
 xmlId: com.github.jetwings.jetwings-plugin</description>
       <pubDate>Tue, 10 Mar 2026 19:52:30 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.github.jetwings.jetwings-plugin</description>
       <description>Mind map and XMind editor plugin with a JCEF-based bridge. Current scope: open and edit .km/.xmind files, import XMind content with styles and images, save .km files...
 
 vendor: mindmapx
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.souche.mindmap.idea</description>
       <pubDate>Wed, 11 Mar 2026 01:48:30 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.souche.mindmap.idea</description>
       <description>Automatically fetch database credentials from JumpServer and apply them to DataGrip connection configurations. Simplifies the workflow of connecting to databases...
 
 vendor: wwr
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.wwr.plugin.jumpserver</description>
       <pubDate>Tue, 10 Mar 2026 06:30:38 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.wwr.plugin.jumpserver</description>
       <description>Navigate to any element in a JSON file using a dot-separated keypath like foo.bar.baz — think XPath, but for JSON. Features Navigate by keypath — open the keypath...
 
 vendor: Jan Paul Stegeman
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: net.elidon.jsonkeypath</description>
       <pubDate>Tue, 10 Mar 2026 12:50:56 GMT</pubDate>
@@ -97,17 +110,17 @@ xmlId: net.elidon.jsonkeypath</description>
       <dc:date>2026-03-10T12:50:56Z</dc:date>
     </item>
     <item>
-      <title>spek - OpenSpec Viewer - Wed Mar 11 02:46:11 UTC 2026</title>
+      <title>spek - OpenSpec Viewer - Wed Mar 11 07:09:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30600-spek--openspec-viewer</link>
       <description>OpenSpec content viewer for IntelliJ-based IDEs.
 
 vendor: kewang
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: tw.kewang.spek</description>
-      <pubDate>Wed, 11 Mar 2026 02:46:11 GMT</pubDate>
+      <pubDate>Wed, 11 Mar 2026 07:09:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30600-spek--openspec-viewer</guid>
-      <dc:date>2026-03-11T02:46:11Z</dc:date>
+      <dc:date>2026-03-11T07:09:11Z</dc:date>
     </item>
     <item>
       <title>Switch2Kiro - Tue Mar 10 11:57:42 UTC 2026</title>
@@ -115,7 +128,7 @@ xmlId: tw.kewang.spek</description>
       <description>Switch2Kiro is a JetBrains IDE plugin that enables seamless switching between JetBrains IDE and Kiro while maintaining precise cursor position. This project is...
 
 vendor: Switch2Kiro
-downloads: 0
+downloads: 16
 pricingModel: FREE
 xmlId: com.github.oouo.switch2kiro</description>
       <pubDate>Tue, 10 Mar 2026 11:57:42 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.github.oouo.switch2kiro</description>
       <description>SVN Packager - A plugin for exporting SVN update packages A professional tool designed for Java Web projects to export incremental update packages from SVN commit...
 
 vendor: Abouten
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.abouten.svnpackager</description>
       <pubDate>Tue, 10 Mar 2026 08:03:44 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.abouten.svnpackager</description>
       <description>Copy Path for Claude Code Copy file and folder path references in the Claude Code @-mention format directly from your IDE. Paste them into Claude Code conversations so...
 
 vendor: teppasit.w
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: com.github.copypathforclaudecode</description>
       <pubDate>Tue, 10 Mar 2026 14:02:42 GMT</pubDate>
@@ -149,17 +162,17 @@ xmlId: com.github.copypathforclaudecode</description>
       <dc:date>2026-03-10T14:02:42Z</dc:date>
     </item>
     <item>
-      <title>Better-Changelist - Tue Mar 10 10:28:41 UTC 2026</title>
+      <title>Better-Changelist - Wed Mar 11 05:24:48 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30597-better-changelist</link>
       <description>Better-Changelist is a time-saving version control plugin designed to automatically sort your messy Git changes into neatly organized, logical changelists. It is...
 
 vendor: Ostnev
-downloads: 0
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.ilyasbekmuratov.bettercommitsorting</description>
-      <pubDate>Tue, 10 Mar 2026 10:28:41 GMT</pubDate>
+      <pubDate>Wed, 11 Mar 2026 05:24:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30597-better-changelist</guid>
-      <dc:date>2026-03-10T10:28:41Z</dc:date>
+      <dc:date>2026-03-11T05:24:48Z</dc:date>
     </item>
     <item>
       <title>SOF Deploy Helper - Tue Mar 10 06:38:47 UTC 2026</title>
@@ -167,7 +180,7 @@ xmlId: com.github.ilyasbekmuratov.bettercommitsorting</description>
       <description>SOF Deploy Helper — One-Click Local Deployment for Maven WAR Projects A deployment tool designed for multi-module Maven (SOF/WAR) projects, eliminating tedious manual...
 
 vendor: lynn feng
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.ly.idea.autodeploy</description>
       <pubDate>Tue, 10 Mar 2026 06:38:47 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.ly.idea.autodeploy</description>
       <description>activate-power-mode for Jetbrains IDEs. 在 IDEA 中使用 activate-power-mode 插件，让你的代码输入更加炫酷！根据 Atom 的插件 activate-power-mode 的效果移植到 IDEA 上。支持粒子效果、屏幕震动、Combo...
 
 vendor: activate-power-mode-pro
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: activate-power-mode-pro</description>
       <pubDate>Tue, 10 Mar 2026 06:20:36 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: activate-power-mode-pro</description>
       <description>Offline PDF merging for JetBrains IDEs. PDF Zusammenfuegen bringt einen lokalen PDF-Merge-Workflow direkt in JetBrains IDEs. Sie koennen mehrere PDF-Dateien...
 
 vendor: yxchen1994
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: de.pdfzus.zusammenfuegen</description>
       <pubDate>Tue, 10 Mar 2026 06:07:40 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: de.pdfzus.zusammenfuegen</description>
       <description>Rebound — Compose Recomposition Budget Monitor Catch runaway recompositions before they ship. Rebound assigns each @Composable a recomposition rate budget based on its...
 
 vendor: Adit Lal
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.aldefy.rebound.ide</description>
       <pubDate>Tue, 10 Mar 2026 02:12:05 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: io.aldefy.rebound.ide</description>
       <description>Language support for the Quint specification language. Syntax highlighting Code completion (keywords, scope-aware identifiers, qualified references) Go-to-definition...
 
 vendor: dearlordylord
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.dearlordylord.quint.idea</description>
       <pubDate>Tue, 10 Mar 2026 15:50:46 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.dearlordylord.quint.idea</description>
       <description>Keep an eye on Bitcoin without leaving your IDE. Bitcoin Price Bar shows the live BTC/USD price in the status bar, always visible while you code. Refresh interval and...
 
 vendor: Matthew Husak
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.matthewHusak.bitcoin-price-bar</description>
       <pubDate>Mon, 09 Mar 2026 21:44:34 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.matthewHusak.bitcoin-price-bar</description>
       <description>Deep type intelligence for PestPHP's expectation API in PHPStorm. Without this plugin, PHPStorm loses type information after the first -&amp;gt; on expect(). Property...
 
 vendor: ImSuperlative
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.imsuperlative.intellijpesttyped</description>
       <pubDate>Mon, 09 Mar 2026 22:06:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30585-pest-typed</guid>
       <dc:date>2026-03-09T22:06:55Z</dc:date>
-    </item>
-    <item>
-      <title>WorksOnMyMachine - Tue Mar 10 13:50:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30586-worksonmymachine</link>
-      <description>WorksOnMyMachine adds sound effects to Android Studio build events. The plugin plays customizable sounds when: a build startsa build succeedsa build fails You can...
-
-vendor: amitcodr
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.amitcodr.worksonmymachine</description>
-      <pubDate>Tue, 10 Mar 2026 13:50:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30586-worksonmymachine</guid>
-      <dc:date>2026-03-10T13:50:37Z</dc:date>
     </item>
   </channel>
 </rss>
