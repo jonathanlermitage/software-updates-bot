@@ -6,7 +6,20 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>SpecBinder - Wed Mar 11 11:59:13 UTC 2026</title>
+      <title>FAH Failure Sound - Wed Mar 11 15:25:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30495-fah-failure-sound</link>
+      <description>Hear build and run results instantly. FAH Failure Sound plays configurable audio cues for key IDE events, so you can stop watching output tabs and still notice...
+
+vendor: Eministar
+downloads: 3
+pricingModel: FREE
+xmlId: dev.eministar.fahsound</description>
+      <pubDate>Wed, 11 Mar 2026 15:25:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30495-fah-failure-sound</guid>
+      <dc:date>2026-03-11T15:25:52Z</dc:date>
+    </item>
+    <item>
+      <title>SpecBinder - Wed Mar 11 18:40:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30540-specbinder</link>
       <description>Gherkin (.feature and .fspec file) language support for IntelliJ-based IDEs. Features Syntax highlighting — keywords, tags, comments, tables, doc strings with...
 
@@ -14,9 +27,9 @@ vendor: Spec Bright
 downloads: 1
 pricingModel: FREE
 xmlId: dev.specbinder.intellij-plugin</description>
-      <pubDate>Wed, 11 Mar 2026 11:59:13 GMT</pubDate>
+      <pubDate>Wed, 11 Mar 2026 18:40:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30540-specbinder</guid>
-      <dc:date>2026-03-11T11:59:13Z</dc:date>
+      <dc:date>2026-03-11T18:40:35Z</dc:date>
     </item>
     <item>
       <title>MyBatis Log Helper - Wed Mar 11 05:52:54 UTC 2026</title>
@@ -58,7 +71,7 @@ xmlId: com.locales.locales-finder</description>
       <dc:date>2026-03-11T01:32:54Z</dc:date>
     </item>
     <item>
-      <title>FaFaFaFa - Build Failure Sound - Tue Mar 10 20:25:49 UTC 2026</title>
+      <title>FaFaFaFa - Build Failure Sound - Wed Mar 11 17:28:23 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30617-fafafafa--build-failure-sound</link>
       <description>FaFaFaFa – Build Failure Sound Alert Stop staring at your build like a microwave. FaFaFaFa plays a sound when your build fails, so you’ll know instantly when things go...
 
@@ -66,9 +79,9 @@ vendor: skymansandy
 downloads: 0
 pricingModel: FREE
 xmlId: dev.skymansandy.fafafafa</description>
-      <pubDate>Tue, 10 Mar 2026 20:25:49 GMT</pubDate>
+      <pubDate>Wed, 11 Mar 2026 17:28:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30617-fafafafa--build-failure-sound</guid>
-      <dc:date>2026-03-10T20:25:49Z</dc:date>
+      <dc:date>2026-03-11T17:28:23Z</dc:date>
     </item>
     <item>
       <title>TokenPulse - Tue Mar 10 19:51:34 UTC 2026</title>
@@ -231,7 +244,7 @@ xmlId: com.abouten.svnpackager</description>
       <link>https://plugins.jetbrains.com/plugin/30598-copy-path-for-claude-code</link>
       <description>Copy Path for Claude Code Copy file and folder path references in the Claude Code @-mention format directly from your IDE. Paste them into Claude Code conversations so...
 
-vendor: teppasit.w
+vendor: teppasit
 downloads: 12
 pricingModel: FREE
 xmlId: com.github.copypathforclaudecode</description>
@@ -251,19 +264,6 @@ xmlId: com.github.ilyasbekmuratov.bettercommitsorting</description>
       <pubDate>Wed, 11 Mar 2026 05:24:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30597-better-changelist</guid>
       <dc:date>2026-03-11T05:24:48Z</dc:date>
-    </item>
-    <item>
-      <title>SOF Deploy Helper - Tue Mar 10 06:38:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30596-sof-deploy-helper</link>
-      <description>SOF Deploy Helper — One-Click Local Deployment for Maven WAR Projects A deployment tool designed for multi-module Maven (SOF/WAR) projects, eliminating tedious manual...
-
-vendor: lynn feng
-downloads: 1
-pricingModel: FREE
-xmlId: com.ly.idea.autodeploy</description>
-      <pubDate>Tue, 10 Mar 2026 06:38:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30596-sof-deploy-helper</guid>
-      <dc:date>2026-03-10T06:38:47Z</dc:date>
     </item>
   </channel>
 </rss>
