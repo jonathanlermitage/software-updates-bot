@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Icarus - Tue Mar 10 13:01:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30610-icarus</link>
+      <description>A development toolkit, providing integration of Icarus Builder build system into JetBrains' products.
+
+vendor: 64rl0
+downloads: 0
+pricingModel: FREE
+xmlId: org.carlogtt.plugins.icarus</description>
+      <pubDate>Tue, 10 Mar 2026 13:01:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30610-icarus</guid>
+      <dc:date>2026-03-10T13:01:23Z</dc:date>
+    </item>
+    <item>
+      <title>Method Timer - Tue Mar 10 13:40:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30612-method-timer</link>
+      <description>Method Timer — Automatic Method Execution Time Profiling Automatically measures Java method execution time and displays results as Code Vision lenses above method...
+
+vendor: Ivan Mezentsev
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.methodtimer</description>
+      <pubDate>Tue, 10 Mar 2026 13:40:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30612-method-timer</guid>
+      <dc:date>2026-03-10T13:40:37Z</dc:date>
+    </item>
+    <item>
+      <title>AI Git Commit Helper - Tue Mar 10 10:44:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30604-ai-git-commit-helper</link>
+      <description>AI Git Commit Helper: generates Conventional Commits style commit messages from your Git changes, with configurable OpenAI-compatible API (at least 40 characters). 根据...
+
+vendor: ghl
+downloads: 0
+pricingModel: FREE
+xmlId: com.aigit</description>
+      <pubDate>Tue, 10 Mar 2026 10:44:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30604-ai-git-commit-helper</guid>
+      <dc:date>2026-03-10T10:44:13Z</dc:date>
+    </item>
+    <item>
+      <title>JetWings - Tue Mar 10 19:52:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30092-jetwings</link>
+      <description>JetWings connects your IntelliJ IDE to your mobile device for remote monitoring and control via the cloud. Receive IDE notifications and trigger actions from your...
+
+vendor: Dorkag
+downloads: 12
+pricingModel: FREE
+xmlId: com.github.jetwings.jetwings-plugin</description>
+      <pubDate>Tue, 10 Mar 2026 19:52:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30092-jetwings</guid>
+      <dc:date>2026-03-10T19:52:30Z</dc:date>
+    </item>
+    <item>
       <title>Mindmap - Tue Mar 10 14:59:36 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30511-mindmap</link>
       <description>Mind map editor plugin with a JCEF-based bridge. Current scope: open and edit .km/.xmind files, import XMind content, save .km files, and export PNG images.
@@ -212,58 +264,6 @@ xmlId: com.github.amitcodr.worksonmymachine</description>
       <pubDate>Tue, 10 Mar 2026 13:50:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30586-worksonmymachine</guid>
       <dc:date>2026-03-10T13:50:37Z</dc:date>
-    </item>
-    <item>
-      <title>JsonPathEditor - Tue Mar 10 16:52:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30507-jsonpatheditor</link>
-      <description>JsonPath Live Editor The ultimate real-time JSONPath playground for developers. &#x1f680; Core Features: Live Evaluation: Results update instantly as you type in the...
-
-vendor: FTNL
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: fr.ftnl.JsonPathEditor</description>
-      <pubDate>Tue, 10 Mar 2026 16:52:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30507-jsonpatheditor</guid>
-      <dc:date>2026-03-10T16:52:53Z</dc:date>
-    </item>
-    <item>
-      <title>Markdown commenter - Sun Mar 08 22:01:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30564-markdown-commenter</link>
-      <description>Enhance your Markdown workflow with the Markdown Commenter plugin. This tool allows you to easily add professional comments to selected text in your Markdown files...
-
-vendor: biedin
-downloads: 2
-pricingModel: FREE
-xmlId: com.biedin.markdown.commenter</description>
-      <pubDate>Sun, 08 Mar 2026 22:01:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30564-markdown-commenter</guid>
-      <dc:date>2026-03-08T22:01:04Z</dc:date>
-    </item>
-    <item>
-      <title>Project Warning Reminder - Mon Mar 09 14:24:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30581-project-warning-reminder</link>
-      <description>Shows warning notifications when a project contains one or more .warning files in the project root directory. Useful for reminding team members about project-specific...
-
-vendor: Jerome Learner
-downloads: 1
-pricingModel: FREE
-xmlId: com.jeromelearner.projectwarning</description>
-      <pubDate>Mon, 09 Mar 2026 14:24:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30581-project-warning-reminder</guid>
-      <dc:date>2026-03-09T14:24:17Z</dc:date>
-    </item>
-    <item>
-      <title>Static-Data - Tue Mar 10 12:51:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30565-static-data</link>
-      <description>Provides support for static-data. static-data generates builders and other utilities at compile-time in order to provide a better developer experience, with strict...
-
-vendor: Static Studios
-downloads: 1
-pricingModel: FREE
-xmlId: net.staticstudios.data.ide</description>
-      <pubDate>Tue, 10 Mar 2026 12:51:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30565-static-data</guid>
-      <dc:date>2026-03-10T12:51:58Z</dc:date>
     </item>
   </channel>
 </rss>
