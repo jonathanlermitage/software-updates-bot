@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|25.8.1|[nodejs.org](https://nodejs.org)|Wed Mar 11 16:14:18 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.1|[golang.org](https://golang.org/dl/)|Fri Mar 06 04:30:39 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.22158.46) ~ 2026-03-05|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Mar 05 20:08:54 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.4.0|[gradle.org](https://gradle.org/releases)|Wed Mar 04 16:09:04 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.5.0 to 19.5.5 ~ 2026-03-03|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Wed Mar 04 00:08:03 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|25.8.0|[nodejs.org](https://nodejs.org)|Tue Mar 03 16:11:50 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
