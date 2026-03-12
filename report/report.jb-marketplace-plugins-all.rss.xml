@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LiyaAI Coding Agent - Wed Mar 11 15:13:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30623-liyaai-coding-agent</link>
+      <description>LiyaAI Coding Agent AI-powered coding assistant for JetBrains IDEs. Powered by LiyaLabs. Chat with an intelligent agent that can read, write, and edit your files, run...
+
+vendor: LiyaLabs
+downloads: 0
+pricingModel: FREE
+xmlId: ai.liyalabs.coding-agent</description>
+      <pubDate>Wed, 11 Mar 2026 15:13:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30623-liyaai-coding-agent</guid>
+      <dc:date>2026-03-11T15:13:57Z</dc:date>
+    </item>
+    <item>
       <title>MyDict - Wed Mar 11 07:59:16 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30621-mydict</link>
       <description>IntelliJ IDEA support for MyDict Spring Boot Starter. Provides real-time recognition of generated xxxDesc fields and getter/setter methods without requiring...
@@ -45,7 +58,7 @@ xmlId: dev.specbinder.intellij-plugin</description>
       <dc:date>2026-03-11T18:40:35Z</dc:date>
     </item>
     <item>
-      <title>MyBatis Log Helper - Wed Mar 11 05:52:54 UTC 2026</title>
+      <title>MyBatis Log Helper - Thu Mar 12 01:21:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30620-mybatis-log-helper</link>
       <description>MyBatis Log Helper is your ultimate productivity booster for IntelliJ IDEA. Stop Hand-Assembling SQL! / 别再手动拼 SQL 了！ MyBatis Log Helper is your ultimate productivity...
 
@@ -53,12 +66,12 @@ vendor: ChengHuan Chen
 downloads: 0
 pricingModel: FREE
 xmlId: com.mybatis.loghelper</description>
-      <pubDate>Wed, 11 Mar 2026 05:52:54 GMT</pubDate>
+      <pubDate>Thu, 12 Mar 2026 01:21:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30620-mybatis-log-helper</guid>
-      <dc:date>2026-03-11T05:52:54Z</dc:date>
+      <dc:date>2026-03-12T01:21:33Z</dc:date>
     </item>
     <item>
-      <title>AI Test Generator - Wed Mar 11 14:19:43 UTC 2026</title>
+      <title>AI Test Generator - Thu Mar 12 00:31:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30548-ai-test-generator</link>
       <description>AI Test Generator driven by AI, empowering TDD, first classs support for contract based testing.
 
@@ -66,9 +79,9 @@ vendor: OpenProjectX
 downloads: 1
 pricingModel: FREE
 xmlId: org.openprojectx.aitestgen</description>
-      <pubDate>Wed, 11 Mar 2026 14:19:43 GMT</pubDate>
+      <pubDate>Thu, 12 Mar 2026 00:31:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30548-ai-test-generator</guid>
-      <dc:date>2026-03-11T14:19:43Z</dc:date>
+      <dc:date>2026-03-12T00:31:15Z</dc:date>
     </item>
     <item>
       <title>Locales-Finder - Wed Mar 11 01:32:54 UTC 2026</title>
@@ -175,7 +188,7 @@ xmlId: com.github.jetwings.jetwings-plugin</description>
       <dc:date>2026-03-10T19:52:30Z</dc:date>
     </item>
     <item>
-      <title>Mindmap - Wed Mar 11 01:48:30 UTC 2026</title>
+      <title>Mindmap - Thu Mar 12 03:27:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30511-mindmap</link>
       <description>Mind map and XMind editor plugin with a JCEF-based bridge. Current scope: open and edit .km/.xmind files, import XMind content with styles and images, save .km files...
 
@@ -183,9 +196,9 @@ vendor: mindmapx
 downloads: 8
 pricingModel: FREE
 xmlId: com.souche.mindmap.idea</description>
-      <pubDate>Wed, 11 Mar 2026 01:48:30 GMT</pubDate>
+      <pubDate>Thu, 12 Mar 2026 03:27:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30511-mindmap</guid>
-      <dc:date>2026-03-11T01:48:30Z</dc:date>
+      <dc:date>2026-03-12T03:27:33Z</dc:date>
     </item>
     <item>
       <title>JumpServer Database Credentials - Tue Mar 10 06:30:38 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.abouten.svnpackager</description>
       <pubDate>Tue, 10 Mar 2026 08:03:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30599-svn-packager</guid>
       <dc:date>2026-03-10T08:03:44Z</dc:date>
-    </item>
-    <item>
-      <title>Copy Path for Claude Code - Tue Mar 10 14:02:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30598-copy-path-for-claude-code</link>
-      <description>Copy Path for Claude Code Copy file and folder path references in the Claude Code @-mention format directly from your IDE. Paste them into Claude Code conversations so...
-
-vendor: teppasit
-downloads: 12
-pricingModel: FREE
-xmlId: com.github.copypathforclaudecode</description>
-      <pubDate>Tue, 10 Mar 2026 14:02:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30598-copy-path-for-claude-code</guid>
-      <dc:date>2026-03-10T14:02:42Z</dc:date>
     </item>
   </channel>
 </rss>
