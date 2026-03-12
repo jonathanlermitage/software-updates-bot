@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>PDE-VCS Exporter - Thu Mar 12 08:11:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30636-pde-vcs-exporter</link>
+      <description>PDE-VCS Exporter helps teams export deliverable files from local VCS changes directly inside IntelliJ IDEA. It exports Java sources as compiled .class files, exports...
+
+vendor: haiwen yang
+downloads: 0
+pricingModel: FREE
+xmlId: com.haiwen.pdevcs</description>
+      <pubDate>Thu, 12 Mar 2026 08:11:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30636-pde-vcs-exporter</guid>
+      <dc:date>2026-03-12T08:11:51Z</dc:date>
+    </item>
+    <item>
       <title>GoTools - Thu Mar 12 02:17:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30634-gotools</link>
       <description>Various Golang tools and features, including wide and configurable inlay type hints.
@@ -84,7 +97,7 @@ xmlId: dev.eministar.fahsound</description>
       <dc:date>2026-03-11T15:25:52Z</dc:date>
     </item>
     <item>
-      <title>SpecBinder - Wed Mar 11 18:40:35 UTC 2026</title>
+      <title>SpecBinder - Thu Mar 12 09:43:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30540-specbinder</link>
       <description>Gherkin (.feature and .fspec file) language support for IntelliJ-based IDEs. Features Syntax highlighting — keywords, tags, comments, tables, doc strings with...
 
@@ -92,9 +105,9 @@ vendor: Spec Bright
 downloads: 10
 pricingModel: FREE
 xmlId: dev.specbinder.intellij-plugin</description>
-      <pubDate>Wed, 11 Mar 2026 18:40:35 GMT</pubDate>
+      <pubDate>Thu, 12 Mar 2026 09:43:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30540-specbinder</guid>
-      <dc:date>2026-03-11T18:40:35Z</dc:date>
+      <dc:date>2026-03-12T09:43:54Z</dc:date>
     </item>
     <item>
       <title>MyBatis Log Helper - Thu Mar 12 01:21:33 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.wwr.plugin.jumpserver</description>
       <pubDate>Tue, 10 Mar 2026 06:30:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30508-jumpserver-database-credentials</guid>
       <dc:date>2026-03-10T06:30:38Z</dc:date>
-    </item>
-    <item>
-      <title>JSON Keypath Navigator - Tue Mar 10 12:50:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30577-json-keypath-navigator</link>
-      <description>Navigate to any element in a JSON file using a dot-separated keypath like foo.bar.baz — think XPath, but for JSON. Features Navigate by keypath — open the keypath...
-
-vendor: Jan Paul Stegeman
-downloads: 28
-pricingModel: FREE
-xmlId: net.elidon.jsonkeypath</description>
-      <pubDate>Tue, 10 Mar 2026 12:50:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30577-json-keypath-navigator</guid>
-      <dc:date>2026-03-10T12:50:56Z</dc:date>
     </item>
   </channel>
 </rss>
