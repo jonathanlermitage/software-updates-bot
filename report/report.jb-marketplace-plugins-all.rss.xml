@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FileRef - Fri Mar 13 12:19:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30661-fileref</link>
+      <description>@FileRef brings fast, fuzzy file-reference autocomplete to your scratch files, plain-text notes, and Markdown documents. Type @ and start typing a filename to...
+
+vendor: TryAlexandrIA.fr
+downloads: 0
+pricingModel: FREE
+xmlId: com.alexandria.scratchpad-plugin</description>
+      <pubDate>Fri, 13 Mar 2026 12:19:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30661-fileref</guid>
+      <dc:date>2026-03-13T12:19:12Z</dc:date>
+    </item>
+    <item>
+      <title>Hisnext Snippets - Thu Mar 12 05:55:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30611-hisnext-snippets</link>
+      <description>Live templates (code snippets) for Hisnext frontend React/TypeScript development. Covered categories: React Hooks (useForm, useToaster, useDialog...) Form components...
+
+vendor: umurislamoglu
+downloads: 1
+pricingModel: FREE
+xmlId: com.hisnext.snippets</description>
+      <pubDate>Thu, 12 Mar 2026 05:55:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30611-hisnext-snippets</guid>
+      <dc:date>2026-03-12T05:55:24Z</dc:date>
+    </item>
+    <item>
       <title>PDE-VCS Exporter - Thu Mar 12 08:11:51 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30636-pde-vcs-exporter</link>
       <description>PDE-VCS Exporter helps teams export deliverable files from local VCS changes directly inside IntelliJ IDEA. It exports Java sources as compiled .class files, exports...
@@ -238,32 +264,6 @@ xmlId: com.souche.mindmap.idea</description>
       <pubDate>Thu, 12 Mar 2026 03:27:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30511-mindmap</guid>
       <dc:date>2026-03-12T03:27:33Z</dc:date>
-    </item>
-    <item>
-      <title>JumpServer Database Credentials - Tue Mar 10 06:30:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30508-jumpserver-database-credentials</link>
-      <description>Automatically fetch database credentials from JumpServer and apply them to DataGrip connection configurations. Simplifies the workflow of connecting to databases...
-
-vendor: wwr
-downloads: 10
-pricingModel: FREE
-xmlId: com.wwr.plugin.jumpserver</description>
-      <pubDate>Tue, 10 Mar 2026 06:30:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30508-jumpserver-database-credentials</guid>
-      <dc:date>2026-03-10T06:30:38Z</dc:date>
-    </item>
-    <item>
-      <title>JSON Keypath Navigator - Tue Mar 10 12:50:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30577-json-keypath-navigator</link>
-      <description>Navigate to any element in a JSON file using a dot-separated keypath like foo.bar.baz — think XPath, but for JSON. Features Navigate by keypath — open the keypath...
-
-vendor: Jan Paul Stegeman
-downloads: 30
-pricingModel: FREE
-xmlId: net.elidon.jsonkeypath</description>
-      <pubDate>Tue, 10 Mar 2026 12:50:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30577-json-keypath-navigator</guid>
-      <dc:date>2026-03-10T12:50:56Z</dc:date>
     </item>
   </channel>
 </rss>
