@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Schema Documentation Provider - Thu Mar 12 09:39:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30622-schema-documentation-provider</link>
+      <description>Appends @Schema(description) and @Parameter(description) from Swagger/OpenAPI annotations to the Quick Documentation popup.
+
+vendor: Liva Healthcare
+downloads: 0
+pricingModel: FREE
+xmlId: com.livalife.schema-doc</description>
+      <pubDate>Thu, 12 Mar 2026 09:39:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30622-schema-documentation-provider</guid>
+      <dc:date>2026-03-12T09:39:17Z</dc:date>
+    </item>
+    <item>
+      <title>PR Pilot - Thu Mar 12 17:35:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30645-pr-pilot</link>
+      <description>PR Pilot — Review GitHub and Bitbucket Cloud Pull Requests from within IntelliJ IDEA. Features: Browse open PRs, view diffs, generate AI summaries, approve or decline...
+
+vendor: Dev Tools-pilot
+downloads: 0
+pricingModel: FREE
+xmlId: com.vitiquest.peer-review</description>
+      <pubDate>Thu, 12 Mar 2026 17:35:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30645-pr-pilot</guid>
+      <dc:date>2026-03-12T17:35:27Z</dc:date>
+    </item>
+    <item>
+      <title>FTC Companion (Local Fork) - Fri Mar 13 16:37:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30668-ftc-companion-local-fork-</link>
+      <description>Local fork of FTC Companion plugin for Android Studio. Originally created by the FTC Team Aradiors.
+
+vendor: FTC Aradiors 25262
+downloads: 0
+pricingModel: FREE
+xmlId: com.aradiors.ftccompanion</description>
+      <pubDate>Fri, 13 Mar 2026 16:37:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30668-ftc-companion-local-fork-</guid>
+      <dc:date>2026-03-13T16:37:16Z</dc:date>
+    </item>
+    <item>
+      <title>CC GUI - Fri Mar 13 16:01:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30666-cc-gui</link>
+      <description>Dual-engine GUI for Claude Code and Codex - MIT 100% Open Source Claude Code 和 Codex 的双引擎GUI MIT 100%开源产品 Claude Code Anthropic 官方 AI 编程助手（支持 Opus 4.6 等多模型） OpenAI...
+
+vendor: Jordan
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.jetbrains-long-gui</description>
+      <pubDate>Fri, 13 Mar 2026 16:01:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30666-cc-gui</guid>
+      <dc:date>2026-03-13T16:01:46Z</dc:date>
+    </item>
+    <item>
+      <title>DeepSeek Inline Completion - Fri Mar 13 15:18:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30665-deepseek-inline-completion</link>
+      <description>DeepSeek powered inline code completion for PyCharm 2024.1.
+
+vendor: Master Arthur
+downloads: 0
+pricingModel: FREE
+xmlId: com.deepseek.plugin.inline</description>
+      <pubDate>Fri, 13 Mar 2026 15:18:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30665-deepseek-inline-completion</guid>
+      <dc:date>2026-03-13T15:18:10Z</dc:date>
+    </item>
+    <item>
       <title>FileRef - Fri Mar 13 12:19:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30661-fileref</link>
       <description>@FileRef brings fast, fuzzy file-reference autocomplete to your scratch files, plain-text notes, and Markdown documents. Type @ and start typing a filename to...
@@ -199,71 +264,6 @@ xmlId: composer-sync-check</description>
       <pubDate>Tue, 10 Mar 2026 18:45:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30616-composer-sync-check</guid>
       <dc:date>2026-03-10T18:45:40Z</dc:date>
-    </item>
-    <item>
-      <title>Icarus - Thu Mar 12 20:54:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30610-icarus</link>
-      <description>A development toolkit, providing integration of Icarus build system into JetBrains' products.
-
-vendor: 64rl0
-downloads: 80
-pricingModel: FREE
-xmlId: org.carlogtt.plugins.icarus</description>
-      <pubDate>Thu, 12 Mar 2026 20:54:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30610-icarus</guid>
-      <dc:date>2026-03-12T20:54:14Z</dc:date>
-    </item>
-    <item>
-      <title>Method Timer - Tue Mar 10 13:40:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30612-method-timer</link>
-      <description>Method Timer — Automatic Method Execution Time Profiling Automatically measures Java method execution time and displays results as Code Vision lenses above method...
-
-vendor: Ivan Mezentsev
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.methodtimer</description>
-      <pubDate>Tue, 10 Mar 2026 13:40:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30612-method-timer</guid>
-      <dc:date>2026-03-10T13:40:37Z</dc:date>
-    </item>
-    <item>
-      <title>AI Git Commit Helper - Wed Mar 11 07:27:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30604-ai-git-commit-helper</link>
-      <description>AI Git Commit Helper: generates Conventional Commits style commit messages from your Git changes, with configurable OpenAI-compatible API (at least 40 characters). 根据...
-
-vendor: ghl
-downloads: 7
-pricingModel: FREE
-xmlId: com.aigit</description>
-      <pubDate>Wed, 11 Mar 2026 07:27:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30604-ai-git-commit-helper</guid>
-      <dc:date>2026-03-11T07:27:48Z</dc:date>
-    </item>
-    <item>
-      <title>JetWings - Tue Mar 10 19:52:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30092-jetwings</link>
-      <description>JetWings connects your IntelliJ IDE to your mobile device for remote monitoring and control via the cloud. Receive IDE notifications and trigger actions from your...
-
-vendor: Dorkag
-downloads: 21
-pricingModel: FREE
-xmlId: com.github.jetwings.jetwings-plugin</description>
-      <pubDate>Tue, 10 Mar 2026 19:52:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30092-jetwings</guid>
-      <dc:date>2026-03-10T19:52:30Z</dc:date>
-    </item>
-    <item>
-      <title>Mindmap - Thu Mar 12 03:27:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30511-mindmap</link>
-      <description>Mind map and XMind editor plugin with a JCEF-based bridge. Current scope: open and edit .km/.xmind files, import XMind content with styles and images, save .km files...
-
-vendor: mindmapx
-downloads: 51
-pricingModel: FREE
-xmlId: com.souche.mindmap.idea</description>
-      <pubDate>Thu, 12 Mar 2026 03:27:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30511-mindmap</guid>
-      <dc:date>2026-03-12T03:27:33Z</dc:date>
     </item>
   </channel>
 </rss>
