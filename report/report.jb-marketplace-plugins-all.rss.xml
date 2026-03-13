@@ -97,19 +97,6 @@ xmlId: dev.eministar.fahsound</description>
       <dc:date>2026-03-12T15:52:07Z</dc:date>
     </item>
     <item>
-      <title>SpecBinder - Thu Mar 12 09:43:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30540-specbinder</link>
-      <description>Gherkin (.feature and .fspec file) language support for IntelliJ-based IDEs. Features Syntax highlighting — keywords, tags, comments, tables, doc strings with...
-
-vendor: Spec Bright
-downloads: 72
-pricingModel: FREE
-xmlId: dev.specbinder.intellij-plugin</description>
-      <pubDate>Thu, 12 Mar 2026 09:43:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30540-specbinder</guid>
-      <dc:date>2026-03-12T09:43:54Z</dc:date>
-    </item>
-    <item>
       <title>MyBatis Log Helper - Thu Mar 12 01:21:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30620-mybatis-log-helper</link>
       <description>MyBatis Log Helper is your ultimate productivity booster for IntelliJ IDEA. Stop Hand-Assembling SQL! / 别再手动拼 SQL 了！ MyBatis Log Helper is your ultimate productivity...
@@ -264,6 +251,19 @@ xmlId: com.wwr.plugin.jumpserver</description>
       <pubDate>Tue, 10 Mar 2026 06:30:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30508-jumpserver-database-credentials</guid>
       <dc:date>2026-03-10T06:30:38Z</dc:date>
+    </item>
+    <item>
+      <title>JSON Keypath Navigator - Tue Mar 10 12:50:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30577-json-keypath-navigator</link>
+      <description>Navigate to any element in a JSON file using a dot-separated keypath like foo.bar.baz — think XPath, but for JSON. Features Navigate by keypath — open the keypath...
+
+vendor: Jan Paul Stegeman
+downloads: 30
+pricingModel: FREE
+xmlId: net.elidon.jsonkeypath</description>
+      <pubDate>Tue, 10 Mar 2026 12:50:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30577-json-keypath-navigator</guid>
+      <dc:date>2026-03-10T12:50:56Z</dc:date>
     </item>
   </channel>
 </rss>
