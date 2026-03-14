@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Lacak Asset - Sat Mar 14 02:05:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30301-lacak-asset</link>
+      <description>Detect similar and duplicate drawable resources in Android projects. Compares images across formats (PNG, JPG, WebP, SVG, Android XML vector) using perceptual hashing...
+
+vendor: Naufal Fawwaz Andriawan
+downloads: 1
+pricingModel: FREE
+xmlId: id.andriawan.lacak-asset</description>
+      <pubDate>Sat, 14 Mar 2026 02:05:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30301-lacak-asset</guid>
+      <dc:date>2026-03-14T02:05:13Z</dc:date>
+    </item>
+    <item>
+      <title>DLMS Translator - Thu Mar 12 17:35:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30644-dlms-translator</link>
+      <description>DLMS Translator is an essential tool for developers and engineers working with Smart Meters and the DLMS/COSEM protocol. This plugin allows you to instantly translate...
+
+vendor: Jotape
+downloads: 0
+pricingModel: FREE
+xmlId: com.jotapem.dlms-translator</description>
+      <pubDate>Thu, 12 Mar 2026 17:35:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30644-dlms-translator</guid>
+      <dc:date>2026-03-12T17:35:23Z</dc:date>
+    </item>
+    <item>
+      <title>IntelliNeon - Thu Mar 12 16:20:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30641-intellineon</link>
+      <description>Neon integration for JetBrains IDEs. Provides Neon database connection management and branch management. Features: — Add DataSources from Neon Branches — Copy...
+
+vendor: Mateusz Woźniak
+downloads: 0
+pricingModel: FREE
+xmlId: com.mateuszwozniak.intellineon</description>
+      <pubDate>Thu, 12 Mar 2026 16:20:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30641-intellineon</guid>
+      <dc:date>2026-03-12T16:20:33Z</dc:date>
+    </item>
+    <item>
+      <title>Pytest Fixture Navigator - Fri Mar 13 08:29:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30655-pytest-fixture-navigator</link>
+      <description>Instantly search and jump to any @pytest.fixture definition across your entire project. Features Searchable popup listing all fixtures found in test_*.py and...
+
+vendor: jsenin
+downloads: 0
+pricingModel: FREE
+xmlId: com.jsenin.pytestfixturenavigator.fixture-navigator</description>
+      <pubDate>Fri, 13 Mar 2026 08:29:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30655-pytest-fixture-navigator</guid>
+      <dc:date>2026-03-13T08:29:17Z</dc:date>
+    </item>
+    <item>
       <title>WildFly Extended - Fri Mar 06 20:43:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30523-wildfly-extended</link>
       <description>Adds an extra WildFly Extended tab to the bundled JBoss/WildFly Server run configuration, giving you fine-grained control over JVM and server settings without editing...
@@ -19,7 +71,7 @@ xmlId: ro.gs1.idea.wildfly-extended</description>
       <dc:date>2026-03-06T20:43:37Z</dc:date>
     </item>
     <item>
-      <title>kcp-transform-overload - Fri Mar 13 09:44:16 UTC 2026</title>
+      <title>kcp-transform-overload - Sat Mar 14 03:57:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30658-kcp-transform-overload</link>
       <description>Transform Overload IDEA Plugin side of transform-overload. add in your build.gradle.kts id("site.addzero.kcp.transform-overload") version "+" or add in your...
 
@@ -27,9 +79,9 @@ vendor: zjarlin
 downloads: 0
 pricingModel: FREE
 xmlId: site.addzero.kcp-transform-overload</description>
-      <pubDate>Fri, 13 Mar 2026 09:44:16 GMT</pubDate>
+      <pubDate>Sat, 14 Mar 2026 03:57:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30658-kcp-transform-overload</guid>
-      <dc:date>2026-03-13T09:44:16Z</dc:date>
+      <dc:date>2026-03-14T03:57:19Z</dc:date>
     </item>
     <item>
       <title>LockLane - Thu Mar 12 20:09:07 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.flexible.haskell</description>
       <pubDate>Wed, 11 Mar 2026 20:09:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30630-flexible-haskell</guid>
       <dc:date>2026-03-11T20:09:23Z</dc:date>
-    </item>
-    <item>
-      <title>Nostos - Wed Mar 11 21:11:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30631-nostos</link>
-      <description>Language support for Nostos, a functional-first programming language with lightweight concurrency, pattern matching, and non-blocking I/O.
-
-vendor: Hallvard Ystad
-downloads: 1
-pricingModel: FREE
-xmlId: org.babelserver.intellijnostos</description>
-      <pubDate>Wed, 11 Mar 2026 21:11:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30631-nostos</guid>
-      <dc:date>2026-03-11T21:11:57Z</dc:date>
-    </item>
-    <item>
-      <title>LiyaAI Coding Agent - Wed Mar 11 15:13:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30623-liyaai-coding-agent</link>
-      <description>LiyaAI Coding Agent AI-powered coding assistant for JetBrains IDEs. Powered by LiyaLabs. Chat with an intelligent agent that can read, write, and edit your files, run...
-
-vendor: LiyaLabs
-downloads: 3
-pricingModel: FREE
-xmlId: ai.liyalabs.coding-agent</description>
-      <pubDate>Wed, 11 Mar 2026 15:13:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30623-liyaai-coding-agent</guid>
-      <dc:date>2026-03-11T15:13:57Z</dc:date>
-    </item>
-    <item>
-      <title>MyDict - Wed Mar 11 07:59:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30621-mydict</link>
-      <description>IntelliJ IDEA support for MyDict Spring Boot Starter. Provides real-time recognition of generated xxxDesc fields and getter/setter methods without requiring...
-
-vendor: canjiemo
-downloads: 7
-pricingModel: FREE
-xmlId: io.github.canjiemo.mydict</description>
-      <pubDate>Wed, 11 Mar 2026 07:59:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30621-mydict</guid>
-      <dc:date>2026-03-11T07:59:16Z</dc:date>
-    </item>
-    <item>
-      <title>FAH Failure Sound - Thu Mar 12 15:52:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30495-fah-failure-sound</link>
-      <description>Hear build and run results instantly across JetBrains IDEs. FAH Failure Sound plays configurable audio cues for key IDE events, so you can stop watching output tabs...
-
-vendor: Eministar
-downloads: 42
-pricingModel: FREE
-xmlId: dev.eministar.fahsound</description>
-      <pubDate>Thu, 12 Mar 2026 15:52:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30495-fah-failure-sound</guid>
-      <dc:date>2026-03-12T15:52:07Z</dc:date>
     </item>
   </channel>
 </rss>
