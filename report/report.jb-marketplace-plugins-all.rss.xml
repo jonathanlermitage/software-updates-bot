@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>WildFly Extended - Fri Mar 06 20:43:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30523-wildfly-extended</link>
+      <description>Adds an extra WildFly Extended tab to the bundled JBoss/WildFly Server run configuration, giving you fine-grained control over JVM and server settings without editing...
+
+vendor: GS1 Data Systems SRL
+downloads: 1
+pricingModel: FREE
+xmlId: ro.gs1.idea.wildfly-extended</description>
+      <pubDate>Fri, 06 Mar 2026 20:43:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30523-wildfly-extended</guid>
+      <dc:date>2026-03-06T20:43:37Z</dc:date>
+    </item>
+    <item>
+      <title>kcp-transform-overload - Fri Mar 13 09:44:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30658-kcp-transform-overload</link>
+      <description>Transform Overload IDEA Plugin side of transform-overload. add in your build.gradle.kts id("site.addzero.kcp.transform-overload") version "+" or add in your...
+
+vendor: zjarlin
+downloads: 0
+pricingModel: FREE
+xmlId: site.addzero.kcp-transform-overload</description>
+      <pubDate>Fri, 13 Mar 2026 09:44:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30658-kcp-transform-overload</guid>
+      <dc:date>2026-03-13T09:44:16Z</dc:date>
+    </item>
+    <item>
+      <title>LockLane - Thu Mar 12 20:09:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30647-locklane</link>
+      <description>LockLane plans safe Python dependency upgrades with conflict-aware guidance. Supports requirements.txt, requirements.in, and pyproject.toml (PEP 621 and Poetry...
+
+vendor: marzmesas
+downloads: 0
+pricingModel: FREE
+xmlId: io.locklane.plugin</description>
+      <pubDate>Thu, 12 Mar 2026 20:09:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30647-locklane</guid>
+      <dc:date>2026-03-12T20:09:07Z</dc:date>
+    </item>
+    <item>
+      <title>Messaging Channel Visualizer - Fri Mar 13 08:04:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30603-messaging-channel-visualizer</link>
+      <description>Visualizes messaging broker channel configurations defined in application.properties files. Supports: Quarkus — MicroProfile Reactive Messaging (AMQP, Kafka, RabbitMQ...
+
+vendor: okiyici
+downloads: 2
+pricingModel: FREE
+xmlId: messaging.channel.visualizer</description>
+      <pubDate>Fri, 13 Mar 2026 08:04:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30603-messaging-channel-visualizer</guid>
+      <dc:date>2026-03-13T08:04:30Z</dc:date>
+    </item>
+    <item>
+      <title>SDKMAN - Fri Mar 13 06:35:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30654-sdkman</link>
+      <description>Provides autocompletion in .sdkmanrc file.
+
+vendor: SivaLabs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.sivalabs.sdkmanrc.plugin</description>
+      <pubDate>Fri, 13 Mar 2026 06:35:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30654-sdkman</guid>
+      <dc:date>2026-03-13T06:35:29Z</dc:date>
+    </item>
+    <item>
+      <title>PR Template Formatter - Wed Mar 11 17:05:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30627-pr-template-formatter</link>
+      <description>An IntelliJ IDEA plugin that generates PR templates when creating a pull request. It helps enforce industry standard PR practices such as PR description, reason...
+
+vendor: SuryatejaGajjela
+downloads: 0
+pricingModel: FREE
+xmlId: com.prtemplate.plugin.id</description>
+      <pubDate>Wed, 11 Mar 2026 17:05:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30627-pr-template-formatter</guid>
+      <dc:date>2026-03-11T17:05:39Z</dc:date>
+    </item>
+    <item>
       <title>Schema Documentation Provider - Thu Mar 12 09:39:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30622-schema-documentation-provider</link>
       <description>Appends @Schema(description) and @Parameter(description) from Swagger/OpenAPI annotations to the Quick Documentation popup.
@@ -186,84 +264,6 @@ xmlId: dev.eministar.fahsound</description>
       <pubDate>Thu, 12 Mar 2026 15:52:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30495-fah-failure-sound</guid>
       <dc:date>2026-03-12T15:52:07Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis Log Helper - Thu Mar 12 01:21:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30620-mybatis-log-helper</link>
-      <description>MyBatis Log Helper is your ultimate productivity booster for IntelliJ IDEA. Stop Hand-Assembling SQL! / 别再手动拼 SQL 了！ MyBatis Log Helper is your ultimate productivity...
-
-vendor: ChengHuan Chen
-downloads: 30
-pricingModel: FREE
-xmlId: com.mybatis.loghelper</description>
-      <pubDate>Thu, 12 Mar 2026 01:21:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30620-mybatis-log-helper</guid>
-      <dc:date>2026-03-12T01:21:33Z</dc:date>
-    </item>
-    <item>
-      <title>AI Test Generator - Thu Mar 12 00:31:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30548-ai-test-generator</link>
-      <description>AI Test Generator driven by AI, empowering TDD, first classs support for contract based testing.
-
-vendor: OpenProjectX
-downloads: 32
-pricingModel: FREE
-xmlId: org.openprojectx.aitestgen</description>
-      <pubDate>Thu, 12 Mar 2026 00:31:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30548-ai-test-generator</guid>
-      <dc:date>2026-03-12T00:31:15Z</dc:date>
-    </item>
-    <item>
-      <title>Locales-Finder - Wed Mar 11 01:32:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30619-locales-finder</link>
-      <description>Locales Finder helps you find your locales faster. It reads the JSON locales file recursively, extracting all keychain and their corresponding value. Than it organize...
-
-vendor: Yassine
-downloads: 5
-pricingModel: FREE
-xmlId: com.locales.locales-finder</description>
-      <pubDate>Wed, 11 Mar 2026 01:32:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30619-locales-finder</guid>
-      <dc:date>2026-03-11T01:32:54Z</dc:date>
-    </item>
-    <item>
-      <title>FaFaFaFa - Build Failure Sound - Wed Mar 11 17:28:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30617-fafafafa--build-failure-sound</link>
-      <description>FaFaFaFa – Build Failure Sound Alert Stop staring at your build like a microwave. FaFaFaFa plays a sound when your build fails, so you’ll know instantly when things go...
-
-vendor: skymansandy
-downloads: 31
-pricingModel: FREE
-xmlId: dev.skymansandy.fafafafa</description>
-      <pubDate>Wed, 11 Mar 2026 17:28:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30617-fafafafa--build-failure-sound</guid>
-      <dc:date>2026-03-11T17:28:23Z</dc:date>
-    </item>
-    <item>
-      <title>TokenPulse - Tue Mar 10 19:51:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30615-tokenpulse</link>
-      <description>TokenPulse aggregates token balances and credit usage across multiple AI providers directly in your IDE status bar. Track your AI spending in real-time. Beta Release...
-
-vendor: Dmitry Zhavoronkov
-downloads: 9
-pricingModel: FREE
-xmlId: org.zhavoronkov.tokenpulse</description>
-      <pubDate>Tue, 10 Mar 2026 19:51:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30615-tokenpulse</guid>
-      <dc:date>2026-03-10T19:51:34Z</dc:date>
-    </item>
-    <item>
-      <title>Composer Sync Check - Tue Mar 10 18:45:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30616-composer-sync-check</link>
-      <description>Composer Sync Check is an IntelliJ Platform plugin (tested in PhpStorm) that detects when your Composer dependencies may be out of sync with the current project state...
-
-vendor: kodesoft
-downloads: 8
-pricingModel: FREE
-xmlId: composer-sync-check</description>
-      <pubDate>Tue, 10 Mar 2026 18:45:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30616-composer-sync-check</guid>
-      <dc:date>2026-03-10T18:45:40Z</dc:date>
     </item>
   </channel>
 </rss>
