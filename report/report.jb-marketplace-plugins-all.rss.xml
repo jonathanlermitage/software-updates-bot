@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AzDTasks - Sun Mar 15 07:17:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30462-azdtasks</link>
+      <description>IntelliJ plugin to integrate Azure DevOps work items with IDE tasks.
+
+vendor: Elhanan Maayan
+downloads: 3
+pricingModel: FREE
+xmlId: org.azdtasks.AzDTasks</description>
+      <pubDate>Sun, 15 Mar 2026 07:17:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30462-azdtasks</guid>
+      <dc:date>2026-03-15T07:17:13Z</dc:date>
+    </item>
+    <item>
       <title>Lacak Asset - Sat Mar 14 02:05:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30301-lacak-asset</link>
       <description>Detect similar and duplicate drawable resources in Android projects. Compares images across formats (PNG, JPG, WebP, SVG, Android XML vector) using perceptual hashing...
 
 vendor: Naufal Fawwaz Andriawan
-downloads: 2
+downloads: 21
 pricingModel: FREE
 xmlId: id.andriawan.lacak-asset</description>
       <pubDate>Sat, 14 Mar 2026 02:05:13 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: id.andriawan.lacak-asset</description>
       <description>DLMS Translator is an essential tool for developers and engineers working with Smart Meters and the DLMS/COSEM protocol. This plugin allows you to instantly translate...
 
 vendor: Jotape
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.jotapem.dlms-translator</description>
       <pubDate>Thu, 12 Mar 2026 17:35:23 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.jotapem.dlms-translator</description>
       <description>Neon integration for JetBrains IDEs. Provides Neon database connection management and branch management. Features: — Add DataSources from Neon Branches — Copy...
 
 vendor: Mateusz Woźniak
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: com.mateuszwozniak.intellineon</description>
       <pubDate>Thu, 12 Mar 2026 16:20:33 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.mateuszwozniak.intellineon</description>
       <description>Instantly search and jump to any @pytest.fixture definition across your entire project. Features Searchable popup listing all fixtures found in test_*.py and...
 
 vendor: jsenin
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.jsenin.pytestfixturenavigator.fixture-navigator</description>
       <pubDate>Fri, 13 Mar 2026 08:29:17 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.jsenin.pytestfixturenavigator.fixture-navigator</description>
       <description>Adds an extra WildFly Extended tab to the bundled JBoss/WildFly Server run configuration, giving you fine-grained control over JVM and server settings without editing...
 
 vendor: GS1 Data Systems SRL
-downloads: 2
+downloads: 7
 pricingModel: FREE
 xmlId: ro.gs1.idea.wildfly-extended</description>
       <pubDate>Fri, 06 Mar 2026 20:43:37 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: ro.gs1.idea.wildfly-extended</description>
       <description>Transform Overload IDEA Plugin side of transform-overload. add in your build.gradle.kts id("site.addzero.kcp.transform-overload") version "+" or add in your...
 
 vendor: zjarlin
-downloads: 1
+downloads: 27
 pricingModel: FREE
 xmlId: site.addzero.kcp-transform-overload</description>
       <pubDate>Sat, 14 Mar 2026 14:10:48 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: site.addzero.kcp-transform-overload</description>
       <description>LockLane plans safe Python dependency upgrades with conflict-aware guidance. Supports requirements.txt, requirements.in, and pyproject.toml (PEP 621 and Poetry...
 
 vendor: marzmesas
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: io.locklane.plugin</description>
       <pubDate>Thu, 12 Mar 2026 20:09:07 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: io.locklane.plugin</description>
       <description>Visualizes messaging broker channel configurations defined in application.properties files. Supports: Quarkus — MicroProfile Reactive Messaging (AMQP, Kafka, RabbitMQ...
 
 vendor: okiyici
-downloads: 5
+downloads: 13
 pricingModel: FREE
 xmlId: messaging.channel.visualizer</description>
       <pubDate>Fri, 13 Mar 2026 08:04:30 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: messaging.channel.visualizer</description>
       <description>Provides autocompletion in .sdkmanrc file.
 
 vendor: SivaLabs
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: dev.sivalabs.sdkmanrc.plugin</description>
       <pubDate>Fri, 13 Mar 2026 06:35:29 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: dev.sivalabs.sdkmanrc.plugin</description>
       <description>An IntelliJ IDEA plugin that generates PR templates when creating a pull request. It helps enforce industry standard PR practices such as PR description, reason...
 
 vendor: SuryatejaGajjela
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.prtemplate.plugin.id</description>
       <pubDate>Wed, 11 Mar 2026 17:05:39 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.prtemplate.plugin.id</description>
       <description>Appends @Schema(description) and @Parameter(description) from Swagger/OpenAPI annotations to the Quick Documentation popup.
 
 vendor: Liva Healthcare
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.livalife.schema-doc</description>
       <pubDate>Thu, 12 Mar 2026 09:39:17 GMT</pubDate>
@@ -149,17 +162,17 @@ xmlId: com.livalife.schema-doc</description>
       <dc:date>2026-03-12T09:39:17Z</dc:date>
     </item>
     <item>
-      <title>PR Pilot - Thu Mar 12 17:35:27 UTC 2026</title>
+      <title>PR Pilot - Sun Mar 15 06:12:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30645-pr-pilot</link>
       <description>PR Pilot — Review GitHub and Bitbucket Cloud Pull Requests from within IntelliJ IDEA. Features: Browse open PRs, view diffs, generate AI summaries, approve or decline...
 
 vendor: Dev Tools-pilot
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.vitiquest.peer-review</description>
-      <pubDate>Thu, 12 Mar 2026 17:35:27 GMT</pubDate>
+      <pubDate>Sun, 15 Mar 2026 06:12:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30645-pr-pilot</guid>
-      <dc:date>2026-03-12T17:35:27Z</dc:date>
+      <dc:date>2026-03-15T06:12:09Z</dc:date>
     </item>
     <item>
       <title>FTC Companion (Local Fork) - Fri Mar 13 16:37:16 UTC 2026</title>
@@ -167,7 +180,7 @@ xmlId: com.vitiquest.peer-review</description>
       <description>Local fork of FTC Companion plugin for Android Studio. Originally created by the FTC Team Aradiors.
 
 vendor: FTC Aradiors 25262
-downloads: 3
+downloads: 15
 pricingModel: FREE
 xmlId: com.aradiors.ftccompanion</description>
       <pubDate>Fri, 13 Mar 2026 16:37:16 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.aradiors.ftccompanion</description>
       <description>Dual-engine GUI for Claude Code and Codex - MIT 100% Open Source Claude Code 和 Codex 的双引擎GUI MIT 100%开源产品 Claude Code Anthropic 官方 AI 编程助手（支持 Opus 4.6 等多模型） OpenAI...
 
 vendor: Jordan
-downloads: 4
+downloads: 740
 pricingModel: FREE
 xmlId: com.github.jetbrains-long-gui</description>
       <pubDate>Fri, 13 Mar 2026 16:01:46 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.github.jetbrains-long-gui</description>
       <description>DeepSeek powered inline code completion for PyCharm 2024.1.
 
 vendor: Master Arthur
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.deepseek.plugin.inline</description>
       <pubDate>Fri, 13 Mar 2026 15:18:10 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.deepseek.plugin.inline</description>
       <description>@FileRef brings fast, fuzzy file-reference autocomplete to your scratch files, plain-text notes, and Markdown documents. Type @ and start typing a filename to...
 
 vendor: TryAlexandrIA.fr
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: com.alexandria.scratchpad-plugin</description>
       <pubDate>Fri, 13 Mar 2026 12:19:12 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.alexandria.scratchpad-plugin</description>
       <description>Live templates (code snippets) for Hisnext frontend React/TypeScript development. Covered categories: React Hooks (useForm, useToaster, useDialog...) Form components...
 
 vendor: umurislamoglu
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: com.hisnext.snippets</description>
       <pubDate>Thu, 12 Mar 2026 05:55:24 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.hisnext.snippets</description>
       <description>PDE-VCS Exporter helps teams export deliverable files from local VCS changes directly inside IntelliJ IDEA. It exports Java sources as compiled .class files, exports...
 
 vendor: haiwen yang
-downloads: 14
+downloads: 15
 pricingModel: FREE
 xmlId: com.haiwen.pdevcs</description>
       <pubDate>Thu, 12 Mar 2026 08:11:51 GMT</pubDate>
@@ -251,19 +264,6 @@ xmlId: com.pyro.gotools</description>
       <pubDate>Sun, 15 Mar 2026 03:36:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30634-gotools</guid>
       <dc:date>2026-03-15T03:36:26Z</dc:date>
-    </item>
-    <item>
-      <title>Flexible Haskell - Wed Mar 11 20:09:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30630-flexible-haskell</link>
-      <description>Smart completion via HLS, GHCi REPL, structure view, code folding, Haddock docs, live templates, and run configurations. We are a new IDE extension and want to make it...
-
-vendor: Ilscipio GmbH
-downloads: 11
-pricingModel: PAID
-xmlId: com.flexible.haskell</description>
-      <pubDate>Wed, 11 Mar 2026 20:09:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30630-flexible-haskell</guid>
-      <dc:date>2026-03-11T20:09:23Z</dc:date>
     </item>
   </channel>
 </rss>
