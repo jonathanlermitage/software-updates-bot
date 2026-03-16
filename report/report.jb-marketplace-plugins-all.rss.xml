@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>All Languages Localization Pack - Mon Mar 16 08:47:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30652-all-languages-localization-pack</link>
+      <description>Adds German, Traditional Chinese, French, Portuguese, Spanish, Russian, and Polish language packs to IntelliJ IDEs. Supported Locales German - Deutsch Traditional...
+
+vendor: Code
+downloads: 1
+pricingModel: PAID
+xmlId: com.ai.dev.tools.languagePack.mu</description>
+      <pubDate>Mon, 16 Mar 2026 08:47:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30652-all-languages-localization-pack</guid>
+      <dc:date>2026-03-16T08:47:18Z</dc:date>
+    </item>
+    <item>
+      <title>icns - Mon Mar 02 09:43:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30443-icns</link>
+      <description>View and generate .icns macOS icons directly in your IDE. Features ICNS Viewer — opens .icns files in a built-in image viewer, displaying all embedded icon sizes...
+
+vendor: Alexander Khmelov
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.akhmelev.icns</description>
+      <pubDate>Mon, 02 Mar 2026 09:43:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30443-icns</guid>
+      <dc:date>2026-03-02T09:43:08Z</dc:date>
+    </item>
+    <item>
+      <title>Kotlin Toolbox - Sun Mar 15 11:43:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30324-kotlin-toolbox</link>
+      <description>Kotlin Toolbox is an IntelliJ plugin that provides a comprehensive set of tools to enhance your Kotlin development experience.
+
+vendor: André Monteiro
+downloads: 12
+pricingModel: FREE
+xmlId: com.github.andrelmv.kotbox</description>
+      <pubDate>Sun, 15 Mar 2026 11:43:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30324-kotlin-toolbox</guid>
+      <dc:date>2026-03-15T11:43:33Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode - Sat Mar 14 06:13:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30681-opencode</link>
+      <description>OpenCode AI coding agent inside your JetBrains IDE. Supports context from active file, cursor position, open tabs, and manual code selection.
+
+vendor: Parth Patel (OpenCode Fork)
+downloads: 2
+pricingModel: FREE
+xmlId: ai.opencode.plugin</description>
+      <pubDate>Sat, 14 Mar 2026 06:13:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30681-opencode</guid>
+      <dc:date>2026-03-14T06:13:06Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode Connector - Sat Mar 14 12:13:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30686-opencode-connector</link>
+      <description>Send selected code to OpenCode via keyboard shortcut.
+
+vendor: Opencode Connector
+downloads: 1
+pricingModel: FREE
+xmlId: com.epochbyte.opencode-connector</description>
+      <pubDate>Sat, 14 Mar 2026 12:13:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30686-opencode-connector</guid>
+      <dc:date>2026-03-14T12:13:53Z</dc:date>
+    </item>
+    <item>
+      <title>Context Keeper - Fri Mar 13 20:39:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30673-context-keeper</link>
+      <description>Stop losing your place. Save your IDE context and come back exactly where you left off. Every time you switch tasks — a code review lands, a meeting starts, a...
+
+vendor: Evgeny Efimenko
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.zhefimenko.contextkeeper.plugin</description>
+      <pubDate>Fri, 13 Mar 2026 20:39:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30673-context-keeper</guid>
+      <dc:date>2026-03-13T20:39:51Z</dc:date>
+    </item>
+    <item>
       <title>gitee-vcs - Sat Mar 14 00:04:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30470-gitee-vcs</link>
       <description>Provides basic Gitee integration functions for IntelliJ IDEA / JetBrains IDE: share projects to Gitee within the IDE, create/view Pull Requests, sync Forks, clone...
@@ -186,84 +264,6 @@ xmlId: dev.sivalabs.sdkmanrc.plugin</description>
       <pubDate>Fri, 13 Mar 2026 06:35:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30654-sdkman</guid>
       <dc:date>2026-03-13T06:35:29Z</dc:date>
-    </item>
-    <item>
-      <title>PR Template Formatter - Wed Mar 11 17:05:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30627-pr-template-formatter</link>
-      <description>An IntelliJ IDEA plugin that generates PR templates when creating a pull request. It helps enforce industry standard PR practices such as PR description, reason...
-
-vendor: SuryatejaGajjela
-downloads: 5
-pricingModel: FREE
-xmlId: com.prtemplate.plugin.id</description>
-      <pubDate>Wed, 11 Mar 2026 17:05:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30627-pr-template-formatter</guid>
-      <dc:date>2026-03-11T17:05:39Z</dc:date>
-    </item>
-    <item>
-      <title>Schema Documentation Provider - Thu Mar 12 09:39:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30622-schema-documentation-provider</link>
-      <description>Appends @Schema(description) and @Parameter(description) from Swagger/OpenAPI annotations to the Quick Documentation popup.
-
-vendor: Liva Healthcare
-downloads: 7
-pricingModel: FREE
-xmlId: com.livalife.schema-doc</description>
-      <pubDate>Thu, 12 Mar 2026 09:39:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30622-schema-documentation-provider</guid>
-      <dc:date>2026-03-12T09:39:17Z</dc:date>
-    </item>
-    <item>
-      <title>PR Pilot - Sun Mar 15 06:12:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30645-pr-pilot</link>
-      <description>PR Pilot — Review GitHub and Bitbucket Cloud Pull Requests from within IntelliJ IDEA. Features: Browse open PRs, view diffs, generate AI summaries, approve or decline...
-
-vendor: Dev Tools-pilot
-downloads: 14
-pricingModel: FREE
-xmlId: com.vitiquest.peer-review</description>
-      <pubDate>Sun, 15 Mar 2026 06:12:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30645-pr-pilot</guid>
-      <dc:date>2026-03-15T06:12:09Z</dc:date>
-    </item>
-    <item>
-      <title>FTC Companion (Local Fork) - Fri Mar 13 16:37:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30668-ftc-companion-local-fork-</link>
-      <description>Local fork of FTC Companion plugin for Android Studio. Originally created by the FTC Team Aradiors.
-
-vendor: FTC Aradiors 25262
-downloads: 17
-pricingModel: FREE
-xmlId: com.aradiors.ftccompanion</description>
-      <pubDate>Fri, 13 Mar 2026 16:37:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30668-ftc-companion-local-fork-</guid>
-      <dc:date>2026-03-13T16:37:16Z</dc:date>
-    </item>
-    <item>
-      <title>CC GUI - Sun Mar 15 15:55:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30666-cc-gui</link>
-      <description>Dual-engine GUI for Claude Code and Codex - MIT 100% Open Source Claude Code 和 Codex 的双引擎GUI MIT 100%开源产品 Claude Code Anthropic 官方 AI 编程助手（支持 Opus 4.6 等多模型） OpenAI...
-
-vendor: Jordan
-downloads: 1276
-pricingModel: FREE
-xmlId: com.github.jetbrains-long-gui</description>
-      <pubDate>Sun, 15 Mar 2026 15:55:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30666-cc-gui</guid>
-      <dc:date>2026-03-15T15:55:14Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek Inline Completion - Fri Mar 13 15:18:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30665-deepseek-inline-completion</link>
-      <description>DeepSeek powered inline code completion for PyCharm 2024.1.
-
-vendor: Master Arthur
-downloads: 4
-pricingModel: FREE
-xmlId: com.deepseek.plugin.inline</description>
-      <pubDate>Fri, 13 Mar 2026 15:18:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30665-deepseek-inline-completion</guid>
-      <dc:date>2026-03-13T15:18:10Z</dc:date>
     </item>
   </channel>
 </rss>
