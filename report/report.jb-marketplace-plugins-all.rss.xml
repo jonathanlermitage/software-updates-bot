@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Unicode Search - Sun Mar 15 11:02:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30701-unicode-search</link>
+      <description>Search and insert Unicode characters. This tool window plugin helps you quickly find, copy, and insert Unicode characters and symbols directly into your editor. Key...
+
+vendor: Chalda
+downloads: 0
+pricingModel: FREE
+xmlId: it.chalda.unicodesearch</description>
+      <pubDate>Sun, 15 Mar 2026 11:02:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30701-unicode-search</guid>
+      <dc:date>2026-03-15T11:02:07Z</dc:date>
+    </item>
+    <item>
+      <title>Terminal Bridge - Fri Mar 13 17:40:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30660-terminal-bridge</link>
+      <description>Expose your IntelliJ IDE terminals through a local REST API and WebSocket server, enabling programmatic terminal control from external tools. Features REST API — List...
+
+vendor: LLITD LLC
+downloads: 4
+pricingModel: FREEMIUM
+xmlId: com.llitd.terminalbridge</description>
+      <pubDate>Fri, 13 Mar 2026 17:40:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30660-terminal-bridge</guid>
+      <dc:date>2026-03-13T17:40:48Z</dc:date>
+    </item>
+    <item>
+      <title>AdpTopViewer - Sat Mar 14 15:04:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30691-adptopviewer</link>
+      <description>With just one button, you can know what the outermost activity of the current phone is, saving you development and debugging time. ADB Top Plugin allows you to quickly...
+
+vendor: Pingia
+downloads: 1
+pricingModel: FREE
+xmlId: com.pingia.AdbTopViewer</description>
+      <pubDate>Sat, 14 Mar 2026 15:04:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30691-adptopviewer</guid>
+      <dc:date>2026-03-14T15:04:39Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAI Usage Quota - Mon Mar 16 15:07:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30690-openai-usage-quota</link>
+      <description>Tracks OpenAI Codex and Code Review usage quotas in the IDE status bar and popup, including plan-specific limits across OpenAI subscription tiers, with a browser-based...
+
+vendor: Moritzf
+downloads: 1
+pricingModel: FREE
+xmlId: de.moritzf.openai-usage-quota</description>
+      <pubDate>Mon, 16 Mar 2026 15:07:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30690-openai-usage-quota</guid>
+      <dc:date>2026-03-16T15:07:27Z</dc:date>
+    </item>
+    <item>
+      <title>Basic Compose Activity - Sat Mar 14 11:38:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30684-basic-compose-activity</link>
+      <description>Adds a Basic Compose Activity project template to the Android Studio New Project wizard. Generates a multi-module Android project with Jetpack Compose, Navigation 3...
+
+vendor: DrCode
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.drjacky.basiccomposeactivityplugin</description>
+      <pubDate>Sat, 14 Mar 2026 11:38:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30684-basic-compose-activity</guid>
+      <dc:date>2026-03-14T11:38:53Z</dc:date>
+    </item>
+    <item>
+      <title>Plot Toggle - Sat Mar 14 17:48:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30693-plot-toggle</link>
+      <description>Adds a toolbar toggle button to control PyCharm's Show plots in tool window setting (Settings &amp;gt; Tools &amp;gt; Python Plots) without opening the settings dialog.
+
+vendor: RootML
+downloads: 1
+pricingModel: FREE
+xmlId: com.plottoggle.pycharm-plot-toggle</description>
+      <pubDate>Sat, 14 Mar 2026 17:48:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30693-plot-toggle</guid>
+      <dc:date>2026-03-14T17:48:34Z</dc:date>
+    </item>
+    <item>
       <title>All Languages Localization Pack - Mon Mar 16 08:47:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30652-all-languages-localization-pack</link>
       <description>Adds German, Traditional Chinese, French, Portuguese, Spanish, Russian, and Polish language packs to IntelliJ IDEs. Supported Locales German - Deutsch Traditional...
@@ -186,84 +264,6 @@ xmlId: com.mateuszwozniak.intellineon</description>
       <pubDate>Sun, 15 Mar 2026 10:09:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30641-intellineon</guid>
       <dc:date>2026-03-15T10:09:26Z</dc:date>
-    </item>
-    <item>
-      <title>Pytest Fixture Navigator - Fri Mar 13 08:29:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30655-pytest-fixture-navigator</link>
-      <description>Instantly search and jump to any @pytest.fixture definition across your entire project. Features Searchable popup listing all fixtures found in test_*.py and...
-
-vendor: jsenin
-downloads: 3
-pricingModel: FREE
-xmlId: com.jsenin.pytestfixturenavigator.fixture-navigator</description>
-      <pubDate>Fri, 13 Mar 2026 08:29:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30655-pytest-fixture-navigator</guid>
-      <dc:date>2026-03-13T08:29:17Z</dc:date>
-    </item>
-    <item>
-      <title>WildFly Extended - Fri Mar 06 20:43:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30523-wildfly-extended</link>
-      <description>Adds an extra WildFly Extended tab to the bundled JBoss/WildFly Server run configuration, giving you fine-grained control over JVM and server settings without editing...
-
-vendor: GS1 Data Systems SRL
-downloads: 8
-pricingModel: FREE
-xmlId: ro.gs1.idea.wildfly-extended</description>
-      <pubDate>Fri, 06 Mar 2026 20:43:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30523-wildfly-extended</guid>
-      <dc:date>2026-03-06T20:43:37Z</dc:date>
-    </item>
-    <item>
-      <title>kcp-transform-overload - Sat Mar 14 14:10:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30658-kcp-transform-overload</link>
-      <description>Transform Overload IDEA Plugin side of transform-overload. add in your build.gradle.kts id("site.addzero.kcp.transform-overload") version "+" or add in your...
-
-vendor: zjarlin
-downloads: 33
-pricingModel: FREE
-xmlId: site.addzero.kcp-transform-overload</description>
-      <pubDate>Sat, 14 Mar 2026 14:10:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30658-kcp-transform-overload</guid>
-      <dc:date>2026-03-14T14:10:48Z</dc:date>
-    </item>
-    <item>
-      <title>LockLane - Thu Mar 12 20:09:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30647-locklane</link>
-      <description>LockLane plans safe Python dependency upgrades with conflict-aware guidance. Supports requirements.txt, requirements.in, and pyproject.toml (PEP 621 and Poetry...
-
-vendor: marzmesas
-downloads: 7
-pricingModel: FREE
-xmlId: io.locklane.plugin</description>
-      <pubDate>Thu, 12 Mar 2026 20:09:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30647-locklane</guid>
-      <dc:date>2026-03-12T20:09:07Z</dc:date>
-    </item>
-    <item>
-      <title>Messaging Channel Visualizer - Sun Mar 15 14:46:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30603-messaging-channel-visualizer</link>
-      <description>Visualizes messaging broker channel configurations defined in application.properties files. Supports: Quarkus — MicroProfile Reactive Messaging (AMQP, Kafka, RabbitMQ...
-
-vendor: okiyici
-downloads: 39
-pricingModel: FREE
-xmlId: messaging.channel.visualizer</description>
-      <pubDate>Sun, 15 Mar 2026 14:46:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30603-messaging-channel-visualizer</guid>
-      <dc:date>2026-03-15T14:46:14Z</dc:date>
-    </item>
-    <item>
-      <title>SDKMAN - Fri Mar 13 06:35:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30654-sdkman</link>
-      <description>Provides autocompletion in .sdkmanrc file.
-
-vendor: SivaLabs
-downloads: 8
-pricingModel: FREE
-xmlId: dev.sivalabs.sdkmanrc.plugin</description>
-      <pubDate>Fri, 13 Mar 2026 06:35:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30654-sdkman</guid>
-      <dc:date>2026-03-13T06:35:29Z</dc:date>
     </item>
   </channel>
 </rss>
