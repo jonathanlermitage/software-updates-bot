@@ -11,7 +11,7 @@
       <description>Analyzes the "blast radius" of code changes in real-time. Shows how many files, classes, and downstream dependencies are affected when you modify a class. Displays...
 
 vendor: SuryatejaGajjela
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.blastradius.plugin</description>
       <pubDate>Mon, 16 Mar 2026 17:06:18 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.duckdb.gram</description>
       <description>Search and insert Unicode characters. This tool window plugin helps you quickly find, copy, and insert Unicode characters and symbols directly into your editor. Key...
 
 vendor: Chalda
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: it.chalda.unicodesearch</description>
       <pubDate>Sun, 15 Mar 2026 11:02:07 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: it.chalda.unicodesearch</description>
       <description>Expose your IntelliJ IDE terminals through a local REST API and WebSocket server, enabling programmatic terminal control from external tools. Features REST API — List...
 
 vendor: LLITD LLC
-downloads: 4
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.llitd.terminalbridge</description>
       <pubDate>Fri, 13 Mar 2026 17:40:48 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.pingia.AdbTopViewer</description>
       <description>Tracks OpenAI Codex and Code Review usage quotas in the IDE status bar and popup, including plan-specific limits across OpenAI subscription tiers, with a browser-based...
 
 vendor: Moritzf
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: de.moritzf.openai-usage-quota</description>
       <pubDate>Mon, 16 Mar 2026 15:07:27 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: de.moritzf.openai-usage-quota</description>
       <description>Adds a Basic Compose Activity project template to the Android Studio New Project wizard. Generates a multi-module Android project with Jetpack Compose, Navigation 3...
 
 vendor: DrCode
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.drjacky.basiccomposeactivityplugin</description>
       <pubDate>Sat, 14 Mar 2026 11:38:53 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.plottoggle.pycharm-plot-toggle</description>
       <description>Adds German, Traditional Chinese, French, Portuguese, Spanish, Russian, and Polish language packs to IntelliJ IDEs. Supported Locales German - Deutsch Traditional...
 
 vendor: Code
-downloads: 1
+downloads: 9
 pricingModel: PAID
 xmlId: com.ai.dev.tools.languagePack.mu</description>
       <pubDate>Mon, 16 Mar 2026 08:47:18 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.ai.dev.tools.languagePack.mu</description>
       <description>View and generate .icns macOS icons directly in your IDE. Features ICNS Viewer — opens .icns files in a built-in image viewer, displaying all embedded icon sizes...
 
 vendor: Alexander Khmelov
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.akhmelev.icns</description>
       <pubDate>Mon, 02 Mar 2026 09:43:08 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.github.akhmelev.icns</description>
       <description>Kotlin Toolbox is an IntelliJ plugin that provides a comprehensive set of tools to enhance your Kotlin development experience.
 
 vendor: André Monteiro
-downloads: 12
+downloads: 19
 pricingModel: FREE
 xmlId: com.github.andrelmv.kotbox</description>
       <pubDate>Sun, 15 Mar 2026 11:43:33 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.github.andrelmv.kotbox</description>
       <description>OpenCode AI coding agent inside your JetBrains IDE. Supports context from active file, cursor position, open tabs, and manual code selection.
 
 vendor: Parth Patel (OpenCode Fork)
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: ai.opencode.plugin</description>
       <pubDate>Sat, 14 Mar 2026 06:13:06 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.epochbyte.opencode-connector</description>
       <description>Stop losing your place. Save your IDE context and come back exactly where you left off. Every time you switch tasks — a code review lands, a meeting starts, a...
 
 vendor: Evgeny Efimenko
-downloads: 1
+downloads: 17
 pricingModel: FREE
 xmlId: io.github.zhefimenko.contextkeeper.plugin</description>
       <pubDate>Mon, 16 Mar 2026 20:43:01 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: io.github.zhefimenko.contextkeeper.plugin</description>
       <description>Provides basic Gitee integration functions for IntelliJ IDEA / JetBrains IDE: share projects to Gitee within the IDE, create/view Pull Requests, sync Forks, clone...
 
 vendor: zjarlin
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: site.addzero.gitee-vcs</description>
       <pubDate>Sat, 14 Mar 2026 00:04:34 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: site.addzero.gitee-vcs</description>
       <description>Provides productivity support for Flutter developers using Riverpod. The support includes: Riverpod code generation shortcuts Widget conversion intentions Live...
 
 vendor: Vinit Garach
-downloads: 2
+downloads: 7
 pricingModel: FREE
 xmlId: dev.riverpod.gen.shortcuts</description>
       <pubDate>Sun, 15 Mar 2026 17:11:50 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.riverpod.gen.shortcuts</description>
       <description>One-click launcher that finds a running Flutter/Dart VM Service and opens Uyava Desktop Pro with the project context.
 
 vendor: Uyava
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: io.uyava.desktop.launcher</description>
       <pubDate>Mon, 09 Mar 2026 03:30:16 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: io.uyava.desktop.launcher</description>
       <description>Compose HotSwan: Fast, reliable hot reload for Jetpack Compose. Edit your Jetpack Compose or resource files, save, and see changes on the device instantly: no app...
 
 vendor: skydoves
-downloads: 34
+downloads: 61
 pricingModel: FREEMIUM
 xmlId: com.skydoves.compose.hotswan</description>
       <pubDate>Sun, 15 Mar 2026 00:25:20 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.skydoves.compose.hotswan</description>
       <description>IntelliJ plugin to integrate Azure DevOps work items with IDE tasks.
 
 vendor: Elhanan Maayan
-downloads: 16
+downloads: 22
 pricingModel: FREE
 xmlId: org.azdtasks.AzDTasks</description>
       <pubDate>Sun, 15 Mar 2026 07:17:13 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: org.azdtasks.AzDTasks</description>
       <description>Detect similar and duplicate drawable resources in Android projects. Compares images across formats (PNG, JPG, WebP, SVG, Android XML vector) using perceptual hashing...
 
 vendor: Naufal Fawwaz Andriawan
-downloads: 25
+downloads: 27
 pricingModel: FREE
 xmlId: id.andriawan.lacak-asset</description>
       <pubDate>Sat, 14 Mar 2026 02:05:13 GMT</pubDate>
