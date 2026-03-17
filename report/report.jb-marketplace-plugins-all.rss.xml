@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AI Blast Radius Analyzer - Mon Mar 16 17:06:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30726-ai-blast-radius-analyzer</link>
+      <description>Analyzes the "blast radius" of code changes in real-time. Shows how many files, classes, and downstream dependencies are affected when you modify a class. Displays...
+
+vendor: SuryatejaGajjela
+downloads: 0
+pricingModel: FREE
+xmlId: com.blastradius.plugin</description>
+      <pubDate>Mon, 16 Mar 2026 17:06:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30726-ai-blast-radius-analyzer</guid>
+      <dc:date>2026-03-16T17:06:18Z</dc:date>
+    </item>
+    <item>
+      <title>DuckDB Grammar Support - Mon Mar 16 16:14:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30725-duckdb-grammar-support</link>
+      <description>Provides IDE support for DuckDB PEG grammar files (.gram): Syntax highlighting Go to Definition and Find Usages for grammar rules Navigation between grammar rules and...
+
+vendor: Dtenwolde
+downloads: 0
+pricingModel: FREE
+xmlId: com.duckdb.gram</description>
+      <pubDate>Mon, 16 Mar 2026 16:14:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30725-duckdb-grammar-support</guid>
+      <dc:date>2026-03-16T16:14:00Z</dc:date>
+    </item>
+    <item>
       <title>Unicode Search - Sun Mar 15 11:02:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30701-unicode-search</link>
       <description>Search and insert Unicode characters. This tool window plugin helps you quickly find, copy, and insert Unicode characters and symbols directly into your editor. Key...
@@ -149,7 +175,7 @@ xmlId: com.epochbyte.opencode-connector</description>
       <dc:date>2026-03-14T12:13:53Z</dc:date>
     </item>
     <item>
-      <title>Context Keeper - Fri Mar 13 20:39:51 UTC 2026</title>
+      <title>Context Keeper - Mon Mar 16 20:43:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30673-context-keeper</link>
       <description>Stop losing your place. Save your IDE context and come back exactly where you left off. Every time you switch tasks — a code review lands, a meeting starts, a...
 
@@ -157,9 +183,9 @@ vendor: Evgeny Efimenko
 downloads: 1
 pricingModel: FREE
 xmlId: io.github.zhefimenko.contextkeeper.plugin</description>
-      <pubDate>Fri, 13 Mar 2026 20:39:51 GMT</pubDate>
+      <pubDate>Mon, 16 Mar 2026 20:43:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30673-context-keeper</guid>
-      <dc:date>2026-03-13T20:39:51Z</dc:date>
+      <dc:date>2026-03-16T20:43:01Z</dc:date>
     </item>
     <item>
       <title>gitee-vcs - Sat Mar 14 00:04:34 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: id.andriawan.lacak-asset</description>
       <pubDate>Sat, 14 Mar 2026 02:05:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30301-lacak-asset</guid>
       <dc:date>2026-03-14T02:05:13Z</dc:date>
-    </item>
-    <item>
-      <title>DLMS Translator - Sun Mar 15 16:51:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30644-dlms-translator</link>
-      <description>DLMS Translator is an essential tool for developers and engineers working with Smart Meters and the DLMS/COSEM protocol. This plugin allows you to instantly translate...
-
-vendor: Jotape
-downloads: 22
-pricingModel: FREE
-xmlId: com.jotapem.dlms-translator</description>
-      <pubDate>Sun, 15 Mar 2026 16:51:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30644-dlms-translator</guid>
-      <dc:date>2026-03-15T16:51:44Z</dc:date>
-    </item>
-    <item>
-      <title>IntelliNeon - Sun Mar 15 10:09:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30641-intellineon</link>
-      <description>NeonDB integration for JetBrains IDEs. Provides Neon database connection management and branch management. Features: — Add DataSources from Neon Branches — Copy...
-
-vendor: Mateusz Woźniak
-downloads: 21
-pricingModel: FREE
-xmlId: com.mateuszwozniak.intellineon</description>
-      <pubDate>Sun, 15 Mar 2026 10:09:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30641-intellineon</guid>
-      <dc:date>2026-03-15T10:09:26Z</dc:date>
     </item>
   </channel>
 </rss>
