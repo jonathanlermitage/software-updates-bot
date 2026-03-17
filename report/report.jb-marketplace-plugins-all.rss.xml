@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>PR Desk for Bitbucket Cloud - Tue Mar 17 10:19:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30657-pr-desk-for-bitbucket-cloud</link>
+      <description>Review Bitbucket Cloud pull requests, inspect diffs, manage comments, and keep PR workflows inside JetBrains IDEs.
+
+vendor: gther248
+downloads: 8
+pricingModel: FREE
+xmlId: com.kimdonggeun.prdesk.bitbucketcloud</description>
+      <pubDate>Tue, 17 Mar 2026 10:19:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30657-pr-desk-for-bitbucket-cloud</guid>
+      <dc:date>2026-03-17T10:19:19Z</dc:date>
+    </item>
+    <item>
+      <title>Vantage: Spring Boot Performance Analyzer - Mon Mar 16 19:58:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30731-vantage-spring-boot-performance-analyzer</link>
+      <description>Smart detector for N+1 queries, hidden EAGER fetches, and architectural bottlenecks in Spring Boot &amp;amp; JPA applications. Features: Loop Database N+1 Detection...
+
+vendor: Yunus BAYDAR
+downloads: 0
+pricingModel: FREE
+xmlId: io.vantage.vantage-intellij-plugin</description>
+      <pubDate>Mon, 16 Mar 2026 19:58:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30731-vantage-spring-boot-performance-analyzer</guid>
+      <dc:date>2026-03-16T19:58:43Z</dc:date>
+    </item>
+    <item>
+      <title>libSQL / Turso - Mon Mar 16 18:54:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30729-libsql--turso</link>
+      <description>libSQL / Turso Database Driver for DataGrip Native JDBC driver that connects DataGrip to libSQL and Turso databases via the HTTP pipeline API. No external dependencies...
+
+vendor: dot industries, Inc
+downloads: 0
+pricingModel: FREE
+xmlId: com.dotinc.datagrip-libsql</description>
+      <pubDate>Mon, 16 Mar 2026 18:54:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30729-libsql--turso</guid>
+      <dc:date>2026-03-16T18:54:12Z</dc:date>
+    </item>
+    <item>
+      <title>Ridiculous Coding - Mon Mar 16 20:30:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30712-ridiculous-coding</link>
+      <description>Ridiculous Coding Make your coding experience in IntelliJ 1000x more ridiculous. Source available here...
+
+vendor: Bryant James
+downloads: 1
+pricingModel: FREE
+xmlId: com.bryantjames.ridiculouscoding</description>
+      <pubDate>Mon, 16 Mar 2026 20:30:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30712-ridiculous-coding</guid>
+      <dc:date>2026-03-16T20:30:51Z</dc:date>
+    </item>
+    <item>
+      <title>X.509 Certificate Viewer - Mon Mar 16 16:31:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30727-x-509-certificate-viewer</link>
+      <description>Expert tool for inspecting X.509 certificates (PEM, DER, CRT, CER). Features: Detail view of Subject, Issuer, Serial Number. Validity period tracking. Extension...
+
+vendor: GMM
+downloads: 0
+pricingModel: FREE
+xmlId: com.architect.certviewer</description>
+      <pubDate>Mon, 16 Mar 2026 16:31:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30727-x-509-certificate-viewer</guid>
+      <dc:date>2026-03-16T16:31:21Z</dc:date>
+    </item>
+    <item>
+      <title>JStall - Fri Mar 13 16:02:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30667-jstall</link>
+      <description>A tiny plugin to integrate the jstall CLI tool into IntelliJ, giving you JVM diagnostics (thread analysis, deadlock detection, flame graphs, …) directly in your IDE...
+
+vendor: Johannes Bechberger
+downloads: 1
+pricingModel: FREE
+xmlId: me.bechberger.jstall</description>
+      <pubDate>Fri, 13 Mar 2026 16:02:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30667-jstall</guid>
+      <dc:date>2026-03-13T16:02:17Z</dc:date>
+    </item>
+    <item>
+      <title>Git Commit Message Prefix - Tue Mar 17 15:50:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30699-git-commit-message-prefix</link>
+      <description>Git Commit Auto Prefix is a tool for developers who want to standardize their commit messages without manual typing &#x1f680; Key Features Regex-Powered Automation: Define...
+
+vendor: Denis Kholopov
+downloads: 1
+pricingModel: FREE
+xmlId: ru.kre4.gitprefix</description>
+      <pubDate>Tue, 17 Mar 2026 15:50:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30699-git-commit-message-prefix</guid>
+      <dc:date>2026-03-17T15:50:20Z</dc:date>
+    </item>
+    <item>
       <title>AI Blast Radius Analyzer - Mon Mar 16 17:06:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30726-ai-blast-radius-analyzer</link>
       <description>Analyzes the "blast radius" of code changes in real-time. Shows how many files, classes, and downstream dependencies are affected when you modify a class. Displays...
@@ -19,7 +110,7 @@ xmlId: com.blastradius.plugin</description>
       <dc:date>2026-03-16T17:06:18Z</dc:date>
     </item>
     <item>
-      <title>DuckDB Grammar Support - Tue Mar 17 11:48:50 UTC 2026</title>
+      <title>DuckDB Grammar Support - Tue Mar 17 12:35:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30725-duckdb-grammar-support</link>
       <description>Provides IDE support for DuckDB PEG grammar files (.gram): Syntax highlighting Go to Definition and Find Usages for grammar rules Navigation between grammar rules and...
 
@@ -27,9 +118,9 @@ vendor: Dtenwolde
 downloads: 0
 pricingModel: FREE
 xmlId: com.duckdb.gram</description>
-      <pubDate>Tue, 17 Mar 2026 11:48:50 GMT</pubDate>
+      <pubDate>Tue, 17 Mar 2026 12:35:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30725-duckdb-grammar-support</guid>
-      <dc:date>2026-03-17T11:48:50Z</dc:date>
+      <dc:date>2026-03-17T12:35:00Z</dc:date>
     </item>
     <item>
       <title>Unicode Search - Sun Mar 15 11:02:07 UTC 2026</title>
@@ -84,7 +175,7 @@ xmlId: de.moritzf.openai-usage-quota</description>
       <dc:date>2026-03-16T15:07:27Z</dc:date>
     </item>
     <item>
-      <title>Basic Compose Activity - Sat Mar 14 11:38:53 UTC 2026</title>
+      <title>Basic Compose Activity - Tue Mar 17 13:51:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30684-basic-compose-activity</link>
       <description>Adds a Basic Compose Activity project template to the Android Studio New Project wizard. Generates a multi-module Android project with Jetpack Compose, Navigation 3...
 
@@ -92,9 +183,9 @@ vendor: DrCode
 downloads: 2
 pricingModel: FREE
 xmlId: com.github.drjacky.basiccomposeactivityplugin</description>
-      <pubDate>Sat, 14 Mar 2026 11:38:53 GMT</pubDate>
+      <pubDate>Tue, 17 Mar 2026 13:51:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30684-basic-compose-activity</guid>
-      <dc:date>2026-03-14T11:38:53Z</dc:date>
+      <dc:date>2026-03-17T13:51:34Z</dc:date>
     </item>
     <item>
       <title>Plot Toggle - Sat Mar 14 17:48:34 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: com.epochbyte.opencode-connector</description>
       <pubDate>Sat, 14 Mar 2026 12:13:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30686-opencode-connector</guid>
       <dc:date>2026-03-14T12:13:53Z</dc:date>
-    </item>
-    <item>
-      <title>Context Keeper - Mon Mar 16 20:43:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30673-context-keeper</link>
-      <description>Stop losing your place. Save your IDE context and come back exactly where you left off. Every time you switch tasks — a code review lands, a meeting starts, a...
-
-vendor: Evgeny Efimenko
-downloads: 17
-pricingModel: FREE
-xmlId: io.github.zhefimenko.contextkeeper.plugin</description>
-      <pubDate>Mon, 16 Mar 2026 20:43:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30673-context-keeper</guid>
-      <dc:date>2026-03-16T20:43:01Z</dc:date>
-    </item>
-    <item>
-      <title>gitee-vcs - Sat Mar 14 00:04:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30470-gitee-vcs</link>
-      <description>Provides basic Gitee integration functions for IntelliJ IDEA / JetBrains IDE: share projects to Gitee within the IDE, create/view Pull Requests, sync Forks, clone...
-
-vendor: zjarlin
-downloads: 3
-pricingModel: FREE
-xmlId: site.addzero.gitee-vcs</description>
-      <pubDate>Sat, 14 Mar 2026 00:04:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30470-gitee-vcs</guid>
-      <dc:date>2026-03-14T00:04:34Z</dc:date>
-    </item>
-    <item>
-      <title>Riverpod Gen Shortcuts - Sun Mar 15 17:11:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30670-riverpod-gen-shortcuts</link>
-      <description>Provides productivity support for Flutter developers using Riverpod. The support includes: Riverpod code generation shortcuts Widget conversion intentions Live...
-
-vendor: Vinit Garach
-downloads: 7
-pricingModel: FREE
-xmlId: dev.riverpod.gen.shortcuts</description>
-      <pubDate>Sun, 15 Mar 2026 17:11:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30670-riverpod-gen-shortcuts</guid>
-      <dc:date>2026-03-15T17:11:50Z</dc:date>
-    </item>
-    <item>
-      <title>Uyava Desktop Launcher - Mon Mar 09 03:30:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30566-uyava-desktop-launcher</link>
-      <description>One-click launcher that finds a running Flutter/Dart VM Service and opens Uyava Desktop Pro with the project context.
-
-vendor: Uyava
-downloads: 5
-pricingModel: FREE
-xmlId: io.uyava.desktop.launcher</description>
-      <pubDate>Mon, 09 Mar 2026 03:30:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30566-uyava-desktop-launcher</guid>
-      <dc:date>2026-03-09T03:30:16Z</dc:date>
-    </item>
-    <item>
-      <title>Compose HotSwan - Tue Mar 17 09:32:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30551-compose-hotswan</link>
-      <description>Compose HotSwan: Fast, reliable hot reload for Jetpack Compose. Edit your Jetpack Compose or resource files, save, and see changes on the device instantly: no app...
-
-vendor: skydoves
-downloads: 61
-pricingModel: FREEMIUM
-xmlId: com.skydoves.compose.hotswan</description>
-      <pubDate>Tue, 17 Mar 2026 09:32:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30551-compose-hotswan</guid>
-      <dc:date>2026-03-17T09:32:42Z</dc:date>
-    </item>
-    <item>
-      <title>AzDTasks - Sun Mar 15 07:17:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30462-azdtasks</link>
-      <description>IntelliJ plugin to integrate Azure DevOps work items with IDE tasks.
-
-vendor: Elhanan Maayan
-downloads: 22
-pricingModel: FREE
-xmlId: org.azdtasks.AzDTasks</description>
-      <pubDate>Sun, 15 Mar 2026 07:17:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30462-azdtasks</guid>
-      <dc:date>2026-03-15T07:17:13Z</dc:date>
-    </item>
-    <item>
-      <title>Lacak Asset - Sat Mar 14 02:05:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30301-lacak-asset</link>
-      <description>Detect similar and duplicate drawable resources in Android projects. Compares images across formats (PNG, JPG, WebP, SVG, Android XML vector) using perceptual hashing...
-
-vendor: Naufal Fawwaz Andriawan
-downloads: 27
-pricingModel: FREE
-xmlId: id.andriawan.lacak-asset</description>
-      <pubDate>Sat, 14 Mar 2026 02:05:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30301-lacak-asset</guid>
-      <dc:date>2026-03-14T02:05:13Z</dc:date>
     </item>
   </channel>
 </rss>
