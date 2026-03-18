@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LayerLint - Sat Mar 14 11:41:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30685-layerlint</link>
+      <description>LayerLint — AI-powered Dockerfile linting and fixing for JetBrains IDEs. Automatically detects Dockerfile problems and generates AI-powered fixes using Anthropic...
+
+vendor: LayerLint AI
+downloads: 1
+pricingModel: FREE
+xmlId: io.layerlint.jetbrains</description>
+      <pubDate>Sat, 14 Mar 2026 11:41:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30685-layerlint</guid>
+      <dc:date>2026-03-14T11:41:08Z</dc:date>
+    </item>
+    <item>
+      <title>Traffic Light Buttons - Wed Mar 18 03:12:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30756-traffic-light-buttons</link>
+      <description>GitHub Sponsors | Ko-fi | PayPal Replaces Close/Minimize/Maximize window buttons with macOS-style traffic light buttons for all JetBrains IDEs (Linux only). Features...
+
+vendor: DDC Softwares
+downloads: 0
+pricingModel: FREE
+xmlId: com.ddc.trafficlightbuttons</description>
+      <pubDate>Wed, 18 Mar 2026 03:12:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30756-traffic-light-buttons</guid>
+      <dc:date>2026-03-18T03:12:28Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Code Intelligence - Wed Mar 18 02:52:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30708-mcp-code-intelligence</link>
+      <description>MCP Code Intelligence exposes 12 IDE-level semantic analysis tools to AI agents through the Model Context Protocol (MCP). Instead of relying on grep and file reads, AI...
+
+vendor: StarsMilky
+downloads: 1
+pricingModel: FREE
+xmlId: com.codeintel.mcpserver.MCPCodeIntelligence</description>
+      <pubDate>Wed, 18 Mar 2026 02:52:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30708-mcp-code-intelligence</guid>
+      <dc:date>2026-03-18T02:52:46Z</dc:date>
+    </item>
+    <item>
+      <title>BookPeek - Wed Mar 18 02:51:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30744-bookpeek</link>
+      <description>Read novels and text files inside your IDE. Features: Open and read TXT files directly in a tool window Automatic chapter detection with configurable regex patterns...
+
+vendor: Roshan
+downloads: 0
+pricingModel: FREE
+xmlId: com.roshan.BookPeek</description>
+      <pubDate>Wed, 18 Mar 2026 02:51:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30744-bookpeek</guid>
+      <dc:date>2026-03-18T02:51:42Z</dc:date>
+    </item>
+    <item>
+      <title>schema-to-code - Tue Mar 17 22:11:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30752-schema-to-code</link>
+      <description>Schema to Code converts JSON data into type-safe code instantly. Features: Generate TypeScript interfaces or type aliases from JSONMultiple naming strategies...
+
+vendor: Ahmed Elhakim
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.ahmedwelhakim.schematocode</description>
+      <pubDate>Tue, 17 Mar 2026 22:11:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30752-schema-to-code</guid>
+      <dc:date>2026-03-17T22:11:23Z</dc:date>
+    </item>
+    <item>
       <title>Strudel Studio - Tue Mar 17 15:11:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30748-strudel-studio</link>
       <description>Live coding audio studio with REPL, piano roll, mixer, sheet music, MIDI import, effects rack, MCP endpoint, and more. We thought that coding music with Strudel was a...
@@ -63,7 +128,7 @@ xmlId: org.klauss.rescript</description>
       <description>Navigate between Spring application configuration properties and their code references. Supports bidirectional navigation: Config → Code: Click gutter icons in...
 
 vendor: jonilchan
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.spring-config-jump</description>
       <pubDate>Mon, 16 Mar 2026 06:38:35 GMT</pubDate>
@@ -76,7 +141,7 @@ xmlId: com.github.spring-config-jump</description>
       <description>Starts an embedded HTTP server inside IntelliJ IDEA that allows triggering a project build remotely via a simple HTTP GET request. Usage Once the plugin is active and...
 
 vendor: Joergdev
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: de.joergdev.remotebuildtrigger</description>
       <pubDate>Thu, 12 Mar 2026 22:07:51 GMT</pubDate>
@@ -141,7 +206,7 @@ xmlId: com.github.uschalabamba.llmask</description>
       <description>Version Draft is an ultimate lightweight IntelliJ IDEA plugin designed for developers to manage release notes, changelogs, and task checklists seamlessly within the...
 
 vendor: RyanXie
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.ryanxie0827.versiondraft</description>
       <pubDate>Mon, 16 Mar 2026 08:29:53 GMT</pubDate>
@@ -193,77 +258,12 @@ xmlId: com.openshell.idea.toolbar</description>
       <description>Workspace Package Navigator improves the Go-to Declaration action for projects that use npm workspaces and linked packages inside node_modules. When a dependency in...
 
 vendor: Dmytro Pokhodenko
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.pokhodenko.wpn</description>
       <pubDate>Mon, 16 Mar 2026 08:23:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30640-workspace-package-navigator</guid>
       <dc:date>2026-03-16T08:23:07Z</dc:date>
-    </item>
-    <item>
-      <title>Kora Support - Tue Mar 17 14:27:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30747-kora-support</link>
-      <description>Provides Spring-like "Go to Declaration" navigation for the Kora DI framework. Navigate from dependency injection points (constructor parameters, factory method...
-
-vendor: Daniil Sudomoin
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.dsudomoin.kora-plugin</description>
-      <pubDate>Tue, 17 Mar 2026 14:27:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30747-kora-support</guid>
-      <dc:date>2026-03-17T14:27:23Z</dc:date>
-    </item>
-    <item>
-      <title>Region Highlights - Sun Mar 15 16:38:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30705-region-highlights</link>
-      <description>Coloring #region lines to make them easier to see in Rider. You might start to love Regions with this feature. Nested regions are rendered in a different color. Fully...
-
-vendor: Can Baycay
-downloads: 1
-pricingModel: FREE
-xmlId: com.canbaycay.regionhighlights</description>
-      <pubDate>Sun, 15 Mar 2026 16:38:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30705-region-highlights</guid>
-      <dc:date>2026-03-15T16:38:51Z</dc:date>
-    </item>
-    <item>
-      <title>Starlight - Sun Mar 15 20:40:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30710-starlight</link>
-      <description>Starlark language support for Bazel files: syntax highlighting, line comments, and parser errors.
-
-vendor: Byoungchan Lee
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.bc-lee.starlight</description>
-      <pubDate>Sun, 15 Mar 2026 20:40:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30710-starlight</guid>
-      <dc:date>2026-03-15T20:40:58Z</dc:date>
-    </item>
-    <item>
-      <title>PR Desk for Bitbucket Cloud - Tue Mar 17 10:19:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30657-pr-desk-for-bitbucket-cloud</link>
-      <description>Review Bitbucket Cloud pull requests, inspect diffs, manage comments, and keep PR workflows inside JetBrains IDEs.
-
-vendor: gther248
-downloads: 8
-pricingModel: FREE
-xmlId: com.kimdonggeun.prdesk.bitbucketcloud</description>
-      <pubDate>Tue, 17 Mar 2026 10:19:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30657-pr-desk-for-bitbucket-cloud</guid>
-      <dc:date>2026-03-17T10:19:19Z</dc:date>
-    </item>
-    <item>
-      <title>Vantage: Spring Boot Performance Analyzer - Mon Mar 16 19:58:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30731-vantage-spring-boot-performance-analyzer</link>
-      <description>Smart detector for N+1 queries, hidden EAGER fetches, and architectural bottlenecks in Spring Boot &amp;amp; JPA applications. Features: Loop Database N+1 Detection...
-
-vendor: Yunus BAYDAR
-downloads: 0
-pricingModel: FREE
-xmlId: io.vantage.vantage-intellij-plugin</description>
-      <pubDate>Mon, 16 Mar 2026 19:58:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30731-vantage-spring-boot-performance-analyzer</guid>
-      <dc:date>2026-03-16T19:58:43Z</dc:date>
     </item>
   </channel>
 </rss>
