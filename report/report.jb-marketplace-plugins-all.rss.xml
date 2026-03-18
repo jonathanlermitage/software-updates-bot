@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Strudel Studio - Tue Mar 17 15:11:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30748-strudel-studio</link>
+      <description>Live coding audio studio with REPL, piano roll, mixer, sheet music, MIDI import, effects rack, MCP endpoint, and more. We thought that coding music with Strudel was a...
+
+vendor: Ilscipio GmbH
+downloads: 0
+pricingModel: PAID
+xmlId: com.flexible.strudel</description>
+      <pubDate>Tue, 17 Mar 2026 15:11:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30748-strudel-studio</guid>
+      <dc:date>2026-03-17T15:11:28Z</dc:date>
+    </item>
+    <item>
+      <title>K Presentation Buddy - Mon Mar 09 04:22:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30567-k-presentation-buddy</link>
+      <description>Automate your presentation demonstrations with K Presentation Buddy! Create polished, repeatable code demonstrations for presentations, tutorials, and live coding...
+
+vendor: Advntrs LLC
+downloads: 1
+pricingModel: FREE
+xmlId: com.advntrs.kpresentationbuddy</description>
+      <pubDate>Mon, 09 Mar 2026 04:22:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30567-k-presentation-buddy</guid>
+      <dc:date>2026-03-09T04:22:04Z</dc:date>
+    </item>
+    <item>
+      <title>kluster.ai - Thu Mar 12 18:07:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30646-kluster-ai</link>
+      <description>Real-Time AI Code Review in Your IDE kluster.ai catches bugs, security vulnerabilities, and broken assumptions as you write code — before they ever reach production...
+
+vendor: kluster.ai
+downloads: 2
+pricingModel: FREE
+xmlId: ai.kluster.instant-review</description>
+      <pubDate>Thu, 12 Mar 2026 18:07:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30646-kluster-ai</guid>
+      <dc:date>2026-03-12T18:07:21Z</dc:date>
+    </item>
+    <item>
+      <title>ReScript Language - Sun Mar 15 22:10:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30711-rescript-language</link>
+      <description>Support for the ReScript programming language. Uses the `@rescript/language-server` for autocomplete, semantic analysis, type info, etc. This is a minimal alternative...
+
+vendor: Johannes Klauss
+downloads: 1
+pricingModel: FREE
+xmlId: org.klauss.rescript</description>
+      <pubDate>Sun, 15 Mar 2026 22:10:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30711-rescript-language</guid>
+      <dc:date>2026-03-15T22:10:33Z</dc:date>
+    </item>
+    <item>
       <title>Spring Config Jump - Mon Mar 16 06:38:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30718-spring-config-jump</link>
       <description>Navigate between Spring application configuration properties and their code references. Supports bidirectional navigation: Config → Code: Click gutter icons in...
@@ -212,58 +264,6 @@ xmlId: io.vantage.vantage-intellij-plugin</description>
       <pubDate>Mon, 16 Mar 2026 19:58:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30731-vantage-spring-boot-performance-analyzer</guid>
       <dc:date>2026-03-16T19:58:43Z</dc:date>
-    </item>
-    <item>
-      <title>libSQL / Turso - Tue Mar 17 17:44:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30729-libsql--turso</link>
-      <description>libSQL / Turso Database Driver for DataGrip Native JDBC driver that connects DataGrip to libSQL and Turso databases via the HTTP pipeline API. No external dependencies...
-
-vendor: dot industries, Inc
-downloads: 0
-pricingModel: FREE
-xmlId: com.dotinc.datagrip-libsql</description>
-      <pubDate>Tue, 17 Mar 2026 17:44:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30729-libsql--turso</guid>
-      <dc:date>2026-03-17T17:44:10Z</dc:date>
-    </item>
-    <item>
-      <title>Ridiculous Coding - Tue Mar 17 23:53:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30712-ridiculous-coding</link>
-      <description>Ridiculous Coding Make your coding experience in IntelliJ 1000x more ridiculous. Source available here...
-
-vendor: Bryant James
-downloads: 1
-pricingModel: FREE
-xmlId: com.bryantjames.ridiculouscoding</description>
-      <pubDate>Tue, 17 Mar 2026 23:53:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30712-ridiculous-coding</guid>
-      <dc:date>2026-03-17T23:53:27Z</dc:date>
-    </item>
-    <item>
-      <title>X.509 Certificate Viewer - Mon Mar 16 16:31:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30727-x-509-certificate-viewer</link>
-      <description>Expert tool for inspecting X.509 certificates (PEM, DER, CRT, CER). Features: Detail view of Subject, Issuer, Serial Number. Validity period tracking. Extension...
-
-vendor: GMM
-downloads: 0
-pricingModel: FREE
-xmlId: com.architect.certviewer</description>
-      <pubDate>Mon, 16 Mar 2026 16:31:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30727-x-509-certificate-viewer</guid>
-      <dc:date>2026-03-16T16:31:21Z</dc:date>
-    </item>
-    <item>
-      <title>JStall - Fri Mar 13 16:02:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30667-jstall</link>
-      <description>A tiny plugin to integrate the jstall CLI tool into IntelliJ, giving you JVM diagnostics (thread analysis, deadlock detection, flame graphs, …) directly in your IDE...
-
-vendor: Johannes Bechberger
-downloads: 1
-pricingModel: FREE
-xmlId: me.bechberger.jstall</description>
-      <pubDate>Fri, 13 Mar 2026 16:02:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30667-jstall</guid>
-      <dc:date>2026-03-13T16:02:17Z</dc:date>
     </item>
   </channel>
 </rss>
