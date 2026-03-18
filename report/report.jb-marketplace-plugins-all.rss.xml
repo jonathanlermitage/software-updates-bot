@@ -6,6 +6,188 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Spring Config Jump - Mon Mar 16 06:38:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30718-spring-config-jump</link>
+      <description>Navigate between Spring application configuration properties and their code references. Supports bidirectional navigation: Config → Code: Click gutter icons in...
+
+vendor: jonilchan
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.spring-config-jump</description>
+      <pubDate>Mon, 16 Mar 2026 06:38:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30718-spring-config-jump</guid>
+      <dc:date>2026-03-16T06:38:35Z</dc:date>
+    </item>
+    <item>
+      <title>Remote Build Trigger - Thu Mar 12 22:07:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30650-remote-build-trigger</link>
+      <description>Starts an embedded HTTP server inside IntelliJ IDEA that allows triggering a project build remotely via a simple HTTP GET request. Usage Once the plugin is active and...
+
+vendor: Joergdev
+downloads: 1
+pricingModel: FREE
+xmlId: de.joergdev.remotebuildtrigger</description>
+      <pubDate>Thu, 12 Mar 2026 22:07:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30650-remote-build-trigger</guid>
+      <dc:date>2026-03-12T22:07:51Z</dc:date>
+    </item>
+    <item>
+      <title>ZombieProgressBar - Sun Mar 15 12:03:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30702-zombieprogressbar</link>
+      <description>A zombie progress bar for IntelliJ and JetBrains IDEs. Replaces the default progress bar with a walking zombie.
+
+vendor: m1rm
+downloads: 2
+pricingModel: FREE
+xmlId: com.m1rm.zombieprogressbar</description>
+      <pubDate>Sun, 15 Mar 2026 12:03:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30702-zombieprogressbar</guid>
+      <dc:date>2026-03-15T12:03:17Z</dc:date>
+    </item>
+    <item>
+      <title>Sonar Prompt Studio - Sun Mar 15 13:31:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30703-sonar-prompt-studio</link>
+      <description>Sonar Prompt Studio brings SonarQube findings review and remediation prompt generation directly into IntelliJ IDEA. Use it to connect to SonarQube Cloud or a...
+
+vendor: Mohamed LACHGAR
+downloads: 4
+pricingModel: FREE
+xmlId: com.sonarpromptstudio</description>
+      <pubDate>Sun, 15 Mar 2026 13:31:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30703-sonar-prompt-studio</guid>
+      <dc:date>2026-03-15T13:31:11Z</dc:date>
+    </item>
+    <item>
+      <title>MVC-Expland-Collapse - Mon Mar 16 03:00:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30713-mvc-expland-collapse</link>
+      <description>Quickly navigate your project by expanding the folders you need while automatically collapsing everything else. Example: Click "App" to expand the app folder and all...
+
+vendor: Nadia Tarashkevich
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.nadiatarashkevich.mvcexplandcollapse</description>
+      <pubDate>Mon, 16 Mar 2026 03:00:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30713-mvc-expland-collapse</guid>
+      <dc:date>2026-03-16T03:00:06Z</dc:date>
+    </item>
+    <item>
+      <title>LLMask - Sun Mar 15 18:16:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30709-llmask</link>
+      <description>LLMask — Privacy-preserving code sharing for LLMs LLMask obfuscates sensitive identifiers and string literals in your C# code before you send it to an AI assistant...
+
+vendor: Uschalabamba
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.uschalabamba.llmask</description>
+      <pubDate>Sun, 15 Mar 2026 18:16:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30709-llmask</guid>
+      <dc:date>2026-03-15T18:16:48Z</dc:date>
+    </item>
+    <item>
+      <title>Version Draft - Mon Mar 16 08:29:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30720-version-draft</link>
+      <description>Version Draft is an ultimate lightweight IntelliJ IDEA plugin designed for developers to manage release notes, changelogs, and task checklists seamlessly within the...
+
+vendor: RyanXie
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.ryanxie0827.versiondraft</description>
+      <pubDate>Mon, 16 Mar 2026 08:29:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30720-version-draft</guid>
+      <dc:date>2026-03-16T08:29:53Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Code Reviewer - Sun Mar 15 14:26:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30706-claude-code-reviewer</link>
+      <description>Automatic PR/MR code reviews powered by Claude Code CLI, directly from your JetBrains IDE. Uses the gstack two-pass review methodology — CRITICAL issues (SQL safety...
+
+vendor: shubhesh07
+downloads: 1
+pricingModel: FREE
+xmlId: com.claudereviewer.plugin</description>
+      <pubDate>Sun, 15 Mar 2026 14:26:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30706-claude-code-reviewer</guid>
+      <dc:date>2026-03-15T14:26:51Z</dc:date>
+    </item>
+    <item>
+      <title>Waveform Plotter - Sun Mar 15 12:13:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30704-waveform-plotter</link>
+      <description>Real-time waveform plotter for embedded debugging in CLion. Key Features: Passive Mode — Automatically captures Watch variables on breakpoint/step pause events Live...
+
+vendor: Szturin
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.waveformplotter</description>
+      <pubDate>Sun, 15 Mar 2026 12:13:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30704-waveform-plotter</guid>
+      <dc:date>2026-03-15T12:13:16Z</dc:date>
+    </item>
+    <item>
+      <title>Open Shell Toolbar - Tue Mar 17 08:03:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30743-open-shell-toolbar</link>
+      <description>Adds configurable toolbar buttons to IntelliJ IDEA. Each button can define its own icon, title, and shell command. Clicking a button opens a new Terminal tab and runs...
+
+vendor: talentneo
+downloads: 0
+pricingModel: FREE
+xmlId: com.openshell.idea.toolbar</description>
+      <pubDate>Tue, 17 Mar 2026 08:03:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30743-open-shell-toolbar</guid>
+      <dc:date>2026-03-17T08:03:15Z</dc:date>
+    </item>
+    <item>
+      <title>Workspace Package Navigator - Mon Mar 16 08:23:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30640-workspace-package-navigator</link>
+      <description>Workspace Package Navigator improves the Go-to Declaration action for projects that use npm workspaces and linked packages inside node_modules. When a dependency in...
+
+vendor: Dmytro Pokhodenko
+downloads: 1
+pricingModel: FREE
+xmlId: com.pokhodenko.wpn</description>
+      <pubDate>Mon, 16 Mar 2026 08:23:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30640-workspace-package-navigator</guid>
+      <dc:date>2026-03-16T08:23:07Z</dc:date>
+    </item>
+    <item>
+      <title>Kora Support - Tue Mar 17 14:27:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30747-kora-support</link>
+      <description>Provides Spring-like "Go to Declaration" navigation for the Kora DI framework. Navigate from dependency injection points (constructor parameters, factory method...
+
+vendor: Daniil Sudomoin
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.dsudomoin.kora-plugin</description>
+      <pubDate>Tue, 17 Mar 2026 14:27:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30747-kora-support</guid>
+      <dc:date>2026-03-17T14:27:23Z</dc:date>
+    </item>
+    <item>
+      <title>Region Highlights - Sun Mar 15 16:38:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30705-region-highlights</link>
+      <description>Coloring #region lines to make them easier to see in Rider. You might start to love Regions with this feature. Nested regions are rendered in a different color. Fully...
+
+vendor: Can Baycay
+downloads: 1
+pricingModel: FREE
+xmlId: com.canbaycay.regionhighlights</description>
+      <pubDate>Sun, 15 Mar 2026 16:38:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30705-region-highlights</guid>
+      <dc:date>2026-03-15T16:38:51Z</dc:date>
+    </item>
+    <item>
+      <title>Starlight - Sun Mar 15 20:40:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30710-starlight</link>
+      <description>Starlark language support for Bazel files: syntax highlighting, line comments, and parser errors.
+
+vendor: Byoungchan Lee
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.bc-lee.starlight</description>
+      <pubDate>Sun, 15 Mar 2026 20:40:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30710-starlight</guid>
+      <dc:date>2026-03-15T20:40:58Z</dc:date>
+    </item>
+    <item>
       <title>PR Desk for Bitbucket Cloud - Tue Mar 17 10:19:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30657-pr-desk-for-bitbucket-cloud</link>
       <description>Review Bitbucket Cloud pull requests, inspect diffs, manage comments, and keep PR workflows inside JetBrains IDEs.
@@ -45,7 +227,7 @@ xmlId: com.dotinc.datagrip-libsql</description>
       <dc:date>2026-03-17T17:44:10Z</dc:date>
     </item>
     <item>
-      <title>Ridiculous Coding - Mon Mar 16 20:30:51 UTC 2026</title>
+      <title>Ridiculous Coding - Tue Mar 17 23:53:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30712-ridiculous-coding</link>
       <description>Ridiculous Coding Make your coding experience in IntelliJ 1000x more ridiculous. Source available here...
 
@@ -53,9 +235,9 @@ vendor: Bryant James
 downloads: 1
 pricingModel: FREE
 xmlId: com.bryantjames.ridiculouscoding</description>
-      <pubDate>Mon, 16 Mar 2026 20:30:51 GMT</pubDate>
+      <pubDate>Tue, 17 Mar 2026 23:53:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30712-ridiculous-coding</guid>
-      <dc:date>2026-03-16T20:30:51Z</dc:date>
+      <dc:date>2026-03-17T23:53:27Z</dc:date>
     </item>
     <item>
       <title>X.509 Certificate Viewer - Mon Mar 16 16:31:21 UTC 2026</title>
@@ -82,188 +264,6 @@ xmlId: me.bechberger.jstall</description>
       <pubDate>Fri, 13 Mar 2026 16:02:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30667-jstall</guid>
       <dc:date>2026-03-13T16:02:17Z</dc:date>
-    </item>
-    <item>
-      <title>Git Commit Message Prefix - Tue Mar 17 15:50:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30699-git-commit-message-prefix</link>
-      <description>Git Commit Auto Prefix is a tool for developers who want to standardize their commit messages without manual typing &#x1f680; Key Features Regex-Powered Automation: Define...
-
-vendor: Denis Kholopov
-downloads: 1
-pricingModel: FREE
-xmlId: ru.kre4.gitprefix</description>
-      <pubDate>Tue, 17 Mar 2026 15:50:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30699-git-commit-message-prefix</guid>
-      <dc:date>2026-03-17T15:50:20Z</dc:date>
-    </item>
-    <item>
-      <title>AI Blast Radius Analyzer - Mon Mar 16 17:06:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30726-ai-blast-radius-analyzer</link>
-      <description>Analyzes the "blast radius" of code changes in real-time. Shows how many files, classes, and downstream dependencies are affected when you modify a class. Displays...
-
-vendor: SuryatejaGajjela
-downloads: 11
-pricingModel: FREE
-xmlId: com.blastradius.plugin</description>
-      <pubDate>Mon, 16 Mar 2026 17:06:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30726-ai-blast-radius-analyzer</guid>
-      <dc:date>2026-03-16T17:06:18Z</dc:date>
-    </item>
-    <item>
-      <title>DuckDB Grammar Support - Tue Mar 17 12:35:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30725-duckdb-grammar-support</link>
-      <description>Provides IDE support for DuckDB PEG grammar files (.gram): Syntax highlighting Go to Definition and Find Usages for grammar rules Navigation between grammar rules and...
-
-vendor: Dtenwolde
-downloads: 0
-pricingModel: FREE
-xmlId: com.duckdb.gram</description>
-      <pubDate>Tue, 17 Mar 2026 12:35:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30725-duckdb-grammar-support</guid>
-      <dc:date>2026-03-17T12:35:00Z</dc:date>
-    </item>
-    <item>
-      <title>Unicode Search - Sun Mar 15 11:02:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30701-unicode-search</link>
-      <description>Search and insert Unicode characters. This tool window plugin helps you quickly find, copy, and insert Unicode characters and symbols directly into your editor. Key...
-
-vendor: Chalda
-downloads: 2
-pricingModel: FREE
-xmlId: it.chalda.unicodesearch</description>
-      <pubDate>Sun, 15 Mar 2026 11:02:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30701-unicode-search</guid>
-      <dc:date>2026-03-15T11:02:07Z</dc:date>
-    </item>
-    <item>
-      <title>Terminal Bridge - Fri Mar 13 17:40:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30660-terminal-bridge</link>
-      <description>Expose your IntelliJ IDE terminals through a local REST API and WebSocket server, enabling programmatic terminal control from external tools. Features REST API — List...
-
-vendor: LLITD LLC
-downloads: 5
-pricingModel: FREEMIUM
-xmlId: com.llitd.terminalbridge</description>
-      <pubDate>Fri, 13 Mar 2026 17:40:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30660-terminal-bridge</guid>
-      <dc:date>2026-03-13T17:40:48Z</dc:date>
-    </item>
-    <item>
-      <title>AdpTopViewer - Sat Mar 14 15:04:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30691-adptopviewer</link>
-      <description>With just one button, you can know what the outermost activity of the current phone is, saving you development and debugging time. ADB Top Plugin allows you to quickly...
-
-vendor: Pingia
-downloads: 1
-pricingModel: FREE
-xmlId: com.pingia.AdbTopViewer</description>
-      <pubDate>Sat, 14 Mar 2026 15:04:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30691-adptopviewer</guid>
-      <dc:date>2026-03-14T15:04:39Z</dc:date>
-    </item>
-    <item>
-      <title>OpenAI Usage Quota - Mon Mar 16 15:07:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30690-openai-usage-quota</link>
-      <description>Tracks OpenAI Codex and Code Review usage quotas in the IDE status bar and popup, including plan-specific limits across OpenAI subscription tiers, with a browser-based...
-
-vendor: Moritzf
-downloads: 3
-pricingModel: FREE
-xmlId: de.moritzf.openai-usage-quota</description>
-      <pubDate>Mon, 16 Mar 2026 15:07:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30690-openai-usage-quota</guid>
-      <dc:date>2026-03-16T15:07:27Z</dc:date>
-    </item>
-    <item>
-      <title>Basic Compose Activity - Tue Mar 17 13:51:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30684-basic-compose-activity</link>
-      <description>Adds a Basic Compose Activity project template to the Android Studio New Project wizard. Generates a multi-module Android project with Jetpack Compose, Navigation 3...
-
-vendor: DrCode
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.drjacky.basiccomposeactivityplugin</description>
-      <pubDate>Tue, 17 Mar 2026 13:51:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30684-basic-compose-activity</guid>
-      <dc:date>2026-03-17T13:51:34Z</dc:date>
-    </item>
-    <item>
-      <title>Plot Toggle - Sat Mar 14 17:48:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30693-plot-toggle</link>
-      <description>Adds a toolbar toggle button to control PyCharm's Show plots in tool window setting (Settings &amp;gt; Tools &amp;gt; Python Plots) without opening the settings dialog.
-
-vendor: RootML
-downloads: 1
-pricingModel: FREE
-xmlId: com.plottoggle.pycharm-plot-toggle</description>
-      <pubDate>Sat, 14 Mar 2026 17:48:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30693-plot-toggle</guid>
-      <dc:date>2026-03-14T17:48:34Z</dc:date>
-    </item>
-    <item>
-      <title>All Languages Localization Pack - Mon Mar 16 08:47:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30652-all-languages-localization-pack</link>
-      <description>Adds German, Traditional Chinese, French, Portuguese, Spanish, Russian, and Polish language packs to IntelliJ IDEs. Supported Locales German - Deutsch Traditional...
-
-vendor: Code
-downloads: 9
-pricingModel: PAID
-xmlId: com.ai.dev.tools.languagePack.mu</description>
-      <pubDate>Mon, 16 Mar 2026 08:47:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30652-all-languages-localization-pack</guid>
-      <dc:date>2026-03-16T08:47:18Z</dc:date>
-    </item>
-    <item>
-      <title>icns - Mon Mar 02 09:43:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30443-icns</link>
-      <description>View and generate .icns macOS icons directly in your IDE. Features ICNS Viewer — opens .icns files in a built-in image viewer, displaying all embedded icon sizes...
-
-vendor: Alexander Khmelov
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.akhmelev.icns</description>
-      <pubDate>Mon, 02 Mar 2026 09:43:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30443-icns</guid>
-      <dc:date>2026-03-02T09:43:08Z</dc:date>
-    </item>
-    <item>
-      <title>Kotlin Toolbox - Sun Mar 15 11:43:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30324-kotlin-toolbox</link>
-      <description>Kotlin Toolbox is an IntelliJ plugin that provides a comprehensive set of tools to enhance your Kotlin development experience.
-
-vendor: André Monteiro
-downloads: 19
-pricingModel: FREE
-xmlId: com.github.andrelmv.kotbox</description>
-      <pubDate>Sun, 15 Mar 2026 11:43:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30324-kotlin-toolbox</guid>
-      <dc:date>2026-03-15T11:43:33Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode - Sat Mar 14 06:13:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30681-opencode</link>
-      <description>OpenCode AI coding agent inside your JetBrains IDE. Supports context from active file, cursor position, open tabs, and manual code selection.
-
-vendor: Parth Patel (OpenCode Fork)
-downloads: 6
-pricingModel: FREE
-xmlId: ai.opencode.plugin</description>
-      <pubDate>Sat, 14 Mar 2026 06:13:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30681-opencode</guid>
-      <dc:date>2026-03-14T06:13:06Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode Connector - Sat Mar 14 12:13:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30686-opencode-connector</link>
-      <description>Send selected code to OpenCode via keyboard shortcut.
-
-vendor: Opencode Connector
-downloads: 1
-pricingModel: FREE
-xmlId: com.epochbyte.opencode-connector</description>
-      <pubDate>Sat, 14 Mar 2026 12:13:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30686-opencode-connector</guid>
-      <dc:date>2026-03-14T12:13:53Z</dc:date>
     </item>
   </channel>
 </rss>
