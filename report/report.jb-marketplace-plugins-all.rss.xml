@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Sypha - Fri Mar 06 11:13:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30512-sypha</link>
+      <description>Sypha An AI assistant that helps you understand, modify, and improve codebases.
+
+vendor: Sypha
+downloads: 3
+pricingModel: FREE
+xmlId: Sypha.Sypha</description>
+      <pubDate>Fri, 06 Mar 2026 11:13:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30512-sypha</guid>
+      <dc:date>2026-03-06T11:13:06Z</dc:date>
+    </item>
+    <item>
       <title>LayerLint - Sat Mar 14 11:41:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30685-layerlint</link>
       <description>LayerLint — AI-powered Dockerfile linting and fixing for JetBrains IDEs. Automatically detects Dockerfile problems and generates AI-powered fixes using Anthropic...
@@ -251,19 +264,6 @@ xmlId: com.openshell.idea.toolbar</description>
       <pubDate>Tue, 17 Mar 2026 08:03:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30743-open-shell-toolbar</guid>
       <dc:date>2026-03-17T08:03:15Z</dc:date>
-    </item>
-    <item>
-      <title>Workspace Package Navigator - Mon Mar 16 08:23:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30640-workspace-package-navigator</link>
-      <description>Workspace Package Navigator improves the Go-to Declaration action for projects that use npm workspaces and linked packages inside node_modules. When a dependency in...
-
-vendor: Dmytro Pokhodenko
-downloads: 2
-pricingModel: FREE
-xmlId: com.pokhodenko.wpn</description>
-      <pubDate>Mon, 16 Mar 2026 08:23:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30640-workspace-package-navigator</guid>
-      <dc:date>2026-03-16T08:23:07Z</dc:date>
     </item>
   </channel>
 </rss>
