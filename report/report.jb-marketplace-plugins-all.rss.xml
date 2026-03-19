@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CustomFold - Thu Mar 19 12:08:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30800-customfold</link>
+      <description>Automatically fold JavaScript and TypeScript call expressions based on user-defined rules. Keep your editor clean by collapsing noisy logging, telemetry, or debug...
+
+vendor: Michal Kolář
+downloads: 0
+pricingModel: FREE
+xmlId: com.mkvisuals.customfold</description>
+      <pubDate>Thu, 19 Mar 2026 12:08:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30800-customfold</guid>
+      <dc:date>2026-03-19T12:08:47Z</dc:date>
+    </item>
+    <item>
+      <title>Project Generator - Thu Mar 19 10:04:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30795-project-generator</link>
+      <description>Project Generator manages local development environments from a YAML config file. It clones Git repositories into a structured directory layout, registers them as IDE...
+
+vendor: Vladislav Piskunov
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.vladarts.idegen</description>
+      <pubDate>Thu, 19 Mar 2026 10:04:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30795-project-generator</guid>
+      <dc:date>2026-03-19T10:04:32Z</dc:date>
+    </item>
+    <item>
       <title>Focused Files - Thu Mar 19 02:33:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30723-focused-files</link>
       <description>An IntelliJ plugin to help you quickly navigate to files you've been working on in your git-versioned projects. Whether you're jumping back into a coding session or...
@@ -45,7 +71,7 @@ xmlId: com.github.mreep.changelistrouter</description>
       <dc:date>2026-03-18T22:11:30Z</dc:date>
     </item>
     <item>
-      <title>CodeAgent-Mobile - Mon Mar 16 20:19:10 UTC 2026</title>
+      <title>CodeAgent-Mobile - Thu Mar 19 13:22:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30697-codeagent-mobile</link>
       <description>Control AI coding agents from your mobile device. Pair your phone with your IDE to start, stop, and monitor AI coding sessions remotely. Homepage...
 
@@ -53,9 +79,9 @@ vendor: CodeAgent Mobile
 downloads: 6
 pricingModel: FREE
 xmlId: com.codeagent.mobile</description>
-      <pubDate>Mon, 16 Mar 2026 20:19:10 GMT</pubDate>
+      <pubDate>Thu, 19 Mar 2026 13:22:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30697-codeagent-mobile</guid>
-      <dc:date>2026-03-16T20:19:10Z</dc:date>
+      <dc:date>2026-03-19T13:22:24Z</dc:date>
     </item>
     <item>
       <title>Kokedera Icons - Japanese Moss Temple Icons - Thu Mar 19 11:41:45 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: Sypha.Sypha</description>
       <pubDate>Fri, 06 Mar 2026 11:13:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30512-sypha</guid>
       <dc:date>2026-03-06T11:13:06Z</dc:date>
-    </item>
-    <item>
-      <title>LayerLint - Sat Mar 14 11:41:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30685-layerlint</link>
-      <description>LayerLint — AI-powered Dockerfile linting and fixing for JetBrains IDEs. Automatically detects Dockerfile problems and generates AI-powered fixes using Anthropic...
-
-vendor: LayerLint AI
-downloads: 2
-pricingModel: FREE
-xmlId: io.layerlint.jetbrains</description>
-      <pubDate>Sat, 14 Mar 2026 11:41:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30685-layerlint</guid>
-      <dc:date>2026-03-14T11:41:08Z</dc:date>
-    </item>
-    <item>
-      <title>Traffic Light Buttons - Wed Mar 18 14:38:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30756-traffic-light-buttons</link>
-      <description>GitHub Sponsors | Ko-fi | PayPal Replaces Close/Minimize/Maximize window buttons with macOS-style traffic light buttons for all JetBrains IDEs (Linux only). Features...
-
-vendor: DDC Softwares
-downloads: 18
-pricingModel: FREE
-xmlId: com.ddc.trafficlightbuttons</description>
-      <pubDate>Wed, 18 Mar 2026 14:38:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30756-traffic-light-buttons</guid>
-      <dc:date>2026-03-18T14:38:03Z</dc:date>
     </item>
   </channel>
 </rss>
