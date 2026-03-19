@@ -6,12 +6,90 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Voder - Wed Mar 18 09:17:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30760-voder</link>
+      <description>Voder is an AI coding assistant for JetBrains IDEs. It brings multi-model chat, local context memory, and team-based agent workflows into the IDE so you can ask...
+
+vendor: Guoshujiang
+downloads: 0
+pricingModel: FREE
+xmlId: com.gsj.aip</description>
+      <pubDate>Wed, 18 Mar 2026 09:17:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30760-voder</guid>
+      <dc:date>2026-03-18T09:17:47Z</dc:date>
+    </item>
+    <item>
+      <title>Laravel Custom Policy Navigator - Wed Mar 18 11:43:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30763-laravel-custom-policy-navigator</link>
+      <description>Provides navigation and autocomplete for Laravel custom policies assigned via SetCustomPolicy middleware. Features: - Cmd+Click on any ability string in...
+
+vendor: vladislavow
+downloads: 2
+pricingModel: FREE
+xmlId: com.brighterly.custom-policy-navigator</description>
+      <pubDate>Wed, 18 Mar 2026 11:43:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30763-laravel-custom-policy-navigator</guid>
+      <dc:date>2026-03-18T11:43:14Z</dc:date>
+    </item>
+    <item>
+      <title>Jujutsu VCS Integration - Wed Mar 18 19:25:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30576-jujutsu-vcs-integration</link>
+      <description>Native IntelliJ integration for Jujutsu (jj), a Git-compatible version control system with a fundamentally different approach to working with code. Why Jujutsu...
+
+vendor: Kevin Thomas
+downloads: 2
+pricingModel: FREE
+xmlId: in.kkkev.jj-idea</description>
+      <pubDate>Wed, 18 Mar 2026 19:25:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30576-jujutsu-vcs-integration</guid>
+      <dc:date>2026-03-18T19:25:12Z</dc:date>
+    </item>
+    <item>
+      <title>Qualimetry Terraform Analyzer - Thu Mar 19 06:51:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30478-qualimetry-terraform-analyzer</link>
+      <description>Static analysis of Terraform (HCL) files (.tf) in IntelliJ IDEA and other JetBrains IDEs. Also runs in JetBrains Qodana. Powered by tflint, Trivy, and Checkov with the...
+
+vendor: Qualimetry
+downloads: 1
+pricingModel: FREE
+xmlId: com.qualimetry.terraform</description>
+      <pubDate>Thu, 19 Mar 2026 06:51:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30478-qualimetry-terraform-analyzer</guid>
+      <dc:date>2026-03-19T06:51:47Z</dc:date>
+    </item>
+    <item>
+      <title>Qualimetry Ansible Analyzer - Thu Mar 19 06:51:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30477-qualimetry-ansible-analyzer</link>
+      <description>Static analysis of Ansible playbook and task files (.yml, .yaml) in IntelliJ IDEA, Rider, and other JetBrains IDEs. Also runs in JetBrains Qodana. Powered by the same...
+
+vendor: Qualimetry
+downloads: 1
+pricingModel: FREE
+xmlId: com.qualimetry.ansible</description>
+      <pubDate>Thu, 19 Mar 2026 06:51:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30477-qualimetry-ansible-analyzer</guid>
+      <dc:date>2026-03-19T06:51:52Z</dc:date>
+    </item>
+    <item>
+      <title>Qualimetry Apex Analyzer - Thu Mar 19 05:59:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30781-qualimetry-apex-analyzer</link>
+      <description>Static analysis of Salesforce Apex source files (.cls, .trigger) in IntelliJ IDEA and Qodana. Powered by the same engine as the Qualimetry Apex Analyzer for VS Code...
+
+vendor: Qualimetry
+downloads: 0
+pricingModel: FREE
+xmlId: com.qualimetry.apex</description>
+      <pubDate>Thu, 19 Mar 2026 05:59:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30781-qualimetry-apex-analyzer</guid>
+      <dc:date>2026-03-19T05:59:34Z</dc:date>
+    </item>
+    <item>
       <title>Sypha - Fri Mar 06 11:13:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30512-sypha</link>
       <description>Sypha An AI assistant that helps you understand, modify, and improve codebases.
 
 vendor: Sypha
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: Sypha.Sypha</description>
       <pubDate>Fri, 06 Mar 2026 11:13:06 GMT</pubDate>
@@ -24,7 +102,7 @@ xmlId: Sypha.Sypha</description>
       <description>LayerLint — AI-powered Dockerfile linting and fixing for JetBrains IDEs. Automatically detects Dockerfile problems and generates AI-powered fixes using Anthropic...
 
 vendor: LayerLint AI
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: io.layerlint.jetbrains</description>
       <pubDate>Sat, 14 Mar 2026 11:41:08 GMT</pubDate>
@@ -37,7 +115,7 @@ xmlId: io.layerlint.jetbrains</description>
       <description>GitHub Sponsors | Ko-fi | PayPal Replaces Close/Minimize/Maximize window buttons with macOS-style traffic light buttons for all JetBrains IDEs (Linux only). Features...
 
 vendor: DDC Softwares
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: com.ddc.trafficlightbuttons</description>
       <pubDate>Wed, 18 Mar 2026 14:38:03 GMT</pubDate>
@@ -50,7 +128,7 @@ xmlId: com.ddc.trafficlightbuttons</description>
       <description>MCP Code Intelligence exposes 12 IDE-level semantic analysis tools to AI agents through the Model Context Protocol (MCP). Instead of relying on grep and file reads, AI...
 
 vendor: StarsMilky
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.codeintel.mcpserver.MCPCodeIntelligence</description>
       <pubDate>Wed, 18 Mar 2026 02:52:46 GMT</pubDate>
@@ -63,7 +141,7 @@ xmlId: com.codeintel.mcpserver.MCPCodeIntelligence</description>
       <description>Read novels and text files inside your IDE. Features: Open and read TXT files directly in a tool window Automatic chapter detection with configurable regex patterns...
 
 vendor: Roshan
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: com.roshan.BookPeek</description>
       <pubDate>Wed, 18 Mar 2026 08:47:19 GMT</pubDate>
@@ -76,7 +154,7 @@ xmlId: com.roshan.BookPeek</description>
       <description>Schema to Code converts JSON data into type-safe code instantly. Features: Generate TypeScript interfaces or type aliases from JSONMultiple naming strategies...
 
 vendor: Ahmed Elhakim
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.ahmedwelhakim.schematocode</description>
       <pubDate>Tue, 17 Mar 2026 22:11:23 GMT</pubDate>
@@ -89,7 +167,7 @@ xmlId: com.github.ahmedwelhakim.schematocode</description>
       <description>Live coding audio studio with REPL, piano roll, mixer, sheet music, MIDI import, effects rack, MCP endpoint, and more. We thought that coding music with Strudel was a...
 
 vendor: Ilscipio GmbH
-downloads: 0
+downloads: 10
 pricingModel: PAID
 xmlId: com.flexible.strudel</description>
       <pubDate>Tue, 17 Mar 2026 15:11:28 GMT</pubDate>
@@ -102,7 +180,7 @@ xmlId: com.flexible.strudel</description>
       <description>Automate your presentation demonstrations with K Presentation Buddy! Create polished, repeatable code demonstrations for presentations, tutorials, and live coding...
 
 vendor: Advntrs LLC
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.advntrs.kpresentationbuddy</description>
       <pubDate>Mon, 09 Mar 2026 04:22:04 GMT</pubDate>
@@ -115,7 +193,7 @@ xmlId: com.advntrs.kpresentationbuddy</description>
       <description>Real-Time AI Code Review in Your IDE kluster.ai catches bugs, security vulnerabilities, and broken assumptions as you write code — before they ever reach production...
 
 vendor: kluster.ai
-downloads: 2
+downloads: 12
 pricingModel: FREE
 xmlId: ai.kluster.instant-review</description>
       <pubDate>Thu, 12 Mar 2026 18:07:21 GMT</pubDate>
@@ -128,7 +206,7 @@ xmlId: ai.kluster.instant-review</description>
       <description>Support for the ReScript programming language. Uses the `@rescript/language-server` for autocomplete, semantic analysis, type info, etc. This is a minimal alternative...
 
 vendor: Johannes Klauss
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: org.klauss.rescript</description>
       <pubDate>Sun, 15 Mar 2026 22:10:33 GMT</pubDate>
@@ -141,7 +219,7 @@ xmlId: org.klauss.rescript</description>
       <description>Navigate between Spring application configuration properties and their code references. Supports bidirectional navigation: Config → Code: Click gutter icons in...
 
 vendor: jonilchan
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: com.github.spring-config-jump</description>
       <pubDate>Mon, 16 Mar 2026 06:38:35 GMT</pubDate>
@@ -154,7 +232,7 @@ xmlId: com.github.spring-config-jump</description>
       <description>Starts an embedded HTTP server inside IntelliJ IDEA that allows triggering a project build remotely via a simple HTTP GET request. Usage Once the plugin is active and...
 
 vendor: Joergdev
-downloads: 2
+downloads: 10
 pricingModel: FREE
 xmlId: de.joergdev.remotebuildtrigger</description>
       <pubDate>Thu, 12 Mar 2026 22:07:51 GMT</pubDate>
@@ -167,7 +245,7 @@ xmlId: de.joergdev.remotebuildtrigger</description>
       <description>A zombie progress bar for IntelliJ and JetBrains IDEs. Replaces the default progress bar with a walking zombie.
 
 vendor: m1rm
-downloads: 2
+downloads: 11
 pricingModel: FREE
 xmlId: com.m1rm.zombieprogressbar</description>
       <pubDate>Sun, 15 Mar 2026 12:03:17 GMT</pubDate>
@@ -180,90 +258,12 @@ xmlId: com.m1rm.zombieprogressbar</description>
       <description>Sonar Prompt Studio brings SonarQube findings review and remediation prompt generation directly into IntelliJ IDEA. Use it to connect to SonarQube Cloud or a...
 
 vendor: Mohamed LACHGAR
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: com.sonarpromptstudio</description>
       <pubDate>Sun, 15 Mar 2026 13:31:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30703-sonar-prompt-studio</guid>
       <dc:date>2026-03-15T13:31:11Z</dc:date>
-    </item>
-    <item>
-      <title>MVC-Expland-Collapse - Mon Mar 16 03:00:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30713-mvc-expland-collapse</link>
-      <description>Quickly navigate your project by expanding the folders you need while automatically collapsing everything else. Example: Click "App" to expand the app folder and all...
-
-vendor: Nadia Tarashkevich
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.nadiatarashkevich.mvcexplandcollapse</description>
-      <pubDate>Mon, 16 Mar 2026 03:00:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30713-mvc-expland-collapse</guid>
-      <dc:date>2026-03-16T03:00:06Z</dc:date>
-    </item>
-    <item>
-      <title>LLMask - Sun Mar 15 18:16:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30709-llmask</link>
-      <description>LLMask — Privacy-preserving code sharing for LLMs LLMask obfuscates sensitive identifiers and string literals in your C# code before you send it to an AI assistant...
-
-vendor: Uschalabamba
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.uschalabamba.llmask</description>
-      <pubDate>Sun, 15 Mar 2026 18:16:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30709-llmask</guid>
-      <dc:date>2026-03-15T18:16:48Z</dc:date>
-    </item>
-    <item>
-      <title>Version Draft - Mon Mar 16 08:29:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30720-version-draft</link>
-      <description>Version Draft is an ultimate lightweight IntelliJ IDEA plugin designed for developers to manage release notes, changelogs, and task checklists seamlessly within the...
-
-vendor: RyanXie
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.ryanxie0827.versiondraft</description>
-      <pubDate>Mon, 16 Mar 2026 08:29:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30720-version-draft</guid>
-      <dc:date>2026-03-16T08:29:53Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Code Reviewer - Sun Mar 15 14:26:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30706-claude-code-reviewer</link>
-      <description>Automatic PR/MR code reviews powered by Claude Code CLI, directly from your JetBrains IDE. Uses the gstack two-pass review methodology — CRITICAL issues (SQL safety...
-
-vendor: shubhesh07
-downloads: 1
-pricingModel: FREE
-xmlId: com.claudereviewer.plugin</description>
-      <pubDate>Sun, 15 Mar 2026 14:26:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30706-claude-code-reviewer</guid>
-      <dc:date>2026-03-15T14:26:51Z</dc:date>
-    </item>
-    <item>
-      <title>Waveform Plotter - Sun Mar 15 12:13:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30704-waveform-plotter</link>
-      <description>Real-time waveform plotter for embedded debugging in CLion. Key Features: Passive Mode — Automatically captures Watch variables on breakpoint/step pause events Live...
-
-vendor: Szturin
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.waveformplotter</description>
-      <pubDate>Sun, 15 Mar 2026 12:13:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30704-waveform-plotter</guid>
-      <dc:date>2026-03-15T12:13:16Z</dc:date>
-    </item>
-    <item>
-      <title>Open Shell Toolbar - Tue Mar 17 08:03:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30743-open-shell-toolbar</link>
-      <description>Adds configurable toolbar buttons to IntelliJ IDEA. Each button can define its own icon, title, and shell command. Clicking a button opens a new Terminal tab and runs...
-
-vendor: talentneo
-downloads: 0
-pricingModel: FREE
-xmlId: com.openshell.idea.toolbar</description>
-      <pubDate>Tue, 17 Mar 2026 08:03:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30743-open-shell-toolbar</guid>
-      <dc:date>2026-03-17T08:03:15Z</dc:date>
     </item>
   </channel>
 </rss>
