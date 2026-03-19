@@ -6,6 +6,149 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Focused Files - Thu Mar 19 02:33:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30723-focused-files</link>
+      <description>An IntelliJ plugin to help you quickly navigate to files you've been working on in your git-versioned projects. Whether you're jumping back into a coding session or...
+
+vendor: Nate Kane
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.nathanaelkane.focusedfiles</description>
+      <pubDate>Thu, 19 Mar 2026 02:33:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30723-focused-files</guid>
+      <dc:date>2026-03-19T02:33:08Z</dc:date>
+    </item>
+    <item>
+      <title>Copilot Provider Helper - Thu Mar 19 01:12:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30780-copilot-provider-helper</link>
+      <description>Enterprise authentication provider configuration helper for JetBrains IDEs.
+
+vendor: saner
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.copilot.provider.helper</description>
+      <pubDate>Thu, 19 Mar 2026 01:12:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30780-copilot-provider-helper</guid>
+      <dc:date>2026-03-19T01:12:25Z</dc:date>
+    </item>
+    <item>
+      <title>Changelist-router - Wed Mar 18 22:11:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30779-changelist-router</link>
+      <description>Changelist Router is an IntelliJ Platform plugin that automatically routes VCS changes to the correct changelist based on file path patterns. Define rules using glob...
+
+vendor: MreeP
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.mreep.changelistrouter</description>
+      <pubDate>Wed, 18 Mar 2026 22:11:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30779-changelist-router</guid>
+      <dc:date>2026-03-18T22:11:30Z</dc:date>
+    </item>
+    <item>
+      <title>CodeAgent-Mobile - Mon Mar 16 20:19:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30697-codeagent-mobile</link>
+      <description>Control AI coding agents from your mobile device. Pair your phone with your IDE to start, stop, and monitor AI coding sessions remotely. Homepage...
+
+vendor: CodeAgent Mobile
+downloads: 6
+pricingModel: FREE
+xmlId: com.codeagent.mobile</description>
+      <pubDate>Mon, 16 Mar 2026 20:19:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30697-codeagent-mobile</guid>
+      <dc:date>2026-03-16T20:19:10Z</dc:date>
+    </item>
+    <item>
+      <title>Kokedera Icons - Japanese Moss Temple Icons - Thu Mar 19 11:41:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30777-kokedera-icons--japanese-moss-temple-icons</link>
+      <description>Kokedera Icons File icons from the moss garden. Designed to pair with the Kokedera color theme. Every icon draws from the same palette of moss greens, lantern ambers...
+
+vendor: 7th Layer
+downloads: 0
+pricingModel: FREE
+xmlId: com.seventhlayer.kokedera.icons</description>
+      <pubDate>Thu, 19 Mar 2026 11:41:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30777-kokedera-icons--japanese-moss-temple-icons</guid>
+      <dc:date>2026-03-19T11:41:45Z</dc:date>
+    </item>
+    <item>
+      <title>Code Review Annotator - Wed Mar 18 20:25:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30776-code-review-annotator</link>
+      <description>Add review comments on diffs right from your IDE on a line, a file, or the whole review. When you're done, export everything as markdown you can paste into a PR, a...
+
+vendor: Harold Ozouf
+downloads: 0
+pricingModel: FREE
+xmlId: com.codereview.annotator</description>
+      <pubDate>Wed, 18 Mar 2026 20:25:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30776-code-review-annotator</guid>
+      <dc:date>2026-03-18T20:25:42Z</dc:date>
+    </item>
+    <item>
+      <title>OrgMode - Wed Mar 18 16:40:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30772-orgmode</link>
+      <description>Idea plugin to edit OrgMode files supports basic outline and comments block elements folding spell checking live templates More features on the go!.
+
+vendor: Aha
+downloads: 0
+pricingModel: FREE
+xmlId: OrgMode</description>
+      <pubDate>Wed, 18 Mar 2026 16:40:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30772-orgmode</guid>
+      <dc:date>2026-03-18T16:40:09Z</dc:date>
+    </item>
+    <item>
+      <title>ReSmali - Wed Mar 18 17:48:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30774-resmali</link>
+      <description>Adds support for Smali language: Highlighting Debugging (registers listing, examining objects state, conditional breakpoints, setting values at runtime, etc.) Basic...
+
+vendor: Andrei Kudryavtsev
+downloads: 0
+pricingModel: FREE
+xmlId: dev.resmali</description>
+      <pubDate>Wed, 18 Mar 2026 17:48:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30774-resmali</guid>
+      <dc:date>2026-03-18T17:48:17Z</dc:date>
+    </item>
+    <item>
+      <title>Java Guideline MCP Checker - Wed Mar 18 14:15:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30767-java-guideline-mcp-checker</link>
+      <description>Java Guideline MCP Checker integrates a Java guideline service into IntelliJ IDEA. It provides pre-commit checks, inspections, and optional auto-fixes for your code...
+
+vendor: xiaoshuai
+downloads: 0
+pricingModel: FREE
+xmlId: com.yourcompany.javaguideline</description>
+      <pubDate>Wed, 18 Mar 2026 14:15:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30767-java-guideline-mcp-checker</guid>
+      <dc:date>2026-03-18T14:15:12Z</dc:date>
+    </item>
+    <item>
+      <title>QonQrete - Wed Mar 18 10:35:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30764-qonqrete</link>
+      <description>QonQrete QonQrete is a deterministic AI coding agent for IntelliJ enabling autonomous code generation, local AI development, and secure sandboxed software construction...
+
+vendor: QonQrete
+downloads: 0
+pricingModel: FREE
+xmlId: sh.qonqrete</description>
+      <pubDate>Wed, 18 Mar 2026 10:35:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30764-qonqrete</guid>
+      <dc:date>2026-03-18T10:35:13Z</dc:date>
+    </item>
+    <item>
+      <title>Azora Language - Wed Mar 18 09:26:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30762-azora-language</link>
+      <description>Full language support for the Azora programming language.
+
+vendor: AzoraTech
+downloads: 0
+pricingModel: FREE
+xmlId: com.azora.lang.idea</description>
+      <pubDate>Wed, 18 Mar 2026 09:26:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30762-azora-language</guid>
+      <dc:date>2026-03-18T09:26:52Z</dc:date>
+    </item>
+    <item>
       <title>Voder - Wed Mar 18 09:17:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30760-voder</link>
       <description>Voder is an AI coding assistant for JetBrains IDEs. It brings multi-model chat, local context memory, and team-based agent workflows into the IDE so you can ask...
@@ -19,7 +162,7 @@ xmlId: com.gsj.aip</description>
       <dc:date>2026-03-18T09:17:47Z</dc:date>
     </item>
     <item>
-      <title>Laravel Custom Policy Navigator - Wed Mar 18 11:43:14 UTC 2026</title>
+      <title>Laravel Custom Policy Navigator - Thu Mar 19 08:40:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30763-laravel-custom-policy-navigator</link>
       <description>Provides navigation and autocomplete for Laravel custom policies assigned via SetCustomPolicy middleware. Features: - Cmd+Click on any ability string in...
 
@@ -27,9 +170,9 @@ vendor: vladislavow
 downloads: 2
 pricingModel: FREE
 xmlId: com.brighterly.custom-policy-navigator</description>
-      <pubDate>Wed, 18 Mar 2026 11:43:14 GMT</pubDate>
+      <pubDate>Thu, 19 Mar 2026 08:40:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30763-laravel-custom-policy-navigator</guid>
-      <dc:date>2026-03-18T11:43:14Z</dc:date>
+      <dc:date>2026-03-19T08:40:27Z</dc:date>
     </item>
     <item>
       <title>Jujutsu VCS Integration - Wed Mar 18 19:25:12 UTC 2026</title>
@@ -121,149 +264,6 @@ xmlId: com.ddc.trafficlightbuttons</description>
       <pubDate>Wed, 18 Mar 2026 14:38:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30756-traffic-light-buttons</guid>
       <dc:date>2026-03-18T14:38:03Z</dc:date>
-    </item>
-    <item>
-      <title>MCP Code Intelligence - Wed Mar 18 02:52:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30708-mcp-code-intelligence</link>
-      <description>MCP Code Intelligence exposes 12 IDE-level semantic analysis tools to AI agents through the Model Context Protocol (MCP). Instead of relying on grep and file reads, AI...
-
-vendor: StarsMilky
-downloads: 8
-pricingModel: FREE
-xmlId: com.codeintel.mcpserver.MCPCodeIntelligence</description>
-      <pubDate>Wed, 18 Mar 2026 02:52:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30708-mcp-code-intelligence</guid>
-      <dc:date>2026-03-18T02:52:46Z</dc:date>
-    </item>
-    <item>
-      <title>BookPeek - Wed Mar 18 08:47:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30744-bookpeek</link>
-      <description>Read novels and text files inside your IDE. Features: Open and read TXT files directly in a tool window Automatic chapter detection with configurable regex patterns...
-
-vendor: Roshan
-downloads: 18
-pricingModel: FREE
-xmlId: com.roshan.BookPeek</description>
-      <pubDate>Wed, 18 Mar 2026 08:47:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30744-bookpeek</guid>
-      <dc:date>2026-03-18T08:47:19Z</dc:date>
-    </item>
-    <item>
-      <title>schema-to-code - Tue Mar 17 22:11:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30752-schema-to-code</link>
-      <description>Schema to Code converts JSON data into type-safe code instantly. Features: Generate TypeScript interfaces or type aliases from JSONMultiple naming strategies...
-
-vendor: Ahmed Elhakim
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.ahmedwelhakim.schematocode</description>
-      <pubDate>Tue, 17 Mar 2026 22:11:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30752-schema-to-code</guid>
-      <dc:date>2026-03-17T22:11:23Z</dc:date>
-    </item>
-    <item>
-      <title>Strudel Studio - Tue Mar 17 15:11:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30748-strudel-studio</link>
-      <description>Live coding audio studio with REPL, piano roll, mixer, sheet music, MIDI import, effects rack, MCP endpoint, and more. We thought that coding music with Strudel was a...
-
-vendor: Ilscipio GmbH
-downloads: 10
-pricingModel: PAID
-xmlId: com.flexible.strudel</description>
-      <pubDate>Tue, 17 Mar 2026 15:11:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30748-strudel-studio</guid>
-      <dc:date>2026-03-17T15:11:28Z</dc:date>
-    </item>
-    <item>
-      <title>K Presentation Buddy - Mon Mar 09 04:22:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30567-k-presentation-buddy</link>
-      <description>Automate your presentation demonstrations with K Presentation Buddy! Create polished, repeatable code demonstrations for presentations, tutorials, and live coding...
-
-vendor: Advntrs LLC
-downloads: 6
-pricingModel: FREE
-xmlId: com.advntrs.kpresentationbuddy</description>
-      <pubDate>Mon, 09 Mar 2026 04:22:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30567-k-presentation-buddy</guid>
-      <dc:date>2026-03-09T04:22:04Z</dc:date>
-    </item>
-    <item>
-      <title>kluster.ai - Thu Mar 12 18:07:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30646-kluster-ai</link>
-      <description>Real-Time AI Code Review in Your IDE kluster.ai catches bugs, security vulnerabilities, and broken assumptions as you write code — before they ever reach production...
-
-vendor: kluster.ai
-downloads: 12
-pricingModel: FREE
-xmlId: ai.kluster.instant-review</description>
-      <pubDate>Thu, 12 Mar 2026 18:07:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30646-kluster-ai</guid>
-      <dc:date>2026-03-12T18:07:21Z</dc:date>
-    </item>
-    <item>
-      <title>ReScript Language - Sun Mar 15 22:10:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30711-rescript-language</link>
-      <description>Support for the ReScript programming language. Uses the `@rescript/language-server` for autocomplete, semantic analysis, type info, etc. This is a minimal alternative...
-
-vendor: Johannes Klauss
-downloads: 7
-pricingModel: FREE
-xmlId: org.klauss.rescript</description>
-      <pubDate>Sun, 15 Mar 2026 22:10:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30711-rescript-language</guid>
-      <dc:date>2026-03-15T22:10:33Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Config Jump - Mon Mar 16 06:38:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30718-spring-config-jump</link>
-      <description>Navigate between Spring application configuration properties and their code references. Supports bidirectional navigation: Config → Code: Click gutter icons in...
-
-vendor: jonilchan
-downloads: 7
-pricingModel: FREE
-xmlId: com.github.spring-config-jump</description>
-      <pubDate>Mon, 16 Mar 2026 06:38:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30718-spring-config-jump</guid>
-      <dc:date>2026-03-16T06:38:35Z</dc:date>
-    </item>
-    <item>
-      <title>Remote Build Trigger - Thu Mar 12 22:07:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30650-remote-build-trigger</link>
-      <description>Starts an embedded HTTP server inside IntelliJ IDEA that allows triggering a project build remotely via a simple HTTP GET request. Usage Once the plugin is active and...
-
-vendor: Joergdev
-downloads: 10
-pricingModel: FREE
-xmlId: de.joergdev.remotebuildtrigger</description>
-      <pubDate>Thu, 12 Mar 2026 22:07:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30650-remote-build-trigger</guid>
-      <dc:date>2026-03-12T22:07:51Z</dc:date>
-    </item>
-    <item>
-      <title>ZombieProgressBar - Sun Mar 15 12:03:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30702-zombieprogressbar</link>
-      <description>A zombie progress bar for IntelliJ and JetBrains IDEs. Replaces the default progress bar with a walking zombie.
-
-vendor: m1rm
-downloads: 11
-pricingModel: FREE
-xmlId: com.m1rm.zombieprogressbar</description>
-      <pubDate>Sun, 15 Mar 2026 12:03:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30702-zombieprogressbar</guid>
-      <dc:date>2026-03-15T12:03:17Z</dc:date>
-    </item>
-    <item>
-      <title>Sonar Prompt Studio - Sun Mar 15 13:31:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30703-sonar-prompt-studio</link>
-      <description>Sonar Prompt Studio brings SonarQube findings review and remediation prompt generation directly into IntelliJ IDEA. Use it to connect to SonarQube Cloud or a...
-
-vendor: Mohamed LACHGAR
-downloads: 9
-pricingModel: FREE
-xmlId: com.sonarpromptstudio</description>
-      <pubDate>Sun, 15 Mar 2026 13:31:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30703-sonar-prompt-studio</guid>
-      <dc:date>2026-03-15T13:31:11Z</dc:date>
     </item>
   </channel>
 </rss>
