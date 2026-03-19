@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Multi - Frontier AI Coding Agent - Thu Mar 19 01:02:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30672-multi--frontier-ai-coding-agent</link>
+      <description>Multi - Frontier AI Coding Agent for Builders Who Ship Multi is an AI coding agent for JetBrains IDEs. Use it to plan work, explore a codebase, make changes, review...
+
+vendor: Multi
+downloads: 3
+pricingModel: FREE
+xmlId: dev.multi.plugin</description>
+      <pubDate>Thu, 19 Mar 2026 01:02:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30672-multi--frontier-ai-coding-agent</guid>
+      <dc:date>2026-03-19T01:02:41Z</dc:date>
+    </item>
+    <item>
+      <title>DevTomcat - Tue Mar 17 08:55:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30721-devtomcat</link>
+      <description>DevTomcat Free, full-featured Apache Tomcat integration for IntelliJ IDEA. Run, debug, and deploy web applications with smart diagnostics, live status tracking, and...
+
+vendor: Gezu
+downloads: 3
+pricingModel: FREE
+xmlId: com.dev.idea.plugins.tomcat</description>
+      <pubDate>Tue, 17 Mar 2026 08:55:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30721-devtomcat</guid>
+      <dc:date>2026-03-17T08:55:03Z</dc:date>
+    </item>
+    <item>
       <title>ProjectManager - Mon Mar 16 07:37:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30692-projectmanager</link>
       <description>Enhances the ProjectWidget popup (top-left project switcher) with pin-to-top and alias features. &#x1f4cc; Pin frequently used projects to the top of the list ✏️ Set custom...
@@ -238,32 +264,6 @@ xmlId: com.qualimetry.terraform</description>
       <pubDate>Thu, 19 Mar 2026 06:51:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30478-qualimetry-terraform-analyzer</guid>
       <dc:date>2026-03-19T06:51:47Z</dc:date>
-    </item>
-    <item>
-      <title>Qualimetry Ansible Analyzer - Thu Mar 19 06:51:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30477-qualimetry-ansible-analyzer</link>
-      <description>Static analysis of Ansible playbook and task files (.yml, .yaml) in IntelliJ IDEA, Rider, and other JetBrains IDEs. Also runs in JetBrains Qodana. Powered by the same...
-
-vendor: Qualimetry
-downloads: 1
-pricingModel: FREE
-xmlId: com.qualimetry.ansible</description>
-      <pubDate>Thu, 19 Mar 2026 06:51:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30477-qualimetry-ansible-analyzer</guid>
-      <dc:date>2026-03-19T06:51:52Z</dc:date>
-    </item>
-    <item>
-      <title>Qualimetry Apex Analyzer - Thu Mar 19 05:59:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30781-qualimetry-apex-analyzer</link>
-      <description>Static analysis of Salesforce Apex source files (.cls, .trigger) in IntelliJ IDEA and Qodana. Powered by the same engine as the Qualimetry Apex Analyzer for VS Code...
-
-vendor: Qualimetry
-downloads: 0
-pricingModel: FREE
-xmlId: com.qualimetry.apex</description>
-      <pubDate>Thu, 19 Mar 2026 05:59:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30781-qualimetry-apex-analyzer</guid>
-      <dc:date>2026-03-19T05:59:34Z</dc:date>
     </item>
   </channel>
 </rss>
