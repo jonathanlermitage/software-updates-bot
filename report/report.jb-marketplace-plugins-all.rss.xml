@@ -6,12 +6,51 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Collision Challenge - Thu Mar 19 14:11:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30801-collision-challenge</link>
+      <description>Collision Challenge is a physics-based marble challenge game seamlessly integrated into your IDE. Designed for developers, it provides a high-precision simulation...
+
+vendor: leeucob
+downloads: 0
+pricingModel: FREE
+xmlId: com.kuyou.CollisionChallenge</description>
+      <pubDate>Thu, 19 Mar 2026 14:11:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30801-collision-challenge</guid>
+      <dc:date>2026-03-19T14:11:46Z</dc:date>
+    </item>
+    <item>
+      <title>Minimalist Sudoku - Wed Mar 18 04:16:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30759-minimalist-sudoku</link>
+      <description>Minimalist Sudoku is an embedded Sudoku game plugin meticulously designed for developers. Whether you're waiting for a long build process or stuck on a complex bug...
+
+vendor: leeucob
+downloads: 0
+pricingModel: FREE
+xmlId: com.kuyou.MinimalistSudoku</description>
+      <pubDate>Wed, 18 Mar 2026 04:16:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30759-minimalist-sudoku</guid>
+      <dc:date>2026-03-18T04:16:03Z</dc:date>
+    </item>
+    <item>
+      <title>InvestHabits - Thu Mar 19 14:02:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30758-investhabits</link>
+      <description>InvestHabits is an investment mentality training tool for developers. By simulating market fluctuations (Rise, Flat, Fall), it helps you cultivate calm and wise...
+
+vendor: leeucob
+downloads: 0
+pricingModel: FREE
+xmlId: com.kuyou.InvestHabits</description>
+      <pubDate>Thu, 19 Mar 2026 14:02:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30758-investhabits</guid>
+      <dc:date>2026-03-19T14:02:32Z</dc:date>
+    </item>
+    <item>
       <title>Multi - Frontier AI Coding Agent - Thu Mar 19 20:10:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30672-multi--frontier-ai-coding-agent</link>
       <description>Multi - Frontier AI Coding Agent for Builders Who Ship Multi is an AI coding agent for JetBrains IDEs. Use it to plan work, explore a codebase, make changes, review...
 
 vendor: Multi
-downloads: 3
+downloads: 16
 pricingModel: FREE
 xmlId: dev.multi.plugin</description>
       <pubDate>Thu, 19 Mar 2026 20:10:01 GMT</pubDate>
@@ -24,7 +63,7 @@ xmlId: dev.multi.plugin</description>
       <description>DevTomcat Free, full-featured Apache Tomcat integration for IntelliJ IDEA. Run, debug, and deploy web applications with smart diagnostics, live status tracking, and...
 
 vendor: Gezu
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: com.dev.idea.plugins.tomcat</description>
       <pubDate>Tue, 17 Mar 2026 08:55:03 GMT</pubDate>
@@ -50,7 +89,7 @@ xmlId: com.duanzs.ProjectManager</description>
       <description>Automatically fold JavaScript and TypeScript call expressions based on user-defined rules. Keep your editor clean by collapsing noisy logging, telemetry, or debug...
 
 vendor: Michal Kolář
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.mkvisuals.customfold</description>
       <pubDate>Thu, 19 Mar 2026 12:08:47 GMT</pubDate>
@@ -63,7 +102,7 @@ xmlId: com.mkvisuals.customfold</description>
       <description>Project Generator manages local development environments from a YAML config file. It clones Git repositories into a structured directory layout, registers them as IDE...
 
 vendor: Vladislav Piskunov
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.vladarts.idegen</description>
       <pubDate>Thu, 19 Mar 2026 10:04:32 GMT</pubDate>
@@ -76,7 +115,7 @@ xmlId: com.github.vladarts.idegen</description>
       <description>An IntelliJ plugin to help you quickly navigate to files you've been working on in your git-versioned projects. Whether you're jumping back into a coding session or...
 
 vendor: Nate Kane
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.nathanaelkane.focusedfiles</description>
       <pubDate>Thu, 19 Mar 2026 02:33:08 GMT</pubDate>
@@ -89,7 +128,7 @@ xmlId: com.github.nathanaelkane.focusedfiles</description>
       <description>Enterprise authentication provider configuration helper for JetBrains IDEs.
 
 vendor: saner
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.copilot.provider.helper</description>
       <pubDate>Thu, 19 Mar 2026 01:12:25 GMT</pubDate>
@@ -102,7 +141,7 @@ xmlId: com.github.copilot.provider.helper</description>
       <description>Changelist Router is an IntelliJ Platform plugin that automatically routes VCS changes to the correct changelist based on file path patterns. Define rules using glob...
 
 vendor: MreeP
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.mreep.changelistrouter</description>
       <pubDate>Wed, 18 Mar 2026 22:11:30 GMT</pubDate>
@@ -115,7 +154,7 @@ xmlId: com.github.mreep.changelistrouter</description>
       <description>Control AI coding agents from your mobile device. Pair your phone with your IDE to start, stop, and monitor AI coding sessions remotely. Homepage...
 
 vendor: CodeAgent Mobile
-downloads: 6
+downloads: 24
 pricingModel: FREE
 xmlId: com.codeagent.mobile</description>
       <pubDate>Thu, 19 Mar 2026 13:22:24 GMT</pubDate>
@@ -128,7 +167,7 @@ xmlId: com.codeagent.mobile</description>
       <description>Kokedera Icons File icons from the moss garden. Designed to pair with the Kokedera color theme. Every icon draws from the same palette of moss greens, lantern ambers...
 
 vendor: 7th Layer
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: com.seventhlayer.kokedera.icons</description>
       <pubDate>Thu, 19 Mar 2026 11:41:45 GMT</pubDate>
@@ -141,7 +180,7 @@ xmlId: com.seventhlayer.kokedera.icons</description>
       <description>Add review comments on diffs right from your IDE on a line, a file, or the whole review. When you're done, export everything as markdown you can paste into a PR, a...
 
 vendor: Harold Ozouf
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.codereview.annotator</description>
       <pubDate>Wed, 18 Mar 2026 20:25:42 GMT</pubDate>
@@ -154,7 +193,7 @@ xmlId: com.codereview.annotator</description>
       <description>Idea plugin to edit OrgMode files supports basic outline and comments block elements folding spell checking live templates More features on the go!.
 
 vendor: Aha
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: OrgMode</description>
       <pubDate>Wed, 18 Mar 2026 16:40:09 GMT</pubDate>
@@ -167,7 +206,7 @@ xmlId: OrgMode</description>
       <description>Adds support for Smali language: Highlighting Debugging (registers listing, examining objects state, conditional breakpoints, setting values at runtime, etc.) Basic...
 
 vendor: Andrei Kudryavtsev
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: dev.resmali</description>
       <pubDate>Wed, 18 Mar 2026 17:48:17 GMT</pubDate>
@@ -180,7 +219,7 @@ xmlId: dev.resmali</description>
       <description>Java Guideline MCP Checker integrates a Java guideline service into IntelliJ IDEA. It provides pre-commit checks, inspections, and optional auto-fixes for your code...
 
 vendor: xiaoshuai
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.yourcompany.javaguideline</description>
       <pubDate>Wed, 18 Mar 2026 14:15:12 GMT</pubDate>
@@ -193,7 +232,7 @@ xmlId: com.yourcompany.javaguideline</description>
       <description>QonQrete QonQrete is a deterministic AI coding agent for IntelliJ enabling autonomous code generation, local AI development, and secure sandboxed software construction...
 
 vendor: QonQrete
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: sh.qonqrete</description>
       <pubDate>Wed, 18 Mar 2026 10:35:13 GMT</pubDate>
@@ -206,7 +245,7 @@ xmlId: sh.qonqrete</description>
       <description>Full language support for the Azora programming language.
 
 vendor: AzoraTech
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.azora.lang.idea</description>
       <pubDate>Wed, 18 Mar 2026 09:26:52 GMT</pubDate>
@@ -219,51 +258,12 @@ xmlId: com.azora.lang.idea</description>
       <description>Voder is an AI coding assistant for JetBrains IDEs. It brings multi-model chat, local context memory, and team-based agent workflows into the IDE so you can ask...
 
 vendor: Guoshujiang
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.gsj.aip</description>
       <pubDate>Wed, 18 Mar 2026 09:17:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30760-voder</guid>
       <dc:date>2026-03-18T09:17:47Z</dc:date>
-    </item>
-    <item>
-      <title>Laravel Custom Policy Navigator - Thu Mar 19 08:40:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30763-laravel-custom-policy-navigator</link>
-      <description>Provides navigation and autocomplete for Laravel custom policies assigned via SetCustomPolicy middleware. Features: - Cmd+Click on any ability string in...
-
-vendor: vladislavow
-downloads: 2
-pricingModel: FREE
-xmlId: com.brighterly.custom-policy-navigator</description>
-      <pubDate>Thu, 19 Mar 2026 08:40:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30763-laravel-custom-policy-navigator</guid>
-      <dc:date>2026-03-19T08:40:27Z</dc:date>
-    </item>
-    <item>
-      <title>Jujutsu VCS Integration - Wed Mar 18 19:25:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30576-jujutsu-vcs-integration</link>
-      <description>Native IntelliJ integration for Jujutsu (jj), a Git-compatible version control system with a fundamentally different approach to working with code. Why Jujutsu...
-
-vendor: Kevin Thomas
-downloads: 2
-pricingModel: FREE
-xmlId: in.kkkev.jj-idea</description>
-      <pubDate>Wed, 18 Mar 2026 19:25:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30576-jujutsu-vcs-integration</guid>
-      <dc:date>2026-03-18T19:25:12Z</dc:date>
-    </item>
-    <item>
-      <title>Qualimetry Terraform Analyzer - Thu Mar 19 06:51:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30478-qualimetry-terraform-analyzer</link>
-      <description>Static analysis of Terraform (HCL) files (.tf) in IntelliJ IDEA and other JetBrains IDEs. Also runs in JetBrains Qodana. Powered by tflint, Trivy, and Checkov with the...
-
-vendor: Qualimetry
-downloads: 1
-pricingModel: FREE
-xmlId: com.qualimetry.terraform</description>
-      <pubDate>Thu, 19 Mar 2026 06:51:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30478-qualimetry-terraform-analyzer</guid>
-      <dc:date>2026-03-19T06:51:47Z</dc:date>
     </item>
   </channel>
 </rss>
