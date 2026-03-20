@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Git Worktree Toolbox - Fri Mar 20 16:14:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30798-git-worktree-toolbox</link>
+      <description>A native Git worktree manager built into your IDE. Create, browse, merge, and remove worktrees without leaving your editor. Features Dedicated Tool Window — View all...
+
+vendor: BalaKumar.dev
+downloads: 0
+pricingModel: PAID
+xmlId: dev.balakumar.worktreemanager</description>
+      <pubDate>Fri, 20 Mar 2026 16:14:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30798-git-worktree-toolbox</guid>
+      <dc:date>2026-03-20T16:14:22Z</dc:date>
+    </item>
+    <item>
+      <title>EasyFK Generator - Fri Mar 20 18:27:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30796-easyfk-generator</link>
+      <description>EasyFK Generator A powerful code generation plugin for the EasyFK Java/Spring Boot framework. Features Full-stack Generation — Generate complete project skeleton...
+
+vendor: EasyFK Generator
+downloads: 1
+pricingModel: FREE
+xmlId: com.mcst.easyfk.generator.idea</description>
+      <pubDate>Fri, 20 Mar 2026 18:27:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30796-easyfk-generator</guid>
+      <dc:date>2026-03-20T18:27:17Z</dc:date>
+    </item>
+    <item>
       <title>FeiShu+S3 - Fri Mar 20 07:20:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30593-feishu-s3</link>
       <description>A powerful JetBrains IDE plugin that seamlessly integrates Feishu cloud document management and multi-cloud object storage services (AWS S3, MinIO, R2, Aliyun OSS...
@@ -238,32 +264,6 @@ xmlId: OrgMode</description>
       <pubDate>Wed, 18 Mar 2026 16:40:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30772-orgmode</guid>
       <dc:date>2026-03-18T16:40:09Z</dc:date>
-    </item>
-    <item>
-      <title>ReSmali - Wed Mar 18 17:48:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30774-resmali</link>
-      <description>Adds support for Smali language: Highlighting Debugging (registers listing, examining objects state, conditional breakpoints, setting values at runtime, etc.) Basic...
-
-vendor: Andrei Kudryavtsev
-downloads: 4
-pricingModel: FREE
-xmlId: dev.resmali</description>
-      <pubDate>Wed, 18 Mar 2026 17:48:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30774-resmali</guid>
-      <dc:date>2026-03-18T17:48:17Z</dc:date>
-    </item>
-    <item>
-      <title>Java Guideline MCP Checker - Wed Mar 18 14:15:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30767-java-guideline-mcp-checker</link>
-      <description>Java Guideline MCP Checker integrates a Java guideline service into IntelliJ IDEA. It provides pre-commit checks, inspections, and optional auto-fixes for your code...
-
-vendor: xiaoshuai
-downloads: 5
-pricingModel: FREE
-xmlId: com.yourcompany.javaguideline</description>
-      <pubDate>Wed, 18 Mar 2026 14:15:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30767-java-guideline-mcp-checker</guid>
-      <dc:date>2026-03-18T14:15:12Z</dc:date>
     </item>
   </channel>
 </rss>
