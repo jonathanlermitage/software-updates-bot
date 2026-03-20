@@ -6,43 +6,82 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Collision Challenge - Thu Mar 19 14:11:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30801-collision-challenge</link>
-      <description>Collision Challenge is a physics-based marble challenge game seamlessly integrated into your IDE. Designed for developers, it provides a high-precision simulation...
+      <title>FeiShu+S3 - Fri Mar 20 07:20:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30593-feishu-s3</link>
+      <description>A powerful JetBrains IDE plugin that seamlessly integrates Feishu cloud document management and multi-cloud object storage services (AWS S3, MinIO, R2, Aliyun OSS...
 
-vendor: leeucob
-downloads: 0
+vendor: FeiShu+S3
+downloads: 4
 pricingModel: FREE
-xmlId: com.kuyou.CollisionChallenge</description>
-      <pubDate>Thu, 19 Mar 2026 14:11:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30801-collision-challenge</guid>
-      <dc:date>2026-03-19T14:11:46Z</dc:date>
+xmlId: com.feishu.oss.jetbrains</description>
+      <pubDate>Fri, 20 Mar 2026 07:20:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30593-feishu-s3</guid>
+      <dc:date>2026-03-20T07:20:47Z</dc:date>
     </item>
     <item>
-      <title>Minimalist Sudoku - Wed Mar 18 04:16:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30759-minimalist-sudoku</link>
-      <description>Minimalist Sudoku is an embedded Sudoku game plugin meticulously designed for developers. Whether you're waiting for a long build process or stuck on a complex bug...
+      <title>Comment-Consistency - Fri Mar 20 05:44:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30809-comment-consistency</link>
+      <description>Comment Consistency is an in-editor assistant that keeps Java comments aligned with implementation logic in real time. This project aims to implement an out-of-the-box...
 
-vendor: leeucob
+vendor: HHLhhx
 downloads: 0
 pricingModel: FREE
-xmlId: com.kuyou.MinimalistSudoku</description>
-      <pubDate>Wed, 18 Mar 2026 04:16:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30759-minimalist-sudoku</guid>
-      <dc:date>2026-03-18T04:16:03Z</dc:date>
+xmlId: com.github.HHLhhx.comment-consistency-plugin</description>
+      <pubDate>Fri, 20 Mar 2026 05:44:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30809-comment-consistency</guid>
+      <dc:date>2026-03-20T05:44:39Z</dc:date>
     </item>
     <item>
-      <title>InvestHabits - Thu Mar 19 14:02:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30758-investhabits</link>
-      <description>InvestHabits is an investment mentality training tool for developers. By simulating market fluctuations (Rise, Flat, Fall), it helps you cultivate calm and wise...
+      <title>JsonToDartPlus - Fri Mar 20 02:52:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30808-jsontodartplus</link>
+      <description>A powerful IntelliJ IDEA / Android Studio plugin for generating Dart entity classes from JSON data with comprehensive type validation and null safety support. Key...
 
-vendor: leeucob
+vendor: zhengzirong
 downloads: 0
 pricingModel: FREE
-xmlId: com.kuyou.InvestHabits</description>
-      <pubDate>Thu, 19 Mar 2026 14:02:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30758-investhabits</guid>
-      <dc:date>2026-03-19T14:02:32Z</dc:date>
+xmlId: com.github.zhazhazsy.jsontodartplus</description>
+      <pubDate>Fri, 20 Mar 2026 02:52:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30808-jsontodartplus</guid>
+      <dc:date>2026-03-20T02:52:48Z</dc:date>
+    </item>
+    <item>
+      <title>AI Commit Generator - Fri Mar 20 01:45:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30807-ai-commit-generator</link>
+      <description>AI-powered commit message generation for IntelliJ IDEA.
+
+vendor: ai git aicommit
+downloads: 0
+pricingModel: FREE
+xmlId: com.aicommit.ai-commit</description>
+      <pubDate>Fri, 20 Mar 2026 01:45:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30807-ai-commit-generator</guid>
+      <dc:date>2026-03-20T01:45:07Z</dc:date>
+    </item>
+    <item>
+      <title>Http Server - Fri Mar 20 02:49:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30757-http-server</link>
+      <description>Run a real HTTP server directly inside your IDE — no extra tools, no boilerplate, no containers. Http Server lets you define routes, responses, headers, status codes...
+
+vendor: Alexandre Pontes
+downloads: 2
+pricingModel: PAID
+xmlId: com.alepontes.http-server</description>
+      <pubDate>Fri, 20 Mar 2026 02:49:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30757-http-server</guid>
+      <dc:date>2026-03-20T02:49:33Z</dc:date>
+    </item>
+    <item>
+      <title>VariantX - Thu Mar 19 18:42:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30804-variantx</link>
+      <description>VariantX — A fast, keyboard-driven build variant selector for Android Studio. Switch Android build variants instantly with Cmd+Shift+X (macOS) / Ctrl+Shift+X...
+
+vendor: AxonDragonScale
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.axondragonscale.variantx</description>
+      <pubDate>Thu, 19 Mar 2026 18:42:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30804-variantx</guid>
+      <dc:date>2026-03-19T18:42:46Z</dc:date>
     </item>
     <item>
       <title>Multi - Frontier AI Coding Agent - Thu Mar 19 20:10:01 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: com.yourcompany.javaguideline</description>
       <pubDate>Wed, 18 Mar 2026 14:15:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30767-java-guideline-mcp-checker</guid>
       <dc:date>2026-03-18T14:15:12Z</dc:date>
-    </item>
-    <item>
-      <title>QonQrete - Wed Mar 18 10:35:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30764-qonqrete</link>
-      <description>QonQrete QonQrete is a deterministic AI coding agent for IntelliJ enabling autonomous code generation, local AI development, and secure sandboxed software construction...
-
-vendor: QonQrete
-downloads: 3
-pricingModel: FREE
-xmlId: sh.qonqrete</description>
-      <pubDate>Wed, 18 Mar 2026 10:35:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30764-qonqrete</guid>
-      <dc:date>2026-03-18T10:35:13Z</dc:date>
-    </item>
-    <item>
-      <title>Azora Language - Wed Mar 18 09:26:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30762-azora-language</link>
-      <description>Full language support for the Azora programming language.
-
-vendor: AzoraTech
-downloads: 2
-pricingModel: FREE
-xmlId: com.azora.lang.idea</description>
-      <pubDate>Wed, 18 Mar 2026 09:26:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30762-azora-language</guid>
-      <dc:date>2026-03-18T09:26:52Z</dc:date>
-    </item>
-    <item>
-      <title>Voder - Wed Mar 18 09:17:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30760-voder</link>
-      <description>Voder is an AI coding assistant for JetBrains IDEs. It brings multi-model chat, local context memory, and team-based agent workflows into the IDE so you can ask...
-
-vendor: Guoshujiang
-downloads: 2
-pricingModel: FREE
-xmlId: com.gsj.aip</description>
-      <pubDate>Wed, 18 Mar 2026 09:17:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30760-voder</guid>
-      <dc:date>2026-03-18T09:17:47Z</dc:date>
     </item>
   </channel>
 </rss>
