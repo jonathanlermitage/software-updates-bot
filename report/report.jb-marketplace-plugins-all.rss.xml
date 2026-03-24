@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Konfigomatik - Tue Mar 17 22:00:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30130-konfigomatik</link>
+      <description>Keep JetBrains IDE behavior consistent per Git project — automatically. Konfigomatik enforces shared IDE configuration for your team, scoped by Git repository. No...
+
+vendor: Konfigomatik
+downloads: 1
+pricingModel: PAID
+xmlId: com.konfigomatik.plugin</description>
+      <pubDate>Tue, 17 Mar 2026 22:00:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30130-konfigomatik</guid>
+      <dc:date>2026-03-17T22:00:18Z</dc:date>
+    </item>
+    <item>
+      <title>KChang Azure Deploy - Thu Mar 19 21:20:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30805-kchang-azure-deploy</link>
+      <description>KChang Azure Deploy Deploy and manage Azure Function Apps directly from PyCharm — no terminal switching required. Features Azure Explorer — left sidebar tree showing...
+
+vendor: Ken Chang
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.azuredeploy.azure-function-deploy</description>
+      <pubDate>Thu, 19 Mar 2026 21:20:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30805-kchang-azure-deploy</guid>
+      <dc:date>2026-03-19T21:20:04Z</dc:date>
+    </item>
+    <item>
       <title>Silverile - Fri Mar 06 02:29:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30499-silverile</link>
       <description>Intent-aware, AI-assisted development for user stories, structured story generation, Copilot prompts, and test script scaffolding — built on Safe Light Coding with...
@@ -238,32 +264,6 @@ xmlId: com.commitly</description>
       <pubDate>Mon, 23 Mar 2026 00:04:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30840-commitly</guid>
       <dc:date>2026-03-23T00:04:17Z</dc:date>
-    </item>
-    <item>
-      <title>HoudiniVexAssist - Mon Mar 23 05:32:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30846-houdinivexassist</link>
-      <description>Houdini VEX assyst plugin for JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, etc.) Features Code FormattingAutocompleteError and Warnings (Syntax, Type, etc.)Quick...
-
-vendor: unclepomedev
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.unclepomedev.houdinivexassist</description>
-      <pubDate>Mon, 23 Mar 2026 05:32:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30846-houdinivexassist</guid>
-      <dc:date>2026-03-23T05:32:28Z</dc:date>
-    </item>
-    <item>
-      <title>Run Configuration Bridge - Tue Mar 24 02:09:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30842-run-configuration-bridge</link>
-      <description>Expose your IntelliJ Run/Debug configurations through a local REST API and WebSocket server, enabling AI coding agents and automation tools to execute with full IDE...
-
-vendor: LLITD LLC
-downloads: 3
-pricingModel: FREEMIUM
-xmlId: com.llitd.runconfigbridge</description>
-      <pubDate>Tue, 24 Mar 2026 02:09:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30842-run-configuration-bridge</guid>
-      <dc:date>2026-03-24T02:09:40Z</dc:date>
     </item>
   </channel>
 </rss>
