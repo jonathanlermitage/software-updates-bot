@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Silverile - Fri Mar 06 02:29:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30499-silverile</link>
+      <description>Intent-aware, AI-assisted development for user stories, structured story generation, Copilot prompts, and test script scaffolding — built on Safe Light Coding with...
+
+vendor: Silverile
+downloads: 1
+pricingModel: FREE
+xmlId: com.silverile.ide</description>
+      <pubDate>Fri, 06 Mar 2026 02:29:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30499-silverile</guid>
+      <dc:date>2026-03-06T02:29:15Z</dc:date>
+    </item>
+    <item>
       <title>Arb.NET - Mon Mar 23 22:31:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30433-arb-net</link>
       <description>Arb.NET brings ARB (Application Resource Bundle) localization support to Rider. Features Smart ARB editor with side-by-side multi-locale editing XAML integration...
@@ -240,7 +253,7 @@ xmlId: com.github.unclepomedev.houdinivexassist</description>
       <dc:date>2026-03-23T05:32:28Z</dc:date>
     </item>
     <item>
-      <title>Run Configuration Bridge - Mon Mar 23 01:05:33 UTC 2026</title>
+      <title>Run Configuration Bridge - Tue Mar 24 02:09:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30842-run-configuration-bridge</link>
       <description>Expose your IntelliJ Run/Debug configurations through a local REST API and WebSocket server, enabling AI coding agents and automation tools to execute with full IDE...
 
@@ -248,22 +261,9 @@ vendor: LLITD LLC
 downloads: 0
 pricingModel: FREEMIUM
 xmlId: com.llitd.runconfigbridge</description>
-      <pubDate>Mon, 23 Mar 2026 01:05:33 GMT</pubDate>
+      <pubDate>Tue, 24 Mar 2026 02:09:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30842-run-configuration-bridge</guid>
-      <dc:date>2026-03-23T01:05:33Z</dc:date>
-    </item>
-    <item>
-      <title>DataClass Keep - Mon Mar 23 19:11:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30866-dataclass-keep</link>
-      <description>Detects Kotlin data classes and Retrofit response classes missing the @Keep annotation, preventing ProGuard/R8 from stripping them during minification. Features: Warns...
-
-vendor: Vipin Thakur
-downloads: 0
-pricingModel: FREE
-xmlId: com.vipin.datakeepplugin</description>
-      <pubDate>Mon, 23 Mar 2026 19:11:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30866-dataclass-keep</guid>
-      <dc:date>2026-03-23T19:11:57Z</dc:date>
+      <dc:date>2026-03-24T02:09:40Z</dc:date>
     </item>
   </channel>
 </rss>
