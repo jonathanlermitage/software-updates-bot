@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>TodoTasks - Mon Mar 23 10:27:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30851-todotasks</link>
-      <description>Task management tool directly inside IntelliJ IDEA. Manage your to-do tasks, track progress, and organize your work without leaving the IDE. Supports both...
+      <title>Arb.NET - Mon Mar 23 22:31:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30433-arb-net</link>
+      <description>Arb.NET brings ARB (Application Resource Bundle) localization support to Rider. Features Smart ARB editor with side-by-side multi-locale editing XAML integration...
 
-vendor: shenyuanlaolarou
-downloads: 0
+vendor: Michal-MK
+downloads: 3
 pricingModel: FREE
-xmlId: TodoTasks</description>
-      <pubDate>Mon, 23 Mar 2026 10:27:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30851-todotasks</guid>
-      <dc:date>2026-03-23T10:27:54Z</dc:date>
+xmlId: arbnet</description>
+      <pubDate>Mon, 23 Mar 2026 22:31:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30433-arb-net</guid>
+      <dc:date>2026-03-23T22:31:35Z</dc:date>
     </item>
     <item>
-      <title>Exact: Elixir Support - Sat Mar 21 21:20:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30828-exact-elixir-support</link>
-      <description>Elixir language support for JetBrains IDEs via the Expert Language Server. Provides code completion, go-to-definition, hover documentation, diagnostics, and other LSP...
+      <title>TimeRail - Mon Mar 23 20:58:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30869-timerail</link>
+      <description>TimeRail — Visual branching code history for IntelliJ IDEA. Snapshot your editor state at any moment and restore it with one click. Snapshots are displayed in an...
 
-vendor: Thiago Romano
+vendor: Yulin Peng
+downloads: 0
+pricingModel: FREE
+xmlId: com.timerail.timerail</description>
+      <pubDate>Mon, 23 Mar 2026 20:58:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30869-timerail</guid>
+      <dc:date>2026-03-23T20:58:08Z</dc:date>
+    </item>
+    <item>
+      <title>GraphQL Unused - Mon Mar 23 19:40:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30868-graphql-unused</link>
+      <description>Highlights named GraphQL operations and fragments that appear unused on the frontend. Features: real-time inspection warnings in GraphQL files gutter markers for...
+
+vendor: Olivér Raisz
+downloads: 0
+pricingModel: FREE
+xmlId: dev.oraisz.plugins.graphql-unused</description>
+      <pubDate>Mon, 23 Mar 2026 19:40:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30868-graphql-unused</guid>
+      <dc:date>2026-03-23T19:40:26Z</dc:date>
+    </item>
+    <item>
+      <title>Localyze - Mon Mar 23 18:08:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30802-localyze</link>
+      <description>Translate Android strings.xml files to 120+ languages directly from Android Studio using Localyze.app.
+
+vendor: Stevdza-San
+downloads: 3
+pricingModel: FREE
+xmlId: com.localyze.plugin</description>
+      <pubDate>Mon, 23 Mar 2026 18:08:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30802-localyze</guid>
+      <dc:date>2026-03-23T18:08:56Z</dc:date>
+    </item>
+    <item>
+      <title>Wetator - Sun Mar 22 17:10:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30837-wetator</link>
+      <description>Wetator is a web application testing tool that allows you to create and execute test cases for web applications. It provides a user-friendly interface for designing...
+
+vendor: Wetator
+downloads: 0
+pricingModel: FREE
+xmlId: org.wetator.Wetator-IntelliJ-Plugin</description>
+      <pubDate>Sun, 22 Mar 2026 17:10:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30837-wetator</guid>
+      <dc:date>2026-03-22T17:10:27Z</dc:date>
+    </item>
+    <item>
+      <title>Webhook Inspector - Sat Mar 21 16:44:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30823-webhook-inspector</link>
+      <description>Webhook Inspector captures HTTP calls executed through the plugin's .http action and shows request and response details in a tool window.
+
+vendor: Neurahex
 downloads: 2
 pricingModel: FREE
-xmlId: com.thiromano.exact</description>
-      <pubDate>Sat, 21 Mar 2026 21:20:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30828-exact-elixir-support</guid>
-      <dc:date>2026-03-21T21:20:45Z</dc:date>
+xmlId: com.waheni.webhookinspector</description>
+      <pubDate>Sat, 21 Mar 2026 16:44:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30823-webhook-inspector</guid>
+      <dc:date>2026-03-21T16:44:08Z</dc:date>
     </item>
     <item>
-      <title>Legend of Zelda Progress Bar - Mon Mar 23 15:06:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30856-legend-of-zelda-progress-bar</link>
-      <description>Replaces the IntelliJ progress bar with Legend of Zelda characters and animated items.
+      <title>String Resource Finder - Mon Mar 23 13:03:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30855-string-resource-finder</link>
+      <description>String Resource Finder Fixes Go to Declaration (Cmd+Click / Ctrl+Click) for Android string resource keys that use dots as separators in strings.xml files. The Problem...
 
-vendor: MoniK
+vendor: alicankorkmaz-sudo
 downloads: 0
 pricingModel: FREE
-xmlId: com.monikode.legendprogressbar</description>
-      <pubDate>Mon, 23 Mar 2026 15:06:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30856-legend-of-zelda-progress-bar</guid>
-      <dc:date>2026-03-23T15:06:08Z</dc:date>
+xmlId: com.alicankorkmaz.stringresfinder</description>
+      <pubDate>Mon, 23 Mar 2026 13:03:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30855-string-resource-finder</guid>
+      <dc:date>2026-03-23T13:03:48Z</dc:date>
     </item>
     <item>
-      <title>Arthas Workbench - Mon Mar 23 08:38:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30843-arthas-workbench</link>
-      <description>English: Arthas Workbench is an IntelliJ IDEA plugin for local Arthas workflows. It helps you discover JVM processes started from IDEA Run/Debug or found on the local...
+      <title>Turtle Commander - Mon Mar 23 17:45:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30863-turtle-commander</link>
+      <description>A dual-panel file manager integrated into IntelliJ-based IDEs, inspired by classic orthodox file managers like Total Commander and Far Manager. Features: Two...
 
-vendor: wl2027
+vendor: Ivan Petrichenko
 downloads: 0
 pricingModel: FREE
-xmlId: com.github.wl2027.arthasworkbench</description>
-      <pubDate>Mon, 23 Mar 2026 08:38:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30843-arthas-workbench</guid>
-      <dc:date>2026-03-23T08:38:06Z</dc:date>
+xmlId: io.github.jhspetersson.turtlecommander</description>
+      <pubDate>Mon, 23 Mar 2026 17:45:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30863-turtle-commander</guid>
+      <dc:date>2026-03-23T17:45:19Z</dc:date>
     </item>
     <item>
-      <title>Enjoy Template - Mon Mar 23 09:41:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30850-enjoy-template</link>
-      <description>Enjoy Template Engine Support Syntax highlighting and comprehensive support for JFinal Enjoy template engine (.enjoy files). This plugin provides full IDE integration...
+      <title>OpenSpec - Sat Mar 21 01:37:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30678-openspec</link>
+      <description>IntelliJ IDEA plugin for OpenSpec spec-driven development framework.
 
-vendor: xixii
-downloads: 0
+vendor: John Boyce
+downloads: 4
 pricingModel: FREE
-xmlId: top.xixii.enjoy</description>
-      <pubDate>Mon, 23 Mar 2026 09:41:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30850-enjoy-template</guid>
-      <dc:date>2026-03-23T09:41:20Z</dc:date>
+xmlId: com.johnnyblabs.openspec</description>
+      <pubDate>Sat, 21 Mar 2026 01:37:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30678-openspec</guid>
+      <dc:date>2026-03-21T01:37:52Z</dc:date>
     </item>
     <item>
-      <title>Database MCP Tools - Mon Mar 23 07:09:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30848-database-mcp-tools</link>
-      <description>Extends DataGrip's built-in MCP server with 6 database tools. AI assistants like Claude Code can query databases through DataGrip's existing connections — SSH tunnels...
+      <title>Rainbow Continue - Sat Mar 21 08:16:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30816-rainbow-continue</link>
+      <description>Rainbow highlighting identifiers and delimiters for IntelliJ IDEA-based IDEs.
 
-vendor: Zeeshan Siddiqui
-downloads: 0
+vendor: leeqia
+downloads: 1
 pricingModel: FREE
-xmlId: io.github.siddiquizeeshan.database.mcp</description>
-      <pubDate>Mon, 23 Mar 2026 07:09:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30848-database-mcp-tools</guid>
-      <dc:date>2026-03-23T07:09:34Z</dc:date>
+xmlId: leeqia.rainbow</description>
+      <pubDate>Sat, 21 Mar 2026 08:16:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30816-rainbow-continue</guid>
+      <dc:date>2026-03-21T08:16:42Z</dc:date>
     </item>
     <item>
-      <title>cztctl - Mon Mar 23 07:50:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30849-cztctl</link>
-      <description>cztctl - DSL Plugin for go-zero Microservice Framework IDE plugin for cztctl, an extended code generation tool for the go-zero microservice framework. Provides syntax...
+      <title>Kargo - Fri Mar 20 23:16:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30588-kargo</link>
+      <description>Kargo is a high-performance, lightweight build system for Kotlin/Native and JVM projects. &#x1f680; Kargo: Next-Gen Kotlin Build System ⚡ Experience the future of Kotlin...
 
-vendor: lerity-yao
-downloads: 0
+vendor: Léo Douglas Padilha
+downloads: 5
 pricingModel: FREE
-xmlId: com.cztctl.dsl</description>
-      <pubDate>Mon, 23 Mar 2026 07:50:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30849-cztctl</guid>
-      <dc:date>2026-03-23T07:50:11Z</dc:date>
+xmlId: build.kargo</description>
+      <pubDate>Fri, 20 Mar 2026 23:16:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30588-kargo</guid>
+      <dc:date>2026-03-20T23:16:54Z</dc:date>
     </item>
     <item>
-      <title>Eta Template - Sun Mar 22 19:43:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30838-eta-template</link>
-      <description>Syntax highlighting and editor support for the Eta template language in WebStorm and other JetBrains IDEs. Features Recognizes .eta files with a dedicated file type...
+      <title>LAN Chat - Sat Mar 21 06:53:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30815-lan-chat</link>
+      <description>LAN Chat - Instant messaging tool for local area networks LAN Chat enables developers to chat with colleagues on the same local network without leaving the IDE. Key...
 
-vendor: lazygyu
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.lazygyu.eta</description>
-      <pubDate>Sun, 22 Mar 2026 19:43:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30838-eta-template</guid>
-      <dc:date>2026-03-22T19:43:44Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode Relay - Sat Mar 21 22:22:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30674-opencode-relay</link>
-      <description>OpenCode Relay — AI coding assistant integration for IntelliJ IDEA. Brings the power of OpenCode directly into your IDE.
-
-vendor: Ashot Nazaryan
+vendor: LAN Chat
 downloads: 2
 pricingModel: FREE
-xmlId: com.ashotn.opencode-relay</description>
-      <pubDate>Sat, 21 Mar 2026 22:22:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30674-opencode-relay</guid>
-      <dc:date>2026-03-21T22:22:11Z</dc:date>
+xmlId: com.lanchat.idea-lan-chat</description>
+      <pubDate>Sat, 21 Mar 2026 06:53:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30815-lan-chat</guid>
+      <dc:date>2026-03-21T06:53:07Z</dc:date>
     </item>
     <item>
-      <title>Spring Config Table - Sun Mar 22 14:13:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30833-spring-config-table</link>
-      <description>Manage Spring Boot multi-environment YAML config files using a single Markdown table. Visual Table Editor — Master-Detail layout with grouped property list, search...
+      <title>Git Release Publish - Mon Mar 23 15:28:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30858-git-release-publish</link>
+      <description>Git Release Automator Automate your release workflow by generating ChangeLog.md directly from your Git history. Auto-detects Features (✨) and Bugs (&#x1f41b;). Automatic Git...
 
-vendor: PinkMandarin
+vendor: class
 downloads: 0
 pricingModel: FREE
-xmlId: com.pinkmandarin.sct</description>
-      <pubDate>Sun, 22 Mar 2026 14:13:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30833-spring-config-table</guid>
-      <dc:date>2026-03-22T14:13:45Z</dc:date>
+xmlId: com.ltp.git.plugin.Git-Release-Plugin</description>
+      <pubDate>Mon, 23 Mar 2026 15:28:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30858-git-release-publish</guid>
+      <dc:date>2026-03-23T15:28:58Z</dc:date>
     </item>
     <item>
-      <title>OrbiTrack - Sun Mar 22 12:23:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30829-orbitrack</link>
-      <description>Aggregate GitHub issues and PRs across orgs and repos into a single IDE interface.
+      <title>Open in TotalCmd - Mon Mar 23 06:28:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30847-open-in-totalcmd</link>
+      <description>Open the current file or folder in Total Commander Before using it, set the absolute path of TOTALCMD64.EXE and the window panel after opening in Settings -&amp;gt; Other...
 
-vendor: Anton Vasiliev
-downloads: 2
+vendor: huanyv
+downloads: 0
 pricingModel: FREE
-xmlId: dev.anvas.orbitrack.idea</description>
-      <pubDate>Sun, 22 Mar 2026 12:23:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30829-orbitrack</guid>
-      <dc:date>2026-03-22T12:23:39Z</dc:date>
+xmlId: io.github.huanyv.totalcmd</description>
+      <pubDate>Mon, 23 Mar 2026 06:28:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30847-open-in-totalcmd</guid>
+      <dc:date>2026-03-23T06:28:18Z</dc:date>
     </item>
     <item>
-      <title>[YACT] Yet Another Composition Tracer - Sat Mar 21 12:56:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30820--yact-yet-another-composition-tracer</link>
-      <description>YACT (Yet Another Composition Tracer) is a developer tool for Jetpack Compose projects that enhances navigation, code insight, and visual feedback for CompositionLocal...
+      <title>Patina - Sun Mar 22 16:01:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30836-patina</link>
+      <description>Context-aware autocomplete and validation for Patina proc-macro attributes.
 
-vendor: Andrew Malitchuk
-downloads: 1
+vendor: DemonicNomad
+downloads: 0
 pricingModel: FREE
-xmlId: dev.yact.io</description>
-      <pubDate>Sat, 21 Mar 2026 12:56:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30820--yact-yet-another-composition-tracer</guid>
-      <dc:date>2026-03-21T12:56:36Z</dc:date>
+xmlId: net.mika.patina</description>
+      <pubDate>Sun, 22 Mar 2026 16:01:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30836-patina</guid>
+      <dc:date>2026-03-22T16:01:41Z</dc:date>
     </item>
     <item>
-      <title>Shopify Functions Query Cost - Sun Mar 22 17:28:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30803-shopify-functions-query-cost</link>
-      <description>Displays Shopify Function input GraphQL query cost in the status bar based on Shopify limits, with warnings for high-cost queries and oversized list arguments. The...
+      <title>TimeTransfe - Sat Mar 21 08:37:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/28904-timetransfe</link>
+      <description>A timestamp converter that converts numeric timestamps into a visual time format. It can be quickly invoked using the shortcut keys ctrl + alt + shift + Z 一个时间戳转换器...
 
-vendor: John Okoroafor
-downloads: 1
+vendor: TimeTransfe
+downloads: 3
 pricingModel: FREE
-xmlId: com.johnxy84.shopify.functions-query-cost</description>
-      <pubDate>Sun, 22 Mar 2026 17:28:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30803-shopify-functions-query-cost</guid>
-      <dc:date>2026-03-22T17:28:46Z</dc:date>
+xmlId: com.wangfugui.TimeTransfe</description>
+      <pubDate>Sat, 21 Mar 2026 08:37:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/28904-timetransfe</guid>
+      <dc:date>2026-03-21T08:37:01Z</dc:date>
     </item>
     <item>
-      <title>fah_on_error - Sun Mar 22 07:57:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30724-fah-on-error</link>
-      <description>The plugin monitors the IntelliJ DaemonCodeAnalyzer in real-time. The moment "red lines" appear in your active editor, the plugin triggers an audio alert, ensuring you...
+      <title>Commitly - Mon Mar 23 00:04:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30840-commitly</link>
+      <description>Commitly — AI-Powered Commit Message Generator Generate clean, conventional commit messages, PR descriptions, and release notes — all powered by AI. Features AI Commit...
 
-vendor: fah on error
-downloads: 1
+vendor: Commitly
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.yxtay2324.fah</description>
-      <pubDate>Sun, 22 Mar 2026 07:57:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30724-fah-on-error</guid>
-      <dc:date>2026-03-22T07:57:11Z</dc:date>
+xmlId: com.commitly</description>
+      <pubDate>Mon, 23 Mar 2026 00:04:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30840-commitly</guid>
+      <dc:date>2026-03-23T00:04:17Z</dc:date>
     </item>
     <item>
-      <title>Toolkit for Cloudflare - Sun Mar 22 06:34:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30799-toolkit-for-cloudflare</link>
-      <description>Comprehensive Cloudflare development toolkit for JetBrains IDEs. Manage Workers, Pages, KV, D1, R2, Queues, and more directly from your IDE. Features Workers — browse...
+      <title>HoudiniVexAssist - Mon Mar 23 05:32:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30846-houdinivexassist</link>
+      <description>Houdini VEX assyst plugin for JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, etc.) Features Code FormattingAutocompleteError and Warnings (Syntax, Type, etc.)Quick...
 
-vendor: Jetplugins
-downloads: 1
-pricingModel: PAID
-xmlId: dev.jetplugins.cloudflare</description>
-      <pubDate>Sun, 22 Mar 2026 06:34:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30799-toolkit-for-cloudflare</guid>
-      <dc:date>2026-03-22T06:34:47Z</dc:date>
-    </item>
-    <item>
-      <title>Color Manipulation - Fri Mar 20 13:24:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30812-color-manipulation</link>
-      <description>A powerful color toolkit for developers. Select any color in your code, right-click, and convert, adjust, mix, or analyze it — all without leaving the editor. Convert...
-
-vendor: Ignacio Tomas Crespo
-downloads: 1
+vendor: unclepomedev
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.ignaciotcrespo.colormanipulation</description>
-      <pubDate>Fri, 20 Mar 2026 13:24:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30812-color-manipulation</guid>
-      <dc:date>2026-03-20T13:24:25Z</dc:date>
+xmlId: com.github.unclepomedev.houdinivexassist</description>
+      <pubDate>Mon, 23 Mar 2026 05:32:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30846-houdinivexassist</guid>
+      <dc:date>2026-03-23T05:32:28Z</dc:date>
     </item>
     <item>
-      <title>Roo Code (CE) - Sat Mar 21 17:15:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30824-roo-code-ce-</link>
-      <description>Roo Code (CE) - Production-Ready AI Coding Assistant Roo Code (CE) is a high-performance, community-driven edition of the Roo Code AI assistant for IntelliJ-based...
+      <title>Run Configuration Bridge - Mon Mar 23 01:05:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30842-run-configuration-bridge</link>
+      <description>Expose your IntelliJ Run/Debug configurations through a local REST API and WebSocket server, enabling AI coding agents and automation tools to execute with full IDE...
 
-vendor: ABCXLAB
-downloads: 1
-pricingModel: FREE
-xmlId: roo-code-ce</description>
-      <pubDate>Sat, 21 Mar 2026 17:15:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30824-roo-code-ce-</guid>
-      <dc:date>2026-03-21T17:15:08Z</dc:date>
+vendor: LLITD LLC
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.llitd.runconfigbridge</description>
+      <pubDate>Mon, 23 Mar 2026 01:05:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30842-run-configuration-bridge</guid>
+      <dc:date>2026-03-23T01:05:33Z</dc:date>
     </item>
     <item>
-      <title>Maven Quick Search - Sat Mar 21 09:16:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30818-maven-quick-search</link>
-      <description>Quick search for Maven dependencies from mvn.coderead.cn and Maven Central. Supports Maven XML, Gradle Groovy and Gradle Kotlin DSL dependency snippet copy. 在 IDE...
+      <title>DataClass Keep - Mon Mar 23 19:11:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30866-dataclass-keep</link>
+      <description>Detects Kotlin data classes and Retrofit response classes missing the @Keep annotation, preventing ProGuard/R8 from stripping them during minification. Features: Warns...
 
-vendor: maven quick search
-downloads: 2
+vendor: Vipin Thakur
+downloads: 0
 pricingModel: FREE
-xmlId: com.jou.maven-search</description>
-      <pubDate>Sat, 21 Mar 2026 09:16:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30818-maven-quick-search</guid>
-      <dc:date>2026-03-21T09:16:15Z</dc:date>
-    </item>
-    <item>
-      <title>ScalaBPE Navigator - Mon Mar 23 07:55:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30811-scalabpe-navigator</link>
-      <description>ScalaBPE Navigator - An IntelliJ IDEA plugin for ScalaBPE framework development, providing efficient navigation and tooling between XML service contracts and...
-
-vendor: pengxiaoyu
-downloads: 2
-pricingModel: FREE
-xmlId: com.shengqugames.scala-bpe-plugin</description>
-      <pubDate>Mon, 23 Mar 2026 07:55:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30811-scalabpe-navigator</guid>
-      <dc:date>2026-03-23T07:55:19Z</dc:date>
-    </item>
-    <item>
-      <title>Audio Player - Tue Mar 10 14:05:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30608-audio-player</link>
-      <description>Play audio files directly in the editor with playback controls.
-
-vendor: Masaki Aida
-downloads: 336
-pricingModel: FREE
-xmlId: com.github.audioplayer</description>
-      <pubDate>Tue, 10 Mar 2026 14:05:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30608-audio-player</guid>
-      <dc:date>2026-03-10T14:05:58Z</dc:date>
+xmlId: com.vipin.datakeepplugin</description>
+      <pubDate>Mon, 23 Mar 2026 19:11:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30866-dataclass-keep</guid>
+      <dc:date>2026-03-23T19:11:57Z</dc:date>
     </item>
   </channel>
 </rss>
