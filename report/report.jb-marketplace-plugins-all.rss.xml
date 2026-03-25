@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>String-Helper - Tue Mar 24 03:21:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30404-string-helper</link>
+      <description>String Helper A small utility plugin that provides quick string transformations like Unicode, Base64, URL encoding/decoding and multipart-boundary conversion right...
+
+vendor: doyoo
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.doyoo.stringhelper</description>
+      <pubDate>Tue, 24 Mar 2026 03:21:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30404-string-helper</guid>
+      <dc:date>2026-03-24T03:21:13Z</dc:date>
+    </item>
+    <item>
       <title>Cursor Agent for DevEco - Tue Mar 24 10:37:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30886-cursor-agent-for-deveco</link>
       <description>Integrates Cursor Agent AI coding capabilities into DevEco Studio and IntelliJ-based IDEs via the Agent Client Protocol (ACP). Features Multi-tab chat — manage...
@@ -24,7 +37,7 @@ xmlId: com.cursor.agent.deveco</description>
       <description>Seamlessly integrate Claude CLI into your JetBrains IDE with a powerful terminal-based workflow. Rune brings AI-powered commit messages, PR management, code queries...
 
 vendor: Caner Türe
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.cnrture.rune</description>
       <pubDate>Tue, 24 Mar 2026 23:07:49 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.github.cnrture.rune</description>
       <description>Enables code commenting directly in Diff views launched via command line, even without starting the full IDE project. 专为独立差异模式设计：即使不启动完整...
 
 vendor: bob
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.iibob.diffcomment</description>
       <pubDate>Tue, 24 Mar 2026 02:57:21 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.github.iibob.diffcomment</description>
       <description>Kotlin/Native project support for Konvoy build tool. Provides project model integration, run configurations, and toolchain management for projects using konvoy.toml.
 
 vendor: Konvoy
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.konvoy.ide</description>
       <pubDate>Tue, 24 Mar 2026 06:29:01 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.konvoy.ide</description>
       <description>Restores MyBatis SQL through multiple workflows, including captured Run/Debug logs and manual paste, and provides a friendly, searchable tool window UI for fast...
 
 vendor: accepted
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.accepted.mybatis-log-plugin</description>
       <pubDate>Tue, 24 Mar 2026 05:43:14 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.github.accepted.mybatis-log-plugin</description>
       <description>Copy the current file path with line numbers from JetBrains IDEs. Supports both relative and absolute paths, multi-caret selections, and compact line ranges such as...
 
 vendor: dmxiaoshubao
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.dmxiaoshubao.copypathline.idea</description>
       <pubDate>Tue, 24 Mar 2026 14:27:17 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.dmxiaoshubao.copypathline.idea</description>
       <description>Prevents accidental execution of multiline commands when pasting into the terminal. When using shells like PowerShell that do not support bracketed paste mode, pasting...
 
 vendor: Marko Cevrljakovic
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.marko.safe-paste</description>
       <pubDate>Mon, 23 Mar 2026 22:08:14 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: dev.marko.safe-paste</description>
       <description>xmCode Generator Pro is an IntelliJ IDEA plugin that generates clean MyBatis CRUD code from MySQL schema. 从 MySQL 表结构一键生成 Entity / Mapper / Service / Controller...
 
 vendor: XiaoMaTools
-downloads: 1
+downloads: 2
 pricingModel: FREEMIUM
 xmlId: top.xiaomatools.codegen</description>
       <pubDate>Fri, 06 Mar 2026 10:49:52 GMT</pubDate>
@@ -125,7 +138,7 @@ xmlId: com.github.aifolderpath</description>
     <item>
       <title>FluentAutoGenerator - Tue Mar 24 10:28:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30879-fluentautogenerator</link>
-      <description>FluentAutoGenerator helps you create FluentMigrator migration boilerplate directly from Rider's Solution Explorer. The plugin adds a FluentMigrator context menu for...
+      <description>FluentAutoGenerator helps you create a FluentMigrator migration boilerplate directly from Rider's Solution Explorer. The plugin adds a FluentMigrator context menu for...
 
 vendor: Serhii Lukashov
 downloads: 0
@@ -141,7 +154,7 @@ xmlId: com.slukashov.fluentautogenerator</description>
       <description>Simple Icons is an icon plugin for the IntelliJ Platform . It's simple.
 
 vendor: Simple Icons
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.ingrowthly.icons</description>
       <pubDate>Tue, 24 Mar 2026 09:45:30 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: io.github.ingrowthly.icons</description>
       <description>Spec-Driven Development (SDD) AI coding workflow for JetBrains IDEs. Move AI-assisted changes from ad-hoc prompts to Spec-Driven Development (SDD) workflows with...
 
 vendor: yuan yong
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.eacape.speccodingplugin</description>
       <pubDate>Tue, 24 Mar 2026 13:51:47 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: com.eacape.speccodingplugin</description>
       <description>English IDE Database MCP exposes database connections configured in JetBrains IDEs as a local MCP service, so MCP clients can discover data sources and execute SQL...
 
 vendor: Skrstop
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.skrstop.ide.databasemcp</description>
       <pubDate>Tue, 24 Mar 2026 11:33:55 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.skrstop.ide.databasemcp</description>
       <description>Keep JetBrains IDE behavior consistent per Git project — automatically. Konfigomatik enforces shared configuration for your team, scoped by Git repository. No shared...
 
 vendor: Konfigomatik
-downloads: 1
+downloads: 2
 pricingModel: PAID
 xmlId: com.konfigomatik.plugin</description>
       <pubDate>Tue, 17 Mar 2026 22:00:18 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.konfigomatik.plugin</description>
       <description>KChang Azure Deploy Deploy and manage Azure Function Apps directly from PyCharm — no terminal switching required. Features Azure Explorer — left sidebar tree showing...
 
 vendor: Ken Chang
-downloads: 1
+downloads: 3
 pricingModel: FREEMIUM
 xmlId: com.azuredeploy.azure-function-deploy</description>
       <pubDate>Thu, 19 Mar 2026 21:20:04 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.azuredeploy.azure-function-deploy</description>
       <description>Intent-aware, AI-assisted development for user stories, structured story generation, Copilot prompts, and test script scaffolding — built on Safe Light Coding with...
 
 vendor: Silverile
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.silverile.ide</description>
       <pubDate>Fri, 06 Mar 2026 02:29:15 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.silverile.ide</description>
       <description>Arb.NET brings ARB (Application Resource Bundle) localization support to Rider. Features Smart ARB editor with side-by-side multi-locale editing XAML integration...
 
 vendor: Michal-MK
-downloads: 3
+downloads: 4
 pricingModel: FREE
 xmlId: arbnet</description>
       <pubDate>Mon, 23 Mar 2026 22:31:35 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: arbnet</description>
       <description>TimeRail — Visual branching code history for IntelliJ IDEA. Snapshot your editor state at any moment and restore it with one click. Snapshots are displayed in an...
 
 vendor: Yulin Peng
-downloads: 14
+downloads: 27
 pricingModel: FREE
 xmlId: com.timerail.timerail</description>
       <pubDate>Mon, 23 Mar 2026 20:58:08 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.timerail.timerail</description>
       <description>Highlights named GraphQL operations and fragments that appear unused on the frontend. Features: real-time inspection warnings in GraphQL files gutter markers for...
 
 vendor: Olivér Raisz
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: dev.oraisz.plugins.graphql-unused</description>
       <pubDate>Mon, 23 Mar 2026 19:40:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30868-graphql-unused</guid>
       <dc:date>2026-03-23T19:40:26Z</dc:date>
-    </item>
-    <item>
-      <title>Localyze - Tue Mar 24 18:02:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30802-localyze</link>
-      <description>Translate Android strings.xml files to 120+ languages directly from Android Studio using Localyze.app.
-
-vendor: Stevdza-San
-downloads: 7
-pricingModel: FREE
-xmlId: com.localyze.plugin</description>
-      <pubDate>Tue, 24 Mar 2026 18:02:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30802-localyze</guid>
-      <dc:date>2026-03-24T18:02:38Z</dc:date>
     </item>
   </channel>
 </rss>
