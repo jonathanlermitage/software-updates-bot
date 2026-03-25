@@ -6,6 +6,162 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Ansible LSP - Wed Mar 25 12:25:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30908-ansible-lsp</link>
+      <description>This plugin allows using the Ansible LSP for autocompletion in ansible roles and playbooks. This plugin is based on LSP4IJ. Besides automatically setting up the...
+
+vendor: Julian Vennen
+downloads: 0
+pricingModel: FREE
+xmlId: me.vennen.ansible-lsp</description>
+      <pubDate>Wed, 25 Mar 2026 12:25:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30908-ansible-lsp</guid>
+      <dc:date>2026-03-25T12:25:52Z</dc:date>
+    </item>
+    <item>
+      <title>Comment Continuation - Tue Mar 24 21:26:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30899-comment-continuation</link>
+      <description>Press Enter while inside a Java or Kotlin // line comment that starts the line, after optional indentation, to automatically continue the comment on the next line...
+
+vendor: Saket Narayan
+downloads: 0
+pricingModel: FREE
+xmlId: com.saket.commentcontinuation</description>
+      <pubDate>Tue, 24 Mar 2026 21:26:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30899-comment-continuation</guid>
+      <dc:date>2026-03-24T21:26:43Z</dc:date>
+    </item>
+    <item>
+      <title>Rust Enhanced Syntax Highlighting - Wed Mar 25 10:12:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30898-rust-enhanced-syntax-highlighting</link>
+      <description>Enhances Rust syntax highlighting in RustRover with visual indicators for async calls (.await, async fn, spawn) and early return points (return, ?, unwrap, panic...
+
+vendor: squadgazzz
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.squadgazzz.rustsyntaxtoolsrustroverplugin</description>
+      <pubDate>Wed, 25 Mar 2026 10:12:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30898-rust-enhanced-syntax-highlighting</guid>
+      <dc:date>2026-03-25T10:12:59Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Control - Wed Mar 25 16:37:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30817-mcp-control</link>
+      <description>MCP server that gives AI agents access to IDE features they can't get from the command line. Agents can read files and run terminals on their own. They can't set...
+
+vendor: Benjamin Rannow
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.brannow.phpstormmcp</description>
+      <pubDate>Wed, 25 Mar 2026 16:37:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30817-mcp-control</guid>
+      <dc:date>2026-03-25T16:37:24Z</dc:date>
+    </item>
+    <item>
+      <title>Document Converter - Tue Mar 24 20:25:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30897-document-converter</link>
+      <description>A simple IntelliJ IDEA plugin for converting files into formats like Markdown and JSON. You can use it to convert supported files and foldersfrom the Project view or...
+
+vendor: Akram Bensalem
+downloads: 0
+pricingModel: FREE
+xmlId: me.akram.bensalem.document.converter</description>
+      <pubDate>Tue, 24 Mar 2026 20:25:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30897-document-converter</guid>
+      <dc:date>2026-03-24T20:25:57Z</dc:date>
+    </item>
+    <item>
+      <title>Verilog and Vivado Support - Wed Mar 25 10:41:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30907-verilog-and-vivado-support</link>
+      <description>IntelliJ plugin for Verilog development with Vivado integration. Features: Verilog and Tcl syntax highlighting and auto-completion Tcl code folding for braced blocks...
+
+vendor: Merge Panic Society
+downloads: 0
+pricingModel: FREE
+xmlId: com.hdl.verilog-vivado-plugin</description>
+      <pubDate>Wed, 25 Mar 2026 10:41:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30907-verilog-and-vivado-support</guid>
+      <dc:date>2026-03-25T10:41:51Z</dc:date>
+    </item>
+    <item>
+      <title>YCPCS Marmoset Submitter - Wed Mar 25 01:01:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30901-ycpcs-marmoset-submitter</link>
+      <description>An IntelliJ Platform plugin that automates the submission of student programming assignments to a Marmoset submission server. The plugin zips the project files...
+
+vendor: YCPCS
+downloads: 0
+pricingModel: FREE
+xmlId: edu.ycp.cs.marmosetsubmitter</description>
+      <pubDate>Wed, 25 Mar 2026 01:01:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30901-ycpcs-marmoset-submitter</guid>
+      <dc:date>2026-03-25T01:01:53Z</dc:date>
+    </item>
+    <item>
+      <title>Daily Report - Wed Mar 25 00:54:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30902-daily-report</link>
+      <description>IntelliJ IDEA plugin for generating daily/weekly work reports with Git log analysis and AI summary powered by Baidu Qianfan Coding Plan. Features: - Multi-project Git...
+
+vendor: daily-report-plugin
+downloads: 0
+pricingModel: FREE
+xmlId: com.dailyreport.plugin</description>
+      <pubDate>Wed, 25 Mar 2026 00:54:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30902-daily-report</guid>
+      <dc:date>2026-03-25T00:54:06Z</dc:date>
+    </item>
+    <item>
+      <title>Panda Auto Commit - Wed Mar 25 01:42:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30875-panda-auto-commit</link>
+      <description>Automates Git commit messages using Google's Gemini AI. Developed by ViO.
+
+vendor: Panda Auto Commit
+downloads: 0
+pricingModel: FREE
+xmlId: com.vio.panda_commit</description>
+      <pubDate>Wed, 25 Mar 2026 01:42:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30875-panda-auto-commit</guid>
+      <dc:date>2026-03-25T01:42:13Z</dc:date>
+    </item>
+    <item>
+      <title>DBML - Wed Mar 25 07:14:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30905-dbml</link>
+      <description>DBML language support for JetBrains IDEs. Syntax highlighting for keywords, strings, numbers, comments, operators, and expressionsEscape sequence highlighting in...
+
+vendor: Steelsky NZ
+downloads: 0
+pricingModel: FREE
+xmlId: nz.co.steelsky.dbmlplugin</description>
+      <pubDate>Wed, 25 Mar 2026 07:14:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30905-dbml</guid>
+      <dc:date>2026-03-25T07:14:48Z</dc:date>
+    </item>
+    <item>
+      <title>PromptMate - Wed Mar 25 04:47:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30891-promptmate</link>
+      <description>PromptMate is an AI-powered coding assistant that helps developers write, improve, and understand code directly inside the IDE. It simplifies interaction with AI...
+
+vendor: Rising Mind Systems
+downloads: 0
+pricingModel: FREE
+xmlId: com.risingmind.promptmate</description>
+      <pubDate>Wed, 25 Mar 2026 04:47:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30891-promptmate</guid>
+      <dc:date>2026-03-25T04:47:40Z</dc:date>
+    </item>
+    <item>
+      <title>ProScan Security Scanner - Fri Mar 20 21:02:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30813-proscan-security-scanner</link>
+      <description>Real-time SAST, SCA, and secrets scanning for JetBrains IDEs. Integrates with the ProScan security analysis server for comprehensive vulnerability detection with...
+
+vendor: Proscan
+downloads: 1
+pricingModel: FREE
+xmlId: com.proscan.security</description>
+      <pubDate>Fri, 20 Mar 2026 21:02:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30813-proscan-security-scanner</guid>
+      <dc:date>2026-03-20T21:02:54Z</dc:date>
+    </item>
+    <item>
       <title>FigBridge - Tue Mar 24 10:23:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30885-figbridge</link>
       <description>Generate Tailwind CSS or Custom CSS/HTML code from Figma designs.
@@ -108,162 +264,6 @@ xmlId: com.dmxiaoshubao.copypathline.idea</description>
       <pubDate>Tue, 24 Mar 2026 14:27:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30894-copy-path-line</guid>
       <dc:date>2026-03-24T14:27:17Z</dc:date>
-    </item>
-    <item>
-      <title>Safe Paste - Mon Mar 23 22:08:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30839-safe-paste</link>
-      <description>Prevents accidental execution of multiline commands when pasting into the terminal. When using shells like PowerShell that do not support bracketed paste mode, pasting...
-
-vendor: Marko Cevrljakovic
-downloads: 2
-pricingModel: FREE
-xmlId: dev.marko.safe-paste</description>
-      <pubDate>Mon, 23 Mar 2026 22:08:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30839-safe-paste</guid>
-      <dc:date>2026-03-23T22:08:14Z</dc:date>
-    </item>
-    <item>
-      <title>xmCode Generator - Fri Mar 06 10:49:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30513-xmcode-generator</link>
-      <description>xmCode Generator Pro is an IntelliJ IDEA plugin that generates clean MyBatis CRUD code from MySQL schema. 从 MySQL 表结构一键生成 Entity / Mapper / Service / Controller...
-
-vendor: XiaoMaTools
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: top.xiaomatools.codegen</description>
-      <pubDate>Fri, 06 Mar 2026 10:49:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30513-xmcode-generator</guid>
-      <dc:date>2026-03-06T10:49:52Z</dc:date>
-    </item>
-    <item>
-      <title>AI Folder Path - Tue Mar 24 07:03:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30880-ai-folder-path</link>
-      <description>Copy AI-friendly reference paths for files, directories, classes, methods, and code snippets in IntelliJ IDEA. 中文 在编辑器或项目视图中，一键复制 AI 友好引用路径 支持文件、目录、类、方法和代码片段 支持 Maven...
-
-vendor: ajiang
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.aifolderpath</description>
-      <pubDate>Tue, 24 Mar 2026 07:03:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30880-ai-folder-path</guid>
-      <dc:date>2026-03-24T07:03:15Z</dc:date>
-    </item>
-    <item>
-      <title>FluentAutoGenerator - Wed Mar 25 08:00:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30879-fluentautogenerator</link>
-      <description>FluentAutoGenerator helps you create a FluentMigrator migration boilerplate directly from Rider's Solution Explorer. The plugin adds a FluentMigrator context menu for...
-
-vendor: Serhii Lukashov
-downloads: 0
-pricingModel: FREE
-xmlId: com.slukashov.fluentautogenerator</description>
-      <pubDate>Wed, 25 Mar 2026 08:00:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30879-fluentautogenerator</guid>
-      <dc:date>2026-03-25T08:00:01Z</dc:date>
-    </item>
-    <item>
-      <title>Simple Icons - Tue Mar 24 09:45:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30884-simple-icons</link>
-      <description>Simple Icons is an icon plugin for the IntelliJ Platform . It's simple.
-
-vendor: Simple Icons
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.ingrowthly.icons</description>
-      <pubDate>Tue, 24 Mar 2026 09:45:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30884-simple-icons</guid>
-      <dc:date>2026-03-24T09:45:30Z</dc:date>
-    </item>
-    <item>
-      <title>Spec Code - Tue Mar 24 13:51:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30893-spec-code</link>
-      <description>Spec-Driven Development (SDD) AI coding workflow for JetBrains IDEs. Move AI-assisted changes from ad-hoc prompts to Spec-Driven Development (SDD) workflows with...
-
-vendor: yuan yong
-downloads: 1
-pricingModel: FREE
-xmlId: com.eacape.speccodingplugin</description>
-      <pubDate>Tue, 24 Mar 2026 13:51:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30893-spec-code</guid>
-      <dc:date>2026-03-24T13:51:47Z</dc:date>
-    </item>
-    <item>
-      <title>IDE Database MCP - Tue Mar 24 11:33:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30887-ide-database-mcp</link>
-      <description>English IDE Database MCP exposes database connections configured in JetBrains IDEs as a local MCP service, so MCP clients can discover data sources and execute SQL...
-
-vendor: Skrstop
-downloads: 1
-pricingModel: FREE
-xmlId: com.skrstop.ide.databasemcp</description>
-      <pubDate>Tue, 24 Mar 2026 11:33:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30887-ide-database-mcp</guid>
-      <dc:date>2026-03-24T11:33:55Z</dc:date>
-    </item>
-    <item>
-      <title>Konfigomatik - Tue Mar 17 22:00:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30130-konfigomatik</link>
-      <description>Keep JetBrains IDE behavior consistent per Git project — automatically. Konfigomatik enforces shared configuration for your team, scoped by Git repository. No shared...
-
-vendor: Konfigomatik
-downloads: 2
-pricingModel: PAID
-xmlId: com.konfigomatik.plugin</description>
-      <pubDate>Tue, 17 Mar 2026 22:00:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30130-konfigomatik</guid>
-      <dc:date>2026-03-17T22:00:18Z</dc:date>
-    </item>
-    <item>
-      <title>KChang Azure Deploy - Thu Mar 19 21:20:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30805-kchang-azure-deploy</link>
-      <description>KChang Azure Deploy Deploy and manage Azure Function Apps directly from PyCharm — no terminal switching required. Features Azure Explorer — left sidebar tree showing...
-
-vendor: Ken Chang
-downloads: 3
-pricingModel: FREEMIUM
-xmlId: com.azuredeploy.azure-function-deploy</description>
-      <pubDate>Thu, 19 Mar 2026 21:20:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30805-kchang-azure-deploy</guid>
-      <dc:date>2026-03-19T21:20:04Z</dc:date>
-    </item>
-    <item>
-      <title>Silverile - Fri Mar 06 02:29:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30499-silverile</link>
-      <description>Intent-aware, AI-assisted development for user stories, structured story generation, Copilot prompts, and test script scaffolding — built on Safe Light Coding with...
-
-vendor: Silverile
-downloads: 5
-pricingModel: FREE
-xmlId: com.silverile.ide</description>
-      <pubDate>Fri, 06 Mar 2026 02:29:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30499-silverile</guid>
-      <dc:date>2026-03-06T02:29:15Z</dc:date>
-    </item>
-    <item>
-      <title>Arb.NET - Mon Mar 23 22:31:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30433-arb-net</link>
-      <description>Arb.NET brings ARB (Application Resource Bundle) localization support to Rider. Features Smart ARB editor with side-by-side multi-locale editing XAML integration...
-
-vendor: Michal-MK
-downloads: 4
-pricingModel: FREE
-xmlId: arbnet</description>
-      <pubDate>Mon, 23 Mar 2026 22:31:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30433-arb-net</guid>
-      <dc:date>2026-03-23T22:31:35Z</dc:date>
-    </item>
-    <item>
-      <title>TimeRail - Mon Mar 23 20:58:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30869-timerail</link>
-      <description>TimeRail — Visual branching code history for IntelliJ IDEA. Snapshot your editor state at any moment and restore it with one click. Snapshots are displayed in an...
-
-vendor: Yulin Peng
-downloads: 27
-pricingModel: FREE
-xmlId: com.timerail.timerail</description>
-      <pubDate>Mon, 23 Mar 2026 20:58:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30869-timerail</guid>
-      <dc:date>2026-03-23T20:58:08Z</dc:date>
     </item>
   </channel>
 </rss>
