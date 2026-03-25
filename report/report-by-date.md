@@ -1,12 +1,12 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1 (261.22158.277) ~ 2026-03-25|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Mar 25 16:22:47 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.8.2|[nodejs.org](https://nodejs.org)|Wed Mar 25 00:09:27 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.14.1|[nodejs.org](https://nodejs.org)|Wed Mar 25 00:09:27 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 338 - Le soulèvement des bots de skills|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Mar 20 20:04:34 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.5.5 to 19.6.0 ~ 2026-03-19|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Mar 20 00:08:32 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.4.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 19 16:16:02 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.4.1|[gradle.org](https://gradle.org/releases)|Thu Mar 19 12:06:20 UTC 2026|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2025.3.4 (253.32098.37) ~ 2026-03-17|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Mar 17 20:08:35 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.2 (2026-03-16)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Mar 16 16:19:31 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.22158.121) ~ 2026-03-13|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Mar 13 16:08:07 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.1|[golang.org](https://golang.org/dl/)|Fri Mar 06 04:30:39 UTC 2026|
