@@ -6,6 +6,162 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Rune - Tue Mar 24 23:07:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30873-rune</link>
+      <description>Seamlessly integrate Claude CLI into your JetBrains IDE with a powerful terminal-based workflow. Rune brings AI-powered commit messages, PR management, code queries...
+
+vendor: Caner Türe
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.cnrture.rune</description>
+      <pubDate>Tue, 24 Mar 2026 23:07:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30873-rune</guid>
+      <dc:date>2026-03-24T23:07:49Z</dc:date>
+    </item>
+    <item>
+      <title>Diff Comment Helper - Tue Mar 24 02:57:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30874-diff-comment-helper</link>
+      <description>Enables code commenting directly in Diff views launched via command line, even without starting the full IDE project. 专为独立差异模式设计：即使不启动完整...
+
+vendor: bob
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.iibob.diffcomment</description>
+      <pubDate>Tue, 24 Mar 2026 02:57:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30874-diff-comment-helper</guid>
+      <dc:date>2026-03-24T02:57:21Z</dc:date>
+    </item>
+    <item>
+      <title>Konvoy - Tue Mar 24 06:29:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30878-konvoy</link>
+      <description>Kotlin/Native project support for Konvoy build tool. Provides project model integration, run configurations, and toolchain management for projects using konvoy.toml.
+
+vendor: Konvoy
+downloads: 0
+pricingModel: FREE
+xmlId: com.konvoy.ide</description>
+      <pubDate>Tue, 24 Mar 2026 06:29:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30878-konvoy</guid>
+      <dc:date>2026-03-24T06:29:01Z</dc:date>
+    </item>
+    <item>
+      <title>MyBatis SQL Log Restore - Tue Mar 24 05:43:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30877-mybatis-sql-log-restore</link>
+      <description>Restores MyBatis SQL through multiple workflows, including captured Run/Debug logs and manual paste, and provides a friendly, searchable tool window UI for fast...
+
+vendor: Mybatis Log
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.accepted.mybatis-log-plugin</description>
+      <pubDate>Tue, 24 Mar 2026 05:43:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30877-mybatis-sql-log-restore</guid>
+      <dc:date>2026-03-24T05:43:14Z</dc:date>
+    </item>
+    <item>
+      <title>Copy Path Line - Tue Mar 24 14:27:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30894-copy-path-line</link>
+      <description>Copy the current file path with line numbers from JetBrains IDEs. Supports both relative and absolute paths, multi-caret selections, and compact line ranges such as...
+
+vendor: dmxiaoshubao
+downloads: 0
+pricingModel: FREE
+xmlId: com.dmxiaoshubao.copypathline.idea</description>
+      <pubDate>Tue, 24 Mar 2026 14:27:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30894-copy-path-line</guid>
+      <dc:date>2026-03-24T14:27:17Z</dc:date>
+    </item>
+    <item>
+      <title>Safe Paste - Mon Mar 23 22:08:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30839-safe-paste</link>
+      <description>Prevents accidental execution of multiline commands when pasting into the terminal. When using shells like PowerShell that do not support bracketed paste mode, pasting...
+
+vendor: Marko Cevrljakovic
+downloads: 1
+pricingModel: FREE
+xmlId: dev.marko.safe-paste</description>
+      <pubDate>Mon, 23 Mar 2026 22:08:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30839-safe-paste</guid>
+      <dc:date>2026-03-23T22:08:14Z</dc:date>
+    </item>
+    <item>
+      <title>xmCode Generator - Fri Mar 06 10:49:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30513-xmcode-generator</link>
+      <description>xmCode Generator Pro is an IntelliJ IDEA plugin that generates clean MyBatis CRUD code from MySQL schema. 从 MySQL 表结构一键生成 Entity / Mapper / Service / Controller...
+
+vendor: XiaoMaTools
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: top.xiaomatools.codegen</description>
+      <pubDate>Fri, 06 Mar 2026 10:49:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30513-xmcode-generator</guid>
+      <dc:date>2026-03-06T10:49:52Z</dc:date>
+    </item>
+    <item>
+      <title>AI Folder Path - Tue Mar 24 07:03:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30880-ai-folder-path</link>
+      <description>Copy AI-friendly reference paths for files, directories, classes, methods, and code snippets in IntelliJ IDEA. 中文 在编辑器或项目视图中，一键复制 AI 友好引用路径 支持文件、目录、类、方法和代码片段 支持 Maven...
+
+vendor: ajiang
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.aifolderpath</description>
+      <pubDate>Tue, 24 Mar 2026 07:03:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30880-ai-folder-path</guid>
+      <dc:date>2026-03-24T07:03:15Z</dc:date>
+    </item>
+    <item>
+      <title>FluentAutoGenerator - Tue Mar 24 10:28:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30879-fluentautogenerator</link>
+      <description>FluentAutoGenerator helps you create FluentMigrator migration boilerplate directly from Rider's Solution Explorer. The plugin adds a FluentMigrator context menu for...
+
+vendor: Serhii Lukashov
+downloads: 0
+pricingModel: FREE
+xmlId: com.slukashov.fluentautogenerator</description>
+      <pubDate>Tue, 24 Mar 2026 10:28:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30879-fluentautogenerator</guid>
+      <dc:date>2026-03-24T10:28:54Z</dc:date>
+    </item>
+    <item>
+      <title>Simple Icons - Tue Mar 24 09:45:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30884-simple-icons</link>
+      <description>Simple Icons is an icon plugin for the IntelliJ Platform . It's simple.
+
+vendor: Simple Icons
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.ingrowthly.icons</description>
+      <pubDate>Tue, 24 Mar 2026 09:45:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30884-simple-icons</guid>
+      <dc:date>2026-03-24T09:45:30Z</dc:date>
+    </item>
+    <item>
+      <title>Spec Code - Tue Mar 24 13:51:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30893-spec-code</link>
+      <description>Spec-Driven Development (SDD) AI coding workflow for JetBrains IDEs. Move AI-assisted changes from ad-hoc prompts to Spec-Driven Development (SDD) workflows with...
+
+vendor: yuan yong
+downloads: 0
+pricingModel: FREE
+xmlId: com.eacape.speccodingplugin</description>
+      <pubDate>Tue, 24 Mar 2026 13:51:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30893-spec-code</guid>
+      <dc:date>2026-03-24T13:51:47Z</dc:date>
+    </item>
+    <item>
+      <title>IDE Database MCP - Tue Mar 24 11:33:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30887-ide-database-mcp</link>
+      <description>English IDE Database MCP exposes database connections configured in JetBrains IDEs as a local MCP service, so MCP clients can discover data sources and execute SQL...
+
+vendor: 蒋 时华
+downloads: 0
+pricingModel: FREE
+xmlId: com.skrstop.ide.databasemcp</description>
+      <pubDate>Tue, 24 Mar 2026 11:33:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30887-ide-database-mcp</guid>
+      <dc:date>2026-03-24T11:33:55Z</dc:date>
+    </item>
+    <item>
       <title>Konfigomatik - Tue Mar 17 22:00:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30130-konfigomatik</link>
       <description>Keep JetBrains IDE behavior consistent per Git project — automatically. Konfigomatik enforces shared configuration for your team, scoped by Git repository. No shared...
@@ -84,7 +240,7 @@ xmlId: dev.oraisz.plugins.graphql-unused</description>
       <dc:date>2026-03-23T19:40:26Z</dc:date>
     </item>
     <item>
-      <title>Localyze - Mon Mar 23 18:08:56 UTC 2026</title>
+      <title>Localyze - Tue Mar 24 18:02:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30802-localyze</link>
       <description>Translate Android strings.xml files to 120+ languages directly from Android Studio using Localyze.app.
 
@@ -92,9 +248,9 @@ vendor: Stevdza-San
 downloads: 7
 pricingModel: FREE
 xmlId: com.localyze.plugin</description>
-      <pubDate>Mon, 23 Mar 2026 18:08:56 GMT</pubDate>
+      <pubDate>Tue, 24 Mar 2026 18:02:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30802-localyze</guid>
-      <dc:date>2026-03-23T18:08:56Z</dc:date>
+      <dc:date>2026-03-24T18:02:38Z</dc:date>
     </item>
     <item>
       <title>Wetator - Sun Mar 22 17:10:27 UTC 2026</title>
@@ -108,162 +264,6 @@ xmlId: org.wetator.Wetator-IntelliJ-Plugin</description>
       <pubDate>Sun, 22 Mar 2026 17:10:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30837-wetator</guid>
       <dc:date>2026-03-22T17:10:27Z</dc:date>
-    </item>
-    <item>
-      <title>Webhook Inspector - Sat Mar 21 16:44:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30823-webhook-inspector</link>
-      <description>Webhook Inspector captures HTTP calls executed through the plugin's .http action and shows request and response details in a tool window.
-
-vendor: Neurahex
-downloads: 4
-pricingModel: FREE
-xmlId: com.waheni.webhookinspector</description>
-      <pubDate>Sat, 21 Mar 2026 16:44:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30823-webhook-inspector</guid>
-      <dc:date>2026-03-21T16:44:08Z</dc:date>
-    </item>
-    <item>
-      <title>String Resource Finder - Mon Mar 23 13:03:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30855-string-resource-finder</link>
-      <description>String Resource Finder Fixes Go to Declaration (Cmd+Click / Ctrl+Click) for Android string resource keys that use dots as separators in strings.xml files. The Problem...
-
-vendor: alicankorkmaz-sudo
-downloads: 3
-pricingModel: FREE
-xmlId: com.alicankorkmaz.stringresfinder</description>
-      <pubDate>Mon, 23 Mar 2026 13:03:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30855-string-resource-finder</guid>
-      <dc:date>2026-03-23T13:03:48Z</dc:date>
-    </item>
-    <item>
-      <title>Turtle Commander - Mon Mar 23 17:45:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30863-turtle-commander</link>
-      <description>A dual-panel file manager integrated into IntelliJ-based IDEs, inspired by classic orthodox file managers like Total Commander and Far Manager. Features: Two...
-
-vendor: Ivan Petrichenko
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.jhspetersson.turtlecommander</description>
-      <pubDate>Mon, 23 Mar 2026 17:45:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30863-turtle-commander</guid>
-      <dc:date>2026-03-23T17:45:19Z</dc:date>
-    </item>
-    <item>
-      <title>OpenSpec - Sat Mar 21 01:37:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30678-openspec</link>
-      <description>IntelliJ IDEA plugin for OpenSpec spec-driven development framework.
-
-vendor: John Boyce
-downloads: 6
-pricingModel: FREE
-xmlId: com.johnnyblabs.openspec</description>
-      <pubDate>Sat, 21 Mar 2026 01:37:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30678-openspec</guid>
-      <dc:date>2026-03-21T01:37:52Z</dc:date>
-    </item>
-    <item>
-      <title>Rainbow Continue - Sat Mar 21 08:16:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30816-rainbow-continue</link>
-      <description>Rainbow highlighting identifiers and delimiters for IntelliJ IDEA-based IDEs.
-
-vendor: leeqia
-downloads: 2
-pricingModel: FREE
-xmlId: leeqia.rainbow</description>
-      <pubDate>Sat, 21 Mar 2026 08:16:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30816-rainbow-continue</guid>
-      <dc:date>2026-03-21T08:16:42Z</dc:date>
-    </item>
-    <item>
-      <title>Kargo - Fri Mar 20 23:16:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30588-kargo</link>
-      <description>Kargo is a high-performance, lightweight build system for Kotlin/Native and JVM projects. &#x1f680; Kargo: Next-Gen Kotlin Build System ⚡ Experience the future of Kotlin...
-
-vendor: Léo Douglas Padilha
-downloads: 6
-pricingModel: FREE
-xmlId: build.kargo</description>
-      <pubDate>Fri, 20 Mar 2026 23:16:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30588-kargo</guid>
-      <dc:date>2026-03-20T23:16:54Z</dc:date>
-    </item>
-    <item>
-      <title>LAN Chat - Sat Mar 21 06:53:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30815-lan-chat</link>
-      <description>LAN Chat - Instant messaging tool for local area networks LAN Chat enables developers to chat with colleagues on the same local network without leaving the IDE. Key...
-
-vendor: LAN Chat
-downloads: 3
-pricingModel: FREE
-xmlId: com.lanchat.idea-lan-chat</description>
-      <pubDate>Sat, 21 Mar 2026 06:53:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30815-lan-chat</guid>
-      <dc:date>2026-03-21T06:53:07Z</dc:date>
-    </item>
-    <item>
-      <title>Git Release Publish - Mon Mar 23 15:28:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30858-git-release-publish</link>
-      <description>Git Release Automator Automate your release workflow by generating ChangeLog.md directly from your Git history. Auto-detects Features (✨) and Bugs (&#x1f41b;). Automatic Git...
-
-vendor: class
-downloads: 3
-pricingModel: FREE
-xmlId: com.ltp.git.plugin.Git-Release-Plugin</description>
-      <pubDate>Mon, 23 Mar 2026 15:28:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30858-git-release-publish</guid>
-      <dc:date>2026-03-23T15:28:58Z</dc:date>
-    </item>
-    <item>
-      <title>Open in TotalCmd - Mon Mar 23 06:28:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30847-open-in-totalcmd</link>
-      <description>Open the current file or folder in Total Commander Before using it, set the absolute path of TOTALCMD64.EXE and the window panel after opening in Settings -&amp;gt; Other...
-
-vendor: huanyv
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.huanyv.totalcmd</description>
-      <pubDate>Mon, 23 Mar 2026 06:28:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30847-open-in-totalcmd</guid>
-      <dc:date>2026-03-23T06:28:18Z</dc:date>
-    </item>
-    <item>
-      <title>Patina - Sun Mar 22 16:01:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30836-patina</link>
-      <description>Context-aware autocomplete and validation for Patina proc-macro attributes.
-
-vendor: DemonicNomad
-downloads: 2
-pricingModel: FREE
-xmlId: net.mika.patina</description>
-      <pubDate>Sun, 22 Mar 2026 16:01:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30836-patina</guid>
-      <dc:date>2026-03-22T16:01:41Z</dc:date>
-    </item>
-    <item>
-      <title>TimeTransfe - Sat Mar 21 08:37:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/28904-timetransfe</link>
-      <description>A timestamp converter that converts numeric timestamps into a visual time format. It can be quickly invoked using the shortcut keys ctrl + alt + shift + Z 一个时间戳转换器...
-
-vendor: TimeTransfe
-downloads: 4
-pricingModel: FREE
-xmlId: com.wangfugui.TimeTransfe</description>
-      <pubDate>Sat, 21 Mar 2026 08:37:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28904-timetransfe</guid>
-      <dc:date>2026-03-21T08:37:01Z</dc:date>
-    </item>
-    <item>
-      <title>Commitly - Mon Mar 23 00:04:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30840-commitly</link>
-      <description>Commitly — AI-Powered Commit Message Generator Generate clean, conventional commit messages, PR descriptions, and release notes — all powered by AI. Features AI Commit...
-
-vendor: Commitly
-downloads: 4
-pricingModel: FREE
-xmlId: com.commitly</description>
-      <pubDate>Mon, 23 Mar 2026 00:04:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30840-commitly</guid>
-      <dc:date>2026-03-23T00:04:17Z</dc:date>
     </item>
   </channel>
 </rss>
