@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Cursor Agent for DevEco - Tue Mar 24 10:37:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30886-cursor-agent-for-deveco</link>
+      <description>Integrates Cursor Agent AI coding capabilities into DevEco Studio and IntelliJ-based IDEs via the Agent Client Protocol (ACP). Features Multi-tab chat — manage...
+
+vendor: cursor-agent-for-deveco
+downloads: 0
+pricingModel: FREE
+xmlId: com.cursor.agent.deveco</description>
+      <pubDate>Tue, 24 Mar 2026 10:37:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30886-cursor-agent-for-deveco</guid>
+      <dc:date>2026-03-24T10:37:00Z</dc:date>
+    </item>
+    <item>
       <title>Rune - Tue Mar 24 23:07:49 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30873-rune</link>
       <description>Seamlessly integrate Claude CLI into your JetBrains IDE with a powerful terminal-based workflow. Rune brings AI-powered commit messages, PR management, code queries...
@@ -49,7 +62,7 @@ xmlId: com.konvoy.ide</description>
       <link>https://plugins.jetbrains.com/plugin/30877-mybatis-sql-log-restore</link>
       <description>Restores MyBatis SQL through multiple workflows, including captured Run/Debug logs and manual paste, and provides a friendly, searchable tool window UI for fast...
 
-vendor: Mybatis Log
+vendor: accepted
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.accepted.mybatis-log-plugin</description>
@@ -153,7 +166,7 @@ xmlId: com.eacape.speccodingplugin</description>
       <link>https://plugins.jetbrains.com/plugin/30887-ide-database-mcp</link>
       <description>English IDE Database MCP exposes database connections configured in JetBrains IDEs as a local MCP service, so MCP clients can discover data sources and execute SQL...
 
-vendor: 蒋 时华
+vendor: Skrstop
 downloads: 0
 pricingModel: FREE
 xmlId: com.skrstop.ide.databasemcp</description>
@@ -251,19 +264,6 @@ xmlId: com.localyze.plugin</description>
       <pubDate>Tue, 24 Mar 2026 18:02:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30802-localyze</guid>
       <dc:date>2026-03-24T18:02:38Z</dc:date>
-    </item>
-    <item>
-      <title>Wetator - Sun Mar 22 17:10:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30837-wetator</link>
-      <description>Wetator is a web application testing tool that allows you to create and execute test cases for web applications. It provides a user-friendly interface for designing...
-
-vendor: Wetator
-downloads: 3
-pricingModel: FREE
-xmlId: org.wetator.Wetator-IntelliJ-Plugin</description>
-      <pubDate>Sun, 22 Mar 2026 17:10:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30837-wetator</guid>
-      <dc:date>2026-03-22T17:10:27Z</dc:date>
     </item>
   </channel>
 </rss>
