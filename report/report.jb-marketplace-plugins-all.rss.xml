@@ -11,7 +11,7 @@
       <description>Karma-Lens: Runtime Metrics and Code Insights for IntelliJ IDEA Karma-Lens brings runtime and usage intelligence directly into the editor, so you can identify slow...
 
 vendor: CODEKARMA TECHNOLOGIES PRIVATE LIMITED
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.ck.karma-lens</description>
       <pubDate>Tue, 24 Mar 2026 08:20:32 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: me.vennen.ansible-lsp</description>
       <description>Press Enter while inside a Java or Kotlin // line comment that starts the line, after optional indentation, to automatically continue the comment on the next line...
 
 vendor: Saket Narayan
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.saket.commentcontinuation</description>
       <pubDate>Tue, 24 Mar 2026 21:26:43 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.saket.commentcontinuation</description>
       <description>Enhances Rust syntax highlighting in RustRover with visual indicators for async calls (.await, async fn, spawn) and early return points (return, ?, unwrap, panic...
 
 vendor: squadgazzz
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.squadgazzz.rustsyntaxtoolsrustroverplugin</description>
       <pubDate>Wed, 25 Mar 2026 10:12:59 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.github.brannow.phpstormmcp</description>
       <description>A simple IntelliJ IDEA plugin for converting files into formats like Markdown and JSON. You can use it to convert supported files and foldersfrom the Project view or...
 
 vendor: Akram Bensalem
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: me.akram.bensalem.document.converter</description>
       <pubDate>Tue, 24 Mar 2026 20:25:57 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: me.akram.bensalem.document.converter</description>
       <description>IntelliJ plugin for Verilog development with Vivado integration. Features: Verilog and Tcl syntax highlighting and auto-completion Tcl code folding for braced blocks...
 
 vendor: Merge Panic Society
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.hdl.verilog-vivado-plugin</description>
       <pubDate>Wed, 25 Mar 2026 10:41:51 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.hdl.verilog-vivado-plugin</description>
       <description>An IntelliJ Platform plugin that automates the submission of student programming assignments to a Marmoset submission server. The plugin zips the project files...
 
 vendor: YCPCS
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: edu.ycp.cs.marmosetsubmitter</description>
       <pubDate>Wed, 25 Mar 2026 01:01:53 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: edu.ycp.cs.marmosetsubmitter</description>
       <description>IntelliJ IDEA plugin for generating daily/weekly work reports with Git log analysis and AI summary powered by Baidu Qianfan Coding Plan. Features: - Multi-project Git...
 
 vendor: daily-report-plugin
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.dailyreport.plugin</description>
       <pubDate>Wed, 25 Mar 2026 00:54:06 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.dailyreport.plugin</description>
       <description>Automates Git commit messages using Google's Gemini AI. Developed by ViO.
 
 vendor: Panda Auto Commit
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.vio.panda_commit</description>
       <pubDate>Wed, 25 Mar 2026 01:42:13 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.vio.panda_commit</description>
       <description>DBML language support for JetBrains IDEs. Syntax highlighting for keywords, strings, numbers, comments, operators, and expressionsEscape sequence highlighting in...
 
 vendor: Steelsky NZ
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: nz.co.steelsky.dbmlplugin</description>
       <pubDate>Wed, 25 Mar 2026 07:14:48 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.proscan.security</description>
       <description>Generate Tailwind CSS or Custom CSS/HTML code from Figma designs.
 
 vendor: Arts Unique
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.artsunique.figbridge</description>
       <pubDate>Tue, 24 Mar 2026 10:23:58 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.artsunique.figbridge</description>
       <description>String Helper A small utility plugin that provides quick string transformations like Unicode, Base64, URL encoding/decoding and multipart-boundary conversion right...
 
 vendor: doyoo
-downloads: 4
+downloads: 11
 pricingModel: FREE
 xmlId: com.github.doyoo.stringhelper</description>
       <pubDate>Tue, 24 Mar 2026 03:21:13 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.github.doyoo.stringhelper</description>
       <description>Integrates Cursor Agent AI coding capabilities into DevEco Studio and IntelliJ-based IDEs via the Agent Client Protocol (ACP). Features Multi-tab chat — manage...
 
 vendor: cursor-agent-for-deveco
-downloads: 0
+downloads: 14
 pricingModel: FREE
 xmlId: com.cursor.agent.deveco</description>
       <pubDate>Tue, 24 Mar 2026 10:37:00 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.cursor.agent.deveco</description>
       <description>Seamlessly integrate Claude CLI into your JetBrains IDE with a powerful terminal-based workflow. Rune brings AI-powered commit messages, PR management, code queries...
 
 vendor: Caner Türe
-downloads: 4
+downloads: 38
 pricingModel: FREE
 xmlId: com.github.cnrture.rune</description>
       <pubDate>Wed, 25 Mar 2026 02:34:16 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.github.cnrture.rune</description>
       <description>Enables code commenting directly in Diff views launched via command line, even without starting the full IDE project. 专为独立差异模式设计：即使不启动完整...
 
 vendor: bob
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.iibob.diffcomment</description>
       <pubDate>Tue, 24 Mar 2026 02:57:21 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.github.iibob.diffcomment</description>
       <description>Kotlin/Native project support for Konvoy build tool. Provides project model integration, run configurations, and toolchain management for projects using konvoy.toml.
 
 vendor: Konvoy
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.konvoy.ide</description>
       <pubDate>Tue, 24 Mar 2026 06:29:01 GMT</pubDate>
