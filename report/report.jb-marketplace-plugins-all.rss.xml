@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>YAML Visual Preview - Fri Mar 27 02:47:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30927-yaml-visual-preview</link>
+      <description>Renders YAML files as styled, readable HTML in a split-pane preview, similar to the built-in Markdown preview. YAML hierarchical structures are mapped to Markdown-like...
+
+vendor: hashizume
+downloads: 0
+pricingModel: FREE
+xmlId: yaml.visual.preview.plugin.hashizume.online</description>
+      <pubDate>Fri, 27 Mar 2026 02:47:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30927-yaml-visual-preview</guid>
+      <dc:date>2026-03-27T02:47:43Z</dc:date>
+    </item>
+    <item>
       <title>Maven Resource Overlay - Thu Mar 26 16:58:16 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30857-maven-resource-overlay</link>
       <description>Maven Resource Overlay Automatically applies Maven resource filtering and &amp;lt;webResources&amp;gt; overlays from active profiles when IntelliJ builds exploded WAR or JAR...
@@ -32,7 +45,7 @@ xmlId: dev.efquerylens</description>
       <dc:date>2026-03-26T16:08:59Z</dc:date>
     </item>
     <item>
-      <title>RequestParamCheck - Tue Mar 10 11:18:20 UTC 2026</title>
+      <title>RequestParamCheck - Fri Mar 27 09:44:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30571-requestparamcheck</link>
       <description>Check whether the value of the @CustomRequestParam annotation is consistent with the method parameter name. Support real-time single-file inspection, full-project...
 
@@ -40,9 +53,9 @@ vendor: RequestParamCheck
 downloads: 4
 pricingModel: FREE
 xmlId: dhgate_RequestParamCheck</description>
-      <pubDate>Tue, 10 Mar 2026 11:18:20 GMT</pubDate>
+      <pubDate>Fri, 27 Mar 2026 09:44:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30571-requestparamcheck</guid>
-      <dc:date>2026-03-10T11:18:20Z</dc:date>
+      <dc:date>2026-03-27T09:44:18Z</dc:date>
     </item>
     <item>
       <title>Karma-Lens - Tue Mar 24 08:20:32 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.github.doyoo.stringhelper</description>
       <pubDate>Tue, 24 Mar 2026 03:21:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30404-string-helper</guid>
       <dc:date>2026-03-24T03:21:13Z</dc:date>
-    </item>
-    <item>
-      <title>Cursor Agent for DevEco - Tue Mar 24 10:37:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30886-cursor-agent-for-deveco</link>
-      <description>Integrates Cursor Agent AI coding capabilities into DevEco Studio and IntelliJ-based IDEs via the Agent Client Protocol (ACP). Features Multi-tab chat — manage...
-
-vendor: cursor-agent-for-deveco
-downloads: 35
-pricingModel: FREE
-xmlId: com.cursor.agent.deveco</description>
-      <pubDate>Tue, 24 Mar 2026 10:37:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30886-cursor-agent-for-deveco</guid>
-      <dc:date>2026-03-24T10:37:00Z</dc:date>
     </item>
   </channel>
 </rss>
