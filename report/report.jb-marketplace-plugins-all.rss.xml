@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>SharedPrefs &amp; DataStore Explorer - Sat Mar 28 12:24:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30929-sharedprefs--datastore-explorer</link>
+      <description>Browse, inspect, and edit AndroidX DataStore files on connected Android devices directly from Android Studio. DataStore Explorer provides a convenient tool window for...
+
+vendor: HorizonLoop
+downloads: 1
+pricingModel: FREE
+xmlId: com.horizonloop.idea.plugin.datastoreexplorer</description>
+      <pubDate>Sat, 28 Mar 2026 12:24:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30929-sharedprefs--datastore-explorer</guid>
+      <dc:date>2026-03-28T12:24:41Z</dc:date>
+    </item>
+    <item>
       <title>Memory Leak Detector - Fri Mar 27 04:19:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30931-memory-leak-detector</link>
       <description>Memory Leak Detector Real-time memory leak detection for IntelliJ IDEA that helps you identify and prevent memory issues in your Java applications. &#x1f4ca; Features...
@@ -214,7 +227,7 @@ xmlId: ro.gs1.idea.maven-resource-overlay</description>
       <dc:date>2026-03-27T21:09:55Z</dc:date>
     </item>
     <item>
-      <title>EF QueryLens - Sat Mar 28 11:51:26 UTC 2026</title>
+      <title>EF QueryLens - Sat Mar 28 13:38:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30753-ef-querylens</link>
       <description>EF QueryLens translates EF Core LINQ into SQL directly in JetBrains Rider and provides quick previews, logs, and copy actions.
 
@@ -222,9 +235,9 @@ vendor: EF QueryLens
 downloads: 7
 pricingModel: FREE
 xmlId: dev.efquerylens</description>
-      <pubDate>Sat, 28 Mar 2026 11:51:26 GMT</pubDate>
+      <pubDate>Sat, 28 Mar 2026 13:38:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30753-ef-querylens</guid>
-      <dc:date>2026-03-28T11:51:26Z</dc:date>
+      <dc:date>2026-03-28T13:38:09Z</dc:date>
     </item>
     <item>
       <title>RequestParamCheck - Fri Mar 27 09:44:18 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.ck.karma-lens</description>
       <pubDate>Tue, 24 Mar 2026 08:20:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30881-karma-lens</guid>
       <dc:date>2026-03-24T08:20:32Z</dc:date>
-    </item>
-    <item>
-      <title>PyLocket - Wed Mar 25 22:45:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30714-pylocket</link>
-      <description>PyLocket - Python App Protection &amp;amp; Licensing Protect your Python desktop applications with encryption, licensing, and secure distribution. One-click protection of...
-
-vendor: PyLocket
-downloads: 10
-pricingModel: FREE
-xmlId: com.pylocket.plugin</description>
-      <pubDate>Wed, 25 Mar 2026 22:45:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30714-pylocket</guid>
-      <dc:date>2026-03-25T22:45:49Z</dc:date>
     </item>
   </channel>
 </rss>
