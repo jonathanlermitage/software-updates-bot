@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>kcloud - Sun Mar 29 14:53:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30973-kcloud</link>
+      <description>kcloud is the initial IDEA plugin version for KCloud. Current scope in this first IDEA plugin version: adds a gutter icon on generated Kotlin API declarationsreads the...
+
+vendor: zjarlin
+downloads: 0
+pricingModel: FREE
+xmlId: site.addzero.kcloud</description>
+      <pubDate>Sun, 29 Mar 2026 14:53:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30973-kcloud</guid>
+      <dc:date>2026-03-29T14:53:32Z</dc:date>
+    </item>
+    <item>
+      <title>open-project-everywhere - Mon Mar 30 00:05:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30956-open-project-everywhere</link>
+      <description>Open Project Everywhere Search and open repositories directly from Search Everywhere. Features Press Shift twice and search local projects across one or more...
+
+vendor: zjarlin
+downloads: 1
+pricingModel: FREE
+xmlId: site.addzero.open-project-everywhere</description>
+      <pubDate>Mon, 30 Mar 2026 00:05:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30956-open-project-everywhere</guid>
+      <dc:date>2026-03-30T00:05:35Z</dc:date>
+    </item>
+    <item>
+      <title>GraphDB for Neo4j - Mon Mar 30 09:58:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30979-graphdb-for-neo4j</link>
+      <description>GraphDB for Neo4j — Neo4j / Bolt Database Manager for JetBrains IDEs GraphDB for Neo4j brings Neo4j graph database tooling directly into your JetBrains IDE. Connect to...
+
+vendor: Abul Hassan
+downloads: 0
+pricingModel: FREE
+xmlId: com.graphdbplugin</description>
+      <pubDate>Mon, 30 Mar 2026 09:58:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30979-graphdb-for-neo4j</guid>
+      <dc:date>2026-03-30T09:58:10Z</dc:date>
+    </item>
+    <item>
       <title>Plugin DevKit - Sun Mar 29 15:43:36 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/22851-plugin-devkit</link>
       <description>Provides a powerful foundation for developing plugins for JetBrains IDEs and other products based on the IntelliJ Platform. Features: Built-in support for extension...
@@ -175,7 +214,7 @@ xmlId: com.usehashmap.key-inspector</description>
       <dc:date>2026-03-26T20:02:41Z</dc:date>
     </item>
     <item>
-      <title>Dependency Screamer - Mon Mar 30 09:35:49 UTC 2026</title>
+      <title>Dependency Screamer - Mon Mar 30 12:16:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30914-dependency-screamer</link>
       <description>Checks local pom.xml dependencies against Nexus and warns when newer versions are available.
 
@@ -183,9 +222,9 @@ vendor: Lupu George
 downloads: 7
 pricingModel: FREE
 xmlId: com.dependencyscreamer</description>
-      <pubDate>Mon, 30 Mar 2026 09:35:49 GMT</pubDate>
+      <pubDate>Mon, 30 Mar 2026 12:16:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30914-dependency-screamer</guid>
-      <dc:date>2026-03-30T09:35:49Z</dc:date>
+      <dc:date>2026-03-30T12:16:27Z</dc:date>
     </item>
     <item>
       <title>KotlinPoet Assistant - Thu Mar 26 15:07:13 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: dev.ckob.lazygit</description>
       <pubDate>Sun, 29 Mar 2026 20:12:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30919-lazygit</guid>
       <dc:date>2026-03-29T20:12:59Z</dc:date>
-    </item>
-    <item>
-      <title>YAML Visual Preview - Fri Mar 27 12:47:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30927-yaml-visual-preview</link>
-      <description>Renders YAML files as styled, readable HTML in a split-pane preview, similar to the built-in Markdown preview. YAML hierarchical structures are mapped to Markdown-like...
-
-vendor: hashizume
-downloads: 37
-pricingModel: FREE
-xmlId: yaml.visual.preview.plugin.hashizume.online</description>
-      <pubDate>Fri, 27 Mar 2026 12:47:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30927-yaml-visual-preview</guid>
-      <dc:date>2026-03-27T12:47:30Z</dc:date>
-    </item>
-    <item>
-      <title>Maven Resource Overlay - Fri Mar 27 21:09:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30857-maven-resource-overlay</link>
-      <description>Maven Resource Overlay Automatically applies Maven resource filtering and &amp;lt;webResources&amp;gt; overlays from active profiles when IntelliJ builds exploded WAR or JAR...
-
-vendor: GS1 Data Systems SRL
-downloads: 44
-pricingModel: FREE
-xmlId: ro.gs1.idea.maven-resource-overlay</description>
-      <pubDate>Fri, 27 Mar 2026 21:09:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30857-maven-resource-overlay</guid>
-      <dc:date>2026-03-27T21:09:55Z</dc:date>
-    </item>
-    <item>
-      <title>EF QueryLens - Sun Mar 29 22:48:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30753-ef-querylens</link>
-      <description>EF QueryLens translates EF Core LINQ into SQL directly in JetBrains Rider and provides quick previews, logs, and copy actions.
-
-vendor: EF QueryLens
-downloads: 35
-pricingModel: FREE
-xmlId: dev.efquerylens</description>
-      <pubDate>Sun, 29 Mar 2026 22:48:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30753-ef-querylens</guid>
-      <dc:date>2026-03-29T22:48:34Z</dc:date>
     </item>
   </channel>
 </rss>
