@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Lnr - Mon Mar 30 18:15:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30909-lnr</link>
+      <description>Linear project management and issue tracker for your IDE. Lnr — Linear Integration for JetBrains IDEs The most complete Linear app project management integration for...
+
+vendor: Artem Bear
+downloads: 2
+pricingModel: PAID
+xmlId: com.artembear.lnr</description>
+      <pubDate>Mon, 30 Mar 2026 18:15:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30909-lnr</guid>
+      <dc:date>2026-03-30T18:15:40Z</dc:date>
+    </item>
+    <item>
+      <title>Terminal AI Watcher - Tue Mar 31 07:12:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30937-terminal-ai-watcher</link>
+      <description>Monitors Android Studio's built-in terminal for AI CLI tool events (Claude Code, Codex, Gemini CLI) and sends IDE notifications with system sounds.
+
+vendor: simuelunbo
+downloads: 2
+pricingModel: FREE
+xmlId: com.terminalwatcher.android-studio-terminal-alert</description>
+      <pubDate>Tue, 31 Mar 2026 07:12:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30937-terminal-ai-watcher</guid>
+      <dc:date>2026-03-31T07:12:33Z</dc:date>
+    </item>
+    <item>
+      <title>By3Menu - Tue Mar 31 06:13:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30954-by3menu</link>
+      <description>IntelliJ IDEA right-click menu. Provides shortcuts to run project-local scripts for push, hot reload, Lua/config, protocol formatting, and SVN (TortoiseSVN). Privacy...
+
+vendor: kibernet
+downloads: 1
+pricingModel: FREE
+xmlId: com.kibernet.by3menu</description>
+      <pubDate>Tue, 31 Mar 2026 06:13:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30954-by3menu</guid>
+      <dc:date>2026-03-31T06:13:43Z</dc:date>
+    </item>
+    <item>
+      <title>CaptureUpperArg - Tue Mar 31 01:21:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30952-captureupperarg</link>
+      <description>Kotlin Compiler Plugin Support for capturing upper arguments (**, &#x1f489;).
+
+vendor: whiterasbk
+downloads: 1
+pricingModel: FREE
+xmlId: iowoi.ink.idea.plugin.CaptureUpperArg</description>
+      <pubDate>Tue, 31 Mar 2026 01:21:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30952-captureupperarg</guid>
+      <dc:date>2026-03-31T01:21:48Z</dc:date>
+    </item>
+    <item>
+      <title>Android String Sync - Tue Mar 31 03:25:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31000-android-string-sync</link>
+      <description>Android String Sync plugin helps you sync Android strings.xml files from Google Apps Script with preview and safe apply modes. Sau khi cài plugin, hãy mở project...
+
+vendor: C2H5OH
+downloads: 0
+pricingModel: FREE
+xmlId: com.atu.tools.android-string-sync-plugin</description>
+      <pubDate>Tue, 31 Mar 2026 03:25:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31000-android-string-sync</guid>
+      <dc:date>2026-03-31T03:25:46Z</dc:date>
+    </item>
+    <item>
       <title>Glass Effect - Fri Mar 27 23:44:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30948-glass-effect</link>
       <description>Apply beautiful acrylic blur (glass) effect to your IntelliJ IDEA window on Windows 10/11. Features: Toggle glass effect with keyboard shortcut (Ctrl+Alt+G) Adjustable...
@@ -58,7 +123,7 @@ xmlId: com.evorsio.maven-package-manager</description>
       <dc:date>2026-03-29T17:32:43Z</dc:date>
     </item>
     <item>
-      <title>CC AI Toolkit - Sat Mar 28 15:45:43 UTC 2026</title>
+      <title>CC AI Toolkit - Tue Mar 31 09:51:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30961-cc-ai-toolkit</link>
       <description>CC AI Toolkit - Claude Code / Codex Workflow GUI CC AI Toolkit：面向 Claude Code、Codex 与扩展技能工作流的图形化插件 Claude Code Anthropic 官方 AI 编程助手（支持 Opus 4.6 等多模型） OpenAI Codex...
 
@@ -66,9 +131,9 @@ vendor: cc-ai-toolkit
 downloads: 2
 pricingModel: FREE
 xmlId: io.github.feelhappy.cc-ai-toolkit</description>
-      <pubDate>Sat, 28 Mar 2026 15:45:43 GMT</pubDate>
+      <pubDate>Tue, 31 Mar 2026 09:51:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30961-cc-ai-toolkit</guid>
-      <dc:date>2026-03-28T15:45:43Z</dc:date>
+      <dc:date>2026-03-31T09:51:04Z</dc:date>
     </item>
     <item>
       <title>Send to AI Assistant - Sun Mar 29 19:25:12 UTC 2026</title>
@@ -199,71 +264,6 @@ xmlId: site.addzero.kcloud</description>
       <pubDate>Sun, 29 Mar 2026 14:53:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30973-kcloud</guid>
       <dc:date>2026-03-29T14:53:32Z</dc:date>
-    </item>
-    <item>
-      <title>open-project-everywhere - Mon Mar 30 00:05:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30956-open-project-everywhere</link>
-      <description>Open Project Everywhere Search and open repositories directly from Search Everywhere. Features Press Shift twice and search local projects across one or more...
-
-vendor: zjarlin
-downloads: 3
-pricingModel: FREE
-xmlId: site.addzero.open-project-everywhere</description>
-      <pubDate>Mon, 30 Mar 2026 00:05:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30956-open-project-everywhere</guid>
-      <dc:date>2026-03-30T00:05:35Z</dc:date>
-    </item>
-    <item>
-      <title>GraphDB for Neo4j - Mon Mar 30 09:58:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30979-graphdb-for-neo4j</link>
-      <description>GraphDB for Neo4j — Neo4j / Bolt Database Manager for JetBrains IDEs GraphDB for Neo4j brings Neo4j graph database tooling directly into your JetBrains IDE. Connect to...
-
-vendor: Abul Hassan
-downloads: 8
-pricingModel: FREE
-xmlId: com.graphdbplugin</description>
-      <pubDate>Mon, 30 Mar 2026 09:58:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30979-graphdb-for-neo4j</guid>
-      <dc:date>2026-03-30T09:58:10Z</dc:date>
-    </item>
-    <item>
-      <title>Plugin DevKit - Sun Mar 29 15:43:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/22851-plugin-devkit</link>
-      <description>Provides a powerful foundation for developing plugins for JetBrains IDEs and other products based on the IntelliJ Platform. Features: Built-in support for extension...
-
-vendor: JetBrains s.r.o.
-downloads: 988461
-pricingModel: FREE
-xmlId: DevKit</description>
-      <pubDate>Sun, 29 Mar 2026 15:43:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/22851-plugin-devkit</guid>
-      <dc:date>2026-03-29T15:43:36Z</dc:date>
-    </item>
-    <item>
-      <title>YAML Key Finder - Fri Mar 27 21:54:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30870-yaml-key-finder</link>
-      <description>What it does? Search for a specific YAML key in your project. How to use it? There are three ways to find a key: NEW: Ctrl+Click (or Cmd+Click on macOS) on any string...
-
-vendor: FilieraFusion
-downloads: 9
-pricingModel: PAID
-xmlId: com.cral.YAMLKeyFinder</description>
-      <pubDate>Fri, 27 Mar 2026 21:54:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30870-yaml-key-finder</guid>
-      <dc:date>2026-03-27T21:54:53Z</dc:date>
-    </item>
-    <item>
-      <title>SharedPrefs &amp; DataStore Explorer - Sat Mar 28 12:24:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30929-sharedprefs--datastore-explorer</link>
-      <description>Browse, inspect, and edit AndroidX DataStore files on connected Android devices directly from Android Studio. DataStore Explorer provides a convenient tool window for...
-
-vendor: HorizonLoop
-downloads: 33
-pricingModel: FREE
-xmlId: com.horizonloop.idea.plugin.datastoreexplorer</description>
-      <pubDate>Sat, 28 Mar 2026 12:24:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30929-sharedprefs--datastore-explorer</guid>
-      <dc:date>2026-03-28T12:24:41Z</dc:date>
     </item>
   </channel>
 </rss>
