@@ -6,6 +6,201 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ForceField AI Security Scanner - Sun Mar 29 23:28:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30985-forcefield-ai-security-scanner</link>
+      <description>AI Security Scanner for JetBrains IDEs ForceField detects prompt injection, PII leaks, jailbreaks, and LLM attacks directly in your IDE. Scan prompts, audit code, and...
+
+vendor: Data Science Technologies
+downloads: 2
+pricingModel: FREE
+xmlId: com.datasciencetech.forcefield</description>
+      <pubDate>Sun, 29 Mar 2026 23:28:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30985-forcefield-ai-security-scanner</guid>
+      <dc:date>2026-03-29T23:28:32Z</dc:date>
+    </item>
+    <item>
+      <title>CS Visualizer - Mon Mar 30 03:15:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30991-cs-visualizer</link>
+      <description>Visualize your Java and C# code directly inside IntelliJ IDEA — without leaving your editor. Right-click any code selection to open: Flowchart — visualize control flow...
+
+vendor: David Frucht
+downloads: 1
+pricingModel: FREE
+xmlId: com.csvisualizer</description>
+      <pubDate>Mon, 30 Mar 2026 03:15:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30991-cs-visualizer</guid>
+      <dc:date>2026-03-30T03:15:45Z</dc:date>
+    </item>
+    <item>
+      <title>BlendCharm - Fri Mar 27 23:30:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30947-blendcharm</link>
+      <description>BlendCharm bridges PyCharm and Blender's extension system, giving you project scaffolding, hot-reload, manifest management, and integrated run configurations — without...
+
+vendor: Rich Spencer
+downloads: 1
+pricingModel: FREE
+xmlId: com.richspencer.blendcharm</description>
+      <pubDate>Fri, 27 Mar 2026 23:30:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30947-blendcharm</guid>
+      <dc:date>2026-03-27T23:30:49Z</dc:date>
+    </item>
+    <item>
+      <title>SMI Detector - Mon Mar 30 10:20:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30852-smi-detector</link>
+      <description>SMI Detector is an IntelliJ Platform plugin for detecting spaghetti code, shit-mountain style legacy code hotspots, and code complexity risks in Java and Kotlin...
+
+vendor: Bril
+downloads: 5
+pricingModel: FREE
+xmlId: com.bril.code_radar</description>
+      <pubDate>Mon, 30 Mar 2026 10:20:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30852-smi-detector</guid>
+      <dc:date>2026-03-30T10:20:58Z</dc:date>
+    </item>
+    <item>
+      <title>Minecraft Multiversion Modding - Mon Mar 30 13:34:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31002-minecraft-multiversion-modding</link>
+      <description>IDE support for Multiversion, a compile-time mixin system for Minecraft mods that lets you maintain a single codebase across multiple game versions. Instead of...
+
+vendor: HoshinOFW
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.hoshinofw.multiversion</description>
+      <pubDate>Mon, 30 Mar 2026 13:34:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31002-minecraft-multiversion-modding</guid>
+      <dc:date>2026-03-30T13:34:31Z</dc:date>
+    </item>
+    <item>
+      <title>ARB Editor - Mon Mar 30 02:30:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30987-arb-editor</link>
+      <description>ARB Editor is a powerful, synchronized ARB (Application Resource Bundle) translation editor built for Flutter developers. Open any folder of .arb files and manage all...
+
+vendor: Yusril Rapsanjani
+downloads: 2
+pricingModel: FREE
+xmlId: com.yurani.arbeditor</description>
+      <pubDate>Mon, 30 Mar 2026 02:30:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30987-arb-editor</guid>
+      <dc:date>2026-03-30T02:30:43Z</dc:date>
+    </item>
+    <item>
+      <title>Intl GUI - Sun Mar 29 14:10:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30972-intl-gui</link>
+      <description>A visual Flutter Intl resource editor for ARB files. Key capabilities: Edit translation values directly in a table view Load and manage ARB files from lib/l10n Add one...
+
+vendor: lsmya
+downloads: 1
+pricingModel: FREE
+xmlId: cn.lsmya.intl_gui</description>
+      <pubDate>Sun, 29 Mar 2026 14:10:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30972-intl-gui</guid>
+      <dc:date>2026-03-29T14:10:31Z</dc:date>
+    </item>
+    <item>
+      <title>Pixel Office - Mon Mar 30 05:23:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30993-pixel-office</link>
+      <description>Pixel art office visualization for AI coding agents. Watch Claude Code agents work as animated characters in a pixel art office.
+
+vendor: kimjaegeun
+downloads: 0
+pricingModel: FREE
+xmlId: com.kimjaegeun.pixeloffice</description>
+      <pubDate>Mon, 30 Mar 2026 05:23:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30993-pixel-office</guid>
+      <dc:date>2026-03-30T05:23:55Z</dc:date>
+    </item>
+    <item>
+      <title>Shotify - Sat Mar 28 18:04:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30963-shotify</link>
+      <description>Record Android screens and take screenshots from Android Studio via ADB. Upload instantly to Cloudinary or catbox.moe and get a shareable URL copied to your clipboard...
+
+vendor: Item
+downloads: 1
+pricingModel: FREE
+xmlId: com.streamify.shotify</description>
+      <pubDate>Sat, 28 Mar 2026 18:04:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30963-shotify</guid>
+      <dc:date>2026-03-28T18:04:20Z</dc:date>
+    </item>
+    <item>
+      <title>I18n Support Plus - Mon Mar 30 08:01:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30971-i18n-support-plus</link>
+      <description>IntelliJ IDEA plugin providing i18n support for JavaScript, TypeScript, JSX, TSX, and PHP projects. Supports i18next, vue-i18n, and lingui frameworks with JSON, YAML...
+
+vendor: Ibrahima Dansoko
+downloads: 1
+pricingModel: FREE
+xmlId: com.ibrahimdans.i18n</description>
+      <pubDate>Mon, 30 Mar 2026 08:01:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30971-i18n-support-plus</guid>
+      <dc:date>2026-03-30T08:01:44Z</dc:date>
+    </item>
+    <item>
+      <title>XSD Crack Viewer - Sun Mar 29 18:07:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30978-xsd-crack-viewer</link>
+      <description>XSD Crack Viewer A beautiful, interactive visual graph viewer for XSD schema files, inspired by jsoncrack.com. Opens as a secondary editor tab when viewing .xsd files...
+
+vendor: Fagner Candido
+downloads: 1
+pricingModel: FREE
+xmlId: com.xsdcrack.viewer</description>
+      <pubDate>Sun, 29 Mar 2026 18:07:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30978-xsd-crack-viewer</guid>
+      <dc:date>2026-03-29T18:07:33Z</dc:date>
+    </item>
+    <item>
+      <title>Zinki for Claude - Sun Mar 29 08:39:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30970-zinki-for-claude</link>
+      <description>Zinki for Claude — AI Code Skills for Go Developers Run Claude Code AI skills on selected Go code directly from GoLand's built-in terminal. Seven skills, zero context...
+
+vendor: Zinki AI
+downloads: 1
+pricingModel: FREE
+xmlId: com.zinki.plugin</description>
+      <pubDate>Sun, 29 Mar 2026 08:39:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30970-zinki-for-claude</guid>
+      <dc:date>2026-03-29T08:39:18Z</dc:date>
+    </item>
+    <item>
+      <title>AgentProbe - Sun Mar 29 15:41:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30953-agentprobe</link>
+      <description>AgentProbe IntelliJ plugin for Socratic debugging.
+
+vendor: agentprobe
+downloads: 3
+pricingModel: FREE
+xmlId: com.agentprobe.plugin</description>
+      <pubDate>Sun, 29 Mar 2026 15:41:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30953-agentprobe</guid>
+      <dc:date>2026-03-29T15:41:15Z</dc:date>
+    </item>
+    <item>
+      <title>Extra Icons Lifetime - Mon Mar 30 15:45:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31005-extra-icons-lifetime</link>
+      <description>Make your IDE more pleasant to use: Adds 500+ icons for files like Travis YML, GitLab YML, Angular files, etc. Many icons have variants, so if you are not happy with...
+
+vendor: Jonathan Lermitage
+downloads: 1
+pricingModel: PAID
+xmlId: lermitage.ij.extra.icons.lifetime</description>
+      <pubDate>Mon, 30 Mar 2026 15:45:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31005-extra-icons-lifetime</guid>
+      <dc:date>2026-03-30T15:45:50Z</dc:date>
+    </item>
+    <item>
+      <title>Extra Tools Pack Lifetime - Mon Mar 30 15:42:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31004-extra-tools-pack-lifetime</link>
+      <description>Same plugin as Extra Tools Pack, with a lifetime license (pay once, get updates for life).Extra Tools Pack provides the exact same features as Extra Icons, Extra IDE...
+
+vendor: Jonathan Lermitage
+downloads: 1
+pricingModel: PAID
+xmlId: lermitage.ij.all.pack.lifetime</description>
+      <pubDate>Mon, 30 Mar 2026 15:42:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31004-extra-tools-pack-lifetime</guid>
+      <dc:date>2026-03-30T15:42:30Z</dc:date>
+    </item>
+    <item>
       <title>Lnr - Mon Mar 30 18:15:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30909-lnr</link>
       <description>Linear project management and issue tracker for your IDE. Lnr — Linear Integration for JetBrains IDEs The most complete Linear app project management integration for...
@@ -69,201 +264,6 @@ xmlId: com.atu.tools.android-string-sync-plugin</description>
       <pubDate>Tue, 31 Mar 2026 03:25:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31000-android-string-sync</guid>
       <dc:date>2026-03-31T03:25:46Z</dc:date>
-    </item>
-    <item>
-      <title>Glass Effect - Fri Mar 27 23:44:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30948-glass-effect</link>
-      <description>Apply beautiful acrylic blur (glass) effect to your IntelliJ IDEA window on Windows 10/11. Features: Toggle glass effect with keyboard shortcut (Ctrl+Alt+G) Adjustable...
-
-vendor: yeahouo
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.ideaglass</description>
-      <pubDate>Fri, 27 Mar 2026 23:44:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30948-glass-effect</guid>
-      <dc:date>2026-03-27T23:44:57Z</dc:date>
-    </item>
-    <item>
-      <title>emacsJump - Sat Mar 28 02:42:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30951-emacsjump</link>
-      <description>Porting some great extensions of emacs to Intellij IDEA. such as AceJump, CopyWithoutSelectAction. And new created EditWithoutSelection (Cut/Move/Replace without...
-
-vendor: Chris
-downloads: 1
-pricingModel: FREE
-xmlId: org.hunmr.emacsideas</description>
-      <pubDate>Sat, 28 Mar 2026 02:42:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30951-emacsjump</guid>
-      <dc:date>2026-03-28T02:42:14Z</dc:date>
-    </item>
-    <item>
-      <title>FiveM Natives - Sun Mar 29 17:23:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30975-fivem-natives</link>
-      <description>FiveM Natives Integration for JetBrains IDEs The ultimate FiveM development companion. Provides intelligent autocompletion, inline documentation, and tooling for all...
-
-vendor: Xeltax
-downloads: 1
-pricingModel: FREE
-xmlId: com.xeltax.fivemnatives</description>
-      <pubDate>Sun, 29 Mar 2026 17:23:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30975-fivem-natives</guid>
-      <dc:date>2026-03-29T17:23:38Z</dc:date>
-    </item>
-    <item>
-      <title>Maven Package Manager - Sun Mar 29 17:32:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30977-maven-package-manager</link>
-      <description>Maven Package Manager helps you search Maven artifacts, inspect package metadata, and copy dependency XML directly inside IntelliJ IDEA. Maven Package Manager 是一个用于...
-
-vendor: Evorsio
-downloads: 1
-pricingModel: FREE
-xmlId: com.evorsio.maven-package-manager</description>
-      <pubDate>Sun, 29 Mar 2026 17:32:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30977-maven-package-manager</guid>
-      <dc:date>2026-03-29T17:32:43Z</dc:date>
-    </item>
-    <item>
-      <title>CC AI Toolkit - Tue Mar 31 09:51:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30961-cc-ai-toolkit</link>
-      <description>CC AI Toolkit - Claude Code / Codex Workflow GUI CC AI Toolkit：面向 Claude Code、Codex 与扩展技能工作流的图形化插件 Claude Code Anthropic 官方 AI 编程助手（支持 Opus 4.6 等多模型） OpenAI Codex...
-
-vendor: cc-ai-toolkit
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.feelhappy.cc-ai-toolkit</description>
-      <pubDate>Tue, 31 Mar 2026 09:51:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30961-cc-ai-toolkit</guid>
-      <dc:date>2026-03-31T09:51:04Z</dc:date>
-    </item>
-    <item>
-      <title>Send to AI Assistant - Sun Mar 29 19:25:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30980-send-to-ai-assistant</link>
-      <description>Send selected code to JetBrains AI Assistant with file and line context. The action opens the AI Assistant tool window and inserts a compact file reference into the...
-
-vendor: Oleh Khomyk
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.sendtoai</description>
-      <pubDate>Sun, 29 Mar 2026 19:25:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30980-send-to-ai-assistant</guid>
-      <dc:date>2026-03-29T19:25:12Z</dc:date>
-    </item>
-    <item>
-      <title>Restful-all - Sat Mar 28 09:36:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30903-restful-all</link>
-      <description>English Discover, navigate, and debug REST API routes across multiple frameworks. Supports Spring Boot, NestJS, Express.js, FastAPI, and Flask. Use Ctrl+Alt+/ (or...
-
-vendor: liuchunchi
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.movebrickschi.Restful-all</description>
-      <pubDate>Sat, 28 Mar 2026 09:36:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30903-restful-all</guid>
-      <dc:date>2026-03-28T09:36:11Z</dc:date>
-    </item>
-    <item>
-      <title>Kiro with GUI - Sun Mar 29 01:11:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30960-kiro-with-gui</link>
-      <description>A rich GUI plugin that integrates Kiro CLI into JetBrains IDEs. Chat with Kiro directly inside your IDE through a JCEF-based chat interface with Markdown rendering...
-
-vendor: elsboo
-downloads: 2
-pricingModel: FREE
-xmlId: com.kiro.gui</description>
-      <pubDate>Sun, 29 Mar 2026 01:11:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30960-kiro-with-gui</guid>
-      <dc:date>2026-03-29T01:11:40Z</dc:date>
-    </item>
-    <item>
-      <title>XML Key Finder - Sat Mar 28 20:36:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30964-xml-key-finder</link>
-      <description>What it does? Search for a specific XML key in your project. How to use it? There two ways to find a key: Search for a key - press CTRL + ALT + SHIFT + X (Windows) or...
-
-vendor: FilieraFusion
-downloads: 1
-pricingModel: PAID
-xmlId: com.cral.XMLKeyFinder</description>
-      <pubDate>Sat, 28 Mar 2026 20:36:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30964-xml-key-finder</guid>
-      <dc:date>2026-03-28T20:36:51Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Session Manager - Fri Mar 27 13:51:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30943-claude-session-manager</link>
-      <description>Persist and restore Claude Code terminal sessions across IDE restarts Never lose your Claude Code conversations when closing IntelliJ. This plugin automatically...
-
-vendor: Great Software INC
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.claudesessions</description>
-      <pubDate>Fri, 27 Mar 2026 13:51:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30943-claude-session-manager</guid>
-      <dc:date>2026-03-27T13:51:48Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot Flow Visualizer - Mon Mar 30 01:45:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30876-spring-boot-flow-visualizer</link>
-      <description>Spring Boot Flow Visualizer is an IntelliJ plugin that automatically detects and visualizes execution flows in Java Spring Boot applications. By analyzing annotations...
-
-vendor: ChatDan
-downloads: 2
-pricingModel: FREE
-xmlId: com.chatdan.flowvisualizer</description>
-      <pubDate>Mon, 30 Mar 2026 01:45:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30876-spring-boot-flow-visualizer</guid>
-      <dc:date>2026-03-30T01:45:44Z</dc:date>
-    </item>
-    <item>
-      <title>Clauditor - Sun Mar 29 21:06:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30981-clauditor</link>
-      <description>Clauditor brings Claude Code session management directly into your JetBrains IDE. Features: Browse and search all Claude Code sessions for the current project Open...
-
-vendor: Clauditor
-downloads: 1
-pricingModel: FREE
-xmlId: com.clauditor</description>
-      <pubDate>Sun, 29 Mar 2026 21:06:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30981-clauditor</guid>
-      <dc:date>2026-03-29T21:06:32Z</dc:date>
-    </item>
-    <item>
-      <title>Cloude Code ToolBox - Sun Mar 29 13:43:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30967-cloude-code-toolbox</link>
-      <description>Claude Code toolbox - JetBrains preview. What you get today JCEF: the same hub UI as VS Code (exported HTML) with a Kotlin bridge. MCP &amp;amp; skills hub: registry and...
-
-vendor: AmitChorasiya
-downloads: 2
-pricingModel: FREE
-xmlId: com.amitchorasiya.cloude.code.toolbox</description>
-      <pubDate>Sun, 29 Mar 2026 13:43:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30967-cloude-code-toolbox</guid>
-      <dc:date>2026-03-29T13:43:14Z</dc:date>
-    </item>
-    <item>
-      <title>AI Text Polisher - Sun Mar 29 17:53:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30976-ai-text-polisher</link>
-      <description>AI-powered text polishing tool. Select text, right-click, and enhance with Anthropic, OpenAI, or Ollama.
-
-vendor: dalex
-downloads: 2
-pricingModel: FREE
-xmlId: dev.dalex.textpolisher</description>
-      <pubDate>Sun, 29 Mar 2026 17:53:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30976-ai-text-polisher</guid>
-      <dc:date>2026-03-29T17:53:16Z</dc:date>
-    </item>
-    <item>
-      <title>kcloud - Sun Mar 29 14:53:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30973-kcloud</link>
-      <description>kcloud is the initial IDEA plugin version for KCloud. Current scope in this first IDEA plugin version: adds a gutter icon on generated Kotlin API declarationsreads the...
-
-vendor: zjarlin
-downloads: 1
-pricingModel: FREE
-xmlId: site.addzero.kcloud</description>
-      <pubDate>Sun, 29 Mar 2026 14:53:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30973-kcloud</guid>
-      <dc:date>2026-03-29T14:53:32Z</dc:date>
     </item>
   </channel>
 </rss>
