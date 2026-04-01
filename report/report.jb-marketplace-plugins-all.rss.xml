@@ -32,19 +32,6 @@ xmlId: com.maxapp.branchknife</description>
       <dc:date>2026-03-31T16:02:30Z</dc:date>
     </item>
     <item>
-      <title>JPatcher - Tue Mar 31 15:23:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31026-jpatcher</link>
-      <description>JPatcher is an IntelliJ IDEA plugin designed to quickly generate incremental patch packages. Main Features: Select files to include in the patch from the editor...
-
-vendor: CPoet
-downloads: 0
-pricingModel: FREE
-xmlId: cn.cpoet.jpatcher</description>
-      <pubDate>Tue, 31 Mar 2026 15:23:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31026-jpatcher</guid>
-      <dc:date>2026-03-31T15:23:40Z</dc:date>
-    </item>
-    <item>
       <title>Prism - IDE Companion for Claude Code - Tue Mar 31 18:02:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31025-prism--ide-companion-for-claude-code</link>
       <description>Prism is a local visual wrapper that integrates the Claude Code CLI directly into your JetBrains IDE. It runs the CLI in a real embedded terminal and makes no external...
@@ -71,7 +58,7 @@ xmlId: dev.wavelang.wave</description>
       <dc:date>2026-03-31T10:14:56Z</dc:date>
     </item>
     <item>
-      <title>DML Backup - Tue Mar 31 03:38:43 UTC 2026</title>
+      <title>DML Backup - Wed Apr 01 02:32:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31015-dml-backup</link>
       <description>Automatically backup data before executing DELETE/UPDATE/INSERT statements in DataGrip (MySQL only). Provides one-click rollback from the backup history panel.
 
@@ -79,9 +66,9 @@ vendor: dml-backup
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.dmlbackup</description>
-      <pubDate>Tue, 31 Mar 2026 03:38:43 GMT</pubDate>
+      <pubDate>Wed, 01 Apr 2026 02:32:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31015-dml-backup</guid>
-      <dc:date>2026-03-31T03:38:43Z</dc:date>
+      <dc:date>2026-04-01T02:32:47Z</dc:date>
     </item>
     <item>
       <title>jetplay - Tue Mar 31 01:20:17 UTC 2026</title>
@@ -149,7 +136,7 @@ xmlId: com.datasciencetech.forcefield</description>
       <dc:date>2026-03-31T16:36:52Z</dc:date>
     </item>
     <item>
-      <title>CS Visualizer - Mon Mar 30 03:15:45 UTC 2026</title>
+      <title>CS Visualizer - Wed Apr 01 04:09:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30991-cs-visualizer</link>
       <description>Visualize your Java and C# code directly inside IntelliJ IDEA — without leaving your editor. Right-click any code selection to open: Flowchart — visualize control flow...
 
@@ -157,9 +144,9 @@ vendor: David Frucht
 downloads: 1
 pricingModel: FREE
 xmlId: com.csvisualizer</description>
-      <pubDate>Mon, 30 Mar 2026 03:15:45 GMT</pubDate>
+      <pubDate>Wed, 01 Apr 2026 04:09:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30991-cs-visualizer</guid>
-      <dc:date>2026-03-30T03:15:45Z</dc:date>
+      <dc:date>2026-04-01T04:09:34Z</dc:date>
     </item>
     <item>
       <title>BlendCharm - Fri Mar 27 23:30:49 UTC 2026</title>
@@ -264,6 +251,19 @@ xmlId: com.ibrahimdans.i18n</description>
       <pubDate>Mon, 30 Mar 2026 08:01:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30971-i18n-support-plus</guid>
       <dc:date>2026-03-30T08:01:44Z</dc:date>
+    </item>
+    <item>
+      <title>XSD Crack Viewer - Sun Mar 29 18:07:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30978-xsd-crack-viewer</link>
+      <description>XSD Crack Viewer A beautiful, interactive visual graph viewer for XSD schema files, inspired by jsoncrack.com. Opens as a secondary editor tab when viewing .xsd files...
+
+vendor: Fagner Candido
+downloads: 1
+pricingModel: FREE
+xmlId: com.xsdcrack.viewer</description>
+      <pubDate>Sun, 29 Mar 2026 18:07:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30978-xsd-crack-viewer</guid>
+      <dc:date>2026-03-29T18:07:33Z</dc:date>
     </item>
   </channel>
 </rss>
