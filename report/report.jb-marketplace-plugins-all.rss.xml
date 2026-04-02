@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Property File Operator - Thu Apr 02 04:40:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31047-property-file-operator</link>
+      <description>Property File Tool A lightweight and efficient utility plugin designed to simplify working with configuration files in your IntelliJ projects. Key Features: YAML...
+
+vendor: Cakk TechSoft Inc.
+downloads: 0
+pricingModel: FREE
+xmlId: org.cakk.propertytool</description>
+      <pubDate>Thu, 02 Apr 2026 04:40:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31047-property-file-operator</guid>
+      <dc:date>2026-04-02T04:40:39Z</dc:date>
+    </item>
+    <item>
+      <title>Tab Group Manager - Fri Mar 06 16:20:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30519-tab-group-manager</link>
+      <description>Organise your editor tabs into named, colour-coded groups directly inside your IDE. Features: • Create and manage tab groups within a project • Add or remove tabs from...
+
+vendor: Myako
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: com.github.tgm.tab-group-manager</description>
+      <pubDate>Fri, 06 Mar 2026 16:20:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30519-tab-group-manager</guid>
+      <dc:date>2026-03-06T16:20:32Z</dc:date>
+    </item>
+    <item>
       <title>PageObjectHelper - Wed Apr 01 16:21:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31044-pageobjecthelper</link>
       <description>Plugin to ease usage of page objects in automated tests.
 
 vendor: Page Object Helper
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.artem.pageobjectplugin</description>
       <pubDate>Wed, 01 Apr 2026 16:21:10 GMT</pubDate>
@@ -24,7 +50,7 @@ xmlId: com.github.artem.pageobjectplugin</description>
       <description>TopUsages is a tool to help you find out all the top callers of a method. Hover your mouse pointer over a Java method name, then right-click to see the 'Find Top...
 
 vendor: TopUsages
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.gitee.meercat</description>
       <pubDate>Wed, 01 Apr 2026 15:00:13 GMT</pubDate>
@@ -89,7 +115,7 @@ xmlId: artsiom.chapialiou.terminalinker</description>
       <description>rebootstrap A powerful plugin to override Spring Boot/Cloud configurations, VM parameters, and environment variables when running applications in IntelliJ IDEA...
 
 vendor: happylwghk
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.happy.lwg.hk.rebootstrap</description>
       <pubDate>Mon, 23 Mar 2026 03:50:57 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: com.happy.lwg.hk.rebootstrap</description>
       <description>Color swatches for minecraft's color codes (0xAARRGGBB and 0xRRGGBB).
 
 vendor: Minecraft color codes swatches
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.plugin.Minecraft-Color-Code-Formatter</description>
       <pubDate>Wed, 01 Apr 2026 00:32:06 GMT</pubDate>
@@ -115,7 +141,7 @@ xmlId: com.plugin.Minecraft-Color-Code-Formatter</description>
       <description>Unused Code Detector Detects unused classes, methods, and imports in your Java projects. &#x1f4ca; Features Detects unused classes in the project Identifies unused methods...
 
 vendor: Cakk TechSoft Inc.
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: org.cakk.unused-code-detector</description>
       <pubDate>Sun, 29 Mar 2026 19:06:10 GMT</pubDate>
@@ -123,17 +149,17 @@ xmlId: org.cakk.unused-code-detector</description>
       <dc:date>2026-03-29T19:06:10Z</dc:date>
     </item>
     <item>
-      <title>Panda Code Generator - Wed Apr 01 02:55:30 UTC 2026</title>
+      <title>Panda Code Generator - Thu Apr 02 06:45:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31034-panda-code-generator</link>
       <description>Panda Code Generator for IntelliJ IDEA easy tools for developer 一个强大的代码生成插件，支持： 从DDL SQL自动生成代码 支持DO（数据对象）、Info（模型）、Model（DTO）生成 支持Service、ServiceImpl、Mapper、Convert等代码...
 
 vendor: AiStarfish
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.iappapp.panda.common.generator</description>
-      <pubDate>Wed, 01 Apr 2026 02:55:30 GMT</pubDate>
+      <pubDate>Thu, 02 Apr 2026 06:45:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31034-panda-code-generator</guid>
-      <dc:date>2026-04-01T02:55:30Z</dc:date>
+      <dc:date>2026-04-02T06:45:38Z</dc:date>
     </item>
     <item>
       <title>Easy Dev - Wed Apr 01 05:18:39 UTC 2026</title>
@@ -154,7 +180,7 @@ xmlId: io.github.yueryou.easydev</description>
       <description>EPICS language and runtime tools for IntelliJ Platform IDEs. This work is sponsored by Oak Ridge National Laboratory.
 
 vendor: HaoHao
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: org.epics.workbench</description>
       <pubDate>Wed, 01 Apr 2026 00:17:26 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: org.epics.workbench</description>
       <description>GitHub Copilot toolbox — JetBrains preview (same hub UI as VS Code via JCEF). What you get JCEF hub: MCP &amp;amp; skills, Intelligence bridges (Cursor + Claude Code...
 
 vendor: AmitChorasiya
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.amitchorasiya.github.copilot.toolbox</description>
       <pubDate>Wed, 01 Apr 2026 01:26:37 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: com.amitchorasiya.github.copilot.toolbox</description>
       <description>ide-kit packages focused Kotlin cleanup intentions and source-only search scopes for JetBrains IDEs. Included Rules Remove redundant explicit Kotlin property types...
 
 vendor: zjarlin
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: site.addzero.smart-intentions</description>
       <pubDate>Wed, 01 Apr 2026 01:00:36 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: site.addzero.smart-intentions</description>
       <description>IntelliJ plugin for the function-hcl DSL. Provides language support via the function-hcl-ls language server. Features: HCL syntax highlighting (via Terraform...
 
 vendor: The function-hcl authors
-downloads: 1
+downloads: 14
 pricingModel: FREE
 xmlId: crossplanecontrib.functionhcl</description>
       <pubDate>Wed, 01 Apr 2026 18:41:37 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: crossplanecontrib.functionhcl</description>
       <description>Add notes directly to text in the JetBrains Markdown preview. Select text, add notes and optional tags, choose a highlight color, and see your notes rendered in the...
 
 vendor: Michał Tomczuk
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.mdnotes</description>
       <pubDate>Tue, 31 Mar 2026 10:09:39 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: com.mdnotes</description>
       <description>Git Branch Knife — Split a Giant Git Branch into Focused PRs Working in a monorepo? Made changes across multiple services in one branch? Git Branch Knife lets you...
 
 vendor: jinxinfuture
-downloads: 24
+downloads: 35
 pricingModel: FREE
 xmlId: com.maxapp.branchknife</description>
       <pubDate>Tue, 31 Mar 2026 16:02:30 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: com.maxapp.branchknife</description>
       <description>JPatcher is an IntelliJ IDEA plugin designed to quickly generate incremental patch packages. The functionality of this plugin is extracted fromCPoet Tool Suggest...
 
 vendor: CPoet
-downloads: 4
+downloads: 8
 pricingModel: FREE
 xmlId: cn.cpoet.jpatcher</description>
       <pubDate>Wed, 01 Apr 2026 02:08:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31026-jpatcher</guid>
       <dc:date>2026-04-01T02:08:46Z</dc:date>
-    </item>
-    <item>
-      <title>Prism - IDE Companion for Claude Code - Tue Mar 31 18:02:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31025-prism--ide-companion-for-claude-code</link>
-      <description>Prism is a local visual wrapper that integrates the Claude Code CLI directly into your JetBrains IDE. It runs the CLI in a real embedded terminal and makes no external...
-
-vendor: VGirotto
-downloads: 23
-pricingModel: FREE
-xmlId: com.github.vgirotto.prism</description>
-      <pubDate>Tue, 31 Mar 2026 18:02:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31025-prism--ide-companion-for-claude-code</guid>
-      <dc:date>2026-03-31T18:02:11Z</dc:date>
-    </item>
-    <item>
-      <title>Wave Language - Tue Mar 31 10:14:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31020-wave-language</link>
-      <description>IntelliJ Wave is an IntelliJ plugin for the Wave language. Current scope: - Wave file type registration (`.wave`) - Wave syntax highlighting - Wave New Project...
-
-vendor: LunaStev
-downloads: 0
-pricingModel: FREE
-xmlId: dev.wavelang.wave</description>
-      <pubDate>Tue, 31 Mar 2026 10:14:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31020-wave-language</guid>
-      <dc:date>2026-03-31T10:14:56Z</dc:date>
     </item>
   </channel>
 </rss>
