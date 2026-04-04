@@ -24,7 +24,7 @@ xmlId: dev.gopherglide.gg-plugin</description>
       <description>ReScript language support for JetBrains IDEs via LSP. Provides syntax highlighting, code folding, and full IDE intelligence (completion, hover, go-to-definition...
 
 vendor: Benjamin THOMAS
-downloads: 2
+downloads: 12
 pricingModel: FREE
 xmlId: com.github.benjamin_thomas.intellij_rescript</description>
       <pubDate>Fri, 03 Apr 2026 20:52:01 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.github.benjamin_thomas.intellij_rescript</description>
       <description>Adds an AI Skills contributor to Search Everywhere and indexes local Codex skills plus Claude Code skills. The contributor participates in global Search Everywhere...
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 13
 pricingModel: FREE
 xmlId: dmitry.batkovich.skill-search</description>
       <pubDate>Fri, 03 Apr 2026 11:09:09 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: dmitry.batkovich.skill-search</description>
       <description>Python Tutor-style code visualization inside IntelliJ IDEA. Step through Java code execution and see variables, stack frames, heap objects, and pointer arrows — all...
 
 vendor: Shubham Tyagi
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.codevisualizer</description>
       <pubDate>Fri, 03 Apr 2026 11:37:28 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.codevisualizer</description>
       <description>This plugin provides useful features for working with graph databases. It adds syntax highlighting and autocompletion for the Cypher query language, and it supports...
 
 vendor: Michel de Lambilly
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.github.mdelambilly.jetbrains.graphdbplugin</description>
       <pubDate>Fri, 03 Apr 2026 10:16:30 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.github.mdelambilly.jetbrains.graphdbplugin</description>
       <description>Split-editor preview for VOBYS payroll metadata YAML files. Features Database Dictionary (Dicionário) — ERD cards with columns, constraints, FK relationships, and...
 
 vendor: dreuse
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: br.com.vobys.ubertas-idea-plugin</description>
       <pubDate>Thu, 02 Apr 2026 22:45:30 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: br.com.vobys.ubertas-idea-plugin</description>
       <description>AI-powered code review and refactoring tool for IntelliJ IDEA. Key Features: • AI Analysis - Intelligent code review using OpenAI-compatible APIs • Bug Detection...
 
 vendor: AI Code Reviewer
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.simon.ma.ai-code-reviewer</description>
       <pubDate>Fri, 03 Apr 2026 08:00:25 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.simon.ma.ai-code-reviewer</description>
       <description>Groups open editor tabs by their project/module in a sidebar panel. Automatically detects which .csproj (Rider), Maven/Gradle module (IDEA), or workspace project a...
 
 vendor: Kenan İLGÜN
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.kenanilgun.tabnest</description>
       <pubDate>Fri, 03 Apr 2026 06:46:35 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.kenanilgun.tabnest</description>
       <description>Quickly trigger Jenkins pipeline builds from IntelliJ IDEA via a keyboard shortcut.
 
 vendor: WUXIN
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.easy.jenkins</description>
       <pubDate>Thu, 02 Apr 2026 14:58:10 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.easy.jenkins</description>
       <description>Dependency Resolver - Smart Android Dependency Management &#x1f914; The Problem Adding dependencies to an Android project is tedious and error-prone. You have to: Search...
 
 vendor: Abdulkadir Ali
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: com.ali.dependencyresolver</description>
       <pubDate>Thu, 02 Apr 2026 13:19:37 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.ali.dependencyresolver</description>
       <description>ZPL Label Viewer — preview and debug ZPL II shipping labels without leaving your IDE. Features: Auto-detects whether input is raw ZPL or Base-64 encoded ZPL Local...
 
 vendor: Milad Nalbandi
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.miladnalbandi.zpl-label-viewer</description>
       <pubDate>Thu, 02 Apr 2026 14:22:10 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.miladnalbandi.zpl-label-viewer</description>
       <description>File Browser Browse external folders in a dedicated tool window. CLion and other JetBrains IDEs don't support attaching arbitrary external folders to the Project view...
 
 vendor: Sam Washburn
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.samwashburn.FileBrowser</description>
       <pubDate>Thu, 02 Apr 2026 13:56:10 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.ronald.alpacabrackets</description>
       <description>KMP Resources is the essential productivity tool for Kotlin Multiplatform developers using Compose Resources. It replaces manual XML editing with a powerful...
 
 vendor: Robert P.-M.
-downloads: 1
+downloads: 28
 pricingModel: FREE
 xmlId: dev.robdoes.kmpresources</description>
       <pubDate>Fri, 03 Apr 2026 19:03:39 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.robdoes.kmpresources</description>
       <description>m Maven Quick Build One-click Maven builds directly from the toolbar Maven Quick Build adds two toolbar buttons to IntelliJ IDEA for running the most common Maven...
 
 vendor: ConsciousDreams
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: it.consciousdreams.maven-quick-build</description>
       <pubDate>Thu, 02 Apr 2026 23:19:51 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: it.consciousdreams.maven-quick-build</description>
       <description>Automatically configure CN mirror repositories for Gradle projects to speed up dependency downloads in mainland China. 为 Gradle 项目自动配置国内镜像，解决在中国大陆下载依赖缓慢的问题。 功能...
 
 vendor: bitbyte404
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.bitbyte404.FastGradleCN</description>
       <pubDate>Fri, 03 Apr 2026 02:55:21 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.bitbyte404.FastGradleCN</description>
       <description>Run Claude Code CLI commands in any directory with a right-click menu. Right-click on any directory/file in Project View to run commands Customizable command presets...
 
 vendor: adbyte
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: run-claude-code-cmd-anywhere</description>
       <pubDate>Fri, 03 Apr 2026 06:20:09 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: run-claude-code-cmd-anywhere</description>
       <description>MCP Server Companion extends the built-in JetBrains MCP Server with additional tools for AI clients such as Claude Desktop and Cursor. MCP (Model Context Protocol) is...
 
 vendor: Maxime HAMM
-downloads: 1
+downloads: 136
 pricingModel: FREE
 xmlId: io.nimbly.mcp-companion</description>
       <pubDate>Fri, 03 Apr 2026 21:09:28 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: io.nimbly.mcp-companion</description>
       <description>Puffin Reader is an IntelliJ plugin for inspecting Apache Iceberg Puffin files. Puffin files are efficient for query engines but difficult for humans to read. This...
 
 vendor: Dano
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.jordanodremio.jordanopuffinreader</description>
       <pubDate>Mon, 30 Mar 2026 20:47:19 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.github.jordanodremio.jordanopuffinreader</description>
       <description>Korean language pack for Android Studio. After installation, go to Settings &amp;gt; Appearance &amp;amp; Behavior &amp;gt; Language and Region &amp;gt; Language to select Korean. For...
 
 vendor: KangJeongMo
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: androidstudio.koreanlanguagepack</description>
       <pubDate>Thu, 02 Apr 2026 17:49:40 GMT</pubDate>
