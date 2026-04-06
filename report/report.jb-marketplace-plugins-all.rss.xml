@@ -6,12 +6,181 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>kmp-buddy - Sat Apr 04 04:33:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31089-kmp-buddy</link>
+      <description>KMP Buddy for JetBrains IDEs combines Compose refactoring, Compose Blocks, and canvas-based layout authoring in one plugin. What This Plugin Does kmp-aio is a Kotlin...
+
+vendor: zjarlin
+downloads: 1
+pricingModel: FREE
+xmlId: site.addzero.kmp-buddy</description>
+      <pubDate>Sat, 04 Apr 2026 04:33:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31089-kmp-buddy</guid>
+      <dc:date>2026-04-04T04:33:38Z</dc:date>
+    </item>
+    <item>
+      <title>I18n Navigator - Fri Apr 03 19:15:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31084-i18n-navigator</link>
+      <description>I18n navigation plugin that I created to solve my own problem. I was frustrated searching for translation usages in my projects. Available plugins were not working...
+
+vendor: Vladislav Ogorodnik
+downloads: 1
+pricingModel: PAID
+xmlId: i18n.navigator.i18n-navigator</description>
+      <pubDate>Fri, 03 Apr 2026 19:15:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31084-i18n-navigator</guid>
+      <dc:date>2026-04-03T19:15:15Z</dc:date>
+    </item>
+    <item>
+      <title>Notification Bridge - Fri Apr 03 18:48:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30984-notification-bridge</link>
+      <description>Push notifications, progress bars, and status bar widgets into your IntelliJ IDE from external tools via a local REST API and WebSocket server. Features Balloon...
+
+vendor: LLITD LLC
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: com.llitd.notificationbridge</description>
+      <pubDate>Fri, 03 Apr 2026 18:48:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30984-notification-bridge</guid>
+      <dc:date>2026-04-03T18:48:37Z</dc:date>
+    </item>
+    <item>
+      <title>Swag - Fri Apr 03 18:19:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31083-swag</link>
+      <description>Syntax highlighting for swag annotations in Go comments. Highlights @Annotation tags in Go comment lines (e.g. // @Summary, // @Router, // @Param) so they stand out...
+
+vendor: BearAlliance
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.bearalliance.goland-plugin-swag</description>
+      <pubDate>Fri, 03 Apr 2026 18:19:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31083-swag</guid>
+      <dc:date>2026-04-03T18:19:21Z</dc:date>
+    </item>
+    <item>
+      <title>AgentellIJ - Sat Apr 04 04:37:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31082-agentellij</link>
+      <description>Embed AI coding agents directly into IntelliJ IDEA. Chat with your agent in a native tool window while it reads, writes, and navigates your codebase in real time...
+
+vendor: AgentelliJ - Opencode with IntelliJ
+downloads: 2
+pricingModel: FREE
+xmlId: com.agentellij</description>
+      <pubDate>Sat, 04 Apr 2026 04:37:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31082-agentellij</guid>
+      <dc:date>2026-04-04T04:37:13Z</dc:date>
+    </item>
+    <item>
+      <title>branch-diff-gutter - Fri Apr 03 17:09:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31080-branch-diff-gutter</link>
+      <description>Highlights differences between the current working tree and a configurable base branch (e.g., main or master) directly in the editor gutter.
+
+vendor: Cawserve
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.chriswatts91.branchdiffgutter</description>
+      <pubDate>Fri, 03 Apr 2026 17:09:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31080-branch-diff-gutter</guid>
+      <dc:date>2026-04-03T17:09:38Z</dc:date>
+    </item>
+    <item>
+      <title>FAAHHH on Test Failure - Sat Apr 04 05:10:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31079-faahhh-on-test-failure</link>
+      <description>Plays a dramatic FAAHHH sound whenever a test run fails.
+
+vendor: SarveshMakesFunPlugins
+downloads: 3
+pricingModel: FREE
+xmlId: fah_sound_on_testcase_fail_serenity</description>
+      <pubDate>Sat, 04 Apr 2026 05:10:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31079-faahhh-on-test-failure</guid>
+      <dc:date>2026-04-04T05:10:51Z</dc:date>
+    </item>
+    <item>
+      <title>Second Query Execution Button - Fri Apr 03 16:06:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31078-second-query-execution-button</link>
+      <description>Adds a second execute button to the DataGrip / IntelliJ Database Console toolbar that runs all statements in the script as separate statements (one by one), regardless...
+
+vendor: Vasilii Chernov
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.tjlee.secondexecutebutton</description>
+      <pubDate>Fri, 03 Apr 2026 16:06:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31078-second-query-execution-button</guid>
+      <dc:date>2026-04-03T16:06:47Z</dc:date>
+    </item>
+    <item>
+      <title>RemCodex – Remote Control for Codex (Browser &amp; Phone) - Fri Apr 03 15:10:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31077-remcodex--remote-control-for-codex-browser--phone-</link>
+      <description>RemCodex is a local-first remote control layer for Codex. Run Codex on your machine, then monitor and control the same live session from JetBrains, your browser, or...
+
+vendor: Max
+downloads: 2
+pricingModel: FREE
+xmlId: com.remcodex.jetbrains</description>
+      <pubDate>Fri, 03 Apr 2026 15:10:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31077-remcodex--remote-control-for-codex-browser--phone-</guid>
+      <dc:date>2026-04-03T15:10:16Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Commit Message - Fri Apr 03 11:39:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31076-claude-commit-message</link>
+      <description>Generates concise, context-aware Git commit messages from your selected changes using Anthropic's Claude AI. Supports local Claude and API modes with customizable...
+
+vendor: Tjiba
+downloads: 1
+pricingModel: FREE
+xmlId: fr.tjiba.claude.commit</description>
+      <pubDate>Fri, 03 Apr 2026 11:39:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31076-claude-commit-message</guid>
+      <dc:date>2026-04-03T11:39:43Z</dc:date>
+    </item>
+    <item>
+      <title>Exposed ER Diagram - Fri Apr 03 10:30:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31074-exposed-er-diagram</link>
+      <description>Generate ER diagrams from Kotlin Exposed table definitions — no database connection required. Live ER diagram in a tool window, updates as you edit Filter tables by...
+
+vendor: Massimo Deiana
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.massimodeiana.exposed-er</description>
+      <pubDate>Fri, 03 Apr 2026 10:30:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31074-exposed-er-diagram</guid>
+      <dc:date>2026-04-03T10:30:08Z</dc:date>
+    </item>
+    <item>
+      <title>Binder - Fri Apr 03 11:28:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31075-binder</link>
+      <description>Language support for Binder — a local-first knowledge base with bidirectional Markdown sync. Features Autocomplete for link references, field names, and valid option...
+
+vendor: Marek Pazik
+downloads: 1
+pricingModel: FREE
+xmlId: do.binder.plugin</description>
+      <pubDate>Fri, 03 Apr 2026 11:28:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31075-binder</guid>
+      <dc:date>2026-04-03T11:28:22Z</dc:date>
+    </item>
+    <item>
+      <title>Export JAR Files - Sun Apr 05 15:14:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30535-export-jar-files</link>
+      <description>Export Java source files (.java) or compiled class files (.class) from your project to JAR archives. Features: Export .java source files or .class compiled files...
+
+vendor: Pravin Kale
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.pravinkale.ExportJars</description>
+      <pubDate>Sun, 05 Apr 2026 15:14:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30535-export-jar-files</guid>
+      <dc:date>2026-04-05T15:14:44Z</dc:date>
+    </item>
+    <item>
       <title>Gopher Glide - Sat Apr 04 00:03:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30983-gopher-glide</link>
       <description>A smart, context-aware execution and navigation layer for the Gopher-Glide (gg) load testing CLI. Provides syntax assistance, clickable file links, and instant...
 
 vendor: Gopher Glide
-downloads: 25
+downloads: 29
 pricingModel: FREE
 xmlId: dev.gopherglide.gg-plugin</description>
       <pubDate>Sat, 04 Apr 2026 00:03:05 GMT</pubDate>
@@ -24,7 +193,7 @@ xmlId: dev.gopherglide.gg-plugin</description>
       <description>ReScript language support for JetBrains IDEs via LSP. Provides syntax highlighting, code folding, and full IDE intelligence (completion, hover, go-to-definition...
 
 vendor: Benjamin THOMAS
-downloads: 49
+downloads: 57
 pricingModel: FREE
 xmlId: com.github.benjamin_thomas.intellij_rescript</description>
       <pubDate>Sat, 04 Apr 2026 11:00:54 GMT</pubDate>
@@ -37,7 +206,7 @@ xmlId: com.github.benjamin_thomas.intellij_rescript</description>
       <description>Adds an AI Skills contributor to Search Everywhere and indexes local Codex skills plus Claude Code skills. The contributor participates in global Search Everywhere...
 
 vendor: JetBrains s.r.o.
-downloads: 19
+downloads: 24
 pricingModel: FREE
 xmlId: dmitry.batkovich.skill-search</description>
       <pubDate>Fri, 03 Apr 2026 11:09:09 GMT</pubDate>
@@ -50,7 +219,7 @@ xmlId: dmitry.batkovich.skill-search</description>
       <description>Python Tutor-style code visualization inside IntelliJ IDEA. Step through Java code execution and see variables, stack frames, heap objects, and pointer arrows — all...
 
 vendor: Shubham Tyagi
-downloads: 14
+downloads: 42
 pricingModel: FREE
 xmlId: com.codevisualizer</description>
       <pubDate>Sun, 05 Apr 2026 16:39:55 GMT</pubDate>
@@ -63,7 +232,7 @@ xmlId: com.codevisualizer</description>
       <description>This plugin provides useful features for working with graph databases. It adds syntax highlighting and autocompletion for the Cypher query language, and it supports...
 
 vendor: Michel de Lambilly
-downloads: 11
+downloads: 12
 pricingModel: FREE
 xmlId: com.github.mdelambilly.jetbrains.graphdbplugin</description>
       <pubDate>Fri, 03 Apr 2026 10:16:30 GMT</pubDate>
@@ -76,7 +245,7 @@ xmlId: com.github.mdelambilly.jetbrains.graphdbplugin</description>
       <description>Split-editor preview for VOBYS payroll metadata YAML files. Features Database Dictionary (Dicionário) — ERD cards with columns, constraints, FK relationships, and...
 
 vendor: dreuse
-downloads: 8
+downloads: 30
 pricingModel: FREE
 xmlId: br.com.vobys.ubertas-idea-plugin</description>
       <pubDate>Sun, 05 Apr 2026 22:29:44 GMT</pubDate>
@@ -89,181 +258,12 @@ xmlId: br.com.vobys.ubertas-idea-plugin</description>
       <description>AI-powered code review and refactoring tool for IntelliJ IDEA. Key Features: • AI Analysis - Intelligent code review using OpenAI-compatible APIs • Bug Detection...
 
 vendor: AI Code Reviewer
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: com.simon.ma.ai-code-reviewer</description>
       <pubDate>Fri, 03 Apr 2026 08:00:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31071-ai-code-reviewer</guid>
       <dc:date>2026-04-03T08:00:25Z</dc:date>
-    </item>
-    <item>
-      <title>TabNest - Sat Apr 04 14:45:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31068-tabnest</link>
-      <description>Groups open editor tabs by their project/module in a sidebar panel. Automatically detects which .csproj (Rider), Maven/Gradle module (IDEA), or workspace project a...
-
-vendor: Kenan İLGÜN
-downloads: 34
-pricingModel: FREE
-xmlId: com.kenanilgun.tabnest</description>
-      <pubDate>Sat, 04 Apr 2026 14:45:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31068-tabnest</guid>
-      <dc:date>2026-04-04T14:45:11Z</dc:date>
-    </item>
-    <item>
-      <title>Easy Jenkins - Thu Apr 02 14:58:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31057-easy-jenkins</link>
-      <description>Quickly trigger Jenkins pipeline builds from IntelliJ IDEA via a keyboard shortcut.
-
-vendor: WUXIN
-downloads: 6
-pricingModel: FREE
-xmlId: com.easy.jenkins</description>
-      <pubDate>Thu, 02 Apr 2026 14:58:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31057-easy-jenkins</guid>
-      <dc:date>2026-04-02T14:58:10Z</dc:date>
-    </item>
-    <item>
-      <title>Android Dependency Resolver - Thu Apr 02 13:19:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30986-android-dependency-resolver</link>
-      <description>Dependency Resolver - Smart Android Dependency Management &#x1f914; The Problem Adding dependencies to an Android project is tedious and error-prone. You have to: Search...
-
-vendor: Abdulkadir Ali
-downloads: 16
-pricingModel: FREE
-xmlId: com.ali.dependencyresolver</description>
-      <pubDate>Thu, 02 Apr 2026 13:19:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30986-android-dependency-resolver</guid>
-      <dc:date>2026-04-02T13:19:37Z</dc:date>
-    </item>
-    <item>
-      <title>ZPL Label Viewer - Thu Apr 02 14:22:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31010-zpl-label-viewer</link>
-      <description>ZPL Label Viewer — preview and debug ZPL II shipping labels without leaving your IDE. Features: Auto-detects whether input is raw ZPL or Base-64 encoded ZPL Local...
-
-vendor: Milad Nalbandi
-downloads: 6
-pricingModel: FREE
-xmlId: com.miladnalbandi.zpl-label-viewer</description>
-      <pubDate>Thu, 02 Apr 2026 14:22:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31010-zpl-label-viewer</guid>
-      <dc:date>2026-04-02T14:22:10Z</dc:date>
-    </item>
-    <item>
-      <title>File Browser - Thu Apr 02 13:56:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31028-file-browser</link>
-      <description>File Browser Browse external folders in a dedicated tool window. CLion and other JetBrains IDEs don't support attaching arbitrary external folders to the Project view...
-
-vendor: Sam Washburn
-downloads: 6
-pricingModel: FREE
-xmlId: com.samwashburn.FileBrowser</description>
-      <pubDate>Thu, 02 Apr 2026 13:56:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31028-file-browser</guid>
-      <dc:date>2026-04-02T13:56:10Z</dc:date>
-    </item>
-    <item>
-      <title>Alpaca Brackets - Tue Mar 10 12:14:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30605-alpaca-brackets</link>
-      <description>Alpaca Brackets gives each nesting level of (), [], and {} its own color so complex code blocks stay readable. It skips strings and comments, highlights the active...
-
-vendor: shenz
-downloads: 5
-pricingModel: FREE
-xmlId: com.ronald.alpacabrackets</description>
-      <pubDate>Tue, 10 Mar 2026 12:14:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30605-alpaca-brackets</guid>
-      <dc:date>2026-03-10T12:14:23Z</dc:date>
-    </item>
-    <item>
-      <title>KMP Resources - Fri Apr 03 19:03:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31018-kmp-resources</link>
-      <description>KMP Resources is the essential productivity tool for Kotlin Multiplatform developers using Compose Resources. It replaces manual XML editing with a powerful...
-
-vendor: Robert P.-M.
-downloads: 37
-pricingModel: FREE
-xmlId: dev.robdoes.kmpresources</description>
-      <pubDate>Fri, 03 Apr 2026 19:03:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31018-kmp-resources</guid>
-      <dc:date>2026-04-03T19:03:39Z</dc:date>
-    </item>
-    <item>
-      <title>MavenQuickBuild - Thu Apr 02 23:19:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31045-mavenquickbuild</link>
-      <description>m Maven Quick Build One-click Maven builds directly from the toolbar Maven Quick Build adds two toolbar buttons to IntelliJ IDEA for running the most common Maven...
-
-vendor: ConsciousDreams
-downloads: 7
-pricingModel: FREE
-xmlId: it.consciousdreams.maven-quick-build</description>
-      <pubDate>Thu, 02 Apr 2026 23:19:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31045-mavenquickbuild</guid>
-      <dc:date>2026-04-02T23:19:51Z</dc:date>
-    </item>
-    <item>
-      <title>FastGradleCN - Fri Apr 03 02:55:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31035-fastgradlecn</link>
-      <description>Automatically configure CN mirror repositories for Gradle projects to speed up dependency downloads in mainland China. 为 Gradle 项目自动配置国内镜像，解决在中国大陆下载依赖缓慢的问题。 功能...
-
-vendor: bitbyte404
-downloads: 8
-pricingModel: FREE
-xmlId: com.bitbyte404.FastGradleCN</description>
-      <pubDate>Fri, 03 Apr 2026 02:55:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31035-fastgradlecn</guid>
-      <dc:date>2026-04-03T02:55:21Z</dc:date>
-    </item>
-    <item>
-      <title>Run Claude Code Cmd Any Where - Fri Apr 03 06:20:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31067-run-claude-code-cmd-any-where</link>
-      <description>Run Claude Code CLI commands in any directory with a right-click menu. Right-click on any directory/file in Project View to run commands Customizable command presets...
-
-vendor: adbyte
-downloads: 31
-pricingModel: FREE
-xmlId: run-claude-code-cmd-anywhere</description>
-      <pubDate>Fri, 03 Apr 2026 06:20:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31067-run-claude-code-cmd-any-where</guid>
-      <dc:date>2026-04-03T06:20:09Z</dc:date>
-    </item>
-    <item>
-      <title>MCP Server Companion - Sun Apr 05 18:13:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31060-mcp-server-companion</link>
-      <description>MCP Server Companion extends the built-in JetBrains MCP Server with additional tools for AI clients such as Claude, ChatPGT, Cursor... Requires: the JetBrains MCP...
-
-vendor: Maxime HAMM
-downloads: 250
-pricingModel: FREE
-xmlId: io.nimbly.mcp-companion</description>
-      <pubDate>Sun, 05 Apr 2026 18:13:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31060-mcp-server-companion</guid>
-      <dc:date>2026-04-05T18:13:58Z</dc:date>
-    </item>
-    <item>
-      <title>Puffin Reader - Mon Mar 30 20:47:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31009-puffin-reader</link>
-      <description>Puffin Reader is an IntelliJ plugin for inspecting Apache Iceberg Puffin files. Puffin files are efficient for query engines but difficult for humans to read. This...
-
-vendor: Dano
-downloads: 7
-pricingModel: FREE
-xmlId: com.github.jordanodremio.jordanopuffinreader</description>
-      <pubDate>Mon, 30 Mar 2026 20:47:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31009-puffin-reader</guid>
-      <dc:date>2026-03-30T20:47:19Z</dc:date>
-    </item>
-    <item>
-      <title>Android Studio Korean Language Pack - Thu Apr 02 17:49:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31061-android-studio-korean-language-pack</link>
-      <description>Korean language pack for Android Studio. After installation, go to Settings &amp;gt; Appearance &amp;amp; Behavior &amp;gt; Language and Region &amp;gt; Language to select Korean. For...
-
-vendor: KangJeongMo
-downloads: 8
-pricingModel: FREE
-xmlId: androidstudio.koreanlanguagepack</description>
-      <pubDate>Thu, 02 Apr 2026 17:49:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31061-android-studio-korean-language-pack</guid>
-      <dc:date>2026-04-02T17:49:40Z</dc:date>
     </item>
   </channel>
 </rss>
