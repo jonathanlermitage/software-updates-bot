@@ -6,6 +6,149 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Endpoint Collection Export - Tue Apr 07 09:30:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31133-endpoint-collection-export</link>
+      <description>Exports Spring Boot controllers as API collection files. Generates Bruno-compatible OpenCollection YAML for API workflows. Export a whole controller or a single...
+
+vendor: ZeroJehovah
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.zerojehovah.endpointcollectionexport</description>
+      <pubDate>Tue, 07 Apr 2026 09:30:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31133-endpoint-collection-export</guid>
+      <dc:date>2026-04-07T09:30:43Z</dc:date>
+    </item>
+    <item>
+      <title>YAML Viewer - Tue Apr 07 01:07:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31130-yaml-viewer</link>
+      <description>Human-readable YAML viewer with tree/table hybrid rendering Tired of scrolling through 500-line Kubernetes manifests, Helm charts, or CI configs? YAML Viewer adds a...
+
+vendor: Koda Teknologia
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.dbudyak.yamlviewer</description>
+      <pubDate>Tue, 07 Apr 2026 01:07:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31130-yaml-viewer</guid>
+      <dc:date>2026-04-07T01:07:49Z</dc:date>
+    </item>
+    <item>
+      <title>Mindmap - Kotlin CallGraph - Mon Apr 06 20:09:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31128-mindmap--kotlin-callgraph</link>
+      <description>Mindmap - Kotlin Call Graph Visualizer Visualize Kotlin function call graphs as interactive mind maps inside your IDE. Place your cursor on any function and press...
+
+vendor: Vishal Singh
+downloads: 0
+pricingModel: FREE
+xmlId: com.mindmap.plugin</description>
+      <pubDate>Mon, 06 Apr 2026 20:09:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31128-mindmap--kotlin-callgraph</guid>
+      <dc:date>2026-04-06T20:09:01Z</dc:date>
+    </item>
+    <item>
+      <title>Korext - Mon Apr 06 04:21:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30716-korext</link>
+      <description>Real-time policy enforcement and compliance proof for AI-generated code. KOREXT enforces security, regulatory, and quality standards as you write, explains every...
+
+vendor: Korext
+downloads: 12
+pricingModel: FREE
+xmlId: com.korext.korext</description>
+      <pubDate>Mon, 06 Apr 2026 04:21:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30716-korext</guid>
+      <dc:date>2026-04-06T04:21:39Z</dc:date>
+    </item>
+    <item>
+      <title>Copilot Chat Exporter - Mon Apr 06 18:46:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31127-copilot-chat-exporter</link>
+      <description>Export your GitHub Copilot chat history to Markdown or styled HTML, right from your IDE. Features Browse all Copilot chat sessions: inline chat, agent mode, and edit...
+
+vendor: TomSchmidtDev
+downloads: 0
+pricingModel: FREE
+xmlId: de.tomschmidtdev.copilot-chat-exporter</description>
+      <pubDate>Mon, 06 Apr 2026 18:46:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31127-copilot-chat-exporter</guid>
+      <dc:date>2026-04-06T18:46:55Z</dc:date>
+    </item>
+    <item>
+      <title>CPLEX OPL - Mon Apr 06 18:22:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31125-cplex-opl</link>
+      <description>CPLEX OPL language support for IntelliJ IDEA. Profesjonalna wtyczka do obsługi języka IBM ILOG CPLEX OPL. Zapewnia podświetlanie składni, obsługę komentarzy oraz...
+
+vendor: JAANULO
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.cplexopl.opl-support</description>
+      <pubDate>Mon, 06 Apr 2026 18:22:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31125-cplex-opl</guid>
+      <dc:date>2026-04-06T18:22:06Z</dc:date>
+    </item>
+    <item>
+      <title>Analog WakaTime - Mon Apr 06 18:45:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31124-analog-wakatime</link>
+      <description>Analog WakaTime for JetBrains IDEs tracks editor activity, keeps local offline history, and synchronizes activity with the Analog WakaTime backend.
+
+vendor: Analog WakaTime
+downloads: 0
+pricingModel: FREE
+xmlId: analogwakatime.com.AnalogWakaTimeJetbrainsPlugin</description>
+      <pubDate>Mon, 06 Apr 2026 18:45:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31124-analog-wakatime</guid>
+      <dc:date>2026-04-06T18:45:14Z</dc:date>
+    </item>
+    <item>
+      <title>DICOM Viewer - Mon Apr 06 16:52:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31122-dicom-viewer</link>
+      <description>View, analyze, and measure DICOM medical images directly in your IDE. DICOM Viewer lets you open .dcm files as editor tabs with Window/Level adjustments, measurement...
+
+vendor: JetMedViewer
+downloads: 0
+pricingModel: FREE
+xmlId: com.jetmedviewer</description>
+      <pubDate>Mon, 06 Apr 2026 16:52:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31122-dicom-viewer</guid>
+      <dc:date>2026-04-06T16:52:12Z</dc:date>
+    </item>
+    <item>
+      <title>Column Sorter - Mon Apr 06 16:21:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31120-column-sorter</link>
+      <description>Sort and restore query result columns in DataGrip. Overview Column Sorter adds convenient actions for reordering columns directly in the Result Grid toolbar. Key...
+
+vendor: Alexander Khudoev
+downloads: 0
+pricingModel: FREE
+xmlId: io.identificator.datagripcolumnsorter</description>
+      <pubDate>Mon, 06 Apr 2026 16:21:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31120-column-sorter</guid>
+      <dc:date>2026-04-06T16:21:07Z</dc:date>
+    </item>
+    <item>
+      <title>MarkFlow - Seamless WYSIWYG Markdown Editor (markdown and more) - Mon Apr 06 16:46:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31121-markflow--seamless-wysiwyg-markdown-editor-markdown-and-more-</link>
+      <description>( markdown, mermaid, latex-katex, wysiwyg ) MarkFlow is a lightweight WYSIWYG Markdown editor for IntelliJ-based IDEs. It uses a hybrid architecture: Kotlin + IntelliJ...
+
+vendor: algorist
+downloads: 0
+pricingModel: FREE
+xmlId: com.algorist.markflow</description>
+      <pubDate>Mon, 06 Apr 2026 16:46:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31121-markflow--seamless-wysiwyg-markdown-editor-markdown-and-more-</guid>
+      <dc:date>2026-04-06T16:46:40Z</dc:date>
+    </item>
+    <item>
+      <title>Agent CLI - Mon Apr 06 16:30:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31117-agent-cli</link>
+      <description>Integrates AI Agent CLI sessions directly into your IDE. Open multiple Claude Code, Cursor, Gemini, etc. terminal sessions, switch between them, and browse session...
+
+vendor: Sajith Edirisinghe
+downloads: 0
+pricingModel: FREE
+xmlId: org.sajith.agentcli.plugin</description>
+      <pubDate>Mon, 06 Apr 2026 16:30:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31117-agent-cli</guid>
+      <dc:date>2026-04-06T16:30:40Z</dc:date>
+    </item>
+    <item>
       <title>JetModbus - Mon Apr 06 15:30:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31119-jetmodbus</link>
       <description>Professional Modbus TCP Debugger for Developers A lightweight, integrated Modbus TCP debugging tool designed to streamline IoT development directly within your IDE. No...
@@ -121,149 +264,6 @@ xmlId: com.branchcommit.branch-commit-formatter</description>
       <pubDate>Tue, 07 Apr 2026 04:45:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31113-branch-commit-formatter</guid>
       <dc:date>2026-04-07T04:45:24Z</dc:date>
-    </item>
-    <item>
-      <title>Guiced - Mon Apr 06 05:43:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31112-guiced</link>
-      <description>Guiced is an IntelliJ IDEA plugin based on the JetBrains Guice plugin, providing full Google Guice and GuicedEE framework support for IntelliJ 2026+. GuicedEE...
-
-vendor: GedMarc
-downloads: 1
-pricingModel: FREE
-xmlId: com.guicedee.guiced</description>
-      <pubDate>Mon, 06 Apr 2026 05:43:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31112-guiced</guid>
-      <dc:date>2026-04-06T05:43:47Z</dc:date>
-    </item>
-    <item>
-      <title>Mercury - Mon Apr 06 02:57:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31111-mercury</link>
-      <description>Mercury gives developers immediate, live insight into their Room data model without leaving the IDE. It scans source code in real time, renders interactive schema...
-
-vendor: Konstantin Merenkov
-downloads: 5
-pricingModel: FREE
-xmlId: com.github.merkost.mercury</description>
-      <pubDate>Mon, 06 Apr 2026 02:57:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31111-mercury</guid>
-      <dc:date>2026-04-06T02:57:22Z</dc:date>
-    </item>
-    <item>
-      <title>Lean AI - Sun Apr 05 23:53:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31110-lean-ai</link>
-      <description>Single-Model Deterministic Agentic Architecture — Chat Agent &amp;amp; Inline Predictions. Lean AI is an agentic coding assistant that uses a local LLM (via Ollama) or...
-
-vendor: lean-ai
-downloads: 3
-pricingModel: FREE
-xmlId: com.leanai.plugin</description>
-      <pubDate>Sun, 05 Apr 2026 23:53:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31110-lean-ai</guid>
-      <dc:date>2026-04-05T23:53:43Z</dc:date>
-    </item>
-    <item>
-      <title>K9tools - Sun Apr 05 16:50:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31105-k9tools</link>
-      <description>A tool plugin. features: 1. generate Codec and StreamCodec for Minecraft Mod.
-
-vendor: k9tools
-downloads: 9
-pricingModel: FREE
-xmlId: io.github.tt432.k9tools</description>
-      <pubDate>Sun, 05 Apr 2026 16:50:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31105-k9tools</guid>
-      <dc:date>2026-04-05T16:50:02Z</dc:date>
-    </item>
-    <item>
-      <title>Kensa - Mon Apr 06 11:40:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31099-kensa</link>
-      <description>IntelliJ plugin for the Kensa testing framework. Kensa is a Java/Kotlin testing library that captures expressive, human-readable test reports as HTML. This plugin...
-
-vendor: Kensa
-downloads: 9
-pricingModel: FREE
-xmlId: dev.kensa.plugin.intellij-plugin</description>
-      <pubDate>Mon, 06 Apr 2026 11:40:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31099-kensa</guid>
-      <dc:date>2026-04-06T11:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>Toolbar Launcher - Sun Apr 05 21:40:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31098-toolbar-launcher</link>
-      <description>One-click toolbar buttons to run any build command — fully customizable. Toolbar Launcher adds configurable toolbar buttons to IntelliJ IDEA for running Maven, Gradle...
-
-vendor: ConsciousDreams
-downloads: 7
-pricingModel: FREE
-xmlId: it.consciousdreams.toolbar-launcher</description>
-      <pubDate>Sun, 05 Apr 2026 21:40:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31098-toolbar-launcher</guid>
-      <dc:date>2026-04-05T21:40:19Z</dc:date>
-    </item>
-    <item>
-      <title>AI Commit Message Helper - Sun Apr 05 04:29:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31097-ai-commit-message-helper</link>
-      <description>AI Commit Message Helper - Generate intelligent commit messages using OpenAI, Claude, or DeepSeek models. Access settings via Settings - Tools - AI Git Commit.
-
-vendor: AIGit Commits
-downloads: 4
-pricingModel: FREE
-xmlId: com.lant.ai.gitcommit.assistant</description>
-      <pubDate>Sun, 05 Apr 2026 04:29:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31097-ai-commit-message-helper</guid>
-      <dc:date>2026-04-05T04:29:24Z</dc:date>
-    </item>
-    <item>
-      <title>Seedance MCP - Sun Apr 05 10:08:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30790-seedance-mcp</link>
-      <description>AI Video Generation with ByteDance Seedance via Model Context Protocol (MCP). This plugin helps you set up the MCP ByteDance Seedance server with JetBrains AI...
-
-vendor: AceDataCloud
-downloads: 7
-pricingModel: FREE
-xmlId: com.acedatacloud.mcp.seedance</description>
-      <pubDate>Sun, 05 Apr 2026 10:08:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30790-seedance-mcp</guid>
-      <dc:date>2026-04-05T10:08:48Z</dc:date>
-    </item>
-    <item>
-      <title>Backlog Board - Sat Apr 04 21:43:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31095-backlog-board</link>
-      <description>Kanban board for your repo — inside Rider, WebStorm, IntelliJ IDEA, and all other JetBrains IDEs. Reads your Backlog.md task files directly from the filesystem and...
-
-vendor: Henrik Øgård
-downloads: 5
-pricingModel: FREE
-xmlId: com.github.backlogmd.plugin</description>
-      <pubDate>Sat, 04 Apr 2026 21:43:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31095-backlog-board</guid>
-      <dc:date>2026-04-04T21:43:32Z</dc:date>
-    </item>
-    <item>
-      <title>RestfulToolkit Next - Sun Apr 05 05:08:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31092-restfultoolkit-next</link>
-      <description>RestfulToolkit Next A maintained re-release based on the original RestfulToolkit, adapted for newer IntelliJ IDEA / JetBrains Platform versions. Jump to REST endpoint...
-
-vendor: SountClub
-downloads: 3
-pricingModel: FREE
-xmlId: com.sount</description>
-      <pubDate>Sun, 05 Apr 2026 05:08:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31092-restfultoolkit-next</guid>
-      <dc:date>2026-04-05T05:08:50Z</dc:date>
-    </item>
-    <item>
-      <title>Sora MCP - Sun Apr 05 10:09:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30786-sora-mcp</link>
-      <description>AI Video Generation with OpenAI Sora via Model Context Protocol (MCP). This plugin helps you set up the MCP OpenAI Sora server with JetBrains AI Assistant. Once...
-
-vendor: AceDataCloud
-downloads: 8
-pricingModel: FREE
-xmlId: com.acedatacloud.mcp.sora</description>
-      <pubDate>Sun, 05 Apr 2026 10:09:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30786-sora-mcp</guid>
-      <dc:date>2026-04-05T10:09:10Z</dc:date>
     </item>
   </channel>
 </rss>
