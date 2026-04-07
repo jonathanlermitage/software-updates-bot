@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.4|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 07 20:09:54 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 mac| 3.14.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 07 20:09:53 UTC 2026|
+|![logo](../media/logo/go.png) Go|go1.26.2|[golang.org](https://golang.org/dl/)|Tue Apr 07 20:09:40 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.0 to 19.6.6 ~ 2026-04-04|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 04 20:04:10 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.9.0|[nodejs.org](https://nodejs.org)|Wed Apr 01 16:17:59 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 26 12:13:17 UTC 2026|
@@ -9,7 +12,6 @@
 |![logo](../media/logo/gradle.png) Gradle|9.4.1|[gradle.org](https://gradle.org/releases)|Thu Mar 19 12:06:20 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.2 (2026-03-16)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Mar 16 16:19:31 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1 (261.22158.121) ~ 2026-03-13|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Mar 13 16:08:07 UTC 2026|
-|![logo](../media/logo/go.png) Go|go1.26.1|[golang.org](https://golang.org/dl/)|Fri Mar 06 04:30:39 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
@@ -19,8 +21,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:10 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Feb 04 20:05:42 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Feb 04 00:06:12 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.3|[www.python.org](https://www.python.org/downloads/windows/)|Tue Feb 03 20:07:06 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 mac| 3.14.3|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Feb 03 20:07:05 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:43 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:41 UTC 2026|
