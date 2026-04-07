@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Claude Code [Alt UI] - Tue Apr 07 15:04:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30819-claude-code-alt-ui-</link>
+      <description>In-Editor suggestions - as a replacement for diffs, fill free to partially accept and modify In-Editor feedback - just start typing when the caret is at the start of...
+
+vendor: Oleksii Volotskov Software Engineering
+downloads: 2
+pricingModel: FREE
+xmlId: com.seech.claude-code-alt-ui</description>
+      <pubDate>Tue, 07 Apr 2026 15:04:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30819-claude-code-alt-ui-</guid>
+      <dc:date>2026-04-07T15:04:16Z</dc:date>
+    </item>
+    <item>
+      <title>BYU CS Code Recorder - Mon Apr 06 15:38:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31081-byu-cs-code-recorder</link>
+      <description>Automatically records code changes in your projects. The plugin captures every edit, deletion, and modification to files without recording your screen. Recording...
+
+vendor: BYU CS Course Operations
+downloads: 3
+pricingModel: FREE
+xmlId: edu.byu.cs.courseops.code-recorder</description>
+      <pubDate>Mon, 06 Apr 2026 15:38:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31081-byu-cs-code-recorder</guid>
+      <dc:date>2026-04-06T15:38:02Z</dc:date>
+    </item>
+    <item>
+      <title>Nu LSP - Mon Apr 06 18:29:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31106-nu-lsp</link>
+      <description>Provides LSP (Language Server Protocol) support for NuShell. Features: Hover support Code completion Signature help Go to definition Find references Document...
+
+vendor: Anbora Labs
+downloads: 2
+pricingModel: PAID
+xmlId: co.anbora.labs.nushell.lsp</description>
+      <pubDate>Mon, 06 Apr 2026 18:29:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31106-nu-lsp</guid>
+      <dc:date>2026-04-06T18:29:59Z</dc:date>
+    </item>
+    <item>
       <title>Endpoint Collection Export - Tue Apr 07 09:30:43 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31133-endpoint-collection-export</link>
       <description>Exports Spring Boot controllers as API collection files. Generates Bruno-compatible OpenCollection YAML for API workflows. Export a whole controller or a single...
@@ -149,7 +188,7 @@ xmlId: org.sajith.agentcli.plugin</description>
       <dc:date>2026-04-06T16:30:40Z</dc:date>
     </item>
     <item>
-      <title>JetModbus - Mon Apr 06 15:30:24 UTC 2026</title>
+      <title>JetModbus - Tue Apr 07 14:30:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31119-jetmodbus</link>
       <description>Professional Modbus TCP Debugger for Developers A lightweight, integrated Modbus TCP debugging tool designed to streamline IoT development directly within your IDE. No...
 
@@ -157,9 +196,9 @@ vendor: 天地此中藏
 downloads: 0
 pricingModel: FREE
 xmlId: com.modhe.modbushelper</description>
-      <pubDate>Mon, 06 Apr 2026 15:30:24 GMT</pubDate>
+      <pubDate>Tue, 07 Apr 2026 14:30:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31119-jetmodbus</guid>
-      <dc:date>2026-04-06T15:30:24Z</dc:date>
+      <dc:date>2026-04-07T14:30:10Z</dc:date>
     </item>
     <item>
       <title>CMP Kit - Mon Apr 06 14:48:11 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: com.bose.plugin</description>
       <pubDate>Mon, 06 Apr 2026 11:25:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31115-kleanarch</guid>
       <dc:date>2026-04-06T11:25:59Z</dc:date>
-    </item>
-    <item>
-      <title>emitter-navigator - Mon Apr 06 10:20:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31114-emitter-navigator</link>
-      <description>Features Press F12 on an event name string inside an emit() or on() call to jump to all paired counterparts across the projectResults are shown in a popup sorted by...
-
-vendor: Xinxian
-downloads: 8
-pricingModel: FREE
-xmlId: com.github.xinxianwu.emitternavigator</description>
-      <pubDate>Mon, 06 Apr 2026 10:20:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31114-emitter-navigator</guid>
-      <dc:date>2026-04-06T10:20:34Z</dc:date>
-    </item>
-    <item>
-      <title>SigMap - AI Context Engine - Mon Apr 06 23:35:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31109-sigmap--ai-context-engine</link>
-      <description>SigMap — 97% Token Reduction for AI Coding Assistants Zero-dependency AI context engine that extracts code signatures from 21 languages and generates compact context...
-
-vendor: SigMap
-downloads: 4
-pricingModel: FREE
-xmlId: com.sigmap.plugin</description>
-      <pubDate>Mon, 06 Apr 2026 23:35:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31109-sigmap--ai-context-engine</guid>
-      <dc:date>2026-04-06T23:35:31Z</dc:date>
-    </item>
-    <item>
-      <title>Branch Commit Formatter - Tue Apr 07 04:45:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31113-branch-commit-formatter</link>
-      <description>Automatically formats Git branch names into structured commit messages. Converts branch names like feature/ABC-1234_Add_function_comment into commit messages like...
-
-vendor: Petro Plugin
-downloads: 6
-pricingModel: FREE
-xmlId: com.branchcommit.branch-commit-formatter</description>
-      <pubDate>Tue, 07 Apr 2026 04:45:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31113-branch-commit-formatter</guid>
-      <dc:date>2026-04-07T04:45:24Z</dc:date>
     </item>
   </channel>
 </rss>
