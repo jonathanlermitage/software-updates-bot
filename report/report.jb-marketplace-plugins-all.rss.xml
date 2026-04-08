@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Mermaid Studio Core - Wed Apr 08 11:19:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30883-mermaid-studio-core</link>
+      <description>Mermaid Studio Core provides rich language support for authoring Mermaid diagrams in your JetBrains IDE - free error detection, syntax highlighting, live preview, and...
+
+vendor: Tachi Labs
+downloads: 4
+pricingModel: FREEMIUM
+xmlId: dev.tachilabs.mermaidstudio.core</description>
+      <pubDate>Wed, 08 Apr 2026 11:19:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30883-mermaid-studio-core</guid>
+      <dc:date>2026-04-08T11:19:08Z</dc:date>
+    </item>
+    <item>
+      <title>DXF Viewer - Wed Apr 08 08:45:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31154-dxf-viewer</link>
+      <description>Open and navigate DXF (Drawing Exchange Format) CAD files inside IntelliJ IDEA. Adds code-folding gutter buttons that let you collapse and expand: Top-level DXF...
+
+vendor: Volodymyr Kret
+downloads: 0
+pricingModel: FREE
+xmlId: com.single.ton.dxf</description>
+      <pubDate>Wed, 08 Apr 2026 08:45:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31154-dxf-viewer</guid>
+      <dc:date>2026-04-08T08:45:30Z</dc:date>
+    </item>
+    <item>
+      <title>Gradle Glimpse - Wed Apr 08 09:11:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31155-gradle-glimpse</link>
+      <description>A lifesaver for Flutter developers migrating to AGP 8 and 9. Updating the Android Gradle Plugin (AGP) in a mature Flutter project often breaks the build due to hidden...
+
+vendor: LazVaal
+downloads: 0
+pricingModel: FREE
+xmlId: com.lazvaal.gradleglimpse</description>
+      <pubDate>Wed, 08 Apr 2026 09:11:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31155-gradle-glimpse</guid>
+      <dc:date>2026-04-08T09:11:37Z</dc:date>
+    </item>
+    <item>
+      <title>opencode-web - Wed Apr 08 09:16:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31150-opencode-web</link>
+      <description>Plugin Description Note: This is an unofficial plugin for OpenCode, maintained by the community and not affiliated with OpenCode. Features Auto-start Service - Click...
+
+vendor: shenyuanlaolarou
+downloads: 0
+pricingModel: FREE
+xmlId: com.shenyuanlaolarou.opencodewebui</description>
+      <pubDate>Wed, 08 Apr 2026 09:16:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31150-opencode-web</guid>
+      <dc:date>2026-04-08T09:16:57Z</dc:date>
+    </item>
+    <item>
+      <title>Viv - Wed Apr 08 07:06:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31012-viv</link>
+      <description>Complete IDE support for Viv — a DSL for emergent narrative in games and simulations. The Viv JetBrains plugin is the recommended tool for Viv development, and it...
+
+vendor: Sifty
+downloads: 7
+pricingModel: FREE
+xmlId: studio.sifty.viv</description>
+      <pubDate>Wed, 08 Apr 2026 07:06:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31012-viv</guid>
+      <dc:date>2026-04-08T07:06:14Z</dc:date>
+    </item>
+    <item>
+      <title>i18n Agent - Mon Mar 09 18:35:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30584-i18n-agent</link>
+      <description>One-click localization for Android. Translate your strings.xml files without leaving Android Studio.
+
+vendor: FatCouple OÜ
+downloads: 1
+pricingModel: FREE
+xmlId: ai.i18nagent.plugin</description>
+      <pubDate>Mon, 09 Mar 2026 18:35:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30584-i18n-agent</guid>
+      <dc:date>2026-03-09T18:35:31Z</dc:date>
+    </item>
+    <item>
+      <title>Auto Merge &amp; Push - Wed Apr 08 03:38:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31143-auto-merge--push</link>
+      <description>Auto Merge &amp;amp; Push is a powerful Git workflow automation tool that helps developers handle synchronizations and Pull/Merge Requests seamlessly in one click...
+
+vendor: 武明阳
+downloads: 0
+pricingModel: FREE
+xmlId: com.bytedance.auto.merge.push.plugin</description>
+      <pubDate>Wed, 08 Apr 2026 03:38:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31143-auto-merge--push</guid>
+      <dc:date>2026-04-08T03:38:22Z</dc:date>
+    </item>
+    <item>
       <title>File Marker - Tue Apr 07 18:20:30 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31137-file-marker</link>
       <description>Mark and highlight files and directories in the Project View with colored badge overlays. Features Toggle file marks with a single action or keyboard shortcut...
@@ -97,20 +188,20 @@ xmlId: com.embabel.agent.intellij-plugin</description>
       <dc:date>2026-04-08T00:13:58Z</dc:date>
     </item>
     <item>
-      <title>Commit Message(AI) - Wed Apr 08 02:17:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31136-commit-message-ai-</link>
-      <description>Generate git commit messages using AI (OpenAI, Anthropic, Gemini or custom OpenAI-compatible endpoints). One-click AI commit message generation based on selected...
+      <title>AI Commit Helper - Wed Apr 08 10:14:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31136-ai-commit-helper</link>
+      <description>AI Commit Helper Automatically generate Git commit messages using AI. Supports OpenAI, Anthropic, Gemini and custom providers with SSE streaming output. One-click...
 
 vendor: fangzc
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.fangzc.ai-commit-message</description>
-      <pubDate>Wed, 08 Apr 2026 02:17:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31136-commit-message-ai-</guid>
-      <dc:date>2026-04-08T02:17:40Z</dc:date>
+      <pubDate>Wed, 08 Apr 2026 10:14:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31136-ai-commit-helper</guid>
+      <dc:date>2026-04-08T10:14:57Z</dc:date>
     </item>
     <item>
-      <title>Package Dependency Explorer - Mon Apr 06 18:43:28 UTC 2026</title>
+      <title>Package Dependency Explorer - Wed Apr 08 08:08:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31126-package-dependency-explorer</link>
       <description>Package Dependency Explorer for JetBrains Rider Visualize, search and navigate the complete NuGet dependency tree across your entire .NET solution. Package Dependency...
 
@@ -118,9 +209,9 @@ vendor: sirius
 downloads: 2
 pricingModel: FREEMIUM
 xmlId: com.package.dependency.explorer</description>
-      <pubDate>Mon, 06 Apr 2026 18:43:28 GMT</pubDate>
+      <pubDate>Wed, 08 Apr 2026 08:08:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31126-package-dependency-explorer</guid>
-      <dc:date>2026-04-06T18:43:28Z</dc:date>
+      <dc:date>2026-04-08T08:08:11Z</dc:date>
     </item>
     <item>
       <title>Claude Code [Alt UI] - Tue Apr 07 15:04:16 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: io.github.zerojehovah.endpointcollectionexport</description>
       <pubDate>Wed, 08 Apr 2026 02:59:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31133-endpoint-collection-export</guid>
       <dc:date>2026-04-08T02:59:36Z</dc:date>
-    </item>
-    <item>
-      <title>YAML Viewer - Tue Apr 07 01:07:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31130-yaml-viewer</link>
-      <description>Human-readable YAML viewer with tree/table hybrid rendering Tired of scrolling through 500-line Kubernetes manifests, Helm charts, or CI configs? YAML Viewer adds a...
-
-vendor: Koda Teknologia
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.dbudyak.yamlviewer</description>
-      <pubDate>Tue, 07 Apr 2026 01:07:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31130-yaml-viewer</guid>
-      <dc:date>2026-04-07T01:07:49Z</dc:date>
-    </item>
-    <item>
-      <title>Mindmap - Kotlin CallGraph - Mon Apr 06 20:09:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31128-mindmap--kotlin-callgraph</link>
-      <description>Mindmap - Kotlin Call Graph Visualizer Visualize Kotlin function call graphs as interactive mind maps inside your IDE. Place your cursor on any function and press...
-
-vendor: Vishal Singh
-downloads: 8
-pricingModel: FREE
-xmlId: com.mindmap.plugin</description>
-      <pubDate>Mon, 06 Apr 2026 20:09:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31128-mindmap--kotlin-callgraph</guid>
-      <dc:date>2026-04-06T20:09:01Z</dc:date>
-    </item>
-    <item>
-      <title>Korext - Wed Apr 08 01:25:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30716-korext</link>
-      <description>Real-time policy enforcement and compliance proof for AI-generated code. KOREXT enforces security, regulatory, and quality standards as you write, explains every...
-
-vendor: Korext
-downloads: 13
-pricingModel: FREE
-xmlId: com.korext.korext</description>
-      <pubDate>Wed, 08 Apr 2026 01:25:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30716-korext</guid>
-      <dc:date>2026-04-08T01:25:05Z</dc:date>
-    </item>
-    <item>
-      <title>Copilot Chat Exporter - Tue Apr 07 19:42:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31127-copilot-chat-exporter</link>
-      <description>Export your GitHub Copilot chat history to Markdown or styled HTML, right from your IDE. Features Browse all Copilot chat sessions: inline chat, agent mode, and edit...
-
-vendor: TomSchmidtDev
-downloads: 19
-pricingModel: FREE
-xmlId: de.tomschmidtdev.copilot-chat-exporter</description>
-      <pubDate>Tue, 07 Apr 2026 19:42:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31127-copilot-chat-exporter</guid>
-      <dc:date>2026-04-07T19:42:33Z</dc:date>
-    </item>
-    <item>
-      <title>CPLEX OPL - Mon Apr 06 18:22:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31125-cplex-opl</link>
-      <description>CPLEX OPL language support for IntelliJ IDEA. Profesjonalna wtyczka do obsługi języka IBM ILOG CPLEX OPL. Zapewnia podświetlanie składni, obsługę komentarzy oraz...
-
-vendor: JAANULO
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.cplexopl.opl-support</description>
-      <pubDate>Mon, 06 Apr 2026 18:22:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31125-cplex-opl</guid>
-      <dc:date>2026-04-06T18:22:06Z</dc:date>
-    </item>
-    <item>
-      <title>Analog WakaTime - Mon Apr 06 18:45:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31124-analog-wakatime</link>
-      <description>Analog WakaTime for JetBrains IDEs tracks editor activity, keeps local offline history, and synchronizes activity with the Analog WakaTime backend.
-
-vendor: Analog WakaTime
-downloads: 3
-pricingModel: FREE
-xmlId: analogwakatime.com.AnalogWakaTimeJetbrainsPlugin</description>
-      <pubDate>Mon, 06 Apr 2026 18:45:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31124-analog-wakatime</guid>
-      <dc:date>2026-04-06T18:45:14Z</dc:date>
-    </item>
-    <item>
-      <title>DICOM Viewer - Mon Apr 06 16:52:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31122-dicom-viewer</link>
-      <description>View, analyze, and measure DICOM medical images directly in your IDE. DICOM Viewer lets you open .dcm files as editor tabs with Window/Level adjustments, measurement...
-
-vendor: JetMedViewer
-downloads: 2
-pricingModel: FREE
-xmlId: com.jetmedviewer</description>
-      <pubDate>Mon, 06 Apr 2026 16:52:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31122-dicom-viewer</guid>
-      <dc:date>2026-04-06T16:52:12Z</dc:date>
     </item>
   </channel>
 </rss>
