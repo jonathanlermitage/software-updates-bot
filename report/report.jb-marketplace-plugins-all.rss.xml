@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Jira-Bitbucket-Dev-Dashboard - Wed Apr 08 20:37:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30653-jira-bitbucket-dev-dashboard</link>
+      <description>A lightweight developer dashboard inside IntelliJ. View your assigned Jira tickets and Bitbucket pull requests directly from the IDE. Features: Assigned Jira tickets...
+
+vendor: subhamk
+downloads: 1
+pricingModel: FREE
+xmlId: com.subhamk.jira-bitbucket-plugin</description>
+      <pubDate>Wed, 08 Apr 2026 20:37:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30653-jira-bitbucket-dev-dashboard</guid>
+      <dc:date>2026-04-08T20:37:13Z</dc:date>
+    </item>
+    <item>
+      <title>Symbols Icons - Wed Apr 08 18:29:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31168-symbols-icons</link>
+      <description>A minimal file and folder icon theme for JetBrains IDEs. Based on vscode-symbols by Miguel Solorio.
+
+vendor: Symbols Icons
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.sebastiandotdev.symbols</description>
+      <pubDate>Wed, 08 Apr 2026 18:29:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31168-symbols-icons</guid>
+      <dc:date>2026-04-08T18:29:11Z</dc:date>
+    </item>
+    <item>
+      <title>EdgeJS - Wed Apr 08 15:14:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31167-edgejs</link>
+      <description>AdonisJS Edge template support for JetBrains IDEs. The plugin adds syntax highlighting for .edge files, JavaScript injection inside Edge expressions and directive...
+
+vendor: quantumweb
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.quantumweb.edgejsjetbrains</description>
+      <pubDate>Wed, 08 Apr 2026 15:14:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31167-edgejs</guid>
+      <dc:date>2026-04-08T15:14:47Z</dc:date>
+    </item>
+    <item>
+      <title>Dev Bible - Wed Apr 08 15:01:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31166-dev-bible</link>
+      <description>This plugin provides Bible verses for Christian developers. O Dev Bible e um plugin que exibe versiculos biblicos para desenvolvedores cristaos. Ele mostra uma...
+
+vendor: Mateus Micael Coutinho
+downloads: 0
+pricingModel: FREE
+xmlId: com.devbible.plugin</description>
+      <pubDate>Wed, 08 Apr 2026 15:01:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31166-dev-bible</guid>
+      <dc:date>2026-04-08T15:01:54Z</dc:date>
+    </item>
+    <item>
+      <title>Switch2JoyCode - Wed Apr 08 14:45:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31164-switch2joycode</link>
+      <description>Switch2JoyCode is a JetBrains IDE plugin that enables seamless switching between IDE and JoyCode while maintaining precise cursor position. Forked from Switch2Cursor...
+
+vendor: wuquanda
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.wuquanda.switch2joycode</description>
+      <pubDate>Wed, 08 Apr 2026 14:45:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31164-switch2joycode</guid>
+      <dc:date>2026-04-08T14:45:41Z</dc:date>
+    </item>
+    <item>
       <title>Fix Parser - Sat Apr 04 01:39:26 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31087-fix-parser</link>
       <description>A lightweight FIX protocol message parser built into your IDE. Parse FIX messages by pasting text or loading from a local file Supports FIX 4.0 through 5.0 SP2...
@@ -199,71 +264,6 @@ xmlId: com.ngscaffolder.ng-nx-scaffolder</description>
       <pubDate>Tue, 07 Apr 2026 20:36:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31141-angular-nx-scaffolder</guid>
       <dc:date>2026-04-07T20:36:34Z</dc:date>
-    </item>
-    <item>
-      <title>Relux - Tue Apr 07 19:34:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31140-relux</link>
-      <description>Syntax highlighting and editor support for the Relux DSL (.relux files). Relux is a Rust-based integration test framework for controlling interactive shell programs...
-
-vendor: Denis Farr
-downloads: 1
-pricingModel: FREE
-xmlId: eu.spawnlink.relux</description>
-      <pubDate>Tue, 07 Apr 2026 19:34:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31140-relux</guid>
-      <dc:date>2026-04-07T19:34:11Z</dc:date>
-    </item>
-    <item>
-      <title>Drift Locator - Tue Apr 07 18:17:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31138-drift-locator</link>
-      <description>Provides database schema comparison across different instances. It helps developers identify differences between diferent environments, ensuring smooth deployments and...
-
-vendor: yamert89
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.yamert89.drift-locator</description>
-      <pubDate>Tue, 07 Apr 2026 18:17:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31138-drift-locator</guid>
-      <dc:date>2026-04-07T18:17:39Z</dc:date>
-    </item>
-    <item>
-      <title>PocketMineAPI - Tue Apr 07 23:44:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30933-pocketmineapi</link>
-      <description>PocketMine-MP release manager: downloads the .phar file, extracts it via PHP CLI, then automatically registers it as a PhpStorm include path for autocompletion.
-
-vendor: PocketMine-Mp Version Manager
-downloads: 11
-pricingModel: FREE
-xmlId: com.royal.PocketMineAPI</description>
-      <pubDate>Tue, 07 Apr 2026 23:44:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30933-pocketmineapi</guid>
-      <dc:date>2026-04-07T23:44:42Z</dc:date>
-    </item>
-    <item>
-      <title>Embabel Agent - Wed Apr 08 00:13:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31142-embabel-agent</link>
-      <description>Provides IntelliJ IDEA support for the embabel-agent framework. Suppresses false "unused method" warnings on framework-invoked annotations: @Action, @Condition, @Cost.
-
-vendor: Embabel Pty Ltd
-downloads: 3
-pricingModel: FREE
-xmlId: com.embabel.agent.intellij-plugin</description>
-      <pubDate>Wed, 08 Apr 2026 00:13:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31142-embabel-agent</guid>
-      <dc:date>2026-04-08T00:13:58Z</dc:date>
-    </item>
-    <item>
-      <title>AI Commit Helper - Wed Apr 08 15:48:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31136-ai-commit-helper</link>
-      <description>AI Commit Helper Automatically generate Git commit messages using AI. Supports OpenAI, Anthropic, Gemini and custom providers with SSE streaming output. One-click...
-
-vendor: fangzc
-downloads: 46
-pricingModel: FREE
-xmlId: com.github.fangzc.ai-commit-message</description>
-      <pubDate>Wed, 08 Apr 2026 15:48:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31136-ai-commit-helper</guid>
-      <dc:date>2026-04-08T15:48:19Z</dc:date>
     </item>
   </channel>
 </rss>
