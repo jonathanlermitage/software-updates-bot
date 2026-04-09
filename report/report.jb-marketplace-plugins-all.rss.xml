@@ -6,6 +6,188 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Obsidian Lens - Thu Apr 09 15:30:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31182-obsidian-lens</link>
+      <description>Bring your Obsidian vault into JetBrains IDEs. View, navigate, and link your notes without leaving the editor. Features Wiki-link rendering — [[Note|Alias]] folds...
+
+vendor: Oleksandr Kharchenko
+downloads: 0
+pricingModel: FREE
+xmlId: dev.jarviis.obsidian.obsidian-lens</description>
+      <pubDate>Thu, 09 Apr 2026 15:30:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31182-obsidian-lens</guid>
+      <dc:date>2026-04-09T15:30:18Z</dc:date>
+    </item>
+    <item>
+      <title>Klib Lens - Wed Apr 08 07:31:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31148-klib-lens</link>
+      <description>Beautifies the output of decompiled Knm / Klib files by shortening cinterop annotations and removing redundant noisy compiler comments.
+
+vendor: Benny Huo
+downloads: 0
+pricingModel: FREE
+xmlId: com.bennyhuo.kotlin.kliblens</description>
+      <pubDate>Wed, 08 Apr 2026 07:31:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31148-klib-lens</guid>
+      <dc:date>2026-04-08T07:31:45Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Steroid - Wed Apr 08 11:35:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30019-mcp-steroid</link>
+      <description>MCP Steroid brings the full power of the IntelliJ Platform to AI agents through the Model Context Protocol (MCP). IntelliJ platform works for AI agents as great as for...
+
+vendor: jonnyzzz.com
+downloads: 8
+pricingModel: FREE
+xmlId: com.jonnyzzz.mcp-steroid</description>
+      <pubDate>Wed, 08 Apr 2026 11:35:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30019-mcp-steroid</guid>
+      <dc:date>2026-04-08T11:35:37Z</dc:date>
+    </item>
+    <item>
+      <title>Aura Code - Codex AI Assistant - Mon Apr 06 17:55:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31123-aura-code--codex-ai-assistant</link>
+      <description>Aura Code-Codex AI Assistant is a Codex AI assistant for IntelliJ IDEA, built around local CLI workflows and integrated directly into the IDE. It helps you plan...
+
+vendor: Aura Code - Codex AI Assistant
+downloads: 3
+pricingModel: FREE
+xmlId: com.auracode.assistant</description>
+      <pubDate>Mon, 06 Apr 2026 17:55:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31123-aura-code--codex-ai-assistant</guid>
+      <dc:date>2026-04-06T17:55:04Z</dc:date>
+    </item>
+    <item>
+      <title>DFA Analysis - Thu Apr 09 13:29:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31184-dfa-analysis</link>
+      <description>Relational Dataflow Analysis engine. Contains RML DSL, RML-based analysis, Taint Analysis RML extension, IR serialization via protobuf and trace UI.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.dfa.analysis</description>
+      <pubDate>Thu, 09 Apr 2026 13:29:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31184-dfa-analysis</guid>
+      <dc:date>2026-04-09T13:29:10Z</dc:date>
+    </item>
+    <item>
+      <title>MCL (mgmtconfig) LSP Support - Thu Apr 09 12:04:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31181-mcl-mgmtconfig-lsp-support</link>
+      <description>Provides IntelliJ support for MCL (mgmtconfig DSL) with Go LSP diagnostics and semantic highlighting, plus a local lexical highlighting fallback and Go-driven...
+
+vendor: karpfen
+downloads: 0
+pricingModel: FREE
+xmlId: dev.karpfen.mcl</description>
+      <pubDate>Thu, 09 Apr 2026 12:04:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31181-mcl-mgmtconfig-lsp-support</guid>
+      <dc:date>2026-04-09T12:04:06Z</dc:date>
+    </item>
+    <item>
+      <title>RestfulSearch - Thu Apr 09 07:54:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31175-restfulsearch</link>
+      <description>Restful Search is a lightweight plugin designed for quick navigation of RESTful web services within IntelliJ IDEA. Core Features: Search for REST endpoints by URL path...
+
+vendor: dute7liang
+downloads: 0
+pricingModel: FREE
+xmlId: com.dute7liang.restful.search</description>
+      <pubDate>Thu, 09 Apr 2026 07:54:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31175-restfulsearch</guid>
+      <dc:date>2026-04-09T07:54:13Z</dc:date>
+    </item>
+    <item>
+      <title>I18N Translate - Thu Apr 09 07:28:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31174-i18n-translate</link>
+      <description>I18N Translate Plugin Overview This IntelliJ IDEA plugin helps you manage and translate i18n files (properties, json, yaml/yml). Key features include: 1. Supports...
+
+vendor: xucux
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.xucux.I18nTranslate</description>
+      <pubDate>Thu, 09 Apr 2026 07:28:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31174-i18n-translate</guid>
+      <dc:date>2026-04-09T07:28:15Z</dc:date>
+    </item>
+    <item>
+      <title>ADB proxy - Thu Apr 09 15:38:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31173-adb-proxy</link>
+      <description>ProxyADB — Configure HTTP proxy on connected Android devices via ADB directly from Android Studio. Features: &#x1f50d; Auto-detects your local machine's IP address...
+
+vendor: Carvalho
+downloads: 0
+pricingModel: FREE
+xmlId: com.rcleandro.proxyadb</description>
+      <pubDate>Thu, 09 Apr 2026 15:38:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31173-adb-proxy</guid>
+      <dc:date>2026-04-09T15:38:58Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Code Sessions - Thu Apr 09 12:23:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31134-claude-code-sessions</link>
+      <description>Monitor and manage all running Claude Code CLI sessions directly from your JetBrains IDE. See all active Claude sessions across all projects Status indicators...
+
+vendor: Coding 9 GmbH
+downloads: 1
+pricingModel: FREE
+xmlId: com.coding9.claude-code-sessions</description>
+      <pubDate>Thu, 09 Apr 2026 12:23:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31134-claude-code-sessions</guid>
+      <dc:date>2026-04-09T12:23:16Z</dc:date>
+    </item>
+    <item>
+      <title>Nu Lint - Thu Apr 09 12:29:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31165-nu-lint</link>
+      <description>Nu Lint is an IDE integration for nu-lint, providing real-time diagnostics and advanced Language Server Protocol (LSP) support for NuShell. Features: Real-time...
+
+vendor: Anbora Labs
+downloads: 0
+pricingModel: PAID
+xmlId: co.anbora.labs.nushell.lint</description>
+      <pubDate>Thu, 09 Apr 2026 12:29:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31165-nu-lint</guid>
+      <dc:date>2026-04-09T12:29:53Z</dc:date>
+    </item>
+    <item>
+      <title>EggShell - Wed Apr 08 22:50:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31171-eggshell</link>
+      <description>EggShell brings AI coding agents into JetBrains IDEs. It embeds a fully interactive terminal session dedicated to AI CLI tools, letting you chat with an agent without...
+
+vendor: Best Practice
+downloads: 0
+pricingModel: FREE
+xmlId: com.eggshell.ai-agent-plugin</description>
+      <pubDate>Wed, 08 Apr 2026 22:50:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31171-eggshell</guid>
+      <dc:date>2026-04-08T22:50:34Z</dc:date>
+    </item>
+    <item>
+      <title>Monorepo - Thu Apr 09 13:06:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31169-monorepo</link>
+      <description>This plugin allows users to filter the project view based on the code-owners.json configuration. It enables limiting visible files to those owned by specific teams...
+
+vendor: Skunk Works
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.rabobank.monorepoplugin</description>
+      <pubDate>Thu, 09 Apr 2026 13:06:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31169-monorepo</guid>
+      <dc:date>2026-04-09T13:06:06Z</dc:date>
+    </item>
+    <item>
+      <title>Cron Everything - Wed Apr 08 22:29:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31170-cron-everything</link>
+      <description>Cron expression tooling for .properties and .yaml/.yml files. Works on IntelliJ IDEA Community Edition. Inlay hints Human-readable descriptions are shown inline next...
+
+vendor: Tomasz Zysk
+downloads: 0
+pricingModel: FREE
+xmlId: it.zysk.cron-everything</description>
+      <pubDate>Wed, 08 Apr 2026 22:29:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31170-cron-everything</guid>
+      <dc:date>2026-04-08T22:29:27Z</dc:date>
+    </item>
+    <item>
       <title>Jira-Bitbucket-Dev-Dashboard - Wed Apr 08 20:37:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30653-jira-bitbucket-dev-dashboard</link>
       <description>A lightweight developer dashboard inside IntelliJ. View your assigned Jira tickets and Bitbucket pull requests directly from the IDE. Features: Assigned Jira tickets...
@@ -82,188 +264,6 @@ xmlId: io.hermes.fix.fix-parser</description>
       <pubDate>Sat, 04 Apr 2026 01:39:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31087-fix-parser</guid>
       <dc:date>2026-04-04T01:39:26Z</dc:date>
-    </item>
-    <item>
-      <title>Database MCP Server - Sun Apr 05 20:23:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31107-database-mcp-server</link>
-      <description>English Database MCP Server helps you configure and run an embedded database MCP service in IntelliJ IDEA, with controllable SQL tools for AI assistants and MCP...
-
-vendor: 张红凯
-downloads: 1
-pricingModel: FREE
-xmlId: com.zhanghk.database-mcp-server</description>
-      <pubDate>Sun, 05 Apr 2026 20:23:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31107-database-mcp-server</guid>
-      <dc:date>2026-04-05T20:23:12Z</dc:date>
-    </item>
-    <item>
-      <title>DevPulse - Developer Toolkit - Wed Apr 08 14:20:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31162-devpulse--developer-toolkit</link>
-      <description>DevPulse is a single tool window that replaces scattered productivity tools for JetBrains IDEs. DevPulse - Developer Toolkit A single tool window that replaces...
-
-vendor: Devang Tailor
-downloads: 2
-pricingModel: FREE
-xmlId: dev.pulse.devpulse</description>
-      <pubDate>Wed, 08 Apr 2026 14:20:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31162-devpulse--developer-toolkit</guid>
-      <dc:date>2026-04-08T14:20:04Z</dc:date>
-    </item>
-    <item>
-      <title>Blazor Quick Switch - Wed Apr 08 16:01:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31161-blazor-quick-switch</link>
-      <description>Blazor Quick Switch Quickly switch between related Blazor component files using a single keyboard shortcut. Inspired by the popular Angular CLI QuickSwitch plugin...
-
-vendor: Eddie Endisch
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.xxeddiexxx.blazor-quick-switch</description>
-      <pubDate>Wed, 08 Apr 2026 16:01:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31161-blazor-quick-switch</guid>
-      <dc:date>2026-04-08T16:01:03Z</dc:date>
-    </item>
-    <item>
-      <title>Copy To Scratch - Wed Apr 08 11:04:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31158-copy-to-scratch</link>
-      <description>Copies the current text selection and inserts it at the cursor position in the most recently accessed scratch file, without switching focus.
-
-vendor: Hans van Dam
-downloads: 3
-pricingModel: FREE
-xmlId: com.copyhelper</description>
-      <pubDate>Wed, 08 Apr 2026 11:04:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31158-copy-to-scratch</guid>
-      <dc:date>2026-04-08T11:04:35Z</dc:date>
-    </item>
-    <item>
-      <title>Mermaid Studio Core - Wed Apr 08 11:19:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30883-mermaid-studio-core</link>
-      <description>Mermaid Studio Core provides rich language support for authoring Mermaid diagrams in your JetBrains IDE - free error detection, syntax highlighting, live preview, and...
-
-vendor: Tachi Labs
-downloads: 31
-pricingModel: FREEMIUM
-xmlId: dev.tachilabs.mermaidstudio.core</description>
-      <pubDate>Wed, 08 Apr 2026 11:19:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30883-mermaid-studio-core</guid>
-      <dc:date>2026-04-08T11:19:08Z</dc:date>
-    </item>
-    <item>
-      <title>DXF Viewer - Wed Apr 08 13:10:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31154-dxf-viewer</link>
-      <description>Open and navigate DXF (Drawing Exchange Format) CAD files inside IntelliJ IDEA. Adds code-folding gutter buttons that let you collapse and expand: Top-level DXF...
-
-vendor: Volodymyr Kret
-downloads: 11
-pricingModel: FREE
-xmlId: com.single.ton.dxf</description>
-      <pubDate>Wed, 08 Apr 2026 13:10:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31154-dxf-viewer</guid>
-      <dc:date>2026-04-08T13:10:32Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle Glimpse - Wed Apr 08 09:11:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31155-gradle-glimpse</link>
-      <description>A lifesaver for Flutter developers migrating to AGP 8 and 9. Updating the Android Gradle Plugin (AGP) in a mature Flutter project often breaks the build due to hidden...
-
-vendor: LazVaal
-downloads: 5
-pricingModel: FREE
-xmlId: com.lazvaal.gradleglimpse</description>
-      <pubDate>Wed, 08 Apr 2026 09:11:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31155-gradle-glimpse</guid>
-      <dc:date>2026-04-08T09:11:37Z</dc:date>
-    </item>
-    <item>
-      <title>opencode-web - Thu Apr 09 03:50:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31150-opencode-web</link>
-      <description>Plugin Description Note: This is an unofficial plugin for OpenCode, maintained by the community and not affiliated with OpenCode. Features Auto-start Service - Click...
-
-vendor: shenyuanlaolarou
-downloads: 11
-pricingModel: FREE
-xmlId: com.shenyuanlaolarou.opencodewebui</description>
-      <pubDate>Thu, 09 Apr 2026 03:50:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31150-opencode-web</guid>
-      <dc:date>2026-04-09T03:50:46Z</dc:date>
-    </item>
-    <item>
-      <title>Viv - Wed Apr 08 19:27:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31012-viv</link>
-      <description>Complete IDE support for Viv — a DSL for emergent narrative in games and simulations. The Viv JetBrains plugin is the recommended tool for Viv development, and it...
-
-vendor: Sifty
-downloads: 11
-pricingModel: FREE
-xmlId: studio.sifty.viv</description>
-      <pubDate>Wed, 08 Apr 2026 19:27:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31012-viv</guid>
-      <dc:date>2026-04-08T19:27:57Z</dc:date>
-    </item>
-    <item>
-      <title>i18n Agent - Mon Mar 09 18:35:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30584-i18n-agent</link>
-      <description>One-click localization for Android. Translate your strings.xml files without leaving Android Studio.
-
-vendor: FatCouple OÜ
-downloads: 1
-pricingModel: FREE
-xmlId: ai.i18nagent.plugin</description>
-      <pubDate>Mon, 09 Mar 2026 18:35:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30584-i18n-agent</guid>
-      <dc:date>2026-03-09T18:35:31Z</dc:date>
-    </item>
-    <item>
-      <title>Auto Merge &amp; Push - Wed Apr 08 03:38:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31143-auto-merge--push</link>
-      <description>Auto Merge &amp;amp; Push is a powerful Git workflow automation tool that helps developers handle synchronizations and Pull/Merge Requests seamlessly in one click...
-
-vendor: 武明阳
-downloads: 8
-pricingModel: FREE
-xmlId: com.bytedance.auto.merge.push.plugin</description>
-      <pubDate>Wed, 08 Apr 2026 03:38:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31143-auto-merge--push</guid>
-      <dc:date>2026-04-08T03:38:22Z</dc:date>
-    </item>
-    <item>
-      <title>File Marker - Tue Apr 07 18:20:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31137-file-marker</link>
-      <description>Mark and highlight files and directories in the Project View with colored badge overlays. Features Toggle file marks with a single action or keyboard shortcut...
-
-vendor: Sergei Boitsov
-downloads: 3
-pricingModel: FREE
-xmlId: dev.sergboec.projectTreeMarker</description>
-      <pubDate>Tue, 07 Apr 2026 18:20:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31137-file-marker</guid>
-      <dc:date>2026-04-07T18:20:30Z</dc:date>
-    </item>
-    <item>
-      <title>CLAW - Sugestoes Inline com IA Automatica - Wed Apr 08 16:26:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31144-claw--sugestoes-inline-com-ia-automatica</link>
-      <description>CLAW - Intelligent inline code suggestions powered by AI with support for Gemini, OpenAI, Claude and Local Models. Real-time suggestions integrated into your JetBrains...
-
-vendor: Rafael Batista
-downloads: 20
-pricingModel: FREE
-xmlId: com.clawrafaelia.suggestions</description>
-      <pubDate>Wed, 08 Apr 2026 16:26:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31144-claw--sugestoes-inline-com-ia-automatica</guid>
-      <dc:date>2026-04-08T16:26:09Z</dc:date>
-    </item>
-    <item>
-      <title>Angular/Nx Scaffolder - Tue Apr 07 20:36:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31141-angular-nx-scaffolder</link>
-      <description>Angular/Nx Scaffolder Stop burning AI tokens on boilerplate. This plugin generates production-ready Angular/Nx library scaffolding in seconds — with correct structure...
-
-vendor: dineeek
-downloads: 3
-pricingModel: FREE
-xmlId: com.ngscaffolder.ng-nx-scaffolder</description>
-      <pubDate>Tue, 07 Apr 2026 20:36:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31141-angular-nx-scaffolder</guid>
-      <dc:date>2026-04-07T20:36:34Z</dc:date>
     </item>
   </channel>
 </rss>

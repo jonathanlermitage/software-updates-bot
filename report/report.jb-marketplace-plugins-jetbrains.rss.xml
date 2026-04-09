@@ -5,5 +5,18 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>DFA Analysis - Thu Apr 09 13:29:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31184-dfa-analysis</link>
+      <description>Relational Dataflow Analysis engine. Contains RML DSL, RML-based analysis, Taint Analysis RML extension, IR serialization via protobuf and trace UI.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.dfa.analysis</description>
+      <pubDate>Thu, 09 Apr 2026 13:29:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31184-dfa-analysis</guid>
+      <dc:date>2026-04-09T13:29:10Z</dc:date>
+    </item>
   </channel>
 </rss>
