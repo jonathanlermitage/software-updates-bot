@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Fix Parser - Sat Apr 04 01:39:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31087-fix-parser</link>
+      <description>A lightweight FIX protocol message parser built into your IDE. Parse FIX messages by pasting text or loading from a local file Supports FIX 4.0 through 5.0 SP2...
+
+vendor: Fix Parser
+downloads: 1
+pricingModel: FREE
+xmlId: io.hermes.fix.fix-parser</description>
+      <pubDate>Sat, 04 Apr 2026 01:39:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31087-fix-parser</guid>
+      <dc:date>2026-04-04T01:39:26Z</dc:date>
+    </item>
+    <item>
+      <title>Database MCP Server - Sun Apr 05 20:23:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31107-database-mcp-server</link>
+      <description>English Database MCP Server helps you configure and run an embedded database MCP service in IntelliJ IDEA, with controllable SQL tools for AI assistants and MCP...
+
+vendor: 张红凯
+downloads: 1
+pricingModel: FREE
+xmlId: com.zhanghk.database-mcp-server</description>
+      <pubDate>Sun, 05 Apr 2026 20:23:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31107-database-mcp-server</guid>
+      <dc:date>2026-04-05T20:23:12Z</dc:date>
+    </item>
+    <item>
       <title>DevPulse - Developer Toolkit - Wed Apr 08 14:20:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31162-devpulse--developer-toolkit</link>
       <description>DevPulse is a single tool window that replaces scattered productivity tools for JetBrains IDEs. DevPulse - Developer Toolkit A single tool window that replaces...
 
 vendor: Devang Tailor
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.pulse.devpulse</description>
       <pubDate>Wed, 08 Apr 2026 14:20:04 GMT</pubDate>
@@ -24,7 +50,7 @@ xmlId: dev.pulse.devpulse</description>
       <description>Blazor Quick Switch Quickly switch between related Blazor component files using a single keyboard shortcut. Inspired by the popular Angular CLI QuickSwitch plugin...
 
 vendor: Eddie Endisch
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.xxeddiexxx.blazor-quick-switch</description>
       <pubDate>Wed, 08 Apr 2026 16:01:03 GMT</pubDate>
@@ -37,7 +63,7 @@ xmlId: com.github.xxeddiexxx.blazor-quick-switch</description>
       <description>Copies the current text selection and inserts it at the cursor position in the most recently accessed scratch file, without switching focus.
 
 vendor: Hans van Dam
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.copyhelper</description>
       <pubDate>Wed, 08 Apr 2026 11:04:35 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: com.copyhelper</description>
       <description>Mermaid Studio Core provides rich language support for authoring Mermaid diagrams in your JetBrains IDE - free error detection, syntax highlighting, live preview, and...
 
 vendor: Tachi Labs
-downloads: 4
+downloads: 31
 pricingModel: FREEMIUM
 xmlId: dev.tachilabs.mermaidstudio.core</description>
       <pubDate>Wed, 08 Apr 2026 11:19:08 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: dev.tachilabs.mermaidstudio.core</description>
       <description>Open and navigate DXF (Drawing Exchange Format) CAD files inside IntelliJ IDEA. Adds code-folding gutter buttons that let you collapse and expand: Top-level DXF...
 
 vendor: Volodymyr Kret
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.single.ton.dxf</description>
       <pubDate>Wed, 08 Apr 2026 13:10:32 GMT</pubDate>
@@ -76,7 +102,7 @@ xmlId: com.single.ton.dxf</description>
       <description>A lifesaver for Flutter developers migrating to AGP 8 and 9. Updating the Android Gradle Plugin (AGP) in a mature Flutter project often breaks the build due to hidden...
 
 vendor: LazVaal
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.lazvaal.gradleglimpse</description>
       <pubDate>Wed, 08 Apr 2026 09:11:37 GMT</pubDate>
@@ -89,7 +115,7 @@ xmlId: com.lazvaal.gradleglimpse</description>
       <description>Plugin Description Note: This is an unofficial plugin for OpenCode, maintained by the community and not affiliated with OpenCode. Features Auto-start Service - Click...
 
 vendor: shenyuanlaolarou
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.shenyuanlaolarou.opencodewebui</description>
       <pubDate>Thu, 09 Apr 2026 03:50:46 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: com.shenyuanlaolarou.opencodewebui</description>
       <description>Complete IDE support for Viv — a DSL for emergent narrative in games and simulations. The Viv JetBrains plugin is the recommended tool for Viv development, and it...
 
 vendor: Sifty
-downloads: 7
+downloads: 11
 pricingModel: FREE
 xmlId: studio.sifty.viv</description>
       <pubDate>Wed, 08 Apr 2026 19:27:57 GMT</pubDate>
@@ -128,7 +154,7 @@ xmlId: ai.i18nagent.plugin</description>
       <description>Auto Merge &amp;amp; Push is a powerful Git workflow automation tool that helps developers handle synchronizations and Pull/Merge Requests seamlessly in one click...
 
 vendor: 武明阳
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.bytedance.auto.merge.push.plugin</description>
       <pubDate>Wed, 08 Apr 2026 03:38:22 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: com.bytedance.auto.merge.push.plugin</description>
       <description>Mark and highlight files and directories in the Project View with colored badge overlays. Features Toggle file marks with a single action or keyboard shortcut...
 
 vendor: Sergei Boitsov
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: dev.sergboec.projectTreeMarker</description>
       <pubDate>Tue, 07 Apr 2026 18:20:30 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: dev.sergboec.projectTreeMarker</description>
       <description>CLAW - Intelligent inline code suggestions powered by AI with support for Gemini, OpenAI, Claude and Local Models. Real-time suggestions integrated into your JetBrains...
 
 vendor: Rafael Batista
-downloads: 0
+downloads: 20
 pricingModel: FREE
 xmlId: com.clawrafaelia.suggestions</description>
       <pubDate>Wed, 08 Apr 2026 16:26:09 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: com.clawrafaelia.suggestions</description>
       <description>Angular/Nx Scaffolder Stop burning AI tokens on boilerplate. This plugin generates production-ready Angular/Nx library scaffolding in seconds — with correct structure...
 
 vendor: dineeek
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.ngscaffolder.ng-nx-scaffolder</description>
       <pubDate>Tue, 07 Apr 2026 20:36:34 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: com.ngscaffolder.ng-nx-scaffolder</description>
       <description>Syntax highlighting and editor support for the Relux DSL (.relux files). Relux is a Rust-based integration test framework for controlling interactive shell programs...
 
 vendor: Denis Farr
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: eu.spawnlink.relux</description>
       <pubDate>Tue, 07 Apr 2026 19:34:11 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: eu.spawnlink.relux</description>
       <description>Provides database schema comparison across different instances. It helps developers identify differences between diferent environments, ensuring smooth deployments and...
 
 vendor: yamert89
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.yamert89.drift-locator</description>
       <pubDate>Tue, 07 Apr 2026 18:17:39 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: com.github.yamert89.drift-locator</description>
       <description>PocketMine-MP release manager: downloads the .phar file, extracts it via PHP CLI, then automatically registers it as a PhpStorm include path for autocompletion.
 
 vendor: PocketMine-Mp Version Manager
-downloads: 3
+downloads: 11
 pricingModel: FREE
 xmlId: com.royal.PocketMineAPI</description>
       <pubDate>Tue, 07 Apr 2026 23:44:42 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: com.royal.PocketMineAPI</description>
       <description>Provides IntelliJ IDEA support for the embabel-agent framework. Suppresses false "unused method" warnings on framework-invoked annotations: @Action, @Condition, @Cost.
 
 vendor: Embabel Pty Ltd
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.embabel.agent.intellij-plugin</description>
       <pubDate>Wed, 08 Apr 2026 00:13:58 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: com.embabel.agent.intellij-plugin</description>
       <description>AI Commit Helper Automatically generate Git commit messages using AI. Supports OpenAI, Anthropic, Gemini and custom providers with SSE streaming output. One-click...
 
 vendor: fangzc
-downloads: 0
+downloads: 46
 pricingModel: FREE
 xmlId: com.github.fangzc.ai-commit-message</description>
       <pubDate>Wed, 08 Apr 2026 15:48:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31136-ai-commit-helper</guid>
       <dc:date>2026-04-08T15:48:19Z</dc:date>
-    </item>
-    <item>
-      <title>Package Dependency Explorer - Wed Apr 08 08:08:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31126-package-dependency-explorer</link>
-      <description>Package Dependency Explorer for JetBrains Rider Visualize, search and navigate the complete NuGet dependency tree across your entire .NET solution. Package Dependency...
-
-vendor: sirius
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.package.dependency.explorer</description>
-      <pubDate>Wed, 08 Apr 2026 08:08:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31126-package-dependency-explorer</guid>
-      <dc:date>2026-04-08T08:08:11Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Code [Alt UI] - Tue Apr 07 15:04:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30819-claude-code-alt-ui-</link>
-      <description>In-Editor suggestions - as a replacement for diffs, fill free to partially accept and modify In-Editor feedback - just start typing when the caret is at the start of...
-
-vendor: Oleksii Volotskov Software Engineering
-downloads: 51
-pricingModel: FREE
-xmlId: com.seech.claude-code-alt-ui</description>
-      <pubDate>Tue, 07 Apr 2026 15:04:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30819-claude-code-alt-ui-</guid>
-      <dc:date>2026-04-07T15:04:16Z</dc:date>
     </item>
   </channel>
 </rss>
