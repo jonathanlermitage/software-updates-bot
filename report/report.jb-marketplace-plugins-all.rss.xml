@@ -6,7 +6,33 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>AntV Infographic Markdown Preview - Fri Apr 10 07:32:08 UTC 2026</title>
+      <title>DSM Language Support - Fri Apr 10 08:06:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31186-dsm-language-support</link>
+      <description>Official IntelliJ IDEA extension for the Digital Substrate Model (DSM) language The DSM extension provides comprehensive language support for .dsm files, including...
+
+vendor: Digital Substrate
+downloads: 0
+pricingModel: FREE
+xmlId: com.digitalsubstrate.dsm</description>
+      <pubDate>Fri, 10 Apr 2026 08:06:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31186-dsm-language-support</guid>
+      <dc:date>2026-04-10T08:06:06Z</dc:date>
+    </item>
+    <item>
+      <title>ConfigIQ Ops - Fri Apr 10 07:47:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31040-configiq-ops</link>
+      <description>ConfigIQ Ops is a narrow authoring assistant for Airflow DAG schedules and Kafka Connect configs. Validates Airflow schedule strings and previews the next runs. Flags...
+
+vendor: queukat
+downloads: 2
+pricingModel: FREE
+xmlId: com.configiq.airflowkconnect</description>
+      <pubDate>Fri, 10 Apr 2026 07:47:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31040-configiq-ops</guid>
+      <dc:date>2026-04-10T07:47:11Z</dc:date>
+    </item>
+    <item>
+      <title>AntV Infographic Markdown Preview - Fri Apr 10 10:47:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31195-antv-infographic-markdown-preview</link>
       <description>AntV Infographic Markdown Preview for JetBrains IDEs renders Infographic DSL in Markdown fenced code blocks and standalone .infographic files using @antv/infographic...
 
@@ -14,9 +40,9 @@ vendor: liushoukun
 downloads: 0
 pricingModel: FREE
 xmlId: com.liushoukun.jetbrains.antv-infographic</description>
-      <pubDate>Fri, 10 Apr 2026 07:32:08 GMT</pubDate>
+      <pubDate>Fri, 10 Apr 2026 10:47:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31195-antv-infographic-markdown-preview</guid>
-      <dc:date>2026-04-10T07:32:08Z</dc:date>
+      <dc:date>2026-04-10T10:47:02Z</dc:date>
     </item>
     <item>
       <title>Rails Sidenotes - Thu Apr 09 21:53:34 UTC 2026</title>
@@ -149,7 +175,7 @@ xmlId: com.logify.Logify</description>
       <dc:date>2026-04-09T17:51:20Z</dc:date>
     </item>
     <item>
-      <title>Obsidian Lens - Fri Apr 10 07:22:22 UTC 2026</title>
+      <title>Obsidian Lens - Fri Apr 10 08:59:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31182-obsidian-lens</link>
       <description>Bring your Obsidian vault into JetBrains IDEs. View, navigate, and link your notes without leaving the editor. Features Wiki-link rendering — [[Note|Alias]] folds...
 
@@ -157,9 +183,9 @@ vendor: Oleksandr Kharchenko
 downloads: 13
 pricingModel: FREE
 xmlId: dev.jarviis.obsidian.obsidian-lens</description>
-      <pubDate>Fri, 10 Apr 2026 07:22:22 GMT</pubDate>
+      <pubDate>Fri, 10 Apr 2026 08:59:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31182-obsidian-lens</guid>
-      <dc:date>2026-04-10T07:22:22Z</dc:date>
+      <dc:date>2026-04-10T08:59:00Z</dc:date>
     </item>
     <item>
       <title>Klib Lens - Wed Apr 08 07:31:45 UTC 2026</title>
@@ -227,7 +253,7 @@ xmlId: dev.karpfen.mcl</description>
       <dc:date>2026-04-09T12:04:06Z</dc:date>
     </item>
     <item>
-      <title>RestfulSearch - Thu Apr 09 07:54:13 UTC 2026</title>
+      <title>RestfulSearch - Fri Apr 10 09:13:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31175-restfulsearch</link>
       <description>Restful Search is a lightweight plugin designed for quick navigation of RESTful web services within IntelliJ IDEA. Core Features: Search for REST endpoints by URL path...
 
@@ -235,35 +261,9 @@ vendor: dute7liang
 downloads: 0
 pricingModel: FREE
 xmlId: com.dute7liang.restful.search</description>
-      <pubDate>Thu, 09 Apr 2026 07:54:13 GMT</pubDate>
+      <pubDate>Fri, 10 Apr 2026 09:13:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31175-restfulsearch</guid>
-      <dc:date>2026-04-09T07:54:13Z</dc:date>
-    </item>
-    <item>
-      <title>I18N Translate - Thu Apr 09 07:28:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31174-i18n-translate</link>
-      <description>I18N Translate Plugin Overview This IntelliJ IDEA plugin helps you manage and translate i18n files (properties, json, yaml/yml). Key features include: 1. Supports...
-
-vendor: xucux
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.xucux.I18nTranslate</description>
-      <pubDate>Thu, 09 Apr 2026 07:28:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31174-i18n-translate</guid>
-      <dc:date>2026-04-09T07:28:15Z</dc:date>
-    </item>
-    <item>
-      <title>ADB proxy - Thu Apr 09 15:38:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31173-adb-proxy</link>
-      <description>ProxyADB — Configure HTTP proxy on connected Android devices via ADB directly from Android Studio. Features: &#x1f50d; Auto-detects your local machine's IP address...
-
-vendor: Carvalho
-downloads: 19
-pricingModel: FREE
-xmlId: com.rcleandro.proxyadb</description>
-      <pubDate>Thu, 09 Apr 2026 15:38:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31173-adb-proxy</guid>
-      <dc:date>2026-04-09T15:38:58Z</dc:date>
+      <dc:date>2026-04-10T09:13:52Z</dc:date>
     </item>
   </channel>
 </rss>
