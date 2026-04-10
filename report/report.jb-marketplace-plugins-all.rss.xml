@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>HLSL Language Support - Wed Apr 01 02:21:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31032-hlsl-language-support</link>
+      <description>Syntax highlighting and DXC validation for HLSL (High Level Shading Language) files. Supports .hlsl, .hlsli, .fx, .fxh file extensions. Additional extensions (.vsh...
+
+vendor: DOCC
+downloads: 1
+pricingModel: FREE
+xmlId: com.hlsl.plugin</description>
+      <pubDate>Wed, 01 Apr 2026 02:21:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31032-hlsl-language-support</guid>
+      <dc:date>2026-04-01T02:21:21Z</dc:date>
+    </item>
+    <item>
+      <title>SnipHive - Thu Apr 09 19:08:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31189-sniphive</link>
+      <description>Access your SnipHive code snippets directly in your JetBrains IDE. Features: Tool window for browsing and searching snippets and notes Create snippets from selected...
+
+vendor: SnipHive
+downloads: 0
+pricingModel: FREE
+xmlId: com.sniphive.plugin</description>
+      <pubDate>Thu, 09 Apr 2026 19:08:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31189-sniphive</guid>
+      <dc:date>2026-04-09T19:08:27Z</dc:date>
+    </item>
+    <item>
+      <title>Logify - Thu Apr 09 17:51:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31188-logify</link>
+      <description>Logify — Smart Android logging assistant for Java &amp;amp; Kotlin. Live Templates logd, loge, logi, logw, logt — auto-fill ClassName#methodName tags in Java &amp;amp; Kotlin...
+
+vendor: Shakibaenur
+downloads: 0
+pricingModel: FREE
+xmlId: com.logify.Logify</description>
+      <pubDate>Thu, 09 Apr 2026 17:51:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31188-logify</guid>
+      <dc:date>2026-04-09T17:51:20Z</dc:date>
+    </item>
+    <item>
       <title>Obsidian Lens - Thu Apr 09 15:30:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31182-obsidian-lens</link>
       <description>Bring your Obsidian vault into JetBrains IDEs. View, navigate, and link your notes without leaving the editor. Features Wiki-link rendering — [[Note|Alias]] folds...
@@ -225,45 +264,6 @@ xmlId: com.github.quantumweb.edgejsjetbrains</description>
       <pubDate>Wed, 08 Apr 2026 15:14:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31167-edgejs</guid>
       <dc:date>2026-04-08T15:14:47Z</dc:date>
-    </item>
-    <item>
-      <title>Dev Bible - Wed Apr 08 15:01:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31166-dev-bible</link>
-      <description>This plugin provides Bible verses for Christian developers. O Dev Bible e um plugin que exibe versiculos biblicos para desenvolvedores cristaos. Ele mostra uma...
-
-vendor: Mateus Micael Coutinho
-downloads: 0
-pricingModel: FREE
-xmlId: com.devbible.plugin</description>
-      <pubDate>Wed, 08 Apr 2026 15:01:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31166-dev-bible</guid>
-      <dc:date>2026-04-08T15:01:54Z</dc:date>
-    </item>
-    <item>
-      <title>Switch2JoyCode - Wed Apr 08 14:45:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31164-switch2joycode</link>
-      <description>Switch2JoyCode is a JetBrains IDE plugin that enables seamless switching between IDE and JoyCode while maintaining precise cursor position. Forked from Switch2Cursor...
-
-vendor: wuquanda
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.wuquanda.switch2joycode</description>
-      <pubDate>Wed, 08 Apr 2026 14:45:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31164-switch2joycode</guid>
-      <dc:date>2026-04-08T14:45:41Z</dc:date>
-    </item>
-    <item>
-      <title>Fix Parser - Sat Apr 04 01:39:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31087-fix-parser</link>
-      <description>A lightweight FIX protocol message parser built into your IDE. Parse FIX messages by pasting text or loading from a local file Supports FIX 4.0 through 5.0 SP2...
-
-vendor: Fix Parser
-downloads: 1
-pricingModel: FREE
-xmlId: io.hermes.fix.fix-parser</description>
-      <pubDate>Sat, 04 Apr 2026 01:39:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31087-fix-parser</guid>
-      <dc:date>2026-04-04T01:39:26Z</dc:date>
     </item>
   </channel>
 </rss>
