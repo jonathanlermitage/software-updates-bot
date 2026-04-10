@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Aliyun Application Manager - Fri Apr 10 11:12:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31147-aliyun-application-manager</link>
+      <description>Aliyun Devbox Gateway Plugin - Connect to Aliyun Devbox instances via JetBrains IDE. Supports URI protocol activation for seamless remote development experience.
+
+vendor: 阿里云应用管理
+downloads: 1
+pricingModel: FREE
+xmlId: com.aliyun.devbox.gateway</description>
+      <pubDate>Fri, 10 Apr 2026 11:12:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31147-aliyun-application-manager</guid>
+      <dc:date>2026-04-10T11:12:13Z</dc:date>
+    </item>
+    <item>
+      <title>Config Mapping Navigator - Fri Apr 10 15:36:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31199-config-mapping-navigator</link>
+      <description>Navigate seamlessly between Quarkus @ConfigMapping interface methods and their corresponding property definitions â€” even when properties are outside...
+
+vendor: Zayd Amri
+downloads: 0
+pricingModel: FREE
+xmlId: com.zaydamri.confignavigator</description>
+      <pubDate>Fri, 10 Apr 2026 15:36:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31199-config-mapping-navigator</guid>
+      <dc:date>2026-04-10T15:36:05Z</dc:date>
+    </item>
+    <item>
+      <title>RESTful API Search - Fri Apr 10 16:13:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31200-restful-api-search</link>
+      <description>Search and navigate Spring REST API endpoints in your project. Use Ctrl+\ (Cmd+\ on Mac) to open the search popup.
+
+vendor: fangzc
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.restfulapisearch</description>
+      <pubDate>Fri, 10 Apr 2026 16:13:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31200-restful-api-search</guid>
+      <dc:date>2026-04-10T16:13:25Z</dc:date>
+    </item>
+    <item>
       <title>DSM Language Support - Fri Apr 10 08:06:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31186-dsm-language-support</link>
       <description>Official IntelliJ IDEA extension for the Digital Substrate Model (DSM) language The DSM extension provides comprehensive language support for .dsm files, including...
@@ -32,7 +71,7 @@ xmlId: com.configiq.airflowkconnect</description>
       <dc:date>2026-04-10T07:47:11Z</dc:date>
     </item>
     <item>
-      <title>AntV Infographic Markdown Preview - Fri Apr 10 10:47:02 UTC 2026</title>
+      <title>AntV Infographic Markdown Preview - Fri Apr 10 16:50:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31195-antv-infographic-markdown-preview</link>
       <description>English AntV Infographic Markdown Preview brings syntax highlighting and live Markdown preview for AntV Infographic to JetBrains IDEs. It supports fenced infographic...
 
@@ -40,9 +79,9 @@ vendor: liushoukun
 downloads: 0
 pricingModel: FREE
 xmlId: com.liushoukun.jetbrains.antv-infographic</description>
-      <pubDate>Fri, 10 Apr 2026 10:47:02 GMT</pubDate>
+      <pubDate>Fri, 10 Apr 2026 16:50:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31195-antv-infographic-markdown-preview</guid>
-      <dc:date>2026-04-10T10:47:02Z</dc:date>
+      <dc:date>2026-04-10T16:50:38Z</dc:date>
     </item>
     <item>
       <title>Rails Sidenotes - Thu Apr 09 21:53:34 UTC 2026</title>
@@ -175,7 +214,7 @@ xmlId: com.logify.Logify</description>
       <dc:date>2026-04-09T17:51:20Z</dc:date>
     </item>
     <item>
-      <title>Obsidian Lens - Fri Apr 10 08:59:00 UTC 2026</title>
+      <title>Obsidian Lens - Fri Apr 10 13:46:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31182-obsidian-lens</link>
       <description>Bring your Obsidian vault into JetBrains IDEs. View, navigate, and link your notes without leaving the editor. Features Wiki-link rendering — [[Note|Alias]] folds...
 
@@ -183,9 +222,9 @@ vendor: Oleksandr Kharchenko
 downloads: 13
 pricingModel: FREE
 xmlId: dev.jarviis.obsidian.obsidian-lens</description>
-      <pubDate>Fri, 10 Apr 2026 08:59:00 GMT</pubDate>
+      <pubDate>Fri, 10 Apr 2026 13:46:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31182-obsidian-lens</guid>
-      <dc:date>2026-04-10T08:59:00Z</dc:date>
+      <dc:date>2026-04-10T13:46:00Z</dc:date>
     </item>
     <item>
       <title>Klib Lens - Wed Apr 08 07:31:45 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: com.auracode.assistant</description>
       <pubDate>Mon, 06 Apr 2026 17:55:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31123-aura-code--codex-ai-assistant</guid>
       <dc:date>2026-04-06T17:55:04Z</dc:date>
-    </item>
-    <item>
-      <title>DFA Analysis - Thu Apr 09 13:29:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31184-dfa-analysis</link>
-      <description>Relational Dataflow Analysis engine. Contains RML DSL, RML-based analysis, Taint Analysis RML extension, IR serialization via protobuf and trace UI.
-
-vendor: JetBrains s.r.o.
-downloads: 2
-pricingModel: FREE
-xmlId: com.intellij.dfa.analysis</description>
-      <pubDate>Thu, 09 Apr 2026 13:29:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31184-dfa-analysis</guid>
-      <dc:date>2026-04-09T13:29:10Z</dc:date>
-    </item>
-    <item>
-      <title>MCL (mgmtconfig) LSP Support - Thu Apr 09 12:04:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31181-mcl-mgmtconfig-lsp-support</link>
-      <description>Provides IntelliJ support for MCL (mgmtconfig DSL) with Go LSP diagnostics and semantic highlighting, plus a local lexical highlighting fallback and Go-driven...
-
-vendor: karpfen
-downloads: 2
-pricingModel: FREE
-xmlId: dev.karpfen.mcl</description>
-      <pubDate>Thu, 09 Apr 2026 12:04:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31181-mcl-mgmtconfig-lsp-support</guid>
-      <dc:date>2026-04-09T12:04:06Z</dc:date>
-    </item>
-    <item>
-      <title>RestfulSearch - Fri Apr 10 09:13:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31175-restfulsearch</link>
-      <description>Restful Search is a lightweight plugin designed for quick navigation of RESTful web services within IntelliJ IDEA. Core Features: Search for REST endpoints by URL path...
-
-vendor: dute7liang
-downloads: 0
-pricingModel: FREE
-xmlId: com.dute7liang.restful.search</description>
-      <pubDate>Fri, 10 Apr 2026 09:13:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31175-restfulsearch</guid>
-      <dc:date>2026-04-10T09:13:52Z</dc:date>
     </item>
   </channel>
 </rss>
