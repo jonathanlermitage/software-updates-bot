@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Flink Reactor - Tue Apr 14 21:06:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31273-flink-reactor</link>
+      <description>Manage and monitor Apache Flink clusters from your IDE. Flink Reactor connects IntelliJ IDEA to your Apache Flink cluster, providing real-time visibility into jobs...
+
+vendor: Ahmed Elhossaini
+downloads: 0
+pricingModel: FREE
+xmlId: com.flinkreactor.plugin</description>
+      <pubDate>Tue, 14 Apr 2026 21:06:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31273-flink-reactor</guid>
+      <dc:date>2026-04-14T21:06:22Z</dc:date>
+    </item>
+    <item>
+      <title>WLZN Nacos Console - Wed Apr 15 03:17:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31278-wlzn-nacos-console</link>
+      <description>A Nacos configuration management plugin that automatically parses Spring Boot multi-profile YAML files, connects to Nacos servers, and provides an intuitive tool...
+
+vendor: HWL
+downloads: 0
+pricingModel: FREE
+xmlId: com.wlzn.nacos-console</description>
+      <pubDate>Wed, 15 Apr 2026 03:17:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31278-wlzn-nacos-console</guid>
+      <dc:date>2026-04-15T03:17:20Z</dc:date>
+    </item>
+    <item>
+      <title>SpeQA - Test Management System - Wed Apr 15 04:53:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31268-speqa--test-management-system</link>
+      <description>Manual test case management inside your IDE. Test cases are Markdown files stored in your project. Works offline, no external services, no vendor lock-in. Split...
+
+vendor: Siarhei Baradulia
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.barsia.speqa</description>
+      <pubDate>Wed, 15 Apr 2026 04:53:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31268-speqa--test-management-system</guid>
+      <dc:date>2026-04-15T04:53:35Z</dc:date>
+    </item>
+    <item>
+      <title>CodeSense AI - Wed Apr 15 03:33:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31277-codesense-ai</link>
+      <description>CodeSense AI is an intelligent code assistant plugin for IntelliJ IDEA, powered by large language models. CodeSense AI — 代码感知 AI 助手 IntelliJ IDEA 的智能代码助手插件，提供以下能力...
+
+vendor: chenp
+downloads: 0
+pricingModel: FREE
+xmlId: com.deeptek.ai.idea</description>
+      <pubDate>Wed, 15 Apr 2026 03:33:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31277-codesense-ai</guid>
+      <dc:date>2026-04-15T03:33:58Z</dc:date>
+    </item>
+    <item>
       <title>Lisette - Tue Apr 14 16:58:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31270-lisette</link>
       <description>Language support for Lisette in GoLand, IntelliJ IDEA Ultimate, and other LSP-capable JetBrains IDEs. Backed by the lis lsp language server. Requires the lis CLI to be...
@@ -17,6 +69,19 @@ xmlId: run.lisette.plugin</description>
       <pubDate>Tue, 14 Apr 2026 16:58:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31270-lisette</guid>
       <dc:date>2026-04-14T16:58:46Z</dc:date>
+    </item>
+    <item>
+      <title>SOPS Editor - Sun Apr 12 11:39:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31224-sops-editor</link>
+      <description>Edit SOPS-encrypted files directly in your JetBrains IDE. The plugin opens a split view with the decrypted content on one side and the raw ciphertext on the other, and...
+
+vendor: Lukas Ott
+downloads: 2
+pricingModel: FREE
+xmlId: dev.ott.sops-editor-plugin</description>
+      <pubDate>Sun, 12 Apr 2026 11:39:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31224-sops-editor</guid>
+      <dc:date>2026-04-12T11:39:28Z</dc:date>
     </item>
     <item>
       <title>UUID v7 Generator - Tue Apr 14 13:30:36 UTC 2026</title>
@@ -97,7 +162,7 @@ xmlId: co.anbora.labs.nuon</description>
       <dc:date>2026-04-13T03:39:31Z</dc:date>
     </item>
     <item>
-      <title>GALA - Tue Apr 14 06:49:47 UTC 2026</title>
+      <title>GALA - Wed Apr 15 06:35:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31256-gala</link>
       <description>IDE support for GALA — a modern functional language that transpiles to Go, combining Go's runtime and ecosystem with ideas from Scala and other ML-family languages...
 
@@ -105,9 +170,9 @@ vendor: GALA
 downloads: 5
 pricingModel: FREE
 xmlId: org.gala.lang</description>
-      <pubDate>Tue, 14 Apr 2026 06:49:47 GMT</pubDate>
+      <pubDate>Wed, 15 Apr 2026 06:35:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31256-gala</guid>
-      <dc:date>2026-04-14T06:49:47Z</dc:date>
+      <dc:date>2026-04-15T06:35:40Z</dc:date>
     </item>
     <item>
       <title>WLZN API SYNC - Tue Apr 14 08:20:26 UTC 2026</title>
@@ -199,71 +264,6 @@ xmlId: com.github.moseswynn.dbtToolkit</description>
       <pubDate>Mon, 13 Apr 2026 19:42:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31251-dbttoolkitcontinued</guid>
       <dc:date>2026-04-13T19:42:55Z</dc:date>
-    </item>
-    <item>
-      <title>Query History Enhancer - Mon Apr 13 19:14:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31250-query-history-enhancer</link>
-      <description>Enhances the built-in database console query history in DataGrip and IntelliJ IDEA Database Tools. Features: Timestamps — every executed query is recorded with the...
-
-vendor: Vasilii Chernov
-downloads: 5
-pricingModel: FREE
-xmlId: com.github.tjlee.queryhistoryenhancer</description>
-      <pubDate>Mon, 13 Apr 2026 19:14:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31250-query-history-enhancer</guid>
-      <dc:date>2026-04-13T19:14:39Z</dc:date>
-    </item>
-    <item>
-      <title>AI Test Case Generator - Mon Apr 13 22:52:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31249-ai-test-case-generator</link>
-      <description>AI Test Case Generator automatically writes JUnit 5 unit tests for your Java methods directly inside IntelliJ IDEA, eliminating the repetitive work of authoring test...
-
-vendor: aitestgen
-downloads: 9
-pricingModel: FREE
-xmlId: com.aitestgen.ai-test-generator</description>
-      <pubDate>Mon, 13 Apr 2026 22:52:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31249-ai-test-case-generator</guid>
-      <dc:date>2026-04-13T22:52:18Z</dc:date>
-    </item>
-    <item>
-      <title>Send to iTerm2 Claude Code - Mon Apr 13 15:54:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31248-send-to-iterm2-claude-code</link>
-      <description>Send to iTerm2 Claude Code Quickly send code references from IntelliJ IDEA to a Claude Code session running in iTerm2 on macOS. Features Select code in the editor and...
-
-vendor: xjetry
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.xjetry.sendtoiterm2</description>
-      <pubDate>Mon, 13 Apr 2026 15:54:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31248-send-to-iterm2-claude-code</guid>
-      <dc:date>2026-04-13T15:54:09Z</dc:date>
-    </item>
-    <item>
-      <title>Beetl - Mon Apr 13 14:52:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31246-beetl</link>
-      <description>Main Features of the Beetl Plugin Syntax Highlighting Syntax Checking&amp;gt; Format Property Tips Code Folding Image Special Notes The Beetl plugin automatically finds...
-
-vendor: trumansdo
-downloads: 2
-pricingModel: FREE
-xmlId: com.ibeetl.plugins</description>
-      <pubDate>Mon, 13 Apr 2026 14:52:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31246-beetl</guid>
-      <dc:date>2026-04-13T14:52:17Z</dc:date>
-    </item>
-    <item>
-      <title>sqz - Context Intelligence - Mon Apr 13 05:38:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31240-sqz--context-intelligence</link>
-      <description>sqz compresses file content sent to AI assistants, reducing token usage by 40-80%. Intercepts file reads and compresses them via the sqz CLI AST-based compression for...
-
-vendor: Ojus Chugh
-downloads: 1
-pricingModel: FREE
-xmlId: com.sqz.jetbrains-plugin</description>
-      <pubDate>Mon, 13 Apr 2026 05:38:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31240-sqz--context-intelligence</guid>
-      <dc:date>2026-04-13T05:38:40Z</dc:date>
     </item>
   </channel>
 </rss>
