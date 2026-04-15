@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1.1 (261.23567.28) ~ 2026-04-09|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Apr 10 00:12:39 UTC 2026|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1.1 (261.23567.71) ~ 2026-04-15|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Apr 15 16:19:04 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.4|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 07 20:09:54 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 07 20:09:53 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.2|[golang.org](https://golang.org/dl/)|Tue Apr 07 20:09:40 UTC 2026|

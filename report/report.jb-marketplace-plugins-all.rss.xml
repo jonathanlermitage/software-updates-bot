@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Copy Tab Path - Wed Apr 15 00:57:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31275-copy-tab-path</link>
+      <description>Option+Click (Mac) or Alt+Click (Windows/Linux) on an editor tab to copy the file's project-relative path to the clipboard.
+
+vendor: Neel Kirit
+downloads: 0
+pricingModel: FREE
+xmlId: com.neelkirit.copy-tab-path</description>
+      <pubDate>Wed, 15 Apr 2026 00:57:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31275-copy-tab-path</guid>
+      <dc:date>2026-04-15T00:57:10Z</dc:date>
+    </item>
+    <item>
+      <title>Git Changed Files - Wed Apr 15 00:55:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31274-git-changed-files</link>
+      <description>Lists all files changed in the current Git repository in a sidebar panel. Single-click any file to open it in the editor.
+
+vendor: Neel Kirit
+downloads: 0
+pricingModel: FREE
+xmlId: com.neelkirit.git-changed-files</description>
+      <pubDate>Wed, 15 Apr 2026 00:55:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31274-git-changed-files</guid>
+      <dc:date>2026-04-15T00:55:27Z</dc:date>
+    </item>
+    <item>
+      <title>betool - AI Code Assistant - Sat Apr 11 22:06:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31225-betool--ai-code-assistant</link>
+      <description>betool — AI-powered code assistant for JetBrains IDEs betool bridges your AI coding assistant with your IDE. It runs a local server that receives code modification...
+
+vendor: beTool IA
+downloads: 2
+pricingModel: FREE
+xmlId: com.betool.plugin</description>
+      <pubDate>Sat, 11 Apr 2026 22:06:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31225-betool--ai-code-assistant</guid>
+      <dc:date>2026-04-11T22:06:26Z</dc:date>
+    </item>
+    <item>
+      <title>Git Task Branch Mapper - Wed Apr 15 12:30:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31282-git-task-branch-mapper</link>
+      <description>Git Task Branch Mapper helps teams track requirement names and Git branches inside WebStorm. Search by requirement name or branch name Create mappings with the current...
+
+vendor: xianchenxy
+downloads: 0
+pricingModel: FREE
+xmlId: com.branchmapping.plugin</description>
+      <pubDate>Wed, 15 Apr 2026 12:30:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31282-git-task-branch-mapper</guid>
+      <dc:date>2026-04-15T12:30:08Z</dc:date>
+    </item>
+    <item>
+      <title>Livesport LLM - Wed Apr 15 08:09:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31264-livesport-llm</link>
+      <description>Shows LLM usage budget and remaining credits in the IDE toolbar. Fetches data from the internal LLM user dashboard.
+
+vendor: Marek Mencl
+downloads: 0
+pricingModel: FREE
+xmlId: eu.livesport.llm</description>
+      <pubDate>Wed, 15 Apr 2026 08:09:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31264-livesport-llm</guid>
+      <dc:date>2026-04-15T08:09:02Z</dc:date>
+    </item>
+    <item>
       <title>Flink Reactor - Tue Apr 14 21:06:22 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31273-flink-reactor</link>
       <description>Manage and monitor Apache Flink clusters from your IDE. Flink Reactor connects IntelliJ IDEA to your Apache Flink cluster, providing real-time visibility into jobs...
@@ -97,7 +162,7 @@ xmlId: by.bratukhin.uuidv7</description>
       <dc:date>2026-04-14T13:30:36Z</dc:date>
     </item>
     <item>
-      <title>Madock Integration - Sun Apr 12 19:09:41 UTC 2026</title>
+      <title>Madock Integration - Wed Apr 15 15:58:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31208-madock-integration</link>
       <description>Madock Integration is a JetBrains IDE plugin for Madock — a Docker-based development environment tool for web projects (PHP, Node.js, Python, Go, and more). The plugin...
 
@@ -105,9 +170,9 @@ vendor: faradey
 downloads: 5
 pricingModel: FREE
 xmlId: com.github.faradey.madockideaplugin</description>
-      <pubDate>Sun, 12 Apr 2026 19:09:41 GMT</pubDate>
+      <pubDate>Wed, 15 Apr 2026 15:58:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31208-madock-integration</guid>
-      <dc:date>2026-04-12T19:09:41Z</dc:date>
+      <dc:date>2026-04-15T15:58:04Z</dc:date>
     </item>
     <item>
       <title>CopyShortRevisionNumber - Tue Apr 14 13:46:35 UTC 2026</title>
@@ -199,71 +264,6 @@ xmlId: com.ji.aichat</description>
       <pubDate>Tue, 14 Apr 2026 08:23:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31258-ai-chat-assistant</guid>
       <dc:date>2026-04-14T08:23:39Z</dc:date>
-    </item>
-    <item>
-      <title>ConsoleMVC CvwSupport - Tue Apr 14 11:29:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31261-consolemvc-cvwsupport</link>
-      <description>Provides first-class IDE support for ConsoleMVC .cvw (Console View) files in JetBrains Rider. Features Syntax highlighting — directives (@model, @using) and full C...
-
-vendor: Mateusz Podeszwa
-downloads: 5
-pricingModel: FREE
-xmlId: com.github.mateuszpodeszwa.consolemvc.cvwsupport</description>
-      <pubDate>Tue, 14 Apr 2026 11:29:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31261-consolemvc-cvwsupport</guid>
-      <dc:date>2026-04-14T11:29:20Z</dc:date>
-    </item>
-    <item>
-      <title>WireGoblin Config - Tue Apr 14 09:33:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31259-wiregoblin-config</link>
-      <description>Adds WireGoblin configuration support in IntelliJ-based IDEs for wiregoblin.yaml files. Includes YAML-aware completion, validation and inspections, JSON Schema...
-
-vendor: Wiregoblin
-downloads: 5
-pricingModel: FREE
-xmlId: io.wiregoblin.plugin</description>
-      <pubDate>Tue, 14 Apr 2026 09:33:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31259-wiregoblin-config</guid>
-      <dc:date>2026-04-14T09:33:44Z</dc:date>
-    </item>
-    <item>
-      <title>EnvY - Tue Apr 14 10:41:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31217-envy</link>
-      <description>EnvY brings first-class .env file support to all JetBrains IDEs. Syntax highlighting, duplicate key detection with inline warnings, and a cross-environment diff tool...
-
-vendor: Hoteira
-downloads: 20
-pricingModel: FREEMIUM
-xmlId: com.envy.dotenv</description>
-      <pubDate>Tue, 14 Apr 2026 10:41:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31217-envy</guid>
-      <dc:date>2026-04-14T10:41:36Z</dc:date>
-    </item>
-    <item>
-      <title>SOPSie - Mon Apr 13 23:29:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31252-sopsie</link>
-      <description>Seamless SOPS (Secrets OPerationS) integration for JetBrains IDEs. Edit encrypted secrets directly in your IDE without leaving your workflow. Features Encrypt &amp;amp...
-
-vendor: JinxCappa
-downloads: 3
-pricingModel: FREE
-xmlId: com.sopsie.jetbrains</description>
-      <pubDate>Mon, 13 Apr 2026 23:29:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31252-sopsie</guid>
-      <dc:date>2026-04-13T23:29:22Z</dc:date>
-    </item>
-    <item>
-      <title>dbtToolkitContinued - Mon Apr 13 19:42:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31251-dbttoolkitcontinued</link>
-      <description>The dbt-toolkit is a plugin designed to enhance your experience working with dbt-core projects within JetBrains IDEs. It currently supports lineage rendering, dbt...
-
-vendor: moseswynn
-downloads: 8
-pricingModel: FREE
-xmlId: com.github.moseswynn.dbtToolkit</description>
-      <pubDate>Mon, 13 Apr 2026 19:42:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31251-dbttoolkitcontinued</guid>
-      <dc:date>2026-04-13T19:42:55Z</dc:date>
     </item>
   </channel>
 </rss>
