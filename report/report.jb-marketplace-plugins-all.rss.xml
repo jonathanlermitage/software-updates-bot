@@ -6,12 +6,77 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Lisette - Tue Apr 14 16:58:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31270-lisette</link>
+      <description>Language support for Lisette in GoLand, IntelliJ IDEA Ultimate, and other LSP-capable JetBrains IDEs. Backed by the lis lsp language server. Requires the lis CLI to be...
+
+vendor: ivov
+downloads: 0
+pricingModel: FREE
+xmlId: run.lisette.plugin</description>
+      <pubDate>Tue, 14 Apr 2026 16:58:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31270-lisette</guid>
+      <dc:date>2026-04-14T16:58:46Z</dc:date>
+    </item>
+    <item>
+      <title>UUID v7 Generator - Tue Apr 14 13:30:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31266-uuid-v7-generator</link>
+      <description>Generate a time-ordered UUID v7 directly in your editor. UUID v7 is a time-based unique identifier that is lexicographically sortable, making it ideal for database...
+
+vendor: Egor Bratukhin
+downloads: 0
+pricingModel: FREE
+xmlId: by.bratukhin.uuidv7</description>
+      <pubDate>Tue, 14 Apr 2026 13:30:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31266-uuid-v7-generator</guid>
+      <dc:date>2026-04-14T13:30:36Z</dc:date>
+    </item>
+    <item>
+      <title>Madock Integration - Sun Apr 12 19:09:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31208-madock-integration</link>
+      <description>Madock Integration is a JetBrains IDE plugin for Madock — a Docker-based development environment tool for web projects (PHP, Node.js, Python, Go, and more). The plugin...
+
+vendor: faradey
+downloads: 5
+pricingModel: FREE
+xmlId: com.github.faradey.madockideaplugin</description>
+      <pubDate>Sun, 12 Apr 2026 19:09:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31208-madock-integration</guid>
+      <dc:date>2026-04-12T19:09:41Z</dc:date>
+    </item>
+    <item>
+      <title>CopyShortRevisionNumber - Tue Apr 14 13:46:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31265-copyshortrevisionnumber</link>
+      <description>Adds a Copy Short Revision Number action to the Git Log context menu. It copies the abbreviated hash of the selected commit(s) to the clipboard, with a configurable...
+
+vendor: Koutaro Miura
+downloads: 0
+pricingModel: FREE
+xmlId: com.k.pmpstudy.CopyShortRevisionNumber</description>
+      <pubDate>Tue, 14 Apr 2026 13:46:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31265-copyshortrevisionnumber</guid>
+      <dc:date>2026-04-14T13:46:35Z</dc:date>
+    </item>
+    <item>
+      <title>Code Quality Assistant - Tue Apr 14 14:56:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31247-code-quality-assistant</link>
+      <description>Code Quality Assistant driven by AI, empowering TDD, first classs support for contract based testing.
+
+vendor: DTC ADA
+downloads: 1
+pricingModel: FREE
+xmlId: org.openprojectx.cqa</description>
+      <pubDate>Tue, 14 Apr 2026 14:56:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31247-code-quality-assistant</guid>
+      <dc:date>2026-04-14T14:56:15Z</dc:date>
+    </item>
+    <item>
       <title>GitLab MR - Tue Apr 14 03:45:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31253-gitlab-mr</link>
       <description>View and manage GitLab Merge Requests directly within IntelliJ IDEA. Supports listing, filtering, creating, merging, and closing MRs without leaving the IDE. 在...
 
 vendor: Nathan Ye
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.nathan.gitlabmr</description>
       <pubDate>Tue, 14 Apr 2026 03:45:24 GMT</pubDate>
@@ -37,7 +102,7 @@ xmlId: co.anbora.labs.nuon</description>
       <description>IDE support for GALA — a modern functional language that transpiles to Go, combining Go's runtime and ecosystem with ideas from Scala and other ML-family languages...
 
 vendor: GALA
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: org.gala.lang</description>
       <pubDate>Tue, 14 Apr 2026 06:49:47 GMT</pubDate>
@@ -50,7 +115,7 @@ xmlId: org.gala.lang</description>
       <description>Torna API Sync - Spring MVC API documentation push tool. 将 Spring MVC 接口定义一键同步到 Torna 接口文档平台。 功能特性： - 自动解析 Controller 方法的请求参数、返回值、注解描述等元数据 - 一键推送接口文档到 Torna 平台，支持覆盖更新...
 
 vendor: HWL
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.hwl.syncApi</description>
       <pubDate>Tue, 14 Apr 2026 08:20:26 GMT</pubDate>
@@ -63,7 +128,7 @@ xmlId: com.hwl.syncApi</description>
       <description>An AI-powered chat assistant for PyCharm. Ask questions about your code and get instant answers.
 
 vendor: liuhaiyun5522
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.ji.aichat</description>
       <pubDate>Tue, 14 Apr 2026 08:23:39 GMT</pubDate>
@@ -76,7 +141,7 @@ xmlId: com.ji.aichat</description>
       <description>Provides first-class IDE support for ConsoleMVC .cvw (Console View) files in JetBrains Rider. Features Syntax highlighting — directives (@model, @using) and full C...
 
 vendor: Mateusz Podeszwa
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.mateuszpodeszwa.consolemvc.cvwsupport</description>
       <pubDate>Tue, 14 Apr 2026 11:29:20 GMT</pubDate>
@@ -89,7 +154,7 @@ xmlId: com.github.mateuszpodeszwa.consolemvc.cvwsupport</description>
       <description>Adds WireGoblin configuration support in IntelliJ-based IDEs for wiregoblin.yaml files. Includes YAML-aware completion, validation and inspections, JSON Schema...
 
 vendor: Wiregoblin
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: io.wiregoblin.plugin</description>
       <pubDate>Tue, 14 Apr 2026 09:33:44 GMT</pubDate>
@@ -102,7 +167,7 @@ xmlId: io.wiregoblin.plugin</description>
       <description>EnvY brings first-class .env file support to all JetBrains IDEs. Syntax highlighting, duplicate key detection with inline warnings, and a cross-environment diff tool...
 
 vendor: Hoteira
-downloads: 5
+downloads: 20
 pricingModel: FREEMIUM
 xmlId: com.envy.dotenv</description>
       <pubDate>Tue, 14 Apr 2026 10:41:36 GMT</pubDate>
@@ -115,7 +180,7 @@ xmlId: com.envy.dotenv</description>
       <description>Seamless SOPS (Secrets OPerationS) integration for JetBrains IDEs. Edit encrypted secrets directly in your IDE without leaving your workflow. Features Encrypt &amp;amp...
 
 vendor: JinxCappa
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.sopsie.jetbrains</description>
       <pubDate>Mon, 13 Apr 2026 23:29:22 GMT</pubDate>
@@ -128,7 +193,7 @@ xmlId: com.sopsie.jetbrains</description>
       <description>The dbt-toolkit is a plugin designed to enhance your experience working with dbt-core projects within JetBrains IDEs. It currently supports lineage rendering, dbt...
 
 vendor: moseswynn
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.moseswynn.dbtToolkit</description>
       <pubDate>Mon, 13 Apr 2026 19:42:55 GMT</pubDate>
@@ -141,7 +206,7 @@ xmlId: com.github.moseswynn.dbtToolkit</description>
       <description>Enhances the built-in database console query history in DataGrip and IntelliJ IDEA Database Tools. Features: Timestamps — every executed query is recorded with the...
 
 vendor: Vasilii Chernov
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.tjlee.queryhistoryenhancer</description>
       <pubDate>Mon, 13 Apr 2026 19:14:39 GMT</pubDate>
@@ -154,7 +219,7 @@ xmlId: com.github.tjlee.queryhistoryenhancer</description>
       <description>AI Test Case Generator automatically writes JUnit 5 unit tests for your Java methods directly inside IntelliJ IDEA, eliminating the repetitive work of authoring test...
 
 vendor: aitestgen
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: com.aitestgen.ai-test-generator</description>
       <pubDate>Mon, 13 Apr 2026 22:52:18 GMT</pubDate>
@@ -167,7 +232,7 @@ xmlId: com.aitestgen.ai-test-generator</description>
       <description>Send to iTerm2 Claude Code Quickly send code references from IntelliJ IDEA to a Claude Code session running in iTerm2 on macOS. Features Select code in the editor and...
 
 vendor: xjetry
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.xjetry.sendtoiterm2</description>
       <pubDate>Mon, 13 Apr 2026 15:54:09 GMT</pubDate>
@@ -180,7 +245,7 @@ xmlId: io.github.xjetry.sendtoiterm2</description>
       <description>Main Features of the Beetl Plugin Syntax Highlighting Syntax Checking&amp;gt; Format Property Tips Code Folding Image Special Notes The Beetl plugin automatically finds...
 
 vendor: trumansdo
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.ibeetl.plugins</description>
       <pubDate>Mon, 13 Apr 2026 14:52:17 GMT</pubDate>
@@ -193,77 +258,12 @@ xmlId: com.ibeetl.plugins</description>
       <description>sqz compresses file content sent to AI assistants, reducing token usage by 40-80%. Intercepts file reads and compresses them via the sqz CLI AST-based compression for...
 
 vendor: Ojus Chugh
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.sqz.jetbrains-plugin</description>
       <pubDate>Mon, 13 Apr 2026 05:38:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31240-sqz--context-intelligence</guid>
       <dc:date>2026-04-13T05:38:40Z</dc:date>
-    </item>
-    <item>
-      <title>Artemis II Progress Bar - Mon Apr 13 01:14:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31235-artemis-ii-progress-bar</link>
-      <description>Replaces IntelliJ's progress bar with a pixel-art Artemis II SLS rocket traveling through space toward the Moon. Determinate mode: the rocket travels left to right...
-
-vendor: devbyaction
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.avoro.artemisiiprogressbar</description>
-      <pubDate>Mon, 13 Apr 2026 01:14:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31235-artemis-ii-progress-bar</guid>
-      <dc:date>2026-04-13T01:14:51Z</dc:date>
-    </item>
-    <item>
-      <title>SQL to Java - Sun Apr 12 21:29:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31203-sql-to-java</link>
-      <description>SQL to Java DTO Generator Automatically generates Java DTO classes from SQL CREATE TABLE statements. Features Paste SQL and instantly get Java classes with fields...
-
-vendor: Huzefa Adil
-downloads: 6
-pricingModel: FREE
-xmlId: no.huzef.blackhole.sql-to-java</description>
-      <pubDate>Sun, 12 Apr 2026 21:29:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31203-sql-to-java</guid>
-      <dc:date>2026-04-12T21:29:10Z</dc:date>
-    </item>
-    <item>
-      <title>QOI Image Support - Sun Apr 12 13:50:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31201-qoi-image-support</link>
-      <description>Adds QOI (Quite OK Image) format support to IntelliJ-based IDEs. Once installed, .qoi files are displayed in the built-in image viewer with full support for zooming...
-
-vendor: mububoki
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.mububoki.qoi-spi</description>
-      <pubDate>Sun, 12 Apr 2026 13:50:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31201-qoi-image-support</guid>
-      <dc:date>2026-04-12T13:50:56Z</dc:date>
-    </item>
-    <item>
-      <title>Rainbow Color Scheme - Sun Apr 12 12:56:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31230-rainbow-color-scheme</link>
-      <description>Rainbow colors in your IntelliJ IDEA, ready to use as a plugin. This color scheme is based on the default "Dark" scheme, so it is recommended to use a dark mode theme...
-
-vendor: mszczepk
-downloads: 1
-pricingModel: FREE
-xmlId: mszczepk.rainbowcolorscheme</description>
-      <pubDate>Sun, 12 Apr 2026 12:56:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31230-rainbow-color-scheme</guid>
-      <dc:date>2026-04-12T12:56:37Z</dc:date>
-    </item>
-    <item>
-      <title>Goodboy - Sun Apr 12 11:13:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31229-goodboy</link>
-      <description>Goodboy - Animated companion that follows you across your editor, and helps you understand and edit your code appropriately when you've got problems, while keeping you...
-
-vendor: z4na14
-downloads: 1
-pricingModel: FREE
-xmlId: com.gul.goodboy</description>
-      <pubDate>Sun, 12 Apr 2026 11:13:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31229-goodboy</guid>
-      <dc:date>2026-04-12T11:13:32Z</dc:date>
     </item>
   </channel>
 </rss>
