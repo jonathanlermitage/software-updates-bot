@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>PxPeek - CSS Pixel Hints - Wed Apr 15 20:01:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31286-pxpeek--css-pixel-hints</link>
+      <description>Shows the pixel equivalent of relative CSS size values inline, as comment-style inlay hints. Supports CSS, SCSS, SASS, and LESS. Example: width: 42rem /*672px...
+
+vendor: Stian Larsen
+downloads: 0
+pricingModel: FREE
+xmlId: dev.stianl.pxpeek</description>
+      <pubDate>Wed, 15 Apr 2026 20:01:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31286-pxpeek--css-pixel-hints</guid>
+      <dc:date>2026-04-15T20:01:38Z</dc:date>
+    </item>
+    <item>
       <title>Copy Tab Path - Wed Apr 15 00:57:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31275-copy-tab-path</link>
       <description>Option+Click (Mac) or Alt+Click (Windows/Linux) on an editor tab to copy the file's project-relative path to the clipboard.
 
 vendor: Neel Kirit
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.neelkirit.copy-tab-path</description>
       <pubDate>Wed, 15 Apr 2026 00:57:10 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: com.neelkirit.copy-tab-path</description>
       <description>Lists all files changed in the current Git repository in a sidebar panel. Single-click any file to open it in the editor.
 
 vendor: Neel Kirit
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.neelkirit.git-changed-files</description>
       <pubDate>Wed, 15 Apr 2026 00:55:27 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.betool.plugin</description>
       <description>Git Task Branch Mapper helps teams track requirement names and Git branches inside WebStorm. Search by requirement name or branch name Create mappings with the current...
 
 vendor: xianchenxy
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.branchmapping.plugin</description>
       <pubDate>Wed, 15 Apr 2026 12:30:08 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.branchmapping.plugin</description>
       <description>Shows LLM usage budget and remaining credits in the IDE toolbar. Fetches data from the internal LLM user dashboard.
 
 vendor: Marek Mencl
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: eu.livesport.llm</description>
       <pubDate>Wed, 15 Apr 2026 08:09:02 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: eu.livesport.llm</description>
       <description>Manage and monitor Apache Flink clusters from your IDE. Flink Reactor connects IntelliJ IDEA to your Apache Flink cluster, providing real-time visibility into jobs...
 
 vendor: Ahmed Elhossaini
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.flinkreactor.plugin</description>
       <pubDate>Tue, 14 Apr 2026 21:06:22 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.flinkreactor.plugin</description>
       <description>A Nacos configuration management plugin that automatically parses Spring Boot multi-profile YAML files, connects to Nacos servers, and provides an intuitive tool...
 
 vendor: HWL
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.wlzn.nacos-console</description>
       <pubDate>Wed, 15 Apr 2026 03:17:20 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: com.wlzn.nacos-console</description>
       <description>Manual test case management inside your IDE. Test cases are Markdown files stored in your project. Works offline, no external services, no vendor lock-in. Split...
 
 vendor: Siarhei Baradulia
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.barsia.speqa</description>
       <pubDate>Wed, 15 Apr 2026 04:53:35 GMT</pubDate>
@@ -110,17 +123,17 @@ xmlId: io.github.barsia.speqa</description>
       <dc:date>2026-04-15T04:53:35Z</dc:date>
     </item>
     <item>
-      <title>CodeSense AI - Wed Apr 15 03:33:58 UTC 2026</title>
+      <title>CodeSense AI - Thu Apr 16 08:05:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31277-codesense-ai</link>
       <description>CodeSense AI is an intelligent code assistant plugin for IntelliJ IDEA, powered by large language models. CodeSense AI — 代码感知 AI 助手 IntelliJ IDEA 的智能代码助手插件，提供以下能力...
 
 vendor: chenp
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.deeptek.ai.idea</description>
-      <pubDate>Wed, 15 Apr 2026 03:33:58 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 08:05:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31277-codesense-ai</guid>
-      <dc:date>2026-04-15T03:33:58Z</dc:date>
+      <dc:date>2026-04-16T08:05:20Z</dc:date>
     </item>
     <item>
       <title>Lisette - Tue Apr 14 16:58:46 UTC 2026</title>
@@ -128,7 +141,7 @@ xmlId: com.deeptek.ai.idea</description>
       <description>Language support for Lisette in GoLand, IntelliJ IDEA Ultimate, and other LSP-capable JetBrains IDEs. Backed by the lis lsp language server. Requires the lis CLI to be...
 
 vendor: ivov
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: run.lisette.plugin</description>
       <pubDate>Tue, 14 Apr 2026 16:58:46 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: run.lisette.plugin</description>
       <description>Edit SOPS-encrypted files directly in your JetBrains IDE. The plugin opens a split view with the decrypted content on one side and the raw ciphertext on the other, and...
 
 vendor: Lukas Ott
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: dev.ott.sops-editor-plugin</description>
       <pubDate>Sun, 12 Apr 2026 11:39:28 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: dev.ott.sops-editor-plugin</description>
       <description>Generate a time-ordered UUID v7 directly in your editor. UUID v7 is a time-based unique identifier that is lexicographically sortable, making it ideal for database...
 
 vendor: Egor Bratukhin
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: by.bratukhin.uuidv7</description>
       <pubDate>Tue, 14 Apr 2026 13:30:36 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: by.bratukhin.uuidv7</description>
       <description>Madock Integration is a JetBrains IDE plugin for Madock — a Docker-based development environment tool for web projects (PHP, Node.js, Python, Go, and more). The plugin...
 
 vendor: faradey
-downloads: 5
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.faradey.madockideaplugin</description>
       <pubDate>Wed, 15 Apr 2026 15:58:04 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.github.faradey.madockideaplugin</description>
       <description>Adds a Copy Short Revision Number action to the Git Log context menu. It copies the abbreviated hash of the selected commit(s) to the clipboard, with a configurable...
 
 vendor: Koutaro Miura
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.k.pmpstudy.CopyShortRevisionNumber</description>
       <pubDate>Tue, 14 Apr 2026 13:46:35 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.k.pmpstudy.CopyShortRevisionNumber</description>
       <description>Code Quality Assistant driven by AI, empowering TDD, first classs support for contract based testing.
 
 vendor: DTC ADA
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: org.openprojectx.cqa</description>
       <pubDate>Thu, 16 Apr 2026 00:38:48 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: org.openprojectx.cqa</description>
       <description>View and manage GitLab Merge Requests directly within IntelliJ IDEA. Supports listing, filtering, creating, merging, and closing MRs without leaving the IDE. 在...
 
 vendor: Nathan Ye
-downloads: 4
+downloads: 11
 pricingModel: FREE
 xmlId: com.nathan.gitlabmr</description>
       <pubDate>Tue, 14 Apr 2026 03:45:24 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.nathan.gitlabmr</description>
       <description>Provides support for NUON (Nushell Object Notation) files. Features: Syntax highlighting Code formatting Brace matching Commenter support.
 
 vendor: Anbora Labs
-downloads: 2
+downloads: 4
 pricingModel: PAID
 xmlId: co.anbora.labs.nuon</description>
       <pubDate>Mon, 13 Apr 2026 03:39:31 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: co.anbora.labs.nuon</description>
       <description>IDE support for GALA — a modern functional language that transpiles to Go, combining Go's runtime and ecosystem with ideas from Scala and other ML-family languages...
 
 vendor: GALA
-downloads: 5
+downloads: 9
 pricingModel: FREE
 xmlId: org.gala.lang</description>
       <pubDate>Wed, 15 Apr 2026 06:35:40 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: org.gala.lang</description>
       <description>Torna API Sync - Spring MVC API documentation push tool. 将 Spring MVC 接口定义一键同步到 Torna 接口文档平台。 功能特性： - 自动解析 Controller 方法的请求参数、返回值、注解描述等元数据 - 一键推送接口文档到 Torna 平台，支持覆盖更新...
 
 vendor: HWL
-downloads: 6
+downloads: 11
 pricingModel: FREE
 xmlId: com.hwl.syncApi</description>
       <pubDate>Tue, 14 Apr 2026 08:20:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31257-wlzn-api-sync</guid>
       <dc:date>2026-04-14T08:20:26Z</dc:date>
-    </item>
-    <item>
-      <title>AI Chat Assistant - Tue Apr 14 08:23:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31258-ai-chat-assistant</link>
-      <description>An AI-powered chat assistant for PyCharm. Ask questions about your code and get instant answers.
-
-vendor: liuhaiyun5522
-downloads: 3
-pricingModel: FREE
-xmlId: com.ji.aichat</description>
-      <pubDate>Tue, 14 Apr 2026 08:23:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31258-ai-chat-assistant</guid>
-      <dc:date>2026-04-14T08:23:39Z</dc:date>
     </item>
   </channel>
 </rss>
