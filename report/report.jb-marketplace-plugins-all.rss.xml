@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AI String Translator for Android - Thu Apr 16 11:39:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31281-ai-string-translator-for-android</link>
+      <description>AI-powered translation tool for Android strings.xml with editable preview, multi-language support, and safe merging. Boost your localization workflow directly inside...
+
+vendor: codemagic
+downloads: 0
+pricingModel: FREE
+xmlId: com.translatewand.translate-string-xml</description>
+      <pubDate>Thu, 16 Apr 2026 11:39:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31281-ai-string-translator-for-android</guid>
+      <dc:date>2026-04-16T11:39:53Z</dc:date>
+    </item>
+    <item>
+      <title>SmartTodo - Thu Apr 16 13:52:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31245-smarttodo</link>
+      <description>Auto-detect, categorize and manage structured TODO comments in Python projects.
+
+vendor: Hus Plugins
+downloads: 1
+pricingModel: FREE
+xmlId: com.smarttodo.plugin</description>
+      <pubDate>Thu, 16 Apr 2026 13:52:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31245-smarttodo</guid>
+      <dc:date>2026-04-16T13:52:08Z</dc:date>
+    </item>
+    <item>
       <title>Claude Code (Side-Panel) - Wed Apr 15 22:53:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31289-claude-code-side-panel-</link>
       <description>IMPORTANT: This plugin requires Claude Code to be installed separately. For more information, see claude.com/claude-code. Claude Code in side-panel with multi-tab...
@@ -162,7 +188,7 @@ xmlId: com.betool.plugin</description>
       <dc:date>2026-04-11T22:06:26Z</dc:date>
     </item>
     <item>
-      <title>Git Task Branch Mapper - Wed Apr 15 12:30:08 UTC 2026</title>
+      <title>Git Task Branch Mapper - Thu Apr 16 14:51:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31282-git-task-branch-mapper</link>
       <description>Git Task Branch Mapper helps teams track requirement names and Git branches inside WebStorm. Search by requirement name or branch name Create mappings with the current...
 
@@ -170,9 +196,9 @@ vendor: xianchenxy
 downloads: 2
 pricingModel: FREE
 xmlId: com.branchmapping.plugin</description>
-      <pubDate>Wed, 15 Apr 2026 12:30:08 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 14:51:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31282-git-task-branch-mapper</guid>
-      <dc:date>2026-04-15T12:30:08Z</dc:date>
+      <dc:date>2026-04-16T14:51:12Z</dc:date>
     </item>
     <item>
       <title>Livesport LLM - Wed Apr 15 08:09:02 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.deeptek.ai.idea</description>
       <pubDate>Thu, 16 Apr 2026 08:05:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31277-codesense-ai</guid>
       <dc:date>2026-04-16T08:05:20Z</dc:date>
-    </item>
-    <item>
-      <title>Lisette - Tue Apr 14 16:58:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31270-lisette</link>
-      <description>Language support for Lisette in GoLand, IntelliJ IDEA Ultimate, and other LSP-capable JetBrains IDEs. Backed by the lis lsp language server. Requires the lis CLI to be...
-
-vendor: ivov
-downloads: 5
-pricingModel: FREE
-xmlId: run.lisette.plugin</description>
-      <pubDate>Tue, 14 Apr 2026 16:58:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31270-lisette</guid>
-      <dc:date>2026-04-14T16:58:46Z</dc:date>
-    </item>
-    <item>
-      <title>SOPS Editor - Sun Apr 12 11:39:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31224-sops-editor</link>
-      <description>Edit SOPS-encrypted files directly in your JetBrains IDE. The plugin opens a split view with the decrypted content on one side and the raw ciphertext on the other, and...
-
-vendor: Lukas Ott
-downloads: 3
-pricingModel: FREE
-xmlId: dev.ott.sops-editor-plugin</description>
-      <pubDate>Sun, 12 Apr 2026 11:39:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31224-sops-editor</guid>
-      <dc:date>2026-04-12T11:39:28Z</dc:date>
     </item>
   </channel>
 </rss>
