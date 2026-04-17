@@ -6,12 +6,207 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MeterSphere-patch - Fri Apr 17 06:15:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31317-metersphere-patch</link>
+      <description>MeterSphere is a next-generation testing management and API testing tool that simplifies and enhances software testing, eliminating it as a bottleneck in continuous...
+
+vendor: MeterSphere (patch)
+downloads: 0
+pricingModel: FREE
+xmlId: io.metersphere.idea.plugin.patch</description>
+      <pubDate>Fri, 17 Apr 2026 06:15:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31317-metersphere-patch</guid>
+      <dc:date>2026-04-17T06:15:11Z</dc:date>
+    </item>
+    <item>
+      <title>DTA - Development Tools for Android - Fri Apr 17 06:03:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31236-dta--development-tools-for-android</link>
+      <description>AI-powered Android development tools with layout inspection, network capture, and MCP integration.
+
+vendor: Sergey Yamshchikov
+downloads: 13
+pricingModel: FREE
+xmlId: io.yamsergey.dta</description>
+      <pubDate>Fri, 17 Apr 2026 06:03:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31236-dta--development-tools-for-android</guid>
+      <dc:date>2026-04-17T06:03:04Z</dc:date>
+    </item>
+    <item>
+      <title>CodeWhere - Fri Apr 17 04:24:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31314-codewhere</link>
+      <description>Deterministic, local editor-context capture for IntelliJ-based IDEs.
+
+vendor: CodeWhere
+downloads: 0
+pricingModel: FREE
+xmlId: com.hezhe.codewhere.jetbrains</description>
+      <pubDate>Fri, 17 Apr 2026 04:24:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31314-codewhere</guid>
+      <dc:date>2026-04-17T04:24:44Z</dc:date>
+    </item>
+    <item>
+      <title>Markdown Plus - Fri Apr 17 04:17:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31302-markdown-plus</link>
+      <description>Markdown Plus provides a stable, low-latency split editing and preview experience for Markdown in IntelliJ-based IDEs. Markdown Plus 为 IntelliJ 平台提供稳定、低延迟的 Markdown...
+
+vendor: Markdown Plus
+downloads: 0
+pricingModel: FREE
+xmlId: com.xiaomi.mg.markdown-plus</description>
+      <pubDate>Fri, 17 Apr 2026 04:17:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31302-markdown-plus</guid>
+      <dc:date>2026-04-17T04:17:58Z</dc:date>
+    </item>
+    <item>
+      <title>Favorite Files - Fri Apr 17 02:03:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31313-favorite-files</link>
+      <description>Mark files as favorites via the editor tab right-click menu. Favorite files appear in a sidebar panel and persist across IDE restarts.
+
+vendor: Neel Kirit
+downloads: 0
+pricingModel: FREE
+xmlId: com.neelkirit.favorite-files</description>
+      <pubDate>Fri, 17 Apr 2026 02:03:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31313-favorite-files</guid>
+      <dc:date>2026-04-17T02:03:58Z</dc:date>
+    </item>
+    <item>
+      <title>CustomHighlights - Thu Apr 16 23:40:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31311-customhighlights</link>
+      <description>A simple plugin that adds more precise syntax highlighting settings.
+
+vendor: Zachary Gurion
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.zacharygurion.customhighlights.CustomHighlights</description>
+      <pubDate>Thu, 16 Apr 2026 23:40:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31311-customhighlights</guid>
+      <dc:date>2026-04-16T23:40:10Z</dc:date>
+    </item>
+    <item>
+      <title>typst-renderer - Thu Apr 16 21:35:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31308-typst-renderer</link>
+      <description>Typst support for IntelliJ-based IDEs — edit, preview, and compile Typst documents without leaving your IDE. Features Syntax highlighting and comment toggling (Ctrl...
+
+vendor: pndv
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.pndv.typstrenderer</description>
+      <pubDate>Thu, 16 Apr 2026 21:35:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31308-typst-renderer</guid>
+      <dc:date>2026-04-16T21:35:46Z</dc:date>
+    </item>
+    <item>
+      <title>Codex in Terminal - Thu Apr 16 21:16:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31307-codex-in-terminal</link>
+      <description>Share editor selections with the codex CLI in one keystroke. The core feature: select any code in the editor, press a shortcut, and a precise file + line-range...
+
+vendor: Oleh Khomyk
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.codexjb</description>
+      <pubDate>Thu, 16 Apr 2026 21:16:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31307-codex-in-terminal</guid>
+      <dc:date>2026-04-16T21:16:14Z</dc:date>
+    </item>
+    <item>
+      <title>Multi Relative Path - Thu Apr 16 19:44:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31301-multi-relative-path</link>
+      <description>Multi Relative Path is a plugin for JetBrains IDEs that allows copying file paths relative to multiple configurable parent directories. This is useful for projects...
+
+vendor: DrSiroukane
+downloads: 0
+pricingModel: FREE
+xmlId: com.drsiroukane.plugins.multirelativepath</description>
+      <pubDate>Thu, 16 Apr 2026 19:44:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31301-multi-relative-path</guid>
+      <dc:date>2026-04-16T19:44:02Z</dc:date>
+    </item>
+    <item>
+      <title>GitPrefixCommitter - Thu Apr 16 16:00:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31284-gitprefixcommitter</link>
+      <description>Git Prefix Committer A simple tool to generate Git commands with a customizable prefix directly from the Commit tool window. Generate git add and git commit commands...
+
+vendor: iOLO
+downloads: 14
+pricingModel: FREE
+xmlId: com.iolo.gitprefix</description>
+      <pubDate>Thu, 16 Apr 2026 16:00:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31284-gitprefixcommitter</guid>
+      <dc:date>2026-04-16T16:00:44Z</dc:date>
+    </item>
+    <item>
+      <title>Xml Structure Navigation - Thu Apr 16 08:42:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31293-xml-structure-navigation</link>
+      <description>Xml Structure Navigation Enhances XML editing in IntelliJ IDEA by providing intelligent navigation and completion based on configurable mappings between XML tags and...
+
+vendor: Xml Structure Navigation
+downloads: 1
+pricingModel: FREE
+xmlId: com.dwise.tools.xml.plugin</description>
+      <pubDate>Thu, 16 Apr 2026 08:42:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31293-xml-structure-navigation</guid>
+      <dc:date>2026-04-16T08:42:07Z</dc:date>
+    </item>
+    <item>
+      <title>LLM Token Counter - Thu Apr 16 10:12:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31295-llm-token-counter</link>
+      <description>Status-bar widget that shows an LLM token estimate for the current selection, or for the whole file when nothing is selected. Uses JTokkit with the o200k_base encoding...
+
+vendor: Dami
+downloads: 0
+pricingModel: FREE
+xmlId: com.predictx.tokencounter</description>
+      <pubDate>Thu, 16 Apr 2026 10:12:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31295-llm-token-counter</guid>
+      <dc:date>2026-04-16T10:12:26Z</dc:date>
+    </item>
+    <item>
+      <title>gitbutler - Thu Apr 16 12:28:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31299-gitbutler</link>
+      <description>Adds support for GitButler in IntelliJ IDEs. Features Create New Virtual BranchCommit to Virtual BranchApply Branch to WorkspaceUnapply Virtual BranchPush Virtual...
+
+vendor: Kirill Rakhman
+downloads: 0
+pricingModel: FREE
+xmlId: de.rakhman.gitbutler</description>
+      <pubDate>Thu, 16 Apr 2026 12:28:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31299-gitbutler</guid>
+      <dc:date>2026-04-16T12:28:24Z</dc:date>
+    </item>
+    <item>
+      <title>Pre-Push Compilation Checker - Fri Apr 17 06:50:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31297-pre-push-compilation-checker</link>
+      <description>Blocks git pushes when your code has compilation errors — before they reach the remote. How it works IDE Push Guard: Hooks into the IntelliJ Git Push dialog via the...
+
+vendor: Aswin
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.prepushchecker</description>
+      <pubDate>Fri, 17 Apr 2026 06:50:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31297-pre-push-compilation-checker</guid>
+      <dc:date>2026-04-17T06:50:43Z</dc:date>
+    </item>
+    <item>
+      <title>Pixel Office - AI Agent Visualizer - Thu Apr 16 11:26:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31298-pixel-office--ai-agent-visualizer</link>
+      <description>Pixel Agents for IntelliJ Turn your Claude Code terminal sessions into animated pixel art characters in a virtual office. Each terminal you open spawns a character...
+
+vendor: Namkung Hoon
+downloads: 0
+pricingModel: FREE
+xmlId: com.namkunghoon.pixelagents</description>
+      <pubDate>Thu, 16 Apr 2026 11:26:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31298-pixel-office--ai-agent-visualizer</guid>
+      <dc:date>2026-04-16T11:26:19Z</dc:date>
+    </item>
+    <item>
       <title>AI String Translator for Android - Thu Apr 16 11:39:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31281-ai-string-translator-for-android</link>
       <description>AI-powered translation tool for Android strings.xml with editable preview, multi-language support, and safe merging. Boost your localization workflow directly inside...
 
 vendor: codemagic
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.translatewand.translate-string-xml</description>
       <pubDate>Thu, 16 Apr 2026 11:39:53 GMT</pubDate>
@@ -24,7 +219,7 @@ xmlId: com.translatewand.translate-string-xml</description>
       <description>Auto-detect, categorize and manage structured TODO comments in Python projects.
 
 vendor: Hus Plugins
-downloads: 1
+downloads: 16
 pricingModel: FREE
 xmlId: com.smarttodo.plugin</description>
       <pubDate>Thu, 16 Apr 2026 13:52:08 GMT</pubDate>
@@ -37,7 +232,7 @@ xmlId: com.smarttodo.plugin</description>
       <description>IMPORTANT: This plugin requires Claude Code to be installed separately. For more information, see claude.com/claude-code. Claude Code in side-panel with multi-tab...
 
 vendor: Lazy Developer
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.lazydeveloper.claude</description>
       <pubDate>Wed, 15 Apr 2026 22:53:14 GMT</pubDate>
@@ -50,7 +245,7 @@ xmlId: dev.lazydeveloper.claude</description>
       <description>RepoBuddy — Run &amp;amp; Inspect Spring Data Repositories from IntelliJ RepoBuddy lets you execute any Spring Data JPA repository method directly from the editor...
 
 vendor: RepoBuddy
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: com.elglaly.repobuddy</description>
       <pubDate>Thu, 16 Apr 2026 09:37:17 GMT</pubDate>
@@ -63,207 +258,12 @@ xmlId: com.elglaly.repobuddy</description>
       <description>**HS ADB Tools** brings the most commonly used ADB (Android Debug Bridge) commands directly into Android Studio as a menu under Tools &amp;gt; ADB Tools, so you never need...
 
 vendor: SmallLee
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.lixiaoniu.adbplugintools</description>
       <pubDate>Thu, 16 Apr 2026 05:32:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31292-hs-adb-tools</guid>
       <dc:date>2026-04-16T05:32:12Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Code GUI - Thu Apr 16 01:27:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31242-claude-code-gui</link>
-      <description>Claude Code GUI provides a native IntelliJ IDEA experience for Claude Code with a dedicated tool window, change management workflow, and external configuration...
-
-vendor: guoshengkai
-downloads: 1
-pricingModel: FREE
-xmlId: ink.icoding.idea.claude-code</description>
-      <pubDate>Thu, 16 Apr 2026 01:27:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31242-claude-code-gui</guid>
-      <dc:date>2026-04-16T01:27:55Z</dc:date>
-    </item>
-    <item>
-      <title>Signature Stamp - Thu Apr 16 04:08:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31290-signature-stamp</link>
-      <description>Signature Stamp is a handy JetBrains IDE plugin that enables developers to insert a signature stamp directly into their code files with just one click. Key Features...
-
-vendor: Faisal Amir Github
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.amirisback.signature-stamp</description>
-      <pubDate>Thu, 16 Apr 2026 04:08:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31290-signature-stamp</guid>
-      <dc:date>2026-04-16T04:08:16Z</dc:date>
-    </item>
-    <item>
-      <title>RML Dataflow Analysis (Dev Tools) - Thu Apr 16 09:54:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31283-rml-dataflow-analysis-dev-tools-</link>
-      <description>Debug tool-window for RML dataflow analysis.
-
-vendor: JetBrains s.r.o.
-downloads: 0
-pricingModel: FREE
-xmlId: com.intellij.dfa.analysis.rml.devtools</description>
-      <pubDate>Thu, 16 Apr 2026 09:54:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31283-rml-dataflow-analysis-dev-tools-</guid>
-      <dc:date>2026-04-16T09:54:11Z</dc:date>
-    </item>
-    <item>
-      <title>JBL SSH Terminal - Mon Apr 13 01:50:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31163-jbl-ssh-terminal</link>
-      <description>English SSH Terminal brings Linux remote operations into the IDE with a practical, workflow-first experience. Connection management: Save and manage SSH profiles, then...
-
-vendor: Jebe Liao
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.jbl.sshtterminal</description>
-      <pubDate>Mon, 13 Apr 2026 01:50:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31163-jbl-ssh-terminal</guid>
-      <dc:date>2026-04-13T01:50:51Z</dc:date>
-    </item>
-    <item>
-      <title>OceanBase JDBC Driver - Wed Apr 15 20:03:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31287-oceanbase-jdbc-driver</link>
-      <description>OceanBase JDBC driver plugin for DataGrip and other JetBrains IDEs with database support. Adds OceanBase as a native data source, so you can browse schemas, run...
-
-vendor: Vasilii Chernov
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.tjlee.oceanbasejdbcdriver</description>
-      <pubDate>Wed, 15 Apr 2026 20:03:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31287-oceanbase-jdbc-driver</guid>
-      <dc:date>2026-04-15T20:03:09Z</dc:date>
-    </item>
-    <item>
-      <title>PxPeek - CSS Pixel Hints - Thu Apr 16 11:15:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31286-pxpeek--css-pixel-hints</link>
-      <description>Shows the pixel equivalent of relative CSS size values as comment-style inlay hints. Supports CSS, SCSS, SASS, and LESS. Choose where hints appear: End of line...
-
-vendor: Stian Larsen
-downloads: 0
-pricingModel: FREE
-xmlId: dev.stianl.pxpeek</description>
-      <pubDate>Thu, 16 Apr 2026 11:15:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31286-pxpeek--css-pixel-hints</guid>
-      <dc:date>2026-04-16T11:15:01Z</dc:date>
-    </item>
-    <item>
-      <title>Copy File Path Shortcut - Wed Apr 15 00:57:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31275-copy-file-path-shortcut</link>
-      <description>Option+Click (Mac) or Alt+Click (Windows/Linux) on an editor tab to copy the file's project-relative path to the clipboard.
-
-vendor: Neel Kirit
-downloads: 1
-pricingModel: FREE
-xmlId: com.neelkirit.copy-tab-path</description>
-      <pubDate>Wed, 15 Apr 2026 00:57:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31275-copy-file-path-shortcut</guid>
-      <dc:date>2026-04-15T00:57:10Z</dc:date>
-    </item>
-    <item>
-      <title>Git Changed Files - Fri Apr 17 01:33:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31274-git-changed-files</link>
-      <description>Lists all files changed in the current Git repository in a sidebar panel. Single-click any file to open it in the editor.
-
-vendor: Neel Kirit
-downloads: 1
-pricingModel: FREE
-xmlId: com.neelkirit.git-changed-files</description>
-      <pubDate>Fri, 17 Apr 2026 01:33:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31274-git-changed-files</guid>
-      <dc:date>2026-04-17T01:33:51Z</dc:date>
-    </item>
-    <item>
-      <title>betool - AI Code Assistant - Sat Apr 11 22:06:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31225-betool--ai-code-assistant</link>
-      <description>betool — AI-powered code assistant for JetBrains IDEs betool bridges your AI coding assistant with your IDE. It runs a local server that receives code modification...
-
-vendor: beTool IA
-downloads: 2
-pricingModel: FREE
-xmlId: com.betool.plugin</description>
-      <pubDate>Sat, 11 Apr 2026 22:06:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31225-betool--ai-code-assistant</guid>
-      <dc:date>2026-04-11T22:06:26Z</dc:date>
-    </item>
-    <item>
-      <title>Git Task Branch Mapper - Thu Apr 16 14:51:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31282-git-task-branch-mapper</link>
-      <description>Git Task Branch Mapper helps teams track requirement names and Git branches inside WebStorm. Search by requirement name or branch name Create mappings with the current...
-
-vendor: xianchenxy
-downloads: 2
-pricingModel: FREE
-xmlId: com.branchmapping.plugin</description>
-      <pubDate>Thu, 16 Apr 2026 14:51:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31282-git-task-branch-mapper</guid>
-      <dc:date>2026-04-16T14:51:12Z</dc:date>
-    </item>
-    <item>
-      <title>Livesport LLM - Wed Apr 15 08:09:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31264-livesport-llm</link>
-      <description>Shows LLM usage budget and remaining credits in the IDE toolbar. Fetches data from the internal LLM user dashboard.
-
-vendor: Marek Mencl
-downloads: 3
-pricingModel: FREE
-xmlId: eu.livesport.llm</description>
-      <pubDate>Wed, 15 Apr 2026 08:09:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31264-livesport-llm</guid>
-      <dc:date>2026-04-15T08:09:02Z</dc:date>
-    </item>
-    <item>
-      <title>Flink Reactor - Tue Apr 14 21:06:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31273-flink-reactor</link>
-      <description>Manage and monitor Apache Flink clusters from your IDE. Flink Reactor connects IntelliJ IDEA to your Apache Flink cluster, providing real-time visibility into jobs...
-
-vendor: Ahmed Elhossaini
-downloads: 1
-pricingModel: FREE
-xmlId: com.flinkreactor.plugin</description>
-      <pubDate>Tue, 14 Apr 2026 21:06:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31273-flink-reactor</guid>
-      <dc:date>2026-04-14T21:06:22Z</dc:date>
-    </item>
-    <item>
-      <title>WLZN Nacos Console - Wed Apr 15 03:17:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31278-wlzn-nacos-console</link>
-      <description>A Nacos configuration management plugin that automatically parses Spring Boot multi-profile YAML files, connects to Nacos servers, and provides an intuitive tool...
-
-vendor: HWL
-downloads: 1
-pricingModel: FREE
-xmlId: com.wlzn.nacos-console</description>
-      <pubDate>Wed, 15 Apr 2026 03:17:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31278-wlzn-nacos-console</guid>
-      <dc:date>2026-04-15T03:17:20Z</dc:date>
-    </item>
-    <item>
-      <title>SpeQA - Test Management System - Wed Apr 15 04:53:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31268-speqa--test-management-system</link>
-      <description>Manual test case management inside your IDE. Test cases are Markdown files stored in your project. Works offline, no external services, no vendor lock-in. Split...
-
-vendor: Siarhei Baradulia
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.barsia.speqa</description>
-      <pubDate>Wed, 15 Apr 2026 04:53:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31268-speqa--test-management-system</guid>
-      <dc:date>2026-04-15T04:53:35Z</dc:date>
-    </item>
-    <item>
-      <title>CodeSense AI - Fri Apr 17 01:40:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31277-codesense-ai</link>
-      <description>CodeSense AI is an intelligent code assistant plugin for IntelliJ IDEA, powered by large language models. CodeSense AI — 代码感知 AI 助手 IntelliJ IDEA 的智能代码助手插件，提供以下能力...
-
-vendor: chenp
-downloads: 5
-pricingModel: FREE
-xmlId: com.deeptek.ai.idea</description>
-      <pubDate>Fri, 17 Apr 2026 01:40:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31277-codesense-ai</guid>
-      <dc:date>2026-04-17T01:40:46Z</dc:date>
     </item>
   </channel>
 </rss>
