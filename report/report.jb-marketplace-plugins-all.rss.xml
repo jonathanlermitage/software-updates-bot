@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>GraphNode Secure Coding Assistant - Tue Apr 14 10:31:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31244-graphnode-secure-coding-assistant</link>
+      <description>GraphNode Secure Coding Assistant is a Static Application Security Testing (SAST) plugin that detects security vulnerabilities in your code as you write it, directly...
+
+vendor: GraphNode Software
+downloads: 2
+pricingModel: FREE
+xmlId: com.graphnodesoftware.sast</description>
+      <pubDate>Tue, 14 Apr 2026 10:31:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31244-graphnode-secure-coding-assistant</guid>
+      <dc:date>2026-04-14T10:31:10Z</dc:date>
+    </item>
+    <item>
+      <title>Data Preprocessor - Sat Apr 11 22:54:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31226-data-preprocessor</link>
+      <description>Data Preprocessor — an in-IDE toolkit for data scientists. Load any CSV file directly inside IntelliJ (or any JetBrains IDE) and: Profile every column: type, null...
+
+vendor: Keencodelabs
+downloads: 1
+pricingModel: FREE
+xmlId: com.datapreprocessor.plugin</description>
+      <pubDate>Sat, 11 Apr 2026 22:54:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31226-data-preprocessor</guid>
+      <dc:date>2026-04-11T22:54:15Z</dc:date>
+    </item>
+    <item>
+      <title>MinecraftRichText - Fri Apr 17 14:23:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31320-minecraftrichtext</link>
+      <description>Minecraft Rich Text colore et applique en temps réel les codes de couleur et de style Minecraft (§, &amp;amp;, §x…, #RRGGBB), facilitant l'édition et la lecture des...
+
+vendor: BCK Inc
+downloads: 0
+pricingModel: FREE
+xmlId: fr.bck-inc.MinecraftRichText</description>
+      <pubDate>Fri, 17 Apr 2026 14:23:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31320-minecraftrichtext</guid>
+      <dc:date>2026-04-17T14:23:35Z</dc:date>
+    </item>
+    <item>
+      <title>Angular Architect - Fri Apr 17 13:10:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31306-angular-architect</link>
+      <description>Angular Architect Full-stack Angular intelligence for IntelliJ. Understands your components, services, stores, routes, and modules — then generates, inspects...
+
+vendor: Adib Boutros
+downloads: 0
+pricingModel: FREE
+xmlId: com.angularassistant</description>
+      <pubDate>Fri, 17 Apr 2026 13:10:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31306-angular-architect</guid>
+      <dc:date>2026-04-17T13:10:53Z</dc:date>
+    </item>
+    <item>
+      <title>FIX Message Parser - Fri Apr 17 13:16:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31325-fix-message-parser</link>
+      <description>Parses raw FIX protocol messages into an annotated table.
+
+vendor: Janis Blatsios
+downloads: 0
+pricingModel: FREE
+xmlId: com.fixutils.fix-parser</description>
+      <pubDate>Fri, 17 Apr 2026 13:16:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31325-fix-message-parser</guid>
+      <dc:date>2026-04-17T13:16:26Z</dc:date>
+    </item>
+    <item>
       <title>GitHub PR Comments Monitor - Fri Apr 17 15:08:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31300-github-pr-comments-monitor</link>
       <description>Stay on top of every GitHub PR conversation without leaving your IDE. GitHub PR Comments Monitor continuously polls your repository for new and edited review comments...
@@ -71,7 +136,7 @@ xmlId: com.hezhe.codewhere.jetbrains</description>
       <dc:date>2026-04-17T04:24:44Z</dc:date>
     </item>
     <item>
-      <title>Markdown Plus - Fri Apr 17 04:17:58 UTC 2026</title>
+      <title>Markdown Plus - Fri Apr 17 14:03:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31302-markdown-plus</link>
       <description>Markdown Plus provides a stable, low-latency split editing and preview experience for Markdown in IntelliJ-based IDEs. Markdown Plus 为 IntelliJ 平台提供稳定、低延迟的 Markdown...
 
@@ -79,9 +144,9 @@ vendor: Markdown Plus
 downloads: 0
 pricingModel: FREE
 xmlId: com.xiaomi.mg.markdown-plus</description>
-      <pubDate>Fri, 17 Apr 2026 04:17:58 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 14:03:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31302-markdown-plus</guid>
-      <dc:date>2026-04-17T04:17:58Z</dc:date>
+      <dc:date>2026-04-17T14:03:28Z</dc:date>
     </item>
     <item>
       <title>Favorite Files - Fri Apr 17 02:03:58 UTC 2026</title>
@@ -149,7 +214,7 @@ xmlId: com.drsiroukane.plugins.multirelativepath</description>
       <dc:date>2026-04-16T19:44:02Z</dc:date>
     </item>
     <item>
-      <title>GitPrefixCommitter - Thu Apr 16 16:00:44 UTC 2026</title>
+      <title>GitPrefixCommitter - Fri Apr 17 13:53:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31284-gitprefixcommitter</link>
       <description>Git Prefix Committer A simple tool to generate Git commands with a customizable prefix directly from the Commit tool window. Generate git add and git commit commands...
 
@@ -157,9 +222,9 @@ vendor: iOLO
 downloads: 14
 pricingModel: FREE
 xmlId: com.iolo.gitprefix</description>
-      <pubDate>Thu, 16 Apr 2026 16:00:44 GMT</pubDate>
+      <pubDate>Fri, 17 Apr 2026 13:53:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31284-gitprefixcommitter</guid>
-      <dc:date>2026-04-16T16:00:44Z</dc:date>
+      <dc:date>2026-04-17T13:53:03Z</dc:date>
     </item>
     <item>
       <title>Xml Structure Navigation - Thu Apr 16 08:42:07 UTC 2026</title>
@@ -199,71 +264,6 @@ xmlId: de.rakhman.gitbutler</description>
       <pubDate>Thu, 16 Apr 2026 12:28:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31299-gitbutler</guid>
       <dc:date>2026-04-16T12:28:24Z</dc:date>
-    </item>
-    <item>
-      <title>Pre-Push Compilation Checker - Fri Apr 17 09:50:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31297-pre-push-compilation-checker</link>
-      <description>Blocks git pushes when your code has compilation errors — before they reach the remote. How it works IDE Push Guard: Hooks into the IntelliJ Git Push dialog via the...
-
-vendor: Aswin
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.prepushchecker</description>
-      <pubDate>Fri, 17 Apr 2026 09:50:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31297-pre-push-compilation-checker</guid>
-      <dc:date>2026-04-17T09:50:44Z</dc:date>
-    </item>
-    <item>
-      <title>Pixel Office - AI Agent Visualizer - Thu Apr 16 11:26:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31298-pixel-office--ai-agent-visualizer</link>
-      <description>Pixel Agents for IntelliJ Turn your Claude Code terminal sessions into animated pixel art characters in a virtual office. Each terminal you open spawns a character...
-
-vendor: Namkung Hoon
-downloads: 0
-pricingModel: FREE
-xmlId: com.namkunghoon.pixelagents</description>
-      <pubDate>Thu, 16 Apr 2026 11:26:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31298-pixel-office--ai-agent-visualizer</guid>
-      <dc:date>2026-04-16T11:26:19Z</dc:date>
-    </item>
-    <item>
-      <title>AI String Translator for Android - Thu Apr 16 11:39:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31281-ai-string-translator-for-android</link>
-      <description>AI-powered translation tool for Android strings.xml with editable preview, multi-language support, and safe merging. Boost your localization workflow directly inside...
-
-vendor: codemagic
-downloads: 5
-pricingModel: FREE
-xmlId: com.translatewand.translate-string-xml</description>
-      <pubDate>Thu, 16 Apr 2026 11:39:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31281-ai-string-translator-for-android</guid>
-      <dc:date>2026-04-16T11:39:53Z</dc:date>
-    </item>
-    <item>
-      <title>SmartTodo - Thu Apr 16 13:52:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31245-smarttodo</link>
-      <description>Auto-detect, categorize and manage structured TODO comments in Python projects.
-
-vendor: Hus Plugins
-downloads: 16
-pricingModel: FREE
-xmlId: com.smarttodo.plugin</description>
-      <pubDate>Thu, 16 Apr 2026 13:52:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31245-smarttodo</guid>
-      <dc:date>2026-04-16T13:52:08Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Code (Side-Panel) - Wed Apr 15 22:53:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31289-claude-code-side-panel-</link>
-      <description>IMPORTANT: This plugin requires Claude Code to be installed separately. For more information, see claude.com/claude-code. Claude Code in side-panel with multi-tab...
-
-vendor: Lazy Developer
-downloads: 2
-pricingModel: FREE
-xmlId: dev.lazydeveloper.claude</description>
-      <pubDate>Wed, 15 Apr 2026 22:53:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31289-claude-code-side-panel-</guid>
-      <dc:date>2026-04-15T22:53:14Z</dc:date>
     </item>
   </channel>
 </rss>
