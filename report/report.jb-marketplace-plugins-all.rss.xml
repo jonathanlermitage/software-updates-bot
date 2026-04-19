@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Web Browser (JCEF) - Sun Apr 19 10:32:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31360-web-browser-jcef-</link>
+      <description>Provides web browser integration based on JCEF, a framework for embedding Chromium-based browsers in Java applications.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.modules.jcef</description>
+      <pubDate>Sun, 19 Apr 2026 10:32:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31360-web-browser-jcef-</guid>
+      <dc:date>2026-04-19T10:32:37Z</dc:date>
+    </item>
+    <item>
       <title>GraphNode Secure Coding Assistant - Tue Apr 14 10:31:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31244-graphnode-secure-coding-assistant</link>
       <description>GraphNode Secure Coding Assistant is a Static Application Security Testing (SAST) plugin that detects security vulnerabilities in your code as you write it, directly...
@@ -251,19 +264,6 @@ xmlId: com.predictx.tokencounter</description>
       <pubDate>Thu, 16 Apr 2026 10:12:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31295-llm-token-counter</guid>
       <dc:date>2026-04-16T10:12:26Z</dc:date>
-    </item>
-    <item>
-      <title>gitbutler - Sat Apr 18 19:59:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31299-gitbutler</link>
-      <description>Inofficial plugin for GitButler support in IntelliJ IDEs. Requires the GitButler CLI to be in PATH. Features Set up and tear down WorkspaceCreate New Virtual...
-
-vendor: Kirill Rakhman
-downloads: 9
-pricingModel: FREE
-xmlId: de.rakhman.gitbutler</description>
-      <pubDate>Sat, 18 Apr 2026 19:59:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31299-gitbutler</guid>
-      <dc:date>2026-04-18T19:59:02Z</dc:date>
     </item>
   </channel>
 </rss>
