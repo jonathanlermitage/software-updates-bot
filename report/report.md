@@ -22,7 +22,7 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1.1 (261.23567.71) ~ 2026-04-15|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Apr 15 16:19:04 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1 (261.22158.277) ~ 2026-03-25|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Mar 25 16:22:47 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.0 to 19.6.6 ~ 2026-04-04|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 04 20:04:10 UTC 2026|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.6 to 19.6.8 ~ 2026-04-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Apr 20 20:12:28 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 338 - Le soulèvement des bots de skills|[lescastcodeurs.com](https://lescastcodeurs.com)|Fri Mar 20 20:04:34 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.9.0|[nodejs.org](https://nodejs.org)|Wed Apr 01 16:17:59 UTC 2026|

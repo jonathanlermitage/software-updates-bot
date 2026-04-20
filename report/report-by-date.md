@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.6 to 19.6.8 ~ 2026-04-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Apr 20 20:12:28 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.15.0|[nodejs.org](https://nodejs.org)|Thu Apr 16 08:29:47 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1.1 (261.23567.71) ~ 2026-04-15|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Apr 15 16:19:04 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.4|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 07 20:09:54 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 07 20:09:53 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.2|[golang.org](https://golang.org/dl/)|Tue Apr 07 20:09:40 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.0 to 19.6.6 ~ 2026-04-04|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sat Apr 04 20:04:10 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|25.9.0|[nodejs.org](https://nodejs.org)|Wed Apr 01 16:17:59 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.5.RELEASE|[start.spring.io](https://start.spring.io)|Thu Mar 26 12:13:17 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1 (261.22158.277) ~ 2026-03-25|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Mar 25 16:22:47 UTC 2026|
