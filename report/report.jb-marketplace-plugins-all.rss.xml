@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>BifrostEco-KMP - Wed Apr 22 03:57:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31393-bifrosteco-kmp</link>
+      <description>This plugin for Android Studio is designed for Kotlin Multiplatform (KMP) development targeting HarmonyOS. By writing the business logic and user interface only once...
+
+vendor: BifrostEco-lihang
+downloads: 0
+pricingModel: FREE
+xmlId: com.eazytec.www.intellijpluginsforandroidstudio</description>
+      <pubDate>Wed, 22 Apr 2026 03:57:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31393-bifrosteco-kmp</guid>
+      <dc:date>2026-04-22T03:57:55Z</dc:date>
+    </item>
+    <item>
+      <title>Mesh Infra - Mon Apr 20 05:58:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31344-mesh-infra</link>
+      <description>Mesh Infra — Infrastructure-as-Code Visualizer for JetBrains IDEs Visualize your infrastructure-as-code topology — without leaving your IDE. Mesh Infra scans your...
+
+vendor: Baris Ozgen
+downloads: 4
+pricingModel: FREE
+xmlId: com.meshinfra.jetbrains</description>
+      <pubDate>Mon, 20 Apr 2026 05:58:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31344-mesh-infra</guid>
+      <dc:date>2026-04-20T05:58:08Z</dc:date>
+    </item>
+    <item>
+      <title>Android Strings Manager - Mon Apr 20 06:20:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31367-android-strings-manager</link>
+      <description>Android Strings Manager — utilities for managing strings.xml in Android projects: Clean: remove entries marked translatable="false" from every values-*/strings.xml...
+
+vendor: pwhs
+downloads: 5
+pricingModel: FREE
+xmlId: app.pwhs.androidstringsmanager</description>
+      <pubDate>Mon, 20 Apr 2026 06:20:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31367-android-strings-manager</guid>
+      <dc:date>2026-04-20T06:20:21Z</dc:date>
+    </item>
+    <item>
+      <title>AI Review Coder - Sat Apr 18 06:59:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31333-ai-review-coder</link>
+      <description>DeepSeek AI Review utilizes advanced artificial intelligence to automatically generate comprehensive assessments of code quality. These reports not only highlight...
+
+vendor: StackSmith
+downloads: 1
+pricingModel: FREE
+xmlId: com.coder.ai.dpt</description>
+      <pubDate>Sat, 18 Apr 2026 06:59:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31333-ai-review-coder</guid>
+      <dc:date>2026-04-18T06:59:06Z</dc:date>
+    </item>
+    <item>
       <title>BetterPy - Tue Apr 21 11:56:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/29896-betterpy</link>
       <description>BetterPy supercharges your Python development in PyCharm and IntelliJ-based IDEs — so you can spend less time on boilerplate and more time building. &#x1f4d6; Documentation...
@@ -212,58 +264,6 @@ xmlId: com.xiaomi.mg.markdown-plus</description>
       <pubDate>Tue, 21 Apr 2026 05:07:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31302-markdown-plus</guid>
       <dc:date>2026-04-21T05:07:01Z</dc:date>
-    </item>
-    <item>
-      <title>Favorite Files - Fri Apr 17 02:03:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31313-favorite-files</link>
-      <description>Mark files as favorites via the editor tab right-click menu. Favorite files appear in a sidebar panel and persist across IDE restarts.
-
-vendor: Neel Kirit
-downloads: 17
-pricingModel: FREE
-xmlId: com.neelkirit.favorite-files</description>
-      <pubDate>Fri, 17 Apr 2026 02:03:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31313-favorite-files</guid>
-      <dc:date>2026-04-17T02:03:58Z</dc:date>
-    </item>
-    <item>
-      <title>CustomHighlights - Thu Apr 16 23:40:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31311-customhighlights</link>
-      <description>A simple plugin that adds more precise syntax highlighting settings.
-
-vendor: Zachary Gurion
-downloads: 19
-pricingModel: FREE
-xmlId: com.github.zacharygurion.customhighlights.CustomHighlights</description>
-      <pubDate>Thu, 16 Apr 2026 23:40:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31311-customhighlights</guid>
-      <dc:date>2026-04-16T23:40:10Z</dc:date>
-    </item>
-    <item>
-      <title>typst-renderer - Thu Apr 16 21:35:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31308-typst-renderer</link>
-      <description>Typst support for IntelliJ-based IDEs — edit, preview, and compile Typst documents without leaving your IDE. Features Syntax highlighting and comment toggling (Ctrl...
-
-vendor: pndv
-downloads: 35
-pricingModel: FREE
-xmlId: com.github.pndv.typstrenderer</description>
-      <pubDate>Thu, 16 Apr 2026 21:35:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31308-typst-renderer</guid>
-      <dc:date>2026-04-16T21:35:46Z</dc:date>
-    </item>
-    <item>
-      <title>Codex in Terminal - Thu Apr 16 21:16:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31307-codex-in-terminal</link>
-      <description>Share editor selections with the codex CLI in one keystroke. The core feature: select any code in the editor, press a shortcut, and a precise file + line-range...
-
-vendor: Oleh Khomyk
-downloads: 106
-pricingModel: FREE
-xmlId: com.github.codexjb</description>
-      <pubDate>Thu, 16 Apr 2026 21:16:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31307-codex-in-terminal</guid>
-      <dc:date>2026-04-16T21:16:14Z</dc:date>
     </item>
   </channel>
 </rss>
