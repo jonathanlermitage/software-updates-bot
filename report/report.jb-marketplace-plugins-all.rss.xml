@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>IDEGram - Thu Apr 23 06:08:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31378-idegram</link>
+      <description>Telegram client integrated into your JetBrains IDE. Chat, share code snippets, and collaborate without leaving your editor.
+
+vendor: mamadra
+downloads: 1
+pricingModel: FREE
+xmlId: com.idegram</description>
+      <pubDate>Thu, 23 Apr 2026 06:08:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31378-idegram</guid>
+      <dc:date>2026-04-23T06:08:36Z</dc:date>
+    </item>
+    <item>
+      <title>Native-Kt Utils - Thu Apr 23 09:58:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31414-native-kt-utils</link>
+      <description>Syntax highlight for native-kt gradle plugin.
+
+vendor: Nikita Shtengauer
+downloads: 0
+pricingModel: FREE
+xmlId: com.huskerdev.native-kt</description>
+      <pubDate>Thu, 23 Apr 2026 09:58:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31414-native-kt-utils</guid>
+      <dc:date>2026-04-23T09:58:50Z</dc:date>
+    </item>
+    <item>
+      <title>MixinMCP - Wed Apr 22 22:58:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31407-mixinmcp</link>
+      <description>Extends IntelliJ's built-in MCP Server with tools for Minecraft mod development. Key features: 1. Robust broad-scope search: Full type hierarchy — supertypes...
+
+vendor: MuonR
+downloads: 0
+pricingModel: FREE
+xmlId: dev.mixinmcp</description>
+      <pubDate>Wed, 22 Apr 2026 22:58:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31407-mixinmcp</guid>
+      <dc:date>2026-04-22T22:58:53Z</dc:date>
+    </item>
+    <item>
+      <title>RunIt - Thu Apr 23 08:57:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31412-runit</link>
+      <description>RunIt is a lightweight script launcher for JetBrains IDEs, built for teams and individuals who want fast, repeatable project commands directly from the toolbar. Store...
+
+vendor: Node Manager
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.runit</description>
+      <pubDate>Thu, 23 Apr 2026 08:57:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31412-runit</guid>
+      <dc:date>2026-04-23T08:57:38Z</dc:date>
+    </item>
+    <item>
+      <title>Xidl Language - Thu Apr 23 05:00:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31409-xidl-language</link>
+      <description>Xidl Language is an IntelliJ Platform plugin for the Xidl interface description language. It adds syntax highlighting, completion, annotators, folding, formatting...
+
+vendor: wps
+downloads: 0
+pricingModel: FREE
+xmlId: com.congroof.xidl</description>
+      <pubDate>Thu, 23 Apr 2026 05:00:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31409-xidl-language</guid>
+      <dc:date>2026-04-23T05:00:36Z</dc:date>
+    </item>
+    <item>
+      <title>Smart Git Doc - Thu Apr 23 07:22:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29059-smart-git-doc</link>
+      <description>Smart Git Doc: A one-click documentation deployment plugin based on smart-doc, which automatically generates Markdown and pushes it to a specified Git repository...
+
+vendor: happylwg
+downloads: 6
+pricingModel: FREE
+xmlId: com.bj.lwg.smart_git_doc_plugin</description>
+      <pubDate>Thu, 23 Apr 2026 07:22:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29059-smart-git-doc</guid>
+      <dc:date>2026-04-23T07:22:30Z</dc:date>
+    </item>
+    <item>
+      <title>JSON Utilities - Thu Apr 23 03:40:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31178-json-utilities</link>
+      <description>JSON Utilities is an IntelliJ IDEA plugin for formatting, cleaning, decoding, converting, and exploring JSON and related text formats during daily development...
+
+vendor: 赵铁柱
+downloads: 1
+pricingModel: FREE
+xmlId: thoven.achievement.net.json-util</description>
+      <pubDate>Thu, 23 Apr 2026 03:40:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31178-json-utilities</guid>
+      <dc:date>2026-04-23T03:40:09Z</dc:date>
+    </item>
+    <item>
       <title>TokenSlayer - Sun Apr 19 03:50:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31349-tokenslayer</link>
       <description>TokenSlayer — Semantic Structural Cache for GitHub Copilot ⚡ Slash LLM token usage by 40–95% with AST-driven code skeletons. TokenSlayer eliminates the "orientation...
@@ -32,7 +123,7 @@ xmlId: com.github.tjlee.kingbasejdbcdriver</description>
       <dc:date>2026-04-22T20:14:20Z</dc:date>
     </item>
     <item>
-      <title>Bazel Target Copy - Wed Apr 22 18:57:45 UTC 2026</title>
+      <title>Bazel Target Copy - Thu Apr 23 11:11:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31404-bazel-target-copy</link>
       <description>Adds an inlay hint next to each Bazel rule in BUILD.bazel files. Click the hint to copy the fully-qualified target label (e.g. //path/to/package:target_name) to your...
 
@@ -40,9 +131,9 @@ vendor: Samuel Santos
 downloads: 2
 pricingModel: FREE
 xmlId: com.github.santossamuel.bazeltargetcopy</description>
-      <pubDate>Wed, 22 Apr 2026 18:57:45 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 11:11:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31404-bazel-target-copy</guid>
-      <dc:date>2026-04-22T18:57:45Z</dc:date>
+      <dc:date>2026-04-23T11:11:24Z</dc:date>
     </item>
     <item>
       <title>Mekong Tunnel - Fri Apr 17 17:16:53 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: com.lcb.ai_codereview_plugin</description>
       <pubDate>Mon, 20 Apr 2026 08:53:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31312-ai-code-reviews</guid>
       <dc:date>2026-04-20T08:53:53Z</dc:date>
-    </item>
-    <item>
-      <title>LingMirror - Wed Apr 22 00:22:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31342-lingmirror</link>
-      <description>LingMirror is a static diagnostic tool for Java ClassLoader leaks. 灵镜 LingMirror — 专注 Java 类加载器泄漏的静态诊断工具 点一下，60 秒找出让你 ClassLoader 永远卸载不掉的那条代码引用链。 为什么需要灵镜...
-
-vendor: 灵珑 LingFrame
-downloads: 3
-pricingModel: FREE
-xmlId: com.lingmirror</description>
-      <pubDate>Wed, 22 Apr 2026 00:22:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31342-lingmirror</guid>
-      <dc:date>2026-04-22T00:22:37Z</dc:date>
-    </item>
-    <item>
-      <title>WatchFile - Wed Apr 22 02:12:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31383-watchfile</link>
-      <description>Run external tools when files change (community alternative to IDE File Watchers for non-Ultimate users). Configure watchers under Settings | Tools | WatchFile.
-
-vendor: kibernet
-downloads: 1
-pricingModel: FREE
-xmlId: com.kibernet.watchfile</description>
-      <pubDate>Wed, 22 Apr 2026 02:12:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31383-watchfile</guid>
-      <dc:date>2026-04-22T02:12:02Z</dc:date>
-    </item>
-    <item>
-      <title>OpenLinker - Sun Apr 19 02:56:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31348-openlinker</link>
-      <description>Open context-aware web or file links from customizable URL templates.
-
-vendor: Kw Studio
-downloads: 2
-pricingModel: FREE
-xmlId: com.openlinker</description>
-      <pubDate>Sun, 19 Apr 2026 02:56:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31348-openlinker</guid>
-      <dc:date>2026-04-19T02:56:44Z</dc:date>
-    </item>
-    <item>
-      <title>Mouse Gestures - Tue Apr 21 07:03:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31381-mouse-gestures</link>
-      <description>Mouse Gestures for IntelliJ IDEA Execute IDE actions by drawing mouse gestures. Hold the right mouse button, drag to draw a shape, then release — the assigned action...
-
-vendor: Aadammm
-downloads: 1
-pricingModel: FREE
-xmlId: com.mousegesture</description>
-      <pubDate>Tue, 21 Apr 2026 07:03:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31381-mouse-gestures</guid>
-      <dc:date>2026-04-21T07:03:17Z</dc:date>
-    </item>
-    <item>
-      <title>CodeScape - Sun Apr 19 08:45:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31355-codescape</link>
-      <description>CodeScape turns your project into a live map of code size and complexity. Explore the repo by language, module, source category (source/test/resources/generated), or...
-
-vendor: Henrik Westergård
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.codescape</description>
-      <pubDate>Sun, 19 Apr 2026 08:45:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31355-codescape</guid>
-      <dc:date>2026-04-19T08:45:16Z</dc:date>
-    </item>
-    <item>
-      <title>AI Agent CLI Bridge - Wed Apr 22 18:16:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31364-ai-agent-cli-bridge</link>
-      <description>Seamlessly connect your IDE workflow with terminal-based AI coding tools. AI Agent CLI Bridge helps you launch a preconfigured AI terminal session and send context...
-
-vendor: Hannos
-downloads: 22
-pricingModel: FREE
-xmlId: at.hannos.ai-agent-cli-bridge</description>
-      <pubDate>Wed, 22 Apr 2026 18:16:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31364-ai-agent-cli-bridge</guid>
-      <dc:date>2026-04-22T18:16:59Z</dc:date>
-    </item>
-    <item>
-      <title>LinhScript - Sun Apr 19 00:28:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31347-linhscript</link>
-      <description>LinhScript is a powerful custom language support plugin for IntelliJ IDEA. It provides advanced syntax highlighting, paired brace matching, and smart annotators for...
-
-vendor: HaQuangLinh181029
-downloads: 2
-pricingModel: FREE
-xmlId: me.hql.linhscript</description>
-      <pubDate>Sun, 19 Apr 2026 00:28:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31347-linhscript</guid>
-      <dc:date>2026-04-19T00:28:06Z</dc:date>
     </item>
   </channel>
 </rss>
