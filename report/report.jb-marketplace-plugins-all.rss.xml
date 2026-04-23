@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>TokenSlayer - Sun Apr 19 03:50:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31349-tokenslayer</link>
+      <description>TokenSlayer — Semantic Structural Cache for GitHub Copilot ⚡ Slash LLM token usage by 40–95% with AST-driven code skeletons. TokenSlayer eliminates the "orientation...
+
+vendor: KarthikArun
+downloads: 1
+pricingModel: FREE
+xmlId: com.tokenslayer.token-slayer-jb</description>
+      <pubDate>Sun, 19 Apr 2026 03:50:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31349-tokenslayer</guid>
+      <dc:date>2026-04-19T03:50:47Z</dc:date>
+    </item>
+    <item>
       <title>Kingbase JDBC Driver - Wed Apr 22 20:14:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31406-kingbase-jdbc-driver</link>
       <description>Bundles and automatically installs the KingbaseES JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. KingbaseES is a relational database management...
@@ -24,7 +37,7 @@ xmlId: com.github.tjlee.kingbasejdbcdriver</description>
       <description>Adds an inlay hint next to each Bazel rule in BUILD.bazel files. Click the hint to copy the fully-qualified target label (e.g. //path/to/package:target_name) to your...
 
 vendor: Samuel Santos
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.santossamuel.bazeltargetcopy</description>
       <pubDate>Wed, 22 Apr 2026 18:57:45 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.github.santossamuel.bazeltargetcopy</description>
       <description>Mekong Tunnel — Expose your local dev server to the internet with one click. Start / stop a public tunnel from the side panel Auto-detects the port and framework...
 
 vendor: Mekong Tunnel
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: dev.mekongtunnel.mekong-tunnel</description>
       <pubDate>Fri, 17 Apr 2026 17:16:53 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: dev.mekongtunnel.mekong-tunnel</description>
       <description>Draw attention to any section of your editor by annotating it with a colored border and a custom label. Make a difference when presenting courses or during code...
 
 vendor: Moka Technologies
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: net.mokatech.ij.plugin.annotate</description>
       <pubDate>Mon, 20 Apr 2026 19:47:16 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.github.mohamedshemees.kmpresourcesunfold</description>
       <description>Claude Terminal Tab Namer for Rider / IntelliJ Auto-renames terminal tabs to match the active Claude Code conversation, so you can juggle multiple Claude sessions...
 
 vendor: Ragnaraven
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.claudetabs.rider-claude-tabs</description>
       <pubDate>Mon, 20 Apr 2026 19:09:25 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.claudetabs.rider-claude-tabs</description>
       <description>AdbDeck is a focused tool window for Android Studio that puts common ADB operations at your fingertips. Stop context-switching to the terminal for toggling developer...
 
 vendor: AxonDragonScale
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.axondragonscale.adbdeck</description>
       <pubDate>Sat, 18 Apr 2026 19:47:50 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: com.github.axondragonscale.adbdeck</description>
       <description>Fork of makejavas/EasyCode, with dependency upgrades and compatibility improvements. EasyCode,Easy Code,easy,code,code generate,code tools English: The code generation...
 
 vendor: mawl
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.mawl.easycode</description>
       <pubDate>Wed, 22 Apr 2026 10:55:13 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.github.mawl.easycode</description>
       <description>Generate realistic example objects from your OpenAPI specifications. Features: Right-click over the OpenApi Specification file Parse OpenAPI 3.x and Swagger 2.x...
 
 vendor: Luis Pepe
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.luisppb16.openapi-generator</description>
       <pubDate>Sat, 18 Apr 2026 11:21:36 GMT</pubDate>
@@ -123,17 +136,17 @@ xmlId: com.luisppb16.openapi-generator</description>
       <dc:date>2026-04-18T11:21:36Z</dc:date>
     </item>
     <item>
-      <title>DiffLink - Thu Apr 23 02:33:15 UTC 2026</title>
+      <title>DiffLink - Thu Apr 23 05:26:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31398-difflink</link>
       <description>DiffLink opens file comparisons directly from inline @DiffLink markers. Add @DiffLink:path/to/file or @DiffLink:source, destination in a comment or plain-text line...
 
 vendor: neo
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.neo.difflink</description>
-      <pubDate>Thu, 23 Apr 2026 02:33:15 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 05:26:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31398-difflink</guid>
-      <dc:date>2026-04-23T02:33:15Z</dc:date>
+      <dc:date>2026-04-23T05:26:19Z</dc:date>
     </item>
     <item>
       <title>Timestamp Convert - Mon Apr 20 15:12:41 UTC 2026</title>
@@ -167,7 +180,7 @@ xmlId: com.lcb.ai_codereview_plugin</description>
       <description>LingMirror is a static diagnostic tool for Java ClassLoader leaks. 灵镜 LingMirror — 专注 Java 类加载器泄漏的静态诊断工具 点一下，60 秒找出让你 ClassLoader 永远卸载不掉的那条代码引用链。 为什么需要灵镜...
 
 vendor: 灵珑 LingFrame
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.lingmirror</description>
       <pubDate>Wed, 22 Apr 2026 00:22:37 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.lingmirror</description>
       <description>Run external tools when files change (community alternative to IDE File Watchers for non-Ultimate users). Configure watchers under Settings | Tools | WatchFile.
 
 vendor: kibernet
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.kibernet.watchfile</description>
       <pubDate>Wed, 22 Apr 2026 02:12:02 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.kibernet.watchfile</description>
       <description>Open context-aware web or file links from customizable URL templates.
 
 vendor: Kw Studio
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.openlinker</description>
       <pubDate>Sun, 19 Apr 2026 02:56:44 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.openlinker</description>
       <description>Mouse Gestures for IntelliJ IDEA Execute IDE actions by drawing mouse gestures. Hold the right mouse button, drag to draw a shape, then release — the assigned action...
 
 vendor: Aadammm
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.mousegesture</description>
       <pubDate>Tue, 21 Apr 2026 07:03:17 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.mousegesture</description>
       <description>CodeScape turns your project into a live map of code size and complexity. Explore the repo by language, module, source category (source/test/resources/generated), or...
 
 vendor: Henrik Westergård
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.codescape</description>
       <pubDate>Sun, 19 Apr 2026 08:45:16 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.github.codescape</description>
       <description>Seamlessly connect your IDE workflow with terminal-based AI coding tools. AI Agent CLI Bridge helps you launch a preconfigured AI terminal session and send context...
 
 vendor: Hannos
-downloads: 2
+downloads: 22
 pricingModel: FREE
 xmlId: at.hannos.ai-agent-cli-bridge</description>
       <pubDate>Wed, 22 Apr 2026 18:16:59 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: at.hannos.ai-agent-cli-bridge</description>
       <description>LinhScript is a powerful custom language support plugin for IntelliJ IDEA. It provides advanced syntax highlighting, paired brace matching, and smart annotators for...
 
 vendor: HaQuangLinh181029
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: me.hql.linhscript</description>
       <pubDate>Sun, 19 Apr 2026 00:28:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31347-linhscript</guid>
       <dc:date>2026-04-19T00:28:06Z</dc:date>
-    </item>
-    <item>
-      <title>Figma Panel - Wed Apr 22 01:53:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31392-figma-panel</link>
-      <description>Embedded Figma browser panel for JetBrains IDEs. Open Figma directly inside your IDE without switching windows. Full Figma web app embedded via JCEF — log in, inspect...
-
-vendor: gther248
-downloads: 0
-pricingModel: FREE
-xmlId: com.kimdonggeun.figmapanel</description>
-      <pubDate>Wed, 22 Apr 2026 01:53:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31392-figma-panel</guid>
-      <dc:date>2026-04-22T01:53:19Z</dc:date>
     </item>
   </channel>
 </rss>
