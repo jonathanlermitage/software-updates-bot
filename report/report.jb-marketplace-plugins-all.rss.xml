@@ -6,19 +6,6 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Llamatik Code - Fri Apr 24 06:34:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31304-llamatik-code</link>
-      <description>Llamatik Code is a local-first AI coding assistant for IntelliJ-based IDEs, designed to help you understand, modify, and generate code directly inside your project...
-
-vendor: Llamatik AI
-downloads: 4
-pricingModel: FREEMIUM
-xmlId: com.llamatik.teammate.LlamatikTeammate</description>
-      <pubDate>Fri, 24 Apr 2026 06:34:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31304-llamatik-code</guid>
-      <dc:date>2026-04-24T06:34:21Z</dc:date>
-    </item>
-    <item>
       <title>Port Forwarding - Thu Apr 23 15:26:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31413-port-forwarding</link>
       <description>Port Forwarding adds a native JetBrains settings page for managing SSH sessions and SSH tunnels directly inside the IDE. It supports local and remote forwarding...
@@ -264,6 +251,19 @@ xmlId: com.github.mawl.easycode</description>
       <pubDate>Wed, 22 Apr 2026 10:55:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31396-easycode-2026</guid>
       <dc:date>2026-04-22T10:55:13Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAPI SpecTacular - Sat Apr 18 11:21:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31338-openapi-spectacular</link>
+      <description>Generate realistic example objects from your OpenAPI specifications. Features: Right-click over the OpenApi Specification file Parse OpenAPI 3.x and Swagger 2.x...
+
+vendor: Luis Pepe
+downloads: 6
+pricingModel: FREE
+xmlId: com.luisppb16.openapi-generator</description>
+      <pubDate>Sat, 18 Apr 2026 11:21:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31338-openapi-spectacular</guid>
+      <dc:date>2026-04-18T11:21:36Z</dc:date>
     </item>
   </channel>
 </rss>
