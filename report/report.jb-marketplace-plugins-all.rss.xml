@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Port Forwarding - Thu Apr 23 15:26:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31413-port-forwarding</link>
+      <description>Port Forwarding adds a native JetBrains settings page for managing SSH sessions and SSH tunnels directly inside the IDE. It supports local and remote forwarding...
+
+vendor: YaoxinCS
+downloads: 0
+pricingModel: FREE
+xmlId: com.yaoxincs.portforwarding</description>
+      <pubDate>Thu, 23 Apr 2026 15:26:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31413-port-forwarding</guid>
+      <dc:date>2026-04-23T15:26:31Z</dc:date>
+    </item>
+    <item>
+      <title>DocBlock AI - Thu Apr 23 19:37:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31423-docblock-ai</link>
+      <description>Generate AI-powered documentation comments for the selected code using OpenAI or Anthropic Claude. Supports PHPDoc, JSDoc, TSDoc, Javadoc, KDoc, Google-style Python...
+
+vendor: Anton Berestov
+downloads: 0
+pricingModel: FREE
+xmlId: com.docblockai.docblock-ai</description>
+      <pubDate>Thu, 23 Apr 2026 19:37:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31423-docblock-ai</guid>
+      <dc:date>2026-04-23T19:37:06Z</dc:date>
+    </item>
+    <item>
+      <title>Local Review - Thu Apr 23 13:21:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31415-local-review</link>
+      <description>Local Review brings GitHub's "Viewed" checkbox to IntelliJ's Commit / Local Changes view — so you can keep track of which files in your working tree you've already...
+
+vendor: ARCHIPROGRAM Adam Kopeć
+downloads: 0
+pricingModel: FREE
+xmlId: pl.archiprogram.localreview</description>
+      <pubDate>Thu, 23 Apr 2026 13:21:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31415-local-review</guid>
+      <dc:date>2026-04-23T13:21:15Z</dc:date>
+    </item>
+    <item>
       <title>IDEGram - Thu Apr 23 06:08:36 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31378-idegram</link>
       <description>Telegram client integrated into your JetBrains IDE. Chat, share code snippets, and collaborate without leaving your editor.
@@ -32,17 +71,17 @@ xmlId: com.huskerdev.native-kt</description>
       <dc:date>2026-04-23T09:58:50Z</dc:date>
     </item>
     <item>
-      <title>MixinMCP - Wed Apr 22 22:58:53 UTC 2026</title>
+      <title>MixinMCP - Thu Apr 23 22:30:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31407-mixinmcp</link>
-      <description>Extends IntelliJ's built-in MCP Server with tools for Minecraft mod development. Key features: 1. Robust broad-scope search: Full type hierarchy — supertypes...
+      <description>Extends IntelliJ's built-in MCP Server with tools for Minecraft mod development, with the goal of improving mixin writing and inter-mod compatibility. GitHub...
 
 vendor: MuonR
 downloads: 0
 pricingModel: FREE
 xmlId: dev.mixinmcp</description>
-      <pubDate>Wed, 22 Apr 2026 22:58:53 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 22:30:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31407-mixinmcp</guid>
-      <dc:date>2026-04-22T22:58:53Z</dc:date>
+      <dc:date>2026-04-23T22:30:58Z</dc:date>
     </item>
     <item>
       <title>RunIt - Thu Apr 23 08:57:38 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: com.luisppb16.openapi-generator</description>
       <pubDate>Sat, 18 Apr 2026 11:21:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31338-openapi-spectacular</guid>
       <dc:date>2026-04-18T11:21:36Z</dc:date>
-    </item>
-    <item>
-      <title>DiffLink - Thu Apr 23 15:52:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31398-difflink</link>
-      <description>DiffLink opens file comparisons directly from inline @DiffLink markers. Add @DiffLink:path/to/file or @DiffLink:source, destination in a comment or plain-text line...
-
-vendor: neo
-downloads: 7
-pricingModel: FREE
-xmlId: com.neo.difflink</description>
-      <pubDate>Thu, 23 Apr 2026 15:52:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31398-difflink</guid>
-      <dc:date>2026-04-23T15:52:19Z</dc:date>
-    </item>
-    <item>
-      <title>Timestamp Convert - Mon Apr 20 15:12:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31371-timestamp-convert</link>
-      <description>Timestamp Tools helps you convert Unix timestamps and date-time strings directly inside IntelliJ IDEA. Convert second or millisecond timestamps to readable date-time...
-
-vendor: class
-downloads: 1
-pricingModel: FREE
-xmlId: com.ltp.timestamp.plugin.Timestamp-Plugin</description>
-      <pubDate>Mon, 20 Apr 2026 15:12:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31371-timestamp-convert</guid>
-      <dc:date>2026-04-20T15:12:41Z</dc:date>
-    </item>
-    <item>
-      <title>AI Code Reviews - Mon Apr 20 08:53:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31312-ai-code-reviews</link>
-      <description>AI Code Review reviews selected commit changes with an OpenAI-compatible model before they are committed. It helps developers catch risky logic, security, performance...
-
-vendor: lyreruin
-downloads: 2
-pricingModel: FREE
-xmlId: com.lcb.ai_codereview_plugin</description>
-      <pubDate>Mon, 20 Apr 2026 08:53:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31312-ai-code-reviews</guid>
-      <dc:date>2026-04-20T08:53:53Z</dc:date>
     </item>
   </channel>
 </rss>
