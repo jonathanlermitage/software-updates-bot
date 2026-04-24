@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Apr 24 16:17:08 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 23 20:17:33 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.11+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Apr 23 20:17:09 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.1 (261.23567.138) ~ 2026-04-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Apr 23 16:30:14 UTC 2026|
@@ -27,7 +28,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:43 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:41 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 00:08:19 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Feb 02 12:05:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jan 31 00:06:46 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jan 30 04:29:31 UTC 2026|
