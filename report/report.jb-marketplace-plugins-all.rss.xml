@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Rich Markdown Code Comments - Thu Apr 23 00:36:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30675-rich-markdown-code-comments</link>
+      <description>Rich developer notes in full Markdown with easy-to-find highlighting, hover previews, and clickable links. Create rich documentation that adds context for developers...
+
+vendor: RichComments
+downloads: 3
+pricingModel: PAID
+xmlId: org.richcomments.RichComments</description>
+      <pubDate>Thu, 23 Apr 2026 00:36:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30675-rich-markdown-code-comments</guid>
+      <dc:date>2026-04-23T00:36:54Z</dc:date>
+    </item>
+    <item>
       <title>SQLFolio - Fri Apr 24 03:49:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31429-sqlfolio</link>
       <description>SQLFolio — your personal SQL library inside DataGrip and IntelliJ-based IDEs. Stop losing useful queries in editor history. SQLFolio lets you save, organise and...
 
 vendor: aborotto
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: aborotto.sqlfolio</description>
       <pubDate>Fri, 24 Apr 2026 03:49:54 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: aborotto.sqlfolio</description>
       <description>Do you spend time choosing beautiful desktop wallpapers, only to never see them because your IDE stays fullscreen all day? Do you want your IDE background to follow...
 
 vendor: Zefirrat
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.zefir.rider-background-plugin</description>
       <pubDate>Thu, 23 Apr 2026 21:27:38 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.ericfortis.tabulareye</description>
       <description>Highlight lines with different colors to make code analysis, debugging, and code reviews easier. Highlight any line directly from the gutter Choose between 7 different...
 
 vendor: Kame
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.kame.prismlines</description>
       <pubDate>Fri, 24 Apr 2026 20:42:15 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: vip.hanbinglocal.apitester.pycharm-api-tester</description>
       <description>AI-Powered Code Performance Analyzer Comprehensive performance analysis tool for Java code with AI-powered insights and optimization suggestions. &#x1f680; Key Features...
 
 vendor: Abhishek Mishra
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: org.performancefix.epam.performance-analyser</description>
       <pubDate>Fri, 24 Apr 2026 13:07:03 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: org.performancefix.epam.performance-analyser</description>
       <description>Port Forwarding adds a native JetBrains settings page for managing SSH sessions and SSH tunnels directly inside the IDE. It supports local and remote forwarding...
 
 vendor: YaoxinCS
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: com.yaoxincs.portforwarding</description>
       <pubDate>Thu, 23 Apr 2026 15:26:31 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.yaoxincs.portforwarding</description>
       <description>Generate AI-powered documentation comments for the selected code using OpenAI or Anthropic Claude. Supports PHPDoc, JSDoc, TSDoc, Javadoc, KDoc, Google-style Python...
 
 vendor: Anton Berestov
-downloads: 4
+downloads: 24
 pricingModel: FREE
 xmlId: com.docblockai.docblock-ai</description>
       <pubDate>Thu, 23 Apr 2026 19:37:06 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.docblockai.docblock-ai</description>
       <description>Local Review brings GitHub's "Viewed" checkbox to IntelliJ's Commit / Local Changes view — so you can keep track of which files in your working tree you've already...
 
 vendor: ARCHIPROGRAM Adam Kopeć
-downloads: 2
+downloads: 29
 pricingModel: FREE
 xmlId: pl.archiprogram.localreview</description>
       <pubDate>Fri, 24 Apr 2026 07:44:40 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: pl.archiprogram.localreview</description>
       <description>Telegram client integrated into your JetBrains IDE. Chat, share code snippets, and collaborate without leaving your editor.
 
 vendor: mamadra
-downloads: 3
+downloads: 12
 pricingModel: FREE
 xmlId: com.idegram</description>
       <pubDate>Thu, 23 Apr 2026 06:08:36 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: com.idegram</description>
       <description>Syntax highlight for native-kt gradle plugin.
 
 vendor: Nikita Shtengauer
-downloads: 1
+downloads: 11
 pricingModel: FREE
 xmlId: com.huskerdev.native-kt</description>
       <pubDate>Thu, 23 Apr 2026 09:58:50 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: com.huskerdev.native-kt</description>
       <description>Extends IntelliJ's built-in MCP Server with tools for Minecraft mod development, with the goal of improving mixin writing and inter-mod compatibility. GitHub...
 
 vendor: MuonR
-downloads: 8
+downloads: 31
 pricingModel: FREE
 xmlId: dev.mixinmcp</description>
       <pubDate>Fri, 24 Apr 2026 18:49:52 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: dev.mixinmcp</description>
       <description>RunIt is a lightweight script launcher for JetBrains IDEs, built for teams and individuals who want fast, repeatable project commands directly from the toolbar. Store...
 
 vendor: Node Manager
-downloads: 2
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.runit</description>
       <pubDate>Thu, 23 Apr 2026 08:57:38 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.github.runit</description>
       <description>Xidl Language is an IntelliJ Platform plugin for the Xidl interface description language. It adds syntax highlighting, completion, annotators, folding, formatting...
 
 vendor: wps
-downloads: 2
+downloads: 16
 pricingModel: FREE
 xmlId: com.congroof.xidl</description>
       <pubDate>Thu, 23 Apr 2026 05:00:36 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.congroof.xidl</description>
       <description>Smart Git Doc: A one-click documentation deployment plugin based on smart-doc, which automatically generates Markdown and pushes it to a specified Git repository...
 
 vendor: happylwg
-downloads: 6
+downloads: 9
 pricingModel: FREE
 xmlId: com.bj.lwg.smart_git_doc_plugin</description>
       <pubDate>Thu, 23 Apr 2026 07:22:30 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.bj.lwg.smart_git_doc_plugin</description>
       <description>JSON Utilities is an IntelliJ IDEA plugin for formatting, cleaning, decoding, converting, and exploring JSON and related text formats during daily development...
 
 vendor: 赵铁柱
-downloads: 2
+downloads: 11
 pricingModel: FREE
 xmlId: thoven.achievement.net.json-util</description>
       <pubDate>Thu, 23 Apr 2026 03:40:09 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: thoven.achievement.net.json-util</description>
       <description>TokenSlayer — Semantic Structural Cache for GitHub Copilot ⚡ Slash LLM token usage by 40–95% with AST-driven code skeletons. TokenSlayer eliminates the "orientation...
 
 vendor: KarthikArun
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.tokenslayer.token-slayer-jb</description>
       <pubDate>Sun, 19 Apr 2026 03:50:47 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.tokenslayer.token-slayer-jb</description>
       <description>Bundles and automatically installs the KingbaseES JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. KingbaseES is a relational database management...
 
 vendor: Vasilii Chernov
-downloads: 5
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.tjlee.kingbasejdbcdriver</description>
       <pubDate>Wed, 22 Apr 2026 20:14:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31406-kingbase-jdbc-driver</guid>
       <dc:date>2026-04-22T20:14:20Z</dc:date>
-    </item>
-    <item>
-      <title>Bazel Target Copy - Thu Apr 23 11:11:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31404-bazel-target-copy</link>
-      <description>Adds an inlay hint next to each Bazel rule in BUILD.bazel files. Click the hint to copy the fully-qualified target label (e.g. //path/to/package:target_name) to your...
-
-vendor: Samuel Santos
-downloads: 11
-pricingModel: FREE
-xmlId: com.github.santossamuel.bazeltargetcopy</description>
-      <pubDate>Thu, 23 Apr 2026 11:11:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31404-bazel-target-copy</guid>
-      <dc:date>2026-04-23T11:11:24Z</dc:date>
     </item>
   </channel>
 </rss>
