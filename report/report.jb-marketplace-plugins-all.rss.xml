@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>C++ Raw String Embedded Languages - Fri Apr 24 01:18:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31427-c--raw-string-embedded-languages</link>
+      <description>Syntax highlighting for embedded languages in C++ raw string literals based on delimiter name. For example, R"sql(SELECT 1)sql" highlights the content as SQL, and...
+
+vendor: David Bourgault
+downloads: 1
+pricingModel: FREE
+xmlId: ca.davidbourgault.cppinlinerstring</description>
+      <pubDate>Fri, 24 Apr 2026 01:18:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31427-c--raw-string-embedded-languages</guid>
+      <dc:date>2026-04-24T01:18:38Z</dc:date>
+    </item>
+    <item>
+      <title>C++ Polyline Opener - Fri Apr 24 01:39:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31428-c--polyline-opener</link>
+      <description>Detects encoded polylines in annotated raw string literals and offers a line marker to open them in a map viewer. To annotate a raw string literal, use...
+
+vendor: David Bourgault
+downloads: 1
+pricingModel: FREE
+xmlId: ca.davidbourgault.cppinlinerstring.polyline</description>
+      <pubDate>Fri, 24 Apr 2026 01:39:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31428-c--polyline-opener</guid>
+      <dc:date>2026-04-24T01:39:43Z</dc:date>
+    </item>
+    <item>
       <title>Rich Markdown Code Comments - Thu Apr 23 00:36:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30675-rich-markdown-code-comments</link>
       <description>Rich developer notes in full Markdown with easy-to-find highlighting, hover previews, and clickable links. Create rich documentation that adds context for developers...
@@ -238,32 +264,6 @@ xmlId: thoven.achievement.net.json-util</description>
       <pubDate>Thu, 23 Apr 2026 03:40:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31178-json-utilities</guid>
       <dc:date>2026-04-23T03:40:09Z</dc:date>
-    </item>
-    <item>
-      <title>TokenSlayer - Sun Apr 19 03:50:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31349-tokenslayer</link>
-      <description>TokenSlayer — Semantic Structural Cache for GitHub Copilot ⚡ Slash LLM token usage by 40–95% with AST-driven code skeletons. TokenSlayer eliminates the "orientation...
-
-vendor: KarthikArun
-downloads: 8
-pricingModel: FREE
-xmlId: com.tokenslayer.token-slayer-jb</description>
-      <pubDate>Sun, 19 Apr 2026 03:50:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31349-tokenslayer</guid>
-      <dc:date>2026-04-19T03:50:47Z</dc:date>
-    </item>
-    <item>
-      <title>Kingbase JDBC Driver - Wed Apr 22 20:14:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31406-kingbase-jdbc-driver</link>
-      <description>Bundles and automatically installs the KingbaseES JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. KingbaseES is a relational database management...
-
-vendor: Vasilii Chernov
-downloads: 13
-pricingModel: FREE
-xmlId: com.github.tjlee.kingbasejdbcdriver</description>
-      <pubDate>Wed, 22 Apr 2026 20:14:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31406-kingbase-jdbc-driver</guid>
-      <dc:date>2026-04-22T20:14:20Z</dc:date>
     </item>
   </channel>
 </rss>
