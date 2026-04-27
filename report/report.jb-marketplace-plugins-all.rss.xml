@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>C++ Raw String Embedded Languages - Fri Apr 24 01:18:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31427-c--raw-string-embedded-languages</link>
-      <description>Syntax highlighting for embedded languages in C++ raw string literals based on delimiter name. For example, R"sql(SELECT 1)sql" highlights the content as SQL, and...
+      <title>Vikunja Task - Mon Apr 27 02:49:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31384-vikunja-task</link>
+      <description>Add Vikunja server config in Task Management.
 
-vendor: David Bourgault
-downloads: 2
-pricingModel: FREE
-xmlId: ca.davidbourgault.cppinlinerstring</description>
-      <pubDate>Fri, 24 Apr 2026 01:18:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31427-c--raw-string-embedded-languages</guid>
-      <dc:date>2026-04-24T01:18:38Z</dc:date>
-    </item>
-    <item>
-      <title>C++ Polyline Opener - Fri Apr 24 01:39:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31428-c--polyline-opener</link>
-      <description>Detects encoded polylines in annotated raw string literals and offers a line marker to open them in a map viewer. To annotate a raw string literal, use...
-
-vendor: David Bourgault
+vendor: joeygong
 downloads: 1
 pricingModel: FREE
-xmlId: ca.davidbourgault.cppinlinerstring.polyline</description>
-      <pubDate>Fri, 24 Apr 2026 01:39:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31428-c--polyline-opener</guid>
-      <dc:date>2026-04-24T01:39:43Z</dc:date>
+xmlId: me.rainsay.vikunja-task</description>
+      <pubDate>Mon, 27 Apr 2026 02:49:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31384-vikunja-task</guid>
+      <dc:date>2026-04-27T02:49:26Z</dc:date>
     </item>
     <item>
-      <title>Rich Markdown Code Comments - Thu Apr 23 00:36:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30675-rich-markdown-code-comments</link>
-      <description>Rich developer notes in full Markdown with easy-to-find highlighting, hover previews, and clickable links. Create rich documentation that adds context for developers...
+      <title>S3xplorer - Sun Apr 26 20:32:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31473-s3xplorer</link>
+      <description>S3xplorer turns any JetBrains IDE into a workbench for Ceph and S3-compatible storage. Configure one or more endpoints in Settings | Tools | S3xplorer, test...
 
-vendor: RichComments
-downloads: 8
+vendor: S3xplorer
+downloads: 0
+pricingModel: FREE
+xmlId: de.paulkirchhoff.s3xplorer</description>
+      <pubDate>Sun, 26 Apr 2026 20:32:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31473-s3xplorer</guid>
+      <dc:date>2026-04-26T20:32:05Z</dc:date>
+    </item>
+    <item>
+      <title>Visual GitHub Actions - Sun Apr 26 16:53:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31472-visual-github-actions</link>
+      <description>Visual workflow editor for GitHub Actions — the first of its kind for JetBrains IDEs. Stop reading walls of YAML. See your CI/CD pipelines as interactive visual graphs...
+
+vendor: meanmail.dev
+downloads: 0
 pricingModel: PAID
-xmlId: org.richcomments.RichComments</description>
-      <pubDate>Thu, 23 Apr 2026 00:36:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30675-rich-markdown-code-comments</guid>
-      <dc:date>2026-04-23T00:36:54Z</dc:date>
+xmlId: dev.meanmail.plugin.github-actions</description>
+      <pubDate>Sun, 26 Apr 2026 16:53:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31472-visual-github-actions</guid>
+      <dc:date>2026-04-26T16:53:45Z</dc:date>
     </item>
     <item>
-      <title>SQLFolio - Fri Apr 24 03:49:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31429-sqlfolio</link>
-      <description>SQLFolio — your personal SQL library inside DataGrip and IntelliJ-based IDEs. Stop losing useful queries in editor history. SQLFolio lets you save, organise and...
-
-vendor: aborotto
-downloads: 5
-pricingModel: FREE
-xmlId: aborotto.sqlfolio</description>
-      <pubDate>Fri, 24 Apr 2026 03:49:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31429-sqlfolio</guid>
-      <dc:date>2026-04-24T03:49:54Z</dc:date>
-    </item>
-    <item>
-      <title>Zefirrat. Wallpaper Background Sync. - Thu Apr 23 21:27:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31425-zefirrat-wallpaper-background-sync-</link>
-      <description>Do you spend time choosing beautiful desktop wallpapers, only to never see them because your IDE stays fullscreen all day? Do you want your IDE background to follow...
-
-vendor: Zefirrat
-downloads: 6
-pricingModel: FREE
-xmlId: dev.zefir.rider-background-plugin</description>
-      <pubDate>Thu, 23 Apr 2026 21:27:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31425-zefirrat-wallpaper-background-sync-</guid>
-      <dc:date>2026-04-23T21:27:38Z</dc:date>
-    </item>
-    <item>
-      <title>Dynamia Tasks - Mon Apr 27 02:42:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31430-dynamia-tasks</link>
-      <description>Dynamia Tasks is your developer task manager, living inside your IDE. Stop context-switching between browser tabs, issue trackers, and sticky notes. Dynamia Tasks...
-
-vendor: Dynamia Tools
-downloads: 11
-pricingModel: FREE
-xmlId: tools.dynamia.tasks</description>
-      <pubDate>Mon, 27 Apr 2026 02:42:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31430-dynamia-tasks</guid>
-      <dc:date>2026-04-27T02:42:00Z</dc:date>
-    </item>
-    <item>
-      <title>Tabular Eye - Fri Apr 24 17:16:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31443-tabular-eye</link>
-      <description>Renders certain code blocks in two columns without adding whitespace and supports proportional fonts. JS/TS/JSON object literals JS/TS 2D arraysTS interfacesCSS...
+      <title>Tailwind Eye - Fri Apr 24 17:23:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31444-tailwind-eye</link>
+      <description>Use the shortcut Shift + Alt + F to toggle between the two modes: Fade non-styling code: Fades everything except className attributes.Fold className content: Folds the...
 
 vendor: Eric Fortis
-downloads: 6
+downloads: 1
 pricingModel: FREE
-xmlId: com.ericfortis.tabulareye</description>
-      <pubDate>Fri, 24 Apr 2026 17:16:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31443-tabular-eye</guid>
-      <dc:date>2026-04-24T17:16:57Z</dc:date>
+xmlId: com.ericfortis.tailwindeye</description>
+      <pubDate>Fri, 24 Apr 2026 17:23:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31444-tailwind-eye</guid>
+      <dc:date>2026-04-24T17:23:54Z</dc:date>
     </item>
     <item>
-      <title>Prism Lines - Fri Apr 24 20:42:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31434-prism-lines</link>
-      <description>Highlight lines with different colors to make code analysis, debugging, and code reviews easier. Highlight any line directly from the gutter Choose between 7 different...
+      <title>Fenom template engine - Sun Apr 26 10:20:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31466-fenom-template-engine</link>
+      <description>Plugin for highlighting Fenom templates See more at https://github.com/fenom-template/fenom.
 
-vendor: Kame
-downloads: 29
+vendor: fenom
+downloads: 0
 pricingModel: FREE
-xmlId: com.kame.prismlines</description>
-      <pubDate>Fri, 24 Apr 2026 20:42:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31434-prism-lines</guid>
-      <dc:date>2026-04-24T20:42:15Z</dc:date>
+xmlId: ru.maxisoft.fenom</description>
+      <pubDate>Sun, 26 Apr 2026 10:20:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31466-fenom-template-engine</guid>
+      <dc:date>2026-04-26T10:20:49Z</dc:date>
     </item>
     <item>
-      <title>Python API Tester - Fri Apr 24 14:23:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31435-python-api-tester</link>
-      <description>Python API Tester A powerful API testing tool for Python Web frameworks (Django, Flask, FastAPI) built right into PyCharm. &#x1f50d; Auto-scan routes from Django urls.py...
+      <title>MSBuild Binlog Viewer - Sun Apr 26 11:54:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31467-msbuild-binlog-viewer</link>
+      <description>Open .binlog files in Rider using a dedicated viewer designed for fast inspection. Browse Build / Project / Target / Task / Message nodes as a tree Filter the tree by...
 
-vendor: Hanbing
+vendor: Hanachiru
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.hanachiru.msbuild.binlog</description>
+      <pubDate>Sun, 26 Apr 2026 11:54:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31467-msbuild-binlog-viewer</guid>
+      <dc:date>2026-04-26T11:54:04Z</dc:date>
+    </item>
+    <item>
+      <title>CrickCoder AI IDE - Sun Apr 26 13:02:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31468-crickcoder-ai-ide</link>
+      <description>CrickCoder: The Ultimate AI Agent for JetBrains CrickCoder is an advanced, fully autonomous coding assistant engineered specifically for the JetBrains ecosystem...
+
+vendor: CrickCoder
+downloads: 0
+pricingModel: FREE
+xmlId: com.crickcoder.ide</description>
+      <pubDate>Sun, 26 Apr 2026 13:02:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31468-crickcoder-ai-ide</guid>
+      <dc:date>2026-04-26T13:02:40Z</dc:date>
+    </item>
+    <item>
+      <title>Unicornvert - Sat Apr 25 10:45:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31456-unicornvert</link>
+      <description>Unicornvert Instantly convert selected text between readable characters and Unicode escape sequences — without leaving the editor. How to use Select any text in the...
+
+vendor: jeh
+downloads: 1
+pricingModel: FREE
+xmlId: com.unicornvert</description>
+      <pubDate>Sat, 25 Apr 2026 10:45:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31456-unicornvert</guid>
+      <dc:date>2026-04-25T10:45:31Z</dc:date>
+    </item>
+    <item>
+      <title>Open Terminal - Sat Apr 25 05:41:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31447-open-terminal</link>
+      <description>Use hotkey for quick open your system terminal from project root. Plugin adds an action in the Tools settings group.
+
+vendor: Vladislav Gerasimov
+downloads: 1
+pricingModel: FREE
+xmlId: com.vladigeras.open-terminal</description>
+      <pubDate>Sat, 25 Apr 2026 05:41:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31447-open-terminal</guid>
+      <dc:date>2026-04-25T05:41:13Z</dc:date>
+    </item>
+    <item>
+      <title>Clean Project Sidebar - Mon Apr 27 04:28:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31451-clean-project-sidebar</link>
+      <description>Cleans up the JetBrains Project sidebar by hiding External Libraries and gray library root labels (e.g. next to node_modules).
+
+vendor: Zeeshan Ahmad
+downloads: 1
+pricingModel: FREE
+xmlId: dev.zeeshan.jetbrains.clean-project-sidebar</description>
+      <pubDate>Mon, 27 Apr 2026 04:28:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31451-clean-project-sidebar</guid>
+      <dc:date>2026-04-27T04:28:03Z</dc:date>
+    </item>
+    <item>
+      <title>Scaffold - Sat Apr 25 08:13:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31455-scaffold</link>
+      <description>Local-first planning workflow plugin managing .scaffold sections, states, and prompts.
+
+vendor: Prasad Kirpekar
+downloads: 1
+pricingModel: FREE
+xmlId: com.scaffold.plugin</description>
+      <pubDate>Sat, 25 Apr 2026 08:13:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31455-scaffold</guid>
+      <dc:date>2026-04-25T08:13:29Z</dc:date>
+    </item>
+    <item>
+      <title>SearchMavenArtifactEasy - Sat Apr 25 07:00:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31454-searchmavenartifacteasy</link>
+      <description>SearchMavenArtifactEasy Search Maven Central dependencies and add them directly to pom.xml. Search: Search Maven artifacts by keyword Browse Versions: View all...
+
+vendor: xiaowei
+downloads: 1
+pricingModel: FREE
+xmlId: cc.xiaowei.SearchMavenArtifactEasy</description>
+      <pubDate>Sat, 25 Apr 2026 07:00:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31454-searchmavenartifacteasy</guid>
+      <dc:date>2026-04-25T07:00:11Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Code Terminal Tab - Sat Apr 25 06:24:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31453-claude-code-terminal-tab</link>
+      <description>Open Claude Code in JetBrains IDE's built-in Terminal with a single click. 一键在 JetBrains IDE 内置 Terminal 中打开 Claude Code。 Features / 功能 Click the Toolbar button to...
+
+vendor: Yungyu
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.yungyu16.claude-code-terminal-tab</description>
+      <pubDate>Sat, 25 Apr 2026 06:24:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31453-claude-code-terminal-tab</guid>
+      <dc:date>2026-04-25T06:24:58Z</dc:date>
+    </item>
+    <item>
+      <title>JvmFieldGenerator - Sat Apr 25 06:13:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31452-jvmfieldgenerator</link>
+      <description>JvmFieldGenerator generates Java/Kotlin class fields from plain-text definitions.
+
+vendor: Jenly Yu
 downloads: 2
 pricingModel: FREE
-xmlId: vip.hanbinglocal.apitester.pycharm-api-tester</description>
-      <pubDate>Fri, 24 Apr 2026 14:23:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31435-python-api-tester</guid>
-      <dc:date>2026-04-24T14:23:19Z</dc:date>
+xmlId: com.king.jvm.field.generator</description>
+      <pubDate>Sat, 25 Apr 2026 06:13:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31452-jvmfieldgenerator</guid>
+      <dc:date>2026-04-25T06:13:34Z</dc:date>
     </item>
     <item>
-      <title>Code Performance Analyzer - Fri Apr 24 13:07:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31422-code-performance-analyzer</link>
-      <description>AI-Powered Code Performance Analyzer Comprehensive performance analysis tool for Java code with AI-powered insights and optimization suggestions. &#x1f680; Key Features...
+      <title>Bruno - Sat Apr 25 15:09:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31450-bruno</link>
+      <description>Bruno Generator helps Spring Boot developers quickly create a Bruno collection from existing controllers. The plugin scans Spring MVC endpoints, detects HTTP methods...
 
-vendor: Abhishek Mishra
-downloads: 4
+vendor: Bruno2rdg
+downloads: 2
 pricingModel: FREE
-xmlId: org.performancefix.epam.performance-analyser</description>
-      <pubDate>Fri, 24 Apr 2026 13:07:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31422-code-performance-analyzer</guid>
-      <dc:date>2026-04-24T13:07:03Z</dc:date>
+xmlId: com.codeteam.bruno</description>
+      <pubDate>Sat, 25 Apr 2026 15:09:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31450-bruno</guid>
+      <dc:date>2026-04-25T15:09:16Z</dc:date>
     </item>
     <item>
-      <title>Port Forwarding - Thu Apr 23 15:26:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31413-port-forwarding</link>
-      <description>Port Forwarding adds a native JetBrains settings page for managing SSH sessions and SSH tunnels directly inside the IDE. It supports local and remote forwarding...
+      <title>Feather File Viewer - Sat Apr 25 14:55:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31458-feather-file-viewer</link>
+      <description>View Apache Feather (.feather / .arrow / .ipc) files directly in IntelliJ IDEA. Tabular viewer with column names, types, and scrollable rows Lazy loading / pagination...
 
-vendor: YaoxinCS
-downloads: 18
+vendor: Feather File Viewer
+downloads: 2
 pricingModel: FREE
-xmlId: com.yaoxincs.portforwarding</description>
-      <pubDate>Thu, 23 Apr 2026 15:26:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31413-port-forwarding</guid>
-      <dc:date>2026-04-23T15:26:31Z</dc:date>
+xmlId: com.featherplugin.feather-viewer</description>
+      <pubDate>Sat, 25 Apr 2026 14:55:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31458-feather-file-viewer</guid>
+      <dc:date>2026-04-25T14:55:08Z</dc:date>
     </item>
     <item>
-      <title>DocBlock AI - Thu Apr 23 19:37:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31423-docblock-ai</link>
-      <description>Generate AI-powered documentation comments for the selected code using OpenAI or Anthropic Claude. Supports PHPDoc, JSDoc, TSDoc, Javadoc, KDoc, Google-style Python...
+      <title>Fuzzy Finder - Mon Apr 27 07:25:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31449-fuzzy-finder</link>
+      <description>Fuzzy Finder adds lightweight search dialogs to IntelliJ-based IDEs by combining fd for fast candidate discovery and fzf for ranked filtering, plus ripgrep for live...
 
-vendor: Anton Berestov
-downloads: 31
+vendor: onare
+downloads: 2
 pricingModel: FREE
-xmlId: com.docblockai.docblock-ai</description>
-      <pubDate>Thu, 23 Apr 2026 19:37:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31423-docblock-ai</guid>
-      <dc:date>2026-04-23T19:37:06Z</dc:date>
+xmlId: com.github.reonaore.fuzzyfinderintellijplugin</description>
+      <pubDate>Mon, 27 Apr 2026 07:25:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31449-fuzzy-finder</guid>
+      <dc:date>2026-04-27T07:25:17Z</dc:date>
     </item>
     <item>
-      <title>Local Review - Fri Apr 24 07:44:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31415-local-review</link>
-      <description>Local Review brings GitHub's "Viewed" checkbox to IntelliJ's Commit / Local Changes view — so you can keep track of which files in your working tree you've already...
+      <title>CodeAtlas - Sat Apr 25 11:34:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31457-codeatlas</link>
+      <description>Natural-language code navigation for IntelliJ IDEA. Ask questions like "where is authentication implemented?" or "how does the payment flow work?" and jump directly to...
 
-vendor: ARCHIPROGRAM Adam Kopeć
-downloads: 34
+vendor: BugDigger
+downloads: 1
 pricingModel: FREE
-xmlId: pl.archiprogram.localreview</description>
-      <pubDate>Fri, 24 Apr 2026 07:44:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31415-local-review</guid>
-      <dc:date>2026-04-24T07:44:40Z</dc:date>
+xmlId: com.bugdigger.CodeAtlas</description>
+      <pubDate>Sat, 25 Apr 2026 11:34:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31457-codeatlas</guid>
+      <dc:date>2026-04-25T11:34:12Z</dc:date>
     </item>
     <item>
-      <title>IDEGram - Sun Apr 26 21:05:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31378-idegram</link>
-      <description>Telegram client integrated into your JetBrains IDE. Chat, share code snippets, and collaborate without leaving your editor.
+      <title>SpringForge - Sat Apr 25 23:37:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31462-springforge</link>
+      <description>Accelerate Your Spring Boot Development SpringForge is an IntelliJ IDEA plugin designed to automate the creation of boilerplate code for Spring Boot applications. Key...
 
-vendor: mamadra
-downloads: 18
+vendor: SpringForge
+downloads: 2
 pricingModel: FREE
-xmlId: com.idegram</description>
-      <pubDate>Sun, 26 Apr 2026 21:05:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31378-idegram</guid>
-      <dc:date>2026-04-26T21:05:24Z</dc:date>
+xmlId: com.babs.crudwizardrygenerator</description>
+      <pubDate>Sat, 25 Apr 2026 23:37:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31462-springforge</guid>
+      <dc:date>2026-04-25T23:37:18Z</dc:date>
     </item>
     <item>
-      <title>Native-Kt Utils - Thu Apr 23 09:58:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31414-native-kt-utils</link>
-      <description>Syntax highlight for native-kt gradle plugin.
+      <title>JOptimize - Sat Apr 25 21:02:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31460-joptimize</link>
+      <description>JOptimize — Performance &amp;amp; Security analyzer for Java &amp;amp; Spring Boot. Detects N+1 queries, OWASP vulnerabilities, memory leaks, concurrency issues and more...
 
-vendor: Nikita Shtengauer
-downloads: 14
+vendor: cristalog
+downloads: 1
 pricingModel: FREE
-xmlId: com.huskerdev.native-kt</description>
-      <pubDate>Thu, 23 Apr 2026 09:58:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31414-native-kt-utils</guid>
-      <dc:date>2026-04-23T09:58:50Z</dc:date>
-    </item>
-    <item>
-      <title>MixinMCP - Sat Apr 25 18:17:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31407-mixinmcp</link>
-      <description>Extends IntelliJ's built-in MCP Server with tools for Minecraft mod development, with the goal of improving mixin writing and inter-mod compatibility. GitHub...
-
-vendor: MuonR
-downloads: 63
-pricingModel: FREE
-xmlId: dev.mixinmcp</description>
-      <pubDate>Sat, 25 Apr 2026 18:17:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31407-mixinmcp</guid>
-      <dc:date>2026-04-25T18:17:55Z</dc:date>
-    </item>
-    <item>
-      <title>RunIt - Thu Apr 23 08:57:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31412-runit</link>
-      <description>RunIt is a lightweight script launcher for JetBrains IDEs, built for teams and individuals who want fast, repeatable project commands directly from the toolbar. Store...
-
-vendor: Node Manager
-downloads: 16
-pricingModel: FREE
-xmlId: com.github.runit</description>
-      <pubDate>Thu, 23 Apr 2026 08:57:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31412-runit</guid>
-      <dc:date>2026-04-23T08:57:38Z</dc:date>
-    </item>
-    <item>
-      <title>Xidl Language - Thu Apr 23 05:00:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31409-xidl-language</link>
-      <description>Xidl Language is an IntelliJ Platform plugin for the Xidl interface description language. It adds syntax highlighting, completion, annotators, folding, formatting...
-
-vendor: wps
-downloads: 18
-pricingModel: FREE
-xmlId: com.congroof.xidl</description>
-      <pubDate>Thu, 23 Apr 2026 05:00:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31409-xidl-language</guid>
-      <dc:date>2026-04-23T05:00:36Z</dc:date>
-    </item>
-    <item>
-      <title>Smart Git Doc - Thu Apr 23 07:22:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29059-smart-git-doc</link>
-      <description>Smart Git Doc: A one-click documentation deployment plugin based on smart-doc, which automatically generates Markdown and pushes it to a specified Git repository...
-
-vendor: happylwg
-downloads: 10
-pricingModel: FREE
-xmlId: com.bj.lwg.smart_git_doc_plugin</description>
-      <pubDate>Thu, 23 Apr 2026 07:22:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29059-smart-git-doc</guid>
-      <dc:date>2026-04-23T07:22:30Z</dc:date>
-    </item>
-    <item>
-      <title>JSON Utilities - Thu Apr 23 03:40:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31178-json-utilities</link>
-      <description>JSON Utilities is an IntelliJ IDEA plugin for formatting, cleaning, decoding, converting, and exploring JSON and related text formats during daily development...
-
-vendor: 赵铁柱
-downloads: 14
-pricingModel: FREE
-xmlId: thoven.achievement.net.json-util</description>
-      <pubDate>Thu, 23 Apr 2026 03:40:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31178-json-utilities</guid>
-      <dc:date>2026-04-23T03:40:09Z</dc:date>
+xmlId: com.joptimize.guard</description>
+      <pubDate>Sat, 25 Apr 2026 21:02:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31460-joptimize</guid>
+      <dc:date>2026-04-25T21:02:03Z</dc:date>
     </item>
   </channel>
 </rss>
