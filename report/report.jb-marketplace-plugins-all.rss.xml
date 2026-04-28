@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MayaReCharm - Wed Apr 15 13:31:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31239-mayarecharm</link>
+      <description>Maya integration for PyCharm. MayaReCharm lets you execute the current document or arbitrary code directly in Maya, and allows attaching the PyDev debugger to a...
+
+vendor: Mathieu Bouzard
+downloads: 8
+pricingModel: FREE
+xmlId: fr.mathbou.mayarecharm</description>
+      <pubDate>Wed, 15 Apr 2026 13:31:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31239-mayarecharm</guid>
+      <dc:date>2026-04-15T13:31:05Z</dc:date>
+    </item>
+    <item>
       <title>Brain Retention Optimizer - Mon Apr 27 14:40:41 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31493-brain-retention-optimizer</link>
       <description>We Solved Focus. You're Welcome. Background tasks used to mean one thing: you drifting to your phone for 67 minutes. Not anymore. BRO opens a tool window with animated...
 
 vendor: dmyud
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.dmyud.bro</description>
       <pubDate>Mon, 27 Apr 2026 14:40:41 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: com.dmyud.bro</description>
       <description>MLN / Lua hot reload for mobile: USB and Wi‑Fi sync (community build for current IntelliJ versions). Usage: 1. Connect phone by usb/wifi 2. Choose a lua file under src...
 
 vendor: MLN hot reload
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.mln.hotreload.plugin</description>
       <pubDate>Mon, 27 Apr 2026 09:55:03 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.mln.hotreload.plugin</description>
       <description>Three annotation families for Java with companion IDE tooling: @ResourcePath (static resource-path validation), @XContract (superset of JetBrains @Contract), and...
 
 vendor: Simplified Dev
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: dev.simplified.simplified-annotations</description>
       <pubDate>Mon, 27 Apr 2026 09:46:05 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.github.arturkovalchuk.intellijplatformpluginopenincursor</description
       <description>Navigate between @UseCase annotated test methods and their Markdown specs. Gutter icon on @UseCase annotation jumps to the matching UC-XXX-*.md file Gutter icon on...
 
 vendor: Simon Martinelli
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: ai.unifiedprocess.tools.ij</description>
       <pubDate>Mon, 27 Apr 2026 15:39:56 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: ai.unifiedprocess.tools.ij</description>
       <description>GitScribe is an IntelliJ Platform plugin that generates commit messages from staged or selected VCS changes using large language models. It integrates with the...
 
 vendor: allanwxl
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.allanwxl.gitscribe</description>
       <pubDate>Mon, 27 Apr 2026 07:53:03 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.github.allanwxl.gitscribe</description>
       <description>View primary Android Vitals like crash, ANRs, and non-fatal errors from within the Android Studio environment. With Apptics insights, you can: Filter reported issues...
 
 vendor: Zoho Corporation
-downloads: 5
+downloads: 6
 pricingModel: FREE
 xmlId: com.zoho.apptics.androidstudioplugin</description>
       <pubDate>Mon, 27 Apr 2026 06:54:51 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: com.zoho.apptics.androidstudioplugin</description>
       <description>Enhances Find Usages for Android ViewBinding in IntelliJ IDEA / Android Studio. When you run Find Usages on an @+id/xxx attribute in an XML layout file, the results...
 
 vendor: ViewBinding Find Usages
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.dragold.plugin.viewbinding-findusages</description>
       <pubDate>Mon, 27 Apr 2026 06:50:29 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.dragold.plugin.viewbinding-findusages</description>
       <description>IconFont Viewer for Android Studio Preview iconfont glyphs directly in the editor gutter when referencing string resources that map to icon font characters. Features...
 
 vendor: BullFrog
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.bullfrog.IconFontViewer</description>
       <pubDate>Mon, 27 Apr 2026 09:10:40 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.bullfrog.IconFontViewer</description>
       <description>Work with and integrate Sinch's Conversation API directly into your IDE. Send SMS and RCS messages, manage webhooks, and access AI-powered code snippets without...
 
 vendor: Sinch
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.sinch.plugin.sinch-intellij-plugin</description>
       <pubDate>Thu, 16 Apr 2026 10:13:46 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.sinch.plugin.sinch-intellij-plugin</description>
       <description>Add Vikunja server config in Task Management.
 
 vendor: joeygong
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: me.rainsay.vikunja-task</description>
       <pubDate>Mon, 27 Apr 2026 02:49:26 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: me.rainsay.vikunja-task</description>
       <description>S3xplorer turns any JetBrains IDE into a workbench for Ceph and S3-compatible storage. Configure one or more endpoints in Settings | Tools | S3xplorer, test...
 
 vendor: S3xplorer
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: de.paulkirchhoff.s3xplorer</description>
       <pubDate>Sun, 26 Apr 2026 20:32:05 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: de.paulkirchhoff.s3xplorer</description>
       <description>Visual workflow editor for GitHub Actions — the first of its kind for JetBrains IDEs. Stop reading walls of YAML. See your CI/CD pipelines as interactive visual graphs...
 
 vendor: meanmail.dev
-downloads: 0
+downloads: 7
 pricingModel: PAID
 xmlId: dev.meanmail.plugin.github-actions</description>
       <pubDate>Sun, 26 Apr 2026 16:53:45 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: dev.meanmail.plugin.github-actions</description>
       <description>Use the shortcut Shift + Alt + F to toggle between the two modes: Fade non-styling code: Fades everything except className attributes.Fold className content: Folds the...
 
 vendor: Eric Fortis
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.ericfortis.tailwindeye</description>
       <pubDate>Fri, 24 Apr 2026 17:23:54 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.ericfortis.tailwindeye</description>
       <description>Plugin for highlighting Fenom templates See more at https://github.com/fenom-template/fenom.
 
 vendor: fenom
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: ru.maxisoft.fenom</description>
       <pubDate>Sun, 26 Apr 2026 10:20:49 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: ru.maxisoft.fenom</description>
       <description>Open .binlog files in Rider using a dedicated viewer designed for fast inspection. Browse Build / Project / Target / Task / Message nodes as a tree Filter the tree by...
 
 vendor: Hanachiru
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.hanachiru.msbuild.binlog</description>
       <pubDate>Sun, 26 Apr 2026 11:54:04 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.github.hanachiru.msbuild.binlog</description>
       <description>CrickCoder: The Ultimate AI Agent for JetBrains CrickCoder is an advanced, fully autonomous coding assistant engineered specifically for the JetBrains ecosystem...
 
 vendor: CrickCoder
-downloads: 0
+downloads: 19
 pricingModel: FREE
 xmlId: com.crickcoder.ide</description>
       <pubDate>Mon, 27 Apr 2026 16:09:50 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.crickcoder.ide</description>
       <description>Unicornvert Instantly convert selected text between readable characters and Unicode escape sequences — without leaving the editor. How to use Select any text in the...
 
 vendor: jeh
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: com.unicornvert</description>
       <pubDate>Sat, 25 Apr 2026 10:45:31 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.unicornvert</description>
       <description>Use hotkey for quick open your system terminal from project root. Plugin adds an action in the Tools settings group.
 
 vendor: Vladislav Gerasimov
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.vladigeras.open-terminal</description>
       <pubDate>Sat, 25 Apr 2026 05:41:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31447-open-terminal</guid>
       <dc:date>2026-04-25T05:41:13Z</dc:date>
-    </item>
-    <item>
-      <title>Clean Project Sidebar - Mon Apr 27 04:28:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31451-clean-project-sidebar</link>
-      <description>Cleans up the JetBrains Project sidebar by hiding External Libraries and gray library root labels (e.g. next to node_modules).
-
-vendor: Zeeshan Ahmad
-downloads: 1
-pricingModel: FREE
-xmlId: dev.zeeshan.jetbrains.clean-project-sidebar</description>
-      <pubDate>Mon, 27 Apr 2026 04:28:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31451-clean-project-sidebar</guid>
-      <dc:date>2026-04-27T04:28:03Z</dc:date>
     </item>
   </channel>
 </rss>
