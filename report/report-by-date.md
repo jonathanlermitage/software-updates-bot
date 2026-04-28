@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.31+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Apr 28 08:45:04 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.31+11|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Apr 28 08:45:04 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.11+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Apr 27 12:25:36 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Apr 24 16:17:08 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 23 20:17:33 UTC 2026|
@@ -28,10 +30,8 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Feb 04 00:06:12 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.10+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.18+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:43 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Feb 03 20:06:41 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Feb 02 12:05:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.2+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Sat Jan 31 00:06:46 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.30+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jan 28 12:02:28 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|

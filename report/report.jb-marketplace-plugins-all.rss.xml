@@ -6,6 +6,110 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FishNovel - Tue Apr 28 07:14:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31500-fishnovel</link>
+      <description>FishNovel turns IntelliJ IDEA into a lightweight novel reader with local multi-format support, tool-window reading, progress memory, bookmarks, history, and web novel...
+
+vendor: FishNovel
+downloads: 0
+pricingModel: FREE
+xmlId: com.fishnovel.idea</description>
+      <pubDate>Tue, 28 Apr 2026 07:14:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31500-fishnovel</guid>
+      <dc:date>2026-04-28T07:14:09Z</dc:date>
+    </item>
+    <item>
+      <title>Crash2Test - Mon Apr 27 14:42:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31494-crash2test</link>
+      <description>Crash2Test is a local AI-powered IntelliJ IDEA plugin that helps developers turn stack traces and runtime errors into debugging timelines and regression test ideas.
+
+vendor: Alexandr Biktimirov
+downloads: 0
+pricingModel: FREE
+xmlId: com.crash2test.plugin</description>
+      <pubDate>Mon, 27 Apr 2026 14:42:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31494-crash2test</guid>
+      <dc:date>2026-04-27T14:42:28Z</dc:date>
+    </item>
+    <item>
+      <title>GetX Folder Structure - Mon Apr 27 12:55:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31483-getx-folder-structure</link>
+      <description>GetX Folder Structure is an IntelliJ plugin that helps developers quickly generate and manage scalable GetX architecture folders for Flutter projects. It improves...
+
+vendor: Deekanshu Saini
+downloads: 0
+pricingModel: FREE
+xmlId: com.devds.getx</description>
+      <pubDate>Mon, 27 Apr 2026 12:55:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31483-getx-folder-structure</guid>
+      <dc:date>2026-04-27T12:55:27Z</dc:date>
+    </item>
+    <item>
+      <title>MBTraining Engine Framework - Mon Apr 27 12:38:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31432-mbtraining-engine-framework</link>
+      <description>MBTraining Engine Framework is a proof of concept (POC) for modular, in-IDE technical training. This plugin provides the core runtime only. It does not include...
+
+vendor: Van Thanh Duy
+downloads: 1
+pricingModel: FREE
+xmlId: com.mb.training.engine</description>
+      <pubDate>Mon, 27 Apr 2026 12:38:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31432-mbtraining-engine-framework</guid>
+      <dc:date>2026-04-27T12:38:35Z</dc:date>
+    </item>
+    <item>
+      <title>Fun Interface Implementation Marker - Mon Apr 27 12:00:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31486-fun-interface-implementation-marker</link>
+      <description>Marks Kotlin fun interface declarations and their implementations with gutter icons, and provides bidirectional navigation between them. Icon beside every fun...
+
+vendor: Kotlin Functional Interface Navigator
+downloads: 0
+pricingModel: FREE
+xmlId: com.funinterface.marker.plugin</description>
+      <pubDate>Mon, 27 Apr 2026 12:00:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31486-fun-interface-implementation-marker</guid>
+      <dc:date>2026-04-27T12:00:59Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Commit - Mon Apr 27 20:47:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31445-claude-commit</link>
+      <description>Adds a Generate with Claude button to the Git commit dialog. On click, it sends your staged diff and branch name to the locally installed Claude Code CLI and fills in...
+
+vendor: Aliaksei Afanasyeu
+downloads: 1
+pricingModel: FREE
+xmlId: com.bocman.claudecommit</description>
+      <pubDate>Mon, 27 Apr 2026 20:47:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31445-claude-commit</guid>
+      <dc:date>2026-04-27T20:47:36Z</dc:date>
+    </item>
+    <item>
+      <title>Debug MCP - Mon Apr 27 18:44:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31497-debug-mcp</link>
+      <description>Control IntelliJ IDEA with AI coding assistants like Claude Code via the Model Context Protocol (MCP). The plugin starts a local MCP server (JSON-RPC 2.0 over HTTP on...
+
+vendor: Alexey Leping
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.alexeyleping.intellij-debug-mcp</description>
+      <pubDate>Mon, 27 Apr 2026 18:44:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31497-debug-mcp</guid>
+      <dc:date>2026-04-27T18:44:52Z</dc:date>
+    </item>
+    <item>
+      <title>ImageFlow Converter - Mon Apr 27 18:19:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31487-imageflow-converter</link>
+      <description>ImageFlow Converter is a fast and focused image conversion plugin for IntelliJ IDEA and Android Studio. It helps developers work with common image formats more...
+
+vendor: Youssef Saber
+downloads: 0
+pricingModel: FREE
+xmlId: com.yousseflabs.iamgeflowconverter</description>
+      <pubDate>Mon, 27 Apr 2026 18:19:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31487-imageflow-converter</guid>
+      <dc:date>2026-04-27T18:19:05Z</dc:date>
+    </item>
+    <item>
       <title>MayaReCharm - Wed Apr 15 13:31:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31239-mayarecharm</link>
       <description>Maya integration for PyCharm. MayaReCharm lets you execute the current document or arbitrary code directly in Maya, and allows attaching the PyDev debugger to a...
@@ -58,20 +162,20 @@ xmlId: dev.simplified.simplified-annotations</description>
       <dc:date>2026-04-27T09:46:05Z</dc:date>
     </item>
     <item>
-      <title>Open in Cursor IDE - Mon Apr 27 13:05:18 UTC 2026</title>
+      <title>Open in Cursor IDE - Tue Apr 28 07:40:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31482-open-in-cursor-ide</link>
       <description>Open the current file (or any file/folder from the Project view) directly in Cursor IDE. The action is added to IDEA's standard Open In submenu (RevealGroup), so it...
 
 vendor: Artur Kovalchuk
-downloads: 0
+downloads: 25
 pricingModel: FREE
 xmlId: com.github.arturkovalchuk.intellijplatformpluginopenincursor</description>
-      <pubDate>Mon, 27 Apr 2026 13:05:18 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 07:40:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31482-open-in-cursor-ide</guid>
-      <dc:date>2026-04-27T13:05:18Z</dc:date>
+      <dc:date>2026-04-28T07:40:25Z</dc:date>
     </item>
     <item>
-      <title>AI Unified Process Navigator - Mon Apr 27 15:39:56 UTC 2026</title>
+      <title>AI Unified Process Navigator - Tue Apr 28 07:43:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31481-ai-unified-process-navigator</link>
       <description>Navigate between @UseCase annotated test methods and their Markdown specs. Gutter icon on @UseCase annotation jumps to the matching UC-XXX-*.md file Gutter icon on...
 
@@ -79,12 +183,12 @@ vendor: Simon Martinelli
 downloads: 7
 pricingModel: FREE
 xmlId: ai.unifiedprocess.tools.ij</description>
-      <pubDate>Mon, 27 Apr 2026 15:39:56 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 07:43:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31481-ai-unified-process-navigator</guid>
-      <dc:date>2026-04-27T15:39:56Z</dc:date>
+      <dc:date>2026-04-28T07:43:44Z</dc:date>
     </item>
     <item>
-      <title>GitScribe - Mon Apr 27 07:53:03 UTC 2026</title>
+      <title>GitScribe - Tue Apr 28 04:58:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31479-gitscribe</link>
       <description>GitScribe is an IntelliJ Platform plugin that generates commit messages from staged or selected VCS changes using large language models. It integrates with the...
 
@@ -92,9 +196,9 @@ vendor: allanwxl
 downloads: 1
 pricingModel: FREE
 xmlId: com.github.allanwxl.gitscribe</description>
-      <pubDate>Mon, 27 Apr 2026 07:53:03 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 04:58:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31479-gitscribe</guid>
-      <dc:date>2026-04-27T07:53:03Z</dc:date>
+      <dc:date>2026-04-28T04:58:52Z</dc:date>
     </item>
     <item>
       <title>Apptics Insights - Mon Apr 27 06:54:51 UTC 2026</title>
@@ -160,110 +264,6 @@ xmlId: me.rainsay.vikunja-task</description>
       <pubDate>Mon, 27 Apr 2026 02:49:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31384-vikunja-task</guid>
       <dc:date>2026-04-27T02:49:26Z</dc:date>
-    </item>
-    <item>
-      <title>S3xplorer - Sun Apr 26 20:32:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31473-s3xplorer</link>
-      <description>S3xplorer turns any JetBrains IDE into a workbench for Ceph and S3-compatible storage. Configure one or more endpoints in Settings | Tools | S3xplorer, test...
-
-vendor: S3xplorer
-downloads: 8
-pricingModel: FREE
-xmlId: de.paulkirchhoff.s3xplorer</description>
-      <pubDate>Sun, 26 Apr 2026 20:32:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31473-s3xplorer</guid>
-      <dc:date>2026-04-26T20:32:05Z</dc:date>
-    </item>
-    <item>
-      <title>Visual GitHub Actions - Sun Apr 26 16:53:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31472-visual-github-actions</link>
-      <description>Visual workflow editor for GitHub Actions — the first of its kind for JetBrains IDEs. Stop reading walls of YAML. See your CI/CD pipelines as interactive visual graphs...
-
-vendor: meanmail.dev
-downloads: 7
-pricingModel: PAID
-xmlId: dev.meanmail.plugin.github-actions</description>
-      <pubDate>Sun, 26 Apr 2026 16:53:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31472-visual-github-actions</guid>
-      <dc:date>2026-04-26T16:53:45Z</dc:date>
-    </item>
-    <item>
-      <title>Tailwind Eye - Fri Apr 24 17:23:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31444-tailwind-eye</link>
-      <description>Use the shortcut Shift + Alt + F to toggle between the two modes: Fade non-styling code: Fades everything except className attributes.Fold className content: Folds the...
-
-vendor: Eric Fortis
-downloads: 3
-pricingModel: FREE
-xmlId: com.ericfortis.tailwindeye</description>
-      <pubDate>Fri, 24 Apr 2026 17:23:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31444-tailwind-eye</guid>
-      <dc:date>2026-04-24T17:23:54Z</dc:date>
-    </item>
-    <item>
-      <title>Fenom template engine - Sun Apr 26 10:20:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31466-fenom-template-engine</link>
-      <description>Plugin for highlighting Fenom templates See more at https://github.com/fenom-template/fenom.
-
-vendor: fenom
-downloads: 2
-pricingModel: FREE
-xmlId: ru.maxisoft.fenom</description>
-      <pubDate>Sun, 26 Apr 2026 10:20:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31466-fenom-template-engine</guid>
-      <dc:date>2026-04-26T10:20:49Z</dc:date>
-    </item>
-    <item>
-      <title>MSBuild Binlog Viewer - Sun Apr 26 11:54:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31467-msbuild-binlog-viewer</link>
-      <description>Open .binlog files in Rider using a dedicated viewer designed for fast inspection. Browse Build / Project / Target / Task / Message nodes as a tree Filter the tree by...
-
-vendor: Hanachiru
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.hanachiru.msbuild.binlog</description>
-      <pubDate>Sun, 26 Apr 2026 11:54:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31467-msbuild-binlog-viewer</guid>
-      <dc:date>2026-04-26T11:54:04Z</dc:date>
-    </item>
-    <item>
-      <title>CrickCoder AI IDE - Mon Apr 27 16:09:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31468-crickcoder-ai-ide</link>
-      <description>CrickCoder: The Ultimate AI Agent for JetBrains CrickCoder is an advanced, fully autonomous coding assistant engineered specifically for the JetBrains ecosystem...
-
-vendor: CrickCoder
-downloads: 19
-pricingModel: FREE
-xmlId: com.crickcoder.ide</description>
-      <pubDate>Mon, 27 Apr 2026 16:09:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31468-crickcoder-ai-ide</guid>
-      <dc:date>2026-04-27T16:09:50Z</dc:date>
-    </item>
-    <item>
-      <title>Unicornvert - Sat Apr 25 10:45:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31456-unicornvert</link>
-      <description>Unicornvert Instantly convert selected text between readable characters and Unicode escape sequences — without leaving the editor. How to use Select any text in the...
-
-vendor: jeh
-downloads: 7
-pricingModel: FREE
-xmlId: com.unicornvert</description>
-      <pubDate>Sat, 25 Apr 2026 10:45:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31456-unicornvert</guid>
-      <dc:date>2026-04-25T10:45:31Z</dc:date>
-    </item>
-    <item>
-      <title>Open Terminal - Sat Apr 25 05:41:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31447-open-terminal</link>
-      <description>Use hotkey for quick open your system terminal from project root. Plugin adds an action in the Tools settings group.
-
-vendor: Vladislav Gerasimov
-downloads: 6
-pricingModel: FREE
-xmlId: com.vladigeras.open-terminal</description>
-      <pubDate>Sat, 25 Apr 2026 05:41:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31447-open-terminal</guid>
-      <dc:date>2026-04-25T05:41:13Z</dc:date>
     </item>
   </channel>
 </rss>
