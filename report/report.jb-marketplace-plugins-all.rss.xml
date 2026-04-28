@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Claude Code Chat - Tue Apr 28 09:39:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31507-claude-code-chat</link>
+      <description>Claude Code for IntelliJ Bring the full power of Claude Code directly into your IDE. Chat with Claude in a side panel, run multiple sessions in parallel, and let...
+
+vendor: BRCoders
+downloads: 0
+pricingModel: FREE
+xmlId: com.claudecode.plugin</description>
+      <pubDate>Tue, 28 Apr 2026 09:39:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31507-claude-code-chat</guid>
+      <dc:date>2026-04-28T09:39:04Z</dc:date>
+    </item>
+    <item>
+      <title>GGUF Editor - Tue Apr 28 07:08:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31505-gguf-editor</link>
+      <description>View, inspect, search, and edit GGUF model metadata from JetBrains IDEs. Features Open .gguf files from the Project View context menu Inspect metadata keys, values...
+
+vendor: gguf
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.gguf.editor</description>
+      <pubDate>Tue, 28 Apr 2026 07:08:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31505-gguf-editor</guid>
+      <dc:date>2026-04-28T07:08:22Z</dc:date>
+    </item>
+    <item>
+      <title>WebObjects / WONDER - Tue Apr 28 07:41:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31504-webobjects--wonder</link>
+      <description>Early-stage plugin for mavenized WebObjects / WONDER projects. WebObjects run configuration with sensible defaults (Maven process-resources, working directory under...
+
+vendor: Markus Stoll
+downloads: 0
+pricingModel: FREE
+xmlId: de.junidas.webobjects.ijplugin</description>
+      <pubDate>Tue, 28 Apr 2026 07:41:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31504-webobjects--wonder</guid>
+      <dc:date>2026-04-28T07:41:12Z</dc:date>
+    </item>
+    <item>
+      <title>Screenshot+ - Mon Apr 27 07:31:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31471-screenshot-</link>
+      <description>Screenshot+ is an Android Studio plugin for capturing and annotating screenshots from ADB-connected Android devices — without leaving the IDE. Capture screenshots...
+
+vendor: 甲木庚金
+downloads: 1
+pricingModel: PAID
+xmlId: com.jiamugengjin.screenshotplus</description>
+      <pubDate>Mon, 27 Apr 2026 07:31:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31471-screenshot-</guid>
+      <dc:date>2026-04-27T07:31:27Z</dc:date>
+    </item>
+    <item>
+      <title>MBTraining Karate Pack - Mon Apr 27 16:26:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31495-mbtraining-karate-pack</link>
+      <description>MBTraining Karate Pack is a proof of concept (POC) training content pack for MBTraining Engine Framework. Important: all exercise content in this pack is AI-generated...
+
+vendor: Van Thanh Duy
+downloads: 0
+pricingModel: FREE
+xmlId: com.mb.training.karate.pack</description>
+      <pubDate>Mon, 27 Apr 2026 16:26:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31495-mbtraining-karate-pack</guid>
+      <dc:date>2026-04-27T16:26:31Z</dc:date>
+    </item>
+    <item>
+      <title>Arthas Hot Deploy - Tue Apr 28 03:14:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31502-arthas-hot-deploy</link>
+      <description>Arthas Hot Deploy An IntelliJ IDEA plugin for Java hot deployment based on Arthas retransform command. Right-click a Java file to generate a hot deploy script, then...
+
+vendor: neuSnail
+downloads: 0
+pricingModel: FREE
+xmlId: com.arthas.hotdeploy</description>
+      <pubDate>Tue, 28 Apr 2026 03:14:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31502-arthas-hot-deploy</guid>
+      <dc:date>2026-04-28T03:14:43Z</dc:date>
+    </item>
+    <item>
       <title>FishNovel - Tue Apr 28 07:14:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31500-fishnovel</link>
       <description>FishNovel turns IntelliJ IDEA into a lightweight novel reader with local multi-format support, tool-window reading, progress memory, bookmarks, history, and web novel...
@@ -186,84 +264,6 @@ xmlId: ai.unifiedprocess.tools.ij</description>
       <pubDate>Tue, 28 Apr 2026 07:43:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31481-ai-unified-process-navigator</guid>
       <dc:date>2026-04-28T07:43:44Z</dc:date>
-    </item>
-    <item>
-      <title>GitScribe - Tue Apr 28 04:58:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31479-gitscribe</link>
-      <description>GitScribe is an IntelliJ Platform plugin that generates commit messages from staged or selected VCS changes using large language models. It integrates with the...
-
-vendor: allanwxl
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.allanwxl.gitscribe</description>
-      <pubDate>Tue, 28 Apr 2026 04:58:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31479-gitscribe</guid>
-      <dc:date>2026-04-28T04:58:52Z</dc:date>
-    </item>
-    <item>
-      <title>Apptics Insights - Mon Apr 27 06:54:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/28349-apptics-insights</link>
-      <description>View primary Android Vitals like crash, ANRs, and non-fatal errors from within the Android Studio environment. With Apptics insights, you can: Filter reported issues...
-
-vendor: Zoho Corporation
-downloads: 6
-pricingModel: FREE
-xmlId: com.zoho.apptics.androidstudioplugin</description>
-      <pubDate>Mon, 27 Apr 2026 06:54:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28349-apptics-insights</guid>
-      <dc:date>2026-04-27T06:54:51Z</dc:date>
-    </item>
-    <item>
-      <title>ViewBinding Find Usages - Mon Apr 27 06:50:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31410-viewbinding-find-usages</link>
-      <description>Enhances Find Usages for Android ViewBinding in IntelliJ IDEA / Android Studio. When you run Find Usages on an @+id/xxx attribute in an XML layout file, the results...
-
-vendor: ViewBinding Find Usages
-downloads: 2
-pricingModel: FREE
-xmlId: com.dragold.plugin.viewbinding-findusages</description>
-      <pubDate>Mon, 27 Apr 2026 06:50:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31410-viewbinding-find-usages</guid>
-      <dc:date>2026-04-27T06:50:29Z</dc:date>
-    </item>
-    <item>
-      <title>IconFontViewer - Mon Apr 27 09:10:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31478-iconfontviewer</link>
-      <description>IconFont Viewer for Android Studio Preview iconfont glyphs directly in the editor gutter when referencing string resources that map to icon font characters. Features...
-
-vendor: BullFrog
-downloads: 4
-pricingModel: FREE
-xmlId: com.bullfrog.IconFontViewer</description>
-      <pubDate>Mon, 27 Apr 2026 09:10:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31478-iconfontviewer</guid>
-      <dc:date>2026-04-27T09:10:40Z</dc:date>
-    </item>
-    <item>
-      <title>Sinch Conversation API - Thu Apr 16 10:13:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31296-sinch-conversation-api</link>
-      <description>Work with and integrate Sinch's Conversation API directly into your IDE. Send SMS and RCS messages, manage webhooks, and access AI-powered code snippets without...
-
-vendor: Sinch
-downloads: 1
-pricingModel: FREE
-xmlId: com.sinch.plugin.sinch-intellij-plugin</description>
-      <pubDate>Thu, 16 Apr 2026 10:13:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31296-sinch-conversation-api</guid>
-      <dc:date>2026-04-16T10:13:46Z</dc:date>
-    </item>
-    <item>
-      <title>Vikunja Task - Mon Apr 27 02:49:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31384-vikunja-task</link>
-      <description>Add Vikunja server config in Task Management.
-
-vendor: joeygong
-downloads: 7
-pricingModel: FREE
-xmlId: me.rainsay.vikunja-task</description>
-      <pubDate>Mon, 27 Apr 2026 02:49:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31384-vikunja-task</guid>
-      <dc:date>2026-04-27T02:49:26Z</dc:date>
     </item>
   </channel>
 </rss>
