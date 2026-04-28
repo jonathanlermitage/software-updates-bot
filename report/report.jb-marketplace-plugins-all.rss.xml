@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Build-Popup - Fri Apr 24 07:40:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31389-build-popup</link>
+      <description>Build-Popup automatically shows the Build tool window whenever a build or sync process starts in your IDE, so you can monitor its progress without having to open any...
+
+vendor: IPNMod
+downloads: 3
+pricingModel: FREE
+xmlId: org.ipnmod.tools.jcf.build-popup</description>
+      <pubDate>Fri, 24 Apr 2026 07:40:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31389-build-popup</guid>
+      <dc:date>2026-04-24T07:40:27Z</dc:date>
+    </item>
+    <item>
+      <title>Illuminate - Sun Apr 19 07:25:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31351-illuminate</link>
+      <description>Illuminate — Instantly Understand Any Codebase Clone a project → press one button → instantly understand the architecture. &#x1f5fa;️ Interactive Architecture Map...
+
+vendor: kryzhanovskyik
+downloads: 2
+pricingModel: FREE
+xmlId: com.jetslop.illuminate</description>
+      <pubDate>Sun, 19 Apr 2026 07:25:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31351-illuminate</guid>
+      <dc:date>2026-04-19T07:25:55Z</dc:date>
+    </item>
+    <item>
       <title>AgentDock - Tue Apr 28 10:27:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31508-agentdock</link>
       <description>AgentDock brings widely used AI coding agents into a unified GUI that follows the active JetBrains IDE theme. Supported AI agents: Claude Code Codex Cursor Gemini CLI...
@@ -84,7 +110,7 @@ xmlId: com.jiamugengjin.screenshotplus</description>
       <dc:date>2026-04-27T07:31:27Z</dc:date>
     </item>
     <item>
-      <title>MBTraining Karate Pack - Mon Apr 27 16:26:31 UTC 2026</title>
+      <title>MBTraining Karate Pack - Tue Apr 28 16:33:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31495-mbtraining-karate-pack</link>
       <description>MBTraining Karate Pack is a proof of concept (POC) training content pack for MBTraining Engine Framework. Important: all exercise content in this pack is AI-generated...
 
@@ -92,9 +118,9 @@ vendor: Van Thanh Duy
 downloads: 0
 pricingModel: FREE
 xmlId: com.mb.training.karate.pack</description>
-      <pubDate>Mon, 27 Apr 2026 16:26:31 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 16:33:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31495-mbtraining-karate-pack</guid>
-      <dc:date>2026-04-27T16:26:31Z</dc:date>
+      <dc:date>2026-04-28T16:33:14Z</dc:date>
     </item>
     <item>
       <title>Arthas Hot Deploy - Tue Apr 28 03:14:43 UTC 2026</title>
@@ -149,7 +175,7 @@ xmlId: com.devds.getx</description>
       <dc:date>2026-04-27T12:55:27Z</dc:date>
     </item>
     <item>
-      <title>MBTraining Engine Framework - Mon Apr 27 12:38:35 UTC 2026</title>
+      <title>MBTraining Engine Framework - Tue Apr 28 16:48:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31432-mbtraining-engine-framework</link>
       <description>MBTraining Engine Framework is a proof of concept (POC) for modular, in-IDE technical training. This plugin provides the core runtime only. It does not include...
 
@@ -157,9 +183,9 @@ vendor: Van Thanh Duy
 downloads: 1
 pricingModel: FREE
 xmlId: com.mb.training.engine</description>
-      <pubDate>Mon, 27 Apr 2026 12:38:35 GMT</pubDate>
+      <pubDate>Tue, 28 Apr 2026 16:48:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31432-mbtraining-engine-framework</guid>
-      <dc:date>2026-04-27T12:38:35Z</dc:date>
+      <dc:date>2026-04-28T16:48:06Z</dc:date>
     </item>
     <item>
       <title>Fun Interface Implementation Marker - Mon Apr 27 12:00:59 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.dmyud.bro</description>
       <pubDate>Mon, 27 Apr 2026 14:40:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31493-brain-retention-optimizer</guid>
       <dc:date>2026-04-27T14:40:41Z</dc:date>
-    </item>
-    <item>
-      <title>MLN Lua Hot Reload - Mon Apr 27 09:55:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31149-mln-lua-hot-reload</link>
-      <description>MLN / Lua hot reload for mobile: USB and Wi‑Fi sync (community build for current IntelliJ versions). Usage: 1. Connect phone by usb/wifi 2. Choose a lua file under src...
-
-vendor: MLN hot reload
-downloads: 4
-pricingModel: FREE
-xmlId: com.mln.hotreload.plugin</description>
-      <pubDate>Mon, 27 Apr 2026 09:55:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31149-mln-lua-hot-reload</guid>
-      <dc:date>2026-04-27T09:55:03Z</dc:date>
-    </item>
-    <item>
-      <title>Simplified Annotations - Mon Apr 27 09:46:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31484-simplified-annotations</link>
-      <description>Three annotation families for Java with companion IDE tooling: @ResourcePath (static resource-path validation), @XContract (superset of JetBrains @Contract), and...
-
-vendor: Simplified Dev
-downloads: 3
-pricingModel: FREE
-xmlId: dev.simplified.simplified-annotations</description>
-      <pubDate>Mon, 27 Apr 2026 09:46:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31484-simplified-annotations</guid>
-      <dc:date>2026-04-27T09:46:05Z</dc:date>
     </item>
   </channel>
 </rss>
