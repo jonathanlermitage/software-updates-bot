@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AgentDock - Tue Apr 28 10:27:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31508-agentdock</link>
+      <description>AgentDock brings widely used AI coding agents into a unified GUI that follows the active JetBrains IDE theme. Supported AI agents: Claude Code Codex Cursor Gemini CLI...
+
+vendor: EdgarsR
+downloads: 0
+pricingModel: FREE
+xmlId: agentdock</description>
+      <pubDate>Tue, 28 Apr 2026 10:27:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31508-agentdock</guid>
+      <dc:date>2026-04-28T10:27:08Z</dc:date>
+    </item>
+    <item>
+      <title>Ccode Stats - Tue Apr 28 10:58:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31509-ccode-stats</link>
+      <description>ccidea — Claude Code usage inside your IDE Reads Claude Code's local JSONL logs and surfaces token usage, cost, and the 5-hour Anthropic billing block burn rate inside...
+
+vendor: Ccidea - Claude Code Usage
+downloads: 0
+pricingModel: FREE
+xmlId: com.ccidea.plugin</description>
+      <pubDate>Tue, 28 Apr 2026 10:58:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31509-ccode-stats</guid>
+      <dc:date>2026-04-28T10:58:16Z</dc:date>
+    </item>
+    <item>
       <title>Claude Code Chat - Tue Apr 28 09:39:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31507-claude-code-chat</link>
       <description>Claude Code for IntelliJ Bring the full power of Claude Code directly into your IDE. Chat with Claude in a side panel, run multiple sessions in parallel, and let...
@@ -238,32 +264,6 @@ xmlId: dev.simplified.simplified-annotations</description>
       <pubDate>Mon, 27 Apr 2026 09:46:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31484-simplified-annotations</guid>
       <dc:date>2026-04-27T09:46:05Z</dc:date>
-    </item>
-    <item>
-      <title>Open in Cursor IDE - Tue Apr 28 07:40:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31482-open-in-cursor-ide</link>
-      <description>Open the current file (or any file/folder from the Project view) directly in Cursor IDE. The action is added to IDEA's standard Open In submenu (RevealGroup), so it...
-
-vendor: Artur Kovalchuk
-downloads: 25
-pricingModel: FREE
-xmlId: com.github.arturkovalchuk.intellijplatformpluginopenincursor</description>
-      <pubDate>Tue, 28 Apr 2026 07:40:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31482-open-in-cursor-ide</guid>
-      <dc:date>2026-04-28T07:40:25Z</dc:date>
-    </item>
-    <item>
-      <title>AI Unified Process Navigator - Tue Apr 28 07:43:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31481-ai-unified-process-navigator</link>
-      <description>Navigate between @UseCase annotated test methods and their Markdown specs. Gutter icon on @UseCase annotation jumps to the matching UC-XXX-*.md file Gutter icon on...
-
-vendor: Simon Martinelli
-downloads: 7
-pricingModel: FREE
-xmlId: ai.unifiedprocess.tools.ij</description>
-      <pubDate>Tue, 28 Apr 2026 07:43:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31481-ai-unified-process-navigator</guid>
-      <dc:date>2026-04-28T07:43:44Z</dc:date>
     </item>
   </channel>
 </rss>
