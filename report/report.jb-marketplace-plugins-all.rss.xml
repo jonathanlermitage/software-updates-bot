@@ -11,7 +11,7 @@
       <description>Build-Popup automatically shows the Build tool window whenever a build or sync process starts in your IDE, so you can monitor its progress without having to open any...
 
 vendor: IPNMod
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: org.ipnmod.tools.jcf.build-popup</description>
       <pubDate>Fri, 24 Apr 2026 07:40:27 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.jetslop.illuminate</description>
       <description>AgentDock brings widely used AI coding agents into a unified GUI that follows the active JetBrains IDE theme. Supported AI agents: Claude Code Codex Cursor Gemini CLI...
 
 vendor: EdgarsR
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: agentdock</description>
       <pubDate>Tue, 28 Apr 2026 10:27:08 GMT</pubDate>
@@ -45,17 +45,17 @@ xmlId: agentdock</description>
       <dc:date>2026-04-28T10:27:08Z</dc:date>
     </item>
     <item>
-      <title>Ccode Stats - Tue Apr 28 10:58:16 UTC 2026</title>
+      <title>Ccode Stats - Wed Apr 29 03:26:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31509-ccode-stats</link>
       <description>ccidea — Claude Code usage inside your IDE Reads Claude Code's local JSONL logs and surfaces token usage, cost, and the 5-hour Anthropic billing block burn rate inside...
 
 vendor: Ccidea - Claude Code Usage
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.ccidea.plugin</description>
-      <pubDate>Tue, 28 Apr 2026 10:58:16 GMT</pubDate>
+      <pubDate>Wed, 29 Apr 2026 03:26:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31509-ccode-stats</guid>
-      <dc:date>2026-04-28T10:58:16Z</dc:date>
+      <dc:date>2026-04-29T03:26:07Z</dc:date>
     </item>
     <item>
       <title>Claude Code Chat - Tue Apr 28 09:39:04 UTC 2026</title>
@@ -89,7 +89,7 @@ xmlId: com.github.gguf.editor</description>
       <description>Early-stage plugin for mavenized WebObjects / WONDER projects. WebObjects run configuration with sensible defaults (Maven process-resources, working directory under...
 
 vendor: Markus Stoll
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: de.junidas.webobjects.ijplugin</description>
       <pubDate>Tue, 28 Apr 2026 07:41:12 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: de.junidas.webobjects.ijplugin</description>
       <description>Screenshot+ is an Android Studio plugin for capturing and annotating screenshots from ADB-connected Android devices — without leaving the IDE. Capture screenshots...
 
 vendor: 甲木庚金
-downloads: 1
+downloads: 2
 pricingModel: PAID
 xmlId: com.jiamugengjin.screenshotplus</description>
       <pubDate>Mon, 27 Apr 2026 07:31:27 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.jiamugengjin.screenshotplus</description>
       <description>MBTraining Karate Pack is a proof of concept (POC) training content pack for MBTraining Engine Framework. Important: all exercise content in this pack is AI-generated...
 
 vendor: Van Thanh Duy
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.mb.training.karate.pack</description>
       <pubDate>Tue, 28 Apr 2026 16:33:14 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.mb.training.karate.pack</description>
       <description>Arthas Hot Deploy An IntelliJ IDEA plugin for Java hot deployment based on Arthas retransform command. Right-click a Java file to generate a hot deploy script, then...
 
 vendor: neuSnail
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.arthas.hotdeploy</description>
       <pubDate>Tue, 28 Apr 2026 03:14:43 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.arthas.hotdeploy</description>
       <description>FishNovel turns IntelliJ IDEA into a lightweight novel reader with local multi-format support, tool-window reading, progress memory, bookmarks, history, and web novel...
 
 vendor: FishNovel
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.fishnovel.idea</description>
       <pubDate>Tue, 28 Apr 2026 07:14:09 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.fishnovel.idea</description>
       <description>Crash2Test is a local AI-powered IntelliJ IDEA plugin that helps developers turn stack traces and runtime errors into debugging timelines and regression test ideas.
 
 vendor: Alexandr Biktimirov
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.crash2test.plugin</description>
       <pubDate>Mon, 27 Apr 2026 14:42:28 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.crash2test.plugin</description>
       <description>GetX Folder Structure is an IntelliJ plugin that helps developers quickly generate and manage scalable GetX architecture folders for Flutter projects. It improves...
 
 vendor: Deekanshu Saini
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.devds.getx</description>
       <pubDate>Mon, 27 Apr 2026 12:55:27 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.devds.getx</description>
       <description>MBTraining Engine Framework is a proof of concept (POC) for modular, in-IDE technical training. This plugin provides the core runtime only. It does not include...
 
 vendor: Van Thanh Duy
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.mb.training.engine</description>
       <pubDate>Tue, 28 Apr 2026 23:18:50 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.mb.training.engine</description>
       <description>Marks Kotlin fun interface declarations and their implementations with gutter icons, and provides bidirectional navigation between them. Icon beside every fun...
 
 vendor: Kotlin Functional Interface Navigator
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.funinterface.marker.plugin</description>
       <pubDate>Mon, 27 Apr 2026 12:00:59 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.funinterface.marker.plugin</description>
       <description>Adds a Generate with Claude button to the Git commit dialog. On click, it sends your staged diff and branch name to the locally installed Claude Code CLI and fills in...
 
 vendor: Aliaksei Afanasyeu
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.bocman.claudecommit</description>
       <pubDate>Mon, 27 Apr 2026 20:47:36 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.bocman.claudecommit</description>
       <description>Control IntelliJ IDEA with AI coding assistants like Claude Code via the Model Context Protocol (MCP). The plugin starts a local MCP server (JSON-RPC 2.0 over HTTP on...
 
 vendor: Alexey Leping
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.alexeyleping.intellij-debug-mcp</description>
       <pubDate>Mon, 27 Apr 2026 18:44:52 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.github.alexeyleping.intellij-debug-mcp</description>
       <description>ImageFlow Converter is a fast and focused image conversion plugin for IntelliJ IDEA and Android Studio. It helps developers work with common image formats more...
 
 vendor: Youssef Saber
-downloads: 0
+downloads: 13
 pricingModel: FREE
 xmlId: com.yousseflabs.iamgeflowconverter</description>
       <pubDate>Mon, 27 Apr 2026 18:19:05 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.yousseflabs.iamgeflowconverter</description>
       <description>Maya integration for PyCharm. MayaReCharm lets you execute the current document or arbitrary code directly in Maya, and allows attaching the PyDev debugger to a...
 
 vendor: Mathieu Bouzard
-downloads: 8
+downloads: 15
 pricingModel: FREE
 xmlId: fr.mathbou.mayarecharm</description>
       <pubDate>Wed, 15 Apr 2026 13:31:05 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: fr.mathbou.mayarecharm</description>
       <description>We Solved Focus. You're Welcome. Background tasks used to mean one thing: you drifting to your phone for 67 minutes. Not anymore. BRO opens a tool window with animated...
 
 vendor: dmyud
-downloads: 9
+downloads: 16
 pricingModel: FREE
 xmlId: com.dmyud.bro</description>
       <pubDate>Mon, 27 Apr 2026 14:40:41 GMT</pubDate>
