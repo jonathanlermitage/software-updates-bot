@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FoxMock - Mon Apr 27 13:37:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31488-foxmock</link>
+      <description>FoxMock — HTTP, SFTP &amp;amp; gRPC Mock Server FoxMock is an all-in-one mock server built directly into your JetBrains IDE. Stub out HTTP REST APIs, SFTP file transfers...
+
+vendor: CellOps
+downloads: 1
+pricingModel: FREE
+xmlId: com.foxmock.plugin</description>
+      <pubDate>Mon, 27 Apr 2026 13:37:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31488-foxmock</guid>
+      <dc:date>2026-04-27T13:37:14Z</dc:date>
+    </item>
+    <item>
+      <title>Fade Basic - Tue Apr 28 13:22:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31490-fade-basic</link>
+      <description>Fade Basic language support via LSP and DAP launch integration for Rider.
+
+vendor: Brewed Ink
+downloads: 1
+pricingModel: FREE
+xmlId: ink.brewed.fadebasic</description>
+      <pubDate>Tue, 28 Apr 2026 13:22:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31490-fade-basic</guid>
+      <dc:date>2026-04-28T13:22:50Z</dc:date>
+    </item>
+    <item>
+      <title>Coni Language - Tue Apr 28 03:30:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31503-coni-language</link>
+      <description>IntelliJ IDEA plugin providing support for the Coni programming language.
+
+vendor: coni-lang
+downloads: 1
+pricingModel: FREE
+xmlId: org.conilang</description>
+      <pubDate>Tue, 28 Apr 2026 03:30:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31503-coni-language</guid>
+      <dc:date>2026-04-28T03:30:53Z</dc:date>
+    </item>
+    <item>
+      <title>QA CoPilot - Mon Apr 27 18:08:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31496-qa-copilot</link>
+      <description>QA CoPilot — AI-powered API test generation for Spring Boot QA CoPilot scans your open Spring Boot / Spring MVC project, builds a structured API contract, and...
+
+vendor: Piyush Joshi
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.piyushjoshi01.qacopilot</description>
+      <pubDate>Mon, 27 Apr 2026 18:08:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31496-qa-copilot</guid>
+      <dc:date>2026-04-27T18:08:08Z</dc:date>
+    </item>
+    <item>
       <title>Build-Popup - Fri Apr 24 07:40:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31389-build-popup</link>
       <description>Build-Popup automatically shows the Build tool window whenever a build or sync process starts in your IDE, so you can monitor its progress without having to open any...
@@ -63,7 +115,7 @@ xmlId: com.ccidea.plugin</description>
       <description>Claude Code for IntelliJ Bring the full power of Claude Code directly into your IDE. Chat with Claude in a side panel, run multiple sessions in parallel, and let...
 
 vendor: BRCoders
-downloads: 0
+downloads: 39
 pricingModel: FREE
 xmlId: com.claudecode.plugin</description>
       <pubDate>Tue, 28 Apr 2026 09:39:04 GMT</pubDate>
@@ -76,7 +128,7 @@ xmlId: com.claudecode.plugin</description>
       <description>View, inspect, search, and edit GGUF model metadata from JetBrains IDEs. Features Open .gguf files from the Project View context menu Inspect metadata keys, values...
 
 vendor: gguf
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.gguf.editor</description>
       <pubDate>Tue, 28 Apr 2026 07:08:22 GMT</pubDate>
@@ -212,58 +264,6 @@ xmlId: com.bocman.claudecommit</description>
       <pubDate>Mon, 27 Apr 2026 20:47:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31445-claude-commit</guid>
       <dc:date>2026-04-27T20:47:36Z</dc:date>
-    </item>
-    <item>
-      <title>Debug MCP - Mon Apr 27 18:44:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31497-debug-mcp</link>
-      <description>Control IntelliJ IDEA with AI coding assistants like Claude Code via the Model Context Protocol (MCP). The plugin starts a local MCP server (JSON-RPC 2.0 over HTTP on...
-
-vendor: Alexey Leping
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.alexeyleping.intellij-debug-mcp</description>
-      <pubDate>Mon, 27 Apr 2026 18:44:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31497-debug-mcp</guid>
-      <dc:date>2026-04-27T18:44:52Z</dc:date>
-    </item>
-    <item>
-      <title>ImageFlow Converter - Mon Apr 27 18:19:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31487-imageflow-converter</link>
-      <description>ImageFlow Converter is a fast and focused image conversion plugin for IntelliJ IDEA and Android Studio. It helps developers work with common image formats more...
-
-vendor: Youssef Saber
-downloads: 13
-pricingModel: FREE
-xmlId: com.yousseflabs.iamgeflowconverter</description>
-      <pubDate>Mon, 27 Apr 2026 18:19:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31487-imageflow-converter</guid>
-      <dc:date>2026-04-27T18:19:05Z</dc:date>
-    </item>
-    <item>
-      <title>MayaReCharm - Wed Apr 15 13:31:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31239-mayarecharm</link>
-      <description>Maya integration for PyCharm. MayaReCharm lets you execute the current document or arbitrary code directly in Maya, and allows attaching the PyDev debugger to a...
-
-vendor: Mathieu Bouzard
-downloads: 15
-pricingModel: FREE
-xmlId: fr.mathbou.mayarecharm</description>
-      <pubDate>Wed, 15 Apr 2026 13:31:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31239-mayarecharm</guid>
-      <dc:date>2026-04-15T13:31:05Z</dc:date>
-    </item>
-    <item>
-      <title>Brain Retention Optimizer - Mon Apr 27 14:40:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31493-brain-retention-optimizer</link>
-      <description>We Solved Focus. You're Welcome. Background tasks used to mean one thing: you drifting to your phone for 67 minutes. Not anymore. BRO opens a tool window with animated...
-
-vendor: dmyud
-downloads: 16
-pricingModel: FREE
-xmlId: com.dmyud.bro</description>
-      <pubDate>Mon, 27 Apr 2026 14:40:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31493-brain-retention-optimizer</guid>
-      <dc:date>2026-04-27T14:40:41Z</dc:date>
     </item>
   </channel>
 </rss>
