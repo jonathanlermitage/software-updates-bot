@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Jaspr | Dart Web Framework - Mon May 04 13:12:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31305-jaspr--dart-web-framework</link>
+      <description>Adds Jaspr framework support to JetBrains IDEs. Jaspr is a web framework for Dart that lets you build type-safe, reactive web applications. This plugin integrates the...
+
+vendor: Adrián Primo Bernat
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.eladrimonos.jasprintellij</description>
+      <pubDate>Mon, 04 May 2026 13:12:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31305-jaspr--dart-web-framework</guid>
+      <dc:date>2026-05-04T13:12:58Z</dc:date>
+    </item>
+    <item>
+      <title>Better Project Groups - Sun May 03 21:15:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31584-better-project-groups</link>
+      <description>Allows adding a project to multiple groups in the 'Project Selection' welcome screen.
+
+vendor: x3rt
+downloads: 1
+pricingModel: FREE
+xmlId: com.x3rt.betterprojectgroups</description>
+      <pubDate>Sun, 03 May 2026 21:15:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31584-better-project-groups</guid>
+      <dc:date>2026-05-03T21:15:13Z</dc:date>
+    </item>
+    <item>
+      <title>GitCommitTool - Tue May 05 09:21:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31565-gitcommittool</link>
+      <description>GitCommitTool - AI Commit Message Generator 中文介绍 GitCommitTool 是一款基于 AI 的 Git commit 信息生成插件，支持多 API 配置与自定义标签管理。 核心功能： AI 驱动生成 — 接入 OpenAI / DeepSeek / 通义千问 等大模型...
+
+vendor: 杭州迦禾未来科技有限公司
+downloads: 0
+pricingModel: FREE
+xmlId: com.jiahefuture.git-commit-tool</description>
+      <pubDate>Tue, 05 May 2026 09:21:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31565-gitcommittool</guid>
+      <dc:date>2026-05-05T09:21:56Z</dc:date>
+    </item>
+    <item>
+      <title>Television - Fri Apr 24 21:03:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31448-television</link>
+      <description>Bring the speed and elegance of Television directly into your JetBrains IDE. This plugin integrates Television directly in IntelliJ IDEs, providing a fast and...
+
+vendor: ckob
+downloads: 1
+pricingModel: FREE
+xmlId: dev.ckob.television</description>
+      <pubDate>Fri, 24 Apr 2026 21:03:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31448-television</guid>
+      <dc:date>2026-04-24T21:03:40Z</dc:date>
+    </item>
+    <item>
       <title>Xonsh - Mon May 04 20:05:50 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31595-xonsh</link>
       <description>Xonsh shell script support for JetBrains IDEs, backed by xonsh-language-server via the LSP4IJ client. Syntax highlighting via a TextMate grammar recycled from...
@@ -212,58 +264,6 @@ xmlId: com.shubham0707.androidbuildbooster</description>
       <pubDate>Tue, 05 May 2026 07:29:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31588-android-build-booster</guid>
       <dc:date>2026-05-05T07:29:03Z</dc:date>
-    </item>
-    <item>
-      <title>SpringForge Tools - Sat May 02 12:58:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31574-springforge-tools</link>
-      <description>Architecture-aware Spring Boot tool suite (CodeGen, QA, Runtime Analysis, CI/CD).
-
-vendor: SpringForge-Dev
-downloads: 1
-pricingModel: FREE
-xmlId: org.springforge</description>
-      <pubDate>Sat, 02 May 2026 12:58:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31574-springforge-tools</guid>
-      <dc:date>2026-05-02T12:58:41Z</dc:date>
-    </item>
-    <item>
-      <title>Gbase 8s JDBC Driver - Mon May 04 17:57:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31386-gbase-8s-jdbc-driver</link>
-      <description>Bundles and automatically installs the GBase 8s JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. GBase 8s is a relational database management system...
-
-vendor: Vasilii Chernov
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.tjlee.gbasejdbcdriver</description>
-      <pubDate>Mon, 04 May 2026 17:57:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31386-gbase-8s-jdbc-driver</guid>
-      <dc:date>2026-05-04T17:57:11Z</dc:date>
-    </item>
-    <item>
-      <title>Docker Manager - Mon May 04 11:47:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31590-docker-manager</link>
-      <description>Stop switching to the terminal for docker ps, docker logs, docker stop. Run your daily Docker workflow without leaving your editor. What you can do See everything...
-
-vendor: meanmail.dev
-downloads: 0
-pricingModel: PAID
-xmlId: dev.meanmail.plugin.docker</description>
-      <pubDate>Mon, 04 May 2026 11:47:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31590-docker-manager</guid>
-      <dc:date>2026-05-04T11:47:33Z</dc:date>
-    </item>
-    <item>
-      <title>PickAID Template Assistant - Fri May 01 10:27:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31558-pickaid-template-assistant</link>
-      <description>Editor assistance for PickAID Minecraft template project.toml files. Provides schema-aware completion, inspections, and focused quick fixes.
-
-vendor: PickAID Modding Template
-downloads: 2
-pricingModel: FREE
-xmlId: cn.mihono.pickaid.template.assistant</description>
-      <pubDate>Fri, 01 May 2026 10:27:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31558-pickaid-template-assistant</guid>
-      <dc:date>2026-05-01T10:27:55Z</dc:date>
     </item>
   </channel>
 </rss>
