@@ -19,7 +19,7 @@
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.2 (2026-03-16)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Mar 16 16:19:31 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.2|[golang.org](https://golang.org/dl/)|Tue Apr 07 20:09:40 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.5.0|[gradle.org](https://gradle.org/releases)|Tue Apr 28 16:32:02 UTC 2026|
-|![logo](../media/logo/inkscape.png) Inkscape|1.4.3|[inkscape.org](https://inkscape.org)|Fri Dec 26 16:03:24 UTC 2025|
+|![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1.2 (261.24374.34) ~ 2026-04-30|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Apr 30 20:21:10 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.1 (261.23567.138) ~ 2026-04-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Apr 23 16:30:14 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.6 to 19.6.8 ~ 2026-04-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Apr 20 20:12:28 UTC 2026|
