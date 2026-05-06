@@ -50,7 +50,7 @@ xmlId: com.helioncoder.jetbrains</description>
       <description>Formatting and diagnostics for SQL via the jarify CLI. Reformat Code / format-on-save via jarify fmt Inline diagnostics via jarify lint --format json Auto-installs...
 
 vendor: gmatter
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.amfaro.jarify</description>
       <pubDate>Mon, 04 May 2026 21:12:32 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.amfaro.jarify</description>
       <description>Adds Jaspr framework support to JetBrains IDEs. Jaspr is a web framework for Dart that lets you build type-safe, reactive web applications. This plugin integrates the...
 
 vendor: Adrián Primo Bernat
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.eladrimonos.jasprintellij</description>
       <pubDate>Mon, 04 May 2026 13:12:58 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.github.eladrimonos.jasprintellij</description>
       <description>Allows adding a project to multiple groups in the 'Project Selection' welcome screen.
 
 vendor: x3rt
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.x3rt.betterprojectgroups</description>
       <pubDate>Sun, 03 May 2026 21:15:13 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.x3rt.betterprojectgroups</description>
       <description>GitCommitTool - AI Commit Message Generator 中文介绍 GitCommitTool 是一款基于 AI 的 Git commit 信息生成插件，支持多 API 配置与自定义标签管理。 核心功能： AI 驱动生成 — 接入 OpenAI / DeepSeek / 通义千问 等大模型...
 
 vendor: 杭州迦禾未来科技有限公司
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.jiahefuture.git-commit-tool</description>
       <pubDate>Tue, 05 May 2026 09:21:56 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.jiahefuture.git-commit-tool</description>
       <description>Bring the speed and elegance of Television directly into your JetBrains IDE. This plugin integrates Television directly in IntelliJ IDEs, providing a fast and...
 
 vendor: ckob
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: dev.ckob.television</description>
       <pubDate>Tue, 05 May 2026 19:25:34 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: dev.ckob.television</description>
       <description>Xonsh shell script support for JetBrains IDEs, backed by xonsh-language-server via the LSP4IJ client. Syntax highlighting via a TextMate grammar recycled from...
 
 vendor: Johan Grande
-downloads: 4
+downloads: 17
 pricingModel: FREE
 xmlId: eu.nahoj.xonsh.jetbrains</description>
       <pubDate>Mon, 04 May 2026 20:05:50 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: eu.nahoj.xonsh.jetbrains</description>
       <description>Bundles and automatically installs the GaussDB JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. GaussDB is a distributed relational database...
 
 vendor: Vasilii Chernov
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.tjlee.gaussdbjdbcdriver</description>
       <pubDate>Mon, 04 May 2026 19:54:33 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.github.tjlee.gaussdbjdbcdriver</description>
       <description>Keep Jira Cloud next to your code: look up issues, read descriptions and comments, and run searches from a tool window—without living in the browser. Issue detail...
 
 vendor: E. Lopez
-downloads: 10
+downloads: 28
 pricingModel: FREE
 xmlId: com.elopez.jiraplugin</description>
       <pubDate>Mon, 04 May 2026 20:56:09 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.elopez.jiraplugin</description>
       <description>erdMaid is a Mermaid ERD export plugin for the IntelliJ Database tool window. It is designed for developers who want a fast, accurate way to turn selected database...
 
 vendor: algorist
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.algorist.erdmaid</description>
       <pubDate>Sat, 02 May 2026 18:32:54 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.algorist.erdmaid</description>
       <description>Capybara AI Coding Assistant An AI-powered coding assistant for IntelliJ IDEA built on OpenCode — free model integration, highly customizable, rapid development...
 
 vendor: CapybaraAICodingAssistant
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: com.aicoding.ai-coding-plugin</description>
       <pubDate>Fri, 01 May 2026 19:38:39 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.aicoding.ai-coding-plugin</description>
       <description>Preview font files (TTF, OTF, WOFF, WOFF2) directly inside the IDE. Custom text preview at multiple sizes with live glyph set Browse the Private Use Area...
 
 vendor: Jakey CHAI
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: cn.itscloudy.fontviewer</description>
       <pubDate>Fri, 01 May 2026 16:37:06 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: cn.itscloudy.fontviewer</description>
       <description>Local-first AI attribution for IntelliJ IDEA commits. AILoc2 observes editor edits, estimates staged AI-assisted change percentage without prompt or instruction...
 
 vendor: Gogolian
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.ailoc2.probe</description>
       <pubDate>Mon, 04 May 2026 11:29:24 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.ailoc2.probe</description>
       <description>Monitor and act on GitHub Actions for your project's repo without leaving the IDE. Authenticate via PAT or your IDE-configured GitHub account. Supports github.com and...
 
 vendor: Marcelo Trevisani
-downloads: 4
+downloads: 8
 pricingModel: FREE
 xmlId: gh_actions_monitor.marcelotrevisani</description>
       <pubDate>Fri, 01 May 2026 08:07:04 GMT</pubDate>
@@ -214,17 +214,17 @@ xmlId: gh_actions_monitor.marcelotrevisani</description>
       <dc:date>2026-05-01T08:07:04Z</dc:date>
     </item>
     <item>
-      <title>Minestom Project Wizard - Sat May 02 09:23:55 UTC 2026</title>
+      <title>Minestom Project Wizard - Wed May 06 00:22:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31567-minestom-project-wizard</link>
       <description>Creates Gradle based Minestom server projects from the New Project wizard. Disclaimer: This plugin is not official and is not affiliated with Minestom in any way.
 
 vendor: Flowstom
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: net.flowstom.jetbrains_plugin</description>
-      <pubDate>Sat, 02 May 2026 09:23:55 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 00:22:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31567-minestom-project-wizard</guid>
-      <dc:date>2026-05-02T09:23:55Z</dc:date>
+      <dc:date>2026-05-06T00:22:15Z</dc:date>
     </item>
     <item>
       <title>MetaScript - Sun May 03 22:32:32 UTC 2026</title>
@@ -232,7 +232,7 @@ xmlId: net.flowstom.jetbrains_plugin</description>
       <description>Language support for MetaScript — TypeScript-style syntax with compile-time macros, match expressions, Result&amp;lt;T,E&amp;gt; types, and multiple backends (C, JavaScript...
 
 vendor: Le Cloud
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: org.metascript</description>
       <pubDate>Sun, 03 May 2026 22:32:32 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: org.metascript</description>
       <description>Automatically opens files in the editor as an AI coding agent works on them. When an external AI tool (Claude Code, Aider, or any other agent) edits or creates a...
 
 vendor: Nathan Hayfield
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.nhayfield.claude-file-opener</description>
       <pubDate>Mon, 04 May 2026 12:44:38 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.nhayfield.claude-file-opener</description>
       <description>Visualises your GitHub Copilot token usage and AI engineering fluency directly inside any JetBrains IDE. Uses the same analytics and visualisations as the VS Code...
 
 vendor: Rob Bos
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.rajbos.ai-engineering-fluency</description>
       <pubDate>Sun, 03 May 2026 13:35:23 GMT</pubDate>
