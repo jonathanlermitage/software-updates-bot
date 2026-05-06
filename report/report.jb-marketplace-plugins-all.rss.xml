@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>StyleBop - Tue May 05 13:40:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31599-stylebop</link>
+      <description>Open the current CSS file or workspace folder in StyleBop — a visual macOS editor for stylesheets. Right-click any .css file or folder and pick Open in StyleBop. The...
+
+vendor: Ben Dansby
+downloads: 0
+pricingModel: FREE
+xmlId: com.bendansby.stylebop</description>
+      <pubDate>Tue, 05 May 2026 13:40:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31599-stylebop</guid>
+      <dc:date>2026-05-05T13:40:17Z</dc:date>
+    </item>
+    <item>
+      <title>Markora - Tue May 05 10:19:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31598-markora</link>
+      <description>Markora brings Notion-style WYSIWYG Markdown editing to JetBrains IDEs. Edit Markdown files in a block editor that renders as you type — no preview pane needed...
+
+vendor: Markora
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.kenshin579.markora</description>
+      <pubDate>Tue, 05 May 2026 10:19:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31598-markora</guid>
+      <dc:date>2026-05-05T10:19:50Z</dc:date>
+    </item>
+    <item>
+      <title>HelionCoder - Tue May 05 13:32:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31566-helioncoder</link>
+      <description>HelionCoder brings the local HelionCoder CLI into JetBrains IDEs with a dark, VS Code-style assistant panel, editor-aware context, and real IDE integrations. Use it to...
+
+vendor: GabrielPondC
+downloads: 2
+pricingModel: FREE
+xmlId: com.helioncoder.jetbrains</description>
+      <pubDate>Tue, 05 May 2026 13:32:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31566-helioncoder</guid>
+      <dc:date>2026-05-05T13:32:20Z</dc:date>
+    </item>
+    <item>
+      <title>Jarify - Mon May 04 21:12:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31596-jarify</link>
+      <description>Formatting and diagnostics for SQL via the jarify CLI. Reformat Code / format-on-save via jarify fmt Inline diagnostics via jarify lint --format json Auto-installs...
+
+vendor: gmatter
+downloads: 0
+pricingModel: FREE
+xmlId: com.amfaro.jarify</description>
+      <pubDate>Mon, 04 May 2026 21:12:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31596-jarify</guid>
+      <dc:date>2026-05-04T21:12:32Z</dc:date>
+    </item>
+    <item>
       <title>Jaspr | Dart Web Framework - Mon May 04 13:12:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31305-jaspr--dart-web-framework</link>
       <description>Adds Jaspr framework support to JetBrains IDEs. Jaspr is a web framework for Dart that lets you build type-safe, reactive web applications. This plugin integrates the...
@@ -45,7 +97,7 @@ xmlId: com.jiahefuture.git-commit-tool</description>
       <dc:date>2026-05-05T09:21:56Z</dc:date>
     </item>
     <item>
-      <title>Television - Fri Apr 24 21:03:40 UTC 2026</title>
+      <title>Television - Tue May 05 19:25:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31448-television</link>
       <description>Bring the speed and elegance of Television directly into your JetBrains IDE. This plugin integrates Television directly in IntelliJ IDEs, providing a fast and...
 
@@ -53,9 +105,9 @@ vendor: ckob
 downloads: 1
 pricingModel: FREE
 xmlId: dev.ckob.television</description>
-      <pubDate>Fri, 24 Apr 2026 21:03:40 GMT</pubDate>
+      <pubDate>Tue, 05 May 2026 19:25:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31448-television</guid>
-      <dc:date>2026-04-24T21:03:40Z</dc:date>
+      <dc:date>2026-05-05T19:25:34Z</dc:date>
     </item>
     <item>
       <title>Xonsh - Mon May 04 20:05:50 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.github.rajbos.ai-engineering-fluency</description>
       <pubDate>Sun, 03 May 2026 13:35:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31580-ai-engineering-fluency</guid>
       <dc:date>2026-05-03T13:35:23Z</dc:date>
-    </item>
-    <item>
-      <title>Whisper Speech to Text - Thu Apr 30 21:50:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31552-whisper-speech-to-text</link>
-      <description>Voice-to-text dictation for JetBrains IDEs using OpenAI Whisper. Speak instead of type, anywhere a caret is focused. Features Three transcription backends: local...
-
-vendor: Abdelghani Roussi
-downloads: 1
-pricingModel: FREE
-xmlId: dev.aroussi.whisper</description>
-      <pubDate>Thu, 30 Apr 2026 21:50:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31552-whisper-speech-to-text</guid>
-      <dc:date>2026-04-30T21:50:12Z</dc:date>
-    </item>
-    <item>
-      <title>WoW Lua Language Server - Mon May 04 15:26:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31581-wow-lua-language-server</link>
-      <description>Lua language server for World of Warcraft addon development, powered by wowlua_ls. Features 9,000+ WoW API stubs with hover documentation (retail, classic...
-
-vendor: TradeSkillMaster
-downloads: 3
-pricingModel: FREE
-xmlId: com.tradeskillmaster.wowlua-ls</description>
-      <pubDate>Mon, 04 May 2026 15:26:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31581-wow-lua-language-server</guid>
-      <dc:date>2026-05-04T15:26:21Z</dc:date>
-    </item>
-    <item>
-      <title>Editor Peer Bridge - Fri May 01 04:52:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31554-editor-peer-bridge</link>
-      <description>Cross-editor code navigation tool. Jump between Rider, VSCode, Cursor, and CodeBuddy with a single keystroke.
-
-vendor: shichao402
-downloads: 2
-pricingModel: FREE
-xmlId: com.editorpeerbridge.bridge</description>
-      <pubDate>Fri, 01 May 2026 04:52:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31554-editor-peer-bridge</guid>
-      <dc:date>2026-05-01T04:52:09Z</dc:date>
-    </item>
-    <item>
-      <title>Android Build Booster - Tue May 05 07:29:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31588-android-build-booster</link>
-      <description>Android Build Booster helps you find and fix Android build bottlenecks directly inside IntelliJ IDEA. Health Analyzer: Detects missing gradle.properties optimizations...
-
-vendor: Shubham Singh
-downloads: 0
-pricingModel: FREE
-xmlId: com.shubham0707.androidbuildbooster</description>
-      <pubDate>Tue, 05 May 2026 07:29:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31588-android-build-booster</guid>
-      <dc:date>2026-05-05T07:29:03Z</dc:date>
     </item>
   </channel>
 </rss>
