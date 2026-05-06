@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FreeMarker Templates PRO - Mon May 04 21:35:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30924-freemarker-templates-pro</link>
+      <description>Full-featured FreeMarker template support for IntelliJ IDEA. Works with both angle-bracket (&amp;lt;#if&amp;gt;) and square-bracket ([#if]) syntax modes. Editing Syntax...
+
+vendor: tachyon.foundation
+downloads: 2
+pricingModel: FREE
+xmlId: foundation.tachyon.freemarker</description>
+      <pubDate>Mon, 04 May 2026 21:35:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30924-freemarker-templates-pro</guid>
+      <dc:date>2026-05-04T21:35:06Z</dc:date>
+    </item>
+    <item>
+      <title>Cliq AI Companion - Wed May 06 04:43:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31604-cliq-ai-companion</link>
+      <description>Cliq is a graphical companion for the Claude and Gemini command-line agents. It exposes a tool window, a configurable launcher, and a settings page that lets you...
+
+vendor: Rostislav Krivets
+downloads: 0
+pricingModel: FREE
+xmlId: com.cliq.plugin</description>
+      <pubDate>Wed, 06 May 2026 04:43:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31604-cliq-ai-companion</guid>
+      <dc:date>2026-05-06T04:43:49Z</dc:date>
+    </item>
+    <item>
       <title>StyleBop - Tue May 05 13:40:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31599-stylebop</link>
       <description>Open the current CSS file or workspace folder in StyleBop — a visual macOS editor for stylesheets. Right-click any .css file or folder and pick Open in StyleBop. The...
@@ -84,19 +110,6 @@ xmlId: com.x3rt.betterprojectgroups</description>
       <dc:date>2026-05-03T21:15:13Z</dc:date>
     </item>
     <item>
-      <title>GitCommitTool - Tue May 05 09:21:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31565-gitcommittool</link>
-      <description>GitCommitTool - AI Commit Message Generator 中文介绍 GitCommitTool 是一款基于 AI 的 Git commit 信息生成插件，支持多 API 配置与自定义标签管理。 核心功能： AI 驱动生成 — 接入 OpenAI / DeepSeek / 通义千问 等大模型...
-
-vendor: 杭州迦禾未来科技有限公司
-downloads: 2
-pricingModel: FREE
-xmlId: com.jiahefuture.git-commit-tool</description>
-      <pubDate>Tue, 05 May 2026 09:21:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31565-gitcommittool</guid>
-      <dc:date>2026-05-05T09:21:56Z</dc:date>
-    </item>
-    <item>
       <title>Television - Tue May 05 19:25:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31448-television</link>
       <description>Bring the speed and elegance of Television directly into your JetBrains IDE. This plugin integrates Television directly in IntelliJ IDEs, providing a fast and...
@@ -162,7 +175,7 @@ xmlId: com.algorist.erdmaid</description>
       <dc:date>2026-05-02T18:32:54Z</dc:date>
     </item>
     <item>
-      <title>Capybara AI Coding Assistant - Fri May 01 19:38:39 UTC 2026</title>
+      <title>Capybara AI Coding Assistant - Wed May 06 06:53:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31562-capybara-ai-coding-assistant</link>
       <description>Capybara AI Coding Assistant An AI-powered coding assistant for IntelliJ IDEA built on OpenCode — free model integration, highly customizable, rapid development...
 
@@ -170,9 +183,9 @@ vendor: CapybaraAICodingAssistant
 downloads: 7
 pricingModel: FREE
 xmlId: com.aicoding.ai-coding-plugin</description>
-      <pubDate>Fri, 01 May 2026 19:38:39 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 06:53:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31562-capybara-ai-coding-assistant</guid>
-      <dc:date>2026-05-01T19:38:39Z</dc:date>
+      <dc:date>2026-05-06T06:53:11Z</dc:date>
     </item>
     <item>
       <title>FontViewer - Fri May 01 16:37:06 UTC 2026</title>
@@ -240,7 +253,7 @@ xmlId: org.metascript</description>
       <dc:date>2026-05-03T22:32:32Z</dc:date>
     </item>
     <item>
-      <title>AI File Opener - Mon May 04 12:44:38 UTC 2026</title>
+      <title>AI File Opener - Wed May 06 11:46:48 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31591-ai-file-opener</link>
       <description>Automatically opens files in the editor as an AI coding agent works on them. When an external AI tool (Claude Code, Aider, or any other agent) edits or creates a...
 
@@ -248,22 +261,9 @@ vendor: Nathan Hayfield
 downloads: 9
 pricingModel: FREE
 xmlId: com.nhayfield.claude-file-opener</description>
-      <pubDate>Mon, 04 May 2026 12:44:38 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 11:46:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31591-ai-file-opener</guid>
-      <dc:date>2026-05-04T12:44:38Z</dc:date>
-    </item>
-    <item>
-      <title>AI Engineering Fluency - Sun May 03 13:35:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31580-ai-engineering-fluency</link>
-      <description>Visualises your GitHub Copilot token usage and AI engineering fluency directly inside any JetBrains IDE. Uses the same analytics and visualisations as the VS Code...
-
-vendor: Rob Bos
-downloads: 9
-pricingModel: FREE
-xmlId: com.github.rajbos.ai-engineering-fluency</description>
-      <pubDate>Sun, 03 May 2026 13:35:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31580-ai-engineering-fluency</guid>
-      <dc:date>2026-05-03T13:35:23Z</dc:date>
+      <dc:date>2026-05-06T11:46:48Z</dc:date>
     </item>
   </channel>
 </rss>
