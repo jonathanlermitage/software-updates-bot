@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>JetBrains OS Integration - Thu May 07 14:54:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31636-jetbrains-os-integration</link>
+      <description>Provides operating system integration and jetbrains:// protocol handler support, enabling interaction between your IDE and external developer productivity tools.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.platform.daemon</description>
+      <pubDate>Thu, 07 May 2026 14:54:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31636-jetbrains-os-integration</guid>
+      <dc:date>2026-05-07T14:54:38Z</dc:date>
+    </item>
+    <item>
       <title>GoIT Tracker - Tue May 05 23:16:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31602-goit-tracker</link>
       <description>GoIT Tracker A lightweight and reliable activity tracking plugin for PyCharm that measures your coding time and sends it to the GoIT API. The plugin is designed to...
@@ -58,17 +71,17 @@ xmlId: com.productofamerica.turboassistant</description>
       <dc:date>2026-05-04T19:41:24Z</dc:date>
     </item>
     <item>
-      <title>Block Highlighter - Wed May 06 18:10:41 UTC 2026</title>
+      <title>Block Highlighter - Thu May 07 15:29:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31623-block-highlighter</link>
-      <description>Highlights each nested code block with a different background color. Adds a different background color around each type of code block, making it a lot easier to cut...
+      <description>Highlights each nested Java code block with a different background color. Adds a different background color around each type of code block, making it a lot easier to...
 
 vendor: NMS
 downloads: 1
 pricingModel: FREE
 xmlId: com.blockhighlighter.BlockHighlighter</description>
-      <pubDate>Wed, 06 May 2026 18:10:41 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 15:29:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31623-block-highlighter</guid>
-      <dc:date>2026-05-06T18:10:41Z</dc:date>
+      <dc:date>2026-05-07T15:29:37Z</dc:date>
     </item>
     <item>
       <title>Android String Resource Mover - Wed May 06 08:18:08 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: dev.ckob.television</description>
       <pubDate>Tue, 05 May 2026 19:25:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31448-television</guid>
       <dc:date>2026-05-05T19:25:34Z</dc:date>
-    </item>
-    <item>
-      <title>Xonsh - Mon May 04 20:05:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31595-xonsh</link>
-      <description>Xonsh shell script support for JetBrains IDEs, backed by xonsh-language-server via the LSP4IJ client. Syntax highlighting via a TextMate grammar recycled from...
-
-vendor: Johan Grande
-downloads: 22
-pricingModel: FREE
-xmlId: eu.nahoj.xonsh.jetbrains</description>
-      <pubDate>Mon, 04 May 2026 20:05:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31595-xonsh</guid>
-      <dc:date>2026-05-04T20:05:50Z</dc:date>
     </item>
   </channel>
 </rss>
