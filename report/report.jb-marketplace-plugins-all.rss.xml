@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Flexible for Flox - Wed May 06 09:27:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31388-flexible-for-flox</link>
+      <description>Manage Flox environments visually — packages, services, generations, FloxHub sync, and terminal activation in your IDE. Cross-OS installer with WSL2 support, manifest...
+
+vendor: Ilscipio GmbH
+downloads: 5
+pricingModel: FREEMIUM
+xmlId: com.flexible.flox</description>
+      <pubDate>Wed, 06 May 2026 09:27:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31388-flexible-for-flox</guid>
+      <dc:date>2026-05-06T09:27:09Z</dc:date>
+    </item>
+    <item>
+      <title>GoIT Tracker - Tue May 05 23:16:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31602-goit-tracker</link>
+      <description>GoIT Tracker A lightweight and reliable activity tracking plugin for PyCharm that measures your coding time and sends it to the GoIT API. The plugin is designed to...
+
+vendor: gorvic
+downloads: 1
+pricingModel: FREE
+xmlId: ua.goit.ide.tracker</description>
+      <pubDate>Tue, 05 May 2026 23:16:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31602-goit-tracker</guid>
+      <dc:date>2026-05-05T23:16:54Z</dc:date>
+    </item>
+    <item>
       <title>Brogrammer - Wed May 06 15:35:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31621-brogrammer</link>
       <description>Brogrammer — MCP context backend for Claude Code. Exposes project context (PSI index, semantic search, memories, rules, active editor state, commit history) over MCP...
 
 vendor: Brogrammer
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.brogrammer.plugin</description>
       <pubDate>Wed, 06 May 2026 15:35:37 GMT</pubDate>
@@ -19,17 +45,17 @@ xmlId: com.brogrammer.plugin</description>
       <dc:date>2026-05-06T15:35:37Z</dc:date>
     </item>
     <item>
-      <title>Git Pull Plus - Wed May 06 06:24:42 UTC 2026</title>
+      <title>Git Pull Plus - Thu May 07 02:10:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31605-git-pull-plus</link>
       <description>Git Pull Plus improves multi-repository Update Project stability with automatic concurrency tuning and memory-pressure protection while preserving IntelliJ native Git...
 
 vendor: LinHua Shi
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.linhua.gitpullplus</description>
-      <pubDate>Wed, 06 May 2026 06:24:42 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 02:10:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31605-git-pull-plus</guid>
-      <dc:date>2026-05-06T06:24:42Z</dc:date>
+      <dc:date>2026-05-07T02:10:28Z</dc:date>
     </item>
     <item>
       <title>Turborepo Assistant - Mon May 04 19:41:24 UTC 2026</title>
@@ -37,7 +63,7 @@ xmlId: com.linhua.gitpullplus</description>
       <description>Unofficial JetBrains plugin that adds Turborepo support to WebStorm, IntelliJ Ultimate, and other JS-capable JetBrains IDEs. Not affiliated with or endorsed by Vercel...
 
 vendor: leet
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.productofamerica.turboassistant</description>
       <pubDate>Mon, 04 May 2026 19:41:24 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: com.productofamerica.turboassistant</description>
       <description>Highlights each nested code block with a different background color. Adds a different background color around each type of code block, making it a lot easier to cut...
 
 vendor: NMS
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.blockhighlighter.BlockHighlighter</description>
       <pubDate>Wed, 06 May 2026 18:10:41 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: com.blockhighlighter.BlockHighlighter</description>
       <description>Android String Resource Mover Overview Android String Resource Mover is an Android Studio plugin that helps developers safely move or copy localized Android string...
 
 vendor: Haider
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.yuri.android.stringmover</description>
       <pubDate>Wed, 06 May 2026 08:18:08 GMT</pubDate>
@@ -76,7 +102,7 @@ xmlId: com.yuri.android.stringmover</description>
       <description>IDE support for Tera template files (.tera) — a Rust template engine with Jinja2-style syntax. Syntax Highlighting Variable blocks &amp;nbsp;{{ }} Tag blocks &amp;nbsp...
 
 vendor: Tera
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.tera.tera</description>
       <pubDate>Wed, 06 May 2026 12:35:30 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: dev.dengchao.idea.plugin.git.copy.ref.name</description>
       <description>Monitors Jenkins-backed CI status for the current Git commit and shows IDE notifications when the build state changes.
 
 vendor: Dario Amoroso d'Aragona
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.damorosodaragona.jenkinsnotifier</description>
       <pubDate>Wed, 06 May 2026 16:43:10 GMT</pubDate>
@@ -115,7 +141,7 @@ xmlId: com.damorosodaragona.jenkinsnotifier</description>
       <description>Full-featured FreeMarker template support for IntelliJ IDEA. Works with both angle-bracket (&amp;lt;#if&amp;gt;) and square-bracket ([#if]) syntax modes. Editing Syntax...
 
 vendor: tachyon.foundation
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: foundation.tachyon.freemarker</description>
       <pubDate>Wed, 06 May 2026 13:36:54 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: com.cliq.plugin</description>
       <description>Open the current CSS file or workspace folder in StyleBop — a visual macOS editor for stylesheets. Right-click any .css file or folder and pick Open in StyleBop. The...
 
 vendor: Ben Dansby
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.bendansby.stylebop</description>
       <pubDate>Tue, 05 May 2026 13:40:17 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: com.bendansby.stylebop</description>
       <description>Markora brings Notion-style WYSIWYG Markdown editing to JetBrains IDEs. Edit Markdown files in a block editor that renders as you type — no preview pane needed...
 
 vendor: Markora
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: com.github.kenshin579.markora</description>
       <pubDate>Tue, 05 May 2026 10:19:50 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: com.github.kenshin579.markora</description>
       <description>HelionCoder brings the local HelionCoder CLI into JetBrains IDEs with a dark, VS Code-style assistant panel, editor-aware context, and real IDE integrations. Use it to...
 
 vendor: GabrielPondC
-downloads: 2
+downloads: 12
 pricingModel: FREE
 xmlId: com.helioncoder.jetbrains</description>
       <pubDate>Tue, 05 May 2026 13:32:20 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: com.helioncoder.jetbrains</description>
       <description>JetBrains IDE plugin providing formatting and diagnostics for SQL via the jarify CLI. Mirrors jarify-vscode — same CLI calls, same UX, different host. ⚠️ DuckDB only...
 
 vendor: gmatter
-downloads: 1
+downloads: 13
 pricingModel: FREE
 xmlId: com.amfaro.jarify</description>
       <pubDate>Wed, 06 May 2026 21:20:28 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: com.amfaro.jarify</description>
       <description>Solstice Pro is the animated companion for Solstice Themes. It requires the free theme plugin, keeps the Moon, Sun, and Star palettes, and adds a lightweight harbor...
 
 vendor: Viriya Labs
-downloads: 3
+downloads: 8
 pricingModel: FREE
 xmlId: com.viriyalabs.solstice-pro</description>
       <pubDate>Tue, 05 May 2026 07:40:33 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: com.viriyalabs.solstice-pro</description>
       <description>Adds Jaspr framework support to JetBrains IDEs. Jaspr is a web framework for Dart that lets you build type-safe, reactive web applications. This plugin integrates the...
 
 vendor: Adrián Primo Bernat
-downloads: 5
+downloads: 12
 pricingModel: FREE
 xmlId: com.github.eladrimonos.jasprintellij</description>
       <pubDate>Mon, 04 May 2026 13:12:58 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: com.github.eladrimonos.jasprintellij</description>
       <description>Allows adding a project to multiple groups in the 'Project Selection' welcome screen.
 
 vendor: x3rt
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: com.x3rt.betterprojectgroups</description>
       <pubDate>Sun, 03 May 2026 21:15:13 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: com.x3rt.betterprojectgroups</description>
       <description>Bring the speed and elegance of Television directly into your JetBrains IDE. This plugin integrates Television directly in IntelliJ IDEs, providing a fast and...
 
 vendor: ckob
-downloads: 8
+downloads: 27
 pricingModel: FREE
 xmlId: dev.ckob.television</description>
       <pubDate>Tue, 05 May 2026 19:25:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31448-television</guid>
       <dc:date>2026-05-05T19:25:34Z</dc:date>
-    </item>
-    <item>
-      <title>Xonsh - Mon May 04 20:05:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31595-xonsh</link>
-      <description>Xonsh shell script support for JetBrains IDEs, backed by xonsh-language-server via the LSP4IJ client. Syntax highlighting via a TextMate grammar recycled from...
-
-vendor: Johan Grande
-downloads: 17
-pricingModel: FREE
-xmlId: eu.nahoj.xonsh.jetbrains</description>
-      <pubDate>Mon, 04 May 2026 20:05:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31595-xonsh</guid>
-      <dc:date>2026-05-04T20:05:50Z</dc:date>
-    </item>
-    <item>
-      <title>GaussDB JDBC Driver - Mon May 04 19:54:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31593-gaussdb-jdbc-driver</link>
-      <description>Bundles and automatically installs the GaussDB JDBC driver into JetBrains DataGrip and other IntelliJ-based IDEs. GaussDB is a distributed relational database...
-
-vendor: Vasilii Chernov
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.tjlee.gaussdbjdbcdriver</description>
-      <pubDate>Mon, 04 May 2026 19:54:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31593-gaussdb-jdbc-driver</guid>
-      <dc:date>2026-05-04T19:54:33Z</dc:date>
     </item>
   </channel>
 </rss>
