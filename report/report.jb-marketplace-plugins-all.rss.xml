@@ -6,7 +6,111 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>FreeMarker Templates PRO - Mon May 04 21:35:06 UTC 2026</title>
+      <title>Brogrammer - Wed May 06 15:35:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31621-brogrammer</link>
+      <description>Brogrammer — MCP context backend for Claude Code. Exposes project context (PSI index, semantic search, memories, rules, active editor state, commit history) over MCP...
+
+vendor: Brogrammer
+downloads: 0
+pricingModel: FREE
+xmlId: com.brogrammer.plugin</description>
+      <pubDate>Wed, 06 May 2026 15:35:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31621-brogrammer</guid>
+      <dc:date>2026-05-06T15:35:37Z</dc:date>
+    </item>
+    <item>
+      <title>Git Pull Plus - Wed May 06 06:24:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31605-git-pull-plus</link>
+      <description>Git Pull Plus improves multi-repository Update Project stability with automatic concurrency tuning and memory-pressure protection while preserving IntelliJ native Git...
+
+vendor: LinHua Shi
+downloads: 0
+pricingModel: FREE
+xmlId: com.linhua.gitpullplus</description>
+      <pubDate>Wed, 06 May 2026 06:24:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31605-git-pull-plus</guid>
+      <dc:date>2026-05-06T06:24:42Z</dc:date>
+    </item>
+    <item>
+      <title>Turborepo Assistant - Mon May 04 19:41:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31594-turborepo-assistant</link>
+      <description>Unofficial JetBrains plugin that adds Turborepo support to WebStorm, IntelliJ Ultimate, and other JS-capable JetBrains IDEs. Not affiliated with or endorsed by Vercel...
+
+vendor: leet
+downloads: 1
+pricingModel: FREE
+xmlId: com.productofamerica.turboassistant</description>
+      <pubDate>Mon, 04 May 2026 19:41:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31594-turborepo-assistant</guid>
+      <dc:date>2026-05-04T19:41:24Z</dc:date>
+    </item>
+    <item>
+      <title>Block Highlighter - Wed May 06 18:10:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31623-block-highlighter</link>
+      <description>Highlights each nested code block with a different background color. Adds a different background color around each type of code block, making it a lot easier to cut...
+
+vendor: NMS
+downloads: 0
+pricingModel: FREE
+xmlId: com.blockhighlighter.BlockHighlighter</description>
+      <pubDate>Wed, 06 May 2026 18:10:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31623-block-highlighter</guid>
+      <dc:date>2026-05-06T18:10:41Z</dc:date>
+    </item>
+    <item>
+      <title>Android String Resource Mover - Wed May 06 08:18:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31610-android-string-resource-mover</link>
+      <description>Android String Resource Mover Overview Android String Resource Mover is an Android Studio plugin that helps developers safely move or copy localized Android string...
+
+vendor: Haider
+downloads: 0
+pricingModel: FREE
+xmlId: com.yuri.android.stringmover</description>
+      <pubDate>Wed, 06 May 2026 08:18:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31610-android-string-resource-mover</guid>
+      <dc:date>2026-05-06T08:18:08Z</dc:date>
+    </item>
+    <item>
+      <title>Tera - Wed May 06 12:35:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31617-tera</link>
+      <description>IDE support for Tera template files (.tera) — a Rust template engine with Jinja2-style syntax. Syntax Highlighting Variable blocks &amp;nbsp;{{ }} Tag blocks &amp;nbsp...
+
+vendor: Tera
+downloads: 0
+pricingModel: FREE
+xmlId: com.tera.tera</description>
+      <pubDate>Wed, 06 May 2026 12:35:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31617-tera</guid>
+      <dc:date>2026-05-06T12:35:30Z</dc:date>
+    </item>
+    <item>
+      <title>Copy Git Ref Name - Wed May 06 16:57:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31624-copy-git-ref-name</link>
+      <description>Copy Git branch, tag, and bookmark names from the VCS Log with one click. Copy Git Ref Name adds click-to-copy behavior to Git reference labels in the VCS Log commit...
+
+vendor: DevDengChao
+downloads: 0
+pricingModel: FREE
+xmlId: dev.dengchao.idea.plugin.git.copy.ref.name</description>
+      <pubDate>Wed, 06 May 2026 16:57:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31624-copy-git-ref-name</guid>
+      <dc:date>2026-05-06T16:57:39Z</dc:date>
+    </item>
+    <item>
+      <title>Jenkins CI Notifier - Wed May 06 16:43:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31622-jenkins-ci-notifier</link>
+      <description>Monitors Jenkins-backed CI status for the current Git commit and shows IDE notifications when the build state changes.
+
+vendor: Dario Amoroso d'Aragona
+downloads: 0
+pricingModel: FREE
+xmlId: com.damorosodaragona.jenkinsnotifier</description>
+      <pubDate>Wed, 06 May 2026 16:43:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31622-jenkins-ci-notifier</guid>
+      <dc:date>2026-05-06T16:43:10Z</dc:date>
+    </item>
+    <item>
+      <title>FreeMarker Templates PRO - Wed May 06 13:36:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/30924-freemarker-templates-pro</link>
       <description>Full-featured FreeMarker template support for IntelliJ IDEA. Works with both angle-bracket (&amp;lt;#if&amp;gt;) and square-bracket ([#if]) syntax modes. Editing Syntax...
 
@@ -14,9 +118,9 @@ vendor: tachyon.foundation
 downloads: 2
 pricingModel: FREE
 xmlId: foundation.tachyon.freemarker</description>
-      <pubDate>Mon, 04 May 2026 21:35:06 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 13:36:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/30924-freemarker-templates-pro</guid>
-      <dc:date>2026-05-04T21:35:06Z</dc:date>
+      <dc:date>2026-05-06T13:36:54Z</dc:date>
     </item>
     <item>
       <title>Cliq AI Companion - Wed May 06 04:43:49 UTC 2026</title>
@@ -71,7 +175,7 @@ xmlId: com.helioncoder.jetbrains</description>
       <dc:date>2026-05-05T13:32:20Z</dc:date>
     </item>
     <item>
-      <title>Jarify - Wed May 06 19:46:42 UTC 2026</title>
+      <title>Jarify - Wed May 06 21:20:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31596-jarify</link>
       <description>JetBrains IDE plugin providing formatting and diagnostics for SQL via the jarify CLI. Mirrors jarify-vscode — same CLI calls, same UX, different host. ⚠️ DuckDB only...
 
@@ -79,9 +183,9 @@ vendor: gmatter
 downloads: 1
 pricingModel: FREE
 xmlId: com.amfaro.jarify</description>
-      <pubDate>Wed, 06 May 2026 19:46:42 GMT</pubDate>
+      <pubDate>Wed, 06 May 2026 21:20:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31596-jarify</guid>
-      <dc:date>2026-05-06T19:46:42Z</dc:date>
+      <dc:date>2026-05-06T21:20:28Z</dc:date>
     </item>
     <item>
       <title>Solstice Pro - Tue May 05 07:40:33 UTC 2026</title>
@@ -160,110 +264,6 @@ xmlId: com.github.tjlee.gaussdbjdbcdriver</description>
       <pubDate>Mon, 04 May 2026 19:54:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31593-gaussdb-jdbc-driver</guid>
       <dc:date>2026-05-04T19:54:33Z</dc:date>
-    </item>
-    <item>
-      <title>Jira Companion - Mon May 04 20:56:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31555-jira-companion</link>
-      <description>Keep Jira Cloud next to your code: look up issues, read descriptions and comments, and run searches from a tool window—without living in the browser. Issue detail...
-
-vendor: E. Lopez
-downloads: 28
-pricingModel: FREE
-xmlId: com.elopez.jiraplugin</description>
-      <pubDate>Mon, 04 May 2026 20:56:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31555-jira-companion</guid>
-      <dc:date>2026-05-04T20:56:09Z</dc:date>
-    </item>
-    <item>
-      <title>erdMaid - Mermaid ERD Export for Database Tables - Sat May 02 18:32:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31576-erdmaid--mermaid-erd-export-for-database-tables</link>
-      <description>erdMaid is a Mermaid ERD export plugin for the IntelliJ Database tool window. It is designed for developers who want a fast, accurate way to turn selected database...
-
-vendor: algorist
-downloads: 3
-pricingModel: FREE
-xmlId: com.algorist.erdmaid</description>
-      <pubDate>Sat, 02 May 2026 18:32:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31576-erdmaid--mermaid-erd-export-for-database-tables</guid>
-      <dc:date>2026-05-02T18:32:54Z</dc:date>
-    </item>
-    <item>
-      <title>Capybara AI Coding Assistant - Wed May 06 06:53:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31562-capybara-ai-coding-assistant</link>
-      <description>Capybara AI Coding Assistant An AI-powered coding assistant for IntelliJ IDEA built on OpenCode — free model integration, highly customizable, rapid development...
-
-vendor: CapybaraAICodingAssistant
-downloads: 7
-pricingModel: FREE
-xmlId: com.aicoding.ai-coding-plugin</description>
-      <pubDate>Wed, 06 May 2026 06:53:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31562-capybara-ai-coding-assistant</guid>
-      <dc:date>2026-05-06T06:53:11Z</dc:date>
-    </item>
-    <item>
-      <title>FontViewer - Fri May 01 16:37:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31561-fontviewer</link>
-      <description>Preview font files (TTF, OTF, WOFF, WOFF2) directly inside the IDE. Custom text preview at multiple sizes with live glyph set Browse the Private Use Area...
-
-vendor: Jakey CHAI
-downloads: 6
-pricingModel: FREE
-xmlId: cn.itscloudy.fontviewer</description>
-      <pubDate>Fri, 01 May 2026 16:37:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31561-fontviewer</guid>
-      <dc:date>2026-05-01T16:37:06Z</dc:date>
-    </item>
-    <item>
-      <title>AILoc2 Probe - Mon May 04 11:29:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31589-ailoc2-probe</link>
-      <description>Local-first AI attribution for IntelliJ IDEA commits. AILoc2 observes editor edits, estimates staged AI-assisted change percentage without prompt or instruction...
-
-vendor: Gogolian
-downloads: 3
-pricingModel: FREE
-xmlId: com.ailoc2.probe</description>
-      <pubDate>Mon, 04 May 2026 11:29:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31589-ailoc2-probe</guid>
-      <dc:date>2026-05-04T11:29:24Z</dc:date>
-    </item>
-    <item>
-      <title>GitHub Actions Monitor - Fri May 01 08:07:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31553-github-actions-monitor</link>
-      <description>Monitor and act on GitHub Actions for your project's repo without leaving the IDE. Authenticate via PAT or your IDE-configured GitHub account. Supports github.com and...
-
-vendor: Marcelo Trevisani
-downloads: 8
-pricingModel: FREE
-xmlId: gh_actions_monitor.marcelotrevisani</description>
-      <pubDate>Fri, 01 May 2026 08:07:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31553-github-actions-monitor</guid>
-      <dc:date>2026-05-01T08:07:04Z</dc:date>
-    </item>
-    <item>
-      <title>Minestom Project Wizard - Wed May 06 00:22:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31567-minestom-project-wizard</link>
-      <description>Creates Gradle based Minestom server projects from the New Project wizard. Disclaimer: This plugin is not official and is not affiliated with Minestom in any way.
-
-vendor: Flowstom
-downloads: 7
-pricingModel: FREE
-xmlId: net.flowstom.jetbrains_plugin</description>
-      <pubDate>Wed, 06 May 2026 00:22:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31567-minestom-project-wizard</guid>
-      <dc:date>2026-05-06T00:22:15Z</dc:date>
-    </item>
-    <item>
-      <title>MetaScript - Sun May 03 22:32:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31585-metascript</link>
-      <description>Language support for MetaScript — TypeScript-style syntax with compile-time macros, match expressions, Result&amp;lt;T,E&amp;gt; types, and multiple backends (C, JavaScript...
-
-vendor: Le Cloud
-downloads: 4
-pricingModel: FREE
-xmlId: org.metascript</description>
-      <pubDate>Sun, 03 May 2026 22:32:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31585-metascript</guid>
-      <dc:date>2026-05-03T22:32:32Z</dc:date>
     </item>
   </channel>
 </rss>
