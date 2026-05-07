@@ -6,19 +6,6 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Flexible for Flox - Wed May 06 09:27:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31388-flexible-for-flox</link>
-      <description>Manage Flox environments visually — packages, services, generations, FloxHub sync, and terminal activation in your IDE. Cross-OS installer with WSL2 support, manifest...
-
-vendor: Ilscipio GmbH
-downloads: 5
-pricingModel: FREEMIUM
-xmlId: com.flexible.flox</description>
-      <pubDate>Wed, 06 May 2026 09:27:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31388-flexible-for-flox</guid>
-      <dc:date>2026-05-06T09:27:09Z</dc:date>
-    </item>
-    <item>
       <title>GoIT Tracker - Tue May 05 23:16:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31602-goit-tracker</link>
       <description>GoIT Tracker A lightweight and reliable activity tracking plugin for PyCharm that measures your coding time and sends it to the GoIT API. The plugin is designed to...
@@ -154,7 +141,7 @@ xmlId: foundation.tachyon.freemarker</description>
       <description>Cliq is a graphical companion for the Claude and Gemini command-line agents. It exposes a tool window, a configurable launcher, and a settings page that lets you...
 
 vendor: Rostislav Krivets
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.cliq.plugin</description>
       <pubDate>Wed, 06 May 2026 04:43:49 GMT</pubDate>
@@ -264,6 +251,19 @@ xmlId: dev.ckob.television</description>
       <pubDate>Tue, 05 May 2026 19:25:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31448-television</guid>
       <dc:date>2026-05-05T19:25:34Z</dc:date>
+    </item>
+    <item>
+      <title>Xonsh - Mon May 04 20:05:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31595-xonsh</link>
+      <description>Xonsh shell script support for JetBrains IDEs, backed by xonsh-language-server via the LSP4IJ client. Syntax highlighting via a TextMate grammar recycled from...
+
+vendor: Johan Grande
+downloads: 22
+pricingModel: FREE
+xmlId: eu.nahoj.xonsh.jetbrains</description>
+      <pubDate>Mon, 04 May 2026 20:05:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31595-xonsh</guid>
+      <dc:date>2026-05-04T20:05:50Z</dc:date>
     </item>
   </channel>
 </rss>
