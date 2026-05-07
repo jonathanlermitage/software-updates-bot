@@ -1,12 +1,13 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.8 to 19.7.0 ~ 2026-05-07|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu May 07 20:25:02 UTC 2026|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.4852.50) ~ 2026-05-07|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 07 20:25:01 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.3|[golang.org](https://golang.org/dl/)|Thu May 07 16:31:42 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.1.0|[nodejs.org](https://nodejs.org)|Thu May 07 12:30:55 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon May 04 16:30:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon May 04 12:26:44 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon May 04 12:26:41 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.1.2 (261.24374.34) ~ 2026-04-30|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Apr 30 20:21:10 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 339 - Clotûre de Devoxx France 2026 par les cast codeurs|[lescastcodeurs.com](https://lescastcodeurs.com)|Wed Apr 29 16:30:03 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 29 12:25:35 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.31+11|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Apr 28 20:25:50 UTC 2026|
@@ -22,7 +23,6 @@
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.1 (261.23567.138) ~ 2026-04-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Apr 23 16:30:14 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 22 20:16:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 22 12:15:42 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.6 to 19.6.8 ~ 2026-04-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Apr 20 20:12:28 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.15.0|[nodejs.org](https://nodejs.org)|Thu Apr 16 08:29:47 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.4|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 07 20:09:54 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 07 20:09:53 UTC 2026|
