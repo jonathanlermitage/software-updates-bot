@@ -11,7 +11,7 @@
       <description>UTEM Code Security brings the UTEM (Unified Threat Exposure Management) platform's code-scanning engine into your JetBrains IDE. The plugin wraps the utem-cli binary...
 
 vendor: Innavoto Utem
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.innavoto.utem</description>
       <pubDate>Wed, 06 May 2026 15:18:19 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.innavoto.utem</description>
       <description>Reader Yip is a lightweight reading utility for JetBrains IDEs. It provides an editor-native reading hint for local TXT and EPUB files, configurable chapter splitting...
 
 vendor: Reader-plugin-yip
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.reader.jetbrains</description>
       <pubDate>Thu, 07 May 2026 03:29:44 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.reader.jetbrains</description>
       <description>JetBrains IDE support for Typecek typed templates. Provides .tc file recognition, syntax highlighting, tag completions, hover documentation, Typecek language-server...
 
 vendor: Richard Janka
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: sk.typecek.jetbrains</description>
       <pubDate>Thu, 07 May 2026 11:30:23 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: sk.typecek.jetbrains</description>
       <description>Token Flow — Bridging the gap between Design and Code. Stop hunting for variable names in _variables.scss. Stop digging through deep theme objects. Token Flow indexes...
 
 vendor: Token Flow
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: fr.fsh.tokendesigner</description>
       <pubDate>Thu, 07 May 2026 14:08:55 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.forketyfork.walkthrough</description>
       <description>Show DeepSeek API balance in status bar with a pixel whale. Press Alt+D to configure SK (optional), query interval and warning threshold. 在状态栏显示 DeepSeek API...
 
 vendor: SCP Planet
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: com.scp_planet.idea.deepseek_pet</description>
       <pubDate>Sun, 03 May 2026 18:17:01 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.scp_planet.idea.deepseek_pet</description>
       <description>Jira Issue Tracker View, update, and manage Jira issues directly from the IDE. Browse issues using JQL queries View issue details (status, priority, assignee...
 
 vendor: Muhiminul Islam
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.app.jiraplugin.JiraIntegration</description>
       <pubDate>Thu, 07 May 2026 12:41:04 GMT</pubDate>
@@ -97,17 +97,17 @@ xmlId: com.app.jiraplugin.JiraIntegration</description>
       <dc:date>2026-05-07T12:41:04Z</dc:date>
     </item>
     <item>
-      <title>DDLess - PHP Debugger - Thu May 07 00:08:51 UTC 2026</title>
+      <title>DDLess - PHP Debugger - Thu May 07 23:02:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31515-ddless--php-debugger</link>
       <description>Debug PHP from inside PhpStorm — without Xdebug, php.ini tweaks, or port forwarding. This plugin connects your IDE to the DDLess desktop app and turns the editor into...
 
 vendor: DDLess
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.behindsolution.ddless</description>
-      <pubDate>Thu, 07 May 2026 00:08:51 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 23:02:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31515-ddless--php-debugger</guid>
-      <dc:date>2026-05-07T00:08:51Z</dc:date>
+      <dc:date>2026-05-07T23:02:03Z</dc:date>
     </item>
     <item>
       <title>WhyLine - Thu May 07 16:39:46 UTC 2026</title>
@@ -115,7 +115,7 @@ xmlId: com.behindsolution.ddless</description>
       <description>WhyLine answers the question "why did this code change?" without leaving the IDE. Select any range of code, right-click → WhyLine: Explain Why, and instantly see: The...
 
 vendor: WhyLine
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.whyline.plugin</description>
       <pubDate>Thu, 07 May 2026 16:39:46 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.cuiwang.CodeTemplatePlugin</description>
       <description>Provides operating system integration and jetbrains:// protocol handler support, enabling interaction between your IDE and external developer productivity tools.
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 1439
 pricingModel: FREE
 xmlId: com.intellij.platform.daemon</description>
       <pubDate>Thu, 07 May 2026 14:54:38 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.intellij.platform.daemon</description>
       <description>GoIT Tracker A lightweight and reliable activity tracking plugin for PyCharm that measures your coding time and sends it to the GoIT API. The plugin is designed to...
 
 vendor: gorvic
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: ua.goit.ide.tracker</description>
       <pubDate>Tue, 05 May 2026 23:16:54 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: ua.goit.ide.tracker</description>
       <description>Brogrammer — MCP context backend for Claude Code. Exposes project context (PSI index, semantic search, memories, rules, active editor state, commit history) over MCP...
 
 vendor: Brogrammer
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: com.brogrammer.plugin</description>
       <pubDate>Wed, 06 May 2026 15:35:37 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.brogrammer.plugin</description>
       <description>Git Pull Plus improves multi-repository Update Project stability with automatic concurrency tuning and memory-pressure protection while preserving IntelliJ native Git...
 
 vendor: LinHua Shi
-downloads: 1
+downloads: 28
 pricingModel: FREE
 xmlId: com.linhua.gitpullplus</description>
       <pubDate>Thu, 07 May 2026 02:10:28 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.linhua.gitpullplus</description>
       <description>Unofficial JetBrains plugin that adds Turborepo support to WebStorm, IntelliJ Ultimate, and other JS-capable JetBrains IDEs. Not affiliated with or endorsed by Vercel...
 
 vendor: leet
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: com.productofamerica.turboassistant</description>
       <pubDate>Mon, 04 May 2026 19:41:24 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.productofamerica.turboassistant</description>
       <description>Highlights each nested Java code block with a different background color. Adds a different background color around each type of code block, making it a lot easier to...
 
 vendor: NMS
-downloads: 1
+downloads: 27
 pricingModel: FREE
 xmlId: com.blockhighlighter.BlockHighlighter</description>
       <pubDate>Thu, 07 May 2026 15:29:37 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.blockhighlighter.BlockHighlighter</description>
       <description>Android String Resource Mover Overview Android String Resource Mover is an Android Studio plugin that helps developers safely move or copy localized Android string...
 
 vendor: Haider
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.yuri.android.stringmover</description>
       <pubDate>Wed, 06 May 2026 08:18:08 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.yuri.android.stringmover</description>
       <description>IDE support for Tera template files (.tera) — a Rust template engine with Jinja2-style syntax. Syntax Highlighting Variable blocks &amp;nbsp;{{ }} Tag blocks &amp;nbsp...
 
 vendor: Tera
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.tera.tera</description>
       <pubDate>Wed, 06 May 2026 12:35:30 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.tera.tera</description>
       <description>Copy Git branch, tag, and bookmark names from the VCS Log with one click. Copy Git Ref Name adds click-to-copy behavior to Git reference labels in the VCS Log commit...
 
 vendor: DevDengChao
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: dev.dengchao.idea.plugin.git.copy.ref.name</description>
       <pubDate>Wed, 06 May 2026 16:57:39 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: dev.dengchao.idea.plugin.git.copy.ref.name</description>
       <description>Monitors Jenkins-backed CI status for the current Git commit and shows IDE notifications when the build state changes.
 
 vendor: Dario Amoroso d'Aragona
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: com.damorosodaragona.jenkinsnotifier</description>
       <pubDate>Wed, 06 May 2026 16:43:10 GMT</pubDate>
