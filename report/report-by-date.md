@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.5|[www.python.org](https://www.python.org/downloads/windows/)|Sun May 10 16:16:44 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 mac| 3.14.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun May 10 16:16:43 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.8 to 19.7.0 ~ 2026-05-07|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu May 07 20:25:02 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.4852.50) ~ 2026-05-07|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 07 20:25:01 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.3|[golang.org](https://golang.org/dl/)|Thu May 07 16:31:42 UTC 2026|
@@ -24,8 +26,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 22 20:16:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 22 12:15:42 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.15.0|[nodejs.org](https://nodejs.org)|Thu Apr 16 08:29:47 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.4|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 07 20:09:54 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 mac| 3.14.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 07 20:09:53 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.2 (2026-03-16)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Mar 16 16:19:31 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.17|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|

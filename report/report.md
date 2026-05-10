@@ -39,8 +39,8 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
-|![logo](../media/logo/python.png) Python 3 mac| 3.14.4|[www.python.org](https://www.python.org/downloads/mac-osx/)|Tue Apr 07 20:09:53 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 windows| 3.14.4|[www.python.org](https://www.python.org/downloads/windows/)|Tue Apr 07 20:09:54 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 mac| 3.14.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun May 10 16:16:43 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 windows| 3.14.5|[www.python.org](https://www.python.org/downloads/windows/)|Sun May 10 16:16:44 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 23 20:17:33 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
