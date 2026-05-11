@@ -6,17 +6,238 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>budi - Sat May 09 00:08:50 UTC 2026</title>
+      <title>GherkinX - Xray Sync - Sun May 10 08:49:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31684-gherkinx--xray-sync</link>
+      <description>GherkinX - Xray Sync keeps your local .feature files in sync with Jira Xray test cases - without leaving the IDE. How it works: Configure your Jira URL, Project Key...
+
+vendor: BBekci
+downloads: 0
+pricingModel: FREE
+xmlId: com.gherkinx.GherkinX</description>
+      <pubDate>Sun, 10 May 2026 08:49:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31684-gherkinx--xray-sync</guid>
+      <dc:date>2026-05-10T08:49:25Z</dc:date>
+    </item>
+    <item>
+      <title>LZT Xenforo - Sun May 10 17:21:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31319-lzt-xenforo</link>
+      <description>IntelliJ-based plugin for working with XenForo server api from your IDE. Features Project View integration — Templates and Phrases displayed in tree panelOpen &amp;amp...
+
+vendor: Dexsper
+downloads: 3
+pricingModel: FREE
+xmlId: com.github.dexsper.xenforoplugin</description>
+      <pubDate>Sun, 10 May 2026 17:21:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31319-lzt-xenforo</guid>
+      <dc:date>2026-05-10T17:21:40Z</dc:date>
+    </item>
+    <item>
+      <title>CC Terminal - Mon May 11 10:06:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31682-cc-terminal</link>
+      <description>A super-lightweight terminal plugin for Claude Code with rich text input support.
+
+vendor: xpc1024
+downloads: 0
+pricingModel: FREE
+xmlId: com.ccterminal</description>
+      <pubDate>Mon, 11 May 2026 10:06:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31682-cc-terminal</guid>
+      <dc:date>2026-05-11T10:06:25Z</dc:date>
+    </item>
+    <item>
+      <title>ShipLens - Mon May 11 16:01:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31705-shiplens</link>
+      <description>A lens from git blame to release version. See which release first shipped any line of code, right in your IDE. The status bar shows the first release tag that contains...
+
+vendor: Ender Wang
+downloads: 0
+pricingModel: FREE
+xmlId: com.shiplens.jetbrains</description>
+      <pubDate>Mon, 11 May 2026 16:01:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31705-shiplens</guid>
+      <dc:date>2026-05-11T16:01:37Z</dc:date>
+    </item>
+    <item>
+      <title>Nix Pro - Mon May 11 12:44:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31649-nix-pro</link>
+      <description>Nix Pro brings first-class Nix project support to JetBrains IDEs, with native parsing for .nix files and practical integrations for the tools Nix users already rely...
+
+vendor: Jetplugins
+downloads: 1
+pricingModel: PAID
+xmlId: dev.jetplugins.nix-pro</description>
+      <pubDate>Mon, 11 May 2026 12:44:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31649-nix-pro</guid>
+      <dc:date>2026-05-11T12:44:06Z</dc:date>
+    </item>
+    <item>
+      <title>Multi AI Chat - Sun May 10 12:48:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31689-multi-ai-chat</link>
+      <description>Comprehensive Multi AI assistant for JetBrains IDEs. This tool integrates major AI providers including OpenAI (GPT-4), Anthropic (Claude 3), and Google Gemini into...
+
+vendor: Freetime Maker
+downloads: 0
+pricingModel: FREE
+xmlId: com.freetime.maic</description>
+      <pubDate>Sun, 10 May 2026 12:48:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31689-multi-ai-chat</guid>
+      <dc:date>2026-05-10T12:48:11Z</dc:date>
+    </item>
+    <item>
+      <title>PatchTalk - Sun May 10 22:28:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31695-patchtalk</link>
+      <description>PatchTalk adds local review-style comment threads to JetBrains editors without requiring a pull request. Comments stay inside the IDE, show up in the line-number...
+
+vendor: kayjikaymchi
+downloads: 0
+pricingModel: FREE
+xmlId: dev.kaioken.patchtalk</description>
+      <pubDate>Sun, 10 May 2026 22:28:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31695-patchtalk</guid>
+      <dc:date>2026-05-10T22:28:53Z</dc:date>
+    </item>
+    <item>
+      <title>TaskLens - Sun May 10 12:24:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31687-tasklens</link>
+      <description>TaskLens is an IntelliJ IDEA plugin that analyzes scheduled task execution flow in Spring-based Java applications. It detects methods annotated with @Scheduled, traces...
+
+vendor: minmin
+downloads: 0
+pricingModel: FREE
+xmlId: com.nonamecoders.tasklens</description>
+      <pubDate>Sun, 10 May 2026 12:24:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31687-tasklens</guid>
+      <dc:date>2026-05-10T12:24:12Z</dc:date>
+    </item>
+    <item>
+      <title>SSH Deploy - Mon May 11 06:32:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31698-ssh-deploy</link>
+      <description>English SSH Deploy uploads build artifacts to remote Linux hosts over SSH/SFTP from IntelliJ IDEA (Community or Ultimate, with bundled Java and Terminal). Configure...
+
+vendor: Linn-cn
+downloads: 0
+pricingModel: FREE
+xmlId: com.sshdeploy.SshDeploy</description>
+      <pubDate>Mon, 11 May 2026 06:32:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31698-ssh-deploy</guid>
+      <dc:date>2026-05-11T06:32:33Z</dc:date>
+    </item>
+    <item>
+      <title>Branch Scope - Sun May 10 12:26:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31688-branch-scope</link>
+      <description>Adds a Branch Modified Files entry to the Project view selector. Scopes the visible files to those modified in the current branch: commits since branching from the...
+
+vendor: BugDigger
+downloads: 0
+pricingModel: FREE
+xmlId: com.bugdigger.BranchScope</description>
+      <pubDate>Sun, 10 May 2026 12:26:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31688-branch-scope</guid>
+      <dc:date>2026-05-10T12:26:32Z</dc:date>
+    </item>
+    <item>
+      <title>ddot.it - Mon May 11 13:00:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31651-ddot-it</link>
+      <description>Authoring support for ddot.it — Knowledge Graph Notation, a minimal text format for typed knowledge graphs. Each line is a triple — subject ..predicate.. object...
+
+vendor: Calpano
+downloads: 1
+pricingModel: FREE
+xmlId: com.calpano.ddot</description>
+      <pubDate>Mon, 11 May 2026 13:00:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31651-ddot-it</guid>
+      <dc:date>2026-05-11T13:00:42Z</dc:date>
+    </item>
+    <item>
+      <title>Ultra Comment Remover - Mon May 11 17:11:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31708-ultra-comment-remover</link>
+      <description>Removes comments recursively from files, folders and entire projects using IntelliJ PSI. Features: Recursive folder/project processing PSI-safe comment removal...
+
+vendor: MonkeyMoon104
+downloads: 0
+pricingModel: FREE
+xmlId: com.monkey.ultracommentremover</description>
+      <pubDate>Mon, 11 May 2026 17:11:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31708-ultra-comment-remover</guid>
+      <dc:date>2026-05-11T17:11:54Z</dc:date>
+    </item>
+    <item>
+      <title>TS Typed Functions - Mon May 11 16:51:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31707-ts-typed-functions</link>
+      <description>Navigate between TypeScript function-typed type aliases and the functions that implement them — even when the implementation does not name the alias. Features Gutter...
+
+vendor: Ondrej Tom
+downloads: 0
+pricingModel: FREE
+xmlId: io.meiro.ts-typed-functions</description>
+      <pubDate>Mon, 11 May 2026 16:51:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31707-ts-typed-functions</guid>
+      <dc:date>2026-05-11T16:51:59Z</dc:date>
+    </item>
+    <item>
+      <title>Log Server Explorer: Cyber-Tailing - Mon May 11 03:51:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31690-log-server-explorer-cyber-tailing</link>
+      <description>Remote Logging Redefined Stop juggling between terminal tabs and SSH sessions. Log Server Explorer brings professional-grade remote log tailing directly into your...
+
+vendor: PhilZ Dev
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.phil.logserverexplorer</description>
+      <pubDate>Mon, 11 May 2026 03:51:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31690-log-server-explorer-cyber-tailing</guid>
+      <dc:date>2026-05-11T03:51:51Z</dc:date>
+    </item>
+    <item>
+      <title>Javelin Fault Localization - Sun May 10 13:04:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31691-javelin-fault-localization</link>
+      <description>Javelin: Spectrum-Based Fault Localization for Java Javelin automates Spectrum-Based Fault Localization (SBFL) for Java projects. It instruments your JUnit tests...
+
+vendor: TwentyOneCopilots
+downloads: 0
+pricingModel: FREE
+xmlId: com.javelin.plugin</description>
+      <pubDate>Sun, 10 May 2026 13:04:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31691-javelin-fault-localization</guid>
+      <dc:date>2026-05-10T13:04:57Z</dc:date>
+    </item>
+    <item>
+      <title>Trier - Mon May 11 17:39:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31703-trier</link>
+      <description>Trier keeps Tailwind CSS class lists consistently ordered inside JetBrains IDEs without running full Prettier formatting. It uses the Tailwind sorting logic from...
+
+vendor: Darmaru
+downloads: 0
+pricingModel: FREE
+xmlId: com.darmaru.trier</description>
+      <pubDate>Mon, 11 May 2026 17:39:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31703-trier</guid>
+      <dc:date>2026-05-11T17:39:26Z</dc:date>
+    </item>
+    <item>
+      <title>OBJECT-TRANSFORM - Mon May 11 15:52:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31704-object-transform</link>
+      <description>This IntelliJ Platform plugin generates formatted sample JSON from the Java class at the caret, including superclass fields. It provides a right-side tool window to...
+
+vendor: object-transform
+downloads: 0
+pricingModel: FREE
+xmlId: com.godelta.objecttransform</description>
+      <pubDate>Mon, 11 May 2026 15:52:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31704-object-transform</guid>
+      <dc:date>2026-05-11T15:52:43Z</dc:date>
+    </item>
+    <item>
+      <title>budi - Mon May 11 20:18:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31662-budi</link>
-      <description>budi shows your AI coding spend in the IDE status bar — last 1d / 7d / 30d, mirroring the Claude Code statusline. Sibling of the budi-cursor extension for VS Code and...
+      <description>budi is a quiet status-bar widget for JetBrains IDEs that shows your AI coding spend over the last 1 day / 7 days / 30 days, scoped to the IDE host you're working in...
 
 vendor: Ivan Seredkin
 downloads: 4
 pricingModel: FREE
 xmlId: com.github.siropkin.budijetbrains</description>
-      <pubDate>Sat, 09 May 2026 00:08:50 GMT</pubDate>
+      <pubDate>Mon, 11 May 2026 20:18:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31662-budi</guid>
-      <dc:date>2026-05-09T00:08:50Z</dc:date>
+      <dc:date>2026-05-11T20:18:24Z</dc:date>
     </item>
     <item>
       <title>Magefile - Sun May 10 18:37:54 UTC 2026</title>
@@ -43,227 +264,6 @@ xmlId: com.github.muratiger.promptworkinglogs</description>
       <pubDate>Sun, 10 May 2026 05:22:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29316-prompt-work</guid>
       <dc:date>2026-05-10T05:22:58Z</dc:date>
-    </item>
-    <item>
-      <title>AI Commit Message Generator - Mon May 11 01:16:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31697-ai-commit-message-generator</link>
-      <description>English Generate polished Git commit messages from the files already selected in the JetBrains Commit tool window. Configuration path: Settings / Preferences | Tools...
-
-vendor: mosheng
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.aicommit.message.generator</description>
-      <pubDate>Mon, 11 May 2026 01:16:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31697-ai-commit-message-generator</guid>
-      <dc:date>2026-05-11T01:16:21Z</dc:date>
-    </item>
-    <item>
-      <title>Doppler - Mon May 11 09:20:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31683-doppler</link>
-      <description>Inject Doppler-managed secrets into JetBrains run configurations and browse/edit them from a tool window.
-
-vendor: Antonio Masotti
-downloads: 1
-pricingModel: FREE
-xmlId: com.tonihacks.doppler-intellij</description>
-      <pubDate>Mon, 11 May 2026 09:20:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31683-doppler</guid>
-      <dc:date>2026-05-11T09:20:03Z</dc:date>
-    </item>
-    <item>
-      <title>dbt-helper - Fri May 08 20:43:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31663-dbt-helper</link>
-      <description>dbt Helper — Lineage, Code Intelligence &amp;amp; Runner for dbt A powerful plugin that brings lineage visualization, code intelligence, and a command runner for dbt...
-
-vendor: Ruslan Hryshchenko
-downloads: 5
-pricingModel: FREE
-xmlId: com.dbthelper</description>
-      <pubDate>Fri, 08 May 2026 20:43:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31663-dbt-helper</guid>
-      <dc:date>2026-05-08T20:43:58Z</dc:date>
-    </item>
-    <item>
-      <title>Jison Language Support - Mon May 11 09:12:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31664-jison-language-support</link>
-      <description>Provides syntax highlighting and editor features for jison and jison Schema languages.
-
-vendor: ssnoodles
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.sshnoodles.jisonideaplugin</description>
-      <pubDate>Mon, 11 May 2026 09:12:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31664-jison-language-support</guid>
-      <dc:date>2026-05-11T09:12:29Z</dc:date>
-    </item>
-    <item>
-      <title>Wizard Translation - Sat May 09 09:29:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31671-wizard-translation</link>
-      <description>Gemini API-powered translation plugin for IntelliJ IDEA.
-
-vendor: Wizard yang
-downloads: 3
-pricingModel: FREE
-xmlId: com.wzd.translation</description>
-      <pubDate>Sat, 09 May 2026 09:29:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31671-wizard-translation</guid>
-      <dc:date>2026-05-09T09:29:23Z</dc:date>
-    </item>
-    <item>
-      <title>Parser 3 Support - Sun May 10 10:10:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31657-parser-3-support</link>
-      <description>Parser3 language support for IntelliJ IDEA: syntax highlighting, code completion, navigation, quick documentation, formatting, folding, HTML/CSS/JavaScript/SQL...
-
-vendor: Alex Mryasov
-downloads: 16
-pricingModel: FREE
-xmlId: ru.artlebedev.parser3</description>
-      <pubDate>Sun, 10 May 2026 10:10:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31657-parser-3-support</guid>
-      <dc:date>2026-05-10T10:10:21Z</dc:date>
-    </item>
-    <item>
-      <title>ByteORM Schema Support - Sat May 09 05:19:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31667-byteorm-schema-support</link>
-      <description>ByteORM Schema Support brings editor support for ByteORM .bo schema files. It registers the .bo file type and adds syntax highlighting, context-aware completion...
-
-vendor: ByteMate
-downloads: 7
-pricingModel: FREE
-xmlId: dev.bytemate.byteorm</description>
-      <pubDate>Sat, 09 May 2026 05:19:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31667-byteorm-schema-support</guid>
-      <dc:date>2026-05-09T05:19:47Z</dc:date>
-    </item>
-    <item>
-      <title>CodeAura - Sat May 09 14:30:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31675-codeaura</link>
-      <description>Smart contextual code formatting and cleanup engine with file-specific settings.
-
-vendor: janak
-downloads: 11
-pricingModel: FREE
-xmlId: com.codeaura.forge</description>
-      <pubDate>Sat, 09 May 2026 14:30:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31675-codeaura</guid>
-      <dc:date>2026-05-09T14:30:47Z</dc:date>
-    </item>
-    <item>
-      <title>Git Worktrees | GW4I - Sun May 10 17:28:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31639-git-worktrees--gw4i</link>
-      <description>English Manage linked Git worktrees from inside IntelliJ IDEA. Git Worktrees | GW4I adds a focused Worktrees tab to the Git tool window, so you can see every linked...
-
-vendor: DevDengChao
-downloads: 34
-pricingModel: FREE
-xmlId: dev.dengchao.idea.plugin.git.worktrees</description>
-      <pubDate>Sun, 10 May 2026 17:28:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31639-git-worktrees--gw4i</guid>
-      <dc:date>2026-05-10T17:28:03Z</dc:date>
-    </item>
-    <item>
-      <title>Makinda Icons - Wed May 06 12:43:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31612-makinda-icons</link>
-      <description>File icons for the IntelliJ Platform — inspired by Hugeicons, tuned for the Makinda brand. Same icon set as the Makinda Icons VS Code extension. Currently shipping the...
-
-vendor: Jackson Makinda
-downloads: 10
-pricingModel: FREE
-xmlId: com.makinda.icons</description>
-      <pubDate>Wed, 06 May 2026 12:43:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31612-makinda-icons</guid>
-      <dc:date>2026-05-06T12:43:52Z</dc:date>
-    </item>
-    <item>
-      <title>Minecraft Color Formatter - Sat May 09 10:58:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31644-minecraft-color-formatter</link>
-      <description>Syntax highlighting for Minecraft legacy color codes (Bedrock palette) inside Java and Kotlin string literals. Features Real-time preview of § color codes in string...
-
-vendor: WanMine
-downloads: 57
-pricingModel: FREE
-xmlId: net.wanmine.mccolor</description>
-      <pubDate>Sat, 09 May 2026 10:58:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31644-minecraft-color-formatter</guid>
-      <dc:date>2026-05-09T10:58:59Z</dc:date>
-    </item>
-    <item>
-      <title>Nuxt Pro - Fri May 08 06:42:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31650-nuxt-pro</link>
-      <description>Nuxt Pro adds first-class Nuxt 4 support to IntelliJ-based IDEs. It detects Nuxt workspaces, understands Nuxt config and ignore files, exposes Vetur compatibility...
-
-vendor: Jetplugins
-downloads: 7
-pricingModel: PAID
-xmlId: dev.jetplugins.nuxt</description>
-      <pubDate>Fri, 08 May 2026 06:42:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31650-nuxt-pro</guid>
-      <dc:date>2026-05-08T06:42:45Z</dc:date>
-    </item>
-    <item>
-      <title>Obfuscation Pro - Fri May 08 03:25:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31647-obfuscation-pro</link>
-      <description>Obfuscation Pro helps you ship obfuscated Java, Kotlin, Android, and IntelliJ plugin projects without losing the runtime entry points your app depends on. It detects...
-
-vendor: Jetplugins
-downloads: 8
-pricingModel: PAID
-xmlId: dev.jetplugins.obfuscation-pro</description>
-      <pubDate>Fri, 08 May 2026 03:25:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31647-obfuscation-pro</guid>
-      <dc:date>2026-05-08T03:25:57Z</dc:date>
-    </item>
-    <item>
-      <title>AiBridge - Thu May 07 21:22:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31642-aibridge</link>
-      <description>AiBridge turns your JetBrains IDE into a local AI gateway. It exposes the language models available via GitHub Copilot (and other providers) as a standard...
-
-vendor: Giona Granchelli
-downloads: 4
-pricingModel: FREE
-xmlId: com.aibridge</description>
-      <pubDate>Thu, 07 May 2026 21:22:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31642-aibridge</guid>
-      <dc:date>2026-05-07T21:22:31Z</dc:date>
-    </item>
-    <item>
-      <title>Maven Consistency Enforcer - Mon May 11 08:07:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31634-maven-consistency-enforcer</link>
-      <description>Maven Consistency Enforcer (MCE) Stop fighting ghosts in your classpath! MCE solves the frustrating problem of stale JAR artifacts preventing your code changes from...
-
-vendor: finncu
-downloads: 6
-pricingModel: FREE
-xmlId: dev.silverhorn.fca.maven-consistency-enforcer</description>
-      <pubDate>Mon, 11 May 2026 08:07:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31634-maven-consistency-enforcer</guid>
-      <dc:date>2026-05-11T08:07:22Z</dc:date>
-    </item>
-    <item>
-      <title>svn-maven-build - Fri May 08 09:19:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31631-svn-maven-build</link>
-      <description>Generate incremental WAR/Class update packages based on SVN commit history using Maven. Supports both WAR mode (mvn package then extract) and Classes mode (copy...
-
-vendor: czwei
-downloads: 10
-pricingModel: FREE
-xmlId: com.czwei.SvnMavenBuild</description>
-      <pubDate>Fri, 08 May 2026 09:19:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31631-svn-maven-build</guid>
-      <dc:date>2026-05-08T09:19:43Z</dc:date>
-    </item>
-    <item>
-      <title>SLICC / gem5 Ruby Language Support - Mon May 11 03:56:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31645-slicc--gem5-ruby-language-support</link>
-      <description>Language support for SLICC (.sm and .slicc files) used in gem5 Ruby memory subsystem.
-
-vendor: ilo5u
-downloads: 4
-pricingModel: FREE
-xmlId: com.slicc.plugin</description>
-      <pubDate>Mon, 11 May 2026 03:56:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31645-slicc--gem5-ruby-language-support</guid>
-      <dc:date>2026-05-11T03:56:35Z</dc:date>
     </item>
   </channel>
 </rss>
