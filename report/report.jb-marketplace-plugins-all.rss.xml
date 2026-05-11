@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Magefile - Sun May 10 18:37:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31694-magefile</link>
+      <description>Run Mage build targets directly from GoLand. Requirements Install mage. See installation docs. Ensure mage is on your PATH, or configure the executable path in the run...
+
+vendor: Tyler Morton
+downloads: 0
+pricingModel: FREE
+xmlId: io.tylermmorton.magefile</description>
+      <pubDate>Sun, 10 May 2026 18:37:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31694-magefile</guid>
+      <dc:date>2026-05-10T18:37:54Z</dc:date>
+    </item>
+    <item>
+      <title>prompt-work - Sun May 10 05:22:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29316-prompt-work</link>
+      <description>Prompt Work turns your IDE into a workspace for prompt-driven development. Keep your prompts as markdown files in a dedicated folder of your project, run the Claude...
+
+vendor: instantcoffeejp
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.muratiger.promptworkinglogs</description>
+      <pubDate>Sun, 10 May 2026 05:22:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29316-prompt-work</guid>
+      <dc:date>2026-05-10T05:22:58Z</dc:date>
+    </item>
+    <item>
+      <title>AI Commit Message Generator - Mon May 11 01:16:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31697-ai-commit-message-generator</link>
+      <description>English Generate polished Git commit messages from the files already selected in the JetBrains Commit tool window. Configuration path: Settings / Preferences | Tools...
+
+vendor: mosheng
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.aicommit.message.generator</description>
+      <pubDate>Mon, 11 May 2026 01:16:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31697-ai-commit-message-generator</guid>
+      <dc:date>2026-05-11T01:16:21Z</dc:date>
+    </item>
+    <item>
+      <title>Doppler - Mon May 11 09:20:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31683-doppler</link>
+      <description>Inject Doppler-managed secrets into JetBrains run configurations and browse/edit them from a tool window.
+
+vendor: Antonio Masotti
+downloads: 1
+pricingModel: FREE
+xmlId: com.tonihacks.doppler-intellij</description>
+      <pubDate>Mon, 11 May 2026 09:20:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31683-doppler</guid>
+      <dc:date>2026-05-11T09:20:03Z</dc:date>
+    </item>
+    <item>
       <title>dbt-helper - Fri May 08 20:43:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31663-dbt-helper</link>
       <description>dbt Helper — Lineage, Code Intelligence &amp;amp; Runner for dbt A powerful plugin that brings lineage visualization, code intelligence, and a command runner for dbt...
@@ -19,7 +71,7 @@ xmlId: com.dbthelper</description>
       <dc:date>2026-05-08T20:43:58Z</dc:date>
     </item>
     <item>
-      <title>Jison Language Support - Sat May 09 00:35:04 UTC 2026</title>
+      <title>Jison Language Support - Mon May 11 09:12:29 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31664-jison-language-support</link>
       <description>Provides syntax highlighting and editor features for jison and jison Schema languages.
 
@@ -27,9 +79,9 @@ vendor: ssnoodles
 downloads: 6
 pricingModel: FREE
 xmlId: com.github.sshnoodles.jisonideaplugin</description>
-      <pubDate>Sat, 09 May 2026 00:35:04 GMT</pubDate>
+      <pubDate>Mon, 11 May 2026 09:12:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31664-jison-language-support</guid>
-      <dc:date>2026-05-09T00:35:04Z</dc:date>
+      <dc:date>2026-05-11T09:12:29Z</dc:date>
     </item>
     <item>
       <title>Wizard Translation - Sat May 09 09:29:23 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.akrikun.saltstack</description>
       <pubDate>Fri, 08 May 2026 22:37:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31655-saltstack-toolkit</guid>
       <dc:date>2026-05-08T22:37:01Z</dc:date>
-    </item>
-    <item>
-      <title>ZK Framework Variables Binding - Mon May 11 06:55:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31652-zk-framework-variables-binding</link>
-      <description>Supporto completo per ZK Framework MVVM bindings Questo plugin migliora drasticamente l'esperienza di sviluppo con ZK Framework in IntelliJ IDEA. Funzionalità...
-
-vendor: Zusby
-downloads: 2
-pricingModel: FREE
-xmlId: com.zusby.zkplugin.binding</description>
-      <pubDate>Mon, 11 May 2026 06:55:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31652-zk-framework-variables-binding</guid>
-      <dc:date>2026-05-11T06:55:14Z</dc:date>
-    </item>
-    <item>
-      <title>FeatureFlagPro - Wed May 06 10:56:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31614-featureflagpro</link>
-      <description>Feature Flag Manager for IntelliJ IDEA Understand all feature flags in your codebase without leaving your IDE. Scans source files and detects every flag usage...
-
-vendor: Moon Laboratories
-downloads: 7
-pricingModel: FREE
-xmlId: com.featureflagpro.plugin</description>
-      <pubDate>Wed, 06 May 2026 10:56:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31614-featureflagpro</guid>
-      <dc:date>2026-05-06T10:56:34Z</dc:date>
-    </item>
-    <item>
-      <title>BranchFocus - Fri May 08 12:08:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31656-branchfocus</link>
-      <description>Adds a Focus in Log action to the Git Branches popup. When invoked on a branch or a tag, the Git Log tool window opens (if it isn't already) and the commit graph...
-
-vendor: Koutaro Miura
-downloads: 8
-pricingModel: FREE
-xmlId: com.k.pmpstudy.BranchFocus</description>
-      <pubDate>Fri, 08 May 2026 12:08:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31656-branchfocus</guid>
-      <dc:date>2026-05-08T12:08:09Z</dc:date>
-    </item>
-    <item>
-      <title>Config Assistant - Sun May 10 08:27:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31658-config-assistant</link>
-      <description>Config Assistant A focused config workspace for viewing, formatting, diffing, and converting YAML in IntelliJ IDEA. Project-level multi-view config workspace YAML...
-
-vendor: muyan
-downloads: 15
-pricingModel: FREE
-xmlId: com.muyan.config-assistant</description>
-      <pubDate>Sun, 10 May 2026 08:27:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31658-config-assistant</guid>
-      <dc:date>2026-05-10T08:27:45Z</dc:date>
     </item>
   </channel>
 </rss>
