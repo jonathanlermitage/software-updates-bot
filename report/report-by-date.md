@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue May 12 12:33:42 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.5|[www.python.org](https://www.python.org/downloads/windows/)|Sun May 10 16:16:44 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.5|[www.python.org](https://www.python.org/downloads/mac-osx/)|Sun May 10 16:16:43 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.8 to 19.7.0 ~ 2026-05-07|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu May 07 20:25:02 UTC 2026|
@@ -32,7 +33,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.13|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.9|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.3|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 26 16:15:29 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u482-b08|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Feb 05 00:08:14 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
