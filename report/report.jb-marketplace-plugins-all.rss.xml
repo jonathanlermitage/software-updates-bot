@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FHIR Toolkit - Sat May 09 19:19:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31676-fhir-toolkit</link>
+      <description>FHIR Toolkit — productivity tooling for healthcare developers working with FHIR R4. Open any FHIR resource JSON and get inline structural validation against the R4...
+
+vendor: Bipin Adhikari
+downloads: 1
+pricingModel: FREE
+xmlId: com.fhirtools.plugin</description>
+      <pubDate>Sat, 09 May 2026 19:19:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31676-fhir-toolkit</guid>
+      <dc:date>2026-05-09T19:19:03Z</dc:date>
+    </item>
+    <item>
       <title>GherkinX - Xray Sync - Sun May 10 08:49:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31684-gherkinx--xray-sync</link>
       <description>GherkinX - Xray Sync keeps your local .feature files in sync with Jira Xray test cases - without leaving the IDE. How it works: Configure your Jira URL, Project Key...
@@ -201,17 +214,17 @@ xmlId: com.javelin.plugin</description>
       <dc:date>2026-05-10T13:04:57Z</dc:date>
     </item>
     <item>
-      <title>Trier - Mon May 11 17:39:26 UTC 2026</title>
+      <title>Trier - Mon May 11 21:02:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31703-trier</link>
-      <description>Trier keeps Tailwind CSS class lists consistently ordered inside JetBrains IDEs without running full Prettier formatting. It uses the Tailwind sorting logic from...
+      <description>Trier keeps Tailwind CSS class lists consistently ordered in JetBrains IDEs while leaving the rest of your code untouched. It uses the Tailwind Labs sorting engine...
 
 vendor: Darmaru
 downloads: 0
 pricingModel: FREE
 xmlId: com.darmaru.trier</description>
-      <pubDate>Mon, 11 May 2026 17:39:26 GMT</pubDate>
+      <pubDate>Mon, 11 May 2026 21:02:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31703-trier</guid>
-      <dc:date>2026-05-11T17:39:26Z</dc:date>
+      <dc:date>2026-05-11T21:02:44Z</dc:date>
     </item>
     <item>
       <title>OBJECT-TRANSFORM - Mon May 11 15:52:43 UTC 2026</title>
@@ -227,7 +240,7 @@ xmlId: com.godelta.objecttransform</description>
       <dc:date>2026-05-11T15:52:43Z</dc:date>
     </item>
     <item>
-      <title>budi - Mon May 11 20:18:24 UTC 2026</title>
+      <title>budi - Mon May 11 20:47:43 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31662-budi</link>
       <description>budi is a quiet status-bar widget for JetBrains IDEs that shows your AI coding spend over the last 1 day / 7 days / 30 days, scoped to the IDE host you're working in...
 
@@ -235,9 +248,9 @@ vendor: Ivan Seredkin
 downloads: 4
 pricingModel: FREE
 xmlId: com.github.siropkin.budijetbrains</description>
-      <pubDate>Mon, 11 May 2026 20:18:24 GMT</pubDate>
+      <pubDate>Mon, 11 May 2026 20:47:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31662-budi</guid>
-      <dc:date>2026-05-11T20:18:24Z</dc:date>
+      <dc:date>2026-05-11T20:47:43Z</dc:date>
     </item>
     <item>
       <title>Magefile - Sun May 10 18:37:54 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: io.tylermmorton.magefile</description>
       <pubDate>Sun, 10 May 2026 18:37:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31694-magefile</guid>
       <dc:date>2026-05-10T18:37:54Z</dc:date>
-    </item>
-    <item>
-      <title>prompt-work - Sun May 10 05:22:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29316-prompt-work</link>
-      <description>Prompt Work turns your IDE into a workspace for prompt-driven development. Keep your prompts as markdown files in a dedicated folder of your project, run the Claude...
-
-vendor: instantcoffeejp
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.muratiger.promptworkinglogs</description>
-      <pubDate>Sun, 10 May 2026 05:22:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29316-prompt-work</guid>
-      <dc:date>2026-05-10T05:22:58Z</dc:date>
     </item>
   </channel>
 </rss>
