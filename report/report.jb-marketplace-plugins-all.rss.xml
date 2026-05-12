@@ -6,6 +6,110 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>OpenCode UI (unofficial) - Tue May 12 05:12:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31609-opencode-ui-unofficial-</link>
+      <description>OpenCode UI (unofficial) brings local OpenCode AI workflows into IDEs with chat, context management, and bundled backend binaries. Overview OpenCode UI (unofficial) is...
+
+vendor: OpenCodeUI
+downloads: 6
+pricingModel: FREE
+xmlId: caiqy.opencode-ui</description>
+      <pubDate>Tue, 12 May 2026 05:12:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31609-opencode-ui-unofficial-</guid>
+      <dc:date>2026-05-12T05:12:29Z</dc:date>
+    </item>
+    <item>
+      <title>ePay Framework - Tue May 12 06:10:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31701-epay-framework</link>
+      <description>GoLand support for the ePay framework. Includes: route completion, references, and go-to-definition validation rule completion and definition lookup query builder...
+
+vendor: ePay
+downloads: 0
+pricingModel: FREE
+xmlId: technology.epay.epay_framework</description>
+      <pubDate>Tue, 12 May 2026 06:10:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31701-epay-framework</guid>
+      <dc:date>2026-05-12T06:10:55Z</dc:date>
+    </item>
+    <item>
+      <title>Composite Build Manager - Tue May 12 10:47:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31720-composite-build-manager</link>
+      <description>Composite Build Manager — Visualize and manage Android multi-module Composite Build configurations from a side panel in Android Studio. Switch between LOCAL (source...
+
+vendor: Eval
+downloads: 0
+pricingModel: FREE
+xmlId: com.eval.composite-build-manager</description>
+      <pubDate>Tue, 12 May 2026 10:47:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31720-composite-build-manager</guid>
+      <dc:date>2026-05-12T10:47:43Z</dc:date>
+    </item>
+    <item>
+      <title>Nexus Framework - Tue May 12 02:58:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31714-nexus-framework</link>
+      <description>IDE support for the nexus Go framework: YAML linting for nexus.deploy.yaml — every issue nexus lint --yaml would surface is shown inline in the editor. Run...
+
+vendor: nexus
+downloads: 0
+pricingModel: FREE
+xmlId: com.paulmanoni.nexus</description>
+      <pubDate>Tue, 12 May 2026 02:58:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31714-nexus-framework</guid>
+      <dc:date>2026-05-12T02:58:14Z</dc:date>
+    </item>
+    <item>
+      <title>RON Assist - Tue May 12 17:17:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31724-ron-assist</link>
+      <description>RON (Redshift Node Operator) assist plugin for JetBrains IDEs (RustRover, IntelliJ IDEA, PyCharm, etc.) Features Editing Brace matcher (with Enter handler, smart...
+
+vendor: unclepomedev
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.unclepomedev.ronassist</description>
+      <pubDate>Tue, 12 May 2026 17:17:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31724-ron-assist</guid>
+      <dc:date>2026-05-12T17:17:29Z</dc:date>
+    </item>
+    <item>
+      <title>flash.vim - Tue May 12 05:34:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31715-flash-vim</link>
+      <description>Flash.nvim port for IdeaVim — jump labels, enhanced f/F/t/T, treesitter-style PSI selection.
+
+vendor: shenweijie
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.shenweijie.ideavim-flash</description>
+      <pubDate>Tue, 12 May 2026 05:34:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31715-flash-vim</guid>
+      <dc:date>2026-05-12T05:34:47Z</dc:date>
+    </item>
+    <item>
+      <title>ImageLens - Tue May 12 06:49:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31716-imagelens</link>
+      <description>ImageLens — visual image similarity search inside your project. Drop any image into the tool window to find visually similar assets ranked by perceptual hash distance...
+
+vendor: Yerlan Sarsenov
+downloads: 0
+pricingModel: FREE
+xmlId: com.pixellens.pixellens</description>
+      <pubDate>Tue, 12 May 2026 06:49:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31716-imagelens</guid>
+      <dc:date>2026-05-12T06:49:41Z</dc:date>
+    </item>
+    <item>
+      <title>Deepseek-Sync - Tue May 12 16:06:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31726-deepseek-sync</link>
+      <description>Bring DeepSeek Web Chat into your IDE. No more switching between browser and editor — just open the side panel, log in, and start chatting. Highlights: Embedded...
+
+vendor: KL_Taekwondo
+downloads: 0
+pricingModel: FREE
+xmlId: com.kldo.deepseek-sync</description>
+      <pubDate>Tue, 12 May 2026 16:06:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31726-deepseek-sync</guid>
+      <dc:date>2026-05-12T16:06:11Z</dc:date>
+    </item>
+    <item>
       <title>QuickCommand - Mon May 11 05:38:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31699-quickcommand</link>
       <description>Quick Command Turn your most-used terminal commands into clickable buttons. No more typing the same docker compose up, npm run dev, or ./gradlew test over and over...
@@ -160,110 +264,6 @@ xmlId: com.bugdigger.BranchScope</description>
       <pubDate>Sun, 10 May 2026 12:26:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31688-branch-scope</guid>
       <dc:date>2026-05-10T12:26:32Z</dc:date>
-    </item>
-    <item>
-      <title>ddot.it - Mon May 11 13:00:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31651-ddot-it</link>
-      <description>Authoring support for ddot.it — Knowledge Graph Notation, a minimal text format for typed knowledge graphs. Each line is a triple — subject ..predicate.. object...
-
-vendor: Calpano
-downloads: 4
-pricingModel: FREE
-xmlId: com.calpano.ddot</description>
-      <pubDate>Mon, 11 May 2026 13:00:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31651-ddot-it</guid>
-      <dc:date>2026-05-11T13:00:42Z</dc:date>
-    </item>
-    <item>
-      <title>Ultra Comment Remover - Mon May 11 17:11:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31708-ultra-comment-remover</link>
-      <description>Removes comments recursively from files, folders and entire projects using IntelliJ PSI. Features: Recursive folder/project processing PSI-safe comment removal...
-
-vendor: MonkeyMoon104
-downloads: 9
-pricingModel: FREE
-xmlId: com.monkey.ultracommentremover</description>
-      <pubDate>Mon, 11 May 2026 17:11:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31708-ultra-comment-remover</guid>
-      <dc:date>2026-05-11T17:11:54Z</dc:date>
-    </item>
-    <item>
-      <title>TS Typed Functions - Tue May 12 09:16:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31707-ts-typed-functions</link>
-      <description>Navigate between TypeScript function-typed type aliases and the functions that implement them — even when the implementation does not name the alias. Features Gutter...
-
-vendor: Ondrej Tom
-downloads: 2
-pricingModel: FREE
-xmlId: io.meiro.ts-typed-functions</description>
-      <pubDate>Tue, 12 May 2026 09:16:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31707-ts-typed-functions</guid>
-      <dc:date>2026-05-12T09:16:36Z</dc:date>
-    </item>
-    <item>
-      <title>Log Server Explorer: Cyber-Tailing - Tue May 12 11:21:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31690-log-server-explorer-cyber-tailing</link>
-      <description>Remote Logging Redefined Stop juggling between terminal tabs and SSH sessions. Log Server Explorer brings professional-grade remote log tailing directly into your...
-
-vendor: PhilZ Dev
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.phil.logserverexplorer</description>
-      <pubDate>Tue, 12 May 2026 11:21:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31690-log-server-explorer-cyber-tailing</guid>
-      <dc:date>2026-05-12T11:21:57Z</dc:date>
-    </item>
-    <item>
-      <title>Javelin Fault Localization - Tue May 12 07:57:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31691-javelin-fault-localization</link>
-      <description>Javelin: Spectrum-Based Fault Localization for Java Javelin automates Spectrum-Based Fault Localization (SBFL) for Java projects. It instruments your JUnit tests...
-
-vendor: TwentyOneCopilots
-downloads: 2
-pricingModel: FREE
-xmlId: com.javelin.plugin</description>
-      <pubDate>Tue, 12 May 2026 07:57:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31691-javelin-fault-localization</guid>
-      <dc:date>2026-05-12T07:57:16Z</dc:date>
-    </item>
-    <item>
-      <title>Trier - Mon May 11 21:02:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31703-trier</link>
-      <description>Trier keeps Tailwind CSS class lists consistently ordered in JetBrains IDEs while leaving the rest of your code untouched. It uses the Tailwind Labs sorting engine...
-
-vendor: Darmaru
-downloads: 20
-pricingModel: FREE
-xmlId: com.darmaru.trier</description>
-      <pubDate>Mon, 11 May 2026 21:02:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31703-trier</guid>
-      <dc:date>2026-05-11T21:02:44Z</dc:date>
-    </item>
-    <item>
-      <title>OBJECT-TRANSFORM - Mon May 11 15:52:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31704-object-transform</link>
-      <description>This IntelliJ Platform plugin generates formatted sample JSON from the Java class at the caret, including superclass fields. It provides a right-side tool window to...
-
-vendor: object-transform
-downloads: 6
-pricingModel: FREE
-xmlId: com.godelta.objecttransform</description>
-      <pubDate>Mon, 11 May 2026 15:52:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31704-object-transform</guid>
-      <dc:date>2026-05-11T15:52:43Z</dc:date>
-    </item>
-    <item>
-      <title>budi - Mon May 11 20:47:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31662-budi</link>
-      <description>budi is a quiet status-bar widget for JetBrains IDEs that shows your AI coding spend over the last 1 day / 7 days / 30 days, scoped to the IDE host you're working in...
-
-vendor: Ivan Seredkin
-downloads: 20
-pricingModel: FREE
-xmlId: com.github.siropkin.budijetbrains</description>
-      <pubDate>Mon, 11 May 2026 20:47:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31662-budi</guid>
-      <dc:date>2026-05-11T20:47:43Z</dc:date>
     </item>
   </channel>
 </rss>
