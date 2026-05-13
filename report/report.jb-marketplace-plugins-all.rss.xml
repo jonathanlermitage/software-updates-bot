@@ -6,6 +6,136 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Forgejo - Tue May 12 12:33:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31556-forgejo</link>
+      <description>Provides Forgejo integration for Rider, including pull request listing, review comments, review submission, clone support, and token-based Git authentication.
+
+vendor: JKamsker
+downloads: 3
+pricingModel: PAID
+xmlId: dev.jkamsker.forgejo</description>
+      <pubDate>Tue, 12 May 2026 12:33:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31556-forgejo</guid>
+      <dc:date>2026-05-12T12:33:41Z</dc:date>
+    </item>
+    <item>
+      <title>Jolli Memory - Thu Apr 30 05:36:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31187-jolli-memory</link>
+      <description>Every commit deserves a Memory. Every memory deserves a Recall. Jolli Memory automatically turns your AI coding sessions into structured development documentation...
+
+vendor: Jolli
+downloads: 13
+pricingModel: FREE
+xmlId: ai.jolli.jollimemory</description>
+      <pubDate>Thu, 30 Apr 2026 05:36:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31187-jolli-memory</guid>
+      <dc:date>2026-04-30T05:36:32Z</dc:date>
+    </item>
+    <item>
+      <title>Java ADK Assistant - Tue May 12 19:23:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31464-java-adk-assistant</link>
+      <description>Java ADK Assistant (built by Okoye Chibuike) A powerful AI assistant for Android Studio and IntelliJ IDEA, powered by the Google Agent Development Kit (ADK) and Gemini...
+
+vendor: Java ADK Assistant
+downloads: 10
+pricingModel: FREEMIUM
+xmlId: agents.multitool.javaadk</description>
+      <pubDate>Tue, 12 May 2026 19:23:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31464-java-adk-assistant</guid>
+      <dc:date>2026-05-12T19:23:22Z</dc:date>
+    </item>
+    <item>
+      <title>AlignAI - Mon May 11 17:46:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31709-alignai</link>
+      <description>AlignAI — AI code review driven by your project rules AlignAI reads your project's CLAUDE.md, AGENTS.md, or a custom rule file, then asks Claude to review the current...
+
+vendor: AlignAI
+downloads: 0
+pricingModel: FREE
+xmlId: com.alignai.review</description>
+      <pubDate>Mon, 11 May 2026 17:46:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31709-alignai</guid>
+      <dc:date>2026-05-11T17:46:11Z</dc:date>
+    </item>
+    <item>
+      <title>Nextflow Support - Mon May 11 23:56:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31666-nextflow-support</link>
+      <description>Enhanced Nextflow support for IntelliJ IDEA and PyCharm.
+
+vendor: Austin Varela (austinv11)
+downloads: 1
+pricingModel: FREE
+xmlId: com.austinv11.nextflow</description>
+      <pubDate>Mon, 11 May 2026 23:56:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31666-nextflow-support</guid>
+      <dc:date>2026-05-11T23:56:24Z</dc:date>
+    </item>
+    <item>
+      <title>devradar - Mon May 11 19:02:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31710-devradar</link>
+      <description>devradar shows which of your teammates currently have the same git repository open and are coding right now — across IDEs. Works in any IntelliJ-based IDE (Rider...
+
+vendor: devradar-kim online
+downloads: 0
+pricingModel: FREE
+xmlId: dev.devradar.ide</description>
+      <pubDate>Mon, 11 May 2026 19:02:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31710-devradar</guid>
+      <dc:date>2026-05-11T19:02:14Z</dc:date>
+    </item>
+    <item>
+      <title>Gradle Build Percentage - Tue May 12 06:35:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31551-gradle-build-percentage</link>
+      <description>Displays real-time Gradle build and Flutter build progress percentages in the Android Studio status bar. Tracks both IDE-initiated builds and Terminal builds...
+
+vendor: Yash Dodani
+downloads: 1
+pricingModel: FREE
+xmlId: com.yashdodani.gradleprogress</description>
+      <pubDate>Tue, 12 May 2026 06:35:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31551-gradle-build-percentage</guid>
+      <dc:date>2026-05-12T06:35:32Z</dc:date>
+    </item>
+    <item>
+      <title>JSON Tools pro max - Tue May 12 13:00:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31721-json-tools-pro-max</link>
+      <description>JSON Tools pro max — English A side-tool-window plugin for IntelliJ-based IDEs: format JSON safely and compare two JSON payloads semantically (object key order and...
+
+vendor: Json Tools pro max
+downloads: 0
+pricingModel: FREE
+xmlId: com.cn.else.jsontools</description>
+      <pubDate>Tue, 12 May 2026 13:00:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31721-json-tools-pro-max</guid>
+      <dc:date>2026-05-12T13:00:03Z</dc:date>
+    </item>
+    <item>
+      <title>Agentic Review - Fri May 08 08:39:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31653-agentic-review</link>
+      <description>Local PR-like review workflow for IntelliJ IDEA. Review diffs, add persistent comments, export review data, and hand unresolved comments to coding agents.
+
+vendor: Fatih Doğmuş
+downloads: 1
+pricingModel: FREE
+xmlId: dev.fatihdogmus.agenticreview</description>
+      <pubDate>Fri, 08 May 2026 08:39:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31653-agentic-review</guid>
+      <dc:date>2026-05-08T08:39:20Z</dc:date>
+    </item>
+    <item>
+      <title>Git Log Stats Columns - Tue May 12 14:36:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31723-git-log-stats-columns</link>
+      <description>Git Log Stats Columns Adds two optional columns to the Git Log: Files — number of files changed in the commit. Lines (+/-) — added and deleted line counts, colored...
+
+vendor: Koutaro Miura
+downloads: 0
+pricingModel: FREE
+xmlId: com.k.pmpstudy.GitLogStatsColumns</description>
+      <pubDate>Tue, 12 May 2026 14:36:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31723-git-log-stats-columns</guid>
+      <dc:date>2026-05-12T14:36:50Z</dc:date>
+    </item>
+    <item>
       <title>OpenCode UI (unofficial) - Tue May 12 05:12:29 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31609-opencode-ui-unofficial-</link>
       <description>OpenCode UI (unofficial) brings local OpenCode AI workflows into IDEs with chat, context management, and bundled backend binaries. Overview OpenCode UI (unofficial) is...
@@ -134,136 +264,6 @@ xmlId: com.fhirtools.plugin</description>
       <pubDate>Sat, 09 May 2026 19:19:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31676-fhir-toolkit</guid>
       <dc:date>2026-05-09T19:19:03Z</dc:date>
-    </item>
-    <item>
-      <title>GherkinX - Xray Sync - Sun May 10 08:49:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31684-gherkinx--xray-sync</link>
-      <description>GherkinX - Xray Sync keeps your local .feature files in sync with Jira Xray test cases - without leaving the IDE. How it works: Configure your Jira URL, Project Key...
-
-vendor: BBekci
-downloads: 2
-pricingModel: FREE
-xmlId: com.gherkinx.GherkinX</description>
-      <pubDate>Sun, 10 May 2026 08:49:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31684-gherkinx--xray-sync</guid>
-      <dc:date>2026-05-10T08:49:25Z</dc:date>
-    </item>
-    <item>
-      <title>LZT Xenforo - Sun May 10 17:21:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31319-lzt-xenforo</link>
-      <description>IntelliJ-based plugin for working with XenForo server api from your IDE. Features Project View integration — Templates and Phrases displayed in tree panelOpen &amp;amp...
-
-vendor: Dexsper
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.dexsper.xenforoplugin</description>
-      <pubDate>Sun, 10 May 2026 17:21:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31319-lzt-xenforo</guid>
-      <dc:date>2026-05-10T17:21:40Z</dc:date>
-    </item>
-    <item>
-      <title>CC Terminal - Tue May 12 02:01:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31682-cc-terminal</link>
-      <description>A super-lightweight terminal plugin for Claude Code with rich text input support.
-
-vendor: xpc1024
-downloads: 3
-pricingModel: FREE
-xmlId: com.ccterminal</description>
-      <pubDate>Tue, 12 May 2026 02:01:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31682-cc-terminal</guid>
-      <dc:date>2026-05-12T02:01:07Z</dc:date>
-    </item>
-    <item>
-      <title>ShipLens - Mon May 11 16:01:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31705-shiplens</link>
-      <description>A lens from git blame to release version. See which release first shipped any line of code, right in your IDE. The status bar shows the first release tag that contains...
-
-vendor: Ender Wang
-downloads: 4
-pricingModel: FREE
-xmlId: com.shiplens.jetbrains</description>
-      <pubDate>Mon, 11 May 2026 16:01:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31705-shiplens</guid>
-      <dc:date>2026-05-11T16:01:37Z</dc:date>
-    </item>
-    <item>
-      <title>Nix Pro - Mon May 11 12:44:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31649-nix-pro</link>
-      <description>Nix Pro brings first-class Nix project support to JetBrains IDEs, with native parsing for .nix files and practical integrations for the tools Nix users already rely...
-
-vendor: Jetplugins
-downloads: 3
-pricingModel: PAID
-xmlId: dev.jetplugins.nix-pro</description>
-      <pubDate>Mon, 11 May 2026 12:44:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31649-nix-pro</guid>
-      <dc:date>2026-05-11T12:44:06Z</dc:date>
-    </item>
-    <item>
-      <title>Multi AI Chat - Sun May 10 12:48:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31689-multi-ai-chat</link>
-      <description>Comprehensive Multi AI assistant for JetBrains IDEs. This tool integrates major AI providers including OpenAI (GPT-4), Anthropic (Claude 3), and Google Gemini into...
-
-vendor: Freetime Maker
-downloads: 1
-pricingModel: FREE
-xmlId: com.freetime.maic</description>
-      <pubDate>Sun, 10 May 2026 12:48:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31689-multi-ai-chat</guid>
-      <dc:date>2026-05-10T12:48:11Z</dc:date>
-    </item>
-    <item>
-      <title>PatchTalk - Sun May 10 22:28:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31695-patchtalk</link>
-      <description>PatchTalk adds local review-style comment threads to JetBrains editors without requiring a pull request. Comments stay inside the IDE, show up in the line-number...
-
-vendor: kayjikaymchi
-downloads: 1
-pricingModel: FREE
-xmlId: dev.kaioken.patchtalk</description>
-      <pubDate>Sun, 10 May 2026 22:28:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31695-patchtalk</guid>
-      <dc:date>2026-05-10T22:28:53Z</dc:date>
-    </item>
-    <item>
-      <title>TaskLens - Sun May 10 12:24:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31687-tasklens</link>
-      <description>TaskLens is an IntelliJ IDEA plugin that analyzes scheduled task execution flow in Spring-based Java applications. It detects methods annotated with @Scheduled, traces...
-
-vendor: minmin
-downloads: 2
-pricingModel: FREE
-xmlId: com.nonamecoders.tasklens</description>
-      <pubDate>Sun, 10 May 2026 12:24:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31687-tasklens</guid>
-      <dc:date>2026-05-10T12:24:12Z</dc:date>
-    </item>
-    <item>
-      <title>SSH Deploy - Mon May 11 06:32:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31698-ssh-deploy</link>
-      <description>English SSH Deploy uploads build artifacts to remote Linux hosts over SSH/SFTP from IntelliJ IDEA (Community or Ultimate, with bundled Java and Terminal). Configure...
-
-vendor: Linn-cn
-downloads: 2
-pricingModel: FREE
-xmlId: com.sshdeploy.SshDeploy</description>
-      <pubDate>Mon, 11 May 2026 06:32:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31698-ssh-deploy</guid>
-      <dc:date>2026-05-11T06:32:33Z</dc:date>
-    </item>
-    <item>
-      <title>Branch Scope - Sun May 10 12:26:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31688-branch-scope</link>
-      <description>Adds a Branch Modified Files entry to the Project view selector. Scopes the visible files to those modified in the current branch: commits since branching from the...
-
-vendor: BugDigger
-downloads: 1
-pricingModel: FREE
-xmlId: com.bugdigger.BranchScope</description>
-      <pubDate>Sun, 10 May 2026 12:26:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31688-branch-scope</guid>
-      <dc:date>2026-05-10T12:26:32Z</dc:date>
     </item>
   </channel>
 </rss>
