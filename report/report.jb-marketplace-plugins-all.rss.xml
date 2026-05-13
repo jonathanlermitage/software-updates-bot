@@ -11,7 +11,7 @@
       <description>Provides Forgejo integration for Rider, including pull request listing, review comments, review submission, clone support, and token-based Git authentication.
 
 vendor: JKamsker
-downloads: 3
+downloads: 4
 pricingModel: PAID
 xmlId: dev.jkamsker.forgejo</description>
       <pubDate>Tue, 12 May 2026 12:33:41 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: ai.jolli.jollimemory</description>
       <description>Java ADK Assistant (built by Okoye Chibuike) A powerful AI assistant for Android Studio and IntelliJ IDEA, powered by the Google Agent Development Kit (ADK) and Gemini...
 
 vendor: Java ADK Assistant
-downloads: 10
+downloads: 25
 pricingModel: FREEMIUM
 xmlId: agents.multitool.javaadk</description>
       <pubDate>Tue, 12 May 2026 19:23:22 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: agents.multitool.javaadk</description>
       <description>AlignAI — AI code review driven by your project rules AlignAI reads your project's CLAUDE.md, AGENTS.md, or a custom rule file, then asks Claude to review the current...
 
 vendor: AlignAI
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.alignai.review</description>
       <pubDate>Mon, 11 May 2026 17:46:11 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.alignai.review</description>
       <description>Enhanced Nextflow support for IntelliJ IDEA and PyCharm.
 
 vendor: Austin Varela (austinv11)
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.austinv11.nextflow</description>
       <pubDate>Mon, 11 May 2026 23:56:24 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.austinv11.nextflow</description>
       <description>devradar shows which of your teammates currently have the same git repository open and are coding right now — across IDEs. Works in any IntelliJ-based IDE (Rider...
 
 vendor: devradar-kim online
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.devradar.ide</description>
       <pubDate>Mon, 11 May 2026 19:02:14 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: dev.devradar.ide</description>
       <description>Displays real-time Gradle build and Flutter build progress percentages in the Android Studio status bar. Tracks both IDE-initiated builds and Terminal builds...
 
 vendor: Yash Dodani
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.yashdodani.gradleprogress</description>
       <pubDate>Tue, 12 May 2026 06:35:32 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.yashdodani.gradleprogress</description>
       <description>JSON Tools pro max — English A side-tool-window plugin for IntelliJ-based IDEs: format JSON safely and compare two JSON payloads semantically (object key order and...
 
 vendor: Json Tools pro max
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.cn.else.jsontools</description>
       <pubDate>Tue, 12 May 2026 13:00:03 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: dev.fatihdogmus.agenticreview</description>
       <description>Git Log Stats Columns Adds two optional columns to the Git Log: Files — number of files changed in the commit. Lines (+/-) — added and deleted line counts, colored...
 
 vendor: Koutaro Miura
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.k.pmpstudy.GitLogStatsColumns</description>
       <pubDate>Tue, 12 May 2026 14:36:50 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.k.pmpstudy.GitLogStatsColumns</description>
       <description>OpenCode UI (unofficial) brings local OpenCode AI workflows into IDEs with chat, context management, and bundled backend binaries. Overview OpenCode UI (unofficial) is...
 
 vendor: OpenCodeUI
-downloads: 6
+downloads: 7
 pricingModel: FREE
 xmlId: caiqy.opencode-ui</description>
       <pubDate>Tue, 12 May 2026 05:12:29 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: caiqy.opencode-ui</description>
       <description>GoLand support for the ePay framework. Includes: route completion, references, and go-to-definition validation rule completion and definition lookup query builder...
 
 vendor: ePay
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: technology.epay.epay_framework</description>
       <pubDate>Tue, 12 May 2026 06:10:55 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: technology.epay.epay_framework</description>
       <description>Composite Build Manager — Visualize and manage Android multi-module Composite Build configurations from a side panel in Android Studio. Switch between LOCAL (source...
 
 vendor: Eval
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.eval.composite-build-manager</description>
       <pubDate>Tue, 12 May 2026 10:47:43 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.eval.composite-build-manager</description>
       <description>IDE support for the nexus Go framework: YAML linting for nexus.deploy.yaml — every issue nexus lint --yaml would surface is shown inline in the editor. Run...
 
 vendor: nexus
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.paulmanoni.nexus</description>
       <pubDate>Tue, 12 May 2026 02:58:14 GMT</pubDate>
@@ -188,30 +188,17 @@ xmlId: com.paulmanoni.nexus</description>
       <dc:date>2026-05-12T02:58:14Z</dc:date>
     </item>
     <item>
-      <title>RON Assist - Tue May 12 17:17:29 UTC 2026</title>
+      <title>RON Assist - Wed May 13 02:42:41 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31724-ron-assist</link>
-      <description>RON (Redshift Node Operator) assist plugin for JetBrains IDEs (RustRover, IntelliJ IDEA, PyCharm, etc.) Features Editing Brace matcher (with Enter handler, smart...
+      <description>RON (Rust Object Notation) assist plugin for JetBrains IDEs (RustRover, IntelliJ IDEA, PyCharm, etc.) Features Editing Brace matcher (with Enter handler, smart...
 
 vendor: unclepomedev
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.unclepomedev.ronassist</description>
-      <pubDate>Tue, 12 May 2026 17:17:29 GMT</pubDate>
+      <pubDate>Wed, 13 May 2026 02:42:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31724-ron-assist</guid>
-      <dc:date>2026-05-12T17:17:29Z</dc:date>
-    </item>
-    <item>
-      <title>flash.vim - Tue May 12 05:34:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31715-flash-vim</link>
-      <description>Flash.nvim port for IdeaVim — jump labels, enhanced f/F/t/T, treesitter-style PSI selection.
-
-vendor: shenweijie
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.shenweijie.ideavim-flash</description>
-      <pubDate>Tue, 12 May 2026 05:34:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31715-flash-vim</guid>
-      <dc:date>2026-05-12T05:34:47Z</dc:date>
+      <dc:date>2026-05-13T02:42:41Z</dc:date>
     </item>
     <item>
       <title>ImageLens - Tue May 12 06:49:41 UTC 2026</title>
@@ -219,7 +206,7 @@ xmlId: com.github.shenweijie.ideavim-flash</description>
       <description>ImageLens — visual image similarity search inside your project. Drop any image into the tool window to find visually similar assets ranked by perceptual hash distance...
 
 vendor: Yerlan Sarsenov
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.pixellens.pixellens</description>
       <pubDate>Tue, 12 May 2026 06:49:41 GMT</pubDate>
@@ -232,7 +219,7 @@ xmlId: com.pixellens.pixellens</description>
       <description>Bring DeepSeek Web Chat into your IDE. No more switching between browser and editor — just open the side panel, log in, and start chatting. Highlights: Embedded...
 
 vendor: KL_Taekwondo
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.kldo.deepseek-sync</description>
       <pubDate>Tue, 12 May 2026 16:06:11 GMT</pubDate>
@@ -245,7 +232,7 @@ xmlId: com.kldo.deepseek-sync</description>
       <description>Quick Command Turn your most-used terminal commands into clickable buttons. No more typing the same docker compose up, npm run dev, or ./gradlew test over and over...
 
 vendor: obroom
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.obroom.plugin.quickcommand</description>
       <pubDate>Mon, 11 May 2026 05:38:00 GMT</pubDate>
@@ -258,12 +245,25 @@ xmlId: com.obroom.plugin.quickcommand</description>
       <description>FHIR Toolkit — productivity tooling for healthcare developers working with FHIR R4. Open any FHIR resource JSON and get inline structural validation against the R4...
 
 vendor: Bipin Adhikari
-downloads: 11
+downloads: 15
 pricingModel: FREE
 xmlId: com.fhirtools.plugin</description>
       <pubDate>Sat, 09 May 2026 19:19:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31676-fhir-toolkit</guid>
       <dc:date>2026-05-09T19:19:03Z</dc:date>
+    </item>
+    <item>
+      <title>GherkinX - Xray Sync - Sun May 10 08:49:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31684-gherkinx--xray-sync</link>
+      <description>GherkinX - Xray Sync keeps your local .feature files in sync with Jira Xray test cases - without leaving the IDE. How it works: Configure your Jira URL, Project Key...
+
+vendor: BBekci
+downloads: 10
+pricingModel: FREE
+xmlId: com.gherkinx.GherkinX</description>
+      <pubDate>Sun, 10 May 2026 08:49:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31684-gherkinx--xray-sync</guid>
+      <dc:date>2026-05-10T08:49:25Z</dc:date>
     </item>
   </channel>
 </rss>
