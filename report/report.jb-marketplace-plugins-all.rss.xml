@@ -6,7 +6,202 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>ClawDEA - Wed May 13 07:28:54 UTC 2026</title>
+      <title>Ansible Pro - Wed May 13 16:26:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31743-ansible-pro</link>
+      <description>Ansible workspace for JetBrains IDEs. Smart Ansible-aware YAML support, inventory navigation, vault operations and infrastructure workflows — without interfering with...
+
+vendor: meanmail.dev
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: dev.meanmail.plugin.ansible</description>
+      <pubDate>Wed, 13 May 2026 16:26:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31743-ansible-pro</guid>
+      <dc:date>2026-05-13T16:26:23Z</dc:date>
+    </item>
+    <item>
+      <title>Blamely - Wed May 13 19:51:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31746-blamely</link>
+      <description>Stop guessing your codes origin. Know every human and AI contribution Blamely brings AI contribution tracking directly into IntelliJ IDEA. As AI-assisted coding...
+
+vendor: Blamely
+downloads: 0
+pricingModel: FREE
+xmlId: ai.blamely</description>
+      <pubDate>Wed, 13 May 2026 19:51:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31746-blamely</guid>
+      <dc:date>2026-05-13T19:51:48Z</dc:date>
+    </item>
+    <item>
+      <title>Cypress Radar - Wed May 13 20:17:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31748-cypress-radar</link>
+      <description>Cypress Radar displays Cypress test health inline in your spec files, powered by the Cypress Cloud Data Extract API. For each it() or test() call, a color-coded block...
+
+vendor: Clement Sehan
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.clementsehan.cypressradarjetbrains</description>
+      <pubDate>Wed, 13 May 2026 20:17:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31748-cypress-radar</guid>
+      <dc:date>2026-05-13T20:17:43Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode UX+ (unofficial) updates - Wed May 13 07:54:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31732-opencode-ux--unofficial-updates</link>
+      <description>OpenCode UX+ JetBrains Plugin OpenCode unofficial JetBrains plugin. Drag and drop files to context (JetBrains: from Project Window; VS Code: from Explorer or editor...
+
+vendor: goals
+downloads: 0
+pricingModel: FREE
+xmlId: goals</description>
+      <pubDate>Wed, 13 May 2026 07:54:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31732-opencode-ux--unofficial-updates</guid>
+      <dc:date>2026-05-13T07:54:49Z</dc:date>
+    </item>
+    <item>
+      <title>OXP - Open Extension Protocol - Wed May 13 13:36:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31713-oxp--open-extension-protocol</link>
+      <description>Run universal OXP extensions (.oxp bundles) inside any JetBrains IDE. One extension binary, every editor — write it once, ship it to IntelliJ IDEA, PyCharm, WebStorm...
+
+vendor: OXP
+downloads: 2
+pricingModel: FREE
+xmlId: dev.oxp.jetbrains</description>
+      <pubDate>Wed, 13 May 2026 13:36:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31713-oxp--open-extension-protocol</guid>
+      <dc:date>2026-05-13T13:36:56Z</dc:date>
+    </item>
+    <item>
+      <title>Collapse Markdown Details - Wed May 13 19:18:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31745-collapse-markdown-details</link>
+      <description>Automatically folds HTML &amp;lt;details&amp;gt; sections in Markdown files by default and shows the &amp;lt;summary&amp;gt; text as the placeholder. A simple, hacky plugin in the...
+
+vendor: Johan Grande
+downloads: 0
+pricingModel: FREE
+xmlId: eu.nahoj.jetbrains.mddetails</description>
+      <pubDate>Wed, 13 May 2026 19:18:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31745-collapse-markdown-details</guid>
+      <dc:date>2026-05-13T19:18:44Z</dc:date>
+    </item>
+    <item>
+      <title>Askama Formatter - Wed May 13 06:21:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31733-askama-formatter</link>
+      <description>Format Askama HTML templates using askama_fmt. Features: Format the current file via Tools → Askama Formatter → Format with askama_fmt Default hotkey: Ctrl+Alt+Shift+F...
+
+vendor: Nils Loewen
+downloads: 0
+pricingModel: FREE
+xmlId: com.askamafmt</description>
+      <pubDate>Wed, 13 May 2026 06:21:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31733-askama-formatter</guid>
+      <dc:date>2026-05-13T06:21:23Z</dc:date>
+    </item>
+    <item>
+      <title>Pi Agent Launcher - Wed May 13 10:40:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31737-pi-agent-launcher</link>
+      <description>Pi Agent Launcher One-click Pi coding agent launcher for JetBrains IDEs — keeps the Pi coding agent CLI one click away inside the IDE. Important: Install the Pi CLI...
+
+vendor: haokanjiang
+downloads: 0
+pricingModel: FREE
+xmlId: com.piagent.launcher-jetbrains-plugin</description>
+      <pubDate>Wed, 13 May 2026 10:40:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31737-pi-agent-launcher</guid>
+      <dc:date>2026-05-13T10:40:08Z</dc:date>
+    </item>
+    <item>
+      <title>LockZero: Hardcoded Secret Detection - Fri May 08 01:44:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31643-lockzero-hardcoded-secret-detection</link>
+      <description>Detect hardcoded API keys, tokens, and credentials in your code as you type. Same patterns the LockZero VS Code extension catches — now in JetBrains IDEs. OpenAI...
+
+vendor: LockZero
+downloads: 1
+pricingModel: FREE
+xmlId: io.lockzero.jetbrains</description>
+      <pubDate>Fri, 08 May 2026 01:44:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31643-lockzero-hardcoded-secret-detection</guid>
+      <dc:date>2026-05-08T01:44:50Z</dc:date>
+    </item>
+    <item>
+      <title>Codex CLI Editor Context - Wed May 13 19:02:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31744-codex-cli-editor-context</link>
+      <description>Provides active editor context from JetBrains IDEs to Codex TUI's /ide command. Emits the active file path, line number, and selection range to the Codex TUI within...
+
+vendor: rbower
+downloads: 0
+pricingModel: FREE
+xmlId: com.rbower.codex-cli-editor-context</description>
+      <pubDate>Wed, 13 May 2026 19:02:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31744-codex-cli-editor-context</guid>
+      <dc:date>2026-05-13T19:02:44Z</dc:date>
+    </item>
+    <item>
+      <title>Dev Board - Wed May 13 10:23:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31700-dev-board</link>
+      <description>Dev Board brings a Jira-to-release workflow board into IntelliJ IDEA. It shares the same Dev Board UI and backend contract as Cursor / VS Code, while using...
+
+vendor: ZVA
+downloads: 1
+pricingModel: FREE
+xmlId: us.zoom.zva.devboard.idea</description>
+      <pubDate>Wed, 13 May 2026 10:23:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31700-dev-board</guid>
+      <dc:date>2026-05-13T10:23:41Z</dc:date>
+    </item>
+    <item>
+      <title>ValueLens for C# - Wed May 13 02:49:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31730-valuelens-for-c-</link>
+      <description>ValueLens for C# scans Rider projects for likely editable literal values and displays them in a clean inspector-style tool window. It helps users inspect constants...
+
+vendor: AzraeL0534
+downloads: 0
+pricingModel: FREE
+xmlId: dev.seth.valuelens.csharp</description>
+      <pubDate>Wed, 13 May 2026 02:49:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31730-valuelens-for-c-</guid>
+      <dc:date>2026-05-13T02:49:11Z</dc:date>
+    </item>
+    <item>
+      <title>vim-leap - Wed May 13 09:04:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31735-vim-leap</link>
+      <description>leap.nvim port for IdeaVim — 2-char search labels, safe-label autojump, label groups, traversal, equivalence classes, remote operation.
+
+vendor: shenweijie
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.shenweijie.vim-leap</description>
+      <pubDate>Wed, 13 May 2026 09:04:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31735-vim-leap</guid>
+      <dc:date>2026-05-13T09:04:54Z</dc:date>
+    </item>
+    <item>
+      <title>Android String Translator - Wed May 13 19:46:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31747-android-string-translator</link>
+      <description>Translate Android string resources automatically using Google Translate or LibreTranslate. Features: Right-click on strings.xml or use Alt+T / Option+T to translate...
+
+vendor: WorkOfSoumik
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.soumikbhatt.plugintranslators</description>
+      <pubDate>Wed, 13 May 2026 19:46:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31747-android-string-translator</guid>
+      <dc:date>2026-05-13T19:46:55Z</dc:date>
+    </item>
+    <item>
+      <title>GameMaker Tools - Wed May 13 21:19:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31395-gamemaker-tools</link>
+      <description>Support for GameMaker projects and code editing GameMaker Tools adds focused support for GameMaker projects and GML in IntelliJ-based IDEs. It is built for developers...
+
+vendor: DukeSoft
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.dukesoft.gmplugin</description>
+      <pubDate>Wed, 13 May 2026 21:19:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31395-gamemaker-tools</guid>
+      <dc:date>2026-05-13T21:19:27Z</dc:date>
+    </item>
+    <item>
+      <title>ClawDEA - Wed May 13 22:19:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31729-clawdea</link>
       <description>ClawDEA gives Claude Code first-class access to everything IntelliJ already knows about your project — the PSI index, the debugger, the profiler, compiler diagnostics...
 
@@ -14,9 +209,9 @@ vendor: ClawDEA
 downloads: 0
 pricingModel: FREE
 xmlId: com.adobe.clawdea</description>
-      <pubDate>Wed, 13 May 2026 07:28:54 GMT</pubDate>
+      <pubDate>Wed, 13 May 2026 22:19:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31729-clawdea</guid>
-      <dc:date>2026-05-13T07:28:54Z</dc:date>
+      <dc:date>2026-05-13T22:19:19Z</dc:date>
     </item>
     <item>
       <title>GORM Gen SQL Comment Highlighter - Wed May 13 11:11:33 UTC 2026</title>
@@ -69,201 +264,6 @@ xmlId: ai.jolli.jollimemory</description>
       <pubDate>Thu, 30 Apr 2026 05:36:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31187-jolli-memory</guid>
       <dc:date>2026-04-30T05:36:32Z</dc:date>
-    </item>
-    <item>
-      <title>Java ADK Assistant - Tue May 12 19:23:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31464-java-adk-assistant</link>
-      <description>Java ADK Assistant (built by Okoye Chibuike) A powerful AI assistant for Android Studio and IntelliJ IDEA, powered by the Google Agent Development Kit (ADK) and Gemini...
-
-vendor: Java ADK Assistant
-downloads: 25
-pricingModel: FREEMIUM
-xmlId: agents.multitool.javaadk</description>
-      <pubDate>Tue, 12 May 2026 19:23:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31464-java-adk-assistant</guid>
-      <dc:date>2026-05-12T19:23:22Z</dc:date>
-    </item>
-    <item>
-      <title>AlignAI - Mon May 11 17:46:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31709-alignai</link>
-      <description>AlignAI — AI code review driven by your project rules AlignAI reads your project's CLAUDE.md, AGENTS.md, or a custom rule file, then asks Claude to review the current...
-
-vendor: AlignAI
-downloads: 2
-pricingModel: FREE
-xmlId: com.alignai.review</description>
-      <pubDate>Mon, 11 May 2026 17:46:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31709-alignai</guid>
-      <dc:date>2026-05-11T17:46:11Z</dc:date>
-    </item>
-    <item>
-      <title>Nextflow Support - Mon May 11 23:56:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31666-nextflow-support</link>
-      <description>Enhanced Nextflow support for IntelliJ IDEA and PyCharm.
-
-vendor: Austin Varela (austinv11)
-downloads: 3
-pricingModel: FREE
-xmlId: com.austinv11.nextflow</description>
-      <pubDate>Mon, 11 May 2026 23:56:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31666-nextflow-support</guid>
-      <dc:date>2026-05-11T23:56:24Z</dc:date>
-    </item>
-    <item>
-      <title>devradar - Wed May 13 20:12:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31710-devradar</link>
-      <description>devradar shows which of your teammates currently have the same git repository open and are coding right now — across IDEs. Works in any IntelliJ-based IDE (Rider...
-
-vendor: devradar-kim online
-downloads: 1
-pricingModel: FREE
-xmlId: dev.devradar.ide</description>
-      <pubDate>Wed, 13 May 2026 20:12:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31710-devradar</guid>
-      <dc:date>2026-05-13T20:12:23Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle Build Percentage - Tue May 12 06:35:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31551-gradle-build-percentage</link>
-      <description>Displays real-time Gradle build and Flutter build progress percentages in the Android Studio status bar. Tracks both IDE-initiated builds and Terminal builds...
-
-vendor: Yash Dodani
-downloads: 2
-pricingModel: FREE
-xmlId: com.yashdodani.gradleprogress</description>
-      <pubDate>Tue, 12 May 2026 06:35:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31551-gradle-build-percentage</guid>
-      <dc:date>2026-05-12T06:35:32Z</dc:date>
-    </item>
-    <item>
-      <title>JSON Tools pro max - Tue May 12 13:00:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31721-json-tools-pro-max</link>
-      <description>JSON Tools pro max — English A side-tool-window plugin for IntelliJ-based IDEs: format JSON safely and compare two JSON payloads semantically (object key order and...
-
-vendor: Json Tools pro max
-downloads: 2
-pricingModel: FREE
-xmlId: com.cn.else.jsontools</description>
-      <pubDate>Tue, 12 May 2026 13:00:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31721-json-tools-pro-max</guid>
-      <dc:date>2026-05-12T13:00:03Z</dc:date>
-    </item>
-    <item>
-      <title>Agentic Review - Wed May 13 07:18:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31653-agentic-review</link>
-      <description>Agentic Review brings a lightweight, PR-style review workflow into IntelliJ IDEA without requiring a remote pull request. Its goal is to help you review uncommitted...
-
-vendor: Fatih Doğmuş
-downloads: 1
-pricingModel: FREE
-xmlId: dev.fatihdogmus.agenticreview</description>
-      <pubDate>Wed, 13 May 2026 07:18:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31653-agentic-review</guid>
-      <dc:date>2026-05-13T07:18:27Z</dc:date>
-    </item>
-    <item>
-      <title>Git Log Stats Columns - Tue May 12 14:36:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31723-git-log-stats-columns</link>
-      <description>Git Log Stats Columns Adds two optional columns to the Git Log: Files — number of files changed in the commit. Lines (+/-) — added and deleted line counts, colored...
-
-vendor: Koutaro Miura
-downloads: 3
-pricingModel: FREE
-xmlId: com.k.pmpstudy.GitLogStatsColumns</description>
-      <pubDate>Tue, 12 May 2026 14:36:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31723-git-log-stats-columns</guid>
-      <dc:date>2026-05-12T14:36:50Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode UI (unofficial) - Tue May 12 05:12:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31609-opencode-ui-unofficial-</link>
-      <description>OpenCode UI (unofficial) brings local OpenCode AI workflows into IDEs with chat, context management, and bundled backend binaries. Overview OpenCode UI (unofficial) is...
-
-vendor: OpenCodeUI
-downloads: 7
-pricingModel: FREE
-xmlId: caiqy.opencode-ui</description>
-      <pubDate>Tue, 12 May 2026 05:12:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31609-opencode-ui-unofficial-</guid>
-      <dc:date>2026-05-12T05:12:29Z</dc:date>
-    </item>
-    <item>
-      <title>ePay Framework - Wed May 13 08:53:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31701-epay-framework</link>
-      <description>GoLand support for the ePay framework. Includes: route completion, references, and go-to-definition validation rule completion and definition lookup query builder...
-
-vendor: ePay
-downloads: 1
-pricingModel: FREE
-xmlId: technology.epay.epay_framework</description>
-      <pubDate>Wed, 13 May 2026 08:53:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31701-epay-framework</guid>
-      <dc:date>2026-05-13T08:53:09Z</dc:date>
-    </item>
-    <item>
-      <title>Composite Build Manager - Tue May 12 10:47:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31720-composite-build-manager</link>
-      <description>Composite Build Manager — Visualize and manage Android multi-module Composite Build configurations from a side panel in Android Studio. Switch between LOCAL (source...
-
-vendor: Eval
-downloads: 3
-pricingModel: FREE
-xmlId: com.eval.composite-build-manager</description>
-      <pubDate>Tue, 12 May 2026 10:47:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31720-composite-build-manager</guid>
-      <dc:date>2026-05-12T10:47:43Z</dc:date>
-    </item>
-    <item>
-      <title>Nexus Framework - Tue May 12 02:58:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31714-nexus-framework</link>
-      <description>IDE support for the nexus Go framework: YAML linting for nexus.deploy.yaml — every issue nexus lint --yaml would surface is shown inline in the editor. Run...
-
-vendor: nexus
-downloads: 2
-pricingModel: FREE
-xmlId: com.paulmanoni.nexus</description>
-      <pubDate>Tue, 12 May 2026 02:58:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31714-nexus-framework</guid>
-      <dc:date>2026-05-12T02:58:14Z</dc:date>
-    </item>
-    <item>
-      <title>RON Assist - Wed May 13 07:12:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31724-ron-assist</link>
-      <description>RON (Rust Object Notation) assist plugin for JetBrains IDEs (RustRover, IntelliJ IDEA, PyCharm, etc.) Features Editing Brace matcher (with Enter handler, smart...
-
-vendor: unclepomedev
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.unclepomedev.ronassist</description>
-      <pubDate>Wed, 13 May 2026 07:12:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31724-ron-assist</guid>
-      <dc:date>2026-05-13T07:12:08Z</dc:date>
-    </item>
-    <item>
-      <title>ImageLens - Tue May 12 06:49:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31716-imagelens</link>
-      <description>ImageLens — visual image similarity search inside your project. Drop any image into the tool window to find visually similar assets ranked by perceptual hash distance...
-
-vendor: Yerlan Sarsenov
-downloads: 2
-pricingModel: FREE
-xmlId: com.pixellens.pixellens</description>
-      <pubDate>Tue, 12 May 2026 06:49:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31716-imagelens</guid>
-      <dc:date>2026-05-12T06:49:41Z</dc:date>
-    </item>
-    <item>
-      <title>Deepseek-Sync - Tue May 12 16:06:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31726-deepseek-sync</link>
-      <description>Bring DeepSeek Web Chat into your IDE. No more switching between browser and editor — just open the side panel, log in, and start chatting. Highlights: Embedded...
-
-vendor: KL_Taekwondo
-downloads: 7
-pricingModel: FREE
-xmlId: com.kldo.deepseek-sync</description>
-      <pubDate>Tue, 12 May 2026 16:06:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31726-deepseek-sync</guid>
-      <dc:date>2026-05-12T16:06:11Z</dc:date>
     </item>
   </channel>
 </rss>
