@@ -11,7 +11,7 @@
       <description>Ansible workspace for JetBrains IDEs. Smart Ansible-aware YAML support, inventory navigation, vault operations and infrastructure workflows — without interfering with...
 
 vendor: meanmail.dev
-downloads: 0
+downloads: 1
 pricingModel: FREEMIUM
 xmlId: dev.meanmail.plugin.ansible</description>
       <pubDate>Wed, 13 May 2026 16:26:23 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: dev.meanmail.plugin.ansible</description>
       <description>Stop guessing your codes origin. Know every human and AI contribution Blamely brings AI contribution tracking directly into IntelliJ IDEA. As AI-assisted coding...
 
 vendor: Blamely
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: ai.blamely</description>
       <pubDate>Wed, 13 May 2026 19:51:48 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: ai.blamely</description>
       <description>Cypress Radar displays Cypress test health inline in your spec files, powered by the Cypress Cloud Data Extract API. For each it() or test() call, a color-coded block...
 
 vendor: Clement Sehan
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.clementsehan.cypressradarjetbrains</description>
       <pubDate>Wed, 13 May 2026 20:17:43 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.github.clementsehan.cypressradarjetbrains</description>
       <description>OpenCode UX+ JetBrains Plugin OpenCode unofficial JetBrains plugin. Drag and drop files to context (JetBrains: from Project Window; VS Code: from Explorer or editor...
 
 vendor: goals
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: goals</description>
       <pubDate>Wed, 13 May 2026 07:54:49 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: goals</description>
       <description>Run universal OXP extensions (.oxp bundles) inside any JetBrains IDE. One extension binary, every editor — write it once, ship it to IntelliJ IDEA, PyCharm, WebStorm...
 
 vendor: OXP
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: dev.oxp.jetbrains</description>
       <pubDate>Wed, 13 May 2026 13:36:56 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: dev.oxp.jetbrains</description>
       <description>Automatically folds HTML &amp;lt;details&amp;gt; sections in Markdown files by default and shows the &amp;lt;summary&amp;gt; text as the placeholder. A simple, hacky plugin in the...
 
 vendor: Johan Grande
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: eu.nahoj.jetbrains.mddetails</description>
       <pubDate>Wed, 13 May 2026 19:18:44 GMT</pubDate>
@@ -97,17 +97,17 @@ xmlId: com.askamafmt</description>
       <dc:date>2026-05-13T06:21:23Z</dc:date>
     </item>
     <item>
-      <title>Pi Agent Launcher - Wed May 13 10:40:08 UTC 2026</title>
+      <title>Pi Agent Launcher - Thu May 14 03:11:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31737-pi-agent-launcher</link>
       <description>Pi Agent Launcher One-click Pi coding agent launcher for JetBrains IDEs — keeps the Pi coding agent CLI one click away inside the IDE. Important: Install the Pi CLI...
 
 vendor: haokanjiang
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.piagent.launcher-jetbrains-plugin</description>
-      <pubDate>Wed, 13 May 2026 10:40:08 GMT</pubDate>
+      <pubDate>Thu, 14 May 2026 03:11:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31737-pi-agent-launcher</guid>
-      <dc:date>2026-05-13T10:40:08Z</dc:date>
+      <dc:date>2026-05-14T03:11:03Z</dc:date>
     </item>
     <item>
       <title>LockZero: Hardcoded Secret Detection - Fri May 08 01:44:50 UTC 2026</title>
@@ -115,7 +115,7 @@ xmlId: com.piagent.launcher-jetbrains-plugin</description>
       <description>Detect hardcoded API keys, tokens, and credentials in your code as you type. Same patterns the LockZero VS Code extension catches — now in JetBrains IDEs. OpenAI...
 
 vendor: LockZero
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: io.lockzero.jetbrains</description>
       <pubDate>Fri, 08 May 2026 01:44:50 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: io.lockzero.jetbrains</description>
       <description>Provides active editor context from JetBrains IDEs to Codex TUI's /ide command. Emits the active file path, line number, and selection range to the Codex TUI within...
 
 vendor: rbower
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.rbower.codex-cli-editor-context</description>
       <pubDate>Wed, 13 May 2026 19:02:44 GMT</pubDate>
@@ -136,17 +136,17 @@ xmlId: com.rbower.codex-cli-editor-context</description>
       <dc:date>2026-05-13T19:02:44Z</dc:date>
     </item>
     <item>
-      <title>Dev Board - Wed May 13 10:23:41 UTC 2026</title>
+      <title>Dev Board - Thu May 14 01:56:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31700-dev-board</link>
       <description>Dev Board brings a Jira-to-release workflow board into IntelliJ IDEA. It shares the same Dev Board UI and backend contract as Cursor / VS Code, while using...
 
 vendor: ZVA
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: us.zoom.zva.devboard.idea</description>
-      <pubDate>Wed, 13 May 2026 10:23:41 GMT</pubDate>
+      <pubDate>Thu, 14 May 2026 01:56:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31700-dev-board</guid>
-      <dc:date>2026-05-13T10:23:41Z</dc:date>
+      <dc:date>2026-05-14T01:56:44Z</dc:date>
     </item>
     <item>
       <title>ValueLens for C# - Wed May 13 02:49:11 UTC 2026</title>
@@ -154,7 +154,7 @@ xmlId: us.zoom.zva.devboard.idea</description>
       <description>ValueLens for C# scans Rider projects for likely editable literal values and displays them in a clean inspector-style tool window. It helps users inspect constants...
 
 vendor: AzraeL0534
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.seth.valuelens.csharp</description>
       <pubDate>Wed, 13 May 2026 02:49:11 GMT</pubDate>
@@ -162,17 +162,17 @@ xmlId: dev.seth.valuelens.csharp</description>
       <dc:date>2026-05-13T02:49:11Z</dc:date>
     </item>
     <item>
-      <title>vim-leap - Wed May 13 09:04:54 UTC 2026</title>
+      <title>vim-leap - Thu May 14 04:53:39 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31735-vim-leap</link>
       <description>leap.nvim port for IdeaVim — 2-char search labels, safe-label autojump, label groups, traversal, equivalence classes, remote operation.
 
 vendor: shenweijie
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.shenweijie.vim-leap</description>
-      <pubDate>Wed, 13 May 2026 09:04:54 GMT</pubDate>
+      <pubDate>Thu, 14 May 2026 04:53:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31735-vim-leap</guid>
-      <dc:date>2026-05-13T09:04:54Z</dc:date>
+      <dc:date>2026-05-14T04:53:39Z</dc:date>
     </item>
     <item>
       <title>Android String Translator - Wed May 13 19:46:55 UTC 2026</title>
@@ -180,7 +180,7 @@ xmlId: com.github.shenweijie.vim-leap</description>
       <description>Translate Android string resources automatically using Google Translate or LibreTranslate. Features: Right-click on strings.xml or use Alt+T / Option+T to translate...
 
 vendor: WorkOfSoumik
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.soumikbhatt.plugintranslators</description>
       <pubDate>Wed, 13 May 2026 19:46:55 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.github.soumikbhatt.plugintranslators</description>
       <description>Support for GameMaker projects and code editing GameMaker Tools adds focused support for GameMaker projects and GML in IntelliJ-based IDEs. It is built for developers...
 
 vendor: DukeSoft
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.dukesoft.gmplugin</description>
       <pubDate>Wed, 13 May 2026 21:19:27 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.github.dukesoft.gmplugin</description>
       <description>ClawDEA gives Claude Code first-class access to everything IntelliJ already knows about your project — the PSI index, the debugger, the profiler, compiler diagnostics...
 
 vendor: ClawDEA
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.adobe.clawdea</description>
       <pubDate>Wed, 13 May 2026 22:19:19 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.shopline.gormgen.sql.comment.highlighter</description>
       <description>Enterprise-Grade Code Quality Analysis for JetBrains IDEs Cyclopt brings comprehensive code analysis directly into your IDE. Catch bugs, security vulnerabilities, code...
 
 vendor: Cyclopt
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.cyclopt.plugin</description>
       <pubDate>Tue, 12 May 2026 13:34:23 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.cyclopt.plugin</description>
       <description>Provides Forgejo integration for JetBrains IDEs, including pull request listing, review comments, review submission, clone support, and token-based Git authentication.
 
 vendor: JKamsker
-downloads: 4
+downloads: 12
 pricingModel: PAID
 xmlId: dev.jkamsker.forgejo</description>
       <pubDate>Tue, 12 May 2026 12:33:41 GMT</pubDate>
