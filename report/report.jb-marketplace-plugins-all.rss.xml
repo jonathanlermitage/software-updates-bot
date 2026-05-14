@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>OSV Vulnerability Scanner - Thu May 14 08:10:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31608-osv-vulnerability-scanner</link>
+      <description>A free, open-source IntelliJ IDEA plugin that provides security vulnerability scanning for open-source dependencies using the OSV database.
+
+vendor: dyuti
+downloads: 2
+pricingModel: FREE
+xmlId: io.dyuti.osvplugin</description>
+      <pubDate>Thu, 14 May 2026 08:10:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31608-osv-vulnerability-scanner</guid>
+      <dc:date>2026-05-14T08:10:06Z</dc:date>
+    </item>
+    <item>
+      <title>MailKit - Thu May 14 04:12:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31750-mailkit</link>
+      <description>Source Code | Donation Syntax highlighting, code folding, and editor support for EML (Email Message / RFC 822) files. Syntax highlighting for headers, MIME boundaries...
+
+vendor: Taras Tereshchenko
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.ttereshchenko.mailkit</description>
+      <pubDate>Thu, 14 May 2026 04:12:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31750-mailkit</guid>
+      <dc:date>2026-05-14T04:12:26Z</dc:date>
+    </item>
+    <item>
+      <title>Trans MD - Wed May 13 23:29:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31749-trans-md</link>
+      <description>Trans Md Adds one-click translation to the JetBrains Markdown preview, powered by Google Translate. Features Translated Preview tab next to the standard Markdown...
+
+vendor: ohsoou
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.ohsoou.trans-md</description>
+      <pubDate>Wed, 13 May 2026 23:29:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31749-trans-md</guid>
+      <dc:date>2026-05-13T23:29:58Z</dc:date>
+    </item>
+    <item>
+      <title>Enes Report - Thu May 14 06:35:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31752-enes-report</link>
+      <description>Cucumber and Gauge scenario explorer with report integration. Browse scenarios in a tree view, view steps, see report results, run scenarios, and export HTML reports.
+
+vendor: Enes Erdoğan
+downloads: 0
+pricingModel: FREE
+xmlId: com.enesreport</description>
+      <pubDate>Thu, 14 May 2026 06:35:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31752-enes-report</guid>
+      <dc:date>2026-05-14T06:35:36Z</dc:date>
+    </item>
+    <item>
+      <title>Smooth Caret Trail - Thu May 14 14:53:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31756-smooth-caret-trail</link>
+      <description>Your caret deserves better than just blinking. Give it a glowing trail that glides across the editor like Kaneda racing out of Neo Tokyo, or a lightcycle carving a...
+
+vendor: Glycin
+downloads: 0
+pricingModel: FREE
+xmlId: com.glycin.cool-cursor</description>
+      <pubDate>Thu, 14 May 2026 14:53:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31756-smooth-caret-trail</guid>
+      <dc:date>2026-05-14T14:53:55Z</dc:date>
+    </item>
+    <item>
+      <title>Easely - Mon May 11 23:42:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31564-easely</link>
+      <description>Your brain. Your code. Your achievement! Easely embeds the Mikado Method in this human-crafted productivity tool for the human craftsmanship of software. Select the...
+
+vendor: Amplify Human
+downloads: 2
+pricingModel: PAID
+xmlId: ca.amplifyhuman.easelyintellij</description>
+      <pubDate>Mon, 11 May 2026 23:42:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31564-easely</guid>
+      <dc:date>2026-05-11T23:42:49Z</dc:date>
+    </item>
+    <item>
+      <title>EasyAgent - Thu May 14 05:10:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31751-easyagent</link>
+      <description>EasyAgent — AI Coding Assistant for IntelliJ IDEA Aggregate Claude Code, OpenCode, and Codex CLI tools into one unified IDE experience. &#x1f3af; AI Chat Connect Claude Code...
+
+vendor: hyqf98
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.easyagent</description>
+      <pubDate>Thu, 14 May 2026 05:10:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31751-easyagent</guid>
+      <dc:date>2026-05-14T05:10:34Z</dc:date>
+    </item>
+    <item>
       <title>Ansible Pro - Wed May 13 16:26:23 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31743-ansible-pro</link>
       <description>Ansible workspace for JetBrains IDEs. Smart Ansible-aware YAML support, inventory navigation, vault operations and infrastructure workflows — without interfering with...
@@ -32,7 +123,7 @@ xmlId: ai.blamely</description>
       <dc:date>2026-05-13T19:51:48Z</dc:date>
     </item>
     <item>
-      <title>Cypress Radar - Wed May 13 20:17:43 UTC 2026</title>
+      <title>Cypress Radar - Thu May 14 14:26:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31748-cypress-radar</link>
       <description>Cypress Radar displays Cypress test health inline in your spec files, powered by the Cypress Cloud Data Extract API. For each it() or test() call, a color-coded block...
 
@@ -40,9 +131,9 @@ vendor: Clement Sehan
 downloads: 2
 pricingModel: FREE
 xmlId: com.github.clementsehan.cypressradarjetbrains</description>
-      <pubDate>Wed, 13 May 2026 20:17:43 GMT</pubDate>
+      <pubDate>Thu, 14 May 2026 14:26:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31748-cypress-radar</guid>
-      <dc:date>2026-05-13T20:17:43Z</dc:date>
+      <dc:date>2026-05-14T14:26:37Z</dc:date>
     </item>
     <item>
       <title>OpenCode UX+ (unofficial) updates - Wed May 13 07:54:49 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: com.github.shenweijie.vim-leap</description>
       <pubDate>Thu, 14 May 2026 04:53:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31735-vim-leap</guid>
       <dc:date>2026-05-14T04:53:39Z</dc:date>
-    </item>
-    <item>
-      <title>Android String Translator - Wed May 13 19:46:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31747-android-string-translator</link>
-      <description>Translate Android string resources automatically using Google Translate or LibreTranslate. Features: Right-click on strings.xml or use Alt+T / Option+T to translate...
-
-vendor: WorkOfSoumik
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.soumikbhatt.plugintranslators</description>
-      <pubDate>Wed, 13 May 2026 19:46:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31747-android-string-translator</guid>
-      <dc:date>2026-05-13T19:46:55Z</dc:date>
-    </item>
-    <item>
-      <title>GameMaker Tools - Wed May 13 21:19:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31395-gamemaker-tools</link>
-      <description>Support for GameMaker projects and code editing GameMaker Tools adds focused support for GameMaker projects and GML in IntelliJ-based IDEs. It is built for developers...
-
-vendor: DukeSoft
-downloads: 10
-pricingModel: FREE
-xmlId: com.github.dukesoft.gmplugin</description>
-      <pubDate>Wed, 13 May 2026 21:19:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31395-gamemaker-tools</guid>
-      <dc:date>2026-05-13T21:19:27Z</dc:date>
-    </item>
-    <item>
-      <title>ClawDEA - Wed May 13 22:19:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31729-clawdea</link>
-      <description>ClawDEA gives Claude Code first-class access to everything IntelliJ already knows about your project — the PSI index, the debugger, the profiler, compiler diagnostics...
-
-vendor: ClawDEA
-downloads: 4
-pricingModel: FREE
-xmlId: com.adobe.clawdea</description>
-      <pubDate>Wed, 13 May 2026 22:19:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31729-clawdea</guid>
-      <dc:date>2026-05-13T22:19:19Z</dc:date>
-    </item>
-    <item>
-      <title>GORM Gen SQL Comment Highlighter - Wed May 13 11:11:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31738-gorm-gen-sql-comment-highlighter</link>
-      <description>Highlights gorm-gen SQL written in Go line comments by injecting the IDE SQL language into mapper SQL comment blocks.
-
-vendor: GORM Gen SQL Comment Highlighter
-downloads: 0
-pricingModel: FREE
-xmlId: com.shopline.gormgen.sql.comment.highlighter</description>
-      <pubDate>Wed, 13 May 2026 11:11:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31738-gorm-gen-sql-comment-highlighter</guid>
-      <dc:date>2026-05-13T11:11:33Z</dc:date>
-    </item>
-    <item>
-      <title>Cyclopt - Tue May 12 13:34:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31718-cyclopt</link>
-      <description>Enterprise-Grade Code Quality Analysis for JetBrains IDEs Cyclopt brings comprehensive code analysis directly into your IDE. Catch bugs, security vulnerabilities, code...
-
-vendor: Cyclopt
-downloads: 5
-pricingModel: FREE
-xmlId: com.cyclopt.plugin</description>
-      <pubDate>Tue, 12 May 2026 13:34:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31718-cyclopt</guid>
-      <dc:date>2026-05-12T13:34:23Z</dc:date>
-    </item>
-    <item>
-      <title>Forgejo - Tue May 12 12:33:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31556-forgejo</link>
-      <description>Provides Forgejo integration for JetBrains IDEs, including pull request listing, review comments, review submission, clone support, and token-based Git authentication.
-
-vendor: JKamsker
-downloads: 12
-pricingModel: PAID
-xmlId: dev.jkamsker.forgejo</description>
-      <pubDate>Tue, 12 May 2026 12:33:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31556-forgejo</guid>
-      <dc:date>2026-05-12T12:33:41Z</dc:date>
-    </item>
-    <item>
-      <title>Jolli Memory - Thu Apr 30 05:36:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31187-jolli-memory</link>
-      <description>Every commit deserves a Memory. Every memory deserves a Recall. Jolli Memory automatically turns your AI coding sessions into structured development documentation...
-
-vendor: Jolli
-downloads: 22
-pricingModel: FREE
-xmlId: ai.jolli.jollimemory</description>
-      <pubDate>Thu, 30 Apr 2026 05:36:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31187-jolli-memory</guid>
-      <dc:date>2026-04-30T05:36:32Z</dc:date>
     </item>
   </channel>
 </rss>
