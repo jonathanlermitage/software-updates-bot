@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.2 (261.24374.151) ~ 2026-05-15|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri May 15 16:32:44 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.5752.32) ~ 2026-05-14|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 14 20:28:37 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
@@ -28,7 +29,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Apr 24 16:17:08 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.0.6.RELEASE|[start.spring.io](https://start.spring.io)|Thu Apr 23 20:17:33 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.11+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Apr 23 20:17:09 UTC 2026|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.1 (261.23567.138) ~ 2026-04-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Apr 23 16:30:14 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 22 20:16:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 22 12:15:42 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.15.0|[nodejs.org](https://nodejs.org)|Thu Apr 16 08:29:47 UTC 2026|

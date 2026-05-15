@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Agent Workbench - Wed May 13 13:04:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30926-agent-workbench</link>
+      <description>Run and manage AI coding agents — Codex, Claude, Junie, and more — directly inside your IDE. Quick Launch — press Cmd+\ / Ctrl+\ from anywhere to start a new task or...
+
+vendor: JetBrains s.r.o.
+downloads: 922
+pricingModel: FREE
+xmlId: com.intellij.agent.workbench</description>
+      <pubDate>Wed, 13 May 2026 13:04:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30926-agent-workbench</guid>
+      <dc:date>2026-05-13T13:04:25Z</dc:date>
+    </item>
+    <item>
+      <title>AppGlass Debugger - Fri May 15 15:20:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/30451-appglass-debugger</link>
+      <description>AppGlass Debugger lets you attach to running production or staging applications and inspect real execution data without redeploys, restarts, or opening debug ports...
+
+vendor: JetBrains s.r.o.
+downloads: 17
+pricingModel: FREE
+xmlId: LiveDebugger</description>
+      <pubDate>Fri, 15 May 2026 15:20:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/30451-appglass-debugger</guid>
+      <dc:date>2026-05-15T15:20:20Z</dc:date>
+    </item>
+    <item>
       <title>Nextflow - Fri May 15 03:09:39 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31766-nextflow</link>
       <description>Nextflow language support powered by the Nextflow Language Server. Requires Java 17+.
@@ -84,7 +110,7 @@ xmlId: com.cursivejssupport</description>
       <dc:date>2026-05-15T07:45:21Z</dc:date>
     </item>
     <item>
-      <title>Praise Pusher - Thu May 14 23:33:36 UTC 2026</title>
+      <title>Praise Pusher - Fri May 15 15:39:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31763-praise-pusher</link>
       <description>Turn everyday Git actions into tiny wins.
 
@@ -92,9 +118,9 @@ vendor: Praise Pusher
 downloads: 1
 pricingModel: FREE
 xmlId: com.kop.praisepusher</description>
-      <pubDate>Thu, 14 May 2026 23:33:36 GMT</pubDate>
+      <pubDate>Fri, 15 May 2026 15:39:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31763-praise-pusher</guid>
-      <dc:date>2026-05-14T23:33:36Z</dc:date>
+      <dc:date>2026-05-15T15:39:09Z</dc:date>
     </item>
     <item>
       <title>Debug MCP Server - Fri May 15 02:56:27 UTC 2026</title>
@@ -110,7 +136,7 @@ xmlId: com.sahil0.debugmcp</description>
       <dc:date>2026-05-15T02:56:27Z</dc:date>
     </item>
     <item>
-      <title>Claude Token Monitor - Fri May 15 10:37:47 UTC 2026</title>
+      <title>Claude Token Monitor - Fri May 15 13:39:41 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31764-claude-token-monitor</link>
       <description>Track your Claude API rate limits in real time — right from the IDE status bar. No more switching to the Anthropic console mid-session to check if you're about to hit...
 
@@ -118,9 +144,9 @@ vendor: nikolenkote
 downloads: 0
 pricingModel: FREE
 xmlId: com.claudemonitor.claude-token-monitor</description>
-      <pubDate>Fri, 15 May 2026 10:37:47 GMT</pubDate>
+      <pubDate>Fri, 15 May 2026 13:39:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31764-claude-token-monitor</guid>
-      <dc:date>2026-05-15T10:37:47Z</dc:date>
+      <dc:date>2026-05-15T13:39:41Z</dc:date>
     </item>
     <item>
       <title>Awsum - Thu May 14 19:35:55 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: io.github.easyagent</description>
       <pubDate>Thu, 14 May 2026 05:10:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31751-easyagent</guid>
       <dc:date>2026-05-14T05:10:34Z</dc:date>
-    </item>
-    <item>
-      <title>Ansible Pro - Wed May 13 16:26:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31743-ansible-pro</link>
-      <description>Ansible workspace for JetBrains IDEs. Smart Ansible-aware YAML support, inventory navigation, vault operations and infrastructure workflows — without interfering with...
-
-vendor: meanmail.dev
-downloads: 11
-pricingModel: FREEMIUM
-xmlId: dev.meanmail.plugin.ansible</description>
-      <pubDate>Wed, 13 May 2026 16:26:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31743-ansible-pro</guid>
-      <dc:date>2026-05-13T16:26:23Z</dc:date>
-    </item>
-    <item>
-      <title>Blamely - Wed May 13 19:51:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31746-blamely</link>
-      <description>Stop guessing your codes origin. Know every human and AI contribution Blamely brings AI contribution tracking directly into IntelliJ IDEA. As AI-assisted coding...
-
-vendor: Blamely
-downloads: 11
-pricingModel: FREE
-xmlId: ai.blamely</description>
-      <pubDate>Wed, 13 May 2026 19:51:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31746-blamely</guid>
-      <dc:date>2026-05-13T19:51:48Z</dc:date>
     </item>
   </channel>
 </rss>
