@@ -11,7 +11,7 @@
       <description>Gradle Dependency Updater helps you keep your Gradle dependencies up to date. Features: Automatic detection of outdated dependencies in build.gradle files Alt+Enter...
 
 vendor: Clément Hervé
-downloads: 25
+downloads: 37
 pricingModel: FREE
 xmlId: com.github.clementherve.intellijjavadependencyupdaterplugin</description>
       <pubDate>Fri, 15 May 2026 17:02:34 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.github.clementherve.intellijjavadependencyupdaterplugin</description>
       <description>Run and manage AI coding agents — Codex, Claude, Junie, and more — directly inside your IDE. Quick Launch — press Cmd+\ / Ctrl+\ from anywhere to start a new task or...
 
 vendor: JetBrains s.r.o.
-downloads: 1173
+downloads: 1261
 pricingModel: FREE
 xmlId: com.intellij.agent.workbench</description>
       <pubDate>Wed, 13 May 2026 13:04:25 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.intellij.agent.workbench</description>
       <description>AppGlass Debugger lets you attach to running production or staging applications and inspect real execution data without redeploys, restarts, or opening debug ports...
 
 vendor: JetBrains s.r.o.
-downloads: 25
+downloads: 30
 pricingModel: FREE
 xmlId: LiveDebugger</description>
       <pubDate>Fri, 15 May 2026 15:20:20 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: LiveDebugger</description>
       <description>Nextflow language support powered by the Nextflow Language Server. Requires Java 17+.
 
 vendor: Forest Dussault
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: io.nextflow.jetbrains</description>
       <pubDate>Sat, 16 May 2026 12:59:56 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: io.nextflow.jetbrains</description>
       <description>LogTrace is a powerful IDE plugin that helps developers quickly locate the source code where log statements are printed. Simply paste log lines and jump directly to...
 
 vendor: longxianhua
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.logtrace.plugin</description>
       <pubDate>Fri, 15 May 2026 09:59:58 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.logtrace.plugin</description>
       <description>OpenCode UX+ (unofficial) JetBrains Plugin Unofficial OpenCode JetBrains plugin. Drag and drop files to context (JetBrains: from Project Window; VS Code: from Explorer...
 
 vendor: goals
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: goals.opencode-ux-plus-gui-only</description>
       <pubDate>Fri, 15 May 2026 10:12:17 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: pl.godogland.bdd.runner</description>
       <description>Colors brackets ( ), [ ], { } by nesting depth — a free, open-source alternative to Rainbow Brackets. Supports Java, Kotlin, XML, HTML, and JSON out of the box. 7...
 
 vendor: Hakan Gunay
-downloads: 3
+downloads: 14
 pricingModel: FREE
 xmlId: com.bracketbow</description>
       <pubDate>Fri, 15 May 2026 19:05:57 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.bracketbow</description>
       <description>Adds JavaScript/browser API awareness to ClojureScript editing in Cursive. Removes false-positive squiggly lines on js/ globals and browser interop forms by loading...
 
 vendor: Furkan Özdemir
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.cursivejssupport</description>
       <pubDate>Fri, 15 May 2026 07:45:21 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.cursivejssupport</description>
       <description>Turn everyday Git actions into tiny wins.
 
 vendor: Praise Pusher
-downloads: 26
+downloads: 36
 pricingModel: FREE
 xmlId: com.kop.praisepusher</description>
       <pubDate>Fri, 15 May 2026 17:23:36 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.kop.praisepusher</description>
       <description>Debug MCP Server Exposes an MCP (Model Context Protocol) server from IntelliJ IDEA so AI coding assistants (Windsurf Cascade, Cursor, Claude Code, etc.) can control...
 
 vendor: Sahil Ramagiri
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.sahil0.debugmcp</description>
       <pubDate>Fri, 15 May 2026 02:56:27 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.sahil0.debugmcp</description>
       <description>Track your Claude API rate limits in real time - right from the IDE status bar. No more switching to the Anthropic console mid-session to check if you're about to hit...
 
 vendor: nikolenkote
-downloads: 40
+downloads: 122
 pricingModel: FREE
 xmlId: com.claudemonitor.claude-token-monitor</description>
       <pubDate>Sat, 16 May 2026 12:04:10 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.claudemonitor.claude-token-monitor</description>
       <description>Awsum language support for IntelliJ-based IDEs. Thin LSP client to awsum lsp from the compiler. Syntax highlighting via the shared TextMate grammar.
 
 vendor: Awsum Language
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: org.awsumlang.awsum</description>
       <pubDate>Thu, 14 May 2026 19:35:55 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: org.awsumlang.awsum</description>
       <description>Capture MyBatis SQL logs from IntelliJ IDEA run/debug sessions and restore them into formatted executable SQL automatically. Background capture of MyBatis Preparing...
 
 vendor: MyBatis SQL Capture
-downloads: 34
+downloads: 37
 pricingModel: FREE
 xmlId: io.github.suppermrcode.mybatis.sql.capture</description>
       <pubDate>Fri, 15 May 2026 05:07:36 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: io.github.suppermrcode.mybatis.sql.capture</description>
       <description>A free, open-source IntelliJ IDEA plugin that provides security vulnerability scanning for open-source dependencies using the OSV database.
 
 vendor: dyuti
-downloads: 31
+downloads: 42
 pricingModel: FREE
 xmlId: io.dyuti.osvplugin</description>
       <pubDate>Fri, 15 May 2026 07:27:28 GMT</pubDate>
@@ -201,17 +201,17 @@ xmlId: io.dyuti.osvplugin</description>
       <dc:date>2026-05-15T07:27:28Z</dc:date>
     </item>
     <item>
-      <title>MailKit - Sat May 16 01:22:41 UTC 2026</title>
+      <title>MailKit - Sun May 17 01:35:30 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31750-mailkit</link>
       <description>Syntax highlighting, code folding, and editor support for EML (Email Message / RFC 822) files. Syntax highlighting for headers, MIME boundaries, and body content MIME...
 
 vendor: Taras Tereshchenko
-downloads: 5
+downloads: 11
 pricingModel: FREE
 xmlId: com.github.ttereshchenko.mailkit</description>
-      <pubDate>Sat, 16 May 2026 01:22:41 GMT</pubDate>
+      <pubDate>Sun, 17 May 2026 01:35:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31750-mailkit</guid>
-      <dc:date>2026-05-16T01:22:41Z</dc:date>
+      <dc:date>2026-05-17T01:35:30Z</dc:date>
     </item>
     <item>
       <title>Trans MD - Wed May 13 23:29:58 UTC 2026</title>
@@ -219,7 +219,7 @@ xmlId: com.github.ttereshchenko.mailkit</description>
       <description>Trans Md Adds one-click translation to the JetBrains Markdown preview, powered by Google Translate. Features Translated Preview tab next to the standard Markdown...
 
 vendor: ohsoou
-downloads: 9
+downloads: 11
 pricingModel: FREE
 xmlId: io.github.ohsoou.trans-md</description>
       <pubDate>Wed, 13 May 2026 23:29:58 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: io.github.ohsoou.trans-md</description>
       <description>Cucumber and Gauge scenario explorer with report integration. Browse scenarios in a tree view, view steps, see report results, run scenarios, and export HTML reports.
 
 vendor: Enes Erdoğan
-downloads: 9
+downloads: 13
 pricingModel: FREE
 xmlId: com.enesreport</description>
       <pubDate>Fri, 15 May 2026 12:34:54 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.glycin.cool-cursor</description>
       <description>Your brain. Your code. Your achievement! Easely embeds the Mikado Method in this human-crafted productivity tool for the human craftsmanship of software. Select the...
 
 vendor: Amplify Human
-downloads: 14
+downloads: 19
 pricingModel: PAID
 xmlId: ca.amplifyhuman.easelyintellij</description>
       <pubDate>Thu, 14 May 2026 19:08:08 GMT</pubDate>
