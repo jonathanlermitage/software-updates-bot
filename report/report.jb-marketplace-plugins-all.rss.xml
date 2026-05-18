@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Mesfavoris - Sun May 17 19:32:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29581-mesfavoris</link>
-      <description>Mes Favoris is an advanced bookmark management plugin for IntelliJ IDEA — a powerful alternative to the built-in bookmark system. Table of Contents...
+      <title>Magma - Mon May 18 00:21:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31798-magma</link>
+      <description>Language support for the Magma computer algebra system in IntelliJ-based IDEs. Syntax highlighting for .m, .mag, .magma and .spec files Brace matching and line/block...
 
-vendor: Cédric Chabanois
-downloads: 13
+vendor: René Peschmann
+downloads: 1
 pricingModel: FREE
-xmlId: com.cchabanois.mesfavoris</description>
-      <pubDate>Sun, 17 May 2026 19:32:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29581-mesfavoris</guid>
-      <dc:date>2026-05-17T19:32:08Z</dc:date>
+xmlId: com.renpe.magma</description>
+      <pubDate>Mon, 18 May 2026 00:21:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31798-magma</guid>
+      <dc:date>2026-05-18T00:21:00Z</dc:date>
     </item>
     <item>
-      <title>Gradle Dependency Updater - Fri May 15 17:02:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31755-gradle-dependency-updater</link>
-      <description>Gradle Dependency Updater helps you keep your Gradle dependencies up to date. Features: Automatic detection of outdated dependencies in build.gradle files Alt+Enter...
+      <title>PARI/GP - Mon May 18 18:05:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31825-pari-gp</link>
+      <description>Language support for the PARI/GP computer algebra system in IntelliJ-based IDEs. Syntax highlighting for .gp and .pari files Brace matching and line (\\) / block...
 
-vendor: Clément Hervé
-downloads: 38
+vendor: René Peschmann
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.clementherve.intellijjavadependencyupdaterplugin</description>
-      <pubDate>Fri, 15 May 2026 17:02:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31755-gradle-dependency-updater</guid>
-      <dc:date>2026-05-15T17:02:34Z</dc:date>
+xmlId: com.renpe.parigp</description>
+      <pubDate>Mon, 18 May 2026 18:05:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31825-pari-gp</guid>
+      <dc:date>2026-05-18T18:05:39Z</dc:date>
     </item>
     <item>
-      <title>Agent Workbench - Wed May 13 13:04:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30926-agent-workbench</link>
-      <description>Run and manage AI coding agents — Codex, Claude, Junie, and more — directly inside your IDE. Quick Launch — press Cmd+\ / Ctrl+\ from anywhere to start a new task or...
+      <title>SageMath - Mon May 18 18:15:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31812-sagemath</link>
+      <description>Language support for the SageMath computer algebra system in IntelliJ-based IDEs. Syntax highlighting for .sage, .sagews and .spyx files Brace matching and...
 
-vendor: Vladimir Krivosheev
-downloads: 1338
+vendor: René Peschmann
+downloads: 0
 pricingModel: FREE
-xmlId: com.intellij.agent.workbench</description>
-      <pubDate>Wed, 13 May 2026 13:04:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30926-agent-workbench</guid>
-      <dc:date>2026-05-13T13:04:25Z</dc:date>
+xmlId: com.renpe.sagemath</description>
+      <pubDate>Mon, 18 May 2026 18:15:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31812-sagemath</guid>
+      <dc:date>2026-05-18T18:15:45Z</dc:date>
     </item>
     <item>
-      <title>AppGlass Debugger - Fri May 15 15:20:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/30451-appglass-debugger</link>
-      <description>AppGlass Debugger lets you attach to running production or staging applications and inspect real execution data without redeploys, restarts, or opening debug ports...
+      <title>Dependency Helper - Sun May 17 02:02:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31795-dependency-helper</link>
+      <description>Dependency Helper support Maven and Gradle dependency analysis and package search, Npm package.json version hints. It highlights newer releases inline, supports...
 
-vendor: JetBrains s.r.o.
-downloads: 32
+vendor: Knifefish
+downloads: 1
 pricingModel: FREE
-xmlId: LiveDebugger</description>
-      <pubDate>Fri, 15 May 2026 15:20:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/30451-appglass-debugger</guid>
-      <dc:date>2026-05-15T15:20:20Z</dc:date>
+xmlId: org.knifefish.dependency.helper</description>
+      <pubDate>Sun, 17 May 2026 02:02:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31795-dependency-helper</guid>
+      <dc:date>2026-05-17T02:02:09Z</dc:date>
     </item>
     <item>
-      <title>Nextflow - Sat May 16 12:59:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31766-nextflow</link>
-      <description>Nextflow language support powered by the Nextflow Language Server. Requires Java 17+.
+      <title>Tests Analyzer - Sun May 17 16:12:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31806-tests-analyzer</link>
+      <description>Runs tests and visualizes their execution timeline to identify parallelism issues and slow tests. Main features Gantt Chart — timeline showing each test as a...
 
-vendor: Forest Dussault
-downloads: 13
+vendor: Sebastian Straburzyński
+downloads: 0
 pricingModel: FREE
-xmlId: io.nextflow.jetbrains</description>
-      <pubDate>Sat, 16 May 2026 12:59:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31766-nextflow</guid>
-      <dc:date>2026-05-16T12:59:56Z</dc:date>
+xmlId: com.github.straburzynski.testsanalyzer</description>
+      <pubDate>Sun, 17 May 2026 16:12:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31806-tests-analyzer</guid>
+      <dc:date>2026-05-17T16:12:33Z</dc:date>
     </item>
     <item>
-      <title>LogTrace - Mon May 18 08:35:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31774-logtrace</link>
-      <description>LogTrace is a powerful IDE plugin that helps developers quickly locate the source code where log statements are printed. Simply paste log lines and jump directly to...
+      <title>Lottie Preview - Sun May 17 06:47:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31799-lottie-preview</link>
+      <description>Preview Lottie and dotLottie animations directly inside IntelliJ-based IDEs using the embedded JCEF browser.
 
-vendor: longxianhua
+vendor: Sekh Gulam Mainuddin
+downloads: 0
+pricingModel: FREE
+xmlId: com.lottiepreview.plugin</description>
+      <pubDate>Sun, 17 May 2026 06:47:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31799-lottie-preview</guid>
+      <dc:date>2026-05-17T06:47:37Z</dc:date>
+    </item>
+    <item>
+      <title>Structured Data Archive - Fri May 15 19:43:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31783-structured-data-archive</link>
+      <description>Language support for Structured Data Archive (.sda) files.
+
+vendor: Winterlude Interactive
+downloads: 1
+pricingModel: FREE
+xmlId: org.structureddataarchive.sda</description>
+      <pubDate>Fri, 15 May 2026 19:43:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31783-structured-data-archive</guid>
+      <dc:date>2026-05-15T19:43:21Z</dc:date>
+    </item>
+    <item>
+      <title>BerryCrush - Fri May 15 22:27:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31742-berrycrush</link>
+      <description>BerryCrush - OpenAPI-Driven BDD Testing Language support for BerryCrush .scenario and .fragment files. Features Syntax highlighting for BerryCrush DSL Code completion...
+
+vendor: BerryCrush
+downloads: 2
+pricingModel: FREE
+xmlId: org.berrycrush</description>
+      <pubDate>Fri, 15 May 2026 22:27:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31742-berrycrush</guid>
+      <dc:date>2026-05-15T22:27:29Z</dc:date>
+    </item>
+    <item>
+      <title>zerofinance-git - Sun May 17 03:34:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31797-zerofinance-git</link>
+      <description>A Zero Git Deploy Toolkit for Intellij IDEA, which can help us deploy git project more convenient. ZeroGit Flow commands are executed by shared scripts to keep IDEA/VS...
+
+vendor: zhaoxunyong
+downloads: 1
+pricingModel: FREE
+xmlId: com.zerofinance.git</description>
+      <pubDate>Sun, 17 May 2026 03:34:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31797-zerofinance-git</guid>
+      <dc:date>2026-05-17T03:34:31Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode Agent - Mon May 18 02:53:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31791-opencode-agent</link>
+      <description>Run OpenCode — directly inside IntelliJ IDEA's built-in terminal. Features: Terminal-based AI sessions — start, resume, fork, and browse OpenCode sessions in IDE...
+
+vendor: 吴 汶泽
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.wenzewoo.jetbrains-opencode</description>
+      <pubDate>Mon, 18 May 2026 02:53:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31791-opencode-agent</guid>
+      <dc:date>2026-05-18T02:53:13Z</dc:date>
+    </item>
+    <item>
+      <title>Neo4j Cypher Syntax Highlighter and Formatter - Mon May 18 20:18:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31807-neo4j-cypher-syntax-highlighter-and-formatter</link>
+      <description>Write Neo4j Cypher queries with full IDE support — right inside any JetBrains IDE. Features Semantic syntax highlighting — keywords, function calls, node labels...
+
+vendor: Toad Software
+downloads: 0
+pricingModel: FREE
+xmlId: com.lindefors.neo4j.cypher</description>
+      <pubDate>Mon, 18 May 2026 20:18:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31807-neo4j-cypher-syntax-highlighter-and-formatter</guid>
+      <dc:date>2026-05-18T20:18:48Z</dc:date>
+    </item>
+    <item>
+      <title>Android Accessibility Report - Sun May 17 21:44:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31810-android-accessibility-report</link>
+      <description>Analyze the accesibility IDs of your Android app.
+
+vendor: Přemysl Talich
+downloads: 1
+pricingModel: FREE
+xmlId: cz.talich.arp</description>
+      <pubDate>Sun, 17 May 2026 21:44:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31810-android-accessibility-report</guid>
+      <dc:date>2026-05-17T21:44:14Z</dc:date>
+    </item>
+    <item>
+      <title>Atlas Ragnarok - Mon May 18 13:30:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31820-atlas-ragnarok</link>
+      <description>Atlas Ragnarok Tech-blue thunder above. Crimson fire below. Pure black through the middle. The end-of-days color scheme for IntelliJ-platform IDEs (IntelliJ IDEA...
+
+vendor: Atlas Kaisar
+downloads: 0
+pricingModel: FREE
+xmlId: com.atlaskaisar.atlas-ragnarok</description>
+      <pubDate>Mon, 18 May 2026 13:30:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31820-atlas-ragnarok</guid>
+      <dc:date>2026-05-18T13:30:35Z</dc:date>
+    </item>
+    <item>
+      <title>FatJar Builder - Mon May 18 10:19:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31785-fatjar-builder</link>
+      <description>FatJar Builder Build a single deployable fat JAR from any IntelliJ module with one click. The Eclipse FatJar plugin equivalent for IntelliJ IDEA. Features Right-click...
+
+vendor: Nick Kemp
 downloads: 4
 pricingModel: FREE
-xmlId: com.logtrace.plugin</description>
-      <pubDate>Mon, 18 May 2026 08:35:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31774-logtrace</guid>
-      <dc:date>2026-05-18T08:35:38Z</dc:date>
+xmlId: com.github.nickkemp.fatjarbuilder</description>
+      <pubDate>Mon, 18 May 2026 10:19:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31785-fatjar-builder</guid>
+      <dc:date>2026-05-18T10:19:56Z</dc:date>
     </item>
     <item>
-      <title>OpenCode UX+ GUI Only (unofficial) updates - Fri May 15 10:12:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31772-opencode-ux-gui-only-unofficial-updates</link>
-      <description>OpenCode UX+ (unofficial) JetBrains Plugin Unofficial OpenCode JetBrains plugin. Drag and drop files to context (JetBrains: from Project Window; VS Code: from Explorer...
+      <title>Nemantix Language - Fri May 15 09:57:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31773-nemantix-language</link>
+      <description>Syntax highlighting support for the Nemantix language.
 
-vendor: goals
-downloads: 10
+vendor: Nemantix
+downloads: 1
 pricingModel: FREE
-xmlId: goals.opencode-ux-plus-gui-only</description>
-      <pubDate>Fri, 15 May 2026 10:12:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31772-opencode-ux-gui-only-unofficial-updates</guid>
-      <dc:date>2026-05-15T10:12:17Z</dc:date>
+xmlId: it.kebula.nemantix</description>
+      <pubDate>Fri, 15 May 2026 09:57:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31773-nemantix-language</guid>
+      <dc:date>2026-05-15T09:57:25Z</dc:date>
     </item>
     <item>
-      <title>GoDogLand BDD Runner - Thu May 14 19:30:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31672-godogland-bdd-runner</link>
-      <description>GoDogLand BDD Runner adds a focused Godog/Cucumber workflow to GoLand. It lets you work with Go BDD scenarios directly from .feature files, while keeping the test...
+      <title>SpecDD - Sun May 17 16:58:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31808-specdd</link>
+      <description>SpecDD language support for .sdd specification files. SpecDD™ is an open-source framework for specification-driven development in AI-assisted software projects. The...
 
-vendor: Marcin Dryka
-downloads: 4
+vendor: SpecDD
+downloads: 0
 pricingModel: FREE
-xmlId: pl.godogland.bdd.runner</description>
-      <pubDate>Thu, 14 May 2026 19:30:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31672-godogland-bdd-runner</guid>
-      <dc:date>2026-05-14T19:30:06Z</dc:date>
+xmlId: ai.specdd.idea</description>
+      <pubDate>Sun, 17 May 2026 16:58:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31808-specdd</guid>
+      <dc:date>2026-05-17T16:58:50Z</dc:date>
     </item>
     <item>
-      <title>Bracketbow - Fri May 15 19:05:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31761-bracketbow</link>
-      <description>Colors brackets ( ), [ ], { } by nesting depth — a free, open-source alternative to Rainbow Brackets. Supports Java, Kotlin, XML, HTML, and JSON out of the box. 7...
+      <title>Open in Azure DevOps - Fri May 15 17:30:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31781-open-in-azure-devops</link>
+      <description>Adds an Open in Azure DevOps action to the editor, project view, and editor tab context menus. Right-click any file or line of code to open it directly in your Azure...
 
-vendor: Hakan Gunay
-downloads: 16
+vendor: Open In Azure DevOps
+downloads: 1
 pricingModel: FREE
-xmlId: com.bracketbow</description>
-      <pubDate>Fri, 15 May 2026 19:05:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31761-bracketbow</guid>
-      <dc:date>2026-05-15T19:05:57Z</dc:date>
+xmlId: com.github.mhernik.open-in-azure-devops</description>
+      <pubDate>Fri, 15 May 2026 17:30:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31781-open-in-azure-devops</guid>
+      <dc:date>2026-05-15T17:30:47Z</dc:date>
     </item>
     <item>
-      <title>Cursive JS Support - Sun May 17 17:44:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31757-cursive-js-support</link>
-      <description>Adds JavaScript/browser API awareness to ClojureScript editing in Cursive. Removes false-positive squiggly lines on js/ globals and browser interop forms by loading...
+      <title>Copy All Problems - Mon May 18 10:31:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31816-copy-all-problems</link>
+      <description>Adds an action to copy every diagnostic (errors, warnings, weak warnings, info) for the currently active file to the clipboard, one per line, formatted as...
 
-vendor: Furkan Özdemir
-downloads: 4
+vendor: Mohamed Abdelraouf
+downloads: 0
 pricingModel: FREE
-xmlId: com.cursivejssupport</description>
-      <pubDate>Sun, 17 May 2026 17:44:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31757-cursive-js-support</guid>
-      <dc:date>2026-05-17T17:44:26Z</dc:date>
+xmlId: com.moraouf.copyproblems</description>
+      <pubDate>Mon, 18 May 2026 10:31:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31816-copy-all-problems</guid>
+      <dc:date>2026-05-18T10:31:35Z</dc:date>
     </item>
     <item>
-      <title>Praise Pusher - Fri May 15 17:23:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31763-praise-pusher</link>
-      <description>Turn everyday Git actions into tiny wins.
+      <title>Amateur-Postman - Mon May 18 12:00:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31767-amateur-postman</link>
+      <description>Amateur-Postman is a high-performance, lightweight HTTP client plugin integrated into IntelliJ IDEA. Designed for developers who prefer a minimalist experience, it...
 
-vendor: Praise Pusher
-downloads: 38
+vendor: dhzhu
+downloads: 2
 pricingModel: FREE
-xmlId: com.kop.praisepusher</description>
-      <pubDate>Fri, 15 May 2026 17:23:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31763-praise-pusher</guid>
-      <dc:date>2026-05-15T17:23:36Z</dc:date>
+xmlId: com.github.dhzhu.amateurpostman</description>
+      <pubDate>Mon, 18 May 2026 12:00:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31767-amateur-postman</guid>
+      <dc:date>2026-05-18T12:00:32Z</dc:date>
     </item>
     <item>
-      <title>Debug MCP Server - Fri May 15 02:56:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31731-debug-mcp-server</link>
-      <description>Debug MCP Server Exposes an MCP (Model Context Protocol) server from IntelliJ IDEA so AI coding assistants (Windsurf Cascade, Cursor, Claude Code, etc.) can control...
+      <title>Rite Language - Sat May 16 09:12:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31139-rite-language</link>
+      <description>Language support for Rite ceremony files (*.rite.yaml), powered by a bundled language server. Diagnostics (errors and warnings) Hover information Completions Rite is a...
 
-vendor: Sahil Ramagiri
-downloads: 4
+vendor: Rite-ly
+downloads: 1
 pricingModel: FREE
-xmlId: com.sahil0.debugmcp</description>
-      <pubDate>Fri, 15 May 2026 02:56:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31731-debug-mcp-server</guid>
-      <dc:date>2026-05-15T02:56:27Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Token Monitor - Sun May 17 13:04:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31764-claude-token-monitor</link>
-      <description>Track your Claude API rate limits in real time - right from the IDE status bar. No more switching to the Anthropic console mid-session to check if you're about to hit...
-
-vendor: nikolenkote
-downloads: 192
-pricingModel: FREE
-xmlId: com.claudemonitor.claude-token-monitor</description>
-      <pubDate>Sun, 17 May 2026 13:04:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31764-claude-token-monitor</guid>
-      <dc:date>2026-05-17T13:04:27Z</dc:date>
-    </item>
-    <item>
-      <title>Awsum - Thu May 14 19:35:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31760-awsum</link>
-      <description>Awsum language support for IntelliJ-based IDEs. Thin LSP client to awsum lsp from the compiler. Syntax highlighting via the shared TextMate grammar.
-
-vendor: Awsum Language
-downloads: 3
-pricingModel: FREE
-xmlId: org.awsumlang.awsum</description>
-      <pubDate>Thu, 14 May 2026 19:35:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31760-awsum</guid>
-      <dc:date>2026-05-14T19:35:55Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis SQL Capture - Fri May 15 05:07:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31754-mybatis-sql-capture</link>
-      <description>Capture MyBatis SQL logs from IntelliJ IDEA run/debug sessions and restore them into formatted executable SQL automatically. Background capture of MyBatis Preparing...
-
-vendor: MyBatis SQL Capture
-downloads: 38
-pricingModel: FREE
-xmlId: io.github.suppermrcode.mybatis.sql.capture</description>
-      <pubDate>Fri, 15 May 2026 05:07:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31754-mybatis-sql-capture</guid>
-      <dc:date>2026-05-15T05:07:36Z</dc:date>
-    </item>
-    <item>
-      <title>OSV Vulnerability Scanner - Fri May 15 07:27:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31608-osv-vulnerability-scanner</link>
-      <description>A free, open-source IntelliJ IDEA plugin that provides security vulnerability scanning for open-source dependencies using the OSV database.
-
-vendor: dyuti
-downloads: 45
-pricingModel: FREE
-xmlId: io.dyuti.osvplugin</description>
-      <pubDate>Fri, 15 May 2026 07:27:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31608-osv-vulnerability-scanner</guid>
-      <dc:date>2026-05-15T07:27:28Z</dc:date>
-    </item>
-    <item>
-      <title>MailKit - Sun May 17 01:35:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31750-mailkit</link>
-      <description>Syntax highlighting, code folding, and editor support for EML (Email Message / RFC 822) files. Syntax highlighting for headers, MIME boundaries, and body content MIME...
-
-vendor: Taras Tereshchenko
-downloads: 23
-pricingModel: FREE
-xmlId: com.github.ttereshchenko.mailkit</description>
-      <pubDate>Sun, 17 May 2026 01:35:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31750-mailkit</guid>
-      <dc:date>2026-05-17T01:35:30Z</dc:date>
-    </item>
-    <item>
-      <title>Trans MD - Wed May 13 23:29:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31749-trans-md</link>
-      <description>Trans Md Adds one-click translation to the JetBrains Markdown preview, powered by Google Translate. Features Translated Preview tab next to the standard Markdown...
-
-vendor: ohsoou
-downloads: 12
-pricingModel: FREE
-xmlId: io.github.ohsoou.trans-md</description>
-      <pubDate>Wed, 13 May 2026 23:29:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31749-trans-md</guid>
-      <dc:date>2026-05-13T23:29:58Z</dc:date>
-    </item>
-    <item>
-      <title>Enes Report - Fri May 15 12:34:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31752-enes-report</link>
-      <description>Cucumber and Gauge scenario explorer with report integration. Browse scenarios in a tree view, view steps, see report results, run scenarios, and export HTML reports.
-
-vendor: Enes Erdoğan
-downloads: 15
-pricingModel: FREE
-xmlId: com.enesreport</description>
-      <pubDate>Fri, 15 May 2026 12:34:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31752-enes-report</guid>
-      <dc:date>2026-05-15T12:34:54Z</dc:date>
-    </item>
-    <item>
-      <title>Smooth Caret Trail - Thu May 14 14:53:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31756-smooth-caret-trail</link>
-      <description>Your caret deserves better than just blinking. Give it a glowing trail that glides across the editor like Kaneda racing out of Neo Tokyo, or a lightcycle carving a...
-
-vendor: Glycin
-downloads: 27
-pricingModel: FREE
-xmlId: com.glycin.cool-cursor</description>
-      <pubDate>Thu, 14 May 2026 14:53:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31756-smooth-caret-trail</guid>
-      <dc:date>2026-05-14T14:53:55Z</dc:date>
+xmlId: io.ritely.rite</description>
+      <pubDate>Sat, 16 May 2026 09:12:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31139-rite-language</guid>
+      <dc:date>2026-05-16T09:12:47Z</dc:date>
     </item>
   </channel>
 </rss>
