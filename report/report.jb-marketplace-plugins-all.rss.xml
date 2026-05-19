@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Mend - Wed May 06 13:06:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31132-mend</link>
+      <description>Mend Increase your code's security with advanced Static Application Security Testing (SAST) — right inside your JetBrains IDE. Mend helps you find and fix...
+
+vendor: Mend
+downloads: 3
+pricingModel: FREE
+xmlId: io.mend.mend-security-check</description>
+      <pubDate>Wed, 06 May 2026 13:06:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31132-mend</guid>
+      <dc:date>2026-05-06T13:06:29Z</dc:date>
+    </item>
+    <item>
       <title>Spring Endpoint Map - Mon May 18 20:25:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31826-spring-endpoint-map</link>
       <description>Lightweight Spring MVC endpoint map for IntelliJ IDEA Community and Ultimate. Scan Java Spring controllers, browse endpoint routes in a tool window, filter quickly...
@@ -58,7 +71,7 @@ xmlId: com.renpe.sagemath</description>
       <dc:date>2026-05-18T18:15:45Z</dc:date>
     </item>
     <item>
-      <title>Dependency Helper - Sun May 17 02:02:09 UTC 2026</title>
+      <title>Dependency Helper - Tue May 19 05:46:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31795-dependency-helper</link>
       <description>Dependency Helper support Maven and Gradle dependency analysis and package search, Npm package.json version hints. It highlights newer releases inline, supports...
 
@@ -66,9 +79,9 @@ vendor: Knifefish
 downloads: 2
 pricingModel: FREE
 xmlId: org.knifefish.dependency.helper</description>
-      <pubDate>Sun, 17 May 2026 02:02:09 GMT</pubDate>
+      <pubDate>Tue, 19 May 2026 05:46:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31795-dependency-helper</guid>
-      <dc:date>2026-05-17T02:02:09Z</dc:date>
+      <dc:date>2026-05-19T05:46:04Z</dc:date>
     </item>
     <item>
       <title>Tests Analyzer - Sun May 17 16:12:33 UTC 2026</title>
@@ -134,19 +147,6 @@ xmlId: com.zerofinance.git</description>
       <pubDate>Sun, 17 May 2026 03:34:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31797-zerofinance-git</guid>
       <dc:date>2026-05-17T03:34:31Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode Agent - Mon May 18 02:53:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31791-opencode-agent</link>
-      <description>Run OpenCode — directly inside IntelliJ IDEA's built-in terminal. Features: Terminal-based AI sessions — start, resume, fork, and browse OpenCode sessions in IDE...
-
-vendor: 吴 汶泽
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.wenzewoo.jetbrains-opencode</description>
-      <pubDate>Mon, 18 May 2026 02:53:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31791-opencode-agent</guid>
-      <dc:date>2026-05-18T02:53:13Z</dc:date>
     </item>
     <item>
       <title>Neo4j Cypher Syntax Highlighter and Formatter - Mon May 18 20:18:48 UTC 2026</title>
@@ -253,17 +253,17 @@ xmlId: com.moraouf.copyproblems</description>
       <dc:date>2026-05-18T10:31:35Z</dc:date>
     </item>
     <item>
-      <title>Amateur-Postman - Mon May 18 12:00:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31767-amateur-postman</link>
-      <description>Amateur-Postman is a high-performance, lightweight HTTP client plugin integrated into IntelliJ IDEA. Designed for developers who prefer a minimalist experience, it...
+      <title>Rite Language - Sat May 16 09:12:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31139-rite-language</link>
+      <description>Language support for Rite ceremony files (*.rite.yaml), powered by a bundled language server. Diagnostics (errors and warnings) Hover information Completions Rite is a...
 
-vendor: dhzhu
+vendor: Rite-ly
 downloads: 3
 pricingModel: FREE
-xmlId: com.github.dhzhu.amateurpostman</description>
-      <pubDate>Mon, 18 May 2026 12:00:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31767-amateur-postman</guid>
-      <dc:date>2026-05-18T12:00:32Z</dc:date>
+xmlId: io.ritely.rite</description>
+      <pubDate>Sat, 16 May 2026 09:12:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31139-rite-language</guid>
+      <dc:date>2026-05-16T09:12:47Z</dc:date>
     </item>
   </channel>
 </rss>
