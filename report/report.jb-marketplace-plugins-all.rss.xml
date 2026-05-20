@@ -11,7 +11,7 @@
       <description>Compose Template Generator accelerates Kotlin Multiplatform and Compose Multiplatform feature development with architecture-aware generation, source-set guardrails...
 
 vendor: Compose Template Generator
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.kmpfeaturekit</description>
       <pubDate>Tue, 19 May 2026 06:20:40 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: org.jetbrains.kotlin-toolchain</description>
       <description>AutoTyper - Live Coding Simulator Simulate realistic, structured typing of Java classes in the editor. Perfect for live coding demonstrations in lectures and...
 
 vendor: rolfsblog.ch
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: ch.autotyper.plugin</description>
       <pubDate>Tue, 19 May 2026 18:41:21 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: ch.autotyper.plugin</description>
       <description>CSS class name completions and validation for the Kensington JS template library. Completion Autocomplete triggers inside { class: '...' } and { class...
 
 vendor: Ryan Lee Simms
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.kensington.plugin</description>
       <pubDate>Tue, 19 May 2026 01:19:19 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.kensington.plugin</description>
       <description>The plugin adds first-class support for Modelica language to IntelliJ IDEA and other JetBrains IDEs. Features First-class Modelica .mo file support syntax...
 
 vendor: Language Heroes
-downloads: 0
+downloads: 1
 pricingModel: PAID
 xmlId: com.langheroes.modelica</description>
       <pubDate>Mon, 18 May 2026 23:22:39 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.langheroes.modelica</description>
       <description>Your offline AI co-pilot powered by Ollama — 100% local, no telemetry, no internet required. Features: Chat with local LLMs via Ollama Agent with tool calling...
 
 vendor: QuantumLeapProjects
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.quantumleapprojects.jetpilot</description>
       <pubDate>Wed, 13 May 2026 09:58:28 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: be.toms.jetbrains-git-commit-reminder-plugin</description>
       <description>Auto Translate Strings for Android Studio. A powerful plugin that helps Android developers automatically translate strings.xml files into multiple languages with just...
 
 vendor: AutoTranslate
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.tuyen12081707.autotranslate</description>
       <pubDate>Tue, 19 May 2026 16:30:28 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.github.tuyen12081707.autotranslate</description>
       <description>Generates .http, cURL, Postman, TypeScript Axios, JS Fetch and OpenAPI files from Spring @RestController classes.
 
 vendor: umarmuhendis
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: uz.umar.http-request-generator</description>
       <pubDate>Tue, 19 May 2026 15:32:35 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: uz.umar.http-request-generator</description>
       <description>GitInsight — Git change-risk dashboard for IntelliJ IDEs Not just git blame, but git insight: Enhanced Blame — hover a line to see author, modify frequency, and...
 
 vendor: fangyajun
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.power.gitinsight</description>
       <pubDate>Tue, 19 May 2026 09:58:53 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.power.gitinsight</description>
       <description>Commit Radar — Git change-risk dashboard for IntelliJ IDEs Not just git blame, but git insight: Enhanced Blame — hover a line to see author, modify frequency, and...
 
 vendor: fangyajun
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.xiaoya666.gitinsight</description>
       <pubDate>Tue, 19 May 2026 13:28:11 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: io.github.xiaoya666.gitinsight</description>
       <description>Compose Inspector Static analysis for scalable Jetpack Compose codebases. Detect Compose code smells before they become architecture problems. Features (MVP) Modifier...
 
 vendor: Yogesh bansal
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.composeinspector.compose-inspector</description>
       <pubDate>Tue, 19 May 2026 12:24:17 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.composeinspector.compose-inspector</description>
       <description>See real callers, not Preview noise. Adds a toggle button to the Find Usages tool window that hides usages whose enclosing function is annotated with @Preview (Jetpack...
 
 vendor: Yogesh bansal
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.yogeshbansal.previewfilter</description>
       <pubDate>Tue, 19 May 2026 13:05:44 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: io.mend.mend-security-check</description>
       <description>Lightweight Spring MVC endpoint map for IntelliJ IDEA Community and Ultimate. Scan Java Spring controllers, browse endpoint routes in a tool window, filter quickly...
 
 vendor: RouteForge
-downloads: 8
+downloads: 32
 pricingModel: FREE
 xmlId: com.springendpointmap</description>
       <pubDate>Tue, 19 May 2026 19:10:56 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.springendpointmap</description>
       <description>Language support for the Magma computer algebra system in IntelliJ-based IDEs. Syntax highlighting for .m, .mag, .magma and .spec files Brace matching and line/block...
 
 vendor: René Peschmann
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: com.renpe.magma</description>
       <pubDate>Mon, 18 May 2026 00:21:00 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.renpe.magma</description>
       <description>Language support for the PARI/GP computer algebra system in IntelliJ-based IDEs. Syntax highlighting for .gp and .pari files Brace matching and line (\\) / block...
 
 vendor: René Peschmann
-downloads: 8
+downloads: 17
 pricingModel: FREE
 xmlId: com.renpe.parigp</description>
       <pubDate>Mon, 18 May 2026 18:05:39 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.renpe.parigp</description>
       <description>Language support for the SageMath computer algebra system in IntelliJ-based IDEs. Syntax highlighting for .sage, .sagews and .spyx files Brace matching and...
 
 vendor: René Peschmann
-downloads: 9
+downloads: 22
 pricingModel: FREE
 xmlId: com.renpe.sagemath</description>
       <pubDate>Mon, 18 May 2026 18:15:45 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.renpe.sagemath</description>
       <description>Dependency Helper support Maven and Gradle dependency analysis and package search, Npm package.json version hints. It highlights newer releases inline, supports...
 
 vendor: Knifefish
-downloads: 2
+downloads: 48
 pricingModel: FREE
 xmlId: org.knifefish.dependency.helper</description>
       <pubDate>Tue, 19 May 2026 12:53:19 GMT</pubDate>
