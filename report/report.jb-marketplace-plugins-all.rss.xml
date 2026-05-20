@@ -19,17 +19,17 @@ xmlId: com.kmpfeaturekit</description>
       <dc:date>2026-05-19T06:20:40Z</dc:date>
     </item>
     <item>
-      <title>Kotlin Toolchain - Tue May 19 18:20:54 UTC 2026</title>
+      <title>Kotlin Toolchain - Wed May 20 11:47:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31850-kotlin-toolchain</link>
-      <description>Provides support for Amper project configuration and build tool. Learn more on amper.org. The plugin supports basic functionality such opening Amper projects in the...
+      <description>Provides support for Kotlin Toolchain, JetBrains' build tool for Kotlin and Java projects. The plugin helps you create and work with Kotlin projects in the IDE, run...
 
 vendor: JetBrains s.r.o.
 downloads: 0
 pricingModel: FREE
 xmlId: org.jetbrains.kotlin-toolchain</description>
-      <pubDate>Tue, 19 May 2026 18:20:54 GMT</pubDate>
+      <pubDate>Wed, 20 May 2026 11:47:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31850-kotlin-toolchain</guid>
-      <dc:date>2026-05-19T18:20:54Z</dc:date>
+      <dc:date>2026-05-20T11:47:52Z</dc:date>
     </item>
     <item>
       <title>AutoTyper - Live Coding Simulator - Tue May 19 18:41:21 UTC 2026</title>
@@ -84,7 +84,7 @@ xmlId: com.quantumleapprojects.jetpilot</description>
       <dc:date>2026-05-13T09:58:28Z</dc:date>
     </item>
     <item>
-      <title>Git Commit Reminder - Tue May 19 15:58:57 UTC 2026</title>
+      <title>Git Commit Reminder - Wed May 20 12:10:16 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31842-git-commit-reminder</link>
       <description>Reminds you to commit and push before walking away from unfinished Git work. When you close a project (or quit the IDE), Git Commit Reminder checks the current state...
 
@@ -92,9 +92,9 @@ vendor: tomsix
 downloads: 0
 pricingModel: FREE
 xmlId: be.toms.jetbrains-git-commit-reminder-plugin</description>
-      <pubDate>Tue, 19 May 2026 15:58:57 GMT</pubDate>
+      <pubDate>Wed, 20 May 2026 12:10:16 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31842-git-commit-reminder</guid>
-      <dc:date>2026-05-19T15:58:57Z</dc:date>
+      <dc:date>2026-05-20T12:10:16Z</dc:date>
     </item>
     <item>
       <title>AutoTranslate Strings - Tue May 19 16:30:28 UTC 2026</title>
@@ -108,19 +108,6 @@ xmlId: com.github.tuyen12081707.autotranslate</description>
       <pubDate>Tue, 19 May 2026 16:30:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31845-autotranslate-strings</guid>
       <dc:date>2026-05-19T16:30:28Z</dc:date>
-    </item>
-    <item>
-      <title>HTTP Request Generator - Tue May 19 15:32:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31844-http-request-generator</link>
-      <description>Generates .http, cURL, Postman, TypeScript Axios, JS Fetch and OpenAPI files from Spring @RestController classes.
-
-vendor: umarmuhendis
-downloads: 1
-pricingModel: FREE
-xmlId: uz.umar.http-request-generator</description>
-      <pubDate>Tue, 19 May 2026 15:32:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31844-http-request-generator</guid>
-      <dc:date>2026-05-19T15:32:35Z</dc:date>
     </item>
     <item>
       <title>GitInsight - Tue May 19 09:58:53 UTC 2026</title>
@@ -264,6 +251,19 @@ xmlId: org.knifefish.dependency.helper</description>
       <pubDate>Tue, 19 May 2026 12:53:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31795-dependency-helper</guid>
       <dc:date>2026-05-19T12:53:19Z</dc:date>
+    </item>
+    <item>
+      <title>Tests Analyzer - Tue May 19 20:42:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31806-tests-analyzer</link>
+      <description>Runs tests and visualizes their execution timeline to identify parallelism issues and slow tests. Main features Gantt Chart — timeline showing each test as a...
+
+vendor: Sebastian Straburzyński
+downloads: 22
+pricingModel: FREE
+xmlId: com.github.straburzynski.testsanalyzer</description>
+      <pubDate>Tue, 19 May 2026 20:42:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31806-tests-analyzer</guid>
+      <dc:date>2026-05-19T20:42:07Z</dc:date>
     </item>
   </channel>
 </rss>
