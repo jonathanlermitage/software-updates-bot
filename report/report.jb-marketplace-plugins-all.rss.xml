@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Compose Template Generator - Tue May 19 06:20:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31833-compose-template-generator</link>
+      <description>Compose Template Generator accelerates Kotlin Multiplatform and Compose Multiplatform feature development with architecture-aware generation, source-set guardrails...
+
+vendor: Compose Template Generator
+downloads: 0
+pricingModel: FREE
+xmlId: com.kmpfeaturekit</description>
+      <pubDate>Tue, 19 May 2026 06:20:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31833-compose-template-generator</guid>
+      <dc:date>2026-05-19T06:20:40Z</dc:date>
+    </item>
+    <item>
+      <title>Kotlin Toolchain - Tue May 19 18:20:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31850-kotlin-toolchain</link>
+      <description>Provides support for Amper project configuration and build tool. Learn more on amper.org. The plugin supports basic functionality such opening Amper projects in the...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: org.jetbrains.kotlin-toolchain</description>
+      <pubDate>Tue, 19 May 2026 18:20:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31850-kotlin-toolchain</guid>
+      <dc:date>2026-05-19T18:20:54Z</dc:date>
+    </item>
+    <item>
       <title>AutoTyper - Live Coding Simulator - Tue May 19 18:41:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31851-autotyper--live-coding-simulator</link>
       <description>AutoTyper - Live Coding Simulator Simulate realistic, structured typing of Java classes in the editor. Perfect for live coding demonstrations in lectures and...
@@ -238,32 +264,6 @@ xmlId: org.knifefish.dependency.helper</description>
       <pubDate>Tue, 19 May 2026 12:53:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31795-dependency-helper</guid>
       <dc:date>2026-05-19T12:53:19Z</dc:date>
-    </item>
-    <item>
-      <title>Tests Analyzer - Sun May 17 16:12:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31806-tests-analyzer</link>
-      <description>Runs tests and visualizes their execution timeline to identify parallelism issues and slow tests. Main features Gantt Chart — timeline showing each test as a...
-
-vendor: Sebastian Straburzyński
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.straburzynski.testsanalyzer</description>
-      <pubDate>Sun, 17 May 2026 16:12:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31806-tests-analyzer</guid>
-      <dc:date>2026-05-17T16:12:33Z</dc:date>
-    </item>
-    <item>
-      <title>Lottie Preview - Sun May 17 06:47:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31799-lottie-preview</link>
-      <description>Preview Lottie and dotLottie animations directly inside IntelliJ-based IDEs using the embedded JCEF browser.
-
-vendor: Sekh Gulam Mainuddin
-downloads: 1
-pricingModel: FREE
-xmlId: com.lottiepreview.plugin</description>
-      <pubDate>Sun, 17 May 2026 06:47:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31799-lottie-preview</guid>
-      <dc:date>2026-05-17T06:47:37Z</dc:date>
     </item>
   </channel>
 </rss>
