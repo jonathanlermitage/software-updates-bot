@@ -20,7 +20,7 @@
 |![logo](../media/logo/go.png) Go|go1.26.3|[golang.org](https://golang.org/dl/)|Thu May 07 16:31:42 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.5.1|[gradle.org](https://gradle.org/releases)|Tue May 12 16:40:42 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.5752.32) ~ 2026-05-14|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 14 20:28:37 UTC 2026|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.6228.19) ~ 2026-05-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 21 09:02:01 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.2 (261.24374.151) ~ 2026-05-15|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri May 15 16:32:44 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.6.8 to 19.7.0 ~ 2026-05-07|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu May 07 20:25:02 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 340 - Episode on l'voit on l'voit pas|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 12 16:40:49 UTC 2026|
