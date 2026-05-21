@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Batch SVG to Vector Converter - Thu May 21 15:45:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31898-batch-svg-to-vector-converter</link>
+      <description>A powerful Android Studio plugin to convert multiple SVG files into Android VectorDrawable format (.xml) in one click. Features: Batch conversion of multiple SVG...
+
+vendor: Pankajgaur811
+downloads: 0
+pricingModel: FREE
+xmlId: com.pankajgaur811.multiple_svg_to_vector_drawable</description>
+      <pubDate>Thu, 21 May 2026 15:45:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31898-batch-svg-to-vector-converter</guid>
+      <dc:date>2026-05-21T15:45:35Z</dc:date>
+    </item>
+    <item>
+      <title>Stock Ticker - Thu May 21 02:10:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31882-stock-ticker</link>
+      <description>Shows configurable stock quotes in the IntelliJ IDEA status bar. 在 IntelliJ IDEA 状态栏滚动展示股票代码、名称、最新价、涨跌金额和涨跌幅，并支持配置名称显示、涨跌颜色和滚动间隔。.
+
+vendor: snfdf
+downloads: 0
+pricingModel: FREE
+xmlId: com.stockticker.plugin</description>
+      <pubDate>Thu, 21 May 2026 02:10:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31882-stock-ticker</guid>
+      <dc:date>2026-05-21T02:10:16Z</dc:date>
+    </item>
+    <item>
+      <title>Trace - Local Dev Activity Recorder - Thu May 21 08:03:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31885-trace--local-dev-activity-recorder</link>
+      <description>Trace — your IDE, traced privately and locally Silently records every action you take in the IDE — file edits, run/debug sessions, git commits, applied patches...
+
+vendor: Zhouxu
+downloads: 0
+pricingModel: FREE
+xmlId: com.trace.plugin</description>
+      <pubDate>Thu, 21 May 2026 08:03:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31885-trace--local-dev-activity-recorder</guid>
+      <dc:date>2026-05-21T08:03:59Z</dc:date>
+    </item>
+    <item>
+      <title>Log Explorer - Thu May 21 03:20:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31883-log-explorer</link>
+      <description>Structured, filterable console log exploration for JetBrains Rider. The plugin captures Run/Debug output, parses common log formats, and presents logs in a dedicated...
+
+vendor: denglei1024
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.denglei1024.log-explorer</description>
+      <pubDate>Thu, 21 May 2026 03:20:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31883-log-explorer</guid>
+      <dc:date>2026-05-21T03:20:31Z</dc:date>
+    </item>
+    <item>
+      <title>Project Color Bar - Wed May 20 21:05:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31880-project-color-bar</link>
+      <description>Color your IDE title bar and borders per project for instant visual identification. Features: - Set a custom color for each project's title bar and window borders...
+
+vendor: Papalugo
+downloads: 0
+pricingModel: FREE
+xmlId: com.papalugo.projectcolorbar</description>
+      <pubDate>Wed, 20 May 2026 21:05:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31880-project-color-bar</guid>
+      <dc:date>2026-05-20T21:05:09Z</dc:date>
+    </item>
+    <item>
+      <title>Flowix DB Tool - Thu May 21 10:37:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31323-flowix-db-tool</link>
+      <description>Flowix DB Tool puts PostgreSQL traffic under control - without rewriting your application - and this plugin keeps the whole loop inside your IDE. Flowix DB Tool is a...
+
+vendor: BTC
+downloads: 2
+pricingModel: FREE
+xmlId: com.btcsolutions.flowix.jbplugin</description>
+      <pubDate>Thu, 21 May 2026 10:37:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31323-flowix-db-tool</guid>
+      <dc:date>2026-05-21T10:37:17Z</dc:date>
+    </item>
+    <item>
+      <title>Window Accent - Thu May 21 13:32:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31895-window-accent</link>
+      <description>Window Accent helps you distinguish between multiple JetBrains IDE windows with visual cues. Some configuration is available through the tool window as well as the...
+
+vendor: Alex Blake-Goudemond
+downloads: 0
+pricingModel: FREE
+xmlId: WindowAccent</description>
+      <pubDate>Thu, 21 May 2026 13:32:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31895-window-accent</guid>
+      <dc:date>2026-05-21T13:32:28Z</dc:date>
+    </item>
+    <item>
       <title>Easy POJO to JSON - Mon May 18 02:46:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31814-easy-pojo-to-json</link>
       <description>Easy POJO to JSON Easy POJO to JSON helps you quickly generate JSON samples or comment-enriched JSON-like text from Java/Kotlin POJOs inside IntelliJ IDEA. Key...
@@ -173,97 +264,6 @@ xmlId: com.agileagent.plugin</description>
       <pubDate>Wed, 20 May 2026 12:02:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31863-agile-agent</guid>
       <dc:date>2026-05-20T12:02:01Z</dc:date>
-    </item>
-    <item>
-      <title>Remote Execution Agent: Additional Binary Files - Thu May 21 13:48:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31874-remote-execution-agent-additional-binary-files</link>
-      <description>Executables of the remote agent compiled for various architectures and operating systems.
-
-vendor: JetBrains s.r.o.
-downloads: 6
-pricingModel: FREE
-xmlId: intellij.platform.ijent.additionalBinaries</description>
-      <pubDate>Thu, 21 May 2026 13:48:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31874-remote-execution-agent-additional-binary-files</guid>
-      <dc:date>2026-05-21T13:48:09Z</dc:date>
-    </item>
-    <item>
-      <title>Latency Budget Analyzer - Tue May 19 05:50:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31832-latency-budget-analyzer</link>
-      <description>AI-Powered Latency Budget Analyzer Analyzes your Java/Spring Boot methods for latency hotspots — detecting HTTP calls, database queries, Kafka publishes, Redis...
-
-vendor: latency-budget-analyzer
-downloads: 6
-pricingModel: FREE
-xmlId: com.kamini.latency-budget-analyzer</description>
-      <pubDate>Tue, 19 May 2026 05:50:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31832-latency-budget-analyzer</guid>
-      <dc:date>2026-05-19T05:50:17Z</dc:date>
-    </item>
-    <item>
-      <title>JSM Helper - Tue May 19 08:53:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31835-jsm-helper</link>
-      <description>JSM Helper - MyBatis Navigation &amp;amp; Project Generator A powerful IntelliJ IDEA plugin for JSM framework that provides two core features: &#x1f9ed; MyBatis Mapper Navigation...
-
-vendor: cn.ibaijia
-downloads: 2
-pricingModel: FREE
-xmlId: cn.ibaijia.jsm.helper</description>
-      <pubDate>Tue, 19 May 2026 08:53:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31835-jsm-helper</guid>
-      <dc:date>2026-05-19T08:53:00Z</dc:date>
-    </item>
-    <item>
-      <title>Kotlin Design Patterns Creator - Wed May 20 10:24:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31867-kotlin-design-patterns-creator</link>
-      <description>Kotlin Design Patterns Creator injects classic design patterns directly into the Kotlin class under your caret. Right-click anywhere inside a Kotlin class body and...
-
-vendor: Muhammet Gundogar
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.bymaskeli53.kotlindesignpatternscreator</description>
-      <pubDate>Wed, 20 May 2026 10:24:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31867-kotlin-design-patterns-creator</guid>
-      <dc:date>2026-05-20T10:24:40Z</dc:date>
-    </item>
-    <item>
-      <title>VCS Switch - Thu May 21 03:43:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31862-vcs-switch</link>
-      <description>Switch the active VCS mapping of the current project root between the version control systems detected by IntelliJ IDEA. Detects Git and SVN markers in the project...
-
-vendor: vcs-switch
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.soberw.vcsswitch</description>
-      <pubDate>Thu, 21 May 2026 03:43:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31862-vcs-switch</guid>
-      <dc:date>2026-05-21T03:43:01Z</dc:date>
-    </item>
-    <item>
-      <title>TakaTime - Wed May 20 09:17:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31861-takatime</link>
-      <description>TakaTime is an open-source, privacy-first time tracker and coding telemetry engine built for developers. Track your coding activity, project time, and language usage...
-
-vendor: Tarun Nayaka R
-downloads: 1
-pricingModel: FREE
-xmlId: com.takatime.jetbrains</description>
-      <pubDate>Wed, 20 May 2026 09:17:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31861-takatime</guid>
-      <dc:date>2026-05-20T09:17:44Z</dc:date>
-    </item>
-    <item>
-      <title>Screen Capture - Wed May 20 09:59:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31866-screen-capture</link>
-      <description>Github | Telegram | Donation Screen Capture Plugin allows you to capture a window or the whole screen and mirror it in the IDE tool window. Donation Open-source tools...
-
-vendor: xepozz
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.xepozz.screencaptureplugin</description>
-      <pubDate>Wed, 20 May 2026 09:59:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31866-screen-capture</guid>
-      <dc:date>2026-05-20T09:59:08Z</dc:date>
     </item>
   </channel>
 </rss>
