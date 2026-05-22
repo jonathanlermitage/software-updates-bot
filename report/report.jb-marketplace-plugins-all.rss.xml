@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Rubber Duck Debugger - Thu May 21 09:04:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31886-rubber-duck-debugger</link>
+      <description>A conversational thinking partner that lives in your IDE. It watches what you write, asks questions, and challenges your reasoning — but never writes code for you...
+
+vendor: LynxIT
+downloads: 0
+pricingModel: FREE
+xmlId: eu.lynxit.rubberduck.debugger</description>
+      <pubDate>Thu, 21 May 2026 09:04:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31886-rubber-duck-debugger</guid>
+      <dc:date>2026-05-21T09:04:13Z</dc:date>
+    </item>
+    <item>
+      <title>Auto Commit - Fri May 22 09:02:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31911-auto-commit</link>
+      <description>Auto Commit — generate Git commit messages with AI inside IntelliJ IDEA AI Commit adds a one-click button to the IDEA Commit tool window that streams an AI-generated...
+
+vendor: Ai Commit
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.tboy2015.autocommit</description>
+      <pubDate>Fri, 22 May 2026 09:02:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31911-auto-commit</guid>
+      <dc:date>2026-05-22T09:02:45Z</dc:date>
+    </item>
+    <item>
+      <title>Clockify Integration - Fri May 22 18:49:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31919-clockify-integration</link>
+      <description>Log time to Clockify directly from your JetBrains IDE — no context switching required. Features Auto-prompt after push — a dialog appears after each successful Git...
+
+vendor: Paral
+downloads: 0
+pricingModel: FREE
+xmlId: no.paral.clockifyplugin</description>
+      <pubDate>Fri, 22 May 2026 18:49:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31919-clockify-integration</guid>
+      <dc:date>2026-05-22T18:49:20Z</dc:date>
+    </item>
+    <item>
+      <title>Python Doc Links - Thu May 21 12:27:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31892-python-doc-links</link>
+      <description>Makes file and function references in Python docstrings and comments Ctrl+Clickable. Supports filename.py patterns and Sphinx :py:func:`module.func` / :py:mod:`module...
+
+vendor: Rufat
+downloads: 0
+pricingModel: FREE
+xmlId: com.pydoclinks</description>
+      <pubDate>Thu, 21 May 2026 12:27:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31892-python-doc-links</guid>
+      <dc:date>2026-05-21T12:27:47Z</dc:date>
+    </item>
+    <item>
+      <title>AI Chat File Links - Fri May 22 02:11:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31890-ai-chat-file-links</link>
+      <description>Fixes PyCharm/JetBrains AI Chat: file links in agent replies (Cursor, ACP, …) did not open in the editor. Opens project-relative paths; optional setting dismisses the...
+
+vendor: Rufat
+downloads: 0
+pricingModel: FREE
+xmlId: com.aichat.filelinks</description>
+      <pubDate>Fri, 22 May 2026 02:11:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31890-ai-chat-file-links</guid>
+      <dc:date>2026-05-22T02:11:45Z</dc:date>
+    </item>
+    <item>
       <title>AI Naming - Thu May 21 13:11:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31831-ai-naming</link>
       <description>AI Naming suggests better names for code symbols from a user-configured AI endpoint. 中文使用说明 打开 Settings | Tools | AI Naming。 填写 OpenAI-compatible Chat Completions...
@@ -58,7 +123,7 @@ xmlId: com.ccsoftware.copycodereference</description>
       <dc:date>2026-05-22T03:43:59Z</dc:date>
     </item>
     <item>
-      <title>AutoMapper.FindUsage - Fri May 22 04:37:08 UTC 2026</title>
+      <title>AutoMapper.FindUsage - Fri May 22 17:20:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31907-automapper-findusage</link>
       <description>ReSharper plugin for easy navigation from destination properties to source properties in AutoMapper mappings.
 
@@ -66,9 +131,9 @@ vendor: Rogatnev
 downloads: 0
 pricingModel: FREE
 xmlId: me.rogatnev.automapper.findusage</description>
-      <pubDate>Fri, 22 May 2026 04:37:08 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 17:20:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31907-automapper-findusage</guid>
-      <dc:date>2026-05-22T04:37:08Z</dc:date>
+      <dc:date>2026-05-22T17:20:28Z</dc:date>
     </item>
     <item>
       <title>Oracle Dictionary Inspector - Fri May 22 06:30:37 UTC 2026</title>
@@ -199,71 +264,6 @@ xmlId: io.github.denglei1024.log-explorer</description>
       <pubDate>Thu, 21 May 2026 03:20:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31883-log-explorer</guid>
       <dc:date>2026-05-21T03:20:31Z</dc:date>
-    </item>
-    <item>
-      <title>Project Color Bar - Wed May 20 21:05:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31880-project-color-bar</link>
-      <description>Color your IDE title bar and borders per project for instant visual identification. Features: - Set a custom color for each project's title bar and window borders...
-
-vendor: Papalugo
-downloads: 2
-pricingModel: FREE
-xmlId: com.papalugo.projectcolorbar</description>
-      <pubDate>Wed, 20 May 2026 21:05:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31880-project-color-bar</guid>
-      <dc:date>2026-05-20T21:05:09Z</dc:date>
-    </item>
-    <item>
-      <title>Flowix DB Tool - Thu May 21 10:37:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31323-flowix-db-tool</link>
-      <description>Flowix DB Tool puts PostgreSQL traffic under control - without rewriting your application - and this plugin keeps the whole loop inside your IDE. Flowix DB Tool is a...
-
-vendor: BTC
-downloads: 3
-pricingModel: FREE
-xmlId: com.btcsolutions.flowix.jbplugin</description>
-      <pubDate>Thu, 21 May 2026 10:37:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31323-flowix-db-tool</guid>
-      <dc:date>2026-05-21T10:37:17Z</dc:date>
-    </item>
-    <item>
-      <title>Window Accent - Fri May 22 07:18:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31895-window-accent</link>
-      <description>Window Accent helps you distinguish between multiple JetBrains IDE windows with visual cues. When you have multiple IDE windows open, it can be difficult to quickly...
-
-vendor: Alex Blake-Goudemond
-downloads: 1
-pricingModel: FREE
-xmlId: WindowAccent</description>
-      <pubDate>Fri, 22 May 2026 07:18:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31895-window-accent</guid>
-      <dc:date>2026-05-22T07:18:45Z</dc:date>
-    </item>
-    <item>
-      <title>Easy POJO to JSON - Mon May 18 02:46:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31814-easy-pojo-to-json</link>
-      <description>Easy POJO to JSON Easy POJO to JSON helps you quickly generate JSON samples or comment-enriched JSON-like text from Java/Kotlin POJOs inside IntelliJ IDEA. Key...
-
-vendor: August Lee
-downloads: 8
-pricingModel: FREE
-xmlId: com.augustlee.tool.easypojo2json</description>
-      <pubDate>Mon, 18 May 2026 02:46:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31814-easy-pojo-to-json</guid>
-      <dc:date>2026-05-18T02:46:01Z</dc:date>
-    </item>
-    <item>
-      <title>KMP Project Wizard - Sat May 16 10:09:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31786-kmp-project-wizard</link>
-      <description>A modern, opinionated Kotlin Multiplatform (KMP) project generator for Android and Desktop. Kickstart your next project with a production-ready stack: UI: Compose...
-
-vendor: Atanas Oreshkov
-downloads: 6
-pricingModel: FREE
-xmlId: app.oreshkov.kmp.wizard</description>
-      <pubDate>Sat, 16 May 2026 10:09:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31786-kmp-project-wizard</guid>
-      <dc:date>2026-05-16T10:09:25Z</dc:date>
     </item>
   </channel>
 </rss>
