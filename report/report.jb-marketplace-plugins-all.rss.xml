@@ -11,7 +11,7 @@
       <description>A conversational thinking partner that lives in your IDE. It watches what you write, asks questions, and challenges your reasoning — but never writes code for you...
 
 vendor: LynxIT
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: eu.lynxit.rubberduck.debugger</description>
       <pubDate>Thu, 21 May 2026 09:04:13 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: io.github.tboy2015.autocommit</description>
       <description>Log time to Clockify directly from your JetBrains IDE — no context switching required. Features Auto-prompt after push — a dialog appears after each successful Git...
 
 vendor: Paral
-downloads: 0
+downloads: 13
 pricingModel: FREE
 xmlId: no.paral.clockifyplugin</description>
       <pubDate>Fri, 22 May 2026 18:49:20 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: no.paral.clockifyplugin</description>
       <description>Makes file and function references in Python docstrings and comments Ctrl+Clickable. Supports filename.py patterns and Sphinx :py:func:`module.func` / :py:mod:`module...
 
 vendor: Rufat
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.pydoclinks</description>
       <pubDate>Thu, 21 May 2026 12:27:47 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.pydoclinks</description>
       <description>Fixes PyCharm/JetBrains AI Chat: file links in agent replies (Cursor, ACP, …) did not open in the editor. Opens project-relative paths; optional setting dismisses the...
 
 vendor: Rufat
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.aichat.filelinks</description>
       <pubDate>Fri, 22 May 2026 02:11:45 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.aichat.filelinks</description>
       <description>AI Naming suggests better names for code symbols from a user-configured AI endpoint. 中文使用说明 打开 Settings | Tools | AI Naming。 填写 OpenAI-compatible Chat Completions...
 
 vendor: Qinghuan
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.gupeng.ainaming</description>
       <pubDate>Thu, 21 May 2026 13:11:14 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.github.gupeng.ainaming</description>
       <description>English An embedded web browser plugin with multi-tab, bookmark, history, and DevTools support for JetBrains products (IntelliJ IDEA, PyCharm, WebStorm, PhpStorm...
 
 vendor: Pengwei Chen
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.cpw.browser.WebBrowser</description>
       <pubDate>Fri, 22 May 2026 13:18:12 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.cpw.browser.WebBrowser</description>
       <description>Open-source AI coding assistant for JetBrains IDEs. Multi-provider — works with Sarvam, OpenAI-compatible APIs (Ollama, vLLM, OpenRouter), and local self-hosted...
 
 vendor: CodeSetu
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: ai.codesetu.codesetu</description>
       <pubDate>Thu, 21 May 2026 17:26:57 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: ai.codesetu.codesetu</description>
       <description>Copy Code Reference with Line Numbers A lightweight, productivity-boosting plugin that lets you copy file paths combined with selected line numbers in the format...
 
 vendor: CCSoftware
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.ccsoftware.copycodereference</description>
       <pubDate>Fri, 22 May 2026 03:43:59 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.ccsoftware.copycodereference</description>
       <description>ReSharper plugin for easy navigation from destination properties to source properties in AutoMapper mappings.
 
 vendor: Rogatnev
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: me.rogatnev.automapper.findusage</description>
       <pubDate>Fri, 22 May 2026 17:20:28 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: me.rogatnev.automapper.findusage</description>
       <description>DataGrip / IntelliJ IDEA Ultimate plugin for Oracle dictionary inspection. Toad-style describe dialogs for tables, views, procedures, functions, plus a dedicated Tool...
 
 vendor: wooju
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.wooju.oracle-dictionary-inspector</description>
       <pubDate>Fri, 22 May 2026 06:30:37 GMT</pubDate>
@@ -149,17 +149,17 @@ xmlId: com.github.wooju.oracle-dictionary-inspector</description>
       <dc:date>2026-05-22T06:30:37Z</dc:date>
     </item>
     <item>
-      <title>KASM Language - Fri May 22 10:56:38 UTC 2026</title>
+      <title>KASM Language - Fri May 22 22:05:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31902-kasm-language</link>
       <description>Formatting, highlighting, code completion and source debugging for KASM.
 
 vendor: Kryptikk
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: de.ljunker.kasm</description>
-      <pubDate>Fri, 22 May 2026 10:56:38 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 22:05:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31902-kasm-language</guid>
-      <dc:date>2026-05-22T10:56:38Z</dc:date>
+      <dc:date>2026-05-22T22:05:01Z</dc:date>
     </item>
     <item>
       <title>Configurable Pride Progress Bar - Thu May 21 12:37:22 UTC 2026</title>
@@ -167,7 +167,7 @@ xmlId: de.ljunker.kasm</description>
       <description>Pride Progress Bar Show your pride directly in your IDE! This plugin replaces the standard progress bars with striped flags. Features: Custom Striped Designs...
 
 vendor: Stolzonator
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: de.pride</description>
       <pubDate>Thu, 21 May 2026 12:37:22 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: de.pride</description>
       <description>A lightweight IntelliJ IDEA plugin that provides customized JavaDoc comment templates with @description tag for Java classes, interfaces, enums, and annotations...
 
 vendor: Z-COM
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.zcom.customdoc</description>
       <pubDate>Thu, 21 May 2026 13:26:55 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.zcom.customdoc</description>
       <description>Chevron Lists turns your JetBrains IDE into a fully-featured task, notes, and project management system — without leaving markdown. It layers &amp;gt;, &amp;gt;&amp;gt...
 
 vendor: LewisIsWorking
-downloads: 5
+downloads: 11
 pricingModel: FREE
 xmlId: com.lewisisworking.chevronlists</description>
       <pubDate>Wed, 20 May 2026 18:52:29 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.lewisisworking.chevronlists</description>
       <description>Bridges the Antigravity CLI (agy) with PhpStorm so the agent can see your active file, selection, open tabs, and inspection diagnostics on demand. The plugin runs a...
 
 vendor: Yevhen Matasar
-downloads: 16
+downloads: 93
 pricingModel: FREE
 xmlId: dev.matasar.antigravity-companion</description>
       <pubDate>Fri, 22 May 2026 09:58:28 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.matasar.antigravity-companion</description>
       <description>A powerful Android Studio plugin to convert multiple SVG files into Android VectorDrawable format (.xml) in one click. Features: Batch conversion of multiple SVG...
 
 vendor: Pankajgaur811
-downloads: 4
+downloads: 12
 pricingModel: FREE
 xmlId: com.pankajgaur811.multiple_svg_to_vector_drawable</description>
       <pubDate>Thu, 21 May 2026 15:45:35 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.pankajgaur811.multiple_svg_to_vector_drawable</description>
       <description>Shows configurable stock quotes in the IntelliJ IDEA status bar. 在 IntelliJ IDEA 状态栏滚动展示股票代码、名称、最新价、涨跌金额和涨跌幅，并支持配置名称显示、涨跌颜色和滚动间隔。.
 
 vendor: snfdf
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: com.stockticker.plugin</description>
       <pubDate>Thu, 21 May 2026 02:10:16 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.stockticker.plugin</description>
       <description>Trace — your IDE, traced privately and locally Silently records every action you take in the IDE — file edits, run/debug sessions, git commits, applied patches...
 
 vendor: Zhouxu
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.trace.plugin</description>
       <pubDate>Thu, 21 May 2026 08:03:59 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.trace.plugin</description>
       <description>Structured, filterable console log exploration for JetBrains Rider. The plugin captures Run/Debug output, parses common log formats, and presents logs in a dedicated...
 
 vendor: denglei1024
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: io.github.denglei1024.log-explorer</description>
       <pubDate>Thu, 21 May 2026 03:20:31 GMT</pubDate>
