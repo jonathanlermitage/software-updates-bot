@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CodeQL Pro - Tue May 26 14:58:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31940-codeql-pro</link>
+      <description>CodeQL Pro for IntelliJ Write, run and triage CodeQL queries directly from IntelliJ-based IDEs — 101 surfaces (77 free, 24 paid) covering the full open database...
+
+vendor: Code
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: ai.dev.tools.codeQL.codeQL</description>
+      <pubDate>Tue, 26 May 2026 14:58:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31940-codeql-pro</guid>
+      <dc:date>2026-05-26T14:58:29Z</dc:date>
+    </item>
+    <item>
+      <title>Git Commit Swift - Wed May 20 01:21:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31856-git-commit-swift</link>
+      <description>Git Commit Swift - AI Commit Message Generator 中文介绍 Git Commit Swift 是一款基于 AI 的 Git commit 信息生成插件，支持多 API 配置与自定义标签管理。 核心功能： AI 驱动生成 — 接入 OpenAI / DeepSeek / 通义千问 等大模型...
+
+vendor: Jiahe Future
+downloads: 1
+pricingModel: FREE
+xmlId: com.jiahefuture.git-commit-swift</description>
+      <pubDate>Wed, 20 May 2026 01:21:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31856-git-commit-swift</guid>
+      <dc:date>2026-05-20T01:21:53Z</dc:date>
+    </item>
+    <item>
       <title>ProxyCommander - Sat May 23 07:09:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31909-proxycommander</link>
       <description>Android Studio plugin for fast control of adb reverse, device HTTP proxy setup, and optional device time resync across emulators and physical devices used during...
@@ -45,7 +71,7 @@ xmlId: org.fastormbuilder.plugin</description>
       <dc:date>2026-05-25T19:33:16Z</dc:date>
     </item>
     <item>
-      <title>RS2 Language Support - Mon May 25 09:36:26 UTC 2026</title>
+      <title>RS2 Language Support - Tue May 26 15:07:36 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31950-rs2-language-support</link>
       <description>Language support for .rs2 files via the rs-lsp language server.
 
@@ -53,9 +79,9 @@ vendor: RustCityRS
 downloads: 1
 pricingModel: FREE
 xmlId: rs2.lsp.rs-lsp-plugin</description>
-      <pubDate>Mon, 25 May 2026 09:36:26 GMT</pubDate>
+      <pubDate>Tue, 26 May 2026 15:07:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31950-rs2-language-support</guid>
-      <dc:date>2026-05-25T09:36:26Z</dc:date>
+      <dc:date>2026-05-26T15:07:36Z</dc:date>
     </item>
     <item>
       <title>Kage - Sat May 23 16:32:21 UTC 2026</title>
@@ -97,17 +123,17 @@ xmlId: com.zentao.bugassistant</description>
       <dc:date>2026-05-25T08:51:20Z</dc:date>
     </item>
     <item>
-      <title>javafmt - Sat May 23 15:42:02 UTC 2026</title>
+      <title>javafmt - Tue May 26 14:47:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31922-javafmt</link>
-      <description>An opinionated, zero-configuration Java formatter. The plugin replaces IntelliJ's built-in Java formatter when a project applies the dev.javafmt.gradle plugin...
+      <description>An opinionated, zero-configuration Java formatter. Replaces IntelliJ's built-in formatter on projects that apply the dev.javafmt.gradle plugin, so Reformat Code and...
 
 vendor: Matt Worzala
 downloads: 1
 pricingModel: FREE
 xmlId: dev.javafmt.idea</description>
-      <pubDate>Sat, 23 May 2026 15:42:02 GMT</pubDate>
+      <pubDate>Tue, 26 May 2026 14:47:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31922-javafmt</guid>
-      <dc:date>2026-05-23T15:42:02Z</dc:date>
+      <dc:date>2026-05-26T14:47:13Z</dc:date>
     </item>
     <item>
       <title>Sequoia by Michael Andreuzza - Mon May 25 07:16:28 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.cyclops.monitor</description>
       <pubDate>Fri, 22 May 2026 23:58:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31917-cyclops</guid>
       <dc:date>2026-05-22T23:58:20Z</dc:date>
-    </item>
-    <item>
-      <title>ActionLens - Mon May 25 04:56:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31944-actionlens</link>
-      <description>Inspect GitHub Actions workflow runs, jobs, and full job logs without leaving your JetBrains IDE. Detects the GitHub repository from your project's origin remote...
-
-vendor: SenoTekno
-downloads: 2
-pricingModel: FREE
-xmlId: com.actionlens</description>
-      <pubDate>Mon, 25 May 2026 04:56:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31944-actionlens</guid>
-      <dc:date>2026-05-25T04:56:30Z</dc:date>
-    </item>
-    <item>
-      <title>Branch in Project View - Sun May 24 09:17:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31924-branch-in-project-view</link>
-      <description>Shows the current git branch instead of the path (location string) next to each module / content root in the Project tool window. Branch colored by name: green on...
-
-vendor: Andrea Aresu
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.lomy79.branchinprojectview</description>
-      <pubDate>Sun, 24 May 2026 09:17:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31924-branch-in-project-view</guid>
-      <dc:date>2026-05-24T09:17:35Z</dc:date>
     </item>
   </channel>
 </rss>
