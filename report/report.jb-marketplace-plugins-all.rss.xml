@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Thunder Client - Wed May 27 08:29:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31431-thunder-client</link>
+      <description>Thunder Client (Beta) is a lightweight REST API client plugin for your IDE—no context switching required. It uses local storage and Git sync for seamless team...
+
+vendor: Thunder Client
+downloads: 13
+pricingModel: FREE
+xmlId: com.thunderclient.plugin</description>
+      <pubDate>Wed, 27 May 2026 08:29:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31431-thunder-client</guid>
+      <dc:date>2026-05-27T08:29:27Z</dc:date>
+    </item>
+    <item>
       <title>DeltaRide - Tue May 26 16:14:39 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31972-deltaride</link>
       <description>DeltaRide is a plugin for IDE that provides migration tools for .NET developers. DeltaRider can scan projects in the current Rider solution inspect project details...
@@ -19,7 +32,7 @@ xmlId: me.denyssemko.plugins.deltaride</description>
       <dc:date>2026-05-26T16:14:39Z</dc:date>
     </item>
     <item>
-      <title>Claude Code Native - Tue May 26 19:01:21 UTC 2026</title>
+      <title>Claude Code Native - Wed May 27 08:36:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31965-claude-code-native</link>
       <description>Native graphical Claude Code client for JetBrains IDEs. Drives the local claude binary over its stream-json protocol — no terminal required, no Node.js at runtime...
 
@@ -27,9 +40,9 @@ vendor: Lain
 downloads: 29
 pricingModel: FREE
 xmlId: dev.lain.claude-code-for-jetbrains</description>
-      <pubDate>Tue, 26 May 2026 19:01:21 GMT</pubDate>
+      <pubDate>Wed, 27 May 2026 08:36:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31965-claude-code-native</guid>
-      <dc:date>2026-05-26T19:01:21Z</dc:date>
+      <dc:date>2026-05-27T08:36:53Z</dc:date>
     </item>
     <item>
       <title>Foldable Project View Ano - Wed May 27 03:04:47 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com</description>
       <pubDate>Mon, 25 May 2026 18:32:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31957-live-performance-monitor</guid>
       <dc:date>2026-05-25T18:32:11Z</dc:date>
-    </item>
-    <item>
-      <title>FastORM Builder - Tue May 26 20:25:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31955-fastorm-builder</link>
-      <description>FastORM Builder — The fastest way to go from database schema to production-ready ORM code. Powered by a fully embedded web UI (JCEF) — connections, settings, and...
-
-vendor: Gianpy
-downloads: 7
-pricingModel: FREE
-xmlId: org.fastormbuilder.plugin</description>
-      <pubDate>Tue, 26 May 2026 20:25:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31955-fastorm-builder</guid>
-      <dc:date>2026-05-26T20:25:30Z</dc:date>
     </item>
   </channel>
 </rss>
