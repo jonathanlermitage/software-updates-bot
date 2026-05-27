@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>JSEval - Wed May 27 14:13:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31974-jseval</link>
+      <description>JSEval lets you inspect the evaluation results of your JavaScript and TypeScript code directly at the position they appear in the editor - no console switching needed...
+
+vendor: JetBrains Experimental
+downloads: 1
+pricingModel: FREE
+xmlId: com.jetbrains.jseval</description>
+      <pubDate>Wed, 27 May 2026 14:13:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31974-jseval</guid>
+      <dc:date>2026-05-27T14:13:43Z</dc:date>
+    </item>
+    <item>
       <title>Thunder Client - Wed May 27 08:29:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31431-thunder-client</link>
       <description>Thunder Client (Beta) is a lightweight REST API client plugin for your IDE—no context switching required. It uses local storage and Git sync for seamless team...
@@ -175,7 +188,7 @@ xmlId: io.github.kaywgeek.phpstantypetrace</description>
       <dc:date>2026-05-26T06:20:20Z</dc:date>
     </item>
     <item>
-      <title>My EF Vibe - Tue May 26 16:39:24 UTC 2026</title>
+      <title>My EF Vibe - Wed May 27 16:44:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31961-my-ef-vibe</link>
       <description>Evaluate EF Core LINQ in JetBrains Rider by launching the efvibe CLI. Run selected queries, inspect dbinfo/tables, start a REPL, and review scan JSON.
 
@@ -183,9 +196,9 @@ vendor: yeahbah
 downloads: 1
 pricingModel: FREE
 xmlId: com.yeahbah.efvibe</description>
-      <pubDate>Tue, 26 May 2026 16:39:24 GMT</pubDate>
+      <pubDate>Wed, 27 May 2026 16:44:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31961-my-ef-vibe</guid>
-      <dc:date>2026-05-26T16:39:24Z</dc:date>
+      <dc:date>2026-05-27T16:44:34Z</dc:date>
     </item>
     <item>
       <title>IME Auto-Switcher - Fri May 22 09:10:35 UTC 2026</title>
@@ -201,7 +214,7 @@ xmlId: com.github.imeswitcher</description>
       <dc:date>2026-05-22T09:10:35Z</dc:date>
     </item>
     <item>
-      <title>CodeAgent - Wed May 27 12:07:37 UTC 2026</title>
+      <title>CodeAgent - Wed May 27 13:55:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31927-codeagent</link>
       <description>CodeAgent is an AI-powered coding assistant plugin for JetBrains IDEs. AI Chat — Interactive chat panel with streaming responses, Markdown rendering, and syntax...
 
@@ -209,9 +222,9 @@ vendor: CodeAgent
 downloads: 1
 pricingModel: FREE
 xmlId: com.codeagent.idea</description>
-      <pubDate>Wed, 27 May 2026 12:07:37 GMT</pubDate>
+      <pubDate>Wed, 27 May 2026 13:55:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31927-codeagent</guid>
-      <dc:date>2026-05-27T12:07:37Z</dc:date>
+      <dc:date>2026-05-27T13:55:14Z</dc:date>
     </item>
     <item>
       <title>CodeQL Pro - Tue May 26 14:58:29 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: io.github.andriyo.proxycommander</description>
       <pubDate>Sat, 23 May 2026 07:09:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31909-proxycommander</guid>
       <dc:date>2026-05-23T07:09:12Z</dc:date>
-    </item>
-    <item>
-      <title>FastORM Builder - Wed May 27 11:35:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31955-fastorm-builder</link>
-      <description>FastORM Builder — The fastest way to go from database schema to production-ready ORM code. Powered by a fully embedded web UI (JCEF) — connections, settings, and...
-
-vendor: Gianpy
-downloads: 7
-pricingModel: FREE
-xmlId: org.fastormbuilder.plugin</description>
-      <pubDate>Wed, 27 May 2026 11:35:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31955-fastorm-builder</guid>
-      <dc:date>2026-05-27T11:35:50Z</dc:date>
     </item>
   </channel>
 </rss>
