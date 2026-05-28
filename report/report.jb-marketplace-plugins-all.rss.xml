@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Nox Language - Thu May 28 13:55:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32003-nox-language</link>
+      <description>Nox language support for IntelliJ IDEA. Powered by nox-lsp. Provides diagnostics, hover, completion, go-to-definition, find usages, rename, semantic highlighting...
+
+vendor: Nox Langauge Server
+downloads: 0
+pricingModel: FREE
+xmlId: nox-lang</description>
+      <pubDate>Thu, 28 May 2026 13:55:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32003-nox-language</guid>
+      <dc:date>2026-05-28T13:55:09Z</dc:date>
+    </item>
+    <item>
+      <title>YApi Doc Generator - Thu May 28 08:50:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31999-yapi-doc-generator</link>
+      <description>YApi Doc Generator Automatically parse and generate YApi API documentation from Spring MVC Controller classes and methods in IntelliJ IDEA. Features One-click...
+
+vendor: Cheney
+downloads: 0
+pricingModel: FREE
+xmlId: com.yapi.plugin</description>
+      <pubDate>Thu, 28 May 2026 08:50:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31999-yapi-doc-generator</guid>
+      <dc:date>2026-05-28T08:50:22Z</dc:date>
+    </item>
+    <item>
+      <title>Candela - LLM Cost Tracker - Tue May 26 01:05:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31960-candela--llm-cost-tracker</link>
+      <description>Real-time LLM cost tracking, budget warnings, and observability for Candela. Status bar widget — live token counts and spend Budget warnings — notifications when...
+
+vendor: CandelaHQ
+downloads: 1
+pricingModel: FREE
+xmlId: com.candelahq.candela</description>
+      <pubDate>Tue, 26 May 2026 01:05:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31960-candela--llm-cost-tracker</guid>
+      <dc:date>2026-05-26T01:05:53Z</dc:date>
+    </item>
+    <item>
+      <title>restful-checker - Thu May 28 12:33:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32002-restful-checker</link>
+      <description>Search and call Spring-style REST endpoints directly from IntelliJ IDEA.
+
+vendor: restful-checker
+downloads: 0
+pricingModel: FREE
+xmlId: com.ssetglow.restful-checker</description>
+      <pubDate>Thu, 28 May 2026 12:33:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32002-restful-checker</guid>
+      <dc:date>2026-05-28T12:33:57Z</dc:date>
+    </item>
+    <item>
+      <title>IOSP Analyzer - Wed May 27 15:59:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31988-iosp-analyzer</link>
+      <description>Highlights violations of the Integration Operation Segregation Principle (IOSP) in C# code. A method should either integrate (only call other methods) or operate (only...
+
+vendor: CCD Akademie GmbH
+downloads: 0
+pricingModel: FREE
+xmlId: de.ccdakademie.iospanalyzer</description>
+      <pubDate>Wed, 27 May 2026 15:59:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31988-iosp-analyzer</guid>
+      <dc:date>2026-05-27T15:59:52Z</dc:date>
+    </item>
+    <item>
+      <title>TSC AI Commit Tool - Thu May 28 12:38:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31998-tsc-ai-commit-tool</link>
+      <description>TSC AI Commit Tool is an AI-enhanced commit template generator for IntelliJ-based IDEs. It generates structured commit messages from git diff, fills the commit panel...
+
+vendor: TSC AI Commit Tool
+downloads: 0
+pricingModel: FREE
+xmlId: com.sensetime.commit.template.generator</description>
+      <pubDate>Thu, 28 May 2026 12:38:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31998-tsc-ai-commit-tool</guid>
+      <dc:date>2026-05-28T12:38:13Z</dc:date>
+    </item>
+    <item>
+      <title>Git Commit Auto - Thu May 28 06:40:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31997-git-commit-auto</link>
+      <description>Git Commit Auto - AI Commit Message Generator 中文介绍 Git Commit Auto — 打开 Commit 窗口后自动生成规范化的 AI commit 信息，无需手动操作。支持多 API 配置、自定义标签管理与中英双语。 核心功能： 自动生成 — 打开 Commit...
+
+vendor: zhanghl
+downloads: 0
+pricingModel: FREE
+xmlId: com.zhanghl.git-commit-auto</description>
+      <pubDate>Thu, 28 May 2026 06:40:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31997-git-commit-auto</guid>
+      <dc:date>2026-05-28T06:40:56Z</dc:date>
+    </item>
+    <item>
       <title>DevExpress Report Designer - Fri Dec 12 08:49:37 UTC 2025</title>
       <link>https://plugins.jetbrains.com/plugin/29147-devexpress-report-designer</link>
       <description>DevExpress Report Designer JetBrains Rider plugin allows licensed DevExpress customers to create, edit, and preview DevExpress Reports in JetBrains Rider. This...
@@ -173,97 +264,6 @@ xmlId: com.thunderclient.plugin</description>
       <pubDate>Wed, 27 May 2026 08:29:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31431-thunder-client</guid>
       <dc:date>2026-05-27T08:29:27Z</dc:date>
-    </item>
-    <item>
-      <title>DeltaRide - Tue May 26 16:14:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31972-deltaride</link>
-      <description>DeltaRide is a plugin for IDE that provides migration tools for .NET developers. DeltaRider can scan projects in the current Rider solution inspect project details...
-
-vendor: Denys Semko
-downloads: 2
-pricingModel: FREE
-xmlId: me.denyssemko.plugins.deltaride</description>
-      <pubDate>Tue, 26 May 2026 16:14:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31972-deltaride</guid>
-      <dc:date>2026-05-26T16:14:39Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Code Native - Wed May 27 08:36:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31965-claude-code-native</link>
-      <description>Native graphical Claude Code client for JetBrains IDEs. Drives the local claude binary over its stream-json protocol — no terminal required, no Node.js at runtime...
-
-vendor: Lain
-downloads: 222
-pricingModel: FREE
-xmlId: dev.lain.claude-code-for-jetbrains</description>
-      <pubDate>Wed, 27 May 2026 08:36:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31965-claude-code-native</guid>
-      <dc:date>2026-05-27T08:36:53Z</dc:date>
-    </item>
-    <item>
-      <title>Foldable Project View Ano - Thu May 28 06:00:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31951-foldable-project-view-ano</link>
-      <description>The Foldable Project View Ano is a plugin for the IntelliJ-based IDEs that lets you fold files located in the root of your project. This plugin is based on...
-
-vendor: zhangsan
-downloads: 23
-pricingModel: FREE
-xmlId: cc.chickcc.foldableprojectview</description>
-      <pubDate>Thu, 28 May 2026 06:00:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31951-foldable-project-view-ano</guid>
-      <dc:date>2026-05-28T06:00:08Z</dc:date>
-    </item>
-    <item>
-      <title>KoraSafe Governance - Wed May 20 23:47:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31881-korasafe-governance</link>
-      <description>KoraSafe Governance brings local AI governance checks into JetBrains IDEs for agent code, LLM usage, policy files, and cloud-check workflows. Scan project files for...
-
-vendor: KoraSafe
-downloads: 4
-pricingModel: FREE
-xmlId: ai.korasafe.jetbrains</description>
-      <pubDate>Wed, 20 May 2026 23:47:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31881-korasafe-governance</guid>
-      <dc:date>2026-05-20T23:47:42Z</dc:date>
-    </item>
-    <item>
-      <title>Ren'Py Language Support - Mon May 25 23:06:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31959-ren-py-language-support</link>
-      <description>Ren'Py language support for PyCharm / IntelliJ: Syntax highlighting for .rpy files Keyword autocompletion Navigation: Go to Declaration / Find Usages on labels...
-
-vendor: VersyLiones
-downloads: 4
-pricingModel: FREE
-xmlId: com.versyliones.renpy</description>
-      <pubDate>Mon, 25 May 2026 23:06:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31959-ren-py-language-support</guid>
-      <dc:date>2026-05-25T23:06:04Z</dc:date>
-    </item>
-    <item>
-      <title>i18n-Lookup - Tue May 26 23:13:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31973-i18n-lookup</link>
-      <description>i18n-Lookup shows your translations right where you use them. Hover over an i18n key such as t('key'), i18n.t('key'), $t('key'), translate('key') (or your own regex...
-
-vendor: Micf2f
-downloads: 25
-pricingModel: FREE
-xmlId: com.github.micf2f.i18nlookup</description>
-      <pubDate>Tue, 26 May 2026 23:13:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31973-i18n-lookup</guid>
-      <dc:date>2026-05-26T23:13:50Z</dc:date>
-    </item>
-    <item>
-      <title>UE Reflect Watch - Tue May 26 14:33:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31968-ue-reflect-watch</link>
-      <description>Stop manually closing and reopening Unreal Editor every time you add a UPROPERTY. UE Reflect Watch monitors your Unreal Engine C++ header files for reflection macro...
-
-vendor: Fredrik Wallander
-downloads: 1
-pricingModel: FREE
-xmlId: com.ueReflectWatch</description>
-      <pubDate>Tue, 26 May 2026 14:33:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31968-ue-reflect-watch</guid>
-      <dc:date>2026-05-26T14:33:34Z</dc:date>
     </item>
   </channel>
 </rss>
