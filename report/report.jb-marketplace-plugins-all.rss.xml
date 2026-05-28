@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CLion Integration for Zephyr Project - Thu May 28 09:10:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32000-clion-integration-for-zephyr-project</link>
+      <description>Provides a direct support for West (Zephyr’s meta-tool) in CLion IDE. CLion automatically recognizes the West project as a CMake project with additional features to...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.clion.west</description>
+      <pubDate>Thu, 28 May 2026 09:10:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32000-clion-integration-for-zephyr-project</guid>
+      <dc:date>2026-05-28T09:10:11Z</dc:date>
+    </item>
+    <item>
       <title>Nox Language - Thu May 28 13:55:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32003-nox-language</link>
       <description>Nox language support for IntelliJ IDEA. Powered by nox-lsp. Provides diagnostics, hover, completion, go-to-definition, find usages, rename, semantic highlighting...
@@ -251,19 +264,6 @@ xmlId: com.jetbrains.jseval</description>
       <pubDate>Thu, 28 May 2026 10:19:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31974-jseval</guid>
       <dc:date>2026-05-28T10:19:47Z</dc:date>
-    </item>
-    <item>
-      <title>Thunder Client - Wed May 27 08:29:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31431-thunder-client</link>
-      <description>Thunder Client (Beta) is a lightweight REST API client plugin for your IDE—no context switching required. It uses local storage and Git sync for seamless team...
-
-vendor: Thunder Client
-downloads: 51
-pricingModel: FREE
-xmlId: com.thunderclient.plugin</description>
-      <pubDate>Wed, 27 May 2026 08:29:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31431-thunder-client</guid>
-      <dc:date>2026-05-27T08:29:27Z</dc:date>
     </item>
   </channel>
 </rss>
