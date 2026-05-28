@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ColdFusion CFML - Wed May 27 03:27:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31977-coldfusion-cfml</link>
+      <description>Advanced support for ColdFusion files (.cfm, .cfc) with syntax highlighting, code completion, and language features.
+
+vendor: ColdFusion CFML
+downloads: 0
+pricingModel: FREE
+xmlId: com.intersoft.cfml</description>
+      <pubDate>Wed, 27 May 2026 03:27:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31977-coldfusion-cfml</guid>
+      <dc:date>2026-05-27T03:27:56Z</dc:date>
+    </item>
+    <item>
       <title>AI Terminal Tools - Wed May 27 10:52:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31986-ai-terminal-tools</link>
       <description>AI Terminal Tools enhances JetBrains IDE terminals and consoles with fast navigation, click-to-copy, AI terminal sending, OpenCode / Claude Code launch actions, and...
@@ -23,7 +36,7 @@ xmlId: io.github.q110.aiterminaltools</description>
       <link>https://plugins.jetbrains.com/plugin/31717-lingrui-aicoder</link>
       <description>AI Coding Assistant for JetBrains IDEs - LingRui AICoder. Provides an intelligent chat interface powered by OpenCode for code generation, explanation, refactoring and...
 
-vendor: aicoder-inspur
+vendor: lingrui-aicoder
 downloads: 1
 pricingModel: FREE
 xmlId: com.aicoder.jetbrains</description>
@@ -97,7 +110,7 @@ xmlId: com.openxt.uploadsshfile</description>
       <dc:date>2026-05-27T04:33:04Z</dc:date>
     </item>
     <item>
-      <title>Advanced Assembly - Tue May 26 14:14:05 UTC 2026</title>
+      <title>Advanced Assembly - Wed May 27 21:59:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31969-advanced-assembly</link>
       <description>First-class NASM and MIPS support for CLion Full editor intelligence, project generation, build pipeline, and a working cross-architecture debugger backed by QEMU...
 
@@ -105,9 +118,9 @@ vendor: Luca Perri
 downloads: 0
 pricingModel: FREE
 xmlId: me.lucaperri.dev.languages</description>
-      <pubDate>Tue, 26 May 2026 14:14:05 GMT</pubDate>
+      <pubDate>Wed, 27 May 2026 21:59:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31969-advanced-assembly</guid>
-      <dc:date>2026-05-26T14:14:05Z</dc:date>
+      <dc:date>2026-05-27T21:59:08Z</dc:date>
     </item>
     <item>
       <title>TermGrid AiOne - Wed May 27 09:39:00 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.composepreviewpro</description>
       <pubDate>Tue, 26 May 2026 18:32:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31976-compose-preview-pro</guid>
       <dc:date>2026-05-26T18:32:46Z</dc:date>
-    </item>
-    <item>
-      <title>projspec - Tue May 26 18:05:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31975-projspec</link>
-      <description>PyCharm integration for the projspec CLI tool. Browse your Project Library in a dedicated sidebar tool windowAdd, Rescan and Remove directories from the libraryCreate...
-
-vendor: Martin Durant
-downloads: 1
-pricingModel: FREE
-xmlId: com.projspec</description>
-      <pubDate>Tue, 26 May 2026 18:05:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31975-projspec</guid>
-      <dc:date>2026-05-26T18:05:16Z</dc:date>
     </item>
   </channel>
 </rss>
