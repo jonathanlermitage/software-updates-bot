@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>alint - Thu May 28 18:01:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31995-alint</link>
+      <description>In-editor diagnostics, hover-to-explain, and quick-fixes for alint — the language-agnostic linter for repository structure, file existence, filename conventions, and...
+
+vendor: alint
+downloads: 0
+pricingModel: FREE
+xmlId: org.alint.lsp</description>
+      <pubDate>Thu, 28 May 2026 18:01:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31995-alint</guid>
+      <dc:date>2026-05-28T18:01:21Z</dc:date>
+    </item>
+    <item>
+      <title>Mojo Pro - Thu May 28 09:36:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31943-mojo-pro</link>
+      <description>Mojo Pro is an IntelliJ Platform language plugin for Mojo. Compatibility requirement: Mojo Pro only works with Mojo 1.0.0b1 and newer. Projects using Mojo 1.0.0b0...
+
+vendor: Jetplugins
+downloads: 1
+pricingModel: PAID
+xmlId: dev.jetplugins.mojo</description>
+      <pubDate>Thu, 28 May 2026 09:36:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31943-mojo-pro</guid>
+      <dc:date>2026-05-28T09:36:17Z</dc:date>
+    </item>
+    <item>
+      <title>Stan Language Support - Thu May 28 18:11:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32004-stan-language-support</link>
+      <description>Syntax highlighting support for the Stan statistical modeling language. Stan is a probabilistic programming language for Bayesian statistical inference, full Bayesian...
+
+vendor: Jáchym Barvínek
+downloads: 0
+pricingModel: FREE
+xmlId: org.mc-stan.stan</description>
+      <pubDate>Thu, 28 May 2026 18:11:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32004-stan-language-support</guid>
+      <dc:date>2026-05-28T18:11:54Z</dc:date>
+    </item>
+    <item>
+      <title>Firebase App Distribution Uploader - Wed May 27 18:57:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31992-firebase-app-distribution-uploader</link>
+      <description>Firebase App Distribution Uploader Upload Android release builds directly to Firebase App Distribution from Android Studio. Features Upload APK or AAB to Firebase App...
+
+vendor: Naimish Trivedi
+downloads: 0
+pricingModel: FREE
+xmlId: com.naimish.firebaseupload</description>
+      <pubDate>Wed, 27 May 2026 18:57:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31992-firebase-app-distribution-uploader</guid>
+      <dc:date>2026-05-27T18:57:05Z</dc:date>
+    </item>
+    <item>
+      <title>KrashMe - Wed May 20 19:32:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31811-krashme</link>
+      <description>KrashMe makes debugging fun by playing funny sounds whenever your code crashes or an execution fails. Features: Plays funny sounds on unhandled exceptions and non-zero...
+
+vendor: KrashMe
+downloads: 2
+pricingModel: FREE
+xmlId: com.sbk.krashme</description>
+      <pubDate>Wed, 20 May 2026 19:32:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31811-krashme</guid>
+      <dc:date>2026-05-20T19:32:24Z</dc:date>
+    </item>
+    <item>
       <title>CLion Integration for Zephyr Project - Thu May 28 09:10:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32000-clion-integration-for-zephyr-project</link>
       <description>Provides a direct support for West (Zephyr’s meta-tool) in CLion IDE. CLion automatically recognizes the West project as a CMake project with additional features to...
@@ -199,71 +264,6 @@ xmlId: com.github.pablolec.play1toolkit</description>
       <pubDate>Wed, 27 May 2026 12:14:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31987-play-v1-toolkit</guid>
       <dc:date>2026-05-27T12:14:43Z</dc:date>
-    </item>
-    <item>
-      <title>Koog Strategy Graph - Wed May 27 13:00:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31989-koog-strategy-graph</link>
-      <description>Visualization for Koog agent strategy { ... } DSL blocks. A gutter icon next to every recognized strategy(...) call loads a layered graph of all val x by nodeXxx...
-
-vendor: Jacek Gajek
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.jacekgajek.koog-strategy-graph</description>
-      <pubDate>Wed, 27 May 2026 13:00:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31989-koog-strategy-graph</guid>
-      <dc:date>2026-05-27T13:00:45Z</dc:date>
-    </item>
-    <item>
-      <title>Upload SSH File - Wed May 27 04:33:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31978-upload-ssh-file</link>
-      <description>Upload files via SSH plugin for IntelliJ IDEA.
-
-vendor: openxt
-downloads: 1
-pricingModel: FREE
-xmlId: com.openxt.uploadsshfile</description>
-      <pubDate>Wed, 27 May 2026 04:33:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31978-upload-ssh-file</guid>
-      <dc:date>2026-05-27T04:33:04Z</dc:date>
-    </item>
-    <item>
-      <title>Advanced Assembly - Wed May 27 21:59:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31969-advanced-assembly</link>
-      <description>First-class NASM and MIPS support for CLion Full editor intelligence, project generation, build pipeline, and a working cross-architecture debugger backed by QEMU...
-
-vendor: Luca Perri
-downloads: 4
-pricingModel: FREE
-xmlId: me.lucaperri.dev.languages</description>
-      <pubDate>Wed, 27 May 2026 21:59:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31969-advanced-assembly</guid>
-      <dc:date>2026-05-27T21:59:08Z</dc:date>
-    </item>
-    <item>
-      <title>TermGrid AiOne - Wed May 27 09:39:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31980-termgrid-aione</link>
-      <description>Batch manage multiple terminals in a grid layout with support for merging cells, theme customization, and multi-language interface. Batch manage multiple terminals in...
-
-vendor: AiOne
-downloads: 1
-pricingModel: FREE
-xmlId: org.aione.termgrid</description>
-      <pubDate>Wed, 27 May 2026 09:39:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31980-termgrid-aione</guid>
-      <dc:date>2026-05-27T09:39:00Z</dc:date>
-    </item>
-    <item>
-      <title>JSEval - Thu May 28 10:19:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31974-jseval</link>
-      <description>JSEval lets you inspect the evaluation results of your JavaScript and TypeScript code directly at the position they appear in the editor - no console switching needed...
-
-vendor: JetBrains Experimental
-downloads: 13
-pricingModel: FREE
-xmlId: com.jetbrains.jseval</description>
-      <pubDate>Thu, 28 May 2026 10:19:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31974-jseval</guid>
-      <dc:date>2026-05-28T10:19:47Z</dc:date>
     </item>
   </channel>
 </rss>
