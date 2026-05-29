@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Web Browser Panel - Thu May 28 23:44:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32005-web-browser-panel</link>
+      <description>Web Browser Panel embeds a Chromium-based web browser (the IDE's bundled JCEF runtime) directly in a tool window, so you can preview a local web dev server right next...
+
+vendor: Dervis Mansuroglu
+downloads: 0
+pricingModel: FREE
+xmlId: no.dervis.webbrowser</description>
+      <pubDate>Thu, 28 May 2026 23:44:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32005-web-browser-panel</guid>
+      <dc:date>2026-05-28T23:44:46Z</dc:date>
+    </item>
+    <item>
+      <title>Code Context Memo - Fri May 29 03:14:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32007-code-context-memo</link>
+      <description>Code Context Memo collects selected code snippets, file locations, and task notes into a project-level memo that can be copied to a coding agent. What it does Adds a...
+
+vendor: AaronOhO
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.aaronoho.code-context-memo</description>
+      <pubDate>Fri, 29 May 2026 03:14:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32007-code-context-memo</guid>
+      <dc:date>2026-05-29T03:14:03Z</dc:date>
+    </item>
+    <item>
+      <title>Recent Project Cleaner - Fri May 29 08:59:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32008-recent-project-cleaner</link>
+      <description>Recent Project Cleaner removes missing recent projects from the Welcome screen. Features Adds a Clear Invalid Projects action to the Welcome screen project area.Shows...
+
+vendor: zjarlin
+downloads: 0
+pricingModel: FREE
+xmlId: site.addzero.recent-project-cleaner</description>
+      <pubDate>Fri, 29 May 2026 08:59:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32008-recent-project-cleaner</guid>
+      <dc:date>2026-05-29T08:59:50Z</dc:date>
+    </item>
+    <item>
+      <title>GitLab Pipeline Watcher - Fri May 29 12:49:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32009-gitlab-pipeline-watcher</link>
+      <description>Watches GitLab CI pipelines for the current project, reusing the authentication configured in the official JetBrains GitLab plugin (works with self-hosted GitLab too...
+
+vendor: Daniel Amaro
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.danielalejandroamaro.gitlabpipeline</description>
+      <pubDate>Fri, 29 May 2026 12:49:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32009-gitlab-pipeline-watcher</guid>
+      <dc:date>2026-05-29T12:49:56Z</dc:date>
+    </item>
+    <item>
+      <title>Merge CLI Fixer - Fri May 29 07:07:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32006-merge-cli-fixer</link>
+      <description>Adds the idea mergex CLI command — a blocking, git-mergetool-friendly variant of idea merge. Waits until the merge dialog is closed before returning (suitable for use...
+
+vendor: chikach
+downloads: 0
+pricingModel: FREE
+xmlId: net.chikach.mergex</description>
+      <pubDate>Fri, 29 May 2026 07:07:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32006-merge-cli-fixer</guid>
+      <dc:date>2026-05-29T07:07:28Z</dc:date>
+    </item>
+    <item>
       <title>dracula-qngson Color Scheme - Tue May 26 11:58:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31966-dracula-qngson-color-scheme</link>
       <description>Forked from Dracula, private theme that matches JetBrains Island Dark theme.
@@ -45,7 +110,7 @@ xmlId: dev.jetplugins.mojo</description>
       <dc:date>2026-05-28T09:36:17Z</dc:date>
     </item>
     <item>
-      <title>Stan Language Support - Thu May 28 18:11:54 UTC 2026</title>
+      <title>Stan Language Support - Fri May 29 14:54:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32004-stan-language-support</link>
       <description>Syntax highlighting support for the Stan statistical modeling language. Stan is a probabilistic programming language for Bayesian statistical inference, full Bayesian...
 
@@ -53,9 +118,9 @@ vendor: Jáchym Barvínek
 downloads: 0
 pricingModel: FREE
 xmlId: org.mc-stan.stan</description>
-      <pubDate>Thu, 28 May 2026 18:11:54 GMT</pubDate>
+      <pubDate>Fri, 29 May 2026 14:54:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32004-stan-language-support</guid>
-      <dc:date>2026-05-28T18:11:54Z</dc:date>
+      <dc:date>2026-05-29T14:54:45Z</dc:date>
     </item>
     <item>
       <title>Firebase App Distribution Uploader - Wed May 27 18:57:05 UTC 2026</title>
@@ -199,71 +264,6 @@ xmlId: com.devexpress.reportdesigner</description>
       <pubDate>Fri, 12 Dec 2025 08:49:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/29147-devexpress-report-designer</guid>
       <dc:date>2025-12-12T08:49:37Z</dc:date>
-    </item>
-    <item>
-      <title>ColdFusion CFML - Wed May 27 03:27:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31977-coldfusion-cfml</link>
-      <description>Advanced support for ColdFusion files (.cfm, .cfc) with syntax highlighting, code completion, and language features.
-
-vendor: ColdFusion CFML
-downloads: 9
-pricingModel: FREE
-xmlId: com.intersoft.cfml</description>
-      <pubDate>Wed, 27 May 2026 03:27:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31977-coldfusion-cfml</guid>
-      <dc:date>2026-05-27T03:27:56Z</dc:date>
-    </item>
-    <item>
-      <title>AI Terminal Tools - Fri May 29 03:00:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31986-ai-terminal-tools</link>
-      <description>AI Terminal Tools enhances JetBrains IDE terminals and consoles with fast navigation, click-to-copy, AI terminal sending, OpenCode / Claude Code launch actions, and...
-
-vendor: zibo
-downloads: 13
-pricingModel: FREE
-xmlId: io.github.q110.aiterminaltools</description>
-      <pubDate>Fri, 29 May 2026 03:00:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31986-ai-terminal-tools</guid>
-      <dc:date>2026-05-29T03:00:38Z</dc:date>
-    </item>
-    <item>
-      <title>LingRui AICoder - Thu May 28 10:28:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31717-lingrui-aicoder</link>
-      <description>AI Coding Assistant for JetBrains IDEs - LingRui AICoder. Provides an intelligent chat interface powered by OpenCode for code generation, explanation, refactoring and...
-
-vendor: lingrui-aicoder
-downloads: 36
-pricingModel: FREE
-xmlId: com.aicoder.jetbrains</description>
-      <pubDate>Thu, 28 May 2026 10:28:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31717-lingrui-aicoder</guid>
-      <dc:date>2026-05-28T10:28:07Z</dc:date>
-    </item>
-    <item>
-      <title>AICommit-Moran - Wed May 27 01:23:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31884-aicommit-moran</link>
-      <description>AICommit-Moran AICommit-Moran helps generate high-quality commit messages directly inside IntelliJ IDEA. It reads your current Git changes and calls an...
-
-vendor: RanMoAnRan
-downloads: 8
-pricingModel: FREE
-xmlId: com.moran.aicommit</description>
-      <pubDate>Wed, 27 May 2026 01:23:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31884-aicommit-moran</guid>
-      <dc:date>2026-05-27T01:23:10Z</dc:date>
-    </item>
-    <item>
-      <title>Restful Path Copier - Wed May 27 08:36:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31981-restful-path-copier</link>
-      <description>Copy full Spring controller request paths from gutter icons.
-
-vendor: DanielZ
-downloads: 4
-pricingModel: FREE
-xmlId: com.restfulpath.plugin</description>
-      <pubDate>Wed, 27 May 2026 08:36:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31981-restful-path-copier</guid>
-      <dc:date>2026-05-27T08:36:10Z</dc:date>
     </item>
   </channel>
 </rss>
