@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>dracula-qngson Color Scheme - Tue May 26 11:58:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31966-dracula-qngson-color-scheme</link>
+      <description>Forked from Dracula, private theme that matches JetBrains Island Dark theme.
+
+vendor: Pendleton Pham
+downloads: 1
+pricingModel: FREE
+xmlId: color.scheme.dracula-qngson</description>
+      <pubDate>Tue, 26 May 2026 11:58:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31966-dracula-qngson-color-scheme</guid>
+      <dc:date>2026-05-26T11:58:02Z</dc:date>
+    </item>
+    <item>
       <title>alint - Thu May 28 18:01:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31995-alint</link>
       <description>In-editor diagnostics, hover-to-explain, and quick-fixes for alint — the language-agnostic linter for repository structure, file existence, filename conventions, and...
 
 vendor: alint
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: org.alint.lsp</description>
       <pubDate>Thu, 28 May 2026 18:01:21 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: org.alint.lsp</description>
       <description>Mojo Pro is an IntelliJ Platform language plugin for Mojo. Compatibility requirement: Mojo Pro only works with Mojo 1.0.0b1 and newer. Projects using Mojo 1.0.0b0...
 
 vendor: Jetplugins
-downloads: 1
+downloads: 2
 pricingModel: PAID
 xmlId: dev.jetplugins.mojo</description>
       <pubDate>Thu, 28 May 2026 09:36:17 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: org.mc-stan.stan</description>
       <description>Firebase App Distribution Uploader Upload Android release builds directly to Firebase App Distribution from Android Studio. Features Upload APK or AAB to Firebase App...
 
 vendor: Naimish Trivedi
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.naimish.firebaseupload</description>
       <pubDate>Wed, 27 May 2026 18:57:05 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.naimish.firebaseupload</description>
       <description>KrashMe makes debugging fun by playing funny sounds whenever your code crashes or an execution fails. Features: Plays funny sounds on unhandled exceptions and non-zero...
 
 vendor: KrashMe
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.sbk.krashme</description>
       <pubDate>Wed, 20 May 2026 19:32:24 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.sbk.krashme</description>
       <description>Provides a direct support for West (Zephyr’s meta-tool) in CLion IDE. CLion automatically recognizes the West project as a CMake project with additional features to...
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.intellij.clion.west</description>
       <pubDate>Thu, 28 May 2026 09:10:11 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.intellij.clion.west</description>
       <description>Nox language support for IntelliJ IDEA. Powered by nox-lsp. Provides diagnostics, hover, completion, go-to-definition, find usages, rename, semantic highlighting...
 
 vendor: Nox Langauge Server
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: nox-lang</description>
       <pubDate>Thu, 28 May 2026 13:55:09 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: nox-lang</description>
       <description>YApi Doc Generator Automatically parse and generate YApi API documentation from Spring MVC Controller classes and methods in IntelliJ IDEA. Features One-click...
 
 vendor: Cheney
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.yapi.plugin</description>
       <pubDate>Thu, 28 May 2026 08:50:22 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.yapi.plugin</description>
       <description>Real-time LLM cost tracking, budget warnings, and observability for Candela. Status bar widget — live token counts and spend Budget warnings — notifications when...
 
 vendor: CandelaHQ
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.candelahq.candela</description>
       <pubDate>Tue, 26 May 2026 01:05:53 GMT</pubDate>
@@ -123,17 +136,17 @@ xmlId: com.candelahq.candela</description>
       <dc:date>2026-05-26T01:05:53Z</dc:date>
     </item>
     <item>
-      <title>restful-checker - Thu May 28 12:33:57 UTC 2026</title>
+      <title>restful-checker - Fri May 29 03:05:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32002-restful-checker</link>
       <description>Search and call Spring-style REST endpoints directly from IntelliJ IDEA.
 
 vendor: restful-checker
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.ssetglow.restful-checker</description>
-      <pubDate>Thu, 28 May 2026 12:33:57 GMT</pubDate>
+      <pubDate>Fri, 29 May 2026 03:05:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32002-restful-checker</guid>
-      <dc:date>2026-05-28T12:33:57Z</dc:date>
+      <dc:date>2026-05-29T03:05:52Z</dc:date>
     </item>
     <item>
       <title>IOSP Analyzer - Wed May 27 15:59:52 UTC 2026</title>
@@ -141,7 +154,7 @@ xmlId: com.ssetglow.restful-checker</description>
       <description>Highlights violations of the Integration Operation Segregation Principle (IOSP) in C# code. A method should either integrate (only call other methods) or operate (only...
 
 vendor: CCD Akademie GmbH
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: de.ccdakademie.iospanalyzer</description>
       <pubDate>Wed, 27 May 2026 15:59:52 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: de.ccdakademie.iospanalyzer</description>
       <description>TSC AI Commit Tool is an AI-enhanced commit template generator for IntelliJ-based IDEs. It generates structured commit messages from git diff, fills the commit panel...
 
 vendor: TSC AI Commit Tool
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.sensetime.commit.template.generator</description>
       <pubDate>Thu, 28 May 2026 12:38:13 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: com.sensetime.commit.template.generator</description>
       <description>Git Commit Auto - AI Commit Message Generator 中文介绍 Git Commit Auto — 打开 Commit 窗口后自动生成规范化的 AI commit 信息，无需手动操作。支持多 API 配置、自定义标签管理与中英双语。 核心功能： 自动生成 — 打开 Commit...
 
 vendor: zhanghl
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.zhanghl.git-commit-auto</description>
       <pubDate>Thu, 28 May 2026 06:40:56 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.zhanghl.git-commit-auto</description>
       <description>DevExpress Report Designer JetBrains Rider plugin allows licensed DevExpress customers to create, edit, and preview DevExpress Reports in JetBrains Rider. This...
 
 vendor: DevExpress
-downloads: 32
+downloads: 34
 pricingModel: FREE
 xmlId: com.devexpress.reportdesigner</description>
       <pubDate>Fri, 12 Dec 2025 08:49:37 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.devexpress.reportdesigner</description>
       <description>Advanced support for ColdFusion files (.cfm, .cfc) with syntax highlighting, code completion, and language features.
 
 vendor: ColdFusion CFML
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: com.intersoft.cfml</description>
       <pubDate>Wed, 27 May 2026 03:27:56 GMT</pubDate>
@@ -201,17 +214,17 @@ xmlId: com.intersoft.cfml</description>
       <dc:date>2026-05-27T03:27:56Z</dc:date>
     </item>
     <item>
-      <title>AI Terminal Tools - Wed May 27 10:52:02 UTC 2026</title>
+      <title>AI Terminal Tools - Fri May 29 03:00:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31986-ai-terminal-tools</link>
       <description>AI Terminal Tools enhances JetBrains IDE terminals and consoles with fast navigation, click-to-copy, AI terminal sending, OpenCode / Claude Code launch actions, and...
 
 vendor: zibo
-downloads: 4
+downloads: 13
 pricingModel: FREE
 xmlId: io.github.q110.aiterminaltools</description>
-      <pubDate>Wed, 27 May 2026 10:52:02 GMT</pubDate>
+      <pubDate>Fri, 29 May 2026 03:00:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31986-ai-terminal-tools</guid>
-      <dc:date>2026-05-27T10:52:02Z</dc:date>
+      <dc:date>2026-05-29T03:00:38Z</dc:date>
     </item>
     <item>
       <title>LingRui AICoder - Thu May 28 10:28:07 UTC 2026</title>
@@ -219,7 +232,7 @@ xmlId: io.github.q110.aiterminaltools</description>
       <description>AI Coding Assistant for JetBrains IDEs - LingRui AICoder. Provides an intelligent chat interface powered by OpenCode for code generation, explanation, refactoring and...
 
 vendor: lingrui-aicoder
-downloads: 4
+downloads: 36
 pricingModel: FREE
 xmlId: com.aicoder.jetbrains</description>
       <pubDate>Thu, 28 May 2026 10:28:07 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.aicoder.jetbrains</description>
       <description>AICommit-Moran AICommit-Moran helps generate high-quality commit messages directly inside IntelliJ IDEA. It reads your current Git changes and calls an...
 
 vendor: RanMoAnRan
-downloads: 5
+downloads: 8
 pricingModel: FREE
 xmlId: com.moran.aicommit</description>
       <pubDate>Wed, 27 May 2026 01:23:10 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.moran.aicommit</description>
       <description>Copy full Spring controller request paths from gutter icons.
 
 vendor: DanielZ
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.restfulpath.plugin</description>
       <pubDate>Wed, 27 May 2026 08:36:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31981-restful-path-copier</guid>
       <dc:date>2026-05-27T08:36:10Z</dc:date>
-    </item>
-    <item>
-      <title>Play v1 Toolkit - Wed May 27 12:14:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31987-play-v1-toolkit</link>
-      <description>Modern IntelliJ IDEA support for legacy Play Framework 1.x applications. Play v1 Toolkit helps IntelliJ understand the parts of a Play 1 application that usually...
-
-vendor: PabLec
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.pablolec.play1toolkit</description>
-      <pubDate>Wed, 27 May 2026 12:14:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31987-play-v1-toolkit</guid>
-      <dc:date>2026-05-27T12:14:43Z</dc:date>
     </item>
   </channel>
 </rss>
