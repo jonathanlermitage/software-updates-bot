@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Tica Dungeon Progress Bar - Sat Apr 25 08:45:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31441-tica-dungeon-progress-bar</link>
+      <description>Tica Dungeon Progress Bar Replace Rider's progress bars with a pixel-art dungeon-crawler animation starring Tica the orca warrior. Indexing, building, plugin updates...
+
+vendor: Allen Huang
+downloads: 3
+pricingModel: FREE
+xmlId: com.allen.dungeonprogress</description>
+      <pubDate>Sat, 25 Apr 2026 08:45:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31441-tica-dungeon-progress-bar</guid>
+      <dc:date>2026-04-25T08:45:56Z</dc:date>
+    </item>
+    <item>
       <title>Converse - Fri May 22 21:34:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31796-converse</link>
       <description>Run multiple AI agent sessions side-by-side inside IntelliJ with persistent conversation history, real-time streaming, and deep IDE integration.
@@ -128,7 +141,7 @@ xmlId: org.alint.lsp</description>
       <description>Mojo Pro is an IntelliJ Platform language plugin for Mojo. Compatibility requirement: Mojo Pro only works with Mojo 1.0.0b1 and newer. Projects using Mojo 1.0.0b0...
 
 vendor: Jetplugins
-downloads: 2
+downloads: 14
 pricingModel: PAID
 xmlId: dev.jetplugins.mojo</description>
       <pubDate>Thu, 28 May 2026 09:36:17 GMT</pubDate>
@@ -251,19 +264,6 @@ xmlId: de.ccdakademie.iospanalyzer</description>
       <pubDate>Wed, 27 May 2026 15:59:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31988-iosp-analyzer</guid>
       <dc:date>2026-05-27T15:59:52Z</dc:date>
-    </item>
-    <item>
-      <title>TSC AI Commit Tool - Thu May 28 12:38:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31998-tsc-ai-commit-tool</link>
-      <description>TSC AI Commit Tool is an AI-enhanced commit template generator for IntelliJ-based IDEs. It generates structured commit messages from git diff, fills the commit panel...
-
-vendor: TSC AI Commit Tool
-downloads: 20
-pricingModel: FREE
-xmlId: com.sensetime.commit.template.generator</description>
-      <pubDate>Thu, 28 May 2026 12:38:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31998-tsc-ai-commit-tool</guid>
-      <dc:date>2026-05-28T12:38:13Z</dc:date>
     </item>
   </channel>
 </rss>
