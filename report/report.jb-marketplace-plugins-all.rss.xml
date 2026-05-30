@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Converse - Fri May 22 21:34:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31796-converse</link>
+      <description>Run multiple AI agent sessions side-by-side inside IntelliJ with persistent conversation history, real-time streaming, and deep IDE integration.
+
+vendor: 2 Small Cats LLC
+downloads: 9
+pricingModel: FREE
+xmlId: technology.futureflow.converse</description>
+      <pubDate>Fri, 22 May 2026 21:34:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31796-converse</guid>
+      <dc:date>2026-05-22T21:34:17Z</dc:date>
+    </item>
+    <item>
       <title>Jeffrey Microscope - Wed May 27 19:04:42 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31963-jeffrey-microscope</link>
       <description>Jump from a JFR flame graph straight to your code. Jeffrey Microscope is the companion IDE plugin for Jeffrey, a tool for analyzing Java Flight Recorder (JFR...
 
 vendor: Petr Bouda
-downloads: 3
+downloads: 4
 pricingModel: FREE
 xmlId: cafe.jeffrey.ide.plugin.idea</description>
       <pubDate>Wed, 27 May 2026 19:04:42 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: no.dervis.webbrowser</description>
       <description>Code Context Memo collects selected code snippets, file locations, and task notes into a project-level memo that can be copied to a coding agent. What it does Adds a...
 
 vendor: AaronOhO
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.aaronoho.code-context-memo</description>
       <pubDate>Fri, 29 May 2026 03:14:03 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.github.aaronoho.code-context-memo</description>
       <description>Recent Project Cleaner removes missing recent projects from the Welcome screen. Features Adds a Clear Invalid Projects action to the Welcome screen project area.Shows...
 
 vendor: zjarlin
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: site.addzero.recent-project-cleaner</description>
       <pubDate>Fri, 29 May 2026 08:59:50 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: site.addzero.recent-project-cleaner</description>
       <description>Watches GitLab CI pipelines for the current project, reusing the authentication configured in the official JetBrains GitLab plugin (works with self-hosted GitLab too...
 
 vendor: Daniel Amaro
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.danielalejandroamaro.gitlabpipeline</description>
       <pubDate>Fri, 29 May 2026 12:49:56 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: net.chikach.mergex</description>
       <description>Forked from Dracula, private theme that matches JetBrains Island Dark theme.
 
 vendor: Pendleton Pham
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: color.scheme.dracula-qngson</description>
       <pubDate>Tue, 26 May 2026 11:58:02 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: color.scheme.dracula-qngson</description>
       <description>In-editor diagnostics, hover-to-explain, and quick-fixes for alint — the language-agnostic linter for repository structure, file existence, filename conventions, and...
 
 vendor: alint
-downloads: 5
+downloads: 12
 pricingModel: FREE
 xmlId: org.alint.lsp</description>
       <pubDate>Thu, 28 May 2026 18:01:21 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: dev.jetplugins.mojo</description>
       <description>Syntax highlighting support for the Stan statistical modeling language. Stan is a probabilistic programming language for Bayesian statistical inference, full Bayesian...
 
 vendor: Jáchym Barvínek
-downloads: 0
+downloads: 22
 pricingModel: FREE
 xmlId: org.mc-stan.stan</description>
       <pubDate>Fri, 29 May 2026 14:54:45 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: org.mc-stan.stan</description>
       <description>Firebase App Distribution Uploader Upload Android release builds directly to Firebase App Distribution from Android Studio. Features Upload APK or AAB to Firebase App...
 
 vendor: Naimish Trivedi
-downloads: 1
+downloads: 14
 pricingModel: FREE
 xmlId: com.naimish.firebaseupload</description>
       <pubDate>Wed, 27 May 2026 18:57:05 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: com.naimish.firebaseupload</description>
       <description>KrashMe makes debugging fun by playing funny sounds whenever your code crashes or an execution fails. Features: Plays funny sounds on unhandled exceptions and non-zero...
 
 vendor: KrashMe
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: com.sbk.krashme</description>
       <pubDate>Wed, 20 May 2026 19:32:24 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: com.sbk.krashme</description>
       <description>Provides a direct support for West (Zephyr’s meta-tool) in CLion IDE. CLion automatically recognizes the West project as a CMake project with additional features to...
 
 vendor: JetBrains s.r.o.
-downloads: 1
+downloads: 12
 pricingModel: FREE
 xmlId: com.intellij.clion.west</description>
       <pubDate>Thu, 28 May 2026 09:10:11 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.intellij.clion.west</description>
       <description>Nox language support for IntelliJ IDEA. Powered by nox-lsp. Provides diagnostics, hover, completion, go-to-definition, find usages, rename, semantic highlighting...
 
 vendor: Nox Langauge Server
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: nox-lang</description>
       <pubDate>Thu, 28 May 2026 13:55:09 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: nox-lang</description>
       <description>YApi Doc Generator Automatically parse and generate YApi API documentation from Spring MVC Controller classes and methods in IntelliJ IDEA. Features One-click...
 
 vendor: Cheney
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.yapi.plugin</description>
       <pubDate>Thu, 28 May 2026 08:50:22 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.yapi.plugin</description>
       <description>Real-time LLM cost tracking, budget warnings, and observability for Candela. Status bar widget — live token counts and spend Budget warnings — notifications when...
 
 vendor: CandelaHQ
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: com.candelahq.candela</description>
       <pubDate>Tue, 26 May 2026 01:05:53 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.candelahq.candela</description>
       <description>Search and call Spring-style REST endpoints directly from IntelliJ IDEA.
 
 vendor: restful-checker
-downloads: 2
+downloads: 23
 pricingModel: FREE
 xmlId: com.ssetglow.restful-checker</description>
       <pubDate>Fri, 29 May 2026 06:32:43 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.ssetglow.restful-checker</description>
       <description>Highlights violations of the Integration Operation Segregation Principle (IOSP) in C# code. A method should either integrate (only call other methods) or operate (only...
 
 vendor: CCD Akademie GmbH
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: de.ccdakademie.iospanalyzer</description>
       <pubDate>Wed, 27 May 2026 15:59:52 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: de.ccdakademie.iospanalyzer</description>
       <description>TSC AI Commit Tool is an AI-enhanced commit template generator for IntelliJ-based IDEs. It generates structured commit messages from git diff, fills the commit panel...
 
 vendor: TSC AI Commit Tool
-downloads: 1
+downloads: 20
 pricingModel: FREE
 xmlId: com.sensetime.commit.template.generator</description>
       <pubDate>Thu, 28 May 2026 12:38:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31998-tsc-ai-commit-tool</guid>
       <dc:date>2026-05-28T12:38:13Z</dc:date>
-    </item>
-    <item>
-      <title>Git Commit Auto - Thu May 28 06:40:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31997-git-commit-auto</link>
-      <description>Git Commit Auto - AI Commit Message Generator 中文介绍 Git Commit Auto — 打开 Commit 窗口后自动生成规范化的 AI commit 信息，无需手动操作。支持多 API 配置、自定义标签管理与中英双语。 核心功能： 自动生成 — 打开 Commit...
-
-vendor: zhanghl
-downloads: 1
-pricingModel: FREE
-xmlId: com.zhanghl.git-commit-auto</description>
-      <pubDate>Thu, 28 May 2026 06:40:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31997-git-commit-auto</guid>
-      <dc:date>2026-05-28T06:40:56Z</dc:date>
     </item>
   </channel>
 </rss>
