@@ -24,7 +24,7 @@ xmlId: com.allen.dungeonprogress</description>
       <description>Run multiple AI agent sessions side-by-side inside IntelliJ with persistent conversation history, real-time streaming, and deep IDE integration.
 
 vendor: 2 Small Cats LLC
-downloads: 9
+downloads: 14
 pricingModel: FREE
 xmlId: technology.futureflow.converse</description>
       <pubDate>Fri, 22 May 2026 21:34:17 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: technology.futureflow.converse</description>
       <description>Jump from a JFR flame graph straight to your code. Jeffrey Microscope is the companion IDE plugin for Jeffrey, a tool for analyzing Java Flight Recorder (JFR...
 
 vendor: Petr Bouda
-downloads: 4
+downloads: 15
 pricingModel: FREE
 xmlId: cafe.jeffrey.ide.plugin.idea</description>
       <pubDate>Sat, 30 May 2026 19:59:45 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: cafe.jeffrey.ide.plugin.idea</description>
       <description>Web Browser Panel embeds a Chromium-based web browser (the IDE's bundled JCEF runtime) directly in a tool window, so you can preview a local web dev server right next...
 
 vendor: Dervis Mansuroglu
-downloads: 0
+downloads: 58
 pricingModel: FREE
 xmlId: no.dervis.webbrowser</description>
       <pubDate>Sat, 30 May 2026 17:46:00 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: no.dervis.webbrowser</description>
       <description>Code Context Memo collects selected code snippets, file locations, and task notes into a project-level memo that can be copied to a coding agent. What it does Adds a...
 
 vendor: AaronOhO
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.aaronoho.code-context-memo</description>
       <pubDate>Fri, 29 May 2026 03:14:03 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.github.aaronoho.code-context-memo</description>
       <description>Recent Project Cleaner removes missing recent projects from the Welcome screen. Features Adds a Clear Invalid Projects action to the Welcome screen project area.Shows...
 
 vendor: zjarlin
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: site.addzero.recent-project-cleaner</description>
       <pubDate>Fri, 29 May 2026 08:59:50 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: site.addzero.recent-project-cleaner</description>
       <description>Watches GitLab CI pipelines for the current project, reusing the authentication configured in the official JetBrains GitLab plugin (works with self-hosted GitLab too...
 
 vendor: Daniel Amaro
-downloads: 4
+downloads: 11
 pricingModel: FREE
 xmlId: com.github.danielalejandroamaro.gitlabpipeline</description>
       <pubDate>Fri, 29 May 2026 12:49:56 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.github.danielalejandroamaro.gitlabpipeline</description>
       <description>Adds the idea mergex CLI command — a blocking, git-mergetool-friendly variant of idea merge. Waits until the merge dialog is closed before returning (suitable for use...
 
 vendor: chikach
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: net.chikach.mergex</description>
       <pubDate>Fri, 29 May 2026 07:07:28 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: net.chikach.mergex</description>
       <description>Forked from Dracula, private theme that matches JetBrains Island Dark theme.
 
 vendor: Pendleton Pham
-downloads: 10
+downloads: 11
 pricingModel: FREE
 xmlId: color.scheme.dracula-qngson</description>
       <pubDate>Tue, 26 May 2026 11:58:02 GMT</pubDate>
@@ -123,17 +123,17 @@ xmlId: color.scheme.dracula-qngson</description>
       <dc:date>2026-05-26T11:58:02Z</dc:date>
     </item>
     <item>
-      <title>alint - Thu May 28 18:01:21 UTC 2026</title>
+      <title>alint - Sun May 31 03:17:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31995-alint</link>
       <description>In-editor diagnostics, hover-to-explain, and quick-fixes for alint — the language-agnostic linter for repository structure, file existence, filename conventions, and...
 
 vendor: alint
-downloads: 12
+downloads: 13
 pricingModel: FREE
 xmlId: org.alint.lsp</description>
-      <pubDate>Thu, 28 May 2026 18:01:21 GMT</pubDate>
+      <pubDate>Sun, 31 May 2026 03:17:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31995-alint</guid>
-      <dc:date>2026-05-28T18:01:21Z</dc:date>
+      <dc:date>2026-05-31T03:17:07Z</dc:date>
     </item>
     <item>
       <title>Mojo Pro - Thu May 28 09:36:17 UTC 2026</title>
@@ -141,7 +141,7 @@ xmlId: org.alint.lsp</description>
       <description>Mojo Pro is an IntelliJ Platform language plugin for Mojo. Compatibility requirement: Mojo Pro only works with Mojo 1.0.0b1 and newer. Projects using Mojo 1.0.0b0...
 
 vendor: Jetplugins
-downloads: 14
+downloads: 18
 pricingModel: PAID
 xmlId: dev.jetplugins.mojo</description>
       <pubDate>Thu, 28 May 2026 09:36:17 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: dev.jetplugins.mojo</description>
       <description>Syntax highlighting support for the Stan statistical modeling language. Stan is a probabilistic programming language for Bayesian statistical inference, full Bayesian...
 
 vendor: Jáchym Barvínek
-downloads: 22
+downloads: 29
 pricingModel: FREE
 xmlId: org.mc-stan.stan</description>
       <pubDate>Fri, 29 May 2026 14:54:45 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: org.mc-stan.stan</description>
       <description>Firebase App Distribution Uploader Upload Android release builds directly to Firebase App Distribution from Android Studio. Features Upload APK or AAB to Firebase App...
 
 vendor: Naimish Trivedi
-downloads: 14
+downloads: 15
 pricingModel: FREE
 xmlId: com.naimish.firebaseupload</description>
       <pubDate>Wed, 27 May 2026 18:57:05 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.naimish.firebaseupload</description>
       <description>KrashMe makes debugging fun by playing funny sounds whenever your code crashes or an execution fails. Features: Plays funny sounds on unhandled exceptions and non-zero...
 
 vendor: KrashMe
-downloads: 6
+downloads: 7
 pricingModel: FREE
 xmlId: com.sbk.krashme</description>
       <pubDate>Wed, 20 May 2026 19:32:24 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.sbk.krashme</description>
       <description>Provides a direct support for West (Zephyr’s meta-tool) in CLion IDE. CLion automatically recognizes the West project as a CMake project with additional features to...
 
 vendor: JetBrains s.r.o.
-downloads: 12
+downloads: 17
 pricingModel: FREE
 xmlId: com.intellij.clion.west</description>
       <pubDate>Thu, 28 May 2026 09:10:11 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.intellij.clion.west</description>
       <description>Nox language support for IntelliJ IDEA. Powered by nox-lsp. Provides diagnostics, hover, completion, go-to-definition, find usages, rename, semantic highlighting...
 
 vendor: Nox Langauge Server
-downloads: 10
+downloads: 11
 pricingModel: FREE
 xmlId: nox-lang</description>
       <pubDate>Thu, 28 May 2026 13:55:09 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: nox-lang</description>
       <description>YApi Doc Generator Automatically parse and generate YApi API documentation from Spring MVC Controller classes and methods in IntelliJ IDEA. Features One-click...
 
 vendor: Cheney
-downloads: 4
+downloads: 6
 pricingModel: FREE
 xmlId: com.yapi.plugin</description>
       <pubDate>Thu, 28 May 2026 08:50:22 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.candelahq.candela</description>
       <description>Search and call Spring-style REST endpoints directly from IntelliJ IDEA.
 
 vendor: restful-checker
-downloads: 23
+downloads: 27
 pricingModel: FREE
 xmlId: com.ssetglow.restful-checker</description>
       <pubDate>Fri, 29 May 2026 06:32:43 GMT</pubDate>
