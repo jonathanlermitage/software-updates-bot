@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|26.3.0|[nodejs.org](https://nodejs.org)|Mon Jun 01 13:52:12 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.6653.22) ~ 2026-05-28|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu May 28 13:04:01 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.16.0|[nodejs.org](https://nodejs.org)|Thu May 21 16:50:47 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|26.2.0|[nodejs.org](https://nodejs.org)|Wed May 20 16:59:09 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.2 (261.24374.151) ~ 2026-05-15|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri May 15 16:32:44 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
