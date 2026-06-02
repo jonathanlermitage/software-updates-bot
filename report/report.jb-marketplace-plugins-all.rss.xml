@@ -6,6 +6,214 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Chicken - Sat May 30 21:32:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32032-chicken</link>
+      <description>JetBrains language support for the Chicken esoteric programming language. Provides .chicken file recognition, syntax highlighting, and a bundled Chicken runner.
+
+vendor: Olivér Raisz
+downloads: 1
+pricingModel: FREE
+xmlId: dev.oraisz.chicken</description>
+      <pubDate>Sat, 30 May 2026 21:32:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32032-chicken</guid>
+      <dc:date>2026-05-30T21:32:46Z</dc:date>
+    </item>
+    <item>
+      <title>Omni Player - Tue Jun 02 14:25:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32061-omni-player</link>
+      <description>A media player directly integrated in your JetBrains IDE interface. It controls your music through the Windows System Media Transport Controls API, showing the current...
+
+vendor: Paco Gillet
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.paco-gillet.omni-player</description>
+      <pubDate>Tue, 02 Jun 2026 14:25:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32061-omni-player</guid>
+      <dc:date>2026-06-02T14:25:17Z</dc:date>
+    </item>
+    <item>
+      <title>Tengo - Mon Jun 01 10:58:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32053-tengo</link>
+      <description>Language support for Tengo, a small, dynamic, fast, secure scripting language embeddable in Go applications. Features: Syntax highlighting Brace matching, code...
+
+vendor: Pavel Vyazankin
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.blackcat.tengo</description>
+      <pubDate>Mon, 01 Jun 2026 10:58:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32053-tengo</guid>
+      <dc:date>2026-06-01T10:58:48Z</dc:date>
+    </item>
+    <item>
+      <title>IOSP Analyzer for Python - Tue Jun 02 17:08:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32075-iosp-analyzer-for-python</link>
+      <description>Highlights violations of the Integration Operation Segregation Principle (IOSP) in Python code. A function should either integrate (only call other functions) or...
+
+vendor: CCD Akademie GmbH
+downloads: 0
+pricingModel: FREE
+xmlId: de.ccdakademie.iospanalyzer.python</description>
+      <pubDate>Tue, 02 Jun 2026 17:08:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32075-iosp-analyzer-for-python</guid>
+      <dc:date>2026-06-02T17:08:16Z</dc:date>
+    </item>
+    <item>
+      <title>Huawei JDBC Drivers Pack - Tue Jun 02 16:14:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31878-huawei-jdbc-drivers-pack</link>
+      <description>Huawei-JDBC-Drivers-Pack bundles JDBC drivers for GaussDB, MySQL, MongoDB, PostgreSQL, ClickHouse, OceanBase, and Redis directly into the plugin — no internet access...
+
+vendor: Vasilii Chernov
+downloads: 3
+pricingModel: FREE
+xmlId: com.github.tjlee.huaweijdbcdriverspack</description>
+      <pubDate>Tue, 02 Jun 2026 16:14:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31878-huawei-jdbc-drivers-pack</guid>
+      <dc:date>2026-06-02T16:14:03Z</dc:date>
+    </item>
+    <item>
+      <title>Json Inject - Mon Jun 01 15:55:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32035-json-inject</link>
+      <description>JSON value injection Markdown/JSON/ClassName And Edit. JSON 值注入 Markdown/JSON/ClassName 与左侧点击编辑。 Config: settings -&amp;gt; Tools -&amp;gt; JSON Inject My Plugin Show doc...
+
+vendor: 林万程
+downloads: 3
+pricingModel: FREE
+xmlId: io.github.linwancen.plugin.inject</description>
+      <pubDate>Mon, 01 Jun 2026 15:55:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32035-json-inject</guid>
+      <dc:date>2026-06-01T15:55:27Z</dc:date>
+    </item>
+    <item>
+      <title>SSM Graph - Sun May 31 19:19:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31725-ssm-graph</link>
+      <description>Spring State Machine Graph Streamline your development process by visualizing complex Spring State Machine (SSM) configurations directly within your IDE. This plugin...
+
+vendor: Kirill Lavrov
+downloads: 4
+pricingModel: FREE
+xmlId: com.lavr.ssm-graph-plugin</description>
+      <pubDate>Sun, 31 May 2026 19:19:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31725-ssm-graph</guid>
+      <dc:date>2026-05-31T19:19:45Z</dc:date>
+    </item>
+    <item>
+      <title>BACPAC Import - Fri May 29 17:45:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32017-bacpac-import</link>
+      <description>Import SQL Server .bacpac files into local databases directly from your IDE. Uses Microsoft's SqlPackage CLI under the hood for reliable, full-fidelity imports...
+
+vendor: jortrodenburg
+downloads: 1
+pricingModel: FREE
+xmlId: com.jortrodenburg.bacpac</description>
+      <pubDate>Fri, 29 May 2026 17:45:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32017-bacpac-import</guid>
+      <dc:date>2026-05-29T17:45:09Z</dc:date>
+    </item>
+    <item>
+      <title>PseudoScript - Fri May 29 23:44:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32021-pseudoscript</link>
+      <description>Language support for PseudoScript (.pds) — a pseudoprogramming language: you code the abstraction and let it autogenerate, rather than hand-maintaining the output. It...
+
+vendor: Flying Dice
+downloads: 1
+pricingModel: FREE
+xmlId: dev.pseudoscript.pds</description>
+      <pubDate>Fri, 29 May 2026 23:44:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32021-pseudoscript</guid>
+      <dc:date>2026-05-29T23:44:40Z</dc:date>
+    </item>
+    <item>
+      <title>NPM Safety Guard - Mon Jun 01 06:35:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31921-npm-safety-guard</link>
+      <description>NPM Safety Guard Catches malicious npm packages, CVEs, and supply-chain threats directly in your package.json and package-lock.json — no command-line setup required...
+
+vendor: SendWaveHub
+downloads: 12
+pricingModel: FREE
+xmlId: com.sendwavehub.npmsafetyguard</description>
+      <pubDate>Mon, 01 Jun 2026 06:35:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31921-npm-safety-guard</guid>
+      <dc:date>2026-06-01T06:35:19Z</dc:date>
+    </item>
+    <item>
+      <title>Nunjucks - Mon May 04 16:12:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31592-nunjucks</link>
+      <description>First-class support for the Nunjucks templating language in JetBrains IDEs. License. Distributed under a commercial EULA — see the LICENSE.md bundled with the plugin...
+
+vendor: Obra Studio
+downloads: 1
+pricingModel: FREE
+xmlId: com.obra.nunjucks</description>
+      <pubDate>Mon, 04 May 2026 16:12:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31592-nunjucks</guid>
+      <dc:date>2026-05-04T16:12:33Z</dc:date>
+    </item>
+    <item>
+      <title>ReviewMark - Tue Jun 02 02:16:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32062-reviewmark</link>
+      <description>ReviewMark keeps review comments inside plain Markdown and renders them as a focused review layer inside JetBrains IDEs.
+
+vendor: ReviewMark
+downloads: 0
+pricingModel: FREE
+xmlId: com.reviewmark.plugin</description>
+      <pubDate>Tue, 02 Jun 2026 02:16:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32062-reviewmark</guid>
+      <dc:date>2026-06-02T02:16:18Z</dc:date>
+    </item>
+    <item>
+      <title>JourneyKMP Graph - Tue Jun 02 12:07:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32041-journeykmp-graph</link>
+      <description>Visualizes @Journey-annotated sealed interfaces from JourneyKMP as interactive directed graphs. Features: Auto-detects all @Journey flows in your project Interactive...
+
+vendor: Jian Astrero
+downloads: 1
+pricingModel: FREE
+xmlId: dev.jianastrero.JourneyKMPGraph</description>
+      <pubDate>Tue, 02 Jun 2026 12:07:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32041-journeykmp-graph</guid>
+      <dc:date>2026-06-02T12:07:27Z</dc:date>
+    </item>
+    <item>
+      <title>Catylst KMP Starter - Fri May 29 16:58:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31925-catylst-kmp-starter</link>
+      <description>Generate a production-ready Kotlin Multiplatform project with a guided wizard. Supports Android, iOS, and Desktop targets with optional features including Room, Ktor...
+
+vendor: Catylst
+downloads: 5
+pricingModel: FREE
+xmlId: com.catylst.kmp.starter</description>
+      <pubDate>Fri, 29 May 2026 16:58:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31925-catylst-kmp-starter</guid>
+      <dc:date>2026-05-29T16:58:45Z</dc:date>
+    </item>
+    <item>
+      <title>Editor Deck - Sun May 31 13:22:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32039-editor-deck</link>
+      <description>Adds an Edge/VS Code-style vertical editor deck for open files, plus quick Maven/Gradle POM access for dependency JARs.
+
+vendor: Isarg
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.isarg.editordeck</description>
+      <pubDate>Sun, 31 May 2026 13:22:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32039-editor-deck</guid>
+      <dc:date>2026-05-31T13:22:29Z</dc:date>
+    </item>
+    <item>
+      <title>YADT - Yet Another dbt Tool - Tue Jun 02 19:09:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32038-yadt--yet-another-dbt-tool</link>
+      <description>YADT (Yet Another dbt Tool) adds lineage visualization, code intelligence, and a command runner for dbt projects to JetBrains IDEs — IntelliJ IDEA, PyCharm, DataSpell...
+
+vendor: inazr
+downloads: 1
+pricingModel: FREE
+xmlId: com.inazr.yadt</description>
+      <pubDate>Tue, 02 Jun 2026 19:09:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32038-yadt--yet-another-dbt-tool</guid>
+      <dc:date>2026-06-02T19:09:46Z</dc:date>
+    </item>
+    <item>
       <title>Tab Groups - Mon Jun 01 18:55:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32057-tab-groups</link>
       <description>Organizes editor tabs based on user-defined grouping rules with regex matching. Right-click any editor tab and select "Group and Sort Tabs" to sort open tabs by your...
@@ -56,214 +264,6 @@ xmlId: com.antheng.gitbranchfileappend</description>
       <pubDate>Sat, 30 May 2026 16:06:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32030-git-commit-file-changes-append-tool</guid>
       <dc:date>2026-05-30T16:06:51Z</dc:date>
-    </item>
-    <item>
-      <title>Custom Sound Alert - Tue Jun 02 11:38:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32067-custom-sound-alert</link>
-      <description>Custom Sound Alert Assign your own audio notifications to common IDE events so you can step away from the screen and still know what just happened. Build success &amp;amp...
-
-vendor: Anshul Patro
-downloads: 0
-pricingModel: FREE
-xmlId: in.anshulpatro.custom-sound-alert</description>
-      <pubDate>Tue, 02 Jun 2026 11:38:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32067-custom-sound-alert</guid>
-      <dc:date>2026-06-02T11:38:21Z</dc:date>
-    </item>
-    <item>
-      <title>flai - Sun May 31 18:47:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31958-flai</link>
-      <description>flai turns IntelliJ-based IDEs into an agent runtime. Define multi-step LLM pipelines as plain YAML, drop them in .flai/, and execute them on any file with a single...
-
-vendor: Andrew Isachenko
-downloads: 2
-pricingModel: FREE
-xmlId: me.drew.flai</description>
-      <pubDate>Sun, 31 May 2026 18:47:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31958-flai</guid>
-      <dc:date>2026-05-31T18:47:47Z</dc:date>
-    </item>
-    <item>
-      <title>AI Agent Assistant - Sat May 30 07:11:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31985-ai-agent-assistant</link>
-      <description>AI Agent Assistant is a project-aware AI coding assistant for Android Studio and IntelliJ IDEA. It brings a Cursor-style chat workspace into the IDE, helping...
-
-vendor: Abner001
-downloads: 6
-pricingModel: FREE
-xmlId: com.zlhy.aiagentassistant</description>
-      <pubDate>Sat, 30 May 2026 07:11:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31985-ai-agent-assistant</guid>
-      <dc:date>2026-05-30T07:11:33Z</dc:date>
-    </item>
-    <item>
-      <title>API Radar - Tue Jun 02 03:37:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32065-api-radar</link>
-      <description>API Radar Zero-intrusion capture of third-party HTTP requests/responses in your Java project, without adding a single line of logging or breakpoint. API Radar attaches...
-
-vendor: 木乄木
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.lixidong.apiradar</description>
-      <pubDate>Tue, 02 Jun 2026 03:37:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32065-api-radar</guid>
-      <dc:date>2026-06-02T03:37:28Z</dc:date>
-    </item>
-    <item>
-      <title>Android Studio Chinese Language Pack - Sat May 30 07:47:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32024-android-studio-chinese-language-pack</link>
-      <description>Chinese (Simplified) language pack for Android Studio and IntelliJ Platform-based IDEs. Translates UI elements including menus, dialogs, settings, version control, and...
-
-vendor: 清优科技
-downloads: 1
-pricingModel: FREE
-xmlId: com.qingyou.chinese</description>
-      <pubDate>Sat, 30 May 2026 07:47:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32024-android-studio-chinese-language-pack</guid>
-      <dc:date>2026-05-30T07:47:28Z</dc:date>
-    </item>
-    <item>
-      <title>IOSP Analyzer for Java - Mon Jun 01 16:09:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32056-iosp-analyzer-for-java</link>
-      <description>Highlights violations of the Integration Operation Segregation Principle (IOSP) in Java code. A method should either integrate (only call other methods) or operate...
-
-vendor: CCD Akademie GmbH
-downloads: 0
-pricingModel: FREE
-xmlId: de.ccdakademie.iospanalyzer.java</description>
-      <pubDate>Mon, 01 Jun 2026 16:09:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32056-iosp-analyzer-for-java</guid>
-      <dc:date>2026-06-01T16:09:50Z</dc:date>
-    </item>
-    <item>
-      <title>Midas - Daily Work Helper - Mon Jun 01 10:47:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32052-midas--daily-work-helper</link>
-      <description>Midas is a productivity plugin that automatically generates weekly work reports from your GitLab commits using AI-powered analysis. Key Features: GitLab Integration...
-
-vendor: Midas-Daily Work Helper
-downloads: 0
-pricingModel: FREE
-xmlId: org.flymars.devtools.midas</description>
-      <pubDate>Mon, 01 Jun 2026 10:47:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32052-midas--daily-work-helper</guid>
-      <dc:date>2026-06-01T10:47:03Z</dc:date>
-    </item>
-    <item>
-      <title>SqlToy Navigator - Tue Jun 02 03:25:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32050-sqltoy-navigator</link>
-      <description>Provides navigation from Java SqlToy sqlId string literals to SqlToy XML SQL definitions, and highlights SQL syntax inside SqlToy XML SQL tags. Example...
-
-vendor: axiang
-downloads: 0
-pricingModel: FREE
-xmlId: com.ax.sqltoy.sqlid-navigator</description>
-      <pubDate>Tue, 02 Jun 2026 03:25:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32050-sqltoy-navigator</guid>
-      <dc:date>2026-06-02T03:25:06Z</dc:date>
-    </item>
-    <item>
-      <title>Dfeer-Generate-Code - Sun May 31 13:20:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32037-dfeer-generate-code</link>
-      <description>A plugin to generate code from database.
-
-vendor: dfeer
-downloads: 1
-pricingModel: FREE
-xmlId: com.dfeer.plugin.Generate-Code</description>
-      <pubDate>Sun, 31 May 2026 13:20:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32037-dfeer-generate-code</guid>
-      <dc:date>2026-05-31T13:20:09Z</dc:date>
-    </item>
-    <item>
-      <title>AI Review and Commit - Tue Jun 02 15:58:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32028-ai-review-and-commit</link>
-      <description>AI-generated code still needs review. Modern AI can write useful code quickly, but it can also miss edge cases, preserve broken assumptions, hallucinate APIs or...
-
-vendor: 甲木庚金
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.jiamugengjin.aireviewcommit</description>
-      <pubDate>Tue, 02 Jun 2026 15:58:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32028-ai-review-and-commit</guid>
-      <dc:date>2026-06-02T15:58:04Z</dc:date>
-    </item>
-    <item>
-      <title>Test Companion - Mon Jun 01 15:52:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31889-test-companion</link>
-      <description>AI testing assistant in your IDE Test Companion is the test engineer's AI assistant for everything test automation. It understands your code and supports any test...
-
-vendor: browserstack
-downloads: 32
-pricingModel: FREE
-xmlId: com.browserstack.testcompanion</description>
-      <pubDate>Mon, 01 Jun 2026 15:52:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31889-test-companion</guid>
-      <dc:date>2026-06-01T15:52:15Z</dc:date>
-    </item>
-    <item>
-      <title>Tica Dungeon Progress Bar - Sat Apr 25 08:45:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31441-tica-dungeon-progress-bar</link>
-      <description>Tica Dungeon Progress Bar Replace Rider's progress bars with a pixel-art dungeon-crawler animation starring Tica the orca warrior. Indexing, building, plugin updates...
-
-vendor: Allen Huang
-downloads: 4
-pricingModel: FREE
-xmlId: com.allen.dungeonprogress</description>
-      <pubDate>Sat, 25 Apr 2026 08:45:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31441-tica-dungeon-progress-bar</guid>
-      <dc:date>2026-04-25T08:45:56Z</dc:date>
-    </item>
-    <item>
-      <title>Converse - Mon Jun 01 07:56:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31796-converse</link>
-      <description>Run multiple AI agent sessions side-by-side inside IntelliJ with persistent conversation history, real-time streaming, and deep IDE integration.
-
-vendor: 2 Small Cats LLC
-downloads: 24
-pricingModel: FREE
-xmlId: technology.futureflow.converse</description>
-      <pubDate>Mon, 01 Jun 2026 07:56:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31796-converse</guid>
-      <dc:date>2026-06-01T07:56:22Z</dc:date>
-    </item>
-    <item>
-      <title>Jeffrey Microscope - Sat May 30 19:59:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31963-jeffrey-microscope</link>
-      <description>Jump from a JFR flame graph straight to your code. Jeffrey Microscope is the companion IDE plugin for Jeffrey, a tool for analyzing Java Flight Recorder (JFR...
-
-vendor: Petr Bouda
-downloads: 29
-pricingModel: FREE
-xmlId: cafe.jeffrey.ide.plugin.idea</description>
-      <pubDate>Sat, 30 May 2026 19:59:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31963-jeffrey-microscope</guid>
-      <dc:date>2026-05-30T19:59:45Z</dc:date>
-    </item>
-    <item>
-      <title>Web Browser Panel - Sat May 30 17:46:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32005-web-browser-panel</link>
-      <description>Web Browser Panel embeds a Chromium-based web browser (the IDE's bundled JCEF runtime) directly in a tool window, so you can preview a local web dev server right next...
-
-vendor: Dervis Mansuroglu
-downloads: 216
-pricingModel: FREE
-xmlId: no.dervis.webbrowser</description>
-      <pubDate>Sat, 30 May 2026 17:46:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32005-web-browser-panel</guid>
-      <dc:date>2026-05-30T17:46:00Z</dc:date>
-    </item>
-    <item>
-      <title>Code Context Memo - Fri May 29 03:14:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32007-code-context-memo</link>
-      <description>Code Context Memo collects selected code snippets, file locations, and task notes into a project-level memo that can be copied to a coding agent. What it does Adds a...
-
-vendor: AaronOhO
-downloads: 12
-pricingModel: FREE
-xmlId: com.github.aaronoho.code-context-memo</description>
-      <pubDate>Fri, 29 May 2026 03:14:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32007-code-context-memo</guid>
-      <dc:date>2026-05-29T03:14:03Z</dc:date>
     </item>
   </channel>
 </rss>
