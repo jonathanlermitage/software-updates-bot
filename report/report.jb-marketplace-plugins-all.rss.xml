@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Git Link Detector - Sat May 30 09:48:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32019-git-link-detector</link>
+      <description>Detects URLs printed to IntelliJ's git console output and surfaces them as clickable balloon notifications. Handles device-flow login URLs, pull request creation...
+
+vendor: Przemysław eRIZ Pawliczuk
+downloads: 1
+pricingModel: FREE
+xmlId: pl.eriz.gitlinkdetector</description>
+      <pubDate>Sat, 30 May 2026 09:48:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32019-git-link-detector</guid>
+      <dc:date>2026-05-30T09:48:35Z</dc:date>
+    </item>
+    <item>
+      <title>Flexible For OpenSCAD - Sun May 31 14:57:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32015-flexible-for-openscad</link>
+      <description>OpenSCAD language support with a live interactive 3D preview, visual gizmo editing, smart completion, navigation, and code inspections — turn your JetBrains IDE into a...
+
+vendor: Ilscipio GmbH
+downloads: 3
+pricingModel: PAID
+xmlId: com.flexible.scad</description>
+      <pubDate>Sun, 31 May 2026 14:57:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32015-flexible-for-openscad</guid>
+      <dc:date>2026-05-31T14:57:41Z</dc:date>
+    </item>
+    <item>
       <title>ahu-tool - Wed Jun 03 02:55:55 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32070-ahu-tool</link>
       <description>ahu-tool is a JetBrains IDE productivity toolkit for AI code markers, shared component imports, repository management, configuration, and usage history. ahu-tool 面向...
@@ -32,7 +58,7 @@ xmlId: com.getarchlens</description>
       <dc:date>2026-05-25T16:16:04Z</dc:date>
     </item>
     <item>
-      <title>Cucumber for Python - Tue Jun 02 21:27:33 UTC 2026</title>
+      <title>Cucumber for Python - Wed Jun 03 08:29:39 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32043-cucumber-for-python</link>
       <description>Cucumber for Python — full behave support for Gherkin features in IntelliJ IDEA: Resolve &amp;amp; navigate Gherkin steps to their @given/@when/@then Python step...
 
@@ -40,9 +66,9 @@ vendor: Maxime HAMM
 downloads: 18
 pricingModel: FREE
 xmlId: io.nimbly.cucumber.python</description>
-      <pubDate>Tue, 02 Jun 2026 21:27:33 GMT</pubDate>
+      <pubDate>Wed, 03 Jun 2026 08:29:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32043-cucumber-for-python</guid>
-      <dc:date>2026-06-02T21:27:33Z</dc:date>
+      <dc:date>2026-06-03T08:29:39Z</dc:date>
     </item>
     <item>
       <title>MybatisLogFormatSQL - Tue Jun 02 19:32:45 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: dev.jianastrero.JourneyKMPGraph</description>
       <pubDate>Tue, 02 Jun 2026 12:07:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32041-journeykmp-graph</guid>
       <dc:date>2026-06-02T12:07:27Z</dc:date>
-    </item>
-    <item>
-      <title>Catylst KMP Starter - Fri May 29 16:58:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31925-catylst-kmp-starter</link>
-      <description>Generate a production-ready Kotlin Multiplatform project with a guided wizard. Supports Android, iOS, and Desktop targets with optional features including Room, Ktor...
-
-vendor: Catylst
-downloads: 7
-pricingModel: FREE
-xmlId: com.catylst.kmp.starter</description>
-      <pubDate>Fri, 29 May 2026 16:58:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31925-catylst-kmp-starter</guid>
-      <dc:date>2026-05-29T16:58:45Z</dc:date>
-    </item>
-    <item>
-      <title>Editor Deck - Sun May 31 13:22:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32039-editor-deck</link>
-      <description>Adds an Edge/VS Code-style vertical editor deck for open files, plus quick Maven/Gradle POM access for dependency JARs.
-
-vendor: Isarg
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.isarg.editordeck</description>
-      <pubDate>Sun, 31 May 2026 13:22:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32039-editor-deck</guid>
-      <dc:date>2026-05-31T13:22:29Z</dc:date>
     </item>
   </channel>
 </rss>
