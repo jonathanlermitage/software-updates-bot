@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ahu-tool - Wed Jun 03 02:55:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32070-ahu-tool</link>
+      <description>ahu-tool is a JetBrains IDE productivity toolkit for AI code markers, shared component imports, repository management, configuration, and usage history. ahu-tool 面向...
+
+vendor: DaGu
+downloads: 0
+pricingModel: FREE
+xmlId: com.ahutool.plugin</description>
+      <pubDate>Wed, 03 Jun 2026 02:55:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32070-ahu-tool</guid>
+      <dc:date>2026-06-03T02:55:55Z</dc:date>
+    </item>
+    <item>
       <title>ArchLens Analysis - Mon May 25 16:16:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/31789-archlens-analysis</link>
       <description>ArchLens — instant architecture visualization for Java projects, right inside IntelliJ IDEA. Click Analyze in the ArchLens sidebar to scan your project. ArchLens...
 
 vendor: ArchLens
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.getarchlens</description>
       <pubDate>Mon, 25 May 2026 16:16:04 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: com.getarchlens</description>
       <description>Cucumber for Python — full behave support for Gherkin features in IntelliJ IDEA: Resolve &amp;amp; navigate Gherkin steps to their @given/@when/@then Python step...
 
 vendor: Maxime HAMM
-downloads: 1
+downloads: 18
 pricingModel: FREE
 xmlId: io.nimbly.cucumber.python</description>
       <pubDate>Tue, 02 Jun 2026 21:27:33 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: io.nimbly.cucumber.python</description>
       <description>MybatisLogFormatSQL formats MyBatis log output into executable SQL. Select MyBatis log text in any editor, right-click, and choose MybatisLogFormatSQL to see the SQL...
 
 vendor: aladinsws
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.aladinsws.plugins</description>
       <pubDate>Tue, 02 Jun 2026 19:32:45 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.aladinsws.plugins</description>
       <description>Keep design intent permanently linked to running code. LID (Linked-Intent Development) editor support for @spec citations, language server features, and visual Intent...
 
 vendor: lid-tools
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: dev.lid</description>
       <pubDate>Tue, 02 Jun 2026 00:27:39 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: dev.lid</description>
       <description>JetBrains language support for the Chicken esoteric programming language. Provides .chicken file recognition, syntax highlighting, and a bundled Chicken runner.
 
 vendor: Olivér Raisz
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.oraisz.chicken</description>
       <pubDate>Sat, 30 May 2026 21:32:46 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: dev.oraisz.chicken</description>
       <description>A media player directly integrated in your JetBrains IDE interface. It controls your music through the Windows System Media Transport Controls API, showing the current...
 
 vendor: Paco Gillet
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.paco-gillet.omni-player</description>
       <pubDate>Tue, 02 Jun 2026 14:25:17 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.github.paco-gillet.omni-player</description>
       <description>Language support for Tengo, a small, dynamic, fast, secure scripting language embeddable in Go applications. Features: Syntax highlighting Brace matching, code...
 
 vendor: Pavel Vyazankin
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.blackcat.tengo</description>
       <pubDate>Mon, 01 Jun 2026 10:58:48 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: com.github.blackcat.tengo</description>
       <description>Highlights violations of the Integration Operation Segregation Principle (IOSP) in Python code. A function should either integrate (only call other functions) or...
 
 vendor: CCD Akademie GmbH
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: de.ccdakademie.iospanalyzer.python</description>
       <pubDate>Tue, 02 Jun 2026 17:08:16 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.github.tjlee.huaweijdbcdriverspack</description>
       <description>JSON value injection Markdown/JSON/ClassName And Edit. JSON 值注入 Markdown/JSON/ClassName 与左侧点击编辑。 Config: settings -&amp;gt; Tools -&amp;gt; JSON Inject My Plugin Show doc...
 
 vendor: 林万程
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: io.github.linwancen.plugin.inject</description>
       <pubDate>Mon, 01 Jun 2026 15:55:27 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: io.github.linwancen.plugin.inject</description>
       <description>Spring State Machine Graph Streamline your development process by visualizing complex Spring State Machine (SSM) configurations directly within your IDE. This plugin...
 
 vendor: Kirill Lavrov
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: com.lavr.ssm-graph-plugin</description>
       <pubDate>Sun, 31 May 2026 19:19:45 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: com.lavr.ssm-graph-plugin</description>
       <description>Import SQL Server .bacpac files into local databases directly from your IDE. Uses Microsoft's SqlPackage CLI under the hood for reliable, full-fidelity imports...
 
 vendor: jortrodenburg
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.jortrodenburg.bacpac</description>
       <pubDate>Fri, 29 May 2026 17:45:09 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: com.jortrodenburg.bacpac</description>
       <description>Language support for PseudoScript (.pds) — a pseudoprogramming language: you code the abstraction and let it autogenerate, rather than hand-maintaining the output. It...
 
 vendor: Flying Dice
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: dev.pseudoscript.pds</description>
       <pubDate>Tue, 02 Jun 2026 23:40:01 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: dev.pseudoscript.pds</description>
       <description>NPM Safety Guard Catches malicious npm packages, CVEs, and supply-chain threats directly in your package.json and package-lock.json — no command-line setup required...
 
 vendor: SendWaveHub
-downloads: 12
+downloads: 20
 pricingModel: FREE
 xmlId: com.sendwavehub.npmsafetyguard</description>
       <pubDate>Mon, 01 Jun 2026 06:35:19 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.sendwavehub.npmsafetyguard</description>
       <description>First-class support for the Nunjucks templating language in JetBrains IDEs. License. Distributed under a commercial EULA — see the LICENSE.md bundled with the plugin...
 
 vendor: Obra Studio
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.obra.nunjucks</description>
       <pubDate>Mon, 04 May 2026 16:12:33 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.obra.nunjucks</description>
       <description>ReviewMark keeps review comments inside plain Markdown and renders them as a focused review layer inside JetBrains IDEs.
 
 vendor: ReviewMark
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.reviewmark.plugin</description>
       <pubDate>Tue, 02 Jun 2026 02:16:18 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.reviewmark.plugin</description>
       <description>Visualizes @Journey-annotated sealed interfaces from JourneyKMP as interactive directed graphs. Features: Auto-detects all @Journey flows in your project Interactive...
 
 vendor: Jian Astrero
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.jianastrero.JourneyKMPGraph</description>
       <pubDate>Tue, 02 Jun 2026 12:07:27 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: dev.jianastrero.JourneyKMPGraph</description>
       <description>Generate a production-ready Kotlin Multiplatform project with a guided wizard. Supports Android, iOS, and Desktop targets with optional features including Room, Ktor...
 
 vendor: Catylst
-downloads: 5
+downloads: 7
 pricingModel: FREE
 xmlId: com.catylst.kmp.starter</description>
       <pubDate>Fri, 29 May 2026 16:58:45 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.catylst.kmp.starter</description>
       <description>Adds an Edge/VS Code-style vertical editor deck for open files, plus quick Maven/Gradle POM access for dependency JARs.
 
 vendor: Isarg
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.isarg.editordeck</description>
       <pubDate>Sun, 31 May 2026 13:22:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32039-editor-deck</guid>
       <dc:date>2026-05-31T13:22:29Z</dc:date>
-    </item>
-    <item>
-      <title>YADT - Yet Another dbt Tool - Tue Jun 02 19:09:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32038-yadt--yet-another-dbt-tool</link>
-      <description>YADT (Yet Another dbt Tool) adds lineage visualization, code intelligence, and a command runner for dbt projects to JetBrains IDEs — IntelliJ IDEA, PyCharm, DataSpell...
-
-vendor: inazr
-downloads: 1
-pricingModel: FREE
-xmlId: com.inazr.yadt</description>
-      <pubDate>Tue, 02 Jun 2026 19:09:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32038-yadt--yet-another-dbt-tool</guid>
-      <dc:date>2026-06-02T19:09:46Z</dc:date>
     </item>
   </channel>
 </rss>
