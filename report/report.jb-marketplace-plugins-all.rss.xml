@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ArchLens Analysis - Mon May 25 16:16:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31789-archlens-analysis</link>
+      <description>ArchLens — instant architecture visualization for Java projects, right inside IntelliJ IDEA. Click Analyze in the ArchLens sidebar to scan your project. ArchLens...
+
+vendor: ArchLens
+downloads: 3
+pricingModel: FREE
+xmlId: com.getarchlens</description>
+      <pubDate>Mon, 25 May 2026 16:16:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31789-archlens-analysis</guid>
+      <dc:date>2026-05-25T16:16:04Z</dc:date>
+    </item>
+    <item>
+      <title>Cucumber for Python - Tue Jun 02 21:27:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32043-cucumber-for-python</link>
+      <description>Cucumber for Python — full behave support for Gherkin features in IntelliJ IDEA: Resolve &amp;amp; navigate Gherkin steps to their @given/@when/@then Python step...
+
+vendor: Maxime HAMM
+downloads: 1
+pricingModel: FREE
+xmlId: io.nimbly.cucumber.python</description>
+      <pubDate>Tue, 02 Jun 2026 21:27:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32043-cucumber-for-python</guid>
+      <dc:date>2026-06-02T21:27:33Z</dc:date>
+    </item>
+    <item>
+      <title>MybatisLogFormatSQL - Tue Jun 02 19:32:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32073-mybatislogformatsql</link>
+      <description>MybatisLogFormatSQL formats MyBatis log output into executable SQL. Select MyBatis log text in any editor, right-click, and choose MybatisLogFormatSQL to see the SQL...
+
+vendor: aladinsws
+downloads: 0
+pricingModel: FREE
+xmlId: com.aladinsws.plugins</description>
+      <pubDate>Tue, 02 Jun 2026 19:32:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32073-mybatislogformatsql</guid>
+      <dc:date>2026-06-02T19:32:45Z</dc:date>
+    </item>
+    <item>
+      <title>LID - Linked-Intent Development - Tue Jun 02 00:27:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32047-lid--linked-intent-development</link>
+      <description>Keep design intent permanently linked to running code. LID (Linked-Intent Development) editor support for @spec citations, language server features, and visual Intent...
+
+vendor: lid-tools
+downloads: 3
+pricingModel: FREE
+xmlId: dev.lid</description>
+      <pubDate>Tue, 02 Jun 2026 00:27:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32047-lid--linked-intent-development</guid>
+      <dc:date>2026-06-02T00:27:39Z</dc:date>
+    </item>
+    <item>
       <title>Chicken - Sat May 30 21:32:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32032-chicken</link>
       <description>JetBrains language support for the Chicken esoteric programming language. Provides .chicken file recognition, syntax highlighting, and a bundled Chicken runner.
@@ -110,7 +162,7 @@ xmlId: com.jortrodenburg.bacpac</description>
       <dc:date>2026-05-29T17:45:09Z</dc:date>
     </item>
     <item>
-      <title>PseudoScript - Fri May 29 23:44:40 UTC 2026</title>
+      <title>PseudoScript - Tue Jun 02 23:40:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32021-pseudoscript</link>
       <description>Language support for PseudoScript (.pds) — a pseudoprogramming language: you code the abstraction and let it autogenerate, rather than hand-maintaining the output. It...
 
@@ -118,9 +170,9 @@ vendor: Flying Dice
 downloads: 1
 pricingModel: FREE
 xmlId: dev.pseudoscript.pds</description>
-      <pubDate>Fri, 29 May 2026 23:44:40 GMT</pubDate>
+      <pubDate>Tue, 02 Jun 2026 23:40:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32021-pseudoscript</guid>
-      <dc:date>2026-05-29T23:44:40Z</dc:date>
+      <dc:date>2026-06-02T23:40:01Z</dc:date>
     </item>
     <item>
       <title>NPM Safety Guard - Mon Jun 01 06:35:19 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.inazr.yadt</description>
       <pubDate>Tue, 02 Jun 2026 19:09:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32038-yadt--yet-another-dbt-tool</guid>
       <dc:date>2026-06-02T19:09:46Z</dc:date>
-    </item>
-    <item>
-      <title>Tab Groups - Mon Jun 01 18:55:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32057-tab-groups</link>
-      <description>Organizes editor tabs based on user-defined grouping rules with regex matching. Right-click any editor tab and select "Group and Sort Tabs" to sort open tabs by your...
-
-vendor: diakovidis
-downloads: 0
-pricingModel: FREE
-xmlId: com.tabgroups.intellij-tab-groups-java</description>
-      <pubDate>Mon, 01 Jun 2026 18:55:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32057-tab-groups</guid>
-      <dc:date>2026-06-01T18:55:04Z</dc:date>
-    </item>
-    <item>
-      <title>pell - Sun May 31 12:42:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31994-pell</link>
-      <description>Write PL/SQL like it's 2026 pell is a statically-typed surface language that compiles to clean, idiomatic Oracle PL/SQL 19c / 23ai. Modern syntax, real type checking...
-
-vendor: One DFRK
-downloads: 4
-pricingModel: FREE
-xmlId: dev.pell</description>
-      <pubDate>Sun, 31 May 2026 12:42:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31994-pell</guid>
-      <dc:date>2026-05-31T12:42:22Z</dc:date>
-    </item>
-    <item>
-      <title>Ktav - Sun May 31 12:30:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32040-ktav</link>
-      <description>Editor support for the Ktav plain configuration format. Features: Syntax highlighting for .ktav files via TextMate grammar Comment toggle (#) Bracket matching for...
-
-vendor: ktav-lang
-downloads: 2
-pricingModel: FREE
-xmlId: lang.ktav</description>
-      <pubDate>Sun, 31 May 2026 12:30:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32040-ktav</guid>
-      <dc:date>2026-05-31T12:30:26Z</dc:date>
-    </item>
-    <item>
-      <title>Git Commit File Changes Append Tool - Sat May 30 16:06:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32030-git-commit-file-changes-append-tool</link>
-      <description>This is a helper plugin for appending the current branch and the list of imminent changes to your commit, similar to the output of git status command or the default...
-
-vendor: rundumnurd
-downloads: 1
-pricingModel: FREE
-xmlId: com.antheng.gitbranchfileappend</description>
-      <pubDate>Sat, 30 May 2026 16:06:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32030-git-commit-file-changes-append-tool</guid>
-      <dc:date>2026-05-30T16:06:51Z</dc:date>
     </item>
   </channel>
 </rss>
