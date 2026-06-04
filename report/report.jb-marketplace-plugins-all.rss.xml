@@ -6,6 +6,136 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Semaphore UI - Thu Jun 04 11:50:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32102-semaphore-ui</link>
+      <description>IntelliJ plugin for operating Semaphore UI from the IDE. Includes a bottom tool window for projects, templates, tasks, and task output. Stores connection settings and...
+
+vendor: Octavio Roncal
+downloads: 0
+pricingModel: FREE
+xmlId: com.oroncal.semaphoreui</description>
+      <pubDate>Thu, 04 Jun 2026 11:50:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32102-semaphore-ui</guid>
+      <dc:date>2026-06-04T11:50:16Z</dc:date>
+    </item>
+    <item>
+      <title>Diffy AI - Thu Jun 04 14:02:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32104-diffy-ai</link>
+      <description>Generate AI commit messages from the current git diff.
+
+vendor: diffy-ai
+downloads: 0
+pricingModel: FREE
+xmlId: ai.diffy.intellijplugin</description>
+      <pubDate>Thu, 04 Jun 2026 14:02:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32104-diffy-ai</guid>
+      <dc:date>2026-06-04T14:02:52Z</dc:date>
+    </item>
+    <item>
+      <title>Python Watchpoint - Wed Jun 03 23:05:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32087-python-watchpoint</link>
+      <description>Adds Python Data breakpoints (watchpoints) support to PyCharm. Python Watchpoint lets you break on data changes. When a watched local variable or object attribute...
+
+vendor: heisen273
+downloads: 0
+pricingModel: FREE
+xmlId: com.pythonwatchpoint</description>
+      <pubDate>Wed, 03 Jun 2026 23:05:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32087-python-watchpoint</guid>
+      <dc:date>2026-06-03T23:05:51Z</dc:date>
+    </item>
+    <item>
+      <title>Turbo Debug - Wed Jun 03 23:45:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32096-turbo-debug</link>
+      <description>Faster PyCharm debugging. Turbo Debug injects runtime performance patches into pydevd's PEP 669 (sys.monitoring) tracing layer. Debug session startup can be up to 4x...
+
+vendor: heisen273
+downloads: 0
+pricingModel: FREE
+xmlId: com.turbodebug</description>
+      <pubDate>Wed, 03 Jun 2026 23:45:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32096-turbo-debug</guid>
+      <dc:date>2026-06-03T23:45:40Z</dc:date>
+    </item>
+    <item>
+      <title>GLoC Reactor Generator - Thu Jun 04 13:44:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32105-gloc-reactor-generator</link>
+      <description>GLoC Reactor Generator A RustRover plugin that scaffolds GLoC reactor files directly from the Project view, so you never have to write the boilerplate by hand...
+
+vendor: Godwin Joseph
+downloads: 0
+pricingModel: FREE
+xmlId: com.gloc.plugin</description>
+      <pubDate>Thu, 04 Jun 2026 13:44:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32105-gloc-reactor-generator</guid>
+      <dc:date>2026-06-04T13:44:33Z</dc:date>
+    </item>
+    <item>
+      <title>MyBatis Log Ano - Thu Jun 04 08:07:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32023-mybatis-log-ano</link>
+      <description>MyBatis Log Ano Plugin This is a plugin designed to restore complete SQL statements directly from MyBatis logs. &#x1f680; Key Features SQL Restoration Instantly restores...
+
+vendor: zhangsan
+downloads: 1
+pricingModel: FREE
+xmlId: cc.chickcc.mybatis-log-ano</description>
+      <pubDate>Thu, 04 Jun 2026 08:07:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32023-mybatis-log-ano</guid>
+      <dc:date>2026-06-04T08:07:13Z</dc:date>
+    </item>
+    <item>
+      <title>RX GUI - Mon Jun 01 11:14:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32054-rx-gui</link>
+      <description>RX GUI — Reasonix AI Coding Assistant An AI-powered coding assistant right in your JetBrains IDE sidebar. Built on the DeepSeek-Reasonix model, it supports streaming...
+
+vendor: 68110923
+downloads: 1
+pricingModel: FREE
+xmlId: com.reasonix.gui</description>
+      <pubDate>Mon, 01 Jun 2026 11:14:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32054-rx-gui</guid>
+      <dc:date>2026-06-01T11:14:37Z</dc:date>
+    </item>
+    <item>
+      <title>Input Remapper - Thu Jun 04 11:54:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32103-input-remapper</link>
+      <description>Input Remapper allows users to define custom character remappings for specific file extensions. It can be toggled from the status bar, through the Tools menu, or by...
+
+vendor: JAVOsoft
+downloads: 0
+pricingModel: FREE
+xmlId: de.javosoft.plugin.inputremapper</description>
+      <pubDate>Thu, 04 Jun 2026 11:54:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32103-input-remapper</guid>
+      <dc:date>2026-06-04T11:54:33Z</dc:date>
+    </item>
+    <item>
+      <title>Ketoy - Mon Jun 01 08:43:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32051-ketoy</link>
+      <description>Ketoy is a server-driven execution runtime for Android. You write Kotlin and Jetpack Compose with a few Ketoy annotations, compile it into a signed, compact .ktx...
+
+vendor: Ketoy
+downloads: 1
+pricingModel: FREE
+xmlId: dev.ketoy.idea.bundle-inspector</description>
+      <pubDate>Mon, 01 Jun 2026 08:43:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32051-ketoy</guid>
+      <dc:date>2026-06-01T08:43:51Z</dc:date>
+    </item>
+    <item>
+      <title>EnvSwitch - Sun May 24 18:10:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31941-envswitch</link>
+      <description>EnvSwitch — One-click environment configuration switcher for JetBrains IDEs. Manage multiple environment profiles (dev / beta / staging / prod) and switch between them...
+
+vendor: luyiming
+downloads: 3
+pricingModel: PAID
+xmlId: com.ming.envswitch.EnvSwitch</description>
+      <pubDate>Sun, 24 May 2026 18:10:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31941-envswitch</guid>
+      <dc:date>2026-05-24T18:10:43Z</dc:date>
+    </item>
+    <item>
       <title>Bugsy - Wed Jun 03 11:53:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32084-bugsy</link>
       <description>Bugsy is a cute animated 2D companion character that lives on the status bar of your IDE, walking along the bottom edge and reacting to everything happening in your...
@@ -84,7 +214,7 @@ xmlId: com.mlnet.builder</description>
       <dc:date>2026-06-04T11:37:00Z</dc:date>
     </item>
     <item>
-      <title>IT Crowd Pixel Agents - Wed Jun 03 15:41:00 UTC 2026</title>
+      <title>IT Crowd Pixel Agents - Thu Jun 04 14:01:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32089-it-crowd-pixel-agents</link>
       <description>JetBrains edition of Pixel Agents — a pixel art office where AI agents (Claude Code terminals) are animated characters you can watch work in real time. Compatible with...
 
@@ -92,12 +222,12 @@ vendor: rlarin
 downloads: 2
 pricingModel: FREE
 xmlId: io.github.rlarin.pixelagents</description>
-      <pubDate>Wed, 03 Jun 2026 15:41:00 GMT</pubDate>
+      <pubDate>Thu, 04 Jun 2026 14:01:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32089-it-crowd-pixel-agents</guid>
-      <dc:date>2026-06-03T15:41:00Z</dc:date>
+      <dc:date>2026-06-04T14:01:47Z</dc:date>
     </item>
     <item>
-      <title>V6 Code Assistant - Thu Jun 04 02:05:18 UTC 2026</title>
+      <title>V6 Code Assistant - Thu Jun 04 16:30:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32081-v6-code-assistant</link>
       <description>V6 Code Assistant is a code assistant plugin based on project specifications. Features: - Template-based code generation (Column, Table, Model, Vue, Vo, Menu) - Visual...
 
@@ -105,9 +235,9 @@ vendor: shenwl
 downloads: 1
 pricingModel: FREE
 xmlId: com.ims.code.helper</description>
-      <pubDate>Thu, 04 Jun 2026 02:05:18 GMT</pubDate>
+      <pubDate>Thu, 04 Jun 2026 16:30:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32081-v6-code-assistant</guid>
-      <dc:date>2026-06-04T02:05:18Z</dc:date>
+      <dc:date>2026-06-04T16:30:03Z</dc:date>
     </item>
     <item>
       <title>FreeMarker Support - Fri May 15 13:30:00 UTC 2026</title>
@@ -123,7 +253,7 @@ xmlId: com.ttb.freemarker</description>
       <dc:date>2026-05-15T13:30:00Z</dc:date>
     </item>
     <item>
-      <title>LeakLens - Wed Jun 03 05:27:42 UTC 2026</title>
+      <title>LeakLens - Thu Jun 04 16:50:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32079-leaklens</link>
       <description>LeakLens — Professional Android Memory Leak Detection &amp;amp; Fix Assistant directly in your IDE. LeakLens integrates LeakCanary's Shark heap analysis engine into...
 
@@ -131,139 +261,9 @@ vendor: LeakLens
 downloads: 1
 pricingModel: FREE
 xmlId: com.github.devvikassoni.leaklens</description>
-      <pubDate>Wed, 03 Jun 2026 05:27:42 GMT</pubDate>
+      <pubDate>Thu, 04 Jun 2026 16:50:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32079-leaklens</guid>
-      <dc:date>2026-06-03T05:27:42Z</dc:date>
-    </item>
-    <item>
-      <title>ForestAi - Thu Jun 04 04:39:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32091-forestai</link>
-      <description>ForestAi is an AI coding assistant integrated into IntelliJ IDEA, powered by LangChain4j framework. It supports OpenAI, DeepSeek, Qwen, GLM and other LLM models...
-
-vendor: XiaChunLin
-downloads: 15
-pricingModel: FREE
-xmlId: org.ai.forestAi</description>
-      <pubDate>Thu, 04 Jun 2026 04:39:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32091-forestai</guid>
-      <dc:date>2026-06-04T04:39:21Z</dc:date>
-    </item>
-    <item>
-      <title>ROS Interface Syntax Highlighter - Wed Jun 03 02:40:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31993-ros-interface-syntax-highlighter</link>
-      <description>ROS Interface Syntax Highlighting for CLion Provides syntax highlighting for ROS Interface definition files: .msg - ROS Message definitions .srv - ROS Service...
-
-vendor: zhubeilife
-downloads: 3
-pricingModel: FREE
-xmlId: org.ros.highlighter.ros-msg</description>
-      <pubDate>Wed, 03 Jun 2026 02:40:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31993-ros-interface-syntax-highlighter</guid>
-      <dc:date>2026-06-03T02:40:45Z</dc:date>
-    </item>
-    <item>
-      <title>PathMark - Wed Jun 03 03:09:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32078-pathmark</link>
-      <description>Copy selected code location as a relative path with line range.
-
-vendor: XPoet
-downloads: 1
-pricingModel: FREE
-xmlId: cn.xpoet.pathmark</description>
-      <pubDate>Wed, 03 Jun 2026 03:09:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32078-pathmark</guid>
-      <dc:date>2026-06-03T03:09:16Z</dc:date>
-    </item>
-    <item>
-      <title>Git Link Detector - Sat May 30 09:48:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32019-git-link-detector</link>
-      <description>Detects URLs printed to IntelliJ's git console output and surfaces them as clickable balloon notifications. Handles device-flow login URLs, pull request creation...
-
-vendor: Przemysław eRIZ Pawliczuk
-downloads: 7
-pricingModel: FREE
-xmlId: pl.eriz.gitlinkdetector</description>
-      <pubDate>Sat, 30 May 2026 09:48:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32019-git-link-detector</guid>
-      <dc:date>2026-05-30T09:48:35Z</dc:date>
-    </item>
-    <item>
-      <title>Flexible For OpenSCAD - Sun May 31 14:57:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32015-flexible-for-openscad</link>
-      <description>OpenSCAD language support with a live interactive 3D preview, visual gizmo editing, smart completion, navigation, and code inspections — turn your JetBrains IDE into a...
-
-vendor: Ilscipio GmbH
-downloads: 12
-pricingModel: PAID
-xmlId: com.flexible.scad</description>
-      <pubDate>Sun, 31 May 2026 14:57:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32015-flexible-for-openscad</guid>
-      <dc:date>2026-05-31T14:57:41Z</dc:date>
-    </item>
-    <item>
-      <title>ahu-tool - Wed Jun 03 02:55:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32070-ahu-tool</link>
-      <description>ahu-tool is a JetBrains IDE productivity toolkit for AI code markers, shared component imports, repository management, configuration, and usage history. ahu-tool 面向...
-
-vendor: DaGu
-downloads: 27
-pricingModel: FREE
-xmlId: com.ahutool.plugin</description>
-      <pubDate>Wed, 03 Jun 2026 02:55:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32070-ahu-tool</guid>
-      <dc:date>2026-06-03T02:55:55Z</dc:date>
-    </item>
-    <item>
-      <title>ArchLens Analysis - Mon May 25 16:16:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31789-archlens-analysis</link>
-      <description>ArchLens — instant architecture visualization for Java projects, right inside IntelliJ IDEA. Click Analyze in the ArchLens sidebar to scan your project. ArchLens...
-
-vendor: ArchLens
-downloads: 11
-pricingModel: FREE
-xmlId: com.getarchlens</description>
-      <pubDate>Mon, 25 May 2026 16:16:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31789-archlens-analysis</guid>
-      <dc:date>2026-05-25T16:16:04Z</dc:date>
-    </item>
-    <item>
-      <title>Cucumber for Python - Wed Jun 03 08:29:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32043-cucumber-for-python</link>
-      <description>Cucumber for Python — full behave support for Gherkin features in IntelliJ IDEA: Resolve &amp;amp; navigate Gherkin steps to their @given/@when/@then Python step...
-
-vendor: Maxime HAMM
-downloads: 41
-pricingModel: FREE
-xmlId: io.nimbly.cucumber.python</description>
-      <pubDate>Wed, 03 Jun 2026 08:29:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32043-cucumber-for-python</guid>
-      <dc:date>2026-06-03T08:29:39Z</dc:date>
-    </item>
-    <item>
-      <title>MybatisLogFormatSQL - Wed Jun 03 18:44:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32073-mybatislogformatsql</link>
-      <description>MybatisLogFormatSQL formats MyBatis log output into executable SQL. Select MyBatis log text in any editor, right-click, and choose MybatisLogFormatSQL to see the SQL...
-
-vendor: aladinsws
-downloads: 16
-pricingModel: FREE
-xmlId: com.aladinsws.plugins</description>
-      <pubDate>Wed, 03 Jun 2026 18:44:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32073-mybatislogformatsql</guid>
-      <dc:date>2026-06-03T18:44:15Z</dc:date>
-    </item>
-    <item>
-      <title>LID - Linked-Intent Development - Tue Jun 02 00:27:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32047-lid--linked-intent-development</link>
-      <description>Keep design intent permanently linked to running code. LID (Linked-Intent Development) editor support for @spec citations, language server features, and visual Intent...
-
-vendor: lid-tools
-downloads: 12
-pricingModel: FREE
-xmlId: dev.lid</description>
-      <pubDate>Tue, 02 Jun 2026 00:27:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32047-lid--linked-intent-development</guid>
-      <dc:date>2026-06-02T00:27:39Z</dc:date>
+      <dc:date>2026-06-04T16:50:37Z</dc:date>
     </item>
   </channel>
 </rss>
