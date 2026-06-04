@@ -11,7 +11,7 @@
       <description>Bugsy is a cute animated 2D companion character that lives on the status bar of your IDE, walking along the bottom edge and reacting to everything happening in your...
 
 vendor: Basem
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.basem.bugsy</description>
       <pubDate>Wed, 03 Jun 2026 11:53:45 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.basem.bugsy</description>
       <description>Sonarwhale reads your API endpoints from OpenAPI/Swagger sources and makes them testable directly inside Rider. Automatic endpoint discovery via OpenAPI/Swagger — no...
 
 vendor: Yannik Köllmann
-downloads: 0
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.sonarwhale</description>
       <pubDate>Wed, 03 Jun 2026 08:52:27 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.sonarwhale</description>
       <description>AI CLI Launcher is a macOS-only launcher for local AI CLI tools in JetBrains IDEs. It opens Codex, Claude, Qwen Code, or any custom command in your preferred external...
 
 vendor: gujin
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: tech.gujin.ai.cli.launcher</description>
       <pubDate>Wed, 03 Jun 2026 09:08:39 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: tech.gujin.ai.cli.launcher</description>
       <description>Optimize SVG and Android VectorDrawable files with vgo from the Project view context menu.
 
 vendor: jzbrooks
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.jzbrooks.vgo</description>
       <pubDate>Wed, 03 Jun 2026 01:40:23 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.jzbrooks.vgo</description>
       <description>The OptIn plugin for IntelliJ provides inspections and quickfixes for Osmerion's Java port of Kotlin's opt-in mechanism. Learn more at https://osmerion.github.io/OptIn.
 
 vendor: Osmerion
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.osmerion.optin</description>
       <pubDate>Wed, 03 Jun 2026 17:31:43 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.osmerion.optin</description>
       <description>ML.NET Builder for JetBrains Rider Build, train, and deploy custom ML.NET machine learning models directly within JetBrains Rider. Step-by-step wizard — guided...
 
 vendor: ML.NET Builder
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.mlnet.builder</description>
       <pubDate>Wed, 03 Jun 2026 10:21:45 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.mlnet.builder</description>
       <description>JetBrains edition of Pixel Agents — a pixel art office where AI agents (Claude Code terminals) are animated characters you can watch work in real time. Compatible with...
 
 vendor: rlarin
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.rlarin.pixelagents</description>
       <pubDate>Wed, 03 Jun 2026 15:41:00 GMT</pubDate>
@@ -97,17 +97,17 @@ xmlId: io.github.rlarin.pixelagents</description>
       <dc:date>2026-06-03T15:41:00Z</dc:date>
     </item>
     <item>
-      <title>V6 Code Assistant - Wed Jun 03 09:09:21 UTC 2026</title>
+      <title>V6 Code Assistant - Thu Jun 04 02:05:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32081-v6-code-assistant</link>
-      <description>V6 Code Assistant is a code generation and project management tool based on the V6 project specification. Features: - Template-based code generation (Column, Table...
+      <description>V6 Code Assistant is a code assistant plugin based on project specifications. Features: - Template-based code generation (Column, Table, Model, Vue, Vo, Menu) - Visual...
 
 vendor: shenwl
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.ims.code.helper</description>
-      <pubDate>Wed, 03 Jun 2026 09:09:21 GMT</pubDate>
+      <pubDate>Thu, 04 Jun 2026 02:05:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32081-v6-code-assistant</guid>
-      <dc:date>2026-06-03T09:09:21Z</dc:date>
+      <dc:date>2026-06-04T02:05:18Z</dc:date>
     </item>
     <item>
       <title>FreeMarker Support - Fri May 15 13:30:00 UTC 2026</title>
@@ -115,7 +115,7 @@ xmlId: com.ims.code.helper</description>
       <description>FreeMarker Support for IntelliJ IDEA Provides comprehensive support for FreeMarker template language (.ftl, .ftlh, .ftlx). Free Features Full syntax highlighting for...
 
 vendor: Toby Tan
-downloads: 0
+downloads: 2
 pricingModel: FREEMIUM
 xmlId: com.ttb.freemarker</description>
       <pubDate>Fri, 15 May 2026 13:30:00 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.ttb.freemarker</description>
       <description>LeakLens — Professional Android Memory Leak Detection &amp;amp; Fix Assistant directly in your IDE. LeakLens integrates LeakCanary's Shark heap analysis engine into...
 
 vendor: LeakLens
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.devvikassoni.leaklens</description>
       <pubDate>Wed, 03 Jun 2026 05:27:42 GMT</pubDate>
@@ -136,17 +136,17 @@ xmlId: com.github.devvikassoni.leaklens</description>
       <dc:date>2026-06-03T05:27:42Z</dc:date>
     </item>
     <item>
-      <title>ForestAi - Thu Jun 04 00:10:50 UTC 2026</title>
+      <title>ForestAi - Thu Jun 04 04:39:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32091-forestai</link>
       <description>ForestAi is an AI coding assistant integrated into IntelliJ IDEA, powered by LangChain4j framework. It supports OpenAI, DeepSeek, Qwen, GLM and other LLM models...
 
 vendor: XiaChunLin
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: org.ai.forestAi</description>
-      <pubDate>Thu, 04 Jun 2026 00:10:50 GMT</pubDate>
+      <pubDate>Thu, 04 Jun 2026 04:39:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32091-forestai</guid>
-      <dc:date>2026-06-04T00:10:50Z</dc:date>
+      <dc:date>2026-06-04T04:39:21Z</dc:date>
     </item>
     <item>
       <title>ROS Interface Syntax Highlighter - Wed Jun 03 02:40:45 UTC 2026</title>
@@ -154,7 +154,7 @@ xmlId: org.ai.forestAi</description>
       <description>ROS Interface Syntax Highlighting for CLion Provides syntax highlighting for ROS Interface definition files: .msg - ROS Message definitions .srv - ROS Service...
 
 vendor: zhubeilife
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: org.ros.highlighter.ros-msg</description>
       <pubDate>Wed, 03 Jun 2026 02:40:45 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: org.ros.highlighter.ros-msg</description>
       <description>Copy selected code location as a relative path with line range.
 
 vendor: XPoet
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: cn.xpoet.pathmark</description>
       <pubDate>Wed, 03 Jun 2026 03:09:16 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: cn.xpoet.pathmark</description>
       <description>Detects URLs printed to IntelliJ's git console output and surfaces them as clickable balloon notifications. Handles device-flow login URLs, pull request creation...
 
 vendor: Przemysław eRIZ Pawliczuk
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: pl.eriz.gitlinkdetector</description>
       <pubDate>Sat, 30 May 2026 09:48:35 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: pl.eriz.gitlinkdetector</description>
       <description>OpenSCAD language support with a live interactive 3D preview, visual gizmo editing, smart completion, navigation, and code inspections — turn your JetBrains IDE into a...
 
 vendor: Ilscipio GmbH
-downloads: 3
+downloads: 12
 pricingModel: PAID
 xmlId: com.flexible.scad</description>
       <pubDate>Sun, 31 May 2026 14:57:41 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.flexible.scad</description>
       <description>ahu-tool is a JetBrains IDE productivity toolkit for AI code markers, shared component imports, repository management, configuration, and usage history. ahu-tool 面向...
 
 vendor: DaGu
-downloads: 0
+downloads: 27
 pricingModel: FREE
 xmlId: com.ahutool.plugin</description>
       <pubDate>Wed, 03 Jun 2026 02:55:55 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.ahutool.plugin</description>
       <description>ArchLens — instant architecture visualization for Java projects, right inside IntelliJ IDEA. Click Analyze in the ArchLens sidebar to scan your project. ArchLens...
 
 vendor: ArchLens
-downloads: 5
+downloads: 11
 pricingModel: FREE
 xmlId: com.getarchlens</description>
       <pubDate>Mon, 25 May 2026 16:16:04 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.getarchlens</description>
       <description>Cucumber for Python — full behave support for Gherkin features in IntelliJ IDEA: Resolve &amp;amp; navigate Gherkin steps to their @given/@when/@then Python step...
 
 vendor: Maxime HAMM
-downloads: 18
+downloads: 41
 pricingModel: FREE
 xmlId: io.nimbly.cucumber.python</description>
       <pubDate>Wed, 03 Jun 2026 08:29:39 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: io.nimbly.cucumber.python</description>
       <description>MybatisLogFormatSQL formats MyBatis log output into executable SQL. Select MyBatis log text in any editor, right-click, and choose MybatisLogFormatSQL to see the SQL...
 
 vendor: aladinsws
-downloads: 3
+downloads: 16
 pricingModel: FREE
 xmlId: com.aladinsws.plugins</description>
       <pubDate>Wed, 03 Jun 2026 18:44:15 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.aladinsws.plugins</description>
       <description>Keep design intent permanently linked to running code. LID (Linked-Intent Development) editor support for @spec citations, language server features, and visual Intent...
 
 vendor: lid-tools
-downloads: 6
+downloads: 12
 pricingModel: FREE
 xmlId: dev.lid</description>
       <pubDate>Tue, 02 Jun 2026 00:27:39 GMT</pubDate>
