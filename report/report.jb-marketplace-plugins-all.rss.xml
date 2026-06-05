@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Glowtrace for Python - Thu Jun 04 21:01:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32088-glowtrace-for-python</link>
+      <description>Runtime values for Python, without stopping your program Glowtrace for Python captures values, output, exceptions, and execution history while you run Python code...
+
+vendor: Code
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.glowtrace.python</description>
+      <pubDate>Thu, 04 Jun 2026 21:01:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32088-glowtrace-for-python</guid>
+      <dc:date>2026-06-04T21:01:12Z</dc:date>
+    </item>
+    <item>
       <title>Scope Lantern - Thu Jun 04 07:16:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32098-scope-lantern</link>
       <description>Scope Lantern highlights the code scope around the place you click, making nested code easier to scan. Use Ctrl + right click to highlight the nearest meaningful code...
@@ -71,7 +84,7 @@ xmlId: ai.documentationfirst.ddd</description>
       <dc:date>2026-05-23T14:49:39Z</dc:date>
     </item>
     <item>
-      <title>BuildMyCommand DSL Support - Thu Jun 04 15:17:49 UTC 2026</title>
+      <title>BuildMyCommand DSL Support - Fri Jun 05 08:03:56 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32101-buildmycommand-dsl-support</link>
       <description>Adds initial IntelliJ awareness for BuildMyCommand annotation and route DSL string literals.
 
@@ -79,9 +92,9 @@ vendor: Build My Command Support
 downloads: 0
 pricingModel: FREE
 xmlId: dev.riege.buildmycommand.dsl</description>
-      <pubDate>Thu, 04 Jun 2026 15:17:49 GMT</pubDate>
+      <pubDate>Fri, 05 Jun 2026 08:03:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32101-buildmycommand-dsl-support</guid>
-      <dc:date>2026-06-04T15:17:49Z</dc:date>
+      <dc:date>2026-06-05T08:03:56Z</dc:date>
     </item>
     <item>
       <title>Ren'Py Language Clone - Wed Jun 03 21:37:08 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: de.javosoft.plugin.inputremapper</description>
       <pubDate>Thu, 04 Jun 2026 11:54:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32103-input-remapper</guid>
       <dc:date>2026-06-04T11:54:33Z</dc:date>
-    </item>
-    <item>
-      <title>Ketoy - Mon Jun 01 08:43:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32051-ketoy</link>
-      <description>Ketoy is a server-driven execution runtime for Android. You write Kotlin and Jetpack Compose with a few Ketoy annotations, compile it into a signed, compact .ktx...
-
-vendor: Ketoy
-downloads: 1
-pricingModel: FREE
-xmlId: dev.ketoy.idea.bundle-inspector</description>
-      <pubDate>Mon, 01 Jun 2026 08:43:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32051-ketoy</guid>
-      <dc:date>2026-06-01T08:43:51Z</dc:date>
     </item>
   </channel>
 </rss>
