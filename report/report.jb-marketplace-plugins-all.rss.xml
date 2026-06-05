@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Branch Guard - Thu Jun 04 03:52:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32097-branch-guard</link>
+      <description>Prevent accidental development on protected branches. Branch Guard detects when you start editing code on branches like main, master, or develop and offers to create a...
+
+vendor: Jonathan Jorge
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.jonajor.branchguard</description>
+      <pubDate>Thu, 04 Jun 2026 03:52:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32097-branch-guard</guid>
+      <dc:date>2026-06-04T03:52:08Z</dc:date>
+    </item>
+    <item>
       <title>Glowtrace for Python - Thu Jun 04 21:01:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32088-glowtrace-for-python</link>
       <description>Runtime values for Python, without stopping your program Glowtrace for Python captures values, output, exceptions, and execution history while you run Python code...
@@ -251,19 +264,6 @@ xmlId: com.reasonix.gui</description>
       <pubDate>Mon, 01 Jun 2026 11:14:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32054-rx-gui</guid>
       <dc:date>2026-06-01T11:14:37Z</dc:date>
-    </item>
-    <item>
-      <title>Input Remapper - Thu Jun 04 11:54:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32103-input-remapper</link>
-      <description>Input Remapper allows users to define custom character remappings for specific file extensions. It can be toggled from the status bar, through the Tools menu, or by...
-
-vendor: JAVOsoft
-downloads: 2
-pricingModel: FREE
-xmlId: de.javosoft.plugin.inputremapper</description>
-      <pubDate>Thu, 04 Jun 2026 11:54:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32103-input-remapper</guid>
-      <dc:date>2026-06-04T11:54:33Z</dc:date>
     </item>
   </channel>
 </rss>
