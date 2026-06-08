@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Processing Project Generator - Thu Apr 30 08:01:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31491-processing-project-generator</link>
+      <description>Generates a ready-to-run Processing (processing.org) Maven project inside IntelliJ IDEA. Auto-detects your Processing 4 installation on macOS, Windows and Linux...
+
+vendor: tessG
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.tessG.processing-generator</description>
+      <pubDate>Thu, 30 Apr 2026 08:01:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31491-processing-project-generator</guid>
+      <dc:date>2026-04-30T08:01:33Z</dc:date>
+    </item>
+    <item>
       <title>Branch Guard - Thu Jun 04 03:52:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32097-branch-guard</link>
       <description>Prevent accidental development on protected branches. Branch Guard detects when you start editing code on branches like main, master, or develop and offers to create a...
@@ -71,7 +84,7 @@ xmlId: com.pipelinepilot</description>
       <dc:date>2026-06-04T16:56:09Z</dc:date>
     </item>
     <item>
-      <title>Market Ticker - Thu Jun 04 15:00:48 UTC 2026</title>
+      <title>Market Ticker - Mon Jun 08 08:24:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32107-market-ticker</link>
       <description>Market Ticker is an IntelliJ Platform plugin for tracking Korean stocks, global stocks, and crypto inside the IDE with watchlists, portfolio view, alerts, charts...
 
@@ -79,9 +92,9 @@ vendor: MyeoungDev
 downloads: 10
 pricingModel: FREE
 xmlId: com.github.myeoungdev.marketticker</description>
-      <pubDate>Thu, 04 Jun 2026 15:00:48 GMT</pubDate>
+      <pubDate>Mon, 08 Jun 2026 08:24:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32107-market-ticker</guid>
-      <dc:date>2026-06-04T15:00:48Z</dc:date>
+      <dc:date>2026-06-08T08:24:03Z</dc:date>
     </item>
     <item>
       <title>Documentation First - DDD2 - Sat May 23 14:49:39 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: cc.chickcc.mybatis-log-ano</description>
       <pubDate>Thu, 04 Jun 2026 08:07:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32023-mybatis-log-ano</guid>
       <dc:date>2026-06-04T08:07:13Z</dc:date>
-    </item>
-    <item>
-      <title>RX GUI - Mon Jun 01 11:14:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32054-rx-gui</link>
-      <description>RX GUI — Reasonix AI Coding Assistant An AI-powered coding assistant right in your JetBrains IDE sidebar. Built on the DeepSeek-Reasonix model, it supports streaming...
-
-vendor: 68110923
-downloads: 29
-pricingModel: FREE
-xmlId: com.reasonix.gui</description>
-      <pubDate>Mon, 01 Jun 2026 11:14:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32054-rx-gui</guid>
-      <dc:date>2026-06-01T11:14:37Z</dc:date>
     </item>
   </channel>
 </rss>
