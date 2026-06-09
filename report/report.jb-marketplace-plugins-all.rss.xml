@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Kt-Typealias-Ts - Tue Jun 09 12:40:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32124-kt-typealias-ts</link>
+      <description>Enhances Kotlin's typealias by enforcing strict compile-time type safety. This plugin prevents accidental mixing of distinct typealiases that share the same underlying...
+
+vendor: Codirex
+downloads: 2
+pricingModel: FREE
+xmlId: org.codirex.kt-typealias-ts</description>
+      <pubDate>Tue, 09 Jun 2026 12:40:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32124-kt-typealias-ts</guid>
+      <dc:date>2026-06-09T12:40:49Z</dc:date>
+    </item>
+    <item>
+      <title>BookmarkAI - Tue Jun 09 09:42:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31868-bookmarkai</link>
+      <description>BookmarkAI English BookmarkAI is a code bookmark and project knowledge tool built for the AI-assisted coding era. It helps developers and AI build project context...
+
+vendor: Dylan OY
+downloads: 5
+pricingModel: FREEMIUM
+xmlId: com.dylanoy.bookmarkai</description>
+      <pubDate>Tue, 09 Jun 2026 09:42:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31868-bookmarkai</guid>
+      <dc:date>2026-06-09T09:42:25Z</dc:date>
+    </item>
+    <item>
       <title>Kshana - PNT simulator - Mon Jun 08 20:15:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32181-kshana--pnt-simulator</link>
       <description>Run Kshana — the open, reproducible positioning/navigation/timing (PNT) resilience simulator — directly from your JetBrains IDE. Right-click any scenario .toml and...
@@ -238,32 +264,6 @@ xmlId: com.casiku.aca</description>
       <pubDate>Mon, 08 Jun 2026 09:26:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32170-ai-auto-commit-assistant</guid>
       <dc:date>2026-06-08T09:26:37Z</dc:date>
-    </item>
-    <item>
-      <title>Antlers - Mon Jun 08 16:59:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32139-antlers</link>
-      <description>Full language support for Statamic Antlers templates (*.antlers.html and *.antlers.php) in IntelliJ-based IDEs. Antlers is parsed as a template language layered over...
-
-vendor: BALOTIAS
-downloads: 10
-pricingModel: FREE
-xmlId: com.github.balotias.intellijantlers</description>
-      <pubDate>Mon, 08 Jun 2026 16:59:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32139-antlers</guid>
-      <dc:date>2026-06-08T16:59:33Z</dc:date>
-    </item>
-    <item>
-      <title>Easy Multi Project Checkout Branch - Mon Jun 08 05:58:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32114-easy-multi-project-checkout-branch</link>
-      <description>Easy Multi Project Checkout Branch Easy Multi Project Checkout Branch helps you inspect and switch branches for multiple Git repositories from one IntelliJ IDEA tool...
-
-vendor: August Lee
-downloads: 5
-pricingModel: FREE
-xmlId: com.augustlee.tool.checkbranch</description>
-      <pubDate>Mon, 08 Jun 2026 05:58:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32114-easy-multi-project-checkout-branch</guid>
-      <dc:date>2026-06-08T05:58:24Z</dc:date>
     </item>
   </channel>
 </rss>
