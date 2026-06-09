@@ -5,5 +5,18 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>STM32 for CLion - Fri Jun 05 11:49:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32117-stm32-for-clion</link>
+      <description>Adds support for STM32 microcontroller firmware development in CLion: Detects STM32CubeMX .ioc projects and synchronizes CLion with their configuration. Provides a...
+
+vendor: JetBrains s.r.o.
+downloads: 1
+pricingModel: FREE
+xmlId: com.intellij.clion.stm32</description>
+      <pubDate>Fri, 05 Jun 2026 11:49:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32117-stm32-for-clion</guid>
+      <dc:date>2026-06-05T11:49:24Z</dc:date>
+    </item>
   </channel>
 </rss>
