@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FeignHelper - Wed Jun 10 08:40:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32207-feignhelper</link>
+      <description>FeignHelper A modern navigation assistant for Spring Cloud OpenFeign, Spring MVC and the Spring 6 @HttpExchange declarative HTTP client, built on top of IntelliJ...
+
+vendor: HorizonX
+downloads: 0
+pricingModel: FREE
+xmlId: com.lizhuolun.feignhelper</description>
+      <pubDate>Wed, 10 Jun 2026 08:40:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32207-feignhelper</guid>
+      <dc:date>2026-06-10T08:40:21Z</dc:date>
+    </item>
+    <item>
+      <title>KStateMachine Visual - Tue Jun 09 20:42:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32202-kstatemachine-visual</link>
+      <description>KStateMachine Visual is the IDE plugin for the KStateMachine Kotlin library. It statically analyzes your Kotlin source — including if / when branches that the runtime...
+
+vendor: KStateMachine
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.nsk90.kstatemachineintellijplatformplugin</description>
+      <pubDate>Tue, 09 Jun 2026 20:42:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32202-kstatemachine-visual</guid>
+      <dc:date>2026-06-09T20:42:57Z</dc:date>
+    </item>
+    <item>
+      <title>Slidev - Tue Jun 09 20:28:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32201-slidev</link>
+      <description>Integrated support for Slidev presentations. Auto-detects slides.md Slidev projects in your workspace Starts, adopts, and stops the Slidev dev server (configurable dev...
+
+vendor: Jan-Niklas Wortmann
+downloads: 0
+pricingModel: FREE
+xmlId: dev.slidev.plugin</description>
+      <pubDate>Tue, 09 Jun 2026 20:28:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32201-slidev</guid>
+      <dc:date>2026-06-09T20:28:04Z</dc:date>
+    </item>
+    <item>
+      <title>DeepSeek Assistant - Tue Jun 09 16:27:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32199-deepseek-assistant</link>
+      <description>DeepSeek Assistant integrates DeepSeek large language model into IntelliJ IDEA. Open the DS Chat tool window on the right sidebar to start an AI conversation...
+
+vendor: zzmgc4
+downloads: 0
+pricingModel: FREE
+xmlId: com.zzmgc4.ai.ds</description>
+      <pubDate>Tue, 09 Jun 2026 16:27:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32199-deepseek-assistant</guid>
+      <dc:date>2026-06-09T16:27:52Z</dc:date>
+    </item>
+    <item>
+      <title>WinPortKill - Tue Jun 09 14:40:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32194-winportkill</link>
+      <description>Inspect local Windows x64 listening ports and processes directly inside JetBrains IDEs. Ports and processes views in a Tool Window Filter by PID, process name...
+
+vendor: NoxLightman
+downloads: 0
+pricingModel: FREE
+xmlId: dev.winportkill.jetbrains</description>
+      <pubDate>Tue, 09 Jun 2026 14:40:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32194-winportkill</guid>
+      <dc:date>2026-06-09T14:40:34Z</dc:date>
+    </item>
+    <item>
+      <title>EdgeTrim - Figma edge/seam fixer - Wed Jun 10 09:00:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32193-edgetrim--figma-edge-seam-fixer</link>
+      <description>EdgeTrim finds and fixes the faint 1px line Figma sometimes bakes into the edges of exported images — the thin white / transparent border (a "ghost pixel" or edge...
+
+vendor: woox
+downloads: 0
+pricingModel: FREE
+xmlId: kr.co.woox.edgetrim</description>
+      <pubDate>Wed, 10 Jun 2026 09:00:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32193-edgetrim--figma-edge-seam-fixer</guid>
+      <dc:date>2026-06-10T09:00:22Z</dc:date>
+    </item>
+    <item>
+      <title>Flexible For Base UI - Tue Jun 09 15:33:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32195-flexible-for-base-ui</link>
+      <description>Base UI helper with smart completion, auto-import, inline docs, drag-and-drop, live preview, and a full component browser. This is an unofficial plugin for the love of...
+
+vendor: Ilscipio GmbH
+downloads: 0
+pricingModel: PAID
+xmlId: com.ilscipio.baseui</description>
+      <pubDate>Tue, 09 Jun 2026 15:33:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32195-flexible-for-base-ui</guid>
+      <dc:date>2026-06-09T15:33:11Z</dc:date>
+    </item>
+    <item>
       <title>Key Explorer Lite - Mon Jun 08 09:09:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32157-key-explorer-lite</link>
       <description>Key Explorer Lite is a free, native IDE tool designed for developers who need to quickly inspect and validate cryptographic assets without leaving their workflow...
@@ -45,7 +136,7 @@ xmlId: com.angularswitcher</description>
       <dc:date>2026-06-09T23:25:48Z</dc:date>
     </item>
     <item>
-      <title>Quantum DSL (QTN) Language Support - Tue Jun 09 09:12:14 UTC 2026</title>
+      <title>Quantum DSL (QTN) Language Support - Wed Jun 10 08:53:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32137-quantum-dsl-qtn-language-support</link>
       <description>Syntax highlighting and Language Server support for Photon Quantum3 DSL (.qtn) files in JetBrains Rider, including autocomplete, go-to-definition, hover information...
 
@@ -53,9 +144,9 @@ vendor: shlifedev
 downloads: 2
 pricingModel: FREE
 xmlId: com.qtn.syntax-highlighting</description>
-      <pubDate>Tue, 09 Jun 2026 09:12:14 GMT</pubDate>
+      <pubDate>Wed, 10 Jun 2026 08:53:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32137-quantum-dsl-qtn-language-support</guid>
-      <dc:date>2026-06-09T09:12:14Z</dc:date>
+      <dc:date>2026-06-10T08:53:17Z</dc:date>
     </item>
     <item>
       <title>Axiode - Tue Jun 09 07:46:13 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: com.codex.idea.Grindstone</description>
       <pubDate>Tue, 09 Jun 2026 16:18:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32179-grindstone</guid>
       <dc:date>2026-06-09T16:18:56Z</dc:date>
-    </item>
-    <item>
-      <title>HubDev Manager - Sun Jun 07 19:34:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32158-hubdev-manager</link>
-      <description>HubDev Manager — HubDev Integration for PhpStorm Manage your HubDev local development sites directly from the IDE. Auto-detects the HubDev installation (including the...
-
-vendor: Jefferson Gonçalves
-downloads: 8
-pricingModel: FREE
-xmlId: com.jeffersongoncalves.hubdevmanager</description>
-      <pubDate>Sun, 07 Jun 2026 19:34:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32158-hubdev-manager</guid>
-      <dc:date>2026-06-07T19:34:46Z</dc:date>
-    </item>
-    <item>
-      <title>STM32 for CLion - Fri Jun 05 11:49:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32117-stm32-for-clion</link>
-      <description>Adds support for STM32 microcontroller firmware development in CLion: Detects STM32CubeMX .ioc projects and synchronizes CLion with their configuration. Provides a...
-
-vendor: JetBrains s.r.o.
-downloads: 7
-pricingModel: FREE
-xmlId: com.intellij.clion.stm32</description>
-      <pubDate>Fri, 05 Jun 2026 11:49:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32117-stm32-for-clion</guid>
-      <dc:date>2026-06-05T11:49:24Z</dc:date>
-    </item>
-    <item>
-      <title>SpiceDB Toolkit - Sun May 17 10:13:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31685-spicedb-toolkit</link>
-      <description>SpiceDB schema language support for IntelliJ-based IDEs. Provides syntax highlighting, code completion, navigation, and error detection for .zed files.
-
-vendor: Labset
-downloads: 9
-pricingModel: PAID
-xmlId: org.labset.ide.spicedb</description>
-      <pubDate>Sun, 17 May 2026 10:13:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31685-spicedb-toolkit</guid>
-      <dc:date>2026-05-17T10:13:07Z</dc:date>
-    </item>
-    <item>
-      <title>Book Reader - Fri Jun 05 21:27:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32121-book-reader</link>
-      <description>Read EPUB, FB2, and PDF books directly in your IDE. Features: EPUB, FB2, PDF support Light / Night theme Recent books tool window.
-
-vendor: haoticdance
-downloads: 7
-pricingModel: FREE
-xmlId: com.github.haoticdance.bookreaderintellijplugin</description>
-      <pubDate>Fri, 05 Jun 2026 21:27:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32121-book-reader</guid>
-      <dc:date>2026-06-05T21:27:16Z</dc:date>
-    </item>
-    <item>
-      <title>Agent Skills Editing - Sat Jun 06 16:09:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32131-agent-skills-editing</link>
-      <description>Provides editing support for Codex SKILL.md files: JSON Schema injection — Autocomplete and validation for SKILL.md YAML front-matterMetadata inspection — Validates...
-
-vendor: ghostflyby
-downloads: 11
-pricingModel: FREE
-xmlId: dev.ghostflyby.agent-skills-editing</description>
-      <pubDate>Sat, 06 Jun 2026 16:09:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32131-agent-skills-editing</guid>
-      <dc:date>2026-06-06T16:09:24Z</dc:date>
-    </item>
-    <item>
-      <title>Bevy HTML Support - Sun Jun 07 12:08:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32154-bevy-html-support</link>
-      <description>RustRover plugin for Bevy and bevy_extended_ui workflows. Bevy New Project Wizard with version, feature, and asset selection. Beu Generate action in the project tree...
-
-vendor: Tiltus
-downloads: 5
-pricingModel: FREE
-xmlId: com.tiltus.beu.parser</description>
-      <pubDate>Sun, 07 Jun 2026 12:08:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32154-bevy-html-support</guid>
-      <dc:date>2026-06-07T12:08:41Z</dc:date>
-    </item>
-    <item>
-      <title>Vue.js Pro - Sat Jun 06 13:22:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32133-vue-js-pro</link>
-      <description>Vue.js Pro brings Vue 3 Single File Component support to IntelliJ-based IDEs, including project creation, editor assistance, navigation, inspections, refactoring, and...
-
-vendor: Jetplugins
-downloads: 4
-pricingModel: PAID
-xmlId: dev.jetplugins.vuejs</description>
-      <pubDate>Sat, 06 Jun 2026 13:22:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32133-vue-js-pro</guid>
-      <dc:date>2026-06-06T13:22:39Z</dc:date>
     </item>
   </channel>
 </rss>
