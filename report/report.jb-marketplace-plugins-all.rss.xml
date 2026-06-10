@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Antlers Toolbox - Wed Jun 10 04:03:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32203-antlers-toolbox</link>
+      <description>Developer tooling for the Antlers templating language in Statamic projects. Includes Antlers parsing, highlighting, diagnostics, completion, documentation, parameter...
+
+vendor: Stillat
+downloads: 0
+pricingModel: FREE
+xmlId: com.stillat.toolbox</description>
+      <pubDate>Wed, 10 Jun 2026 04:03:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32203-antlers-toolbox</guid>
+      <dc:date>2026-06-10T04:03:55Z</dc:date>
+    </item>
+    <item>
+      <title>Firebase Co-Pilot Build Uploader - Wed Jun 10 11:22:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32211-firebase-co-pilot-build-uploader</link>
+      <description>Firebase Co-Pilot: Build Uploader — Smart Firebase Distribution for Android Developers Streamline your Android build and distribution workflow directly from Android...
+
+vendor: Hardil Dilipbhai Undavia
+downloads: 0
+pricingModel: FREE
+xmlId: com.firebasebuilduploader.android</description>
+      <pubDate>Wed, 10 Jun 2026 11:22:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32211-firebase-co-pilot-build-uploader</guid>
+      <dc:date>2026-06-10T11:22:33Z</dc:date>
+    </item>
+    <item>
+      <title>Minecraft Dev Server Helper - Wed Jun 10 11:30:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32212-minecraft-dev-server-helper</link>
+      <description>Development helper for Minecraft plugin projects. It runs a local Spigot/Paper server, prepares a small dev server folder, restarts on project file changes, and...
+
+vendor: Minecraft Plugin Developement Helper
+downloads: 0
+pricingModel: FREE
+xmlId: dev.edminecraft.plugins</description>
+      <pubDate>Wed, 10 Jun 2026 11:30:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32212-minecraft-dev-server-helper</guid>
+      <dc:date>2026-06-10T11:30:38Z</dc:date>
+    </item>
+    <item>
+      <title>Cursor IME HUD - Wed Jun 10 11:39:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32213-cursor-ime-hud</link>
+      <description>Cursor IME HUD displays the current Chinese/English IME state in JetBrains IDEs. 输入法状态提示: shows the current input mode in the status bar so Chinese developers can...
+
+vendor: chestnut
+downloads: 0
+pricingModel: FREE
+xmlId: com.chestnutch.cursor-ime-hud</description>
+      <pubDate>Wed, 10 Jun 2026 11:39:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32213-cursor-ime-hud</guid>
+      <dc:date>2026-06-10T11:39:51Z</dc:date>
+    </item>
+    <item>
       <title>Docker Compose Postgres Datasources - Tue Jun 09 16:21:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32196-docker-compose-postgres-datasources</link>
       <description>Turns the PostgreSQL services in your docker-compose files into ready-to-use database connections. On project open — and on demand via Tools | Sync Docker Compose...
@@ -188,7 +240,7 @@ xmlId: com.angularswitcher</description>
       <dc:date>2026-06-09T23:25:48Z</dc:date>
     </item>
     <item>
-      <title>Quantum DSL (QTN) Language Support - Wed Jun 10 08:53:17 UTC 2026</title>
+      <title>Quantum DSL (QTN) Language Support - Wed Jun 10 14:15:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32137-quantum-dsl-qtn-language-support</link>
       <description>Syntax highlighting and Language Server support for Photon Quantum3 DSL (.qtn) files in JetBrains Rider, including autocomplete, go-to-definition, hover information...
 
@@ -196,9 +248,9 @@ vendor: shlifedev
 downloads: 2
 pricingModel: FREE
 xmlId: com.qtn.syntax-highlighting</description>
-      <pubDate>Wed, 10 Jun 2026 08:53:17 GMT</pubDate>
+      <pubDate>Wed, 10 Jun 2026 14:15:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32137-quantum-dsl-qtn-language-support</guid>
-      <dc:date>2026-06-10T08:53:17Z</dc:date>
+      <dc:date>2026-06-10T14:15:44Z</dc:date>
     </item>
     <item>
       <title>Axiode - Tue Jun 09 07:46:13 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.axiode.plugin</description>
       <pubDate>Tue, 09 Jun 2026 07:46:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32080-axiode</guid>
       <dc:date>2026-06-09T07:46:13Z</dc:date>
-    </item>
-    <item>
-      <title>Crystal Language - Mon Jun 08 22:23:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32180-crystal-language</link>
-      <description>Comprehensive Crystal language support for all JetBrains IDEs — IntelliJ IDEA, RubyMine, WebStorm, CLion, and others. Provides a rich development experience with...
-
-vendor: MAGYNHARD
-downloads: 2
-pricingModel: FREE
-xmlId: de.magynhard.crystal</description>
-      <pubDate>Mon, 08 Jun 2026 22:23:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32180-crystal-language</guid>
-      <dc:date>2026-06-08T22:23:30Z</dc:date>
-    </item>
-    <item>
-      <title>ESPHome - Wed Jun 10 12:20:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32186-esphome</link>
-      <description>ESPHome configuration support for JetBrains IDEs. Provides completion, documentation, validation, and navigation for ESPHome YAML device configurations, driven by the...
-
-vendor: Clydebarrow
-downloads: 2
-pricingModel: FREE
-xmlId: io.esphome.plugin</description>
-      <pubDate>Wed, 10 Jun 2026 12:20:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32186-esphome</guid>
-      <dc:date>2026-06-10T12:20:56Z</dc:date>
-    </item>
-    <item>
-      <title>AppleScript Toolkit - Tue Jun 09 11:01:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32123-applescript-toolkit</link>
-      <description>AppleScript support for modern JetBrains IDEs. A maintained Kotlin rewrite and revival of the original Apache-2.0 AppleScript plugin, updated for current IntelliJ...
-
-vendor: barad1tos software
-downloads: 7
-pricingModel: PAID
-xmlId: software.barad1tos.applescript.toolkit</description>
-      <pubDate>Tue, 09 Jun 2026 11:01:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32123-applescript-toolkit</guid>
-      <dc:date>2026-06-09T11:01:28Z</dc:date>
-    </item>
-    <item>
-      <title>Native Versions Showcase - Tue Jun 09 15:57:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32197-native-versions-showcase</link>
-      <description>Showcase os-specific plugin builds for JetBrains IDEs.
-
-vendor: JetBrains s.r.o.
-downloads: 11
-pricingModel: FREE
-xmlId: org.jetbrains.native-versions-showcase</description>
-      <pubDate>Tue, 09 Jun 2026 15:57:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32197-native-versions-showcase</guid>
-      <dc:date>2026-06-09T15:57:36Z</dc:date>
     </item>
   </channel>
 </rss>
