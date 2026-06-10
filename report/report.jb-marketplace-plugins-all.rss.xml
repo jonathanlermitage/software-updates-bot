@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Docker Compose Postgres Datasources - Tue Jun 09 16:21:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32196-docker-compose-postgres-datasources</link>
+      <description>Turns the PostgreSQL services in your docker-compose files into ready-to-use database connections. On project open — and on demand via Tools | Sync Docker Compose...
+
+vendor: Henry Heikkinen
+downloads: 0
+pricingModel: FREE
+xmlId: fi.rce.idea.datasources</description>
+      <pubDate>Tue, 09 Jun 2026 16:21:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32196-docker-compose-postgres-datasources</guid>
+      <dc:date>2026-06-09T16:21:03Z</dc:date>
+    </item>
+    <item>
+      <title>Carve - Wed Jun 10 03:45:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32204-carve</link>
+      <description>Carve markup language support for JetBrains IDEs. Features Syntax highlighting via TextMate grammar Live preview panel (split editor view) IDE theme sync - preview...
+
+vendor: markup-carve
+downloads: 0
+pricingModel: FREE
+xmlId: org.markupcarve.carve</description>
+      <pubDate>Wed, 10 Jun 2026 03:45:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32204-carve</guid>
+      <dc:date>2026-06-10T03:45:11Z</dc:date>
+    </item>
+    <item>
+      <title>WorkLog - Sat Jun 06 10:47:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32128-worklog</link>
+      <description>WorkLog helps developers turn Git activity into daily work logs, AI summaries, code review reports, and periodic work reports directly inside IntelliJ-based IDEs. Key...
+
+vendor: WorkLog Plugin
+downloads: 3
+pricingModel: FREE
+xmlId: com.worklog</description>
+      <pubDate>Sat, 06 Jun 2026 10:47:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32128-worklog</guid>
+      <dc:date>2026-06-06T10:47:53Z</dc:date>
+    </item>
+    <item>
+      <title>Prismio Language Support - Tue Jun 09 14:22:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32192-prismio-language-support</link>
+      <description>Prismio Language Support Language support for Prismio (.psm files) in JetBrains IDEs. Features: Syntax Highlighting - Lexer-based and semantic highlighting for...
+
+vendor: Prismio
+downloads: 0
+pricingModel: FREE
+xmlId: io.prismio</description>
+      <pubDate>Tue, 09 Jun 2026 14:22:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32192-prismio-language-support</guid>
+      <dc:date>2026-06-09T14:22:33Z</dc:date>
+    </item>
+    <item>
       <title>FeignHelper - Wed Jun 10 08:40:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32207-feignhelper</link>
       <description>FeignHelper A modern navigation assistant for Spring Cloud OpenFeign, Spring MVC and the Spring 6 @HttpExchange declarative HTTP client, built on top of IntelliJ...
@@ -175,7 +227,7 @@ xmlId: de.magynhard.crystal</description>
       <dc:date>2026-06-08T22:23:30Z</dc:date>
     </item>
     <item>
-      <title>ESPHome - Wed Jun 10 01:15:27 UTC 2026</title>
+      <title>ESPHome - Wed Jun 10 12:20:56 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32186-esphome</link>
       <description>ESPHome configuration support for JetBrains IDEs. Provides completion, documentation, validation, and navigation for ESPHome YAML device configurations, driven by the...
 
@@ -183,9 +235,9 @@ vendor: Clydebarrow
 downloads: 2
 pricingModel: FREE
 xmlId: io.esphome.plugin</description>
-      <pubDate>Wed, 10 Jun 2026 01:15:27 GMT</pubDate>
+      <pubDate>Wed, 10 Jun 2026 12:20:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32186-esphome</guid>
-      <dc:date>2026-06-10T01:15:27Z</dc:date>
+      <dc:date>2026-06-10T12:20:56Z</dc:date>
     </item>
     <item>
       <title>AppleScript Toolkit - Tue Jun 09 11:01:28 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: org.jetbrains.native-versions-showcase</description>
       <pubDate>Tue, 09 Jun 2026 15:57:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32197-native-versions-showcase</guid>
       <dc:date>2026-06-09T15:57:36Z</dc:date>
-    </item>
-    <item>
-      <title>Kt-Typealias-Ts - Tue Jun 09 12:40:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32124-kt-typealias-ts</link>
-      <description>Enhances Kotlin's typealias by enforcing strict compile-time type safety. This plugin prevents accidental mixing of distinct typealiases that share the same underlying...
-
-vendor: Codirex
-downloads: 13
-pricingModel: FREE
-xmlId: org.codirex.kt-typealias-ts</description>
-      <pubDate>Tue, 09 Jun 2026 12:40:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32124-kt-typealias-ts</guid>
-      <dc:date>2026-06-09T12:40:49Z</dc:date>
-    </item>
-    <item>
-      <title>BookmarkAI - Tue Jun 09 09:42:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31868-bookmarkai</link>
-      <description>BookmarkAI English BookmarkAI is a code bookmark and project knowledge tool built for the AI-assisted coding era. It helps developers and AI build project context...
-
-vendor: Dylan OY
-downloads: 18
-pricingModel: FREEMIUM
-xmlId: com.dylanoy.bookmarkai</description>
-      <pubDate>Tue, 09 Jun 2026 09:42:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31868-bookmarkai</guid>
-      <dc:date>2026-06-09T09:42:25Z</dc:date>
-    </item>
-    <item>
-      <title>Kshana - PNT simulator - Tue Jun 09 15:01:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32181-kshana--pnt-simulator</link>
-      <description>Run Kshana — the open, reproducible positioning/navigation/timing (PNT) resilience simulator — directly from your JetBrains IDE. Right-click any scenario .toml and...
-
-vendor: Ashforde OÜ
-downloads: 20
-pricingModel: FREE
-xmlId: dev.kshana.ide</description>
-      <pubDate>Tue, 09 Jun 2026 15:01:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32181-kshana--pnt-simulator</guid>
-      <dc:date>2026-06-09T15:01:22Z</dc:date>
-    </item>
-    <item>
-      <title>Grindstone - Tue Jun 09 16:18:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32179-grindstone</link>
-      <description>IDEA plugin made for easier development of multi-versioned Minecraft mods with Stonecutter. Grindstone lets you create a multi-versioned project directly with no...
-
-vendor: Project Codex
-downloads: 21
-pricingModel: FREE
-xmlId: com.codex.idea.Grindstone</description>
-      <pubDate>Tue, 09 Jun 2026 16:18:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32179-grindstone</guid>
-      <dc:date>2026-06-09T16:18:56Z</dc:date>
     </item>
   </channel>
 </rss>
