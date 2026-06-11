@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Insomnia SAST - Wed Jun 10 11:59:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32214-insomnia-sast</link>
+      <description>Insomnia SAST — secret &amp;amp; vulnerability scanning Static analysis for JetBrains IDEs (PyCharm, PhpStorm, WebStorm, GoLand, IntelliJ IDEA, RubyMine, CLion, Rider...
+
+vendor: CQR Cybersecurity. Insomnia Product.
+downloads: 0
+pricingModel: FREE
+xmlId: ai.insom.sast</description>
+      <pubDate>Wed, 10 Jun 2026 11:59:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32214-insomnia-sast</guid>
+      <dc:date>2026-06-10T11:59:49Z</dc:date>
+    </item>
+    <item>
+      <title>ChainlessChain IDE Bridge - Wed Jun 10 22:43:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32208-chainlesschain-ide-bridge</link>
+      <description>Bridges the ChainlessChain cc agent CLI to JetBrains IDEs. Runs a localhost MCP server exposing the active selection, diagnostics, open editors, and native diff review...
+
+vendor: chainlesschain
+downloads: 0
+pricingModel: FREE
+xmlId: com.chainlesschain.ide</description>
+      <pubDate>Wed, 10 Jun 2026 22:43:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32208-chainlesschain-ide-bridge</guid>
+      <dc:date>2026-06-10T22:43:45Z</dc:date>
+    </item>
+    <item>
       <title>StringSmith - Android Strings Toolkit - Wed Jun 10 23:37:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32198-stringsmith--android-strings-toolkit</link>
       <description>StringSmith is a toolkit for managing Android strings.xml resources. Extract Context-aware replacement (stringResource, getString, @string/) Auto-import for Compose...
@@ -45,8 +71,8 @@ xmlId: com.firebasebuilduploader.android</description>
       <dc:date>2026-06-10T11:22:33Z</dc:date>
     </item>
     <item>
-      <title>Minecraft Dev Server Helper - Wed Jun 10 11:30:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32212-minecraft-dev-server-helper</link>
+      <title>Minecraft Dev Helper - Wed Jun 10 11:30:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32212-minecraft-dev-helper</link>
       <description>Development helper for Minecraft plugin projects. It runs a local Spigot/Paper server, prepares a small dev server folder, restarts on project file changes, and...
 
 vendor: Minecraft Plugin Developement Helper
@@ -54,7 +80,7 @@ downloads: 5
 pricingModel: FREE
 xmlId: dev.edminecraft.plugins</description>
       <pubDate>Wed, 10 Jun 2026 11:30:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32212-minecraft-dev-server-helper</guid>
+      <guid>https://plugins.jetbrains.com/plugin/32212-minecraft-dev-helper</guid>
       <dc:date>2026-06-10T11:30:38Z</dc:date>
     </item>
     <item>
@@ -238,32 +264,6 @@ xmlId: com.github.plugin.datadownload</description>
       <pubDate>Wed, 10 Jun 2026 04:31:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32184-dataset-downloader</guid>
       <dc:date>2026-06-10T04:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>Angular Switcher - Tue Jun 09 23:25:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32185-angular-switcher</link>
-      <description>Quickly switch between the sibling files of an Angular component that share a base name (for example app.component.ts, app.component.html, app.component.scss and...
-
-vendor: Ryan Davie
-downloads: 27
-pricingModel: FREE
-xmlId: com.angularswitcher</description>
-      <pubDate>Tue, 09 Jun 2026 23:25:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32185-angular-switcher</guid>
-      <dc:date>2026-06-09T23:25:48Z</dc:date>
-    </item>
-    <item>
-      <title>Quantum DSL (QTN) Language Support - Wed Jun 10 14:15:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32137-quantum-dsl-qtn-language-support</link>
-      <description>Syntax highlighting and Language Server support for Photon Quantum3 DSL (.qtn) files in JetBrains Rider, including autocomplete, go-to-definition, hover information...
-
-vendor: shlifedev
-downloads: 10
-pricingModel: FREE
-xmlId: com.qtn.syntax-highlighting</description>
-      <pubDate>Wed, 10 Jun 2026 14:15:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32137-quantum-dsl-qtn-language-support</guid>
-      <dc:date>2026-06-10T14:15:44Z</dc:date>
     </item>
   </channel>
 </rss>
