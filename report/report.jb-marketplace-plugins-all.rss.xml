@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>StringSmith - Android Strings Toolkit - Wed Jun 10 23:37:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32198-stringsmith--android-strings-toolkit</link>
+      <description>StringSmith is a toolkit for managing Android strings.xml resources. Extract Context-aware replacement (stringResource, getString, @string/) Auto-import for Compose...
+
+vendor: SeijinD
+downloads: 0
+pricingModel: FREE
+xmlId: com.seijind.stringsmith</description>
+      <pubDate>Wed, 10 Jun 2026 23:37:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32198-stringsmith--android-strings-toolkit</guid>
+      <dc:date>2026-06-10T23:37:20Z</dc:date>
+    </item>
+    <item>
       <title>Antlers Toolbox - Wed Jun 10 19:23:39 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32203-antlers-toolbox</link>
       <description>Developer tooling for the Antlers templating language in Statamic projects. Includes Antlers parsing, highlighting, diagnostics, completion, documentation, parameter...
@@ -251,19 +264,6 @@ xmlId: com.qtn.syntax-highlighting</description>
       <pubDate>Wed, 10 Jun 2026 14:15:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32137-quantum-dsl-qtn-language-support</guid>
       <dc:date>2026-06-10T14:15:44Z</dc:date>
-    </item>
-    <item>
-      <title>Axiode - Tue Jun 09 07:46:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32080-axiode</link>
-      <description>Metrics, insights, and time tracking automatically generated from your programming activity. Installation 1. Inside your IDE, select Preferences -&amp;gt; Plugins -&amp;gt...
-
-vendor: Axiode
-downloads: 3
-pricingModel: FREE
-xmlId: com.axiode.plugin</description>
-      <pubDate>Tue, 09 Jun 2026 07:46:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32080-axiode</guid>
-      <dc:date>2026-06-09T07:46:13Z</dc:date>
     </item>
   </channel>
 </rss>
