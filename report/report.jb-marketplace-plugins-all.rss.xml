@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Affogato - Thu Jun 11 22:07:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32237-affogato</link>
+      <description>Language support for Affogato (.aff) source files. Syntax highlighting, formatting, and brace matching Completion, navigation, find usages, and rename Compiler...
+
+vendor: Alejandro Covarrubias
+downloads: 0
+pricingModel: FREE
+xmlId: dev.affogato</description>
+      <pubDate>Thu, 11 Jun 2026 22:07:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32237-affogato</guid>
+      <dc:date>2026-06-11T22:07:17Z</dc:date>
+    </item>
+    <item>
+      <title>Excalidraw Editor - Fri Jun 12 09:01:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32029-excalidraw-editor</link>
+      <description>Open and edit .excalidraw drawings directly inside JetBrains IDEs. Excalidraw Editor adds a full embedded Excalidraw canvas to IntelliJ IDEA, WebStorm, PyCharm...
+
+vendor: Agustin
+downloads: 1
+pricingModel: FREE
+xmlId: com.agustinbanchio.excalidraw</description>
+      <pubDate>Fri, 12 Jun 2026 09:01:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32029-excalidraw-editor</guid>
+      <dc:date>2026-06-12T09:01:32Z</dc:date>
+    </item>
+    <item>
+      <title>Workbench Connector for GCP - Fri Jun 12 08:59:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32233-workbench-connector-for-gcp</link>
+      <description>Workbench Connector for GCP connects PyCharm Professional to Google Cloud Vertex AI Workbench so you can work with remote notebooks, files, terminals, and Git...
+
+vendor: Oleksii Filimonchuk
+downloads: 0
+pricingModel: FREE
+xmlId: dev.vertexworkbench.connector</description>
+      <pubDate>Fri, 12 Jun 2026 08:59:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32233-workbench-connector-for-gcp</guid>
+      <dc:date>2026-06-12T08:59:22Z</dc:date>
+    </item>
+    <item>
+      <title>CIMcheck - Thu Jun 11 16:42:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32229-cimcheck</link>
+      <description>Real-time SPARQL and SHACL validation against CIM/CGMES schema profiles, powered by the CIMcheck language server. Write a SPARQL query or a SHACL shape and get...
+
+vendor: SOPTIM AG
+downloads: 4
+pricingModel: FREE
+xmlId: de.soptim.opencgmes.cimcheck</description>
+      <pubDate>Thu, 11 Jun 2026 16:42:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32229-cimcheck</guid>
+      <dc:date>2026-06-11T16:42:32Z</dc:date>
+    </item>
+    <item>
+      <title>ImageBoard - Thu Jun 11 14:56:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32219-imageboard</link>
+      <description>Image board for IntelliJ-based IDEs. Features: Store image references Quick image preview Fullscreen image viewer Persistent image collection.
+
+vendor: System32_Developer
+downloads: 1
+pricingModel: FREE
+xmlId: com.system32dev.ImageBoard</description>
+      <pubDate>Thu, 11 Jun 2026 14:56:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32219-imageboard</guid>
+      <dc:date>2026-06-11T14:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>Copy Reference - Thu Jun 11 13:53:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32217-copy-reference</link>
+      <description>Copy AI-agent-friendly file references from editor and project tree context menus.
+
+vendor: YunKui Lu
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.yunkuilu.copy-reference</description>
+      <pubDate>Thu, 11 Jun 2026 13:53:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32217-copy-reference</guid>
+      <dc:date>2026-06-11T13:53:08Z</dc:date>
+    </item>
+    <item>
       <title>Flexible For Daisy UI - Wed Jun 10 12:59:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32216-flexible-for-daisy-ui</link>
       <description>daisyUI autocomplete, component browser with live preview, themes, smart snippet insertion, drag-and-drop, and class inspections for all JetBrains IDEs. We are a...
@@ -97,7 +175,7 @@ xmlId: ai.insom.sast</description>
       <dc:date>2026-06-11T10:41:44Z</dc:date>
     </item>
     <item>
-      <title>ChainlessChain IDE Bridge - Thu Jun 11 12:55:03 UTC 2026</title>
+      <title>ChainlessChain IDE Bridge - Fri Jun 12 06:54:51 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32208-chainlesschain-ide-bridge</link>
       <description>Bridges the ChainlessChain cc agent CLI to JetBrains IDEs. Runs a localhost MCP server exposing the active selection, diagnostics, open editors, and native diff review...
 
@@ -105,9 +183,9 @@ vendor: chainlesschain
 downloads: 23
 pricingModel: FREE
 xmlId: com.chainlesschain.ide</description>
-      <pubDate>Thu, 11 Jun 2026 12:55:03 GMT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 06:54:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32208-chainlesschain-ide-bridge</guid>
-      <dc:date>2026-06-11T12:55:03Z</dc:date>
+      <dc:date>2026-06-12T06:54:51Z</dc:date>
     </item>
     <item>
       <title>StringSmith - Android Strings Toolkit - Wed Jun 10 23:37:20 UTC 2026</title>
@@ -186,84 +264,6 @@ xmlId: org.markupcarve.carve</description>
       <pubDate>Wed, 10 Jun 2026 03:45:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32204-carve</guid>
       <dc:date>2026-06-10T03:45:11Z</dc:date>
-    </item>
-    <item>
-      <title>WorkLog - Sat Jun 06 10:47:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32128-worklog</link>
-      <description>WorkLog helps developers turn Git activity into daily work logs, AI summaries, code review reports, and periodic work reports directly inside IntelliJ-based IDEs. Key...
-
-vendor: WorkLog Plugin
-downloads: 8
-pricingModel: FREE
-xmlId: com.worklog</description>
-      <pubDate>Sat, 06 Jun 2026 10:47:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32128-worklog</guid>
-      <dc:date>2026-06-06T10:47:53Z</dc:date>
-    </item>
-    <item>
-      <title>Prismio Language Support - Tue Jun 09 14:22:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32192-prismio-language-support</link>
-      <description>Prismio Language Support Language support for Prismio (.psm files) in JetBrains IDEs. Features: Syntax Highlighting - Lexer-based and semantic highlighting for...
-
-vendor: Prismio
-downloads: 5
-pricingModel: FREE
-xmlId: io.prismio</description>
-      <pubDate>Tue, 09 Jun 2026 14:22:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32192-prismio-language-support</guid>
-      <dc:date>2026-06-09T14:22:33Z</dc:date>
-    </item>
-    <item>
-      <title>FeignHelper - Wed Jun 10 08:40:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32207-feignhelper</link>
-      <description>FeignHelper A modern navigation assistant for Spring Cloud OpenFeign, Spring MVC and the Spring 6 @HttpExchange declarative HTTP client, built on top of IntelliJ...
-
-vendor: HorizonX
-downloads: 15
-pricingModel: FREE
-xmlId: com.lizhuolun.feignhelper</description>
-      <pubDate>Wed, 10 Jun 2026 08:40:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32207-feignhelper</guid>
-      <dc:date>2026-06-10T08:40:21Z</dc:date>
-    </item>
-    <item>
-      <title>KStateMachine Visual - Tue Jun 09 20:42:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32202-kstatemachine-visual</link>
-      <description>KStateMachine Visual is the IDE plugin for the KStateMachine Kotlin library. It statically analyzes your Kotlin source — including if / when branches that the runtime...
-
-vendor: KStateMachine
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.nsk90.kstatemachineintellijplatformplugin</description>
-      <pubDate>Tue, 09 Jun 2026 20:42:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32202-kstatemachine-visual</guid>
-      <dc:date>2026-06-09T20:42:57Z</dc:date>
-    </item>
-    <item>
-      <title>Slidev - Tue Jun 09 20:28:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32201-slidev</link>
-      <description>Integrated support for Slidev presentations. Auto-detects slides.md Slidev projects in your workspace Starts, adopts, and stops the Slidev dev server (configurable dev...
-
-vendor: Jan-Niklas Wortmann
-downloads: 11
-pricingModel: FREE
-xmlId: dev.slidev.plugin</description>
-      <pubDate>Tue, 09 Jun 2026 20:28:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32201-slidev</guid>
-      <dc:date>2026-06-09T20:28:04Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek Assistant - Tue Jun 09 16:27:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32199-deepseek-assistant</link>
-      <description>DeepSeek Assistant integrates DeepSeek large language model into IntelliJ IDEA. Open the DS Chat tool window on the right sidebar to start an AI conversation...
-
-vendor: zzmgc4
-downloads: 13
-pricingModel: FREE
-xmlId: com.zzmgc4.ai.ds</description>
-      <pubDate>Tue, 09 Jun 2026 16:27:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32199-deepseek-assistant</guid>
-      <dc:date>2026-06-09T16:27:52Z</dc:date>
     </item>
   </channel>
 </rss>
