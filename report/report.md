@@ -43,4 +43,4 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 10 17:00:12 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 00:32:05 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|

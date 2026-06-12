@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 00:32:05 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 10 17:00:12 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 10 17:00:11 UTC 2026|
@@ -37,7 +38,6 @@
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
-|![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.24|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Sat May 31 16:05:28 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
