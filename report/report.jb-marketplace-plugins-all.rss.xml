@@ -11,7 +11,7 @@
       <description>Review Bitbucket Cloud pull requests without leaving IntelliJ IDEA. PR list — browse open pull requests with filters: All, Needs My Review, My PRs Side-by-side diff...
 
 vendor: Ngaio
-downloads: 6
+downloads: 15
 pricingModel: FREE
 xmlId: com.bitbucketplugin</description>
       <pubDate>Sat, 13 Jun 2026 07:22:34 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.bitbucketplugin</description>
       <description>TabMaster adds smarter bulk close actions to the editor tab context menu. Right-click any open file's tab and you'll find them in the usual close block, right next to...
 
 vendor: Christoph Wagner
-downloads: 13
+downloads: 21
 pricingModel: FREE
 xmlId: de.christophwagner.idea.tabmaster</description>
       <pubDate>Fri, 12 Jun 2026 11:07:26 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: de.christophwagner.idea.tabmaster</description>
       <description>CLIPS language support for IntelliJ IDEA. CLIPS (C Language Integrated Production System) is a rule-based expert system language. Syntax highlighting and color...
 
 vendor: Jerome Chaubert
-downloads: 3
+downloads: 11
 pricingModel: FREE
 xmlId: org.clips.intellij-plugin</description>
       <pubDate>Fri, 12 Jun 2026 07:15:10 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: org.clips.intellij-plugin</description>
       <description>Configura CM Language Support for IntelliJ IDEA Provides comprehensive support for the Configura CM programming language in IntelliJ IDEA. Features: Syntax...
 
 vendor: randlezyu
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: com.randlezyu.configura-cm</description>
       <pubDate>Fri, 12 Jun 2026 09:40:13 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.randlezyu.configura-cm</description>
       <description>StarRocks Support adds StarRocks SQL dialect integration for JetBrains IDEs, including syntax highlighting, function completion, formatting helpers, and compatibility...
 
 vendor: ycyz
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.ycyz.starrocks.support</description>
       <pubDate>Fri, 12 Jun 2026 07:14:21 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.github.ycyz.starrocks.support</description>
       <description>Customize editor tab colors with active tab settings and regex-based tab name rules. Repository: https://github.com/MattMin/active-tab-color.
 
 vendor: Matt Min
-downloads: 5
+downloads: 9
 pricingModel: FREE
 xmlId: com.matt.active-tab-color</description>
       <pubDate>Fri, 12 Jun 2026 08:42:50 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.matt.active-tab-color</description>
       <description>Open In Codex starts a new Codex desktop session directly from IntelliJ IDEA. Use it when you want Codex to inspect the project you are working on, or jump straight to...
 
 vendor: lkjian
-downloads: 10
+downloads: 49
 pricingModel: FREE
 xmlId: com.github.lkjian.ideaopenincodex</description>
       <pubDate>Sat, 13 Jun 2026 14:10:47 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.github.lkjian.ideaopenincodex</description>
       <description>NewJsonFormatter A JSON formatting &amp;amp; processing plugin built for JetBrains IDEs (IntelliJ IDEA, WebStorm, Android Studio, etc.). 一款专为 JetBrains IDE 打造的 JSON...
 
 vendor: wbl
-downloads: 4
+downloads: 8
 pricingModel: FREE
 xmlId: com.wbl.plugin.newjsonformatter.NewJsonFormatter</description>
       <pubDate>Fri, 12 Jun 2026 09:10:33 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.wbl.plugin.newjsonformatter.NewJsonFormatter</description>
       <description>AI-powered code review for Azure DevOps pull requests inside Rider. Supports Claude, OpenAI, Gemini, and local LLMs via Ollama. Browse PRs assigned to you View changed...
 
 vendor: thegeeky
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.thegeekym.azdoaireviewer</description>
       <pubDate>Thu, 11 Jun 2026 22:42:50 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.thegeekym.azdoaireviewer</description>
       <description>Browse your SeedBase projects, generate realistic synthetic test data and pull SQL/CSV/JSON seeds straight into your project — without leaving the IDE. SeedBase tool...
 
 vendor: SeedBase
-downloads: 6
+downloads: 32
 pricingModel: FREE
 xmlId: se.seedba.jetbrains</description>
       <pubDate>Sat, 13 Jun 2026 18:44:55 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: se.seedba.jetbrains</description>
       <description>Adds an "Add Python SDK" action to the Project View context menu of virtualenv folders (.venv, venv, .virtual_env, .virtualenv). Registers the interpreter as a Python...
 
 vendor: Evgenii Bokshitskii
-downloads: 13
+downloads: 21
 pricingModel: FREE
 xmlId: com.boksh.add-python-sdk</description>
       <pubDate>Fri, 12 Jun 2026 12:25:41 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.boksh.add-python-sdk</description>
       <description>TokenLens — see the LLM token count of your selection, right in the status bar. Select any text and instantly know how many tokens it is. Supports o200k_base...
 
 vendor: iceres
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: com.tokenlens</description>
       <pubDate>Fri, 12 Jun 2026 05:20:10 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.tokenlens</description>
       <description>CodeLens Pro CodeLens Pro is a lightweight editor minimap plugin for IntelliJ IDEA. It adds a compact code overview next to the editor, helping you navigate large...
 
 vendor: micro
-downloads: 3
+downloads: 8
 pricingModel: FREE
 xmlId: com.codelens.pro</description>
       <pubDate>Fri, 12 Jun 2026 06:27:49 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.codelens.pro</description>
       <description>Language support for Affogato (.aff) source files. Syntax highlighting, formatting, and brace matching Completion, navigation, find usages, and rename Compiler...
 
 vendor: Alejandro Covarrubias
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: dev.affogato</description>
       <pubDate>Thu, 11 Jun 2026 22:07:17 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.affogato</description>
       <description>Open and edit .excalidraw drawings directly inside JetBrains IDEs. Excalidraw Editor adds a full embedded Excalidraw canvas to IntelliJ IDEA, WebStorm, PyCharm...
 
 vendor: Agustin
-downloads: 26
+downloads: 41
 pricingModel: FREE
 xmlId: com.agustinbanchio.excalidraw</description>
       <pubDate>Fri, 12 Jun 2026 09:41:28 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.agustinbanchio.excalidraw</description>
       <description>Workbench Connector for GCP connects PyCharm Professional to Google Cloud Vertex AI Workbench so you can work with remote notebooks, files, terminals, and Git...
 
 vendor: Oleksii Filimonchuk
-downloads: 8
+downloads: 18
 pricingModel: FREE
 xmlId: dev.vertexworkbench.connector</description>
       <pubDate>Fri, 12 Jun 2026 13:00:42 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.vertexworkbench.connector</description>
       <description>Real-time SPARQL and SHACL validation against CIM/CGMES schema profiles, powered by the CIMcheck language server. Write a SPARQL query or a SHACL shape and get...
 
 vendor: SOPTIM AG
-downloads: 9
+downloads: 12
 pricingModel: FREE
 xmlId: de.soptim.opencgmes.cimcheck</description>
       <pubDate>Thu, 11 Jun 2026 16:42:32 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: de.soptim.opencgmes.cimcheck</description>
       <description>Image board for IntelliJ-based IDEs. Features: Store image references Quick image preview Fullscreen image viewer Persistent image collection.
 
 vendor: System32_Developer
-downloads: 7
+downloads: 10
 pricingModel: FREE
 xmlId: com.system32dev.ImageBoard</description>
       <pubDate>Thu, 11 Jun 2026 14:56:00 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.system32dev.ImageBoard</description>
       <description>Copy AI-agent-friendly file references from editor and project tree context menus.
 
 vendor: YunKui Lu
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: io.github.yunkuilu.copy-reference</description>
       <pubDate>Thu, 11 Jun 2026 13:53:08 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: io.github.yunkuilu.copy-reference</description>
       <description>daisyUI autocomplete, component browser with live preview, themes, smart snippet insertion, drag-and-drop, and class inspections for all JetBrains IDEs. We are a...
 
 vendor: Ilscipio GmbH
-downloads: 7
+downloads: 8
 pricingModel: PAID
 xmlId: com.ilscipio.daisyui</description>
       <pubDate>Wed, 10 Jun 2026 12:59:40 GMT</pubDate>
