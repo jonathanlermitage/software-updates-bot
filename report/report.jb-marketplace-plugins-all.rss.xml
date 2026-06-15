@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Color Scheme per Language - Sun Jun 14 18:18:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32182-color-scheme-per-language</link>
+      <description>Color Scheme per Language switches the editor color scheme based on the language of the file you are working in. Map each language to one of your installed color...
+
+vendor: Dot Red
+downloads: 4
+pricingModel: FREE
+xmlId: dev.appelflap.color-scheme-per-language</description>
+      <pubDate>Sun, 14 Jun 2026 18:18:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32182-color-scheme-per-language</guid>
+      <dc:date>2026-06-14T18:18:30Z</dc:date>
+    </item>
+    <item>
       <title>TreeSitterViewer - Mon Jun 15 06:18:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32258-treesitterviewer</link>
       <description>TreeSitterViewer A powerful and intuitive IntelliJ IDEA plugin that visualizes the abstract syntax tree (AST) of your source code in real-time using Tree-sitter...
@@ -227,17 +240,17 @@ xmlId: se.seedba.jetbrains</description>
       <dc:date>2026-06-13T18:44:55Z</dc:date>
     </item>
     <item>
-      <title>Add Python SDK - Fri Jun 12 12:25:41 UTC 2026</title>
+      <title>Add Python SDK - Mon Jun 15 20:04:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32240-add-python-sdk</link>
-      <description>Adds an "Add Python SDK" action to the Project View context menu of virtualenv folders (.venv, venv, .virtual_env, .virtualenv). Registers the interpreter as a Python...
+      <description>Adds "Add Python SDK" items to the Project View context menu. On virtualenv folders (.venv, venv, .virtual_env, .virtualenv) it registers the interpreter inside the...
 
 vendor: Evgenii Bokshitskii
 downloads: 26
 pricingModel: FREE
 xmlId: com.boksh.add-python-sdk</description>
-      <pubDate>Fri, 12 Jun 2026 12:25:41 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2026 20:04:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32240-add-python-sdk</guid>
-      <dc:date>2026-06-12T12:25:41Z</dc:date>
+      <dc:date>2026-06-15T20:04:17Z</dc:date>
     </item>
     <item>
       <title>TokenLens - Fri Jun 12 05:20:10 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.tokenlens</description>
       <pubDate>Fri, 12 Jun 2026 05:20:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32241-tokenlens</guid>
       <dc:date>2026-06-12T05:20:10Z</dc:date>
-    </item>
-    <item>
-      <title>CodeLens Pro - Mon Jun 15 06:48:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32242-codelens-pro</link>
-      <description>CodeLens Pro CodeLens Pro is a lightweight editor minimap plugin for IntelliJ IDEA. It adds a compact code overview next to the editor, helping you navigate large...
-
-vendor: Croty
-downloads: 9
-pricingModel: FREE
-xmlId: com.codelens.pro</description>
-      <pubDate>Mon, 15 Jun 2026 06:48:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32242-codelens-pro</guid>
-      <dc:date>2026-06-15T06:48:50Z</dc:date>
     </item>
   </channel>
 </rss>
