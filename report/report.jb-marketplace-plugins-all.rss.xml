@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>TreeSitterViewer - Mon Jun 15 06:18:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32258-treesitterviewer</link>
+      <description>TreeSitterViewer A powerful and intuitive IntelliJ IDEA plugin that visualizes the abstract syntax tree (AST) of your source code in real-time using Tree-sitter...
+
+vendor: Enaium
+downloads: 1
+pricingModel: FREE
+xmlId: cn.enaium.treesitter.viewer</description>
+      <pubDate>Mon, 15 Jun 2026 06:18:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32258-treesitterviewer</guid>
+      <dc:date>2026-06-15T06:18:17Z</dc:date>
+    </item>
+    <item>
+      <title>Java File Download Router - Sun Jun 14 06:05:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32257-java-file-download-router</link>
+      <description>Routes downloaded Java files into the correct source package directory. Select a module, then pick a .java or .zip file from your Downloads folder. The plugin reads...
+
+vendor: Nick Kemp
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.nickkemp.javafilerouter</description>
+      <pubDate>Sun, 14 Jun 2026 06:05:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32257-java-file-download-router</guid>
+      <dc:date>2026-06-14T06:05:14Z</dc:date>
+    </item>
+    <item>
+      <title>Flexible For Mantine - Thu Jun 11 15:33:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32232-flexible-for-mantine</link>
+      <description>Smart completion, hover docs, drag-and-drop, auto-imports, and inspections for Mantine. Drag-and-drop from the component browser to your editor. We are an unofficial...
+
+vendor: Ilscipio GmbH
+downloads: 2
+pricingModel: PAID
+xmlId: com.ilscipio.mantine</description>
+      <pubDate>Thu, 11 Jun 2026 15:33:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32232-flexible-for-mantine</guid>
+      <dc:date>2026-06-11T15:33:33Z</dc:date>
+    </item>
+    <item>
       <title>Godot Sidecar File Nesting - Fri Jun 12 17:17:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32259-godot-sidecar-file-nesting</link>
       <description>Nests Godot sidecar files like .uid and ..translation under their matching files in tree views.
@@ -110,17 +149,17 @@ xmlId: com.randlezyu.configura-cm</description>
       <dc:date>2026-06-12T09:40:13Z</dc:date>
     </item>
     <item>
-      <title>StarRocks Support - Fri Jun 12 07:14:21 UTC 2026</title>
+      <title>StarRocks Support - Mon Jun 15 07:08:30 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32243-starrocks-support</link>
-      <description>StarRocks Support adds StarRocks SQL dialect integration for JetBrains IDEs, including syntax highlighting, function completion, and compatibility handling for common...
+      <description>StarRocks Support adds StarRocks SQL dialect integration for JetBrains IDEs, including syntax highlighting, SQL completion, and compatibility handling for common...
 
 vendor: ycyz
 downloads: 6
 pricingModel: FREE
 xmlId: com.github.ycyz.starrocks.support</description>
-      <pubDate>Fri, 12 Jun 2026 07:14:21 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2026 07:08:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32243-starrocks-support</guid>
-      <dc:date>2026-06-12T07:14:21Z</dc:date>
+      <dc:date>2026-06-15T07:08:30Z</dc:date>
     </item>
     <item>
       <title>Active Tab Color - Fri Jun 12 08:42:50 UTC 2026</title>
@@ -214,56 +253,17 @@ xmlId: com.tokenlens</description>
       <dc:date>2026-06-12T05:20:10Z</dc:date>
     </item>
     <item>
-      <title>CodeLens Pro - Fri Jun 12 06:27:49 UTC 2026</title>
+      <title>CodeLens Pro - Mon Jun 15 06:48:50 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32242-codelens-pro</link>
       <description>CodeLens Pro CodeLens Pro is a lightweight editor minimap plugin for IntelliJ IDEA. It adds a compact code overview next to the editor, helping you navigate large...
 
-vendor: micro
+vendor: Croty
 downloads: 9
 pricingModel: FREE
 xmlId: com.codelens.pro</description>
-      <pubDate>Fri, 12 Jun 2026 06:27:49 GMT</pubDate>
+      <pubDate>Mon, 15 Jun 2026 06:48:50 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32242-codelens-pro</guid>
-      <dc:date>2026-06-12T06:27:49Z</dc:date>
-    </item>
-    <item>
-      <title>Affogato - Thu Jun 11 22:07:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32237-affogato</link>
-      <description>Language support for Affogato (.aff) source files. Syntax highlighting, formatting, and brace matching Completion, navigation, find usages, and rename Compiler...
-
-vendor: Alejandro Covarrubias
-downloads: 6
-pricingModel: FREE
-xmlId: dev.affogato</description>
-      <pubDate>Thu, 11 Jun 2026 22:07:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32237-affogato</guid>
-      <dc:date>2026-06-11T22:07:17Z</dc:date>
-    </item>
-    <item>
-      <title>Excalidraw Editor - Fri Jun 12 09:41:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32029-excalidraw-editor</link>
-      <description>Open and edit .excalidraw drawings directly inside JetBrains IDEs. Excalidraw Editor adds a full embedded Excalidraw canvas to IntelliJ IDEA, WebStorm, PyCharm...
-
-vendor: Agustin
-downloads: 49
-pricingModel: FREE
-xmlId: com.agustinbanchio.excalidraw</description>
-      <pubDate>Fri, 12 Jun 2026 09:41:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32029-excalidraw-editor</guid>
-      <dc:date>2026-06-12T09:41:28Z</dc:date>
-    </item>
-    <item>
-      <title>Workbench Connector for GCP - Sun Jun 14 13:03:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32233-workbench-connector-for-gcp</link>
-      <description>Workbench Connector for GCP connects PyCharm Professional to Google Cloud Vertex AI Workbench so you can work with remote notebooks, files, terminals, and Git...
-
-vendor: Oleksii Filimonchuk
-downloads: 33
-pricingModel: FREE
-xmlId: dev.vertexworkbench.connector</description>
-      <pubDate>Sun, 14 Jun 2026 13:03:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32233-workbench-connector-for-gcp</guid>
-      <dc:date>2026-06-14T13:03:47Z</dc:date>
+      <dc:date>2026-06-15T06:48:50Z</dc:date>
     </item>
   </channel>
 </rss>
