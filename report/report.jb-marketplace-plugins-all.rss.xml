@@ -11,7 +11,7 @@
       <description>Support for Kotlin jte templates (.kte) in IntelliJ IDEA. Features .kte file type support. Kotlin K2 completion, resolve, references, documentation, and diagnostics...
 
 vendor: rechenwerk GmbH
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: de.rechenwerk.kte</description>
       <pubDate>Mon, 15 Jun 2026 07:24:20 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: de.rechenwerk.kte</description>
       <description>OpenCodugin integrates opencode CLI into IntelliJ IDEA with full terminal mouse support and IDE-aware context sharing.
 
 vendor: OpenCodugin
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.hunterxxn.opencodugin</description>
       <pubDate>Tue, 16 Jun 2026 06:42:03 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.github.hunterxxn.opencodugin</description>
       <description>Make invisible Spring runtime behavior visible. Spring Buddy is a correctness companion that models Spring consequences in real-time. It identifies "Legal Java" that...
 
 vendor: akmal Sarhan
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: org.sarhan.springformat.inspections</description>
       <pubDate>Tue, 16 Jun 2026 08:27:58 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: org.sarhan.springformat.inspections</description>
       <description>An IntelliJ IDEA plugin for managing dependencies and identifying security vulnerabilities. It scans your Maven and Gradle project files, discovers newer library...
 
 vendor: artur.olejniczak.dev
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: pl.artoledev.dependencyupdater</description>
       <pubDate>Tue, 16 Jun 2026 16:58:58 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: pl.artoledev.dependencyupdater</description>
       <description>Versioned, integrity-pinned schemas for YAML files. Provides autocomplete and validation for Kubernetes CRDs and other ecosystems from cdn.schemalock.dev. Pin schema...
 
 vendor: SchemaLock
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.schemalock</description>
       <pubDate>Mon, 15 Jun 2026 14:54:19 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: dev.schemalock</description>
       <description>Celebrimbot is an IntelliJ Platform plugin that brings a full multi-agent AI system into your IDE. It can read your project files, write and modify code, execute...
 
 vendor: GiacomoSaccaggi
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.giacomosaccaggi.celebrimbot</description>
       <pubDate>Tue, 16 Jun 2026 12:48:48 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.github.giacomosaccaggi.celebrimbot</description>
       <description>Dynatrace Mobile Wizard is a guided setup tool for Android developers that automatically configures the Dynatrace OneAgent Mobile SDK in your project — no manual...
 
 vendor: Hleb Maliborski
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.hlebmaliborski.dynatracemobilewizard</description>
       <pubDate>Tue, 16 Jun 2026 07:38:56 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: io.github.hlebmaliborski.dynatracemobilewizard</description>
       <description>FIFA World Cup 2026 — Live scores, schedules, group standings, FIFA rankings, text-live commentary and news for the 2026 USA-Canada-Mexico World Cup, right inside your...
 
 vendor: FIFA WORLD CUP
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: com.fifa.plugin.worldcup2026</description>
       <pubDate>Tue, 16 Jun 2026 01:10:33 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.fifa.plugin.worldcup2026</description>
       <description>MockServer integration for IntelliJ-based IDEs. Open the MockServer Dashboard in your browser Start a MockServer Docker container from the IDE Tool window for quick...
 
 vendor: MockServer
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.mock-server.mockserver</description>
       <pubDate>Mon, 15 Jun 2026 23:29:26 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.mock-server.mockserver</description>
       <description>Skeleton plugin for Human language support, registers `.hm` files, and provides future LSP integration.
 
 vendor: KielTech
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.human.language</description>
       <pubDate>Tue, 16 Jun 2026 02:17:21 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.human.language</description>
       <description>Project Manager Easily manage and switch between projects with tag-based organization. Save your favorite projects, auto-detect Git/Mercurial/SVN repositories, and...
 
 vendor: piumnl
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: cn.piumnl.intellij-project-manager</description>
       <pubDate>Mon, 15 Jun 2026 15:48:54 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: cn.piumnl.intellij-project-manager</description>
       <description>Marginalia turns the IDE into a live co-editing surface for AI coding agents (primarily Claude Code). Comment on anchored text ranges PR-review-style; the agent...
 
 vendor: Borgand
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.borgand.marginalia</description>
       <pubDate>Sun, 14 Jun 2026 20:01:49 GMT</pubDate>
@@ -162,17 +162,17 @@ xmlId: com.github.borgand.marginalia</description>
       <dc:date>2026-06-14T20:01:49Z</dc:date>
     </item>
     <item>
-      <title>Hoppscotch Sync - Tue Jun 16 03:15:18 UTC 2026</title>
+      <title>Hoppscotch Sync - Wed Jun 17 03:32:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32291-hoppscotch-sync</link>
       <description>English Sync Spring Boot REST API endpoints to Hoppscotch self-hosted instance. ⚠️ Spring Boot (Java) only. Features: Parse @RestController and @Controller classes in...
 
 vendor: hoppscotch sync
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.hoppscotch.sync</description>
-      <pubDate>Tue, 16 Jun 2026 03:15:18 GMT</pubDate>
+      <pubDate>Wed, 17 Jun 2026 03:32:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32291-hoppscotch-sync</guid>
-      <dc:date>2026-06-16T03:15:18Z</dc:date>
+      <dc:date>2026-06-17T03:32:40Z</dc:date>
     </item>
     <item>
       <title>.NET Terminal Symbol Linker - Tue Jun 16 21:42:01 UTC 2026</title>
@@ -180,7 +180,7 @@ xmlId: com.hoppscotch.sync</description>
       <description>Makes .NET symbol names and full or partial file paths in Rider's terminal output clickable — a click jumps to the symbol's declaration, or opens the file. Helpful for...
 
 vendor: Magnus Lidbom
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: dev.magnus.riderterminalsymbollinker</description>
       <pubDate>Tue, 16 Jun 2026 21:42:01 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.magnus.riderterminalsymbollinker</description>
       <description>Language support for xphp, a PHP superset with monomorphized generics that compiles to vanilla PHP. Editing intelligence (diagnostics, hover, go-to-definition...
 
 vendor: xphp-lang
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.xphp.lsp</description>
       <pubDate>Sun, 14 Jun 2026 23:11:59 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: fr.mathbou</description>
       <description>IDE support for Idris 2, talking directly to the compiler's IDE-mode protocol - works great with the JVM backend (and any idris2 build). Syntax highlighting (lexical...
 
 vendor: Marimuthu Madasamy
-downloads: 1
+downloads: 21
 pricingModel: FREE
 xmlId: io.github.mmhelloworld.idrisintellij</description>
       <pubDate>Tue, 16 Jun 2026 18:00:16 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: io.github.mmhelloworld.idrisintellij</description>
       <description>Gzip Tools A powerful smart tool for data processing: 1 - Smart detection (Base64 / GZIP / JSON / XML) 2 - One-click decode / decompress / format 3 - JSON &amp;amp; XML...
 
 vendor: GzipTools
-downloads: 4
+downloads: 7
 pricingModel: FREE
 xmlId: com.tools.gziptolls</description>
       <pubDate>Tue, 16 Jun 2026 05:29:50 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.tools.gziptolls</description>
       <description>Project Quick Notes adds a lightweight tool window for keeping short notes per project. Use it to record temporary context, TODOs, review reminders, or handoff notes...
 
 vendor: yuanq
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.origin.idea.projectQuickNotes</description>
       <pubDate>Tue, 16 Jun 2026 08:28:21 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.origin.idea.projectQuickNotes</description>
       <description>GitLab Merge Request Plugin: Multi-project management Batch create merge request Difference comparison and code review Comment censorship Merge Request Lifecycle...
 
 vendor: ShenhuaNet
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.shenhua.plugins.GitLab-Merge</description>
       <pubDate>Mon, 15 Jun 2026 02:15:28 GMT</pubDate>
