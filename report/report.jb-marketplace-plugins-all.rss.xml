@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AutoJs6 Connector - Wed Jun 17 03:12:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32325-autojs6-connector</link>
+      <description>Connect WebStorm to AutoJs6 on Android devices. Push JavaScript code from your IDE to the device, execute it, and view logs in real-time.
+
+vendor: programmer_liu
+downloads: 0
+pricingModel: FREE
+xmlId: com.autojs6.connector</description>
+      <pubDate>Wed, 17 Jun 2026 03:12:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32325-autojs6-connector</guid>
+      <dc:date>2026-06-17T03:12:04Z</dc:date>
+    </item>
+    <item>
+      <title>MyCodeNote - Wed Jun 17 08:30:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32311-mycodenote</link>
+      <description>CodeNote is a plugin for IntelliJ IDEA that helps developers annotate, organize, and navigate code snippets with a two-level category system (group and chapter...
+
+vendor: CodeNode
+downloads: 0
+pricingModel: FREE
+xmlId: com.codenote.plugin.CodeNote</description>
+      <pubDate>Wed, 17 Jun 2026 08:30:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32311-mycodenote</guid>
+      <dc:date>2026-06-17T08:30:09Z</dc:date>
+    </item>
+    <item>
+      <title>Bril - Tue Jun 16 18:54:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32320-bril</link>
+      <description>Editor support for Bril, the Big Red Intermediate Language — a small instruction-representation language built for compilers education. The plugin understands Bril's...
+
+vendor: Andrii Rublov
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.seclerp.bril</description>
+      <pubDate>Tue, 16 Jun 2026 18:54:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32320-bril</guid>
+      <dc:date>2026-06-16T18:54:23Z</dc:date>
+    </item>
+    <item>
+      <title>LinkedIn Connected Apps - Wed Jun 17 08:30:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32011-linkedin-connected-apps</link>
+      <description>This plugin generates a proficiency level based on how you actually work with your IDE and lets you share it directly on your LinkedIn profile. Features Proficiency...
+
+vendor: LinkedIn
+downloads: 0
+pricingModel: FREE
+xmlId: com.jetbrains.ae.experiments</description>
+      <pubDate>Wed, 17 Jun 2026 08:30:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32011-linkedin-connected-apps</guid>
+      <dc:date>2026-06-17T08:30:58Z</dc:date>
+    </item>
+    <item>
       <title>Version Catalog Extractor - Tue Jun 16 18:03:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32318-version-catalog-extractor</link>
       <description>Detects hardcoded dependency versions in Gradle Kotlin and Groovy DSL files and offers a quick fix to move them to gradle/libs.versions.toml. If the version catalog...
@@ -212,58 +264,6 @@ xmlId: dev.magnus.riderterminalsymbollinker</description>
       <pubDate>Tue, 16 Jun 2026 21:42:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32281--net-terminal-symbol-linker</guid>
       <dc:date>2026-06-16T21:42:01Z</dc:date>
-    </item>
-    <item>
-      <title>xphp - Sun Jun 14 23:11:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32095-xphp</link>
-      <description>Language support for xphp, a PHP superset with monomorphized generics that compiles to vanilla PHP. Editing intelligence (diagnostics, hover, go-to-definition...
-
-vendor: xphp-lang
-downloads: 4
-pricingModel: FREE
-xmlId: com.xphp.lsp</description>
-      <pubDate>Sun, 14 Jun 2026 23:11:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32095-xphp</guid>
-      <dc:date>2026-06-14T23:11:59Z</dc:date>
-    </item>
-    <item>
-      <title>ProjectTree Color Enhanced - Tue Jun 16 18:26:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32284-projecttree-color-enhanced</link>
-      <description>Highlights your project files and folders in colors.
-
-vendor: Mathieu Bouzard
-downloads: 17
-pricingModel: FREE
-xmlId: fr.mathbou</description>
-      <pubDate>Tue, 16 Jun 2026 18:26:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32284-projecttree-color-enhanced</guid>
-      <dc:date>2026-06-16T18:26:22Z</dc:date>
-    </item>
-    <item>
-      <title>Idris 2 (JVM) - Tue Jun 16 18:00:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32261-idris-2-jvm-</link>
-      <description>IDE support for Idris 2, talking directly to the compiler's IDE-mode protocol - works great with the JVM backend (and any idris2 build). Syntax highlighting (lexical...
-
-vendor: Marimuthu Madasamy
-downloads: 21
-pricingModel: FREE
-xmlId: io.github.mmhelloworld.idrisintellij</description>
-      <pubDate>Tue, 16 Jun 2026 18:00:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32261-idris-2-jvm-</guid>
-      <dc:date>2026-06-16T18:00:16Z</dc:date>
-    </item>
-    <item>
-      <title>Gzip Tools - Tue Jun 16 05:29:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31996-gzip-tools</link>
-      <description>Gzip Tools A powerful smart tool for data processing: 1 - Smart detection (Base64 / GZIP / JSON / XML) 2 - One-click decode / decompress / format 3 - JSON &amp;amp; XML...
-
-vendor: GzipTools
-downloads: 7
-pricingModel: FREE
-xmlId: com.tools.gziptolls</description>
-      <pubDate>Tue, 16 Jun 2026 05:29:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31996-gzip-tools</guid>
-      <dc:date>2026-06-16T05:29:50Z</dc:date>
     </item>
   </channel>
 </rss>
