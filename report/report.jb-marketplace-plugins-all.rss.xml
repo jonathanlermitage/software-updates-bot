@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>TYPO3 Fluid Inline Converter - Tue Jun 16 20:41:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32317-typo3-fluid-inline-converter</link>
+      <description>Converts a TYPO3 Fluid ViewHelper / component tag into its inline notation via the editor right-click menu or the Alt+Enter (⌥⏎) intention popup. &amp;lt;f:translate...
+
+vendor: ringer.it
+downloads: 1
+pricingModel: FREE
+xmlId: it.ringer.fluid-inline-converter</description>
+      <pubDate>Tue, 16 Jun 2026 20:41:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32317-typo3-fluid-inline-converter</guid>
+      <dc:date>2026-06-16T20:41:08Z</dc:date>
+    </item>
+    <item>
+      <title>bbolt Database - Wed Jun 17 10:02:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32330-bbolt-database</link>
+      <description>A visual browser and JDBC driver integration for BoltDB-compatible embedded key-value databases inside JetBrains IDEs. Supported database formats bbolt (BoltDB) — the...
+
+vendor: bbolt
+downloads: 0
+pricingModel: FREE
+xmlId: com.protonail.bbolt</description>
+      <pubDate>Wed, 17 Jun 2026 10:02:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32330-bbolt-database</guid>
+      <dc:date>2026-06-17T10:02:08Z</dc:date>
+    </item>
+    <item>
+      <title>Deep Project Search - Wed Jun 17 06:28:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32329-deep-project-search</link>
+      <description>Deep Project Search Deep Project Search adds a dedicated IntelliJ IDEA tool window for searching both current project files and dependency jar entries in one place. It...
+
+vendor: yuanq
+downloads: 0
+pricingModel: FREE
+xmlId: com.origin.idea.deepProjectSearch</description>
+      <pubDate>Wed, 17 Jun 2026 06:28:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32329-deep-project-search</guid>
+      <dc:date>2026-06-17T06:28:59Z</dc:date>
+    </item>
+    <item>
+      <title>Struct Layout Optimizer - Wed Jun 17 06:22:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32328-struct-layout-optimizer</link>
+      <description>Reorders C# struct fields to minimize memory padding caused by alignment. Select a struct (or place the cursor inside it) and press Ctrl+Alt+R to automatically reorder...
+
+vendor: AS17514
+downloads: 0
+pricingModel: FREE
+xmlId: com.riderpludgemaker.struct-layout-optimizer</description>
+      <pubDate>Wed, 17 Jun 2026 06:22:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32328-struct-layout-optimizer</guid>
+      <dc:date>2026-06-17T06:22:33Z</dc:date>
+    </item>
+    <item>
+      <title>ApiHelper - Wed Jun 17 05:37:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32327-apihelper</link>
+      <description>ApiHelper A lightweight API assistant for Spring MVC, Spring Cloud OpenFeign, and Spring 6 @HttpExchange, built for endpoint navigation, endpoint browsing, and API...
+
+vendor: HorizonX
+downloads: 0
+pricingModel: FREE
+xmlId: com.lizhuolun.apihelper</description>
+      <pubDate>Wed, 17 Jun 2026 05:37:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32327-apihelper</guid>
+      <dc:date>2026-06-17T05:37:36Z</dc:date>
+    </item>
+    <item>
       <title>AutoJs6 Connector - Wed Jun 17 03:12:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32325-autojs6-connector</link>
       <description>Connect WebStorm to AutoJs6 on Android devices. Push JavaScript code from your IDE to the device, execute it, and view logs in real-time.
@@ -125,7 +190,7 @@ xmlId: org.sarhan.springformat.inspections</description>
     <item>
       <title>DependencyUpdater - Tue Jun 16 16:58:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32315-dependencyupdater</link>
-      <description>An IntelliJ IDEA plugin for managing dependencies and identifying security vulnerabilities. It scans your Maven and Gradle project files, discovers newer library...
+      <description>The ultimate dependency manager and security scanner for IntelliJ IDEA DependencyUpdater is a powerful plugin designed explicitly for Maven and Gradle projects. It...
 
 vendor: artur.olejniczak.dev
 downloads: 12
@@ -199,71 +264,6 @@ xmlId: com.mock-server.mockserver</description>
       <pubDate>Mon, 15 Jun 2026 23:29:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32304-mockserver</guid>
       <dc:date>2026-06-15T23:29:26Z</dc:date>
-    </item>
-    <item>
-      <title>Human Language Support - Tue Jun 16 02:17:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32306-human-language-support</link>
-      <description>Skeleton plugin for Human language support, registers `.hm` files, and provides future LSP integration.
-
-vendor: KielTech
-downloads: 2
-pricingModel: FREE
-xmlId: com.human.language</description>
-      <pubDate>Tue, 16 Jun 2026 02:17:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32306-human-language-support</guid>
-      <dc:date>2026-06-16T02:17:21Z</dc:date>
-    </item>
-    <item>
-      <title>Project Manager - Mon Jun 15 15:48:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32298-project-manager</link>
-      <description>Project Manager Easily manage and switch between projects with tag-based organization. Save your favorite projects, auto-detect Git/Mercurial/SVN repositories, and...
-
-vendor: piumnl
-downloads: 1
-pricingModel: FREE
-xmlId: cn.piumnl.intellij-project-manager</description>
-      <pubDate>Mon, 15 Jun 2026 15:48:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32298-project-manager</guid>
-      <dc:date>2026-06-15T15:48:54Z</dc:date>
-    </item>
-    <item>
-      <title>Marginalia - Sun Jun 14 20:01:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32287-marginalia</link>
-      <description>Marginalia turns the IDE into a live co-editing surface for AI coding agents (primarily Claude Code). Comment on anchored text ranges PR-review-style; the agent...
-
-vendor: Borgand
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.borgand.marginalia</description>
-      <pubDate>Sun, 14 Jun 2026 20:01:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32287-marginalia</guid>
-      <dc:date>2026-06-14T20:01:49Z</dc:date>
-    </item>
-    <item>
-      <title>Hoppscotch Sync - Wed Jun 17 03:32:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32291-hoppscotch-sync</link>
-      <description>English Sync Spring Boot REST API endpoints to Hoppscotch self-hosted instance. ⚠️ Spring Boot (Java) only. Features: Parse @RestController and @Controller classes in...
-
-vendor: hoppscotch sync
-downloads: 5
-pricingModel: FREE
-xmlId: com.hoppscotch.sync</description>
-      <pubDate>Wed, 17 Jun 2026 03:32:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32291-hoppscotch-sync</guid>
-      <dc:date>2026-06-17T03:32:40Z</dc:date>
-    </item>
-    <item>
-      <title>.NET Terminal Symbol Linker - Tue Jun 16 21:42:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32281--net-terminal-symbol-linker</link>
-      <description>Makes .NET symbol names and full or partial file paths in Rider's terminal output clickable — a click jumps to the symbol's declaration, or opens the file. Helpful for...
-
-vendor: Magnus Lidbom
-downloads: 8
-pricingModel: FREE
-xmlId: dev.magnus.riderterminalsymbollinker</description>
-      <pubDate>Tue, 16 Jun 2026 21:42:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32281--net-terminal-symbol-linker</guid>
-      <dc:date>2026-06-16T21:42:01Z</dc:date>
     </item>
   </channel>
 </rss>
