@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Version Catalog Extractor - Tue Jun 16 18:03:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32318-version-catalog-extractor</link>
+      <description>Detects hardcoded dependency versions in Gradle Kotlin and Groovy DSL files and offers a quick fix to move them to gradle/libs.versions.toml. If the version catalog...
+
+vendor: Yuri Luttsev
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.yluttsev.version-catalog-extractor</description>
+      <pubDate>Tue, 16 Jun 2026 18:03:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32318-version-catalog-extractor</guid>
+      <dc:date>2026-06-16T18:03:27Z</dc:date>
+    </item>
+    <item>
+      <title>Git Branch Stats - Tue Jun 16 21:27:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32323-git-branch-stats</link>
+      <description>Git branch statistics inside JetBrains Rider: author activity, commit timeline charts by day, branch switching, and branch comparison — all in one themed tool window...
+
+vendor: BlueBoxProduction
+downloads: 0
+pricingModel: FREE
+xmlId: com.gitbranchstats</description>
+      <pubDate>Tue, 16 Jun 2026 21:27:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32323-git-branch-stats</guid>
+      <dc:date>2026-06-16T21:27:49Z</dc:date>
+    </item>
+    <item>
       <title>KTE - Mon Jun 15 07:24:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32254-kte</link>
       <description>Support for Kotlin jte templates (.kte) in IntelliJ IDEA. Features .kte file type support. Kotlin K2 completion, resolve, references, documentation, and diagnostics...
@@ -206,7 +232,7 @@ xmlId: com.xphp.lsp</description>
       <description>Highlights your project files and folders in colors.
 
 vendor: Mathieu Bouzard
-downloads: 2
+downloads: 17
 pricingModel: FREE
 xmlId: fr.mathbou</description>
       <pubDate>Tue, 16 Jun 2026 18:26:22 GMT</pubDate>
@@ -238,32 +264,6 @@ xmlId: com.tools.gziptolls</description>
       <pubDate>Tue, 16 Jun 2026 05:29:50 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/31996-gzip-tools</guid>
       <dc:date>2026-06-16T05:29:50Z</dc:date>
-    </item>
-    <item>
-      <title>Project Quick Notes - Tue Jun 16 08:28:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32309-project-quick-notes</link>
-      <description>Project Quick Notes adds a lightweight tool window for keeping short notes per project. Use it to record temporary context, TODOs, review reminders, or handoff notes...
-
-vendor: yuanq
-downloads: 4
-pricingModel: FREE
-xmlId: com.origin.idea.projectQuickNotes</description>
-      <pubDate>Tue, 16 Jun 2026 08:28:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32309-project-quick-notes</guid>
-      <dc:date>2026-06-16T08:28:21Z</dc:date>
-    </item>
-    <item>
-      <title>GitLab-Merge - Mon Jun 15 02:15:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32290-gitlab-merge</link>
-      <description>GitLab Merge Request Plugin: Multi-project management Batch create merge request Difference comparison and code review Comment censorship Merge Request Lifecycle...
-
-vendor: ShenhuaNet
-downloads: 5
-pricingModel: FREE
-xmlId: com.shenhua.plugins.GitLab-Merge</description>
-      <pubDate>Mon, 15 Jun 2026 02:15:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32290-gitlab-merge</guid>
-      <dc:date>2026-06-15T02:15:28Z</dc:date>
     </item>
   </channel>
 </rss>
