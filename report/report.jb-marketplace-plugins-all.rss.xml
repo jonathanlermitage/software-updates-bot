@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>GitStratum - Sat Jun 06 19:06:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32140-gitstratum</link>
+      <description>GitStratum turns your project's Git history into practical, in-IDE insight: which files are risky to change, which files move together, and who knows each part of the...
+
+vendor: GitStratum
+downloads: 2
+pricingModel: PAID
+xmlId: com.gitstratum.GitStratum</description>
+      <pubDate>Sat, 06 Jun 2026 19:06:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32140-gitstratum</guid>
+      <dc:date>2026-06-06T19:06:22Z</dc:date>
+    </item>
+    <item>
+      <title>RAISE Science - Thu Jun 18 10:53:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32347-raise-science</link>
+      <description>Provides a simpler interaction with the RAISE platform from PyCharm. Log in, create RAISE projects, upload your code, and run experiments either on the RAISE...
+
+vendor: raise-science
+downloads: 0
+pricingModel: FREE
+xmlId: eu.raisescience.raise-science</description>
+      <pubDate>Thu, 18 Jun 2026 10:53:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32347-raise-science</guid>
+      <dc:date>2026-06-18T10:53:16Z</dc:date>
+    </item>
+    <item>
+      <title>SingleStore Language Server Client - Thu Jun 18 09:24:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32345-singlestore-language-server-client</link>
+      <description>Integrates the SingleStore language server into JetBrains IDEs to provide SQL intelligence for .s2db.sql files. Features Schema-aware completions — table, column, and...
+
+vendor: Singlestore
+downloads: 0
+pricingModel: FREE
+xmlId: com.singlestore.client.plugin</description>
+      <pubDate>Thu, 18 Jun 2026 09:24:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32345-singlestore-language-server-client</guid>
+      <dc:date>2026-06-18T09:24:34Z</dc:date>
+    </item>
+    <item>
+      <title>EveryAPI - Thu Jun 18 12:11:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32343-everyapi</link>
+      <description>Use 240+ LLMs (Claude, GPT, Gemini, DeepSeek, …) inside JetBrains IDEs via the EveryAPI gateway. One key, every model. Chat tool window — streaming chat with any...
+
+vendor: everyapi-ai
+downloads: 0
+pricingModel: FREE
+xmlId: ai.everyapi.jetbrains</description>
+      <pubDate>Thu, 18 Jun 2026 12:11:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32343-everyapi</guid>
+      <dc:date>2026-06-18T12:11:39Z</dc:date>
+    </item>
+    <item>
+      <title>Atlassian Assistant - Thu Jun 18 07:48:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32210-atlassian-assistant</link>
+      <description>Track Bitbucket pull requests, Jira issues, and Jenkins builds from the IDE. PR list and notifications in a tool window Jira task context for the current branch...
+
+vendor: Ivan Kovalenko
+downloads: 2
+pricingModel: FREE
+xmlId: ru.atlassian.assistant</description>
+      <pubDate>Thu, 18 Jun 2026 07:48:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32210-atlassian-assistant</guid>
+      <dc:date>2026-06-18T07:48:22Z</dc:date>
+    </item>
+    <item>
       <title>FlowLens Android Navigator - Thu Jun 18 06:24:26 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32335-flowlens-android-navigator</link>
       <description>Visualize Android app navigation as an interactive screen flow graph. Analyze Navigation XML, Compose routes, and explicit Activity launches Inspect incoming and...
@@ -88,7 +153,7 @@ xmlId: cn.wdf.api</description>
       <link>https://plugins.jetbrains.com/plugin/32174-1click-xcp-support</link>
       <description>Editor support for 1CLICK .xcp process definition files. Provides file type association, syntax highlighting, comment toggling, brace matching, reference-manual based...
 
-vendor: Dotykačka
+vendor: DTK
 downloads: 2
 pricingModel: FREE
 xmlId: org.dotykacka.xcp-extension-plugin</description>
@@ -199,71 +264,6 @@ xmlId: com.codenote.plugin.CodeNote</description>
       <pubDate>Wed, 17 Jun 2026 08:30:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32311-mycodenote</guid>
       <dc:date>2026-06-17T08:30:09Z</dc:date>
-    </item>
-    <item>
-      <title>Bril - Tue Jun 16 18:54:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32320-bril</link>
-      <description>Editor support for Bril, the Big Red Intermediate Language — a small instruction-representation language built for compilers education. The plugin understands Bril's...
-
-vendor: Andrii Rublov
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.seclerp.bril</description>
-      <pubDate>Tue, 16 Jun 2026 18:54:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32320-bril</guid>
-      <dc:date>2026-06-16T18:54:23Z</dc:date>
-    </item>
-    <item>
-      <title>LinkedIn Connected Apps - Thu Jun 18 08:37:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32011-linkedin-connected-apps</link>
-      <description>This plugin generates a proficiency level based on how you actually work with your IDE and lets you share it directly on your LinkedIn profile. Features Proficiency...
-
-vendor: LinkedIn
-downloads: 1133
-pricingModel: FREE
-xmlId: com.jetbrains.ae.experiments</description>
-      <pubDate>Thu, 18 Jun 2026 08:37:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32011-linkedin-connected-apps</guid>
-      <dc:date>2026-06-18T08:37:46Z</dc:date>
-    </item>
-    <item>
-      <title>Version Catalog Extractor - Wed Jun 17 18:29:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32318-version-catalog-extractor</link>
-      <description>Detects literal dependency declarations in Gradle Kotlin and Groovy DSL files and offers a quick fix to move them to gradle/libs.versions.toml. It can also extract...
-
-vendor: Yuri Luttsev
-downloads: 18
-pricingModel: FREE
-xmlId: io.github.yluttsev.version-catalog-extractor</description>
-      <pubDate>Wed, 17 Jun 2026 18:29:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32318-version-catalog-extractor</guid>
-      <dc:date>2026-06-17T18:29:43Z</dc:date>
-    </item>
-    <item>
-      <title>Git Branch Stats - Tue Jun 16 21:27:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32323-git-branch-stats</link>
-      <description>Git branch statistics inside JetBrains Rider: author activity, commit timeline charts by day, branch switching, and branch comparison — all in one themed tool window...
-
-vendor: BlueBoxProduction
-downloads: 4
-pricingModel: FREE
-xmlId: com.gitbranchstats</description>
-      <pubDate>Tue, 16 Jun 2026 21:27:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32323-git-branch-stats</guid>
-      <dc:date>2026-06-16T21:27:49Z</dc:date>
-    </item>
-    <item>
-      <title>KTE - Mon Jun 15 07:24:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32254-kte</link>
-      <description>Support for Kotlin jte templates (.kte) in IntelliJ IDEA. Features .kte file type support. Kotlin K2 completion, resolve, references, documentation, and diagnostics...
-
-vendor: rechenwerk GmbH
-downloads: 9
-pricingModel: FREE
-xmlId: de.rechenwerk.kte</description>
-      <pubDate>Mon, 15 Jun 2026 07:24:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32254-kte</guid>
-      <dc:date>2026-06-15T07:24:20Z</dc:date>
     </item>
   </channel>
 </rss>
