@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.17.0|[nodejs.org](https://nodejs.org)|Thu Jun 18 05:32:06 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.3.1|[nodejs.org](https://nodejs.org)|Thu Jun 18 05:32:06 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.17.0|[nodejs.org](https://nodejs.org)|Thu Jun 18 05:32:06 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.7.5 to 19.8.0 ~ 2026-06-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jun 16 20:59:07 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.7581.18) ~ 2026-06-12|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jun 12 13:00:39 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
