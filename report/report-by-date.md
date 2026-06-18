@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.17.0|[nodejs.org](https://nodejs.org)|Thu Jun 18 05:32:06 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS Current|26.3.1|[nodejs.org](https://nodejs.org)|Thu Jun 18 05:32:06 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.7.5 to 19.8.0 ~ 2026-06-16|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Jun 16 20:59:07 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.7581.18) ~ 2026-06-12|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jun 12 13:00:39 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
@@ -8,8 +10,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 10 17:00:11 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.3 (261.25134.95) ~ 2026-06-04|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jun 04 16:59:26 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.4|[golang.org](https://golang.org/dl/)|Tue Jun 02 20:59:01 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|26.3.0|[nodejs.org](https://nodejs.org)|Mon Jun 01 13:52:12 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.16.0|[nodejs.org](https://nodejs.org)|Thu May 21 16:50:47 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.14|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|

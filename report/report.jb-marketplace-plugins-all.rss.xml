@@ -11,7 +11,7 @@
       <description>Converts a TYPO3 Fluid ViewHelper / component tag into its inline notation via the editor right-click menu or the Alt+Enter (⌥⏎) intention popup. &amp;lt;f:translate...
 
 vendor: ringer.it
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: it.ringer.fluid-inline-converter</description>
       <pubDate>Tue, 16 Jun 2026 20:41:08 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: it.ringer.fluid-inline-converter</description>
       <description>A visual browser and JDBC driver integration for BoltDB-compatible embedded key-value databases inside JetBrains IDEs. Supported database formats bbolt (BoltDB) — the...
 
 vendor: bbolt
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.protonail.bbolt</description>
       <pubDate>Wed, 17 Jun 2026 10:02:08 GMT</pubDate>
@@ -32,17 +32,17 @@ xmlId: com.protonail.bbolt</description>
       <dc:date>2026-06-17T10:02:08Z</dc:date>
     </item>
     <item>
-      <title>Deep Project Search - Wed Jun 17 06:28:59 UTC 2026</title>
+      <title>Deep Project Search - Thu Jun 18 05:23:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32329-deep-project-search</link>
-      <description>Deep Project Search Deep Project Search adds a dedicated IntelliJ IDEA tool window for searching both current project files and dependency jar entries in one place. It...
+      <description>Deep Project Search Deep Project Search adds a dedicated IntelliJ IDEA tool window for searching both current project files, project text content, dependency jar...
 
 vendor: yuanq
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.origin.idea.deepProjectSearch</description>
-      <pubDate>Wed, 17 Jun 2026 06:28:59 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 05:23:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32329-deep-project-search</guid>
-      <dc:date>2026-06-17T06:28:59Z</dc:date>
+      <dc:date>2026-06-18T05:23:40Z</dc:date>
     </item>
     <item>
       <title>Struct Layout Optimizer - Wed Jun 17 06:22:33 UTC 2026</title>
@@ -50,7 +50,7 @@ xmlId: com.origin.idea.deepProjectSearch</description>
       <description>Reorders C# struct fields to minimize memory padding caused by alignment. Select a struct (or place the cursor inside it) and press Ctrl+Alt+R to automatically reorder...
 
 vendor: AS17514
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.riderpludgemaker.struct-layout-optimizer</description>
       <pubDate>Wed, 17 Jun 2026 06:22:33 GMT</pubDate>
@@ -58,30 +58,30 @@ xmlId: com.riderpludgemaker.struct-layout-optimizer</description>
       <dc:date>2026-06-17T06:22:33Z</dc:date>
     </item>
     <item>
-      <title>ApiHelper - Wed Jun 17 05:37:36 UTC 2026</title>
+      <title>ApiHelper - Thu Jun 18 02:46:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32327-apihelper</link>
       <description>ApiHelper A lightweight API assistant for Spring MVC, Spring Cloud OpenFeign, and Spring 6 @HttpExchange, built for endpoint navigation, endpoint browsing, and API...
 
 vendor: HorizonX
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.lizhuolun.apihelper</description>
-      <pubDate>Wed, 17 Jun 2026 05:37:36 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 02:46:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32327-apihelper</guid>
-      <dc:date>2026-06-17T05:37:36Z</dc:date>
+      <dc:date>2026-06-18T02:46:03Z</dc:date>
     </item>
     <item>
-      <title>AutoJs6 Connector - Wed Jun 17 03:12:04 UTC 2026</title>
+      <title>AutoJs6 Connector - Thu Jun 18 05:00:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32325-autojs6-connector</link>
       <description>Connect WebStorm to AutoJs6 on Android devices. Push JavaScript code from your IDE to the device, execute it, and view logs in real-time.
 
 vendor: programmer_liu
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.autojs6.connector</description>
-      <pubDate>Wed, 17 Jun 2026 03:12:04 GMT</pubDate>
+      <pubDate>Thu, 18 Jun 2026 05:00:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32325-autojs6-connector</guid>
-      <dc:date>2026-06-17T03:12:04Z</dc:date>
+      <dc:date>2026-06-18T05:00:28Z</dc:date>
     </item>
     <item>
       <title>MyCodeNote - Wed Jun 17 08:30:09 UTC 2026</title>
@@ -89,7 +89,7 @@ xmlId: com.autojs6.connector</description>
       <description>CodeNote is a plugin for IntelliJ IDEA that helps developers annotate, organize, and navigate code snippets with a two-level category system (group and chapter...
 
 vendor: CodeNode
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.codenote.plugin.CodeNote</description>
       <pubDate>Wed, 17 Jun 2026 08:30:09 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.codenote.plugin.CodeNote</description>
       <description>Editor support for Bril, the Big Red Intermediate Language — a small instruction-representation language built for compilers education. The plugin understands Bril's...
 
 vendor: Andrii Rublov
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.seclerp.bril</description>
       <pubDate>Tue, 16 Jun 2026 18:54:23 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.jetbrains.ae.experiments</description>
       <description>Detects literal dependency declarations in Gradle Kotlin and Groovy DSL files and offers a quick fix to move them to gradle/libs.versions.toml. It can also extract...
 
 vendor: Yuri Luttsev
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: io.github.yluttsev.version-catalog-extractor</description>
       <pubDate>Wed, 17 Jun 2026 18:29:43 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: io.github.yluttsev.version-catalog-extractor</description>
       <description>Git branch statistics inside JetBrains Rider: author activity, commit timeline charts by day, branch switching, and branch comparison — all in one themed tool window...
 
 vendor: BlueBoxProduction
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.gitbranchstats</description>
       <pubDate>Tue, 16 Jun 2026 21:27:49 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.gitbranchstats</description>
       <description>Support for Kotlin jte templates (.kte) in IntelliJ IDEA. Features .kte file type support. Kotlin K2 completion, resolve, references, documentation, and diagnostics...
 
 vendor: rechenwerk GmbH
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: de.rechenwerk.kte</description>
       <pubDate>Mon, 15 Jun 2026 07:24:20 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: de.rechenwerk.kte</description>
       <description>OpenCodugin integrates opencode CLI into IntelliJ IDEA with full terminal mouse support and IDE-aware context sharing.
 
 vendor: OpenCodugin
-downloads: 2
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.hunterxxn.opencodugin</description>
       <pubDate>Tue, 16 Jun 2026 06:42:03 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.github.hunterxxn.opencodugin</description>
       <description>Make invisible Spring runtime behavior visible. Spring Buddy is a correctness companion that models Spring consequences in real-time. It identifies "Legal Java" that...
 
 vendor: akmal Sarhan
-downloads: 1
+downloads: 16
 pricingModel: FREE
 xmlId: org.sarhan.springformat.inspections</description>
       <pubDate>Tue, 16 Jun 2026 08:27:58 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: org.sarhan.springformat.inspections</description>
       <description>The ultimate dependency manager and security scanner for IntelliJ IDEA DependencyUpdater is a powerful plugin designed explicitly for Maven and Gradle projects. It...
 
 vendor: artur.olejniczak.dev
-downloads: 12
+downloads: 26
 pricingModel: FREE
 xmlId: pl.artoledev.dependencyupdater</description>
       <pubDate>Tue, 16 Jun 2026 16:58:58 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: pl.artoledev.dependencyupdater</description>
       <description>Versioned, integrity-pinned schemas for YAML files. Provides autocomplete and validation for Kubernetes CRDs and other ecosystems from cdn.schemalock.dev. Pin schema...
 
 vendor: SchemaLock
-downloads: 3
+downloads: 11
 pricingModel: FREE
 xmlId: dev.schemalock</description>
       <pubDate>Mon, 15 Jun 2026 14:54:19 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.schemalock</description>
       <description>Celebrimbot is an IntelliJ Platform plugin that brings a full multi-agent AI system into your IDE. It can read your project files, write and modify code, execute...
 
 vendor: GiacomoSaccaggi
-downloads: 5
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.giacomosaccaggi.celebrimbot</description>
       <pubDate>Tue, 16 Jun 2026 12:48:48 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.github.giacomosaccaggi.celebrimbot</description>
       <description>Dynatrace Mobile Wizard is a guided setup tool for Android developers that automatically configures the Dynatrace OneAgent Mobile SDK in your project — no manual...
 
 vendor: Hleb Maliborski
-downloads: 3
+downloads: 12
 pricingModel: FREE
 xmlId: io.github.hlebmaliborski.dynatracemobilewizard</description>
       <pubDate>Tue, 16 Jun 2026 07:38:56 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: io.github.hlebmaliborski.dynatracemobilewizard</description>
       <description>FIFA World Cup 2026 — Live scores, schedules, group standings, FIFA rankings, text-live commentary and news for the 2026 USA-Canada-Mexico World Cup, right inside your...
 
 vendor: FIFA WORLD CUP
-downloads: 5
+downloads: 14
 pricingModel: FREE
 xmlId: com.fifa.plugin.worldcup2026</description>
       <pubDate>Tue, 16 Jun 2026 01:10:33 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.fifa.plugin.worldcup2026</description>
       <description>MockServer integration for IntelliJ-based IDEs. Open the MockServer Dashboard in your browser Start a MockServer Docker container from the IDE Tool window for quick...
 
 vendor: MockServer
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.mock-server.mockserver</description>
       <pubDate>Mon, 15 Jun 2026 23:29:26 GMT</pubDate>
