@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.8117.19) ~ 2026-06-18|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jun 18 16:59:31 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.0 to 19.8.2 ~ 2026-06-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jun 18 13:01:19 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.3.1|[nodejs.org](https://nodejs.org)|Thu Jun 18 05:32:06 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.17.0|[nodejs.org](https://nodejs.org)|Thu Jun 18 05:32:06 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.7581.18) ~ 2026-06-12|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jun 12 13:00:39 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 00:32:05 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 10 17:00:12 UTC 2026|
