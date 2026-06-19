@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|9.6.0|[gradle.org](https://gradle.org/releases)|Fri Jun 19 05:39:28 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.8117.19) ~ 2026-06-18|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jun 18 16:59:31 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.0 to 19.8.2 ~ 2026-06-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jun 18 13:01:19 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.3.1|[nodejs.org](https://nodejs.org)|Thu Jun 18 05:32:06 UTC 2026|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 340 - Episode on l'voit on l'voit pas|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue May 12 16:40:49 UTC 2026|
-|![logo](../media/logo/gradle.png) Gradle|9.5.1|[gradle.org](https://gradle.org/releases)|Tue May 12 16:40:42 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue May 12 12:33:42 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon May 04 16:30:00 UTC 2026|
