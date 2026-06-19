@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>FXML/2 for JavaFX - Thu Jun 18 14:33:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32337-fxml-2-for-javafx</link>
+      <description>IDE support for the FXML/2 markup format for JavaFX UIs. Features include: FXML syntax highlighting, folding, formatting, and EditorConfig-aware indentation Tag and...
+
+vendor: JFXcore
+downloads: 1
+pricingModel: FREE
+xmlId: org.jfxcore.fxml</description>
+      <pubDate>Thu, 18 Jun 2026 14:33:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32337-fxml-2-for-javafx</guid>
+      <dc:date>2026-06-18T14:33:32Z</dc:date>
+    </item>
+    <item>
       <title>AgentHub - Thu Jun 18 16:06:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32310-agenthub</link>
       <description>AgentHub adds a toolbar button to every JetBrains IDE that launches any popular CLI coding agent in its own terminal window — one click, no setup. Works with IntelliJ...
@@ -71,7 +84,7 @@ xmlId: com.qualimetry.csharp</description>
       <dc:date>2026-06-19T04:53:17Z</dc:date>
     </item>
     <item>
-      <title>DocScribe - Thu Jun 18 12:32:36 UTC 2026</title>
+      <title>DocScribe - Fri Jun 19 13:25:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32349-docscribe</link>
       <description>Auto-generate inline YARD documentation for Ruby methods using docscribe. Features Check Ruby files for missing YARD documentation Apply safe fixes (add required tags...
 
@@ -79,9 +92,9 @@ vendor: unurgunite
 downloads: 0
 pricingModel: FREE
 xmlId: com.florexlabs.docscribe</description>
-      <pubDate>Thu, 18 Jun 2026 12:32:36 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 13:25:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32349-docscribe</guid>
-      <dc:date>2026-06-18T12:32:36Z</dc:date>
+      <dc:date>2026-06-19T13:25:21Z</dc:date>
     </item>
     <item>
       <title>External Terminal Launcher - Thu Jun 18 18:13:57 UTC 2026</title>
@@ -153,7 +166,7 @@ xmlId: dev.webbies.dotenvify</description>
       <link>https://plugins.jetbrains.com/plugin/32350-tree-view</link>
       <description>Simplify and beautify your projects with Farsroidx - Tree View! Tired of JetBrains' default project view messing up your clean structures? This plugin completely...
 
-vendor: Mohammad Ali Riazati
+vendor: Mohammad ali Riazati
 downloads: 0
 pricingModel: FREE
 xmlId: ir.farsroidx.tree-view</description>
@@ -251,19 +264,6 @@ xmlId: com.flowlens.plugin</description>
       <pubDate>Thu, 18 Jun 2026 06:24:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32335-flowlens-android-navigator</guid>
       <dc:date>2026-06-18T06:24:26Z</dc:date>
-    </item>
-    <item>
-      <title>Yii2Helper - Wed Jun 17 23:13:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32278-yii2helper</link>
-      <description>Navigation and tooling for the Yii2 PHP framework. Ctrl/Cmd+Click a view name in render(), renderPartial(), renderAjax(), renderFile() or the mailer compose() to jump...
-
-vendor: dymytrii.khomitskyi
-downloads: 5
-pricingModel: FREE
-xmlId: com.yii2helper.Yii2Helper</description>
-      <pubDate>Wed, 17 Jun 2026 23:13:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32278-yii2helper</guid>
-      <dc:date>2026-06-17T23:13:31Z</dc:date>
     </item>
   </channel>
 </rss>
