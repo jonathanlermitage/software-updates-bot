@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>KubeDiagrams - Sun Jun 21 17:33:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32395-kubediagrams</link>
+      <description>Diagramming for Kubernetes in JetBrains IDEs based on KubeDiagrams output.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: org.jetbrains.kubeblick</description>
+      <pubDate>Sun, 21 Jun 2026 17:33:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32395-kubediagrams</guid>
+      <dc:date>2026-06-21T17:33:40Z</dc:date>
+    </item>
+    <item>
       <title>TODO Manager - Fri Jun 19 14:14:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32376-todo-manager</link>
       <description>TODO Manager is a dedicated tool window for tracking TODO, FIXME, HACK, NOTE, and XXX comments across your source code — in any language, with structured metadata and...
@@ -71,7 +84,7 @@ xmlId: eu.raisescience.raise-science</description>
       <dc:date>2026-06-19T09:50:39Z</dc:date>
     </item>
     <item>
-      <title>FXML/2 for JavaFX - Thu Jun 18 14:33:32 UTC 2026</title>
+      <title>FXML/2 for JavaFX - Sun Jun 21 17:46:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32337-fxml-2-for-javafx</link>
       <description>IDE support for the FXML/2 markup format for JavaFX UIs. Features include: FXML syntax highlighting, folding, formatting, and EditorConfig-aware indentation Tag and...
 
@@ -79,9 +92,9 @@ vendor: JFXcore
 downloads: 12
 pricingModel: FREE
 xmlId: org.jfxcore.fxml</description>
-      <pubDate>Thu, 18 Jun 2026 14:33:32 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 17:46:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32337-fxml-2-for-javafx</guid>
-      <dc:date>2026-06-18T14:33:32Z</dc:date>
+      <dc:date>2026-06-21T17:46:57Z</dc:date>
     </item>
     <item>
       <title>AgentHub - Thu Jun 18 16:06:18 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.intellij.cidr.lang</description>
       <pubDate>Thu, 18 Jun 2026 15:48:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32355-c-c--language-support-via-classic-engine</guid>
       <dc:date>2026-06-18T15:48:12Z</dc:date>
-    </item>
-    <item>
-      <title>Dart Data Toolkit - Sat Jun 20 04:58:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32342-dart-data-toolkit</link>
-      <description>Generate Dart methods and barrel files without the boilerplate. Features Dart Method Generator copyWith() — creates modified copies of the class toJson() — serializes...
-
-vendor: KXACA
-downloads: 33
-pricingModel: FREE
-xmlId: com.kxaca.dartdatatoolkit</description>
-      <pubDate>Sat, 20 Jun 2026 04:58:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32342-dart-data-toolkit</guid>
-      <dc:date>2026-06-20T04:58:12Z</dc:date>
     </item>
   </channel>
 </rss>
