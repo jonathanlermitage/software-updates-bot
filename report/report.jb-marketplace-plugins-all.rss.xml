@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AI Worktree Reviewer - Tue Jun 23 11:20:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32423-ai-worktree-reviewer</link>
+      <description>AI Worktree Reviewer Review changes across multiple Git worktrees without leaving your editor — built for the era of AI coding agents that work several branches in...
+
+vendor: YoungJae Kim
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.comeyap.aiworktreereviewer</description>
+      <pubDate>Tue, 23 Jun 2026 11:20:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32423-ai-worktree-reviewer</guid>
+      <dc:date>2026-06-23T11:20:41Z</dc:date>
+    </item>
+    <item>
+      <title>PlantUML Git Diff - Tue Jun 23 10:44:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32422-plantuml-git-diff</link>
+      <description>Compare the PlantUML diagram under the caret with the matching diagram from a local git base ref.
+
+vendor: pumlDiff
+downloads: 0
+pricingModel: FREE
+xmlId: local.plantuml.git.diff</description>
+      <pubDate>Tue, 23 Jun 2026 10:44:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32422-plantuml-git-diff</guid>
+      <dc:date>2026-06-23T10:44:53Z</dc:date>
+    </item>
+    <item>
+      <title>AIVory Genie - Tue Jun 23 08:55:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32420-aivory-genie</link>
+      <description>Bring your own AI coding agent into JetBrains. Point the magic wand at code or screen, and trace every edit back to its prompt. Supports Claude Code, Codex...
+
+vendor: AIVory, Inc.
+downloads: 0
+pricingModel: FREE
+xmlId: net.aivory.aimanager</description>
+      <pubDate>Tue, 23 Jun 2026 08:55:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32420-aivory-genie</guid>
+      <dc:date>2026-06-23T08:55:43Z</dc:date>
+    </item>
+    <item>
+      <title>Smart Json Helper - Tue Jun 23 09:07:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32421-smart-json-helper</link>
+      <description>Smart Json Plugin based on IntelliJ IDEs. It makes JSON processing a breeze! With advanced features such as JSON validation, beautification, and conversion between...
+
+vendor: editnow
+downloads: 0
+pricingModel: FREE
+xmlId: cn.code.smart.helper</description>
+      <pubDate>Tue, 23 Jun 2026 09:07:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32421-smart-json-helper</guid>
+      <dc:date>2026-06-23T09:07:26Z</dc:date>
+    </item>
+    <item>
+      <title>Secret Bridge - Sat Jun 20 08:09:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32358-secret-bridge</link>
+      <description>Secret Bridge helps developers work with cloud-managed secrets inside JetBrains IDEs without copying them into local files. It fetches secrets from AWS Secrets...
+
+vendor: supercolo123
+downloads: 5
+pricingModel: PAID
+xmlId: com.secret-bridge</description>
+      <pubDate>Sat, 20 Jun 2026 08:09:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32358-secret-bridge</guid>
+      <dc:date>2026-06-20T08:09:25Z</dc:date>
+    </item>
+    <item>
       <title>StockerPlus - Tue Jun 23 06:39:48 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32417-stockerplus</link>
       <description>StockerPlus is a JetBrains IDE extension dashboard for investors to track real-time stock market conditions. Features - &#x1f4ca; **Real-time Market Data** - Track stocks and...
@@ -199,71 +264,6 @@ xmlId: com.maheshshinde.shellreq.api.client</description>
       <pubDate>Sun, 21 Jun 2026 16:19:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32394-shellreq-api-client</guid>
       <dc:date>2026-06-21T16:19:17Z</dc:date>
-    </item>
-    <item>
-      <title>Orderly - JSON Normalizer - Sat Jun 20 05:28:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32353-orderly--json-normalizer</link>
-      <description>Orderly — JSON Canonical Normalizer &amp;amp; Formatter Orderly is a JSON tool that recursively sorts and normalizes any JSON data into a fully deterministic, canonical...
-
-vendor: Orderly JSON Normalizer
-downloads: 5
-pricingModel: FREE
-xmlId: com.json.orderly</description>
-      <pubDate>Sat, 20 Jun 2026 05:28:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32353-orderly--json-normalizer</guid>
-      <dc:date>2026-06-20T05:28:54Z</dc:date>
-    </item>
-    <item>
-      <title>mk-format Highlighter - Thu Jun 18 17:38:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32356-mk-format-highlighter</link>
-      <description>Depth-colored syntax highlighting for mk-format (.mk) outline files, matching the mk-editor artifact's palette out of the box.
-
-vendor: Moises Kerschner
-downloads: 7
-pricingModel: FREE
-xmlId: com.moiseskerschner.mkformat</description>
-      <pubDate>Thu, 18 Jun 2026 17:38:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32356-mk-format-highlighter</guid>
-      <dc:date>2026-06-18T17:38:24Z</dc:date>
-    </item>
-    <item>
-      <title>Pomo-BREAK - Mon Jun 22 12:13:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32378-pomo-break</link>
-      <description>A focus timer with a built-in brick-breaker game to enjoy during your breaks. Classic Pomodoro flow: configurable Focus / Short break / Long break. Long break...
-
-vendor: QrowMagnia
-downloads: 15
-pricingModel: FREE
-xmlId: com.qrow.pomodorobreaker</description>
-      <pubDate>Mon, 22 Jun 2026 12:13:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32378-pomo-break</guid>
-      <dc:date>2026-06-22T12:13:47Z</dc:date>
-    </item>
-    <item>
-      <title>World Cup Flags - Fri Jun 19 20:58:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32379-world-cup-flags</link>
-      <description>World Cup Flags lets you fly a country's flag right in your IDE toolbar — pick your home nation, your World Cup favorite, or whatever flag puts a smile on your face...
-
-vendor: Alexandre Pontes
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.alepontes.worldcupflags</description>
-      <pubDate>Fri, 19 Jun 2026 20:58:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32379-world-cup-flags</guid>
-      <dc:date>2026-06-19T20:58:08Z</dc:date>
-    </item>
-    <item>
-      <title>Class Hint - Mon Jun 22 00:51:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32403-class-hint</link>
-      <description>Displays Chinese class descriptions next to Java class nodes in the IntelliJ IDEA Project View.
-
-vendor: Class Hint
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.chineseclasshint</description>
-      <pubDate>Mon, 22 Jun 2026 00:51:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32403-class-hint</guid>
-      <dc:date>2026-06-22T00:51:49Z</dc:date>
     </item>
   </channel>
 </rss>
