@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>StockerPlus - Tue Jun 23 06:39:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32417-stockerplus</link>
+      <description>StockerPlus is a JetBrains IDE extension dashboard for investors to track real-time stock market conditions. Features - &#x1f4ca; **Real-time Market Data** - Track stocks and...
+
+vendor: StockerPlus
+downloads: 0
+pricingModel: FREE
+xmlId: com.huly.stocker-plus</description>
+      <pubDate>Tue, 23 Jun 2026 06:39:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32417-stockerplus</guid>
+      <dc:date>2026-06-23T06:39:48Z</dc:date>
+    </item>
+    <item>
+      <title>Fast Invoker - Sat Jun 20 11:02:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32372-fast-invoker</link>
+      <description>Fast Invoker lets you invoke any Java method directly in a running JVM — no restarts, no test boilerplate. Click a gutter icon, adjust parameters, and see the result...
+
+vendor: coderF
+downloads: 1
+pricingModel: FREE
+xmlId: com.codenow.fast-invoker</description>
+      <pubDate>Sat, 20 Jun 2026 11:02:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32372-fast-invoker</guid>
+      <dc:date>2026-06-20T11:02:26Z</dc:date>
+    </item>
+    <item>
+      <title>GitDeployPack - Tue Jun 23 04:45:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32418-gitdeploypack</link>
+      <description>GitDeployPack builds deployable packages directly from Git changes. Select commits from Git Log, or package changes by commit, commit range, tag, date range, local...
+
+vendor: GitDeployPack
+downloads: 0
+pricingModel: FREE
+xmlId: com.gitdeploypack</description>
+      <pubDate>Tue, 23 Jun 2026 04:45:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32418-gitdeploypack</guid>
+      <dc:date>2026-06-23T04:45:17Z</dc:date>
+    </item>
+    <item>
+      <title>Chauffeur - Sat Jun 20 10:46:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32382-chauffeur</link>
+      <description>Chauffeur captures and restores your open JetBrains IDE projects and editor files through the local Chauffeur desktop app. 100% local — no cloud, no tracking. Requires...
+
+vendor: emaginasion
+downloads: 2
+pricingModel: FREE
+xmlId: com.emaginasion.chauffeur</description>
+      <pubDate>Sat, 20 Jun 2026 10:46:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32382-chauffeur</guid>
+      <dc:date>2026-06-20T10:46:46Z</dc:date>
+    </item>
+    <item>
+      <title>CLS Runner - Mon Jun 22 13:16:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32412-cls-runner</link>
+      <description>Launches the bundled copilot-language-server binary with --stdio from its absolute path. Used to validate fat/slim split-plugin distribution, JetBrains Marketplace...
+
+vendor: Mason Chen MSFT
+downloads: 0
+pricingModel: FREE
+xmlId: com.jiec.cls.runner</description>
+      <pubDate>Mon, 22 Jun 2026 13:16:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32412-cls-runner</guid>
+      <dc:date>2026-06-22T13:16:44Z</dc:date>
+    </item>
+    <item>
+      <title>TOML EnvVar - Mon Jun 22 18:23:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32414-toml-envvar</link>
+      <description>TOML Environment Variable Inspection Suppressor is a lightweight utility designed for developers using extended TOML configurations that support environment variable...
+
+vendor: IrwinJuice
+downloads: 1
+pricingModel: FREE
+xmlId: io.toml.env-var-suppressor</description>
+      <pubDate>Mon, 22 Jun 2026 18:23:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32414-toml-envvar</guid>
+      <dc:date>2026-06-22T18:23:21Z</dc:date>
+    </item>
+    <item>
       <title>Procfile - Sun Jun 21 17:35:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32391-procfile</link>
       <description>The Procfile plugin adds first-class support for Procfile files in JetBrains IDEs. A Procfile declares the process types and commands used to run an application (for...
@@ -58,7 +136,7 @@ xmlId: io.github.darkryh.katalyst.idea</description>
       <dc:date>2026-06-22T12:23:34Z</dc:date>
     </item>
     <item>
-      <title>SSH Plus - Sun Jun 21 14:27:14 UTC 2026</title>
+      <title>SSH Plus - Mon Jun 22 15:31:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32392-ssh-plus</link>
       <description>All-in-one SSH workspace for JetBrains IDEs — manage hosts, open interactive terminals, browse remote files, transfer data, and forward ports without leaving the IDE...
 
@@ -66,9 +144,9 @@ vendor: Hanghang
 downloads: 6
 pricingModel: PAID
 xmlId: com.sshplus.remote</description>
-      <pubDate>Sun, 21 Jun 2026 14:27:14 GMT</pubDate>
+      <pubDate>Mon, 22 Jun 2026 15:31:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32392-ssh-plus</guid>
-      <dc:date>2026-06-21T14:27:14Z</dc:date>
+      <dc:date>2026-06-22T15:31:58Z</dc:date>
     </item>
     <item>
       <title>GOL Check - Anti-Hallucination Firewall - Mon Jun 22 08:00:10 UTC 2026</title>
@@ -186,84 +264,6 @@ xmlId: com.github.chineseclasshint</description>
       <pubDate>Mon, 22 Jun 2026 00:51:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32403-class-hint</guid>
       <dc:date>2026-06-22T00:51:49Z</dc:date>
-    </item>
-    <item>
-      <title>Seen - Mon Jun 22 08:08:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32402-seen</link>
-      <description>Seen keeps track of which files you have already reviewed, right inside your IDE, with no git required. It adds a checklist to your project tree. Tick a file when you...
-
-vendor: xeinebiu
-downloads: 7
-pricingModel: FREE
-xmlId: com.github.xeinebiu.seen</description>
-      <pubDate>Mon, 22 Jun 2026 08:08:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32402-seen</guid>
-      <dc:date>2026-06-22T08:08:59Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode Web Panel - Sun Jun 21 21:32:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32384-opencode-web-panel</link>
-      <description>OpenCode Web Panel brings the official OpenCode web UI into JetBrains IDEs. It opens OpenCode in a right-side tool window, keeps it focused on the project you are...
-
-vendor: Moritzf
-downloads: 5
-pricingModel: FREE
-xmlId: de.moritzf.opencodewebpanel</description>
-      <pubDate>Sun, 21 Jun 2026 21:32:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32384-opencode-web-panel</guid>
-      <dc:date>2026-06-21T21:32:28Z</dc:date>
-    </item>
-    <item>
-      <title>TermGlyph - Sun Jun 21 18:13:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32399-termglyph</link>
-      <description>A terminal tool window for IntelliJ-based IDEs that renders Claude Code cleanly — fixing the overlapping, hard-to-read text — and handles complex scripts (Thai, emoji...
-
-vendor: Duckyman
-downloads: 3
-pricingModel: FREE
-xmlId: com.duckyman.plugin.termglyph</description>
-      <pubDate>Sun, 21 Jun 2026 18:13:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32399-termglyph</guid>
-      <dc:date>2026-06-21T18:13:50Z</dc:date>
-    </item>
-    <item>
-      <title>OpenTelemetry Collector Config - Sun Jun 21 18:03:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32398-opentelemetry-collector-config</link>
-      <description>Syntax highlighting and language support for OpenTelemetry Collector configuration files (*.otelcol.yaml) and the OpenTelemetry Transformation Language (OTTL). Backed...
-
-vendor: otelery.dev
-downloads: 1
-pricingModel: FREE
-xmlId: dev.otelery.otelcol</description>
-      <pubDate>Sun, 21 Jun 2026 18:03:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32398-opentelemetry-collector-config</guid>
-      <dc:date>2026-06-21T18:03:35Z</dc:date>
-    </item>
-    <item>
-      <title>Recap - AI Agent Sessions - Sun Jun 21 16:04:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32389-recap--ai-agent-sessions</link>
-      <description>Recap — one history viewer for every AI coding agent Your AI coding agents scatter their session history across a dozen hidden folders and file formats. Recap pulls...
-
-vendor: Code
-downloads: 5
-pricingModel: FREEMIUM
-xmlId: ai.dev.tools.recap.recap2</description>
-      <pubDate>Sun, 21 Jun 2026 16:04:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32389-recap--ai-agent-sessions</guid>
-      <dc:date>2026-06-21T16:04:26Z</dc:date>
-    </item>
-    <item>
-      <title>Prompt Bundler - Mon Jun 22 14:39:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32393-prompt-bundler</link>
-      <description>Get your codebase into any AI chat, without the copy-paste hell. Pasting code into a web chat usually means hunting files, copying them one by one, and losing the...
-
-vendor: Dorian Naaji
-downloads: 30
-pricingModel: FREE
-xmlId: dev.promptbundler</description>
-      <pubDate>Mon, 22 Jun 2026 14:39:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32393-prompt-bundler</guid>
-      <dc:date>2026-06-22T14:39:31Z</dc:date>
     </item>
   </channel>
 </rss>
