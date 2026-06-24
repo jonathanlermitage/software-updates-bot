@@ -11,7 +11,7 @@
       <description>AI Worktree Reviewer Review changes across multiple Git worktrees without leaving your editor — built for the era of AI coding agents that work several branches in...
 
 vendor: YoungJae Kim
-downloads: 0
+downloads: 28
 pricingModel: FREE
 xmlId: com.github.comeyap.aiworktreereviewer</description>
       <pubDate>Tue, 23 Jun 2026 12:55:59 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.github.comeyap.aiworktreereviewer</description>
       <description>Compare the PlantUML diagram under the caret with the matching diagram from a local git base ref.
 
 vendor: pumlDiff
-downloads: 0
+downloads: 13
 pricingModel: FREE
 xmlId: local.plantuml.git.diff</description>
       <pubDate>Tue, 23 Jun 2026 10:44:53 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: local.plantuml.git.diff</description>
       <description>Bring your own AI coding agent into JetBrains. Point the magic wand at code or screen, and trace every edit back to its prompt. Supports Claude Code, Codex...
 
 vendor: AIVory, Inc.
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: net.aivory.aimanager</description>
       <pubDate>Tue, 23 Jun 2026 08:55:43 GMT</pubDate>
@@ -45,17 +45,17 @@ xmlId: net.aivory.aimanager</description>
       <dc:date>2026-06-23T08:55:43Z</dc:date>
     </item>
     <item>
-      <title>Smart Json Helper - Tue Jun 23 09:07:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32421-smart-json-helper</link>
-      <description>Smart Json Plugin based on IntelliJ IDEs. It makes JSON processing a breeze! With advanced features such as JSON validation, beautification, and conversion between...
+      <title>CodeGPT AI Assist - Wed Jun 24 03:03:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32421-codegpt-ai-assist</link>
+      <description>CodeGPT Assistant is a programming assistant plugin developed, based on the DeepSeek large model,{{KEYWORDS}} designed to enhance programmers' coding efficiency and...
 
 vendor: editnow
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: cn.code.smart.helper</description>
-      <pubDate>Tue, 23 Jun 2026 09:07:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32421-smart-json-helper</guid>
-      <dc:date>2026-06-23T09:07:26Z</dc:date>
+      <pubDate>Wed, 24 Jun 2026 03:03:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32421-codegpt-ai-assist</guid>
+      <dc:date>2026-06-24T03:03:49Z</dc:date>
     </item>
     <item>
       <title>Secret Bridge - Sat Jun 20 08:09:25 UTC 2026</title>
@@ -63,7 +63,7 @@ xmlId: cn.code.smart.helper</description>
       <description>Secret Bridge helps developers work with cloud-managed secrets inside JetBrains IDEs without copying them into local files. It fetches secrets from AWS Secrets...
 
 vendor: supercolo123
-downloads: 5
+downloads: 10
 pricingModel: PAID
 xmlId: com.secret-bridge</description>
       <pubDate>Sat, 20 Jun 2026 08:09:25 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.secret-bridge</description>
       <description>StockerPlus is a JetBrains IDE extension dashboard for investors to track real-time stock market conditions. Features - &#x1f4ca; **Real-time Market Data** - Track stocks and...
 
 vendor: StockerPlus
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: com.huly.stocker-plus</description>
       <pubDate>Tue, 23 Jun 2026 06:39:48 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.huly.stocker-plus</description>
       <description>Fast Invoker lets you invoke any Java method directly in a running JVM — no restarts, no test boilerplate. Click a gutter icon, adjust parameters, and see the result...
 
 vendor: coderF
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.codenow.fast-invoker</description>
       <pubDate>Sat, 20 Jun 2026 11:02:26 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.codenow.fast-invoker</description>
       <description>GitDeployPack builds deployable packages directly from Git changes. Select commits from Git Log, or package changes by commit, commit range, tag, date range, local...
 
 vendor: GitDeployPack
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.gitdeploypack</description>
       <pubDate>Tue, 23 Jun 2026 04:45:17 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.gitdeploypack</description>
       <description>Chauffeur captures and restores your open JetBrains IDE projects and editor files through the local Chauffeur desktop app. 100% local — no cloud, no tracking. Requires...
 
 vendor: emaginasion
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: com.emaginasion.chauffeur</description>
       <pubDate>Sat, 20 Jun 2026 10:46:46 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.emaginasion.chauffeur</description>
       <description>Launches the bundled copilot-language-server binary with --stdio from its absolute path. Used to validate fat/slim split-plugin distribution, JetBrains Marketplace...
 
 vendor: Mason Chen MSFT
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.jiec.cls.runner</description>
       <pubDate>Mon, 22 Jun 2026 13:16:44 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.jiec.cls.runner</description>
       <description>TOML Environment Variable Inspection Suppressor is a lightweight utility designed for developers using extended TOML configurations that support environment variable...
 
 vendor: IrwinJuice
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: io.toml.env-var-suppressor</description>
       <pubDate>Mon, 22 Jun 2026 18:23:21 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: io.toml.env-var-suppressor</description>
       <description>The Procfile plugin adds first-class support for Procfile files in JetBrains IDEs. A Procfile declares the process types and commands used to run an application (for...
 
 vendor: Anbora Labs
-downloads: 14
+downloads: 39
 pricingModel: PAID
 xmlId: co.anbora.labs.procfile</description>
       <pubDate>Sun, 21 Jun 2026 17:35:21 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: co.anbora.labs.procfile</description>
       <description>Surfaces anti-patterns in your codebase using the Anthropic Claude API. Findings are persisted as YAML files under .codeup/ so they travel with the repo and go through...
 
 vendor: Qbyte Consulting
-downloads: 14
+downloads: 23
 pricingModel: FREE
 xmlId: com.qbyteconsulting.codeup</description>
       <pubDate>Mon, 22 Jun 2026 15:20:33 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.qbyteconsulting.codeup</description>
       <description>Visual editor for Mermaid diagrams. Drag, drop, pick colors, change themes and export high-quality SVG/JPG right inside your IDE.
 
 vendor: Haizy Labs
-downloads: 1
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.haizy.mermaid.editor.pro</description>
       <pubDate>Fri, 19 Jun 2026 04:53:48 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.haizy.mermaid.editor.pro</description>
       <description>Editor support for the Katalyst Kotlin backend framework. Katalyst is annotation-free and discovers routes, middleware, websockets, exception handlers, services...
 
 vendor: darkryh
-downloads: 12
+downloads: 22
 pricingModel: FREE
 xmlId: io.github.darkryh.katalyst.idea</description>
       <pubDate>Mon, 22 Jun 2026 12:23:34 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: io.github.darkryh.katalyst.idea</description>
       <description>All-in-one SSH workspace for JetBrains IDEs — manage hosts, open interactive terminals, browse remote files, transfer data, and forward ports without leaving the IDE...
 
 vendor: Hanghang
-downloads: 6
+downloads: 13
 pricingModel: PAID
 xmlId: com.sshplus.remote</description>
       <pubDate>Mon, 22 Jun 2026 15:31:58 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.sshplus.remote</description>
       <description>Validates AI-generated commands before execution. Catches hallucinated commands, fake APIs, and invalid operations before they break your project. Works with all...
 
 vendor: GOL Productions
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.golproductions.check</description>
       <pubDate>Mon, 22 Jun 2026 08:00:10 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.golproductions.check</description>
       <description>Smart Code PDX is an IntelliJ IDEA productivity plugin for everyday Java development. It helps developers collect code snippets, generate MyBatis Plus style code from...
 
 vendor: smartcodepdx
-downloads: 16
+downloads: 24
 pricingModel: FREE
 xmlId: com.mtl.smartcodepdx</description>
       <pubDate>Mon, 22 Jun 2026 15:25:42 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.mtl.smartcodepdx</description>
       <description>Threadmap is a "code takeover" assistant for Spring projects in IntelliJ IDEA: trace one call chain from an HTTP entry point, read its Spring semantics and static-link...
 
 vendor: Threadmap
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.threadmap</description>
       <pubDate>Mon, 22 Jun 2026 10:39:04 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.threadmap</description>
       <description>ShellReq API Client Powerful, lightweight API testing plugin for JetBrains IDEs. Features: REST API requests (GET, POST, PUT, PATCH, DELETE, HEAD) Request headers and...
 
 vendor: Mahesh Shinde
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.maheshshinde.shellreq.api.client</description>
       <pubDate>Tue, 23 Jun 2026 19:37:22 GMT</pubDate>
