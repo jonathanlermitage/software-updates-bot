@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Android &amp; Flutter Resource Cleaner - Wed Jun 24 12:11:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32348-android--flutter-resource-cleaner</link>
+      <description>Detect unused drawables, strings, layouts, colors and Flutter assets in Android and Flutter projects. Shows potential storage savings. One-click cleanup.
+
+vendor: Bodila Avesh Arifbhai
+downloads: 1
+pricingModel: FREE
+xmlId: com.aveshbodila.resourcecleaner</description>
+      <pubDate>Wed, 24 Jun 2026 12:11:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32348-android--flutter-resource-cleaner</guid>
+      <dc:date>2026-06-24T12:11:54Z</dc:date>
+    </item>
+    <item>
+      <title>SVG Icon Preview - Wed Jun 24 08:26:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32452-svg-icon-preview</link>
+      <description>Shows a gutter icon preview for any field whose value is a data:image/svg+xml;base64,... Features Detects data:image/svg+xml;base64,... strings in your code and shows...
+
+vendor: Pramod Khalkar
+downloads: 0
+pricingModel: FREE
+xmlId: com.plugin.svg-icon-preview</description>
+      <pubDate>Wed, 24 Jun 2026 08:26:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32452-svg-icon-preview</guid>
+      <dc:date>2026-06-24T08:26:06Z</dc:date>
+    </item>
+    <item>
+      <title>PipelineVCS - Wed Jun 24 11:11:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32454-pipelinevcs</link>
+      <description>PipelineVCS integration for JetBrains Rider. Provides PLV repository detection, local change tracking, commit/pull/push actions, and status/history tool windows.
+
+vendor: GAD Studios
+downloads: 0
+pricingModel: FREE
+xmlId: com.pipelinevcs.plv</description>
+      <pubDate>Wed, 24 Jun 2026 11:11:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32454-pipelinevcs</guid>
+      <dc:date>2026-06-24T11:11:18Z</dc:date>
+    </item>
+    <item>
+      <title>i18n Locale Lens - Wed Jun 24 08:29:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32453-i18n-locale-lens</link>
+      <description>i18n Locale Lens adds Go to Declaration support for i18n keys stored in JSON locale files. Jump from t('common.button.ok') to the exact JSON property. Resolve...
+
+vendor: Paprika_apps
+downloads: 0
+pricingModel: FREE
+xmlId: com.paprikaapps.i18n-locale-lens</description>
+      <pubDate>Wed, 24 Jun 2026 08:29:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32453-i18n-locale-lens</guid>
+      <dc:date>2026-06-24T08:29:58Z</dc:date>
+    </item>
+    <item>
+      <title>PhpDebugTools - Wed Jun 24 08:23:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32451-phpdebugtools</link>
+      <description>PhpDebugTools provides a local method invocation workbench for ThinkPHP projects in PhpStorm, including project detection, runtime installation, and controller or...
+
+vendor: PhpDebugTools
+downloads: 0
+pricingModel: FREE
+xmlId: com.zx3022448.PhpDebugTools</description>
+      <pubDate>Wed, 24 Jun 2026 08:23:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32451-phpdebugtools</guid>
+      <dc:date>2026-06-24T08:23:28Z</dc:date>
+    </item>
+    <item>
+      <title>Auto Widescreen Layout - Wed Jun 24 08:58:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32450-auto-widescreen-layout</link>
+      <description>Automatically toggles the IDE's built-in Widescreen Tool Window Layout setting based on your current window size. Perfect for ultrawide monitors, multi-monitor setups...
+
+vendor: Jonas Borggren
+downloads: 0
+pricingModel: FREE
+xmlId: com.borggren.autowidescreen</description>
+      <pubDate>Wed, 24 Jun 2026 08:58:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32450-auto-widescreen-layout</guid>
+      <dc:date>2026-06-24T08:58:48Z</dc:date>
+    </item>
+    <item>
+      <title>Fish Browser - Wed Jun 24 07:05:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32447-fish-browser</link>
+      <description>Fish Browser is a translucent, always-on-top web browser overlaid on your IDE, powered by the bundled JCEF (Chromium). Read docs or just browse while you work, then...
+
+vendor: a-fu6609
+downloads: 0
+pricingModel: FREE
+xmlId: com.moyu.fishbrowser</description>
+      <pubDate>Wed, 24 Jun 2026 07:05:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32447-fish-browser</guid>
+      <dc:date>2026-06-24T07:05:29Z</dc:date>
+    </item>
+    <item>
       <title>APICue - Wed Jun 24 06:32:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32441-apicue</link>
       <description>APICue — API Testing from OpenAPI YAML Files Test your REST APIs directly from OpenAPI 3.0 YAML definitions — without leaving your IDE. APICue bridges the gap between...
@@ -136,17 +227,17 @@ xmlId: io.genai.screenshot.plugin</description>
       <dc:date>2026-06-23T14:07:02Z</dc:date>
     </item>
     <item>
-      <title>RecordRelay - Wed Jun 24 08:12:13 UTC 2026</title>
+      <title>RecordRelay - Wed Jun 24 12:15:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32428-recordrelay</link>
-      <description>Universal Data Reproduction &amp;amp; Debug Platform — reproduce production context locally from IntelliJ IDEA.
+      <description>Clone database records with their full relationship graph — without leaving IntelliJ RecordRelay reproduces a single business record and its entire data context (the...
 
 vendor: MstrocA
 downloads: 0
 pricingModel: FREE
 xmlId: io.recordrelay.plugin</description>
-      <pubDate>Wed, 24 Jun 2026 08:12:13 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 12:15:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32428-recordrelay</guid>
-      <dc:date>2026-06-24T08:12:13Z</dc:date>
+      <dc:date>2026-06-24T12:15:04Z</dc:date>
     </item>
     <item>
       <title>AI Worktree Reviewer - Tue Jun 23 12:55:59 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: local.plantuml.git.diff</description>
       <pubDate>Tue, 23 Jun 2026 10:44:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32422-plantuml-git-diff</guid>
       <dc:date>2026-06-23T10:44:53Z</dc:date>
-    </item>
-    <item>
-      <title>AIVory Genie - Tue Jun 23 08:55:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32420-aivory-genie</link>
-      <description>Bring your own AI coding agent into JetBrains. Point the magic wand at code or screen, and trace every edit back to its prompt. Supports Claude Code, Codex...
-
-vendor: AIVory, Inc.
-downloads: 8
-pricingModel: FREE
-xmlId: net.aivory.aimanager</description>
-      <pubDate>Tue, 23 Jun 2026 08:55:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32420-aivory-genie</guid>
-      <dc:date>2026-06-23T08:55:43Z</dc:date>
-    </item>
-    <item>
-      <title>CodeGPT AI Assist - Wed Jun 24 03:03:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32421-codegpt-ai-assist</link>
-      <description>CodeGPT Assistant is a programming assistant plugin developed, based on the DeepSeek large model,{{KEYWORDS}} designed to enhance programmers' coding efficiency and...
-
-vendor: editnow
-downloads: 6
-pricingModel: FREE
-xmlId: cn.code.smart.helper</description>
-      <pubDate>Wed, 24 Jun 2026 03:03:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32421-codegpt-ai-assist</guid>
-      <dc:date>2026-06-24T03:03:49Z</dc:date>
-    </item>
-    <item>
-      <title>Secret Bridge - Sat Jun 20 08:09:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32358-secret-bridge</link>
-      <description>Secret Bridge helps developers work with cloud-managed secrets inside JetBrains IDEs without copying them into local files. It fetches secrets from AWS Secrets...
-
-vendor: supercolo123
-downloads: 10
-pricingModel: PAID
-xmlId: com.secret-bridge</description>
-      <pubDate>Sat, 20 Jun 2026 08:09:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32358-secret-bridge</guid>
-      <dc:date>2026-06-20T08:09:25Z</dc:date>
-    </item>
-    <item>
-      <title>StockerPlus - Tue Jun 23 06:39:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32417-stockerplus</link>
-      <description>StockerPlus is a JetBrains IDE extension dashboard for investors to track real-time stock market conditions. Features - &#x1f4ca; **Real-time Market Data** - Track stocks and...
-
-vendor: StockerPlus
-downloads: 18
-pricingModel: FREE
-xmlId: com.huly.stocker-plus</description>
-      <pubDate>Tue, 23 Jun 2026 06:39:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32417-stockerplus</guid>
-      <dc:date>2026-06-23T06:39:48Z</dc:date>
-    </item>
-    <item>
-      <title>Fast Invoker - Sat Jun 20 11:02:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32372-fast-invoker</link>
-      <description>Fast Invoker lets you invoke any Java method directly in a running JVM — no restarts, no test boilerplate. Click a gutter icon, adjust parameters, and see the result...
-
-vendor: coderF
-downloads: 4
-pricingModel: FREE
-xmlId: com.codenow.fast-invoker</description>
-      <pubDate>Sat, 20 Jun 2026 11:02:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32372-fast-invoker</guid>
-      <dc:date>2026-06-20T11:02:26Z</dc:date>
-    </item>
-    <item>
-      <title>GitDeployPack - Tue Jun 23 04:45:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32418-gitdeploypack</link>
-      <description>GitDeployPack builds deployable packages directly from Git changes. Select commits from Git Log, or package changes by commit, commit range, tag, date range, local...
-
-vendor: GitDeployPack
-downloads: 4
-pricingModel: FREE
-xmlId: com.gitdeploypack</description>
-      <pubDate>Tue, 23 Jun 2026 04:45:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32418-gitdeploypack</guid>
-      <dc:date>2026-06-23T04:45:17Z</dc:date>
-    </item>
-    <item>
-      <title>Chauffeur - Sat Jun 20 10:46:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32382-chauffeur</link>
-      <description>Chauffeur captures and restores your open JetBrains IDE projects and editor files through the local Chauffeur desktop app. 100% local — no cloud, no tracking. Requires...
-
-vendor: emaginasion
-downloads: 6
-pricingModel: FREE
-xmlId: com.emaginasion.chauffeur</description>
-      <pubDate>Sat, 20 Jun 2026 10:46:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32382-chauffeur</guid>
-      <dc:date>2026-06-20T10:46:46Z</dc:date>
     </item>
   </channel>
 </rss>
