@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Sigil - Thu Jun 25 21:34:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32492-sigil</link>
+      <description>Sigil — a coding assistant plugin for JetBrains IDEs that integrates AI-assisted development directly into the IDE. Powered by OpenCode. Features AI chat inside the...
+
+vendor: José M. Nieves
+downloads: 1
+pricingModel: FREE
+xmlId: com.sigil.plugin</description>
+      <pubDate>Thu, 25 Jun 2026 21:34:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32492-sigil</guid>
+      <dc:date>2026-06-25T21:34:05Z</dc:date>
+    </item>
+    <item>
       <title>Karato - Agent for Sakana AI fugu - Fri Jun 26 15:13:36 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32504-karato--agent-for-sakana-ai-fugu</link>
       <description>Karato is an in-IDE agent for Sakana AI Fugu (and fugu-ultra). It drives the OpenAI Codex CLI — configured with Sakana's Fugu provider — as a subprocess and renders...
@@ -251,19 +264,6 @@ xmlId: cz.tix.jsonata</description>
       <pubDate>Thu, 25 Jun 2026 11:38:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32484-jsonata</guid>
       <dc:date>2026-06-25T11:38:40Z</dc:date>
-    </item>
-    <item>
-      <title>Ide-mcp - Thu Jun 25 17:55:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32483-ide-mcp</link>
-      <description>Ide-mcp lets AI agents control the IDE through its built-in Model Context Protocol (MCP) server. It adds the IDE-automation tools that the bundled MCP server does not...
-
-vendor: dymytrii.khomitskyi
-downloads: 0
-pricingModel: FREE
-xmlId: com.jsview-lib.ide-mcp</description>
-      <pubDate>Thu, 25 Jun 2026 17:55:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32483-ide-mcp</guid>
-      <dc:date>2026-06-25T17:55:38Z</dc:date>
     </item>
   </channel>
 </rss>
