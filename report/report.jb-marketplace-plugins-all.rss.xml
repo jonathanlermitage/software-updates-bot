@@ -6,6 +6,136 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>QuantumVM - Fri Jun 26 01:46:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32494-quantumvm</link>
+      <description>OpenQASM 3.0 support for JetBrains IDEs with LSP integration and runtime execution. Features: Syntax highlighting for .qasm files using TextMate grammar Language...
+
+vendor: wiji
+downloads: 0
+pricingModel: FREE
+xmlId: com.quantumvm.qasm</description>
+      <pubDate>Fri, 26 Jun 2026 01:46:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32494-quantumvm</guid>
+      <dc:date>2026-06-26T01:46:28Z</dc:date>
+    </item>
+    <item>
+      <title>Git Blame - Thu Jun 25 08:56:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32480-git-blame</link>
+      <description>Git Blame shows real-time git blame info (author, date, commit message) inline at the end of each line in the editor, and displays the full commit hash in the status...
+
+vendor: jinghongjiang
+downloads: 0
+pricingModel: FREE
+xmlId: me.jinghong.git</description>
+      <pubDate>Thu, 25 Jun 2026 08:56:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32480-git-blame</guid>
+      <dc:date>2026-06-25T08:56:07Z</dc:date>
+    </item>
+    <item>
+      <title>Dependency Scout - Thu Jun 25 13:57:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32489-dependency-scout</link>
+      <description>Dependency Scout helps you keep your Maven and Gradle dependencies up to date. Features: Automatic detection of outdated dependencies in build.gradle...
+
+vendor: prshnt
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.prashant.dependencyscout</description>
+      <pubDate>Thu, 25 Jun 2026 13:57:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32489-dependency-scout</guid>
+      <dc:date>2026-06-25T13:57:57Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Watch - Fri Jun 26 05:00:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32495-claude-watch</link>
+      <description>A Cursor-like "the agent changed this file" experience for IntelliJ. Watches your project on disk and detects changes made by an external process — Claude Code, other...
+
+vendor: Hemendra Sethi
+downloads: 0
+pricingModel: FREE
+xmlId: dev.hemendra.claudewatch</description>
+      <pubDate>Fri, 26 Jun 2026 05:00:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32495-claude-watch</guid>
+      <dc:date>2026-06-26T05:00:14Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Commit Message - Thu Jun 25 21:28:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32472-claude-commit-message</link>
+      <description>Generates a Git commit message from your changes using Claude, right inside the commit dialog. It adds a button to the commit message toolbar (next to the AI Assistant...
+
+vendor: Raphael Moral Piazera
+downloads: 0
+pricingModel: FREE
+xmlId: com.raphaelmoral.commitclaude</description>
+      <pubDate>Thu, 25 Jun 2026 21:28:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32472-claude-commit-message</guid>
+      <dc:date>2026-06-25T21:28:38Z</dc:date>
+    </item>
+    <item>
+      <title>ResponseInspector - Thu Jun 25 18:05:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32431-responseinspector</link>
+      <description>A dedicated, high-speed utility to clean, format, and search long API log responses.
+
+vendor: Rajesh kunwar
+downloads: 1
+pricingModel: FREE
+xmlId: com.response.inspector.plugin</description>
+      <pubDate>Thu, 25 Jun 2026 18:05:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32431-responseinspector</guid>
+      <dc:date>2026-06-25T18:05:22Z</dc:date>
+    </item>
+    <item>
+      <title>EasyErrorHandler Translation Navigation - Thu Jun 25 14:30:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32488-easyerrorhandler-translation-navigation</link>
+      <description>IDE assistance for this project's test/error conventions: Autocompletion and Go to Declaration (Cmd/Ctrl+B) for EasyErrorHandler exception message keys, resolved live...
+
+vendor: EonX Easy PHPStorm Autocompletion
+downloads: 0
+pricingModel: FREE
+xmlId: com.eonx.eeh.translation-nav</description>
+      <pubDate>Thu, 25 Jun 2026 14:30:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32488-easyerrorhandler-translation-navigation</guid>
+      <dc:date>2026-06-25T14:30:48Z</dc:date>
+    </item>
+    <item>
+      <title>JSONata - Thu Jun 25 11:38:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32484-jsonata</link>
+      <description>Evaluate JSONata expressions against the JSON file you have open, with a live preview — similar to try.jsonata.org. Open a JSON file, choose Open JSONata Playground...
+
+vendor: Petr Filip
+downloads: 0
+pricingModel: FREE
+xmlId: cz.tix.jsonata</description>
+      <pubDate>Thu, 25 Jun 2026 11:38:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32484-jsonata</guid>
+      <dc:date>2026-06-25T11:38:40Z</dc:date>
+    </item>
+    <item>
+      <title>Ide-mcp - Thu Jun 25 17:55:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32483-ide-mcp</link>
+      <description>Ide-mcp lets AI agents control the IDE through its built-in Model Context Protocol (MCP) server. It adds the IDE-automation tools that the bundled MCP server does not...
+
+vendor: dymytrii.khomitskyi
+downloads: 0
+pricingModel: FREE
+xmlId: com.jsview-lib.ide-mcp</description>
+      <pubDate>Thu, 25 Jun 2026 17:55:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32483-ide-mcp</guid>
+      <dc:date>2026-06-25T17:55:38Z</dc:date>
+    </item>
+    <item>
+      <title>kUML - Thu Jun 25 15:37:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32485-kuml</link>
+      <description>kUML — Kotlin-based UML &amp;amp; C4 modelling Adds first-class IntelliJ support for kUML diagram scripts (*.kuml.kts): Recognises *.kuml.kts as a custom Kotlin script...
+
+vendor: kUML
+downloads: 0
+pricingModel: FREE
+xmlId: dev.kuml.ide</description>
+      <pubDate>Thu, 25 Jun 2026 15:37:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32485-kuml</guid>
+      <dc:date>2026-06-25T15:37:57Z</dc:date>
+    </item>
+    <item>
       <title>BuildBell - Sun Jun 21 20:47:22 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32401-buildbell</link>
       <description>BuildBell — Build Completion Sound Notifier Never miss a build again. BuildBell plays a sound effect as soon as your Gradle build finishes, so you can stay focused on...
@@ -134,136 +264,6 @@ xmlId: com.cxj.plugin.show-in-explorer</description>
       <pubDate>Wed, 24 Jun 2026 07:04:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32446-show-in-explorer</guid>
       <dc:date>2026-06-24T07:04:09Z</dc:date>
-    </item>
-    <item>
-      <title>DiffGuard - Fri Jun 26 02:39:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32449-diffguard</link>
-      <description>DiffGuard reviews selected Git changes in IntelliJ IDEA before commit using an OpenAI-compatible chat completion API configured by the user.It adds a Review with...
-
-vendor: DiffGuard
-downloads: 0
-pricingModel: FREE
-xmlId: dev.diffguard</description>
-      <pubDate>Fri, 26 Jun 2026 02:39:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32449-diffguard</guid>
-      <dc:date>2026-06-26T02:39:18Z</dc:date>
-    </item>
-    <item>
-      <title>Api2Sql - Thu Jun 25 05:34:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32474-api2sql</link>
-      <description>Api2Sql is an IntelliJ IDEA plugin for generating permission INSERT SQL scripts from Spring Controller interfaces. Api2Sql — Spring Controller 接口权限 SQL 生成器 IntelliJ...
-
-vendor: wp2code
-downloads: 0
-pricingModel: FREE
-xmlId: com.lsy.idea.idea-plugin</description>
-      <pubDate>Thu, 25 Jun 2026 05:34:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32474-api2sql</guid>
-      <dc:date>2026-06-25T05:34:59Z</dc:date>
-    </item>
-    <item>
-      <title>ScriptDock - Thu Jun 25 08:14:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32467-scriptdock</link>
-      <description>ScriptDock keeps project-local SQL and workflow scripts organized around the way teams actually ship code. Instead of hunting through folders or renaming files to...
-
-vendor: luyiming
-downloads: 0
-pricingModel: PAID
-xmlId: com.ming.scriptdock.ScriptDock</description>
-      <pubDate>Thu, 25 Jun 2026 08:14:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32467-scriptdock</guid>
-      <dc:date>2026-06-25T08:14:39Z</dc:date>
-    </item>
-    <item>
-      <title>Thrift Hero - Wed Jun 24 23:34:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32461-thrift-hero</link>
-      <description>Thrift Hero adds first-class support for Apache Thrift IDL to IntelliJ IDEA and other JetBrains IDEs. Installation Once you install the plugin, .thrift files open with...
-
-vendor: Language Heroes
-downloads: 0
-pricingModel: PAID
-xmlId: com.langheroes.thrift</description>
-      <pubDate>Wed, 24 Jun 2026 23:34:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32461-thrift-hero</guid>
-      <dc:date>2026-06-24T23:34:14Z</dc:date>
-    </item>
-    <item>
-      <title>Show Contributors - Wed Jun 24 15:45:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32466-show-contributors</link>
-      <description>Show Contributors Instantly see who contributed the most to any file or folder in your project - Just right-click context menu. Core Context-aware: Works on any file...
-
-vendor: Wilson Stevan
-downloads: 0
-pricingModel: FREE
-xmlId: com.wilsonhub.showcontributors</description>
-      <pubDate>Wed, 24 Jun 2026 15:45:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32466-show-contributors</guid>
-      <dc:date>2026-06-24T15:45:57Z</dc:date>
-    </item>
-    <item>
-      <title>H-Codex - Wed Jun 24 20:46:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32469-h-codex</link>
-      <description>H-Codex launches OpenAI Codex in the IntelliJ IDEA terminal using the shell configured for the current project. Report problems in the public H-Codex issue tracker.
-
-vendor: Hackus
-downloads: 0
-pricingModel: FREE
-xmlId: com.hackus.hcodex</description>
-      <pubDate>Wed, 24 Jun 2026 20:46:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32469-h-codex</guid>
-      <dc:date>2026-06-24T20:46:23Z</dc:date>
-    </item>
-    <item>
-      <title>WSL Remote Companion - Wed Jun 24 18:46:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32460-wsl-remote-companion</link>
-      <description>Small quality-of-life helpers for JetBrains Remote Development over WSL. When the IDE backend runs on WSL (Linux), IntelliJ hides the actions that reach the Windows...
-
-vendor: Maxime HAMM
-downloads: 1
-pricingModel: FREE
-xmlId: io.nimbly.remotedev</description>
-      <pubDate>Wed, 24 Jun 2026 18:46:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32460-wsl-remote-companion</guid>
-      <dc:date>2026-06-24T18:46:45Z</dc:date>
-    </item>
-    <item>
-      <title>App Config Manager - Wed Jun 24 18:20:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32468-app-config-manager</link>
-      <description>App Config Manager helps inspect, compare, and edit Spring Boot application configuration files by module. Available for JetBrains IDEs with Java support. Supports...
-
-vendor: Ayberk Unsalan
-downloads: 0
-pricingModel: FREE
-xmlId: com.appconfigmanager</description>
-      <pubDate>Wed, 24 Jun 2026 18:20:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32468-app-config-manager</guid>
-      <dc:date>2026-06-24T18:20:37Z</dc:date>
-    </item>
-    <item>
-      <title>Android &amp; Flutter Resource Cleaner - Wed Jun 24 12:11:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32348-android--flutter-resource-cleaner</link>
-      <description>Detect unused drawables, strings, layouts, colors and Flutter assets in Android and Flutter projects. Shows potential storage savings. One-click cleanup.
-
-vendor: Bodila Avesh Arifbhai
-downloads: 13
-pricingModel: FREE
-xmlId: com.aveshbodila.resourcecleaner</description>
-      <pubDate>Wed, 24 Jun 2026 12:11:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32348-android--flutter-resource-cleaner</guid>
-      <dc:date>2026-06-24T12:11:54Z</dc:date>
-    </item>
-    <item>
-      <title>SVG Icon Preview - Wed Jun 24 08:26:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32452-svg-icon-preview</link>
-      <description>Shows a gutter icon preview for any field whose value is a data:image/svg+xml;base64,... Features Detects data:image/svg+xml;base64,... strings in your code and shows...
-
-vendor: Pramod Khalkar
-downloads: 13
-pricingModel: FREE
-xmlId: com.plugin.svg-icon-preview</description>
-      <pubDate>Wed, 24 Jun 2026 08:26:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32452-svg-icon-preview</guid>
-      <dc:date>2026-06-24T08:26:06Z</dc:date>
     </item>
   </channel>
 </rss>
