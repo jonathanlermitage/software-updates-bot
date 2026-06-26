@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Portuguese (Brazil) Community Language Pack - Fri Jun 26 10:50:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32503-portuguese-brazil-community-language-pack</link>
+      <description>Pacote de traducao para Portugues do Brasil (pt-BR) desenvolvido de forma comunitaria. Este plugin foi desenvolvido e auditado de forma autônoma pelo Antigravity (um...
+
+vendor: quadros f
+downloads: 0
+pricingModel: FREE
+xmlId: org.community.portuguese.pack</description>
+      <pubDate>Fri, 26 Jun 2026 10:50:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32503-portuguese-brazil-community-language-pack</guid>
+      <dc:date>2026-06-26T10:50:58Z</dc:date>
+    </item>
+    <item>
+      <title>JianHao AI Commit - Fri Jun 26 05:19:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32419-jianhao-ai-commit</link>
+      <description>Use OpenAI/Gemini/Claude API to review Git changes and generate conventional commit messages.
+
+vendor: AI Commit
+downloads: 1
+pricingModel: FREE
+xmlId: com.jianhao.ai-commit</description>
+      <pubDate>Fri, 26 Jun 2026 05:19:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32419-jianhao-ai-commit</guid>
+      <dc:date>2026-06-26T05:19:27Z</dc:date>
+    </item>
+    <item>
+      <title>JumpServer Credential Fetcher - Fri Jun 26 09:20:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32498-jumpserver-credential-fetcher</link>
+      <description>DataGrip plugin for fetching temporary database credentials from JumpServer. Configure JumpServer URL and credentials Map DataGrip data sources to JumpServer assets...
+
+vendor: JumpServer Credential Fetcher
+downloads: 0
+pricingModel: FREE
+xmlId: com.young.jumpserver.credential</description>
+      <pubDate>Fri, 26 Jun 2026 09:20:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32498-jumpserver-credential-fetcher</guid>
+      <dc:date>2026-06-26T09:20:13Z</dc:date>
+    </item>
+    <item>
+      <title>RecordRelay - Fri Jun 26 07:39:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32497-recordrelay</link>
+      <description>Clone database records with their full relationship graph — without leaving IntelliJ RecordRelay reproduces a single business record and its entire data context (the...
+
+vendor: MstrocA
+downloads: 0
+pricingModel: FREE
+xmlId: io.recordrelay.plugin</description>
+      <pubDate>Fri, 26 Jun 2026 07:39:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32497-recordrelay</guid>
+      <dc:date>2026-06-26T07:39:15Z</dc:date>
+    </item>
+    <item>
+      <title>ECDS Deploy Helper - Fri Jun 26 06:46:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32481-ecds-deploy-helper</link>
+      <description>ECDS Deploy Helper is an IDEA plugin for simplifying Java application deployment. ECDS Deploy Helper是一款用于简化Java应用部署流程的IDEA插件。 支持Maven打包、SSH连接、文件上传、远程命令执行等功能，实现一键发版...
+
+vendor: ECDS服务发布助手
+downloads: 0
+pricingModel: FREE
+xmlId: com.ecds.deploy.helper</description>
+      <pubDate>Fri, 26 Jun 2026 06:46:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32481-ecds-deploy-helper</guid>
+      <dc:date>2026-06-26T06:46:18Z</dc:date>
+    </item>
+    <item>
+      <title>Nexus MCP - Fri Jun 26 08:38:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32499-nexus-mcp</link>
+      <description>Nexus MCP turns JetBrains Rider into an MCP proxy for Unreal Engine. It runs a local MCP server (default port 6800), auto-discovers running UE editor/PIE instances...
+
+vendor: NexusMCP
+downloads: 0
+pricingModel: FREE
+xmlId: com.byteyang.nexusmcp</description>
+      <pubDate>Fri, 26 Jun 2026 08:38:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32499-nexus-mcp</guid>
+      <dc:date>2026-06-26T08:38:50Z</dc:date>
+    </item>
+    <item>
+      <title>ANN Flutter Flavor - Thu Jun 25 19:34:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32266-ann-flutter-flavor</link>
+      <description>ANN Flutter Flavor Manage multiple Flutter build flavors — Android, iOS, Web and Windows — from a single annspec.yaml file. One menu action regenerates all the...
+
+vendor: Annai Solutions
+downloads: 3
+pricingModel: FREE
+xmlId: dev.anntech.studio.flavorize</description>
+      <pubDate>Thu, 25 Jun 2026 19:34:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32266-ann-flutter-flavor</guid>
+      <dc:date>2026-06-25T19:34:51Z</dc:date>
+    </item>
+    <item>
       <title>QuantumVM - Fri Jun 26 01:46:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32494-quantumvm</link>
       <description>OpenQASM 3.0 support for JetBrains IDEs with LSP integration and runtime execution. Features: Syntax highlighting for .qasm files using TextMate grammar Language...
@@ -63,7 +154,7 @@ xmlId: dev.hemendra.claudewatch</description>
       <description>Generates a Git commit message from your changes using Claude, right inside the commit dialog. It adds a button to the commit message toolbar (next to the AI Assistant...
 
 vendor: Raphael Moral Piazera
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.raphaelmoral.commitclaude</description>
       <pubDate>Thu, 25 Jun 2026 21:28:38 GMT</pubDate>
@@ -154,7 +245,7 @@ xmlId: br.com.matheuhsouza.buildbell</description>
       <description>JavaWiz is a visualization plugin for Java programs targeted at programming beginners. Users can step through the program line by line and follow the execution in the...
 
 vendor: SSW - Institute for System Software, Johannes Kepler University Linz, Austria
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: at.jku.ssw.JavaWiz</description>
       <pubDate>Thu, 25 Jun 2026 06:48:27 GMT</pubDate>
@@ -167,103 +258,12 @@ xmlId: at.jku.ssw.JavaWiz</description>
       <description>Dieses Plugin extrahiert aus einem IECM Link oder einer AGENT_EVENT_OBJECT_CLIENT_ID aus der Agentenjobverwaltung die ObjektId. Drücken Sie Strg+Shift+V um die...
 
 vendor: Thorsten Kinze
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: org.kinze.dxPasteProcessor</description>
       <pubDate>Thu, 25 Jun 2026 10:08:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32482-dxpasteprocessor</guid>
       <dc:date>2026-06-25T10:08:12Z</dc:date>
-    </item>
-    <item>
-      <title>MoFish Tool - Fri Jun 26 02:54:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31771-mofish-tool</link>
-      <description>MoFish Tool is a lightweight IntelliJ IDEA market assistant for viewing selected quotes, portfolio profit, and price reminders without leaving the IDE. It provides a...
-
-vendor: lvjiayu
-downloads: 1
-pricingModel: FREE
-xmlId: online.mofish.tool</description>
-      <pubDate>Fri, 26 Jun 2026 02:54:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31771-mofish-tool</guid>
-      <dc:date>2026-06-26T02:54:20Z</dc:date>
-    </item>
-    <item>
-      <title>Inline Call Unfold - Thu Jun 25 23:42:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32477-inline-call-unfold</link>
-      <description>Inline Call Unfold — inline call expansion for Go Put the caret on a Go function call and Unfold splices the callee's body inline, between the lines — rendered over...
-
-vendor: InertialFrame
-downloads: 0
-pricingModel: FREE
-xmlId: dev.unfold.ide</description>
-      <pubDate>Thu, 25 Jun 2026 23:42:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32477-inline-call-unfold</guid>
-      <dc:date>2026-06-25T23:42:09Z</dc:date>
-    </item>
-    <item>
-      <title>Guidewire AI Agent - Thu Jun 25 12:34:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32462-guidewire-ai-agent</link>
-      <description>Creator of the Guidewire AI Agent, an enterprise-grade, agentic IDE plugin that transforms how Guidewire developers build and maintain ClaimCenter, PolicyCenter, and...
-
-vendor: Arka
-downloads: 0
-pricingModel: FREE
-xmlId: com.arka.guidewireai</description>
-      <pubDate>Thu, 25 Jun 2026 12:34:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32462-guidewire-ai-agent</guid>
-      <dc:date>2026-06-25T12:34:04Z</dc:date>
-    </item>
-    <item>
-      <title>Git Arborist - Thu Jun 25 02:58:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32444-git-arborist</link>
-      <description>Git Arborist makes Git worktrees first-class inside JetBrains IDEs. Create, open, and manage worktrees from a dedicated tool window, the Git menu, and the Project View...
-
-vendor: Tom Larcher
-downloads: 0
-pricingModel: FREE
-xmlId: dev.tomlarcher.gitarborist</description>
-      <pubDate>Thu, 25 Jun 2026 02:58:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32444-git-arborist</guid>
-      <dc:date>2026-06-25T02:58:33Z</dc:date>
-    </item>
-    <item>
-      <title>AtomCode - Thu Jun 25 02:05:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32455-atomcode</link>
-      <description>AtomCode brings a local AI coding agent into JetBrains IDEs. Use AtomCode from a dedicated tool window, editor context actions, and intentions to explain, fix...
-
-vendor: AtomCode
-downloads: 0
-pricingModel: FREE
-xmlId: com.atomcode.jetbrains</description>
-      <pubDate>Thu, 25 Jun 2026 02:05:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32455-atomcode</guid>
-      <dc:date>2026-06-25T02:05:24Z</dc:date>
-    </item>
-    <item>
-      <title>Matugen Dynamic Color Scheme - Wed Jun 24 22:16:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32390-matugen-dynamic-color-scheme</link>
-      <description>Dynamically applies IDE editor color schemes from a watched config file generated by matugen (Material You color generation). Point the plugin at your matugen output...
-
-vendor: motor
-downloads: 2
-pricingModel: FREE
-xmlId: com.matugen.theme</description>
-      <pubDate>Wed, 24 Jun 2026 22:16:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32390-matugen-dynamic-color-scheme</guid>
-      <dc:date>2026-06-24T22:16:19Z</dc:date>
-    </item>
-    <item>
-      <title>Show in Explorer - Wed Jun 24 07:04:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32446-show-in-explorer</link>
-      <description>A small tool used to open the current file explorer location. After installation, there will be an icon on the right side of the menu bar. Click it, or use the...
-
-vendor: Xinjin Chen
-downloads: 0
-pricingModel: FREE
-xmlId: com.cxj.plugin.show-in-explorer</description>
-      <pubDate>Wed, 24 Jun 2026 07:04:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32446-show-in-explorer</guid>
-      <dc:date>2026-06-24T07:04:09Z</dc:date>
     </item>
   </channel>
 </rss>
