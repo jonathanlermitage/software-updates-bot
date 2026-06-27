@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Shoaku - Your Coding Navigator - Fri Jun 26 19:32:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32426-shoaku--your-coding-navigator</link>
+      <description>Why? AI can generate code faster than we can understand it. When understanding falls behind, reviews slow down, and maintenance risk grows. This project exists to keep...
+
+vendor: Seito Tanaka
+downloads: 3
+pricingModel: FREE
+xmlId: shoaku.intellij-shoaku</description>
+      <pubDate>Fri, 26 Jun 2026 19:32:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32426-shoaku--your-coding-navigator</guid>
+      <dc:date>2026-06-26T19:32:55Z</dc:date>
+    </item>
+    <item>
       <title>Sigil - Thu Jun 25 21:34:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32492-sigil</link>
       <description>Sigil — a coding assistant plugin for JetBrains IDEs that integrates AI-assisted development directly into the IDE. Powered by OpenCode. Features AI chat inside the...
@@ -115,7 +128,7 @@ xmlId: com.young.jumpserver.credential</description>
       <description>Clone database records with their full relationship graph — without leaving IntelliJ RecordRelay reproduces a single business record and its entire data context (the...
 
 vendor: MstrocA
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: io.recordrelay.plugin</description>
       <pubDate>Fri, 26 Jun 2026 07:39:15 GMT</pubDate>
@@ -251,19 +264,6 @@ xmlId: com.eonx.eeh.translation-nav</description>
       <pubDate>Thu, 25 Jun 2026 14:30:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32488-easyerrorhandler-translation-navigation</guid>
       <dc:date>2026-06-25T14:30:48Z</dc:date>
-    </item>
-    <item>
-      <title>JSONata - Thu Jun 25 11:38:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32484-jsonata</link>
-      <description>Evaluate JSONata expressions against the JSON file you have open, with a live preview — similar to try.jsonata.org. Open a JSON file, choose Open JSONata Playground...
-
-vendor: Petr Filip
-downloads: 5
-pricingModel: FREE
-xmlId: cz.tix.jsonata</description>
-      <pubDate>Thu, 25 Jun 2026 11:38:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32484-jsonata</guid>
-      <dc:date>2026-06-25T11:38:40Z</dc:date>
     </item>
   </channel>
 </rss>
