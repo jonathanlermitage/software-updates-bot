@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>En-Ru File Finder - Mon Jun 29 06:40:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32476-en-ru-file-finder</link>
+      <description>Switch between 'en' and 'ru' folders for the same file. Works with single or multiple file selection, preserves caret position and scroll offset.
+
+vendor: Huginn and Muninn
+downloads: 4
+pricingModel: FREE
+xmlId: En-Ru-File-Finder</description>
+      <pubDate>Mon, 29 Jun 2026 06:40:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32476-en-ru-file-finder</guid>
+      <dc:date>2026-06-29T06:40:57Z</dc:date>
+    </item>
+    <item>
+      <title>GenAI Jenkinsfile - Thu Jun 25 12:39:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32486-genai-jenkinsfile</link>
+      <description>GenAI Jenkinsfile brings full editor support for Jenkinsfile (Jenkins declarative &amp;amp; scripted pipelines) to any JetBrains IDE — IntelliJ IDEA, GoLand, PyCharm...
+
+vendor: Jin Nguyen
+downloads: 1
+pricingModel: FREE
+xmlId: io.genai.jenkins</description>
+      <pubDate>Thu, 25 Jun 2026 12:39:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32486-genai-jenkinsfile</guid>
+      <dc:date>2026-06-25T12:39:02Z</dc:date>
+    </item>
+    <item>
+      <title>Stack Doctor - Fri Jun 26 19:50:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32506-stack-doctor</link>
+      <description>Stack Doctor — Docker Compose service map &amp;amp; network doctor Turns a docker-compose.yml into a visual service dependency map and runs a set of "doctor" checks for...
+
+vendor: QrowMagnia
+downloads: 2
+pricingModel: FREE
+xmlId: com.qrowsolutions.stack-doctor</description>
+      <pubDate>Fri, 26 Jun 2026 19:50:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32506-stack-doctor</guid>
+      <dc:date>2026-06-26T19:50:11Z</dc:date>
+    </item>
+    <item>
+      <title>KDB+ Studio CE - Fri Jun 26 15:44:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32463-kdb-studio-ce</link>
+      <description>Maintained community fork of KDB+ Studio for sending queries to a q database and showing query results. Original KDB+ Studio plugin by Andrii Borovyk...
+
+vendor: Daniel Alonso
+downloads: 2
+pricingModel: FREE
+xmlId: com.dreth.kdb.studio</description>
+      <pubDate>Fri, 26 Jun 2026 15:44:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32463-kdb-studio-ce</guid>
+      <dc:date>2026-06-26T15:44:18Z</dc:date>
+    </item>
+    <item>
       <title>Shoaku - Your Coding Navigator - Mon Jun 29 03:32:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32426-shoaku--your-coding-navigator</link>
       <description>Why? AI can generate code faster than we can understand it. When understanding falls behind, reviews slow down, and maintenance risk grows. This project exists to keep...
@@ -212,58 +264,6 @@ xmlId: dev.hemendra.claudewatch</description>
       <pubDate>Fri, 26 Jun 2026 05:00:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32495-claude-watch</guid>
       <dc:date>2026-06-26T05:00:14Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Commit Message - Fri Jun 26 16:17:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32472-claude-commit-message</link>
-      <description>Generates a Git commit message from your changes using Claude, right inside the commit dialog. It adds a button to the commit message toolbar (next to the AI Assistant...
-
-vendor: Raphael Moral Piazera
-downloads: 27
-pricingModel: FREE
-xmlId: com.raphaelmoral.commitclaude</description>
-      <pubDate>Fri, 26 Jun 2026 16:17:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32472-claude-commit-message</guid>
-      <dc:date>2026-06-26T16:17:14Z</dc:date>
-    </item>
-    <item>
-      <title>ResponseInspector - Thu Jun 25 18:05:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32431-responseinspector</link>
-      <description>A dedicated, high-speed utility to clean, format, and search long API log responses.
-
-vendor: Rajesh kunwar
-downloads: 16
-pricingModel: FREE
-xmlId: com.response.inspector.plugin</description>
-      <pubDate>Thu, 25 Jun 2026 18:05:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32431-responseinspector</guid>
-      <dc:date>2026-06-25T18:05:22Z</dc:date>
-    </item>
-    <item>
-      <title>EasyErrorHandler Translation Navigation - Thu Jun 25 14:30:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32488-easyerrorhandler-translation-navigation</link>
-      <description>IDE assistance for this project's test/error conventions: Autocompletion and Go to Declaration (Cmd/Ctrl+B) for EasyErrorHandler exception message keys, resolved live...
-
-vendor: EonX Easy PHPStorm Autocompletion
-downloads: 3
-pricingModel: FREE
-xmlId: com.eonx.eeh.translation-nav</description>
-      <pubDate>Thu, 25 Jun 2026 14:30:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32488-easyerrorhandler-translation-navigation</guid>
-      <dc:date>2026-06-25T14:30:48Z</dc:date>
-    </item>
-    <item>
-      <title>JSONata - Thu Jun 25 11:38:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32484-jsonata</link>
-      <description>Evaluate JSONata expressions against the JSON file you have open, with a live preview — similar to try.jsonata.org. Open a JSON file, choose Open JSONata Playground...
-
-vendor: Petr Filip
-downloads: 10
-pricingModel: FREE
-xmlId: cz.tix.jsonata</description>
-      <pubDate>Thu, 25 Jun 2026 11:38:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32484-jsonata</guid>
-      <dc:date>2026-06-25T11:38:40Z</dc:date>
     </item>
   </channel>
 </rss>
