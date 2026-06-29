@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Mon, 29 Jun 2026 09:40:01 GMT</pubDate>
+    <pubDate>Mon, 29 Jun 2026 13:33:59 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2026-06-29T09:40:01Z</dc:date>
+    <dc:date>2026-06-29T13:33:59Z</dc:date>
     <item>
-      <title>FAILED -- Mon Jun 29 09:40:01 UTC 2026</title>
+      <title>FAILED -- Mon Jun 29 13:33:59 UTC 2026</title>
       <description>FAILED
 
 &lt;pre&gt;Checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
@@ -24,8 +24,13 @@ java.net.ConnectException: Connection timed out
 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:531)
 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:636)
-	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:782)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1720)
+	at java.base/sun.net.www.protocol.https.HttpsClient.&lt;init&gt;(HttpsClient.java:264)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:377)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1257)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1143)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1705)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1629)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
 	at java.base/java.net.URL.openStream(URL.java:1325)
@@ -78,9 +83,9 @@ java.net.ConnectException: Connection timed out
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:40)
 
 &lt;/pre&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 09:40:01 GMT</pubDate>
+      <pubDate>Mon, 29 Jun 2026 13:33:59 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2026-06-29T09:40:01Z</dc:date>
+      <dc:date>2026-06-29T13:33:59Z</dc:date>
     </item>
   </channel>
 </rss>

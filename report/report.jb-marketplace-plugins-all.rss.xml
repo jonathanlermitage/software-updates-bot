@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>PAG Viewer - Mon Jun 29 07:57:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32475-pag-viewer</link>
+      <description>Preview Portable Animated Graphics (.pag) animation files in IntelliJ-based IDEs.
+
+vendor: VincentLeon
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.pagviewer</description>
+      <pubDate>Mon, 29 Jun 2026 07:57:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32475-pag-viewer</guid>
+      <dc:date>2026-06-29T07:57:40Z</dc:date>
+    </item>
+    <item>
       <title>En-Ru File Finder - Mon Jun 29 06:40:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32476-en-ru-file-finder</link>
       <description>Switch between 'en' and 'ru' folders for the same file. Works with single or multiple file selection, preserves caret position and scroll offset.
@@ -251,19 +264,6 @@ xmlId: com.github.prashant.dependencyscout</description>
       <pubDate>Fri, 26 Jun 2026 10:19:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32489-dependency-scout</guid>
       <dc:date>2026-06-26T10:19:34Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Watch - Fri Jun 26 05:00:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32495-claude-watch</link>
-      <description>A Cursor-like "the agent changed this file" experience for IntelliJ. Watches your project on disk and detects changes made by an external process — Claude Code, other...
-
-vendor: Hemendra Sethi
-downloads: 24
-pricingModel: FREE
-xmlId: dev.hemendra.claudewatch</description>
-      <pubDate>Fri, 26 Jun 2026 05:00:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32495-claude-watch</guid>
-      <dc:date>2026-06-26T05:00:14Z</dc:date>
     </item>
   </channel>
 </rss>
