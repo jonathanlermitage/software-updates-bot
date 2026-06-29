@@ -6,17 +6,17 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Shoaku - Your Coding Navigator - Sun Jun 28 01:33:24 UTC 2026</title>
+      <title>Shoaku - Your Coding Navigator - Mon Jun 29 03:32:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32426-shoaku--your-coding-navigator</link>
       <description>Why? AI can generate code faster than we can understand it. When understanding falls behind, reviews slow down, and maintenance risk grows. This project exists to keep...
 
 vendor: Seito Tanaka
-downloads: 18
+downloads: 44
 pricingModel: FREE
 xmlId: shoaku.intellij-shoaku</description>
-      <pubDate>Sun, 28 Jun 2026 01:33:24 GMT</pubDate>
+      <pubDate>Mon, 29 Jun 2026 03:32:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32426-shoaku--your-coding-navigator</guid>
-      <dc:date>2026-06-28T01:33:24Z</dc:date>
+      <dc:date>2026-06-29T03:32:27Z</dc:date>
     </item>
     <item>
       <title>Sigil - Coding Assistant - Fri Jun 26 20:21:33 UTC 2026</title>
@@ -24,7 +24,7 @@ xmlId: shoaku.intellij-shoaku</description>
       <description>Sigil — a coding assistant plugin for JetBrains IDEs that integrates AI-assisted development directly into the IDE. Powered by OpenCode. Features AI chat inside the...
 
 vendor: José M. Nieves
-downloads: 8
+downloads: 14
 pricingModel: FREE
 xmlId: com.sigil.plugin</description>
       <pubDate>Fri, 26 Jun 2026 20:21:33 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.sigil.plugin</description>
       <description>Karato is an in-IDE agent for Sakana AI Fugu (and fugu-ultra). It drives the OpenAI Codex CLI — configured with Sakana's Fugu provider — as a subprocess and renders...
 
 vendor: Imperial architects
-downloads: 51
+downloads: 54
 pricingModel: FREE
 xmlId: ai.sanakan.fugu.idea</description>
       <pubDate>Fri, 26 Jun 2026 15:13:36 GMT</pubDate>
@@ -45,17 +45,17 @@ xmlId: ai.sanakan.fugu.idea</description>
       <dc:date>2026-06-26T15:13:36Z</dc:date>
     </item>
     <item>
-      <title>AI Git Commit Writer - Sat Jun 27 07:42:33 UTC 2026</title>
+      <title>AI Git Commit Writer - Mon Jun 29 04:23:49 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32500-ai-git-commit-writer</link>
-      <description>AI Git Commit Writer is a lightweight Git commit message generator for JetBrains IDEs and Android Studio. It adds a single action to the Commit panel and uses the...
+      <description>AI Git Commit Writer — generate Git commit messages from selected changes using any OpenAI-compatible API. Enter your Base URL and API Key, click Fetch Models, pick a...
 
 vendor: zhoutianling
-downloads: 33
+downloads: 41
 pricingModel: FREE
 xmlId: io.github.zhoutianling.ai-commit-message</description>
-      <pubDate>Sat, 27 Jun 2026 07:42:33 GMT</pubDate>
+      <pubDate>Mon, 29 Jun 2026 04:23:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32500-ai-git-commit-writer</guid>
-      <dc:date>2026-06-27T07:42:33Z</dc:date>
+      <dc:date>2026-06-29T04:23:49Z</dc:date>
     </item>
     <item>
       <title>MyBatis SQL Generator - Fri Jun 26 12:16:54 UTC 2026</title>
@@ -63,7 +63,7 @@ xmlId: io.github.zhoutianling.ai-commit-message</description>
       <description>MyBatis SQL Generator Converts MyBatis XML mapper statements into runnable Oracle SQL in one click. Features: Browse all &amp;lt;select&amp;gt;, &amp;lt;insert&amp;gt...
 
 vendor: MyBatis SQL Generator
-downloads: 12
+downloads: 13
 pricingModel: FREE
 xmlId: org.sd.mybatis-sql-generator-plugin</description>
       <pubDate>Fri, 26 Jun 2026 12:16:54 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: org.sd.mybatis-sql-generator-plugin</description>
       <description>Generates type-safe Kotlin Retrofit SDK sources from OpenAPI and Swagger files.
 
 vendor: Anand Dubey
-downloads: 27
+downloads: 30
 pricingModel: FREE
 xmlId: org.discord.swagger-to-retrofit</description>
       <pubDate>Fri, 26 Jun 2026 13:44:14 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: org.discord.swagger-to-retrofit</description>
       <description>Use OpenAI/Gemini/Claude API to review Git changes and generate conventional commit messages.
 
 vendor: AI Commit
-downloads: 11
+downloads: 12
 pricingModel: FREE
 xmlId: com.jianhao.ai-commit</description>
       <pubDate>Fri, 26 Jun 2026 05:19:27 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.jianhao.ai-commit</description>
       <description>DataGrip plugin for fetching temporary database credentials from JumpServer. Configure JumpServer URL and credentials Map DataGrip data sources to JumpServer assets...
 
 vendor: JumpServer Credential Fetcher
-downloads: 6
+downloads: 13
 pricingModel: FREE
 xmlId: com.young.jumpserver.credential</description>
       <pubDate>Sun, 28 Jun 2026 08:41:59 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.young.jumpserver.credential</description>
       <description>Clone database records with their full relationship graph — without leaving IntelliJ RecordRelay reproduces a single business record and its entire data context (the...
 
 vendor: MstrocA
-downloads: 16
+downloads: 34
 pricingModel: FREE
 xmlId: io.recordrelay.plugin</description>
       <pubDate>Sun, 28 Jun 2026 06:40:35 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: io.recordrelay.plugin</description>
       <description>ECDS Deploy Helper is an IDEA plugin for simplifying Java application deployment. ECDS Deploy Helper是一款用于简化Java应用部署流程的IDEA插件。 支持Maven打包、SSH连接、文件上传、远程命令执行等功能，实现一键发版...
 
 vendor: ECDS服务发布助手
-downloads: 11
+downloads: 24
 pricingModel: FREE
 xmlId: com.ecds.deploy.helper</description>
       <pubDate>Sun, 28 Jun 2026 09:27:49 GMT</pubDate>
@@ -136,7 +136,7 @@ xmlId: com.ecds.deploy.helper</description>
       <dc:date>2026-06-28T09:27:49Z</dc:date>
     </item>
     <item>
-      <title>Nexus MCP - Fri Jun 26 08:38:50 UTC 2026</title>
+      <title>Nexus MCP - Mon Jun 29 02:43:55 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32499-nexus-mcp</link>
       <description>Nexus MCP turns JetBrains Rider into an MCP proxy for Unreal Engine. It runs a local MCP server (default port 6800), auto-discovers running UE editor/PIE instances...
 
@@ -144,9 +144,9 @@ vendor: NexusMCP
 downloads: 4
 pricingModel: FREE
 xmlId: com.byteyang.nexusmcp</description>
-      <pubDate>Fri, 26 Jun 2026 08:38:50 GMT</pubDate>
+      <pubDate>Mon, 29 Jun 2026 02:43:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32499-nexus-mcp</guid>
-      <dc:date>2026-06-26T08:38:50Z</dc:date>
+      <dc:date>2026-06-29T02:43:55Z</dc:date>
     </item>
     <item>
       <title>ANN Flutter Flavor - Sat Jun 27 17:51:46 UTC 2026</title>
@@ -154,7 +154,7 @@ xmlId: com.byteyang.nexusmcp</description>
       <description>ANN Flutter Flavor Manage multiple Flutter build flavors — Android, iOS, Web and Windows — from a single annspec.yaml file. One menu action regenerates all the...
 
 vendor: ANN Tech
-downloads: 22
+downloads: 27
 pricingModel: FREE
 xmlId: dev.anntech.studio.flavorize</description>
       <pubDate>Sat, 27 Jun 2026 17:51:46 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: dev.anntech.studio.flavorize</description>
       <description>OpenQASM 3.0 support for JetBrains IDEs with LSP integration and runtime execution. Features: Syntax highlighting for .qasm files using TextMate grammar Language...
 
 vendor: wiji
-downloads: 12
+downloads: 14
 pricingModel: FREE
 xmlId: com.quantumvm.qasm</description>
       <pubDate>Sun, 28 Jun 2026 23:36:31 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.quantumvm.qasm</description>
       <description>Git Blame shows real-time git blame info (author, date, commit message) inline at the end of each line in the editor, and displays the full commit hash in the status...
 
 vendor: jinghongjiang
-downloads: 7
+downloads: 8
 pricingModel: FREE
 xmlId: me.jinghong.git</description>
       <pubDate>Thu, 25 Jun 2026 08:56:07 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: me.jinghong.git</description>
       <description>Dependency Scout helps you keep your Maven and Gradle dependencies up to date. Features: Automatic detection of outdated dependencies in build.gradle...
 
 vendor: prshnt
-downloads: 14
+downloads: 16
 pricingModel: FREE
 xmlId: com.github.prashant.dependencyscout</description>
       <pubDate>Fri, 26 Jun 2026 10:19:34 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.github.prashant.dependencyscout</description>
       <description>A Cursor-like "the agent changed this file" experience for IntelliJ. Watches your project on disk and detects changes made by an external process — Claude Code, other...
 
 vendor: Hemendra Sethi
-downloads: 21
+downloads: 24
 pricingModel: FREE
 xmlId: dev.hemendra.claudewatch</description>
       <pubDate>Fri, 26 Jun 2026 05:00:14 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.hemendra.claudewatch</description>
       <description>Generates a Git commit message from your changes using Claude, right inside the commit dialog. It adds a button to the commit message toolbar (next to the AI Assistant...
 
 vendor: Raphael Moral Piazera
-downloads: 26
+downloads: 27
 pricingModel: FREE
 xmlId: com.raphaelmoral.commitclaude</description>
       <pubDate>Fri, 26 Jun 2026 16:17:14 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.raphaelmoral.commitclaude</description>
       <description>A dedicated, high-speed utility to clean, format, and search long API log responses.
 
 vendor: Rajesh kunwar
-downloads: 11
+downloads: 16
 pricingModel: FREE
 xmlId: com.response.inspector.plugin</description>
       <pubDate>Thu, 25 Jun 2026 18:05:22 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.eonx.eeh.translation-nav</description>
       <description>Evaluate JSONata expressions against the JSON file you have open, with a live preview — similar to try.jsonata.org. Open a JSON file, choose Open JSONata Playground...
 
 vendor: Petr Filip
-downloads: 8
+downloads: 10
 pricingModel: FREE
 xmlId: cz.tix.jsonata</description>
       <pubDate>Thu, 25 Jun 2026 11:38:40 GMT</pubDate>
