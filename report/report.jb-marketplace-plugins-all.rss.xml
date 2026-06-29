@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LSP Senior - Sat Jun 27 17:06:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32517-lsp-senior</link>
+      <description>Support for the Senior Programming Language (LSP): syntax highlighting, bracket matching, auto-close, code folding and snippets for .lsp and .lspt files.
+
+vendor: Bruno Bender
+downloads: 1
+pricingModel: FREE
+xmlId: dev.lspsenior</description>
+      <pubDate>Sat, 27 Jun 2026 17:06:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32517-lsp-senior</guid>
+      <dc:date>2026-06-27T17:06:00Z</dc:date>
+    </item>
+    <item>
+      <title>HTTP Client Companion - Mon Jun 29 12:20:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32547-http-client-companion</link>
+      <description>Edit and run .http requests in a Postman-like UI. Browse requests in a tree and configure them visually instead of editing raw text. HTTP Client Companion adds a...
+
+vendor: Anton Shuvaev
+downloads: 0
+pricingModel: PAID
+xmlId: com.httpclientcompanion</description>
+      <pubDate>Mon, 29 Jun 2026 12:20:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32547-http-client-companion</guid>
+      <dc:date>2026-06-29T12:20:24Z</dc:date>
+    </item>
+    <item>
+      <title>GoPrism - Sat Jun 27 23:54:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32521-goprism</link>
+      <description>GoPrism helps Go developers inspect struct memory layout directly in GoLand. It shows size, alignment, field offsets, and padding for Go structs, then offers an...
+
+vendor: Synktactics Lab
+downloads: 1
+pricingModel: FREE
+xmlId: lab.synktactics.extensions.goprism</description>
+      <pubDate>Sat, 27 Jun 2026 23:54:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32521-goprism</guid>
+      <dc:date>2026-06-27T23:54:37Z</dc:date>
+    </item>
+    <item>
       <title>Open in Obsidian - Mon Jun 29 14:08:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32533-open-in-obsidian</link>
       <description>Open the current file's matching Obsidian note with one click. If your project root contains an .obsidian folder, it is treated as an Obsidian vault. The toolbar...
@@ -225,45 +264,6 @@ xmlId: dev.faultline</description>
       <pubDate>Sun, 28 Jun 2026 16:44:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32532-faultline</guid>
       <dc:date>2026-06-28T16:44:03Z</dc:date>
-    </item>
-    <item>
-      <title>Portuguese (Brazil) Language Pack - Sat Jun 27 11:14:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32512-portuguese-brazil-language-pack</link>
-      <description>Portuguese (Brazil) Language Pack for JetBrains DataGrip. Pacote de tradução para Português do Brasil (pt-br), desenvolvido para o DataGrip. Diferenciais e...
-
-vendor: quadros f
-downloads: 0
-pricingModel: FREE
-xmlId: org.community.portuguese.pack</description>
-      <pubDate>Sat, 27 Jun 2026 11:14:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32512-portuguese-brazil-language-pack</guid>
-      <dc:date>2026-06-27T11:14:32Z</dc:date>
-    </item>
-    <item>
-      <title>MyTab - Mon Jun 29 11:24:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32548-mytab</link>
-      <description>Inline code completion based on OpenAI API compatible endpoints. Supports FIM (Fill-in-the-Middle) and Chat templates.
-
-vendor: QMiTek
-downloads: 0
-pricingModel: FREE
-xmlId: qmi.mytab</description>
-      <pubDate>Mon, 29 Jun 2026 11:24:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32548-mytab</guid>
-      <dc:date>2026-06-29T11:24:11Z</dc:date>
-    </item>
-    <item>
-      <title>XingHan Assistant - Sat Jun 27 13:16:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32513-xinghan-assistant</link>
-      <description>XingHan Assistant helps you manage XingHan ESP32 MicroPython controllers directly from PyCharm. Features: serial upload, run on device, stop, Bluetooth connect, WiFi...
-
-vendor: 星瀚助手
-downloads: 2
-pricingModel: FREE
-xmlId: com.xinghan.assistant</description>
-      <pubDate>Sat, 27 Jun 2026 13:16:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32513-xinghan-assistant</guid>
-      <dc:date>2026-06-27T13:16:36Z</dc:date>
     </item>
   </channel>
 </rss>
