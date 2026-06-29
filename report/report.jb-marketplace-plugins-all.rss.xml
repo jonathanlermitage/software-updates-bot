@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>PAG Viewer - Mon Jun 29 07:57:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32475-pag-viewer</link>
-      <description>Preview Portable Animated Graphics (.pag) animation files in IntelliJ-based IDEs.
+      <title>Open in Obsidian - Mon Jun 29 14:08:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32533-open-in-obsidian</link>
+      <description>Open the current file's matching Obsidian note with one click. If your project root contains an .obsidian folder, it is treated as an Obsidian vault. The toolbar...
 
-vendor: VincentLeon
-downloads: 2
+vendor: Andrii Kovalenko
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.pagviewer</description>
-      <pubDate>Mon, 29 Jun 2026 07:57:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32475-pag-viewer</guid>
-      <dc:date>2026-06-29T07:57:40Z</dc:date>
+xmlId: com.akovalenko.obsidian-toolbar</description>
+      <pubDate>Mon, 29 Jun 2026 14:08:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32533-open-in-obsidian</guid>
+      <dc:date>2026-06-29T14:08:18Z</dc:date>
     </item>
     <item>
-      <title>En-Ru File Finder - Mon Jun 29 06:40:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32476-en-ru-file-finder</link>
-      <description>Switch between 'en' and 'ru' folders for the same file. Works with single or multiple file selection, preserves caret position and scroll offset.
+      <title>AI Lingshi - Mon Jun 29 12:16:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32539-ai-lingshi</link>
+      <description>AI Lingshi is a local AI coding assistant for IntelliJ IDEA. It connects to Ollama or LM Studio for on-device inference; your project code stays on your machine...
 
-vendor: Huginn and Muninn
-downloads: 4
+vendor: AI灵侍
+downloads: 0
 pricingModel: FREE
-xmlId: En-Ru-File-Finder</description>
-      <pubDate>Mon, 29 Jun 2026 06:40:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32476-en-ru-file-finder</guid>
-      <dc:date>2026-06-29T06:40:57Z</dc:date>
+xmlId: com.ollamapilot</description>
+      <pubDate>Mon, 29 Jun 2026 12:16:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32539-ai-lingshi</guid>
+      <dc:date>2026-06-29T12:16:08Z</dc:date>
     </item>
     <item>
-      <title>GenAI Jenkinsfile - Thu Jun 25 12:39:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32486-genai-jenkinsfile</link>
-      <description>GenAI Jenkinsfile brings full editor support for Jenkinsfile (Jenkins declarative &amp;amp; scripted pipelines) to any JetBrains IDE — IntelliJ IDEA, GoLand, PyCharm...
+      <title>ZenMark Editor - Mon Jun 29 01:47:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32493-zenmark-editor</link>
+      <description>ZenMark: The Ultimate WYSIWYG Markdown Experience ZenMark transforms your IntelliJ IDEA into a modern, distraction-free Markdown editor. It completely hides the raw...
 
-vendor: Jin Nguyen
+vendor: jgma
 downloads: 1
 pricingModel: FREE
-xmlId: io.genai.jenkins</description>
-      <pubDate>Thu, 25 Jun 2026 12:39:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32486-genai-jenkinsfile</guid>
-      <dc:date>2026-06-25T12:39:02Z</dc:date>
+xmlId: com.zenmark.plugin</description>
+      <pubDate>Mon, 29 Jun 2026 01:47:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32493-zenmark-editor</guid>
+      <dc:date>2026-06-29T01:47:45Z</dc:date>
     </item>
     <item>
-      <title>Stack Doctor - Fri Jun 26 19:50:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32506-stack-doctor</link>
-      <description>Stack Doctor — Docker Compose service map &amp;amp; network doctor Turns a docker-compose.yml into a visual service dependency map and runs a set of "doctor" checks for...
+      <title>MTP Coverage - Mon Jun 29 09:00:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32545-mtp-coverage</link>
+      <description>MTP Coverage restores Rider/dotCover coverage collection for Microsoft Testing Platform test executables. It is intended for TUnit and other MTP-based projects where...
 
-vendor: QrowMagnia
+vendor: Kemal Hrelja
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.kemoke.rider-mtp-coverage</description>
+      <pubDate>Mon, 29 Jun 2026 09:00:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32545-mtp-coverage</guid>
+      <dc:date>2026-06-29T09:00:27Z</dc:date>
+    </item>
+    <item>
+      <title>Spring Properties Navigator - Mon Jun 29 00:18:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32536-spring-properties-navigator</link>
+      <description>Spring Properties Navigator makes Spring configuration files easier to explore and maintain. It adds bidirectional editor navigation between configuration keys and the...
+
+vendor: Kerolos Atallah
+downloads: 0
+pricingModel: FREE
+xmlId: dev.kerolos.spring-properties-navigator</description>
+      <pubDate>Mon, 29 Jun 2026 00:18:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32536-spring-properties-navigator</guid>
+      <dc:date>2026-06-29T00:18:17Z</dc:date>
+    </item>
+    <item>
+      <title>Firebase Rules (hotrulez) - Mon Jun 29 12:57:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32552-firebase-rules-hotrulez-</link>
+      <description>Language support for Firebase Security Rules — both Cloud Firestore and Cloud Storage — in .rules files in JetBrains IDEs. The dialect (service name, root match shape...
+
+vendor: lezli01
+downloads: 0
+pricingModel: FREE
+xmlId: dev.lezli.hotrulez</description>
+      <pubDate>Mon, 29 Jun 2026 12:57:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32552-firebase-rules-hotrulez-</guid>
+      <dc:date>2026-06-29T12:57:22Z</dc:date>
+    </item>
+    <item>
+      <title>AI DiffSense - Mon Jun 29 02:23:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32538-ai-diffsense</link>
+      <description>AI DiffSense is an IntelliJ IDEA plugin for requirement coverage analysis and code quality review. It decomposes requirement documents into structured items, scans git...
+
+vendor: AI DiffSense
+downloads: 0
+pricingModel: FREE
+xmlId: com.diffsense.ai</description>
+      <pubDate>Mon, 29 Jun 2026 02:23:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32538-ai-diffsense</guid>
+      <dc:date>2026-06-29T02:23:09Z</dc:date>
+    </item>
+    <item>
+      <title>SecretLoader - Mon Jun 29 13:44:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32551-secretloader</link>
+      <description>SecretLoader pulls application secrets from a secrets manager and supplies them to your run and debug sessions as environment variables, so credentials don't have to...
+
+vendor: Kivi A.Ş.
+downloads: 0
+pricingModel: FREE
+xmlId: com.kivi.secretloader</description>
+      <pubDate>Mon, 29 Jun 2026 13:44:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32551-secretloader</guid>
+      <dc:date>2026-06-29T13:44:40Z</dc:date>
+    </item>
+    <item>
+      <title>Modulith Navigator - Fri Jun 26 21:04:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32507-modulith-navigator</link>
+      <description>IntelliJ Project view plugin for Spring Modulith that sorts modules by type, open first and internal second, so your architecture is visible without opening a single...
+
+vendor: Micah Hauge
 downloads: 2
 pricingModel: FREE
-xmlId: com.qrowsolutions.stack-doctor</description>
-      <pubDate>Fri, 26 Jun 2026 19:50:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32506-stack-doctor</guid>
-      <dc:date>2026-06-26T19:50:11Z</dc:date>
+xmlId: com.github.micahhauge.modulithnavigator</description>
+      <pubDate>Fri, 26 Jun 2026 21:04:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32507-modulith-navigator</guid>
+      <dc:date>2026-06-26T21:04:21Z</dc:date>
     </item>
     <item>
-      <title>KDB+ Studio CE - Fri Jun 26 15:44:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32463-kdb-studio-ce</link>
-      <description>Maintained community fork of KDB+ Studio for sending queries to a q database and showing query results. Original KDB+ Studio plugin by Andrii Borovyk...
+      <title>SHAFT - Sun Jun 28 19:13:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32529-shaft</link>
+      <description>SHAFT integration for IntelliJ IDEA with an Assistant-first SHAFT MCP chat surface plus curated recorder, playback, Doctor, Healer, Inspector, project, MCP, and guide...
 
-vendor: Daniel Alonso
+vendor: SHAFT HQ
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.shafthq.shaft</description>
+      <pubDate>Sun, 28 Jun 2026 19:13:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32529-shaft</guid>
+      <dc:date>2026-06-28T19:13:39Z</dc:date>
+    </item>
+    <item>
+      <title>zio-bdd - Sun Jun 28 18:08:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32510-zio-bdd</link>
+      <description>IDE support for the zio-bdd Scala 3 / ZIO 2 BDD test framework. Owns .feature files — does not require the Gherkin plugin. Syntax highlighting (keywords, tags...
+
+vendor: EtaCassiopeia
+downloads: 1
+pricingModel: FREE
+xmlId: zio.bdd</description>
+      <pubDate>Sun, 28 Jun 2026 18:08:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32510-zio-bdd</guid>
+      <dc:date>2026-06-28T18:08:49Z</dc:date>
+    </item>
+    <item>
+      <title>ComposeLens - Mon Jun 29 09:21:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32546-composelens</link>
+      <description>ComposeLens is a performance analysis tool for Jetpack Compose, built for Android TV and mobile. Right-click inside any @Composable function and get a complete picture...
+
+vendor: SinghDevHub
+downloads: 0
+pricingModel: FREE
+xmlId: com.perfcompanion.composeperfcompanion</description>
+      <pubDate>Mon, 29 Jun 2026 09:21:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32546-composelens</guid>
+      <dc:date>2026-06-29T09:21:11Z</dc:date>
+    </item>
+    <item>
+      <title>Selenium Boot MCP - AI Browser Automation - Sat Jun 27 16:09:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32516-selenium-boot-mcp--ai-browser-automation</link>
+      <description>MCP server for Selenium WebDriver browser automation. Lets JetBrains AI Assistant control a real browser — 84 tools for navigation, element interactions, assertions...
+
+vendor: Selenium Boot
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.seleniumboot.mcp</description>
+      <pubDate>Sat, 27 Jun 2026 16:09:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32516-selenium-boot-mcp--ai-browser-automation</guid>
+      <dc:date>2026-06-27T16:09:05Z</dc:date>
+    </item>
+    <item>
+      <title>Selenium Boot - Sun Jun 28 07:40:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32526-selenium-boot</link>
+      <description>IntelliJ IDEA support for Selenium Boot — the zero-boilerplate, Spring-Boot-style Selenium automation framework. Go from nothing to a running Selenium Boot test...
+
+vendor: Selenium Boot
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.seleniumboot.idea</description>
+      <pubDate>Sun, 28 Jun 2026 07:40:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32526-selenium-boot</guid>
+      <dc:date>2026-06-28T07:40:18Z</dc:date>
+    </item>
+    <item>
+      <title>Subway Coders - Sat Jun 27 18:43:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32509-subway-coders</link>
+      <description>Subway Coders plays looping gameplay clips — Subway Surfers, Temple Run, Minecraft parkour/story and other "brain-rot" loops — in tool windows right inside your IDE...
+
+vendor: SuprexDE
 downloads: 2
 pricingModel: FREE
-xmlId: com.dreth.kdb.studio</description>
-      <pubDate>Fri, 26 Jun 2026 15:44:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32463-kdb-studio-ce</guid>
-      <dc:date>2026-06-26T15:44:18Z</dc:date>
+xmlId: de.suprexdev.subwaycoders</description>
+      <pubDate>Sat, 27 Jun 2026 18:43:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32509-subway-coders</guid>
+      <dc:date>2026-06-27T18:43:06Z</dc:date>
     </item>
     <item>
-      <title>Shoaku - Your Coding Navigator - Mon Jun 29 03:32:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32426-shoaku--your-coding-navigator</link>
-      <description>Why? AI can generate code faster than we can understand it. When understanding falls behind, reviews slow down, and maintenance risk grows. This project exists to keep...
+      <title>git-helper - Sun Jun 28 03:50:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32523-git-helper</link>
+      <description>Git Helper Generate AI-powered Git commit messages from your staged diff. Bring your own provider — fully configurable OpenAI / Anthropic compatible endpoints...
 
-vendor: Seito Tanaka
-downloads: 44
+vendor: Tom Sean
+downloads: 2
 pricingModel: FREE
-xmlId: shoaku.intellij-shoaku</description>
-      <pubDate>Mon, 29 Jun 2026 03:32:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32426-shoaku--your-coding-navigator</guid>
-      <dc:date>2026-06-29T03:32:27Z</dc:date>
+xmlId: com.github.tomseanmy.git-helper</description>
+      <pubDate>Sun, 28 Jun 2026 03:50:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32523-git-helper</guid>
+      <dc:date>2026-06-28T03:50:17Z</dc:date>
     </item>
     <item>
-      <title>Sigil - Coding Assistant - Fri Jun 26 20:21:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32492-sigil--coding-assistant</link>
-      <description>Sigil — a coding assistant plugin for JetBrains IDEs that integrates AI-assisted development directly into the IDE. Powered by OpenCode. Features AI chat inside the...
+      <title>Faultline - Sun Jun 28 16:44:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32532-faultline</link>
+      <description>Predicts the blast radius of a dependency upgrade: diffs the public API of the currently resolved artifact against a candidate version and intersects the breaking...
 
-vendor: José M. Nieves
-downloads: 14
+vendor: Vikas Padiyar
+downloads: 0
 pricingModel: FREE
-xmlId: com.sigil.plugin</description>
-      <pubDate>Fri, 26 Jun 2026 20:21:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32492-sigil--coding-assistant</guid>
-      <dc:date>2026-06-26T20:21:33Z</dc:date>
+xmlId: dev.faultline</description>
+      <pubDate>Sun, 28 Jun 2026 16:44:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32532-faultline</guid>
+      <dc:date>2026-06-28T16:44:03Z</dc:date>
     </item>
     <item>
-      <title>Karato - Agent for Sakana AI fugu - Fri Jun 26 15:13:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32504-karato--agent-for-sakana-ai-fugu</link>
-      <description>Karato is an in-IDE agent for Sakana AI Fugu (and fugu-ultra). It drives the OpenAI Codex CLI — configured with Sakana's Fugu provider — as a subprocess and renders...
+      <title>Portuguese (Brazil) Language Pack - Sat Jun 27 11:14:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32512-portuguese-brazil-language-pack</link>
+      <description>Portuguese (Brazil) Language Pack for JetBrains DataGrip. Pacote de tradução para Português do Brasil (pt-br), desenvolvido para o DataGrip. Diferenciais e...
 
-vendor: Imperial architects
-downloads: 54
+vendor: quadros f
+downloads: 0
 pricingModel: FREE
-xmlId: ai.sanakan.fugu.idea</description>
-      <pubDate>Fri, 26 Jun 2026 15:13:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32504-karato--agent-for-sakana-ai-fugu</guid>
-      <dc:date>2026-06-26T15:13:36Z</dc:date>
+xmlId: org.community.portuguese.pack</description>
+      <pubDate>Sat, 27 Jun 2026 11:14:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32512-portuguese-brazil-language-pack</guid>
+      <dc:date>2026-06-27T11:14:32Z</dc:date>
     </item>
     <item>
-      <title>AI Git Commit Writer - Mon Jun 29 04:23:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32500-ai-git-commit-writer</link>
-      <description>AI Git Commit Writer — generate Git commit messages from selected changes using any OpenAI-compatible API. Enter your Base URL and API Key, click Fetch Models, pick a...
+      <title>MyTab - Mon Jun 29 11:24:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32548-mytab</link>
+      <description>Inline code completion based on OpenAI API compatible endpoints. Supports FIM (Fill-in-the-Middle) and Chat templates.
 
-vendor: zhoutianling
-downloads: 41
+vendor: QMiTek
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.zhoutianling.ai-commit-message</description>
-      <pubDate>Mon, 29 Jun 2026 04:23:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32500-ai-git-commit-writer</guid>
-      <dc:date>2026-06-29T04:23:49Z</dc:date>
+xmlId: qmi.mytab</description>
+      <pubDate>Mon, 29 Jun 2026 11:24:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32548-mytab</guid>
+      <dc:date>2026-06-29T11:24:11Z</dc:date>
     </item>
     <item>
-      <title>MyBatis SQL Generator - Fri Jun 26 12:16:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32501-mybatis-sql-generator</link>
-      <description>MyBatis SQL Generator Converts MyBatis XML mapper statements into runnable Oracle SQL in one click. Features: Browse all &amp;lt;select&amp;gt;, &amp;lt;insert&amp;gt...
+      <title>XingHan Assistant - Sat Jun 27 13:16:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32513-xinghan-assistant</link>
+      <description>XingHan Assistant helps you manage XingHan ESP32 MicroPython controllers directly from PyCharm. Features: serial upload, run on device, stop, Bluetooth connect, WiFi...
 
-vendor: MyBatis SQL Generator
-downloads: 13
+vendor: 星瀚助手
+downloads: 2
 pricingModel: FREE
-xmlId: org.sd.mybatis-sql-generator-plugin</description>
-      <pubDate>Fri, 26 Jun 2026 12:16:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32501-mybatis-sql-generator</guid>
-      <dc:date>2026-06-26T12:16:54Z</dc:date>
-    </item>
-    <item>
-      <title>Swagger to Retrofit SDK - Fri Jun 26 13:44:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32502-swagger-to-retrofit-sdk</link>
-      <description>Generates type-safe Kotlin Retrofit SDK sources from OpenAPI and Swagger files.
-
-vendor: Anand Dubey
-downloads: 30
-pricingModel: FREE
-xmlId: org.discord.swagger-to-retrofit</description>
-      <pubDate>Fri, 26 Jun 2026 13:44:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32502-swagger-to-retrofit-sdk</guid>
-      <dc:date>2026-06-26T13:44:14Z</dc:date>
-    </item>
-    <item>
-      <title>JianHao AI Commit - Fri Jun 26 05:19:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32419-jianhao-ai-commit</link>
-      <description>Use OpenAI/Gemini/Claude API to review Git changes and generate conventional commit messages.
-
-vendor: AI Commit
-downloads: 12
-pricingModel: FREE
-xmlId: com.jianhao.ai-commit</description>
-      <pubDate>Fri, 26 Jun 2026 05:19:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32419-jianhao-ai-commit</guid>
-      <dc:date>2026-06-26T05:19:27Z</dc:date>
-    </item>
-    <item>
-      <title>JumpServer Credential Fetcher - Sun Jun 28 08:41:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32498-jumpserver-credential-fetcher</link>
-      <description>DataGrip plugin for fetching temporary database credentials from JumpServer. Configure JumpServer URL and credentials Map DataGrip data sources to JumpServer assets...
-
-vendor: JumpServer Credential Fetcher
-downloads: 13
-pricingModel: FREE
-xmlId: com.young.jumpserver.credential</description>
-      <pubDate>Sun, 28 Jun 2026 08:41:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32498-jumpserver-credential-fetcher</guid>
-      <dc:date>2026-06-28T08:41:59Z</dc:date>
-    </item>
-    <item>
-      <title>RecordRelay - Sun Jun 28 06:40:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32497-recordrelay</link>
-      <description>Clone database records with their full relationship graph — without leaving IntelliJ RecordRelay reproduces a single business record and its entire data context (the...
-
-vendor: MstrocA
-downloads: 34
-pricingModel: FREE
-xmlId: io.recordrelay.plugin</description>
-      <pubDate>Sun, 28 Jun 2026 06:40:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32497-recordrelay</guid>
-      <dc:date>2026-06-28T06:40:35Z</dc:date>
-    </item>
-    <item>
-      <title>ECDS Deploy Helper - Sun Jun 28 09:27:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32481-ecds-deploy-helper</link>
-      <description>ECDS Deploy Helper is an IDEA plugin for simplifying Java application deployment. ECDS Deploy Helper是一款用于简化Java应用部署流程的IDEA插件。 支持Maven打包、SSH连接、文件上传、远程命令执行等功能，实现一键发版...
-
-vendor: ECDS服务发布助手
-downloads: 24
-pricingModel: FREE
-xmlId: com.ecds.deploy.helper</description>
-      <pubDate>Sun, 28 Jun 2026 09:27:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32481-ecds-deploy-helper</guid>
-      <dc:date>2026-06-28T09:27:49Z</dc:date>
-    </item>
-    <item>
-      <title>Nexus MCP - Mon Jun 29 02:43:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32499-nexus-mcp</link>
-      <description>Nexus MCP turns JetBrains Rider into an MCP proxy for Unreal Engine. It runs a local MCP server (default port 6800), auto-discovers running UE editor/PIE instances...
-
-vendor: NexusMCP
-downloads: 4
-pricingModel: FREE
-xmlId: com.byteyang.nexusmcp</description>
-      <pubDate>Mon, 29 Jun 2026 02:43:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32499-nexus-mcp</guid>
-      <dc:date>2026-06-29T02:43:55Z</dc:date>
-    </item>
-    <item>
-      <title>ANN Flutter Flavor - Sat Jun 27 17:51:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32266-ann-flutter-flavor</link>
-      <description>ANN Flutter Flavor Manage multiple Flutter build flavors — Android, iOS, Web and Windows — from a single annspec.yaml file. One menu action regenerates all the...
-
-vendor: ANN Tech
-downloads: 27
-pricingModel: FREE
-xmlId: dev.anntech.studio.flavorize</description>
-      <pubDate>Sat, 27 Jun 2026 17:51:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32266-ann-flutter-flavor</guid>
-      <dc:date>2026-06-27T17:51:46Z</dc:date>
-    </item>
-    <item>
-      <title>QuantumVM - Sun Jun 28 23:36:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32494-quantumvm</link>
-      <description>OpenQASM 3.0 support for JetBrains IDEs with LSP integration and runtime execution. Features: Syntax highlighting for .qasm files using TextMate grammar Language...
-
-vendor: wiji
-downloads: 14
-pricingModel: FREE
-xmlId: com.quantumvm.qasm</description>
-      <pubDate>Sun, 28 Jun 2026 23:36:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32494-quantumvm</guid>
-      <dc:date>2026-06-28T23:36:31Z</dc:date>
-    </item>
-    <item>
-      <title>Git Blame - Thu Jun 25 08:56:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32480-git-blame</link>
-      <description>Git Blame shows real-time git blame info (author, date, commit message) inline at the end of each line in the editor, and displays the full commit hash in the status...
-
-vendor: jinghongjiang
-downloads: 8
-pricingModel: FREE
-xmlId: me.jinghong.git</description>
-      <pubDate>Thu, 25 Jun 2026 08:56:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32480-git-blame</guid>
-      <dc:date>2026-06-25T08:56:07Z</dc:date>
-    </item>
-    <item>
-      <title>Dependency Scout - Fri Jun 26 10:19:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32489-dependency-scout</link>
-      <description>Dependency Scout helps you keep your Maven and Gradle dependencies up to date. Features: Automatic detection of outdated dependencies in build.gradle...
-
-vendor: prshnt
-downloads: 16
-pricingModel: FREE
-xmlId: com.github.prashant.dependencyscout</description>
-      <pubDate>Fri, 26 Jun 2026 10:19:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32489-dependency-scout</guid>
-      <dc:date>2026-06-26T10:19:34Z</dc:date>
+xmlId: com.xinghan.assistant</description>
+      <pubDate>Sat, 27 Jun 2026 13:16:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32513-xinghan-assistant</guid>
+      <dc:date>2026-06-27T13:16:36Z</dc:date>
     </item>
   </channel>
 </rss>
