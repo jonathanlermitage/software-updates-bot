@@ -6,6 +6,162 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>JIMDB - Tue Jun 30 16:00:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32583-jimdb</link>
+      <description>JIMDB is a JetBrains IDE plugin for browsing and managing JD.com JIMDB, a Redis-compatible key-value store, directly inside your IDE. 连接京东 JIMDB（Redis 兼容 KV 存储）的 IDEA...
+
+vendor: yanglikun
+downloads: 0
+pricingModel: FREE
+xmlId: com.jd.jimdb</description>
+      <pubDate>Tue, 30 Jun 2026 16:00:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32583-jimdb</guid>
+      <dc:date>2026-06-30T16:00:27Z</dc:date>
+    </item>
+    <item>
+      <title>CLI Shortcut - Sun Jun 28 07:19:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32525-cli-shortcut</link>
+      <description>English CLI Shortcut is a lightweight IntelliJ IDEA plugin for running frequently used command-line scripts directly from the IDE toolbar. It is designed for...
+
+vendor: CLI Shortcut
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.onblog.idea-cli-shortcut</description>
+      <pubDate>Sun, 28 Jun 2026 07:19:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32525-cli-shortcut</guid>
+      <dc:date>2026-06-28T07:19:03Z</dc:date>
+    </item>
+    <item>
+      <title>JSONL Viewer - Tue Jun 30 12:42:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32574-jsonl-viewer</link>
+      <description>A fast viewer for JSON Lines files (.jsonl / .ndjson), built for files that are far too large for the normal editor. Opening a .jsonl file adds a Records tab that...
+
+vendor: pr0skilled
+downloads: 0
+pricingModel: FREE
+xmlId: io.jsonlviewer</description>
+      <pubDate>Tue, 30 Jun 2026 12:42:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32574-jsonl-viewer</guid>
+      <dc:date>2026-06-30T12:42:51Z</dc:date>
+    </item>
+    <item>
+      <title>go-doc - Mon Jun 29 19:56:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32555-go-doc</link>
+      <description>go-doc adds typed Go template support to GoLand for .gohtml, .tmpl, and .html files. It runs the shared go-doc language server and provides: contract-aware completions...
+
+vendor: Sebastiano Bellinzis
+downloads: 1
+pricingModel: FREE
+xmlId: com.donseba.godoc</description>
+      <pubDate>Mon, 29 Jun 2026 19:56:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32555-go-doc</guid>
+      <dc:date>2026-06-29T19:56:42Z</dc:date>
+    </item>
+    <item>
+      <title>Architecture Analysis - Mon Jun 29 00:32:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32537-architecture-analysis</link>
+      <description>Architecture Analysis Architecture Analysis is an advanced architecture governance and software intelligence platform for IntelliJ IDEA. It continuously analyzes your...
+
+vendor: SMS Murilo - Softwares Inteligentes
+downloads: 1
+pricingModel: FREE
+xmlId: br.com.smsmurilo.architecture.analysis</description>
+      <pubDate>Mon, 29 Jun 2026 00:32:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32537-architecture-analysis</guid>
+      <dc:date>2026-06-29T00:32:02Z</dc:date>
+    </item>
+    <item>
+      <title>Alfred - Mon Jun 29 15:15:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32531-alfred</link>
+      <description>Alfred is a CLion dev environment butler for multi-chip and embedded workflows. It snapshots project CLion configuration and IDE settings into named profiles, so teams...
+
+vendor: linkyourbin
+downloads: 1
+pricingModel: FREE
+xmlId: com.linkyourbin.alfred</description>
+      <pubDate>Mon, 29 Jun 2026 15:15:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32531-alfred</guid>
+      <dc:date>2026-06-29T15:15:23Z</dc:date>
+    </item>
+    <item>
+      <title>Android XML Jump - Tue Jun 30 06:38:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32570-android-xml-jump</link>
+      <description>Jump between Android layout XML files and the Java or Kotlin classes that reference them.
+
+vendor: android-xml-jump
+downloads: 0
+pricingModel: FREE
+xmlId: com.itgoyo.android-xml-jump</description>
+      <pubDate>Tue, 30 Jun 2026 06:38:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32570-android-xml-jump</guid>
+      <dc:date>2026-06-30T06:38:14Z</dc:date>
+    </item>
+    <item>
+      <title>Propsy - Mon Jun 29 20:19:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32562-propsy</link>
+      <description>Shows configured .properties files as an editable Key/Value table in a tool window. Paths are configured per-project in Settings | Tools | Propsy. Edits preserve...
+
+vendor: Arman Ayvazyan
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.armanayvazyan.propsy</description>
+      <pubDate>Mon, 29 Jun 2026 20:19:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32562-propsy</guid>
+      <dc:date>2026-06-29T20:19:47Z</dc:date>
+    </item>
+    <item>
+      <title>MC Lang Translator - Mon Jun 29 21:30:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32560-mc-lang-translator</link>
+      <description>MC Lang Translator MC Lang Translator is an IntelliJ IDEA plugin for translating Minecraft mod language files. It is designed for mod projects that keep localization...
+
+vendor: Andre Carbajal
+downloads: 0
+pricingModel: FREE
+xmlId: net.andrecarbajal.mclangtranslator</description>
+      <pubDate>Mon, 29 Jun 2026 21:30:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32560-mc-lang-translator</guid>
+      <dc:date>2026-06-29T21:30:40Z</dc:date>
+    </item>
+    <item>
+      <title>FishCN Reader - Mon Jun 29 14:41:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32554-fishcn-reader</link>
+      <description>FishCN Reader is an offline TXT, Markdown, and EPUB reader for Android Studio. It provides automatic chapter detection, a global bookshelf, reading progress...
+
+vendor: FishCN
+downloads: 0
+pricingModel: FREE
+xmlId: cn.fishcn.reader.androidstudio</description>
+      <pubDate>Mon, 29 Jun 2026 14:41:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32554-fishcn-reader</guid>
+      <dc:date>2026-06-29T14:41:02Z</dc:date>
+    </item>
+    <item>
+      <title>ApiDocument - Tue Jun 30 06:34:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32569-apidocument</link>
+      <description>ApiDocument generates ShowDoc-style API Markdown documents from Java Spring MVC Controllers. Features: Generate API documentation from Controller classes or individual...
+
+vendor: lilong
+downloads: 0
+pricingModel: FREE
+xmlId: com.leoleo.apidoc</description>
+      <pubDate>Tue, 30 Jun 2026 06:34:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32569-apidocument</guid>
+      <dc:date>2026-06-30T06:34:48Z</dc:date>
+    </item>
+    <item>
+      <title>FishReading - Sat Jun 27 10:33:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32511-fishreading</link>
+      <description>FishReading lets you read books quietly inside IntelliJ IDEA without switching away from your editor. Core features: Import .epub and .txt books, including many...
+
+vendor: UnscientificJsZhai
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.mikasastacy.fishreading</description>
+      <pubDate>Sat, 27 Jun 2026 10:33:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32511-fishreading</guid>
+      <dc:date>2026-06-27T10:33:58Z</dc:date>
+    </item>
+    <item>
       <title>VgScript - Sun Jun 28 13:10:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32388-vgscript</link>
       <description>Language support for VgScript (*.vgs) — a bracket-tagged scene DSL for narrative scripts: scenes, dialogue, named actions, timed/parallel events, and branching...
@@ -108,162 +264,6 @@ xmlId: io.github.kemoke.rider-mtp-coverage</description>
       <pubDate>Mon, 29 Jun 2026 09:00:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32545-mtp-coverage</guid>
       <dc:date>2026-06-29T09:00:27Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Properties Navigator - Mon Jun 29 00:18:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32536-spring-properties-navigator</link>
-      <description>Spring Properties Navigator makes Spring configuration files easier to explore and maintain. It adds bidirectional editor navigation between configuration keys and the...
-
-vendor: Kerolos Atallah
-downloads: 2
-pricingModel: FREE
-xmlId: dev.kerolos.spring-properties-navigator</description>
-      <pubDate>Mon, 29 Jun 2026 00:18:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32536-spring-properties-navigator</guid>
-      <dc:date>2026-06-29T00:18:17Z</dc:date>
-    </item>
-    <item>
-      <title>Firebase Rules (hotrulez) - Tue Jun 30 07:13:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32552-firebase-rules-hotrulez-</link>
-      <description>Language support for Firebase Security Rules — both Cloud Firestore and Cloud Storage — in .rules files in JetBrains IDEs. The dialect (service name, root match shape...
-
-vendor: lezli01
-downloads: 6
-pricingModel: FREE
-xmlId: dev.lezli.hotrulez</description>
-      <pubDate>Tue, 30 Jun 2026 07:13:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32552-firebase-rules-hotrulez-</guid>
-      <dc:date>2026-06-30T07:13:26Z</dc:date>
-    </item>
-    <item>
-      <title>AI DiffSense - Mon Jun 29 02:23:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32538-ai-diffsense</link>
-      <description>AI DiffSense is an IntelliJ IDEA plugin for requirement coverage analysis and code quality review. It decomposes requirement documents into structured items, scans git...
-
-vendor: AI DiffSense
-downloads: 1
-pricingModel: FREE
-xmlId: com.diffsense.ai</description>
-      <pubDate>Mon, 29 Jun 2026 02:23:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32538-ai-diffsense</guid>
-      <dc:date>2026-06-29T02:23:09Z</dc:date>
-    </item>
-    <item>
-      <title>SecretLoader - Mon Jun 29 13:44:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32551-secretloader</link>
-      <description>SecretLoader pulls application secrets from a secrets manager and supplies them to your run and debug sessions as environment variables, so credentials don't have to...
-
-vendor: Kivi A.Ş.
-downloads: 5
-pricingModel: FREE
-xmlId: com.kivi.secretloader</description>
-      <pubDate>Mon, 29 Jun 2026 13:44:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32551-secretloader</guid>
-      <dc:date>2026-06-29T13:44:40Z</dc:date>
-    </item>
-    <item>
-      <title>Modulith Navigator - Fri Jun 26 21:04:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32507-modulith-navigator</link>
-      <description>IntelliJ Project view plugin for Spring Modulith that sorts modules by type, open first and internal second, so your architecture is visible without opening a single...
-
-vendor: Micah Hauge
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.micahhauge.modulithnavigator</description>
-      <pubDate>Fri, 26 Jun 2026 21:04:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32507-modulith-navigator</guid>
-      <dc:date>2026-06-26T21:04:21Z</dc:date>
-    </item>
-    <item>
-      <title>SHAFT - Sun Jun 28 19:13:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32529-shaft</link>
-      <description>SHAFT integration for IntelliJ IDEA with an Assistant-first SHAFT MCP chat surface plus curated recorder, playback, Doctor, Healer, Inspector, project, MCP, and guide...
-
-vendor: SHAFT HQ
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.shafthq.shaft</description>
-      <pubDate>Sun, 28 Jun 2026 19:13:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32529-shaft</guid>
-      <dc:date>2026-06-28T19:13:39Z</dc:date>
-    </item>
-    <item>
-      <title>zio-bdd - Sun Jun 28 18:08:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32510-zio-bdd</link>
-      <description>IDE support for the zio-bdd Scala 3 / ZIO 2 BDD test framework. Owns .feature files — does not require the Gherkin plugin. Syntax highlighting (keywords, tags...
-
-vendor: EtaCassiopeia
-downloads: 3
-pricingModel: FREE
-xmlId: zio.bdd</description>
-      <pubDate>Sun, 28 Jun 2026 18:08:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32510-zio-bdd</guid>
-      <dc:date>2026-06-28T18:08:49Z</dc:date>
-    </item>
-    <item>
-      <title>ComposeLens - Mon Jun 29 09:21:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32546-composelens</link>
-      <description>ComposeLens is a performance analysis tool for Jetpack Compose, built for Android TV and mobile. Right-click inside any @Composable function and get a complete picture...
-
-vendor: SinghDevHub
-downloads: 2
-pricingModel: FREE
-xmlId: com.perfcompanion.composeperfcompanion</description>
-      <pubDate>Mon, 29 Jun 2026 09:21:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32546-composelens</guid>
-      <dc:date>2026-06-29T09:21:11Z</dc:date>
-    </item>
-    <item>
-      <title>Selenium Boot MCP - AI Browser Automation - Sat Jun 27 16:09:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32516-selenium-boot-mcp--ai-browser-automation</link>
-      <description>MCP server for Selenium WebDriver browser automation. Lets JetBrains AI Assistant control a real browser — 84 tools for navigation, element interactions, assertions...
-
-vendor: Selenium Boot
-downloads: 4
-pricingModel: FREE
-xmlId: io.github.seleniumboot.mcp</description>
-      <pubDate>Sat, 27 Jun 2026 16:09:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32516-selenium-boot-mcp--ai-browser-automation</guid>
-      <dc:date>2026-06-27T16:09:05Z</dc:date>
-    </item>
-    <item>
-      <title>Selenium Boot - Sun Jun 28 07:40:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32526-selenium-boot</link>
-      <description>IntelliJ IDEA support for Selenium Boot — the zero-boilerplate, Spring-Boot-style Selenium automation framework. Go from nothing to a running Selenium Boot test...
-
-vendor: Selenium Boot
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.seleniumboot.idea</description>
-      <pubDate>Sun, 28 Jun 2026 07:40:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32526-selenium-boot</guid>
-      <dc:date>2026-06-28T07:40:18Z</dc:date>
-    </item>
-    <item>
-      <title>Subway Coders - Sat Jun 27 18:43:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32509-subway-coders</link>
-      <description>Subway Coders plays looping gameplay clips — Subway Surfers, Temple Run, Minecraft parkour/story and other "brain-rot" loops — in tool windows right inside your IDE...
-
-vendor: SuprexDE
-downloads: 4
-pricingModel: FREE
-xmlId: de.suprexdev.subwaycoders</description>
-      <pubDate>Sat, 27 Jun 2026 18:43:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32509-subway-coders</guid>
-      <dc:date>2026-06-27T18:43:06Z</dc:date>
-    </item>
-    <item>
-      <title>git-helper - Sun Jun 28 03:50:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32523-git-helper</link>
-      <description>Git Helper Generate AI-powered Git commit messages from your staged diff. Bring your own provider — fully configurable OpenAI / Anthropic compatible endpoints...
-
-vendor: Tom Sean
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.tomseanmy.git-helper</description>
-      <pubDate>Sun, 28 Jun 2026 03:50:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32523-git-helper</guid>
-      <dc:date>2026-06-28T03:50:17Z</dc:date>
     </item>
   </channel>
 </rss>
