@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>VgScript - Sun Jun 28 13:10:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32388-vgscript</link>
+      <description>Language support for VgScript (*.vgs) — a bracket-tagged scene DSL for narrative scripts: scenes, dialogue, named actions, timed/parallel events, and branching...
+
+vendor: Noümen Interactive
+downloads: 12
+pricingModel: FREE
+xmlId: com.guillemsrr.vgscript</description>
+      <pubDate>Sun, 28 Jun 2026 13:10:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32388-vgscript</guid>
+      <dc:date>2026-06-28T13:10:37Z</dc:date>
+    </item>
+    <item>
       <title>LSP Senior - Mon Jun 29 22:58:42 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32517-lsp-senior</link>
       <description>Support for the Senior Programming Language (LSP): syntax highlighting, bracket matching, auto-close, code folding and snippets for .lsp and .lspt files.
@@ -58,7 +71,7 @@ xmlId: com.akovalenko.obsidian-toolbar</description>
       <dc:date>2026-06-29T14:08:18Z</dc:date>
     </item>
     <item>
-      <title>AI Lingshi - Mon Jun 29 12:16:08 UTC 2026</title>
+      <title>AI Lingshi - Tue Jun 30 09:57:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32539-ai-lingshi</link>
       <description>AI Lingshi is a local AI coding assistant for IntelliJ IDEA. It connects to Ollama or LM Studio for on-device inference; your project code stays on your machine...
 
@@ -66,9 +79,9 @@ vendor: AI灵侍
 downloads: 2
 pricingModel: FREE
 xmlId: com.ollamapilot</description>
-      <pubDate>Mon, 29 Jun 2026 12:16:08 GMT</pubDate>
+      <pubDate>Tue, 30 Jun 2026 09:57:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32539-ai-lingshi</guid>
-      <dc:date>2026-06-29T12:16:08Z</dc:date>
+      <dc:date>2026-06-30T09:57:02Z</dc:date>
     </item>
     <item>
       <title>ZenMark Editor - Mon Jun 29 01:47:45 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.github.tomseanmy.git-helper</description>
       <pubDate>Sun, 28 Jun 2026 03:50:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32523-git-helper</guid>
       <dc:date>2026-06-28T03:50:17Z</dc:date>
-    </item>
-    <item>
-      <title>Faultline - Sun Jun 28 16:44:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32532-faultline</link>
-      <description>Predicts the blast radius of a dependency upgrade: diffs the public API of the currently resolved artifact against a candidate version and intersects the breaking...
-
-vendor: Vikas Padiyar
-downloads: 3
-pricingModel: FREE
-xmlId: dev.faultline</description>
-      <pubDate>Sun, 28 Jun 2026 16:44:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32532-faultline</guid>
-      <dc:date>2026-06-28T16:44:03Z</dc:date>
     </item>
   </channel>
 </rss>
