@@ -6,12 +6,64 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>SQL Vigil - Thu Jun 11 11:41:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31822-sql-vigil</link>
+      <description>SQL Vigil is an IntelliJ IDEA inspection suite that catches risky SQL before it ships — it flags missing indexes, lock and concurrency hazards, dangerous DDL diffs...
+
+vendor: fangyajun
+downloads: 5
+pricingModel: FREE
+xmlId: com.sqlvigil.plugin</description>
+      <pubDate>Thu, 11 Jun 2026 11:41:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31822-sql-vigil</guid>
+      <dc:date>2026-06-11T11:41:01Z</dc:date>
+    </item>
+    <item>
+      <title>KetraTerm - Tue Jun 30 19:41:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32589-ketraterm</link>
+      <description>KetraTerm is a fast, modern terminal for IntelliJ Platform IDEs, built for shells, command-line tools, and rich TUI applications that developers keep open all day. It...
+
+vendor: KetraTerm
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.ketraterm.terminal</description>
+      <pubDate>Tue, 30 Jun 2026 19:41:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32589-ketraterm</guid>
+      <dc:date>2026-06-30T19:41:14Z</dc:date>
+    </item>
+    <item>
+      <title>AI Inline Review - Tue Jun 30 16:14:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32582-ai-inline-review</link>
+      <description>AI Inline Review brings human-curated, GitHub-style review comments into the editor and hands them to your coding agent. Attach review notes to lines in the editor or...
+
+vendor: AI Inline Review
+downloads: 0
+pricingModel: FREE
+xmlId: co.cben.dev.aiinlinereview</description>
+      <pubDate>Tue, 30 Jun 2026 16:14:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32582-ai-inline-review</guid>
+      <dc:date>2026-06-30T16:14:54Z</dc:date>
+    </item>
+    <item>
+      <title>CMP Resource Viewer - Tue Jun 30 19:18:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32586-cmp-resource-viewer</link>
+      <description>CMP Resource Viewer brings drawable previews to Compose Multiplatform projects — the previews Android Studio's Resource Manager and editor skip, because...
+
+vendor: Gth Devs
+downloads: 0
+pricingModel: FREE
+xmlId: com.gthdevs.cmpresources</description>
+      <pubDate>Tue, 30 Jun 2026 19:18:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32586-cmp-resource-viewer</guid>
+      <dc:date>2026-06-30T19:18:50Z</dc:date>
+    </item>
+    <item>
       <title>JIMDB - Tue Jun 30 16:00:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32583-jimdb</link>
       <description>JIMDB is a JetBrains IDE plugin for browsing and managing JD.com JIMDB, a Redis-compatible key-value store, directly inside your IDE. 连接京东 JIMDB（Redis 兼容 KV 存储）的 IDEA...
 
 vendor: yanglikun
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.jd.jimdb</description>
       <pubDate>Tue, 30 Jun 2026 16:00:27 GMT</pubDate>
@@ -24,7 +76,7 @@ xmlId: com.jd.jimdb</description>
       <description>English CLI Shortcut is a lightweight IntelliJ IDEA plugin for running frequently used command-line scripts directly from the IDE toolbar. It is designed for...
 
 vendor: CLI Shortcut
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.onblog.idea-cli-shortcut</description>
       <pubDate>Sun, 28 Jun 2026 07:19:03 GMT</pubDate>
@@ -37,7 +89,7 @@ xmlId: com.github.onblog.idea-cli-shortcut</description>
       <description>A fast viewer for JSON Lines files (.jsonl / .ndjson), built for files that are far too large for the normal editor. Opening a .jsonl file adds a Records tab that...
 
 vendor: pr0skilled
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.jsonlviewer</description>
       <pubDate>Tue, 30 Jun 2026 12:42:51 GMT</pubDate>
@@ -50,7 +102,7 @@ xmlId: io.jsonlviewer</description>
       <description>go-doc adds typed Go template support to GoLand for .gohtml, .tmpl, and .html files. It runs the shared go-doc language server and provides: contract-aware completions...
 
 vendor: Sebastiano Bellinzis
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.donseba.godoc</description>
       <pubDate>Mon, 29 Jun 2026 19:56:42 GMT</pubDate>
@@ -63,7 +115,7 @@ xmlId: com.donseba.godoc</description>
       <description>Architecture Analysis Architecture Analysis is an advanced architecture governance and software intelligence platform for IntelliJ IDEA. It continuously analyzes your...
 
 vendor: SMS Murilo - Softwares Inteligentes
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: br.com.smsmurilo.architecture.analysis</description>
       <pubDate>Mon, 29 Jun 2026 00:32:02 GMT</pubDate>
@@ -76,7 +128,7 @@ xmlId: br.com.smsmurilo.architecture.analysis</description>
       <description>Alfred is a CLion dev environment butler for multi-chip and embedded workflows. It snapshots project CLion configuration and IDE settings into named profiles, so teams...
 
 vendor: linkyourbin
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.linkyourbin.alfred</description>
       <pubDate>Mon, 29 Jun 2026 15:15:23 GMT</pubDate>
@@ -84,17 +136,17 @@ xmlId: com.linkyourbin.alfred</description>
       <dc:date>2026-06-29T15:15:23Z</dc:date>
     </item>
     <item>
-      <title>Android XML Jump - Tue Jun 30 06:38:14 UTC 2026</title>
+      <title>Android XML Jump - Wed Jul 01 06:20:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32570-android-xml-jump</link>
       <description>Jump between Android layout XML files and the Java or Kotlin classes that reference them.
 
 vendor: android-xml-jump
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.itgoyo.android-xml-jump</description>
-      <pubDate>Tue, 30 Jun 2026 06:38:14 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 06:20:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32570-android-xml-jump</guid>
-      <dc:date>2026-06-30T06:38:14Z</dc:date>
+      <dc:date>2026-07-01T06:20:12Z</dc:date>
     </item>
     <item>
       <title>Propsy - Mon Jun 29 20:19:47 UTC 2026</title>
@@ -102,7 +154,7 @@ xmlId: com.itgoyo.android-xml-jump</description>
       <description>Shows configured .properties files as an editable Key/Value table in a tool window. Paths are configured per-project in Settings | Tools | Propsy. Edits preserve...
 
 vendor: Arman Ayvazyan
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.armanayvazyan.propsy</description>
       <pubDate>Mon, 29 Jun 2026 20:19:47 GMT</pubDate>
@@ -115,7 +167,7 @@ xmlId: io.github.armanayvazyan.propsy</description>
       <description>MC Lang Translator MC Lang Translator is an IntelliJ IDEA plugin for translating Minecraft mod language files. It is designed for mod projects that keep localization...
 
 vendor: Andre Carbajal
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: net.andrecarbajal.mclangtranslator</description>
       <pubDate>Mon, 29 Jun 2026 21:30:40 GMT</pubDate>
@@ -128,7 +180,7 @@ xmlId: net.andrecarbajal.mclangtranslator</description>
       <description>FishCN Reader is an offline TXT, Markdown, and EPUB reader for Android Studio. It provides automatic chapter detection, a global bookshelf, reading progress...
 
 vendor: FishCN
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: cn.fishcn.reader.androidstudio</description>
       <pubDate>Mon, 29 Jun 2026 14:41:02 GMT</pubDate>
@@ -154,7 +206,7 @@ xmlId: com.leoleo.apidoc</description>
       <description>FishReading lets you read books quietly inside IntelliJ IDEA without switching away from your editor. Core features: Import .epub and .txt books, including many...
 
 vendor: UnscientificJsZhai
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.mikasastacy.fishreading</description>
       <pubDate>Sat, 27 Jun 2026 10:33:58 GMT</pubDate>
@@ -167,7 +219,7 @@ xmlId: com.github.mikasastacy.fishreading</description>
       <description>Language support for VgScript (*.vgs) — a bracket-tagged scene DSL for narrative scripts: scenes, dialogue, named actions, timed/parallel events, and branching...
 
 vendor: Noümen Interactive
-downloads: 12
+downloads: 15
 pricingModel: FREE
 xmlId: com.guillemsrr.vgscript</description>
       <pubDate>Sun, 28 Jun 2026 13:10:37 GMT</pubDate>
@@ -180,7 +232,7 @@ xmlId: com.guillemsrr.vgscript</description>
       <description>Support for the Senior Programming Language (LSP): syntax highlighting, bracket matching, auto-close, code folding and snippets for .lsp and .lspt files.
 
 vendor: Bruno Bender
-downloads: 11
+downloads: 26
 pricingModel: FREE
 xmlId: dev.lspsenior</description>
       <pubDate>Mon, 29 Jun 2026 22:58:42 GMT</pubDate>
@@ -193,7 +245,7 @@ xmlId: dev.lspsenior</description>
       <description>Edit and run .http requests in a Postman-like UI. Browse requests in a tree and configure them visually instead of editing raw text. HTTP Client Companion adds a...
 
 vendor: Anton Shuvaev
-downloads: 1
+downloads: 7
 pricingModel: PAID
 xmlId: com.httpclientcompanion</description>
       <pubDate>Mon, 29 Jun 2026 12:20:24 GMT</pubDate>
@@ -206,64 +258,12 @@ xmlId: com.httpclientcompanion</description>
       <description>GoPrism helps Go developers inspect struct memory layout directly in GoLand. It shows size, alignment, field offsets, and padding for Go structs, then offers an...
 
 vendor: Synktactics Lab
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: lab.synktactics.extensions.goprism</description>
       <pubDate>Sat, 27 Jun 2026 23:54:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32521-goprism</guid>
       <dc:date>2026-06-27T23:54:37Z</dc:date>
-    </item>
-    <item>
-      <title>Open in Obsidian - Mon Jun 29 14:08:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32533-open-in-obsidian</link>
-      <description>Open the current file's matching Obsidian note with one click. If your project root contains an .obsidian folder, it is treated as an Obsidian vault. The toolbar...
-
-vendor: Andrii Kovalenko
-downloads: 4
-pricingModel: FREE
-xmlId: com.akovalenko.obsidian-toolbar</description>
-      <pubDate>Mon, 29 Jun 2026 14:08:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32533-open-in-obsidian</guid>
-      <dc:date>2026-06-29T14:08:18Z</dc:date>
-    </item>
-    <item>
-      <title>AI Lingshi - Tue Jun 30 09:57:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32539-ai-lingshi</link>
-      <description>AI Lingshi is a local AI coding assistant for IntelliJ IDEA. It connects to Ollama or LM Studio for on-device inference; your project code stays on your machine...
-
-vendor: AI灵侍
-downloads: 2
-pricingModel: FREE
-xmlId: com.ollamapilot</description>
-      <pubDate>Tue, 30 Jun 2026 09:57:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32539-ai-lingshi</guid>
-      <dc:date>2026-06-30T09:57:02Z</dc:date>
-    </item>
-    <item>
-      <title>ZenMark Editor - Mon Jun 29 01:47:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32493-zenmark-editor</link>
-      <description>ZenMark: The Ultimate WYSIWYG Markdown Experience ZenMark transforms your IntelliJ IDEA into a modern, distraction-free Markdown editor. It completely hides the raw...
-
-vendor: jgma
-downloads: 4
-pricingModel: FREE
-xmlId: com.zenmark.plugin</description>
-      <pubDate>Mon, 29 Jun 2026 01:47:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32493-zenmark-editor</guid>
-      <dc:date>2026-06-29T01:47:45Z</dc:date>
-    </item>
-    <item>
-      <title>MTP Coverage - Mon Jun 29 09:00:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32545-mtp-coverage</link>
-      <description>MTP Coverage restores Rider/dotCover coverage collection for Microsoft Testing Platform test executables. It is intended for TUnit and other MTP-based projects where...
-
-vendor: Kemal Hrelja
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.kemoke.rider-mtp-coverage</description>
-      <pubDate>Mon, 29 Jun 2026 09:00:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32545-mtp-coverage</guid>
-      <dc:date>2026-06-29T09:00:27Z</dc:date>
     </item>
   </channel>
 </rss>
