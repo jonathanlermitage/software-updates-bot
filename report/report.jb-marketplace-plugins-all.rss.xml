@@ -6,7 +6,98 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Compose Code Locator - Wed Jul 01 09:24:23 UTC 2026</title>
+      <title>YMM Structured AI Assistant - Sat Jun 27 17:33:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32519-ymm-structured-ai-assistant</link>
+      <description>An AI assistant for JetBrains IDEs that brings conversations into your workflow, with your project context pulled in automatically. Works with OpenAI-compatible APIs...
+
+vendor: You, Me &amp; Myself
+downloads: 2
+pricingModel: PAID
+xmlId: com.youmeandmyself.ai</description>
+      <pubDate>Sat, 27 Jun 2026 17:33:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32519-ymm-structured-ai-assistant</guid>
+      <dc:date>2026-06-27T17:33:14Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Code Glyph - Tue Jun 30 06:08:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32567-claude-code-glyph</link>
+      <description>A Claude Code terminal for JetBrains IDEs that shows what Claude is doing at a glance — thinking, running, or waiting. It renders Claude Code cleanly (no overlapping...
+
+vendor: Duckyman
+downloads: 0
+pricingModel: FREE
+xmlId: com.duckyman.plugin.ccglyph</description>
+      <pubDate>Tue, 30 Jun 2026 06:08:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32567-claude-code-glyph</guid>
+      <dc:date>2026-06-30T06:08:08Z</dc:date>
+    </item>
+    <item>
+      <title>Rainbow Progress Bar - Tue Jun 30 11:40:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32573-rainbow-progress-bar</link>
+      <description>Replaces the boring stock progress bars with animated rainbow ones. Like the famous Nyan Cat progress bar — but without the cat, just pure scrolling rainbow goodness...
+
+vendor: Loading… Probably
+downloads: 0
+pricingModel: FREE
+xmlId: io.almabaw.progressbar</description>
+      <pubDate>Tue, 30 Jun 2026 11:40:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32573-rainbow-progress-bar</guid>
+      <dc:date>2026-06-30T11:40:21Z</dc:date>
+    </item>
+    <item>
+      <title>IDE Desktop Pet Sprite - Tue Jun 30 06:36:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32566-ide-desktop-pet-sprite</link>
+      <description>IDE Desktop Pet Sprite is a desktop floating pet for IntelliJ-based IDEs and Android Studio. It reacts to Gradle sync, indexing, build/compile, and run/debug states...
+
+vendor: anjiemo
+downloads: 0
+pricingModel: FREE
+xmlId: cn.funkt.deskpet</description>
+      <pubDate>Tue, 30 Jun 2026 06:36:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32566-ide-desktop-pet-sprite</guid>
+      <dc:date>2026-06-30T06:36:34Z</dc:date>
+    </item>
+    <item>
+      <title>FNM Version Switcher - Wed Jul 01 12:15:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32593-fnm-version-switcher</link>
+      <description>Automatically switches the project Node.js interpreter using fnm, based on .node-version and .nvmrc files. Auto-switches on project open, Git branch change, and...
+
+vendor: simhnna
+downloads: 0
+pricingModel: FREE
+xmlId: eu.hannaweb.fnm</description>
+      <pubDate>Wed, 01 Jul 2026 12:15:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32593-fnm-version-switcher</guid>
+      <dc:date>2026-07-01T12:15:44Z</dc:date>
+    </item>
+    <item>
+      <title>Bearing - Tue Jun 30 13:11:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32579-bearing</link>
+      <description>A IntelliJ IDEA plugin that enhances traditional coding with AI. No AI agent mode, no code suggestions/completions, no chat. Set an objective (optional), search for...
+
+vendor: juschmitt
+downloads: 0
+pricingModel: FREE
+xmlId: de.juschmitt.compass</description>
+      <pubDate>Tue, 30 Jun 2026 13:11:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32579-bearing</guid>
+      <dc:date>2026-06-30T13:11:58Z</dc:date>
+    </item>
+    <item>
+      <title>CSS Glyph Preview - Wed Jul 01 14:04:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32458-css-glyph-preview</link>
+      <description>Preview icon-font glyphs right in the editor — in CSS/SCSS and HTML. Works with any icon font that ships a CSS map with codepoints: FontAwesome, Material Design Icons...
+
+vendor: saschaweiss
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.saschaweiss.cssglyphpreview</description>
+      <pubDate>Wed, 01 Jul 2026 14:04:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32458-css-glyph-preview</guid>
+      <dc:date>2026-07-01T14:04:57Z</dc:date>
+    </item>
+    <item>
+      <title>Compose Code Locator - Wed Jul 01 13:49:43 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32544-compose-code-locator</link>
       <description>Compose Code Locator provides Android Studio screenshot-to-source navigation for Jetpack Compose debug builds.
 
@@ -14,9 +105,9 @@ vendor: nianzixin
 downloads: 1
 pricingModel: FREE
 xmlId: io.github.nianzixin.compose-code-locator</description>
-      <pubDate>Wed, 01 Jul 2026 09:24:23 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 13:49:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32544-compose-code-locator</guid>
-      <dc:date>2026-07-01T09:24:23Z</dc:date>
+      <dc:date>2026-07-01T13:49:43Z</dc:date>
     </item>
     <item>
       <title>MilkJ - Mon Jun 29 21:13:16 UTC 2026</title>
@@ -58,7 +149,7 @@ xmlId: io.github.vihanmy.ideaplugin.VGitTool</description>
       <dc:date>2026-07-01T07:42:53Z</dc:date>
     </item>
     <item>
-      <title>Claude Relay - Wed Jul 01 08:06:17 UTC 2026</title>
+      <title>Claude Relay - Wed Jul 01 14:47:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32588-claude-relay</link>
       <description>Claude Relay — Claude Code, native in your JetBrains IDE A native chat panel that drives the official Claude Code CLI from inside IntelliJ IDEA, PyCharm, WebStorm...
 
@@ -66,9 +157,9 @@ vendor: Chelayel
 downloads: 0
 pricingModel: FREE
 xmlId: com.chelayel.relay.claude</description>
-      <pubDate>Wed, 01 Jul 2026 08:06:17 GMT</pubDate>
+      <pubDate>Wed, 01 Jul 2026 14:47:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32588-claude-relay</guid>
-      <dc:date>2026-07-01T08:06:17Z</dc:date>
+      <dc:date>2026-07-01T14:47:13Z</dc:date>
     </item>
     <item>
       <title>CTJ Code Mark Statistics - Wed Jul 01 07:11:00 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: io.jsonlviewer</description>
       <pubDate>Tue, 30 Jun 2026 12:42:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32574-jsonl-viewer</guid>
       <dc:date>2026-06-30T12:42:51Z</dc:date>
-    </item>
-    <item>
-      <title>go-doc - Mon Jun 29 19:56:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32555-go-doc</link>
-      <description>go-doc adds typed Go template support to GoLand for .gohtml, .tmpl, and .html files. It runs the shared go-doc language server and provides: contract-aware completions...
-
-vendor: Sebastiano Bellinzis
-downloads: 2
-pricingModel: FREE
-xmlId: com.donseba.godoc</description>
-      <pubDate>Mon, 29 Jun 2026 19:56:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32555-go-doc</guid>
-      <dc:date>2026-06-29T19:56:42Z</dc:date>
-    </item>
-    <item>
-      <title>Architecture Analysis - Mon Jun 29 00:32:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32537-architecture-analysis</link>
-      <description>Architecture Analysis Architecture Analysis is an advanced architecture governance and software intelligence platform for IntelliJ IDEA. It continuously analyzes your...
-
-vendor: SMS Murilo - Softwares Inteligentes
-downloads: 3
-pricingModel: FREE
-xmlId: br.com.smsmurilo.architecture.analysis</description>
-      <pubDate>Mon, 29 Jun 2026 00:32:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32537-architecture-analysis</guid>
-      <dc:date>2026-06-29T00:32:02Z</dc:date>
-    </item>
-    <item>
-      <title>Alfred - Mon Jun 29 15:15:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32531-alfred</link>
-      <description>Alfred is a CLion dev environment butler for multi-chip and embedded workflows. It snapshots project CLion configuration and IDE settings into named profiles, so teams...
-
-vendor: linkyourbin
-downloads: 2
-pricingModel: FREE
-xmlId: com.linkyourbin.alfred</description>
-      <pubDate>Mon, 29 Jun 2026 15:15:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32531-alfred</guid>
-      <dc:date>2026-06-29T15:15:23Z</dc:date>
-    </item>
-    <item>
-      <title>Android XML Jump - Wed Jul 01 06:20:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32570-android-xml-jump</link>
-      <description>Jump between Android layout XML files and the Java or Kotlin classes that reference them.
-
-vendor: android-xml-jump
-downloads: 2
-pricingModel: FREE
-xmlId: com.itgoyo.android-xml-jump</description>
-      <pubDate>Wed, 01 Jul 2026 06:20:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32570-android-xml-jump</guid>
-      <dc:date>2026-07-01T06:20:12Z</dc:date>
-    </item>
-    <item>
-      <title>Propsy - Mon Jun 29 20:19:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32562-propsy</link>
-      <description>Shows configured .properties files as an editable Key/Value table in a tool window. Paths are configured per-project in Settings | Tools | Propsy. Edits preserve...
-
-vendor: Arman Ayvazyan
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.armanayvazyan.propsy</description>
-      <pubDate>Mon, 29 Jun 2026 20:19:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32562-propsy</guid>
-      <dc:date>2026-06-29T20:19:47Z</dc:date>
-    </item>
-    <item>
-      <title>MC Lang Translator - Mon Jun 29 21:30:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32560-mc-lang-translator</link>
-      <description>MC Lang Translator MC Lang Translator is an IntelliJ IDEA plugin for translating Minecraft mod language files. It is designed for mod projects that keep localization...
-
-vendor: Andre Carbajal
-downloads: 4
-pricingModel: FREE
-xmlId: net.andrecarbajal.mclangtranslator</description>
-      <pubDate>Mon, 29 Jun 2026 21:30:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32560-mc-lang-translator</guid>
-      <dc:date>2026-06-29T21:30:40Z</dc:date>
-    </item>
-    <item>
-      <title>FishCN Reader - Mon Jun 29 14:41:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32554-fishcn-reader</link>
-      <description>FishCN Reader is an offline TXT, Markdown, and EPUB reader for Android Studio. It provides automatic chapter detection, a global bookshelf, reading progress...
-
-vendor: FishCN
-downloads: 1
-pricingModel: FREE
-xmlId: cn.fishcn.reader.androidstudio</description>
-      <pubDate>Mon, 29 Jun 2026 14:41:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32554-fishcn-reader</guid>
-      <dc:date>2026-06-29T14:41:02Z</dc:date>
     </item>
   </channel>
 </rss>
