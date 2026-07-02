@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.4 (261.26222.65) ~ 2026-07-02|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jul 02 17:35:18 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases)|Fri Jun 26 20:31:11 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.8377.35) ~ 2026-06-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jun 25 20:37:45 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.4.0|[nodejs.org](https://nodejs.org)|Thu Jun 25 00:28:16 UTC 2026|
@@ -10,7 +11,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 00:32:05 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 10 17:00:12 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.6|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Jun 10 17:00:11 UTC 2026|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.3 (261.25134.95) ~ 2026-06-04|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jun 04 16:59:26 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.4|[golang.org](https://golang.org/dl/)|Tue Jun 02 20:59:01 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.18|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|

@@ -21,7 +21,7 @@
 |![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases)|Fri Jun 26 20:31:11 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.8377.35) ~ 2026-06-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Jun 25 20:37:45 UTC 2026|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.3 (261.25134.95) ~ 2026-06-04|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jun 04 16:59:26 UTC 2026|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.4 (261.26222.65) ~ 2026-07-02|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jul 02 17:35:18 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.0 to 19.8.2 ~ 2026-06-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jun 18 13:01:19 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 341 - Endives ou Chicorée ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 22 09:55:54 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-5|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Nov 13 16:03:06 UTC 2025|
