@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Mindvista - Wed Jul 01 19:04:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32397-mindvista</link>
+      <description>Mind mapping plugin integrated with AI agent. By default, the plugin supports JetBrains Junie. You can specify another tool as follows: Add a tool's command line via...
+
+vendor: dyadix.art
+downloads: 20
+pricingModel: FREE
+xmlId: art.dyadix.mindvista</description>
+      <pubDate>Wed, 01 Jul 2026 19:04:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32397-mindvista</guid>
+      <dc:date>2026-07-01T19:04:06Z</dc:date>
+    </item>
+    <item>
+      <title>ADB Pro - Wed Jun 24 16:57:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32100-adb-pro</link>
+      <description>ADB Pro - Advanced Android Development Tools A comprehensive plugin for Android Studio and IntelliJ IDEA that provides professional-grade tools for Android app bundle...
+
+vendor: Codetroupe
+downloads: 7
+pricingModel: PAID
+xmlId: com.adbpro.plugin</description>
+      <pubDate>Wed, 24 Jun 2026 16:57:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32100-adb-pro</guid>
+      <dc:date>2026-06-24T16:57:16Z</dc:date>
+    </item>
+    <item>
       <title>YMM Structured AI Assistant - Sat Jun 27 17:33:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32519-ymm-structured-ai-assistant</link>
       <description>An AI assistant for JetBrains IDEs that brings conversations into your workflow, with your project context pulled in automatically. Works with OpenAI-compatible APIs...
@@ -238,32 +264,6 @@ xmlId: com.jd.jimdb</description>
       <pubDate>Wed, 01 Jul 2026 08:21:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32583-jimdb</guid>
       <dc:date>2026-07-01T08:21:35Z</dc:date>
-    </item>
-    <item>
-      <title>CLI Shortcut - Wed Jul 01 12:27:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32525-cli-shortcut</link>
-      <description>English CLI Shortcut is a lightweight IntelliJ IDEA plugin for running frequently used command-line scripts directly from the IDE toolbar. It is designed for...
-
-vendor: CLI Shortcut
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.onblog.idea-cli-shortcut</description>
-      <pubDate>Wed, 01 Jul 2026 12:27:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32525-cli-shortcut</guid>
-      <dc:date>2026-07-01T12:27:57Z</dc:date>
-    </item>
-    <item>
-      <title>JSONL Viewer - Tue Jun 30 12:42:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32574-jsonl-viewer</link>
-      <description>A fast viewer for JSON Lines files (.jsonl / .ndjson), built for files that are far too large for the normal editor. Opening a .jsonl file adds a Records tab that...
-
-vendor: pr0skilled
-downloads: 3
-pricingModel: FREE
-xmlId: io.jsonlviewer</description>
-      <pubDate>Tue, 30 Jun 2026 12:42:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32574-jsonl-viewer</guid>
-      <dc:date>2026-06-30T12:42:51Z</dc:date>
     </item>
   </channel>
 </rss>
