@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Execution Flow Preview - Fri Jul 03 09:46:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32643-execution-flow-preview</link>
+      <description>Execution Flow Preview Instantly visualize the full method call flow in your Java / Spring project. How to use: Right-click any Java method → Show Execution Flowor...
+
+vendor: Wilson Stevan
+downloads: 0
+pricingModel: FREE
+xmlId: com.wilsonhub.executionflow</description>
+      <pubDate>Fri, 03 Jul 2026 09:46:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32643-execution-flow-preview</guid>
+      <dc:date>2026-07-03T09:46:57Z</dc:date>
+    </item>
+    <item>
+      <title>DelveSwap - Fri Jul 03 09:10:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32640-delveswap</link>
+      <description>Override the path to the Delve (dlv) debugger binary on a per-run-configuration basis for Go Build and Go Test configurations. Falls back to the global dlv.path...
+
+vendor: Hoss Mobility GmbH
+downloads: 0
+pricingModel: FREE
+xmlId: com.hoss.delveswap</description>
+      <pubDate>Fri, 03 Jul 2026 09:10:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32640-delveswap</guid>
+      <dc:date>2026-07-03T09:10:14Z</dc:date>
+    </item>
+    <item>
+      <title>Sidebar Terminal - Fri Jul 03 09:11:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32641-sidebar-terminal</link>
+      <description>Adds a standalone terminal tool window docked to the right sidebar (next to Database), which runs a configurable command on startup. Configure the command in Settings...
+
+vendor: ubwzwd
+downloads: 0
+pricingModel: FREE
+xmlId: com.ubwzwd.sidebar-terminal</description>
+      <pubDate>Fri, 03 Jul 2026 09:11:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32641-sidebar-terminal</guid>
+      <dc:date>2026-07-03T09:11:26Z</dc:date>
+    </item>
+    <item>
+      <title>Sigrid - Fri Jul 03 15:13:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32479-sigrid</link>
+      <description>Sigrid brings software quality analysis directly into your JetBrains IDE, allowing developers to review findings without switching to the Sigrid web application. The...
+
+vendor: Software Improvement Group
+downloads: 3
+pricingModel: FREE
+xmlId: com.softwareimprovementgroup.plugins.sigrid</description>
+      <pubDate>Fri, 03 Jul 2026 15:13:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32479-sigrid</guid>
+      <dc:date>2026-07-03T15:13:40Z</dc:date>
+    </item>
+    <item>
+      <title>TanStack Pro - Sun Jun 28 04:03:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32524-tanstack-pro</link>
+      <description>TanStack Pro is a professional IDE companion for TanStack Router, TanStack Start, and TanStack Query. It helps JetBrains IDE users understand TanStack app structure...
+
+vendor: Jetplugins
+downloads: 1
+pricingModel: PAID
+xmlId: dev.jetplugins.tanstack</description>
+      <pubDate>Sun, 28 Jun 2026 04:03:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32524-tanstack-pro</guid>
+      <dc:date>2026-06-28T04:03:01Z</dc:date>
+    </item>
+    <item>
       <title>OpenApi-Helper - Mon Jun 29 13:30:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32387-openapi-helper</link>
       <description>OpenAPI Helper is an IntelliJ IDEA plugin that enables seamless navigation from OpenAPI YAML contracts to their corresponding Java or Kotlin implementations.
@@ -97,7 +162,7 @@ xmlId: top.allhere.apinavigator</description>
       <dc:date>2026-07-02T12:39:02Z</dc:date>
     </item>
     <item>
-      <title>Qiansitu - Fri Jul 03 06:33:05 UTC 2026</title>
+      <title>Qiansitu - Fri Jul 03 08:49:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32629-qiansitu</link>
       <description>Qiansitu is an IntelliJ IDEA plugin for Java and Spring projects. Before you change a class, method, or interface, it builds a layered impact graph covering call...
 
@@ -105,9 +170,9 @@ vendor: 牵丝图
 downloads: 0
 pricingModel: FREE
 xmlId: com.qiansitu</description>
-      <pubDate>Fri, 03 Jul 2026 06:33:05 GMT</pubDate>
+      <pubDate>Fri, 03 Jul 2026 08:49:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32629-qiansitu</guid>
-      <dc:date>2026-07-03T06:33:05Z</dc:date>
+      <dc:date>2026-07-03T08:49:58Z</dc:date>
     </item>
     <item>
       <title>Revision Graph for Git (SVN style) - Fri Jul 03 12:32:12 UTC 2026</title>
@@ -199,71 +264,6 @@ xmlId: com.worktools.alogtools</description>
       <pubDate>Thu, 02 Jul 2026 10:46:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32604-alogtools</guid>
       <dc:date>2026-07-02T10:46:11Z</dc:date>
-    </item>
-    <item>
-      <title>Sidecar Files - Thu Jul 02 02:46:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32615-sidecar-files</link>
-      <description>Sidecar Files provides an independent external folder browser inside IntelliJ IDEA. It lets you preview and open local folders outside the current project without...
-
-vendor: Lyn4ever
-downloads: 5
-pricingModel: FREE
-xmlId: sidecar.jhacker.cn</description>
-      <pubDate>Thu, 02 Jul 2026 02:46:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32615-sidecar-files</guid>
-      <dc:date>2026-07-02T02:46:49Z</dc:date>
-    </item>
-    <item>
-      <title>ArchUnit Lens - Thu Jul 02 15:30:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32603-archunit-lens</link>
-      <description>ArchUnit Lens shows supported ArchUnit rule violations as IntelliJ IDEA inspections while coding.ArchUnit tests remain the source of truth; this plugin provides early...
-
-vendor: ArchUnitLens
-downloads: 10
-pricingModel: FREE
-xmlId: io.github.archunitlens</description>
-      <pubDate>Thu, 02 Jul 2026 15:30:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32603-archunit-lens</guid>
-      <dc:date>2026-07-02T15:30:47Z</dc:date>
-    </item>
-    <item>
-      <title>Treadmill Buddy - Thu Jul 02 12:38:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32601-treadmill-buddy</link>
-      <description>Treadmill Buddy is a digital stopwatch for developers who walk while they code. Track under-desk treadmill sessions from inside any JetBrains IDE with a large digital...
-
-vendor: nomikosi consulting
-downloads: 13
-pricingModel: FREE
-xmlId: com.codex.desktreadmill</description>
-      <pubDate>Thu, 02 Jul 2026 12:38:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32601-treadmill-buddy</guid>
-      <dc:date>2026-07-02T12:38:34Z</dc:date>
-    </item>
-    <item>
-      <title>VueSplit - Thu Jul 02 03:19:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32613-vuesplit</link>
-      <description>Enhance Vue.js development in IntelliJ IDEA with split-view auto-folding and cross-pane navigation. 在 IntelliJ IDEA 中增强 Vue.js 开发体验：分屏自动折叠 + 跨窗格导航。 Auto-fold: split...
-
-vendor: VueSplit
-downloads: 6
-pricingModel: FREE
-xmlId: com.vuesplit</description>
-      <pubDate>Thu, 02 Jul 2026 03:19:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32613-vuesplit</guid>
-      <dc:date>2026-07-02T03:19:02Z</dc:date>
-    </item>
-    <item>
-      <title>KCP Language Support - Wed Jul 01 17:39:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32138-kcp-language-support</link>
-      <description>KCP Language Support adds CLion editor support for KCP source files. It provides syntax highlighting, parser-backed structure, semantic diagnostics, and project-aware...
-
-vendor: kkkzbh
-downloads: 3
-pricingModel: FREE
-xmlId: org.cp.lang.cp</description>
-      <pubDate>Wed, 01 Jul 2026 17:39:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32138-kcp-language-support</guid>
-      <dc:date>2026-07-01T17:39:55Z</dc:date>
     </item>
   </channel>
 </rss>
