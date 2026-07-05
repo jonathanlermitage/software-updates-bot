@@ -11,7 +11,7 @@
       <description>Execution Flow Preview Instantly visualize the full method call flow in your Java / Spring project. How to use: Right-click any Java method → Show Execution Flowor...
 
 vendor: Wilson Stevan
-downloads: 5
+downloads: 24
 pricingModel: FREE
 xmlId: com.wilsonhub.executionflow</description>
       <pubDate>Sat, 04 Jul 2026 10:22:17 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.wilsonhub.executionflow</description>
       <description>Override the path to the Delve (dlv) debugger binary on a per-run-configuration basis for Go Build and Go Test configurations. Falls back to the global dlv.path...
 
 vendor: Hoss Mobility GmbH
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.hoss.delveswap</description>
       <pubDate>Fri, 03 Jul 2026 09:10:14 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.hoss.delveswap</description>
       <description>Adds a standalone terminal tool window docked to the right sidebar (next to Database), which runs a configurable command on startup. Configure the command in Settings...
 
 vendor: ubwzwd
-downloads: 3
+downloads: 28
 pricingModel: FREE
 xmlId: com.ubwzwd.sidebar-terminal</description>
       <pubDate>Sat, 04 Jul 2026 17:33:09 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.ubwzwd.sidebar-terminal</description>
       <description>Sigrid brings software quality analysis directly into your JetBrains IDE, allowing developers to review findings without switching to the Sigrid web application. The...
 
 vendor: Software Improvement Group
-downloads: 11
+downloads: 17
 pricingModel: FREE
 xmlId: com.softwareimprovementgroup.plugins.sigrid</description>
       <pubDate>Fri, 03 Jul 2026 15:13:40 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.softwareimprovementgroup.plugins.sigrid</description>
       <description>TanStack Pro is a professional IDE companion for TanStack Router, TanStack Start, and TanStack Query. It helps JetBrains IDE users understand TanStack app structure...
 
 vendor: Jetplugins
-downloads: 4
+downloads: 8
 pricingModel: PAID
 xmlId: dev.jetplugins.tanstack</description>
       <pubDate>Sun, 28 Jun 2026 04:03:01 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: dev.jetplugins.tanstack</description>
       <description>OpenAPI Helper is an IntelliJ IDEA plugin that enables seamless navigation from OpenAPI YAML contracts to their corresponding Java or Kotlin implementations.
 
 vendor: Malt Community
-downloads: 18
+downloads: 21
 pricingModel: FREE
 xmlId: com.malt.openapi-helper</description>
       <pubDate>Mon, 29 Jun 2026 13:30:47 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.malt.openapi-helper</description>
       <description>TCP/HTTP Monitor A lightweight TCP/HTTP monitoring tool integrated directly into your IDE. Capture, observe, and debug network traffic without leaving your development...
 
 vendor: ChiJinhuang
-downloads: 9
+downloads: 12
 pricingModel: FREE
 xmlId: org.sea.proxy.proxy-plugin</description>
       <pubDate>Tue, 30 Jun 2026 23:27:56 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: org.sea.proxy.proxy-plugin</description>
       <description>Syncfusion Essential UI Kit for .NET MAUI plugin for JetBrains Rider provides ready-to-use XAML templates and scaffolding to accelerate building beautiful...
 
 vendor: Syncfusion
-downloads: 7
+downloads: 14
 pricingModel: FREE
 xmlId: com.syncfusion.mauikit</description>
       <pubDate>Fri, 03 Jul 2026 03:18:33 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.syncfusion.mauikit</description>
       <description>Generates a sequence diagram from a Java method directly inside IntelliJ IDEA. Right-click any method, choose Generate Sequence Diagram, and the plugin walks the call...
 
 vendor: Tran Nghia
-downloads: 4
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.trannghia.seqdiag</description>
       <pubDate>Thu, 02 Jul 2026 17:06:45 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.github.trannghia.seqdiag</description>
       <description>Renders an mdBook inside a tool window. Point the plugin at a GitHub repository (public or private) or any URL that hosts an mdBook. It fetches the source and renders...
 
 vendor: Nico Bugash
-downloads: 6
+downloads: 11
 pricingModel: FREE
 xmlId: com.github.nbugash.mdbookviewerplugin</description>
       <pubDate>Wed, 01 Jul 2026 20:16:22 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.github.nbugash.mdbookviewerplugin</description>
       <description>Solidity support for JetBrains IDEs, focused on productive smart contract development and audit review. The plugin provides Solidity and Yul syntax support, parsing...
 
 vendor: Jetplugins
-downloads: 5
+downloads: 9
 pricingModel: PAID
 xmlId: dev.jetplugins.solidity</description>
       <pubDate>Thu, 02 Jul 2026 13:55:51 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: dev.jetplugins.solidity</description>
       <description>A powerful IntelliJ IDEA plugin for Spring Boot projects that allows you to quickly navigate to API endpoints by typing the interface path. Features: Quick navigation...
 
 vendor: api-navigator
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: top.allhere.apinavigator</description>
       <pubDate>Sat, 04 Jul 2026 02:34:44 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: top.allhere.apinavigator</description>
       <description>Qiansitu is an IntelliJ IDEA plugin for Java and Spring projects. Before you change a class, method, or interface, it builds a layered impact graph covering call...
 
 vendor: 牵丝图
-downloads: 9
+downloads: 16
 pricingModel: FREE
 xmlId: com.qiansitu</description>
       <pubDate>Fri, 03 Jul 2026 08:49:58 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.qiansitu</description>
       <description>A TortoiseSVN-style revision graph for Git inside your JetBrains IDE (IntelliJ IDEA, WebStorm, PyCharm, GoLand, …). Commits, local &amp;amp; remote branches, and tags are...
 
 vendor: HunKonTech
-downloads: 63
+downloads: 94
 pricingModel: FREE
 xmlId: com.hunkontech.revgraph</description>
       <pubDate>Fri, 03 Jul 2026 18:52:00 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.hunkontech.revgraph</description>
       <description>iHomeCoder - Intelligent Coding Assistant iHomeCoder is an intelligent development assistant for JetBrains IDEs. It provides AI-powered code completion, code...
 
 vendor: iHomeCoder-macOS-ARM
-downloads: 11
+downloads: 12
 pricingModel: FREE
 xmlId: com.ihomecoder.macos.arm64</description>
       <pubDate>Thu, 02 Jul 2026 09:29:00 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.ihomecoder.macos.arm64</description>
       <description>Change the icon of a Kotlin file when it has a toplevel function with the same name as the file.
 
 vendor: LSafer
-downloads: 22
+downloads: 27
 pricingModel: FREE
 xmlId: net.lsafer.ij.fun_file_icon</description>
       <pubDate>Fri, 03 Jul 2026 10:18:57 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: net.lsafer.ij.fun_file_icon</description>
       <description>Preview Android XML drawable resources from the Project View or editor context menu.
 
 vendor: gali
-downloads: 13
+downloads: 14
 pricingModel: FREE
 xmlId: com.gali.AndroidDrawableHelper</description>
       <pubDate>Thu, 02 Jul 2026 06:27:58 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.gali.AndroidDrawableHelper</description>
       <description>marimo is a reactive Python notebook. This plugin brings the full marimo editor inside PyCharm and other JetBrains IDEs, so you can open, edit, and run notebooks...
 
 vendor: marimo
-downloads: 11
+downloads: 12
 pricingModel: FREE
 xmlId: io.marimo.notebook</description>
       <pubDate>Mon, 22 Jun 2026 23:15:26 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: io.marimo.notebook</description>
       <description>tiny mybatis helper is a lightweight and high-performance IntelliJ IDEA plugin for MyBatis development. Key Features: Java to XML Navigation: Quickly jump from a...
 
 vendor: pop1213
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.pop1213.mybatishelper</description>
       <pubDate>Thu, 02 Jul 2026 03:11:05 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.github.pop1213.mybatishelper</description>
       <description>ALogTools is a log monitoring and debugging plugin for IntelliJ IDEA that connects to the Alog log server. It provides real-time alert push, multi-source log browsing...
 
 vendor: aLogTools
-downloads: 15
+downloads: 16
 pricingModel: FREE
 xmlId: com.worktools.alogtools</description>
       <pubDate>Thu, 02 Jul 2026 10:46:11 GMT</pubDate>
