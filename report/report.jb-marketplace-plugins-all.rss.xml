@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Simple Code Assist - Sun Jul 05 12:04:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32677-simple-code-assist</link>
-      <description>Simple Code Assistant is a programming assistant plugin built on the DeepSeek large language model, designed to enhance developers' coding efficiency and code quality...
+      <title>Better Image Viewer - Sun Jul 05 00:57:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32672-better-image-viewer</link>
+      <description>Better Image Viewer A clean, practical image viewer for IntelliJ-based IDEs, built for inspecting images without leaving the editor. Zoom, pan, fit to window, and jump...
 
-vendor: pipelogder
-downloads: 0
-pricingModel: FREE
-xmlId: com.code.simple.tool</description>
-      <pubDate>Sun, 05 Jul 2026 12:04:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32677-simple-code-assist</guid>
-      <dc:date>2026-07-05T12:04:07Z</dc:date>
-    </item>
-    <item>
-      <title>CLI Agent Dock - Mon Jul 06 03:38:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32765-cli-agent-dock</link>
-      <description>CLI Agent Dock brings your favorite coding agent right into your JetBrains IDE. It adds a tool window to the right side bar (next to Database, Gradle, and friends...
-
-vendor: Rwcoder
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.vladimirvaca.cliagentdock</description>
-      <pubDate>Mon, 06 Jul 2026 03:38:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32765-cli-agent-dock</guid>
-      <dc:date>2026-07-06T03:38:07Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle Project Paths - Sun Jul 05 21:27:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32671-gradle-project-paths</link>
-      <description>An IntelliJ plugin that helps autocomplete Gradle project paths. For those of us who'd rather avoid enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS"). Autocompletion...
-
-vendor: Simon Marquis
-downloads: 2
-pricingModel: FREE
-xmlId: gradle-project-paths</description>
-      <pubDate>Sun, 05 Jul 2026 21:27:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32671-gradle-project-paths</guid>
-      <dc:date>2026-07-05T21:27:25Z</dc:date>
-    </item>
-    <item>
-      <title>SomaFM Radio - Sat Jul 04 15:12:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32663-somafm-radio</link>
-      <description>Listen to SomaFM internet radio without leaving your IDE. An unofficial player for SomaFM's commercial-free, listener-supported stations. Station list with search...
-
-vendor: Ilya Glebov
+vendor: GoroJack
 downloads: 1
 pricingModel: FREE
-xmlId: dev.ilyaglebov.somafm</description>
-      <pubDate>Sat, 04 Jul 2026 15:12:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32663-somafm-radio</guid>
-      <dc:date>2026-07-04T15:12:15Z</dc:date>
+xmlId: top.gorojack.biv</description>
+      <pubDate>Sun, 05 Jul 2026 00:57:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32672-better-image-viewer</guid>
+      <dc:date>2026-07-05T00:57:16Z</dc:date>
     </item>
     <item>
-      <title>Execution Flow Preview - Sat Jul 04 10:22:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32643-execution-flow-preview</link>
-      <description>Execution Flow Preview Instantly visualize the full method call flow in your Java / Spring project. How to use: Right-click any Java method → Show Execution Flowor...
+      <title>Color Picker - Fri Jul 03 15:13:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32652-color-picker</link>
+      <description>A complete color companion for your JetBrains IDE. Pick any color on your screen with the eyedropper, then read everything about it in one tool window: conversions...
 
-vendor: Wilson Stevan
-downloads: 32
+vendor: Codigrate
+downloads: 1
 pricingModel: FREE
-xmlId: com.wilsonhub.executionflow</description>
-      <pubDate>Sat, 04 Jul 2026 10:22:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32643-execution-flow-preview</guid>
-      <dc:date>2026-07-04T10:22:17Z</dc:date>
+xmlId: com.codigrate.color-picker.plugin</description>
+      <pubDate>Fri, 03 Jul 2026 15:13:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32652-color-picker</guid>
+      <dc:date>2026-07-03T15:13:01Z</dc:date>
     </item>
     <item>
-      <title>DelveSwap - Fri Jul 03 09:10:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32640-delveswap</link>
-      <description>Override the path to the Delve (dlv) debugger binary on a per-run-configuration basis for Go Build and Go Test configurations. Falls back to the global dlv.path...
+      <title>JPA Fetch Lens - Mon Jul 06 07:35:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32767-jpa-fetch-lens</link>
+      <description>Hover over a Spring Data JPA repository method to see which associated entities that query actually loads — shown as a color-coded tree right below the method's Java...
 
-vendor: Hoss Mobility GmbH
-downloads: 5
+vendor: eehgnod
+downloads: 0
 pricingModel: FREE
-xmlId: com.hoss.delveswap</description>
-      <pubDate>Fri, 03 Jul 2026 09:10:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32640-delveswap</guid>
-      <dc:date>2026-07-03T09:10:14Z</dc:date>
+xmlId: io.github.jeongdonghee.jpafetchlens</description>
+      <pubDate>Mon, 06 Jul 2026 07:35:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32767-jpa-fetch-lens</guid>
+      <dc:date>2026-07-06T07:35:34Z</dc:date>
     </item>
     <item>
-      <title>Sidebar Terminal - Sat Jul 04 17:33:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32641-sidebar-terminal</link>
-      <description>Adds a standalone terminal tool window docked to the right sidebar (next to Database), which runs a configurable command on startup. Configure the command in Settings...
+      <title>ActionDB Driver Integration - Sun Jul 05 13:42:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32679-actiondb-driver-integration</link>
+      <description>Provides ActionDB JDBC driver connection metadata for JetBrains IDEs. 厂商：爱可生...
 
-vendor: ubwzwd
-downloads: 46
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: com.ubwzwd.sidebar-terminal</description>
-      <pubDate>Sat, 04 Jul 2026 17:33:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32641-sidebar-terminal</guid>
-      <dc:date>2026-07-04T17:33:09Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.actiondb-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:42:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32679-actiondb-driver-integration</guid>
+      <dc:date>2026-07-05T13:42:30Z</dc:date>
     </item>
     <item>
-      <title>Sigrid - Fri Jul 03 15:13:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32479-sigrid</link>
-      <description>Sigrid brings software quality analysis directly into your JetBrains IDE, allowing developers to review findings without switching to the Sigrid web application. The...
+      <title>AnalyticDB Driver Integration - Sun Jul 05 13:43:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32680-analyticdb-driver-integration</link>
+      <description>Provides AnalyticDB JDBC driver connection metadata for JetBrains IDEs. 厂商：阿里云 云原生弹性、 高性能、 简单易用、 高性价比、 高可用性...
 
-vendor: Software Improvement Group
-downloads: 17
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: com.softwareimprovementgroup.plugins.sigrid</description>
-      <pubDate>Fri, 03 Jul 2026 15:13:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32479-sigrid</guid>
-      <dc:date>2026-07-03T15:13:40Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.analyticdb-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:43:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32680-analyticdb-driver-integration</guid>
+      <dc:date>2026-07-05T13:43:00Z</dc:date>
     </item>
     <item>
-      <title>TanStack Pro - Sun Jun 28 04:03:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32524-tanstack-pro</link>
-      <description>TanStack Pro is a professional IDE companion for TanStack Router, TanStack Start, and TanStack Query. It helps JetBrains IDE users understand TanStack app structure...
+      <title>AntDB Driver Integration - Sun Jul 05 13:44:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32681-antdb-driver-integration</link>
+      <description>Provides AntDB JDBC driver connection metadata for JetBrains IDEs. 厂商：亚信安慧 广泛的语法兼容、 一键进行迁移、 融入国产生态、 在线弹性扩容、 内核级读写分离...
 
-vendor: Jetplugins
-downloads: 10
-pricingModel: PAID
-xmlId: dev.jetplugins.tanstack</description>
-      <pubDate>Sun, 28 Jun 2026 04:03:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32524-tanstack-pro</guid>
-      <dc:date>2026-06-28T04:03:01Z</dc:date>
-    </item>
-    <item>
-      <title>OpenApi-Helper - Mon Jun 29 13:30:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32387-openapi-helper</link>
-      <description>OpenAPI Helper is an IntelliJ IDEA plugin that enables seamless navigation from OpenAPI YAML contracts to their corresponding Java or Kotlin implementations.
-
-vendor: Malt Community
-downloads: 22
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: com.malt.openapi-helper</description>
-      <pubDate>Mon, 29 Jun 2026 13:30:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32387-openapi-helper</guid>
-      <dc:date>2026-06-29T13:30:47Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.antdb-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:44:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32681-antdb-driver-integration</guid>
+      <dc:date>2026-07-05T13:44:22Z</dc:date>
     </item>
     <item>
-      <title>TCP/HTTP Monitor - Sun Jul 05 11:56:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32505-tcp-http-monitor</link>
-      <description>TCP/HTTP Monitor A lightweight TCP/HTTP monitoring tool integrated directly into your IDE. Capture, observe, and debug network traffic without leaving your development...
+      <title>Apache Cloudberry Driver Integration - Sun Jul 05 13:46:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32682-apache-cloudberry-driver-integration</link>
+      <description>Provides Apache Cloudberry JDBC driver connection metadata for JetBrains IDEs. Apache Cloudberry (Incubating), created by the original developers of Greenplum...
 
-vendor: ChiJinhuang
-downloads: 35
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: org.sea.proxy.proxy-plugin</description>
-      <pubDate>Sun, 05 Jul 2026 11:56:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32505-tcp-http-monitor</guid>
-      <dc:date>2026-07-05T11:56:46Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.apachecloudberry-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:46:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32682-apache-cloudberry-driver-integration</guid>
+      <dc:date>2026-07-05T13:46:19Z</dc:date>
     </item>
     <item>
-      <title>Essential UI Kit for .NET MAUI - Syncfusion - Fri Jul 03 03:18:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32473-essential-ui-kit-for-net-maui--syncfusion</link>
-      <description>Syncfusion Essential UI Kit for .NET MAUI plugin for JetBrains Rider provides ready-to-use XAML templates and scaffolding to accelerate building beautiful...
+      <title>Apache IoTDB Driver Integration - Sun Jul 05 13:46:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32684-apache-iotdb-driver-integration</link>
+      <description>Provides Apache IoTDB JDBC driver connection metadata for JetBrains IDEs. 厂商：清华大学 高吞吐量读写、 高效的目录结构、 丰富的查询语义、 硬件成本低、 部署灵活 简介：IoTDB...
 
-vendor: Syncfusion
-downloads: 17
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: com.syncfusion.mauikit</description>
-      <pubDate>Fri, 03 Jul 2026 03:18:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32473-essential-ui-kit-for-net-maui--syncfusion</guid>
-      <dc:date>2026-07-03T03:18:33Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.apacheiotdb-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:46:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32684-apache-iotdb-driver-integration</guid>
+      <dc:date>2026-07-05T13:46:52Z</dc:date>
     </item>
     <item>
-      <title>Sequence Diagram Generator - Thu Jul 02 17:06:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32632-sequence-diagram-generator</link>
-      <description>Generates a sequence diagram from a Java method directly inside IntelliJ IDEA. Right-click any method, choose Generate Sequence Diagram, and the plugin walks the call...
+      <title>Apache Kvrocks Driver Integration - Sun Jul 05 13:47:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32685-apache-kvrocks-driver-integration</link>
+      <description>Provides Apache Kvrocks JDBC driver connection metadata for JetBrains IDEs.. 厂商：美图网 简介：Kvrocks 是一个开源的键值数据库，基于rocksdb，兼容Redis 协议。与Redis相比，旨在降低内存成本并提高能力。 Kvrocks 是基于...
 
-vendor: Tran Nghia
-downloads: 10
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.trannghia.seqdiag</description>
-      <pubDate>Thu, 02 Jul 2026 17:06:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32632-sequence-diagram-generator</guid>
-      <dc:date>2026-07-02T17:06:45Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.apachekvrocks-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:47:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32685-apache-kvrocks-driver-integration</guid>
+      <dc:date>2026-07-05T13:47:11Z</dc:date>
     </item>
     <item>
-      <title>mdBook Viewer - Wed Jul 01 20:16:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32609-mdbook-viewer</link>
-      <description>Renders an mdBook inside a tool window. Point the plugin at a GitHub repository (public or private) or any URL that hosts an mdBook. It fetches the source and renders...
+      <title>Apache Kylin Driver Integration - Sun Jul 05 13:47:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32686-apache-kylin-driver-integration</link>
+      <description>Provides Apache Kylin JDBC driver connection metadata for JetBrains IDEs. 厂商：跬智信息（Kyligence） 统一语义层、 AI 增强引擎、 云原生架构、 统一数据服务 简介：Kyligence 由 Apache Kylin 创始团队于 2016...
 
-vendor: Nico Bugash
-downloads: 11
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.nbugash.mdbookviewerplugin</description>
-      <pubDate>Wed, 01 Jul 2026 20:16:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32609-mdbook-viewer</guid>
-      <dc:date>2026-07-01T20:16:22Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.apachekylin-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:47:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32686-apache-kylin-driver-integration</guid>
+      <dc:date>2026-07-05T13:47:29Z</dc:date>
     </item>
     <item>
-      <title>Solidity Pro - Thu Jul 02 13:55:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32553-solidity-pro</link>
-      <description>Solidity support for JetBrains IDEs, focused on productive smart contract development and audit review. The plugin provides Solidity and Yul syntax support, parsing...
+      <title>ArgoDB Driver Integration - Sun Jul 05 13:47:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32687-argodb-driver-integration</link>
+      <description>Provides ArgoDB JDBC driver connection metadata for JetBrains IDEs. 厂商：星环科技 完整的SQL支持、 高效计算引擎、 新硬件支持、 多模型支持、 联邦计算 简介：Transwarp ArgoDB是星环全新推出的一款分布式闪存数据库产品。它可以替代 Hadoop...
 
-vendor: Jetplugins
-downloads: 11
-pricingModel: PAID
-xmlId: dev.jetplugins.solidity</description>
-      <pubDate>Thu, 02 Jul 2026 13:55:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32553-solidity-pro</guid>
-      <dc:date>2026-07-02T13:55:51Z</dc:date>
-    </item>
-    <item>
-      <title>ApiNavigator - Sat Jul 04 02:34:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32630-apinavigator</link>
-      <description>A powerful IntelliJ IDEA plugin for Spring Boot projects that allows you to quickly navigate to API endpoints by typing the interface path. Features: Quick navigation...
-
-vendor: api-navigator
-downloads: 7
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: top.allhere.apinavigator</description>
-      <pubDate>Sat, 04 Jul 2026 02:34:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32630-apinavigator</guid>
-      <dc:date>2026-07-04T02:34:44Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.argodb-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:47:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32687-argodb-driver-integration</guid>
+      <dc:date>2026-07-05T13:47:41Z</dc:date>
     </item>
     <item>
-      <title>Qiansitu - Fri Jul 03 08:49:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32629-qiansitu</link>
-      <description>Qiansitu is an IntelliJ IDEA plugin for Java and Spring projects. Before you change a class, method, or interface, it builds a layered impact graph covering call...
+      <title>ByConity Driver Integration - Sun Jul 05 13:47:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32688-byconity-driver-integration</link>
+      <description>Provides ByConity JDBC driver connection metadata for JetBrains IDEs. 厂商：字节跳动 简介：ByConity...
 
-vendor: 牵丝图
-downloads: 18
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: com.qiansitu</description>
-      <pubDate>Fri, 03 Jul 2026 08:49:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32629-qiansitu</guid>
-      <dc:date>2026-07-03T08:49:58Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.byconity-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:47:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32688-byconity-driver-integration</guid>
+      <dc:date>2026-07-05T13:47:57Z</dc:date>
     </item>
     <item>
-      <title>Revision Graph for Git (SVN style) - Fri Jul 03 18:52:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32627-revision-graph-for-git-svn-style-</link>
-      <description>A TortoiseSVN-style revision graph for Git inside your JetBrains IDE (IntelliJ IDEA, WebStorm, PyCharm, GoLand, …). Commits, local &amp;amp; remote branches, and tags are...
+      <title>ByteHouse Driver Integration - Sun Jul 05 13:48:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32689-bytehouse-driver-integration</link>
+      <description>Provides ByteHouse JDBC driver connection metadata for JetBrains IDEs. 厂商：火山引擎 简介：ByteHouse 是火山引擎基于ClickHouse研发的一款分析型数据库产品，能够对 PB...
 
-vendor: HunKonTech
-downloads: 97
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: com.hunkontech.revgraph</description>
-      <pubDate>Fri, 03 Jul 2026 18:52:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32627-revision-graph-for-git-svn-style-</guid>
-      <dc:date>2026-07-03T18:52:00Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.bytehouse-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:48:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32689-bytehouse-driver-integration</guid>
+      <dc:date>2026-07-05T13:48:10Z</dc:date>
     </item>
     <item>
-      <title>iHomeCoder-macOS-ARM - Thu Jul 02 09:29:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32576-ihomecoder-macos-arm</link>
-      <description>iHomeCoder - Intelligent Coding Assistant iHomeCoder is an intelligent development assistant for JetBrains IDEs. It provides AI-powered code completion, code...
+      <title>ChronusDB Driver Integration - Sun Jul 05 13:48:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32691-chronusdb-driver-integration</link>
+      <description>Provides ChronusDB JDBC driver connection metadata for JetBrains IDEs. 厂商：青云科技 简介：ChronusDB 是青云QingCloud...
 
-vendor: iHomeCoder-macOS-ARM
-downloads: 13
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: com.ihomecoder.macos.arm64</description>
-      <pubDate>Thu, 02 Jul 2026 09:29:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32576-ihomecoder-macos-arm</guid>
-      <dc:date>2026-07-02T09:29:00Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.chronusdb-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:48:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32691-chronusdb-driver-integration</guid>
+      <dc:date>2026-07-05T13:48:44Z</dc:date>
     </item>
     <item>
-      <title>Kotlin Function File Icon - Fri Jul 03 10:18:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32622-kotlin-function-file-icon</link>
-      <description>Change the icon of a Kotlin file when it has a toplevel function with the same name as the file.
+      <title>CISDigitalTimeS Driver Integration - Sun Jul 05 13:48:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32692-cisdigitaltimes-driver-integration</link>
+      <description>Provides CISDigitalTimeS JDBC driver connection metadata for JetBrains IDEs. 厂商：中冶赛迪 高压缩率、 云原生分布式、 低延时...
 
-vendor: LSafer
-downloads: 28
+vendor: Chinese Database Drivers
+downloads: 0
 pricingModel: FREE
-xmlId: net.lsafer.ij.fun_file_icon</description>
-      <pubDate>Fri, 03 Jul 2026 10:18:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32622-kotlin-function-file-icon</guid>
-      <dc:date>2026-07-03T10:18:57Z</dc:date>
+xmlId: plus.wcj.jetbrains.plugins.cisdigitaltimes-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:48:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32692-cisdigitaltimes-driver-integration</guid>
+      <dc:date>2026-07-05T13:48:53Z</dc:date>
+    </item>
+    <item>
+      <title>CloudWave Driver Integration - Sun Jul 05 13:49:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32693-cloudwave-driver-integration</link>
+      <description>Provides CloudWave JDBC driver connection metadata for JetBrains IDEs. 厂商：翰云时代...
+
+vendor: Chinese Database Drivers
+downloads: 0
+pricingModel: FREE
+xmlId: plus.wcj.jetbrains.plugins.cloudwave-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:49:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32693-cloudwave-driver-integration</guid>
+      <dc:date>2026-07-05T13:49:49Z</dc:date>
+    </item>
+    <item>
+      <title>CnosDB Driver Integration - Sun Jul 05 13:50:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32694-cnosdb-driver-integration</link>
+      <description>Provides CnosDB JDBC driver connection metadata for JetBrains IDEs. 厂商：诺司时空...
+
+vendor: Chinese Database Drivers
+downloads: 0
+pricingModel: FREE
+xmlId: plus.wcj.jetbrains.plugins.cnosdb-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:50:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32694-cnosdb-driver-integration</guid>
+      <dc:date>2026-07-05T13:50:15Z</dc:date>
+    </item>
+    <item>
+      <title>Dameng Driver Integration - Sun Jul 05 13:50:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32695-dameng-driver-integration</link>
+      <description>Provides Dameng JDBC driver connection metadata for JetBrains IDEs. 厂商：达梦数据 100% 自主研发、 高性能、 最高安全等级、 灵活部署、 平滑迁移、 易用性、 HTAP 简介：新一代大型通用关系型数据库，全面支持 ANSI SQL...
+
+vendor: Chinese Database Drivers
+downloads: 0
+pricingModel: FREE
+xmlId: plus.wcj.jetbrains.plugins.dameng-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:50:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32695-dameng-driver-integration</guid>
+      <dc:date>2026-07-05T13:50:25Z</dc:date>
+    </item>
+    <item>
+      <title>Databend Driver Integration - Sun Jul 05 13:50:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32696-databend-driver-integration</link>
+      <description>Provides Databend JDBC driver connection metadata for JetBrains IDEs. 厂商：数变科技 简介：Databend 是一个开源的Elastic和Workload-Aware现代云数据仓库。Databend 使用最新的矢量化查询处理技术，让您可以在对象存储...
+
+vendor: Chinese Database Drivers
+downloads: 0
+pricingModel: FREE
+xmlId: plus.wcj.jetbrains.plugins.databend-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:50:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32696-databend-driver-integration</guid>
+      <dc:date>2026-07-05T13:50:37Z</dc:date>
+    </item>
+    <item>
+      <title>DolphinDB Driver Integration - Sun Jul 05 13:50:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32697-dolphindb-driver-integration</link>
+      <description>Provides DolphinDB JDBC driver connection metadata for JetBrains IDEs. 厂商：智臾科技 一站式大数据方案、 性能优异、 快速开发、 降低综合使用成本...
+
+vendor: Chinese Database Drivers
+downloads: 0
+pricingModel: FREE
+xmlId: plus.wcj.jetbrains.plugins.dolphindb-driver-integration</description>
+      <pubDate>Sun, 05 Jul 2026 13:50:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32697-dolphindb-driver-integration</guid>
+      <dc:date>2026-07-05T13:50:51Z</dc:date>
     </item>
   </channel>
 </rss>
