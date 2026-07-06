@@ -6,12 +6,64 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Simple Code Assist - Sun Jul 05 12:04:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32677-simple-code-assist</link>
+      <description>Simple Code Assistant is a programming assistant plugin built on the DeepSeek large language model, designed to enhance developers' coding efficiency and code quality...
+
+vendor: pipelogder
+downloads: 0
+pricingModel: FREE
+xmlId: com.code.simple.tool</description>
+      <pubDate>Sun, 05 Jul 2026 12:04:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32677-simple-code-assist</guid>
+      <dc:date>2026-07-05T12:04:07Z</dc:date>
+    </item>
+    <item>
+      <title>CLI Agent Dock - Mon Jul 06 03:38:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32765-cli-agent-dock</link>
+      <description>CLI Agent Dock brings your favorite coding agent right into your JetBrains IDE. It adds a tool window to the right side bar (next to Database, Gradle, and friends...
+
+vendor: Rwcoder
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.vladimirvaca.cliagentdock</description>
+      <pubDate>Mon, 06 Jul 2026 03:38:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32765-cli-agent-dock</guid>
+      <dc:date>2026-07-06T03:38:07Z</dc:date>
+    </item>
+    <item>
+      <title>Gradle Project Paths - Sun Jul 05 21:27:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32671-gradle-project-paths</link>
+      <description>An IntelliJ plugin that helps autocomplete Gradle project paths. For those of us who'd rather avoid enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS"). Autocompletion...
+
+vendor: Simon Marquis
+downloads: 2
+pricingModel: FREE
+xmlId: gradle-project-paths</description>
+      <pubDate>Sun, 05 Jul 2026 21:27:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32671-gradle-project-paths</guid>
+      <dc:date>2026-07-05T21:27:25Z</dc:date>
+    </item>
+    <item>
+      <title>SomaFM Radio - Sat Jul 04 15:12:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32663-somafm-radio</link>
+      <description>Listen to SomaFM internet radio without leaving your IDE. An unofficial player for SomaFM's commercial-free, listener-supported stations. Station list with search...
+
+vendor: Ilya Glebov
+downloads: 1
+pricingModel: FREE
+xmlId: dev.ilyaglebov.somafm</description>
+      <pubDate>Sat, 04 Jul 2026 15:12:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32663-somafm-radio</guid>
+      <dc:date>2026-07-04T15:12:15Z</dc:date>
+    </item>
+    <item>
       <title>Execution Flow Preview - Sat Jul 04 10:22:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32643-execution-flow-preview</link>
       <description>Execution Flow Preview Instantly visualize the full method call flow in your Java / Spring project. How to use: Right-click any Java method → Show Execution Flowor...
 
 vendor: Wilson Stevan
-downloads: 24
+downloads: 32
 pricingModel: FREE
 xmlId: com.wilsonhub.executionflow</description>
       <pubDate>Sat, 04 Jul 2026 10:22:17 GMT</pubDate>
@@ -37,7 +89,7 @@ xmlId: com.hoss.delveswap</description>
       <description>Adds a standalone terminal tool window docked to the right sidebar (next to Database), which runs a configurable command on startup. Configure the command in Settings...
 
 vendor: ubwzwd
-downloads: 28
+downloads: 46
 pricingModel: FREE
 xmlId: com.ubwzwd.sidebar-terminal</description>
       <pubDate>Sat, 04 Jul 2026 17:33:09 GMT</pubDate>
@@ -63,7 +115,7 @@ xmlId: com.softwareimprovementgroup.plugins.sigrid</description>
       <description>TanStack Pro is a professional IDE companion for TanStack Router, TanStack Start, and TanStack Query. It helps JetBrains IDE users understand TanStack app structure...
 
 vendor: Jetplugins
-downloads: 8
+downloads: 10
 pricingModel: PAID
 xmlId: dev.jetplugins.tanstack</description>
       <pubDate>Sun, 28 Jun 2026 04:03:01 GMT</pubDate>
@@ -76,7 +128,7 @@ xmlId: dev.jetplugins.tanstack</description>
       <description>OpenAPI Helper is an IntelliJ IDEA plugin that enables seamless navigation from OpenAPI YAML contracts to their corresponding Java or Kotlin implementations.
 
 vendor: Malt Community
-downloads: 21
+downloads: 22
 pricingModel: FREE
 xmlId: com.malt.openapi-helper</description>
       <pubDate>Mon, 29 Jun 2026 13:30:47 GMT</pubDate>
@@ -89,7 +141,7 @@ xmlId: com.malt.openapi-helper</description>
       <description>TCP/HTTP Monitor A lightweight TCP/HTTP monitoring tool integrated directly into your IDE. Capture, observe, and debug network traffic without leaving your development...
 
 vendor: ChiJinhuang
-downloads: 12
+downloads: 35
 pricingModel: FREE
 xmlId: org.sea.proxy.proxy-plugin</description>
       <pubDate>Sun, 05 Jul 2026 11:56:46 GMT</pubDate>
@@ -102,7 +154,7 @@ xmlId: org.sea.proxy.proxy-plugin</description>
       <description>Syncfusion Essential UI Kit for .NET MAUI plugin for JetBrains Rider provides ready-to-use XAML templates and scaffolding to accelerate building beautiful...
 
 vendor: Syncfusion
-downloads: 14
+downloads: 17
 pricingModel: FREE
 xmlId: com.syncfusion.mauikit</description>
       <pubDate>Fri, 03 Jul 2026 03:18:33 GMT</pubDate>
@@ -115,7 +167,7 @@ xmlId: com.syncfusion.mauikit</description>
       <description>Generates a sequence diagram from a Java method directly inside IntelliJ IDEA. Right-click any method, choose Generate Sequence Diagram, and the plugin walks the call...
 
 vendor: Tran Nghia
-downloads: 8
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.trannghia.seqdiag</description>
       <pubDate>Thu, 02 Jul 2026 17:06:45 GMT</pubDate>
@@ -141,7 +193,7 @@ xmlId: com.github.nbugash.mdbookviewerplugin</description>
       <description>Solidity support for JetBrains IDEs, focused on productive smart contract development and audit review. The plugin provides Solidity and Yul syntax support, parsing...
 
 vendor: Jetplugins
-downloads: 9
+downloads: 11
 pricingModel: PAID
 xmlId: dev.jetplugins.solidity</description>
       <pubDate>Thu, 02 Jul 2026 13:55:51 GMT</pubDate>
@@ -154,7 +206,7 @@ xmlId: dev.jetplugins.solidity</description>
       <description>A powerful IntelliJ IDEA plugin for Spring Boot projects that allows you to quickly navigate to API endpoints by typing the interface path. Features: Quick navigation...
 
 vendor: api-navigator
-downloads: 5
+downloads: 7
 pricingModel: FREE
 xmlId: top.allhere.apinavigator</description>
       <pubDate>Sat, 04 Jul 2026 02:34:44 GMT</pubDate>
@@ -167,7 +219,7 @@ xmlId: top.allhere.apinavigator</description>
       <description>Qiansitu is an IntelliJ IDEA plugin for Java and Spring projects. Before you change a class, method, or interface, it builds a layered impact graph covering call...
 
 vendor: 牵丝图
-downloads: 16
+downloads: 18
 pricingModel: FREE
 xmlId: com.qiansitu</description>
       <pubDate>Fri, 03 Jul 2026 08:49:58 GMT</pubDate>
@@ -180,7 +232,7 @@ xmlId: com.qiansitu</description>
       <description>A TortoiseSVN-style revision graph for Git inside your JetBrains IDE (IntelliJ IDEA, WebStorm, PyCharm, GoLand, …). Commits, local &amp;amp; remote branches, and tags are...
 
 vendor: HunKonTech
-downloads: 94
+downloads: 97
 pricingModel: FREE
 xmlId: com.hunkontech.revgraph</description>
       <pubDate>Fri, 03 Jul 2026 18:52:00 GMT</pubDate>
@@ -193,7 +245,7 @@ xmlId: com.hunkontech.revgraph</description>
       <description>iHomeCoder - Intelligent Coding Assistant iHomeCoder is an intelligent development assistant for JetBrains IDEs. It provides AI-powered code completion, code...
 
 vendor: iHomeCoder-macOS-ARM
-downloads: 12
+downloads: 13
 pricingModel: FREE
 xmlId: com.ihomecoder.macos.arm64</description>
       <pubDate>Thu, 02 Jul 2026 09:29:00 GMT</pubDate>
@@ -206,64 +258,12 @@ xmlId: com.ihomecoder.macos.arm64</description>
       <description>Change the icon of a Kotlin file when it has a toplevel function with the same name as the file.
 
 vendor: LSafer
-downloads: 27
+downloads: 28
 pricingModel: FREE
 xmlId: net.lsafer.ij.fun_file_icon</description>
       <pubDate>Fri, 03 Jul 2026 10:18:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32622-kotlin-function-file-icon</guid>
       <dc:date>2026-07-03T10:18:57Z</dc:date>
-    </item>
-    <item>
-      <title>AndroidDrawableHelper - Thu Jul 02 06:27:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32540-androiddrawablehelper</link>
-      <description>Preview Android XML drawable resources from the Project View or editor context menu.
-
-vendor: gali
-downloads: 14
-pricingModel: FREE
-xmlId: com.gali.AndroidDrawableHelper</description>
-      <pubDate>Thu, 02 Jul 2026 06:27:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32540-androiddrawablehelper</guid>
-      <dc:date>2026-07-02T06:27:58Z</dc:date>
-    </item>
-    <item>
-      <title>marimo - Mon Jun 22 23:15:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32416-marimo</link>
-      <description>marimo is a reactive Python notebook. This plugin brings the full marimo editor inside PyCharm and other JetBrains IDEs, so you can open, edit, and run notebooks...
-
-vendor: marimo
-downloads: 12
-pricingModel: FREE
-xmlId: io.marimo.notebook</description>
-      <pubDate>Mon, 22 Jun 2026 23:15:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32416-marimo</guid>
-      <dc:date>2026-06-22T23:15:26Z</dc:date>
-    </item>
-    <item>
-      <title>tiny mybatis helper - Thu Jul 02 03:11:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32616-tiny-mybatis-helper</link>
-      <description>tiny mybatis helper is a lightweight and high-performance IntelliJ IDEA plugin for MyBatis development. Key Features: Java to XML Navigation: Quickly jump from a...
-
-vendor: pop1213
-downloads: 9
-pricingModel: FREE
-xmlId: com.github.pop1213.mybatishelper</description>
-      <pubDate>Thu, 02 Jul 2026 03:11:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32616-tiny-mybatis-helper</guid>
-      <dc:date>2026-07-02T03:11:05Z</dc:date>
-    </item>
-    <item>
-      <title>ALogTools - Thu Jul 02 10:46:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32604-alogtools</link>
-      <description>ALogTools is a log monitoring and debugging plugin for IntelliJ IDEA that connects to the Alog log server. It provides real-time alert push, multi-source log browsing...
-
-vendor: aLogTools
-downloads: 16
-pricingModel: FREE
-xmlId: com.worktools.alogtools</description>
-      <pubDate>Thu, 02 Jul 2026 10:46:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32604-alogtools</guid>
-      <dc:date>2026-07-02T10:46:11Z</dc:date>
     </item>
   </channel>
 </rss>
