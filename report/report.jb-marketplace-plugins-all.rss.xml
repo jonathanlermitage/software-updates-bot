@@ -6,12 +6,77 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AI Vocabulary Overlay - Wed Jul 08 10:11:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32801-ai-vocabulary-overlay</link>
+      <description>Learn English vocabulary while AI Assistant is generating replies. This plugin shows a centered vocabulary card during AI responses so developers can turn waiting time...
+
+vendor: 1Link
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.jwenjian.aivocab</description>
+      <pubDate>Wed, 08 Jul 2026 10:11:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32801-ai-vocabulary-overlay</guid>
+      <dc:date>2026-07-08T10:11:28Z</dc:date>
+    </item>
+    <item>
+      <title>Language 1C (BSL) - Wed Jul 08 13:43:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32659-language-1c-bsl-</link>
+      <description>Support for the 1C:Enterprise (BSL) and OneScript languages in IntelliJ Platform-based IDEs. Code intelligence — diagnostics, code completion, hover, go to definition...
+
+vendor: 1c-syntax
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.1c-syntax.language-1c-bsl</description>
+      <pubDate>Wed, 08 Jul 2026 13:43:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32659-language-1c-bsl-</guid>
+      <dc:date>2026-07-08T13:43:56Z</dc:date>
+    </item>
+    <item>
+      <title>Hex Support - Thu Jul 09 02:24:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32803-hex-support</link>
+      <description>Open and edit files as hexadecimal data inside IntelliJ IDEA. Provides an editable hex byte table with offset column, raw data preview, hex/ASCII pattern search...
+
+vendor: feiju12138
+downloads: 0
+pricingModel: FREE
+xmlId: cn.fj.loli.hexsupport</description>
+      <pubDate>Thu, 09 Jul 2026 02:24:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32803-hex-support</guid>
+      <dc:date>2026-07-09T02:24:42Z</dc:date>
+    </item>
+    <item>
+      <title>Kraken Rules - Thu Jul 09 01:54:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32804-kraken-rules</link>
+      <description>Language support for Kraken .rules files (eisgroup/kraken-rules DSL). Syntax highlighting Code completion (keywords, payloads, @Dimension, rule names) Inspections...
+
+vendor: Mig
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.mrodrigue14.kraken-rules</description>
+      <pubDate>Thu, 09 Jul 2026 01:54:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32804-kraken-rules</guid>
+      <dc:date>2026-07-09T01:54:27Z</dc:date>
+    </item>
+    <item>
+      <title>balsa-tml - Tue Jun 30 14:35:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32272-balsa-tml</link>
+      <description>IntelliJ IDEA plugin that provides language support for TML (Typhoon Modeling Language) — a DSL used for defining simulation components in the Typhoon HIL toolchain...
+
+vendor: balsabulatovic
+downloads: 8
+pricingModel: FREE
+xmlId: com.github.bulatovicbalsa.intellijtml</description>
+      <pubDate>Tue, 30 Jun 2026 14:35:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32272-balsa-tml</guid>
+      <dc:date>2026-06-30T14:35:46Z</dc:date>
+    </item>
+    <item>
       <title>Commitcounter - Wed Jul 08 09:09:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32794-commitcounter</link>
       <description>A lightweight plugin that displays your current day GitHub commit count directly in the Android Studio status bar.
 
 vendor: vahitkeskin
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.vahitkeskin.commitcounter.commitcounter</description>
       <pubDate>Wed, 08 Jul 2026 09:09:44 GMT</pubDate>
@@ -24,7 +89,7 @@ xmlId: com.vahitkeskin.commitcounter.commitcounter</description>
       <description>One-click log statement generation for Java and JavaScript/TypeScript development. Select any variable and generate a log statement with file name, line number, and...
 
 vendor: mark
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.custom.plugin.mylog</description>
       <pubDate>Wed, 08 Jul 2026 06:47:49 GMT</pubDate>
@@ -37,7 +102,7 @@ xmlId: com.custom.plugin.mylog</description>
       <description>Review an agent's changes in your IDE and relay batched, line-anchored comments back into its running session — instead of retyping feedback into the terminal. How it...
 
 vendor: zerlok
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: io.github.zerlok.agentsessionrelay</description>
       <pubDate>Tue, 07 Jul 2026 22:45:15 GMT</pubDate>
@@ -50,7 +115,7 @@ xmlId: io.github.zerlok.agentsessionrelay</description>
       <description>TransparentIDE Adjust the IDE window's opacity on macOS — YOHAKU-style whole-window translucency. See videos or reference material behind PyCharm while you code...
 
 vendor: hot-pepper-GL
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.kangqian.transparentide</description>
       <pubDate>Wed, 08 Jul 2026 06:39:23 GMT</pubDate>
@@ -62,8 +127,8 @@ xmlId: com.kangqian.transparentide</description>
       <link>https://plugins.jetbrains.com/plugin/32772-deployx</link>
       <description>DeployX - All-in-one remote deployment tool with SSH server management, file sync, auto backup, remote extraction, command execution and terminal integration...
 
-vendor: DeployX
-downloads: 0
+vendor: alianga
+downloads: 14
 pricingModel: FREE
 xmlId: com.alianga.idea.deploy</description>
       <pubDate>Wed, 08 Jul 2026 06:33:55 GMT</pubDate>
@@ -71,17 +136,17 @@ xmlId: com.alianga.idea.deploy</description>
       <dc:date>2026-07-08T06:33:55Z</dc:date>
     </item>
     <item>
-      <title>Conviso Platform - Tue Jul 07 20:01:52 UTC 2026</title>
+      <title>Conviso Platform - Wed Jul 08 16:25:26 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32795-conviso-platform</link>
       <description>IntelliJ plugin for Conviso Platform with broker-backed AI chat, connected mode binding, GraphQL-backed AppSec views, local AST execution, and activity evidence upload.
 
 vendor: Conviso Application Security
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: com.conviso.platform.jetbrains</description>
-      <pubDate>Tue, 07 Jul 2026 20:01:52 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 16:25:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32795-conviso-platform</guid>
-      <dc:date>2026-07-07T20:01:52Z</dc:date>
+      <dc:date>2026-07-08T16:25:26Z</dc:date>
     </item>
     <item>
       <title>QuickSwap - Wed Jul 08 02:26:00 UTC 2026</title>
@@ -89,7 +154,7 @@ xmlId: com.conviso.platform.jetbrains</description>
       <description>QuickSwap is an IntelliJ IDEA plugin that extends IntelliJ IDEA's HotSwap functionality by adding actions to compile and hot swap: Selected files Selected changed...
 
 vendor: srilakshmikanthanp
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.srilakshmikanthanp.quickswap</description>
       <pubDate>Wed, 08 Jul 2026 02:26:00 GMT</pubDate>
@@ -102,7 +167,7 @@ xmlId: com.srilakshmikanthanp.quickswap</description>
       <description>A lightweight toolbox for IntelliJ IDEA and PhpStorm. Includes timestamp conversion, timestamp-to-date conversion, Base64 encode/decode, and JSON formatting. Built to...
 
 vendor: Work Box Toolbox
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: io.github.workbox.toolbox</description>
       <pubDate>Wed, 08 Jul 2026 09:44:20 GMT</pubDate>
@@ -115,7 +180,7 @@ xmlId: io.github.workbox.toolbox</description>
       <description>Database Plus brings professional database tooling into JetBrains IDEs — so you can connect, explore, query, and edit data without switching to an external client...
 
 vendor: Hanghang
-downloads: 3
+downloads: 14
 pricingModel: PAID
 xmlId: com.databaseplus</description>
       <pubDate>Mon, 06 Jul 2026 15:08:49 GMT</pubDate>
@@ -128,7 +193,7 @@ xmlId: com.databaseplus</description>
       <description>MyBatis SQL Analyzer Parse and preview MyBatis SQL with dynamic SQL tags resolved, right inside your IDE. Click the Gutter Icon next to any SQL statement to view the...
 
 vendor: kmingyan
-downloads: 1
+downloads: 27
 pricingModel: FREE
 xmlId: io.github.kmingyan.mybatis-sql-analyzer</description>
       <pubDate>Mon, 06 Jul 2026 06:31:40 GMT</pubDate>
@@ -141,7 +206,7 @@ xmlId: io.github.kmingyan.mybatis-sql-analyzer</description>
       <description>Model BPMN 2.0 process diagrams visually, right inside your JetBrains IDE — no need to switch to a separate modeling tool. Open any .bpmn file on a drag-and-drop...
 
 vendor: Miragon GmbH
-downloads: 4
+downloads: 19
 pricingModel: FREE
 xmlId: io.miragon.bpmn-modeler</description>
       <pubDate>Wed, 08 Jul 2026 09:57:29 GMT</pubDate>
@@ -154,7 +219,7 @@ xmlId: io.miragon.bpmn-modeler</description>
       <description>Named editor sessions ("modes") for switching between working contexts. Runs entirely on the frontend, so it works in local IDEs and over remote development (JetBrains...
 
 vendor: mute1008
-downloads: 2
+downloads: 7
 pricingModel: FREE
 xmlId: io.github.mute1008.editorsessions</description>
       <pubDate>Sat, 04 Jul 2026 17:06:45 GMT</pubDate>
@@ -167,7 +232,7 @@ xmlId: io.github.mute1008.editorsessions</description>
       <description>Manage your Git worktrees from a "Worktrees" tab in the Version Control tool window. List every worktree of the current repositories and branches without one. Open a...
 
 vendor: Heloworld
-downloads: 4
+downloads: 11
 pricingModel: FREE
 xmlId: me.heloworld.yet-another-worktrees-panel</description>
       <pubDate>Sat, 04 Jul 2026 10:17:43 GMT</pubDate>
@@ -180,7 +245,7 @@ xmlId: me.heloworld.yet-another-worktrees-panel</description>
       <description>German (Deutsch) language pack for IntelliJ IDEA 2026.1. Translates the IDE user interface, inspection and intention descriptions, tips, and file and postfix templates...
 
 vendor: Patrick Cornelissen
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: org.pc-software.idea-deu</description>
       <pubDate>Tue, 07 Jul 2026 09:41:27 GMT</pubDate>
@@ -193,77 +258,12 @@ xmlId: org.pc-software.idea-deu</description>
       <description>Spring Mappings Search is an IntelliJ IDEA plugin that indexes Spring controller endpoints and allows fast URL searching and code navigation.
 
 vendor: pop1213
-downloads: 2
+downloads: 7
 pricingModel: FREE
 xmlId: com.github.pop1213.springurlsearch</description>
       <pubDate>Mon, 06 Jul 2026 07:59:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32768-spring-mappings-search</guid>
       <dc:date>2026-07-06T07:59:47Z</dc:date>
-    </item>
-    <item>
-      <title>Viper Syntax Highlighting - Mon Jul 06 13:23:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32773-viper-syntax-highlighting</link>
-      <description>Syntax highlighting for the Viper intermediate verification language (.vpr files). Features: Syntax highlighting for keywords, types, operators, comments, and literals...
-
-vendor: JetBrains s.r.o.
-downloads: 1
-pricingModel: FREE
-xmlId: com.viper.syntax</description>
-      <pubDate>Mon, 06 Jul 2026 13:23:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32773-viper-syntax-highlighting</guid>
-      <dc:date>2026-07-06T13:23:18Z</dc:date>
-    </item>
-    <item>
-      <title>Pi x IDE - Mon Jul 06 14:32:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32664-pi-x-ide</link>
-      <description>Connects JetBrains IDEs to Pi through local active-file, selection, and attach context.
-
-vendor: Balaenis
-downloads: 3
-pricingModel: FREE
-xmlId: balaenis.pi-x-ide</description>
-      <pubDate>Mon, 06 Jul 2026 14:32:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32664-pi-x-ide</guid>
-      <dc:date>2026-07-06T14:32:24Z</dc:date>
-    </item>
-    <item>
-      <title>Sema Code - Wed Jul 08 09:40:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32783-sema-code</link>
-      <description>Sema Code (SemaCode) — AI Coding Assistant / AI programming assistant for JetBrains IDEs. Sema Code is an AI coding assistant and code copilot that brings an...
-
-vendor: SemaCode
-downloads: 2
-pricingModel: FREE
-xmlId: com.sema</description>
-      <pubDate>Wed, 08 Jul 2026 09:40:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32783-sema-code</guid>
-      <dc:date>2026-07-08T09:40:06Z</dc:date>
-    </item>
-    <item>
-      <title>Slang Flutter Helper - Tue Jul 07 08:32:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32784-slang-flutter-helper</link>
-      <description>Slang Flutter Helper creates translation keys from selected Flutter strings, writes them to the base slang JSON file, and replaces the selection with the generated...
-
-vendor: slang-flutter-helper
-downloads: 1
-pricingModel: FREE
-xmlId: com.kian.slanghelper</description>
-      <pubDate>Tue, 07 Jul 2026 08:32:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32784-slang-flutter-helper</guid>
-      <dc:date>2026-07-07T08:32:44Z</dc:date>
-    </item>
-    <item>
-      <title>ByteAsk - Fri Jul 03 19:39:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32655-byteask</link>
-      <description>Drive the ByteAsk C/C++ agentic coding harness from CLion or IntelliJ IDEA — interactive terminal, headless exec/review, apply diffs, and fix-diagnostics. Requires the...
-
-vendor: ByteAsk
-downloads: 5
-pricingModel: FREE
-xmlId: ai.byteask.jetbrains</description>
-      <pubDate>Fri, 03 Jul 2026 19:39:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32655-byteask</guid>
-      <dc:date>2026-07-03T19:39:20Z</dc:date>
     </item>
   </channel>
 </rss>
