@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Maven dependency:get - Sat Jul 04 06:32:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32496-maven-dependency-get</link>
+      <description>Quickly update a SNAPSHOT dependency without rebuilding the entire Maven dependency.
+
+vendor: xrayw
+downloads: 4
+pricingModel: FREE
+xmlId: dev.mvnget.mvnget</description>
+      <pubDate>Sat, 04 Jul 2026 06:32:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32496-maven-dependency-get</guid>
+      <dc:date>2026-07-04T06:32:29Z</dc:date>
+    </item>
+    <item>
+      <title>SCM Jump to Source - Thu Jul 09 08:05:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32809-scm-jump-to-source</link>
+      <description>Adds an inline "Jump to Source" button to file rows in the Commit / Local Changes tree. Hover a changed file and click the pencil icon at the end of the row to open...
+
+vendor: Mason Chen MSFT
+downloads: 0
+pricingModel: FREE
+xmlId: com.jiec.scm.jumptosource</description>
+      <pubDate>Thu, 09 Jul 2026 08:05:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32809-scm-jump-to-source</guid>
+      <dc:date>2026-07-09T08:05:27Z</dc:date>
+    </item>
+    <item>
+      <title>HarmonyOS Dev Assistant - Thu Jul 09 07:23:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32572-harmonyos-dev-assistant</link>
+      <description>HarmonyOS Dev Assistant is an AI assistant plugin that helps you develop HarmonyOS projects efficiently. It connects to ACP-compatible agents over stdio JSON-RPC and...
+
+vendor: agc-connect
+downloads: 2
+pricingModel: FREE
+xmlId: com.harmonybot.ide.deveco</description>
+      <pubDate>Thu, 09 Jul 2026 07:23:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32572-harmonyos-dev-assistant</guid>
+      <dc:date>2026-07-09T07:23:11Z</dc:date>
+    </item>
+    <item>
+      <title>Sema - Wed Jul 08 21:20:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32806-sema</link>
+      <description>Language support for Sema, a Lisp dialect with first-class LLM primitives. Syntax highlighting for .sema, .semac and .sema-nb files LSP-powered code completion, hover...
+
+vendor: Sema Lang
+downloads: 0
+pricingModel: FREE
+xmlId: com.sema.language</description>
+      <pubDate>Wed, 08 Jul 2026 21:20:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32806-sema</guid>
+      <dc:date>2026-07-08T21:20:40Z</dc:date>
+    </item>
+    <item>
+      <title>QAEverest - Fri Jul 03 08:28:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32639-qaeverest</link>
+      <description>Connect JetBrains AI Assistant to QAEverest in one click. QAEverest generates AI-powered functional, API, UI, mobile, security, and performance tests from a story or...
+
+vendor: QAEverest
+downloads: 1
+pricingModel: FREE
+xmlId: ai.qaeverest.jetbrains</description>
+      <pubDate>Fri, 03 Jul 2026 08:28:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32639-qaeverest</guid>
+      <dc:date>2026-07-03T08:28:20Z</dc:date>
+    </item>
+    <item>
+      <title>Codex CLI Bridge - Wed Jul 08 15:45:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32805-codex-cli-bridge</link>
+      <description>Start Codex CLI from JetBrains IDEs with project-specific context for Codex /ide, keeping Codex in the terminal while the IDE supplies the active file, selection, and...
+
+vendor: Noorall
+downloads: 0
+pricingModel: FREE
+xmlId: com.noorall.codex.bridge</description>
+      <pubDate>Wed, 08 Jul 2026 15:45:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32805-codex-cli-bridge</guid>
+      <dc:date>2026-07-08T15:45:20Z</dc:date>
+    </item>
+    <item>
       <title>AI Vocabulary Overlay - Wed Jul 08 10:11:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32801-ai-vocabulary-overlay</link>
       <description>Learn English vocabulary while AI Assistant is generating replies. This plugin shows a centered vocabulary card during AI responses so developers can turn waiting time...
@@ -175,7 +253,7 @@ xmlId: io.github.workbox.toolbox</description>
       <dc:date>2026-07-08T09:44:20Z</dc:date>
     </item>
     <item>
-      <title>Database Plus - Mon Jul 06 15:08:49 UTC 2026</title>
+      <title>Database Plus - Wed Jul 08 15:47:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32758-database-plus</link>
       <description>Database Plus brings professional database tooling into JetBrains IDEs — so you can connect, explore, query, and edit data without switching to an external client...
 
@@ -183,87 +261,9 @@ vendor: Hanghang
 downloads: 14
 pricingModel: PAID
 xmlId: com.databaseplus</description>
-      <pubDate>Mon, 06 Jul 2026 15:08:49 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 15:47:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32758-database-plus</guid>
-      <dc:date>2026-07-06T15:08:49Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis SQL Analyzer - Mon Jul 06 06:31:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32766-mybatis-sql-analyzer</link>
-      <description>MyBatis SQL Analyzer Parse and preview MyBatis SQL with dynamic SQL tags resolved, right inside your IDE. Click the Gutter Icon next to any SQL statement to view the...
-
-vendor: kmingyan
-downloads: 27
-pricingModel: FREE
-xmlId: io.github.kmingyan.mybatis-sql-analyzer</description>
-      <pubDate>Mon, 06 Jul 2026 06:31:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32766-mybatis-sql-analyzer</guid>
-      <dc:date>2026-07-06T06:31:40Z</dc:date>
-    </item>
-    <item>
-      <title>Miragon BPMN Modeler - Wed Jul 08 09:57:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32634-miragon-bpmn-modeler</link>
-      <description>Model BPMN 2.0 process diagrams visually, right inside your JetBrains IDE — no need to switch to a separate modeling tool. Open any .bpmn file on a drag-and-drop...
-
-vendor: Miragon GmbH
-downloads: 19
-pricingModel: FREE
-xmlId: io.miragon.bpmn-modeler</description>
-      <pubDate>Wed, 08 Jul 2026 09:57:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32634-miragon-bpmn-modeler</guid>
-      <dc:date>2026-07-08T09:57:29Z</dc:date>
-    </item>
-    <item>
-      <title>Editor Sessions - Sat Jul 04 17:06:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32668-editor-sessions</link>
-      <description>Named editor sessions ("modes") for switching between working contexts. Runs entirely on the frontend, so it works in local IDEs and over remote development (JetBrains...
-
-vendor: mute1008
-downloads: 7
-pricingModel: FREE
-xmlId: io.github.mute1008.editorsessions</description>
-      <pubDate>Sat, 04 Jul 2026 17:06:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32668-editor-sessions</guid>
-      <dc:date>2026-07-04T17:06:45Z</dc:date>
-    </item>
-    <item>
-      <title>Yet Another Worktrees Panel - Sat Jul 04 10:17:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32661-yet-another-worktrees-panel</link>
-      <description>Manage your Git worktrees from a "Worktrees" tab in the Version Control tool window. List every worktree of the current repositories and branches without one. Open a...
-
-vendor: Heloworld
-downloads: 11
-pricingModel: FREE
-xmlId: me.heloworld.yet-another-worktrees-panel</description>
-      <pubDate>Sat, 04 Jul 2026 10:17:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32661-yet-another-worktrees-panel</guid>
-      <dc:date>2026-07-04T10:17:43Z</dc:date>
-    </item>
-    <item>
-      <title>German Language Pack - Tue Jul 07 09:41:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32785-german-language-pack</link>
-      <description>German (Deutsch) language pack for IntelliJ IDEA 2026.1. Translates the IDE user interface, inspection and intention descriptions, tips, and file and postfix templates...
-
-vendor: Patrick Cornelissen
-downloads: 8
-pricingModel: FREE
-xmlId: org.pc-software.idea-deu</description>
-      <pubDate>Tue, 07 Jul 2026 09:41:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32785-german-language-pack</guid>
-      <dc:date>2026-07-07T09:41:27Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Mappings Search - Mon Jul 06 07:59:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32768-spring-mappings-search</link>
-      <description>Spring Mappings Search is an IntelliJ IDEA plugin that indexes Spring controller endpoints and allows fast URL searching and code navigation.
-
-vendor: pop1213
-downloads: 7
-pricingModel: FREE
-xmlId: com.github.pop1213.springurlsearch</description>
-      <pubDate>Mon, 06 Jul 2026 07:59:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32768-spring-mappings-search</guid>
-      <dc:date>2026-07-06T07:59:47Z</dc:date>
+      <dc:date>2026-07-08T15:47:54Z</dc:date>
     </item>
   </channel>
 </rss>
