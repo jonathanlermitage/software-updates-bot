@@ -6,7 +6,46 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Pixi - Fri Jul 10 08:51:27 UTC 2026</title>
+      <title>Caddyfile Pro - Thu Jul 09 10:07:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32813-caddyfile-pro</link>
+      <description>Stop editing your Caddy config blind. Caddyfile Pro turns any JetBrains IDE into a first-class Caddyfile editor — completion, documentation, validation, and formatting...
+
+vendor: FOR2NA
+downloads: 0
+pricingModel: PAID
+xmlId: pro.caddyfile</description>
+      <pubDate>Thu, 09 Jul 2026 10:07:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32813-caddyfile-pro</guid>
+      <dc:date>2026-07-09T10:07:25Z</dc:date>
+    </item>
+    <item>
+      <title>Builder Builder - Fri Jul 10 14:14:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32842-builder-builder</link>
+      <description>Generates a nested Builder class for a Java class's fields. Available from the Code &amp;gt; Generate menu (Alt+Insert), right below toString(). Features: Choose exactly...
+
+vendor: Jan Straßburger
+downloads: 0
+pricingModel: FREE
+xmlId: org.strassburger.builderbuilder</description>
+      <pubDate>Fri, 10 Jul 2026 14:14:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32842-builder-builder</guid>
+      <dc:date>2026-07-10T14:14:09Z</dc:date>
+    </item>
+    <item>
+      <title>Open HTTP Client - Fri Jul 10 11:46:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32839-open-http-client</link>
+      <description>A lightweight, open-source .http / .rest request runner. Write requests in plain text files, run them from the editor, and get formatted, highlighted responses — with...
+
+vendor: Erdem Aydin
+downloads: 0
+pricingModel: FREE
+xmlId: com.openhttp.client</description>
+      <pubDate>Fri, 10 Jul 2026 11:46:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32839-open-http-client</guid>
+      <dc:date>2026-07-10T11:46:24Z</dc:date>
+    </item>
+    <item>
+      <title>Pixi - Fri Jul 10 17:19:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32792-pixi</link>
       <description>Pixi IntelliJ IDEA integration for the Pixi package manager. Browse environments, tasks, and run configurations directly from the IDE sidebar. Launch tasks with a...
 
@@ -14,9 +53,9 @@ vendor: Enaium
 downloads: 2
 pricingModel: FREE
 xmlId: cn.enaium.pixi</description>
-      <pubDate>Fri, 10 Jul 2026 08:51:27 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 17:19:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32792-pixi</guid>
-      <dc:date>2026-07-10T08:51:27Z</dc:date>
+      <dc:date>2026-07-10T17:19:19Z</dc:date>
     </item>
     <item>
       <title>Laughing Cat Sound - Fri Jul 10 07:49:03 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: io.genai.php</description>
       <pubDate>Thu, 09 Jul 2026 13:33:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32818-genai-php-portable</guid>
       <dc:date>2026-07-09T13:33:25Z</dc:date>
-    </item>
-    <item>
-      <title>Profiles - Fri Jul 10 05:37:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32557-profiles</link>
-      <description>Group your projects into named sets — Work, Home, a client, a side project — or whatever you want to name them, and switch between them from one dropdown in the main...
-
-vendor: Arcane Arts
-downloads: 3
-pricingModel: FREE
-xmlId: art.arcane.profiles</description>
-      <pubDate>Fri, 10 Jul 2026 05:37:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32557-profiles</guid>
-      <dc:date>2026-07-10T05:37:33Z</dc:date>
-    </item>
-    <item>
-      <title>App Monitor - Fri Jul 10 12:08:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32823-app-monitor</link>
-      <description>App Monitor turns the IDE into a live runtime dashboard for the apps you care about - independent of how they were started (IDE run config, terminal, docker, system...
-
-vendor: appmonitor
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.welingtonmonteiro.appmonitor</description>
-      <pubDate>Fri, 10 Jul 2026 12:08:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32823-app-monitor</guid>
-      <dc:date>2026-07-10T12:08:11Z</dc:date>
-    </item>
-    <item>
-      <title>Modern Dark Pro - Thu Jul 09 20:03:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32822-modern-dark-pro</link>
-      <description>A professional JetBrains IDE theme designed for developers who value elegance, readability, and extended coding sessions. Features three carefully crafted dark...
-
-vendor: David Vigo
-downloads: 0
-pricingModel: FREE
-xmlId: com.dvigo.modern-dark-pro</description>
-      <pubDate>Thu, 09 Jul 2026 20:03:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32822-modern-dark-pro</guid>
-      <dc:date>2026-07-09T20:03:11Z</dc:date>
     </item>
   </channel>
 </rss>
