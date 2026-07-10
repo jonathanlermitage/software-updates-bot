@@ -6,17 +6,225 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>MyBatis SQL Log - Thu Jul 09 10:13:25 UTC 2026</title>
+      <title>IDE Book Shelf - Fri Jul 10 06:51:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32835-ide-book-shelf</link>
+      <description>Read local TXT and EPUB books directly in a compact bottom tool window.Quick controls: Previous and next buttons, a chapter selector, and one settings menu for opening...
+
+vendor: yuyiyi
+downloads: 0
+pricingModel: FREE
+xmlId: local.tools.idea-novel-reader</description>
+      <pubDate>Fri, 10 Jul 2026 06:51:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32835-ide-book-shelf</guid>
+      <dc:date>2026-07-10T06:51:36Z</dc:date>
+    </item>
+    <item>
+      <title>Git Local Review - Fri Jul 10 06:49:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32834-git-local-review</link>
+      <description>Review your changes like a pull request — before it exists. Open a virtual pull request over any diff range — a comparison between any two refs (A...B, same as a...
+
+vendor: woozu-universe
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.engineermyoa.gitlocalreview</description>
+      <pubDate>Fri, 10 Jul 2026 06:49:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32834-git-local-review</guid>
+      <dc:date>2026-07-10T06:49:16Z</dc:date>
+    </item>
+    <item>
+      <title>Flutter Developer Tools - Fri Jul 10 05:53:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32830-flutter-developer-tools</link>
+      <description>Flutter and Dart tools for everyday work Small tools that make Flutter and Dart work faster: smarter pubspec.yaml editing, package and code docs on hover, better...
+
+vendor: Rutvik Dev
+downloads: 0
+pricingModel: FREE
+xmlId: dev.rutvik.flutter_developer_tools</description>
+      <pubDate>Fri, 10 Jul 2026 05:53:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32830-flutter-developer-tools</guid>
+      <dc:date>2026-07-10T05:53:27Z</dc:date>
+    </item>
+    <item>
+      <title>Remote ADB Connector - Fri Jul 10 06:15:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32832-remote-adb-connector</link>
+      <description>Remote ADB Connector Connect to Android devices attached to a remote Windows ADB server from your Linux Android Studio instance. One-click connection to remote ADB...
+
+vendor: Navneet
+downloads: 0
+pricingModel: FREE
+xmlId: com.adbconnect.plugin</description>
+      <pubDate>Fri, 10 Jul 2026 06:15:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32832-remote-adb-connector</guid>
+      <dc:date>2026-07-10T06:15:51Z</dc:date>
+    </item>
+    <item>
+      <title>GenAI Zendesk Explorer - Fri Jul 10 05:45:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32831-genai-zendesk-explorer</link>
+      <description>Browse and query the Zendesk API from inside your JetBrains IDE. A Postman-like explorer driven by Zendesk's OpenAPI spec — no more digging through docs for each...
+
+vendor: GenAI
+downloads: 0
+pricingModel: FREE
+xmlId: io.genai.zendesk</description>
+      <pubDate>Fri, 10 Jul 2026 05:45:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32831-genai-zendesk-explorer</guid>
+      <dc:date>2026-07-10T05:45:19Z</dc:date>
+    </item>
+    <item>
+      <title>Maven Assist - Fri Jul 10 02:52:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32829-maven-assist</link>
+      <description>Your friendly co-pilot for pom.xml files. Maven Assist looks at the directory you point it at and gives you exactly the right tools for what it finds: create a...
+
+vendor: zukotuutori
+downloads: 0
+pricingModel: FREE
+xmlId: com.zukotuutori.mavenassist</description>
+      <pubDate>Fri, 10 Jul 2026 02:52:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32829-maven-assist</guid>
+      <dc:date>2026-07-10T02:52:55Z</dc:date>
+    </item>
+    <item>
+      <title>Skunk SQL Support - Fri Jul 10 02:03:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32828-skunk-sql-support</link>
+      <description>Adds IntelliJ Scala type inference support for Skunk's Scala 2 sql interpolator.
+
+vendor: Pakanon Pantisawat
+downloads: 0
+pricingModel: FREE
+xmlId: cc.pakanon.skunk.sql</description>
+      <pubDate>Fri, 10 Jul 2026 02:03:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32828-skunk-sql-support</guid>
+      <dc:date>2026-07-10T02:03:37Z</dc:date>
+    </item>
+    <item>
+      <title>GHC GitHub Auth - Thu Jul 09 10:10:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32814-ghc-github-auth</link>
+      <description>Companion login methods for the bundled GitHub plugin, for organizations that block the "JetBrains IDE Integration" OAuth app via OAuth App access restrictions. Log in...
+
+vendor: Mason Chen MSFT
+downloads: 0
+pricingModel: FREE
+xmlId: com.jiec.ghc.github.auth</description>
+      <pubDate>Thu, 09 Jul 2026 10:10:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32814-ghc-github-auth</guid>
+      <dc:date>2026-07-09T10:10:37Z</dc:date>
+    </item>
+    <item>
+      <title>Seismic - Thu Jul 09 10:41:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32796-seismic</link>
+      <description>Automatic coding time tracking for Seismic.
+
+vendor: MajorAmari
+downloads: 2
+pricingModel: FREE
+xmlId: icu.seismic.plugin</description>
+      <pubDate>Thu, 09 Jul 2026 10:41:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32796-seismic</guid>
+      <dc:date>2026-07-09T10:41:34Z</dc:date>
+    </item>
+    <item>
+      <title>Claudete Commit Message - Thu Jul 09 21:41:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32825-claudete-commit-message</link>
+      <description>Write better Git commit messages in one click — right inside your JetBrains IDE, powered by the Claude Code CLI. Check the files you're about to commit, click the...
+
+vendor: Puerari Solutions
+downloads: 0
+pricingModel: FREE
+xmlId: br.com.puerari.claudetecommitmessage</description>
+      <pubDate>Thu, 09 Jul 2026 21:41:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32825-claudete-commit-message</guid>
+      <dc:date>2026-07-09T21:41:01Z</dc:date>
+    </item>
+    <item>
+      <title>Niivue Viewer - Thu Jul 09 21:10:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32824-niivue-viewer</link>
+      <description>Niivue Viewer opens medical imaging volume files directly in your JetBrains IDE. Powered by Niivue — the same WebGL2 viewer used in the standalone web app and the...
+
+vendor: Felix Stieglitz
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.felixstieglitz.niivuejetbrains</description>
+      <pubDate>Thu, 09 Jul 2026 21:10:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32824-niivue-viewer</guid>
+      <dc:date>2026-07-09T21:10:30Z</dc:date>
+    </item>
+    <item>
+      <title>CD Open Window - Thu Jul 09 12:31:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32816-cd-open-window</link>
+      <description>Open any directory in a new IDE window by typing a cd command. Instead of navigating the native File | Open dialog, just invoke the action, paste a shell-style path...
+
+vendor: YHAIer
+downloads: 0
+pricingModel: FREE
+xmlId: com.wyh.cdopenwindow</description>
+      <pubDate>Thu, 09 Jul 2026 12:31:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32816-cd-open-window</guid>
+      <dc:date>2026-07-09T12:31:28Z</dc:date>
+    </item>
+    <item>
+      <title>GenAI PHP Portable - Thu Jul 09 13:33:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32818-genai-php-portable</link>
+      <description>Write &amp;amp; run PHP code in IntelliJ IDEA Community for free. PHP Portable is a lightweight, feature-rich way to add PHP support to the free IDE — no PhpStorm license...
+
+vendor: GenAI
+downloads: 0
+pricingModel: FREE
+xmlId: io.genai.php</description>
+      <pubDate>Thu, 09 Jul 2026 13:33:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32818-genai-php-portable</guid>
+      <dc:date>2026-07-09T13:33:25Z</dc:date>
+    </item>
+    <item>
+      <title>Profiles - Fri Jul 10 05:37:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32557-profiles</link>
+      <description>Group your projects into named sets — Work, Home, a client, a side project — or whatever you want to name them, and switch between them from one dropdown in the main...
+
+vendor: Arcane Arts
+downloads: 3
+pricingModel: FREE
+xmlId: art.arcane.profiles</description>
+      <pubDate>Fri, 10 Jul 2026 05:37:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32557-profiles</guid>
+      <dc:date>2026-07-10T05:37:33Z</dc:date>
+    </item>
+    <item>
+      <title>App Monitor - Fri Jul 10 04:08:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32823-app-monitor</link>
+      <description>App Monitor turns the IDE into a live runtime dashboard for the apps you care about - independent of how they were started (IDE run config, terminal, docker, system...
+
+vendor: appmonitor
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.welingtonmonteiro.appmonitor</description>
+      <pubDate>Fri, 10 Jul 2026 04:08:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32823-app-monitor</guid>
+      <dc:date>2026-07-10T04:08:18Z</dc:date>
+    </item>
+    <item>
+      <title>Modern Dark Pro - Thu Jul 09 20:03:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32822-modern-dark-pro</link>
+      <description>A professional JetBrains IDE theme designed for developers who value elegance, readability, and extended coding sessions. Features three carefully crafted dark...
+
+vendor: David Vigo
+downloads: 0
+pricingModel: FREE
+xmlId: com.dvigo.modern-dark-pro</description>
+      <pubDate>Thu, 09 Jul 2026 20:03:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32822-modern-dark-pro</guid>
+      <dc:date>2026-07-09T20:03:11Z</dc:date>
+    </item>
+    <item>
+      <title>MyBatis SQL Log - Fri Jul 10 07:01:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32782-mybatis-sql-log</link>
       <description>MyBatis SQL Log - Zero-invasion, fully automatic MyBatis SQL log monitoring tool. View every complete SQL statement executed by your application in real-time within...
 
 vendor: AmazingQ
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.mybatis.sql.plugin</description>
-      <pubDate>Thu, 09 Jul 2026 10:13:25 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 07:01:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32782-mybatis-sql-log</guid>
-      <dc:date>2026-07-09T10:13:25Z</dc:date>
+      <dc:date>2026-07-10T07:01:05Z</dc:date>
     </item>
     <item>
       <title>Maven dependency:get - Sat Jul 04 06:32:29 UTC 2026</title>
@@ -24,7 +232,7 @@ xmlId: com.mybatis.sql.plugin</description>
       <description>Quickly update a SNAPSHOT dependency without rebuilding the entire Maven dependency.
 
 vendor: xrayw
-downloads: 4
+downloads: 7
 pricingModel: FREE
 xmlId: dev.mvnget.mvnget</description>
       <pubDate>Sat, 04 Jul 2026 06:32:29 GMT</pubDate>
@@ -37,7 +245,7 @@ xmlId: dev.mvnget.mvnget</description>
       <description>Adds an inline "Jump to Source" button to file rows in the Commit / Local Changes tree. Hover a changed file and click the pencil icon at the end of the row to open...
 
 vendor: Mason Chen MSFT
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.jiec.scm.jumptosource</description>
       <pubDate>Thu, 09 Jul 2026 08:05:27 GMT</pubDate>
@@ -50,220 +258,12 @@ xmlId: com.jiec.scm.jumptosource</description>
       <description>Language support for Sema, a Lisp dialect with first-class LLM primitives. Syntax highlighting for .sema, .semac and .sema-nb files LSP-powered code completion, hover...
 
 vendor: Sema Lang
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.sema.language</description>
       <pubDate>Wed, 08 Jul 2026 21:20:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32806-sema</guid>
       <dc:date>2026-07-08T21:20:40Z</dc:date>
-    </item>
-    <item>
-      <title>QAEverest - Thu Jul 09 09:39:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32639-qaeverest</link>
-      <description>Connect JetBrains AI Assistant to QAEverest in one click. QAEverest generates AI-powered functional, API, UI, mobile, security, and performance tests from a story or...
-
-vendor: QAEverest
-downloads: 1
-pricingModel: FREE
-xmlId: ai.qaeverest.jetbrains</description>
-      <pubDate>Thu, 09 Jul 2026 09:39:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32639-qaeverest</guid>
-      <dc:date>2026-07-09T09:39:26Z</dc:date>
-    </item>
-    <item>
-      <title>Codex CLI Bridge - Wed Jul 08 15:45:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32805-codex-cli-bridge</link>
-      <description>Start Codex CLI from JetBrains IDEs with project-specific context for Codex /ide, keeping Codex in the terminal while the IDE supplies the active file, selection, and...
-
-vendor: Noorall
-downloads: 0
-pricingModel: FREE
-xmlId: com.noorall.codex.bridge</description>
-      <pubDate>Wed, 08 Jul 2026 15:45:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32805-codex-cli-bridge</guid>
-      <dc:date>2026-07-08T15:45:20Z</dc:date>
-    </item>
-    <item>
-      <title>AI Vocabulary Overlay - Wed Jul 08 10:11:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32801-ai-vocabulary-overlay</link>
-      <description>Learn English vocabulary while AI Assistant is generating replies. This plugin shows a centered vocabulary card during AI responses so developers can turn waiting time...
-
-vendor: 1Link
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.jwenjian.aivocab</description>
-      <pubDate>Wed, 08 Jul 2026 10:11:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32801-ai-vocabulary-overlay</guid>
-      <dc:date>2026-07-08T10:11:28Z</dc:date>
-    </item>
-    <item>
-      <title>Language 1C (BSL) - Wed Jul 08 13:43:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32659-language-1c-bsl-</link>
-      <description>Support for the 1C:Enterprise (BSL) and OneScript languages in IntelliJ Platform-based IDEs. Code intelligence — diagnostics, code completion, hover, go to definition...
-
-vendor: 1c-syntax
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.1c-syntax.language-1c-bsl</description>
-      <pubDate>Wed, 08 Jul 2026 13:43:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32659-language-1c-bsl-</guid>
-      <dc:date>2026-07-08T13:43:56Z</dc:date>
-    </item>
-    <item>
-      <title>Hex Support - Thu Jul 09 02:24:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32803-hex-support</link>
-      <description>Open and edit files as hexadecimal data inside IntelliJ IDEA. Provides an editable hex byte table with offset column, raw data preview, hex/ASCII pattern search...
-
-vendor: feiju12138
-downloads: 0
-pricingModel: FREE
-xmlId: cn.fj.loli.hexsupport</description>
-      <pubDate>Thu, 09 Jul 2026 02:24:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32803-hex-support</guid>
-      <dc:date>2026-07-09T02:24:42Z</dc:date>
-    </item>
-    <item>
-      <title>Kraken Rules - Thu Jul 09 01:54:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32804-kraken-rules</link>
-      <description>Language support for Kraken .rules files (eisgroup/kraken-rules DSL). Syntax highlighting Code completion (keywords, payloads, @Dimension, rule names) Inspections...
-
-vendor: Mig
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.mrodrigue14.kraken-rules</description>
-      <pubDate>Thu, 09 Jul 2026 01:54:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32804-kraken-rules</guid>
-      <dc:date>2026-07-09T01:54:27Z</dc:date>
-    </item>
-    <item>
-      <title>balsa-tml - Tue Jun 30 14:35:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32272-balsa-tml</link>
-      <description>IntelliJ IDEA plugin that provides language support for TML (Typhoon Modeling Language) — a DSL used for defining simulation components in the Typhoon HIL toolchain...
-
-vendor: balsabulatovic
-downloads: 8
-pricingModel: FREE
-xmlId: com.github.bulatovicbalsa.intellijtml</description>
-      <pubDate>Tue, 30 Jun 2026 14:35:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32272-balsa-tml</guid>
-      <dc:date>2026-06-30T14:35:46Z</dc:date>
-    </item>
-    <item>
-      <title>Commitcounter - Wed Jul 08 09:09:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32794-commitcounter</link>
-      <description>A lightweight plugin that displays your current day GitHub commit count directly in the Android Studio status bar.
-
-vendor: vahitkeskin
-downloads: 6
-pricingModel: FREE
-xmlId: com.vahitkeskin.commitcounter.commitcounter</description>
-      <pubDate>Wed, 08 Jul 2026 09:09:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32794-commitcounter</guid>
-      <dc:date>2026-07-08T09:09:44Z</dc:date>
-    </item>
-    <item>
-      <title>MyLog - Wed Jul 08 06:47:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32799-mylog</link>
-      <description>One-click log statement generation for Java and JavaScript/TypeScript development. Select any variable and generate a log statement with file name, line number, and...
-
-vendor: mark
-downloads: 7
-pricingModel: FREE
-xmlId: com.custom.plugin.mylog</description>
-      <pubDate>Wed, 08 Jul 2026 06:47:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32799-mylog</guid>
-      <dc:date>2026-07-08T06:47:49Z</dc:date>
-    </item>
-    <item>
-      <title>Agent Session Relay - Thu Jul 09 16:41:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32797-agent-session-relay</link>
-      <description>Review an agent's changes in your IDE and relay batched, line-anchored comments back into its running session — instead of retyping feedback into the terminal. How it...
-
-vendor: zerlok
-downloads: 6
-pricingModel: FREE
-xmlId: io.github.zerlok.agentsessionrelay</description>
-      <pubDate>Thu, 09 Jul 2026 16:41:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32797-agent-session-relay</guid>
-      <dc:date>2026-07-09T16:41:17Z</dc:date>
-    </item>
-    <item>
-      <title>TransparentIDE - Wed Jul 08 06:39:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32798-transparentide</link>
-      <description>TransparentIDE Adjust the IDE window's opacity on macOS — YOHAKU-style whole-window translucency. See videos or reference material behind PyCharm while you code...
-
-vendor: hot-pepper-GL
-downloads: 10
-pricingModel: FREE
-xmlId: com.kangqian.transparentide</description>
-      <pubDate>Wed, 08 Jul 2026 06:39:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32798-transparentide</guid>
-      <dc:date>2026-07-08T06:39:23Z</dc:date>
-    </item>
-    <item>
-      <title>DeployX - Thu Jul 09 10:25:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32772-deployx</link>
-      <description>DeployX - All-in-one remote deployment tool with SSH server management, file sync, auto backup, remote extraction, command execution and terminal integration...
-
-vendor: alianga
-downloads: 14
-pricingModel: FREE
-xmlId: com.alianga.idea.deploy</description>
-      <pubDate>Thu, 09 Jul 2026 10:25:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32772-deployx</guid>
-      <dc:date>2026-07-09T10:25:58Z</dc:date>
-    </item>
-    <item>
-      <title>Conviso Platform - Wed Jul 08 16:25:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32795-conviso-platform</link>
-      <description>IntelliJ plugin for Conviso Platform with broker-backed AI chat, connected mode binding, GraphQL-backed AppSec views, local AST execution, and activity evidence upload.
-
-vendor: Conviso Application Security
-downloads: 15
-pricingModel: FREE
-xmlId: com.conviso.platform.jetbrains</description>
-      <pubDate>Wed, 08 Jul 2026 16:25:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32795-conviso-platform</guid>
-      <dc:date>2026-07-08T16:25:26Z</dc:date>
-    </item>
-    <item>
-      <title>QuickSwap - Wed Jul 08 02:26:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32787-quickswap</link>
-      <description>QuickSwap is an IntelliJ IDEA plugin that extends IntelliJ IDEA's HotSwap functionality by adding actions to compile and hot swap: Selected files Selected changed...
-
-vendor: srilakshmikanthanp
-downloads: 5
-pricingModel: FREE
-xmlId: com.srilakshmikanthanp.quickswap</description>
-      <pubDate>Wed, 08 Jul 2026 02:26:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32787-quickswap</guid>
-      <dc:date>2026-07-08T02:26:00Z</dc:date>
-    </item>
-    <item>
-      <title>Work Box Toolbox - Wed Jul 08 09:44:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32781-work-box-toolbox</link>
-      <description>A lightweight toolbox for IntelliJ IDEA and PhpStorm. Includes timestamp conversion, timestamp-to-date conversion, Base64 encode/decode, and JSON formatting. Built to...
-
-vendor: Work Box Toolbox
-downloads: 15
-pricingModel: FREE
-xmlId: io.github.workbox.toolbox</description>
-      <pubDate>Wed, 08 Jul 2026 09:44:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32781-work-box-toolbox</guid>
-      <dc:date>2026-07-08T09:44:20Z</dc:date>
-    </item>
-    <item>
-      <title>Database Plus - Wed Jul 08 15:47:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32758-database-plus</link>
-      <description>Database Plus brings professional database tooling into JetBrains IDEs — so you can connect, explore, query, and edit data without switching to an external client...
-
-vendor: Hanghang
-downloads: 14
-pricingModel: PAID
-xmlId: com.databaseplus</description>
-      <pubDate>Wed, 08 Jul 2026 15:47:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32758-database-plus</guid>
-      <dc:date>2026-07-08T15:47:54Z</dc:date>
     </item>
   </channel>
 </rss>
