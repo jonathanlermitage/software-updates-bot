@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Pixi - Fri Jul 10 08:51:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32792-pixi</link>
+      <description>Pixi IntelliJ IDEA integration for the Pixi package manager. Browse environments, tasks, and run configurations directly from the IDE sidebar. Launch tasks with a...
+
+vendor: Enaium
+downloads: 2
+pricingModel: FREE
+xmlId: cn.enaium.pixi</description>
+      <pubDate>Fri, 10 Jul 2026 08:51:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32792-pixi</guid>
+      <dc:date>2026-07-10T08:51:27Z</dc:date>
+    </item>
+    <item>
+      <title>Laughing Cat Sound - Fri Jul 10 07:49:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32838-laughing-cat-sound</link>
+      <description>Something in your code just broke? A cat is already laughing at you. This plugin plays a laughing cat sound the moment an error appears in your IDE, so a failed run...
+
+vendor: kojoo112
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.kojoo112.laughing-cat-sound</description>
+      <pubDate>Fri, 10 Jul 2026 07:49:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32838-laughing-cat-sound</guid>
+      <dc:date>2026-07-10T07:49:03Z</dc:date>
+    </item>
+    <item>
+      <title>DD Code GUI - Fri Jul 10 07:24:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32827-dd-code-gui</link>
+      <description>DD Code GUI AI-powered coding assistant. Dual-engine: Claude Agent SDK + Codex SDK. AI Chat Dual-engine streaming chat — Claude Agent SDK &amp;amp; Codex SDK with tool...
+
+vendor: ddcode
+downloads: 0
+pricingModel: FREE
+xmlId: com.deepseek.fim.plugin</description>
+      <pubDate>Fri, 10 Jul 2026 07:24:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32827-dd-code-gui</guid>
+      <dc:date>2026-07-10T07:24:41Z</dc:date>
+    </item>
+    <item>
+      <title>PyGloss - Fri Jul 10 07:00:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32836-pygloss</link>
+      <description>Read unfamiliar Python without rewriting it. PyGloss adds a linked explanation layer directly inside the PyCharm editor using folds, inlays, and reader views. Its...
+
+vendor: Vijay Iyengar
+downloads: 0
+pricingModel: FREE
+xmlId: dev.pygloss</description>
+      <pubDate>Fri, 10 Jul 2026 07:00:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32836-pygloss</guid>
+      <dc:date>2026-07-10T07:00:49Z</dc:date>
+    </item>
+    <item>
       <title>IDE Book Shelf - Fri Jul 10 08:03:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32835-ide-book-shelf</link>
       <description>IDE Book Shelf is a compact local TXT and EPUB reader for IntelliJ IDEA.在 IDEA 底部提供紧凑的本地 TXT / EPUB...
@@ -188,7 +240,7 @@ xmlId: art.arcane.profiles</description>
       <dc:date>2026-07-10T05:37:33Z</dc:date>
     </item>
     <item>
-      <title>App Monitor - Fri Jul 10 04:08:18 UTC 2026</title>
+      <title>App Monitor - Fri Jul 10 12:08:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32823-app-monitor</link>
       <description>App Monitor turns the IDE into a live runtime dashboard for the apps you care about - independent of how they were started (IDE run config, terminal, docker, system...
 
@@ -196,9 +248,9 @@ vendor: appmonitor
 downloads: 0
 pricingModel: FREE
 xmlId: io.github.welingtonmonteiro.appmonitor</description>
-      <pubDate>Fri, 10 Jul 2026 04:08:18 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:08:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32823-app-monitor</guid>
-      <dc:date>2026-07-10T04:08:18Z</dc:date>
+      <dc:date>2026-07-10T12:08:11Z</dc:date>
     </item>
     <item>
       <title>Modern Dark Pro - Thu Jul 09 20:03:11 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.dvigo.modern-dark-pro</description>
       <pubDate>Thu, 09 Jul 2026 20:03:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32822-modern-dark-pro</guid>
       <dc:date>2026-07-09T20:03:11Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis SQL Log - Fri Jul 10 07:01:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32782-mybatis-sql-log</link>
-      <description>MyBatis SQL Log - Zero-invasion, fully automatic MyBatis SQL log monitoring tool. View every complete SQL statement executed by your application in real-time within...
-
-vendor: AmazingQ
-downloads: 3
-pricingModel: FREE
-xmlId: com.mybatis.sql.plugin</description>
-      <pubDate>Fri, 10 Jul 2026 07:01:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32782-mybatis-sql-log</guid>
-      <dc:date>2026-07-10T07:01:05Z</dc:date>
-    </item>
-    <item>
-      <title>Maven dependency:get - Sat Jul 04 06:32:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32496-maven-dependency-get</link>
-      <description>Quickly update a SNAPSHOT dependency without rebuilding the entire Maven dependency.
-
-vendor: xrayw
-downloads: 7
-pricingModel: FREE
-xmlId: dev.mvnget.mvnget</description>
-      <pubDate>Sat, 04 Jul 2026 06:32:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32496-maven-dependency-get</guid>
-      <dc:date>2026-07-04T06:32:29Z</dc:date>
-    </item>
-    <item>
-      <title>SCM Jump to Source - Thu Jul 09 08:05:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32809-scm-jump-to-source</link>
-      <description>Adds an inline "Jump to Source" button to file rows in the Commit / Local Changes tree. Hover a changed file and click the pencil icon at the end of the row to open...
-
-vendor: Mason Chen MSFT
-downloads: 5
-pricingModel: FREE
-xmlId: com.jiec.scm.jumptosource</description>
-      <pubDate>Thu, 09 Jul 2026 08:05:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32809-scm-jump-to-source</guid>
-      <dc:date>2026-07-09T08:05:27Z</dc:date>
-    </item>
-    <item>
-      <title>Sema - Wed Jul 08 21:20:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32806-sema</link>
-      <description>Language support for Sema, a Lisp dialect with first-class LLM primitives. Syntax highlighting for .sema, .semac and .sema-nb files LSP-powered code completion, hover...
-
-vendor: Sema Lang
-downloads: 4
-pricingModel: FREE
-xmlId: com.sema.language</description>
-      <pubDate>Wed, 08 Jul 2026 21:20:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32806-sema</guid>
-      <dc:date>2026-07-08T21:20:40Z</dc:date>
     </item>
   </channel>
 </rss>
