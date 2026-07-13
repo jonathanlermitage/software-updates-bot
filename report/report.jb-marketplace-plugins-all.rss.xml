@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Traditional Chinese Language Pack for IDEs - Mon Jul 13 06:04:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32881-traditional-chinese-language-pack-for-ides</link>
+      <description>Traditional Chinese Language Pack (One-time purchase – lifetime license!) – 繁體中文介面語言包。一次付費 — 無訂閱、無限制。 This plugin translates the interface of IntelliJ IDEA, PyCharm...
+
+vendor: Anton Shuvaev
+downloads: 0
+pricingModel: PAID
+xmlId: org.localization4idea.zhtw</description>
+      <pubDate>Mon, 13 Jul 2026 06:04:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32881-traditional-chinese-language-pack-for-ides</guid>
+      <dc:date>2026-07-13T06:04:28Z</dc:date>
+    </item>
+    <item>
+      <title>AI Chat Notifications - Sun Jul 12 08:42:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32863-ai-chat-notifications</link>
+      <description>AI Chat Notifications Plugin helps you avoid missing AI agent prompts while you are away from the IDE. Start a task with an AI coding agent, minimize IDE, or switch to...
+
+vendor: Alexey Anufriev
+downloads: 0
+pricingModel: FREE
+xmlId: com.alexey-anufriev.ai-chat-notifications-intellij-plugin</description>
+      <pubDate>Sun, 12 Jul 2026 08:42:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32863-ai-chat-notifications</guid>
+      <dc:date>2026-07-12T08:42:54Z</dc:date>
+    </item>
+    <item>
+      <title>Specter Ghost-UI - Sat Jul 11 01:46:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32847-specter-ghost-ui</link>
+      <description>The automated ghost-UI (skeleton screen) generator for Jetpack Compose. Put the caret inside any @Composable function and press Ctrl+Alt+H (or right-click and choose...
+
+vendor: Abdulazeez Gbindinninuola
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.gbindinazeez.specter.plugin</description>
+      <pubDate>Sat, 11 Jul 2026 01:46:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32847-specter-ghost-ui</guid>
+      <dc:date>2026-07-11T01:46:36Z</dc:date>
+    </item>
+    <item>
+      <title>HuiCai AI - Sun Jul 12 08:21:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32855-huicai-ai</link>
+      <description>HuiCai AI — the JetBrains edition of the HuiCai AI assistant. It embeds a graphical chat panel in a tool window and reuses exactly the same agent core as the HuiCai...
+
+vendor: ChenBo
+downloads: 2
+pricingModel: FREE
+xmlId: com.huicai.ai.idea</description>
+      <pubDate>Sun, 12 Jul 2026 08:21:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32855-huicai-ai</guid>
+      <dc:date>2026-07-12T08:21:12Z</dc:date>
+    </item>
+    <item>
       <title>Open Collaboration Tools - Fri Jul 10 11:21:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32650-open-collaboration-tools</link>
       <description>IntelliJ Extension for the Open Collaboration Tools.
@@ -212,58 +264,6 @@ xmlId: io.genai.zendesk</description>
       <pubDate>Fri, 10 Jul 2026 05:45:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32831-genai-zendesk-explorer</guid>
       <dc:date>2026-07-10T05:45:19Z</dc:date>
-    </item>
-    <item>
-      <title>Maven Assist - Fri Jul 10 08:06:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32829-maven-assist</link>
-      <description>Your friendly co-pilot for pom.xml files. Maven Assist looks at the directory Create pom.xml's insanely easy Add, delete and manage dependencies with only a few clicks...
-
-vendor: zukotuutori
-downloads: 29
-pricingModel: FREE
-xmlId: com.zukotuutori.mavenassist</description>
-      <pubDate>Fri, 10 Jul 2026 08:06:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32829-maven-assist</guid>
-      <dc:date>2026-07-10T08:06:59Z</dc:date>
-    </item>
-    <item>
-      <title>Skunk SQL Support - Fri Jul 10 02:03:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32828-skunk-sql-support</link>
-      <description>Adds IntelliJ Scala type inference support for Skunk's Scala 2 sql interpolator.
-
-vendor: Pakanon Pantisawat
-downloads: 3
-pricingModel: FREE
-xmlId: cc.pakanon.skunk.sql</description>
-      <pubDate>Fri, 10 Jul 2026 02:03:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32828-skunk-sql-support</guid>
-      <dc:date>2026-07-10T02:03:37Z</dc:date>
-    </item>
-    <item>
-      <title>GHC GitHub Auth - Thu Jul 09 10:10:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32814-ghc-github-auth</link>
-      <description>Companion login methods for the bundled GitHub plugin, for organizations that block the "JetBrains IDE Integration" OAuth app via OAuth App access restrictions. Log in...
-
-vendor: Mason Chen MSFT
-downloads: 7
-pricingModel: FREE
-xmlId: com.jiec.ghc.github.auth</description>
-      <pubDate>Thu, 09 Jul 2026 10:10:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32814-ghc-github-auth</guid>
-      <dc:date>2026-07-09T10:10:37Z</dc:date>
-    </item>
-    <item>
-      <title>Seismic - Mon Jul 13 09:47:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32796-seismic</link>
-      <description>Automatic coding time tracking for Seismic.
-
-vendor: MajorAmari
-downloads: 17
-pricingModel: FREE
-xmlId: icu.seismic.plugin</description>
-      <pubDate>Mon, 13 Jul 2026 09:47:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32796-seismic</guid>
-      <dc:date>2026-07-13T09:47:27Z</dc:date>
     </item>
   </channel>
 </rss>
