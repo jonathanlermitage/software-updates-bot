@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>TomlJump - Wed Jul 15 09:37:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32933-tomljump</link>
+      <description>TomlJump adds focused navigation from TOML configuration to the files and source declarations those settings reference. Jump from TOML string file paths to project...
+
+vendor: harrison_wang
+downloads: 0
+pricingModel: FREE
+xmlId: com.tomljump</description>
+      <pubDate>Wed, 15 Jul 2026 09:37:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32933-tomljump</guid>
+      <dc:date>2026-07-15T09:37:04Z</dc:date>
+    </item>
+    <item>
+      <title>SQL Transpiler - Wed Jul 15 09:25:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32900-sql-transpiler</link>
+      <description>Cross-dialect SQL transpilation inside DataGrip and IntelliJ IDEA Ultimate, powered by brikk-sql (a full Kotlin port of sqlglot). Mark any SQL with -- dialect: xyz and...
+
+vendor: sort.dev
+downloads: 0
+pricingModel: FREE
+xmlId: dev.sort.sql-transpiler-intellij-plugin</description>
+      <pubDate>Wed, 15 Jul 2026 09:25:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32900-sql-transpiler</guid>
+      <dc:date>2026-07-15T09:25:47Z</dc:date>
+    </item>
+    <item>
+      <title>Go Portable - Wed Jul 15 08:30:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32932-go-portable</link>
+      <description>Write &amp;amp; run Go in IntelliJ IDEA Community — for free. Go Portable adds lightweight Go support to the free IDE, with no GoLand license and no system-wide Go install...
+
+vendor: GenAI
+downloads: 0
+pricingModel: FREE
+xmlId: io.genai.go</description>
+      <pubDate>Wed, 15 Jul 2026 08:30:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32932-go-portable</guid>
+      <dc:date>2026-07-15T08:30:18Z</dc:date>
+    </item>
+    <item>
+      <title>Faah - Error Alerts - Wed Jul 15 05:26:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32928-faah--error-alerts</link>
+      <description>Never miss errors in JetBrains IDEs. Faah plays instant audio alerts for non-zero terminal and execution exit codes, failed tests, Docker failures, suspicious output...
+
+vendor: Muhboiii
+downloads: 0
+pricingModel: FREE
+xmlId: org.faah.jetbrains</description>
+      <pubDate>Wed, 15 Jul 2026 05:26:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32928-faah--error-alerts</guid>
+      <dc:date>2026-07-15T05:26:25Z</dc:date>
+    </item>
+    <item>
       <title>Workday Pocket - Mon Jul 13 07:52:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32883-workday-pocket</link>
       <description>Workday Pocket is a compact productivity companion for IntelliJ-based IDEs. It helps developers track salary progress, workday countdown, daily income, hourly income...
@@ -212,58 +264,6 @@ xmlId: ru.aksenov.poeditor</description>
       <pubDate>Tue, 14 Jul 2026 23:01:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32877-po-editor</guid>
       <dc:date>2026-07-14T23:01:19Z</dc:date>
-    </item>
-    <item>
-      <title>Agent Graph Inspector - Sun Jul 12 21:49:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32876-agent-graph-inspector</link>
-      <description>Statically detects and visualizes agent/workflow graphs (LangGraph, CrewAI, LangGraph.js, langgraph4j) from source code via PSI — never executing it. Click a node to...
-
-vendor: NikolAI
-downloads: 12
-pricingModel: FREE
-xmlId: com.agentgraph.inspector</description>
-      <pubDate>Sun, 12 Jul 2026 21:49:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32876-agent-graph-inspector</guid>
-      <dc:date>2026-07-12T21:49:42Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatisCodeAssistant - Tue Jul 14 08:15:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32875-mybatiscodeassistant</link>
-      <description>MyBatisCodeAssistant is an all-in-one MyBatis code helper and code generator for IntelliJ IDEA: code generation from database tables, method-name-to-SQL, smart merge...
-
-vendor: MyBatisCodeAssistant
-downloads: 19
-pricingModel: FREEMIUM
-xmlId: com.mybatis.generator.qiyun.MyBatisCodeAssistant</description>
-      <pubDate>Tue, 14 Jul 2026 08:15:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32875-mybatiscodeassistant</guid>
-      <dc:date>2026-07-14T08:15:53Z</dc:date>
-    </item>
-    <item>
-      <title>Drun Language Support - Tue Jul 14 09:49:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32865-drun-language-support</link>
-      <description>Native syntax highlighting and xdrun language-server integration for the Drun automation language.
-
-vendor: Phillarmonic Software
-downloads: 26
-pricingModel: FREE
-xmlId: com.phillarmonic.drun</description>
-      <pubDate>Tue, 14 Jul 2026 09:49:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32865-drun-language-support</guid>
-      <dc:date>2026-07-14T09:49:44Z</dc:date>
-    </item>
-    <item>
-      <title>Excel Editor - Sun Jul 12 11:42:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32857-excel-editor</link>
-      <description>Opens Excel workbooks in an IntelliJ editor tab backed by AG Grid.
-
-vendor: Kassett
-downloads: 13
-pricingModel: FREE
-xmlId: com.github.kassett.excelEditor</description>
-      <pubDate>Sun, 12 Jul 2026 11:42:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32857-excel-editor</guid>
-      <dc:date>2026-07-12T11:42:05Z</dc:date>
     </item>
   </channel>
 </rss>
