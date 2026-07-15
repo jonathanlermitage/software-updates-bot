@@ -6,12 +6,103 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Workday Pocket - Mon Jul 13 07:52:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32883-workday-pocket</link>
+      <description>Workday Pocket is a compact productivity companion for IntelliJ-based IDEs. It helps developers track salary progress, workday countdown, daily income, hourly income...
+
+vendor: XieX Studio
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.xiexiang.workdaypocket</description>
+      <pubDate>Mon, 13 Jul 2026 07:52:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32883-workday-pocket</guid>
+      <dc:date>2026-07-13T07:52:53Z</dc:date>
+    </item>
+    <item>
+      <title>Happy Read book - Wed Jul 15 07:01:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32930-happy-read-book</link>
+      <description>Happy Read book is a private local ebook and novel reader for IntelliJ IDEA and JetBrains IDEs. Read TXT, EPUB, PDF, MOBI, and AZW3 files without leaving your code. It...
+
+vendor: XieX Studio
+downloads: 0
+pricingModel: PAID
+xmlId: com.xiexiang.happyreading</description>
+      <pubDate>Wed, 15 Jul 2026 07:01:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32930-happy-read-book</guid>
+      <dc:date>2026-07-15T07:01:55Z</dc:date>
+    </item>
+    <item>
+      <title>Source Download Guard - Wed Jul 15 05:38:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32929-source-download-guard</link>
+      <description>Disables automatic source and Javadoc attachment resolution during normal Gradle Sync in Android Studio. Binary dependencies and the manual Download Sources action...
+
+vendor: zgaici
+downloads: 0
+pricingModel: FREE
+xmlId: com.hopegoo.sourcedownloadguard</description>
+      <pubDate>Wed, 15 Jul 2026 05:38:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32929-source-download-guard</guid>
+      <dc:date>2026-07-15T05:38:21Z</dc:date>
+    </item>
+    <item>
+      <title>Background Image Plus Reloaded - Wed Jul 15 04:06:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32925-background-image-plus-reloaded</link>
+      <description>Rotate IntelliJ IDEA editor background images from a local folder. Supports folder selection, automatic switching, opacity control and scheduler cleanup for newer...
+
+vendor: kongshan
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.zhangq.backgroundImagePlusReloaded</description>
+      <pubDate>Wed, 15 Jul 2026 04:06:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32925-background-image-plus-reloaded</guid>
+      <dc:date>2026-07-15T04:06:45Z</dc:date>
+    </item>
+    <item>
+      <title>GTD - Getting Things Done - Tue Jul 14 22:09:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32921-gtd--getting-things-done</link>
+      <description>GTD Brain in your IDE: capture anything in one keystroke and work your Getting Things Done lists (Inbox, Next Actions, Projects, Waiting For, Someday) from a side...
+
+vendor: Minosin AB
+downloads: 0
+pricingModel: FREE
+xmlId: com.minosin.gtdbrain</description>
+      <pubDate>Tue, 14 Jul 2026 22:09:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32921-gtd--getting-things-done</guid>
+      <dc:date>2026-07-14T22:09:16Z</dc:date>
+    </item>
+    <item>
+      <title>AVIF Preview - Tue Jul 14 18:20:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32919-avif-preview</link>
+      <description>Preview AVIF images in the editor: zoom (Ctrl/Cmd + mouse wheel), fit to window, 1:1, checkerboard background for transparency, HiDPI-aware rendering, and auto refresh...
+
+vendor: AVIF Preview
+downloads: 0
+pricingModel: FREE
+xmlId: com.melrose1994.avif-preview</description>
+      <pubDate>Tue, 14 Jul 2026 18:20:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32919-avif-preview</guid>
+      <dc:date>2026-07-14T18:20:57Z</dc:date>
+    </item>
+    <item>
+      <title>Inline Review Notes for AI - Tue Jul 14 23:35:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32674-inline-review-notes-for-ai</link>
+      <description>Inline Review Notes for AI allows you to add and manage inline review comments for your local files. Comments are stored as JSON files on a per-branch basis in the...
+
+vendor: Naoyuki Kodama
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.naoyukik.intellijplugininlinereviewnotesforai</description>
+      <pubDate>Tue, 14 Jul 2026 23:35:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32674-inline-review-notes-for-ai</guid>
+      <dc:date>2026-07-14T23:35:19Z</dc:date>
+    </item>
+    <item>
       <title>SpecBuddy - Mon Jul 13 21:30:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32645-specbuddy</link>
       <description>Control over your AI coding agent — from the plan to every executed step. SpecBuddy turns AI-assisted development into a structured, reviewable process. Instead of...
 
 vendor: SpecBuddy
-downloads: 7
+downloads: 11
 pricingModel: FREE
 xmlId: dev.specbuddy.intellijplugin</description>
       <pubDate>Mon, 13 Jul 2026 21:30:01 GMT</pubDate>
@@ -24,7 +115,7 @@ xmlId: dev.specbuddy.intellijplugin</description>
       <description>Makes Go to Declaration follow generated TypeScript auto-import aliases to their original source exports. Designed for Vue and Vite projects using tools such as...
 
 vendor: Hassan Dome Denea
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: io.github.hassandomedenea.alias-source-navigator</description>
       <pubDate>Mon, 13 Jul 2026 12:54:57 GMT</pubDate>
@@ -37,7 +128,7 @@ xmlId: io.github.hassandomedenea.alias-source-navigator</description>
       <description>Finance 7x24 News shows public financial news and watchlist quotes in IntelliJ IDEA. It supports 7x24 news updates, stock and ETF watchlists, automatic refresh, manual...
 
 vendor: 财经7x24快讯
-downloads: 1
+downloads: 18
 pricingModel: FREE
 xmlId: com.ylplugin.eastmoney7x24</description>
       <pubDate>Tue, 14 Jul 2026 03:52:04 GMT</pubDate>
@@ -50,7 +141,7 @@ xmlId: com.ylplugin.eastmoney7x24</description>
       <description>VersionLens Redux dependency hints, diagnostics, and code lenses through the shared VersionLens language server.
 
 vendor: xsyetopz
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.versionlens.jetbrains</description>
       <pubDate>Sun, 12 Jul 2026 13:11:23 GMT</pubDate>
@@ -63,7 +154,7 @@ xmlId: com.versionlens.jetbrains</description>
       <description>AI Commit Attribution adds a lightweight IDE commit option that appends a Co-authored-by: trailer for AI-assisted work. It supports Codex, Claude Code, Cursor, and...
 
 vendor: Jason Song
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.jasonsong.aicommitattribution</description>
       <pubDate>Mon, 13 Jul 2026 11:42:54 GMT</pubDate>
@@ -76,7 +167,7 @@ xmlId: dev.jasonsong.aicommitattribution</description>
       <description>Discover and run Melos monorepo scripts declared in a workspace root pubspec.yaml. Adds run gutter icons beside melos.scripts entries, a Melos run configuration type...
 
 vendor: Ark Labs
-downloads: 2
+downloads: 9
 pricingModel: FREE
 xmlId: nz.arklabs.melos</description>
       <pubDate>Sun, 12 Jul 2026 23:47:06 GMT</pubDate>
@@ -89,7 +180,7 @@ xmlId: nz.arklabs.melos</description>
       <description>A smart vulnerability scanner for your project dependencies. VulnSpotter integrates directly into your IDE to detect security vulnerabilities in your Gradle, Maven...
 
 vendor: Luis Pepe
-downloads: 3
+downloads: 11
 pricingModel: FREE
 xmlId: com.luisppb16.vulnspotter</description>
       <pubDate>Mon, 13 Jul 2026 10:52:10 GMT</pubDate>
@@ -97,30 +188,30 @@ xmlId: com.luisppb16.vulnspotter</description>
       <dc:date>2026-07-13T10:52:10Z</dc:date>
     </item>
     <item>
-      <title>AgentDock - Sat Jul 11 14:55:15 UTC 2026</title>
+      <title>AgentDock - Wed Jul 15 08:08:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32846-agentdock</link>
-      <description>Manage project-scoped AI CLI sessions without leaving your JetBrains IDE. AgentDock brings local Codex CLI and Claude Code CLI sessions into a dedicated tool window...
+      <description>Manage project-scoped AI CLI sessions without leaving your JetBrains IDE. AgentDock brings local Codex CLI, Claude Code CLI, and Gemini CLI sessions into a dedicated...
 
 vendor: AgentDock
-downloads: 3
+downloads: 10
 pricingModel: FREE
 xmlId: com.agentdock</description>
-      <pubDate>Sat, 11 Jul 2026 14:55:15 GMT</pubDate>
+      <pubDate>Wed, 15 Jul 2026 08:08:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32846-agentdock</guid>
-      <dc:date>2026-07-11T14:55:15Z</dc:date>
+      <dc:date>2026-07-15T08:08:45Z</dc:date>
     </item>
     <item>
-      <title>PO Editor - Sun Jul 12 21:20:21 UTC 2026</title>
+      <title>PO Editor - Tue Jul 14 23:01:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32877-po-editor</link>
       <description>A focused table editor for GNU gettext .po translations and .pot templates, built directly into JetBrains IDEs. Edit identifiers, source text, and translations side by...
 
 vendor: Nikita Aksenov
-downloads: 1
+downloads: 14
 pricingModel: FREE
 xmlId: ru.aksenov.poeditor</description>
-      <pubDate>Sun, 12 Jul 2026 21:20:21 GMT</pubDate>
+      <pubDate>Tue, 14 Jul 2026 23:01:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32877-po-editor</guid>
-      <dc:date>2026-07-12T21:20:21Z</dc:date>
+      <dc:date>2026-07-14T23:01:19Z</dc:date>
     </item>
     <item>
       <title>Agent Graph Inspector - Sun Jul 12 21:49:42 UTC 2026</title>
@@ -128,7 +219,7 @@ xmlId: ru.aksenov.poeditor</description>
       <description>Statically detects and visualizes agent/workflow graphs (LangGraph, CrewAI, LangGraph.js, langgraph4j) from source code via PSI — never executing it. Click a node to...
 
 vendor: NikolAI
-downloads: 5
+downloads: 12
 pricingModel: FREE
 xmlId: com.agentgraph.inspector</description>
       <pubDate>Sun, 12 Jul 2026 21:49:42 GMT</pubDate>
@@ -141,7 +232,7 @@ xmlId: com.agentgraph.inspector</description>
       <description>MyBatisCodeAssistant is an all-in-one MyBatis code helper and code generator for IntelliJ IDEA: code generation from database tables, method-name-to-SQL, smart merge...
 
 vendor: MyBatisCodeAssistant
-downloads: 4
+downloads: 19
 pricingModel: FREEMIUM
 xmlId: com.mybatis.generator.qiyun.MyBatisCodeAssistant</description>
       <pubDate>Tue, 14 Jul 2026 08:15:53 GMT</pubDate>
@@ -154,7 +245,7 @@ xmlId: com.mybatis.generator.qiyun.MyBatisCodeAssistant</description>
       <description>Native syntax highlighting and xdrun language-server integration for the Drun automation language.
 
 vendor: Phillarmonic Software
-downloads: 4
+downloads: 26
 pricingModel: FREE
 xmlId: com.phillarmonic.drun</description>
       <pubDate>Tue, 14 Jul 2026 09:49:44 GMT</pubDate>
@@ -167,103 +258,12 @@ xmlId: com.phillarmonic.drun</description>
       <description>Opens Excel workbooks in an IntelliJ editor tab backed by AG Grid.
 
 vendor: Kassett
-downloads: 5
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.kassett.excelEditor</description>
       <pubDate>Sun, 12 Jul 2026 11:42:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32857-excel-editor</guid>
       <dc:date>2026-07-12T11:42:05Z</dc:date>
-    </item>
-    <item>
-      <title>OmniPilot - Bring Your Own Model - Fri Jul 10 16:42:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32760-omnipilot--bring-your-own-model</link>
-      <description>OmniPilot is an advanced, fully autonomous AI coding assistant plugin for JetBrains IDEs (IntelliJ IDEA, WebStorm, PyCharm, Android Studio, etc.). It brings the power...
-
-vendor: Tejas Soni
-downloads: 4
-pricingModel: FREE
-xmlId: com.tejas.omnipilot</description>
-      <pubDate>Fri, 10 Jul 2026 16:42:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32760-omnipilot--bring-your-own-model</guid>
-      <dc:date>2026-07-10T16:42:32Z</dc:date>
-    </item>
-    <item>
-      <title>VibeGuard - Mon Jul 13 15:34:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32884-vibeguard</link>
-      <description>VibeGuard scans AI-generated code for hallucinated dependencies, hardcoded secrets, unsafe configuration, and high-confidence security mistakes. The plugin uses the...
-
-vendor: UncleCheng
-downloads: 2
-pricingModel: FREE
-xmlId: dev.vibeguard.jetbrains</description>
-      <pubDate>Mon, 13 Jul 2026 15:34:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32884-vibeguard</guid>
-      <dc:date>2026-07-13T15:34:21Z</dc:date>
-    </item>
-    <item>
-      <title>Lanes - Mon Jul 13 22:19:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32891-lanes</link>
-      <description>Run, monitor and manage multiple run configurations at once. Group your apps, servers, microservices or tests and start them with a single click - one by one with...
-
-vendor: Pixel Codes
-downloads: 4
-pricingModel: FREE
-xmlId: io.github.pixelcodes.lanes</description>
-      <pubDate>Mon, 13 Jul 2026 22:19:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32891-lanes</guid>
-      <dc:date>2026-07-13T22:19:10Z</dc:date>
-    </item>
-    <item>
-      <title>Shard - Tue Jul 14 16:00:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32848-shard</link>
-      <description>Shard Keyboard-driven control over editor splitters and tabs. Shard adds actions to manage the editor layout without the mouse: Focus a neighbouring splitter in any...
-
-vendor: Digamma
-downloads: 1
-pricingModel: FREE
-xmlId: dev.digamma.shard</description>
-      <pubDate>Tue, 14 Jul 2026 16:00:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32848-shard</guid>
-      <dc:date>2026-07-14T16:00:19Z</dc:date>
-    </item>
-    <item>
-      <title>slop-chop - Mon Jul 13 19:56:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32895-slop-chop</link>
-      <description>Chop AI writing tells in Markdown and plain text. The plugin runs the local slop-chop binary as a language server through LSP4IJ: tells surface as diagnostics, and a...
-
-vendor: dcadolph
-downloads: 1
-pricingModel: FREE
-xmlId: com.slopchop.jetbrains</description>
-      <pubDate>Mon, 13 Jul 2026 19:56:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32895-slop-chop</guid>
-      <dc:date>2026-07-13T19:56:45Z</dc:date>
-    </item>
-    <item>
-      <title>Bruno Language - Sun Jul 12 16:00:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32873-bruno-language</link>
-      <description>Support for Bruno's .bru API-request file format. Features: Recognizes .bru files with a dedicated file type and iconSyntax highlighting for block names, keys, values...
-
-vendor: D Software Inc
-downloads: 1
-pricingModel: FREE
-xmlId: com.dsoftware.bruno</description>
-      <pubDate>Sun, 12 Jul 2026 16:00:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32873-bruno-language</guid>
-      <dc:date>2026-07-12T16:00:55Z</dc:date>
-    </item>
-    <item>
-      <title>Automotive CAN Simulator Suite - Mon Jul 13 19:25:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32776-automotive-can-simulator-suite</link>
-      <description>Automotive CAN Simulator Suite is a comprehensive development and testing plugin for IntelliJ IDEA and Android Studio, built for engineers developing Android...
-
-vendor: CretLabs
-downloads: 4
-pricingModel: FREE
-xmlId: com.cretlabs.cansimulator</description>
-      <pubDate>Mon, 13 Jul 2026 19:25:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32776-automotive-can-simulator-suite</guid>
-      <dc:date>2026-07-13T19:25:50Z</dc:date>
     </item>
   </channel>
 </rss>
