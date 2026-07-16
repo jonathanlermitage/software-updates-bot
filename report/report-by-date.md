@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2 (262.8665.258) ~ 2026-07-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jul 16 17:14:13 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 08 13:43:51 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.5|[golang.org](https://golang.org/dl/)|Tue Jul 07 21:13:01 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2 (262.8665.81) ~ 2026-07-02|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jul 03 10:38:19 UTC 2026|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.1.4 (261.26222.65) ~ 2026-07-02|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jul 02 17:35:18 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases)|Fri Jun 26 20:31:11 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.18.0|[nodejs.org](https://nodejs.org)|Wed Jun 24 00:23:21 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 341 - Endives ou Chicorée ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 22 09:55:54 UTC 2026|

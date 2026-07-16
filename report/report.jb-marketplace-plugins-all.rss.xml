@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>HaifaSSH - SSH Session Manager - Sun Jul 12 14:48:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32869-haifassh--ssh-session-manager</link>
+      <description>HaifaSSH — a full SSH session manager, built into your IDE Stop juggling a separate terminal app. HaifaSSH brings a fast, organized, multi-tab SSH workflow right into...
+
+vendor: HaifaSoft
+downloads: 1
+pricingModel: FREE
+xmlId: com.haifasoft.haifassh</description>
+      <pubDate>Sun, 12 Jul 2026 14:48:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32869-haifassh--ssh-session-manager</guid>
+      <dc:date>2026-07-12T14:48:57Z</dc:date>
+    </item>
+    <item>
       <title>Deploy Toolkit - Thu Jul 16 05:20:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32948-deploy-toolkit</link>
       <description>Deployment Pipeline for IntelliJ — Build → Upload → Execute → Verify. Server Manager with SSH password / private key (PasswordSafe) SSH Terminal via JetBrains Terminal...
@@ -251,19 +264,6 @@ xmlId: com.bytehaven.semconvguard</description>
       <pubDate>Tue, 14 Jul 2026 01:30:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32892-semconv-guard--opentelemetry-naming-safety</guid>
       <dc:date>2026-07-14T01:30:35Z</dc:date>
-    </item>
-    <item>
-      <title>Upgrade Guard - Kubernetes API Upgrade Safety - Tue Jul 14 02:39:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32894-upgrade-guard--kubernetes-api-upgrade-safety</link>
-      <description>Catch removed and deprecated Kubernetes API versions in your manifests before a cluster upgrade breaks prod — inline, as you edit. Pick your target cluster version...
-
-vendor: ByteHaven Studios
-downloads: 4
-pricingModel: FREE
-xmlId: com.bytehaven.upgradeguard</description>
-      <pubDate>Tue, 14 Jul 2026 02:39:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32894-upgrade-guard--kubernetes-api-upgrade-safety</guid>
-      <dc:date>2026-07-14T02:39:01Z</dc:date>
     </item>
   </channel>
 </rss>
