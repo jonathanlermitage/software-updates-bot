@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>HOCON Support - Fri Jul 17 10:01:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32969-hocon-support</link>
+      <description>Language support for HOCON (Human-Optimized Config Object Notation) — the Typesafe/Lightbend Config format used by application.conf, Akka, Play, Kora and others...
+
+vendor: Daniil Sudomoin
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.dsudomoin.hocon</description>
+      <pubDate>Fri, 17 Jul 2026 10:01:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32969-hocon-support</guid>
+      <dc:date>2026-07-17T10:01:18Z</dc:date>
+    </item>
+    <item>
+      <title>StackLens - Fri Jul 17 09:02:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32973-stacklens</link>
+      <description>StackLens analyzes Java exception stack traces from the console or clipboard, jumps to project source, and shows troubleshooting tips for common frameworks. StackLens...
+
+vendor: StackLens
+downloads: 0
+pricingModel: FREE
+xmlId: com.stacklens</description>
+      <pubDate>Fri, 17 Jul 2026 09:02:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32973-stacklens</guid>
+      <dc:date>2026-07-17T09:02:47Z</dc:date>
+    </item>
+    <item>
+      <title>WaitLingo - Fri Jul 17 08:36:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32972-waitlingo</link>
+      <description>WaitLingo helps you learn English while working in your IDE. It shows short English-Turkish word pairs in the status bar and lets you open a lightweight popup with...
+
+vendor: Mücahid ÇINAR
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.mucahidcinar.waitlingo</description>
+      <pubDate>Fri, 17 Jul 2026 08:36:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32972-waitlingo</guid>
+      <dc:date>2026-07-17T08:36:38Z</dc:date>
+    </item>
+    <item>
       <title>Acai API Helper - Thu Jul 16 02:30:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32946-acai-api-helper</link>
       <description>Acai API Helper is an enterprise-grade API debugging and automated testing plugin for IntelliJ IDEA. It provides built-in HTTP debugging, API scanning, AI parameter...
@@ -225,45 +264,6 @@ xmlId: dev.jota.gitlabcockpit</description>
       <pubDate>Thu, 16 Jul 2026 09:34:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32942-cockpit-for-gitlab</guid>
       <dc:date>2026-07-16T09:34:00Z</dc:date>
-    </item>
-    <item>
-      <title>ShowDoc RunAPI - Fri Jul 17 04:57:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32936-showdoc-runapi</link>
-      <description>Scan, debug, and upload Spring MVC APIs to self-hosted ShowDoc RunAPI projects. Scans standard Spring MVC mappings and application-defined equivalent annotations...
-
-vendor: runapi-plugin
-downloads: 5
-pricingModel: FREE
-xmlId: com.chaoxing.showdoc.runapi</description>
-      <pubDate>Fri, 17 Jul 2026 04:57:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32936-showdoc-runapi</guid>
-      <dc:date>2026-07-17T04:57:36Z</dc:date>
-    </item>
-    <item>
-      <title>Task Scheduler &amp; IDE Automation - Wed Jul 15 14:23:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32889-task-scheduler--ide-automation</link>
-      <description>Android Studio and IntelliJ plugin that allows developers to schedule IDE actions, saved macros, terminal commands, and scripts to execute automatically on recurring...
-
-vendor: Navneet
-downloads: 5
-pricingModel: FREE
-xmlId: com.scheduler.task-scheduler</description>
-      <pubDate>Wed, 15 Jul 2026 14:23:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32889-task-scheduler--ide-automation</guid>
-      <dc:date>2026-07-15T14:23:08Z</dc:date>
-    </item>
-    <item>
-      <title>MdLens - Thu Jul 16 23:50:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32940-mdlens</link>
-      <description>MdLens is a read-only Markdown viewer for JetBrains IDEs. It renders GitHub Flavored Markdown and Mermaid diagrams offline with GitHub Light and GitHub Dark themes...
-
-vendor: hyune-lab
-downloads: 9
-pricingModel: FREE
-xmlId: dev.hyunelab.mdlens</description>
-      <pubDate>Thu, 16 Jul 2026 23:50:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32940-mdlens</guid>
-      <dc:date>2026-07-16T23:50:07Z</dc:date>
     </item>
   </channel>
 </rss>
