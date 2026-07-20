@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>guicons - Sun Jul 19 18:46:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32978-guicons</link>
+      <description>RustRover/IntelliJ support for guicons' icons.gui.toml manifests: full LSP integration (completion, hover, goto-definition, find usages, rename, diagnostics) for the...
+
+vendor: uniproc-dev
+downloads: 1
+pricingModel: FREE
+xmlId: dev.guicons.idea-plugin</description>
+      <pubDate>Sun, 19 Jul 2026 18:46:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32978-guicons</guid>
+      <dc:date>2026-07-19T18:46:59Z</dc:date>
+    </item>
+    <item>
+      <title>Cfml Extra Completion - Mon Jul 20 10:46:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33015-cfml-extra-completion</link>
+      <description>Cfml Extra Completion fills gaps in the bundled CFML plugin's code completion. The built-in completion only sees symbols declared in the current file; this plugin adds...
+
+vendor: Emanuele Melini
+downloads: 0
+pricingModel: FREE
+xmlId: it.emanuelemelini.cfmlextracompletion</description>
+      <pubDate>Mon, 20 Jul 2026 10:46:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33015-cfml-extra-completion</guid>
+      <dc:date>2026-07-20T10:46:36Z</dc:date>
+    </item>
+    <item>
+      <title>CrowdStrike FCS CLI - Fri Jul 10 16:33:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32845-crowdstrike-fcs-cli</link>
+      <description>IntelliJ plugin for FCS CLI integration, providing Infrastructure as Code (IaC) security scanning capabilities. Scan Terraform, CloudFormation, Kubernetes, and other...
+
+vendor: CrowdStrike
+downloads: 2
+pricingModel: FREE
+xmlId: com.crowdstrike.fcs-cli-plugin</description>
+      <pubDate>Fri, 10 Jul 2026 16:33:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32845-crowdstrike-fcs-cli</guid>
+      <dc:date>2026-07-10T16:33:20Z</dc:date>
+    </item>
+    <item>
       <title>Lattice Agent AI - Fri Jul 17 12:38:59 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32759-lattice-agent-ai</link>
       <description>LatticeAgentAI — AI Coding Agent for IntelliJ IDEs This plugin is built on top of ProxyAI with extensive modifications and enhancements. Core Features AI Chat...
@@ -225,45 +264,6 @@ xmlId: io.gitconflictradar</description>
       <pubDate>Mon, 20 Jul 2026 16:51:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33001-gitconflictradar</guid>
       <dc:date>2026-07-20T16:51:02Z</dc:date>
-    </item>
-    <item>
-      <title>Web Tabs - Sat Jul 18 16:45:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32986-web-tabs</link>
-      <description>Display a configurable web page inside an IntelliJ IDEA tool window using JCEF.
-
-vendor: Web Tabs
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.rod.web-tabs</description>
-      <pubDate>Sat, 18 Jul 2026 16:45:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32986-web-tabs</guid>
-      <dc:date>2026-07-18T16:45:22Z</dc:date>
-    </item>
-    <item>
-      <title>Typing &amp; Time Counter - Fun Break Reminder - Sun Jul 19 12:35:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32974-typing--time-counter--fun-break-reminder</link>
-      <description>Typing &amp;amp; Time Counter is a fun IntelliJ plugin that counts your keystrokes, tracks active coding time, reminds you to take humorous breaks with punchy typing...
-
-vendor: 琼台师范学院万象大模型研究社 Piggy
-downloads: 2
-pricingModel: FREE
-xmlId: com.coder.typing-time-counter-idea</description>
-      <pubDate>Sun, 19 Jul 2026 12:35:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32974-typing--time-counter--fun-break-reminder</guid>
-      <dc:date>2026-07-19T12:35:37Z</dc:date>
-    </item>
-    <item>
-      <title>Codebase Notes - Mon Jul 20 16:47:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32981-codebase-notes</link>
-      <description>Share short file and directory notes through a repository-local .codebase-notes.json file.
-
-vendor: joeljhou
-downloads: 4
-pricingModel: FREE
-xmlId: com.codebasenotes.jetbrains</description>
-      <pubDate>Mon, 20 Jul 2026 16:47:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32981-codebase-notes</guid>
-      <dc:date>2026-07-20T16:47:59Z</dc:date>
     </item>
   </channel>
 </rss>

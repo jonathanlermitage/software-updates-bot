@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.2 to 19.8.5 ~ 2026-07-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 20 20:59:33 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2 (262.8665.258) ~ 2026-07-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jul 16 17:14:13 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 08 13:43:51 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.5|[golang.org](https://golang.org/dl/)|Tue Jul 07 21:13:01 UTC 2026|
@@ -7,7 +8,6 @@
 |![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases)|Fri Jun 26 20:31:11 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.18.0|[nodejs.org](https://nodejs.org)|Wed Jun 24 00:23:21 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 341 - Endives ou Chicorée ?|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Jun 22 09:55:54 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.0 to 19.8.2 ~ 2026-06-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Jun 18 13:01:19 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 00:32:05 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 10 17:00:12 UTC 2026|
