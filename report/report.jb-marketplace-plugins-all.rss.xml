@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>OmniCode Agent - Tue Jul 21 05:21:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33002-omnicode-agent</link>
+      <description>OmniCode Agent is a provider-neutral AI coding and research agent that runs inside JetBrains IDEs. Agent, Plan, and Research workflows with optional bounded Team...
+
+vendor: OmniCode
+downloads: 1
+pricingModel: FREE
+xmlId: dev.omnicode.agent</description>
+      <pubDate>Tue, 21 Jul 2026 05:21:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33002-omnicode-agent</guid>
+      <dc:date>2026-07-21T05:21:12Z</dc:date>
+    </item>
+    <item>
       <title>Frappe Inspector - Tue Jul 21 00:48:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32992-frappe-inspector</link>
       <description>Frappe Inspector adds Frappe Framework and ERPNext project awareness to JetBrains IDEs. Navigate between DocType JSON files, Python controllers, client scripts, tests...
@@ -24,7 +37,7 @@ xmlId: com.frappeinspector.jetbrains</description>
       <description>LDX AI Commits generates your Git commit messages from the staged diff using an LLM, right inside the IDE's commit dialog. Features Generate a commit message from the...
 
 vendor: Liang DongXing
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.ldx.AiCommits</description>
       <pubDate>Mon, 20 Jul 2026 08:28:01 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.ldx.AiCommits</description>
       <description>Language support for Kamailio SIP server configuration files: syntax highlighting, structure view, go to definition, formatting, syntax checks and documentation hover...
 
 vendor: Maksim Nesterov
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.braams.kamailio</description>
       <pubDate>Sun, 19 Jul 2026 18:45:10 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: io.github.braams.kamailio</description>
       <description>Enterprise Project Generator for JetBrains IDEs. Generate production-ready projects using official CLIs and best practices — Spring Boot, FastAPI, Laravel, ASP.NET...
 
 vendor: TabBuilder
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: dev.meikuto.TabBuilder-jetbrains</description>
       <pubDate>Sun, 19 Jul 2026 14:51:49 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: dev.meikuto.TabBuilder-jetbrains</description>
       <description>Shows Flutter localization messages from ARB files directly in Dart code as folding placeholders.
 
 vendor: Naoki Ikeguchi
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: jp.s6n.idea.flutter.l10n</description>
       <pubDate>Sun, 19 Jul 2026 08:36:17 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: jp.s6n.idea.flutter.l10n</description>
       <description>Zoo Code - Your AI-Powered Coding Assistant for JetBrains IDEs Zoo Code brings powerful AI coding capabilities directly into your JetBrains development environment...
 
 vendor: Zoo Code Organization
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: ZooCode</description>
       <pubDate>Sat, 18 Jul 2026 06:23:36 GMT</pubDate>
@@ -84,17 +97,17 @@ xmlId: ZooCode</description>
       <dc:date>2026-07-18T06:23:36Z</dc:date>
     </item>
     <item>
-      <title>Claude Code Commit - Mon Jul 20 11:25:50 UTC 2026</title>
+      <title>Claude Code Commit - Tue Jul 21 02:54:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33019-claude-code-commit</link>
       <description>Generates Git commit messages with the Claude CLI. Adds a button to the commit panel toolbar that sends the list of files checked for the commit to Claude, which...
 
 vendor: ANSIFlOW
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.claudecommit</description>
-      <pubDate>Mon, 20 Jul 2026 11:25:50 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 02:54:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33019-claude-code-commit</guid>
-      <dc:date>2026-07-20T11:25:50Z</dc:date>
+      <dc:date>2026-07-21T02:54:00Z</dc:date>
     </item>
     <item>
       <title>Swagger Viewer - Mon Jul 20 05:02:40 UTC 2026</title>
@@ -115,7 +128,7 @@ xmlId: com.github.delight-HK3.swagger-viewer</description>
       <description>Run Python in IntelliJ IDEA with zero setup — no install required. Python Portable is for the moment you're working in IntelliJ IDEA and just need to run a quick .py...
 
 vendor: GenAI
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.genai.python</description>
       <pubDate>Sun, 19 Jul 2026 08:44:24 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: io.genai.python</description>
       <description>RustRover/IntelliJ support for guicons' icons.gui.toml manifests: full LSP integration (completion, hover, goto-definition, find usages, rename, diagnostics) for the...
 
 vendor: uniproc-dev
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.guicons.idea-plugin</description>
       <pubDate>Sun, 19 Jul 2026 18:46:59 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: dev.guicons.idea-plugin</description>
       <description>Cfml Extra Completion fills gaps in the bundled CFML plugin's code completion. The built-in completion only sees symbols declared in the current file; this plugin adds...
 
 vendor: Emanuele Melini
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: it.emanuelemelini.cfmlextracompletion</description>
       <pubDate>Mon, 20 Jul 2026 10:46:36 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: it.emanuelemelini.cfmlextracompletion</description>
       <description>IntelliJ plugin for FCS CLI integration, providing Infrastructure as Code (IaC) security scanning capabilities. Scan Terraform, CloudFormation, Kubernetes, and other...
 
 vendor: CrowdStrike
-downloads: 2
+downloads: 7
 pricingModel: FREE
 xmlId: com.crowdstrike.fcs-cli-plugin</description>
       <pubDate>Fri, 10 Jul 2026 16:33:20 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.moorror.lattice.agent.ai</description>
       <description>A GUI to visualize JSON Schema files in an eye-friendly way easy to understand. Some JSON Schema drafts are not completely implemented yet. If you notice anything that...
 
 vendor: FLUXparticle
-downloads: 13
+downloads: 47
 pricingModel: FREEMIUM
 xmlId: com.fluxparticle.jsonschemabuddy</description>
       <pubDate>Mon, 20 Jul 2026 12:03:21 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.fluxparticle.jsonschemabuddy</description>
       <description>Visual Deep Link &amp;amp; Intent Tester A powerful Android Studio productivity tool window designed to trigger Deep Links and custom Intents to connected emulators and...
 
 vendor: Carlos Novaez
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.krls.visualdeeplinktester</description>
       <pubDate>Tue, 14 Jul 2026 14:51:19 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.github.krls.visualdeeplinktester</description>
       <description>Provides a few utilities to Minecraft mod developers, including UUID/Username conversion and UUID.fromString() previewing.
 
 vendor: AussieBox
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: org.aussiebox.plugin</description>
       <pubDate>Sun, 19 Jul 2026 06:39:02 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: org.aussiebox.plugin</description>
       <description>Keep a solution's NuGet packages up to date without leaving Rider. dotnet outdated GUI wraps the dotnet-outdated CLI in a tool window: list every package, check for...
 
 vendor: iamr8
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.iamr8.dotnetoutdated</description>
       <pubDate>Sat, 18 Jul 2026 17:10:33 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: dev.sigtrace.plugin</description>
       <description>AI Diff Commit — generate Git commit messages from your selected diff with AI. Streamed output into the Commit message box, with Stop support Many providers: OpenAI...
 
 vendor: Ankio
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: net.ankio.commit</description>
       <pubDate>Sat, 18 Jul 2026 02:33:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32987-ai-diff-commit</guid>
       <dc:date>2026-07-18T02:33:23Z</dc:date>
-    </item>
-    <item>
-      <title>TAS-FrameworkSupport - Sat Jul 18 06:49:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32935-tas-frameworksupport</link>
-      <description>Tas Framework Support provides test case schema validation, auto-completion, code generation, and development tools for TAS test automations.
-
-vendor: Sleodlx
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.sleod.frameworksupport</description>
-      <pubDate>Sat, 18 Jul 2026 06:49:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32935-tas-frameworksupport</guid>
-      <dc:date>2026-07-18T06:49:51Z</dc:date>
     </item>
   </channel>
 </rss>
