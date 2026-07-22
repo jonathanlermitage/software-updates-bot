@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MyChat - Tue Jul 21 19:49:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33050-mychat</link>
+      <description>MyChat integrates popular AI chat services (ChatGPT, Claude, Gemini, etc.) directly into your IDE via a tool window, enabling seamless file and code integration.
+
+vendor: DaPa1
+downloads: 0
+pricingModel: FREE
+xmlId: com.dapa1.MyChat</description>
+      <pubDate>Tue, 21 Jul 2026 19:49:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33050-mychat</guid>
+      <dc:date>2026-07-21T19:49:02Z</dc:date>
+    </item>
+    <item>
       <title>Compiler Explorer Extension - Mon Jul 20 23:43:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33026-compiler-explorer-extension</link>
       <description>Compiler Explorer Extension Plugin allow open a file in Compiler Explorer (godbolt.org) from EditorPopupMenu (right-click in editor) or using `ctrl meta shift C...
@@ -201,19 +214,6 @@ xmlId: git.more.profiles.git-profiles</description>
       <dc:date>2026-07-20T18:58:17Z</dc:date>
     </item>
     <item>
-      <title>Claude Sessions - Wed Jul 22 06:15:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32950-claude-sessions</link>
-      <description>Shows exactly what Claude Code changed in a session — never mixed up with your own uncommitted edits. Claude Sessions tool window: browse sessions for the current...
-
-vendor: Claude Session
-downloads: 2
-pricingModel: FREE
-xmlId: com.progressoft.sessiondiff</description>
-      <pubDate>Wed, 22 Jul 2026 06:15:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32950-claude-sessions</guid>
-      <dc:date>2026-07-22T06:15:45Z</dc:date>
-    </item>
-    <item>
       <title>Git Branch Notes - Tue Jul 21 09:05:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33042-git-branch-notes</link>
       <description>Displays Git branch notes next to local branch names in IntelliJ IDEA. Annotates local branches in the Git Log branch dashboard. Shows the current branch and its note...
@@ -240,7 +240,7 @@ xmlId: com.aishware.react-a11y</description>
       <dc:date>2026-07-21T06:22:23Z</dc:date>
     </item>
     <item>
-      <title>OmniCode Agent - Tue Jul 21 16:17:59 UTC 2026</title>
+      <title>OmniCode Agent - Wed Jul 22 10:10:16 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33002-omnicode-agent</link>
       <description>OmniCode Agent is a provider-neutral AI coding and research agent that runs inside JetBrains IDEs. Agent, editable Plan Board, read-only Claude Plan, and Research...
 
@@ -248,9 +248,9 @@ vendor: OmniCode
 downloads: 48
 pricingModel: FREE
 xmlId: dev.omnicode.agent</description>
-      <pubDate>Tue, 21 Jul 2026 16:17:59 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 10:10:16 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33002-omnicode-agent</guid>
-      <dc:date>2026-07-21T16:17:59Z</dc:date>
+      <dc:date>2026-07-22T10:10:16Z</dc:date>
     </item>
     <item>
       <title>Frappe Inspector - Wed Jul 22 01:28:20 UTC 2026</title>
