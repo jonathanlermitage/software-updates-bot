@@ -6,7 +6,20 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Claude Sessions - Wed Jul 22 09:38:37 UTC 2026</title>
+      <title>Cag (Clean Architecture Generator) - Wed Jul 22 13:09:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33066-cag-clean-architecture-generator-</link>
+      <description>Gere automaticamente os arquivos de uma nova feature seguindo os princípios de Clean Architecture. O plugin lê a configuração definida no arquivo .cag/config.json do...
+
+vendor: Augusto Zanoli
+downloads: 0
+pricingModel: FREE
+xmlId: com.cag.cag</description>
+      <pubDate>Wed, 22 Jul 2026 13:09:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33066-cag-clean-architecture-generator-</guid>
+      <dc:date>2026-07-22T13:09:12Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Sessions - Wed Jul 22 14:40:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33063-claude-sessions</link>
       <description>Shows exactly what Claude Code changed in a session — never mixed up with your own uncommitted edits. Claude Sessions tool window: browse sessions for the current...
 
@@ -14,9 +27,9 @@ vendor: Claude Session
 downloads: 0
 pricingModel: FREE
 xmlId: com.ahmedalazaizeh.sessiondiff</description>
-      <pubDate>Wed, 22 Jul 2026 09:38:37 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 14:40:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33063-claude-sessions</guid>
-      <dc:date>2026-07-22T09:38:37Z</dc:date>
+      <dc:date>2026-07-22T14:40:15Z</dc:date>
     </item>
     <item>
       <title>Easy Generate (Refactored, Upgraded, Bug-fixed) - Wed Jul 22 07:12:19 UTC 2026</title>
@@ -162,7 +175,7 @@ xmlId: cz.cuni.mff.gitlab.zelezno.promela-plugin</description>
       <dc:date>2026-07-20T18:40:40Z</dc:date>
     </item>
     <item>
-      <title>Diffzu - Mon Jul 20 13:04:28 UTC 2026</title>
+      <title>Diffzu - Wed Jul 22 18:01:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32964-diffzu</link>
       <description>Reviews large AI-generated diffs by grouping them into conceptual change-sets. Instead of scrolling one endless flat diff, you get a tree of concepts ("Auth refactor...
 
@@ -170,9 +183,9 @@ vendor: Diffzu
 downloads: 3
 pricingModel: FREE
 xmlId: dev.diffzu</description>
-      <pubDate>Mon, 20 Jul 2026 13:04:28 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 18:01:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32964-diffzu</guid>
-      <dc:date>2026-07-20T13:04:28Z</dc:date>
+      <dc:date>2026-07-22T18:01:53Z</dc:date>
     </item>
     <item>
       <title>IssueHub - Tue Jul 21 13:52:54 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: dev.gitfocus</description>
       <pubDate>Sun, 19 Jul 2026 22:36:42 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33007-gitfocus</guid>
       <dc:date>2026-07-19T22:36:42Z</dc:date>
-    </item>
-    <item>
-      <title>A-Share Stock Watcher - Tue Jul 21 05:48:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33031-a-share-stock-watcher</link>
-      <description>A compact IntelliJ IDEA tool window for watching A-share stock quotes, backed by Sina Finance.
-
-vendor: Forever
-downloads: 4
-pricingModel: FREE
-xmlId: com.forever.stockwatcher</description>
-      <pubDate>Tue, 21 Jul 2026 05:48:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33031-a-share-stock-watcher</guid>
-      <dc:date>2026-07-21T05:48:31Z</dc:date>
     </item>
   </channel>
 </rss>
