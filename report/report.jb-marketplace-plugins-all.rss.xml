@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Compiler Explorer Extension - Mon Jul 20 23:43:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33026-compiler-explorer-extension</link>
+      <description>Compiler Explorer Extension Plugin allow open a file in Compiler Explorer (godbolt.org) from EditorPopupMenu (right-click in editor) or using `ctrl meta shift C...
+
+vendor: g4l9
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.g4l4.plugins.cep</description>
+      <pubDate>Mon, 20 Jul 2026 23:43:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33026-compiler-explorer-extension</guid>
+      <dc:date>2026-07-20T23:43:25Z</dc:date>
+    </item>
+    <item>
       <title>Promela - Mon Jul 20 18:40:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32965-promela</link>
       <description>The plugin adds support for the Promela language and the Spin model checker. Features: Coding assistance (highlighting, context-aware completion, formatting, etc...
 
 vendor: Ondřej Železňák
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: cz.cuni.mff.gitlab.zelezno.promela-plugin</description>
       <pubDate>Mon, 20 Jul 2026 18:40:40 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: cz.cuni.mff.gitlab.zelezno.promela-plugin</description>
       <description>Reviews large AI-generated diffs by grouping them into conceptual change-sets. Instead of scrolling one endless flat diff, you get a tree of concepts ("Auth refactor...
 
 vendor: Diffzu
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.diffzu</description>
       <pubDate>Mon, 20 Jul 2026 13:04:28 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: dev.diffzu</description>
       <description>IssueHub brings your GitHub issues into the IDE. Browse and open issues for the current repository from a dedicated tool window, without leaving your editor. Lists...
 
 vendor: Vedran Hrabar
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.vhrabar.issuehub</description>
       <pubDate>Tue, 21 Jul 2026 13:52:54 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: MoFangAviatorScript</description>
       <description>Domorium helps you read and edit .ged and .gedcom files with confidence. It understands the GEDCOM structure, suggests valid entries, and reports problems as you type...
 
 vendor: lavich
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: dev.domorium.jetbrains</description>
       <pubDate>Tue, 21 Jul 2026 08:10:10 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: dev.domorium.jetbrains</description>
       <description>Branchive Version control for teams that work with large binary assets, backed by the Branchive server-side fork of Epic's Lore VCS. This plugin registers Branchive as...
 
 vendor: BITS, LLC
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: io.branchive.vcs</description>
       <pubDate>Mon, 20 Jul 2026 01:29:58 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: io.branchive.vcs</description>
       <description>Klikor IDE Bridge Lets you control this IDE directly from the Klikor desktop app: run/debug configurations, step commands, and any other IDE action, triggered from...
 
 vendor: BITS, LLC
-downloads: 4
+downloads: 6
 pricingModel: FREE
 xmlId: io.klikor.bridge</description>
       <pubDate>Tue, 14 Jul 2026 11:03:22 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: io.klikor.bridge</description>
       <description>GitFocus hides what you are not working on. Pick a few commits (or directories and files), and the Project view shows only the files that belong to them. Your local...
 
 vendor: Michał Rutkowski
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: dev.gitfocus</description>
       <pubDate>Sun, 19 Jul 2026 22:36:42 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: dev.gitfocus</description>
       <description>A compact IntelliJ IDEA tool window for watching A-share stock quotes, backed by Sina Finance.
 
 vendor: Forever
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.forever.stockwatcher</description>
       <pubDate>Tue, 21 Jul 2026 05:48:31 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.forever.stockwatcher</description>
       <description>AI-powered companion for Karate Framework: agent chat, feature generation from curl/contracts, feature analysis, and local mock server. Supports Gemini, OpenAI, Claude...
 
 vendor: Felipe Farias
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.hakalab.karate-dojo</description>
       <pubDate>Tue, 21 Jul 2026 03:46:28 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.hakalab.karate-dojo</description>
       <description>Makes task-list checkboxes in IntelliJ IDEA's built-in Markdown JCEF preview interactive. Click a checkbox in the preview to update the source Markdown between...
 
 vendor: feiju12138
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: cn.fj.loli.markdowntodolist</description>
       <pubDate>Tue, 21 Jul 2026 10:08:53 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: cn.fj.loli.markdowntodolist</description>
       <description>Adds GitButler virtual-branch support to the IntelliJ commit window, letting you assign changes to virtual branches without leaving the IDE. This is an unofficial...
 
 vendor: BartInTheField
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: me.inthefield.gitbutlerforjetbrains</description>
       <pubDate>Mon, 20 Jul 2026 19:48:27 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: me.inthefield.gitbutlerforjetbrains</description>
       <description>aidimag plugin for IntelliJ IDEA. It embeds the dashboard and exposes common dim CLI actions.
 
 vendor: AiDimag
-downloads: 0
+downloads: 14
 pricingModel: FREE
 xmlId: com.aidimag.plugin</description>
       <pubDate>Tue, 21 Jul 2026 19:38:13 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.aidimag.plugin</description>
       <description>Manage git identity profiles (user.name + user.email). Store profiles once, then apply any of them as the global git identity or assign one per git repository in every...
 
 vendor: Aleksandr Krasilnikov
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: git.more.profiles.git-profiles</description>
       <pubDate>Mon, 20 Jul 2026 18:58:17 GMT</pubDate>
@@ -188,17 +201,17 @@ xmlId: git.more.profiles.git-profiles</description>
       <dc:date>2026-07-20T18:58:17Z</dc:date>
     </item>
     <item>
-      <title>Claude Sessions - Tue Jul 21 07:46:25 UTC 2026</title>
+      <title>Claude Sessions - Wed Jul 22 06:15:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32950-claude-sessions</link>
       <description>Shows exactly what Claude Code changed in a session — never mixed up with your own uncommitted edits. Claude Sessions tool window: browse sessions for the current...
 
 vendor: Claude Session
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.progressoft.sessiondiff</description>
-      <pubDate>Tue, 21 Jul 2026 07:46:25 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 06:15:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32950-claude-sessions</guid>
-      <dc:date>2026-07-21T07:46:25Z</dc:date>
+      <dc:date>2026-07-22T06:15:45Z</dc:date>
     </item>
     <item>
       <title>Git Branch Notes - Tue Jul 21 09:05:27 UTC 2026</title>
@@ -206,7 +219,7 @@ xmlId: com.progressoft.sessiondiff</description>
       <description>Displays Git branch notes next to local branch names in IntelliJ IDEA. Annotates local branches in the Git Log branch dashboard. Shows the current branch and its note...
 
 vendor: hbymrito
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.hbymrito.branchnotes</description>
       <pubDate>Tue, 21 Jul 2026 09:05:27 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.github.hbymrito.branchnotes</description>
       <description>Inline WCAG 2.2 accessibility diagnostics and quick fixes for React and React Native, powered by react-a11y. Live diagnostics as you type, with WCAG success criteria...
 
 vendor: Aishwarya Sharma
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.aishware.react-a11y</description>
       <pubDate>Tue, 21 Jul 2026 06:22:23 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.aishware.react-a11y</description>
       <description>OmniCode Agent is a provider-neutral AI coding and research agent that runs inside JetBrains IDEs. Agent, editable Plan Board, read-only Claude Plan, and Research...
 
 vendor: OmniCode
-downloads: 1
+downloads: 48
 pricingModel: FREE
 xmlId: dev.omnicode.agent</description>
       <pubDate>Tue, 21 Jul 2026 16:17:59 GMT</pubDate>
@@ -240,30 +253,17 @@ xmlId: dev.omnicode.agent</description>
       <dc:date>2026-07-21T16:17:59Z</dc:date>
     </item>
     <item>
-      <title>Frappe Inspector - Tue Jul 21 00:48:13 UTC 2026</title>
+      <title>Frappe Inspector - Wed Jul 22 01:28:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32992-frappe-inspector</link>
       <description>Frappe Inspector adds Frappe Framework and ERPNext project awareness to JetBrains IDEs. Navigate between DocType JSON files, Python controllers, client scripts, tests...
 
 vendor: Mohamed Tazi Hnyine
-downloads: 10
+downloads: 28
 pricingModel: FREEMIUM
 xmlId: com.frappeinspector.jetbrains</description>
-      <pubDate>Tue, 21 Jul 2026 00:48:13 GMT</pubDate>
+      <pubDate>Wed, 22 Jul 2026 01:28:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32992-frappe-inspector</guid>
-      <dc:date>2026-07-21T00:48:13Z</dc:date>
-    </item>
-    <item>
-      <title>LDX AI Commits - Mon Jul 20 08:28:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32886-ldx-ai-commits</link>
-      <description>LDX AI Commits generates your Git commit messages from the staged diff using an LLM, right inside the IDE's commit dialog. Features Generate a commit message from the...
-
-vendor: Liang DongXing
-downloads: 3
-pricingModel: FREE
-xmlId: com.ldx.AiCommits</description>
-      <pubDate>Mon, 20 Jul 2026 08:28:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32886-ldx-ai-commits</guid>
-      <dc:date>2026-07-20T08:28:01Z</dc:date>
+      <dc:date>2026-07-22T01:28:20Z</dc:date>
     </item>
   </channel>
 </rss>
