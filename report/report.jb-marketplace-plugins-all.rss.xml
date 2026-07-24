@@ -6,6 +6,123 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MCP WSL Bridge - Fri Jul 24 01:46:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33086-mcp-wsl-bridge</link>
+      <description>Exposes IntelliJ's loopback-only MCP server to WSL through selected Windows network interfaces. Choose one or more NIC addresses, then MCP WSL Bridge transparently...
+
+vendor: dornol
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.dornol.mcpwslbridge</description>
+      <pubDate>Fri, 24 Jul 2026 01:46:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33086-mcp-wsl-bridge</guid>
+      <dc:date>2026-07-24T01:46:20Z</dc:date>
+    </item>
+    <item>
+      <title>language-interface - Thu Jul 23 08:29:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33081-language-interface</link>
+      <description>Language Interface provides Java type search and source code retrieval capabilities for MCP clients through IntelliJ IDEA. 中文说明 简介 AI Code Agent...
+
+vendor: saika
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.saikanya.languageinterface</description>
+      <pubDate>Thu, 23 Jul 2026 08:29:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33081-language-interface</guid>
+      <dc:date>2026-07-23T08:29:14Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Todos - Thu Jul 23 00:03:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33074-claude-todos</link>
+      <description>Live observability for your Claude Code agents: agent tree, per-task progress, tokens/context/cache and a 7-day usage dashboard — read from the transcripts Claude Code...
+
+vendor: carlosdealmeida
+downloads: 2
+pricingModel: FREE
+xmlId: com.carlosdealmeida.claude-todos</description>
+      <pubDate>Thu, 23 Jul 2026 00:03:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33074-claude-todos</guid>
+      <dc:date>2026-07-23T00:03:20Z</dc:date>
+    </item>
+    <item>
+      <title>ComposableGeneration - Wed Jul 22 22:16:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33072-composablegeneration</link>
+      <description>ComposableGeneration helps you create Jetpack Compose functions quickly in Android Studio and IntelliJ IDEA. Usage Open the New menu and select Composable Function...
+
+vendor: Tanexc
+downloads: 1
+pricingModel: FREE
+xmlId: com.tanexc.ComposableGeneration</description>
+      <pubDate>Wed, 22 Jul 2026 22:16:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33072-composablegeneration</guid>
+      <dc:date>2026-07-22T22:16:55Z</dc:date>
+    </item>
+    <item>
+      <title>copy-ai-reference - Thu Jul 23 07:24:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33079-copy-ai-reference</link>
+      <description>The Copy Ai Reference plugin is an IntelliJ IDEA plugin designed to facilitate copying code references (in the format @path#LstartLine-endLine) for use with AI CLI...
+
+vendor: BaoYang
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.runtimeexcpetion.copyaireference</description>
+      <pubDate>Thu, 23 Jul 2026 07:24:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33079-copy-ai-reference</guid>
+      <dc:date>2026-07-23T07:24:23Z</dc:date>
+    </item>
+    <item>
+      <title>AI Change Radar - Thu Jul 23 03:06:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33076-ai-change-radar</link>
+      <description>Local risk checks for AI-assisted code changes. AI Change Radar reviews selected commit changes and the current working tree for sensitive assignments, high-risk...
+
+vendor: QCoding
+downloads: 2
+pricingModel: FREE
+xmlId: dev.qcoding.aichangeradar</description>
+      <pubDate>Thu, 23 Jul 2026 03:06:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33076-ai-change-radar</guid>
+      <dc:date>2026-07-23T03:06:13Z</dc:date>
+    </item>
+    <item>
+      <title>Ctrl + Row - Thu Jul 23 17:48:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33055-ctrl--row</link>
+      <description>Run selected TestNG CSV data rows directly from IntelliJ IDEA.
+
+vendor: Rubaiz Momin
+downloads: 3
+pricingModel: FREE
+xmlId: com.rubaizmomin.csvsuiterunner</description>
+      <pubDate>Thu, 23 Jul 2026 17:48:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33055-ctrl--row</guid>
+      <dc:date>2026-07-23T17:48:53Z</dc:date>
+    </item>
+    <item>
+      <title>Status Bar Extension - Thu Jul 23 02:16:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33075-status-bar-extension</link>
+      <description>Display Shell command output in the IntelliJ IDEA status bar. Run one never-ending command and follow its output, execute once with a timeout, or repeat short-running...
+
+vendor: feiju12138
+downloads: 2
+pricingModel: FREE
+xmlId: cn.fj.loli.statusbarextension</description>
+      <pubDate>Thu, 23 Jul 2026 02:16:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33075-status-bar-extension</guid>
+      <dc:date>2026-07-23T02:16:29Z</dc:date>
+    </item>
+    <item>
+      <title>Git Rebase and Push Assistant - Thu Jul 23 13:05:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33053-git-rebase-and-push-assistant</link>
+      <description>Git Rebase and Push Assistant Streamline your Git workflow with one-click automation for rebase, commit, and push operations. ✨ Key Features Smart Rebase &amp;amp; Push...
+
+vendor: examplecn
+downloads: 3
+pricingModel: FREE
+xmlId: io.github.pengjran.git-rebase-push-assistant</description>
+      <pubDate>Thu, 23 Jul 2026 13:05:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33053-git-rebase-and-push-assistant</guid>
+      <dc:date>2026-07-23T13:05:08Z</dc:date>
+    </item>
+    <item>
       <title>HTML to Fritz2 DSL Converter - Sun Jul 19 14:44:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32833-html-to-fritz2-dsl-converter</link>
       <description>A smart tool that automatically intercepts pasted HTML code inside Kotlin files and converts it into clean, authentic Fritz2 DSL markup.
@@ -19,7 +136,7 @@ xmlId: com.github.lure0xaos.fritz2html</description>
       <dc:date>2026-07-19T14:44:01Z</dc:date>
     </item>
     <item>
-      <title>Shopware 6 Toolkit - Thu Jul 23 11:19:00 UTC 2026</title>
+      <title>Shopware 6 Toolkit - Fri Jul 24 08:44:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/28356-shopware-6-toolkit</link>
       <description>The ultimate Shopware 6 development toolkit for PhpStorm and IntelliJ IDEA. Boost your Shopware 6 development productivity with intelligent code completion...
 
@@ -27,9 +144,9 @@ vendor: Felix Astner Software
 downloads: 29
 pricingModel: PAID
 xmlId: com.felixastner.IntellijShopwarePlugin</description>
-      <pubDate>Thu, 23 Jul 2026 11:19:00 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 08:44:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/28356-shopware-6-toolkit</guid>
-      <dc:date>2026-07-23T11:19:00Z</dc:date>
+      <dc:date>2026-07-24T08:44:19Z</dc:date>
     </item>
     <item>
       <title>Create MVC Package - Wed Jul 22 17:51:49 UTC 2026</title>
@@ -97,7 +214,7 @@ xmlId: com.star.easy_generate_Refactored_Upgraded_BugFixed</description>
       <dc:date>2026-07-22T07:12:19Z</dc:date>
     </item>
     <item>
-      <title>Wallpaper Settings - Wed Jul 22 07:39:28 UTC 2026</title>
+      <title>Wallpaper Settings - Fri Jul 24 08:01:32 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33059-wallpaper-settings</link>
       <description>Set Bing daily wallpaper or custom local image as your IDE background. Features: - Bing daily wallpaper or custom local image as background - Auto backup downloaded...
 
@@ -105,9 +222,9 @@ vendor: pan xingbin
 downloads: 12
 pricingModel: FREE
 xmlId: com.saturn.intellijPlugin.wallpaperSettings</description>
-      <pubDate>Wed, 22 Jul 2026 07:39:28 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 08:01:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33059-wallpaper-settings</guid>
-      <dc:date>2026-07-22T07:39:28Z</dc:date>
+      <dc:date>2026-07-24T08:01:32Z</dc:date>
     </item>
     <item>
       <title>AI Algo Helper - Thu Jul 23 12:27:09 UTC 2026</title>
@@ -147,123 +264,6 @@ xmlId: com.ximon.chat</description>
       <pubDate>Thu, 23 Jul 2026 07:21:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32952-ximon-chat-assistant</guid>
       <dc:date>2026-07-23T07:21:05Z</dc:date>
-    </item>
-    <item>
-      <title>Markdown Character Grid - Wed Jul 22 03:14:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33013-markdown-character-grid</link>
-      <description>Enables Character Grid mode for Markdown files so CJK (Chinese, Japanese, Korean) characters render at exactly 2x ASCII character width, keeping Markdown tables...
-
-vendor: ANSIFlOW
-downloads: 7
-pricingModel: FREE
-xmlId: com.github.mdgrid</description>
-      <pubDate>Wed, 22 Jul 2026 03:14:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33013-markdown-character-grid</guid>
-      <dc:date>2026-07-22T03:14:05Z</dc:date>
-    </item>
-    <item>
-      <title>Ceres Image Editor with Background Removal - Tue Jul 21 17:50:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33049-ceres-image-editor-with-background-removal</link>
-      <description>Edit images without leaving your JetBrains IDE. Crop and resize images, convert them to WebP and other popular formats, remove backgrounds with local AI, and add the...
-
-vendor: Andreas Express
-downloads: 7
-pricingModel: FREE
-xmlId: luna-image-editor</description>
-      <pubDate>Tue, 21 Jul 2026 17:50:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33049-ceres-image-editor-with-background-removal</guid>
-      <dc:date>2026-07-21T17:50:31Z</dc:date>
-    </item>
-    <item>
-      <title>Spotify Player - Tue Jul 21 19:59:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33025-spotify-player</link>
-      <description>Control Spotify without leaving your JetBrains IDE. Current track with cover art and progress bar Play / pause, next and previous Shuffle mode with a single click...
-
-vendor: edsuuu
-downloads: 10
-pricingModel: FREE
-xmlId: com.edsuuu.spotify.player</description>
-      <pubDate>Tue, 21 Jul 2026 19:59:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33025-spotify-player</guid>
-      <dc:date>2026-07-21T19:59:51Z</dc:date>
-    </item>
-    <item>
-      <title>MyChat - Tue Jul 21 19:49:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33050-mychat</link>
-      <description>MyChat integrates popular AI chat services (ChatGPT, Claude, Gemini, etc.) directly into your IDE via a tool window, enabling seamless file and code integration.
-
-vendor: DaPa1
-downloads: 6
-pricingModel: FREE
-xmlId: com.dapa1.MyChat</description>
-      <pubDate>Tue, 21 Jul 2026 19:49:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33050-mychat</guid>
-      <dc:date>2026-07-21T19:49:02Z</dc:date>
-    </item>
-    <item>
-      <title>Compiler Explorer Extension - Mon Jul 20 23:43:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33026-compiler-explorer-extension</link>
-      <description>Compiler Explorer Extension Plugin allow open a file in Compiler Explorer (godbolt.org) from EditorPopupMenu (right-click in editor) or using `ctrl meta shift C...
-
-vendor: g4l9
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.g4l4.plugins.cep</description>
-      <pubDate>Mon, 20 Jul 2026 23:43:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33026-compiler-explorer-extension</guid>
-      <dc:date>2026-07-20T23:43:25Z</dc:date>
-    </item>
-    <item>
-      <title>Promela - Mon Jul 20 18:40:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32965-promela</link>
-      <description>The plugin adds support for the Promela language and the Spin model checker. Features: Coding assistance (highlighting, context-aware completion, formatting, etc...
-
-vendor: Ondřej Železňák
-downloads: 8
-pricingModel: FREE
-xmlId: cz.cuni.mff.gitlab.zelezno.promela-plugin</description>
-      <pubDate>Mon, 20 Jul 2026 18:40:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32965-promela</guid>
-      <dc:date>2026-07-20T18:40:40Z</dc:date>
-    </item>
-    <item>
-      <title>Diffzu - Wed Jul 22 18:01:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32964-diffzu</link>
-      <description>Reviews large AI-generated diffs by grouping them into conceptual change-sets. Instead of scrolling one endless flat diff, you get a tree of concepts ("Auth refactor...
-
-vendor: Diffzu
-downloads: 19
-pricingModel: FREE
-xmlId: dev.diffzu</description>
-      <pubDate>Wed, 22 Jul 2026 18:01:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32964-diffzu</guid>
-      <dc:date>2026-07-22T18:01:53Z</dc:date>
-    </item>
-    <item>
-      <title>IssueHub - Tue Jul 21 13:52:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33044-issuehub</link>
-      <description>IssueHub brings your GitHub issues into the IDE. Browse and open issues for the current repository from a dedicated tool window, without leaving your editor. Lists...
-
-vendor: Vedran Hrabar
-downloads: 18
-pricingModel: FREE
-xmlId: com.github.vhrabar.issuehub</description>
-      <pubDate>Tue, 21 Jul 2026 13:52:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33044-issuehub</guid>
-      <dc:date>2026-07-21T13:52:54Z</dc:date>
-    </item>
-    <item>
-      <title>MoFangAviatorScript - Tue Jul 21 09:04:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33041-mofangaviatorscript</link>
-      <description>AviatorScript IntelliJ IDEA Plugin - Comprehensive IDE support for AviatorScript, a lightweight high-performance JVM scripting language. &#x1f680; 核心功能 语法高亮...
-
-vendor: Weizhu Ji，Magic Cube Studio，Customer Service Center，China Telecom Shanghai Branch
-downloads: 3
-pricingModel: FREE
-xmlId: MoFangAviatorScript</description>
-      <pubDate>Tue, 21 Jul 2026 09:04:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33041-mofangaviatorscript</guid>
-      <dc:date>2026-07-21T09:04:54Z</dc:date>
     </item>
   </channel>
 </rss>
