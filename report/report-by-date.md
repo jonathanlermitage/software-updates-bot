@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 20:53:45 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 20:53:45 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.12+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 17:19:13 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 17:19:10 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2.1 (262.9437.22) ~ 2026-07-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jul 24 13:27:30 UTC 2026|
@@ -27,11 +29,9 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 29 12:25:35 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.31+11|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Apr 28 20:25:50 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.11+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Apr 28 16:31:53 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Apr 28 12:29:16 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.31+11|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Apr 28 12:29:15 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.11+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Apr 27 12:25:36 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Apr 24 16:17:08 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.19+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 22 20:16:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.3+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Apr 22 12:15:42 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.0.2 (2026-03-16)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Mon Mar 16 16:19:31 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
