@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Claude Standby - Fri Jul 24 13:38:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33111-claude-standby</link>
+      <description>A native JetBrains cockpit for the claude-standby command-line tool. Inspect the current workspace, schedule a Claude Code resume, cancel pending work, inspect logs...
+
+vendor: 0xsaju
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.0xsaju.claudestandby</description>
+      <pubDate>Fri, 24 Jul 2026 13:38:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33111-claude-standby</guid>
+      <dc:date>2026-07-24T13:38:01Z</dc:date>
+    </item>
+    <item>
+      <title>HexaGen: SQL to Hexagonal Java - Fri Jul 24 12:54:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33109-hexagen-sql-to-hexagonal-java</link>
+      <description>HexaGen automates the generation of complete, enterprise-grade Java / Spring Boot backends using Hexagonal Architecture (DDD / Clean Architecture) directly from your...
+
+vendor: Axeldorf Tech
+downloads: 0
+pricingModel: FREE
+xmlId: com.axeldorf.hexagen</description>
+      <pubDate>Fri, 24 Jul 2026 12:54:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33109-hexagen-sql-to-hexagonal-java</guid>
+      <dc:date>2026-07-24T12:54:41Z</dc:date>
+    </item>
+    <item>
       <title>SVN Integration for TortoiseSVN - Fri Jul 24 11:31:29 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33107-svn-integration-for-tortoisesvn</link>
       <description>Bridges JetBrains IDE context menus to the installed TortoiseSVN client on Windows. Supports Project View, editor popups, editor tabs, and Rider File System/Solution...
@@ -71,7 +97,7 @@ xmlId: com.batsura.idea.plugin.gitlabsyncplugin</description>
       <dc:date>2026-07-24T05:53:52Z</dc:date>
     </item>
     <item>
-      <title>MavenUp - Thu Jul 23 18:52:16 UTC 2026</title>
+      <title>MavenUp - Fri Jul 24 15:22:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33068-mavenup</link>
       <description>IntelliJ plugin for Maven projects to simplify dependency and plugin management. It provides a clear table view of all declared components and enables easy updates to...
 
@@ -79,9 +105,9 @@ vendor: schwarzland
 downloads: 2
 pricingModel: FREE
 xmlId: de.schwarzland.mavenup</description>
-      <pubDate>Thu, 23 Jul 2026 18:52:16 GMT</pubDate>
+      <pubDate>Fri, 24 Jul 2026 15:22:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33068-mavenup</guid>
-      <dc:date>2026-07-23T18:52:16Z</dc:date>
+      <dc:date>2026-07-24T15:22:57Z</dc:date>
     </item>
     <item>
       <title>Large File Compare - Thu Jul 23 11:52:10 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: io.github.pengjran.git-rebase-push-assistant</description>
       <pubDate>Thu, 23 Jul 2026 13:05:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33053-git-rebase-and-push-assistant</guid>
       <dc:date>2026-07-23T13:05:08Z</dc:date>
-    </item>
-    <item>
-      <title>HTML to Fritz2 DSL Converter - Sun Jul 19 14:44:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32833-html-to-fritz2-dsl-converter</link>
-      <description>A smart tool that automatically intercepts pasted HTML code inside Kotlin files and converts it into clean, authentic Fritz2 DSL markup.
-
-vendor: Lure of Chaos
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.lure0xaos.fritz2html</description>
-      <pubDate>Sun, 19 Jul 2026 14:44:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32833-html-to-fritz2-dsl-converter</guid>
-      <dc:date>2026-07-19T14:44:01Z</dc:date>
-    </item>
-    <item>
-      <title>Shopware 6 Toolkit - Fri Jul 24 08:44:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/28356-shopware-6-toolkit</link>
-      <description>The ultimate Shopware 6 development toolkit for PhpStorm and IntelliJ IDEA. Boost your Shopware 6 development productivity with intelligent code completion...
-
-vendor: Felix Astner Software
-downloads: 29
-pricingModel: PAID
-xmlId: com.felixastner.IntellijShopwarePlugin</description>
-      <pubDate>Fri, 24 Jul 2026 08:44:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28356-shopware-6-toolkit</guid>
-      <dc:date>2026-07-24T08:44:19Z</dc:date>
     </item>
   </channel>
 </rss>
