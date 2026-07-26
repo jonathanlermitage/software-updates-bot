@@ -11,7 +11,7 @@
       <description>A native JetBrains cockpit for the claude-standby command-line tool. Inspect the current workspace, schedule a Claude Code resume, cancel pending work, inspect logs...
 
 vendor: 0xsaju
-downloads: 22
+downloads: 31
 pricingModel: FREE
 xmlId: io.github.0xsaju.claudestandby</description>
       <pubDate>Fri, 24 Jul 2026 13:38:01 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: io.github.0xsaju.claudestandby</description>
       <description>HexaGen automates the generation of complete, enterprise-grade Java / Spring Boot backends using Hexagonal Architecture (DDD / Clean Architecture) directly from your...
 
 vendor: Axeldorf Tech
-downloads: 6
+downloads: 13
 pricingModel: FREE
 xmlId: com.axeldorf.hexagen</description>
       <pubDate>Fri, 24 Jul 2026 12:54:41 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.axeldorf.hexagen</description>
       <description>Bridges JetBrains IDE context menus to the installed TortoiseSVN client on Windows. Supports Project View, editor popups, editor tabs, and Rider File System/Solution...
 
 vendor: Svn IDEA Integration
-downloads: 5
+downloads: 11
 pricingModel: FREE
 xmlId: com.whalesea.svnideaintegration</description>
       <pubDate>Fri, 24 Jul 2026 11:31:29 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.whalesea.svnideaintegration</description>
       <description>Live-Invoke Invoke methods in a running JVM directly from the IntelliJ IDEA editor and view results in real-time. 在 IntelliJ IDEA 中直接调用运行中 JVM 的方法，实时查看返回结果。 &#x1f50c; 核心功能...
 
 vendor: Liu Chuang
-downloads: 3
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.addliu.liveinvoke.live-invoke</description>
       <pubDate>Fri, 24 Jul 2026 09:35:55 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.github.addliu.liveinvoke.live-invoke</description>
       <description>A real DuckDB SQL dialect for DataGrip and IntelliJ-family IDEs, with ready-to-use data sources for local/embedded DuckDB and GizmoSQL servers (Arrow-free quack-jdbc...
 
 vendor: sort.dev
-downloads: 3
+downloads: 25
 pricingModel: FREE
 xmlId: dev.sort.duckdb-intellij-plugin</description>
       <pubDate>Sat, 25 Jul 2026 09:29:33 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: dev.sort.duckdb-intellij-plugin</description>
       <description>Native version control support for Game of Trees (got) in the IDE. Detects .got/ work trees automatically File status, native diff, and modified-lines gutter Commit...
 
 vendor: Tlacuilo.inc
-downloads: 9
+downloads: 25
 pricingModel: FREE
 xmlId: dev.nezzontli.gotvcs</description>
       <pubDate>Sat, 25 Jul 2026 02:46:07 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: dev.nezzontli.gotvcs</description>
       <description>Sync a GitLab fork with its parent repository and clean up local branches — without manually configuring an upstream remote. Pull / Rebase / Hard Reset the current...
 
 vendor: Sergei Batsura
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: com.batsura.idea.plugin.gitlabsyncplugin</description>
       <pubDate>Fri, 24 Jul 2026 05:53:52 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.batsura.idea.plugin.gitlabsyncplugin</description>
       <description>IntelliJ plugin for Maven projects to simplify dependency and plugin management. It provides a clear table view of all declared components and enables easy updates to...
 
 vendor: schwarzland
-downloads: 16
+downloads: 43
 pricingModel: FREE
 xmlId: de.schwarzland.mavenup</description>
       <pubDate>Sat, 25 Jul 2026 10:24:59 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: de.schwarzland.mavenup</description>
       <description>Large File Compare Sort and diff very large text files (200k–2M lines) that your IDE's built-in diff viewer chokes on — SQL exports, CSV dumps, structured logs, and...
 
 vendor: Aditya Kumar
-downloads: 5
+downloads: 9
 pricingModel: FREE
 xmlId: com.adityakumar.largefilecompare</description>
       <pubDate>Thu, 23 Jul 2026 11:52:10 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.adityakumar.largefilecompare</description>
       <description>Fork of starxg/mybatis-log-plugin-free, with dependency upgrades and compatibility improvements. Restore mybatis sql log to original whole executable sql.**usage...
 
 vendor: mawl
-downloads: 4
+downloads: 10
 pricingModel: FREE
 xmlId: com.mawl.mybatislog</description>
       <pubDate>Fri, 24 Jul 2026 03:46:32 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.mawl.mybatislog</description>
       <description>Start a static HTTP server directly from any JetBrains IDE using standard Run Configuration. 1. Run &amp;gt; Edit Configurations &amp;gt; + &amp;gt; HTTP Server to add; 2. Set...
 
 vendor: moke moke
-downloads: 3
+downloads: 8
 pricingModel: FREE
 xmlId: plugin.mx.http.server</description>
       <pubDate>Fri, 24 Jul 2026 03:57:51 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: plugin.mx.http.server</description>
       <description>Exposes IntelliJ's loopback-only MCP server to WSL through selected Windows network interfaces. Choose one or more NIC addresses, then MCP WSL Bridge transparently...
 
 vendor: dornol
-downloads: 8
+downloads: 29
 pricingModel: FREE
 xmlId: io.github.dornol.mcpwslbridge</description>
       <pubDate>Sat, 25 Jul 2026 12:05:10 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: io.github.dornol.mcpwslbridge</description>
       <description>Language Interface provides Java type search and source code retrieval capabilities for MCP clients through IntelliJ IDEA. 中文说明 简介 AI Code Agent...
 
 vendor: saika
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: com.github.saikanya.languageinterface</description>
       <pubDate>Thu, 23 Jul 2026 08:29:14 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.github.saikanya.languageinterface</description>
       <description>Live observability for your Claude Code agents: agent tree, per-task progress, tokens/context/cache and a 7-day usage dashboard — read from the transcripts Claude Code...
 
 vendor: carlosdealmeida
-downloads: 6
+downloads: 9
 pricingModel: FREE
 xmlId: com.carlosdealmeida.claude-todos</description>
       <pubDate>Thu, 23 Jul 2026 00:03:20 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.carlosdealmeida.claude-todos</description>
       <description>ComposableGeneration helps you create Jetpack Compose functions quickly in Android Studio and IntelliJ IDEA. Usage Open the New menu and select Composable Function...
 
 vendor: Tanexc
-downloads: 4
+downloads: 8
 pricingModel: FREE
 xmlId: com.tanexc.ComposableGeneration</description>
       <pubDate>Wed, 22 Jul 2026 22:16:55 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.tanexc.ComposableGeneration</description>
       <description>The Copy Ai Reference plugin is an IntelliJ IDEA plugin designed to facilitate copying code references (in the format @path#LstartLine-endLine) for use with AI CLI...
 
 vendor: BaoYang
-downloads: 4
+downloads: 7
 pricingModel: FREE
 xmlId: com.github.runtimeexcpetion.copyaireference</description>
       <pubDate>Thu, 23 Jul 2026 07:24:23 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.github.runtimeexcpetion.copyaireference</description>
       <description>Local risk checks for AI-assisted code changes. AI Change Radar reviews selected commit changes and the current working tree for sensitive assignments, high-risk...
 
 vendor: QCoding
-downloads: 6
+downloads: 10
 pricingModel: FREE
 xmlId: dev.qcoding.aichangeradar</description>
       <pubDate>Thu, 23 Jul 2026 03:06:13 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: dev.qcoding.aichangeradar</description>
       <description>Run selected TestNG CSV data rows directly from IntelliJ IDEA.
 
 vendor: Rubaiz Momin
-downloads: 12
+downloads: 16
 pricingModel: FREE
 xmlId: com.rubaizmomin.csvsuiterunner</description>
       <pubDate>Thu, 23 Jul 2026 17:48:53 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.rubaizmomin.csvsuiterunner</description>
       <description>Display Shell command output in the IntelliJ IDEA status bar. Run one never-ending command and follow its output, execute once with a timeout, or repeat short-running...
 
 vendor: feiju12138
-downloads: 7
+downloads: 10
 pricingModel: FREE
 xmlId: cn.fj.loli.statusbarextension</description>
       <pubDate>Thu, 23 Jul 2026 02:16:29 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: cn.fj.loli.statusbarextension</description>
       <description>Git Rebase and Push Assistant Streamline your Git workflow with one-click automation for rebase, commit, and push operations. ✨ Key Features Smart Rebase &amp;amp; Push...
 
 vendor: examplecn
-downloads: 7
+downloads: 26
 pricingModel: FREE
 xmlId: io.github.pengjran.git-rebase-push-assistant</description>
       <pubDate>Sat, 25 Jul 2026 09:08:05 GMT</pubDate>
