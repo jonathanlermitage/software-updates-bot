@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>AskSQL - Sat Jul 25 04:07:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33126-asksql</link>
-      <description>AI database chat inside your IDE. Ask a question in plain language, review the generated SQL, approve it, and get results. Read-only by design. An AST-based SQL guard...
+      <title>Agent-Up Commit Queue - Mon Jul 27 20:11:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33179-agent-up-commit-queue</link>
+      <description>Agent-Up Commit Queue integrates the local Agent-Up commit queue with the JetBrains Commit tool window. It is built for repositories that use the Agent-Up commits...
 
-vendor: Rahul Mahadik
-downloads: 2
-pricingModel: FREE
-xmlId: com.rahulmahadik.asksql</description>
-      <pubDate>Sat, 25 Jul 2026 04:07:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33126-asksql</guid>
-      <dc:date>2026-07-25T04:07:47Z</dc:date>
-    </item>
-    <item>
-      <title>AAAi IDE Context - Mon Jul 27 09:27:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33163-aaai-ide-context</link>
-      <description>Shares the active IntelliJ editor context with the local AAAi desktop app.
-
-vendor: AAAi
+vendor: themassiveone
 downloads: 0
 pricingModel: FREE
-xmlId: ai.aaai.ide-context</description>
-      <pubDate>Mon, 27 Jul 2026 09:27:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33163-aaai-ide-context</guid>
-      <dc:date>2026-07-27T09:27:22Z</dc:date>
+xmlId: net.themassiveone.agent-up.jetbrains</description>
+      <pubDate>Mon, 27 Jul 2026 20:11:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33179-agent-up-commit-queue</guid>
+      <dc:date>2026-07-27T20:11:54Z</dc:date>
     </item>
     <item>
-      <title>Chalk - Fri Jul 24 15:14:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33051-chalk</link>
-      <description>Chalk provides language intelligence and typechecking for Chalk projects. Python semantic analysis and diagnostics Navigation for Chalk SQL resolvers Validation for...
+      <title>Log-Flow - Sat Jul 25 10:09:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33129-log-flow</link>
+      <description>Overview Log-Flow is a lightweight, high-performance developer productivity plugin designed to streamline log management and analysis directly inside your JetBrains...
 
-vendor: Chalk
-downloads: 3
+vendor: VasanthM
+downloads: 4
 pricingModel: FREE
-xmlId: com.chalk.plugin</description>
-      <pubDate>Fri, 24 Jul 2026 15:14:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33051-chalk</guid>
-      <dc:date>2026-07-24T15:14:12Z</dc:date>
+xmlId: com.github.vasanthvasanthm.plugin</description>
+      <pubDate>Sat, 25 Jul 2026 10:09:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33129-log-flow</guid>
+      <dc:date>2026-07-25T10:09:06Z</dc:date>
     </item>
     <item>
-      <title>AI Coverage Sprint - Sat Jul 18 15:07:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32993-ai-coverage-sprint</link>
-      <description>AI Coverage Sprint is a thin-shell IntelliJ IDEA plugin that sprints Java unit-test line coverage to 100% with one click. 薄壳插件：只在 IDEA 里加一个「⚡ 一键冲刺100%」按钮，点击后调用你本地的 CLI...
+      <title>Pika Control - Mon Jul 27 01:56:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33156-pika-control</link>
+      <description>Pika Control provides deterministic IntelliJ IDEA Run/Debug service control and changelist operations for the companion pika-idea-control Codex Skill. List, start...
 
-vendor: silveryCity365
-downloads: 1
-pricingModel: FREE
-xmlId: com.zhengbo.coverage.sprint</description>
-      <pubDate>Sat, 18 Jul 2026 15:07:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32993-ai-coverage-sprint</guid>
-      <dc:date>2026-07-18T15:07:08Z</dc:date>
-    </item>
-    <item>
-      <title>Swades Agent - Fri Jul 24 16:39:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33117-swades-agent</link>
-      <description>Autonomous AI software engineering agent for your terminal in IntelliJ. Allows running the Swades Agent ReAct loop directly inside the built-in terminal.
-
-vendor: xerv
-downloads: 3
-pricingModel: FREE
-xmlId: com.xerv.swades</description>
-      <pubDate>Fri, 24 Jul 2026 16:39:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33117-swades-agent</guid>
-      <dc:date>2026-07-24T16:39:22Z</dc:date>
-    </item>
-    <item>
-      <title>FatBot Chat - Sat Jul 25 18:30:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33134-fatbot-chat</link>
-      <description>Your AI. Your rules. Zero lock-in. FatBot is not another ChatGPT sidebar — it's an AI runtime for IntelliJ. Plug in Ollama, LM Studio, OpenAI-compatible APIs, Gemini...
-
-vendor: FATBOY9502
-downloads: 2
-pricingModel: FREE
-xmlId: com.fatboy.ai.agent.fatbot</description>
-      <pubDate>Sat, 25 Jul 2026 18:30:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33134-fatbot-chat</guid>
-      <dc:date>2026-07-25T18:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>wxBackgroundPro - Sun Jul 26 07:08:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33128-wxbackgroundpro</link>
-      <description>Set background images for IntelliJ IDEA from local folders or Huawei Cloud OBS. Supports sequential/random switching, prev/next shortcuts, and timed auto-switch...
-
-vendor: 浩阳 梁
-downloads: 2
-pricingModel: FREE
-xmlId: com.wxbackgroundpro</description>
-      <pubDate>Sun, 26 Jul 2026 07:08:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33128-wxbackgroundpro</guid>
-      <dc:date>2026-07-26T07:08:30Z</dc:date>
-    </item>
-    <item>
-      <title>RoCo Progress Bar - Mon Jul 27 08:52:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33119-roco-progress-bar</link>
-      <description>RoCo Progress Bar replaces JetBrains IDE progress bars with pets from Roco Kingdom: World. Fan-made plugin inspired by Pokemon Progress. Fan-made Roco Kingdom pet...
-
-vendor: RoCo Progress Bar
-downloads: 1
-pricingModel: FREE
-xmlId: com.yikeqiyiguo.rocoprogressbar</description>
-      <pubDate>Mon, 27 Jul 2026 08:52:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33119-roco-progress-bar</guid>
-      <dc:date>2026-07-27T08:52:44Z</dc:date>
-    </item>
-    <item>
-      <title>Java Code Guard - Tue Jul 21 07:04:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33034-java-code-guard</link>
-      <description>Java Code Guard is a set of code-quality inspections with one-click quick-fixes for Java teams. Java Code Guard 是一组面向团队代码规范的 IntelliJ 检查与一键修复，开箱即用。 内置规则包括： ArrayList...
-
-vendor: Java Code Guard
-downloads: 1
-pricingModel: FREE
-xmlId: com.zguoguo.javacodeguard</description>
-      <pubDate>Tue, 21 Jul 2026 07:04:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33034-java-code-guard</guid>
-      <dc:date>2026-07-21T07:04:39Z</dc:date>
-    </item>
-    <item>
-      <title>Ramet Language Support - Mon Jul 27 03:45:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33157-ramet-language-support</link>
-      <description>Ramet Template Language Support Provides two-level fine-grained syntax highlighting for .ramet template files. Features Syntax highlighting for directive keywords...
-
-vendor: visual0zz
+vendor: Pika
 downloads: 0
 pricingModel: FREE
-xmlId: io.gitee.visual0zz.ramet</description>
-      <pubDate>Mon, 27 Jul 2026 03:45:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33157-ramet-language-support</guid>
-      <dc:date>2026-07-27T03:45:33Z</dc:date>
+xmlId: com.pika.ideaControlMcp</description>
+      <pubDate>Mon, 27 Jul 2026 01:56:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33156-pika-control</guid>
+      <dc:date>2026-07-27T01:56:42Z</dc:date>
     </item>
     <item>
-      <title>Dev Workspace Launcher Bridge - Sat Jul 25 14:16:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33048-dev-workspace-launcher-bridge</link>
-      <description>Connects IntelliJ IDEA projects to Dev Workspace Launcher so users can select and control existing Run/Debug Configurations or run configured commands in the IDEA...
+      <title>Copy Text Anywhere - Sat Jul 25 20:24:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33136-copy-text-anywhere</link>
+      <description>Copy Text Anywhere adds a "Copy Text" option to all right-click context menus across the IDE. Features: Adds "Copy Text" to editor context menus - copy selected text...
 
-vendor: Dev Workspace Launcher
-downloads: 3
+vendor: PeekCat
+downloads: 2
 pricingModel: FREE
-xmlId: com.devworkspace.launcher.idea.bridge</description>
-      <pubDate>Sat, 25 Jul 2026 14:16:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33048-dev-workspace-launcher-bridge</guid>
-      <dc:date>2026-07-25T14:16:15Z</dc:date>
+xmlId: com.github.peterzparker.copytextanywhere</description>
+      <pubDate>Sat, 25 Jul 2026 20:24:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33136-copy-text-anywhere</guid>
+      <dc:date>2026-07-25T20:24:39Z</dc:date>
     </item>
     <item>
-      <title>Entity Table Sync - Mon Jul 27 09:15:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33104-entity-table-sync</link>
-      <description>Entity Table Sync Synchronize Java entity classes and database table structures directly inside IntelliJ IDEA. During daily development, database schemas and Java...
+      <title>BrowserX - Sat Jul 25 10:29:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33130-browserx</link>
+      <description>BrowserX is an integrated browser for IntelliJ IDEA.
 
-vendor: zengli
-downloads: 4
+vendor: peco2282
+downloads: 2
 pricingModel: FREE
-xmlId: io.github.wonderfulCoder1.syncclasstable</description>
-      <pubDate>Mon, 27 Jul 2026 09:15:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33104-entity-table-sync</guid>
-      <dc:date>2026-07-27T09:15:25Z</dc:date>
+xmlId: com.peco2282.browserx.BrowserX</description>
+      <pubDate>Sat, 25 Jul 2026 10:29:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33130-browserx</guid>
+      <dc:date>2026-07-25T10:29:50Z</dc:date>
     </item>
     <item>
-      <title>Terragrunt Apply - Fri Jul 24 22:47:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33123-terragrunt-apply</link>
-      <description>Run Terragrunt commands straight from the Project view — no more cd-ing around your infrastructure repo. Right-click a .tf/.hcl file or any folder and pick a command...
+      <title>DbTemplate Smart Completion - Mon Jul 27 03:11:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33158-dbtemplate-smart-completion</link>
+      <description>Provides intelligent code completion for db-template-optimized ORM framework. Auto-completes table names and column names in string parameters.
 
-vendor: arzeo
-downloads: 3
+vendor: db-template-optimized-plugin
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.arzeo68.terragruntapply</description>
-      <pubDate>Fri, 24 Jul 2026 22:47:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33123-terragrunt-apply</guid>
-      <dc:date>2026-07-24T22:47:08Z</dc:date>
+xmlId: com.s365.dbtemplate.plugin</description>
+      <pubDate>Mon, 27 Jul 2026 03:11:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33158-dbtemplate-smart-completion</guid>
+      <dc:date>2026-07-27T03:11:28Z</dc:date>
     </item>
     <item>
-      <title>Sightline - Mon Jul 27 07:54:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33022-sightline</link>
-      <description>Claude Code inside Android Studio, with visible project activity and controlled tool execution. Sightline provides a native Android Studio interface for a locally...
+      <title>AI Git Helper - Sat Jul 25 09:29:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33127-ai-git-helper</link>
+      <description>AI Git Helper generates Git commit messages from selected changes in the IntelliJ Commit tool window. Generates Conventional Commit-style messages from tracked and...
 
-vendor: MP Sole
-downloads: 5
-pricingModel: FREE
-xmlId: io.mp.sightline</description>
-      <pubDate>Mon, 27 Jul 2026 07:54:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33022-sightline</guid>
-      <dc:date>2026-07-27T07:54:16Z</dc:date>
-    </item>
-    <item>
-      <title>Deju Debugger - Sun Jul 26 15:59:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33101-deju-debugger</link>
-      <description>What is Deju: Deju is combination of Debug + Junit featuresDeju Debugger: Traces a single targeted live API call through a running Java web app and paints the executed...
-
-vendor: Deju Debugger
+vendor: Mikeyaoyu
 downloads: 1
 pricingModel: FREE
-xmlId: org.deju.debugger</description>
-      <pubDate>Sun, 26 Jul 2026 15:59:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33101-deju-debugger</guid>
-      <dc:date>2026-07-26T15:59:55Z</dc:date>
+xmlId: itcainiao.aigithelper</description>
+      <pubDate>Sat, 25 Jul 2026 09:29:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33127-ai-git-helper</guid>
+      <dc:date>2026-07-25T09:29:59Z</dc:date>
     </item>
     <item>
-      <title>Feature Time - Mon Jun 29 14:51:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32556-feature-time</link>
-      <description>Feature Time automatically tracks the time you actually spend coding — no timers to start, no buttons to remember to press. The plugin quietly observes your real...
+      <title>FMCuttingBoard - Mon Jul 27 15:16:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33170-fmcuttingboard</link>
+      <description>Work with FileMaker clipboard content as XML (fmxmlsnippet) directly from your JetBrains IDE. The plugin adds a "FMCuttingBoard" submenu under the Tools menu with...
 
-vendor: Feature Time
-downloads: 4
+vendor: Blue Kachina
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.adioboard.featuretimeideaplugin</description>
-      <pubDate>Mon, 29 Jun 2026 14:51:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32556-feature-time</guid>
-      <dc:date>2026-06-29T14:51:52Z</dc:date>
+xmlId: dev.bluekachina.fmcuttingboard</description>
+      <pubDate>Mon, 27 Jul 2026 15:16:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33170-fmcuttingboard</guid>
+      <dc:date>2026-07-27T15:16:17Z</dc:date>
     </item>
     <item>
-      <title>Claude Standby - Fri Jul 24 13:38:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33111-claude-standby</link>
-      <description>A native JetBrains cockpit for the claude-standby command-line tool. Inspect the current workspace, schedule a Claude Code resume, cancel pending work, inspect logs...
+      <title>Copy Path with Lines - Mon Jul 27 12:31:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33164-copy-path-with-lines</link>
+      <description>Copy file paths with selected line numbers in IntelliJ-based IDEs. Multiple lines: path:10-25 Single line: path:10 No selection: path Provides project-relative and...
 
-vendor: 0xsaju
-downloads: 36
+vendor: Markz
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.0xsaju.claudestandby</description>
-      <pubDate>Fri, 24 Jul 2026 13:38:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33111-claude-standby</guid>
-      <dc:date>2026-07-24T13:38:01Z</dc:date>
+xmlId: com.markz.copy-path-with-lines</description>
+      <pubDate>Mon, 27 Jul 2026 12:31:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33164-copy-path-with-lines</guid>
+      <dc:date>2026-07-27T12:31:18Z</dc:date>
     </item>
     <item>
-      <title>HexaGen: SQL to Hexagonal Java - Fri Jul 24 12:54:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33109-hexagen-sql-to-hexagonal-java</link>
-      <description>HexaGen automates the generation of complete, enterprise-grade Java / Spring Boot backends using Hexagonal Architecture (DDD / Clean Architecture) directly from your...
+      <title>Grok Build - Mon Jul 27 12:57:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33166-grok-build</link>
+      <description>Requires the Grok Build CLI installed separately (grok on your PATH, or set it in Settings → Tools → Grok Build). Bring Grok Build into JetBrains IDEs (WebStorm...
 
-vendor: Axeldorf Tech
-downloads: 17
+vendor: nightsum
+downloads: 0
 pricingModel: FREE
-xmlId: com.axeldorf.hexagen</description>
-      <pubDate>Fri, 24 Jul 2026 12:54:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33109-hexagen-sql-to-hexagonal-java</guid>
-      <dc:date>2026-07-24T12:54:41Z</dc:date>
+xmlId: com.sum.grok.jetbrains</description>
+      <pubDate>Mon, 27 Jul 2026 12:57:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33166-grok-build</guid>
+      <dc:date>2026-07-27T12:57:51Z</dc:date>
     </item>
     <item>
-      <title>SVN Integration for TortoiseSVN - Mon Jul 27 02:50:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33107-svn-integration-for-tortoisesvn</link>
-      <description>Bridges JetBrains IDE context menus to the installed TortoiseSVN client on Windows. Supports Project View, editor popups, editor tabs, and Rider File System/Solution...
+      <title>SkeleKit Hot Reload - Sun Jul 26 14:31:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33143-skelekit-hot-reload</link>
+      <description>Provides hot reload capabilities and simultaneous breakpoint debugging for .NET for iOS (SkeleKit) apps running in the simulator.
 
-vendor: Svn IDEA Integration
-downloads: 15
+vendor: SkeleKit Hot Reload
+downloads: 0
 pricingModel: FREE
-xmlId: com.whalesea.svnideaintegration</description>
-      <pubDate>Mon, 27 Jul 2026 02:50:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33107-svn-integration-for-tortoisesvn</guid>
-      <dc:date>2026-07-27T02:50:21Z</dc:date>
+xmlId: com.skelekit.hotreload</description>
+      <pubDate>Sun, 26 Jul 2026 14:31:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33143-skelekit-hot-reload</guid>
+      <dc:date>2026-07-26T14:31:38Z</dc:date>
     </item>
     <item>
-      <title>Live-Invoke - Fri Jul 24 09:35:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33106-live-invoke</link>
-      <description>Live-Invoke Invoke methods in a running JVM directly from the IntelliJ IDEA editor and view results in real-time. 在 IntelliJ IDEA 中直接调用运行中 JVM 的方法，实时查看返回结果。 &#x1f50c; 核心功能...
+      <title>Theme Companion - Sun Jul 26 21:18:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33151-theme-companion</link>
+      <description>A dark, high-contrast editor color scheme plus a folder-icon provider that guarantees directories marked as source, test, or resource roots always show their...
 
-vendor: Liu Chuang
-downloads: 11
+vendor: Gap Hunter Labs
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.addliu.liveinvoke.live-invoke</description>
-      <pubDate>Fri, 24 Jul 2026 09:35:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33106-live-invoke</guid>
-      <dc:date>2026-07-24T09:35:55Z</dc:date>
+xmlId: dev.gaphunter.themecompanion</description>
+      <pubDate>Sun, 26 Jul 2026 21:18:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33151-theme-companion</guid>
+      <dc:date>2026-07-26T21:18:18Z</dc:date>
+    </item>
+    <item>
+      <title>Cert Companion - Sun Jul 26 22:30:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33153-cert-companion</link>
+      <description>A native, client-side viewer for X.509 certificates and keystores — .pem, .crt, .cer, .der, .jks, .p12, .pfx. Shows subject, issuer, serial number, validity (with a...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.certcompanion</description>
+      <pubDate>Sun, 26 Jul 2026 22:30:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33153-cert-companion</guid>
+      <dc:date>2026-07-26T22:30:05Z</dc:date>
+    </item>
+    <item>
+      <title>Highlight Companion - Mon Jul 27 13:50:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33169-highlight-companion</link>
+      <description>A cognitive-complexity gutter icon for Java and Kotlin methods, computed with the real algorithm from SonarSource's "Cognitive Complexity" whitepaper (control-flow...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.highlightcompanion</description>
+      <pubDate>Mon, 27 Jul 2026 13:50:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33169-highlight-companion</guid>
+      <dc:date>2026-07-27T13:50:50Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Subscription ACP Agent - Sun Jul 26 19:40:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33150-claude-subscription-acp-agent</link>
+      <description>Use your Claude Pro/Max subscription in JetBrains AI chat — no API key, no JetBrains AI credits, no manual npm setup. Adds a Claude Subscription agent to JetBrains AI...
+
+vendor: Vanssa
+downloads: 0
+pricingModel: FREE
+xmlId: dev.vanssa.claudeacp</description>
+      <pubDate>Sun, 26 Jul 2026 19:40:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33150-claude-subscription-acp-agent</guid>
+      <dc:date>2026-07-26T19:40:17Z</dc:date>
+    </item>
+    <item>
+      <title>Omori Progress Bar - Sun Jul 26 02:11:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33141-omori-progress-bar</link>
+      <description>Replaces every progress bar in the IDE with an OMORI-flavoured one: a black-and-white barber-pole track with a little red hand that rides the leading edge - pacing...
+
+vendor: issa loubani
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.issaloubani.omori.progress.bar</description>
+      <pubDate>Sun, 26 Jul 2026 02:11:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33141-omori-progress-bar</guid>
+      <dc:date>2026-07-26T02:11:37Z</dc:date>
+    </item>
+    <item>
+      <title>xpreiIDE - Sun Jul 26 14:25:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33142-xpreiide</link>
+      <description>Bring-your-own-model AI coding assistant. Chat and an agentic multi-file coder, powered by your models — a local Ollama daemon or any OpenAI-compatible endpoint. Same...
+
+vendor: BABBROS LLP
+downloads: 0
+pricingModel: FREE
+xmlId: online.xprei.ide</description>
+      <pubDate>Sun, 26 Jul 2026 14:25:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33142-xpreiide</guid>
+      <dc:date>2026-07-26T14:25:49Z</dc:date>
+    </item>
+    <item>
+      <title>Lite Composable Preview - Fri Jul 24 18:25:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32999-lite-composable-preview</link>
+      <description>A lightweight alternative to Android Studio's built-in Compose Preview. Studio's live preview can be heavy on RAM/CPU and sometimes causes autocomplete to lag or stop...
+
+vendor: HrithikVish
+downloads: 3
+pricingModel: FREE
+xmlId: org.hrithikvish.lite-compose-preview</description>
+      <pubDate>Fri, 24 Jul 2026 18:25:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32999-lite-composable-preview</guid>
+      <dc:date>2026-07-24T18:25:10Z</dc:date>
+    </item>
+    <item>
+      <title>Halk Background - Mon Jul 27 14:10:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33162-halk-background</link>
+      <description>Halk Background is an IntelliJ IDEA plugin that displays and rotates background images in the editor area. Features Supports local image files and remote URLs...
+
+vendor: idea背景切换
+downloads: 0
+pricingModel: FREE
+xmlId: org.halk.halk-background</description>
+      <pubDate>Mon, 27 Jul 2026 14:10:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33162-halk-background</guid>
+      <dc:date>2026-07-27T14:10:15Z</dc:date>
+    </item>
+    <item>
+      <title>CodeBlocks - Sat Jul 25 02:11:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33125-codeblocks</link>
+      <description>Visually highlights nested code blocks in Java files, drawing borders around each { } block with a different color per nesting depth. Inspired by Blockman (VS Code...
+
+vendor: CodeBlocks
+downloads: 1
+pricingModel: FREE
+xmlId: dev.block.codeblocks</description>
+      <pubDate>Sat, 25 Jul 2026 02:11:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33125-codeblocks</guid>
+      <dc:date>2026-07-25T02:11:18Z</dc:date>
     </item>
   </channel>
 </rss>
