@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Terragrunt Apply - Fri Jul 24 22:47:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33123-terragrunt-apply</link>
+      <description>Run Terragrunt commands straight from the Project view — no more cd-ing around your infrastructure repo. Right-click a .tf/.hcl file or any folder and pick a command...
+
+vendor: arzeo
+downloads: 3
+pricingModel: FREE
+xmlId: com.github.arzeo68.terragruntapply</description>
+      <pubDate>Fri, 24 Jul 2026 22:47:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33123-terragrunt-apply</guid>
+      <dc:date>2026-07-24T22:47:08Z</dc:date>
+    </item>
+    <item>
       <title>Sightline - Mon Jul 27 07:54:16 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33022-sightline</link>
       <description>Claude Code inside Android Studio, with visible project activity and controlled tool execution. Sightline provides a native Android Studio interface for a locally...
@@ -188,7 +201,7 @@ xmlId: plugin.mx.http.server</description>
       <dc:date>2026-07-24T03:57:51Z</dc:date>
     </item>
     <item>
-      <title>MCP WSL Bridge - Sat Jul 25 12:05:10 UTC 2026</title>
+      <title>MCP WSL Bridge - Mon Jul 27 12:34:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33086-mcp-wsl-bridge</link>
       <description>Exposes IntelliJ's loopback-only MCP server to WSL through selected Windows network interfaces. Choose one or more NIC addresses, then MCP WSL Bridge transparently...
 
@@ -196,9 +209,9 @@ vendor: dornol
 downloads: 38
 pricingModel: FREE
 xmlId: io.github.dornol.mcpwslbridge</description>
-      <pubDate>Sat, 25 Jul 2026 12:05:10 GMT</pubDate>
+      <pubDate>Mon, 27 Jul 2026 12:34:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33086-mcp-wsl-bridge</guid>
-      <dc:date>2026-07-25T12:05:10Z</dc:date>
+      <dc:date>2026-07-27T12:34:52Z</dc:date>
     </item>
     <item>
       <title>language-interface - Thu Jul 23 08:29:14 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.github.runtimeexcpetion.copyaireference</description>
       <pubDate>Thu, 23 Jul 2026 07:24:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33079-copy-ai-reference</guid>
       <dc:date>2026-07-23T07:24:23Z</dc:date>
-    </item>
-    <item>
-      <title>AI Change Radar - Thu Jul 23 03:06:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33076-ai-change-radar</link>
-      <description>Local risk checks for AI-assisted code changes. AI Change Radar reviews selected commit changes and the current working tree for sensitive assignments, high-risk...
-
-vendor: QCoding
-downloads: 12
-pricingModel: FREE
-xmlId: dev.qcoding.aichangeradar</description>
-      <pubDate>Thu, 23 Jul 2026 03:06:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33076-ai-change-radar</guid>
-      <dc:date>2026-07-23T03:06:13Z</dc:date>
     </item>
   </channel>
 </rss>
