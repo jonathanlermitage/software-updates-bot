@@ -11,7 +11,7 @@
       <description>Agent-Up Commit Queue integrates the local Agent-Up commit queue with the JetBrains Commit tool window. It is built for repositories that use the Agent-Up commits...
 
 vendor: themassiveone
-downloads: 12
+downloads: 74
 pricingModel: FREE
 xmlId: net.themassiveone.agent-up.jetbrains</description>
       <pubDate>Tue, 28 Jul 2026 19:11:03 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: net.themassiveone.agent-up.jetbrains</description>
       <description>Overview Log-Flow is a lightweight, high-performance developer productivity plugin designed to streamline log management and analysis directly inside your JetBrains...
 
 vendor: VasanthM
-downloads: 5
+downloads: 14
 pricingModel: FREE
 xmlId: com.github.vasanthvasanthm.plugin</description>
       <pubDate>Sat, 25 Jul 2026 10:09:06 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.github.vasanthvasanthm.plugin</description>
       <description>Pika Control provides deterministic IntelliJ IDEA Run/Debug service control and changelist operations for the companion pika-idea-control Codex Skill. List, start...
 
 vendor: Pika
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: com.pika.ideaControlMcp</description>
       <pubDate>Mon, 27 Jul 2026 01:56:42 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.pika.ideaControlMcp</description>
       <description>Copy Text Anywhere adds a "Copy Text" option to all right-click context menus across the IDE. Features: Adds "Copy Text" to editor context menus - copy selected text...
 
 vendor: PeekCat
-downloads: 3
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.peterzparker.copytextanywhere</description>
       <pubDate>Sat, 25 Jul 2026 20:24:39 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.github.peterzparker.copytextanywhere</description>
       <description>BrowserX is an integrated browser for IntelliJ IDEA.
 
 vendor: peco2282
-downloads: 3
+downloads: 13
 pricingModel: FREE
 xmlId: com.peco2282.browserx.BrowserX</description>
       <pubDate>Tue, 28 Jul 2026 11:22:47 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.peco2282.browserx.BrowserX</description>
       <description>Provides intelligent code completion for db-template-optimized ORM framework. Auto-completes table names and column names in string parameters.
 
 vendor: db-template-optimized-plugin
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: com.s365.dbtemplate.plugin</description>
       <pubDate>Mon, 27 Jul 2026 03:11:28 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.s365.dbtemplate.plugin</description>
       <description>AI Git Helper generates Git commit messages from selected changes in the IntelliJ Commit tool window. Generates Conventional Commit-style messages from tracked and...
 
 vendor: Mikeyaoyu
-downloads: 2
+downloads: 10
 pricingModel: FREE
 xmlId: itcainiao.aigithelper</description>
       <pubDate>Sat, 25 Jul 2026 09:29:59 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: itcainiao.aigithelper</description>
       <description>Work with FileMaker clipboard content as XML (fmxmlsnippet) directly from your JetBrains IDE. The plugin adds a "FMCuttingBoard" submenu under the Tools menu with...
 
 vendor: Blue Kachina
-downloads: 14
+downloads: 24
 pricingModel: FREE
 xmlId: dev.bluekachina.fmcuttingboard</description>
       <pubDate>Mon, 27 Jul 2026 21:19:48 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: dev.bluekachina.fmcuttingboard</description>
       <description>Copy file paths with selected line numbers in IntelliJ-based IDEs. Multiple lines: path:10-25 Single line: path:10 No selection: path Provides project-relative and...
 
 vendor: Markz
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.markz.copy-path-with-lines</description>
       <pubDate>Mon, 27 Jul 2026 12:31:18 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.markz.copy-path-with-lines</description>
       <description>Requires the Grok Build CLI installed separately (grok on your PATH, or set it in Settings → Tools → Grok Build). Bring Grok Build into JetBrains IDEs (WebStorm...
 
 vendor: nightsum
-downloads: 3
+downloads: 14
 pricingModel: FREE
 xmlId: com.sum.grok.jetbrains</description>
       <pubDate>Mon, 27 Jul 2026 12:57:51 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.sum.grok.jetbrains</description>
       <description>Provides hot reload capabilities and simultaneous breakpoint debugging for .NET for iOS (SkeleKit) apps running in the simulator.
 
 vendor: SkeleKit Hot Reload
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.skelekit.hotreload</description>
       <pubDate>Tue, 28 Jul 2026 12:53:38 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.skelekit.hotreload</description>
       <description>A dark, high-contrast editor color scheme plus a folder-icon provider that guarantees directories marked as source, test, or resource roots always show their...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 20
 pricingModel: FREE
 xmlId: dev.gaphunter.themecompanion</description>
       <pubDate>Tue, 28 Jul 2026 05:50:01 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: dev.gaphunter.themecompanion</description>
       <description>A native, client-side viewer for X.509 certificates and keystores — .pem, .crt, .cer, .der, .jks, .p12, .pfx. Shows subject, issuer, serial number, validity (with a...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 23
 pricingModel: FREE
 xmlId: dev.gaphunter.certcompanion</description>
       <pubDate>Tue, 28 Jul 2026 05:54:53 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: dev.gaphunter.certcompanion</description>
       <description>A cognitive-complexity gutter icon for Java and Kotlin methods, computed with the real algorithm from SonarSource's "Cognitive Complexity" whitepaper (control-flow...
 
 vendor: Gap Hunter Labs
-downloads: 2
+downloads: 14
 pricingModel: FREE
 xmlId: dev.gaphunter.highlightcompanion</description>
       <pubDate>Tue, 28 Jul 2026 06:16:56 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.gaphunter.highlightcompanion</description>
       <description>Use your Claude Pro/Max subscription in JetBrains AI chat — no API key, no JetBrains AI credits, no manual npm setup. Adds a Claude Subscription agent to JetBrains AI...
 
 vendor: Vanssa
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: dev.vanssa.claudeacp</description>
       <pubDate>Sun, 26 Jul 2026 19:40:17 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: dev.vanssa.claudeacp</description>
       <description>Replaces every progress bar in the IDE with an OMORI-flavoured one: a black-and-white barber-pole track with a little red hand that rides the leading edge - pacing...
 
 vendor: issa loubani
-downloads: 5
+downloads: 11
 pricingModel: FREE
 xmlId: com.github.issaloubani.omori.progress.bar</description>
       <pubDate>Sun, 26 Jul 2026 02:11:37 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.github.issaloubani.omori.progress.bar</description>
       <description>Bring-your-own-model AI coding assistant. Chat and an agentic multi-file coder, powered by your models — a local Ollama daemon or any OpenAI-compatible endpoint. Same...
 
 vendor: BABBROS LLP
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: online.xprei.ide</description>
       <pubDate>Sun, 26 Jul 2026 14:25:49 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: online.xprei.ide</description>
       <description>A lightweight alternative to Android Studio's built-in Compose Preview. Studio's live preview can be heavy on RAM/CPU and sometimes causes autocomplete to lag or stop...
 
 vendor: HrithikVish
-downloads: 6
+downloads: 10
 pricingModel: FREE
 xmlId: org.hrithikvish.lite-compose-preview</description>
       <pubDate>Fri, 24 Jul 2026 18:25:10 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: org.hrithikvish.lite-compose-preview</description>
       <description>Halk Background is an IntelliJ IDEA plugin that displays and auto-rotates background images in the editor and IDE frame. It supports local folders, single images...
 
 vendor: idea背景切换
-downloads: 2
+downloads: 74
 pricingModel: FREE
 xmlId: org.halk.halk-background</description>
       <pubDate>Tue, 28 Jul 2026 08:24:45 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: org.halk.halk-background</description>
       <description>Visually highlights nested code blocks in Java files, drawing borders around each { } block with a different color per nesting depth. Inspired by Blockman (VS Code...
 
 vendor: CodeBlocks
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: dev.block.codeblocks</description>
       <pubDate>Sat, 25 Jul 2026 02:11:18 GMT</pubDate>
