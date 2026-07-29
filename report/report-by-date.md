@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.18.1|[nodejs.org](https://nodejs.org)|Wed Jul 29 17:15:09 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS Current|26.5.1|[nodejs.org](https://nodejs.org)|Wed Jul 29 17:15:09 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 13:42:31 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.4+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.12+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:26 UTC 2026|
@@ -16,10 +18,8 @@
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.0.1 (262.8665.337) ~ 2026-07-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jul 23 15:22:32 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.2 to 19.8.5 ~ 2026-07-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 20 20:59:33 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|26.5.0|[nodejs.org](https://nodejs.org)|Wed Jul 08 13:43:51 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.5|[golang.org](https://golang.org/dl/)|Tue Jul 07 21:13:01 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases)|Fri Jun 26 20:31:11 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.18.0|[nodejs.org](https://nodejs.org)|Wed Jun 24 00:23:21 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 00:32:05 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.6|[www.python.org](https://www.python.org/downloads/windows/)|Wed Jun 10 17:00:12 UTC 2026|
