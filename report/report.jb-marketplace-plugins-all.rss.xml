@@ -11,7 +11,7 @@
       <description>Kassi Test Data — valid banking &amp;amp; KYC test data, generated offline Generic faker tools produce plausible-looking data. This plugin produces spec-valid data that...
 
 vendor: VadimToptunov
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: io.github.vadimtoptunov.kassi-testdata</description>
       <pubDate>Wed, 29 Jul 2026 19:14:32 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: io.github.vadimtoptunov.kassi-testdata</description>
       <description>Design, run, analyze, and improve business decisions without leaving your IDE. Aletyx Automation Design brings a serious DMN workspace to IntelliJ IDEA and compatible...
 
 vendor: Aletyx
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: ai.aletyx.automation-design</description>
       <pubDate>Tue, 28 Jul 2026 01:53:44 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: ai.aletyx.automation-design</description>
       <description>FlashFlow analyzes your Android XML layouts and flags the hierarchy problems that slow down rendering. Android Lint tells you the layout is deep. FlashFlow tells you...
 
 vendor: Ahmad AL Saffan
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: dev.flashflow.plugin</description>
       <pubDate>Tue, 28 Jul 2026 13:42:40 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: dev.flashflow.plugin</description>
       <description>Run React Native commands (run-android, run-ios, Metro) from a tool window without freezing the IDE. Built on OSProcessHandler, IntelliJ's own asynchronous process...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.reactnativecompanion</description>
       <pubDate>Tue, 28 Jul 2026 05:57:37 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: dev.gaphunter.reactnativecompanion</description>
       <description>Edit CSV/TSV files in a real table — add and delete rows and columns, edit cells — and view XLSX workbooks, without leaving the IDE. Respects how your files open. The...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.spreadsheetcompanion</description>
       <pubDate>Tue, 28 Jul 2026 06:01:04 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: dev.gaphunter.spreadsheetcompanion</description>
       <description>Syntax highlighting and directive completion for nginx config files — opt-in by content, not by hijacking every .conf file on disk. Completion is backed by the real...
 
 vendor: Gap Hunter Labs
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: dev.gaphunter.nginxcompanion</description>
       <pubDate>Tue, 28 Jul 2026 06:03:22 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: dev.gaphunter.nginxcompanion</description>
       <description>IDE Layout Profiles saves the parts of your IntelliJ IDEA workspace that normally take several clicks to restore. Create as many application-wide profiles as you need...
 
 vendor: khopland
-downloads: 1
+downloads: 11
 pricingModel: FREE
 xmlId: io.github.khopland.ide-layout-profiles</description>
       <pubDate>Wed, 29 Jul 2026 21:17:06 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: io.github.khopland.ide-layout-profiles</description>
       <description>GEDCOM helps you read and edit .ged and .gedcom files with confidence. It understands the GEDCOM structure, suggests valid entries, and reports problems as you type...
 
 vendor: Andrei Lobanov
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: gedcom.jetbrains</description>
       <pubDate>Tue, 28 Jul 2026 11:33:52 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: gedcom.jetbrains</description>
       <description>Renders ```filemaker-script fenced Markdown code blocks as collapsible, FileMaker-Pro-style script accordions in the built-in Markdown preview, using fmscriptui. Usage...
 
 vendor: Blue Kachina
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: com.bluekachina.fmscriptui</description>
       <pubDate>Wed, 29 Jul 2026 18:28:02 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.bluekachina.fmscriptui</description>
       <description>The problem A message fails and lands in the DLQ. You need to find out why, how many others failed for the same reason — 4,000 messages are usually 3 or 4 root causes...
 
 vendor: Mauricio Bernardes
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.dlqworkbench.plugin</description>
       <pubDate>Mon, 27 Jul 2026 23:40:47 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.dlqworkbench.plugin</description>
       <description>Context2Prompt copies files, project structure, and code problems from your IDE as LLM-ready prompts. Select files or folders in the Project view, open files, or a...
 
 vendor: 0zd0
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: com.ozd0.context2prompt</description>
       <pubDate>Mon, 27 Jul 2026 21:05:07 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.ozd0.context2prompt</description>
       <description>Language support for Hurl, the plain-text file format for running and testing HTTP requests. Hurlevent recognizes .hurl files and adds editor features, code...
 
 vendor: Quentin Ligier
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: ch.qligier.jetbrains.plugin.hurlevent</description>
       <pubDate>Mon, 27 Jul 2026 18:45:54 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: ch.qligier.jetbrains.plugin.hurlevent</description>
       <description>xslint brings XSL/XSLT linting to your JetBrains IDE. As you edit any .xsl or .xslt file, it flags problems inline —malformed XML, XPath expressions that don't...
 
 vendor: xslint
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.xslint.jetbrains</description>
       <pubDate>Tue, 28 Jul 2026 11:26:45 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: io.specshield.plugin</description>
       <description>Analyze the ripple effect of your code changes before you commit. Know exactly which methods, classes, modules, and APIs will be impacted by every modification. 功能特性...
 
 vendor: ChangeTrace
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: ct.changetrace.ChangeTrace</description>
       <pubDate>Wed, 29 Jul 2026 09:43:37 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: ct.changetrace.ChangeTrace</description>
       <description>IdeaVault SQL Helper Execute Microsoft SQL Server queries directly from your IntelliJ-based IDE without leaving your code. Features Execute selected SQL Execute SQL...
 
 vendor: IdeaVault Labs
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.ideavault.sqlhelper</description>
       <pubDate>Wed, 29 Jul 2026 10:42:17 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.ideavault.sqlhelper</description>
       <description>Run scripts in a real terminal / console / shell, or just open a file with its own (or a custom) application. Two context-menu actions for your project tree: &amp;gt;_ Run...
 
 vendor: alvol
-downloads: 0
+downloads: 60
 pricingModel: FREE
 xmlId: dev.alvol.runinterminal</description>
       <pubDate>Wed, 29 Jul 2026 23:02:12 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: dev.alvol.runinterminal</description>
       <description>DartDoc-er is a smart, lightweight DartDoc generator for Dart in IntelliJ IDEA and Android Studio. It produces natural, readable documentation from your code -- not...
 
 vendor: Godwin Joseph
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.godwin.dartdocer</description>
       <pubDate>Wed, 29 Jul 2026 09:29:08 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.godwin.dartdocer</description>
       <description>ServiceNow Dev Pro brings ServiceNow server-side development into JetBrains IDEs: connect to a ServiceNow instance and pull/edit/push server scripts (Script Includes...
 
 vendor: Ngaio
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.servicenowdevpro</description>
       <pubDate>Wed, 29 Jul 2026 08:33:30 GMT</pubDate>
@@ -253,17 +253,17 @@ xmlId: com.servicenowdevpro</description>
       <dc:date>2026-07-29T08:33:30Z</dc:date>
     </item>
     <item>
-      <title>SIE IIDP - Wed Jul 29 14:43:46 UTC 2026</title>
+      <title>SIE IIDP - Thu Jul 30 04:01:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33213-sie-iidp</link>
-      <description>SIE MBM SDK Code Generator provides IntelliJ IDEA tools for SDK code generation. MBM插件 1、@Setter、@Getter、@StaticVar 注解 2、DefClassGen 生成常量 3、SDKSvcGen 生成Svc...
+      <description>SIE IIDP SDK Code Generator for IntelliJ IDEAIIDP SDK 代码生成器 面向 IIDP SDK 开发场景，帮助开发者在 IntelliJ IDEA 中快速生成常用代码， 减少重复编写，并提升 Model 字段与访问器的导航效率。 适用场景 基于 IIDP SDK 开发...
 
 vendor: SIE MBM IIDP
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.sie.mbm.sdk</description>
-      <pubDate>Wed, 29 Jul 2026 14:43:46 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 04:01:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33213-sie-iidp</guid>
-      <dc:date>2026-07-29T14:43:46Z</dc:date>
+      <dc:date>2026-07-30T04:01:58Z</dc:date>
     </item>
   </channel>
 </rss>
