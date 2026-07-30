@@ -2,7 +2,7 @@
 |---|---|---|---|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 17:19:10 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.31+11|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Apr 28 12:29:15 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 30 13:23:45 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:24 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 20:53:45 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 20:53:45 UTC 2026|

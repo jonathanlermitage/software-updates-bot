@@ -6,6 +6,136 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LLM Cheburnexus - Mon Jul 27 14:27:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33155-llm-cheburnexus</link>
+      <description>Your AI assistant burns tokens reading files. This makes it stop. Cheburnexus indexes your project at compiler level — the same understanding a compiler has, not text...
+
+vendor: Conceptual Games
+downloads: 2
+pricingModel: FREE
+xmlId: com.conceptualgames.cheburnexus</description>
+      <pubDate>Mon, 27 Jul 2026 14:27:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33155-llm-cheburnexus</guid>
+      <dc:date>2026-07-27T14:27:31Z</dc:date>
+    </item>
+    <item>
+      <title>Remote Deploy - Thu Jul 30 02:38:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33231-remote-deploy</link>
+      <description>Upload a local file or directory to a remote server over SSH and optionally run a follow-up deploy command without leaving your IDE. Upload files or folders with SFTP...
+
+vendor: lliyuu520
+downloads: 0
+pricingModel: FREE
+xmlId: com.liliangyu.remotedeploy</description>
+      <pubDate>Thu, 30 Jul 2026 02:38:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33231-remote-deploy</guid>
+      <dc:date>2026-07-30T02:38:32Z</dc:date>
+    </item>
+    <item>
+      <title>Lombok Builder Invocation - Thu Jul 30 00:22:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33196-lombok-builder-invocation</link>
+      <description>Generate complete Lombok @Builder invocation assignments from a Java class. Select the target fields and get readable chained calls that use values from a source...
+
+vendor: K8585
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.K8585.lombok-builder</description>
+      <pubDate>Thu, 30 Jul 2026 00:22:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33196-lombok-builder-invocation</guid>
+      <dc:date>2026-07-30T00:22:40Z</dc:date>
+    </item>
+    <item>
+      <title>Claude/Codex Sub Autocomplete - Wed Jul 29 23:11:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33230-claude-codex-sub-autocomplete</link>
+      <description>Native IntelliJ autocomplete using the Claude Code or Codex subscription you already have—no API keys or separate autocomplete plan. Switch explicitly between Claude...
+
+vendor: Kristjan Koemets
+downloads: 0
+pricingModel: FREE
+xmlId: com.kkoemets.subscriptionautocomplete</description>
+      <pubDate>Wed, 29 Jul 2026 23:11:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33230-claude-codex-sub-autocomplete</guid>
+      <dc:date>2026-07-29T23:11:19Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Sessions Companion - Wed Jul 29 22:11:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33229-claude-sessions-companion</link>
+      <description>Companion plugin for Claude Sessions, a desktop widget that shows the state of every Claude Code session you have running. Inside the IDE it does three things: Names...
+
+vendor: Nicolaj Jensen
+downloads: 0
+pricingModel: FREE
+xmlId: com.nicsilver.claudesessions</description>
+      <pubDate>Wed, 29 Jul 2026 22:11:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33229-claude-sessions-companion</guid>
+      <dc:date>2026-07-29T22:11:51Z</dc:date>
+    </item>
+    <item>
+      <title>Checksum &amp; Regex Playground - Wed Jul 29 19:39:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33227-checksum--regex-playground</link>
+      <description>Checksum &amp;amp; Regex Playground A tool window for QA / fintech / KYC engineers. Paste any identifier and instantly see which real-world checks it passes — no browser...
+
+vendor: VadimToptunov
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.vadimtoptunov.checksum-playground</description>
+      <pubDate>Wed, 29 Jul 2026 19:39:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33227-checksum--regex-playground</guid>
+      <dc:date>2026-07-29T19:39:24Z</dc:date>
+    </item>
+    <item>
+      <title>Spring Vibe Bench - Wed Jul 29 19:23:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33225-spring-vibe-bench</link>
+      <description>Local, deterministic release-risk review for Spring Boot projects. Spring Vibe Bench scans Java, Spring configuration, Docker, MyBatis, SQL, and Flyway files without...
+
+vendor: Tmakerchima
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.tmakerchima.springvibebench</description>
+      <pubDate>Wed, 29 Jul 2026 19:23:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33225-spring-vibe-bench</guid>
+      <dc:date>2026-07-29T19:23:05Z</dc:date>
+    </item>
+    <item>
+      <title>Test-Only Declaration Detector - Wed Jul 29 21:21:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33223-test-only-declaration-detector</link>
+      <description>Reports production Java declarations whose every caller lives in a test source root — production API kept alive only by the tests that assert on it. Such a declaration...
+
+vendor: onlyonce
+downloads: 1
+pricingModel: FREE
+xmlId: dev.onlyonce.testonlymethods</description>
+      <pubDate>Wed, 29 Jul 2026 21:21:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33223-test-only-declaration-detector</guid>
+      <dc:date>2026-07-29T21:21:35Z</dc:date>
+    </item>
+    <item>
+      <title>Typeflow - Wed Jul 29 15:03:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32770-typeflow</link>
+      <description>Syntax highlighting and inline diagnostics for .typeflow mapping files.
+
+vendor: Arckene
+downloads: 1
+pricingModel: FREE
+xmlId: com.thomasfarineau.typeflow.idea</description>
+      <pubDate>Wed, 29 Jul 2026 15:03:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32770-typeflow</guid>
+      <dc:date>2026-07-29T15:03:43Z</dc:date>
+    </item>
+    <item>
+      <title>RustDoc-er - Rust Doc Generator - Wed Jul 29 14:25:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32491-rustdoc-er--rust-doc-generator</link>
+      <description>RustDoc-er is a smart, lightweight RustDoc generator for Rust in IntelliJ IDEA (with the Rust plugin). It produces natural, readable documentation from your code...
+
+vendor: Godwin Joseph
+downloads: 1
+pricingModel: FREE
+xmlId: com.godwin.rustdocer</description>
+      <pubDate>Wed, 29 Jul 2026 14:25:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32491-rustdoc-er--rust-doc-generator</guid>
+      <dc:date>2026-07-29T14:25:57Z</dc:date>
+    </item>
+    <item>
       <title>Kassi Test Data - Wed Jul 29 19:14:32 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33149-kassi-test-data</link>
       <description>Kassi Test Data — valid banking &amp;amp; KYC test data, generated offline Generic faker tools produce plausible-looking data. This plugin produces spec-valid data that...
@@ -45,7 +175,7 @@ xmlId: dev.flashflow.plugin</description>
       <dc:date>2026-07-28T13:42:40Z</dc:date>
     </item>
     <item>
-      <title>React Native Companion - Tue Jul 28 05:57:37 UTC 2026</title>
+      <title>React Native Companion - Thu Jul 30 06:46:29 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33093-react-native-companion</link>
       <description>Run React Native commands (run-android, run-ios, Metro) from a tool window without freezing the IDE. Built on OSProcessHandler, IntelliJ's own asynchronous process...
 
@@ -53,12 +183,12 @@ vendor: Gap Hunter Labs
 downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.reactnativecompanion</description>
-      <pubDate>Tue, 28 Jul 2026 05:57:37 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 06:46:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33093-react-native-companion</guid>
-      <dc:date>2026-07-28T05:57:37Z</dc:date>
+      <dc:date>2026-07-30T06:46:29Z</dc:date>
     </item>
     <item>
-      <title>Spreadsheet Companion - Tue Jul 28 06:01:04 UTC 2026</title>
+      <title>Spreadsheet Companion - Thu Jul 30 06:46:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33095-spreadsheet-companion</link>
       <description>Edit CSV/TSV files in a real table — add and delete rows and columns, edit cells — and view XLSX workbooks, without leaving the IDE. Respects how your files open. The...
 
@@ -66,12 +196,12 @@ vendor: Gap Hunter Labs
 downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.spreadsheetcompanion</description>
-      <pubDate>Tue, 28 Jul 2026 06:01:04 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 06:46:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33095-spreadsheet-companion</guid>
-      <dc:date>2026-07-28T06:01:04Z</dc:date>
+      <dc:date>2026-07-30T06:46:00Z</dc:date>
     </item>
     <item>
-      <title>Nginx Companion - Tue Jul 28 06:03:22 UTC 2026</title>
+      <title>Nginx Companion - Thu Jul 30 06:45:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33097-nginx-companion</link>
       <description>Syntax highlighting and directive completion for nginx config files — opt-in by content, not by hijacking every .conf file on disk. Completion is backed by the real...
 
@@ -79,9 +209,9 @@ vendor: Gap Hunter Labs
 downloads: 4
 pricingModel: FREE
 xmlId: dev.gaphunter.nginxcompanion</description>
-      <pubDate>Tue, 28 Jul 2026 06:03:22 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 06:45:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33097-nginx-companion</guid>
-      <dc:date>2026-07-28T06:03:22Z</dc:date>
+      <dc:date>2026-07-30T06:45:31Z</dc:date>
     </item>
     <item>
       <title>IDE Layout Profiles - Wed Jul 29 21:17:06 UTC 2026</title>
@@ -134,136 +264,6 @@ xmlId: com.dlqworkbench.plugin</description>
       <pubDate>Mon, 27 Jul 2026 23:40:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33188-dlq-workbench</guid>
       <dc:date>2026-07-27T23:40:47Z</dc:date>
-    </item>
-    <item>
-      <title>Context2Prompt - Mon Jul 27 21:05:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33184-context2prompt</link>
-      <description>Context2Prompt copies files, project structure, and code problems from your IDE as LLM-ready prompts. Select files or folders in the Project view, open files, or a...
-
-vendor: 0zd0
-downloads: 9
-pricingModel: FREE
-xmlId: com.ozd0.context2prompt</description>
-      <pubDate>Mon, 27 Jul 2026 21:05:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33184-context2prompt</guid>
-      <dc:date>2026-07-27T21:05:07Z</dc:date>
-    </item>
-    <item>
-      <title>Hurlevent - Mon Jul 27 18:45:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33180-hurlevent</link>
-      <description>Language support for Hurl, the plain-text file format for running and testing HTTP requests. Hurlevent recognizes .hurl files and adds editor features, code...
-
-vendor: Quentin Ligier
-downloads: 4
-pricingModel: FREE
-xmlId: ch.qligier.jetbrains.plugin.hurlevent</description>
-      <pubDate>Mon, 27 Jul 2026 18:45:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33180-hurlevent</guid>
-      <dc:date>2026-07-27T18:45:54Z</dc:date>
-    </item>
-    <item>
-      <title>xslint for XSL/XSLT - Tue Jul 28 11:26:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33167-xslint-for-xsl-xslt</link>
-      <description>xslint brings XSL/XSLT linting to your JetBrains IDE. As you edit any .xsl or .xslt file, it flags problems inline —malformed XML, XPath expressions that don't...
-
-vendor: xslint
-downloads: 5
-pricingModel: FREE
-xmlId: com.xslint.jetbrains</description>
-      <pubDate>Tue, 28 Jul 2026 11:26:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33167-xslint-for-xsl-xslt</guid>
-      <dc:date>2026-07-28T11:26:45Z</dc:date>
-    </item>
-    <item>
-      <title>SpecShield - Sat Jul 25 20:37:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33137-specshield</link>
-      <description>Contract compatibility testing and API governance — right in the IDE. SpecShield brings your OpenAPI compatibility and governance checks into JetBrains IDEs, backed by...
-
-vendor: SpecShield Software Private Limited
-downloads: 1
-pricingModel: FREE
-xmlId: io.specshield.plugin</description>
-      <pubDate>Sat, 25 Jul 2026 20:37:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33137-specshield</guid>
-      <dc:date>2026-07-25T20:37:52Z</dc:date>
-    </item>
-    <item>
-      <title>ChangeTrace - Wed Jul 29 09:43:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33217-changetrace</link>
-      <description>Analyze the ripple effect of your code changes before you commit. Know exactly which methods, classes, modules, and APIs will be impacted by every modification. 功能特性...
-
-vendor: ChangeTrace
-downloads: 3
-pricingModel: FREE
-xmlId: ct.changetrace.ChangeTrace</description>
-      <pubDate>Wed, 29 Jul 2026 09:43:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33217-changetrace</guid>
-      <dc:date>2026-07-29T09:43:37Z</dc:date>
-    </item>
-    <item>
-      <title>SQL Runner - Wed Jul 29 10:42:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33219-sql-runner</link>
-      <description>IdeaVault SQL Helper Execute Microsoft SQL Server queries directly from your IntelliJ-based IDE without leaving your code. Features Execute selected SQL Execute SQL...
-
-vendor: IdeaVault Labs
-downloads: 5
-pricingModel: FREE
-xmlId: com.ideavault.sqlhelper</description>
-      <pubDate>Wed, 29 Jul 2026 10:42:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33219-sql-runner</guid>
-      <dc:date>2026-07-29T10:42:17Z</dc:date>
-    </item>
-    <item>
-      <title>Run In Terminal - Wed Jul 29 23:02:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33221-run-in-terminal</link>
-      <description>Run scripts in a real terminal / console / shell, or just open a file with its own (or a custom) application. Two context-menu actions for your project tree: &amp;gt;_ Run...
-
-vendor: alvol
-downloads: 60
-pricingModel: FREE
-xmlId: dev.alvol.runinterminal</description>
-      <pubDate>Wed, 29 Jul 2026 23:02:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33221-run-in-terminal</guid>
-      <dc:date>2026-07-29T23:02:12Z</dc:date>
-    </item>
-    <item>
-      <title>DartDoc-er - Dart Doc Generator - Wed Jul 29 09:29:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32490-dartdoc-er--dart-doc-generator</link>
-      <description>DartDoc-er is a smart, lightweight DartDoc generator for Dart in IntelliJ IDEA and Android Studio. It produces natural, readable documentation from your code -- not...
-
-vendor: Godwin Joseph
-downloads: 5
-pricingModel: FREE
-xmlId: com.godwin.dartdocer</description>
-      <pubDate>Wed, 29 Jul 2026 09:29:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32490-dartdoc-er--dart-doc-generator</guid>
-      <dc:date>2026-07-29T09:29:08Z</dc:date>
-    </item>
-    <item>
-      <title>ServiceNow Dev Pro - Wed Jul 29 08:33:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33214-servicenow-dev-pro</link>
-      <description>ServiceNow Dev Pro brings ServiceNow server-side development into JetBrains IDEs: connect to a ServiceNow instance and pull/edit/push server scripts (Script Includes...
-
-vendor: Ngaio
-downloads: 3
-pricingModel: FREE
-xmlId: com.servicenowdevpro</description>
-      <pubDate>Wed, 29 Jul 2026 08:33:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33214-servicenow-dev-pro</guid>
-      <dc:date>2026-07-29T08:33:30Z</dc:date>
-    </item>
-    <item>
-      <title>SIE IIDP - Thu Jul 30 04:01:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33213-sie-iidp</link>
-      <description>SIE IIDP SDK Code Generator for IntelliJ IDEAIIDP SDK 代码生成器 面向 IIDP SDK 开发场景，帮助开发者在 IntelliJ IDEA 中快速生成常用代码， 减少重复编写，并提升 Model 字段与访问器的导航效率。 适用场景 基于 IIDP SDK 开发...
-
-vendor: SIE MBM IIDP
-downloads: 7
-pricingModel: FREE
-xmlId: com.sie.mbm.sdk</description>
-      <pubDate>Thu, 30 Jul 2026 04:01:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33213-sie-iidp</guid>
-      <dc:date>2026-07-30T04:01:58Z</dc:date>
     </item>
   </channel>
 </rss>
