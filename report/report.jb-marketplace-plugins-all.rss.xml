@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Figma Connect - Thu Jul 30 14:27:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33251-figma-connect</link>
+      <description>Bring your Figma designs into your IDE with the Figma Connect plugin. Select a frame, component, or layer and let AI Assistant generate the matching code — no...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.figma</description>
+      <pubDate>Thu, 30 Jul 2026 14:27:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33251-figma-connect</guid>
+      <dc:date>2026-07-30T14:27:16Z</dc:date>
+    </item>
+    <item>
+      <title>PRISM Log Viewer - Thu Jul 30 17:41:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32995-prism-log-viewer</link>
+      <description>Log viewer for large and live local files. PRISM opens .log and .out files in a streaming viewport without loading the complete file into the IDE document model. Free...
+
+vendor: Telemark Digital
+downloads: 5
+pricingModel: FREEMIUM
+xmlId: com.prism.logviewer</description>
+      <pubDate>Thu, 30 Jul 2026 17:41:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32995-prism-log-viewer</guid>
+      <dc:date>2026-07-30T17:41:17Z</dc:date>
+    </item>
+    <item>
+      <title>Iris Code - Thu Jul 30 17:17:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33168-iris-code</link>
+      <description>Iris Code is a deterministic, local-first code-health and enforcement engine for AI-assisted software development. It provides inline diagnostics, quick fixes...
+
+vendor: David Jaja
+downloads: 1
+pricingModel: FREE
+xmlId: co.iriscode</description>
+      <pubDate>Thu, 30 Jul 2026 17:17:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33168-iris-code</guid>
+      <dc:date>2026-07-30T17:17:45Z</dc:date>
+    </item>
+    <item>
       <title>LLM Cheburnexus - Mon Jul 27 14:27:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33155-llm-cheburnexus</link>
       <description>Your AI assistant burns tokens reading files. This makes it stop. Cheburnexus indexes your project at compiler level — the same understanding a compiler has, not text...
@@ -225,45 +264,6 @@ xmlId: io.github.khopland.ide-layout-profiles</description>
       <pubDate>Wed, 29 Jul 2026 21:17:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33187-ide-layout-profiles</guid>
       <dc:date>2026-07-29T21:17:06Z</dc:date>
-    </item>
-    <item>
-      <title>GEDCOM - Tue Jul 28 11:33:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33200-gedcom</link>
-      <description>GEDCOM helps you read and edit .ged and .gedcom files with confidence. It understands the GEDCOM structure, suggests valid entries, and reports problems as you type...
-
-vendor: Andrei Lobanov
-downloads: 2
-pricingModel: FREE
-xmlId: gedcom.jetbrains</description>
-      <pubDate>Tue, 28 Jul 2026 11:33:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33200-gedcom</guid>
-      <dc:date>2026-07-28T11:33:52Z</dc:date>
-    </item>
-    <item>
-      <title>FileMaker Script UI - Wed Jul 29 18:28:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33191-filemaker-script-ui</link>
-      <description>Renders ```filemaker-script fenced Markdown code blocks as collapsible, FileMaker-Pro-style script accordions in the built-in Markdown preview, using fmscriptui. Usage...
-
-vendor: Blue Kachina
-downloads: 9
-pricingModel: FREE
-xmlId: com.bluekachina.fmscriptui</description>
-      <pubDate>Wed, 29 Jul 2026 18:28:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33191-filemaker-script-ui</guid>
-      <dc:date>2026-07-29T18:28:02Z</dc:date>
-    </item>
-    <item>
-      <title>DLQ Workbench - Thu Jul 30 14:06:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33188-dlq-workbench</link>
-      <description>The problem A message fails and lands in the DLQ. You need to find out why, how many others failed for the same reason — 4,000 messages are usually 3 or 4 root causes...
-
-vendor: Mauricio Bernardes
-downloads: 4
-pricingModel: FREE
-xmlId: com.dlqworkbench.plugin</description>
-      <pubDate>Thu, 30 Jul 2026 14:06:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33188-dlq-workbench</guid>
-      <dc:date>2026-07-30T14:06:16Z</dc:date>
     </item>
   </channel>
 </rss>
