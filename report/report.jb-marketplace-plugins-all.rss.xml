@@ -8,10 +8,10 @@
     <item>
       <title>Figma Connect - Thu Jul 30 14:27:16 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33251-figma-connect</link>
-      <description>Bring your Figma designs into your IDE with the Figma Connect plugin. Select a frame, component, or layer and let AI Assistant generate the matching code — no...
+      <description>Bring your Figma designs into your IDE with the Figma Connect plugin. Select a frame, component, or layer and let AI generate the code — no tab-switching, no spec...
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.intellij.figma</description>
       <pubDate>Thu, 30 Jul 2026 14:27:16 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.intellij.figma</description>
       <description>Log viewer for large and live local files. PRISM opens .log and .out files in a streaming viewport without loading the complete file into the IDE document model. Free...
 
 vendor: Telemark Digital
-downloads: 5
+downloads: 9
 pricingModel: FREEMIUM
 xmlId: com.prism.logviewer</description>
       <pubDate>Thu, 30 Jul 2026 17:41:17 GMT</pubDate>
@@ -32,17 +32,17 @@ xmlId: com.prism.logviewer</description>
       <dc:date>2026-07-30T17:41:17Z</dc:date>
     </item>
     <item>
-      <title>Iris Code - Thu Jul 30 17:17:45 UTC 2026</title>
+      <title>Iris Code - Thu Jul 30 19:53:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33168-iris-code</link>
       <description>Iris Code is a deterministic, local-first code-health and enforcement engine for AI-assisted software development. It provides inline diagnostics, quick fixes...
 
 vendor: David Jaja
-downloads: 1
+downloads: 20
 pricingModel: FREE
 xmlId: co.iriscode</description>
-      <pubDate>Thu, 30 Jul 2026 17:17:45 GMT</pubDate>
+      <pubDate>Thu, 30 Jul 2026 19:53:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33168-iris-code</guid>
-      <dc:date>2026-07-30T17:17:45Z</dc:date>
+      <dc:date>2026-07-30T19:53:04Z</dc:date>
     </item>
     <item>
       <title>LLM Cheburnexus - Mon Jul 27 14:27:31 UTC 2026</title>
@@ -50,7 +50,7 @@ xmlId: co.iriscode</description>
       <description>Your AI assistant burns tokens reading files. This makes it stop. Cheburnexus indexes your project at compiler level — the same understanding a compiler has, not text...
 
 vendor: Conceptual Games
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: com.conceptualgames.cheburnexus</description>
       <pubDate>Mon, 27 Jul 2026 14:27:31 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.conceptualgames.cheburnexus</description>
       <description>Upload a local file or directory to a remote server over SSH and optionally run a follow-up deploy command without leaving your IDE. Upload files or folders with SFTP...
 
 vendor: lliyuu520
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.liliangyu.remotedeploy</description>
       <pubDate>Thu, 30 Jul 2026 02:38:32 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.liliangyu.remotedeploy</description>
       <description>Generate complete Lombok @Builder invocation assignments from a Java class. Select the target fields and get readable chained calls that use values from a source...
 
 vendor: K8585
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.K8585.lombok-builder</description>
       <pubDate>Thu, 30 Jul 2026 00:22:40 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: io.github.K8585.lombok-builder</description>
       <description>Native IntelliJ autocomplete using the Claude Code or Codex subscription you already have—no API keys or separate autocomplete plan. Switch explicitly between Claude...
 
 vendor: Kristjan Koemets
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.kkoemets.subscriptionautocomplete</description>
       <pubDate>Wed, 29 Jul 2026 23:11:19 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.kkoemets.subscriptionautocomplete</description>
       <description>Companion plugin for Claude Sessions, a desktop widget that shows the state of every Claude Code session you have running. Inside the IDE it does three things: Names...
 
 vendor: Nicolaj Jensen
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.nicsilver.claudesessions</description>
       <pubDate>Wed, 29 Jul 2026 22:11:51 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.nicsilver.claudesessions</description>
       <description>Checksum &amp;amp; Regex Playground A tool window for QA / fintech / KYC engineers. Paste any identifier and instantly see which real-world checks it passes — no browser...
 
 vendor: VadimToptunov
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: io.github.vadimtoptunov.checksum-playground</description>
       <pubDate>Wed, 29 Jul 2026 19:39:24 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: io.github.vadimtoptunov.checksum-playground</description>
       <description>Local, deterministic release-risk review for Spring Boot projects. Spring Vibe Bench scans Java, Spring configuration, Docker, MyBatis, SQL, and Flyway files without...
 
 vendor: Tmakerchima
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.tmakerchima.springvibebench</description>
       <pubDate>Wed, 29 Jul 2026 19:23:05 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: io.github.tmakerchima.springvibebench</description>
       <description>Reports production Java declarations whose every caller lives in a test source root — production API kept alive only by the tests that assert on it. Such a declaration...
 
 vendor: onlyonce
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: dev.onlyonce.testonlymethods</description>
       <pubDate>Wed, 29 Jul 2026 21:21:35 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: dev.onlyonce.testonlymethods</description>
       <description>Syntax highlighting and inline diagnostics for .typeflow mapping files.
 
 vendor: Arckene
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.thomasfarineau.typeflow.idea</description>
       <pubDate>Wed, 29 Jul 2026 15:03:43 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.thomasfarineau.typeflow.idea</description>
       <description>RustDoc-er is a smart, lightweight RustDoc generator for Rust in IntelliJ IDEA (with the Rust plugin). It produces natural, readable documentation from your code...
 
 vendor: Godwin Joseph
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.godwin.rustdocer</description>
       <pubDate>Wed, 29 Jul 2026 14:25:57 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.godwin.rustdocer</description>
       <description>Kassi Test Data — valid banking &amp;amp; KYC test data, generated offline Generic faker tools produce plausible-looking data. This plugin produces spec-valid data that...
 
 vendor: VadimToptunov
-downloads: 9
+downloads: 31
 pricingModel: FREE
 xmlId: io.github.vadimtoptunov.kassi-testdata</description>
       <pubDate>Thu, 30 Jul 2026 17:11:56 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: io.github.vadimtoptunov.kassi-testdata</description>
       <description>Design, run, analyze, and improve business decisions without leaving your IDE. Aletyx Automation Design brings a serious DMN workspace to IntelliJ IDEA and compatible...
 
 vendor: Aletyx
-downloads: 5
+downloads: 9
 pricingModel: FREE
 xmlId: ai.aletyx.automation-design</description>
       <pubDate>Tue, 28 Jul 2026 01:53:44 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: ai.aletyx.automation-design</description>
       <description>FlashFlow analyzes your Android XML layouts and flags the hierarchy problems that slow down rendering. Android Lint tells you the layout is deep. FlashFlow tells you...
 
 vendor: Ahmad AL Saffan
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: dev.flashflow.plugin</description>
       <pubDate>Tue, 28 Jul 2026 13:42:40 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.flashflow.plugin</description>
       <description>Run React Native commands (run-android, run-ios, Metro) from a tool window without freezing the IDE. Built on OSProcessHandler, IntelliJ's own asynchronous process...
 
 vendor: Gap Hunter Labs
-downloads: 3
+downloads: 18
 pricingModel: FREE
 xmlId: dev.gaphunter.reactnativecompanion</description>
       <pubDate>Thu, 30 Jul 2026 06:46:29 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: dev.gaphunter.reactnativecompanion</description>
       <description>Edit CSV/TSV files in a real table — add and delete rows and columns, edit cells — and view XLSX workbooks, without leaving the IDE. Respects how your files open. The...
 
 vendor: Gap Hunter Labs
-downloads: 3
+downloads: 16
 pricingModel: FREE
 xmlId: dev.gaphunter.spreadsheetcompanion</description>
       <pubDate>Thu, 30 Jul 2026 06:46:00 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: dev.gaphunter.spreadsheetcompanion</description>
       <description>Syntax highlighting and directive completion for nginx config files — opt-in by content, not by hijacking every .conf file on disk. Completion is backed by the real...
 
 vendor: Gap Hunter Labs
-downloads: 4
+downloads: 17
 pricingModel: FREE
 xmlId: dev.gaphunter.nginxcompanion</description>
       <pubDate>Thu, 30 Jul 2026 06:45:31 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: dev.gaphunter.nginxcompanion</description>
       <description>IDE Layout Profiles saves the parts of your IntelliJ IDEA workspace that normally take several clicks to restore. Create as many application-wide profiles as you need...
 
 vendor: khopland
-downloads: 11
+downloads: 27
 pricingModel: FREE
 xmlId: io.github.khopland.ide-layout-profiles</description>
       <pubDate>Wed, 29 Jul 2026 21:17:06 GMT</pubDate>
