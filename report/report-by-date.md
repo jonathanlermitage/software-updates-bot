@@ -1,7 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 10:26:55 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 17:16:56 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 10:26:55 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 10:26:55 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 30 13:23:45 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.5.1|[nodejs.org](https://nodejs.org)|Wed Jul 29 17:15:09 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.18.1|[nodejs.org](https://nodejs.org)|Wed Jul 29 17:15:09 UTC 2026|
@@ -33,7 +34,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.10|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.4|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u492-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon May 04 16:30:00 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
 |![logo](../media/logo/postgresql.png) PostgreSQL 13|13.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 13 16:03:11 UTC 2025|

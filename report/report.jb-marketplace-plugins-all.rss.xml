@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Git Notes - Fri Jul 31 14:05:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33181-git-notes</link>
+      <description>This minimal plugin adds support for git-notes in IntelliJ IDEA.
+
+vendor: Jakub Błach
+downloads: 1
+pricingModel: FREE
+xmlId: intellij-git-notes</description>
+      <pubDate>Fri, 31 Jul 2026 14:05:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33181-git-notes</guid>
+      <dc:date>2026-07-31T14:05:25Z</dc:date>
+    </item>
+    <item>
+      <title>Task Queue - Fri Jul 31 09:34:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33269-task-queue</link>
+      <description>Queue up Claude Code tasks and let them run in your IDE terminal while you work. TODO / In progress / Done board — drag cards to reorder or to start them. Tasks run in...
+
+vendor: roon
+downloads: 0
+pricingModel: FREE
+xmlId: dev.roon.taskqueue</description>
+      <pubDate>Fri, 31 Jul 2026 09:34:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33269-task-queue</guid>
+      <dc:date>2026-07-31T09:34:26Z</dc:date>
+    </item>
+    <item>
+      <title>FlutterHelper - Fri Jul 31 08:55:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33267-flutterhelper</link>
+      <description>FlutterHelper Flutter/Dart editor enhancements for IntelliJ IDEA / Android Studio. 面向 IntelliJ IDEA / Android Studio 的 Flutter/Dart 编辑增强插件。 Requires: Dart, Flutter...
+
+vendor: SixSix
+downloads: 0
+pricingModel: FREE
+xmlId: com.sixsix.flutter.helper.FlutterHelper</description>
+      <pubDate>Fri, 31 Jul 2026 08:55:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33267-flutterhelper</guid>
+      <dc:date>2026-07-31T08:55:52Z</dc:date>
+    </item>
+    <item>
       <title>Git Identity Guard - Fri Jul 31 06:14:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33265-git-identity-guard</link>
       <description>English Git Identity Guard prevents an unintended Git name or email address from being recorded in commits to your GitHub repositories. The plugin uses the GitHub...
@@ -32,7 +71,7 @@ xmlId: com.oreoft.restfulcontroller</description>
       <dc:date>2026-07-31T03:05:47Z</dc:date>
     </item>
     <item>
-      <title>navibus - Thu Jul 30 22:35:42 UTC 2026</title>
+      <title>navibus - Fri Jul 31 15:40:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33261-navibus</link>
       <description>Navigation from a PHP class to its handler methods — methods marked with some attribute and accepting the class as a parameter. Works both as a gutter icon and via the...
 
@@ -40,9 +79,9 @@ vendor: the_toster
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.thetoster.navibus</description>
-      <pubDate>Thu, 30 Jul 2026 22:35:42 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 15:40:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33261-navibus</guid>
-      <dc:date>2026-07-30T22:35:42Z</dc:date>
+      <dc:date>2026-07-31T15:40:57Z</dc:date>
     </item>
     <item>
       <title>README Diagrams - Mermaid and Structurizr Preview - Thu Jul 30 21:21:58 UTC 2026</title>
@@ -82,19 +121,6 @@ xmlId: org.syed.elpl.support</description>
       <pubDate>Thu, 30 Jul 2026 18:50:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33250-elplsupport</guid>
       <dc:date>2026-07-30T18:50:04Z</dc:date>
-    </item>
-    <item>
-      <title>Amazing Claude Code - Thu Jul 30 17:16:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33255-amazing-claude-code</link>
-      <description>A native chat panel for Claude Code inside JetBrains IDEs - a real input field and a readable output area, instead of a terminal session. It has everything the Claude...
-
-vendor: Maksim Zolotoi
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.crmapache.amazingclaudecode</description>
-      <pubDate>Thu, 30 Jul 2026 17:16:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33255-amazing-claude-code</guid>
-      <dc:date>2026-07-30T17:16:58Z</dc:date>
     </item>
     <item>
       <title>Tab Switch Reborn - Fri Jul 31 07:35:43 UTC 2026</title>
@@ -162,7 +188,7 @@ xmlId: com.github.senocak.etcd</description>
       <dc:date>2026-07-30T10:54:06Z</dc:date>
     </item>
     <item>
-      <title>Code Trace Tree - Fri Jul 31 06:52:05 UTC 2026</title>
+      <title>Code Trace Tree - Fri Jul 31 16:05:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33246-code-trace-tree</link>
       <description>Code Trace Tree is a JetBrains plugin that lets you trace code in a tree structure. Double click any trace point to navigate to its source, with support for multiple...
 
@@ -170,9 +196,9 @@ vendor: Craig Brown
 downloads: 0
 pricingModel: FREE
 xmlId: com.pidifa.codetracetree</description>
-      <pubDate>Fri, 31 Jul 2026 06:52:05 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 16:05:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33246-code-trace-tree</guid>
-      <dc:date>2026-07-31T06:52:05Z</dc:date>
+      <dc:date>2026-07-31T16:05:02Z</dc:date>
     </item>
     <item>
       <title>API Bolt - Thu Jul 30 10:09:55 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: co.iriscode</description>
       <pubDate>Thu, 30 Jul 2026 19:53:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33168-iris-code</guid>
       <dc:date>2026-07-30T19:53:04Z</dc:date>
-    </item>
-    <item>
-      <title>LLM Cheburnexus - Mon Jul 27 14:27:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33155-llm-cheburnexus</link>
-      <description>Your AI assistant burns tokens reading files. This makes it stop. Cheburnexus indexes your project at compiler level — the same understanding a compiler has, not text...
-
-vendor: Conceptual Games
-downloads: 6
-pricingModel: FREE
-xmlId: com.conceptualgames.cheburnexus</description>
-      <pubDate>Mon, 27 Jul 2026 14:27:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33155-llm-cheburnexus</guid>
-      <dc:date>2026-07-27T14:27:31Z</dc:date>
-    </item>
-    <item>
-      <title>Remote Deploy - Thu Jul 30 02:38:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33231-remote-deploy</link>
-      <description>Upload a local file or directory to a remote server over SSH and optionally run a follow-up deploy command without leaving your IDE. Upload files or folders with SFTP...
-
-vendor: lliyuu520
-downloads: 2
-pricingModel: FREE
-xmlId: com.liliangyu.remotedeploy</description>
-      <pubDate>Thu, 30 Jul 2026 02:38:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33231-remote-deploy</guid>
-      <dc:date>2026-07-30T02:38:32Z</dc:date>
     </item>
   </channel>
 </rss>
