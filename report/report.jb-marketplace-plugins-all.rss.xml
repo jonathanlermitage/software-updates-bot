@@ -6,12 +6,64 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Tasker - Mon Jul 27 17:25:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33173-tasker</link>
+      <description>An IntelliJ IDEA tool window that puts every issue from every configured task server in one sortable, groupable table — with a details pane you can edit in place.The...
+
+vendor: Magnus Wållberg
+downloads: 1
+pricingModel: FREE
+xmlId: net.tagpad.tasker</description>
+      <pubDate>Mon, 27 Jul 2026 17:25:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33173-tasker</guid>
+      <dc:date>2026-07-27T17:25:24Z</dc:date>
+    </item>
+    <item>
+      <title>PHP Magic Method Navigation - Wed Jul 29 19:32:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33120-php-magic-method-navigation</link>
+      <description>Jump to the method PHP runs but never names. PHP calls some methods implicitly: a (string) cast or an echo quietly runs __toString(), $callable(...) runs __invoke...
+
+vendor: neoralphy
+downloads: 6
+pricingModel: FREE
+xmlId: eu.neoralphy.phpmagicnav</description>
+      <pubDate>Wed, 29 Jul 2026 19:32:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33120-php-magic-method-navigation</guid>
+      <dc:date>2026-07-29T19:32:11Z</dc:date>
+    </item>
+    <item>
+      <title>Callscape - Fri Jul 31 17:34:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32874-callscape</link>
+      <description>"Who calls this method?" deserves a picture, not two tabs of trees. Callscape is a free tool window that draws the call flow around your caret as one horizontal graph...
+
+vendor: neoralphy
+downloads: 24
+pricingModel: FREE
+xmlId: com.callscape.plugin</description>
+      <pubDate>Fri, 31 Jul 2026 17:34:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32874-callscape</guid>
+      <dc:date>2026-07-31T17:34:57Z</dc:date>
+    </item>
+    <item>
+      <title>Hot Path Heatmap - Fri Jul 31 17:33:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32400-hot-path-heatmap</link>
+      <description>Spot the expensive call before production does. Hot Path Heatmap statically scores every method call in the editor and lights up the ones that may trigger costly...
+
+vendor: neoralphy
+downloads: 63
+pricingModel: FREE
+xmlId: com.hotpath.heatmap</description>
+      <pubDate>Fri, 31 Jul 2026 17:33:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32400-hot-path-heatmap</guid>
+      <dc:date>2026-07-31T17:33:05Z</dc:date>
+    </item>
+    <item>
       <title>Git Notes - Fri Jul 31 14:05:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33181-git-notes</link>
       <description>This minimal plugin adds support for git-notes in IntelliJ IDEA.
 
 vendor: Jakub Błach
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: intellij-git-notes</description>
       <pubDate>Fri, 31 Jul 2026 14:05:25 GMT</pubDate>
@@ -24,7 +76,7 @@ xmlId: intellij-git-notes</description>
       <description>Queue up Claude Code tasks and let them run in your IDE terminal while you work. TODO / In progress / Done board — drag cards to reorder or to start them. Tasks run in...
 
 vendor: roon
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.roon.taskqueue</description>
       <pubDate>Fri, 31 Jul 2026 09:34:26 GMT</pubDate>
@@ -37,7 +89,7 @@ xmlId: dev.roon.taskqueue</description>
       <description>FlutterHelper Flutter/Dart editor enhancements for IntelliJ IDEA / Android Studio. 面向 IntelliJ IDEA / Android Studio 的 Flutter/Dart 编辑增强插件。 Requires: Dart, Flutter...
 
 vendor: SixSix
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.sixsix.flutter.helper.FlutterHelper</description>
       <pubDate>Fri, 31 Jul 2026 08:55:52 GMT</pubDate>
@@ -50,7 +102,7 @@ xmlId: com.sixsix.flutter.helper.FlutterHelper</description>
       <description>English Git Identity Guard prevents an unintended Git name or email address from being recorded in commits to your GitHub repositories. The plugin uses the GitHub...
 
 vendor: 2doze
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: io.github.2doze.git-identity-guard</description>
       <pubDate>Fri, 31 Jul 2026 06:14:12 GMT</pubDate>
@@ -63,7 +115,7 @@ xmlId: io.github.2doze.git-identity-guard</description>
       <description>Discovers REST endpoints across Spring, JAX-RS, Micronaut, and FastAPI, then provides grouped browsing, filtering, and jump-to-source navigation.
 
 vendor: oreoft
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.oreoft.restfulcontroller</description>
       <pubDate>Fri, 31 Jul 2026 03:05:47 GMT</pubDate>
@@ -76,7 +128,7 @@ xmlId: com.oreoft.restfulcontroller</description>
       <description>Navigation from a PHP class to its handler methods — methods marked with some attribute and accepting the class as a parameter. Works both as a gutter icon and via the...
 
 vendor: the_toster
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.thetoster.navibus</description>
       <pubDate>Fri, 31 Jul 2026 15:40:57 GMT</pubDate>
@@ -89,7 +141,7 @@ xmlId: com.github.thetoster.navibus</description>
       <description>Render Mermaid and Structurizr diagrams from your README Preview ```mermaid and ```structurizr fenced code blocks from Markdown files in a dedicated tool window...
 
 vendor: Jakub Jirák
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.jakubjirak.readmediagrams</description>
       <pubDate>Thu, 30 Jul 2026 21:21:58 GMT</pubDate>
@@ -102,7 +154,7 @@ xmlId: com.jakubjirak.readmediagrams</description>
       <description>View and trigger GitHub Actions workflows directly in the Git panel of JetBrains IDEs. Uses IDEA's built-in GitHub account authentication — no extra token...
 
 vendor: oreoft
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.oreoft.githubactionscontroller</description>
       <pubDate>Thu, 30 Jul 2026 21:05:57 GMT</pubDate>
@@ -110,17 +162,17 @@ xmlId: com.oreoft.githubactionscontroller</description>
       <dc:date>2026-07-30T21:05:57Z</dc:date>
     </item>
     <item>
-      <title>ELPLsupport - Thu Jul 30 18:50:04 UTC 2026</title>
+      <title>ELPLsupport - Fri Jul 31 21:58:41 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33250-elplsupport</link>
       <description>ELPL Language Support Empower your development workflow with full-featured language support for ELPL. Designed for modern software engineering, this plugin brings a...
 
 vendor: Syed Ishaq
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: org.syed.elpl.support</description>
-      <pubDate>Thu, 30 Jul 2026 18:50:04 GMT</pubDate>
+      <pubDate>Fri, 31 Jul 2026 21:58:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33250-elplsupport</guid>
-      <dc:date>2026-07-30T18:50:04Z</dc:date>
+      <dc:date>2026-07-31T21:58:41Z</dc:date>
     </item>
     <item>
       <title>Tab Switch Reborn - Fri Jul 31 07:35:43 UTC 2026</title>
@@ -128,7 +180,7 @@ xmlId: org.syed.elpl.support</description>
       <description>Fixed issues with the original Tabswitch as it was not working correctly with the latest version of Jetbrain editors. Open files/tabs switcher to quickly switch...
 
 vendor: Sylvain Robez-Masson
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: org.blackprism.tabswitchreborn.jetbrains</description>
       <pubDate>Fri, 31 Jul 2026 07:35:43 GMT</pubDate>
@@ -141,7 +193,7 @@ xmlId: org.blackprism.tabswitchreborn.jetbrains</description>
       <description>Corgea finds insecure code in your project and applies AI-generated fixes without leaving the IDE. Features Security scanning — scan the whole project, or only your...
 
 vendor: Corgea
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.corgea.intellij-plugin</description>
       <pubDate>Thu, 30 Jul 2026 11:57:58 GMT</pubDate>
@@ -154,7 +206,7 @@ xmlId: com.corgea.intellij-plugin</description>
       <description>Progress Buddy - Your Personal IDE Companion Tired of staring at the same boring gray progress bar every time your IDE builds, indexes, or syncs? Progress Buddy...
 
 vendor: Wilson Stevan
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.wilsonhub.progressbuddy</description>
       <pubDate>Thu, 30 Jul 2026 11:32:30 GMT</pubDate>
@@ -167,7 +219,7 @@ xmlId: com.wilsonhub.progressbuddy</description>
       <description>WGSL language support for JetBrains IDEs, backed by the libwgsl language server — bundled for your platform, so there is nothing extra to install. Syntax highlighting...
 
 vendor: toprakdeviren
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.toprakdeviren.wgsl</description>
       <pubDate>Thu, 30 Jul 2026 11:24:16 GMT</pubDate>
@@ -180,7 +232,7 @@ xmlId: com.toprakdeviren.wgsl</description>
       <description>Browse and edit an etcd v3 key space from inside the IDE. Browse the key space as a lazily-loaded prefix tree. Read and edit values, with JSON highlighting and Raw...
 
 vendor: Anıl Şenocak
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.senocak.etcd</description>
       <pubDate>Thu, 30 Jul 2026 10:54:06 GMT</pubDate>
@@ -193,7 +245,7 @@ xmlId: com.github.senocak.etcd</description>
       <description>Code Trace Tree is a JetBrains plugin that lets you trace code in a tree structure. Double click any trace point to navigate to its source, with support for multiple...
 
 vendor: Craig Brown
-downloads: 0
+downloads: 40
 pricingModel: FREE
 xmlId: com.pidifa.codetracetree</description>
       <pubDate>Fri, 31 Jul 2026 16:05:02 GMT</pubDate>
@@ -206,64 +258,12 @@ xmlId: com.pidifa.codetracetree</description>
       <description>API Lightning Tester — An IDE-integrated API debugging tool designed for Spring Boot developers, enabling seamless switching between code and interface testing. Core...
 
 vendor: zzh
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.zzh.api-bolt</description>
       <pubDate>Thu, 30 Jul 2026 10:09:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33245-api-bolt</guid>
       <dc:date>2026-07-30T10:09:55Z</dc:date>
-    </item>
-    <item>
-      <title>Code QA (DeepSeek) - Thu Jul 30 09:03:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33244-code-qa-deepseek-</link>
-      <description>Code QA (DeepSeek) is a PyCharm plugin that integrates DeepSeek AI into your IDE. Select code, ask questions, and get AI-powered answers without leaving the editor...
-
-vendor: Baurt
-downloads: 0
-pricingModel: FREE
-xmlId: com.codeqa.plugin</description>
-      <pubDate>Thu, 30 Jul 2026 09:03:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33244-code-qa-deepseek-</guid>
-      <dc:date>2026-07-30T09:03:53Z</dc:date>
-    </item>
-    <item>
-      <title>Figma Connect - Thu Jul 30 14:27:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33251-figma-connect</link>
-      <description>Bring your Figma designs into your IDE with the Figma Connect plugin. Select a frame, component, or layer and let AI generate the code — no tab-switching, no spec...
-
-vendor: JetBrains s.r.o.
-downloads: 2
-pricingModel: FREE
-xmlId: com.intellij.figma</description>
-      <pubDate>Thu, 30 Jul 2026 14:27:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33251-figma-connect</guid>
-      <dc:date>2026-07-30T14:27:16Z</dc:date>
-    </item>
-    <item>
-      <title>PRISM Log Viewer - Thu Jul 30 17:41:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32995-prism-log-viewer</link>
-      <description>Log viewer for large and live local files. PRISM opens .log and .out files in a streaming viewport without loading the complete file into the IDE document model. Free...
-
-vendor: Telemark Digital
-downloads: 9
-pricingModel: FREEMIUM
-xmlId: com.prism.logviewer</description>
-      <pubDate>Thu, 30 Jul 2026 17:41:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32995-prism-log-viewer</guid>
-      <dc:date>2026-07-30T17:41:17Z</dc:date>
-    </item>
-    <item>
-      <title>Iris Code - Thu Jul 30 19:53:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33168-iris-code</link>
-      <description>Iris Code is a deterministic, local-first code-health and enforcement engine for AI-assisted software development. It provides inline diagnostics, quick fixes...
-
-vendor: David Jaja
-downloads: 20
-pricingModel: FREE
-xmlId: co.iriscode</description>
-      <pubDate>Thu, 30 Jul 2026 19:53:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33168-iris-code</guid>
-      <dc:date>2026-07-30T19:53:04Z</dc:date>
     </item>
   </channel>
 </rss>
