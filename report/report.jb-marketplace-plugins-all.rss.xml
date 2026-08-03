@@ -6,6 +6,136 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ViewCompose Preview - Mon Aug 03 10:40:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33290-viewcompose-preview</link>
+      <description>ViewCompose Preview adds static Android View previews for ViewCompose projects in Android Studio. Navigate between Kotlin DSL source and rendered View nodes. Preview...
+
+vendor: ViewCompose
+downloads: 0
+pricingModel: FREE
+xmlId: com.viewcompose.studio.preview</description>
+      <pubDate>Mon, 03 Aug 2026 10:40:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33290-viewcompose-preview</guid>
+      <dc:date>2026-08-03T10:40:56Z</dc:date>
+    </item>
+    <item>
+      <title>MotionFlow - Sat Aug 01 09:43:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33284-motionflow</link>
+      <description>Native, configurable visual motion for IntelliJ Platform IDEs. Follow caret movement, clicks, navigation jumps, editor changes, and tool-window focus through...
+
+vendor: Myang
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.myangprint.motionflow</description>
+      <pubDate>Sat, 01 Aug 2026 09:43:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33284-motionflow</guid>
+      <dc:date>2026-08-01T09:43:19Z</dc:date>
+    </item>
+    <item>
+      <title>Genesis - Mon Aug 03 05:54:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33266-genesis</link>
+      <description>Genesis : A Database-First code generator for Java Spring Boot and .NET for JetBrains IDEs.
+
+vendor: Genesis developper
+downloads: 0
+pricingModel: FREE
+xmlId: org.labs.genesis</description>
+      <pubDate>Mon, 03 Aug 2026 05:54:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33266-genesis</guid>
+      <dc:date>2026-08-03T05:54:27Z</dc:date>
+    </item>
+    <item>
+      <title>Lombok Builder Linker - Sat Aug 01 10:47:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33285-lombok-builder-linker</link>
+      <description>Reconnect what Lombok @Builder disconnects. A linker resolves the symbol references a compiler leaves dangling. This plugin does the same job inside the editor: it...
+
+vendor: eehgnod
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.jeongdonghee.lombokbuilderlinker</description>
+      <pubDate>Sat, 01 Aug 2026 10:47:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33285-lombok-builder-linker</guid>
+      <dc:date>2026-08-01T10:47:06Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Selection Bridge - Mon Aug 03 07:11:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33281-mcp-selection-bridge</link>
+      <description>Share your current editor selection with the OpenAI Codex CLI or the Kimi Code CLI running in any terminal. The plugin runs a local MCP (Model Context Protocol) server...
+
+vendor: irony
+downloads: 1
+pricingModel: FREE
+xmlId: life.irony.selection-bridge-for-codex</description>
+      <pubDate>Mon, 03 Aug 2026 07:11:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33281-mcp-selection-bridge</guid>
+      <dc:date>2026-08-03T07:11:52Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Brains - Sat Aug 01 10:52:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33274-claude-brains</link>
+      <description>Claude Code for JetBrains IDEs (unofficial). Runs Anthropic's official claude CLI inside PhpStorm and other IntelliJ IDEs, wired to the editor through the same IDE-MCP...
+
+vendor: Amit Sidhpura
+downloads: 5
+pricingModel: FREE
+xmlId: io.github.amitsidhpura.claude-brains</description>
+      <pubDate>Sat, 01 Aug 2026 10:52:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33274-claude-brains</guid>
+      <dc:date>2026-08-01T10:52:33Z</dc:date>
+    </item>
+    <item>
+      <title>Desktop Capture - Mon Aug 03 06:46:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33298-desktop-capture</link>
+      <description>Capture and annotate screenshots without ever leaving your IDE. Grab the whole desktop, mark it up with a full annotation toolkit, then copy, save, or pin the result...
+
+vendor: GenAI
+downloads: 0
+pricingModel: FREE
+xmlId: io.genai.desktopcapture</description>
+      <pubDate>Mon, 03 Aug 2026 06:46:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33298-desktop-capture</guid>
+      <dc:date>2026-08-03T06:46:18Z</dc:date>
+    </item>
+    <item>
+      <title>BeanShell Language Support - Fri Jul 31 23:29:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33277-beanshell-language-support</link>
+      <description>Language support for BeanShell scripts (.bsh). Syntax highlighting with a configurable color scheme Brace matching, code folding and line/block commenting Structural...
+
+vendor: Martin Lopatář (@loplex)
+downloads: 2
+pricingModel: FREE
+xmlId: cz.loplex.bsh</description>
+      <pubDate>Fri, 31 Jul 2026 23:29:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33277-beanshell-language-support</guid>
+      <dc:date>2026-07-31T23:29:07Z</dc:date>
+    </item>
+    <item>
+      <title>CurdoAI - Mon Aug 03 01:32:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33311-curdoai</link>
+      <description>CurdoAI is an AI coding assistant for IntelliJ-based IDEs that helps developers understand, edit, and complete code without leaving the editor. CurdoAI（蝌蚪AI）是一款直接运行在...
+
+vendor: CurdoAI
+downloads: 0
+pricingModel: FREE
+xmlId: com.lxy.curdo</description>
+      <pubDate>Mon, 03 Aug 2026 01:32:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33311-curdoai</guid>
+      <dc:date>2026-08-03T01:32:18Z</dc:date>
+    </item>
+    <item>
+      <title>EventConductor - Sat Aug 01 17:30:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33288-eventconductor</link>
+      <description>Edit EventConductor workflow definitions (.ec files) as an interactive graph or as YAML/JSON with schema validation. The graph is the same component used inside the...
+
+vendor: Miguel Pérez Colom
+downloads: 2
+pricingModel: FREE
+xmlId: io.mateu.eventconductor</description>
+      <pubDate>Sat, 01 Aug 2026 17:30:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33288-eventconductor</guid>
+      <dc:date>2026-08-01T17:30:35Z</dc:date>
+    </item>
+    <item>
       <title>Markdown Theme Studio - Sat Aug 01 05:17:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33279-markdown-theme-studio</link>
       <description>Readable Markdown preview themes for JetBrains IDEs. Replaces the default Markdown preview styling with four polished themes (GitHub, Soft, Docs, Reader) tuned for...
@@ -134,136 +264,6 @@ xmlId: com.prinsights</description>
       <pubDate>Fri, 31 Jul 2026 13:19:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33272-pr-insights</guid>
       <dc:date>2026-07-31T13:19:08Z</dc:date>
-    </item>
-    <item>
-      <title>ComplexArgs - Sat Aug 01 11:14:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32669-complexargs</link>
-      <description>Manage Unreal Engine commandline argument presets for Rider C++ run configurations. A main-toolbar widget rolls out an editor where you organise arguments into groups...
-
-vendor: grim
-downloads: 19
-pricingModel: FREE
-xmlId: com.grimrg.complexargs</description>
-      <pubDate>Sat, 01 Aug 2026 11:14:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32669-complexargs</guid>
-      <dc:date>2026-08-01T11:14:07Z</dc:date>
-    </item>
-    <item>
-      <title>Tasker - Mon Jul 27 17:25:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33173-tasker</link>
-      <description>An IntelliJ IDEA tool window that puts every issue from every configured task server in one sortable, groupable table — with a details pane you can edit in place.The...
-
-vendor: Magnus Wållberg
-downloads: 8
-pricingModel: FREE
-xmlId: net.tagpad.tasker</description>
-      <pubDate>Mon, 27 Jul 2026 17:25:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33173-tasker</guid>
-      <dc:date>2026-07-27T17:25:24Z</dc:date>
-    </item>
-    <item>
-      <title>PHP Magic Method Navigation - Wed Jul 29 19:32:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33120-php-magic-method-navigation</link>
-      <description>Jump to the method PHP runs but never names. PHP calls some methods implicitly: a (string) cast or an echo quietly runs __toString(), $callable(...) runs __invoke...
-
-vendor: neoralphy
-downloads: 10
-pricingModel: FREE
-xmlId: eu.neoralphy.phpmagicnav</description>
-      <pubDate>Wed, 29 Jul 2026 19:32:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33120-php-magic-method-navigation</guid>
-      <dc:date>2026-07-29T19:32:11Z</dc:date>
-    </item>
-    <item>
-      <title>Callscape - Fri Jul 31 17:34:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32874-callscape</link>
-      <description>"Who calls this method?" deserves a picture, not two tabs of trees. Callscape is a free tool window that draws the call flow around your caret as one horizontal graph...
-
-vendor: neoralphy
-downloads: 36
-pricingModel: FREE
-xmlId: com.callscape.plugin</description>
-      <pubDate>Fri, 31 Jul 2026 17:34:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32874-callscape</guid>
-      <dc:date>2026-07-31T17:34:57Z</dc:date>
-    </item>
-    <item>
-      <title>Hot Path Heatmap - Fri Jul 31 17:33:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32400-hot-path-heatmap</link>
-      <description>Spot the expensive call before production does. Hot Path Heatmap statically scores every method call in the editor and lights up the ones that may trigger costly...
-
-vendor: neoralphy
-downloads: 74
-pricingModel: FREE
-xmlId: com.hotpath.heatmap</description>
-      <pubDate>Fri, 31 Jul 2026 17:33:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32400-hot-path-heatmap</guid>
-      <dc:date>2026-07-31T17:33:05Z</dc:date>
-    </item>
-    <item>
-      <title>Git Notes - Fri Jul 31 14:05:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33181-git-notes</link>
-      <description>This minimal plugin adds support for git-notes in IntelliJ IDEA.
-
-vendor: Jakub Błach
-downloads: 16
-pricingModel: FREE
-xmlId: intellij-git-notes</description>
-      <pubDate>Fri, 31 Jul 2026 14:05:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33181-git-notes</guid>
-      <dc:date>2026-07-31T14:05:25Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Task Queue - Mon Aug 03 01:18:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33269-claude-task-queue</link>
-      <description>Queue up Claude Code tasks and let them run in your IDE terminal while you work. TODO / In progress / Done board — drag cards to reorder or to start them. Tasks run in...
-
-vendor: roon
-downloads: 30
-pricingModel: FREE
-xmlId: dev.roon.taskqueue</description>
-      <pubDate>Mon, 03 Aug 2026 01:18:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33269-claude-task-queue</guid>
-      <dc:date>2026-08-03T01:18:21Z</dc:date>
-    </item>
-    <item>
-      <title>FlutterHelper - Fri Jul 31 08:55:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33267-flutterhelper</link>
-      <description>FlutterHelper Flutter/Dart editor enhancements for IntelliJ IDEA / Android Studio. 面向 IntelliJ IDEA / Android Studio 的 Flutter/Dart 编辑增强插件。 Requires: Dart, Flutter...
-
-vendor: SixSix
-downloads: 11
-pricingModel: FREE
-xmlId: com.sixsix.flutter.helper.FlutterHelper</description>
-      <pubDate>Fri, 31 Jul 2026 08:55:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33267-flutterhelper</guid>
-      <dc:date>2026-07-31T08:55:52Z</dc:date>
-    </item>
-    <item>
-      <title>Git Identity Guard - Fri Jul 31 06:14:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33265-git-identity-guard</link>
-      <description>English Git Identity Guard prevents an unintended Git name or email address from being recorded in commits to your GitHub repositories. The plugin uses the GitHub...
-
-vendor: 2doze
-downloads: 12
-pricingModel: FREE
-xmlId: io.github.2doze.git-identity-guard</description>
-      <pubDate>Fri, 31 Jul 2026 06:14:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33265-git-identity-guard</guid>
-      <dc:date>2026-07-31T06:14:12Z</dc:date>
-    </item>
-    <item>
-      <title>RestfulController - Fri Jul 31 03:05:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33264-restfulcontroller</link>
-      <description>Discovers REST endpoints across Spring, JAX-RS, Micronaut, and FastAPI, then provides grouped browsing, filtering, and jump-to-source navigation.
-
-vendor: oreoft
-downloads: 6
-pricingModel: FREE
-xmlId: com.oreoft.restfulcontroller</description>
-      <pubDate>Fri, 31 Jul 2026 03:05:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33264-restfulcontroller</guid>
-      <dc:date>2026-07-31T03:05:47Z</dc:date>
     </item>
   </channel>
 </rss>
