@@ -36,6 +36,7 @@ class ScrapperImpl : Scrapper {
                 .ignoreContentType(Globals.SCRAPPER_IGNORE_CONTENT_TYPE)
                 .followRedirects(Globals.SCRAPPER_FOLLOW_REDIRECTS)
                 .userAgent(Globals.SCRAPPER_USER_AGENT)
+                .timeout(20_000)
                 .execute()
             //logger.info("final url is =${execute.url()}")
             val res = execute.parse().body()
