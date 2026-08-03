@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Peek - Sun Aug 02 13:49:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33299-peek</link>
+      <description>Peek is an Android Studio and IntelliJ plugin for inspecting and editing an app's key-value storage: SharedPreferences, Jetpack DataStore (Preferences and Proto), and...
+
+vendor: Joel Kanyi
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.joelkanyi.peek</description>
+      <pubDate>Sun, 02 Aug 2026 13:49:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33299-peek</guid>
+      <dc:date>2026-08-02T13:49:02Z</dc:date>
+    </item>
+    <item>
+      <title>Git Hygiene Companion - Mon Aug 03 13:04:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33315-git-hygiene-companion</link>
+      <description>Lightweight inline git blame — author and date at the end of the current line — designed from the ground up to never block the editor. Every git operation runs off the...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.githygienecompanion</description>
+      <pubDate>Mon, 03 Aug 2026 13:04:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33315-git-hygiene-companion</guid>
+      <dc:date>2026-08-03T13:04:07Z</dc:date>
+    </item>
+    <item>
+      <title>JWT Companion - Mon Aug 03 13:07:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33316-jwt-companion</link>
+      <description>Decode and verify JSON Web Tokens directly in the IDE. A dedicated tool window decodes the header and payload (Base64URL, not standard Base64) into two independently...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.jwtcompanion</description>
+      <pubDate>Mon, 03 Aug 2026 13:07:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33316-jwt-companion</guid>
+      <dc:date>2026-08-03T13:07:24Z</dc:date>
+    </item>
+    <item>
+      <title>GitLab CI Companion - Mon Aug 03 17:33:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33317-gitlab-ci-companion</link>
+      <description>Static syntax and structural checks for .gitlab-ci.yml — catch mistakes before running a real pipeline, not after. Flags jobs referencing a stage: not declared in the...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.gitlabcicompanion</description>
+      <pubDate>Mon, 03 Aug 2026 17:33:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33317-gitlab-ci-companion</guid>
+      <dc:date>2026-08-03T17:33:52Z</dc:date>
+    </item>
+    <item>
+      <title>Review Companion - Mon Aug 03 13:09:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33318-review-companion</link>
+      <description>Local, rule-based code review hints for Java and Kotlin — no account, no rate limit, no cloud call. Flags overly long functions, deeply nested conditionals...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.reviewcompanion</description>
+      <pubDate>Mon, 03 Aug 2026 13:09:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33318-review-companion</guid>
+      <dc:date>2026-08-03T13:09:24Z</dc:date>
+    </item>
+    <item>
+      <title>GraphQL Companion - Mon Aug 03 13:10:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33319-graphql-companion</link>
+      <description>Fast syntax highlighting for .graphql/.graphqls files that stays fast on large schema files, and multi-schema discovery that works out of the box — with or without a...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.graphqlcompanion</description>
+      <pubDate>Mon, 03 Aug 2026 13:10:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33319-graphql-companion</guid>
+      <dc:date>2026-08-03T13:10:21Z</dc:date>
+    </item>
+    <item>
       <title>ViewCompose Preview - Mon Aug 03 10:40:56 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33290-viewcompose-preview</link>
       <description>ViewCompose Preview adds static Android View previews for ViewCompose projects in Android Studio. Navigate between Kotlin DSL source and rendered View nodes. Preview...
@@ -71,7 +149,7 @@ xmlId: life.irony.selection-bridge-for-codex</description>
       <dc:date>2026-08-03T07:11:52Z</dc:date>
     </item>
     <item>
-      <title>Claude Brains - Mon Aug 03 12:56:29 UTC 2026</title>
+      <title>Claude Brains - Mon Aug 03 18:45:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33274-claude-brains</link>
       <description>Claude Code for JetBrains IDEs (unofficial). Runs Anthropic's official claude CLI inside PhpStorm and other IntelliJ IDEs, wired to the editor through the same IDE-MCP...
 
@@ -79,9 +157,9 @@ vendor: Amit Sidhpura
 downloads: 5
 pricingModel: FREE
 xmlId: io.github.amitsidhpura.claude-brains</description>
-      <pubDate>Mon, 03 Aug 2026 12:56:29 GMT</pubDate>
+      <pubDate>Mon, 03 Aug 2026 18:45:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33274-claude-brains</guid>
-      <dc:date>2026-08-03T12:56:29Z</dc:date>
+      <dc:date>2026-08-03T18:45:09Z</dc:date>
     </item>
     <item>
       <title>Desktop Capture - Mon Aug 03 06:46:18 UTC 2026</title>
@@ -186,84 +264,6 @@ xmlId: dev.ashenarx.classic.toolbars.toggle</description>
       <pubDate>Sun, 02 Aug 2026 19:01:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33302-classic-toolbars-toggle</guid>
       <dc:date>2026-08-02T19:01:04Z</dc:date>
-    </item>
-    <item>
-      <title>Bracket Colorizer - Sun Aug 02 10:37:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33297-bracket-colorizer</link>
-      <description>Colorizes matching brackets by nesting depth ("rainbow brackets"): every pair of (), [], {} (and optionally &amp;lt;&amp;gt;) gets the color of its nesting level, so brackets...
-
-vendor: zukotuutori
-downloads: 0
-pricingModel: FREE
-xmlId: com.zukotuutori.bracketcolorizer</description>
-      <pubDate>Sun, 02 Aug 2026 10:37:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33297-bracket-colorizer</guid>
-      <dc:date>2026-08-02T10:37:48Z</dc:date>
-    </item>
-    <item>
-      <title>Cursor Usage - Mon Aug 03 03:37:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33300-cursor-usage</link>
-      <description>View Cursor account usage inside your JetBrains IDE. Cursor Usage shows your current billing-period allowance, on-demand spending, subscription details, and reset time...
-
-vendor: wuhan117
-downloads: 0
-pricingModel: FREE
-xmlId: wuhancode.com.cursor-usage</description>
-      <pubDate>Mon, 03 Aug 2026 03:37:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33300-cursor-usage</guid>
-      <dc:date>2026-08-03T03:37:08Z</dc:date>
-    </item>
-    <item>
-      <title>Quick Maven Package - Mon Aug 03 04:30:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/25490-quick-maven-package</link>
-      <description>Introduction to Quick Tools Plugins: Support for directly executing the git force-push command: git push --force-with-lease Support quick packaging of selected...
-
-vendor: cy20081118148
-downloads: 0
-pricingModel: FREE
-xmlId: org.kanan</description>
-      <pubDate>Mon, 03 Aug 2026 04:30:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/25490-quick-maven-package</guid>
-      <dc:date>2026-08-03T04:30:45Z</dc:date>
-    </item>
-    <item>
-      <title>LogLens - Fri Jul 31 03:00:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33263-loglens</link>
-      <description>LogLens — open multi-gigabyte log files instantly. Stop fighting your log files. LogLens opens huge logs the built-in viewers choke on — multi-GB files load in a snap...
-
-vendor: Veryation
-downloads: 1
-pricingModel: FREE
-xmlId: com.veryation.loglens</description>
-      <pubDate>Fri, 31 Jul 2026 03:00:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33263-loglens</guid>
-      <dc:date>2026-07-31T03:00:39Z</dc:date>
-    </item>
-    <item>
-      <title>Firefox Redux Navigator - Thu Jul 30 13:18:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33174-firefox-redux-navigator</link>
-      <description>Navigate Firefox Android Redux actions from dispatch sites to middleware handlers and reducers.
-
-vendor: Titouan
-downloads: 2
-pricingModel: FREE
-xmlId: org.mozilla.firefox-redux-navigator</description>
-      <pubDate>Thu, 30 Jul 2026 13:18:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33174-firefox-redux-navigator</guid>
-      <dc:date>2026-07-30T13:18:54Z</dc:date>
-    </item>
-    <item>
-      <title>PR Insights - Fri Jul 31 13:19:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33272-pr-insights</link>
-      <description>Manage Pull Request review comments directly from IntelliJ IDEA. View review threads, reply to comments, resolve or reopen discussions, and stay focused on your code...
-
-vendor: ur creations
-downloads: 4
-pricingModel: FREE
-xmlId: com.prinsights</description>
-      <pubDate>Fri, 31 Jul 2026 13:19:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33272-pr-insights</guid>
-      <dc:date>2026-07-31T13:19:08Z</dc:date>
     </item>
   </channel>
 </rss>
