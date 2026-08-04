@@ -6,17 +6,17 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Peek - Sun Aug 02 13:49:02 UTC 2026</title>
+      <title>Peek - Tue Aug 04 02:07:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33299-peek</link>
       <description>Peek is an Android Studio and IntelliJ plugin for inspecting and editing an app's key-value storage: SharedPreferences, Jetpack DataStore (Preferences and Proto), and...
 
 vendor: Joel Kanyi
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.joelkanyi.peek</description>
-      <pubDate>Sun, 02 Aug 2026 13:49:02 GMT</pubDate>
+      <pubDate>Tue, 04 Aug 2026 02:07:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33299-peek</guid>
-      <dc:date>2026-08-02T13:49:02Z</dc:date>
+      <dc:date>2026-08-04T02:07:37Z</dc:date>
     </item>
     <item>
       <title>Git Hygiene Companion - Mon Aug 03 21:33:01 UTC 2026</title>
@@ -24,7 +24,7 @@ xmlId: io.github.joelkanyi.peek</description>
       <description>Lightweight inline git blame — author and date at the end of the current line — designed from the ground up to never block the editor. Every git operation runs off the...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: dev.gaphunter.githygienecompanion</description>
       <pubDate>Mon, 03 Aug 2026 21:33:01 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: dev.gaphunter.githygienecompanion</description>
       <description>Decode and verify JSON Web Tokens directly in the IDE. A dedicated tool window decodes the header and payload (Base64URL, not standard Base64) into two independently...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: dev.gaphunter.jwtcompanion</description>
       <pubDate>Mon, 03 Aug 2026 21:34:10 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: dev.gaphunter.jwtcompanion</description>
       <description>Static syntax and structural checks for .gitlab-ci.yml — catch mistakes before running a real pipeline, not after. Flags jobs referencing a stage: not declared in the...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.gitlabcicompanion</description>
       <pubDate>Mon, 03 Aug 2026 17:33:52 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: dev.gaphunter.gitlabcicompanion</description>
       <description>Local, rule-based code review hints for Java and Kotlin — no account, no rate limit, no cloud call. Flags overly long functions, deeply nested conditionals...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.reviewcompanion</description>
       <pubDate>Mon, 03 Aug 2026 21:34:29 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: dev.gaphunter.reviewcompanion</description>
       <description>Fast syntax highlighting for .graphql/.graphqls files that stays fast on large schema files, and multi-schema discovery that works out of the box — with or without a...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: dev.gaphunter.graphqlcompanion</description>
       <pubDate>Mon, 03 Aug 2026 21:33:28 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: dev.gaphunter.graphqlcompanion</description>
       <description>ViewCompose Preview adds static Android View previews for ViewCompose projects in Android Studio. Navigate between Kotlin DSL source and rendered View nodes. Preview...
 
 vendor: ViewCompose
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.viewcompose.studio.preview</description>
       <pubDate>Mon, 03 Aug 2026 10:40:56 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.viewcompose.studio.preview</description>
       <description>Native, configurable visual motion for IntelliJ Platform IDEs. Follow caret movement, clicks, navigation jumps, editor changes, and tool-window focus through...
 
 vendor: Myang
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: io.github.myangprint.motionflow</description>
       <pubDate>Sat, 01 Aug 2026 09:43:19 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: io.github.myangprint.motionflow</description>
       <description>Genesis : A Database-First code generator for Java Spring Boot and .NET for JetBrains IDEs.
 
 vendor: Genesis developper
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: org.labs.genesis</description>
       <pubDate>Mon, 03 Aug 2026 05:54:27 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: org.labs.genesis</description>
       <description>Reconnect what Lombok @Builder disconnects. A linker resolves the symbol references a compiler leaves dangling. This plugin does the same job inside the editor: it...
 
 vendor: eehgnod
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: io.github.jeongdonghee.lombokbuilderlinker</description>
       <pubDate>Tue, 04 Aug 2026 01:12:33 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: io.github.jeongdonghee.lombokbuilderlinker</description>
       <description>Share your current editor selection with the OpenAI Codex CLI or the Kimi Code CLI running in any terminal. The plugin runs a local MCP (Model Context Protocol) server...
 
 vendor: irony
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: life.irony.selection-bridge-for-codex</description>
       <pubDate>Mon, 03 Aug 2026 07:11:52 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: life.irony.selection-bridge-for-codex</description>
       <description>Claude Code for JetBrains IDEs (unofficial). Runs Anthropic's official claude CLI inside PhpStorm and other IntelliJ IDEs, wired to the editor through the same IDE-MCP...
 
 vendor: Amit Sidhpura
-downloads: 5
+downloads: 51
 pricingModel: FREE
 xmlId: io.github.amitsidhpura.claude-brains</description>
       <pubDate>Mon, 03 Aug 2026 18:45:09 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: io.github.amitsidhpura.claude-brains</description>
       <description>Capture and annotate screenshots without ever leaving your IDE. Grab the whole desktop, mark it up with a full annotation toolkit, then copy, save, or pin the result...
 
 vendor: GenAI
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.genai.desktopcapture</description>
       <pubDate>Mon, 03 Aug 2026 06:46:18 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: io.genai.desktopcapture</description>
       <description>Language support for BeanShell scripts (.bsh). Syntax highlighting with a configurable color scheme Brace matching, code folding and line/block commenting Structural...
 
 vendor: Martin Lopatář (@loplex)
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: cz.loplex.bsh</description>
       <pubDate>Fri, 31 Jul 2026 23:29:07 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: cz.loplex.bsh</description>
       <description>CurdoAI is an AI coding assistant for IntelliJ-based IDEs that helps developers understand, edit, and complete code without leaving the editor. CurdoAI（蝌蚪AI）是一款直接运行在...
 
 vendor: CurdoAI
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.lxy.curdo</description>
       <pubDate>Mon, 03 Aug 2026 01:32:18 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.lxy.curdo</description>
       <description>Edit EventConductor workflow definitions (.ec files) as an interactive graph or as YAML/JSON with schema validation. The graph is the same component used inside the...
 
 vendor: Miguel Pérez Colom
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: io.mateu.eventconductor</description>
       <pubDate>Sat, 01 Aug 2026 17:30:35 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: io.mateu.eventconductor</description>
       <description>Readable Markdown preview themes for JetBrains IDEs. Replaces the default Markdown preview styling with four polished themes (GitHub, Soft, Docs, Reader) tuned for...
 
 vendor: sanggi-wjg
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.sanggiwjg.markdownthemestudio</description>
       <pubDate>Sat, 01 Aug 2026 05:17:04 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: io.github.sanggiwjg.markdownthemestudio</description>
       <description>Deju Trace follows a single targeted live API call through a running Java web app and paints the executed source line/branch coverage back into the editor like JUnit...
 
 vendor: Teja Ch
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: org.deju.trace</description>
       <pubDate>Sun, 02 Aug 2026 22:05:14 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: org.deju.trace</description>
       <description>Switch between open and recent projects from a compact keyboard-driven popup. Press Alt+F2 to open Project Switcher, and again to close it. Type to filter projects by...
 
 vendor: ashenarx
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: dev.ashenarx.project-switcher</description>
       <pubDate>Sat, 01 Aug 2026 09:41:16 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: dev.ashenarx.project-switcher</description>
       <description>Show or hide both Tool Window bars from the status bar in the New UI. Classic Toolbars Toggle restores the Tool Window bars control that was available in the classic...
 
 vendor: ashenarx
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.ashenarx.classic.toolbars.toggle</description>
       <pubDate>Sun, 02 Aug 2026 19:01:04 GMT</pubDate>
