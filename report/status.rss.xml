@@ -4,40 +4,21 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Tue, 04 Aug 2026 13:44:31 GMT</pubDate>
+    <pubDate>Tue, 04 Aug 2026 17:28:38 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2026-08-04T13:44:31Z</dc:date>
+    <dc:date>2026-08-04T17:28:38Z</dc:date>
     <item>
-      <title>FAILED -- Tue Aug 04 13:44:31 UTC 2026</title>
+      <title>FAILED -- Tue Aug 04 17:28:38 UTC 2026</title>
       <description>FAILED
 
-&lt;pre&gt;Checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2028)
-	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1629)
-	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
-	at java.base/java.net.URL.openStream(URL.java:1325)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3376)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3353)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3464)
-	at org.apache.commons.io.IOUtils.toString(IOUtils.java:3423)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.downloadAsText(ScrapperImpl.kt:68)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:46)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:359)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:158)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:114)
-	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:367)
-	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:256)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:135)
-	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:175)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
-	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:719)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$SpringCGLIB.fetchHtml(&lt;generated&gt;)
-	at biz.lermitage.sub.service.scrapper.Scrapper.fetchHtml$default(Scrapper.kt:11)
-	at biz.lermitage.sub.service.checker.impl.InkscapeChecker.check(InkscapeChecker.kt:22)
+&lt;pre&gt;Checker class biz.lermitage.sub.service.checker.impl.VeraCryptChecker failed, ignoring
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at biz.lermitage.sub.service.checker.impl.VeraCryptChecker.check(VeraCryptChecker.kt:22)
 	at biz.lermitage.sub.Application.run(Application.kt:58)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$1(SpringApplication.java:792)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:82)
@@ -66,9 +47,9 @@ java.io.IOException: Server returned HTTP response code: 403 for URL: https://in
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:40)
 
 &lt;/pre&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 13:44:31 GMT</pubDate>
+      <pubDate>Tue, 04 Aug 2026 17:28:38 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2026-08-04T13:44:31Z</dc:date>
+      <dc:date>2026-08-04T17:28:38Z</dc:date>
     </item>
   </channel>
 </rss>
