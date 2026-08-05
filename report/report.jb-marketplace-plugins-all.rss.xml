@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MLN Lua Hot Reload - Thu Jul 30 07:37:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33242-mln-lua-hot-reload</link>
+      <description>MLN / Lua hot reload for mobile: USB and Wi‑Fi sync (community build for current IntelliJ versions). Usage: 1. Connect phone by usb/wifi 2. Choose a lua file under src...
+
+vendor: MLN hot reload
+downloads: 0
+pricingModel: FREE
+xmlId: com.mln.hotreload.plugin</description>
+      <pubDate>Thu, 30 Jul 2026 07:37:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33242-mln-lua-hot-reload</guid>
+      <dc:date>2026-07-30T07:37:58Z</dc:date>
+    </item>
+    <item>
+      <title>Raplify - Tue Jul 28 13:53:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33194-raplify</link>
+      <description>Raplify is a GUI for AI coding agents, right inside your JetBrains IDE. Chat with an AI agent in a side panel and make changes without leaving the editor...
+
+vendor: Raplify
+downloads: 4
+pricingModel: FREE
+xmlId: com.raplify.assistant</description>
+      <pubDate>Tue, 28 Jul 2026 13:53:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33194-raplify</guid>
+      <dc:date>2026-07-28T13:53:32Z</dc:date>
+    </item>
+    <item>
       <title>Firestore Companion - Tue Aug 04 18:57:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33330-firestore-companion</link>
       <description>Browse Firestore collections, documents, and subcollections in a tool window, authenticating with a GCP service account key -- entirely local REST calls, no gRPC/heavy...
@@ -71,7 +97,7 @@ xmlId: domorium.gedcom</description>
       <dc:date>2026-08-04T06:25:06Z</dc:date>
     </item>
     <item>
-      <title>Raptor21 SAP RFC - Tue Aug 04 09:14:20 UTC 2026</title>
+      <title>Raptor21 SAP RFC - Wed Aug 05 10:28:26 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33337-raptor21-sap-rfc</link>
       <description>Browse the SAP Data Dictionary from Rider and generate typed table classes into your project. Add an RFC data source the way you would a database connection, expand it...
 
@@ -79,9 +105,9 @@ vendor: Raptor21
 downloads: 0
 pricingModel: FREE
 xmlId: com.raptor21.sap.rfc</description>
-      <pubDate>Tue, 04 Aug 2026 09:14:20 GMT</pubDate>
+      <pubDate>Wed, 05 Aug 2026 10:28:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33337-raptor21-sap-rfc</guid>
-      <dc:date>2026-08-04T09:14:20Z</dc:date>
+      <dc:date>2026-08-05T10:28:26Z</dc:date>
     </item>
     <item>
       <title>ANSI Transcript Cleaner - Tue Aug 04 12:18:26 UTC 2026</title>
@@ -175,7 +201,7 @@ xmlId: dev.ekvedaras.hyperfquery</description>
       <dc:date>2026-08-04T06:46:08Z</dc:date>
     </item>
     <item>
-      <title>QuickBox - Mon Aug 03 20:31:33 UTC 2026</title>
+      <title>QuickBox - Wed Aug 05 08:05:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33327-quickbox</link>
       <description>QuickBox is an ultra-fast, visually stunning snippet and link manager built directly into your IntelliJ IDE using JetBrains Compose. Stop losing track of important...
 
@@ -183,9 +209,9 @@ vendor: Mohammad Zaki
 downloads: 1
 pricingModel: FREE
 xmlId: com.onekore.quickbox</description>
-      <pubDate>Mon, 03 Aug 2026 20:31:33 GMT</pubDate>
+      <pubDate>Wed, 05 Aug 2026 08:05:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33327-quickbox</guid>
-      <dc:date>2026-08-03T20:31:33Z</dc:date>
+      <dc:date>2026-08-05T08:05:10Z</dc:date>
     </item>
     <item>
       <title>Localize Tool - Tue Aug 04 06:31:27 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.fextools.plugin</description>
       <pubDate>Mon, 03 Aug 2026 14:48:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/32166-feishu-s3-xtools</guid>
       <dc:date>2026-08-03T14:48:45Z</dc:date>
-    </item>
-    <item>
-      <title>Pose - Auto generate Compose Previews - Tue Aug 04 14:20:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33344-pose--auto-generate-compose-previews</link>
-      <description>Pose - Auto generate Compose Previews Pose is a KSP2 processor that auto-generates Jetpack Compose @Preview functions from your @Composable code at build time...
-
-vendor: Akshay Chordiya
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.akshaychordiya.pose</description>
-      <pubDate>Tue, 04 Aug 2026 14:20:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33344-pose--auto-generate-compose-previews</guid>
-      <dc:date>2026-08-04T14:20:42Z</dc:date>
-    </item>
-    <item>
-      <title>Peek - Tue Aug 04 02:07:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33299-peek</link>
-      <description>Peek is an Android Studio and IntelliJ plugin for inspecting and editing an app's key-value storage: SharedPreferences, Jetpack DataStore (Preferences and Proto), and...
-
-vendor: Joel Kanyi
-downloads: 16
-pricingModel: FREE
-xmlId: io.github.joelkanyi.peek</description>
-      <pubDate>Tue, 04 Aug 2026 02:07:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33299-peek</guid>
-      <dc:date>2026-08-04T02:07:37Z</dc:date>
     </item>
   </channel>
 </rss>
