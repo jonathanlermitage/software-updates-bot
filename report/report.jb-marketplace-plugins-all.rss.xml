@@ -11,7 +11,7 @@
       <description>Browse Firestore collections, documents, and subcollections in a tool window, authenticating with a GCP service account key -- entirely local REST calls, no gRPC/heavy...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: dev.gaphunter.firestorecompanion</description>
       <pubDate>Tue, 04 Aug 2026 18:57:05 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: dev.gaphunter.firestorecompanion</description>
       <description>Syntax highlighting, known-command highlighting, and an unmatched-parenthesis inspection for CMakeLists.txt/*.cmake files -- opt-in by filename/content, not by...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.cmakecompanion</description>
       <pubDate>Tue, 04 Aug 2026 10:17:20 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: dev.gaphunter.cmakecompanion</description>
       <description>Go-to-definition (Ctrl+Click) for `$ref` values inside JSON Schema files, resolved entirely against local files. A real paid competitor's reviewers reported: "the...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.gaphunter.jsonschemacompanion</description>
       <pubDate>Tue, 04 Aug 2026 10:30:01 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: dev.gaphunter.jsonschemacompanion</description>
       <description>Converts JSON, YAML, and XML directly in the editor -- select text (or convert the whole file) and pick a target format from the editor popup menu. No file-path...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.formatconvertercompanion</description>
       <pubDate>Tue, 04 Aug 2026 22:50:07 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: dev.gaphunter.formatconvertercompanion</description>
       <description>GEDCOM language support by Domorium. Read and edit .ged and .gedcom files with confidence using structure-aware suggestions and diagnostics as you type. Features...
 
 vendor: Andrei Lobanov
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: domorium.gedcom</description>
       <pubDate>Tue, 04 Aug 2026 06:25:06 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.raptor21.sap.rfc</description>
       <description>Clean and reconstruct terminal transcripts containing ANSI escape sequences. Use selected editor text or clipboard content and copy the result as clean text or fenced...
 
 vendor: Kemptworks
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.ubaldolp.ansitranscriptcleaner</description>
       <pubDate>Tue, 04 Aug 2026 12:18:26 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.github.ubaldolp.ansitranscriptcleaner</description>
       <description>Find and open IDE tool windows from a keyboard-driven popup. Press Ctrl+Alt+F2 (Cmd+Opt+F2 on macOS) to open Tool Finder, and again to close it. Type to filter tool...
 
 vendor: ashenarx
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.ashenarx.tool.finder</description>
       <pubDate>Mon, 03 Aug 2026 18:02:45 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: dev.ashenarx.tool.finder</description>
       <description>MRZ &amp;amp; Barcode Inspector — parse and validate KYC documents offline A tool window for debugging travel-document and driver's-license parsing without hand-computing...
 
 vendor: VadimToptunov
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.vadimtoptunov.mrz-inspector</description>
       <pubDate>Mon, 03 Aug 2026 18:12:06 GMT</pubDate>
@@ -123,17 +123,17 @@ xmlId: io.github.vadimtoptunov.mrz-inspector</description>
       <dc:date>2026-08-03T18:12:06Z</dc:date>
     </item>
     <item>
-      <title>Worktree Lens - Tue Aug 04 16:20:41 UTC 2026</title>
+      <title>Worktree Lens - Wed Aug 05 04:48:22 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33336-worktree-lens</link>
       <description>View and commit worktree changes — all in one window. Worktree Lens syncs linked Git worktrees into IDEA's directory mappings, so all worktree changes appear in one...
 
 vendor: shixianqin
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: worktreelens</description>
-      <pubDate>Tue, 04 Aug 2026 16:20:41 GMT</pubDate>
+      <pubDate>Wed, 05 Aug 2026 04:48:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33336-worktree-lens</guid>
-      <dc:date>2026-08-04T16:20:41Z</dc:date>
+      <dc:date>2026-08-05T04:48:22Z</dc:date>
     </item>
     <item>
       <title>Liquibase Sudarshan - SQL &amp; Data Validator - Tue Aug 04 19:23:48 UTC 2026</title>
@@ -141,7 +141,7 @@ xmlId: worktreelens</description>
       <description>Catch Liquibase, PostgreSQL and Oracle errors before they reach the database. Liquibase Sudarshan validates Liquibase formatted SQL scripts against your repository's...
 
 vendor: Pravin
-downloads: 0
+downloads: 16
 pricingModel: FREE
 xmlId: com.sudarshan.liquibase-validator</description>
       <pubDate>Tue, 04 Aug 2026 19:23:48 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.base.idea.hyperf</description>
       <description>This plugin provides database integration for Hyperf query builder. It works with DataGrip to provide autocompletion for database schemas, tables, views, and columns...
 
 vendor: hyperf base
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.ekvedaras.hyperfquery</description>
       <pubDate>Tue, 04 Aug 2026 06:46:08 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: dev.ekvedaras.hyperfquery</description>
       <description>QuickBox is an ultra-fast, visually stunning snippet and link manager built directly into your IntelliJ IDE using JetBrains Compose. Stop losing track of important...
 
 vendor: Mohammad Zaki
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.onekore.quickbox</description>
       <pubDate>Mon, 03 Aug 2026 20:31:33 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.onekore.quickbox</description>
       <description>Generate localized strings.xml and JSON assets from CSV translation files.
 
 vendor: PaulBaker
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.paulbaker.localize-plugin</description>
       <pubDate>Tue, 04 Aug 2026 06:31:27 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.paulbaker.localize-plugin</description>
       <description>TinyJPG Image Compressor Right-click images or directories in Project View to compress JPEG, PNG, and WebP images with one click. Features: Supports JPG, JPEG, PNG...
 
 vendor: zhuweiyou
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.zhuweiyou.tinyjpgideaplugin.tinyjpg-idea-plugin</description>
       <pubDate>Tue, 04 Aug 2026 09:32:55 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.mcp.deploy</description>
       <description>Feishu S3 XTools Supports Feishu/Lark document management (it also supports inserting selected content from any web page into Feishu Docs), S3-compatible object...
 
 vendor: Feishu S3 XTools
-downloads: 11
+downloads: 12
 pricingModel: FREE
 xmlId: com.fextools.plugin</description>
       <pubDate>Mon, 03 Aug 2026 14:48:45 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.fextools.plugin</description>
       <description>Pose - Auto generate Compose Previews Pose is a KSP2 processor that auto-generates Jetpack Compose @Preview functions from your @Composable code at build time...
 
 vendor: Akshay Chordiya
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.akshaychordiya.pose</description>
       <pubDate>Tue, 04 Aug 2026 14:20:42 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: io.github.akshaychordiya.pose</description>
       <description>Peek is an Android Studio and IntelliJ plugin for inspecting and editing an app's key-value storage: SharedPreferences, Jetpack DataStore (Preferences and Proto), and...
 
 vendor: Joel Kanyi
-downloads: 1
+downloads: 16
 pricingModel: FREE
 xmlId: io.github.joelkanyi.peek</description>
       <pubDate>Tue, 04 Aug 2026 02:07:37 GMT</pubDate>
