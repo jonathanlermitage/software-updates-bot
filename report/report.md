@@ -25,7 +25,7 @@
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.2 to 19.8.5 ~ 2026-07-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 20 20:59:33 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 01:38:44 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|26.6.0|[nodejs.org](https://nodejs.org)|Mon Aug 03 14:26:14 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS Current|26.7.0|[nodejs.org](https://nodejs.org)|Thu Aug 06 01:40:35 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.19.0|[nodejs.org](https://nodejs.org)|Mon Aug 03 14:26:14 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|

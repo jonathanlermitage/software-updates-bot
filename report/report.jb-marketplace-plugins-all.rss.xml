@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AWS Desk - Wed Aug 05 22:39:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33322-aws-desk</link>
+      <description>AWS Desk Browse and manage your AWS resources directly from your JetBrains IDE, using the AWS credentials and profiles already configured on your machine. AWS Desk...
+
+vendor: ROUTE.MD
+downloads: 2
+pricingModel: PAID
+xmlId: md.route.awsdesk</description>
+      <pubDate>Wed, 05 Aug 2026 22:39:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33322-aws-desk</guid>
+      <dc:date>2026-08-05T22:39:21Z</dc:date>
+    </item>
+    <item>
       <title>AI Git Message - Wed Aug 05 07:58:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33358-ai-git-message</link>
       <description>Generate configurable Git commit messages from selected changes with an OpenAI-compatible LLM.
@@ -32,7 +45,7 @@ xmlId: io.github.configdrift</description>
       <dc:date>2026-08-05T07:03:04Z</dc:date>
     </item>
     <item>
-      <title>export2LocalPlus - Wed Aug 05 06:26:20 UTC 2026</title>
+      <title>export2LocalPlus - Wed Aug 05 14:26:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33355-export2localplus</link>
       <description>Export selected project files and folders to local directories with search, tree selection, and Maven export support. export2LocalPlus A focused IntelliJ IDEA export...
 
@@ -40,12 +53,12 @@ vendor: xiaokenai
 downloads: 0
 pricingModel: FREE
 xmlId: export2LocalPlus</description>
-      <pubDate>Wed, 05 Aug 2026 06:26:20 GMT</pubDate>
+      <pubDate>Wed, 05 Aug 2026 14:26:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33355-export2localplus</guid>
-      <dc:date>2026-08-05T06:26:20Z</dc:date>
+      <dc:date>2026-08-05T14:26:06Z</dc:date>
     </item>
     <item>
-      <title>MarkDownAny - Wed Aug 05 03:23:47 UTC 2026</title>
+      <title>MarkDownAny - Thu Aug 06 00:48:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33352-markdownany</link>
       <description>MarkDownAny converts PDFs, Office documents, images, audio, HTML, EPUB, and more to Markdown directly inside the IDE, powered by Microsoft's open-source MarkItDown. No...
 
@@ -53,9 +66,9 @@ vendor: wisdom rock
 downloads: 0
 pricingModel: FREE
 xmlId: com.markdownany.plugin</description>
-      <pubDate>Wed, 05 Aug 2026 03:23:47 GMT</pubDate>
+      <pubDate>Thu, 06 Aug 2026 00:48:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33352-markdownany</guid>
-      <dc:date>2026-08-05T03:23:47Z</dc:date>
+      <dc:date>2026-08-06T00:48:15Z</dc:date>
     </item>
     <item>
       <title>TruthSpine - Wed Aug 05 03:17:21 UTC 2026</title>
@@ -201,7 +214,7 @@ xmlId: dev.gaphunter.formatconvertercompanion</description>
       <dc:date>2026-08-04T22:50:07Z</dc:date>
     </item>
     <item>
-      <title>GEDCOM - Tue Aug 04 06:25:06 UTC 2026</title>
+      <title>GEDCOM - Wed Aug 05 20:35:26 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33323-gedcom</link>
       <description>GEDCOM language support by Domorium. Read and edit .ged and .gedcom files with confidence using structure-aware suggestions and diagnostics as you type. Features...
 
@@ -209,9 +222,9 @@ vendor: Andrei Lobanov
 downloads: 3
 pricingModel: FREE
 xmlId: domorium.gedcom</description>
-      <pubDate>Tue, 04 Aug 2026 06:25:06 GMT</pubDate>
+      <pubDate>Wed, 05 Aug 2026 20:35:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33323-gedcom</guid>
-      <dc:date>2026-08-04T06:25:06Z</dc:date>
+      <dc:date>2026-08-05T20:35:26Z</dc:date>
     </item>
     <item>
       <title>Raptor21 SAP RFC - Wed Aug 05 10:28:26 UTC 2026</title>
@@ -227,16 +240,16 @@ xmlId: com.raptor21.sap.rfc</description>
       <dc:date>2026-08-05T10:28:26Z</dc:date>
     </item>
     <item>
-      <title>ANSI Transcript Cleaner - Wed Aug 05 10:38:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33343-ansi-transcript-cleaner</link>
-      <description>Clean and reconstruct terminal transcripts containing ANSI escape sequences. Use selected editor text or clipboard content and copy the result as clean text or fenced...
+      <title>ANSI Log Cleaner - Wed Aug 05 10:38:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33343-ansi-log-cleaner</link>
+      <description>Remove ANSI escape sequences from terminal output and logs, reconstruct carriage returns, backspaces, tabs, and CSI K line erasure, and copy the result as clean text...
 
 vendor: Kemptworks
 downloads: 1
 pricingModel: FREE
 xmlId: com.github.ubaldolp.ansitranscriptcleaner</description>
       <pubDate>Wed, 05 Aug 2026 10:38:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33343-ansi-transcript-cleaner</guid>
+      <guid>https://plugins.jetbrains.com/plugin/33343-ansi-log-cleaner</guid>
       <dc:date>2026-08-05T10:38:47Z</dc:date>
     </item>
     <item>
@@ -251,19 +264,6 @@ xmlId: dev.ashenarx.tool.finder</description>
       <pubDate>Mon, 03 Aug 2026 18:02:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33324-tool-finder</guid>
       <dc:date>2026-08-03T18:02:45Z</dc:date>
-    </item>
-    <item>
-      <title>MRZ &amp; Barcode Inspector - Mon Aug 03 18:12:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33325-mrz--barcode-inspector</link>
-      <description>MRZ &amp;amp; Barcode Inspector — parse and validate KYC documents offline A tool window for debugging travel-document and driver's-license parsing without hand-computing...
-
-vendor: VadimToptunov
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.vadimtoptunov.mrz-inspector</description>
-      <pubDate>Mon, 03 Aug 2026 18:12:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33325-mrz--barcode-inspector</guid>
-      <dc:date>2026-08-03T18:12:06Z</dc:date>
     </item>
   </channel>
 </rss>
