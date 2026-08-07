@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|9.7.0|[gradle.org](https://gradle.org/releases)|Fri Aug 07 00:49:45 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.7.0|[nodejs.org](https://nodejs.org)|Thu Aug 06 01:40:35 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.7|[www.python.org](https://www.python.org/downloads/windows/)|Wed Aug 05 13:58:26 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 05 13:58:25 UTC 2026|
@@ -26,7 +27,6 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.2 to 19.8.5 ~ 2026-07-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 20 20:59:33 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.26.5|[golang.org](https://golang.org/dl/)|Tue Jul 07 21:13:01 UTC 2026|
-|![logo](../media/logo/gradle.png) Gradle|9.6.1|[gradle.org](https://gradle.org/releases)|Fri Jun 26 20:31:11 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 00:32:05 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu May 14 16:35:48 UTC 2026|
