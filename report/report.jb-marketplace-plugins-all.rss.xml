@@ -6,12 +6,77 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>J2o SQL Tools - Wed Aug 05 03:26:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33350-j2o-sql-tools</link>
+      <description>SQL text toolbox for IntelliJ IDEA. IN list tools: generate/revert SQL IN lists from selected lines, and split large lists to avoid Oracle's 1000-item limit. SQL...
+
+vendor: 叶兴兴
+downloads: 0
+pricingModel: FREE
+xmlId: com.j2o.sqltool</description>
+      <pubDate>Wed, 05 Aug 2026 03:26:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33350-j2o-sql-tools</guid>
+      <dc:date>2026-08-05T03:26:36Z</dc:date>
+    </item>
+    <item>
+      <title>Edge Reader - Thu Aug 06 14:53:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33385-edge-reader</link>
+      <description>A private, local-first electronic book reader integrated into JetBrains IDEs. Edge Reader provides a collapsible reading shelf with secure EPUB, large-file TXT...
+
+vendor: Yinxi
+downloads: 0
+pricingModel: FREE
+xmlId: com.yinxi.edgereader</description>
+      <pubDate>Thu, 06 Aug 2026 14:53:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33385-edge-reader</guid>
+      <dc:date>2026-08-06T14:53:51Z</dc:date>
+    </item>
+    <item>
+      <title>Modux - Thu Aug 06 09:51:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33362-modux</link>
+      <description>Graphical editor for a modux domain model. The model is a directory of YAML files in the repository, versioned next to the code it generates. This plugin edits those...
+
+vendor: Miguel Pérez Colom
+downloads: 2
+pricingModel: FREE
+xmlId: io.mateu.modux</description>
+      <pubDate>Thu, 06 Aug 2026 09:51:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33362-modux</guid>
+      <dc:date>2026-08-06T09:51:12Z</dc:date>
+    </item>
+    <item>
+      <title>Inspection Copy - Thu Aug 06 13:19:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33383-inspection-copy</link>
+      <description>Run Rider's standard project inspection and copy the already displayed Code Issues with file and line coordinates without navigation.
+
+vendor: IIeTp_I
+downloads: 0
+pricingModel: FREE
+xmlId: com.codex.inspectioncopy</description>
+      <pubDate>Thu, 06 Aug 2026 13:19:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33383-inspection-copy</guid>
+      <dc:date>2026-08-06T13:19:14Z</dc:date>
+    </item>
+    <item>
+      <title>MCode - Thu Aug 06 08:10:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33371-mcode</link>
+      <description>MCode is an AI Agent plugin for AI-assisted coding in Android Studio / IntelliJ. Tool Window chat panel on the right with streaming output Custom OpenAI-compatible LLM...
+
+vendor: MCode
+downloads: 1
+pricingModel: FREE
+xmlId: com.mcode.MCode</description>
+      <pubDate>Thu, 06 Aug 2026 08:10:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33371-mcode</guid>
+      <dc:date>2026-08-06T08:10:23Z</dc:date>
+    </item>
+    <item>
       <title>Sheets - XLSX Editor - Mon Jul 27 13:10:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33088-sheets--xlsx-editor</link>
       <description>Edit Excel workbooks without leaving your IDE. Sheets opens .xlsx files in a real spreadsheet grid, with column letters, row numbers and one tab per worksheet, and...
 
 vendor: Zuhaib
-downloads: 2
+downloads: 4
 pricingModel: PAID
 xmlId: com.zuhaibzahid.sheets</description>
       <pubDate>Mon, 27 Jul 2026 13:10:53 GMT</pubDate>
@@ -24,7 +89,7 @@ xmlId: com.zuhaibzahid.sheets</description>
       <description>Air Alpha is a workspace for agentic development inside your JetBrains IDE. Delegate coding tasks to Codex, Claude, Junie, OpenCode, and other supported agents, and...
 
 vendor: JetBrains s.r.o.
-downloads: 2
+downloads: 62
 pricingModel: FREE
 xmlId: com.intellij.air</description>
       <pubDate>Thu, 06 Aug 2026 13:30:41 GMT</pubDate>
@@ -50,7 +115,7 @@ xmlId: dev.ckb.jetbrains</description>
       <description>Extends the standard .class file viewer with the Fernflower Java decompiler.
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 2170
 pricingModel: FREE
 xmlId: org.jetbrains.java.decompiler</description>
       <pubDate>Thu, 06 Aug 2026 08:54:20 GMT</pubDate>
@@ -63,7 +128,7 @@ xmlId: org.jetbrains.java.decompiler</description>
       <description>Provides support for building and testing Anchor projects for Solana smart contracts in RustRover. Features: Automatic recognition of Anchor projects based on the...
 
 vendor: JetBrains s.r.o.
-downloads: 4
+downloads: 15
 pricingModel: FREE
 xmlId: com.jetbrains.rustrover.solana</description>
       <pubDate>Thu, 06 Aug 2026 08:05:09 GMT</pubDate>
@@ -76,7 +141,7 @@ xmlId: com.jetbrains.rustrover.solana</description>
       <description>AI Free inside PyCharm: DeepSeek, Qwen, ChatGPT and EconomyOS chats, coding agents, project tools, memory, voice input and local APIs.
 
 vendor: Staks-sor
-downloads: 0
+downloads: 19
 pricingModel: FREE
 xmlId: ru.stas-sor.ai-free</description>
       <pubDate>Thu, 06 Aug 2026 14:07:05 GMT</pubDate>
@@ -84,17 +149,17 @@ xmlId: ru.stas-sor.ai-free</description>
       <dc:date>2026-08-06T14:07:05Z</dc:date>
     </item>
     <item>
-      <title>PokeCode - Thu Aug 06 09:03:16 UTC 2026</title>
+      <title>PokeCode - Fri Aug 07 07:55:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33346-pokecode</link>
       <description>Develop side-by-side with your favorite Pokémon! Turn your IDE into a real adventure. You can catch Pokémon by throwing Poké Balls, which can be bought using...
 
 vendor: LoreStatiz
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.pokecode.PokeCode</description>
-      <pubDate>Thu, 06 Aug 2026 09:03:16 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 07:55:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33346-pokecode</guid>
-      <dc:date>2026-08-06T09:03:16Z</dc:date>
+      <dc:date>2026-08-07T07:55:25Z</dc:date>
     </item>
     <item>
       <title>Port-Killer - Thu Aug 06 08:43:42 UTC 2026</title>
@@ -115,7 +180,7 @@ xmlId: com.gjxiang.port-Killer</description>
       <description>Open huge log files instantly, without freezing your IDE and without making the file read-only. Streams instead of loading. A multi-gigabyte log opens in seconds...
 
 vendor: MIRAI Labs
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: dev.mirailabs.logglass</description>
       <pubDate>Thu, 06 Aug 2026 05:46:27 GMT</pubDate>
@@ -128,7 +193,7 @@ xmlId: dev.mirailabs.logglass</description>
       <description>Reliable go-to-definition for $ref in OpenAPI/Swagger specs (JSON and YAML, same-file and external-file), OAS 3.1 type-union validation, and always-current...
 
 vendor: Gap Hunter Labs
-downloads: 2
+downloads: 20
 pricingModel: PAID
 xmlId: dev.gaphunter.openapicompanion</description>
       <pubDate>Thu, 06 Aug 2026 16:14:32 GMT</pubDate>
@@ -141,7 +206,7 @@ xmlId: dev.gaphunter.openapicompanion</description>
       <description>Rojo project support and automatic run configuration handling for your Roblox projects. To create a Rojo run configuration manually, select a *.project.json file and...
 
 vendor: Trevor Eckhoff
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.heinwald.rojo-runner</description>
       <pubDate>Thu, 06 Aug 2026 00:26:26 GMT</pubDate>
@@ -154,7 +219,7 @@ xmlId: dev.heinwald.rojo-runner</description>
       <description>Open the log file your IDE gives up on. Logs opens a one gigabyte log file in about five milliseconds and shows you the first screen straight away. The file is never...
 
 vendor: Zuhaib
-downloads: 0
+downloads: 5
 pricingModel: PAID
 xmlId: com.zuhaibzahid.logs</description>
       <pubDate>Wed, 05 Aug 2026 19:07:13 GMT</pubDate>
@@ -167,7 +232,7 @@ xmlId: com.zuhaibzahid.logs</description>
       <description>CodingTime keeps track of how much time you actually spend coding — locally, with no account and no network traffic. Counts only active editing time: a configurable...
 
 vendor: Tobi
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: me.tooobiiii.codingtime</description>
       <pubDate>Wed, 05 Aug 2026 16:28:06 GMT</pubDate>
@@ -180,7 +245,7 @@ xmlId: me.tooobiiii.codingtime</description>
       <description>GormCodeAssistant is a GORM code generator for GoLand, generate go struct with gorm tags from Intellij database table, aligned with gorm.io/gen gentool, make gorm easy...
 
 vendor: GormCodeAssistant
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.gorm.generator</description>
       <pubDate>Tue, 04 Aug 2026 16:19:40 GMT</pubDate>
@@ -193,77 +258,12 @@ xmlId: com.gorm.generator</description>
       <description>EasyYapiTr is an IntelliJ IDEA plugin that automatically parses Spring MVC Controller and Dubbo RPC interfaces from Java source code and uploads them to YApi with one...
 
 vendor: tryyds
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.tr.easyyapi</description>
       <pubDate>Thu, 06 Aug 2026 02:32:04 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33369-easyyapitr</guid>
       <dc:date>2026-08-06T02:32:04Z</dc:date>
-    </item>
-    <item>
-      <title>Speedbump - Thu Aug 06 17:37:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33366-speedbump</link>
-      <description>Speedbump finds performance problems in Java code by static analysis. It walks the code's PSI tree and highlights performance anti-patterns directly in the editor — no...
-
-vendor: Roman Soproniuk
-downloads: 0
-pricingModel: FREE
-xmlId: com.soproniuk.speedbump</description>
-      <pubDate>Thu, 06 Aug 2026 17:37:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33366-speedbump</guid>
-      <dc:date>2026-08-06T17:37:52Z</dc:date>
-    </item>
-    <item>
-      <title>Dev-Tools - Thu Aug 06 14:10:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33361-dev-tools</link>
-      <description>Dev-Tools - Developer Utility Toolkit A lightweight IDE plugin that provides a collection of commonly used development utilities in a unified panel, helping developers...
-
-vendor: ChenQingyun
-downloads: 0
-pricingModel: FREE
-xmlId: pub.qingyun.devtools</description>
-      <pubDate>Thu, 06 Aug 2026 14:10:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33361-dev-tools</guid>
-      <dc:date>2026-08-06T14:10:05Z</dc:date>
-    </item>
-    <item>
-      <title>Smarty - Wed Aug 05 13:44:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33360-smarty</link>
-      <description>Provides Smarty template language support. The following features are available: Code completion and live templates Syntax highlighting, formatting, and dedicated code...
-
-vendor: JetBrains s.r.o.
-downloads: 0
-pricingModel: FREE
-xmlId: com.jetbrains.smarty</description>
-      <pubDate>Wed, 05 Aug 2026 13:44:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33360-smarty</guid>
-      <dc:date>2026-08-05T13:44:00Z</dc:date>
-    </item>
-    <item>
-      <title>AWS Desk - Wed Aug 05 22:39:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33322-aws-desk</link>
-      <description>AWS Desk Browse and manage your AWS resources directly from your JetBrains IDE, using the AWS credentials and profiles already configured on your machine. AWS Desk...
-
-vendor: ROUTE.MD
-downloads: 6
-pricingModel: PAID
-xmlId: md.route.awsdesk</description>
-      <pubDate>Wed, 05 Aug 2026 22:39:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33322-aws-desk</guid>
-      <dc:date>2026-08-05T22:39:21Z</dc:date>
-    </item>
-    <item>
-      <title>AI Git Message - Wed Aug 05 07:58:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33358-ai-git-message</link>
-      <description>Generate configurable Git commit messages from selected changes with an OpenAI-compatible LLM.
-
-vendor: Ai Git Commit
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.aigitmessage</description>
-      <pubDate>Wed, 05 Aug 2026 07:58:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33358-ai-git-message</guid>
-      <dc:date>2026-08-05T07:58:38Z</dc:date>
     </item>
   </channel>
 </rss>
