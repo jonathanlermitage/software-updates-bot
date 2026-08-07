@@ -6,6 +6,136 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Safe Result Export - Fri Jul 31 01:28:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33262-safe-result-export</link>
+      <description>Mask database results before CSV export. Choose one transformation per column, compare the original and transformed sample, and write a local UTF-8 CSV. Keep, Redact...
+
+vendor: Lyl Tools
+downloads: 1
+pricingModel: FREE
+xmlId: dev.saferesultexport</description>
+      <pubDate>Fri, 31 Jul 2026 01:28:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33262-safe-result-export</guid>
+      <dc:date>2026-07-31T01:28:24Z</dc:date>
+    </item>
+    <item>
+      <title>Markdown Pro - Fri Aug 07 09:58:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33400-markdown-pro</link>
+      <description>Markdown Pro turns your JetBrains IDE into a complete documentation authoring workspace. It builds on the familiar bundled Markdown editor with rich editing tools...
+
+vendor: Jetplugins
+downloads: 0
+pricingModel: PAID
+xmlId: dev.jetplugins.markdown</description>
+      <pubDate>Fri, 07 Aug 2026 09:58:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33400-markdown-pro</guid>
+      <dc:date>2026-08-07T09:58:12Z</dc:date>
+    </item>
+    <item>
+      <title>EML Editor - Fri Aug 07 10:09:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33402-eml-editor</link>
+      <description>View and edit EML (RFC 822/MIME email) files. Rendered, sanitized HTML preview (remote content blocked by default) Editable projections of the HTML and plain-text...
+
+vendor: simlab-vs
+downloads: 0
+pricingModel: FREE
+xmlId: com.palpista.eml-editor</description>
+      <pubDate>Fri, 07 Aug 2026 10:09:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33402-eml-editor</guid>
+      <dc:date>2026-08-07T10:09:49Z</dc:date>
+    </item>
+    <item>
+      <title>Bezyan Glow - Thu Aug 06 14:05:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33379-bezyan-glow</link>
+      <description>Color nested brackets and highlight the scope around the caret. Bezyan Glow makes deeply nested code easier to scan while keeping the editor's existing syntax colors...
+
+vendor: Bezyan
+downloads: 0
+pricingModel: PAID
+xmlId: com.bezyan.glow</description>
+      <pubDate>Thu, 06 Aug 2026 14:05:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33379-bezyan-glow</guid>
+      <dc:date>2026-08-06T14:05:45Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Code Config Support - Fri Aug 07 02:22:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33380-claude-code-config-support</link>
+      <description>Language support for the files that configure Claude Code — not another way to run it. Claude Code is configured through Markdown, YAML frontmatter and JSON. None of...
+
+vendor: Kian Boon Ong
+downloads: 0
+pricingModel: FREE
+xmlId: com.bchan84.agent-config</description>
+      <pubDate>Fri, 07 Aug 2026 02:22:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33380-claude-code-config-support</guid>
+      <dc:date>2026-08-07T02:22:36Z</dc:date>
+    </item>
+    <item>
+      <title>XSD Companion - Thu Aug 06 20:40:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33392-xsd-companion</link>
+      <description>Go-to-definition and a real structure tree for XSD/WSDL schemas split across multiple files — resolved through &amp;lt;xs:include&amp;gt;/&amp;lt;xs:import&amp;gt...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.xsdcompanion</description>
+      <pubDate>Thu, 06 Aug 2026 20:40:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33392-xsd-companion</guid>
+      <dc:date>2026-08-06T20:40:47Z</dc:date>
+    </item>
+    <item>
+      <title>Material Companion - Thu Aug 06 20:39:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33391-material-companion</link>
+      <description>A Material Design-inspired dark editor color scheme -- cool greys, blues, teals, and purples -- with zero forced UI elements, zero paywalled customization, and zero...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.materialcompanion</description>
+      <pubDate>Thu, 06 Aug 2026 20:39:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33391-material-companion</guid>
+      <dc:date>2026-08-06T20:39:11Z</dc:date>
+    </item>
+    <item>
+      <title>Jenkinsfile Companion - Thu Aug 06 20:37:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33390-jenkinsfile-companion</link>
+      <description>Real Groovy syntax highlighting for Jenkinsfile (no extension needed) plus two genuine structural checks: a stage name defined more than once, and a stage with no...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.jenkinsfilecompanion</description>
+      <pubDate>Thu, 06 Aug 2026 20:37:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33390-jenkinsfile-companion</guid>
+      <dc:date>2026-08-06T20:37:23Z</dc:date>
+    </item>
+    <item>
+      <title>AsyncAPI Companion - Thu Aug 06 19:50:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33389-asyncapi-companion</link>
+      <description>Reliable go-to-definition for $ref in AsyncAPI documents (JSON and YAML, same-file and external-file) that never breaks across a JetBrains IDE version bump. Built from...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.asyncapicompanion</description>
+      <pubDate>Thu, 06 Aug 2026 19:50:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33389-asyncapi-companion</guid>
+      <dc:date>2026-08-06T19:50:12Z</dc:date>
+    </item>
+    <item>
+      <title>Dev Utility - Thu Aug 06 17:44:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/31085-dev-utility</link>
+      <description>Dev Utility — everyday developer tools, inside your IDE A grab-bag of the small utilities you keep leaving the IDE for. No web tools, no pasting company config into a...
+
+vendor: Pravin
+downloads: 3
+pricingModel: FREE
+xmlId: com.plugin.springprops.viewer</description>
+      <pubDate>Thu, 06 Aug 2026 17:44:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/31085-dev-utility</guid>
+      <dc:date>2026-08-06T17:44:39Z</dc:date>
+    </item>
+    <item>
       <title>J2o SQL Tools - Wed Aug 05 03:26:36 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33350-j2o-sql-tools</link>
       <description>SQL text toolbox for IntelliJ IDEA. IN list tools: generate/revert SQL IN lists from selected lines, and split large lists to avoid Oracle's 1000-item limit. SQL...
@@ -45,7 +175,7 @@ xmlId: io.mateu.modux</description>
       <dc:date>2026-08-06T09:51:12Z</dc:date>
     </item>
     <item>
-      <title>Inspection Copy - Thu Aug 06 13:19:14 UTC 2026</title>
+      <title>Inspection Copy - Fri Aug 07 10:32:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33383-inspection-copy</link>
       <description>Run Rider's standard project inspection and copy the already displayed Code Issues with file and line coordinates without navigation.
 
@@ -53,9 +183,9 @@ vendor: IIeTp_I
 downloads: 0
 pricingModel: FREE
 xmlId: com.codex.inspectioncopy</description>
-      <pubDate>Thu, 06 Aug 2026 13:19:14 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 10:32:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33383-inspection-copy</guid>
-      <dc:date>2026-08-06T13:19:14Z</dc:date>
+      <dc:date>2026-08-07T10:32:02Z</dc:date>
     </item>
     <item>
       <title>MCode - Thu Aug 06 08:10:23 UTC 2026</title>
@@ -134,136 +264,6 @@ xmlId: com.jetbrains.rustrover.solana</description>
       <pubDate>Thu, 06 Aug 2026 08:05:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33335-solana-experimental-</guid>
       <dc:date>2026-08-06T08:05:09Z</dc:date>
-    </item>
-    <item>
-      <title>AI Free Chat &amp; Agent - Thu Aug 06 14:07:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33364-ai-free-chat--agent</link>
-      <description>AI Free inside PyCharm: DeepSeek, Qwen, ChatGPT and EconomyOS chats, coding agents, project tools, memory, voice input and local APIs.
-
-vendor: Staks-sor
-downloads: 19
-pricingModel: FREE
-xmlId: ru.stas-sor.ai-free</description>
-      <pubDate>Thu, 06 Aug 2026 14:07:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33364-ai-free-chat--agent</guid>
-      <dc:date>2026-08-06T14:07:05Z</dc:date>
-    </item>
-    <item>
-      <title>PokeCode - Fri Aug 07 07:55:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33346-pokecode</link>
-      <description>Develop side-by-side with your favorite Pokémon! Turn your IDE into a real adventure. You can catch Pokémon by throwing Poké Balls, which can be bought using...
-
-vendor: LoreStatiz
-downloads: 8
-pricingModel: FREE
-xmlId: com.pokecode.PokeCode</description>
-      <pubDate>Fri, 07 Aug 2026 07:55:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33346-pokecode</guid>
-      <dc:date>2026-08-07T07:55:25Z</dc:date>
-    </item>
-    <item>
-      <title>Port-Killer - Thu Aug 06 08:43:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33373-port-killer</link>
-      <description>Port Killer is a powerful IntelliJ IDEA development tool plugin designed for developers. Core Features: Quickly find processes occupying a specific port Kill target...
-
-vendor: Han Bing
-downloads: 0
-pricingModel: FREE
-xmlId: com.gjxiang.port-Killer</description>
-      <pubDate>Thu, 06 Aug 2026 08:43:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33373-port-killer</guid>
-      <dc:date>2026-08-06T08:43:42Z</dc:date>
-    </item>
-    <item>
-      <title>LogGlass - Thu Aug 06 05:46:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33372-logglass</link>
-      <description>Open huge log files instantly, without freezing your IDE and without making the file read-only. Streams instead of loading. A multi-gigabyte log opens in seconds...
-
-vendor: MIRAI Labs
-downloads: 5
-pricingModel: FREE
-xmlId: dev.mirailabs.logglass</description>
-      <pubDate>Thu, 06 Aug 2026 05:46:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33372-logglass</guid>
-      <dc:date>2026-08-06T05:46:27Z</dc:date>
-    </item>
-    <item>
-      <title>OpenAPI Companion - Thu Aug 06 16:14:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33349-openapi-companion</link>
-      <description>Reliable go-to-definition for $ref in OpenAPI/Swagger specs (JSON and YAML, same-file and external-file), OAS 3.1 type-union validation, and always-current...
-
-vendor: Gap Hunter Labs
-downloads: 20
-pricingModel: PAID
-xmlId: dev.gaphunter.openapicompanion</description>
-      <pubDate>Thu, 06 Aug 2026 16:14:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33349-openapi-companion</guid>
-      <dc:date>2026-08-06T16:14:32Z</dc:date>
-    </item>
-    <item>
-      <title>Rojo Runner - Thu Aug 06 00:26:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33367-rojo-runner</link>
-      <description>Rojo project support and automatic run configuration handling for your Roblox projects. To create a Rojo run configuration manually, select a *.project.json file and...
-
-vendor: Trevor Eckhoff
-downloads: 2
-pricingModel: FREE
-xmlId: dev.heinwald.rojo-runner</description>
-      <pubDate>Thu, 06 Aug 2026 00:26:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33367-rojo-runner</guid>
-      <dc:date>2026-08-06T00:26:26Z</dc:date>
-    </item>
-    <item>
-      <title>Logs - Large Log Viewer - Wed Aug 05 19:07:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33365-logs--large-log-viewer</link>
-      <description>Open the log file your IDE gives up on. Logs opens a one gigabyte log file in about five milliseconds and shows you the first screen straight away. The file is never...
-
-vendor: Zuhaib
-downloads: 5
-pricingModel: PAID
-xmlId: com.zuhaibzahid.logs</description>
-      <pubDate>Wed, 05 Aug 2026 19:07:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33365-logs--large-log-viewer</guid>
-      <dc:date>2026-08-05T19:07:13Z</dc:date>
-    </item>
-    <item>
-      <title>CodingTime - Wed Aug 05 16:28:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33363-codingtime</link>
-      <description>CodingTime keeps track of how much time you actually spend coding — locally, with no account and no network traffic. Counts only active editing time: a configurable...
-
-vendor: Tobi
-downloads: 5
-pricingModel: FREE
-xmlId: me.tooobiiii.codingtime</description>
-      <pubDate>Wed, 05 Aug 2026 16:28:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33363-codingtime</guid>
-      <dc:date>2026-08-05T16:28:06Z</dc:date>
-    </item>
-    <item>
-      <title>GormCodeAssistant - Tue Aug 04 16:19:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33347-gormcodeassistant</link>
-      <description>GormCodeAssistant is a GORM code generator for GoLand, generate go struct with gorm tags from Intellij database table, aligned with gorm.io/gen gentool, make gorm easy...
-
-vendor: GormCodeAssistant
-downloads: 2
-pricingModel: FREE
-xmlId: com.gorm.generator</description>
-      <pubDate>Tue, 04 Aug 2026 16:19:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33347-gormcodeassistant</guid>
-      <dc:date>2026-08-04T16:19:40Z</dc:date>
-    </item>
-    <item>
-      <title>EasyYapiTr - Thu Aug 06 02:32:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33369-easyyapitr</link>
-      <description>EasyYapiTr is an IntelliJ IDEA plugin that automatically parses Spring MVC Controller and Dubbo RPC interfaces from Java source code and uploads them to YApi with one...
-
-vendor: tryyds
-downloads: 3
-pricingModel: FREE
-xmlId: com.tr.easyyapi</description>
-      <pubDate>Thu, 06 Aug 2026 02:32:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33369-easyyapitr</guid>
-      <dc:date>2026-08-06T02:32:04Z</dc:date>
     </item>
   </channel>
 </rss>
