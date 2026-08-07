@@ -5,44 +5,5 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <item>
-      <title>Air Alpha - Thu Aug 06 13:30:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33314-air-alpha</link>
-      <description>Air Alpha is a workspace for agentic development inside your JetBrains IDE. Delegate coding tasks to Codex, Claude, Junie, OpenCode, and other supported agents, and...
-
-vendor: JetBrains s.r.o.
-downloads: 62
-pricingModel: FREE
-xmlId: com.intellij.air</description>
-      <pubDate>Thu, 06 Aug 2026 13:30:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33314-air-alpha</guid>
-      <dc:date>2026-08-06T13:30:41Z</dc:date>
-    </item>
-    <item>
-      <title>Java Bytecode Decompiler - Thu Aug 06 08:54:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33376-java-bytecode-decompiler</link>
-      <description>Extends the standard .class file viewer with the Fernflower Java decompiler.
-
-vendor: JetBrains s.r.o.
-downloads: 2170
-pricingModel: FREE
-xmlId: org.jetbrains.java.decompiler</description>
-      <pubDate>Thu, 06 Aug 2026 08:54:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33376-java-bytecode-decompiler</guid>
-      <dc:date>2026-08-06T08:54:20Z</dc:date>
-    </item>
-    <item>
-      <title>Solana (Experimental) - Thu Aug 06 08:05:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33335-solana-experimental-</link>
-      <description>Provides support for building and testing Anchor projects for Solana smart contracts in RustRover. Features: Automatic recognition of Anchor projects based on the...
-
-vendor: JetBrains s.r.o.
-downloads: 15
-pricingModel: FREE
-xmlId: com.jetbrains.rustrover.solana</description>
-      <pubDate>Thu, 06 Aug 2026 08:05:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33335-solana-experimental-</guid>
-      <dc:date>2026-08-06T08:05:09Z</dc:date>
-    </item>
   </channel>
 </rss>
