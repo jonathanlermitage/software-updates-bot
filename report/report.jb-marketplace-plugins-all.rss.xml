@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ISO 8583 Inspector - Fri Aug 07 20:29:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33419-iso-8583-inspector</link>
+      <description>ISO 8583 Inspector Paste an ISO 8583 card/ATM transaction message and read it — no web parser, no external tool, fully offline. For payment-gateway, acquiring and...
+
+vendor: VadimToptunov
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.vadimtoptunov.iso8583</description>
+      <pubDate>Fri, 07 Aug 2026 20:29:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33419-iso-8583-inspector</guid>
+      <dc:date>2026-08-07T20:29:17Z</dc:date>
+    </item>
+    <item>
+      <title>Maven Dependency Assistant - Sat Aug 08 08:44:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33294-maven-dependency-assistant</link>
+      <description>Quickly search Maven Central, choose a version, and copy a ready-to-use Maven dependency snippet.
+
+vendor: Memory2314
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.memory2314.mavendependencyassistant</description>
+      <pubDate>Sat, 08 Aug 2026 08:44:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33294-maven-dependency-assistant</guid>
+      <dc:date>2026-08-08T08:44:58Z</dc:date>
+    </item>
+    <item>
+      <title>SearchDeadCode - Fri Aug 07 15:53:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33415-searchdeadcode</link>
+      <description>Finds dead Kotlin and Java code in Android projects and helps you delete it safely. The plugin drives the searchdeadcode command-line analyzer. Run a scan from the...
+
+vendor: Elumine
+downloads: 0
+pricingModel: FREE
+xmlId: com.elumine.searchdeadcode</description>
+      <pubDate>Fri, 07 Aug 2026 15:53:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33415-searchdeadcode</guid>
+      <dc:date>2026-08-07T15:53:58Z</dc:date>
+    </item>
+    <item>
+      <title>FlatBuffers Format - Fri Aug 07 18:05:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33417-flatbuffers-format</link>
+      <description>Syntax highlighting and code formatting for FlatBuffers (.fbs) schema files. Formatting runs through the platform's own formatting service, so Reformat Code...
+
+vendor: Emin Deniz
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.emindeniz99.flatbuffers</description>
+      <pubDate>Fri, 07 Aug 2026 18:05:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33417-flatbuffers-format</guid>
+      <dc:date>2026-08-07T18:05:39Z</dc:date>
+    </item>
+    <item>
+      <title>Log Lens: Large &amp; Structured Log Viewer (JSONL, logfmt, ANSI) - Fri Aug 07 16:13:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33416-log-lens-large--structured-log-viewer-jsonl-logfmt-ansi-</link>
+      <description>Read the log file your IDE can't open. Log Lens indexes log files by byte offset in the background and reads lines on demand, so a multi-gigabyte log opens instantly...
+
+vendor: Twilight Ventures
+downloads: 0
+pricingModel: FREE
+xmlId: com.twilightventures.loglens</description>
+      <pubDate>Fri, 07 Aug 2026 16:13:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33416-log-lens-large--structured-log-viewer-jsonl-logfmt-ansi-</guid>
+      <dc:date>2026-08-07T16:13:34Z</dc:date>
+    </item>
+    <item>
+      <title>Prompt Templates - Fri Aug 07 14:56:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33414-prompt-templates</link>
+      <description>Create, manage and render reusable typed Markdown prompt templates inside JetBrains IDEs. Templates remain ordinary Markdown files; typed variable metadata is stored...
+
+vendor: Smooth Brains Ltd
+downloads: 0
+pricingModel: FREE
+xmlId: dev.smoothbrains.prompttemplates</description>
+      <pubDate>Fri, 07 Aug 2026 14:56:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33414-prompt-templates</guid>
+      <dc:date>2026-08-07T14:56:00Z</dc:date>
+    </item>
+    <item>
       <title>InfiniTint Theme Tuner - Fri Aug 07 16:18:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33404-infinitint-theme-tuner</link>
       <description>InfiniTint recolors the theme you already use, in any color, with a single click. Pick a preset tint and the window chrome, the editor canvas, and the controls change...
@@ -99,7 +177,7 @@ xmlId: com.twhite.commitspotlight</description>
     <item>
       <title>AI Commit Auto - Fri Aug 07 12:20:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33413-ai-commit-auto</link>
-      <description>Generates reviewable Git commit messages from changes selected in the JetBrains IDE Commit tool window.
+      <description>Generate editable, reviewable Git commit messages from the changes selected in the JetBrains IDE Commit tool window. Use your own OpenAI-compatible API, enterprise...
 
 vendor: ck96
 downloads: 0
@@ -123,7 +201,7 @@ xmlId: dev.saferesultexport</description>
       <dc:date>2026-07-31T01:28:24Z</dc:date>
     </item>
     <item>
-      <title>Markdown Pro - Fri Aug 07 13:45:09 UTC 2026</title>
+      <title>Markdown Pro - Sat Aug 08 05:47:32 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33400-markdown-pro</link>
       <description>Markdown Pro turns your JetBrains IDE into a complete documentation authoring workspace. It builds on the familiar bundled Markdown editor with rich editing tools...
 
@@ -131,9 +209,9 @@ vendor: Jetplugins
 downloads: 0
 pricingModel: PAID
 xmlId: dev.jetplugins.markdown</description>
-      <pubDate>Fri, 07 Aug 2026 13:45:09 GMT</pubDate>
+      <pubDate>Sat, 08 Aug 2026 05:47:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33400-markdown-pro</guid>
-      <dc:date>2026-08-07T13:45:09Z</dc:date>
+      <dc:date>2026-08-08T05:47:32Z</dc:date>
     </item>
     <item>
       <title>EML Editor - Fri Aug 07 10:09:49 UTC 2026</title>
@@ -149,7 +227,7 @@ xmlId: com.palpista.eml-editor</description>
       <dc:date>2026-08-07T10:09:49Z</dc:date>
     </item>
     <item>
-      <title>Bezyan Glow - Thu Aug 06 14:05:45 UTC 2026</title>
+      <title>Bezyan Glow - Sat Aug 08 06:24:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33379-bezyan-glow</link>
       <description>Color nested brackets and highlight the scope around the caret. Bezyan Glow makes deeply nested code easier to scan while keeping the editor's existing syntax colors...
 
@@ -157,9 +235,9 @@ vendor: Bezyan
 downloads: 0
 pricingModel: PAID
 xmlId: com.bezyan.glow</description>
-      <pubDate>Thu, 06 Aug 2026 14:05:45 GMT</pubDate>
+      <pubDate>Sat, 08 Aug 2026 06:24:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33379-bezyan-glow</guid>
-      <dc:date>2026-08-06T14:05:45Z</dc:date>
+      <dc:date>2026-08-08T06:24:33Z</dc:date>
     </item>
     <item>
       <title>Claude Code Config Support - Fri Aug 07 02:22:36 UTC 2026</title>
@@ -186,84 +264,6 @@ xmlId: dev.gaphunter.xsdcompanion</description>
       <pubDate>Thu, 06 Aug 2026 20:40:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33392-xsd-companion</guid>
       <dc:date>2026-08-06T20:40:47Z</dc:date>
-    </item>
-    <item>
-      <title>Material Companion - Thu Aug 06 20:39:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33391-material-companion</link>
-      <description>A Material Design-inspired dark editor color scheme -- cool greys, blues, teals, and purples -- with zero forced UI elements, zero paywalled customization, and zero...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.materialcompanion</description>
-      <pubDate>Thu, 06 Aug 2026 20:39:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33391-material-companion</guid>
-      <dc:date>2026-08-06T20:39:11Z</dc:date>
-    </item>
-    <item>
-      <title>Jenkinsfile Companion - Thu Aug 06 20:37:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33390-jenkinsfile-companion</link>
-      <description>Real Groovy syntax highlighting for Jenkinsfile (no extension needed) plus two genuine structural checks: a stage name defined more than once, and a stage with no...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.jenkinsfilecompanion</description>
-      <pubDate>Thu, 06 Aug 2026 20:37:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33390-jenkinsfile-companion</guid>
-      <dc:date>2026-08-06T20:37:23Z</dc:date>
-    </item>
-    <item>
-      <title>AsyncAPI Companion - Thu Aug 06 19:50:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33389-asyncapi-companion</link>
-      <description>Reliable go-to-definition for $ref in AsyncAPI documents (JSON and YAML, same-file and external-file) that never breaks across a JetBrains IDE version bump. Built from...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.asyncapicompanion</description>
-      <pubDate>Thu, 06 Aug 2026 19:50:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33389-asyncapi-companion</guid>
-      <dc:date>2026-08-06T19:50:12Z</dc:date>
-    </item>
-    <item>
-      <title>Dev Utility - Thu Aug 06 17:44:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31085-dev-utility</link>
-      <description>Dev Utility — everyday developer tools, inside your IDE A grab-bag of the small utilities you keep leaving the IDE for. No web tools, no pasting company config into a...
-
-vendor: Pravin
-downloads: 3
-pricingModel: FREE
-xmlId: com.plugin.springprops.viewer</description>
-      <pubDate>Thu, 06 Aug 2026 17:44:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31085-dev-utility</guid>
-      <dc:date>2026-08-06T17:44:39Z</dc:date>
-    </item>
-    <item>
-      <title>J2o SQL Tools - Wed Aug 05 03:26:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33350-j2o-sql-tools</link>
-      <description>SQL text toolbox for IntelliJ IDEA. IN list tools: generate/revert SQL IN lists from selected lines, and split large lists to avoid Oracle's 1000-item limit. SQL...
-
-vendor: 叶兴兴
-downloads: 0
-pricingModel: FREE
-xmlId: com.j2o.sqltool</description>
-      <pubDate>Wed, 05 Aug 2026 03:26:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33350-j2o-sql-tools</guid>
-      <dc:date>2026-08-05T03:26:36Z</dc:date>
-    </item>
-    <item>
-      <title>Edge Reader - Thu Aug 06 14:53:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33385-edge-reader</link>
-      <description>A private, local-first electronic book reader integrated into JetBrains IDEs. Edge Reader provides a collapsible reading shelf with secure EPUB, large-file TXT...
-
-vendor: Yinxi
-downloads: 0
-pricingModel: FREE
-xmlId: com.yinxi.edgereader</description>
-      <pubDate>Thu, 06 Aug 2026 14:53:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33385-edge-reader</guid>
-      <dc:date>2026-08-06T14:53:51Z</dc:date>
     </item>
   </channel>
 </rss>
