@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Localizations Importer/Exporter - Sun Aug 09 07:03:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/29566-localizations-importer-exporter</link>
+      <description>This plugin allows to better handle localizations/translations: Export strings.xml to Excel .xlsx Import from Excel .xlsx to strings.xml If you missed the ability to...
+
+vendor: Alfred Abdo
+downloads: 13
+pricingModel: FREE
+xmlId: alfredabdo.ide.plugins.translations</description>
+      <pubDate>Sun, 09 Aug 2026 07:03:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/29566-localizations-importer-exporter</guid>
+      <dc:date>2026-08-09T07:03:33Z</dc:date>
+    </item>
+    <item>
       <title>ISO 8583 Inspector - Fri Aug 07 20:29:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33419-iso-8583-inspector</link>
       <description>ISO 8583 Inspector Paste an ISO 8583 card/ATM transaction message and read it — no web parser, no external tool, fully offline. For payment-gateway, acquiring and...
 
 vendor: VadimToptunov
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.vadimtoptunov.iso8583</description>
       <pubDate>Fri, 07 Aug 2026 20:29:17 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: io.github.vadimtoptunov.iso8583</description>
       <description>Quickly search Maven Central, choose a version, and copy a ready-to-use Maven dependency snippet.
 
 vendor: Memory2314
-downloads: 2
+downloads: 14
 pricingModel: FREE
 xmlId: io.github.memory2314.mavendependencyassistant</description>
       <pubDate>Sat, 08 Aug 2026 08:44:58 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: io.github.memory2314.mavendependencyassistant</description>
       <description>Finds dead Kotlin and Java code in Android projects and helps you delete it safely. The plugin drives the searchdeadcode command-line analyzer. Run a scan from the...
 
 vendor: Elumine
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.elumine.searchdeadcode</description>
       <pubDate>Fri, 07 Aug 2026 15:53:58 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.elumine.searchdeadcode</description>
       <description>Syntax highlighting and code formatting for FlatBuffers (.fbs) schema files. Formatting runs through the platform's own formatting service, so Reformat Code...
 
 vendor: Emin Deniz
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.emindeniz99.flatbuffers</description>
       <pubDate>Fri, 07 Aug 2026 18:05:39 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: io.github.emindeniz99.flatbuffers</description>
       <description>Read the log file your IDE can't open. Log Lens indexes log files by byte offset in the background and reads lines on demand, so a multi-gigabyte log opens instantly...
 
 vendor: Twilight Ventures
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.twilightventures.loglens</description>
       <pubDate>Fri, 07 Aug 2026 16:13:34 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.twilightventures.loglens</description>
       <description>Create, manage and render reusable typed Markdown prompt templates inside JetBrains IDEs. Templates remain ordinary Markdown files; typed variable metadata is stored...
 
 vendor: Smooth Brains Ltd
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.smoothbrains.prompttemplates</description>
       <pubDate>Fri, 07 Aug 2026 14:56:00 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: dev.smoothbrains.prompttemplates</description>
       <description>InfiniTint recolors the theme you already use, in any color, with a single click. Pick a preset tint and the window chrome, the editor canvas, and the controls change...
 
 vendor: Tachi Labs
-downloads: 0
+downloads: 16
 pricingModel: FREEMIUM
 xmlId: dev.tachilabs.infinitint</description>
       <pubDate>Fri, 07 Aug 2026 16:18:17 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: dev.tachilabs.infinitint</description>
       <description>Statically analyzes Java and Kotlin methods and shows their Big-O, Big-Theta, and Big-Omega time complexity as a gutter icon, so you can spot complexity regressions at...
 
 vendor: Time Complexity
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: dev.timecomplexity.time-complexity</description>
       <pubDate>Fri, 07 Aug 2026 04:45:02 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: dev.timecomplexity.time-complexity</description>
       <description>Fast viewer for large JSONL / NDJSON dataset files. Open multi-gigabyte machine learning datasets instantly: records are indexed by byte offset in the background and...
 
 vendor: Twilight Ventures
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.twilightventures.jsonllens</description>
       <pubDate>Fri, 07 Aug 2026 04:56:17 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.twilightventures.jsonllens</description>
       <description>Render DBML files as draggable ER diagrams and store layout data beside the DBML file.
 
 vendor: thinkgrowstudio
-downloads: 0
+downloads: 32
 pricingModel: FREE
 xmlId: dev.dbmlcanvas</description>
       <pubDate>Sat, 08 Aug 2026 13:58:55 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: dev.dbmlcanvas</description>
       <description>Create and manage mind maps inside IntelliJ IDEA. Nodes record code positions, click to jump, and gutter icons provide a reverse entry back to the mind map. Features...
 
 vendor: Fashion
-downloads: 0
+downloads: 14
 pricingModel: FREE
 xmlId: com.codemind</description>
       <pubDate>Fri, 07 Aug 2026 10:56:05 GMT</pubDate>
@@ -149,17 +162,17 @@ xmlId: com.codemind</description>
       <dc:date>2026-08-07T10:56:05Z</dc:date>
     </item>
     <item>
-      <title>imux - Fri Aug 07 11:50:37 UTC 2026</title>
+      <title>imux - Sun Aug 09 03:44:59 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33412-imux</link>
       <description>imux manages your Claude Code and Codex sessions inside IntelliJ IDEA editor tabs. 在 IntelliJ IDEA 里管理你的 Claude Code 与 Codex 会话。会话开在编辑器标签页里...
 
 vendor: liuyuhua69
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.izerui.imux</description>
-      <pubDate>Fri, 07 Aug 2026 11:50:37 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 03:44:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33412-imux</guid>
-      <dc:date>2026-08-07T11:50:37Z</dc:date>
+      <dc:date>2026-08-09T03:44:59Z</dc:date>
     </item>
     <item>
       <title>Commit Spotlight - Thu Aug 06 22:17:55 UTC 2026</title>
@@ -167,7 +180,7 @@ xmlId: com.github.izerui.imux</description>
       <description>See exactly what a commit touched, at a glance. Ever click through a commit in the Git Log and wonder exactly which lines it actually changed? Commit Spotlight...
 
 vendor: twhite
-downloads: 1
+downloads: 14
 pricingModel: FREE
 xmlId: com.twhite.commitspotlight</description>
       <pubDate>Thu, 06 Aug 2026 22:17:55 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.twhite.commitspotlight</description>
       <description>Generate editable, reviewable Git commit messages from the changes selected in the JetBrains IDE Commit tool window. Use your own OpenAI-compatible API, enterprise...
 
 vendor: ck96
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: com.chenke.ai-commit-message</description>
       <pubDate>Fri, 07 Aug 2026 12:20:03 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.chenke.ai-commit-message</description>
       <description>Mask database results before CSV export. Choose one transformation per column, compare the original and transformed sample, and write a local UTF-8 CSV. Keep, Redact...
 
 vendor: Lyl Tools
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: dev.saferesultexport</description>
       <pubDate>Fri, 31 Jul 2026 01:28:24 GMT</pubDate>
@@ -201,17 +214,17 @@ xmlId: dev.saferesultexport</description>
       <dc:date>2026-07-31T01:28:24Z</dc:date>
     </item>
     <item>
-      <title>Markdown Pro - Sat Aug 08 05:47:32 UTC 2026</title>
+      <title>Markdown Pro - Sun Aug 09 07:05:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33400-markdown-pro</link>
       <description>Markdown Pro turns your JetBrains IDE into a complete documentation authoring workspace. It builds on the familiar bundled Markdown editor with rich editing tools...
 
 vendor: Jetplugins
-downloads: 0
+downloads: 55
 pricingModel: PAID
 xmlId: dev.jetplugins.markdown</description>
-      <pubDate>Sat, 08 Aug 2026 05:47:32 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 07:05:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33400-markdown-pro</guid>
-      <dc:date>2026-08-08T05:47:32Z</dc:date>
+      <dc:date>2026-08-09T07:05:53Z</dc:date>
     </item>
     <item>
       <title>EML Editor - Fri Aug 07 10:09:49 UTC 2026</title>
@@ -219,7 +232,7 @@ xmlId: dev.jetplugins.markdown</description>
       <description>View and edit EML (RFC 822/MIME email) files. Rendered, sanitized HTML preview (remote content blocked by default) Editable projections of the HTML and plain-text...
 
 vendor: simlab-vs
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.palpista.eml-editor</description>
       <pubDate>Fri, 07 Aug 2026 10:09:49 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.palpista.eml-editor</description>
       <description>Color nested brackets and highlight the scope around the caret. Bezyan Glow makes deeply nested code easier to scan while keeping the editor's existing syntax colors...
 
 vendor: Bezyan
-downloads: 0
+downloads: 17
 pricingModel: PAID
 xmlId: com.bezyan.glow</description>
       <pubDate>Sat, 08 Aug 2026 06:24:33 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.bezyan.glow</description>
       <description>Language support for the files that configure Claude Code — not another way to run it. Claude Code is configured through Markdown, YAML frontmatter and JSON. None of...
 
 vendor: Kian Boon Ong
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: com.bchan84.agent-config</description>
       <pubDate>Fri, 07 Aug 2026 02:22:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33380-claude-code-config-support</guid>
       <dc:date>2026-08-07T02:22:36Z</dc:date>
-    </item>
-    <item>
-      <title>XSD Companion - Thu Aug 06 20:40:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33392-xsd-companion</link>
-      <description>Go-to-definition and a real structure tree for XSD/WSDL schemas split across multiple files — resolved through &amp;lt;xs:include&amp;gt;/&amp;lt;xs:import&amp;gt...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.xsdcompanion</description>
-      <pubDate>Thu, 06 Aug 2026 20:40:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33392-xsd-companion</guid>
-      <dc:date>2026-08-06T20:40:47Z</dc:date>
     </item>
   </channel>
 </rss>
