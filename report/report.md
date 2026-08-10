@@ -21,7 +21,7 @@
 |![logo](../media/logo/gradle.png) Gradle|9.7.0|[gradle.org](https://gradle.org/releases)|Fri Aug 07 00:49:45 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2.1 (262.9437.22) ~ 2026-07-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jul 24 13:27:30 UTC 2026|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.0.1 (262.8665.337) ~ 2026-07-23|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Jul 23 15:22:32 UTC 2026|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.1 (262.9437.185) ~ 2026-08-10|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Aug 10 16:54:38 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.2 to 19.8.5 ~ 2026-07-20|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Mon Jul 20 20:59:33 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 01:38:44 UTC 2026|
