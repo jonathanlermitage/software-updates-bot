@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Localizations Importer/Exporter - Sun Aug 09 07:03:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/29566-localizations-importer-exporter</link>
-      <description>This plugin allows to better handle localizations/translations: Export strings.xml to Excel .xlsx Import from Excel .xlsx to strings.xml If you missed the ability to...
+      <title>Siphrix - AI Action Monitor - Sun Aug 09 19:27:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33403-siphrix--ai-action-monitor</link>
+      <description>See what your AI agents actually did. Every tool call — which file, which command, in which app — on a tamper-evident record, with risky actions raised as warnings...
 
-vendor: Alfred Abdo
-downloads: 18
+vendor: Siphrix
+downloads: 2
 pricingModel: FREE
-xmlId: alfredabdo.ide.plugins.translations</description>
-      <pubDate>Sun, 09 Aug 2026 07:03:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/29566-localizations-importer-exporter</guid>
-      <dc:date>2026-08-09T07:03:33Z</dc:date>
+xmlId: com.siphrix.plugin</description>
+      <pubDate>Sun, 09 Aug 2026 19:27:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33403-siphrix--ai-action-monitor</guid>
+      <dc:date>2026-08-09T19:27:54Z</dc:date>
     </item>
     <item>
-      <title>ISO 8583 Inspector - Fri Aug 07 20:29:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33419-iso-8583-inspector</link>
-      <description>ISO 8583 Inspector Paste an ISO 8583 card/ATM transaction message and read it — no web parser, no external tool, fully offline. For payment-gateway, acquiring and...
+      <title>TideStack Develop - Mon Aug 10 08:25:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33463-tidestack-develop</link>
+      <description>TideStack Develop connects IntelliJ IDEA with the TideStack development platform. It helps developers edit TideStack metadata visually, bind local projects to a...
 
-vendor: VadimToptunov
-downloads: 8
+vendor: TideStack Forge
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.vadimtoptunov.iso8583</description>
-      <pubDate>Fri, 07 Aug 2026 20:29:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33419-iso-8583-inspector</guid>
-      <dc:date>2026-08-07T20:29:17Z</dc:date>
+xmlId: tidestack.develop</description>
+      <pubDate>Mon, 10 Aug 2026 08:25:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33463-tidestack-develop</guid>
+      <dc:date>2026-08-10T08:25:47Z</dc:date>
     </item>
     <item>
-      <title>Maven Dependency Assistant - Sat Aug 08 08:44:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33294-maven-dependency-assistant</link>
-      <description>Quickly search Maven Central, choose a version, and copy a ready-to-use Maven dependency snippet.
+      <title>Qoder CLI Launcher - Mon Aug 10 08:05:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33370-qoder-cli-launcher</link>
+      <description>Qoder CLI Launcher adds a toolbar button that opens a terminal tab named "Qoder CLI" in the current file's directory and runs the Qoder CLI (qodercli). After the CLI...
 
-vendor: Memory2314
-downloads: 18
+vendor: Lin Zhang
+downloads: 1
 pricingModel: FREE
-xmlId: io.github.memory2314.mavendependencyassistant</description>
-      <pubDate>Sat, 08 Aug 2026 08:44:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33294-maven-dependency-assistant</guid>
-      <dc:date>2026-08-08T08:44:58Z</dc:date>
+xmlId: dev.linzhang.qodercli-launcher</description>
+      <pubDate>Mon, 10 Aug 2026 08:05:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33370-qoder-cli-launcher</guid>
+      <dc:date>2026-08-10T08:05:49Z</dc:date>
     </item>
     <item>
-      <title>SearchDeadCode - Fri Aug 07 15:53:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33415-searchdeadcode</link>
-      <description>Finds dead Kotlin and Java code in Android projects and helps you delete it safely. The plugin drives the searchdeadcode command-line analyzer. Run a scan from the...
+      <title>Hasagi Progress Bar - Mon Aug 10 07:53:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33462-hasagi-progress-bar</link>
+      <description>Adds a lightweight, animated wheelchair swordsman sprite to IntelliJ IDEA progress bars with an adaptive turquoise gradient track and a high-contrast sprite outline...
 
-vendor: Elumine
-downloads: 7
+vendor: mzcode
+downloads: 0
 pricingModel: FREE
-xmlId: com.elumine.searchdeadcode</description>
-      <pubDate>Fri, 07 Aug 2026 15:53:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33415-searchdeadcode</guid>
-      <dc:date>2026-08-07T15:53:58Z</dc:date>
+xmlId: com.tclx.hasagi.progressbar</description>
+      <pubDate>Mon, 10 Aug 2026 07:53:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33462-hasagi-progress-bar</guid>
+      <dc:date>2026-08-10T07:53:31Z</dc:date>
     </item>
     <item>
-      <title>FlatBuffers Format - Fri Aug 07 18:05:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33417-flatbuffers-format</link>
-      <description>Syntax highlighting and code formatting for FlatBuffers (.fbs) schema files. Formatting runs through the platform's own formatting service, so Reformat Code...
+      <title>Open in TotalCmd - Mon Aug 10 07:52:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33461-open-in-totalcmd</link>
+      <description>Open the current file or folder in Total Commander Before using it, set the absolute path of TOTALCMD64.EXE and the window panel after opening in Settings -&amp;gt; Other...
 
-vendor: Emin Deniz
-downloads: 9
+vendor: huanyv
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.emindeniz99.flatbuffers</description>
-      <pubDate>Fri, 07 Aug 2026 18:05:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33417-flatbuffers-format</guid>
-      <dc:date>2026-08-07T18:05:39Z</dc:date>
+xmlId: io.github.huanyv.totalcmd</description>
+      <pubDate>Mon, 10 Aug 2026 07:52:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33461-open-in-totalcmd</guid>
+      <dc:date>2026-08-10T07:52:45Z</dc:date>
     </item>
     <item>
-      <title>Log Lens: Large &amp; Structured Log Viewer (JSONL, logfmt, ANSI) - Fri Aug 07 16:13:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33416-log-lens-large--structured-log-viewer-jsonl-logfmt-ansi-</link>
-      <description>Read the log file your IDE can't open. Log Lens indexes log files by byte offset in the background and reads lines on demand, so a multi-gigabyte log opens instantly...
+      <title>knowledge-archiver - Mon Aug 10 03:44:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33460-knowledge-archiver</link>
+      <description>Knowledge Archiver — AI-Powered Code Knowledge Base Builder Automatically turns Git commits into structured business knowledge documents. Zero manual effort, knowledge...
 
-vendor: Twilight Ventures
-downloads: 8
+vendor: Knowledge Archiver / 知识归档
+downloads: 0
 pricingModel: FREE
-xmlId: com.twilightventures.loglens</description>
-      <pubDate>Fri, 07 Aug 2026 16:13:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33416-log-lens-large--structured-log-viewer-jsonl-logfmt-ansi-</guid>
-      <dc:date>2026-08-07T16:13:34Z</dc:date>
+xmlId: com.knowledge.archiver</description>
+      <pubDate>Mon, 10 Aug 2026 03:44:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33460-knowledge-archiver</guid>
+      <dc:date>2026-08-10T03:44:25Z</dc:date>
     </item>
     <item>
-      <title>Prompt Templates - Fri Aug 07 14:56:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33414-prompt-templates</link>
-      <description>Create, manage and render reusable typed Markdown prompt templates inside JetBrains IDEs. Templates remain ordinary Markdown files; typed variable metadata is stored...
+      <title>Mermaid Companion - Sun Aug 09 20:03:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33340-mermaid-companion</link>
+      <description>Syntax highlighting and real validation for .mmd/.mermaid diagram source files (flowchart, sequence, and class diagrams): a real paid competitor's reviewers reported...
 
-vendor: Smooth Brains Ltd
-downloads: 5
+vendor: Gap Hunter Labs
+downloads: 2
 pricingModel: FREE
-xmlId: dev.smoothbrains.prompttemplates</description>
-      <pubDate>Fri, 07 Aug 2026 14:56:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33414-prompt-templates</guid>
-      <dc:date>2026-08-07T14:56:00Z</dc:date>
+xmlId: dev.gaphunter.mermaidcompanion</description>
+      <pubDate>Sun, 09 Aug 2026 20:03:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33340-mermaid-companion</guid>
+      <dc:date>2026-08-09T20:03:43Z</dc:date>
     </item>
     <item>
-      <title>InfiniTint Theme Tuner - Sun Aug 09 09:09:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33404-infinitint-theme-tuner</link>
-      <description>InfiniTint recolors the theme you already use, in any color, with a single click. Pick a preset tint and the window chrome, the editor canvas, and the controls change...
+      <title>RobotsReader - Mon Aug 10 01:20:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33457-robotsreader</link>
+      <description>See what your robots.txt actually does — in plain language, right next to the file. Open any robots.txt and RobotsReader adds a live preview that decodes it, instead...
 
-vendor: Tachi Labs
-downloads: 26
-pricingModel: FREEMIUM
-xmlId: dev.tachilabs.infinitint</description>
-      <pubDate>Sun, 09 Aug 2026 09:09:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33404-infinitint-theme-tuner</guid>
-      <dc:date>2026-08-09T09:09:24Z</dc:date>
-    </item>
-    <item>
-      <title>Time-complexity - Fri Aug 07 04:45:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33396-time-complexity</link>
-      <description>Statically analyzes Java and Kotlin methods and shows their Big-O, Big-Theta, and Big-Omega time complexity as a gutter icon, so you can spot complexity regressions at...
-
-vendor: Time Complexity
-downloads: 12
+vendor: GenAI
+downloads: 0
 pricingModel: FREE
-xmlId: dev.timecomplexity.time-complexity</description>
-      <pubDate>Fri, 07 Aug 2026 04:45:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33396-time-complexity</guid>
-      <dc:date>2026-08-07T04:45:02Z</dc:date>
+xmlId: io.genai.robots</description>
+      <pubDate>Mon, 10 Aug 2026 01:20:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33457-robotsreader</guid>
+      <dc:date>2026-08-10T01:20:45Z</dc:date>
     </item>
     <item>
-      <title>JSONL Lens: NDJSON Viewer - Fri Aug 07 04:56:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33397-jsonl-lens-ndjson-viewer</link>
-      <description>Fast viewer for large JSONL / NDJSON dataset files. Open multi-gigabyte machine learning datasets instantly: records are indexed by byte offset in the background and...
+      <title>Java Nullity Syntax - Sun Aug 09 18:06:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33452-java-nullity-syntax</link>
+      <description>Java Nullity Syntax makes Java nullability annotations easier to read and write. Nullability annotations recognized by IntelliJ IDEA are displayed as concise type...
 
-vendor: Twilight Ventures
-downloads: 11
+vendor: Nikita22007
+downloads: 0
 pricingModel: FREE
-xmlId: com.twilightventures.jsonllens</description>
-      <pubDate>Fri, 07 Aug 2026 04:56:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33397-jsonl-lens-ndjson-viewer</guid>
-      <dc:date>2026-08-07T04:56:17Z</dc:date>
+xmlId: io.github.nikita22007.javanullitysyntax</description>
+      <pubDate>Sun, 09 Aug 2026 18:06:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33452-java-nullity-syntax</guid>
+      <dc:date>2026-08-09T18:06:59Z</dc:date>
     </item>
     <item>
-      <title>DBML Canvas - Sat Aug 08 13:58:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33410-dbml-canvas</link>
-      <description>Render DBML files as draggable ER diagrams and store layout data beside the DBML file.
+      <title>SQL Heading Folding - Sun Aug 09 18:13:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33453-sql-heading-folding</link>
+      <description>Adds hierarchical comment headings, native code folding, reading-mode labels, and outline navigation to SQL consoles. Use -- # through -- ##### to organize long SQL...
 
-vendor: thinkgrowstudio
-downloads: 40
+vendor: 仰晨556
+downloads: 0
 pricingModel: FREE
-xmlId: dev.dbmlcanvas</description>
-      <pubDate>Sat, 08 Aug 2026 13:58:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33410-dbml-canvas</guid>
-      <dc:date>2026-08-08T13:58:55Z</dc:date>
+xmlId: com.github.cgl.sql-heading-folding</description>
+      <pubDate>Sun, 09 Aug 2026 18:13:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33453-sql-heading-folding</guid>
+      <dc:date>2026-08-09T18:13:47Z</dc:date>
     </item>
     <item>
-      <title>CodeMind - Fri Aug 07 10:56:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33409-codemind</link>
-      <description>Create and manage mind maps inside IntelliJ IDEA. Nodes record code positions, click to jump, and gutter icons provide a reverse entry back to the mind map. Features...
+      <title>Palette Vault - Sun Aug 09 19:00:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33454-palette-vault</link>
+      <description>Generates color palettes and writes them into your code, without leaving the editor and without a network connection. Right-click in the editor, under Palette Vault...
 
-vendor: Fashion
-downloads: 15
+vendor: Palette Vault
+downloads: 0
 pricingModel: FREE
-xmlId: com.codemind</description>
-      <pubDate>Fri, 07 Aug 2026 10:56:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33409-codemind</guid>
-      <dc:date>2026-08-07T10:56:05Z</dc:date>
+xmlId: io.github.palettevault</description>
+      <pubDate>Sun, 09 Aug 2026 19:00:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33454-palette-vault</guid>
+      <dc:date>2026-08-09T19:00:30Z</dc:date>
     </item>
     <item>
-      <title>imux - Sun Aug 09 10:04:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33412-imux</link>
-      <description>imux manages your Claude Code and Codex sessions inside IntelliJ IDEA editor tabs. 在 IntelliJ IDEA 里管理你的 Claude Code 与 Codex 会话。会话开在编辑器标签页里...
+      <title>Reference Switcher - Sun Aug 09 19:09:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33455-reference-switcher</link>
+      <description>Switch a .NET PackageReference to a local ProjectReference from Rider, then restore the exact original package reference when local development is complete.
 
-vendor: liuyuhua69
-downloads: 14
+vendor: Tom Biddulph
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.izerui.imux</description>
-      <pubDate>Sun, 09 Aug 2026 10:04:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33412-imux</guid>
-      <dc:date>2026-08-09T10:04:47Z</dc:date>
+xmlId: io.github.tombiddulph.referenceswitcher</description>
+      <pubDate>Sun, 09 Aug 2026 19:09:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33455-reference-switcher</guid>
+      <dc:date>2026-08-09T19:09:57Z</dc:date>
     </item>
     <item>
-      <title>Commit Spotlight - Thu Aug 06 22:17:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33393-commit-spotlight</link>
-      <description>See exactly what a commit touched, at a glance. Ever click through a commit in the Git Log and wonder exactly which lines it actually changed? Commit Spotlight...
+      <title>ServiceHop - Sun Aug 09 14:32:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33447-servicehop</link>
+      <description>ServiceHop adds bidirectional gRPC source navigation to IntelliJ IDEA. Navigate directly from a generated gRPC client-stub call to the concrete server RPC...
 
-vendor: twhite
-downloads: 14
+vendor: Ayberk Unsalan
+downloads: 0
 pricingModel: FREE
-xmlId: com.twhite.commitspotlight</description>
-      <pubDate>Thu, 06 Aug 2026 22:17:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33393-commit-spotlight</guid>
-      <dc:date>2026-08-06T22:17:55Z</dc:date>
+xmlId: dev.servicehop</description>
+      <pubDate>Sun, 09 Aug 2026 14:32:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33447-servicehop</guid>
+      <dc:date>2026-08-09T14:32:45Z</dc:date>
     </item>
     <item>
-      <title>AI Commit Auto - Fri Aug 07 12:20:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33413-ai-commit-auto</link>
-      <description>Generate editable, reviewable Git commit messages from the changes selected in the JetBrains IDE Commit tool window. Use your own OpenAI-compatible API, enterprise...
+      <title>Droid Progress Bar - Sun Aug 09 12:32:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33446-droid-progress-bar</link>
+      <description>Animated Droid progress indicators for IntelliJ-based IDEs. Replaces supported horizontal progress bars with an animated character while retaining progress values...
 
-vendor: ck96
-downloads: 14
+vendor: Arda Kazancı
+downloads: 0
 pricingModel: FREE
-xmlId: com.chenke.ai-commit-message</description>
-      <pubDate>Fri, 07 Aug 2026 12:20:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33413-ai-commit-auto</guid>
-      <dc:date>2026-08-07T12:20:03Z</dc:date>
+xmlId: dev.ardakazanci.droidprogress</description>
+      <pubDate>Sun, 09 Aug 2026 12:32:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33446-droid-progress-bar</guid>
+      <dc:date>2026-08-09T12:32:21Z</dc:date>
     </item>
     <item>
-      <title>Safe Result Export - Fri Jul 31 01:28:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33262-safe-result-export</link>
-      <description>Mask database results before CSV export. Choose one transformation per column, compare the original and transformed sample, and write a local UTF-8 CSV. Keep, Redact...
+      <title>Transvoy - Sun Aug 09 09:21:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33296-transvoy</link>
+      <description>Transvoy — See, and understand. Break language barriers — understand any SDK or dependency instantly. Transvoy translates code comments right inside your IDE — into...
 
-vendor: Lyl Tools
-downloads: 6
+vendor: 1Step Studio
+downloads: 2
 pricingModel: FREE
-xmlId: dev.saferesultexport</description>
-      <pubDate>Fri, 31 Jul 2026 01:28:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33262-safe-result-export</guid>
-      <dc:date>2026-07-31T01:28:24Z</dc:date>
+xmlId: studio.1step.transvoy</description>
+      <pubDate>Sun, 09 Aug 2026 09:21:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33296-transvoy</guid>
+      <dc:date>2026-08-09T09:21:40Z</dc:date>
     </item>
     <item>
-      <title>Markdown Pro - Sun Aug 09 07:05:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33400-markdown-pro</link>
-      <description>Markdown Pro turns your JetBrains IDE into a complete documentation authoring workspace. It builds on the familiar bundled Markdown editor with rich editing tools...
+      <title>PinGuard - Sun Aug 09 11:04:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33444-pinguard</link>
+      <description>Keeps pinned editor tabs pinned. Pinning a tab says "I want to keep this open". The tab's own close button respects that, but Close (Cmd+W / Ctrl+F4), Close All and...
 
-vendor: Jetplugins
-downloads: 87
-pricingModel: PAID
-xmlId: dev.jetplugins.markdown</description>
-      <pubDate>Sun, 09 Aug 2026 07:05:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33400-markdown-pro</guid>
-      <dc:date>2026-08-09T07:05:53Z</dc:date>
-    </item>
-    <item>
-      <title>EML Editor - Fri Aug 07 10:09:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33402-eml-editor</link>
-      <description>View and edit EML (RFC 822/MIME email) files. Rendered, sanitized HTML preview (remote content blocked by default) Editable projections of the HTML and plain-text...
-
-vendor: simlab-vs
-downloads: 9
+vendor: Florin Asăvoaie
+downloads: 0
 pricingModel: FREE
-xmlId: com.palpista.eml-editor</description>
-      <pubDate>Fri, 07 Aug 2026 10:09:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33402-eml-editor</guid>
-      <dc:date>2026-08-07T10:09:49Z</dc:date>
+xmlId: tech.florin.pinguard</description>
+      <pubDate>Sun, 09 Aug 2026 11:04:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33444-pinguard</guid>
+      <dc:date>2026-08-09T11:04:23Z</dc:date>
     </item>
     <item>
-      <title>Bezyan Glow - Sun Aug 09 11:44:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33379-bezyan-glow</link>
-      <description>Color nested brackets and highlight the scope around the caret. Bezyan Glow makes deeply nested code easier to scan while keeping the editor's existing syntax colors...
+      <title>quick-coding - Sun Aug 09 06:52:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33439-quick-coding</link>
+      <description>quick-coding — Generate MyBatis Code from Database Tables Right-click one or more database tables in the Database tool window to quickly generate a complete set of...
 
-vendor: Bezyan
-downloads: 23
-pricingModel: PAID
-xmlId: com.bezyan.glow</description>
-      <pubDate>Sun, 09 Aug 2026 11:44:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33379-bezyan-glow</guid>
-      <dc:date>2026-08-09T11:44:22Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Code Config Support - Fri Aug 07 02:22:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33380-claude-code-config-support</link>
-      <description>Language support for the files that configure Claude Code — not another way to run it. Claude Code is configured through Markdown, YAML frontmatter and JSON. None of...
-
-vendor: Kian Boon Ong
-downloads: 17
+vendor: panli1988
+downloads: 0
 pricingModel: FREE
-xmlId: com.bchan84.agent-config</description>
-      <pubDate>Fri, 07 Aug 2026 02:22:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33380-claude-code-config-support</guid>
-      <dc:date>2026-08-07T02:22:36Z</dc:date>
+xmlId: com.donggua.table.fields.info</description>
+      <pubDate>Sun, 09 Aug 2026 06:52:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33439-quick-coding</guid>
+      <dc:date>2026-08-09T06:52:32Z</dc:date>
+    </item>
+    <item>
+      <title>CursorSwitch - Sun Aug 09 01:41:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33435-cursorswitch</link>
+      <description>CursorSwitch is a JetBrains IDE plugin that enables seamless switching between IDE and Cursor while maintaining precise cursor position. Key Features Open files in...
+
+vendor: CursorSwitch
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.Mango.cursorswitch</description>
+      <pubDate>Sun, 09 Aug 2026 01:41:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33435-cursorswitch</guid>
+      <dc:date>2026-08-09T01:41:09Z</dc:date>
+    </item>
+    <item>
+      <title>LoreLens - Sun Aug 09 01:20:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33434-lorelens</link>
+      <description>Version control integration for Lore, Epic Games' open-source version control system for repositories that mix code with large binary assets. Lore's status...
+
+vendor: DZMITRYJ
+downloads: 1
+pricingModel: FREE
+xmlId: com.dzmitryj.lorelens</description>
+      <pubDate>Sun, 09 Aug 2026 01:20:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33434-lorelens</guid>
+      <dc:date>2026-08-09T01:20:40Z</dc:date>
+    </item>
+    <item>
+      <title>yamlover - Sat Aug 08 19:32:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33432-yamlover</link>
+      <description>Editor support for the yamlover (.yo) and json5p (.json5p) file types in IntelliJ-based IDEs. yamlover stands for YAML Overlay (not "Yam lover"): a plain-text...
+
+vendor: Inthemoon Software
+downloads: 1
+pricingModel: FREE
+xmlId: net.inthemoon.yamlover</description>
+      <pubDate>Sat, 08 Aug 2026 19:32:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33432-yamlover</guid>
+      <dc:date>2026-08-08T19:32:52Z</dc:date>
     </item>
   </channel>
 </rss>
