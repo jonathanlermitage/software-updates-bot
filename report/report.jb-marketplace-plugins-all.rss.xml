@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>RIDDL - Sat Aug 08 17:44:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33312-riddl</link>
+      <description>RIDDL Language Support for IntelliJ IDEA Comprehensive IDE support for RIDDL (Reactive Interface to Domain Definition Language), an open-source language for designing...
+
+vendor: Ossum Inc
+downloads: 3
+pricingModel: FREE
+xmlId: com.ossuminc.riddl.plugins.idea</description>
+      <pubDate>Sat, 08 Aug 2026 17:44:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33312-riddl</guid>
+      <dc:date>2026-08-08T17:44:08Z</dc:date>
+    </item>
+    <item>
+      <title>yms-ide - Tue Aug 11 00:50:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/24829-yms-ide</link>
+      <description>YMS IDE adds run, debug, health monitoring, and JVM diagnostics for YMS Maven applications in IntelliJ IDEA. The plugin detects Maven modules configured with...
+
+vendor: 白林威
+downloads: 2
+pricingModel: FREE
+xmlId: com.yonyou.iuap.yms</description>
+      <pubDate>Tue, 11 Aug 2026 00:50:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/24829-yms-ide</guid>
+      <dc:date>2026-08-11T00:50:16Z</dc:date>
+    </item>
+    <item>
       <title>Siphrix - AI Action Monitor - Sun Aug 09 19:27:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33403-siphrix--ai-action-monitor</link>
       <description>See what your AI agents actually did. Every tool call — which file, which command, in which app — on a tamper-evident record, with risky actions raised as warnings...
@@ -19,17 +45,17 @@ xmlId: com.siphrix.plugin</description>
       <dc:date>2026-08-09T19:27:54Z</dc:date>
     </item>
     <item>
-      <title>TideStack Develop - Mon Aug 10 13:15:55 UTC 2026</title>
+      <title>TideStack Develop - Tue Aug 11 13:56:22 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33463-tidestack-develop</link>
-      <description>IntelliJ IDEA integration for editing TideStack metadata files and TideStack develop configuration. Features: - Graphical metadata editor for JSON metadata files...
+      <description>TideStack Develop connects IntelliJ IDEA with the TideStack development platform. It helps developers edit TideStack metadata visually, bind local projects to a...
 
 vendor: TideStack Forge
 downloads: 7
 pricingModel: FREE
 xmlId: tidestack.develop</description>
-      <pubDate>Mon, 10 Aug 2026 13:15:55 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 13:56:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33463-tidestack-develop</guid>
-      <dc:date>2026-08-10T13:15:55Z</dc:date>
+      <dc:date>2026-08-11T13:56:22Z</dc:date>
     </item>
     <item>
       <title>Qoder CLI Launcher - Tue Aug 11 07:45:03 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.github.Mango.cursorswitch</description>
       <pubDate>Sun, 09 Aug 2026 01:41:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33435-cursorswitch</guid>
       <dc:date>2026-08-09T01:41:09Z</dc:date>
-    </item>
-    <item>
-      <title>LoreLens - Sun Aug 09 01:20:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33434-lorelens</link>
-      <description>Version control integration for Lore, Epic Games' open-source version control system for repositories that mix code with large binary assets. Lore's status...
-
-vendor: DZMITRYJ
-downloads: 2
-pricingModel: FREE
-xmlId: com.dzmitryj.lorelens</description>
-      <pubDate>Sun, 09 Aug 2026 01:20:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33434-lorelens</guid>
-      <dc:date>2026-08-09T01:20:40Z</dc:date>
-    </item>
-    <item>
-      <title>yamlover - Sat Aug 08 19:32:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33432-yamlover</link>
-      <description>Editor support for the yamlover (.yo) and json5p (.json5p) file types in IntelliJ-based IDEs. yamlover stands for YAML Overlay (not "Yam lover"): a plain-text...
-
-vendor: Inthemoon Software
-downloads: 4
-pricingModel: FREE
-xmlId: net.inthemoon.yamlover</description>
-      <pubDate>Sat, 08 Aug 2026 19:32:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33432-yamlover</guid>
-      <dc:date>2026-08-08T19:32:52Z</dc:date>
     </item>
   </channel>
 </rss>
