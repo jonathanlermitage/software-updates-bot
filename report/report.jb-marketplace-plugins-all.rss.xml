@@ -11,7 +11,7 @@
       <description>See what your AI agents actually did. Every tool call — which file, which command, in which app — on a tamper-evident record, with risky actions raised as warnings...
 
 vendor: Siphrix
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.siphrix.plugin</description>
       <pubDate>Sun, 09 Aug 2026 19:27:54 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.siphrix.plugin</description>
       <description>IntelliJ IDEA integration for editing TideStack metadata files and TideStack develop configuration. Features: - Graphical metadata editor for JSON metadata files...
 
 vendor: TideStack Forge
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: tidestack.develop</description>
       <pubDate>Mon, 10 Aug 2026 13:15:55 GMT</pubDate>
@@ -32,17 +32,17 @@ xmlId: tidestack.develop</description>
       <dc:date>2026-08-10T13:15:55Z</dc:date>
     </item>
     <item>
-      <title>Qoder CLI Launcher - Mon Aug 10 08:05:49 UTC 2026</title>
+      <title>Qoder CLI Launcher - Tue Aug 11 07:45:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33370-qoder-cli-launcher</link>
-      <description>Qoder CLI Launcher adds a toolbar button that opens a terminal tab named "Qoder CLI" in the current file's directory and runs the Qoder CLI (qodercli). After the CLI...
+      <description>Qoder CLI Launcher adds a toolbar button that opens a terminal tab named "Qoder CLI" in the project root and runs the Qoder CLI (qodercli). After the CLI exits, the...
 
 vendor: Lin Zhang
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: dev.linzhang.qodercli-launcher</description>
-      <pubDate>Mon, 10 Aug 2026 08:05:49 GMT</pubDate>
+      <pubDate>Tue, 11 Aug 2026 07:45:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33370-qoder-cli-launcher</guid>
-      <dc:date>2026-08-10T08:05:49Z</dc:date>
+      <dc:date>2026-08-11T07:45:03Z</dc:date>
     </item>
     <item>
       <title>Hasagi Progress Bar - Mon Aug 10 07:53:31 UTC 2026</title>
@@ -50,7 +50,7 @@ xmlId: dev.linzhang.qodercli-launcher</description>
       <description>Adds a lightweight, animated wheelchair swordsman sprite to IntelliJ IDEA progress bars with an adaptive turquoise gradient track and a high-contrast sprite outline...
 
 vendor: mzcode
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.tclx.hasagi.progressbar</description>
       <pubDate>Mon, 10 Aug 2026 07:53:31 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.tclx.hasagi.progressbar</description>
       <description>Open the current file or folder in Total Commander Before using it, set the absolute path of TOTALCMD64.EXE and the window panel after opening in Settings -&amp;gt; Other...
 
 vendor: huanyv
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.huanyv.totalcmd</description>
       <pubDate>Mon, 10 Aug 2026 07:52:45 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: io.github.huanyv.totalcmd</description>
       <description>Knowledge Archiver — AI-Powered Code Knowledge Base Builder Automatically turns Git commits into structured business knowledge documents. Zero manual effort, knowledge...
 
 vendor: Knowledge Archiver / 知识归档
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.knowledge.archiver</description>
       <pubDate>Tue, 11 Aug 2026 01:27:24 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.knowledge.archiver</description>
       <description>Syntax highlighting and real validation for .mmd/.mermaid diagram source files (flowchart, sequence, and class diagrams): a real paid competitor's reviewers reported...
 
 vendor: Gap Hunter Labs
-downloads: 2
+downloads: 6
 pricingModel: FREE
 xmlId: dev.gaphunter.mermaidcompanion</description>
       <pubDate>Sun, 09 Aug 2026 20:03:43 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: dev.gaphunter.mermaidcompanion</description>
       <description>See what your robots.txt actually does — in plain language, right next to the file. Open any robots.txt and RobotsReader adds a live preview that decodes it, instead...
 
 vendor: GenAI
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.genai.robots</description>
       <pubDate>Tue, 11 Aug 2026 02:35:02 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: io.genai.robots</description>
       <description>Java Nullity Syntax makes Java nullability annotations easier to read and write. Nullability annotations recognized by IntelliJ IDEA are displayed as concise type...
 
 vendor: Nikita22007
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.nikita22007.javanullitysyntax</description>
       <pubDate>Sun, 09 Aug 2026 18:06:59 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: io.github.nikita22007.javanullitysyntax</description>
       <description>Adds hierarchical comment headings, native code folding, reading-mode labels, and outline navigation to SQL consoles. Use -- # through -- ##### to organize long SQL...
 
 vendor: 仰晨556
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.cgl.sql-heading-folding</description>
       <pubDate>Mon, 10 Aug 2026 19:02:19 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.github.cgl.sql-heading-folding</description>
       <description>Generates color palettes and writes them into your code, without leaving the editor and without a network connection. Right-click in the editor, under Palette Vault...
 
 vendor: Palette Vault
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.palettevault</description>
       <pubDate>Sun, 09 Aug 2026 19:00:30 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: io.github.palettevault</description>
       <description>Switch a .NET PackageReference to a local ProjectReference from Rider, then restore the exact original package reference when local development is complete.
 
 vendor: Tom Biddulph
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.tombiddulph.referenceswitcher</description>
       <pubDate>Mon, 10 Aug 2026 16:24:27 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: io.github.tombiddulph.referenceswitcher</description>
       <description>ServiceHop adds bidirectional gRPC source navigation to IntelliJ IDEA. Navigate directly from a generated gRPC client-stub call to the concrete server RPC...
 
 vendor: Ayberk Unsalan
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: dev.servicehop</description>
       <pubDate>Sun, 09 Aug 2026 14:32:45 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: dev.servicehop</description>
       <description>Animated Droid progress indicators for IntelliJ-based IDEs. Replaces supported horizontal progress bars with an animated character while retaining progress values...
 
 vendor: Arda Kazancı
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: dev.ardakazanci.droidprogress</description>
       <pubDate>Sun, 09 Aug 2026 12:32:21 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.ardakazanci.droidprogress</description>
       <description>Transvoy — See, and understand. Break language barriers — understand any SDK or dependency instantly. Transvoy translates code comments right inside your IDE — into...
 
 vendor: 1Step Studio
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: studio.1step.transvoy</description>
       <pubDate>Sun, 09 Aug 2026 09:21:40 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: studio.1step.transvoy</description>
       <description>Keeps pinned editor tabs pinned. Pinning a tab says "I want to keep this open". The tab's own close button respects that, but Close (Cmd+W / Ctrl+F4), Close All and...
 
 vendor: Florin Asăvoaie
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: tech.florin.pinguard</description>
       <pubDate>Mon, 10 Aug 2026 20:19:10 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: tech.florin.pinguard</description>
       <description>quick-coding — Generate MyBatis Code from Database Tables Right-click one or more database tables in the Database tool window to quickly generate a complete set of...
 
 vendor: donggua
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.donggua.table.fields.info</description>
       <pubDate>Sun, 09 Aug 2026 06:52:32 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.donggua.table.fields.info</description>
       <description>CursorSwitch is a JetBrains IDE plugin that enables seamless switching between IDE and Cursor while maintaining precise cursor position. Key Features Open files in...
 
 vendor: CursorSwitch
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.Mango.cursorswitch</description>
       <pubDate>Sun, 09 Aug 2026 01:41:09 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.github.Mango.cursorswitch</description>
       <description>Version control integration for Lore, Epic Games' open-source version control system for repositories that mix code with large binary assets. Lore's status...
 
 vendor: DZMITRYJ
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.dzmitryj.lorelens</description>
       <pubDate>Sun, 09 Aug 2026 01:20:40 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.dzmitryj.lorelens</description>
       <description>Editor support for the yamlover (.yo) and json5p (.json5p) file types in IntelliJ-based IDEs. yamlover stands for YAML Overlay (not "Yam lover"): a plain-text...
 
 vendor: Inthemoon Software
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: net.inthemoon.yamlover</description>
       <pubDate>Sat, 08 Aug 2026 19:32:52 GMT</pubDate>
