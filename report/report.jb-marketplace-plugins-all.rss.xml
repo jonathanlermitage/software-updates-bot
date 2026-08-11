@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>RIDDL - Sat Aug 08 17:44:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33312-riddl</link>
-      <description>RIDDL Language Support for IntelliJ IDEA Comprehensive IDE support for RIDDL (Reactive Interface to Domain Definition Language), an open-source language for designing...
+      <title>UUID, ULID &amp; NanoID Toolkit - Tue Aug 11 18:43:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33488-uuid-ulid--nanoid-toolkit</link>
+      <description>UUID, ULID &amp;amp; NanoID Toolkit Generate and inspect the identifiers you actually use in tests and APIs — no browser, no external tool, fully offline. Generate: UUID...
 
-vendor: Ossum Inc
-downloads: 3
+vendor: VadimToptunov
+downloads: 0
 pricingModel: FREE
-xmlId: com.ossuminc.riddl.plugins.idea</description>
-      <pubDate>Sat, 08 Aug 2026 17:44:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33312-riddl</guid>
-      <dc:date>2026-08-08T17:44:08Z</dc:date>
+xmlId: io.github.vadimtoptunov.uuid-toolkit</description>
+      <pubDate>Tue, 11 Aug 2026 18:43:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33488-uuid-ulid--nanoid-toolkit</guid>
+      <dc:date>2026-08-11T18:43:08Z</dc:date>
     </item>
     <item>
-      <title>yms-ide - Tue Aug 11 00:50:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/24829-yms-ide</link>
-      <description>YMS IDE adds run, debug, health monitoring, and JVM diagnostics for YMS Maven applications in IntelliJ IDEA. The plugin detects Maven modules configured with...
+      <title>Lumen - Mon Aug 10 21:34:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33474-lumen</link>
+      <description>Rider (IntelliJ Platform) plugin that shows test coverage in the editor andin a dedicated panel — a much simpler (and free) alternative to dotCover,without...
 
-vendor: 白林威
-downloads: 2
+vendor: Charles Alves
+downloads: 0
 pricingModel: FREE
-xmlId: com.yonyou.iuap.yms</description>
-      <pubDate>Tue, 11 Aug 2026 00:50:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/24829-yms-ide</guid>
-      <dc:date>2026-08-11T00:50:16Z</dc:date>
+xmlId: com.ceutenant.lumen</description>
+      <pubDate>Mon, 10 Aug 2026 21:34:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33474-lumen</guid>
+      <dc:date>2026-08-10T21:34:07Z</dc:date>
     </item>
     <item>
-      <title>Siphrix - AI Action Monitor - Sun Aug 09 19:27:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33403-siphrix--ai-action-monitor</link>
-      <description>See what your AI agents actually did. Every tool call — which file, which command, in which app — on a tamper-evident record, with risky actions raised as warnings...
+      <title>Bulk Merge Requests - Tue Aug 11 19:09:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33450-bulk-merge-requests</link>
+      <description>Creates merge requests for all open projects in a single dialog. Pick the source and target branch per repository, following the layout of the IDE's own Push dialog...
 
-vendor: Siphrix
-downloads: 5
-pricingModel: FREE
-xmlId: com.siphrix.plugin</description>
-      <pubDate>Sun, 09 Aug 2026 19:27:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33403-siphrix--ai-action-monitor</guid>
-      <dc:date>2026-08-09T19:27:54Z</dc:date>
-    </item>
-    <item>
-      <title>TideStack Develop - Tue Aug 11 13:56:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33463-tidestack-develop</link>
-      <description>TideStack Develop connects IntelliJ IDEA with the TideStack development platform. It helps developers edit TideStack metadata visually, bind local projects to a...
-
-vendor: TideStack Forge
-downloads: 7
-pricingModel: FREE
-xmlId: tidestack.develop</description>
-      <pubDate>Tue, 11 Aug 2026 13:56:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33463-tidestack-develop</guid>
-      <dc:date>2026-08-11T13:56:22Z</dc:date>
-    </item>
-    <item>
-      <title>Qoder CLI Launcher - Tue Aug 11 07:45:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33370-qoder-cli-launcher</link>
-      <description>Qoder CLI Launcher adds a toolbar button that opens a terminal tab named "Qoder CLI" in the project root and runs the Qoder CLI (qodercli). After the CLI exits, the...
-
-vendor: Lin Zhang
-downloads: 5
-pricingModel: FREE
-xmlId: dev.linzhang.qodercli-launcher</description>
-      <pubDate>Tue, 11 Aug 2026 07:45:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33370-qoder-cli-launcher</guid>
-      <dc:date>2026-08-11T07:45:03Z</dc:date>
-    </item>
-    <item>
-      <title>Hasagi Progress Bar - Mon Aug 10 07:53:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33462-hasagi-progress-bar</link>
-      <description>Adds a lightweight, animated wheelchair swordsman sprite to IntelliJ IDEA progress bars with an adaptive turquoise gradient track and a high-contrast sprite outline...
-
-vendor: mzcode
-downloads: 2
-pricingModel: FREE
-xmlId: com.tclx.hasagi.progressbar</description>
-      <pubDate>Mon, 10 Aug 2026 07:53:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33462-hasagi-progress-bar</guid>
-      <dc:date>2026-08-10T07:53:31Z</dc:date>
-    </item>
-    <item>
-      <title>Open in TotalCmd - Mon Aug 10 07:52:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33461-open-in-totalcmd</link>
-      <description>Open the current file or folder in Total Commander Before using it, set the absolute path of TOTALCMD64.EXE and the window panel after opening in Settings -&amp;gt; Other...
-
-vendor: huanyv
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.huanyv.totalcmd</description>
-      <pubDate>Mon, 10 Aug 2026 07:52:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33461-open-in-totalcmd</guid>
-      <dc:date>2026-08-10T07:52:45Z</dc:date>
-    </item>
-    <item>
-      <title>knowledge-archiver - Tue Aug 11 01:27:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33460-knowledge-archiver</link>
-      <description>Knowledge Archiver — AI-Powered Code Knowledge Base Builder Automatically turns Git commits into structured business knowledge documents. Zero manual effort, knowledge...
-
-vendor: Knowledge Archiver / 知识归档
-downloads: 2
-pricingModel: FREE
-xmlId: com.knowledge.archiver</description>
-      <pubDate>Tue, 11 Aug 2026 01:27:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33460-knowledge-archiver</guid>
-      <dc:date>2026-08-11T01:27:24Z</dc:date>
-    </item>
-    <item>
-      <title>Mermaid Companion - Sun Aug 09 20:03:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33340-mermaid-companion</link>
-      <description>Syntax highlighting and real validation for .mmd/.mermaid diagram source files (flowchart, sequence, and class diagrams): a real paid competitor's reviewers reported...
-
-vendor: Gap Hunter Labs
-downloads: 6
-pricingModel: FREE
-xmlId: dev.gaphunter.mermaidcompanion</description>
-      <pubDate>Sun, 09 Aug 2026 20:03:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33340-mermaid-companion</guid>
-      <dc:date>2026-08-09T20:03:43Z</dc:date>
-    </item>
-    <item>
-      <title>RobotsReader - Tue Aug 11 02:35:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33457-robotsreader</link>
-      <description>See what your robots.txt actually does — in plain language, right next to the file. Open any robots.txt and RobotsReader adds a live preview that decodes it, instead...
-
-vendor: GenAI
-downloads: 2
-pricingModel: FREE
-xmlId: io.genai.robots</description>
-      <pubDate>Tue, 11 Aug 2026 02:35:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33457-robotsreader</guid>
-      <dc:date>2026-08-11T02:35:02Z</dc:date>
-    </item>
-    <item>
-      <title>Java Nullity Syntax - Sun Aug 09 18:06:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33452-java-nullity-syntax</link>
-      <description>Java Nullity Syntax makes Java nullability annotations easier to read and write. Nullability annotations recognized by IntelliJ IDEA are displayed as concise type...
-
-vendor: Nikita22007
+vendor: Brielmayer Consulting GmbH
 downloads: 1
 pricingModel: FREE
-xmlId: io.github.nikita22007.javanullitysyntax</description>
-      <pubDate>Sun, 09 Aug 2026 18:06:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33452-java-nullity-syntax</guid>
-      <dc:date>2026-08-09T18:06:59Z</dc:date>
+xmlId: ch.brielmayer.bulkmergerequest</description>
+      <pubDate>Tue, 11 Aug 2026 19:09:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33450-bulk-merge-requests</guid>
+      <dc:date>2026-08-11T19:09:41Z</dc:date>
     </item>
     <item>
-      <title>SQL Heading Folding - Mon Aug 10 19:02:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33453-sql-heading-folding</link>
-      <description>Adds hierarchical comment headings, native code folding, reading-mode labels, and outline navigation to SQL consoles. Use -- # through -- ##### to organize long SQL...
+      <title>GitHub Toolbar Button - Tue Aug 11 16:19:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33486-github-toolbar-button</link>
+      <description>Adds a button to the main toolbar that opens the current project's GitHub repository page in your default browser. The button is present in every project. When the...
 
-vendor: 仰晨556
-downloads: 6
+vendor: Paul Ambrose
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.cgl.sql-heading-folding</description>
-      <pubDate>Mon, 10 Aug 2026 19:02:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33453-sql-heading-folding</guid>
-      <dc:date>2026-08-10T19:02:19Z</dc:date>
+xmlId: com.pambrose.github-toolbar-button</description>
+      <pubDate>Tue, 11 Aug 2026 16:19:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33486-github-toolbar-button</guid>
+      <dc:date>2026-08-11T16:19:22Z</dc:date>
     </item>
     <item>
-      <title>Palette Vault - Sun Aug 09 19:00:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33454-palette-vault</link>
-      <description>Generates color palettes and writes them into your code, without leaving the editor and without a network connection. Right-click in the editor, under Palette Vault...
+      <title>Redline - Rendered HTML Diff - Tue Aug 11 18:18:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33487-redline--rendered-html-diff</link>
+      <description>Review HTML changes as a rendered document, not markup. When both sides of a diff are HTML, Redline adds a viewer that shows the page as the browser renders it, with...
 
-vendor: Palette Vault
-downloads: 2
+vendor: Bill Hedworth
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.palettevault</description>
-      <pubDate>Sun, 09 Aug 2026 19:00:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33454-palette-vault</guid>
-      <dc:date>2026-08-09T19:00:30Z</dc:date>
+xmlId: com.hedworth.redline</description>
+      <pubDate>Tue, 11 Aug 2026 18:18:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33487-redline--rendered-html-diff</guid>
+      <dc:date>2026-08-11T18:18:32Z</dc:date>
     </item>
     <item>
-      <title>Reference Switcher - Mon Aug 10 16:24:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33455-reference-switcher</link>
-      <description>Switch a .NET PackageReference to a local ProjectReference from Rider, then restore the exact original package reference when local development is complete.
+      <title>Flutter OHOS Environment - Tue Aug 11 17:28:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32445-flutter-ohos-environment</link>
+      <description>Switch between standard Flutter and HarmonyOS (flutter_flutter) SDKs in IntelliJ IDEA and Android Studio. Manage independent PUB_CACHE directories, auto pub get on...
 
-vendor: Tom Biddulph
+vendor: hainanlxk
+downloads: 4
+pricingModel: FREE
+xmlId: com.hainanlxk.flutter.ohos.env</description>
+      <pubDate>Tue, 11 Aug 2026 17:28:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32445-flutter-ohos-environment</guid>
+      <dc:date>2026-08-11T17:28:09Z</dc:date>
+    </item>
+    <item>
+      <title>Creek Dev Tools - Tue Aug 11 17:26:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32638-creek-dev-tools</link>
+      <description>Creek development toolkit for IntelliJ IDEA and Android Studio: brand setup, ARB sync, remote build, and multi Flutter SDK switching including HarmonyOS...
+
+vendor: hainanlxk
+downloads: 3
+pricingModel: FREE
+xmlId: com.lxk.my_flutter_intl_plugin</description>
+      <pubDate>Tue, 11 Aug 2026 17:26:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32638-creek-dev-tools</guid>
+      <dc:date>2026-08-11T17:26:58Z</dc:date>
+    </item>
+    <item>
+      <title>chao-garden - Tue Aug 11 14:47:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33484-chao-garden</link>
+      <description>Add a few chao to your JetBrains IDE with this plugin! Adds a small chao garden tool window to your JetBrains IDE. Spawn one or more chao, name them, and watch them...
+
+vendor: VCPY
+downloads: 0
+pricingModel: FREE
+xmlId: vcpy.chaogarden</description>
+      <pubDate>Tue, 11 Aug 2026 14:47:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33484-chao-garden</guid>
+      <dc:date>2026-08-11T14:47:17Z</dc:date>
+    </item>
+    <item>
+      <title>Open Code Review - Tue Aug 11 14:47:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33483-open-code-review</link>
+      <description>An IntelliJ IDEA plugin that provides an interactive layer for the open-codereview CLI, enabling pre-commit AI code review with issue lists, inline annotations, merge...
+
+vendor: Open Code Review GUI
+downloads: 0
+pricingModel: FREE
+xmlId: com.ninebot.ai-review</description>
+      <pubDate>Tue, 11 Aug 2026 14:47:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33483-open-code-review</guid>
+      <dc:date>2026-08-11T14:47:06Z</dc:date>
+    </item>
+    <item>
+      <title>Camel Case Converter - Tue Aug 11 15:15:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33485-camel-case-converter</link>
+      <description>Camel Case Converter Quickly cycle selected text through 7 common naming conventions with a single shortcut. Ideal for renaming variables, constants, CSS classes...
+
+vendor: 程小虎
+downloads: 0
+pricingModel: FREE
+xmlId: com.cxh.camelcase</description>
+      <pubDate>Tue, 11 Aug 2026 15:15:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33485-camel-case-converter</guid>
+      <dc:date>2026-08-11T15:15:10Z</dc:date>
+    </item>
+    <item>
+      <title>HelixLang - Tue Aug 11 07:19:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33479-helixlang</link>
+      <description>Language Server Protocol support for the HelixLang DSL (.helix). Diagnostics, hover, completion, navigation, structure, semantic highlighting, inlay hints...
+
+vendor: Sean Hank
+downloads: 0
+pricingModel: FREE
+xmlId: com.helixlang.ide</description>
+      <pubDate>Tue, 11 Aug 2026 07:19:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33479-helixlang</guid>
+      <dc:date>2026-08-11T07:19:07Z</dc:date>
+    </item>
+    <item>
+      <title>OAuthLint - Mon Aug 10 20:40:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33469-oauthlint</link>
+      <description>OAuthLint catches OAuth, OIDC, JWT, session, cookie, and CORS anti-patterns that AI coding tools frequently produce, and surfaces them as native inline annotations...
+
+vendor: Auspeo
+downloads: 0
+pricingModel: FREE
+xmlId: dev.oauthlint</description>
+      <pubDate>Mon, 10 Aug 2026 20:40:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33469-oauthlint</guid>
+      <dc:date>2026-08-10T20:40:00Z</dc:date>
+    </item>
+    <item>
+      <title>ZPL - Tue Aug 11 03:21:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33477-zpl</link>
+      <description>Syntax highlighting and a live, side-by-side rendered preview for Zebra Programming Language (ZPL) label templates — similar to the Markdown split editor. .zpl file...
+
+vendor: ZPL
+downloads: 0
+pricingModel: FREE
+xmlId: com.time-complexity.zpl</description>
+      <pubDate>Tue, 11 Aug 2026 03:21:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33477-zpl</guid>
+      <dc:date>2026-08-11T03:21:30Z</dc:date>
+    </item>
+    <item>
+      <title>direnv Everywhere - Tue Aug 11 18:55:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33482-direnv-everywhere</link>
+      <description>Your .envrc environment, everywhere the IDE runs something. You use direnv. Your JDK comes from Nix, your toolchain from Devbox, your credentials from a .env file the...
+
+vendor: Areg Iazychian
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.salatmaster.direnv</description>
+      <pubDate>Tue, 11 Aug 2026 18:55:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33482-direnv-everywhere</guid>
+      <dc:date>2026-08-11T18:55:24Z</dc:date>
+    </item>
+    <item>
+      <title>Sage for Copilot Chat - Tue Aug 11 10:25:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33481-sage-for-copilot-chat</link>
+      <description>Analyse GitHub Copilot chat sessions for mistakes and update instructions files; also export sessions to Markdown format.
+
+vendor: Sudipta Dutta
+downloads: 0
+pricingModel: FREE
+xmlId: com.sage.plugin</description>
+      <pubDate>Tue, 11 Aug 2026 10:25:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33481-sage-for-copilot-chat</guid>
+      <dc:date>2026-08-11T10:25:37Z</dc:date>
+    </item>
+    <item>
+      <title>Quarkdown - Tue Aug 11 11:22:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33459-quarkdown</link>
+      <description>Quarkdown for IntelliJ "Quarkdown language support for JetBrains IntelliJ Platform." An IntelliJ IDEA plugin that provides comprehensive support for Quarkdown language...
+
+vendor: CarmJos
 downloads: 1
 pricingModel: FREE
-xmlId: io.github.tombiddulph.referenceswitcher</description>
-      <pubDate>Mon, 10 Aug 2026 16:24:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33455-reference-switcher</guid>
-      <dc:date>2026-08-10T16:24:27Z</dc:date>
+xmlId: cc.carm.plugin.quarkdown</description>
+      <pubDate>Tue, 11 Aug 2026 11:22:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33459-quarkdown</guid>
+      <dc:date>2026-08-11T11:22:11Z</dc:date>
     </item>
     <item>
-      <title>ServiceHop - Sun Aug 09 14:32:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33447-servicehop</link>
-      <description>ServiceHop adds bidirectional gRPC source navigation to IntelliJ IDEA. Navigate directly from a generated gRPC client-stub call to the concrete server RPC...
+      <title>NgC SafeEnv - Mon Aug 10 20:35:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33473-ngc-safeenv</link>
+      <description>Stop leaking secrets from .env files NgC SafeEnv by NextGenCode helps developers catch API keys, tokens, and env mismatches before they hit git, chat, or a screen...
 
-vendor: Ayberk Unsalan
-downloads: 3
+vendor: NextGenCode
+downloads: 0
 pricingModel: FREE
-xmlId: dev.servicehop</description>
-      <pubDate>Sun, 09 Aug 2026 14:32:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33447-servicehop</guid>
-      <dc:date>2026-08-09T14:32:45Z</dc:date>
+xmlId: dev.nextgencode.safeenv</description>
+      <pubDate>Mon, 10 Aug 2026 20:35:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33473-ngc-safeenv</guid>
+      <dc:date>2026-08-10T20:35:36Z</dc:date>
     </item>
     <item>
-      <title>Droid Progress Bar - Sun Aug 09 12:32:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33446-droid-progress-bar</link>
-      <description>Animated Droid progress indicators for IntelliJ-based IDEs. Replaces supported horizontal progress bars with an animated character while retaining progress values...
+      <title>GitHub Actions Viewer - Tue Aug 11 00:21:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33476-github-actions-viewer</link>
+      <description>Watch GitHub Actions workflow runs for the current project without leaving the IDE. The tool window drills down from workflow to run to job to step, and keeps itself...
 
-vendor: Arda Kazancı
-downloads: 3
+vendor: liuyuhua69
+downloads: 0
 pricingModel: FREE
-xmlId: dev.ardakazanci.droidprogress</description>
-      <pubDate>Sun, 09 Aug 2026 12:32:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33446-droid-progress-bar</guid>
-      <dc:date>2026-08-09T12:32:21Z</dc:date>
+xmlId: com.github.ghactions.viewer</description>
+      <pubDate>Tue, 11 Aug 2026 00:21:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33476-github-actions-viewer</guid>
+      <dc:date>2026-08-11T00:21:36Z</dc:date>
     </item>
     <item>
-      <title>Transvoy - Sun Aug 09 09:21:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33296-transvoy</link>
-      <description>Transvoy — See, and understand. Break language barriers — understand any SDK or dependency instantly. Transvoy translates code comments right inside your IDE — into...
+      <title>Tab Groups - Tue Aug 11 03:39:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33395-tab-groups</link>
+      <description>Save open editor files as named, colored, persistent work groups and restore a coding context when you return to it. Manage groups from a compact Tool Window...
 
-vendor: 1Step Studio
-downloads: 5
-pricingModel: FREE
-xmlId: studio.1step.transvoy</description>
-      <pubDate>Sun, 09 Aug 2026 09:21:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33296-transvoy</guid>
-      <dc:date>2026-08-09T09:21:40Z</dc:date>
-    </item>
-    <item>
-      <title>PinGuard - Mon Aug 10 20:19:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33444-pinguard</link>
-      <description>Keeps pinned editor tabs pinned. Pinning a tab says "I want to keep this open". The tab's own close button respects that, but Close (Cmd+W / Ctrl+F4), Close All and...
-
-vendor: Florin Asăvoaie
-downloads: 3
-pricingModel: FREE
-xmlId: tech.florin.pinguard</description>
-      <pubDate>Mon, 10 Aug 2026 20:19:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33444-pinguard</guid>
-      <dc:date>2026-08-10T20:19:10Z</dc:date>
-    </item>
-    <item>
-      <title>quick-coding - Sun Aug 09 06:52:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33439-quick-coding</link>
-      <description>quick-coding — Generate MyBatis Code from Database Tables Right-click one or more database tables in the Database tool window to quickly generate a complete set of...
-
-vendor: donggua
+vendor: Idea Tab Manager
 downloads: 1
 pricingModel: FREE
-xmlId: com.donggua.table.fields.info</description>
-      <pubDate>Sun, 09 Aug 2026 06:52:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33439-quick-coding</guid>
-      <dc:date>2026-08-09T06:52:32Z</dc:date>
+xmlId: com.whalesea.ideatabmanager</description>
+      <pubDate>Tue, 11 Aug 2026 03:39:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33395-tab-groups</guid>
+      <dc:date>2026-08-11T03:39:28Z</dc:date>
     </item>
     <item>
-      <title>CursorSwitch - Sun Aug 09 01:41:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33435-cursorswitch</link>
-      <description>CursorSwitch is a JetBrains IDE plugin that enables seamless switching between IDE and Cursor while maintaining precise cursor position. Key Features Open files in...
+      <title>Wave Code Chat - Mon Aug 10 13:18:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33466-wave-code-chat</link>
+      <description>Wave Code Chat — an enterprise-grade AI coding assistant for JetBrains IDEs.
 
-vendor: CursorSwitch
-downloads: 5
+vendor: Wave 代码智聊
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.Mango.cursorswitch</description>
-      <pubDate>Sun, 09 Aug 2026 01:41:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33435-cursorswitch</guid>
-      <dc:date>2026-08-09T01:41:09Z</dc:date>
+xmlId: com.wave.jetbrains</description>
+      <pubDate>Mon, 10 Aug 2026 13:18:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33466-wave-code-chat</guid>
+      <dc:date>2026-08-10T13:18:29Z</dc:date>
     </item>
   </channel>
 </rss>
