@@ -4,11 +4,11 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Wed, 12 Aug 2026 16:57:52 GMT</pubDate>
+    <pubDate>Wed, 12 Aug 2026 20:44:13 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2026-08-12T16:57:52Z</dc:date>
+    <dc:date>2026-08-12T20:44:13Z</dc:date>
     <item>
-      <title>FAILED -- Wed Aug 12 16:57:52 UTC 2026</title>
+      <title>FAILED -- Wed Aug 12 20:44:13 UTC 2026</title>
       <description>FAILED
 
 &lt;pre&gt;Checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
@@ -83,28 +83,13 @@ java.net.ConnectException: Connection timed out
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:40)
 
 Checker class biz.lermitage.sub.service.checker.impl.VeraCryptChecker failed, ignoring
-java.io.IOException: request not processed by peer
-	at java.net.http/jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:970)
-	at java.net.http/jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133)
-	at org.jsoup.helper.HttpClientExecutor.execute(HttpClientExecutor.java:90)
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:927)
-	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:870)
-	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:365)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl.fetchHtml(ScrapperImpl.kt:40)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:359)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:190)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:158)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor$1.doWithRetry(RetryOperationsInterceptor.java:114)
-	at org.springframework.retry.support.RetryTemplate.doExecute(RetryTemplate.java:367)
-	at org.springframework.retry.support.RetryTemplate.execute(RetryTemplate.java:256)
-	at org.springframework.retry.interceptor.RetryOperationsInterceptor.invoke(RetryOperationsInterceptor.java:135)
-	at org.springframework.retry.annotation.AnnotationAwareRetryOperationsInterceptor.invoke(AnnotationAwareRetryOperationsInterceptor.java:175)
-	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
-	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:719)
-	at biz.lermitage.sub.service.scrapper.impl.ScrapperImpl$$SpringCGLIB.fetchHtml(&lt;generated&gt;)
-	at biz.lermitage.sub.service.checker.impl.VeraCryptChecker.check(VeraCryptChecker.kt:21)
+java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 2
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at biz.lermitage.sub.service.checker.impl.VeraCryptChecker.check(VeraCryptChecker.kt:22)
 	at biz.lermitage.sub.Application.run(Application.kt:58)
 	at org.springframework.boot.SpringApplication.lambda$callRunner$1(SpringApplication.java:792)
 	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:82)
@@ -131,49 +116,11 @@ java.io.IOException: request not processed by peer
 	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:106)
 	at org.springframework.boot.loader.launch.Launcher.launch(Launcher.java:64)
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:40)
-Caused by: java.io.IOException: request not processed by peer
-	at java.net.http/jdk.internal.net.http.Stream.handleReset(Stream.java:753)
-	at java.net.http/jdk.internal.net.http.Stream.incoming_reset(Stream.java:713)
-	at java.net.http/jdk.internal.net.http.Stream.otherFrame(Stream.java:577)
-	at java.net.http/jdk.internal.net.http.Stream.incoming(Stream.java:570)
-	at java.net.http/jdk.internal.net.http.Http2Connection.processFrame(Http2Connection.java:1055)
-	at java.net.http/jdk.internal.net.http.frame.FramesDecoder.decode(FramesDecoder.java:155)
-	at java.net.http/jdk.internal.net.http.Http2Connection$FramesController.processReceivedData(Http2Connection.java:311)
-	at java.net.http/jdk.internal.net.http.Http2Connection.asyncReceive(Http2Connection.java:863)
-	at java.net.http/jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.processQueue(Http2Connection.java:1822)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:182)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
-	at java.net.http/jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.runOrSchedule(Http2Connection.java:1839)
-	at java.net.http/jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.onNext(Http2Connection.java:1866)
-	at java.net.http/jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.onNext(Http2Connection.java:1800)
-	at java.net.http/jdk.internal.net.http.common.SSLTube$DelegateWrapper.onNext(SSLTube.java:210)
-	at java.net.http/jdk.internal.net.http.common.SSLTube$SSLSubscriberWrapper.onNext(SSLTube.java:492)
-	at java.net.http/jdk.internal.net.http.common.SSLTube$SSLSubscriberWrapper.onNext(SSLTube.java:295)
-	at java.net.http/jdk.internal.net.http.common.SubscriberWrapper$DownstreamPusher.run1(SubscriberWrapper.java:316)
-	at java.net.http/jdk.internal.net.http.common.SubscriberWrapper$DownstreamPusher.run(SubscriberWrapper.java:259)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:182)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
-	at java.net.http/jdk.internal.net.http.common.SubscriberWrapper.outgoing(SubscriberWrapper.java:232)
-	at java.net.http/jdk.internal.net.http.common.SubscriberWrapper.outgoing(SubscriberWrapper.java:198)
-	at java.net.http/jdk.internal.net.http.common.SSLFlowDelegate$Reader.processData(SSLFlowDelegate.java:470)
-	at java.net.http/jdk.internal.net.http.common.SSLFlowDelegate$Reader$ReaderDownstreamPusher.run(SSLFlowDelegate.java:283)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:182)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149)
-	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
 
 &lt;/pre&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 16:57:52 GMT</pubDate>
+      <pubDate>Wed, 12 Aug 2026 20:44:13 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2026-08-12T16:57:52Z</dc:date>
+      <dc:date>2026-08-12T20:44:13Z</dc:date>
     </item>
   </channel>
 </rss>
