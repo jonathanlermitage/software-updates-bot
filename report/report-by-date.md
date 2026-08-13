@@ -1,10 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
+|![logo](../media/logo/go.png) Go|go1.26.6|[golang.org](https://golang.org/dl/)|Thu Aug 13 20:29:09 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.11|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.6|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.5 to 19.9.0 ~ 2026-08-10|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 11 01:05:13 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.1 (262.9437.185) ~ 2026-08-10|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Aug 10 16:54:38 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.7.0|[gradle.org](https://gradle.org/releases)|Fri Aug 07 00:49:45 UTC 2026|
@@ -31,7 +32,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 17:19:10 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2.1 (262.9437.22) ~ 2026-07-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jul 24 13:27:30 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
-|![logo](../media/logo/go.png) Go|go1.26.5|[golang.org](https://golang.org/dl/)|Tue Jul 07 21:13:01 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.0.RELEASE|[start.spring.io](https://start.spring.io)|Thu Jun 11 00:32:05 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
