@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>VaultLink - Thu Aug 13 02:32:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33514-vaultlink</link>
+      <description>Detects a HashiCorp Vault mount/secret encoded in the project name, authenticates via OIDC, LDAP, Token, or Userpass, and exposes the secret's keys as environment...
+
+vendor: Ruska Roma
+downloads: 0
+pricingModel: FREE
+xmlId: dev.vaultlink</description>
+      <pubDate>Thu, 13 Aug 2026 02:32:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33514-vaultlink</guid>
+      <dc:date>2026-08-13T02:32:45Z</dc:date>
+    </item>
+    <item>
       <title>Reclazz - Thu Aug 13 12:27:29 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33498-reclazz</link>
       <description>Free Hot-Reload for Spring &amp;amp; Java Applications Reclazz eliminates server restarts during development. Edit your Java code, build, and see changes applied instantly...
@@ -251,19 +264,6 @@ xmlId: com.luoshiming.idea.inlayhints</description>
       <pubDate>Wed, 12 Aug 2026 02:12:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33493-php-inlay-hints</guid>
       <dc:date>2026-08-12T02:12:13Z</dc:date>
-    </item>
-    <item>
-      <title>XOOPS Support - Thu Aug 13 05:26:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33478-xoops-support</link>
-      <description>XOOPS Support — PhpStorm / IntelliJ helper for XOOPS 2.5 / 2.7 / 4.0 module and core work. 1.0.0 Alpha 2 — on-demand overview scan; inspections under top-level XOOPS...
-
-vendor: XOOPS
-downloads: 6
-pricingModel: FREE
-xmlId: org.xoops.plugin.support</description>
-      <pubDate>Thu, 13 Aug 2026 05:26:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33478-xoops-support</guid>
-      <dc:date>2026-08-13T05:26:35Z</dc:date>
     </item>
   </channel>
 </rss>
