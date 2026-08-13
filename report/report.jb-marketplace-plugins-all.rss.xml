@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Reclazz - Thu Aug 13 12:27:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33498-reclazz</link>
+      <description>Free Hot-Reload for Spring &amp;amp; Java Applications Reclazz eliminates server restarts during development. Edit your Java code, build, and see changes applied instantly...
+
+vendor: Onur Kat
+downloads: 0
+pricingModel: FREE
+xmlId: com.onurkat.reclazz</description>
+      <pubDate>Thu, 13 Aug 2026 12:27:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33498-reclazz</guid>
+      <dc:date>2026-08-13T12:27:29Z</dc:date>
+    </item>
+    <item>
+      <title>Slow Query Monitor - Thu Aug 13 06:31:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33517-slow-query-monitor</link>
+      <description>Slow Query Monitor — Automatically monitors slow SQL output in IDEA console, provides SQL normalization, EXPLAIN analysis, and AI optimization suggestions.Supported...
+
+vendor: ZhangXike
+downloads: 0
+pricingModel: FREE
+xmlId: com.logmonitor.plugin</description>
+      <pubDate>Thu, 13 Aug 2026 06:31:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33517-slow-query-monitor</guid>
+      <dc:date>2026-08-13T06:31:28Z</dc:date>
+    </item>
+    <item>
+      <title>Comment Doc Links - Thu Aug 13 06:21:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33515-comment-doc-links</link>
+      <description>Navigate between source comments and markdown documentation with two-way links. (getanchor.io).
+
+vendor: manish-sharma-getanchorio
+downloads: 0
+pricingModel: FREE
+xmlId: com.anchor.commentdoclinks</description>
+      <pubDate>Thu, 13 Aug 2026 06:21:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33515-comment-doc-links</guid>
+      <dc:date>2026-08-13T06:21:56Z</dc:date>
+    </item>
+    <item>
+      <title>Hytale Project Setup - Thu Aug 13 08:56:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33516-hytale-project-setup</link>
+      <description>Ready-to-run Hytale mod projects, straight from the project wizard. No local Hytale install required Shadow JAR packaging preconfigured Dev server built in, runs from...
+
+vendor: Salttdev
+downloads: 0
+pricingModel: FREE
+xmlId: dev.saltt.hytale-project-setup</description>
+      <pubDate>Thu, 13 Aug 2026 08:56:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33516-hytale-project-setup</guid>
+      <dc:date>2026-08-13T08:56:14Z</dc:date>
+    </item>
+    <item>
+      <title>Columns - Parquet and Avro Editor - Wed Aug 12 20:01:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33512-columns--parquet-and-avro-editor</link>
+      <description>Open a Parquet file and see what is actually in it. Columns reads Apache Parquet and Apache Avro files inside your IDE, without a cluster, without a Python environment...
+
+vendor: Zuhaib
+downloads: 0
+pricingModel: PAID
+xmlId: com.zuhaibzahid.columns</description>
+      <pubDate>Wed, 12 Aug 2026 20:01:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33512-columns--parquet-and-avro-editor</guid>
+      <dc:date>2026-08-12T20:01:14Z</dc:date>
+    </item>
+    <item>
       <title>MayaSender - Wed Aug 12 09:05:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33499-mayasender</link>
       <description>Send Python / MEL code or files from PyCharm directly to Autodesk Maya for execution. Keyboard Shortcuts: Alt + A — Send entire file to Maya Alt + S — Send selected...
@@ -84,7 +149,7 @@ xmlId: io.genai.githooks</description>
       <dc:date>2026-08-12T12:01:22Z</dc:date>
     </item>
     <item>
-      <title>OHPM Source Dependency - Wed Aug 12 13:52:56 UTC 2026</title>
+      <title>OHPM Source Dependency - Thu Aug 13 12:49:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33504-ohpm-source-dependency</link>
       <description>English Debug OHPM dependencies from local HAR source code in DevEco Studio. The plugin scans direct dependencies, switches selected packages to local HAR modules...
 
@@ -92,9 +157,9 @@ vendor: hanMeiMei
 downloads: 0
 pricingModel: FREE
 xmlId: com.hanmeimei.sourcedependency</description>
-      <pubDate>Wed, 12 Aug 2026 13:52:56 GMT</pubDate>
+      <pubDate>Thu, 13 Aug 2026 12:49:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33504-ohpm-source-dependency</guid>
-      <dc:date>2026-08-12T13:52:56Z</dc:date>
+      <dc:date>2026-08-13T12:49:53Z</dc:date>
     </item>
     <item>
       <title>Test Scaffold Companion - Wed Aug 12 13:05:44 UTC 2026</title>
@@ -199,71 +264,6 @@ xmlId: org.xoops.plugin.support</description>
       <pubDate>Thu, 13 Aug 2026 05:26:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33478-xoops-support</guid>
       <dc:date>2026-08-13T05:26:35Z</dc:date>
-    </item>
-    <item>
-      <title>Cursorial Designer - Tue Aug 11 21:33:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32860-cursorial-designer</link>
-      <description>XAML editor and live visual designer for the Cursorial terminal UI framework. Live preview — a split text/preview editor renders your XAML as a real character-cell...
-
-vendor: Mike Strobel
-downloads: 2
-pricingModel: FREE
-xmlId: dev.cursorial.designer</description>
-      <pubDate>Tue, 11 Aug 2026 21:33:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32860-cursorial-designer</guid>
-      <dc:date>2026-08-11T21:33:26Z</dc:date>
-    </item>
-    <item>
-      <title>Curly Embedded Tools - Tue Aug 11 22:13:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33423-curly-embedded-tools</link>
-      <description>Bare-metal ARMv8 (AArch64) embedded development tooling. Adds custom language support for the three file kinds a QEMU + gdb-multiarch workflow revolves around: ARMv8...
-
-vendor: AsulconS
-downloads: 7
-pricingModel: FREE
-xmlId: com.asulcons.Curly-Embedded-Tools</description>
-      <pubDate>Tue, 11 Aug 2026 22:13:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33423-curly-embedded-tools</guid>
-      <dc:date>2026-08-11T22:13:49Z</dc:date>
-    </item>
-    <item>
-      <title>MarkLogic Pulse - Tue Aug 11 16:45:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33387-marklogic-pulse</link>
-      <description>Develop, run, and debug MarkLogic in IntelliJ IDEA — Community and Ultimate. MarkLogic Pulse is a complete MarkLogic development experience in the IDE: language...
-
-vendor: ML Pulse
-downloads: 5
-pricingModel: FREE
-xmlId: com.marklogictools.pulse</description>
-      <pubDate>Tue, 11 Aug 2026 16:45:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33387-marklogic-pulse</guid>
-      <dc:date>2026-08-11T16:45:09Z</dc:date>
-    </item>
-    <item>
-      <title>Cool Git Commit Assistant - Thu Aug 13 04:57:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33492-cool-git-commit-assistant</link>
-      <description>Git Commit Assistant creates consistent, reviewable Git commit messages through a structured form or a configured large language model. 插件界面提供中文操作名称，支持本地反向解析、多个 LLM...
-
-vendor: Cool Studio
-downloads: 24
-pricingModel: FREE
-xmlId: tech.coolstudio.gitcommit</description>
-      <pubDate>Thu, 13 Aug 2026 04:57:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33492-cool-git-commit-assistant</guid>
-      <dc:date>2026-08-13T04:57:58Z</dc:date>
-    </item>
-    <item>
-      <title>git review workflow - Wed Aug 12 01:58:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33490-git-review-workflow</link>
-      <description>Walk a PR in order, then edit and run it — not just read the diff. Full parity with the VS Code extension: start, walk/step/whole, finish, save, abort, and...
-
-vendor: Ezequiel Villordo
-downloads: 13
-pricingModel: FREE
-xmlId: com.ezevillo.gitreview</description>
-      <pubDate>Wed, 12 Aug 2026 01:58:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33490-git-review-workflow</guid>
-      <dc:date>2026-08-12T01:58:18Z</dc:date>
     </item>
   </channel>
 </rss>
