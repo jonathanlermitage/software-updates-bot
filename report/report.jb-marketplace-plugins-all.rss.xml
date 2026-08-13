@@ -6,12 +6,142 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MayaSender - Wed Aug 12 09:05:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33499-mayasender</link>
+      <description>Send Python / MEL code or files from PyCharm directly to Autodesk Maya for execution. Keyboard Shortcuts: Alt + A — Send entire file to Maya Alt + S — Send selected...
+
+vendor: Dingjin Hua
+downloads: 0
+pricingModel: FREE
+xmlId: com.mayasender</description>
+      <pubDate>Wed, 12 Aug 2026 09:05:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33499-mayasender</guid>
+      <dc:date>2026-08-12T09:05:33Z</dc:date>
+    </item>
+    <item>
+      <title>Parquet Lens: Parquet, Arrow &amp; Feather Dataset Viewer - Wed Aug 12 18:25:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33510-parquet-lens-parquet-arrow--feather-dataset-viewer</link>
+      <description>Fast viewer for the whole columnar dataset family: Parquet, Arrow IPC and Feather v2. Opens multi-gigabyte files instantly - only the file's own metadata is read up...
+
+vendor: Twilight Ventures
+downloads: 0
+pricingModel: FREE
+xmlId: com.twilightventures.parquetlens</description>
+      <pubDate>Wed, 12 Aug 2026 18:25:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33510-parquet-lens-parquet-arrow--feather-dataset-viewer</guid>
+      <dc:date>2026-08-12T18:25:07Z</dc:date>
+    </item>
+    <item>
+      <title>WAAAGH - Wed Aug 12 09:37:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33496-waaagh</link>
+      <description>WAAAGH is a collection of IntelliJ IDEA plugins, generated end to end by large language models — no hand-written code, no human code review. Humans only provide ideas...
+
+vendor: Waaagh!!!
+downloads: 0
+pricingModel: FREE
+xmlId: com.waaagh</description>
+      <pubDate>Wed, 12 Aug 2026 09:37:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33496-waaagh</guid>
+      <dc:date>2026-08-12T09:37:57Z</dc:date>
+    </item>
+    <item>
+      <title>Pulse Monitor - Wed Aug 12 11:29:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33418-pulse-monitor</link>
+      <description>PulseMonitor inspects and mocks the HTTP/HTTPS traffic of a running debuggable Android app, from inside the IDE, with no SDK, library or code change in the app...
+
+vendor: Pankaj Bohra
+downloads: 2
+pricingModel: FREE
+xmlId: dev.pulsemonitor.plugin</description>
+      <pubDate>Wed, 12 Aug 2026 11:29:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33418-pulse-monitor</guid>
+      <dc:date>2026-08-12T11:29:06Z</dc:date>
+    </item>
+    <item>
+      <title>CodeAI Reviewer - Wed Aug 12 20:54:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33497-codeai-reviewer</link>
+      <description>CodeAI Reviewer is an IntelliJ IDEA plugin that analyzes uncommitted Git changes before they are committed. It securely sends filtered, bounded code context to...
+
+vendor: MathLab
+downloads: 0
+pricingModel: FREE
+xmlId: com.codeai.reviewer</description>
+      <pubDate>Wed, 12 Aug 2026 20:54:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33497-codeai-reviewer</guid>
+      <dc:date>2026-08-12T20:54:19Z</dc:date>
+    </item>
+    <item>
+      <title>Git Hooks - Wed Aug 12 12:01:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33501-git-hooks</link>
+      <description>Understand and test your git hooks — without making a commit. Git hooks (commit-msg, pre-commit, pre-push…) are just scripts, so no IDE surfaces them. This plugin...
+
+vendor: GenAI.io.vn
+downloads: 0
+pricingModel: FREE
+xmlId: io.genai.githooks</description>
+      <pubDate>Wed, 12 Aug 2026 12:01:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33501-git-hooks</guid>
+      <dc:date>2026-08-12T12:01:22Z</dc:date>
+    </item>
+    <item>
+      <title>OHPM Source Dependency - Wed Aug 12 13:52:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33504-ohpm-source-dependency</link>
+      <description>English Debug OHPM dependencies from local HAR source code in DevEco Studio. The plugin scans direct dependencies, switches selected packages to local HAR modules...
+
+vendor: hanMeiMei
+downloads: 0
+pricingModel: FREE
+xmlId: com.hanmeimei.sourcedependency</description>
+      <pubDate>Wed, 12 Aug 2026 13:52:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33504-ohpm-source-dependency</guid>
+      <dc:date>2026-08-12T13:52:56Z</dc:date>
+    </item>
+    <item>
+      <title>Test Scaffold Companion - Wed Aug 12 13:05:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33503-test-scaffold-companion</link>
+      <description>Generates a real, compiling JUnit test skeleton for a Java or Kotlin class -- one empty test method per public method, framework already detected from your project's...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.testscaffoldcompanion</description>
+      <pubDate>Wed, 12 Aug 2026 13:05:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33503-test-scaffold-companion</guid>
+      <dc:date>2026-08-12T13:05:44Z</dc:date>
+    </item>
+    <item>
+      <title>BundleSafe - Wed Aug 12 17:38:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33509-bundlesafe</link>
+      <description>Edit one Java resource-bundle key across every locale with an exact preview and a transactional write. BundleSafe finds sibling .properties locale files, displays the...
+
+vendor: Qpalzamty
+downloads: 0
+pricingModel: FREE
+xmlId: com.bundlesafe</description>
+      <pubDate>Wed, 12 Aug 2026 17:38:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33509-bundlesafe</guid>
+      <dc:date>2026-08-12T17:38:16Z</dc:date>
+    </item>
+    <item>
+      <title>Go Constant and Parameter Hints - Thu Aug 13 02:25:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33502-go-constant-and-parameter-hints</link>
+      <description>Shows evaluated constant types and values, and parameter names and types at Go call sites.
+
+vendor: Go Inlay Hints
+downloads: 0
+pricingModel: FREE
+xmlId: com.luoshiming.idea.go.hint</description>
+      <pubDate>Thu, 13 Aug 2026 02:25:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33502-go-constant-and-parameter-hints</guid>
+      <dc:date>2026-08-13T02:25:04Z</dc:date>
+    </item>
+    <item>
       <title>MyBatis-Plus Reload - Wed Aug 12 06:52:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33495-mybatis-plus-reload</link>
       <description>JRebel integration for MyBatis-Plus Mapper XML hot reload. This plugin bundles the jrebel-mybatisplus runtime extension and automatically injects it into JRebel via...
 
 vendor: LayJustDoIt
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.layjustdoit.jrebel.mybatisplus</description>
       <pubDate>Wed, 12 Aug 2026 06:52:52 GMT</pubDate>
@@ -19,17 +149,17 @@ xmlId: io.github.layjustdoit.jrebel.mybatisplus</description>
       <dc:date>2026-08-12T06:52:52Z</dc:date>
     </item>
     <item>
-      <title>Revision Graph - Wed Aug 12 12:02:27 UTC 2026</title>
+      <title>Revision Graph - Thu Aug 13 07:10:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33494-revision-graph</link>
       <description>Visualize Git branches, tags, merges, and repository topology as an interactive revision graph inside JetBrains IDEs. Revision Graph helps you understand how...
 
 vendor: Noodles Studio
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: io.github.noodles_studio.revisiongraph</description>
-      <pubDate>Wed, 12 Aug 2026 12:02:27 GMT</pubDate>
+      <pubDate>Thu, 13 Aug 2026 07:10:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33494-revision-graph</guid>
-      <dc:date>2026-08-12T12:02:27Z</dc:date>
+      <dc:date>2026-08-13T07:10:06Z</dc:date>
     </item>
     <item>
       <title>ProjectEnvDoctor - Wed Aug 12 06:54:52 UTC 2026</title>
@@ -37,7 +167,7 @@ xmlId: io.github.noodles_studio.revisiongraph</description>
       <description>ProjectEnvDoctor is an IntelliJ IDEA plugin for one-click project environment diagnosis. It checks JDK configuration, build tool setup, file encoding, and Git ignore...
 
 vendor: AIyisuifeng
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.doctor.ProjectEnvDoctor</description>
       <pubDate>Wed, 12 Aug 2026 06:54:52 GMT</pubDate>
@@ -50,7 +180,7 @@ xmlId: com.doctor.ProjectEnvDoctor</description>
       <description>Show resolved PHP constant values as inline hints in PhpStorm.
 
 vendor: PHP Inlay Hints
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.luoshiming.idea.inlayhints</description>
       <pubDate>Wed, 12 Aug 2026 02:12:13 GMT</pubDate>
@@ -58,17 +188,17 @@ xmlId: com.luoshiming.idea.inlayhints</description>
       <dc:date>2026-08-12T02:12:13Z</dc:date>
     </item>
     <item>
-      <title>XOOPS Support - Tue Aug 11 06:17:51 UTC 2026</title>
+      <title>XOOPS Support - Thu Aug 13 05:26:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33478-xoops-support</link>
       <description>XOOPS Support — PhpStorm / IntelliJ helper for XOOPS 2.5 / 2.7 / 4.0 module and core work. 1.0.0 Alpha 2 — on-demand overview scan; inspections under top-level XOOPS...
 
 vendor: XOOPS
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: org.xoops.plugin.support</description>
-      <pubDate>Tue, 11 Aug 2026 06:17:51 GMT</pubDate>
+      <pubDate>Thu, 13 Aug 2026 05:26:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33478-xoops-support</guid>
-      <dc:date>2026-08-11T06:17:51Z</dc:date>
+      <dc:date>2026-08-13T05:26:35Z</dc:date>
     </item>
     <item>
       <title>Cursorial Designer - Tue Aug 11 21:33:26 UTC 2026</title>
@@ -76,7 +206,7 @@ xmlId: org.xoops.plugin.support</description>
       <description>XAML editor and live visual designer for the Cursorial terminal UI framework. Live preview — a split text/preview editor renders your XAML as a real character-cell...
 
 vendor: Mike Strobel
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.cursorial.designer</description>
       <pubDate>Tue, 11 Aug 2026 21:33:26 GMT</pubDate>
@@ -89,7 +219,7 @@ xmlId: dev.cursorial.designer</description>
       <description>Bare-metal ARMv8 (AArch64) embedded development tooling. Adds custom language support for the three file kinds a QEMU + gdb-multiarch workflow revolves around: ARMv8...
 
 vendor: AsulconS
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: com.asulcons.Curly-Embedded-Tools</description>
       <pubDate>Tue, 11 Aug 2026 22:13:49 GMT</pubDate>
@@ -102,7 +232,7 @@ xmlId: com.asulcons.Curly-Embedded-Tools</description>
       <description>Develop, run, and debug MarkLogic in IntelliJ IDEA — Community and Ultimate. MarkLogic Pulse is a complete MarkLogic development experience in the IDE: language...
 
 vendor: ML Pulse
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.marklogictools.pulse</description>
       <pubDate>Tue, 11 Aug 2026 16:45:09 GMT</pubDate>
@@ -115,7 +245,7 @@ xmlId: com.marklogictools.pulse</description>
       <description>Git Commit Assistant creates consistent, reviewable Git commit messages through a structured form or a configured large language model. 插件界面提供中文操作名称，支持本地反向解析、多个 LLM...
 
 vendor: Cool Studio
-downloads: 0
+downloads: 24
 pricingModel: FREE
 xmlId: tech.coolstudio.gitcommit</description>
       <pubDate>Thu, 13 Aug 2026 04:57:58 GMT</pubDate>
@@ -128,142 +258,12 @@ xmlId: tech.coolstudio.gitcommit</description>
       <description>Walk a PR in order, then edit and run it — not just read the diff. Full parity with the VS Code extension: start, walk/step/whole, finish, save, abort, and...
 
 vendor: Ezequiel Villordo
-downloads: 0
+downloads: 13
 pricingModel: FREE
 xmlId: com.ezevillo.gitreview</description>
       <pubDate>Wed, 12 Aug 2026 01:58:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33490-git-review-workflow</guid>
       <dc:date>2026-08-12T01:58:18Z</dc:date>
-    </item>
-    <item>
-      <title>Local Keep AI - Mon Aug 10 19:32:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33470-local-keep-ai</link>
-      <description>Local-first AI coding assistant for JetBrains IDEs.1,000+ free models — no API key needed for local models. Features: Explain / Refactor / Generate Tests from...
-
-vendor: Local Keep AI
-downloads: 1
-pricingModel: FREE
-xmlId: ai.localkeep.jetbrains</description>
-      <pubDate>Mon, 10 Aug 2026 19:32:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33470-local-keep-ai</guid>
-      <dc:date>2026-08-10T19:32:03Z</dc:date>
-    </item>
-    <item>
-      <title>UUID, ULID &amp; NanoID Toolkit - Tue Aug 11 18:43:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33488-uuid-ulid--nanoid-toolkit</link>
-      <description>UUID, ULID &amp;amp; NanoID Toolkit Generate and inspect the identifiers you actually use in tests and APIs — no browser, no external tool, fully offline. Generate: UUID...
-
-vendor: VadimToptunov
-downloads: 4
-pricingModel: FREE
-xmlId: io.github.vadimtoptunov.uuid-toolkit</description>
-      <pubDate>Tue, 11 Aug 2026 18:43:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33488-uuid-ulid--nanoid-toolkit</guid>
-      <dc:date>2026-08-11T18:43:08Z</dc:date>
-    </item>
-    <item>
-      <title>Lumen - Mon Aug 10 21:34:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33474-lumen</link>
-      <description>Rider (IntelliJ Platform) plugin that shows test coverage in the editor andin a dedicated panel — a much simpler (and free) alternative to dotCover,without...
-
-vendor: Charles Alves
-downloads: 2
-pricingModel: FREE
-xmlId: com.ceutenant.lumen</description>
-      <pubDate>Mon, 10 Aug 2026 21:34:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33474-lumen</guid>
-      <dc:date>2026-08-10T21:34:07Z</dc:date>
-    </item>
-    <item>
-      <title>Bulk Merge Requests - Tue Aug 11 19:09:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33450-bulk-merge-requests</link>
-      <description>Creates merge requests for all open projects in a single dialog. Pick the source and target branch per repository, following the layout of the IDE's own Push dialog...
-
-vendor: Brielmayer Consulting GmbH
-downloads: 5
-pricingModel: FREE
-xmlId: ch.brielmayer.bulkmergerequest</description>
-      <pubDate>Tue, 11 Aug 2026 19:09:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33450-bulk-merge-requests</guid>
-      <dc:date>2026-08-11T19:09:41Z</dc:date>
-    </item>
-    <item>
-      <title>GitHub Toolbar Button - Wed Aug 12 10:36:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33486-github-toolbar-button</link>
-      <description>Adds a button to the main toolbar that opens the current project's GitHub repository page in your default browser. The button is present in every project. When the...
-
-vendor: Paul Ambrose
-downloads: 3
-pricingModel: FREE
-xmlId: com.pambrose.github-toolbar-button</description>
-      <pubDate>Wed, 12 Aug 2026 10:36:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33486-github-toolbar-button</guid>
-      <dc:date>2026-08-12T10:36:01Z</dc:date>
-    </item>
-    <item>
-      <title>Redline - Rendered HTML Diff - Tue Aug 11 18:18:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33487-redline--rendered-html-diff</link>
-      <description>Review HTML changes as a rendered document, not markup. When both sides of a diff are HTML, Redline adds a viewer that shows the page as the browser renders it, with...
-
-vendor: Bill Hedworth
-downloads: 5
-pricingModel: FREE
-xmlId: com.hedworth.redline</description>
-      <pubDate>Tue, 11 Aug 2026 18:18:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33487-redline--rendered-html-diff</guid>
-      <dc:date>2026-08-11T18:18:32Z</dc:date>
-    </item>
-    <item>
-      <title>Flutter OHOS Environment - Wed Aug 12 08:59:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32445-flutter-ohos-environment</link>
-      <description>Switch between standard Flutter and HarmonyOS (flutter_flutter) SDKs in IntelliJ IDEA and Android Studio. Manage independent PUB_CACHE directories, auto pub get on...
-
-vendor: hainanlxk
-downloads: 11
-pricingModel: FREE
-xmlId: com.hainanlxk.flutter.ohos.env</description>
-      <pubDate>Wed, 12 Aug 2026 08:59:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32445-flutter-ohos-environment</guid>
-      <dc:date>2026-08-12T08:59:27Z</dc:date>
-    </item>
-    <item>
-      <title>Creek Dev Tools - Wed Aug 12 09:01:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32638-creek-dev-tools</link>
-      <description>Creek development toolkit for IntelliJ IDEA and Android Studio: brand setup, ARB sync, remote build, and multi Flutter SDK switching including HarmonyOS...
-
-vendor: hainanlxk
-downloads: 8
-pricingModel: FREE
-xmlId: com.lxk.my_flutter_intl_plugin</description>
-      <pubDate>Wed, 12 Aug 2026 09:01:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32638-creek-dev-tools</guid>
-      <dc:date>2026-08-12T09:01:39Z</dc:date>
-    </item>
-    <item>
-      <title>chao-garden - Tue Aug 11 14:47:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33484-chao-garden</link>
-      <description>Add a few chao to your JetBrains IDE with this plugin! Adds a small chao garden tool window to your JetBrains IDE. Spawn one or more chao, name them, and watch them...
-
-vendor: VCPY
-downloads: 4
-pricingModel: FREE
-xmlId: vcpy.chaogarden</description>
-      <pubDate>Tue, 11 Aug 2026 14:47:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33484-chao-garden</guid>
-      <dc:date>2026-08-11T14:47:17Z</dc:date>
-    </item>
-    <item>
-      <title>Open Code Review - Wed Aug 12 09:47:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33483-open-code-review</link>
-      <description>An IntelliJ IDEA plugin that provides an interactive layer for the open-codereview CLI, enabling pre-commit AI code review with issue lists, inline annotations, merge...
-
-vendor: Open Code Review GUI
-downloads: 0
-pricingModel: FREE
-xmlId: com.ninebot.ai-review</description>
-      <pubDate>Wed, 12 Aug 2026 09:47:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33483-open-code-review</guid>
-      <dc:date>2026-08-12T09:47:15Z</dc:date>
     </item>
   </channel>
 </rss>
