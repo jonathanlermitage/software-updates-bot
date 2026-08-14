@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Marginalis - Fri Aug 14 03:14:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33135-marginalis</link>
+      <description>Margin conversations between you and your AI coding agent — Google Docs comments over live code, built for the review loop, not the keystroke loop. Getting your agent...
+
+vendor: Muhammad Farag
+downloads: 8
+pricingModel: FREE
+xmlId: dev.marginalis.plugin</description>
+      <pubDate>Fri, 14 Aug 2026 03:14:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33135-marginalis</guid>
+      <dc:date>2026-08-14T03:14:47Z</dc:date>
+    </item>
+    <item>
       <title>VaultLink - Thu Aug 13 02:32:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33514-vaultlink</link>
       <description>Detects a HashiCorp Vault mount/secret encoded in the project name, authenticates via OIDC, LDAP, Token, or Userpass, and exposes the secret's keys as environment...
@@ -24,7 +37,7 @@ xmlId: dev.vaultlink</description>
       <description>Hot-Reload for SAP Commerce and Spring, Free and Open Source Edit your Java code, build, and the running JVM picks up the change in about 50ms. No server restart, and...
 
 vendor: Onur Kat
-downloads: 0
+downloads: 17
 pricingModel: FREE
 xmlId: com.onurkat.reclazz</description>
       <pubDate>Thu, 13 Aug 2026 21:18:19 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: dev.gaphunter.testscaffoldcompanion</description>
       <description>Edit one Java resource-bundle key across every locale with an exact preview and a transactional write. BundleSafe finds sibling .properties locale files, displays the...
 
 vendor: Qpalzamty
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.bundlesafe</description>
       <pubDate>Wed, 12 Aug 2026 17:38:16 GMT</pubDate>
@@ -251,19 +264,6 @@ xmlId: com.doctor.ProjectEnvDoctor</description>
       <pubDate>Wed, 12 Aug 2026 06:54:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33480-projectenvdoctor</guid>
       <dc:date>2026-08-12T06:54:52Z</dc:date>
-    </item>
-    <item>
-      <title>PHP Inlay Hints - Wed Aug 12 02:12:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33493-php-inlay-hints</link>
-      <description>Show resolved PHP constant values as inline hints in PhpStorm.
-
-vendor: PHP Inlay Hints
-downloads: 3
-pricingModel: FREE
-xmlId: com.luoshiming.idea.inlayhints</description>
-      <pubDate>Wed, 12 Aug 2026 02:12:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33493-php-inlay-hints</guid>
-      <dc:date>2026-08-12T02:12:13Z</dc:date>
     </item>
   </channel>
 </rss>
