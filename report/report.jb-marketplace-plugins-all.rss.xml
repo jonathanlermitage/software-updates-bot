@@ -11,7 +11,7 @@
       <description>Your AI assistant is brilliant for one session — then it forgets everything. Every day you re-explain your architecture, your deploy steps, the bug you already fixed...
 
 vendor: cachly
-downloads: 8
+downloads: 12
 pricingModel: FREE
 xmlId: dev.cachly.brain</description>
       <pubDate>Thu, 13 Aug 2026 16:06:12 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: dev.cachly.brain</description>
       <description>Open Parquet, Excel, Avro, CSV, TSV and JSON Lines files directly in your IDE - no row limits, no freezes, no data ever leaving your machine. TableKit turns any data...
 
 vendor: Kitworks
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.kitworks.tablekit</description>
       <pubDate>Thu, 13 Aug 2026 12:19:28 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.kitworks.tablekit</description>
       <description>Restore MyBatis SQL logs to original executable SQL. Forked from starxg/mybatis-log-plugin-free - refactored to independent ToolWindow architecture. usage: Click the...
 
 vendor: seekxu
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.seekxu.mybatis-log-restorer</description>
       <pubDate>Fri, 14 Aug 2026 07:58:26 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.seekxu.mybatis-log-restorer</description>
       <description>A lightweight browser plugin for JetBrains IDEs. Adds an integrated browser panel on the right side of the editor, powered by JCEF (Chromium Embedded Framework...
 
 vendor: Apolleonce
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: top.apolleonce.webpane</description>
       <pubDate>Fri, 14 Aug 2026 06:33:25 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: io.github.kafuuneko.asdiff</description>
       <description>Reload MyBatis-Plus mapper XML with JRebel on IntelliJ IDEA 2026.2+. Compatible replacement for the unmaintained JRebel mybatisPlus extension (jr-mp-ide-idea), which...
 
 vendor: EdgarLi
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.lixun.jrebel.mybatisplus</description>
       <pubDate>Fri, 14 Aug 2026 05:41:17 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.lixun.jrebel.mybatisplus</description>
       <description>Generates a real, compiling object-copy method between two Java or Kotlin classes -- select exactly two class files in the Project view, pick the copy direction, and...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.beancopycompanion</description>
       <pubDate>Fri, 14 Aug 2026 03:31:03 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: dev.gaphunter.beancopycompanion</description>
       <description>A simple and easy-to-use code review tool on the idea-platform Main functions: 1. You can mark the review opinions in the code and export them to excel table; Or...
 
 vendor: YuanjingDing
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.dyj.codereview.helper.next</description>
       <pubDate>Fri, 14 Aug 2026 02:35:13 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.dyj.codereview.helper.next</description>
       <description>Fortify Code Security for JetBrains IDE Tools Fortify Code Security Fortify Code Security helps developers find and fix security issues where they code by bringing the...
 
 vendor: Fortify Software
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: com.opentext.fortify</description>
       <pubDate>Thu, 13 Aug 2026 18:36:08 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.opentext.fortify</description>
       <description>Never miss a Flutter package update again. Check for updates, read the changelog, and update with one click. Every dependency listed with its current and latest...
 
 vendor: Kamran Bekirov
-downloads: 2
+downloads: 13
 pricingModel: FREE
 xmlId: dev.pubgrade</description>
       <pubDate>Fri, 14 Aug 2026 19:21:02 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: dev.pubgrade</description>
       <description>Android Device GPS Location Mocker &amp;amp; Real-World Path Simulation Simulate GPS location points and real turn-by-turn road navigation routes directly on USB-connected...
 
 vendor: Shayan Hashmi
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.shayanhashmi.android-device-gps-location-mocker</description>
       <pubDate>Thu, 13 Aug 2026 19:20:41 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.shayanhashmi.android-device-gps-location-mocker</description>
       <description>I18n Helper plugin for JetBrains IDEs. Provides i18n key navigation, auto-completion, and inline translation folding. Ctrl/Cmd+Click on i18n key to jump to the locale...
 
 vendor: esb
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.esb.i18n.helper</description>
       <pubDate>Thu, 13 Aug 2026 11:15:03 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.esb.i18n.helper</description>
       <description>Just Bruce AI 2.0.0 — Just Bruce AI is an AI-powered coding assistant built directly into JetBrains IDEs. Version 2.0.0 is a major rebuild focused on turning Just...
 
 vendor: Just Bruce AI
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.justbruce.ai</description>
       <pubDate>Thu, 13 Aug 2026 18:27:18 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.justbruce.ai</description>
       <description>Detects Maven &amp;lt;dependencyManagement&amp;gt; version overrides that have become stale because an imported BOM chain has caught up — the typical case is a version...
 
 vendor: Schneidoa
-downloads: 3
+downloads: 10
 pricingModel: FREE
 xmlId: cloud.schneidoa.maven-dependency-overrides</description>
       <pubDate>Fri, 14 Aug 2026 17:52:53 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: cloud.schneidoa.maven-dependency-overrides</description>
       <description>Browse Spectra changes without leaving the IDE. Spectra moves parked changes out of openspec/changes/ and into the git directory, where the project tree never shows...
 
 vendor: spectra-viewer
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.github.fripig.spectraviewer</description>
       <pubDate>Fri, 14 Aug 2026 16:21:14 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.github.fripig.spectraviewer</description>
       <description>VS Code-style bracket pair guides for JetBrains IDEs.Bracket Pair Guides colors each matching opening and closing bracket pair by nesting depth and draws a focused...
 
 vendor: sijun-yang
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.sijunyang.bracketpairguides</description>
       <pubDate>Thu, 13 Aug 2026 10:32:16 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.summerlex.psrunner</description>
       <description>CrudGenerator Generate a complete, production-ready Spring Boot CRUD from a single JPA entity — DTOs, MapStruct mappers, Spring Data repositories, application...
 
 vendor: Giuseppe Trisciuoglio
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: io.laborinto.crudgenerator</description>
       <pubDate>Thu, 13 Aug 2026 12:39:43 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: io.laborinto.crudgenerator</description>
       <description>Native IntelliJ repository architecture analysis with PSI. Generates Word, draw.io, Mermaid, SVG, PlantUML and KT outputs locally.
 
 vendor: RAAN
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.raan.repositoryArchitectureAnalyzer</description>
       <pubDate>Wed, 12 Aug 2026 16:32:59 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.raan.repositoryArchitectureAnalyzer</description>
       <description>Margin conversations between you and your AI coding agent — Google Docs comments over live code, built for the review loop, not the keystroke loop. Getting your agent...
 
 vendor: Muhammad Farag
-downloads: 8
+downloads: 27
 pricingModel: FREE
 xmlId: dev.marginalis.plugin</description>
       <pubDate>Fri, 14 Aug 2026 03:14:47 GMT</pubDate>
