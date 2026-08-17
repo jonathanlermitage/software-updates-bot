@@ -6,6 +6,188 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>DeepSeek Harness Studio - Sat Aug 15 13:04:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33569-deepseek-harness-studio</link>
+      <description>DeepSeek Harness integration Open the DeepSeek Harness web UI right inside Android Studio / IntelliJ IDEA: Embedded browser tool window (JCEF) showing the Harness chat...
+
+vendor: Yang SongSong
+downloads: 1
+pricingModel: FREE
+xmlId: com.deepseek.dshstudio</description>
+      <pubDate>Sat, 15 Aug 2026 13:04:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33569-deepseek-harness-studio</guid>
+      <dc:date>2026-08-15T13:04:14Z</dc:date>
+    </item>
+    <item>
+      <title>Custom AI Commit - Sun Aug 16 16:53:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33590-custom-ai-commit</link>
+      <description>AI Commit - generate commit messages with AI in one click, compatible with OpenAI API. 根据 Git 变更，一键生成可编辑的 AI Commit Message（OpenAI 兼容接口）。 在提交视图 / Git Log 工具栏一键生成...
+
+vendor: Ai Commit
+downloads: 0
+pricingModel: FREE
+xmlId: com.stackcn.aicommit</description>
+      <pubDate>Sun, 16 Aug 2026 16:53:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33590-custom-ai-commit</guid>
+      <dc:date>2026-08-16T16:53:03Z</dc:date>
+    </item>
+    <item>
+      <title>Yamlix for Ansible - Sun Aug 16 16:48:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33589-yamlix-for-ansible</link>
+      <description>Which value does this variable actually have — on which host, and why? A variable in Ansible does not have a definition. It has as many as the precedence table allows...
+
+vendor: tade
+downloads: 0
+pricingModel: FREE
+xmlId: dev.yamlix.ansible</description>
+      <pubDate>Sun, 16 Aug 2026 16:48:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33589-yamlix-for-ansible</guid>
+      <dc:date>2026-08-16T16:48:09Z</dc:date>
+    </item>
+    <item>
+      <title>mq - jq-like tool for Markdown processing - Fri Aug 14 14:12:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33547-mq--jq-like-tool-for-markdown-processing</link>
+      <description>mq is a jq-like command-line tool for Markdown processing. This plugin adds editing support for .mq files backed by the mq-lsp language server (completion, hover...
+
+vendor: harehare
+downloads: 1
+pricingModel: FREE
+xmlId: org.mqlang.mq</description>
+      <pubDate>Fri, 14 Aug 2026 14:12:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33547-mq--jq-like-tool-for-markdown-processing</guid>
+      <dc:date>2026-08-14T14:12:58Z</dc:date>
+    </item>
+    <item>
+      <title>Staleguard - Sat Aug 15 16:16:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33571-staleguard</link>
+      <description>Staleguard shows outdated Maven and Gradle dependencies right in the editor: severity-labeled warnings, one-click version bumps, and abandonment alerts for libraries...
+
+vendor: Tampwell LLC
+downloads: 2
+pricingModel: FREE
+xmlId: com.tampwell.staleguard</description>
+      <pubDate>Sat, 15 Aug 2026 16:16:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33571-staleguard</guid>
+      <dc:date>2026-08-15T16:16:19Z</dc:date>
+    </item>
+    <item>
+      <title>dbt Navigator - Sun Aug 16 16:35:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33588-dbt-navigator</link>
+      <description>dbt Navigator — models, refs &amp;amp; lineage for dbt, offline Understand your dbt project inside your IntelliJ-based IDE (IntelliJ IDEA, DataGrip, PyCharm) without...
+
+vendor: VadimToptunov
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.vadimtoptunov.dbt-navigator</description>
+      <pubDate>Sun, 16 Aug 2026 16:35:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33588-dbt-navigator</guid>
+      <dc:date>2026-08-16T16:35:04Z</dc:date>
+    </item>
+    <item>
+      <title>Caret Fill Sequentially - Sun Aug 16 09:32:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33584-caret-fill-sequentially</link>
+      <description>Caret Fill Sequentially Fill multiple carets with consecutive numbers or letters in IntelliJ IDEA. Perfect for batch numbering, quick sequence generation and...
+
+vendor: EmperorHeart
+downloads: 0
+pricingModel: FREE
+xmlId: com.caretfill.sequential-fill</description>
+      <pubDate>Sun, 16 Aug 2026 09:32:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33584-caret-fill-sequentially</guid>
+      <dc:date>2026-08-16T09:32:00Z</dc:date>
+    </item>
+    <item>
+      <title>OpenUnderstand Metrics - Sun Aug 16 10:20:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33528-openunderstand-metrics</link>
+      <description>Java source metrics (Cyclomatic, CountLine, MaxNesting, CountDeclMethod, PercentLackOfCohesion, CountClassCoupled) from OpenUnderstand, an open-source implementation...
+
+vendor: openunderstand
+downloads: 1
+pricingModel: FREE
+xmlId: org.openunderstand.idea</description>
+      <pubDate>Sun, 16 Aug 2026 10:20:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33528-openunderstand-metrics</guid>
+      <dc:date>2026-08-16T10:20:31Z</dc:date>
+    </item>
+    <item>
+      <title>Local Dictionary - Sat Aug 15 11:52:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33566-local-dictionary</link>
+      <description>Look up English identifier words with an offline ECDICT dictionary. Definitions are shown after the pointer rests on camelCase, PascalCase, or snake_case identifiers.
+
+vendor: ace-code
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.acecode0.localdictionary</description>
+      <pubDate>Sat, 15 Aug 2026 11:52:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33566-local-dictionary</guid>
+      <dc:date>2026-08-15T11:52:51Z</dc:date>
+    </item>
+    <item>
+      <title>DeepSeek Harness WebUI - Mon Aug 17 02:58:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33556-deepseek-harness-webui</link>
+      <description>Docks the DeepSeek Harness Web UI into an IDE tool window, rendered by the IDE's bundled Chromium (JCEF). The whole agent interface — reasoning streams, tool-call...
+
+vendor: 0139
+downloads: 1
+pricingModel: FREE
+xmlId: dsh.web.toolwindow</description>
+      <pubDate>Mon, 17 Aug 2026 02:58:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33556-deepseek-harness-webui</guid>
+      <dc:date>2026-08-17T02:58:47Z</dc:date>
+    </item>
+    <item>
+      <title>Dsh Dock - Mon Aug 17 07:15:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33594-dsh-dock</link>
+      <description>English One-click start of dsh: Click the whale icon in the right tool window bar to open the Dsh Docktool window and start the DeepSeek Harness assistant (dsh web...
+
+vendor: codecrab
+downloads: 0
+pricingModel: FREE
+xmlId: cn.codecrab.plugins.dsh</description>
+      <pubDate>Mon, 17 Aug 2026 07:15:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33594-dsh-dock</guid>
+      <dc:date>2026-08-17T07:15:25Z</dc:date>
+    </item>
+    <item>
+      <title>Deepseek Harness for IDEs - Sat Aug 15 20:28:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33573-deepseek-harness-for-ides</link>
+      <description>Deepseek Harness For IDEs integrates DeepSeek Harness (dsh) into the IDE as a chat tool window. It runs the dsh web-profile server locally and speaks its HTTP API...
+
+vendor: moshang-ca
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.moshangca.dsh</description>
+      <pubDate>Sat, 15 Aug 2026 20:28:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33573-deepseek-harness-for-ides</guid>
+      <dc:date>2026-08-15T20:28:56Z</dc:date>
+    </item>
+    <item>
+      <title>Nullify - Mon Aug 17 13:48:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33607-nullify</link>
+      <description>Read your Java code the way it was meant to be read. Nullify folds noisy annotations and wildcards into clean ?/!/out/in syntax — without changing a single line of...
+
+vendor: Kurv Cygnus
+downloads: 0
+pricingModel: FREE
+xmlId: kurvcygnus.Nullify</description>
+      <pubDate>Mon, 17 Aug 2026 13:48:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33607-nullify</guid>
+      <dc:date>2026-08-17T13:48:58Z</dc:date>
+    </item>
+    <item>
+      <title>Best Zhihu Reader - Mon Aug 17 03:02:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33562-best-zhihu-reader</link>
+      <description>Best Zhihu Reader: browse the Zhihu recommendation feed right inside IntelliJ IDEA. 全世界最好的知乎插件：在 IntelliJ IDEA 中浏览知乎推荐流。.
+
+vendor: 全世界最好的知乎插件团队
+downloads: 2
+pricingModel: FREE
+xmlId: com.zhihu.reader</description>
+      <pubDate>Mon, 17 Aug 2026 03:02:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33562-best-zhihu-reader</guid>
+      <dc:date>2026-08-17T03:02:57Z</dc:date>
+    </item>
+    <item>
       <title>Cachly Brain - Thu Aug 13 16:06:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/32059-cachly-brain</link>
       <description>ChatGPT and Claude remember your conversations. cachly remembers your codebase. The bug you fixed. Why you chose Postgres. The deploy step that always breaks — and...
@@ -45,7 +227,7 @@ xmlId: com.seekxu.mybatis-log-restorer</description>
       <dc:date>2026-08-14T07:58:26Z</dc:date>
     </item>
     <item>
-      <title>WebPane - Fri Aug 14 06:33:25 UTC 2026</title>
+      <title>WebPane - Mon Aug 17 11:37:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33541-webpane</link>
       <description>A lightweight browser plugin for JetBrains IDEs. Adds an integrated browser panel on the right side of the editor, powered by JCEF (Chromium Embedded Framework...
 
@@ -53,9 +235,9 @@ vendor: Apolleonce
 downloads: 16
 pricingModel: FREE
 xmlId: top.apolleonce.webpane</description>
-      <pubDate>Fri, 14 Aug 2026 06:33:25 GMT</pubDate>
+      <pubDate>Mon, 17 Aug 2026 11:37:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33541-webpane</guid>
-      <dc:date>2026-08-14T06:33:25Z</dc:date>
+      <dc:date>2026-08-17T11:37:52Z</dc:date>
     </item>
     <item>
       <title>AsDiff - Fri Aug 14 03:43:44 UTC 2026</title>
@@ -82,188 +264,6 @@ xmlId: com.lixun.jrebel.mybatisplus</description>
       <pubDate>Fri, 14 Aug 2026 05:41:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33537-jrebel-mybatis-plus-extension</guid>
       <dc:date>2026-08-14T05:41:17Z</dc:date>
-    </item>
-    <item>
-      <title>Bean Copy Companion - Fri Aug 14 03:31:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33531-bean-copy-companion</link>
-      <description>Generates a real, compiling object-copy method between two Java or Kotlin classes -- select exactly two class files in the Project view, pick the copy direction, and...
-
-vendor: Gap Hunter Labs
-downloads: 9
-pricingModel: FREE
-xmlId: dev.gaphunter.beancopycompanion</description>
-      <pubDate>Fri, 14 Aug 2026 03:31:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33531-bean-copy-companion</guid>
-      <dc:date>2026-08-14T03:31:03Z</dc:date>
-    </item>
-    <item>
-      <title>CodeReview Helper Next - Fri Aug 14 02:35:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33522-codereview-helper-next</link>
-      <description>A simple and easy-to-use code review tool on the idea-platform Main functions: 1. You can mark the review opinions in the code and export them to excel table; Or...
-
-vendor: YuanjingDing
-downloads: 9
-pricingModel: FREE
-xmlId: com.dyj.codereview.helper.next</description>
-      <pubDate>Fri, 14 Aug 2026 02:35:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33522-codereview-helper-next</guid>
-      <dc:date>2026-08-14T02:35:13Z</dc:date>
-    </item>
-    <item>
-      <title>Fortify Code Security - Thu Aug 13 18:36:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33259-fortify-code-security</link>
-      <description>Fortify Code Security for JetBrains IDE Tools Fortify Code Security Fortify Code Security helps developers find and fix security issues where they code by bringing the...
-
-vendor: Fortify Software
-downloads: 12
-pricingModel: FREE
-xmlId: com.opentext.fortify</description>
-      <pubDate>Thu, 13 Aug 2026 18:36:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33259-fortify-code-security</guid>
-      <dc:date>2026-08-13T18:36:08Z</dc:date>
-    </item>
-    <item>
-      <title>Pubgrade - Fri Aug 14 19:21:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33426-pubgrade</link>
-      <description>Never miss a Flutter package update again. Check for updates, read the changelog, and update with one click. Every dependency listed with its current and latest...
-
-vendor: Kamran Bekirov
-downloads: 25
-pricingModel: FREE
-xmlId: dev.pubgrade</description>
-      <pubDate>Fri, 14 Aug 2026 19:21:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33426-pubgrade</guid>
-      <dc:date>2026-08-14T19:21:02Z</dc:date>
-    </item>
-    <item>
-      <title>Android Device GPS Location Mocker - Sat Aug 15 12:31:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33526-android-device-gps-location-mocker</link>
-      <description>Android Device GPS Location Mocker &amp;amp; Real-World Path Simulation Simulate GPS location points and real turn-by-turn road navigation routes directly on USB-connected...
-
-vendor: Shayan Hashmi
-downloads: 32
-pricingModel: FREE
-xmlId: com.shayanhashmi.android-device-gps-location-mocker</description>
-      <pubDate>Sat, 15 Aug 2026 12:31:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33526-android-device-gps-location-mocker</guid>
-      <dc:date>2026-08-15T12:31:12Z</dc:date>
-    </item>
-    <item>
-      <title>ESB I18n Toolkit - Thu Aug 13 11:15:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33520-esb-i18n-toolkit</link>
-      <description>I18n Helper plugin for JetBrains IDEs. Provides i18n key navigation, auto-completion, and inline translation folding. Ctrl/Cmd+Click on i18n key to jump to the locale...
-
-vendor: esb
-downloads: 6
-pricingModel: FREE
-xmlId: com.esb.i18n.helper</description>
-      <pubDate>Thu, 13 Aug 2026 11:15:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33520-esb-i18n-toolkit</guid>
-      <dc:date>2026-08-13T11:15:03Z</dc:date>
-    </item>
-    <item>
-      <title>Just Bruce AI - Thu Aug 13 18:27:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33525-just-bruce-ai</link>
-      <description>Just Bruce AI 2.0.0 — Just Bruce AI is an AI-powered coding assistant built directly into JetBrains IDEs. Version 2.0.0 is a major rebuild focused on turning Just...
-
-vendor: Just Bruce AI
-downloads: 6
-pricingModel: FREE
-xmlId: com.justbruce.ai</description>
-      <pubDate>Thu, 13 Aug 2026 18:27:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33525-just-bruce-ai</guid>
-      <dc:date>2026-08-13T18:27:18Z</dc:date>
-    </item>
-    <item>
-      <title>Maven Dependency Overrides - Fri Aug 14 17:52:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33489-maven-dependency-overrides</link>
-      <description>Detects Maven &amp;lt;dependencyManagement&amp;gt; version overrides that have become stale because an imported BOM chain has caught up — the typical case is a version...
-
-vendor: Schneidoa
-downloads: 13
-pricingModel: FREE
-xmlId: cloud.schneidoa.maven-dependency-overrides</description>
-      <pubDate>Fri, 14 Aug 2026 17:52:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33489-maven-dependency-overrides</guid>
-      <dc:date>2026-08-14T17:52:53Z</dc:date>
-    </item>
-    <item>
-      <title>Spectra Viewer - Fri Aug 14 16:21:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33519-spectra-viewer</link>
-      <description>Browse Spectra changes without leaving the IDE. Spectra moves parked changes out of openspec/changes/ and into the git directory, where the project tree never shows...
-
-vendor: spectra-viewer
-downloads: 11
-pricingModel: FREE
-xmlId: com.github.fripig.spectraviewer</description>
-      <pubDate>Fri, 14 Aug 2026 16:21:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33519-spectra-viewer</guid>
-      <dc:date>2026-08-14T16:21:14Z</dc:date>
-    </item>
-    <item>
-      <title>Bracket Pair Guides - Thu Aug 13 10:32:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33518-bracket-pair-guides</link>
-      <description>VS Code-style bracket pair guides for JetBrains IDEs.Bracket Pair Guides colors each matching opening and closing bracket pair by nesting depth and draws a focused...
-
-vendor: sijun-yang
-downloads: 13
-pricingModel: FREE
-xmlId: com.sijunyang.bracketpairguides</description>
-      <pubDate>Thu, 13 Aug 2026 10:32:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33518-bracket-pair-guides</guid>
-      <dc:date>2026-08-13T10:32:16Z</dc:date>
-    </item>
-    <item>
-      <title>PowerShell Script Runner - Sun Aug 09 02:45:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33436-powershell-script-runner</link>
-      <description>Run PowerShell scripts directly from the Project View context menu. Right-click any directory to execute pre-configured scripts with placeholder substitution...
-
-vendor: summerlex
-downloads: 4
-pricingModel: FREE
-xmlId: com.summerlex.psrunner</description>
-      <pubDate>Sun, 09 Aug 2026 02:45:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33436-powershell-script-runner</guid>
-      <dc:date>2026-08-09T02:45:27Z</dc:date>
-    </item>
-    <item>
-      <title>CrudGenerator - Thu Aug 13 12:39:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33381-crudgenerator</link>
-      <description>CrudGenerator Generate a complete, production-ready Spring Boot CRUD from a single JPA entity — DTOs, MapStruct mappers, Spring Data repositories, application...
-
-vendor: Giuseppe Trisciuoglio
-downloads: 8
-pricingModel: FREE
-xmlId: io.laborinto.crudgenerator</description>
-      <pubDate>Thu, 13 Aug 2026 12:39:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33381-crudgenerator</guid>
-      <dc:date>2026-08-13T12:39:43Z</dc:date>
-    </item>
-    <item>
-      <title>Repository Architecture Analyzer - Wed Aug 12 16:32:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33508-repository-architecture-analyzer</link>
-      <description>Native IntelliJ repository architecture analysis with PSI. Generates Word, draw.io, Mermaid, SVG, PlantUML and KT outputs locally.
-
-vendor: RAAN
-downloads: 11
-pricingModel: FREE
-xmlId: com.raan.repositoryArchitectureAnalyzer</description>
-      <pubDate>Wed, 12 Aug 2026 16:32:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33508-repository-architecture-analyzer</guid>
-      <dc:date>2026-08-12T16:32:59Z</dc:date>
-    </item>
-    <item>
-      <title>Marginalis - Fri Aug 14 03:14:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33135-marginalis</link>
-      <description>Margin conversations between you and your AI coding agent — Google Docs comments over live code, built for the review loop, not the keystroke loop. Getting your agent...
-
-vendor: Muhammad Farag
-downloads: 32
-pricingModel: FREE
-xmlId: dev.marginalis.plugin</description>
-      <pubDate>Fri, 14 Aug 2026 03:14:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33135-marginalis</guid>
-      <dc:date>2026-08-14T03:14:47Z</dc:date>
     </item>
   </channel>
 </rss>
