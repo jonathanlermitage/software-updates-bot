@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Go Argument Type Hints - Mon Aug 10 20:24:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33472-go-argument-type-hints</link>
+      <description>See inferred Go types directly in the editor without changing source files. The plugin provides: Static type hints for function and method call arguments. Inferred...
+
+vendor: Dongo
+downloads: 1
+pricingModel: FREE
+xmlId: com.goargumenttypehints</description>
+      <pubDate>Mon, 10 Aug 2026 20:24:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33472-go-argument-type-hints</guid>
+      <dc:date>2026-08-10T20:24:20Z</dc:date>
+    </item>
+    <item>
       <title>DeepSeek Harness Studio - Sat Aug 15 13:04:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33569-deepseek-harness-studio</link>
       <description>DeepSeek Harness integration Open the DeepSeek Harness web UI right inside Android Studio / IntelliJ IDEA: Embedded browser tool window (JCEF) showing the Harness chat...
 
 vendor: Yang SongSong
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.deepseek.dshstudio</description>
       <pubDate>Sat, 15 Aug 2026 13:04:14 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: com.deepseek.dshstudio</description>
       <description>AI Commit - generate commit messages with AI in one click, compatible with OpenAI API. 根据 Git 变更，一键生成可编辑的 AI Commit Message（OpenAI 兼容接口）。 在提交视图 / Git Log 工具栏一键生成...
 
 vendor: Ai Commit
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.stackcn.aicommit</description>
       <pubDate>Sun, 16 Aug 2026 16:53:03 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.stackcn.aicommit</description>
       <description>Which value does this variable actually have — on which host, and why? A variable in Ansible does not have a definition. It has as many as the precedence table allows...
 
 vendor: tade
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.yamlix.ansible</description>
       <pubDate>Sun, 16 Aug 2026 16:48:09 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: dev.yamlix.ansible</description>
       <description>mq is a jq-like command-line tool for Markdown processing. This plugin adds editing support for .mq files backed by the mq-lsp language server (completion, hover...
 
 vendor: harehare
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: org.mqlang.mq</description>
       <pubDate>Fri, 14 Aug 2026 14:12:58 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: org.mqlang.mq</description>
       <description>Staleguard shows outdated Maven and Gradle dependencies right in the editor: severity-labeled warnings, one-click version bumps, and abandonment alerts for libraries...
 
 vendor: Tampwell LLC
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.tampwell.staleguard</description>
       <pubDate>Tue, 18 Aug 2026 01:11:22 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.tampwell.staleguard</description>
       <description>dbt Navigator — models, refs &amp;amp; lineage for dbt, offline Understand your dbt project inside your IntelliJ-based IDE (IntelliJ IDEA, DataGrip, PyCharm) without...
 
 vendor: VadimToptunov
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.vadimtoptunov.dbt-navigator</description>
       <pubDate>Sun, 16 Aug 2026 16:35:04 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: io.github.vadimtoptunov.dbt-navigator</description>
       <description>Caret Fill Sequentially Fill multiple carets with consecutive numbers or letters in IntelliJ IDEA. Perfect for batch numbering, quick sequence generation and...
 
 vendor: EmperorHeart
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.caretfill.sequential-fill</description>
       <pubDate>Sun, 16 Aug 2026 09:32:00 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: com.caretfill.sequential-fill</description>
       <description>Java source metrics (Cyclomatic, CountLine, MaxNesting, CountDeclMethod, PercentLackOfCohesion, CountClassCoupled) from OpenUnderstand, an open-source implementation...
 
 vendor: openunderstand
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: org.openunderstand.idea</description>
       <pubDate>Sun, 16 Aug 2026 10:20:31 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: org.openunderstand.idea</description>
       <description>Look up English identifier words with an offline ECDICT dictionary. Definitions are shown after the pointer rests on camelCase, PascalCase, or snake_case identifiers.
 
 vendor: ace-code
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.acecode0.localdictionary</description>
       <pubDate>Sat, 15 Aug 2026 11:52:51 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.github.acecode0.localdictionary</description>
       <description>Docks the DeepSeek Harness Web UI into an IDE tool window, rendered by the IDE's bundled Chromium (JCEF). The whole agent interface — reasoning streams, tool-call...
 
 vendor: 0139
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dsh.web.toolwindow</description>
       <pubDate>Mon, 17 Aug 2026 02:58:47 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: dsh.web.toolwindow</description>
       <description>English One-click start of dsh: Click the whale icon in the right tool window bar to open the Dsh Docktool window and start the DeepSeek Harness assistant (dsh web...
 
 vendor: codecrab
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: cn.codecrab.plugins.dsh</description>
       <pubDate>Mon, 17 Aug 2026 07:15:25 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: cn.codecrab.plugins.dsh</description>
       <description>Deepseek Harness For IDEs integrates DeepSeek Harness (dsh) into the IDE as a chat tool window. It runs the dsh web-profile server locally and speaks its HTTP API...
 
 vendor: moshang-ca
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.moshangca.dsh</description>
       <pubDate>Sat, 15 Aug 2026 20:28:56 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: com.github.moshangca.dsh</description>
       <description>Read your Java code the way it was meant to be read. Nullify folds noisy annotations and wildcards into clean ?/!/out/in syntax — without changing a single line of...
 
 vendor: Kurv Cygnus
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: kurvcygnus.Nullify</description>
       <pubDate>Tue, 18 Aug 2026 03:09:03 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: kurvcygnus.Nullify</description>
       <description>Best Zhihu Reader: browse the Zhihu recommendation feed right inside IntelliJ IDEA. 全世界最好的知乎插件：在 IntelliJ IDEA 中浏览知乎推荐流。.
 
 vendor: 全世界最好的知乎插件团队
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.zhihu.reader</description>
       <pubDate>Mon, 17 Aug 2026 03:02:57 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.zhihu.reader</description>
       <description>ChatGPT and Claude remember your conversations. cachly remembers your codebase. The bug you fixed. Why you chose Postgres. The deploy step that always breaks — and...
 
 vendor: cachly
-downloads: 18
+downloads: 21
 pricingModel: FREE
 xmlId: dev.cachly.brain</description>
       <pubDate>Thu, 13 Aug 2026 16:06:12 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: dev.cachly.brain</description>
       <description>Open Parquet, Excel, Avro, CSV, TSV and JSON Lines files directly in your IDE - no row limits, no freezes, no data ever leaving your machine. TableKit turns any data...
 
 vendor: Kitworks
-downloads: 14
+downloads: 25
 pricingModel: FREE
 xmlId: com.kitworks.tablekit</description>
       <pubDate>Thu, 13 Aug 2026 12:19:28 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.kitworks.tablekit</description>
       <description>Restore MyBatis SQL logs to original executable SQL. Forked from starxg/mybatis-log-plugin-free - refactored to independent ToolWindow architecture. usage: Click the...
 
 vendor: seekxu
-downloads: 10
+downloads: 13
 pricingModel: FREE
 xmlId: com.seekxu.mybatis-log-restorer</description>
       <pubDate>Fri, 14 Aug 2026 07:58:26 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.seekxu.mybatis-log-restorer</description>
       <description>A lightweight browser plugin for JetBrains IDEs. Adds an integrated browser panel on the right side of the editor, powered by JCEF (Chromium Embedded Framework...
 
 vendor: Apolleonce
-downloads: 16
+downloads: 25
 pricingModel: FREE
 xmlId: top.apolleonce.webpane</description>
       <pubDate>Mon, 17 Aug 2026 11:37:52 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: top.apolleonce.webpane</description>
       <description>AsDiff compares arbitrary text with the native IntelliJ Platform Diff Viewer, providing the same focused workflow used by Android Studio for source-control changes...
 
 vendor: KafuuNeko
-downloads: 5
+downloads: 6
 pricingModel: FREE
 xmlId: io.github.kafuuneko.asdiff</description>
       <pubDate>Fri, 14 Aug 2026 03:43:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33533-asdiff</guid>
       <dc:date>2026-08-14T03:43:44Z</dc:date>
-    </item>
-    <item>
-      <title>JRebel MyBatis-Plus Extension - Fri Aug 14 05:41:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33537-jrebel-mybatis-plus-extension</link>
-      <description>Reload MyBatis-Plus mapper XML with JRebel on IntelliJ IDEA 2026.2+. Compatible replacement for the unmaintained JRebel mybatisPlus extension (jr-mp-ide-idea), which...
-
-vendor: EdgarLi
-downloads: 10
-pricingModel: FREE
-xmlId: com.lixun.jrebel.mybatisplus</description>
-      <pubDate>Fri, 14 Aug 2026 05:41:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33537-jrebel-mybatis-plus-extension</guid>
-      <dc:date>2026-08-14T05:41:17Z</dc:date>
     </item>
   </channel>
 </rss>
