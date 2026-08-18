@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>VegaDuta - Fri Aug 14 06:14:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33539-vegaduta</link>
+      <description>Chat with your VegaDuta tenant agents, run workflows, and send code selections for explanation or refactoring - right from the IDE. Sign in via the OAuth device flow...
+
+vendor: Vegaduta
+downloads: 2
+pricingModel: FREE
+xmlId: ai.vegaduta.ide</description>
+      <pubDate>Fri, 14 Aug 2026 06:14:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33539-vegaduta</guid>
+      <dc:date>2026-08-14T06:14:13Z</dc:date>
+    </item>
+    <item>
+      <title>Eclipse Code Formatter - Tue Aug 18 12:13:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33546-eclipse-code-formatter</link>
+      <description>Eclipse Code Formatter integrates Eclipse JDT formatting with IntelliJ IDEA. Formats complete Java files and selected Java code with Eclipse profiles. Supports Eclipse...
+
+vendor: Scott Luo
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.cnscottluo.eclipseformatter</description>
+      <pubDate>Tue, 18 Aug 2026 12:13:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33546-eclipse-code-formatter</guid>
+      <dc:date>2026-08-18T12:13:45Z</dc:date>
+    </item>
+    <item>
       <title>Go Argument Type Hints - Mon Aug 10 20:24:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33472-go-argument-type-hints</link>
       <description>See inferred Go types directly in the editor without changing source files. The plugin provides: Static type hints for function and method call arguments. Inferred...
@@ -110,7 +136,7 @@ xmlId: com.caretfill.sequential-fill</description>
       <dc:date>2026-08-16T09:32:00Z</dc:date>
     </item>
     <item>
-      <title>OpenUnderstand Metrics - Sun Aug 16 10:20:31 UTC 2026</title>
+      <title>OpenUnderstand Metrics - Tue Aug 18 10:10:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33528-openunderstand-metrics</link>
       <description>Java source metrics (Cyclomatic, CountLine, MaxNesting, CountDeclMethod, PercentLackOfCohesion, CountClassCoupled) from OpenUnderstand, an open-source implementation...
 
@@ -118,9 +144,9 @@ vendor: openunderstand
 downloads: 4
 pricingModel: FREE
 xmlId: org.openunderstand.idea</description>
-      <pubDate>Sun, 16 Aug 2026 10:20:31 GMT</pubDate>
+      <pubDate>Tue, 18 Aug 2026 10:10:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33528-openunderstand-metrics</guid>
-      <dc:date>2026-08-16T10:20:31Z</dc:date>
+      <dc:date>2026-08-18T10:10:08Z</dc:date>
     </item>
     <item>
       <title>Local Dictionary - Sat Aug 15 11:52:51 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.seekxu.mybatis-log-restorer</description>
       <pubDate>Fri, 14 Aug 2026 07:58:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33543-mybatis-log-restorer</guid>
       <dc:date>2026-08-14T07:58:26Z</dc:date>
-    </item>
-    <item>
-      <title>WebPane - Mon Aug 17 11:37:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33541-webpane</link>
-      <description>A lightweight browser plugin for JetBrains IDEs. Adds an integrated browser panel on the right side of the editor, powered by JCEF (Chromium Embedded Framework...
-
-vendor: Apolleonce
-downloads: 25
-pricingModel: FREE
-xmlId: top.apolleonce.webpane</description>
-      <pubDate>Mon, 17 Aug 2026 11:37:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33541-webpane</guid>
-      <dc:date>2026-08-17T11:37:52Z</dc:date>
-    </item>
-    <item>
-      <title>AsDiff - Fri Aug 14 03:43:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33533-asdiff</link>
-      <description>AsDiff compares arbitrary text with the native IntelliJ Platform Diff Viewer, providing the same focused workflow used by Android Studio for source-control changes...
-
-vendor: KafuuNeko
-downloads: 6
-pricingModel: FREE
-xmlId: io.github.kafuuneko.asdiff</description>
-      <pubDate>Fri, 14 Aug 2026 03:43:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33533-asdiff</guid>
-      <dc:date>2026-08-14T03:43:44Z</dc:date>
     </item>
   </channel>
 </rss>
