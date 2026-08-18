@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Quick Maven Package - Tue Aug 18 12:59:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33579-quick-maven-package</link>
+      <description>maven quick package Introduction: 1.Supports executing the Git force push command directly: git push --force-with-lease 2.Supports selecting a specific Maven module...
+
+vendor: cy20081118148
+downloads: 2
+pricingModel: FREE
+xmlId: user.kk.mavenquickpackage</description>
+      <pubDate>Tue, 18 Aug 2026 12:59:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33579-quick-maven-package</guid>
+      <dc:date>2026-08-18T12:59:19Z</dc:date>
+    </item>
+    <item>
       <title>VegaDuta - Fri Aug 14 06:14:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33539-vegaduta</link>
       <description>Chat with your VegaDuta tenant agents, run workflows, and send code selections for explanation or refactoring - right from the IDE. Sign in via the OAuth device flow...
@@ -251,19 +264,6 @@ xmlId: com.kitworks.tablekit</description>
       <pubDate>Thu, 13 Aug 2026 12:19:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33521-tablekit-excel--parquet-viewer</guid>
       <dc:date>2026-08-13T12:19:28Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis Log Restorer - Fri Aug 14 07:58:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33543-mybatis-log-restorer</link>
-      <description>Restore MyBatis SQL logs to original executable SQL. Forked from starxg/mybatis-log-plugin-free - refactored to independent ToolWindow architecture. usage: Click the...
-
-vendor: seekxu
-downloads: 13
-pricingModel: FREE
-xmlId: com.seekxu.mybatis-log-restorer</description>
-      <pubDate>Fri, 14 Aug 2026 07:58:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33543-mybatis-log-restorer</guid>
-      <dc:date>2026-08-14T07:58:26Z</dc:date>
     </item>
   </channel>
 </rss>
