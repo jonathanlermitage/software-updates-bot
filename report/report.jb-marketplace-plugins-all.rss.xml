@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>GRID Flowchart - Tue Aug 18 14:07:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33625-grid-flowchart</link>
+      <description>Renders the open Python file as a flowchart on a row/column grid where row = source line number and column = indentation level.
+
+vendor: Torsten Maier
+downloads: 0
+pricingModel: FREE
+xmlId: dev.grid.flowchart</description>
+      <pubDate>Tue, 18 Aug 2026 14:07:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33625-grid-flowchart</guid>
+      <dc:date>2026-08-18T14:07:00Z</dc:date>
+    </item>
+    <item>
+      <title>Git Flow GUI - Tue Aug 18 14:43:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33632-git-flow-gui</link>
+      <description>Git Flow GUI — the branching model, without the CLI. A maintained graphical front end for the Git Flow branching model, working in every JetBrains IDE. No git-flow...
+
+vendor: Veryation
+downloads: 0
+pricingModel: FREE
+xmlId: com.veryation.gitflow</description>
+      <pubDate>Tue, 18 Aug 2026 14:43:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33632-git-flow-gui</guid>
+      <dc:date>2026-08-18T14:43:29Z</dc:date>
+    </item>
+    <item>
+      <title>Dameng Driver - Tue Aug 18 09:54:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33620-dameng-driver</link>
+      <description>Out-of-the-box support for the Dameng (DM) database in DataGrip, IntelliJ IDEA Ultimate, and any JetBrains IDE with the Database Tools and SQL plugin. 为 达梦数据库 (DM...
+
+vendor: Dameng Driver
+downloads: 0
+pricingModel: FREE
+xmlId: me.mteach.dameng-driver-for-idea</description>
+      <pubDate>Tue, 18 Aug 2026 09:54:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33620-dameng-driver</guid>
+      <dc:date>2026-08-18T09:54:28Z</dc:date>
+    </item>
+    <item>
       <title>Quick Maven Package - Tue Aug 18 12:59:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33579-quick-maven-package</link>
       <description>maven quick package Introduction: 1.Supports executing the Git force push command directly: git push --force-with-lease 2.Supports selecting a specific Maven module...
@@ -225,45 +264,6 @@ xmlId: kurvcygnus.Nullify</description>
       <pubDate>Tue, 18 Aug 2026 03:09:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33607-nullify</guid>
       <dc:date>2026-08-18T03:09:03Z</dc:date>
-    </item>
-    <item>
-      <title>Best Zhihu Reader - Mon Aug 17 03:02:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33562-best-zhihu-reader</link>
-      <description>Best Zhihu Reader: browse the Zhihu recommendation feed right inside IntelliJ IDEA. 全世界最好的知乎插件：在 IntelliJ IDEA 中浏览知乎推荐流。.
-
-vendor: 全世界最好的知乎插件团队
-downloads: 3
-pricingModel: FREE
-xmlId: com.zhihu.reader</description>
-      <pubDate>Mon, 17 Aug 2026 03:02:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33562-best-zhihu-reader</guid>
-      <dc:date>2026-08-17T03:02:57Z</dc:date>
-    </item>
-    <item>
-      <title>Cachly Brain - Thu Aug 13 16:06:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32059-cachly-brain</link>
-      <description>ChatGPT and Claude remember your conversations. cachly remembers your codebase. The bug you fixed. Why you chose Postgres. The deploy step that always breaks — and...
-
-vendor: cachly
-downloads: 21
-pricingModel: FREE
-xmlId: dev.cachly.brain</description>
-      <pubDate>Thu, 13 Aug 2026 16:06:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32059-cachly-brain</guid>
-      <dc:date>2026-08-13T16:06:12Z</dc:date>
-    </item>
-    <item>
-      <title>TableKit: Excel &amp; Parquet Viewer - Thu Aug 13 12:19:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33521-tablekit-excel--parquet-viewer</link>
-      <description>Open Parquet, Excel, Avro, CSV, TSV and JSON Lines files directly in your IDE - no row limits, no freezes, no data ever leaving your machine. TableKit turns any data...
-
-vendor: Kitworks
-downloads: 25
-pricingModel: FREE
-xmlId: com.kitworks.tablekit</description>
-      <pubDate>Thu, 13 Aug 2026 12:19:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33521-tablekit-excel--parquet-viewer</guid>
-      <dc:date>2026-08-13T12:19:28Z</dc:date>
     </item>
   </channel>
 </rss>
