@@ -6,7 +6,33 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Context Mapper - Mon Aug 17 17:08:47 UTC 2026</title>
+      <title>PVS-Studio for JS and TS - Tue Aug 18 14:14:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33626-pvs-studio-for-js-and-ts</link>
+      <description>PVS-Studio is a static code analyzer for Enterprise (C, C++, C#, Go, and Java) and Web (JS and TS) development. It works under 64-bit systems in Windows, Linux and...
+
+vendor: PVS-Studio LLC
+downloads: 0
+pricingModel: FREE
+xmlId: com.pvsstudio.js</description>
+      <pubDate>Tue, 18 Aug 2026 14:14:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33626-pvs-studio-for-js-and-ts</guid>
+      <dc:date>2026-08-18T14:14:29Z</dc:date>
+    </item>
+    <item>
+      <title>PVS-Studio for Go - Tue Aug 18 14:16:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33627-pvs-studio-for-go</link>
+      <description>PVS-Studio is a static code analyzer for Enterprise (C, C++, C#, Go, and Java) and Web (JS and TS) development. It works under 64-bit systems in Windows, Linux and...
+
+vendor: PVS-Studio LLC
+downloads: 0
+pricingModel: FREE
+xmlId: com.pvsstudio.golang</description>
+      <pubDate>Tue, 18 Aug 2026 14:16:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33627-pvs-studio-for-go</guid>
+      <dc:date>2026-08-18T14:16:38Z</dc:date>
+    </item>
+    <item>
+      <title>Context Mapper - Wed Aug 19 12:51:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33611-context-mapper</link>
       <description>This plug-in is editor support for Context Mapper's CML, a DSL for Domain-Driven Design context mapping and service decomposition. Features: Recognizes .cml files...
 
@@ -14,9 +40,9 @@ vendor: Mark Sosman
 downloads: 1
 pricingModel: FREE
 xmlId: io.github.marksosman.dddcontextmapper</description>
-      <pubDate>Mon, 17 Aug 2026 17:08:47 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 12:51:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33611-context-mapper</guid>
-      <dc:date>2026-08-17T17:08:47Z</dc:date>
+      <dc:date>2026-08-19T12:51:34Z</dc:date>
     </item>
     <item>
       <title>Split Headers &amp; Sources - Mon Aug 17 12:08:34 UTC 2026</title>
@@ -84,17 +110,17 @@ xmlId: com.kanicream.repolens</description>
       <dc:date>2026-08-16T01:55:51Z</dc:date>
     </item>
     <item>
-      <title>Spring Helm Env Hints - Mon Aug 17 10:07:23 UTC 2026</title>
+      <title>Spring Helm Env Hints - Wed Aug 19 16:18:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33600-spring-helm-env-hints</link>
-      <description>intellij-spring-helm-env-hints is a plugin for navigating between Spring `application*.yml|yaml` configuration and Helm template environment variables under...
+      <description>Links Spring application*.yml|yaml configuration to the environment variables declared in Helm chart templates, with highlighting and two-way navigation. Env var...
 
 vendor: kev007
 downloads: 1
 pricingModel: FREE
 xmlId: com.github.kev007.intellijspringhelmenvhints</description>
-      <pubDate>Mon, 17 Aug 2026 10:07:23 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 16:18:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33600-spring-helm-env-hints</guid>
-      <dc:date>2026-08-17T10:07:23Z</dc:date>
+      <dc:date>2026-08-19T16:18:27Z</dc:date>
     </item>
     <item>
       <title>Turbo Log Companion - Fri Aug 14 14:24:12 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: org.gilde.checkoutandbuild</description>
       <pubDate>Tue, 18 Aug 2026 19:31:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33613-checkoutandbuild</guid>
       <dc:date>2026-08-18T19:31:23Z</dc:date>
-    </item>
-    <item>
-      <title>Grove - Sat Aug 15 11:21:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33565-grove</link>
-      <description>Grove manages parallel Claude Code sessions, each bound to its own git worktree and its own IDE window. Start a session from the Grove tool window, get a dedicated...
-
-vendor: Damiano Derin
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.damiano1996.jetbrains.grove</description>
-      <pubDate>Sat, 15 Aug 2026 11:21:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33565-grove</guid>
-      <dc:date>2026-08-15T11:21:22Z</dc:date>
-    </item>
-    <item>
-      <title>Coroutine Leak Detector - Wed Aug 19 01:26:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33560-coroutine-leak-detector</link>
-      <description>Coroutine Leak Detector analyzes Kotlin code in Android projects to catch common coroutine and Flow lifecycle mistakes before they cause memory leaks or crashes in...
-
-vendor: Godark14
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.godark14.coroutineleakdetector</description>
-      <pubDate>Wed, 19 Aug 2026 01:26:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33560-coroutine-leak-detector</guid>
-      <dc:date>2026-08-19T01:26:12Z</dc:date>
     </item>
   </channel>
 </rss>
