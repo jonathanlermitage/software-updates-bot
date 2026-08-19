@@ -1,7 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/go.png) Go|go1.27.0|[golang.org](https://golang.org/dl/)|Wed Aug 19 20:14:07 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:14:00 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:13:59 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:13:57 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.7.1|[gradle.org](https://gradle.org/releases)|Wed Aug 19 16:17:54 UTC 2026|
-|![logo](../media/logo/go.png) Go|go1.26.7|[golang.org](https://golang.org/dl/)|Wed Aug 19 16:17:53 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 16:17:47 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
@@ -24,11 +27,8 @@
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.12+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:26 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:25 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:24 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.4+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Jul 28 10:21:42 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.4+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Jul 27 21:00:20 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 20:53:45 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 20:53:45 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.12+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 17:19:13 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 17:19:10 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2.1 (262.9437.22) ~ 2026-07-24|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Jul 24 13:27:30 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
