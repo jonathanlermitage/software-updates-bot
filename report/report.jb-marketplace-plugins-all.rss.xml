@@ -11,7 +11,7 @@
       <description>This plug-in is editor support for Context Mapper's CML, a DSL for Domain-Driven Design context mapping and service decomposition. Features: Recognizes .cml files...
 
 vendor: Mark Sosman
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.marksosman.dddcontextmapper</description>
       <pubDate>Mon, 17 Aug 2026 17:08:47 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: io.github.marksosman.dddcontextmapper</description>
       <description>Automatically routes implementation files to the left editor pane and header files to the right. Both sides are configurable with glob rules, so the same workflow can...
 
 vendor: Marlon Etheredge
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.me.splitHeadersSources</description>
       <pubDate>Mon, 17 Aug 2026 12:08:34 GMT</pubDate>
@@ -32,17 +32,17 @@ xmlId: dev.me.splitHeadersSources</description>
       <dc:date>2026-08-17T12:08:34Z</dc:date>
     </item>
     <item>
-      <title>SmartTranslate - Sun Aug 16 07:32:11 UTC 2026</title>
+      <title>SmartTranslate - Wed Aug 19 06:08:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33581-smarttranslate</link>
-      <description>SmartTranslate is an IntelliJ IDEA plugin that helps developers read English technical documentation by providing intelligent translation and grammar analysis...
+      <description>SmartTranslate helps you read English technical writing inside the IDE. Translate selected English to Chinese while keeping markup (Markdown, AsciiDoc, HTML, and...
 
 vendor: logan
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.logan.smarttranslate</description>
-      <pubDate>Sun, 16 Aug 2026 07:32:11 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 06:08:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33581-smarttranslate</guid>
-      <dc:date>2026-08-16T07:32:11Z</dc:date>
+      <dc:date>2026-08-19T06:08:12Z</dc:date>
     </item>
     <item>
       <title>Feign Client Mock - Tue Aug 18 07:44:57 UTC 2026</title>
@@ -50,7 +50,7 @@ xmlId: com.logan.smarttranslate</description>
       <description>An IntelliJ Plugin for Quickly Mocking Feign Client Responses This plugin allows developers to rapidly generate and preview Feign Client return values during...
 
 vendor: lizhiwei
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.lizhiwei88.feign.mock.agent.feign.mock.plugin</description>
       <pubDate>Tue, 18 Aug 2026 07:44:57 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.github.lizhiwei88.feign.mock.agent.feign.mock.plugin</description>
       <description>Generate commit messages with AI, right from the commit message toolbar. Click AI Generate to turn the diff of your selected changes into a commit message. Use the...
 
 vendor: liubsyy
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.liubsyy.ai-commit-message</description>
       <pubDate>Sat, 15 Aug 2026 11:13:01 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.kanicream.repolens</description>
       <description>intellij-spring-helm-env-hints is a plugin for navigating between Spring `application*.yml|yaml` configuration and Helm template environment variables under...
 
 vendor: kev007
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.kev007.intellijspringhelmenvhints</description>
       <pubDate>Mon, 17 Aug 2026 10:07:23 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.github.kev007.intellijspringhelmenvhints</description>
       <description>Place the caret on a variable, parameter, or field, run "Insert Log Statement", and get a real println (Kotlin) / System.out.println (Java) right after the enclosing...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.turbologcompanion</description>
       <pubDate>Fri, 14 Aug 2026 14:24:12 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: dev.gaphunter.turbologcompanion</description>
       <description>Select an identifier (or just place the caret on one -- no selection needed) and instantly convert it between camelCase, PascalCase, snake_case, kebab-case, and...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.changecasecompanion</description>
       <pubDate>Fri, 14 Aug 2026 14:25:40 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: dev.gaphunter.changecasecompanion</description>
       <description>Select a JSON object -- in a .json file, a string literal, anywhere -- run "Generate Class from JSON", and get a real Java POJO or Kotlin data class with field types...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.jsontocodecompanion</description>
       <pubDate>Fri, 14 Aug 2026 14:28:44 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: dev.gaphunter.jsontocodecompanion</description>
       <description>Select exactly two env-style files in the Project view -- .env vs .env.example, .env.development vs .env.production, anything with KEY=VALUE lines -- run "Compare Env...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.envdiffcompanion</description>
       <pubDate>Fri, 14 Aug 2026 14:30:13 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: dev.gaphunter.envdiffcompanion</description>
       <description>Run "Check Import Sizes" on a JS/TS file and get a real report of every node_modules package it imports, sorted by on-disk size, with unusually large ones flagged...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.importcostcompanion</description>
       <pubDate>Fri, 14 Aug 2026 14:31:28 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: dev.gaphunter.importcostcompanion</description>
       <description>A tool window with a pattern field and a sample-text area -- type a regex, type or paste sample text, and every match is highlighted live as you type, with a real...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.regexpreviewcompanion</description>
       <pubDate>Fri, 14 Aug 2026 14:32:46 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: dev.gaphunter.regexpreviewcompanion</description>
       <description>Shows errors and warnings inline, at the end of the line that has them, instead of only as a gutter icon or squiggly underline you have to hover to read. Ports the...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.errorlenscompanion</description>
       <pubDate>Fri, 14 Aug 2026 14:34:12 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.godwin.cratescope</description>
       <description>Local one-click CI inside your IDE: keep any number of projects up to date with a single click — git pull, install/restore, build and test, all out of process and in...
 
 vendor: gilde.org
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: org.gilde.checkoutandbuild</description>
       <pubDate>Tue, 18 Aug 2026 19:31:23 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: org.gilde.checkoutandbuild</description>
       <description>Grove manages parallel Claude Code sessions, each bound to its own git worktree and its own IDE window. Start a session from the Grove tool window, get a dedicated...
 
 vendor: Damiano Derin
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.damiano1996.jetbrains.grove</description>
       <pubDate>Sat, 15 Aug 2026 11:21:22 GMT</pubDate>
