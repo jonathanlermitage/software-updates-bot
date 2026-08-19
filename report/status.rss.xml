@@ -4,15 +4,15 @@
     <title>software-updates-bot status</title>
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/status.rss.xml</link>
     <description>software-updates-bot status - https://github.com/jonathanlermitage/software-updates-bot</description>
-    <pubDate>Wed, 19 Aug 2026 00:35:50 GMT</pubDate>
+    <pubDate>Wed, 19 Aug 2026 04:27:49 GMT</pubDate>
     <dc:creator>Jonathan Lermitage</dc:creator>
-    <dc:date>2026-08-19T00:35:50Z</dc:date>
+    <dc:date>2026-08-19T04:27:49Z</dc:date>
     <item>
-      <title>FAILED -- Wed Aug 19 00:35:50 UTC 2026</title>
+      <title>FAILED -- Wed Aug 19 04:27:49 UTC 2026</title>
       <description>FAILED
 
 &lt;pre&gt;Checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
+java.io.IOException: Server returned HTTP response code: 502 for URL: https://inkscape.org/release/
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:2024)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1629)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
@@ -101,9 +101,9 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 2
 	at org.springframework.boot.loader.launch.JarLauncher.main(JarLauncher.java:40)
 
 &lt;/pre&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 00:35:50 GMT</pubDate>
+      <pubDate>Wed, 19 Aug 2026 04:27:49 GMT</pubDate>
       <guid isPermaLink="false" />
-      <dc:date>2026-08-19T00:35:50Z</dc:date>
+      <dc:date>2026-08-19T04:27:49Z</dc:date>
     </item>
   </channel>
 </rss>
