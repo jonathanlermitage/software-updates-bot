@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>PVS-Studio for JS and TS - Tue Aug 18 14:14:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33626-pvs-studio-for-js-and-ts</link>
-      <description>PVS-Studio is a static code analyzer for Enterprise (C, C++, C#, Go, and Java) and Web (JS and TS) development. It works under 64-bit systems in Windows, Linux and...
+      <title>Rust Inline Diagnostics - Wed Aug 19 21:53:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33671-rust-inline-diagnostics</link>
+      <description>Rust Inline Diagnostics displays Rust errors and warnings directly underneath the affected source code in RustRover. Instead of hovering over highlighted code to read...
 
-vendor: PVS-Studio LLC
+vendor: Jameel Sawafta
 downloads: 0
 pricingModel: FREE
-xmlId: com.pvsstudio.js</description>
-      <pubDate>Tue, 18 Aug 2026 14:14:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33626-pvs-studio-for-js-and-ts</guid>
-      <dc:date>2026-08-18T14:14:29Z</dc:date>
+xmlId: dev.rustdiagnostics.inline</description>
+      <pubDate>Wed, 19 Aug 2026 21:53:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33671-rust-inline-diagnostics</guid>
+      <dc:date>2026-08-19T21:53:39Z</dc:date>
     </item>
     <item>
-      <title>PVS-Studio for Go - Tue Aug 18 14:16:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33627-pvs-studio-for-go</link>
-      <description>PVS-Studio is a static code analyzer for Enterprise (C, C++, C#, Go, and Java) and Web (JS and TS) development. It works under 64-bit systems in Windows, Linux and...
+      <title>Cartographer - Wed Aug 19 02:47:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33644-cartographer</link>
+      <description>Cartographer visualizes OpenTelemetry trace output captured by the Cartographer Maven plugin during test runs, rendering it as a waterfall directly inside the IDE. It...
 
-vendor: PVS-Studio LLC
+vendor: evanchooly
 downloads: 0
 pricingModel: FREE
-xmlId: com.pvsstudio.golang</description>
-      <pubDate>Tue, 18 Aug 2026 14:16:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33627-pvs-studio-for-go</guid>
-      <dc:date>2026-08-18T14:16:38Z</dc:date>
+xmlId: com.antwerkz.cartographer</description>
+      <pubDate>Wed, 19 Aug 2026 02:47:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33644-cartographer</guid>
+      <dc:date>2026-08-19T02:47:32Z</dc:date>
     </item>
     <item>
-      <title>Context Mapper - Wed Aug 19 12:51:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33611-context-mapper</link>
-      <description>This plug-in is editor support for Context Mapper's CML, a DSL for Domain-Driven Design context mapping and service decomposition. Features: Recognizes .cml files...
-
-vendor: Mark Sosman
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.marksosman.dddcontextmapper</description>
-      <pubDate>Wed, 19 Aug 2026 12:51:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33611-context-mapper</guid>
-      <dc:date>2026-08-19T12:51:34Z</dc:date>
-    </item>
-    <item>
-      <title>Split Headers &amp; Sources - Mon Aug 17 12:08:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33604-split-headers--sources</link>
-      <description>Automatically routes implementation files to the left editor pane and header files to the right. Both sides are configurable with glob rules, so the same workflow can...
-
-vendor: Marlon Etheredge
-downloads: 1
-pricingModel: FREE
-xmlId: dev.me.splitHeadersSources</description>
-      <pubDate>Mon, 17 Aug 2026 12:08:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33604-split-headers--sources</guid>
-      <dc:date>2026-08-17T12:08:34Z</dc:date>
-    </item>
-    <item>
-      <title>SmartTranslate - Wed Aug 19 06:08:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33581-smarttranslate</link>
-      <description>SmartTranslate helps you read English technical writing inside the IDE. Translate selected English to Chinese while keeping markup (Markdown, AsciiDoc, HTML, and...
-
-vendor: logan
-downloads: 2
-pricingModel: FREE
-xmlId: com.logan.smarttranslate</description>
-      <pubDate>Wed, 19 Aug 2026 06:08:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33581-smarttranslate</guid>
-      <dc:date>2026-08-19T06:08:12Z</dc:date>
-    </item>
-    <item>
-      <title>Feign Client Mock - Tue Aug 18 07:44:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33534-feign-client-mock</link>
-      <description>An IntelliJ Plugin for Quickly Mocking Feign Client Responses This plugin allows developers to rapidly generate and preview Feign Client return values during...
-
-vendor: lizhiwei
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.lizhiwei88.feign.mock.agent.feign.mock.plugin</description>
-      <pubDate>Tue, 18 Aug 2026 07:44:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33534-feign-client-mock</guid>
-      <dc:date>2026-08-18T07:44:57Z</dc:date>
-    </item>
-    <item>
-      <title>ai-commit-message - Sat Aug 15 11:13:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33564-ai-commit-message</link>
-      <description>Generate commit messages with AI, right from the commit message toolbar. Click AI Generate to turn the diff of your selected changes into a commit message. Use the...
-
-vendor: liubsyy
-downloads: 3
-pricingModel: FREE
-xmlId: com.liubsyy.ai-commit-message</description>
-      <pubDate>Sat, 15 Aug 2026 11:13:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33564-ai-commit-message</guid>
-      <dc:date>2026-08-15T11:13:01Z</dc:date>
-    </item>
-    <item>
-      <title>Repo Lens - Sun Aug 16 01:55:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33576-repo-lens</link>
-      <description>A code review navigator. Repo Lens collects review candidates into one tool window, jumps from any finding straight to the code, and copies findings as structured...
+      <title>Flow Lens - Wed Aug 19 06:36:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33650-flow-lens</link>
+      <description>Flow Lens turns a selected function into an explorable map of what runs next. Put the caret in a method, run Analyze Flow, and read the execution path forward from...
 
 vendor: kani-cream
+downloads: 0
+pricingModel: FREE
+xmlId: com.kanicream.flowlens</description>
+      <pubDate>Wed, 19 Aug 2026 06:36:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33650-flow-lens</guid>
+      <dc:date>2026-08-19T06:36:23Z</dc:date>
+    </item>
+    <item>
+      <title>Bitbucket Pipelines - Wed Aug 19 10:15:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33663-bitbucket-pipelines</link>
+      <description>Watch Bitbucket Cloud Pipelines without leaving the IDE. The Bitbucket Pipelines tool window drills down through your workspace — Bitbucket project → repository → run...
+
+vendor: LukmarSoft
+downloads: 0
+pricingModel: FREE
+xmlId: com.lukmarsoft.bbpipelines</description>
+      <pubDate>Wed, 19 Aug 2026 10:15:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33663-bitbucket-pipelines</guid>
+      <dc:date>2026-08-19T10:15:42Z</dc:date>
+    </item>
+    <item>
+      <title>Angular Signal Inspection - Wed Aug 19 16:56:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33667-angular-signal-inspection</link>
+      <description>Detects Angular signals that are referenced in templates without being invoked. The inspection supports Angular template interpolations and control-flow expressions...
+
+vendor: Angular Singnals Inspections
+downloads: 0
+pricingModel: FREE
+xmlId: dev.angularsignals.inspection</description>
+      <pubDate>Wed, 19 Aug 2026 16:56:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33667-angular-signal-inspection</guid>
+      <dc:date>2026-08-19T16:56:21Z</dc:date>
+    </item>
+    <item>
+      <title>Binary Template Support - Wed Aug 19 01:14:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33617-binary-template-support</link>
+      <description>Language support for 010 Editor Binary Template (.bt) files in IntelliJ-based IDEs. Provides syntax highlighting, completion for the official language vocabulary...
+
+vendor: feiju12138
+downloads: 0
+pricingModel: FREE
+xmlId: cn.fj.loli.binarytemplatesupport</description>
+      <pubDate>Wed, 19 Aug 2026 01:14:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33617-binary-template-support</guid>
+      <dc:date>2026-08-19T01:14:16Z</dc:date>
+    </item>
+    <item>
+      <title>Kaitai Struct Support - Wed Aug 19 01:59:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33642-kaitai-struct-support</link>
+      <description>Language support for Kaitai Struct YAML (.ksy) files in IntelliJ-based IDEs. Provides YAML-style syntax highlighting, context-aware KSY completion, and optional Hex...
+
+vendor: feiju12138
+downloads: 0
+pricingModel: FREE
+xmlId: cn.fj.loli.kaitaistructsupport</description>
+      <pubDate>Wed, 19 Aug 2026 01:59:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33642-kaitai-struct-support</guid>
+      <dc:date>2026-08-19T01:59:41Z</dc:date>
+    </item>
+    <item>
+      <title>Apple Container Manager - Wed Aug 19 02:04:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33602-apple-container-manager</link>
+      <description>A native IntelliJ IDEA experience for managing Apple's container runtime not a generic Docker UI. Manage containers, images, volumes, networks, and the container...
+
+vendor: Edward
 downloads: 1
 pricingModel: FREE
-xmlId: com.kanicream.repolens</description>
-      <pubDate>Sun, 16 Aug 2026 01:55:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33576-repo-lens</guid>
-      <dc:date>2026-08-16T01:55:51Z</dc:date>
+xmlId: dev.containermanager.applecontainer</description>
+      <pubDate>Wed, 19 Aug 2026 02:04:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33602-apple-container-manager</guid>
+      <dc:date>2026-08-19T02:04:04Z</dc:date>
     </item>
     <item>
-      <title>Spring Helm Env Hints - Wed Aug 19 16:18:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33600-spring-helm-env-hints</link>
-      <description>Links Spring application*.yml|yaml configuration to the environment variables declared in Helm chart templates, with highlighting and two-way navigation. Env var...
+      <title>Lumina Engine - Wed Aug 19 13:39:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33643-lumina-engine</link>
+      <description>Rider support for the Lumina Engine: build, run and regenerate reflection code without leaving the IDE, and read reflected C++ headers with the reflection macros...
 
-vendor: kev007
-downloads: 1
+vendor: DrElliot
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.kev007.intellijspringhelmenvhints</description>
-      <pubDate>Wed, 19 Aug 2026 16:18:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33600-spring-helm-env-hints</guid>
-      <dc:date>2026-08-19T16:18:27Z</dc:date>
+xmlId: dev.lumina.engine</description>
+      <pubDate>Wed, 19 Aug 2026 13:39:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33643-lumina-engine</guid>
+      <dc:date>2026-08-19T13:39:31Z</dc:date>
     </item>
     <item>
-      <title>Turbo Log Companion - Fri Aug 14 14:24:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33548-turbo-log-companion</link>
-      <description>Place the caret on a variable, parameter, or field, run "Insert Log Statement", and get a real println (Kotlin) / System.out.println (Java) right after the enclosing...
+      <title>GitVaulty - Wed Aug 19 09:41:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33659-gitvaulty</link>
+      <description>Edit authorized GitVaulty encrypted files in the native JetBrains text editor without creating plaintext repository files.
 
-vendor: Gap Hunter Labs
-downloads: 2
+vendor: divB0
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.turbologcompanion</description>
-      <pubDate>Fri, 14 Aug 2026 14:24:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33548-turbo-log-companion</guid>
-      <dc:date>2026-08-14T14:24:12Z</dc:date>
+xmlId: io.github.divb0.gitvaulty</description>
+      <pubDate>Wed, 19 Aug 2026 09:41:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33659-gitvaulty</guid>
+      <dc:date>2026-08-19T09:41:08Z</dc:date>
     </item>
     <item>
-      <title>Change Case Companion - Fri Aug 14 14:25:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33549-change-case-companion</link>
-      <description>Select an identifier (or just place the caret on one -- no selection needed) and instantly convert it between camelCase, PascalCase, snake_case, kebab-case, and...
+      <title>WeRead Panel - Wed Aug 19 09:36:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33662-weread-panel</link>
+      <description>Embed WeChat Reading (WeRead) web version inside the IDE as a tool window, so you can switch between coding and reading with a single shortcut. 在 IDE...
 
-vendor: Gap Hunter Labs
-downloads: 2
+vendor: wechat-read
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.changecasecompanion</description>
-      <pubDate>Fri, 14 Aug 2026 14:25:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33549-change-case-companion</guid>
-      <dc:date>2026-08-14T14:25:40Z</dc:date>
+xmlId: com.weread.idea</description>
+      <pubDate>Wed, 19 Aug 2026 09:36:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33662-weread-panel</guid>
+      <dc:date>2026-08-19T09:36:56Z</dc:date>
     </item>
     <item>
-      <title>JSON to Code Companion - Fri Aug 14 14:28:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33550-json-to-code-companion</link>
-      <description>Select a JSON object -- in a .json file, a string literal, anywhere -- run "Generate Class from JSON", and get a real Java POJO or Kotlin data class with field types...
+      <title>Git Local Vault - Wed Aug 19 10:56:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33664-git-local-vault</link>
+      <description>Adds a dedicated Your Changes tab in the Version Control / Commit area for viewing local working-tree files that may not appear in IntelliJ's normal Git Changes view...
 
-vendor: Gap Hunter Labs
-downloads: 2
+vendor: AP DevTools
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.jsontocodecompanion</description>
-      <pubDate>Fri, 14 Aug 2026 14:28:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33550-json-to-code-companion</guid>
-      <dc:date>2026-08-14T14:28:44Z</dc:date>
+xmlId: com.gitlocalvault</description>
+      <pubDate>Wed, 19 Aug 2026 10:56:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33664-git-local-vault</guid>
+      <dc:date>2026-08-19T10:56:30Z</dc:date>
     </item>
     <item>
-      <title>Env Diff Companion - Fri Aug 14 14:30:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33551-env-diff-companion</link>
-      <description>Select exactly two env-style files in the Project view -- .env vs .env.example, .env.development vs .env.production, anything with KEY=VALUE lines -- run "Compare Env...
+      <title>MyBatis-Plus SQL Visualizer - Wed Aug 19 06:13:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33633-mybatis-plus-sql-visualizer</link>
+      <description>MyBatis-Plus SQL Visualizer is a debugging tool for MyBatis-Plus (and MyBatis-Plus-Join) inside IntelliJ IDEA: preview Wrapper chains, XML mappers and annotation SQL...
 
-vendor: Gap Hunter Labs
-downloads: 2
+vendor: SongRenShuo
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.envdiffcompanion</description>
-      <pubDate>Fri, 14 Aug 2026 14:30:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33551-env-diff-companion</guid>
-      <dc:date>2026-08-14T14:30:13Z</dc:date>
+xmlId: cn.song.mybatisplus.visualizer.mybatis-plus-sql-visualizer</description>
+      <pubDate>Wed, 19 Aug 2026 06:13:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33633-mybatis-plus-sql-visualizer</guid>
+      <dc:date>2026-08-19T06:13:22Z</dc:date>
     </item>
     <item>
-      <title>Import Cost Companion - Fri Aug 14 14:31:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33552-import-cost-companion</link>
-      <description>Run "Check Import Sizes" on a JS/TS file and get a real report of every node_modules package it imports, sorted by on-disk size, with unusually large ones flagged...
+      <title>Go2Cursor - Wed Aug 19 08:04:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33655-go2cursor</link>
+      <description>English Jump from the current caret position in JetBrains IDEs (IntelliJ IDEA, WebStorm, PyCharm, GoLand, and others) to the same file, line, and column in the Cursor...
 
-vendor: Gap Hunter Labs
-downloads: 2
+vendor: zhangxy
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.importcostcompanion</description>
-      <pubDate>Fri, 14 Aug 2026 14:31:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33552-import-cost-companion</guid>
-      <dc:date>2026-08-14T14:31:28Z</dc:date>
+xmlId: com.zxy.Go2Cursor</description>
+      <pubDate>Wed, 19 Aug 2026 08:04:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33655-go2cursor</guid>
+      <dc:date>2026-08-19T08:04:32Z</dc:date>
     </item>
     <item>
-      <title>Regex Preview Companion - Fri Aug 14 14:32:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33553-regex-preview-companion</link>
-      <description>A tool window with a pattern field and a sample-text area -- type a regex, type or paste sample text, and every match is highlighted live as you type, with a real...
+      <title>TicketStamp - Wed Aug 19 08:03:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33654-ticketstamp</link>
+      <description>Adds a button to the IntelliJ commit toolbar that reads the ticket number from your current Git branch and prepends it to the commit message. Branch names like...
 
-vendor: Gap Hunter Labs
-downloads: 2
+vendor: Raxakk
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.regexpreviewcompanion</description>
-      <pubDate>Fri, 14 Aug 2026 14:32:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33553-regex-preview-companion</guid>
-      <dc:date>2026-08-14T14:32:46Z</dc:date>
+xmlId: io.github.raxakk.ticketstamp</description>
+      <pubDate>Wed, 19 Aug 2026 08:03:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33654-ticketstamp</guid>
+      <dc:date>2026-08-19T08:03:46Z</dc:date>
     </item>
     <item>
-      <title>Error Lens Companion - Fri Aug 14 14:34:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33554-error-lens-companion</link>
-      <description>Shows errors and warnings inline, at the end of the line that has them, instead of only as a gutter icon or squiggly underline you have to hover to read. Ports the...
+      <title>CMS Sync - Wed Aug 19 20:29:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33669-cms-sync</link>
+      <description>Registers your Microsoft SQL Server instances in the IDE from a Central Management Server, mirroring its group tree as connection folders. Point the plugin at the...
 
-vendor: Gap Hunter Labs
-downloads: 2
+vendor: Leka
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.errorlenscompanion</description>
-      <pubDate>Fri, 14 Aug 2026 14:34:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33554-error-lens-companion</guid>
-      <dc:date>2026-08-14T14:34:12Z</dc:date>
+xmlId: com.mc1.cmssync</description>
+      <pubDate>Wed, 19 Aug 2026 20:29:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33669-cms-sync</guid>
+      <dc:date>2026-08-19T20:29:49Z</dc:date>
     </item>
     <item>
-      <title>OpenSCAD Support - Mon Aug 17 01:09:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33582-openscad-support</link>
-      <description>OpenSCAD Support OpenSCAD language plugin for IntelliJ Platform IDEs (Idea, PyCharm, etc). It provides : Preview split panel, based on OpenSCAD renderingSyntax...
+      <title>Spring URL Scanner - Wed Aug 19 11:14:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33665-spring-url-scanner</link>
+      <description>Spring URL Scanner finds Spring MVC controller endpoints and OpenFeign client mappings in Java projects. It scans project sources and dependency JARs, combines...
 
-vendor: Michael Parmeley
-downloads: 2
+vendor: Bo Ni
+downloads: 0
 pricingModel: FREE
-xmlId: com.mjparme.idea-openscad</description>
-      <pubDate>Mon, 17 Aug 2026 01:09:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33582-openscad-support</guid>
-      <dc:date>2026-08-17T01:09:08Z</dc:date>
+xmlId: me.nibo.spring-url-scanner</description>
+      <pubDate>Wed, 19 Aug 2026 11:14:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33665-spring-url-scanner</guid>
+      <dc:date>2026-08-19T11:14:42Z</dc:date>
     </item>
     <item>
-      <title>Smart Git Commit LLM - Tue Jul 28 05:46:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33193-smart-git-commit-llm</link>
-      <description>Automatically generates Git commit messages using an LLM.
+      <title>Auto Collapse on Open - Wed Aug 19 09:31:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33661-auto-collapse-on-open</link>
+      <description>Automatically collapses every available folding region when a file is opened. It works with folding regions supplied by any language plugin, so functions, methods...
 
-vendor: Jack Tom
-downloads: 1
+vendor: Вячеслав Стручков
+downloads: 0
 pricingModel: FREE
-xmlId: com.gxincp.diffcheck.smart-git-commit-llm</description>
-      <pubDate>Tue, 28 Jul 2026 05:46:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33193-smart-git-commit-llm</guid>
-      <dc:date>2026-07-28T05:46:03Z</dc:date>
+xmlId: dev.creatorishere.autoCollapseOnOpen</description>
+      <pubDate>Wed, 19 Aug 2026 09:31:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33661-auto-collapse-on-open</guid>
+      <dc:date>2026-08-19T09:31:40Z</dc:date>
     </item>
     <item>
-      <title>CrateScope - Sun Aug 16 16:38:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33587-cratescope</link>
-      <description>JetBrains' Rust tooling has never had a dependency view. Java developers get the Maven and Gradle tool windows; Rust developers get cargo tree in a terminal, or a...
+      <title>AI Commit Wdev - Wed Aug 19 05:56:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33648-ai-commit-wdev</link>
+      <description>AI Commit - generate commit messages with AI in one click, compatible with OpenAI API. 根据 Git 变更，一键生成可编辑的 AI Commit Message（OpenAI 兼容接口）。 在提交视图 / Git Log 工具栏一键生成...
 
-vendor: Godwin Joseph
-downloads: 2
+vendor: AI Commit wdev
+downloads: 0
 pricingModel: FREE
-xmlId: com.godwin.cratescope</description>
-      <pubDate>Sun, 16 Aug 2026 16:38:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33587-cratescope</guid>
-      <dc:date>2026-08-16T16:38:43Z</dc:date>
+xmlId: me.wdev.aicommit</description>
+      <pubDate>Wed, 19 Aug 2026 05:56:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33648-ai-commit-wdev</guid>
+      <dc:date>2026-08-19T05:56:10Z</dc:date>
     </item>
     <item>
-      <title>CheckoutAndBuild - Tue Aug 18 19:31:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33613-checkoutandbuild</link>
-      <description>Local one-click CI inside your IDE: keep any number of projects up to date with a single click — git pull, install/restore, build and test, all out of process and in...
+      <title>Animoria - Fri Aug 14 13:48:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32301-animoria</link>
+      <description>Animoria — Visual Asset Governance Workspace-wide discovery, governance, and reference tracing for animated (Lottie, Rive, GIF, APNG, SVG) and static (SVG, PNG, JPEG...
 
-vendor: gilde.org
+vendor: Sxnnyside Project
 downloads: 4
 pricingModel: FREE
-xmlId: org.gilde.checkoutandbuild</description>
-      <pubDate>Tue, 18 Aug 2026 19:31:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33613-checkoutandbuild</guid>
-      <dc:date>2026-08-18T19:31:23Z</dc:date>
+xmlId: com.sxnnyside.animoria</description>
+      <pubDate>Fri, 14 Aug 2026 13:48:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32301-animoria</guid>
+      <dc:date>2026-08-14T13:48:07Z</dc:date>
     </item>
   </channel>
 </rss>
