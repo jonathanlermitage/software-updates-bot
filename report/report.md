@@ -9,10 +9,10 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:25 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:13:59 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 16:17:47 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.12+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:26 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.4+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:27 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:26 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:14:00 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.4+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Jul 27 21:00:20 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 10:26:55 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 17:16:56 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 10:26:55 UTC 2026|

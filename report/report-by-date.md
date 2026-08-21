@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:27 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:27 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:26 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Aug 21 04:40:01 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2.2 (262.10315.19) ~ 2026-08-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Aug 20 12:36:05 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.0|[golang.org](https://golang.org/dl/)|Wed Aug 19 20:14:07 UTC 2026|
@@ -25,11 +28,8 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 10:26:55 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 30 13:23:45 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 13:42:31 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.4+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:27 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.12+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:26 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:25 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Jul 29 13:42:24 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.4+7|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Jul 27 21:00:20 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.20+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 20:53:45 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 24 17:19:10 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
