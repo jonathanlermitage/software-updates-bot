@@ -6,6 +6,136 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>File QuickSwitch - Wed Aug 19 23:58:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33672-file-quickswitch</link>
+      <description>Switch between related sibling files with configurable shortcuts. Cycle through scripts, markup, styles, and tests, jump directly to a category, and add custom...
+
+vendor: Patrick Kelleter
+downloads: 2
+pricingModel: FREE
+xmlId: patrick.kelleter.file-quick-switch</description>
+      <pubDate>Wed, 19 Aug 2026 23:58:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33672-file-quickswitch</guid>
+      <dc:date>2026-08-19T23:58:18Z</dc:date>
+    </item>
+    <item>
+      <title>Spring API Change Guard - Thu Aug 20 16:24:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33699-spring-api-change-guard</link>
+      <description>Detect potentially breaking Spring REST API changes directly inside IntelliJ IDEA by comparing the current API surface with the version stored at Git HEAD. Detects...
+
+vendor: Pravalika Satya
+downloads: 0
+pricingModel: FREE
+xmlId: com.pravalika.springapiguard</description>
+      <pubDate>Thu, 20 Aug 2026 16:24:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33699-spring-api-change-guard</guid>
+      <dc:date>2026-08-20T16:24:39Z</dc:date>
+    </item>
+    <item>
+      <title>ApiScope - Thu Aug 20 03:38:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33683-apiscope</link>
+      <description>ApiScope is a lightweight API client that lives in your IDE. Send a request straight from a Spring Controller method with one click, or just type a URL by hand. 背景...
+
+vendor: Red
+downloads: 0
+pricingModel: FREE
+xmlId: dev.red.apiscope</description>
+      <pubDate>Thu, 20 Aug 2026 03:38:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33683-apiscope</guid>
+      <dc:date>2026-08-20T03:38:50Z</dc:date>
+    </item>
+    <item>
+      <title>YAML &amp; Properties Converter - Thu Aug 20 08:09:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33687-yaml--properties-converter</link>
+      <description>Convert Spring Boot configuration between YAML and .properties files, fully offline, right inside your IDE. Nothing ever leaves your machine. ✨ 功能 YAML ⇄ Properties...
+
+vendor: Red
+downloads: 0
+pricingModel: FREE
+xmlId: dev.red.yaml2props</description>
+      <pubDate>Thu, 20 Aug 2026 08:09:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33687-yaml--properties-converter</guid>
+      <dc:date>2026-08-20T08:09:26Z</dc:date>
+    </item>
+    <item>
+      <title>Inventory Framework - Fri Aug 21 17:42:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33388-inventory-framework</link>
+      <description>Live preview for inventory-framework views.
+
+vendor: Natan Vieira
+downloads: 1
+pricingModel: FREE
+xmlId: me.devnatan.inventoryframework</description>
+      <pubDate>Fri, 21 Aug 2026 17:42:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33388-inventory-framework</guid>
+      <dc:date>2026-08-21T17:42:00Z</dc:date>
+    </item>
+    <item>
+      <title>SQLite Lens: SQLite Database File Viewer - Thu Aug 20 04:50:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33684-sqlite-lens-sqlite-database-file-viewer</link>
+      <description>SQLite Lens opens SQLite database files in the editor tab, straight off disk - read-only by design. The schema tree comes up first and rows page in as you scroll...
+
+vendor: Twilight Ventures
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.twilightventures.sqlitelens</description>
+      <pubDate>Thu, 20 Aug 2026 04:50:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33684-sqlite-lens-sqlite-database-file-viewer</guid>
+      <dc:date>2026-08-20T04:50:01Z</dc:date>
+    </item>
+    <item>
+      <title>mybatisLogTool - Fri Aug 21 14:41:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33719-mybatislogtool</link>
+      <description>MyBatisLogTool plugin. Captures MyBatis console log lines (==&amp;gt; Preparing: / ==&amp;gt; Parameters:), fills the ? placeholders with the real parameter values, and shows...
+
+vendor: rosemarysmile
+downloads: 0
+pricingModel: FREE
+xmlId: com.rosemarysmile.mybatislog</description>
+      <pubDate>Fri, 21 Aug 2026 14:41:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33719-mybatislogtool</guid>
+      <dc:date>2026-08-21T14:41:42Z</dc:date>
+    </item>
+    <item>
+      <title>FlashJump - Fri Aug 21 04:29:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33705-flashjump</link>
+      <description>FlashJump provides keyboard-driven label navigation for JetBrains IDEs. Type a search character, then press the label displayed at the destination to jump there...
+
+vendor: wcpwcp9
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.wuchunpeng777.flashjump</description>
+      <pubDate>Fri, 21 Aug 2026 04:29:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33705-flashjump</guid>
+      <dc:date>2026-08-21T04:29:52Z</dc:date>
+    </item>
+    <item>
+      <title>Auto Complete - Fri Aug 21 07:43:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33040-auto-complete</link>
+      <description>Lightweight AI inline code completion for JetBrains IDEs. Bring your own baseUrl / API key / model OpenAI-compatible endpoints (Ollama, vLLM, gateways, …) Profiles...
+
+vendor: Auto Complete
+downloads: 3
+pricingModel: FREE
+xmlId: io.autocomplete</description>
+      <pubDate>Fri, 21 Aug 2026 07:43:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33040-auto-complete</guid>
+      <dc:date>2026-08-21T07:43:00Z</dc:date>
+    </item>
+    <item>
+      <title>FlywayGuard - Fri Aug 21 19:28:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33651-flywayguard</link>
+      <description>FlywayGuard is a sentinel for Flyway migration scripts in IntelliJ IDEA - it detects and blocks Flyway version conflicts before commit, push, and merge. FlywayGuard...
+
+vendor: ccteam
+downloads: 2
+pricingModel: FREE
+xmlId: com.msxf.pai.flyway-guard</description>
+      <pubDate>Fri, 21 Aug 2026 19:28:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33651-flywayguard</guid>
+      <dc:date>2026-08-21T19:28:01Z</dc:date>
+    </item>
+    <item>
       <title>Czech Language Localization / Lokalizace IDE Do Cestiny - Thu Aug 20 14:03:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33691-czech-language-localization--lokalizace-ide-do-cestiny</link>
       <description>The Czech Language Localization for IJ IDEs family. Plugin lokalizace IntelliJ IDE do češtiny. Pro aktivaci přejděte do Settings | Appearance &amp;amp; Behavior | System...
@@ -134,136 +264,6 @@ xmlId: com.redspeeds.robust-lsp-plugin</description>
       <pubDate>Mon, 17 Aug 2026 11:02:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33441-robust-lsp</guid>
       <dc:date>2026-08-17T11:02:52Z</dc:date>
-    </item>
-    <item>
-      <title>CodeLens UML - Thu Aug 20 08:12:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/31421-codelens-uml</link>
-      <description>CodeLens UML - Live Class &amp;amp; Object Diagrams Generate interactive UML Class Diagrams from your Java codebase with a single click. During debugging, capture live UML...
-
-vendor: Adam Nashar
-downloads: 11
-pricingModel: PAID
-xmlId: com.codelens.uml</description>
-      <pubDate>Thu, 20 Aug 2026 08:12:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/31421-codelens-uml</guid>
-      <dc:date>2026-08-20T08:12:03Z</dc:date>
-    </item>
-    <item>
-      <title>Rust Inline Diagnostics - Thu Aug 20 10:56:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33671-rust-inline-diagnostics</link>
-      <description>Rust Inline Diagnostics displays Rust errors and warnings directly underneath the affected source code in compatible JetBrains IDEs. Instead of hovering over...
-
-vendor: Jameel Sawafta
-downloads: 17
-pricingModel: FREE
-xmlId: dev.rustdiagnostics.inline</description>
-      <pubDate>Thu, 20 Aug 2026 10:56:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33671-rust-inline-diagnostics</guid>
-      <dc:date>2026-08-20T10:56:14Z</dc:date>
-    </item>
-    <item>
-      <title>Cartographer - Wed Aug 19 02:47:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33644-cartographer</link>
-      <description>Cartographer visualizes OpenTelemetry trace output captured by the Cartographer Maven plugin during test runs, rendering it as a waterfall directly inside the IDE. It...
-
-vendor: evanchooly
-downloads: 7
-pricingModel: FREE
-xmlId: com.antwerkz.cartographer</description>
-      <pubDate>Wed, 19 Aug 2026 02:47:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33644-cartographer</guid>
-      <dc:date>2026-08-19T02:47:32Z</dc:date>
-    </item>
-    <item>
-      <title>Flow Lens - Wed Aug 19 06:36:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33650-flow-lens</link>
-      <description>Flow Lens turns a selected function into an explorable map of what runs next. Put the caret in a method, run Analyze Flow, and read the execution path forward from...
-
-vendor: kani-cream
-downloads: 7
-pricingModel: FREE
-xmlId: com.kanicream.flowlens</description>
-      <pubDate>Wed, 19 Aug 2026 06:36:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33650-flow-lens</guid>
-      <dc:date>2026-08-19T06:36:23Z</dc:date>
-    </item>
-    <item>
-      <title>Bitbucket Pipelines - Wed Aug 19 10:15:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33663-bitbucket-pipelines</link>
-      <description>Watch Bitbucket Cloud Pipelines without leaving the IDE. The Bitbucket Pipelines tool window drills down through your workspace — Bitbucket project → repository → run...
-
-vendor: LukmarSoft
-downloads: 15
-pricingModel: FREE
-xmlId: com.lukmarsoft.bbpipelines</description>
-      <pubDate>Wed, 19 Aug 2026 10:15:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33663-bitbucket-pipelines</guid>
-      <dc:date>2026-08-19T10:15:42Z</dc:date>
-    </item>
-    <item>
-      <title>Angular Signal Inspection - Wed Aug 19 16:56:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33667-angular-signal-inspection</link>
-      <description>Detects Angular signals that are referenced in templates without being invoked. The inspection supports Angular template interpolations and control-flow expressions...
-
-vendor: Angular Singnals Inspections
-downloads: 8
-pricingModel: FREE
-xmlId: dev.angularsignals.inspection</description>
-      <pubDate>Wed, 19 Aug 2026 16:56:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33667-angular-signal-inspection</guid>
-      <dc:date>2026-08-19T16:56:21Z</dc:date>
-    </item>
-    <item>
-      <title>Binary Template Support - Thu Aug 20 11:12:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33617-binary-template-support</link>
-      <description>Language support for 010 Editor Binary Template (.bt) files in IntelliJ-based IDEs. Provides syntax highlighting, completion for the official language vocabulary...
-
-vendor: feiju12138
-downloads: 17
-pricingModel: FREE
-xmlId: cn.fj.loli.binarytemplatesupport</description>
-      <pubDate>Thu, 20 Aug 2026 11:12:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33617-binary-template-support</guid>
-      <dc:date>2026-08-20T11:12:00Z</dc:date>
-    </item>
-    <item>
-      <title>Kaitai Struct Support - Thu Aug 20 11:13:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33642-kaitai-struct-support</link>
-      <description>Language support for Kaitai Struct YAML (.ksy) files in IntelliJ-based IDEs. Provides YAML-style syntax highlighting, context-aware KSY completion, and an optional Hex...
-
-vendor: feiju12138
-downloads: 22
-pricingModel: FREE
-xmlId: cn.fj.loli.kaitaistructsupport</description>
-      <pubDate>Thu, 20 Aug 2026 11:13:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33642-kaitai-struct-support</guid>
-      <dc:date>2026-08-20T11:13:07Z</dc:date>
-    </item>
-    <item>
-      <title>Apple Container Manager - Wed Aug 19 02:04:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33602-apple-container-manager</link>
-      <description>A native IntelliJ IDEA experience for managing Apple's container runtime not a generic Docker UI. Manage containers, images, volumes, networks, and the container...
-
-vendor: Edward
-downloads: 10
-pricingModel: FREE
-xmlId: dev.containermanager.applecontainer</description>
-      <pubDate>Wed, 19 Aug 2026 02:04:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33602-apple-container-manager</guid>
-      <dc:date>2026-08-19T02:04:04Z</dc:date>
-    </item>
-    <item>
-      <title>Lumina Engine - Wed Aug 19 13:39:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33643-lumina-engine</link>
-      <description>Rider support for the Lumina Engine: build, run and regenerate reflection code without leaving the IDE, and read reflected C++ headers with the reflection macros...
-
-vendor: DrElliot
-downloads: 6
-pricingModel: FREE
-xmlId: dev.lumina.engine</description>
-      <pubDate>Wed, 19 Aug 2026 13:39:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33643-lumina-engine</guid>
-      <dc:date>2026-08-19T13:39:31Z</dc:date>
     </item>
   </channel>
 </rss>
