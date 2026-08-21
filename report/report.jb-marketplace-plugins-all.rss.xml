@@ -76,7 +76,7 @@ xmlId: com.ai.dev.tools.languagePack.community.tr</description>
       <description>chrono is a lightweight time-tracking plugin that records exact active time per project into daily csv logs.
 
 vendor: AghayeKa
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.alirezakeshavarzd.chrono</description>
       <pubDate>Tue, 18 Aug 2026 20:21:21 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.github.alirezakeshavarzd.chrono</description>
       <description>Adds a persistent right-side column management panel for DataGrip, replacing the Ctrl+F12 popup with freeze, visibility, and navigation controls. How to open: Menu...
 
 vendor: tuboshu(cong)
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.cong.datagrip-column-sidebar</description>
       <pubDate>Thu, 20 Aug 2026 01:49:10 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.cong.datagrip-column-sidebar</description>
       <description>Analyze a user-defined business topic with a configurable local CLI provider, then refine evidence-backed business-flow reports interactively.
 
 vendor: CodeBecause
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.codebecause.jetbrains</description>
       <pubDate>Wed, 19 Aug 2026 04:59:48 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.codebecause.jetbrains</description>
       <description>Instantly optimize your development workflow by linking your Logitech devices directly with your IntelliJ IDE. The Logi Actions Plugin for IntelliJ acts as a...
 
 vendor: Logitech
-downloads: 49
+downloads: 72
 pricingModel: FREE
 xmlId: com.logi.logi-actions</description>
       <pubDate>Fri, 14 Aug 2026 11:49:50 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.logi.logi-actions</description>
       <description>Robust Toolbox language-server support for Rider, including completion, diagnostics, inlay hints, and navigation for YAML, C#, and Fluent files.
 
 vendor: RedSpeeds
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.redspeeds.robust-lsp-plugin</description>
       <pubDate>Mon, 17 Aug 2026 11:02:52 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.redspeeds.robust-lsp-plugin</description>
       <description>CodeLens UML - Live Class &amp;amp; Object Diagrams Generate interactive UML Class Diagrams from your Java codebase with a single click. During debugging, capture live UML...
 
 vendor: Adam Nashar
-downloads: 8
+downloads: 11
 pricingModel: PAID
 xmlId: com.codelens.uml</description>
       <pubDate>Thu, 20 Aug 2026 08:12:03 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.codelens.uml</description>
       <description>Rust Inline Diagnostics displays Rust errors and warnings directly underneath the affected source code in compatible JetBrains IDEs. Instead of hovering over...
 
 vendor: Jameel Sawafta
-downloads: 0
+downloads: 17
 pricingModel: FREE
 xmlId: dev.rustdiagnostics.inline</description>
       <pubDate>Thu, 20 Aug 2026 10:56:14 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: dev.rustdiagnostics.inline</description>
       <description>Cartographer visualizes OpenTelemetry trace output captured by the Cartographer Maven plugin during test runs, rendering it as a waterfall directly inside the IDE. It...
 
 vendor: evanchooly
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.antwerkz.cartographer</description>
       <pubDate>Wed, 19 Aug 2026 02:47:32 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.antwerkz.cartographer</description>
       <description>Flow Lens turns a selected function into an explorable map of what runs next. Put the caret in a method, run Analyze Flow, and read the execution path forward from...
 
 vendor: kani-cream
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.kanicream.flowlens</description>
       <pubDate>Wed, 19 Aug 2026 06:36:23 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.kanicream.flowlens</description>
       <description>Watch Bitbucket Cloud Pipelines without leaving the IDE. The Bitbucket Pipelines tool window drills down through your workspace — Bitbucket project → repository → run...
 
 vendor: LukmarSoft
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: com.lukmarsoft.bbpipelines</description>
       <pubDate>Wed, 19 Aug 2026 10:15:42 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.lukmarsoft.bbpipelines</description>
       <description>Detects Angular signals that are referenced in templates without being invoked. The inspection supports Angular template interpolations and control-flow expressions...
 
 vendor: Angular Singnals Inspections
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: dev.angularsignals.inspection</description>
       <pubDate>Wed, 19 Aug 2026 16:56:21 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.angularsignals.inspection</description>
       <description>Language support for 010 Editor Binary Template (.bt) files in IntelliJ-based IDEs. Provides syntax highlighting, completion for the official language vocabulary...
 
 vendor: feiju12138
-downloads: 2
+downloads: 17
 pricingModel: FREE
 xmlId: cn.fj.loli.binarytemplatesupport</description>
       <pubDate>Thu, 20 Aug 2026 11:12:00 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: cn.fj.loli.binarytemplatesupport</description>
       <description>Language support for Kaitai Struct YAML (.ksy) files in IntelliJ-based IDEs. Provides YAML-style syntax highlighting, context-aware KSY completion, and an optional Hex...
 
 vendor: feiju12138
-downloads: 2
+downloads: 22
 pricingModel: FREE
 xmlId: cn.fj.loli.kaitaistructsupport</description>
       <pubDate>Thu, 20 Aug 2026 11:13:07 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: cn.fj.loli.kaitaistructsupport</description>
       <description>A native IntelliJ IDEA experience for managing Apple's container runtime not a generic Docker UI. Manage containers, images, volumes, networks, and the container...
 
 vendor: Edward
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: dev.containermanager.applecontainer</description>
       <pubDate>Wed, 19 Aug 2026 02:04:04 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: dev.containermanager.applecontainer</description>
       <description>Rider support for the Lumina Engine: build, run and regenerate reflection code without leaving the IDE, and read reflected C++ headers with the reflection macros...
 
 vendor: DrElliot
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: dev.lumina.engine</description>
       <pubDate>Wed, 19 Aug 2026 13:39:31 GMT</pubDate>
