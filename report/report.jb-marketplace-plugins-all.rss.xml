@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Flatpak DevTools - Fri Aug 21 15:49:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33572-flatpak-devtools</link>
+      <description>Build, run, and validate Flatpak applications from your JetBrains IDE. Flatpak DevTools turns flatpak-builder into a first-class workflow with dedicated Run...
+
+vendor: André Paul Grandsire
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: io.github.andrepg.flatpak-support</description>
+      <pubDate>Fri, 21 Aug 2026 15:49:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33572-flatpak-devtools</guid>
+      <dc:date>2026-08-21T15:49:12Z</dc:date>
+    </item>
+    <item>
+      <title>MockFlow - Local Service Virtualization - Sun Aug 02 08:08:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33291-mockflow--local-service-virtualization</link>
+      <description>Local Service Virtualization &amp;amp; Embedded Mock Server inside IntelliJ IDEA MockFlow is a lightweight, code-aware embedded HTTP service virtualization platform built...
+
+vendor: veyrictech.com
+downloads: 2
+pricingModel: FREE
+xmlId: com.mockflow.plugin</description>
+      <pubDate>Sun, 02 Aug 2026 08:08:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33291-mockflow--local-service-virtualization</guid>
+      <dc:date>2026-08-02T08:08:10Z</dc:date>
+    </item>
+    <item>
       <title>Database Column Comments - Fri Aug 21 10:00:29 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33712-database-column-comments</link>
       <description>Database Column Comments Show database field types and comments directly in Data Editor and SQL Result Grid headers. Displays a field type on its own line above the...
@@ -238,32 +264,6 @@ xmlId: com.github.azmiao.gitmoji</description>
       <pubDate>Fri, 21 Aug 2026 07:35:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33707-git-emoji-lint</guid>
       <dc:date>2026-08-21T07:35:20Z</dc:date>
-    </item>
-    <item>
-      <title>Agents Deck - Thu Aug 20 21:30:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33623-agents-deck</link>
-      <description>Claude Code and Codex control panel for your JetBrains IDE. Agents Deck is the control panel around a coding agent, not another chat box: browse every session across...
-
-vendor: Agents Deck
-downloads: 21
-pricingModel: FREE
-xmlId: dev.agentsdeck.jetbrains</description>
-      <pubDate>Thu, 20 Aug 2026 21:30:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33623-agents-deck</guid>
-      <dc:date>2026-08-20T21:30:19Z</dc:date>
-    </item>
-    <item>
-      <title>Port Killer - Thu Aug 20 21:03:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33703-port-killer</link>
-      <description>Port Killer is a lightweight, zero-configuration tool window designed to instantly solve the dreaded "Web server failed to start. Port was already in use" error...
-
-vendor: M-Dabhi
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.mdabhi.portkillerplugin</description>
-      <pubDate>Thu, 20 Aug 2026 21:03:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33703-port-killer</guid>
-      <dc:date>2026-08-20T21:03:36Z</dc:date>
     </item>
   </channel>
 </rss>
