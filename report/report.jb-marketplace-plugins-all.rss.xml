@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>File QuickSwitch - Wed Aug 19 23:58:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33672-file-quickswitch</link>
-      <description>Switch between related sibling files with configurable shortcuts. Cycle through scripts, markup, styles, and tests, jump directly to a category, and add custom...
+      <title>Database Column Comments - Fri Aug 21 10:00:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33712-database-column-comments</link>
+      <description>Database Column Comments Show database field types and comments directly in Data Editor and SQL Result Grid headers. Displays a field type on its own line above the...
 
-vendor: Patrick Kelleter
-downloads: 2
-pricingModel: FREE
-xmlId: patrick.kelleter.file-quick-switch</description>
-      <pubDate>Wed, 19 Aug 2026 23:58:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33672-file-quickswitch</guid>
-      <dc:date>2026-08-19T23:58:18Z</dc:date>
-    </item>
-    <item>
-      <title>Spring API Change Guard - Thu Aug 20 16:24:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33699-spring-api-change-guard</link>
-      <description>Detect potentially breaking Spring REST API changes directly inside IntelliJ IDEA by comparing the current API surface with the version stored at Git HEAD. Detects...
-
-vendor: Pravalika Satya
+vendor: leiguoqing
 downloads: 0
 pricingModel: FREE
-xmlId: com.pravalika.springapiguard</description>
-      <pubDate>Thu, 20 Aug 2026 16:24:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33699-spring-api-change-guard</guid>
-      <dc:date>2026-08-20T16:24:39Z</dc:date>
+xmlId: com.github.leiguoqing.database-column-comments</description>
+      <pubDate>Fri, 21 Aug 2026 10:00:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33712-database-column-comments</guid>
+      <dc:date>2026-08-21T10:00:29Z</dc:date>
     </item>
     <item>
-      <title>ApiScope - Thu Aug 20 03:38:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33683-apiscope</link>
-      <description>ApiScope is a lightweight API client that lives in your IDE. Send a request straight from a Spring Controller method with one click, or just type a URL by hand. 背景...
+      <title>Settings Jump - Thu Aug 20 11:23:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33688-settings-jump</link>
+      <description>Fast navigation to JetBrains IDE settings pages. Search settings pages by name and hierarchy, open them directly. Mark favorites; they appear first when the popup...
 
-vendor: Red
-downloads: 0
-pricingModel: FREE
-xmlId: dev.red.apiscope</description>
-      <pubDate>Thu, 20 Aug 2026 03:38:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33683-apiscope</guid>
-      <dc:date>2026-08-20T03:38:50Z</dc:date>
-    </item>
-    <item>
-      <title>YAML &amp; Properties Converter - Thu Aug 20 08:09:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33687-yaml--properties-converter</link>
-      <description>Convert Spring Boot configuration between YAML and .properties files, fully offline, right inside your IDE. Nothing ever leaves your machine. ✨ 功能 YAML ⇄ Properties...
-
-vendor: Red
-downloads: 0
-pricingModel: FREE
-xmlId: dev.red.yaml2props</description>
-      <pubDate>Thu, 20 Aug 2026 08:09:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33687-yaml--properties-converter</guid>
-      <dc:date>2026-08-20T08:09:26Z</dc:date>
-    </item>
-    <item>
-      <title>Inventory Framework - Fri Aug 21 17:42:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33388-inventory-framework</link>
-      <description>Live preview for inventory-framework views.
-
-vendor: Natan Vieira
+vendor: kani-cream
 downloads: 1
 pricingModel: FREE
-xmlId: me.devnatan.inventoryframework</description>
-      <pubDate>Fri, 21 Aug 2026 17:42:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33388-inventory-framework</guid>
-      <dc:date>2026-08-21T17:42:00Z</dc:date>
+xmlId: com.github.kanicream.settingsjump</description>
+      <pubDate>Thu, 20 Aug 2026 11:23:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33688-settings-jump</guid>
+      <dc:date>2026-08-20T11:23:41Z</dc:date>
     </item>
     <item>
-      <title>SQLite Lens: SQLite Database File Viewer - Thu Aug 20 04:50:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33684-sqlite-lens-sqlite-database-file-viewer</link>
-      <description>SQLite Lens opens SQLite database files in the editor tab, straight off disk - read-only by design. The schema tree comes up first and rows page in as you scroll...
+      <title>Folder Tabs - Fri Aug 21 09:03:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33711-folder-tabs</link>
+      <description>Groups open editor tabs by their parent directory. Adds a two-row header above the editor: the upper row lists the directories of the files you have open, the lower...
 
-vendor: Twilight Ventures
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: com.twilightventures.sqlitelens</description>
-      <pubDate>Thu, 20 Aug 2026 04:50:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33684-sqlite-lens-sqlite-database-file-viewer</guid>
-      <dc:date>2026-08-20T04:50:01Z</dc:date>
-    </item>
-    <item>
-      <title>mybatisLogTool - Fri Aug 21 14:41:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33719-mybatislogtool</link>
-      <description>MyBatisLogTool plugin. Captures MyBatis console log lines (==&amp;gt; Preparing: / ==&amp;gt; Parameters:), fills the ? placeholders with the real parameter values, and shows...
-
-vendor: rosemarysmile
+vendor: kani-cream
 downloads: 0
 pricingModel: FREE
-xmlId: com.rosemarysmile.mybatislog</description>
-      <pubDate>Fri, 21 Aug 2026 14:41:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33719-mybatislogtool</guid>
-      <dc:date>2026-08-21T14:41:42Z</dc:date>
+xmlId: com.github.kanicream.foldertabs</description>
+      <pubDate>Fri, 21 Aug 2026 09:03:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33711-folder-tabs</guid>
+      <dc:date>2026-08-21T09:03:04Z</dc:date>
     </item>
     <item>
-      <title>FlashJump - Fri Aug 21 04:29:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33705-flashjump</link>
-      <description>FlashJump provides keyboard-driven label navigation for JetBrains IDEs. Type a search character, then press the label displayed at the destination to jump there...
+      <title>Syntax AI Chat Boat - Fri Aug 21 12:37:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33714-syntax-ai-chat-boat</link>
+      <description>Syntax AI Chat Boat - A powerful local AI assistant for Android Studio. Developed by Krishna.
 
-vendor: wcpwcp9
+vendor: krishnaTech
 downloads: 0
 pricingModel: FREE
-xmlId: com.github.wuchunpeng777.flashjump</description>
-      <pubDate>Fri, 21 Aug 2026 04:29:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33705-flashjump</guid>
-      <dc:date>2026-08-21T04:29:52Z</dc:date>
+xmlId: com.krishna.syntaxaichatboat</description>
+      <pubDate>Fri, 21 Aug 2026 12:37:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33714-syntax-ai-chat-boat</guid>
+      <dc:date>2026-08-21T12:37:40Z</dc:date>
     </item>
     <item>
-      <title>Auto Complete - Fri Aug 21 07:43:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33040-auto-complete</link>
-      <description>Lightweight AI inline code completion for JetBrains IDEs. Bring your own baseUrl / API key / model OpenAI-compatible endpoints (Ollama, vLLM, gateways, …) Profiles...
+      <title>SFTP Uploader - Thu Aug 20 13:06:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33621-sftp-uploader</link>
+      <description>Upload project files to configured remote servers over SFTP. Shared server profiles support hierarchical project-to-remote path mappings.
 
-vendor: Auto Complete
+vendor: kavo
 downloads: 3
 pricingModel: FREE
-xmlId: io.autocomplete</description>
-      <pubDate>Fri, 21 Aug 2026 07:43:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33040-auto-complete</guid>
-      <dc:date>2026-08-21T07:43:00Z</dc:date>
+xmlId: org.kavo.uploader.uploader</description>
+      <pubDate>Thu, 20 Aug 2026 13:06:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33621-sftp-uploader</guid>
+      <dc:date>2026-08-20T13:06:31Z</dc:date>
     </item>
     <item>
-      <title>FlywayGuard - Fri Aug 21 19:28:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33651-flywayguard</link>
-      <description>FlywayGuard is a sentinel for Flyway migration scripts in IntelliJ IDEA - it detects and blocks Flyway version conflicts before commit, push, and merge. FlywayGuard...
+      <title>HTTP Status Code Inline Companion - Thu Aug 20 01:41:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33673-http-status-code-inline-companion</link>
+      <description>Shows the official name of any HTTP status code (404 -&amp;gt; Not Found, 503 -&amp;gt; Service Unavailable) inline, right after the numeric literal, in Java and Kotlin code...
 
-vendor: ccteam
+vendor: Gap Hunter Labs
 downloads: 2
 pricingModel: FREE
-xmlId: com.msxf.pai.flyway-guard</description>
-      <pubDate>Fri, 21 Aug 2026 19:28:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33651-flywayguard</guid>
-      <dc:date>2026-08-21T19:28:01Z</dc:date>
+xmlId: dev.gaphunter.httpstatusinlinecompanion</description>
+      <pubDate>Thu, 20 Aug 2026 01:41:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33673-http-status-code-inline-companion</guid>
+      <dc:date>2026-08-20T01:41:07Z</dc:date>
     </item>
     <item>
-      <title>Czech Language Localization / Lokalizace IDE Do Cestiny - Thu Aug 20 14:03:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33691-czech-language-localization--lokalizace-ide-do-cestiny</link>
-      <description>The Czech Language Localization for IJ IDEs family. Plugin lokalizace IntelliJ IDE do češtiny. Pro aktivaci přejděte do Settings | Appearance &amp;amp; Behavior | System...
+      <title>Dockerfile Layer Size Companion - Thu Aug 20 01:43:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33674-dockerfile-layer-size-companion</link>
+      <description>Shows the real, on-disk size of each COPY/ADD layer in an open Dockerfile, inline -- computed by summing the actual file sizes of what gets copied from your local...
 
-vendor: Code
+vendor: Gap Hunter Labs
+downloads: 2
+pricingModel: FREE
+xmlId: dev.gaphunter.dockerfilelayersizecompanion</description>
+      <pubDate>Thu, 20 Aug 2026 01:43:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33674-dockerfile-layer-size-companion</guid>
+      <dc:date>2026-08-20T01:43:09Z</dc:date>
+    </item>
+    <item>
+      <title>Unused npm Script Companion - Thu Aug 20 01:47:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33676-unused-npm-script-companion</link>
+      <description>Gutter icon on every entry of an open package.json's "scripts" section, showing whether that script is actually referenced anywhere in your project -- or an orphan...
+
+vendor: Gap Hunter Labs
+downloads: 2
+pricingModel: FREE
+xmlId: dev.gaphunter.unusednpmscriptcompanion</description>
+      <pubDate>Thu, 20 Aug 2026 01:47:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33676-unused-npm-script-companion</guid>
+      <dc:date>2026-08-20T01:47:02Z</dc:date>
+    </item>
+    <item>
+      <title>Env Var Missing Companion - Thu Aug 20 01:49:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33677-env-var-missing-companion</link>
+      <description>Cross-checks every real environment-variable access in your open file (process.env.PORT, process.env["PORT"], os.environ["DEBUG"], os.environ.get("DEBUG...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.envvarmissingcompanion</description>
+      <pubDate>Thu, 20 Aug 2026 01:49:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33677-env-var-missing-companion</guid>
+      <dc:date>2026-08-20T01:49:34Z</dc:date>
+    </item>
+    <item>
+      <title>SQL String Concatenation Companion - Thu Aug 20 01:51:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33678-sql-string-concatenation-companion</link>
+      <description>Flags SQL queries built by unparameterized string concatenation or interpolation -- the classic SQL-injection shape -- in Java, Kotlin, and Python, and offers a real...
+
+vendor: Gap Hunter Labs
+downloads: 2
+pricingModel: FREE
+xmlId: dev.gaphunter.sqlconcatenationcompanion</description>
+      <pubDate>Thu, 20 Aug 2026 01:51:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33678-sql-string-concatenation-companion</guid>
+      <dc:date>2026-08-20T01:51:53Z</dc:date>
+    </item>
+    <item>
+      <title>Feature Flag Reference Companion - Thu Aug 20 01:53:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33679-feature-flag-reference-companion</link>
+      <description>Gutter icon next to every feature-flag-check call's key literal in Java/Kotlin code (isEnabled("checkout_v2"), variation("checkout_v2", false), and other common...
+
+vendor: Gap Hunter Labs
+downloads: 2
+pricingModel: FREE
+xmlId: dev.gaphunter.featureflagreferencecompanion</description>
+      <pubDate>Thu, 20 Aug 2026 01:53:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33679-feature-flag-reference-companion</guid>
+      <dc:date>2026-08-20T01:53:15Z</dc:date>
+    </item>
+    <item>
+      <title>Log Format String Companion - Thu Aug 20 01:54:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33680-log-format-string-companion</link>
+      <description>Flags a log message whose placeholder count doesn't match its argument count -- a common bug that today only surfaces at runtime: a leftover placeholder stays literal...
+
+vendor: Gap Hunter Labs
+downloads: 2
+pricingModel: FREE
+xmlId: dev.gaphunter.logformatstringcompanion</description>
+      <pubDate>Thu, 20 Aug 2026 01:54:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33680-log-format-string-companion</guid>
+      <dc:date>2026-08-20T01:54:38Z</dc:date>
+    </item>
+    <item>
+      <title>Commit Message Convention Companion - Thu Aug 20 01:55:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33681-commit-message-convention-companion</link>
+      <description>Validates the commit message you are currently writing, live, in the IntelliJ VCS Commit dialog -- against the Conventional Commits convention -- and shows the exact...
+
+vendor: Gap Hunter Labs
+downloads: 2
+pricingModel: FREE
+xmlId: dev.gaphunter.commitmessageconventioncompanion</description>
+      <pubDate>Thu, 20 Aug 2026 01:55:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33681-commit-message-convention-companion</guid>
+      <dc:date>2026-08-20T01:55:53Z</dc:date>
+    </item>
+    <item>
+      <title>Circular Dependency Companion - Thu Aug 20 02:50:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33675-circular-dependency-companion</link>
+      <description>Visualizes the dependency graph between modules of a multi-module Gradle or Maven project, and highlights real circular dependencies when they exist...
+
+vendor: Gap Hunter Labs
+downloads: 3
+pricingModel: FREE
+xmlId: dev.gaphunter.circulardependencycompanion</description>
+      <pubDate>Thu, 20 Aug 2026 02:50:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33675-circular-dependency-companion</guid>
+      <dc:date>2026-08-20T02:50:27Z</dc:date>
+    </item>
+    <item>
+      <title>Copy Extension - Fri Aug 21 07:59:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33708-copy-extension</link>
+      <description>Extended Copy Reference with line range support. Copies as path:line for single line or path:line-endLine for multi-line selection. Configurable path mode: Source...
+
+vendor: gnh
 downloads: 0
 pricingModel: FREE
-xmlId: com.ai.dev.tools.languagePack.community.cs</description>
-      <pubDate>Thu, 20 Aug 2026 14:03:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33691-czech-language-localization--lokalizace-ide-do-cestiny</guid>
-      <dc:date>2026-08-20T14:03:25Z</dc:date>
+xmlId: com.github.copyextension</description>
+      <pubDate>Fri, 21 Aug 2026 07:59:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33708-copy-extension</guid>
+      <dc:date>2026-08-21T07:59:45Z</dc:date>
     </item>
     <item>
-      <title>Hungarian Language Localization / Magyar Nyelvi Csomag - Thu Aug 20 14:05:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33692-hungarian-language-localization--magyar-nyelvi-csomag</link>
-      <description>The Hungarian Language Localization for IJ IDEs family. IntelliJ IDE helyi nyelvi bővítménye magyar nyelven. Az aktiváláshoz lépjen a Settings | Appearance &amp;amp...
+      <title>Commit Prompt Configurator - Fri Aug 21 12:05:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33698-commit-prompt-configurator</link>
+      <description>Skip the long trip through Settings every time you want to tweak the AI Assistant commit message prompt. This plugin adds a toolbar button that opens an editor...
 
-vendor: Code
-downloads: 0
-pricingModel: FREE
-xmlId: com.ai.dev.tools.languagePack.community.hu</description>
-      <pubDate>Thu, 20 Aug 2026 14:05:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33692-hungarian-language-localization--magyar-nyelvi-csomag</guid>
-      <dc:date>2026-08-20T14:05:47Z</dc:date>
-    </item>
-    <item>
-      <title>Polish Language Localization / Lokalizacja IDE Na Jezyk Polski - Thu Aug 20 14:07:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33693-polish-language-localization--lokalizacja-ide-na-jezyk-polski</link>
-      <description>The Polish Language Localization for IJ IDEs family. Wtyczka lokalizacyjna IntelliJ IDE na język polski. Aby ją aktywować, przejdź do Settings | Appearance &amp;amp...
-
-vendor: Code
-downloads: 0
-pricingModel: FREE
-xmlId: com.ai.dev.tools.languagePack.community.pl</description>
-      <pubDate>Thu, 20 Aug 2026 14:07:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33693-polish-language-localization--lokalizacja-ide-na-jezyk-polski</guid>
-      <dc:date>2026-08-20T14:07:00Z</dc:date>
-    </item>
-    <item>
-      <title>Chinese (Traditional) Language Localization - Thu Aug 20 14:11:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33694-chinese-traditional-language-localization</link>
-      <description>The Chinese (Traditional) Language Localization for IJ IDEs family. IntelliJ IDE 的本地化插件轉換為繁體中文。 要啟用它，請轉到 設定 | 外觀及行為 | 系統設定 | 語言和地區，然後選擇 Chinese...
-
-vendor: Code
-downloads: 0
-pricingModel: FREE
-xmlId: com.ai.dev.tools.languagePack.community.tw</description>
-      <pubDate>Thu, 20 Aug 2026 14:11:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33694-chinese-traditional-language-localization</guid>
-      <dc:date>2026-08-20T14:11:05Z</dc:date>
-    </item>
-    <item>
-      <title>Turkish Language Localization / IDE Turkce Yerellestirmesi - Thu Aug 20 14:12:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33695-turkish-language-localization--ide-turkce-yerellestirmesi</link>
-      <description>The Turkish Language Localization for IJ IDEs family. IntelliJ IDE'yi Türkçeye yerelleştirme eklentisi. Etkinleştirmek için Settings | Appearance &amp;amp; Behavior...
-
-vendor: Code
-downloads: 0
-pricingModel: FREE
-xmlId: com.ai.dev.tools.languagePack.community.tr</description>
-      <pubDate>Thu, 20 Aug 2026 14:12:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33695-turkish-language-localization--ide-turkce-yerellestirmesi</guid>
-      <dc:date>2026-08-20T14:12:13Z</dc:date>
-    </item>
-    <item>
-      <title>chrono - Tue Aug 18 20:21:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33639-chrono</link>
-      <description>chrono is a lightweight time-tracking plugin that records exact active time per project into daily csv logs.
-
-vendor: AghayeKa
+vendor: ConsciousDreams
 downloads: 4
 pricingModel: FREE
-xmlId: com.github.alirezakeshavarzd.chrono</description>
-      <pubDate>Tue, 18 Aug 2026 20:21:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33639-chrono</guid>
-      <dc:date>2026-08-18T20:21:21Z</dc:date>
+xmlId: it.consciousdreams.commit-prompt-configurator</description>
+      <pubDate>Fri, 21 Aug 2026 12:05:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33698-commit-prompt-configurator</guid>
+      <dc:date>2026-08-21T12:05:35Z</dc:date>
     </item>
     <item>
-      <title>DataGrid Column Sidebar - Thu Aug 20 01:49:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33530-datagrid-column-sidebar</link>
-      <description>Adds a persistent right-side column management panel for DataGrip, replacing the Ctrl+F12 popup with freeze, visibility, and navigation controls. How to open: Menu...
+      <title>ESDM - Mon Aug 17 12:40:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33606-esdm</link>
+      <description>Editor support for ESDM — Event-Sourced Domain Modeling — in every JetBrains IDE. ESDM describes a domain as YAML: bounded contexts, aggregates, commands, events...
 
-vendor: tuboshu(cong)
-downloads: 5
+vendor: edditech GmbH
+downloads: 2
 pricingModel: FREE
-xmlId: com.cong.datagrip-column-sidebar</description>
-      <pubDate>Thu, 20 Aug 2026 01:49:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33530-datagrid-column-sidebar</guid>
-      <dc:date>2026-08-20T01:49:10Z</dc:date>
+xmlId: net.edditech.esdm</description>
+      <pubDate>Mon, 17 Aug 2026 12:40:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33606-esdm</guid>
+      <dc:date>2026-08-17T12:40:03Z</dc:date>
     </item>
     <item>
-      <title>CodeBecause - Wed Aug 19 04:59:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33647-codebecause</link>
-      <description>Analyze a user-defined business topic with a configurable local CLI provider, then refine evidence-backed business-flow reports interactively.
+      <title>Git Emoji Lint - Fri Aug 21 07:35:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33707-git-emoji-lint</link>
+      <description>A plugin that adds emoji prefix templates to the Git commit message editor. Provides a toolbar button in the Commit tool window with 18 default commit type templates...
 
-vendor: CodeBecause
-downloads: 1
+vendor: AZMIAO-Repository
+downloads: 2
 pricingModel: FREE
-xmlId: com.codebecause.jetbrains</description>
-      <pubDate>Wed, 19 Aug 2026 04:59:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33647-codebecause</guid>
-      <dc:date>2026-08-19T04:59:48Z</dc:date>
+xmlId: com.github.azmiao.gitmoji</description>
+      <pubDate>Fri, 21 Aug 2026 07:35:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33707-git-emoji-lint</guid>
+      <dc:date>2026-08-21T07:35:20Z</dc:date>
     </item>
     <item>
-      <title>Logi Actions - Fri Aug 14 11:49:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/28933-logi-actions</link>
-      <description>Instantly optimize your development workflow by linking your Logitech devices directly with your IntelliJ IDE. The Logi Actions Plugin for IntelliJ acts as a...
+      <title>Agents Deck - Thu Aug 20 21:30:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33623-agents-deck</link>
+      <description>Claude Code and Codex control panel for your JetBrains IDE. Agents Deck is the control panel around a coding agent, not another chat box: browse every session across...
 
-vendor: Logitech
-downloads: 72
+vendor: Agents Deck
+downloads: 21
 pricingModel: FREE
-xmlId: com.logi.logi-actions</description>
-      <pubDate>Fri, 14 Aug 2026 11:49:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/28933-logi-actions</guid>
-      <dc:date>2026-08-14T11:49:50Z</dc:date>
+xmlId: dev.agentsdeck.jetbrains</description>
+      <pubDate>Thu, 20 Aug 2026 21:30:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33623-agents-deck</guid>
+      <dc:date>2026-08-20T21:30:19Z</dc:date>
     </item>
     <item>
-      <title>Robust LSP - Mon Aug 17 11:02:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33441-robust-lsp</link>
-      <description>Robust Toolbox language-server support for Rider, including completion, diagnostics, inlay hints, and navigation for YAML, C#, and Fluent files.
+      <title>Port Killer - Thu Aug 20 21:03:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33703-port-killer</link>
+      <description>Port Killer is a lightweight, zero-configuration tool window designed to instantly solve the dreaded "Web server failed to start. Port was already in use" error...
 
-vendor: RedSpeeds
-downloads: 3
+vendor: M-Dabhi
+downloads: 2
 pricingModel: FREE
-xmlId: com.redspeeds.robust-lsp-plugin</description>
-      <pubDate>Mon, 17 Aug 2026 11:02:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33441-robust-lsp</guid>
-      <dc:date>2026-08-17T11:02:52Z</dc:date>
+xmlId: com.github.mdabhi.portkillerplugin</description>
+      <pubDate>Thu, 20 Aug 2026 21:03:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33703-port-killer</guid>
+      <dc:date>2026-08-20T21:03:36Z</dc:date>
     </item>
   </channel>
 </rss>
