@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Maven Search (coderead) - Sun Aug 23 01:29:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33686-maven-search-coderead-</link>
+      <description>Maven Search is a Maven Central artifact search tool for IntelliJ IDEA, working the same way as the official Maven Search plugin. It searches Maven Central via the...
+
+vendor: MediNum
+downloads: 3
+pricingModel: FREE
+xmlId: com.dsh.maven-search</description>
+      <pubDate>Sun, 23 Aug 2026 01:29:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33686-maven-search-coderead-</guid>
+      <dc:date>2026-08-23T01:29:31Z</dc:date>
+    </item>
+    <item>
       <title>Flatpak DevTools - Fri Aug 21 15:49:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33572-flatpak-devtools</link>
       <description>Build, run, and validate Flatpak applications from your JetBrains IDE. Flatpak DevTools turns flatpak-builder into a first-class workflow with dedicated Run...
@@ -58,7 +71,7 @@ xmlId: com.github.kanicream.settingsjump</description>
       <dc:date>2026-08-20T11:23:41Z</dc:date>
     </item>
     <item>
-      <title>Folder Tabs - Fri Aug 21 09:03:04 UTC 2026</title>
+      <title>Folder Tabs - Sun Aug 23 01:55:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33711-folder-tabs</link>
       <description>Groups open editor tabs by their parent directory. Adds a two-row header above the editor: the upper row lists the directories of the files you have open, the lower...
 
@@ -66,9 +79,9 @@ vendor: kani-cream
 downloads: 0
 pricingModel: FREE
 xmlId: com.github.kanicream.foldertabs</description>
-      <pubDate>Fri, 21 Aug 2026 09:03:04 GMT</pubDate>
+      <pubDate>Sun, 23 Aug 2026 01:55:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33711-folder-tabs</guid>
-      <dc:date>2026-08-21T09:03:04Z</dc:date>
+      <dc:date>2026-08-23T01:55:46Z</dc:date>
     </item>
     <item>
       <title>Syntax AI Chat Boat - Fri Aug 21 12:37:40 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: net.edditech.esdm</description>
       <pubDate>Mon, 17 Aug 2026 12:40:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33606-esdm</guid>
       <dc:date>2026-08-17T12:40:03Z</dc:date>
-    </item>
-    <item>
-      <title>Git Emoji Lint - Fri Aug 21 07:35:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33707-git-emoji-lint</link>
-      <description>A plugin that adds emoji prefix templates to the Git commit message editor. Provides a toolbar button in the Commit tool window with 18 default commit type templates...
-
-vendor: AZMIAO-Repository
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.azmiao.gitmoji</description>
-      <pubDate>Fri, 21 Aug 2026 07:35:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33707-git-emoji-lint</guid>
-      <dc:date>2026-08-21T07:35:20Z</dc:date>
     </item>
   </channel>
 </rss>
