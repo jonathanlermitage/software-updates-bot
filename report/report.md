@@ -22,7 +22,7 @@
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2.2 (262.10315.19) ~ 2026-08-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Aug 20 12:36:05 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.1 (262.9437.185) ~ 2026-08-10|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Mon Aug 10 16:54:38 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.8.5 to 19.9.0 ~ 2026-08-10|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Tue Aug 11 01:05:13 UTC 2026|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.0 to 19.9.5 ~ 2026-08-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Aug 23 00:50:28 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 01:38:44 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.7.0|[nodejs.org](https://nodejs.org)|Thu Aug 06 01:40:35 UTC 2026|
