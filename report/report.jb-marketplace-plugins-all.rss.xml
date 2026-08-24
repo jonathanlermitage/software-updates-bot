@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AI Code Review Gate - Mon Aug 24 12:45:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33710-ai-code-review-gate</link>
+      <description>AI Code Review Gate reviews the selected changes with DeepSeek before IntelliJ IDEA creates a Git commit. 发现高风险问题时取消提交并展示结构化报告；API Key 由每位开发者配置并保存在 Password Safe。.
+
+vendor: suixq
+downloads: 1
+pricingModel: FREE
+xmlId: com.medcompany.ai-code-review-gate</description>
+      <pubDate>Mon, 24 Aug 2026 12:45:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33710-ai-code-review-gate</guid>
+      <dc:date>2026-08-24T12:45:42Z</dc:date>
+    </item>
+    <item>
       <title>Open Image Debugger - Sun Aug 23 04:35:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33640-open-image-debugger</link>
       <description>See image buffers while you debug C++. Plot OpenCV, Eigen and raw buffers straight from the debugger. Pan, zoom, inspect. Everything updates as you step, and you can...
@@ -251,19 +264,6 @@ xmlId: com.github.copyextension</description>
       <pubDate>Fri, 21 Aug 2026 07:59:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33708-copy-extension</guid>
       <dc:date>2026-08-21T07:59:45Z</dc:date>
-    </item>
-    <item>
-      <title>Commit Prompt Configurator - Fri Aug 21 12:05:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33698-commit-prompt-configurator</link>
-      <description>Skip the long trip through Settings every time you want to tweak the AI Assistant commit message prompt. This plugin adds a toolbar button that opens an editor...
-
-vendor: ConsciousDreams
-downloads: 10
-pricingModel: FREE
-xmlId: it.consciousdreams.commit-prompt-configurator</description>
-      <pubDate>Fri, 21 Aug 2026 12:05:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33698-commit-prompt-configurator</guid>
-      <dc:date>2026-08-21T12:05:35Z</dc:date>
     </item>
   </channel>
 </rss>
