@@ -11,7 +11,7 @@
       <description>See image buffers while you debug C++. Plot OpenCV, Eigen and raw buffers straight from the debugger. Pan, zoom, inspect. Everything updates as you step, and you can...
 
 vendor: OpenImageDebugger
-downloads: 6
+downloads: 17
 pricingModel: PAID
 xmlId: com.openimagedebugger</description>
       <pubDate>Sun, 23 Aug 2026 04:35:35 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.openimagedebugger</description>
       <description>Maven Search is a Maven Central artifact search tool for IntelliJ IDEA, working the same way as the official Maven Search plugin. It searches Maven Central via the...
 
 vendor: MediNum
-downloads: 4
+downloads: 35
 pricingModel: FREE
 xmlId: com.dsh.maven-search</description>
       <pubDate>Sun, 23 Aug 2026 01:29:31 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.dsh.maven-search</description>
       <description>Build, run, and validate Flatpak applications from your JetBrains IDE. Flatpak DevTools turns flatpak-builder into a first-class workflow with dedicated Run...
 
 vendor: André Paul Grandsire
-downloads: 5
+downloads: 13
 pricingModel: FREEMIUM
 xmlId: io.github.andrepg.flatpak-support</description>
       <pubDate>Fri, 21 Aug 2026 15:49:12 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: io.github.andrepg.flatpak-support</description>
       <description>Local Service Virtualization &amp;amp; Embedded Mock Server inside IntelliJ IDEA MockFlow is a lightweight, code-aware embedded HTTP service virtualization platform built...
 
 vendor: veyrictech.com
-downloads: 4
+downloads: 11
 pricingModel: FREE
 xmlId: com.mockflow.plugin</description>
       <pubDate>Sun, 02 Aug 2026 08:08:10 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.mockflow.plugin</description>
       <description>Database Column Comments Show database field types and comments directly in Data Editor and SQL Result Grid headers. Displays a field type on its own line above the...
 
 vendor: leiguoqing
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.leiguoqing.database-column-comments</description>
       <pubDate>Fri, 21 Aug 2026 10:00:29 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.github.leiguoqing.database-column-comments</description>
       <description>Fast navigation to JetBrains IDE settings pages. Search settings pages by name and hierarchy, open them directly. Mark favorites; they appear first when the popup...
 
 vendor: kani-cream
-downloads: 6
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.kanicream.settingsjump</description>
       <pubDate>Thu, 20 Aug 2026 11:23:41 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.github.kanicream.settingsjump</description>
       <description>Groups open editor tabs by their parent directory. Adds a two-row header above the editor: the upper row lists the directories of the files you have open, the lower...
 
 vendor: kani-cream
-downloads: 7
+downloads: 21
 pricingModel: FREE
 xmlId: com.github.kanicream.foldertabs</description>
       <pubDate>Sun, 23 Aug 2026 01:55:46 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.github.kanicream.foldertabs</description>
       <description>Syntax AI Chat Boat - A powerful local AI assistant for Android Studio. Developed by Krishna.
 
 vendor: krishnaTech
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.krishna.syntaxaichatboat</description>
       <pubDate>Fri, 21 Aug 2026 12:37:40 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: org.kavo.uploader.uploader</description>
       <description>Shows the official name of any HTTP status code (404 -&amp;gt; Not Found, 503 -&amp;gt; Service Unavailable) inline, right after the numeric literal, in Java and Kotlin code...
 
 vendor: Gap Hunter Labs
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: dev.gaphunter.httpstatusinlinecompanion</description>
       <pubDate>Thu, 20 Aug 2026 01:41:07 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: dev.gaphunter.httpstatusinlinecompanion</description>
       <description>Shows the real, on-disk size of each COPY/ADD layer in an open Dockerfile, inline -- computed by summing the actual file sizes of what gets copied from your local...
 
 vendor: Gap Hunter Labs
-downloads: 12
+downloads: 16
 pricingModel: FREE
 xmlId: dev.gaphunter.dockerfilelayersizecompanion</description>
       <pubDate>Thu, 20 Aug 2026 01:43:09 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: dev.gaphunter.dockerfilelayersizecompanion</description>
       <description>Gutter icon on every entry of an open package.json's "scripts" section, showing whether that script is actually referenced anywhere in your project -- or an orphan...
 
 vendor: Gap Hunter Labs
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: dev.gaphunter.unusednpmscriptcompanion</description>
       <pubDate>Thu, 20 Aug 2026 01:47:02 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: dev.gaphunter.unusednpmscriptcompanion</description>
       <description>Cross-checks every real environment-variable access in your open file (process.env.PORT, process.env["PORT"], os.environ["DEBUG"], os.environ.get("DEBUG...
 
 vendor: Gap Hunter Labs
-downloads: 7
+downloads: 8
 pricingModel: FREE
 xmlId: dev.gaphunter.envvarmissingcompanion</description>
       <pubDate>Thu, 20 Aug 2026 01:49:34 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: dev.gaphunter.envvarmissingcompanion</description>
       <description>Flags SQL queries built by unparameterized string concatenation or interpolation -- the classic SQL-injection shape -- in Java, Kotlin, and Python, and offers a real...
 
 vendor: Gap Hunter Labs
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: dev.gaphunter.sqlconcatenationcompanion</description>
       <pubDate>Thu, 20 Aug 2026 01:51:53 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.gaphunter.sqlconcatenationcompanion</description>
       <description>Gutter icon next to every feature-flag-check call's key literal in Java/Kotlin code (isEnabled("checkout_v2"), variation("checkout_v2", false), and other common...
 
 vendor: Gap Hunter Labs
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: dev.gaphunter.featureflagreferencecompanion</description>
       <pubDate>Thu, 20 Aug 2026 01:53:15 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: dev.gaphunter.featureflagreferencecompanion</description>
       <description>Flags a log message whose placeholder count doesn't match its argument count -- a common bug that today only surfaces at runtime: a leftover placeholder stays literal...
 
 vendor: Gap Hunter Labs
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: dev.gaphunter.logformatstringcompanion</description>
       <pubDate>Thu, 20 Aug 2026 01:54:38 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.gaphunter.logformatstringcompanion</description>
       <description>Validates the commit message you are currently writing, live, in the IntelliJ VCS Commit dialog -- against the Conventional Commits convention -- and shows the exact...
 
 vendor: Gap Hunter Labs
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: dev.gaphunter.commitmessageconventioncompanion</description>
       <pubDate>Thu, 20 Aug 2026 01:55:53 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: dev.gaphunter.commitmessageconventioncompanion</description>
       <description>Visualizes the dependency graph between modules of a multi-module Gradle or Maven project, and highlights real circular dependencies when they exist...
 
 vendor: Gap Hunter Labs
-downloads: 9
+downloads: 10
 pricingModel: FREE
 xmlId: dev.gaphunter.circulardependencycompanion</description>
       <pubDate>Thu, 20 Aug 2026 02:50:27 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: dev.gaphunter.circulardependencycompanion</description>
       <description>Extended Copy Reference with line range support. Copies as path:line for single line or path:line-endLine for multi-line selection. Configurable path mode: Source...
 
 vendor: gnh
-downloads: 6
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.copyextension</description>
       <pubDate>Fri, 21 Aug 2026 07:59:45 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.github.copyextension</description>
       <description>Skip the long trip through Settings every time you want to tweak the AI Assistant commit message prompt. This plugin adds a toolbar button that opens an editor...
 
 vendor: ConsciousDreams
-downloads: 9
+downloads: 10
 pricingModel: FREE
 xmlId: it.consciousdreams.commit-prompt-configurator</description>
       <pubDate>Fri, 21 Aug 2026 12:05:35 GMT</pubDate>
