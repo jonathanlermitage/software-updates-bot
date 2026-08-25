@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Aug 25 08:28:26 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Aug 24 12:23:34 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Aug 24 12:23:33 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.0 to 19.9.5 ~ 2026-08-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Aug 23 00:50:28 UTC 2026|
@@ -27,7 +28,6 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 01:38:44 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.19.0|[nodejs.org](https://nodejs.org)|Mon Aug 03 14:26:14 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 17:16:56 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 10:26:55 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u502-b07|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Jul 31 10:26:55 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.32+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Jul 30 13:23:45 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 13:42:31 UTC 2026|
