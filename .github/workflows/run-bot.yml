@@ -16,7 +16,7 @@ jobs:
         uses: actions/setup-java@v5 # https://github.com/actions/setup-java
         with:
           distribution: 'temurin'
-          java-version: 21
+          java-version: 25
           cache: 'maven'
       - name: Build app
         run: ./mvnw --no-transfer-progress clean package -DskipTests -B -U
