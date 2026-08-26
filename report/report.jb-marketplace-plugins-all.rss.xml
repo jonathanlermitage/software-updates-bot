@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Herdr - Sun Aug 23 12:21:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33733-herdr</link>
+      <description>Runs herdr in its own tool window, separate from the built-in Terminal tool window, so it can be viewed alongside a regular shell or detached into its own floating...
+
+vendor: frega
+downloads: 4
+pricingModel: FREE
+xmlId: dev.lassen.herdr</description>
+      <pubDate>Sun, 23 Aug 2026 12:21:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33733-herdr</guid>
+      <dc:date>2026-08-23T12:21:28Z</dc:date>
+    </item>
+    <item>
       <title>EnvUi - Wed Aug 26 06:39:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33732-envui</link>
       <description>IDEs plugin for managing environment variables in a more suitable way.
@@ -58,7 +71,7 @@ xmlId: PMQOVMHDGGWOYLQ</description>
       <dc:date>2026-08-24T23:25:09Z</dc:date>
     </item>
     <item>
-      <title>SmartAgent - Sat Aug 22 14:13:02 UTC 2026</title>
+      <title>SmartAgent - Wed Aug 26 09:25:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33731-smartagent</link>
       <description>SmartAgent is an autonomous AI coding assistant.. Features intelligent project repo-mapping, local workspace file tools, autonomous planning, and custom architectural...
 
@@ -66,9 +79,9 @@ vendor: Code Smart AB
 downloads: 2
 pricingModel: FREE
 xmlId: se.kodasmart.smartagent</description>
-      <pubDate>Sat, 22 Aug 2026 14:13:02 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 09:25:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33731-smartagent</guid>
-      <dc:date>2026-08-22T14:13:02Z</dc:date>
+      <dc:date>2026-08-26T09:25:13Z</dc:date>
     </item>
     <item>
       <title>Docker Runner - Mon Aug 24 13:42:07 UTC 2026</title>
@@ -84,7 +97,7 @@ xmlId: com.olezelelabs.dockerrunner</description>
       <dc:date>2026-08-24T13:42:07Z</dc:date>
     </item>
     <item>
-      <title>Codex CLI Companion - Tue Aug 25 12:17:54 UTC 2026</title>
+      <title>Codex CLI Companion - Wed Aug 26 12:27:22 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33825-codex-cli-companion</link>
       <description>Unofficial terminal-first companion that launches the interactive Codex CLI in a dedicated JetBrains Terminal tab at the current project root, then stage project file...
 
@@ -92,12 +105,12 @@ vendor: lawlielt
 downloads: 1
 pricingModel: FREE
 xmlId: io.github.lawlielt.codex.jetbrains</description>
-      <pubDate>Tue, 25 Aug 2026 12:17:54 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:27:22 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33825-codex-cli-companion</guid>
-      <dc:date>2026-08-25T12:17:54Z</dc:date>
+      <dc:date>2026-08-26T12:27:22Z</dc:date>
     </item>
     <item>
-      <title>LingxiCode AI - Tue Aug 25 12:43:38 UTC 2026</title>
+      <title>LingxiCode AI - Wed Aug 26 11:47:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33826-lingxicode-ai</link>
       <description>LingxiCode AI - An AI-powered toolkit for JetBrains IDEs that brings large language models directly into your daily coding workflow. AI Commit Message Generation One...
 
@@ -105,9 +118,9 @@ vendor: Li Haitao
 downloads: 1
 pricingModel: FREE
 xmlId: com.lihtdev.lingxicode</description>
-      <pubDate>Tue, 25 Aug 2026 12:43:38 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 11:47:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33826-lingxicode-ai</guid>
-      <dc:date>2026-08-25T12:43:38Z</dc:date>
+      <dc:date>2026-08-26T11:47:28Z</dc:date>
     </item>
     <item>
       <title>Qoder CN Patch - Wed Aug 26 06:15:18 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: dev.gaphunter.prometheusmetricnamingcompanion</description>
       <pubDate>Tue, 25 Aug 2026 03:56:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33794-prometheus-metric-naming-companion</guid>
       <dc:date>2026-08-25T03:56:39Z</dc:date>
-    </item>
-    <item>
-      <title>Correlation ID Propagation Companion - Tue Aug 25 04:00:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33795-correlation-id-propagation-companion</link>
-      <description>Gutter warning icon on any Java/Kotlin Spring MVC handler method that receives a correlation/trace-id header via @RequestHeader and makes an outbound HTTP call in its...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.correlationidpropagationcompanion</description>
-      <pubDate>Tue, 25 Aug 2026 04:00:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33795-correlation-id-propagation-companion</guid>
-      <dc:date>2026-08-25T04:00:13Z</dc:date>
     </item>
   </channel>
 </rss>
