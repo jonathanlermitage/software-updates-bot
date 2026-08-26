@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Secrets Leak Detector - Wed Aug 26 10:09:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33844-secrets-leak-detector</link>
+      <description>Secrets Leak Detector scans your files and flags hardcoded secrets — API keys, tokens, and private keys — directly in the editor, before they end up in a commit. What...
+
+vendor: Godark14
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.godark14.secretsleakdetector</description>
+      <pubDate>Wed, 26 Aug 2026 10:09:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33844-secrets-leak-detector</guid>
+      <dc:date>2026-08-26T10:09:11Z</dc:date>
+    </item>
+    <item>
+      <title>tRPC Router - Tue Aug 25 20:52:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33839-trpc-router</link>
+      <description>Navigate tRPC TypeScript routers and procedures in the IDE. Understands t.router(), createTRPCRouter(), nested routers, and client calls like...
+
+vendor: LocaleProof
+downloads: 0
+pricingModel: PAID
+xmlId: com.localeproof.trpc</description>
+      <pubDate>Tue, 25 Aug 2026 20:52:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33839-trpc-router</guid>
+      <dc:date>2026-08-25T20:52:50Z</dc:date>
+    </item>
+    <item>
       <title>Drizzle Schema - Sat Aug 22 19:20:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33735-drizzle-schema</link>
       <description>Navigate and inspect Drizzle ORM TypeScript schemas in the IDE. Understands pgTable, mysqlTable, sqliteTable, and relations(). Go to the referenced table or column...
@@ -188,7 +214,7 @@ xmlId: dev.gaphunter.regexnamedgroupcompanion</description>
       <dc:date>2026-08-25T03:05:07Z</dc:date>
     </item>
     <item>
-      <title>Idempotency Key Companion - Tue Aug 25 03:21:45 UTC 2026</title>
+      <title>Idempotency Key Companion - Wed Aug 26 18:35:59 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33788-idempotency-key-companion</link>
       <description>Gutter warning icon on any Java/Kotlin Spring MVC @PostMapping/@PutMapping (or @RequestMapping(method = ...)) endpoint method with no @RequestHeader parameter for an...
 
@@ -196,12 +222,12 @@ vendor: Gap Hunter Labs
 downloads: 1
 pricingModel: FREE
 xmlId: dev.gaphunter.idempotencykeycompanion</description>
-      <pubDate>Tue, 25 Aug 2026 03:21:45 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 18:35:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33788-idempotency-key-companion</guid>
-      <dc:date>2026-08-25T03:21:45Z</dc:date>
+      <dc:date>2026-08-26T18:35:59Z</dc:date>
     </item>
     <item>
-      <title>Webhook Signature Companion - Tue Aug 25 03:24:11 UTC 2026</title>
+      <title>Webhook Signature Companion - Wed Aug 26 18:50:23 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33789-webhook-signature-companion</link>
       <description>Gutter warning icon on any Java/Kotlin Spring MVC endpoint whose mapping path contains "webhook" with no signature-verification signal anywhere in the handler body...
 
@@ -209,12 +235,12 @@ vendor: Gap Hunter Labs
 downloads: 1
 pricingModel: FREE
 xmlId: dev.gaphunter.webhooksignaturecompanion</description>
-      <pubDate>Tue, 25 Aug 2026 03:24:11 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 18:50:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33789-webhook-signature-companion</guid>
-      <dc:date>2026-08-25T03:24:11Z</dc:date>
+      <dc:date>2026-08-26T18:50:23Z</dc:date>
     </item>
     <item>
-      <title>Merge Conflict Leftover Companion - Tue Aug 25 03:32:26 UTC 2026</title>
+      <title>Merge Conflict Leftover Companion - Wed Aug 26 18:41:50 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33790-merge-conflict-leftover-companion</link>
       <description>Flags real Git merge-conflict markers (&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;, =======, &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;) left behind in any file -- a real, distinct problem from an...
 
@@ -222,12 +248,12 @@ vendor: Gap Hunter Labs
 downloads: 1
 pricingModel: FREE
 xmlId: dev.gaphunter.mergeconflictleftovercompanion</description>
-      <pubDate>Tue, 25 Aug 2026 03:32:26 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 18:41:50 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33790-merge-conflict-leftover-companion</guid>
-      <dc:date>2026-08-25T03:32:26Z</dc:date>
+      <dc:date>2026-08-26T18:41:50Z</dc:date>
     </item>
     <item>
-      <title>CORS Policy Companion - Tue Aug 25 03:37:43 UTC 2026</title>
+      <title>CORS Policy Companion - Wed Aug 26 18:32:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33791-cors-policy-companion</link>
       <description>Warning icon on any Java/Kotlin Spring @CrossOrigin(origins = "*", allowCredentials = "true") annotation (class- or method-level) -- this exact combination is...
 
@@ -235,35 +261,9 @@ vendor: Gap Hunter Labs
 downloads: 1
 pricingModel: FREE
 xmlId: dev.gaphunter.corspolicycompanion</description>
-      <pubDate>Tue, 25 Aug 2026 03:37:43 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 18:32:09 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33791-cors-policy-companion</guid>
-      <dc:date>2026-08-25T03:37:43Z</dc:date>
-    </item>
-    <item>
-      <title>PHP Composer Script Companion - Tue Aug 25 03:42:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33792-php-composer-script-companion</link>
-      <description>Gutter icon per "scripts" entry of an open composer.json, showing whether it's used or an orphan candidate -- checks the script's own composer.json (calling another...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.phpcomposerscriptcompanion</description>
-      <pubDate>Tue, 25 Aug 2026 03:42:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33792-php-composer-script-companion</guid>
-      <dc:date>2026-08-25T03:42:59Z</dc:date>
-    </item>
-    <item>
-      <title>Semver Bump Mismatch Companion - Tue Aug 25 03:53:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33793-semver-bump-mismatch-companion</link>
-      <description>Flags a CHANGELOG.md release entry (Keep a Changelog format) whose own body text reads as a breaking change (contains "BREAKING") but whose version, versus the release...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.semverbumpmismatchcompanion</description>
-      <pubDate>Tue, 25 Aug 2026 03:53:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33793-semver-bump-mismatch-companion</guid>
-      <dc:date>2026-08-25T03:53:06Z</dc:date>
+      <dc:date>2026-08-26T18:32:09Z</dc:date>
     </item>
   </channel>
 </rss>
