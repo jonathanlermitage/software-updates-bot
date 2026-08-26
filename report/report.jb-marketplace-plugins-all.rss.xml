@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Drizzle Schema - Sat Aug 22 19:20:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33735-drizzle-schema</link>
+      <description>Navigate and inspect Drizzle ORM TypeScript schemas in the IDE. Understands pgTable, mysqlTable, sqliteTable, and relations(). Go to the referenced table or column...
+
+vendor: LocaleProof
+downloads: 2
+pricingModel: PAID
+xmlId: com.localeproof.drizzle</description>
+      <pubDate>Sat, 22 Aug 2026 19:20:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33735-drizzle-schema</guid>
+      <dc:date>2026-08-22T19:20:28Z</dc:date>
+    </item>
+    <item>
       <title>Herdr - Sun Aug 23 12:21:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33733-herdr</link>
       <description>Runs herdr in its own tool window, separate from the built-in Terminal tool window, so it can be viewed alongside a regular shell or detached into its own floating...
@@ -58,16 +71,16 @@ xmlId: com.nazim.ai-commit-message</description>
       <dc:date>2026-08-23T21:19:49Z</dc:date>
     </item>
     <item>
-      <title>Spaceflow - Mon Aug 24 23:25:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33618-spaceflow</link>
-      <description>Spaceflow - boost your productivity - protect your flow - get back into the zone!.
+      <title>Spaceflow - by momomo - Mon Aug 24 23:25:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33618-spaceflow--by-momomo</link>
+      <description>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.
 
 vendor: momomo
 downloads: 9
 pricingModel: PAID
 xmlId: PMQOVMHDGGWOYLQ</description>
       <pubDate>Mon, 24 Aug 2026 23:25:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33618-spaceflow</guid>
+      <guid>https://plugins.jetbrains.com/plugin/33618-spaceflow--by-momomo</guid>
       <dc:date>2026-08-24T23:25:09Z</dc:date>
     </item>
     <item>
@@ -251,19 +264,6 @@ xmlId: dev.gaphunter.semverbumpmismatchcompanion</description>
       <pubDate>Tue, 25 Aug 2026 03:53:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33793-semver-bump-mismatch-companion</guid>
       <dc:date>2026-08-25T03:53:06Z</dc:date>
-    </item>
-    <item>
-      <title>Prometheus Metric Naming Companion - Tue Aug 25 03:56:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33794-prometheus-metric-naming-companion</link>
-      <description>Warning icon on any Java/Kotlin metric name literal that violates Prometheus's own documented naming conventions (prometheus.io/docs/practices/naming) -- recognizes...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.prometheusmetricnamingcompanion</description>
-      <pubDate>Tue, 25 Aug 2026 03:56:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33794-prometheus-metric-naming-companion</guid>
-      <dc:date>2026-08-25T03:56:39Z</dc:date>
     </item>
   </channel>
 </rss>
