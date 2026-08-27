@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>VRL (Vector Remap Language) - Thu Aug 27 17:26:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33859-vrl-vector-remap-language-</link>
+      <description>Language support for VRL (Vector Remap Language), the observability data transformation language from Vector. Syntax highlighting for all VRL literal kinds (strings...
+
+vendor: baptistecdr
+downloads: 0
+pricingModel: FREE
+xmlId: eu.bcosp.vrl-intellij</description>
+      <pubDate>Thu, 27 Aug 2026 17:26:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33859-vrl-vector-remap-language-</guid>
+      <dc:date>2026-08-27T17:26:54Z</dc:date>
+    </item>
+    <item>
+      <title>Lumen UI - Thu Aug 27 00:39:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33856-lumen-ui</link>
+      <description>Editor support for the Lumen UI framework: .lmn markup, Lumen CSS, and .rhai scripts. Syntax highlighting ships with the plugin. Diagnostics, completion, hover...
+
+vendor: Stel Studio Inc
+downloads: 0
+pricingModel: FREE
+xmlId: dev.lumenfx.lumen</description>
+      <pubDate>Thu, 27 Aug 2026 00:39:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33856-lumen-ui</guid>
+      <dc:date>2026-08-27T00:39:51Z</dc:date>
+    </item>
+    <item>
+      <title>Xxl Linker - Thu Aug 27 01:20:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33858-xxl-linker</link>
+      <description>Xxl Linker is dedicated to reducing the hassle of configuring projects on xxl-job and helping developers with tasks like remote debugging. Xxl...
+
+vendor: chonmb
+downloads: 0
+pricingModel: FREE
+xmlId: com.chonmb.xxl.link</description>
+      <pubDate>Thu, 27 Aug 2026 01:20:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33858-xxl-linker</guid>
+      <dc:date>2026-08-27T01:20:49Z</dc:date>
+    </item>
+    <item>
+      <title>Class-finder - Thu Aug 27 13:53:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33741-class-finder</link>
+      <description>Starts a local HTTP server inside IntelliJ IDEA so external tools (such as Claude Code) can query Java class information by class name. Query qualified name...
+
+vendor: iceCoco
+downloads: 1
+pricingModel: FREE
+xmlId: com.icecoco.class-finder</description>
+      <pubDate>Thu, 27 Aug 2026 13:53:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33741-class-finder</guid>
+      <dc:date>2026-08-27T13:53:30Z</dc:date>
+    </item>
+    <item>
+      <title>DeepSeek Harness (dsh-tui) - Thu Aug 27 14:19:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33869-deepseek-harness-dsh-tui-</link>
+      <description>Run dsh-TUI (DeepSeek Harness) in the real IntelliJ IDEA integrated terminal with a Claude Code-style experience: one-click new sessions, resume last or any historical...
+
+vendor: dsh-tui-idea
+downloads: 0
+pricingModel: FREE
+xmlId: com.dshui.idea</description>
+      <pubDate>Thu, 27 Aug 2026 14:19:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33869-deepseek-harness-dsh-tui-</guid>
+      <dc:date>2026-08-27T14:19:03Z</dc:date>
+    </item>
+    <item>
       <title>Orgbench: Salesforce Compare &amp; Deploy - Sat Aug 22 12:21:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33728-orgbench-salesforce-compare--deploy</link>
       <description>Orgbench — compare two Salesforce orgs and deploy only the difference, without leaving your IDE. Pick a source and a target — a Salesforce org or a local git...
@@ -199,71 +264,6 @@ xmlId: com.nazim.ai-commit-message</description>
       <pubDate>Sun, 23 Aug 2026 21:19:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33749-commit-messages-via-claude-code</guid>
       <dc:date>2026-08-23T21:19:49Z</dc:date>
-    </item>
-    <item>
-      <title>Spaceflow - by momomo - Mon Aug 24 23:25:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33618-spaceflow--by-momomo</link>
-      <description>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.
-
-vendor: momomo
-downloads: 20
-pricingModel: PAID
-xmlId: PMQOVMHDGGWOYLQ</description>
-      <pubDate>Mon, 24 Aug 2026 23:25:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33618-spaceflow--by-momomo</guid>
-      <dc:date>2026-08-24T23:25:09Z</dc:date>
-    </item>
-    <item>
-      <title>SmartAgent - Wed Aug 26 09:25:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33731-smartagent</link>
-      <description>SmartAgent is an autonomous AI coding assistant.. Features intelligent project repo-mapping, local workspace file tools, autonomous planning, and custom architectural...
-
-vendor: Code Smart AB
-downloads: 17
-pricingModel: FREE
-xmlId: se.kodasmart.smartagent</description>
-      <pubDate>Wed, 26 Aug 2026 09:25:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33731-smartagent</guid>
-      <dc:date>2026-08-26T09:25:13Z</dc:date>
-    </item>
-    <item>
-      <title>Docker Runner - Mon Aug 24 13:42:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33704-docker-runner</link>
-      <description>Docker Runner Uma ferramenta leve e eficiente para rodar e gerenciar o seu ambiente Docker diretamente da barra de navegação (Navbar) do seu IDE JetBrains com um único...
-
-vendor: DockerRunner
-downloads: 20
-pricingModel: FREE
-xmlId: com.olezelelabs.dockerrunner</description>
-      <pubDate>Mon, 24 Aug 2026 13:42:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33704-docker-runner</guid>
-      <dc:date>2026-08-24T13:42:07Z</dc:date>
-    </item>
-    <item>
-      <title>Codex CLI Companion - Wed Aug 26 12:27:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33825-codex-cli-companion</link>
-      <description>Unofficial terminal-first companion that launches the interactive Codex CLI in a dedicated JetBrains Terminal tab at the current project root, then stage project file...
-
-vendor: lawlielt
-downloads: 40
-pricingModel: FREE
-xmlId: io.github.lawlielt.codex.jetbrains</description>
-      <pubDate>Wed, 26 Aug 2026 12:27:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33825-codex-cli-companion</guid>
-      <dc:date>2026-08-26T12:27:22Z</dc:date>
-    </item>
-    <item>
-      <title>LingxiCode AI - Wed Aug 26 11:47:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33826-lingxicode-ai</link>
-      <description>LingxiCode AI - An AI-powered toolkit for JetBrains IDEs that brings large language models directly into your daily coding workflow. AI Commit Message Generation One...
-
-vendor: Li Haitao
-downloads: 30
-pricingModel: FREE
-xmlId: com.lihtdev.lingxicode</description>
-      <pubDate>Wed, 26 Aug 2026 11:47:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33826-lingxicode-ai</guid>
-      <dc:date>2026-08-26T11:47:28Z</dc:date>
     </item>
   </channel>
 </rss>
