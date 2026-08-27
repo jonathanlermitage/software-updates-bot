@@ -6,12 +6,116 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Orgbench: Salesforce Compare &amp; Deploy - Sat Aug 22 12:21:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33728-orgbench-salesforce-compare--deploy</link>
+      <description>Orgbench — compare two Salesforce orgs and deploy only the difference, without leaving your IDE. Pick a source and a target — a Salesforce org or a local git...
+
+vendor: Orgbench
+downloads: 2
+pricingModel: FREE
+xmlId: io.orgbench</description>
+      <pubDate>Sat, 22 Aug 2026 12:21:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33728-orgbench-salesforce-compare--deploy</guid>
+      <dc:date>2026-08-22T12:21:03Z</dc:date>
+    </item>
+    <item>
+      <title>SWIFT MT Validator - Tue Aug 25 18:40:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33836-swift-mt-validator</link>
+      <description>SWIFT MT Validator Paste a SWIFT MT (FIN) message and validate it — no web parser, no external tool, fully offline. For payments, correspondent-banking and integration...
+
+vendor: VadimToptunov
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.vadimtoptunov.swift-mt</description>
+      <pubDate>Tue, 25 Aug 2026 18:40:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33836-swift-mt-validator</guid>
+      <dc:date>2026-08-25T18:40:21Z</dc:date>
+    </item>
+    <item>
+      <title>Flaky Test Linter - Wed Aug 26 18:51:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33849-flaky-test-linter</link>
+      <description>Flaky Test Linter — lint your tests for the flakiness SAST ignores SonarQube, Semgrep and CodeQL lint your production code; your test suite is the blind spot. This...
+
+vendor: VadimToptunov
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.vadimtoptunov.flaky-lint</description>
+      <pubDate>Wed, 26 Aug 2026 18:51:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33849-flaky-test-linter</guid>
+      <dc:date>2026-08-26T18:51:14Z</dc:date>
+    </item>
+    <item>
+      <title>Open Commit - Wed Aug 26 06:01:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33756-open-commit</link>
+      <description>Generate commit messages with any OpenAI- or Anthropic-compatible LLM endpoint. Two LLM clients: openai-messages and anthropic-messages. Fully configurable endpoint...
+
+vendor: xiaozhukk
+downloads: 2
+pricingModel: FREE
+xmlId: com.xiao.opencommit</description>
+      <pubDate>Wed, 26 Aug 2026 06:01:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33756-open-commit</guid>
+      <dc:date>2026-08-26T06:01:17Z</dc:date>
+    </item>
+    <item>
+      <title>ColorPeek - Wed Aug 26 14:14:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33846-colorpeek</link>
+      <description>ColorPeek provides Java and Kotlin code with the gutter color preview and editing experience familiar from Android Studio resource files. Color values are shown as...
+
+vendor: DevCodexStudio
+downloads: 0
+pricingModel: FREE
+xmlId: online.devcodex.colorpeek</description>
+      <pubDate>Wed, 26 Aug 2026 14:14:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33846-colorpeek</guid>
+      <dc:date>2026-08-26T14:14:25Z</dc:date>
+    </item>
+    <item>
+      <title>Gradle Mirror Switcher - Tue Aug 25 23:41:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33837-gradle-mirror-switcher</link>
+      <description>Switch the Gradle Wrapper distributionUrl between the official gradle.org source and a China mirror (Tencent Cloud) with one click. When the active distributionUrl...
+
+vendor: gradle-mirror-switcher
+downloads: 2
+pricingModel: FREE
+xmlId: cn.com.9fzt.gradle.mirror-switcher</description>
+      <pubDate>Tue, 25 Aug 2026 23:41:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33837-gradle-mirror-switcher</guid>
+      <dc:date>2026-08-25T23:41:42Z</dc:date>
+    </item>
+    <item>
+      <title>Issue Link Push - Wed Aug 26 05:23:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33758-issue-link-push</link>
+      <description>Integrates IntelliJ IDEA Git workflows with the DevOps task system at devops.ctjsoft.com. The plugin is publicly installable, but its task features require an account...
+
+vendor: LKK
+downloads: 4
+pricingModel: FREE
+xmlId: com.ctjsoft.devops.issue-link-push</description>
+      <pubDate>Wed, 26 Aug 2026 05:23:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33758-issue-link-push</guid>
+      <dc:date>2026-08-26T05:23:03Z</dc:date>
+    </item>
+    <item>
+      <title>HjsonHighlighter - Wed Aug 26 11:28:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33843-hjsonhighlighter</link>
+      <description>HjsonHighlighter English: Hjson language support for IntelliJ IDEA and JetBrains Rider. Provides .hjson file recognition, file icons, JSON-like syntax highlighting...
+
+vendor: MoLing
+downloads: 2
+pricingModel: FREE
+xmlId: com.moling.HjsonHighlighter</description>
+      <pubDate>Wed, 26 Aug 2026 11:28:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33843-hjsonhighlighter</guid>
+      <dc:date>2026-08-26T11:28:04Z</dc:date>
+    </item>
+    <item>
       <title>Secrets Leak Detector - Wed Aug 26 10:09:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33844-secrets-leak-detector</link>
       <description>Secrets Leak Detector scans your files and flags hardcoded secrets — API keys, tokens, and private keys — directly in the editor, before they end up in a commit. What...
 
 vendor: Godark14
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.godark14.secretsleakdetector</description>
       <pubDate>Wed, 26 Aug 2026 10:09:11 GMT</pubDate>
@@ -24,7 +128,7 @@ xmlId: com.github.godark14.secretsleakdetector</description>
       <description>Navigate tRPC TypeScript routers and procedures in the IDE. Understands t.router(), createTRPCRouter(), nested routers, and client calls like...
 
 vendor: LocaleProof
-downloads: 0
+downloads: 2
 pricingModel: PAID
 xmlId: com.localeproof.trpc</description>
       <pubDate>Tue, 25 Aug 2026 20:52:50 GMT</pubDate>
@@ -37,7 +141,7 @@ xmlId: com.localeproof.trpc</description>
       <description>Navigate and inspect Drizzle ORM TypeScript schemas in the IDE. Understands pgTable, mysqlTable, sqliteTable, and relations(). Go to the referenced table or column...
 
 vendor: LocaleProof
-downloads: 2
+downloads: 4
 pricingModel: PAID
 xmlId: com.localeproof.drizzle</description>
       <pubDate>Sat, 22 Aug 2026 19:20:28 GMT</pubDate>
@@ -50,7 +154,7 @@ xmlId: com.localeproof.drizzle</description>
       <description>Runs herdr in its own tool window, separate from the built-in Terminal tool window, so it can be viewed alongside a regular shell or detached into its own floating...
 
 vendor: frega
-downloads: 4
+downloads: 7
 pricingModel: FREE
 xmlId: dev.lassen.herdr</description>
       <pubDate>Sun, 23 Aug 2026 12:21:28 GMT</pubDate>
@@ -63,7 +167,7 @@ xmlId: dev.lassen.herdr</description>
       <description>IDEs plugin for managing environment variables in a more suitable way.
 
 vendor: EnvUi
-downloads: 5
+downloads: 27
 pricingModel: FREE
 xmlId: com.tecknobit.envui.EnvUi</description>
       <pubDate>Wed, 26 Aug 2026 06:39:13 GMT</pubDate>
@@ -76,7 +180,7 @@ xmlId: com.tecknobit.envui.EnvUi</description>
       <description>Spryker Commerce OS development for IntelliJ IDEA and PhpStorm. Edit Transfer XML, OMS state machines, and Propel schemas with completion, documentation, validation...
 
 vendor: Ilscipio GmbH
-downloads: 0
+downloads: 8
 pricingModel: PAID
 xmlId: com.ilscipio.spryker</description>
       <pubDate>Tue, 25 Aug 2026 15:30:26 GMT</pubDate>
@@ -89,7 +193,7 @@ xmlId: com.ilscipio.spryker</description>
       <description>Generates a git commit message for the files you have ticked in the Commit tool window, and writes it straight into the commit message field. Unlike most...
 
 vendor: Nazım Araz
-downloads: 2
+downloads: 9
 pricingModel: FREE
 xmlId: com.nazim.ai-commit-message</description>
       <pubDate>Sun, 23 Aug 2026 21:19:49 GMT</pubDate>
@@ -102,7 +206,7 @@ xmlId: com.nazim.ai-commit-message</description>
       <description>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.
 
 vendor: momomo
-downloads: 9
+downloads: 20
 pricingModel: PAID
 xmlId: PMQOVMHDGGWOYLQ</description>
       <pubDate>Mon, 24 Aug 2026 23:25:09 GMT</pubDate>
@@ -115,7 +219,7 @@ xmlId: PMQOVMHDGGWOYLQ</description>
       <description>SmartAgent is an autonomous AI coding assistant.. Features intelligent project repo-mapping, local workspace file tools, autonomous planning, and custom architectural...
 
 vendor: Code Smart AB
-downloads: 2
+downloads: 17
 pricingModel: FREE
 xmlId: se.kodasmart.smartagent</description>
       <pubDate>Wed, 26 Aug 2026 09:25:13 GMT</pubDate>
@@ -128,7 +232,7 @@ xmlId: se.kodasmart.smartagent</description>
       <description>Docker Runner Uma ferramenta leve e eficiente para rodar e gerenciar o seu ambiente Docker diretamente da barra de navegação (Navbar) do seu IDE JetBrains com um único...
 
 vendor: DockerRunner
-downloads: 7
+downloads: 20
 pricingModel: FREE
 xmlId: com.olezelelabs.dockerrunner</description>
       <pubDate>Mon, 24 Aug 2026 13:42:07 GMT</pubDate>
@@ -141,7 +245,7 @@ xmlId: com.olezelelabs.dockerrunner</description>
       <description>Unofficial terminal-first companion that launches the interactive Codex CLI in a dedicated JetBrains Terminal tab at the current project root, then stage project file...
 
 vendor: lawlielt
-downloads: 1
+downloads: 40
 pricingModel: FREE
 xmlId: io.github.lawlielt.codex.jetbrains</description>
       <pubDate>Wed, 26 Aug 2026 12:27:22 GMT</pubDate>
@@ -154,116 +258,12 @@ xmlId: io.github.lawlielt.codex.jetbrains</description>
       <description>LingxiCode AI - An AI-powered toolkit for JetBrains IDEs that brings large language models directly into your daily coding workflow. AI Commit Message Generation One...
 
 vendor: Li Haitao
-downloads: 1
+downloads: 30
 pricingModel: FREE
 xmlId: com.lihtdev.lingxicode</description>
       <pubDate>Wed, 26 Aug 2026 11:47:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33826-lingxicode-ai</guid>
       <dc:date>2026-08-26T11:47:28Z</dc:date>
-    </item>
-    <item>
-      <title>Qoder CN Patch - Wed Aug 26 06:15:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33828-qoder-cn-patch</link>
-      <description>Qoder CN (Tongyi Lingma) feature restoration and enhancement companion plugin. Restores and enhances classic features removed or disabled in the latest Qoder CN...
-
-vendor: MirminaMirror
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.mirminamirror.qoder.cn.patch</description>
-      <pubDate>Wed, 26 Aug 2026 06:15:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33828-qoder-cn-patch</guid>
-      <dc:date>2026-08-26T06:15:18Z</dc:date>
-    </item>
-    <item>
-      <title>Error Indicator - Fri Aug 21 14:01:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33715-error-indicator</link>
-      <description>Error Indicator Meme for IntelliJ IDEA A plugin for IntelliJ IDEA that displays a reaction image based on the problems detected in the editor. It uses cat memes as a...
-
-vendor: IndicadorErrorMeme
-downloads: 3
-pricingModel: FREE
-xmlId: local.errorindicator</description>
-      <pubDate>Fri, 21 Aug 2026 14:01:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33715-error-indicator</guid>
-      <dc:date>2026-08-21T14:01:14Z</dc:date>
-    </item>
-    <item>
-      <title>Line Numbers - Tue Aug 25 01:58:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33784-line-numbers</link>
-      <description>Line Numbers display relative line numbers in your editor gutter, making navigation faster and more intuitive. Perfect for developers who prefer line numbers that...
-
-vendor: u0038
-downloads: 1
-pricingModel: FREE
-xmlId: com.u0038.line-numbers</description>
-      <pubDate>Tue, 25 Aug 2026 01:58:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33784-line-numbers</guid>
-      <dc:date>2026-08-25T01:58:14Z</dc:date>
-    </item>
-    <item>
-      <title>Regex Named Group Companion - Tue Aug 25 03:05:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33786-regex-named-group-companion</link>
-      <description>Shows the name of every named group ((?&amp;lt;year&amp;gt;\d{4})) inline, right on the line of any Java or Kotlin regex literal that has one -- no need to open a separate...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.regexnamedgroupcompanion</description>
-      <pubDate>Tue, 25 Aug 2026 03:05:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33786-regex-named-group-companion</guid>
-      <dc:date>2026-08-25T03:05:07Z</dc:date>
-    </item>
-    <item>
-      <title>Idempotency Key Companion - Wed Aug 26 18:35:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33788-idempotency-key-companion</link>
-      <description>Gutter warning icon on any Java/Kotlin Spring MVC @PostMapping/@PutMapping (or @RequestMapping(method = ...)) endpoint method with no @RequestHeader parameter for an...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.idempotencykeycompanion</description>
-      <pubDate>Wed, 26 Aug 2026 18:35:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33788-idempotency-key-companion</guid>
-      <dc:date>2026-08-26T18:35:59Z</dc:date>
-    </item>
-    <item>
-      <title>Webhook Signature Companion - Wed Aug 26 18:50:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33789-webhook-signature-companion</link>
-      <description>Gutter warning icon on any Java/Kotlin Spring MVC endpoint whose mapping path contains "webhook" with no signature-verification signal anywhere in the handler body...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.webhooksignaturecompanion</description>
-      <pubDate>Wed, 26 Aug 2026 18:50:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33789-webhook-signature-companion</guid>
-      <dc:date>2026-08-26T18:50:23Z</dc:date>
-    </item>
-    <item>
-      <title>Merge Conflict Leftover Companion - Wed Aug 26 18:41:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33790-merge-conflict-leftover-companion</link>
-      <description>Flags real Git merge-conflict markers (&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;, =======, &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;) left behind in any file -- a real, distinct problem from an...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.mergeconflictleftovercompanion</description>
-      <pubDate>Wed, 26 Aug 2026 18:41:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33790-merge-conflict-leftover-companion</guid>
-      <dc:date>2026-08-26T18:41:50Z</dc:date>
-    </item>
-    <item>
-      <title>CORS Policy Companion - Wed Aug 26 18:32:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33791-cors-policy-companion</link>
-      <description>Warning icon on any Java/Kotlin Spring @CrossOrigin(origins = "*", allowCredentials = "true") annotation (class- or method-level) -- this exact combination is...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.corspolicycompanion</description>
-      <pubDate>Wed, 26 Aug 2026 18:32:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33791-cors-policy-companion</guid>
-      <dc:date>2026-08-26T18:32:09Z</dc:date>
     </item>
   </channel>
 </rss>
