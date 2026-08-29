@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>WebView Runtime (Experimental) - Fri Aug 28 16:55:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33513-webview-runtime-experimental-</link>
-      <description>Provides an embedded WebView panel for IntelliJ-based IDEs, making it possible to build rich local IDE UI with the standard web stack. Supports HTML, CSS, JavaScript...
+      <title>DeepSeek Harness Integration - Sat Aug 29 14:32:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33924-deepseek-harness-integration</link>
+      <description>An independent community integration for using DeepSeek Harness (DSH) inside IntelliJ Platform IDEs. Embedded chat, sessions, history, tool cards, and runtime status...
 
-vendor: nerzhulart
-downloads: 7
-pricingModel: FREE
-xmlId: io.github.nerzhulart.webview</description>
-      <pubDate>Fri, 28 Aug 2026 16:55:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33513-webview-runtime-experimental-</guid>
-      <dc:date>2026-08-28T16:55:15Z</dc:date>
-    </item>
-    <item>
-      <title>Database Tools Plus - Fri Aug 28 01:12:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33840-database-tools-plus</link>
-      <description>Database Tools Plus Enhance IntelliJ IDEA database workflows with always-visible field metadata and persistent Database tree search. Displays a field type on its own...
-
-vendor: leiguoqing
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.leiguoqing.database-tools-plus</description>
-      <pubDate>Fri, 28 Aug 2026 01:12:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33840-database-tools-plus</guid>
-      <dc:date>2026-08-28T01:12:50Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Service Navigator - Tue Aug 25 18:00:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33835-spring-service-navigator</link>
-      <description>See your microservice call graph — works in Community Edition. Spring Service Navigator maps every inter-service HTTP call across all modules in your workspace and...
-
-vendor: CodeStackFoundry
-downloads: 2
-pricingModel: FREE
-xmlId: com.springnavigator</description>
-      <pubDate>Tue, 25 Aug 2026 18:00:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33835-spring-service-navigator</guid>
-      <dc:date>2026-08-25T18:00:20Z</dc:date>
-    </item>
-    <item>
-      <title>Ecko - Thu Aug 27 13:34:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33867-ecko</link>
-      <description>Language support for Ecko - the language where ai is a keyword, not an import. Works in every IntelliJ-based IDE, including the free Community editions. An LLM call is...
-
-vendor: Ecko
-downloads: 1
-pricingModel: FREE
-xmlId: sh.ecko.lang</description>
-      <pubDate>Thu, 27 Aug 2026 13:34:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33867-ecko</guid>
-      <dc:date>2026-08-27T13:34:29Z</dc:date>
-    </item>
-    <item>
-      <title>Global Notes - Thu Aug 27 14:59:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33871-global-notes</link>
-      <description>Keep persistent notes available across projects directly inside your JetBrains IDE. Global Notes provides a lightweight writing area that saves changes automatically...
-
-vendor: ThinkTankBG
-downloads: 1
-pricingModel: FREE
-xmlId: com.spavlov.globalnotes</description>
-      <pubDate>Thu, 27 Aug 2026 14:59:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33871-global-notes</guid>
-      <dc:date>2026-08-27T14:59:08Z</dc:date>
-    </item>
-    <item>
-      <title>Project Finder - Mon Aug 24 15:23:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33748-project-finder</link>
-      <description>Open any project by name, even one you have never opened in this IDE. Ctrl+Shift+O lists every folder of your project directories with its favicon or application icon...
-
-vendor: SzaboGabor
-downloads: 4
-pricingModel: FREE
-xmlId: hu.weboldalnet.project-switcher</description>
-      <pubDate>Mon, 24 Aug 2026 15:23:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33748-project-finder</guid>
-      <dc:date>2026-08-24T15:23:49Z</dc:date>
-    </item>
-    <item>
-      <title>i18n-doctor - Wed Aug 26 13:10:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33751-i18n-doctor</link>
-      <description>Live i18n diagnostics for JavaScript &amp;amp; TypeScript Underlines missing, unused, and duplicate translation keys as you type. Powered by the bundled i18n-doctor...
-
-vendor: i18n-doctor
-downloads: 4
-pricingModel: FREE
-xmlId: com.i18ndoctor.jetbrains</description>
-      <pubDate>Wed, 26 Aug 2026 13:10:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33751-i18n-doctor</guid>
-      <dc:date>2026-08-26T13:10:24Z</dc:date>
-    </item>
-    <item>
-      <title>DuckDB Lens: DuckDB Database File Viewer - Fri Aug 28 01:16:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33853-duckdb-lens-duckdb-database-file-viewer</link>
-      <description>DuckDB Lens opens DuckDB database files in the editor tab, straight off disk - read-only by design. The schema tree comes up first and rows page in as you scroll...
-
-vendor: Twilight Ventures
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.twilightventures.duckdblens</description>
-      <pubDate>Fri, 28 Aug 2026 01:16:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33853-duckdb-lens-duckdb-database-file-viewer</guid>
-      <dc:date>2026-08-28T01:16:18Z</dc:date>
-    </item>
-    <item>
-      <title>STALKER 2 Cfg Support - Fri Aug 28 08:31:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33872-stalker-2-cfg-support</link>
-      <description>Language support for STALKER 2 game data .cfg files: syntax highlighting, struct folding, structure view with refkey inheritance hints, brace matching and commenting...
-
-vendor: sdwvit
-downloads: 8
-pricingModel: FREE
-xmlId: com.sdwvit.s2cfg</description>
-      <pubDate>Fri, 28 Aug 2026 08:31:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33872-stalker-2-cfg-support</guid>
-      <dc:date>2026-08-28T08:31:30Z</dc:date>
-    </item>
-    <item>
-      <title>Markdown Browser Preview - Thu Aug 27 12:07:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33866-markdown-browser-preview</link>
-      <description>Preview Markdown files in a configurable browser; auto-refresh on save. Also available as a VSCode extension with the same features. Features Right-click a .md file...
-
-vendor: Markdown Browser Preview
-downloads: 1
-pricingModel: FREE
-xmlId: nickwong.markdown-browser-preview</description>
-      <pubDate>Thu, 27 Aug 2026 12:07:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33866-markdown-browser-preview</guid>
-      <dc:date>2026-08-27T12:07:07Z</dc:date>
-    </item>
-    <item>
-      <title>Helpme - Thu Aug 27 09:11:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33863-helpme</link>
-      <description>HelpMe - A collaborative debugging plugin for IntelliJ IDEA. &#x1f92f; Bug 炸了？代码崩了？头发没了？ 别慌！HelpMe 来救你了！ 这是一个让你在局域网里一键摇人的 IntelliJ 插件。 当你对着满屏红色波浪线欲哭无泪的时候， 当你盯着...
-
-vendor: zcyppyh
+vendor: harcochen
 downloads: 0
 pricingModel: FREE
-xmlId: com.zcyppyh.helpme</description>
-      <pubDate>Thu, 27 Aug 2026 09:11:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33863-helpme</guid>
-      <dc:date>2026-08-27T09:11:58Z</dc:date>
+xmlId: top.harcochen.dsh</description>
+      <pubDate>Sat, 29 Aug 2026 14:32:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33924-deepseek-harness-integration</guid>
+      <dc:date>2026-08-29T14:32:58Z</dc:date>
     </item>
     <item>
-      <title>Joyous Harmony Runner for Flutter - Fri Aug 28 01:44:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33847-joyous-harmony-runner-for-flutter</link>
-      <description>Joyous Harmony Runner for Flutter brings configured HarmonyOS Flutter command-line workflows into Android Studio. It is built for developers who write Flutter code in...
+      <title>Better Auth - Thu Aug 27 21:11:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33905-better-auth</link>
+      <description>Navigate Better Auth TypeScript config, plugins, and client calls in the IDE. Understands betterAuth(), createAuthClient(), plugin lists, and calls like...
 
-vendor: Joyous studio
+vendor: LocaleProof
 downloads: 1
-pricingModel: FREE
-xmlId: com.joyous.runner</description>
-      <pubDate>Fri, 28 Aug 2026 01:44:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33847-joyous-harmony-runner-for-flutter</guid>
-      <dc:date>2026-08-28T01:44:59Z</dc:date>
+pricingModel: PAID
+xmlId: com.localeproof.betterauth</description>
+      <pubDate>Thu, 27 Aug 2026 21:11:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33905-better-auth</guid>
+      <dc:date>2026-08-27T21:11:37Z</dc:date>
     </item>
     <item>
-      <title>Raise GitHub Issue - Thu Aug 27 05:58:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33861-raise-github-issue</link>
-      <description>Prepares JetBrains IDE logs and environment details for a GitHub issue. Supports configurable issue links, separate idea log files, selected plugin metadata, and...
+      <title>TreasureBoat Coding Tools - Fri Aug 21 08:34:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33292-treasureboat-coding-tools</link>
+      <description>TreasureBoat Coding Tools brings first-class IDE support to TreasureBoat — a modern Java framework for building database-driven web applications with a model-driven...
 
-vendor: Mason Chen MSFT
-downloads: 1
+vendor: TreasureBoat
+downloads: 5
 pricingModel: FREE
-xmlId: com.jiec.raise-gh-issue</description>
-      <pubDate>Thu, 27 Aug 2026 05:58:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33861-raise-github-issue</guid>
-      <dc:date>2026-08-27T05:58:18Z</dc:date>
+xmlId: org.treasureboat.tools</description>
+      <pubDate>Fri, 21 Aug 2026 08:34:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33292-treasureboat-coding-tools</guid>
+      <dc:date>2026-08-21T08:34:55Z</dc:date>
     </item>
     <item>
-      <title>LocaleBreeze - Fri Aug 28 06:10:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33774-localebreeze</link>
-      <description>Context-aware i18n completion, navigation, references, and unused-key hints powered by the LocaleBreeze language server.
+      <title>DeepDraw - Fri Aug 28 21:52:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33851-deepdraw</link>
+      <description>Draw and read DeepDraw drawings in JetBrains IDEs. Every edit is saved to the file you opened. Opening a .deepdraw.html or .deepdraw.json shows the drawing on a...
 
-vendor: Xubarashi
-downloads: 1
+vendor: DeepDraw
+downloads: 5
 pricingModel: FREE
-xmlId: dev.localebreeze.jetbrains</description>
-      <pubDate>Fri, 28 Aug 2026 06:10:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33774-localebreeze</guid>
-      <dc:date>2026-08-28T06:10:41Z</dc:date>
+xmlId: ai.deepdraw.jetbrains</description>
+      <pubDate>Fri, 28 Aug 2026 21:52:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33851-deepdraw</guid>
+      <dc:date>2026-08-28T21:52:09Z</dc:date>
     </item>
     <item>
-      <title>Go File Relation Graph - Thu Aug 27 13:49:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33842-go-file-relation-graph</link>
-      <description>Go File Relation Graph visualizes how Go files are connected through function calls, method calls, interface dispatch, and callbacks. It turns the part of a codebase...
+      <title>Multi-Language Error Debugger - Fri Aug 28 16:22:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33919-multi-language-error-debugger</link>
+      <description>Automatic Compile-Time, Runtime, and Git Error Debugger supporting Hindi/Hinglish, Spanish, French, and English by Piyush Seth.
 
-vendor: FireFly4ik
-downloads: 1
+vendor: Piyush Seth
+downloads: 0
 pricingModel: FREE
-xmlId: dev.firefly4ik.go-file-relation-graph</description>
-      <pubDate>Thu, 27 Aug 2026 13:49:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33842-go-file-relation-graph</guid>
-      <dc:date>2026-08-27T13:49:05Z</dc:date>
+xmlId: com.piyushseth.errordebugger</description>
+      <pubDate>Fri, 28 Aug 2026 16:22:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33919-multi-language-error-debugger</guid>
+      <dc:date>2026-08-28T16:22:31Z</dc:date>
     </item>
     <item>
-      <title>Tempr - Tue Aug 25 13:19:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33782-tempr</link>
-      <description>Early access -- actively developed. A bring-your-own-key AI coding assistant for the JetBrains IDE family -- connect directly to 20+ model providers (OpenAI...
+      <title>TI-84 Evo - Fri Aug 28 04:57:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33854-ti-84-evo</link>
+      <description>Native TI-84 Evo integration for PyCharm.
 
-vendor: Tempr
-downloads: 4
-pricingModel: FREE
-xmlId: io.temprhq.jetbrains</description>
-      <pubDate>Tue, 25 Aug 2026 13:19:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33782-tempr</guid>
-      <dc:date>2026-08-25T13:19:20Z</dc:date>
-    </item>
-    <item>
-      <title>Free AI Commit Message - Thu Aug 27 20:34:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33870-free-ai-commit-message</link>
-      <description>Free AI Commit Message for JetBrains IDEs Generate clean, descriptive, conventional commit messages directly from your staged Git changes in JetBrains Rider, IntelliJ...
-
-vendor: Christian Gennari
-downloads: 10
-pricingModel: FREE
-xmlId: com.christiangennari.freeaicommitmessage</description>
-      <pubDate>Thu, 27 Aug 2026 20:34:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33870-free-ai-commit-message</guid>
-      <dc:date>2026-08-27T20:34:23Z</dc:date>
-    </item>
-    <item>
-      <title>Seshlog - Coding Agent Session Manager - Thu Aug 27 19:43:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33850-seshlog--coding-agent-session-manager</link>
-      <description>List, search and resume your local AI coding-agent sessions — Claude Code today, Codex and OpenCode planned — from a tool window, titled the way the agent titles them...
-
-vendor: Bill Hedworth
-downloads: 10
-pricingModel: FREE
-xmlId: com.hedworth.seshlog</description>
-      <pubDate>Thu, 27 Aug 2026 19:43:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33850-seshlog--coding-agent-session-manager</guid>
-      <dc:date>2026-08-27T19:43:04Z</dc:date>
-    </item>
-    <item>
-      <title>VRL (Vector Remap Language) - Fri Aug 28 12:38:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33859-vrl-vector-remap-language-</link>
-      <description>Language support for VRL (Vector Remap Language), the observability data transformation language from Vector. Syntax highlighting for all VRL literal kinds (strings...
-
-vendor: baptistecdr
-downloads: 8
-pricingModel: FREE
-xmlId: eu.bcosp.vrl-intellij</description>
-      <pubDate>Fri, 28 Aug 2026 12:38:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33859-vrl-vector-remap-language-</guid>
-      <dc:date>2026-08-28T12:38:25Z</dc:date>
-    </item>
-    <item>
-      <title>Lumen UI - Thu Aug 27 00:39:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33856-lumen-ui</link>
-      <description>Editor support for the Lumen UI framework: .lmn markup, Lumen CSS, and .rhai scripts. Syntax highlighting ships with the plugin. Diagnostics, completion, hover...
-
-vendor: Stel Studio Inc
+vendor: Inspyre Softworks
 downloads: 2
 pricingModel: FREE
-xmlId: dev.lumenfx.lumen</description>
-      <pubDate>Thu, 27 Aug 2026 00:39:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33856-lumen-ui</guid>
-      <dc:date>2026-08-27T00:39:51Z</dc:date>
+xmlId: com.inspyresoftworks.ti84evo</description>
+      <pubDate>Fri, 28 Aug 2026 04:57:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33854-ti-84-evo</guid>
+      <dc:date>2026-08-28T04:57:47Z</dc:date>
+    </item>
+    <item>
+      <title>Heap Dump Lens: JVM Heap Dump, Thread Dump &amp; GC Log Viewer - Fri Aug 28 02:06:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33908-heap-dump-lens-jvm-heap-dump-thread-dump--gc-log-viewer</link>
+      <description>Heap Dump Lens opens JVM heap dumps in the editor tab - the .hprof file a crashed or bloated JVM leaves behind. The class histogram comes up first: every class with...
+
+vendor: Twilight Ventures
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: com.twilightventures.heapdumplens</description>
+      <pubDate>Fri, 28 Aug 2026 02:06:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33908-heap-dump-lens-jvm-heap-dump-thread-dump--gc-log-viewer</guid>
+      <dc:date>2026-08-28T02:06:03Z</dc:date>
+    </item>
+    <item>
+      <title>Code2Prompt: Copy Code Context - Fri Aug 28 10:25:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33914-code2prompt-copy-code-context</link>
+      <description>Code2Prompt copies selected code with its file path, line numbers, and symbol context into a ready-to-send prompt for AI coding agents.
+
+vendor: VinyuMao
+downloads: 2
+pricingModel: FREE
+xmlId: com.wayen.code2prompt</description>
+      <pubDate>Fri, 28 Aug 2026 10:25:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33914-code2prompt-copy-code-context</guid>
+      <dc:date>2026-08-28T10:25:59Z</dc:date>
+    </item>
+    <item>
+      <title>Grok Build By Kafei - Sat Aug 29 13:58:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33923-grok-build-by-kafei</link>
+      <description>Grok Build is an IntelliJ chat for the xAI Grok agent. It uses the same WebView UI and ACP grok agent stdio core as the VS Code extension, hosted with JCEF and a Node...
+
+vendor: kafei520cn
+downloads: 0
+pricingModel: FREE
+xmlId: cn.mckafei.grok-build</description>
+      <pubDate>Sat, 29 Aug 2026 13:58:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33923-grok-build-by-kafei</guid>
+      <dc:date>2026-08-29T13:58:22Z</dc:date>
+    </item>
+    <item>
+      <title>Async Self-Invocation Companion - Thu Aug 27 17:19:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33874-async-self-invocation-companion</link>
+      <description>Warning icon on a call to a Spring @Async method made from another method of the same declaring class -- Spring's own documentation states this bypasses the AOP proxy...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.asyncselfinvocationcompanion</description>
+      <pubDate>Thu, 27 Aug 2026 17:19:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33874-async-self-invocation-companion</guid>
+      <dc:date>2026-08-27T17:19:44Z</dc:date>
+    </item>
+    <item>
+      <title>Resilience Self-Invocation Companion - Thu Aug 27 17:21:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33875-resilience-self-invocation-companion</link>
+      <description>Warning icon on a call to a @Retryable (Spring Retry) or @CircuitBreaker/@Retry/ @RateLimiter/@Bulkhead/@TimeLimiter (Resilience4j) method made from another method of...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.resilienceselfinvocationcompanion</description>
+      <pubDate>Thu, 27 Aug 2026 17:21:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33875-resilience-self-invocation-companion</guid>
+      <dc:date>2026-08-27T17:21:40Z</dc:date>
+    </item>
+    <item>
+      <title>Go Timer Leak Companion - Thu Aug 27 17:24:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33876-go-timer-leak-companion</link>
+      <description>Warning on a case &amp;lt;-time.After(...) inside a select block -- Go's documented behavior: the Timer created by time.After is not recovered by the garbage collector...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.gotimerleakcompanion</description>
+      <pubDate>Thu, 27 Aug 2026 17:24:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33876-go-timer-leak-companion</guid>
+      <dc:date>2026-08-27T17:24:36Z</dc:date>
+    </item>
+    <item>
+      <title>MongoDB Client Reuse Companion - Thu Aug 27 17:31:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33877-mongodb-client-reuse-companion</link>
+      <description>Warning icon on a new MongoClient(...) (legacy driver) or MongoClients.create(...) (modern com.mongodb.client driver) construction written inside a regular method body...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.mongoclientreusecompanion</description>
+      <pubDate>Thu, 27 Aug 2026 17:31:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33877-mongodb-client-reuse-companion</guid>
+      <dc:date>2026-08-27T17:31:51Z</dc:date>
+    </item>
+    <item>
+      <title>Elasticsearch Client Reuse Companion - Thu Aug 27 17:41:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33878-elasticsearch-client-reuse-companion</link>
+      <description>Warning icon on a new RestHighLevelClient(...) (legacy client) or new ElasticsearchClient(...) (modern Java client) construction written inside a regular method body...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.elasticsearchclientreusecompanion</description>
+      <pubDate>Thu, 27 Aug 2026 17:41:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33878-elasticsearch-client-reuse-companion</guid>
+      <dc:date>2026-08-27T17:41:16Z</dc:date>
+    </item>
+    <item>
+      <title>RabbitMQ Channel Reuse Companion - Thu Aug 27 17:51:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33879-rabbitmq-channel-reuse-companion</link>
+      <description>Warning icon on a RabbitMQ Channel created with ....createChannel() and used for basicPublish(...) in the same method -- RabbitMQ's own Java Client API Guide calls...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.rabbitmqchannelreusecompanion</description>
+      <pubDate>Thu, 27 Aug 2026 17:51:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33879-rabbitmq-channel-reuse-companion</guid>
+      <dc:date>2026-08-27T17:51:24Z</dc:date>
+    </item>
+    <item>
+      <title>Apache HttpClient Reuse Companion - Thu Aug 27 17:54:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33880-apache-httpclient-reuse-companion</link>
+      <description>Warning icon on a HttpClients.createDefault(), HttpClients.createSystem(), or HttpClients.custom().build() construction (Apache HttpClient, both the 4.x...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.apachehttpclientreusecompanion</description>
+      <pubDate>Thu, 27 Aug 2026 17:54:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33880-apache-httpclient-reuse-companion</guid>
+      <dc:date>2026-08-27T17:54:45Z</dc:date>
+    </item>
+    <item>
+      <title>Ruby Net::HTTP Reuse Companion - Thu Aug 27 17:59:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33881-ruby-net-http-reuse-companion</link>
+      <description>Warning on a Net::HTTP.get/ .get_response/.post shorthand call found inside a loop/iterator block (.each do, .times do, while, for, brace-block { }) -- Ruby's own...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.rubynethttpreusecompanion</description>
+      <pubDate>Thu, 27 Aug 2026 17:59:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33881-ruby-net-http-reuse-companion</guid>
+      <dc:date>2026-08-27T17:59:56Z</dc:date>
+    </item>
+    <item>
+      <title>Ruby Shell Injection Companion - Thu Aug 27 18:03:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33882-ruby-shell-injection-companion</link>
+      <description>Warning on system(...), exec(...), backticks (` `), or %x[...] whose command string contains #{...} interpolation -- Ruby's own official documentation states: "Some...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.rubyshellinjectioncompanion</description>
+      <pubDate>Thu, 27 Aug 2026 18:03:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33882-ruby-shell-injection-companion</guid>
+      <dc:date>2026-08-27T18:03:05Z</dc:date>
+    </item>
+    <item>
+      <title>Rails Mass Assignment Companion - Thu Aug 27 18:04:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33883-rails-mass-assignment-companion</link>
+      <description>Warning on params.permit! (or xxx_params.permit!) -- Rails' own official documentation states: "Extreme care should be taken when using permit!, as it will allow all...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.railsmassassignmentcompanion</description>
+      <pubDate>Thu, 27 Aug 2026 18:04:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33883-rails-mass-assignment-companion</guid>
+      <dc:date>2026-08-27T18:04:19Z</dc:date>
+    </item>
+    <item>
+      <title>RxJava Disposable Leak Companion - Thu Aug 27 18:17:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33884-rxjava-disposable-leak-companion</link>
+      <description>Warning icon on an RxJava xxx.subscribe(...) call (Observable/Flowable/Single/Maybe/Completable, RxJava 2.x/3.x) written as a bare expression statement -- the returned...
+
+vendor: Gap Hunter Labs
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gaphunter.rxjavadisposableleakcompanion</description>
+      <pubDate>Thu, 27 Aug 2026 18:17:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33884-rxjava-disposable-leak-companion</guid>
+      <dc:date>2026-08-27T18:17:34Z</dc:date>
     </item>
   </channel>
 </rss>
