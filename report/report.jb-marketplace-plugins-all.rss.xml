@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Jinja2 - Sun Aug 30 15:27:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33916-jinja2</link>
+      <description>Jinja2 template support for Ansible playbooks: syntax highlighting, rainbow brackets, completion, variable navigation, code folding, and diagnostics across .j2...
+
+vendor: Vinko Vorih
+downloads: 2
+pricingModel: FREE
+xmlId: com.vorih.jinja2plugin</description>
+      <pubDate>Sun, 30 Aug 2026 15:27:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33916-jinja2</guid>
+      <dc:date>2026-08-30T15:27:23Z</dc:date>
+    </item>
+    <item>
+      <title>Markdown Code Review - Sun Aug 23 09:22:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33709-markdown-code-review</link>
+      <description>An IntelliJ Platform plugin that enables users to create code review comments in the IDE and generates Markdown output for people or AI agents to read. Features...
+
+vendor: CPardi
+downloads: 4
+pricingModel: FREE
+xmlId: com.github.cpardi.markdowncodereview</description>
+      <pubDate>Sun, 23 Aug 2026 09:22:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33709-markdown-code-review</guid>
+      <dc:date>2026-08-23T09:22:06Z</dc:date>
+    </item>
+    <item>
       <title>DeepSeek Harness Integration - Sat Aug 29 14:32:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33924-deepseek-harness-integration</link>
       <description>An independent community integration for using DeepSeek Harness (DSH) inside IntelliJ Platform IDEs. Embedded chat, sessions, history, tool cards, and runtime status...
 
 vendor: harcochen
-downloads: 0
+downloads: 22
 pricingModel: FREE
 xmlId: top.harcochen.dsh</description>
       <pubDate>Sat, 29 Aug 2026 14:32:58 GMT</pubDate>
@@ -24,7 +50,7 @@ xmlId: top.harcochen.dsh</description>
       <description>Navigate Better Auth TypeScript config, plugins, and client calls in the IDE. Understands betterAuth(), createAuthClient(), plugin lists, and calls like...
 
 vendor: LocaleProof
-downloads: 1
+downloads: 2
 pricingModel: PAID
 xmlId: com.localeproof.betterauth</description>
       <pubDate>Thu, 27 Aug 2026 21:11:37 GMT</pubDate>
@@ -37,7 +63,7 @@ xmlId: com.localeproof.betterauth</description>
       <description>TreasureBoat Coding Tools brings first-class IDE support to TreasureBoat — a modern Java framework for building database-driven web applications with a model-driven...
 
 vendor: TreasureBoat
-downloads: 5
+downloads: 7
 pricingModel: FREE
 xmlId: org.treasureboat.tools</description>
       <pubDate>Fri, 21 Aug 2026 08:34:55 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: org.treasureboat.tools</description>
       <description>Draw and read DeepDraw drawings in JetBrains IDEs. Every edit is saved to the file you opened. Opening a .deepdraw.html or .deepdraw.json shows the drawing on a...
 
 vendor: DeepDraw
-downloads: 5
+downloads: 9
 pricingModel: FREE
 xmlId: ai.deepdraw.jetbrains</description>
       <pubDate>Fri, 28 Aug 2026 21:52:09 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: ai.deepdraw.jetbrains</description>
       <description>Automatic Compile-Time, Runtime, and Git Error Debugger supporting Hindi/Hinglish, Spanish, French, and English by Piyush Seth.
 
 vendor: Piyush Seth
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.piyushseth.errordebugger</description>
       <pubDate>Fri, 28 Aug 2026 16:22:31 GMT</pubDate>
@@ -76,7 +102,7 @@ xmlId: com.piyushseth.errordebugger</description>
       <description>Native TI-84 Evo integration for PyCharm.
 
 vendor: Inspyre Softworks
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.inspyresoftworks.ti84evo</description>
       <pubDate>Fri, 28 Aug 2026 04:57:47 GMT</pubDate>
@@ -89,7 +115,7 @@ xmlId: com.inspyresoftworks.ti84evo</description>
       <description>Heap Dump Lens opens JVM heap dumps in the editor tab - the .hprof file a crashed or bloated JVM leaves behind. The class histogram comes up first: every class with...
 
 vendor: Twilight Ventures
-downloads: 2
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.twilightventures.heapdumplens</description>
       <pubDate>Fri, 28 Aug 2026 02:06:03 GMT</pubDate>
@@ -97,30 +123,30 @@ xmlId: com.twilightventures.heapdumplens</description>
       <dc:date>2026-08-28T02:06:03Z</dc:date>
     </item>
     <item>
-      <title>Code2Prompt: Copy Code Context - Fri Aug 28 10:25:59 UTC 2026</title>
+      <title>Code2Prompt: Copy Code Context - Sun Aug 30 04:44:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33914-code2prompt-copy-code-context</link>
       <description>Code2Prompt copies selected code with its file path, line numbers, and symbol context into a ready-to-send prompt for AI coding agents.
 
 vendor: VinyuMao
-downloads: 2
+downloads: 7
 pricingModel: FREE
 xmlId: com.wayen.code2prompt</description>
-      <pubDate>Fri, 28 Aug 2026 10:25:59 GMT</pubDate>
+      <pubDate>Sun, 30 Aug 2026 04:44:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33914-code2prompt-copy-code-context</guid>
-      <dc:date>2026-08-28T10:25:59Z</dc:date>
+      <dc:date>2026-08-30T04:44:20Z</dc:date>
     </item>
     <item>
-      <title>Grok Build By Kafei - Sat Aug 29 13:58:22 UTC 2026</title>
+      <title>Grok Build By Kafei - Sun Aug 30 11:19:59 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33923-grok-build-by-kafei</link>
       <description>Grok Build is an IntelliJ chat for the xAI Grok agent. It uses the same WebView UI and ACP grok agent stdio core as the VS Code extension, hosted with JCEF and a Node...
 
 vendor: kafei520cn
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: cn.mckafei.grok-build</description>
-      <pubDate>Sat, 29 Aug 2026 13:58:22 GMT</pubDate>
+      <pubDate>Sun, 30 Aug 2026 11:19:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33923-grok-build-by-kafei</guid>
-      <dc:date>2026-08-29T13:58:22Z</dc:date>
+      <dc:date>2026-08-30T11:19:59Z</dc:date>
     </item>
     <item>
       <title>Async Self-Invocation Companion - Thu Aug 27 17:19:44 UTC 2026</title>
@@ -128,7 +154,7 @@ xmlId: cn.mckafei.grok-build</description>
       <description>Warning icon on a call to a Spring @Async method made from another method of the same declaring class -- Spring's own documentation states this bypasses the AOP proxy...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.asyncselfinvocationcompanion</description>
       <pubDate>Thu, 27 Aug 2026 17:19:44 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: dev.gaphunter.asyncselfinvocationcompanion</description>
       <description>Warning icon on a call to a @Retryable (Spring Retry) or @CircuitBreaker/@Retry/ @RateLimiter/@Bulkhead/@TimeLimiter (Resilience4j) method made from another method of...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.resilienceselfinvocationcompanion</description>
       <pubDate>Thu, 27 Aug 2026 17:21:40 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: dev.gaphunter.resilienceselfinvocationcompanion</description>
       <description>Warning on a case &amp;lt;-time.After(...) inside a select block -- Go's documented behavior: the Timer created by time.After is not recovered by the garbage collector...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.gotimerleakcompanion</description>
       <pubDate>Thu, 27 Aug 2026 17:24:36 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: dev.gaphunter.gotimerleakcompanion</description>
       <description>Warning icon on a new MongoClient(...) (legacy driver) or MongoClients.create(...) (modern com.mongodb.client driver) construction written inside a regular method body...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.mongoclientreusecompanion</description>
       <pubDate>Thu, 27 Aug 2026 17:31:51 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: dev.gaphunter.mongoclientreusecompanion</description>
       <description>Warning icon on a new RestHighLevelClient(...) (legacy client) or new ElasticsearchClient(...) (modern Java client) construction written inside a regular method body...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.elasticsearchclientreusecompanion</description>
       <pubDate>Thu, 27 Aug 2026 17:41:16 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: dev.gaphunter.elasticsearchclientreusecompanion</description>
       <description>Warning icon on a RabbitMQ Channel created with ....createChannel() and used for basicPublish(...) in the same method -- RabbitMQ's own Java Client API Guide calls...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.rabbitmqchannelreusecompanion</description>
       <pubDate>Thu, 27 Aug 2026 17:51:24 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: dev.gaphunter.rabbitmqchannelreusecompanion</description>
       <description>Warning icon on a HttpClients.createDefault(), HttpClients.createSystem(), or HttpClients.custom().build() construction (Apache HttpClient, both the 4.x...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.apachehttpclientreusecompanion</description>
       <pubDate>Thu, 27 Aug 2026 17:54:45 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: dev.gaphunter.apachehttpclientreusecompanion</description>
       <description>Warning on a Net::HTTP.get/ .get_response/.post shorthand call found inside a loop/iterator block (.each do, .times do, while, for, brace-block { }) -- Ruby's own...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.rubynethttpreusecompanion</description>
       <pubDate>Thu, 27 Aug 2026 17:59:56 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: dev.gaphunter.rubynethttpreusecompanion</description>
       <description>Warning on system(...), exec(...), backticks (` `), or %x[...] whose command string contains #{...} interpolation -- Ruby's own official documentation states: "Some...
 
 vendor: Gap Hunter Labs
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: dev.gaphunter.rubyshellinjectioncompanion</description>
       <pubDate>Thu, 27 Aug 2026 18:03:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33882-ruby-shell-injection-companion</guid>
       <dc:date>2026-08-27T18:03:05Z</dc:date>
-    </item>
-    <item>
-      <title>Rails Mass Assignment Companion - Thu Aug 27 18:04:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33883-rails-mass-assignment-companion</link>
-      <description>Warning on params.permit! (or xxx_params.permit!) -- Rails' own official documentation states: "Extreme care should be taken when using permit!, as it will allow all...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.railsmassassignmentcompanion</description>
-      <pubDate>Thu, 27 Aug 2026 18:04:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33883-rails-mass-assignment-companion</guid>
-      <dc:date>2026-08-27T18:04:19Z</dc:date>
-    </item>
-    <item>
-      <title>RxJava Disposable Leak Companion - Thu Aug 27 18:17:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33884-rxjava-disposable-leak-companion</link>
-      <description>Warning icon on an RxJava xxx.subscribe(...) call (Observable/Flowable/Single/Maybe/Completable, RxJava 2.x/3.x) written as a bare expression statement -- the returned...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.rxjavadisposableleakcompanion</description>
-      <pubDate>Thu, 27 Aug 2026 18:17:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33884-rxjava-disposable-leak-companion</guid>
-      <dc:date>2026-08-27T18:17:34Z</dc:date>
     </item>
   </channel>
 </rss>
