@@ -17,7 +17,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:29 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:29 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 13:42:31 UTC 2026|
-|![logo](../media/logo/go.png) Go|go1.27.0|[golang.org](https://golang.org/dl/)|Wed Aug 19 20:14:07 UTC 2026|
+|![logo](../media/logo/go.png) Go|go1.27.1|[golang.org](https://golang.org/dl/)|Tue Sep 01 22:10:03 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.7.1|[gradle.org](https://gradle.org/releases)|Wed Aug 19 16:17:54 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2.2 (262.10315.19) ~ 2026-08-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Aug 20 12:36:05 UTC 2026|
