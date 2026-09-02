@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.3889.65) ~ 2026-09-02|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Sep 02 15:46:38 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.1|[golang.org](https://golang.org/dl/)|Tue Sep 01 22:10:03 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.8.1|[nodejs.org](https://nodejs.org)|Wed Aug 26 22:49:21 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.20.0|[nodejs.org](https://nodejs.org)|Wed Aug 26 15:43:48 UTC 2026|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:26 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Aug 21 04:40:01 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.2.2 (262.10315.19) ~ 2026-08-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Aug 20 12:36:05 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:14:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:13:59 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:13:57 UTC 2026|
