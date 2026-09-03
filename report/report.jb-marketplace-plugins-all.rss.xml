@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MOS - Thu Sep 03 14:16:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34025-mos</link>
+      <description>Language, build, test, and debugging support for the MOS assembler, powered by LSP4IJ. Opening an .asm file starts mos lsp. In a trusted project, unless a custom...
+
+vendor: datatrash
+downloads: 0
+pricingModel: FREE
+xmlId: sh.datatra.mos</description>
+      <pubDate>Thu, 03 Sep 2026 14:16:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34025-mos</guid>
+      <dc:date>2026-09-03T14:16:11Z</dc:date>
+    </item>
+    <item>
+      <title>Storybook Connect - Wed Sep 02 12:34:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33386-storybook-connect</link>
+      <description>Storybook Connect Browse, navigate, and generate Storybook stories — all from within JetBrains IDEs like WebStorm, PhpStorm and IntelliJ. Storybook Connect makes...
+
+vendor: JetBrains s.r.o.
+downloads: 2
+pricingModel: FREE
+xmlId: com.intellij.storybook</description>
+      <pubDate>Wed, 02 Sep 2026 12:34:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33386-storybook-connect</guid>
+      <dc:date>2026-09-02T12:34:32Z</dc:date>
+    </item>
+    <item>
       <title>EF Log2SQL - Wed Sep 02 13:37:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34032-ef-log2sql</link>
       <description>EF Log2SQL EF Log2SQL turns an EF Core SQL Server runtime command log into an executable SQL Server script. It is for .NET and EF Core developers using JetBrains Rider...
@@ -32,7 +58,7 @@ xmlId: dev.friday5pm.jb.bun.pro.test</description>
       <dc:date>2026-09-03T05:18:18Z</dc:date>
     </item>
     <item>
-      <title>Workspace Desk - Wed Sep 02 07:43:48 UTC 2026</title>
+      <title>Workspace Desk - Thu Sep 03 14:07:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33994-workspace-desk</link>
       <description>Manage Terraform Enterprise and HCP Terraform workspaces, runs and variables without leaving the IDE. Workspace Desk adds a tool window that talks directly to your...
 
@@ -40,9 +66,9 @@ vendor: Mateusz Ciosek
 downloads: 4
 pricingModel: FREEMIUM
 xmlId: dev.mciosek.workspacedesk</description>
-      <pubDate>Wed, 02 Sep 2026 07:43:48 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 14:07:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33994-workspace-desk</guid>
-      <dc:date>2026-09-02T07:43:48Z</dc:date>
+      <dc:date>2026-09-03T14:07:00Z</dc:date>
     </item>
     <item>
       <title>Codex File Timeline - Wed Sep 02 06:58:40 UTC 2026</title>
@@ -110,7 +136,7 @@ xmlId: dev.batchsupport.batch-support</description>
       <dc:date>2026-09-02T03:00:32Z</dc:date>
     </item>
     <item>
-      <title>CopyForLlm+ - Tue Sep 01 09:19:09 UTC 2026</title>
+      <title>CopyForLlm+ - Thu Sep 03 09:42:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33979-copyforllm-</link>
       <description>A fork of AykoSc/copyforllm that adds sensitive-file/folder exclusion. Copies selected files and folders structure and content to the clipboard, formatted for easy...
 
@@ -118,9 +144,9 @@ vendor: Jad Traboulsi
 downloads: 1
 pricingModel: FREE
 xmlId: com.jadtraboulsi.copyforllm</description>
-      <pubDate>Tue, 01 Sep 2026 09:19:09 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 09:42:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33979-copyforllm-</guid>
-      <dc:date>2026-09-01T09:19:09Z</dc:date>
+      <dc:date>2026-09-03T09:42:24Z</dc:date>
     </item>
     <item>
       <title>PairPilot - Thu Aug 27 13:48:26 UTC 2026</title>
@@ -149,17 +175,17 @@ xmlId: tsrx.intellij-plugin</description>
       <dc:date>2026-09-01T20:47:06Z</dc:date>
     </item>
     <item>
-      <title>AI Reference Copier - Wed Sep 02 06:47:19 UTC 2026</title>
+      <title>AI Reference Copier - Thu Sep 03 08:57:56 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34019-ai-reference-copier</link>
-      <description>Overview Copy AI-friendly references with absolute paths and code line numbers for Codex and other AI tools. How to use Copy a code location: Select code in the editor...
+      <description>Overview A lightweight plugin for IntelliJ Platform IDEs that copies AI-readable paths to help AI tools locate code when working alongside your IDE. How to use Copy a...
 
 vendor: lfy0
 downloads: 1
 pricingModel: FREE
 xmlId: com.github.aireference.copier</description>
-      <pubDate>Wed, 02 Sep 2026 06:47:19 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 08:57:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34019-ai-reference-copier</guid>
-      <dc:date>2026-09-02T06:47:19Z</dc:date>
+      <dc:date>2026-09-03T08:57:56Z</dc:date>
     </item>
     <item>
       <title>WhatIsThis - Wed Sep 02 07:20:02 UTC 2026</title>
@@ -201,19 +227,6 @@ xmlId: de.mirkohaaser.claude-chappe</description>
       <dc:date>2026-08-21T13:24:43Z</dc:date>
     </item>
     <item>
-      <title>Commit Smith - Wed Sep 02 14:30:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34034-commit-smith</link>
-      <description>Commit Smith is a simple, flexible AI-assisted commit message generator for JetBrains IDEs. Existing plugins often support only OpenAI-style APIs, require complex...
-
-vendor: jwjlly
-downloads: 3
-pricingModel: FREE
-xmlId: com.layxy.commitsmith.jetbrains</description>
-      <pubDate>Wed, 02 Sep 2026 14:30:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34034-commit-smith</guid>
-      <dc:date>2026-09-02T14:30:51Z</dc:date>
-    </item>
-    <item>
       <title>ReDoS Catastrophic-Backtracking Companion - Wed Sep 02 02:51:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33995-redos-catastrophic-backtracking-companion</link>
       <description>Warning on a Pattern.compile("...")/ "...".matches("...") call in Java whose literal regex argument has a structural catastrophic-backtracking pattern: a nested...
@@ -251,19 +264,6 @@ xmlId: dev.gaphunter.moduleboundaryleakcompanion</description>
       <pubDate>Wed, 02 Sep 2026 02:54:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33997-module-boundary-leak-companion</guid>
       <dc:date>2026-09-02T02:54:35Z</dc:date>
-    </item>
-    <item>
-      <title>JWT Webhook Signature Timing-Safe Comparison Companion - Wed Sep 02 02:56:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33998-jwt-webhook-signature-timing-safe-comparison-companion</link>
-      <description>Warning on a webhook/HMAC signature comparison that uses .equals()/Arrays.equals() (short-circuits on the first differing byte) instead of MessageDigest.isEqual...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.jwtwebhooktimingsafecompanion</description>
-      <pubDate>Wed, 02 Sep 2026 02:56:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33998-jwt-webhook-signature-timing-safe-comparison-companion</guid>
-      <dc:date>2026-09-02T02:56:35Z</dc:date>
     </item>
   </channel>
 </rss>
