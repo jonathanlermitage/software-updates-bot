@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>WSL Macros - Wed Sep 02 15:50:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34036-wsl-macros</link>
+      <description>Provides Wsl-prefixed macros ($WslFilePath$, $WslFileDir$, $WslProjectFileDir$, $WslProjectpath$, $WslContentRoot$) that always expand to the Windows-visible path...
+
+vendor: Piece of Code
+downloads: 0
+pricingModel: FREE
+xmlId: ro.pieceofcode.jetbrains.plugin.wsl-macros</description>
+      <pubDate>Wed, 02 Sep 2026 15:50:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34036-wsl-macros</guid>
+      <dc:date>2026-09-02T15:50:46Z</dc:date>
+    </item>
+    <item>
       <title>MOS - Thu Sep 03 14:16:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34025-mos</link>
       <description>Language, build, test, and debugging support for the MOS assembler, powered by LSP4IJ. Opening an .asm file starts mos lsp. In a trusted project, unless a custom...
@@ -251,19 +264,6 @@ xmlId: dev.gaphunter.awss3publicaclsdkcompanion</description>
       <pubDate>Wed, 02 Sep 2026 02:52:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33996-aws-s3-public-acl-via-sdk-companion</guid>
       <dc:date>2026-09-02T02:52:56Z</dc:date>
-    </item>
-    <item>
-      <title>Module Boundary Leak Companion - Wed Sep 02 02:54:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33997-module-boundary-leak-companion</link>
-      <description>Warning on an import of an internal package (project convention: a .internal. segment in the package path) from a DIFFERENT Gradle/Maven module than the one that...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.moduleboundaryleakcompanion</description>
-      <pubDate>Wed, 02 Sep 2026 02:54:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33997-module-boundary-leak-companion</guid>
-      <dc:date>2026-09-02T02:54:35Z</dc:date>
     </item>
   </channel>
 </rss>
