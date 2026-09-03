@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>EF Log2SQL - Wed Sep 02 13:37:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34032-ef-log2sql</link>
+      <description>EF Log2SQL EF Log2SQL turns an EF Core SQL Server runtime command log into an executable SQL Server script. It is for .NET and EF Core developers using JetBrains Rider...
+
+vendor: AYB Tools
+downloads: 0
+pricingModel: PAID
+xmlId: com.aybtools.eflog2sql</description>
+      <pubDate>Wed, 02 Sep 2026 13:37:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34032-ef-log2sql</guid>
+      <dc:date>2026-09-02T13:37:31Z</dc:date>
+    </item>
+    <item>
+      <title>Bun Test Runner - Thu Sep 03 05:18:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33852-bun-test-runner</link>
+      <description>Execute and debug your Bun tests seamlessly within any JetBrains IDE that supports JavaScript.
+
+vendor: Friday 5PM
+downloads: 1
+pricingModel: PAID
+xmlId: dev.friday5pm.jb.bun.pro.test</description>
+      <pubDate>Thu, 03 Sep 2026 05:18:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33852-bun-test-runner</guid>
+      <dc:date>2026-09-03T05:18:18Z</dc:date>
+    </item>
+    <item>
       <title>Workspace Desk - Wed Sep 02 07:43:48 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33994-workspace-desk</link>
       <description>Manage Terraform Enterprise and HCP Terraform workspaces, runs and variables without leaving the IDE. Workspace Desk adds a tool window that talks directly to your...
 
 vendor: Mateusz Ciosek
-downloads: 0
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: dev.mciosek.workspacedesk</description>
       <pubDate>Wed, 02 Sep 2026 07:43:48 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: com.github.georgenady.retrofit_api_swagger</description>
       <description>YiluPush is a Git multi-level branch merge and push toolkit for IntelliJ IDEA. It solves the repetitive manual work of merging across multiple cascading branches. Core...
 
 vendor: 小许同学在充电
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: xiao-xu-tong-xue-zai-chong-dian</description>
       <pubDate>Wed, 02 Sep 2026 03:16:42 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: xiao-xu-tong-xue-zai-chong-dian</description>
       <description>Turn Markdown into shareable long PNG images or standalone HTML without leaving the IDE. Live Edit, Preview, and Split modes Reusable presets, themes, and persistent...
 
 vendor: Judgee
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: com.judgee.markdownposter</description>
       <pubDate>Wed, 26 Aug 2026 16:18:54 GMT</pubDate>
@@ -76,7 +102,7 @@ xmlId: com.judgee.markdownposter</description>
       <description>Modern support for Windows batch files (.bat, .cmd) in JetBrains IDEs. The existing batch plugins are syntax highlighters with no semantic layer, and both have been...
 
 vendor: Jace Darvill
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.batchsupport.batch-support</description>
       <pubDate>Wed, 02 Sep 2026 03:00:32 GMT</pubDate>
@@ -89,7 +115,7 @@ xmlId: dev.batchsupport.batch-support</description>
       <description>A fork of AykoSc/copyforllm that adds sensitive-file/folder exclusion. Copies selected files and folders structure and content to the clipboard, formatted for easy...
 
 vendor: Jad Traboulsi
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.jadtraboulsi.copyforllm</description>
       <pubDate>Tue, 01 Sep 2026 09:19:09 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: com.jadtraboulsi.copyforllm</description>
       <description>PairPilot is an AI pair-programming assistant for IntelliJ IDEA from Kenton Labs. It keeps context of your open code and the conversation around your session so you...
 
 vendor: Kenton Labs
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.kentonlabs.pairpilot</description>
       <pubDate>Thu, 27 Aug 2026 13:48:26 GMT</pubDate>
@@ -115,7 +141,7 @@ xmlId: com.kentonlabs.pairpilot</description>
       <description>TSRX language support for IntelliJ-based IDEs. All compatible IDEs receive the TSRX file type, commenting support, and TextMate syntax highlighting. Supported...
 
 vendor: TSRX
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: tsrx.intellij-plugin</description>
       <pubDate>Tue, 01 Sep 2026 20:47:06 GMT</pubDate>
@@ -128,7 +154,7 @@ xmlId: tsrx.intellij-plugin</description>
       <description>Overview Copy AI-friendly references with absolute paths and code line numbers for Codex and other AI tools. How to use Copy a code location: Select code in the editor...
 
 vendor: lfy0
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.aireference.copier</description>
       <pubDate>Wed, 02 Sep 2026 06:47:19 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: com.github.aireference.copier</description>
       <description>WhatIsThis — select anything, press one shortcut, get an instant answer about what it is. 选中任何东西，一键发问，瞬间告诉你“这是干嘛的”。 &#x1f4f8; Screenshot / 截图：clipboard image → what is this...
 
 vendor: 404meters-ha
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.lihanghang.whatisthis</description>
       <pubDate>Wed, 02 Sep 2026 07:20:02 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: com.lihanghang.whatisthis</description>
       <description>Open Parquet, Avro and ORC files straight in the editor, as a table. Double-click the file. No server, no export, no configuration. It was written against the things...
 
 vendor: Vetro
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.vetro.dataview</description>
       <pubDate>Tue, 01 Sep 2026 10:06:36 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: dev.vetro.dataview</description>
       <description>Colours each project window by the state of the Claude Code sessions running in its terminals, so a stack of open windows tells you at a glance which one needs you...
 
 vendor: Mirko Haaser
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: de.mirkohaaser.claude-chappe</description>
       <pubDate>Fri, 21 Aug 2026 13:24:43 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: de.mirkohaaser.claude-chappe</description>
       <description>Commit Smith is a simple, flexible AI-assisted commit message generator for JetBrains IDEs. Existing plugins often support only OpenAI-style APIs, require complex...
 
 vendor: jwjlly
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.layxy.commitsmith.jetbrains</description>
       <pubDate>Wed, 02 Sep 2026 14:30:51 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: com.layxy.commitsmith.jetbrains</description>
       <description>Warning on a Pattern.compile("...")/ "...".matches("...") call in Java whose literal regex argument has a structural catastrophic-backtracking pattern: a nested...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.gaphunter.redoscatastrophicbacktrackingcompanion</description>
       <pubDate>Wed, 02 Sep 2026 02:51:15 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: dev.gaphunter.redoscatastrophicbacktrackingcompanion</description>
       <description>Warning on a real AWS SDK for Java call (application code, not infrastructure-as-code) that sets a PUBLIC ACL on an S3 bucket or object: SDK 1.x's...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.gaphunter.awss3publicaclsdkcompanion</description>
       <pubDate>Wed, 02 Sep 2026 02:52:56 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: dev.gaphunter.awss3publicaclsdkcompanion</description>
       <description>Warning on an import of an internal package (project convention: a .internal. segment in the package path) from a DIFFERENT Gradle/Maven module than the one that...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.gaphunter.moduleboundaryleakcompanion</description>
       <pubDate>Wed, 02 Sep 2026 02:54:35 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: dev.gaphunter.moduleboundaryleakcompanion</description>
       <description>Warning on a webhook/HMAC signature comparison that uses .equals()/Arrays.equals() (short-circuits on the first differing byte) instead of MessageDigest.isEqual...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.gaphunter.jwtwebhooktimingsafecompanion</description>
       <pubDate>Wed, 02 Sep 2026 02:56:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33998-jwt-webhook-signature-timing-safe-comparison-companion</guid>
       <dc:date>2026-09-02T02:56:35Z</dc:date>
-    </item>
-    <item>
-      <title>Deadlock Lock-Order Companion - Wed Sep 02 02:58:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33999-deadlock-lock-order-companion</link>
-      <description>Builds a real lock acquisition-order graph from synchronized blocks/methods inside a single Java class, and flags a gutter warning on every site that closes a CYCLE in...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.deadlocklockordercompanion</description>
-      <pubDate>Wed, 02 Sep 2026 02:58:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33999-deadlock-lock-order-companion</guid>
-      <dc:date>2026-09-02T02:58:21Z</dc:date>
-    </item>
-    <item>
-      <title>Kubernetes RBAC Wildcard Companion - Wed Sep 02 03:00:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34000-kubernetes-rbac-wildcard-companion</link>
-      <description>Warning on a Role/ClusterRole rule that combines a wildcard ("*") in verbs or resources with a sensitive resource -- secrets, pods/exec, clusterrolebindings. This is...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.kubernetesrbacwildcardcompanion</description>
-      <pubDate>Wed, 02 Sep 2026 03:00:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34000-kubernetes-rbac-wildcard-companion</guid>
-      <dc:date>2026-09-02T03:00:20Z</dc:date>
     </item>
   </channel>
 </rss>
