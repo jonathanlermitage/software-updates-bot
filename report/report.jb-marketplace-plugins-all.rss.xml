@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Optimus Accessibility - Wed Sep 02 19:09:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34039-optimus-accessibility</link>
+      <description>Optimus Accessibility is a real-time web accessibility (a11y) inspection tool for JetBrains IDEs. It works with React, Angular, and Vue, as well as vanilla HTML/JS/TS...
+
+vendor: Artem Petrenko
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.artemkacreate.optimusplugin</description>
+      <pubDate>Wed, 02 Sep 2026 19:09:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34039-optimus-accessibility</guid>
+      <dc:date>2026-09-02T19:09:26Z</dc:date>
+    </item>
+    <item>
+      <title>NodeSpark - Thu Sep 03 17:19:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34061-nodespark</link>
+      <description>Node.js support for IntelliJ IDEA Community. Runs Jest, Vitest, Mocha and node --test with a real pass/fail test tree, gutter run icons, package.json script running, a...
+
+vendor: NodeSpark
+downloads: 0
+pricingModel: FREE
+xmlId: com.nodespark.node-spark</description>
+      <pubDate>Thu, 03 Sep 2026 17:19:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34061-nodespark</guid>
+      <dc:date>2026-09-03T17:19:48Z</dc:date>
+    </item>
+    <item>
+      <title>CopyProblems - Wed Sep 02 18:30:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34038-copyproblems</link>
+      <description>Copy problems from IntelliJ IDEA's Problems window with their file, line, column, and severity.
+
+vendor: Tytoo
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.trethore.copyproblems</description>
+      <pubDate>Wed, 02 Sep 2026 18:30:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34038-copyproblems</guid>
+      <dc:date>2026-09-02T18:30:17Z</dc:date>
+    </item>
+    <item>
+      <title>Editor Jumper - Thu Sep 03 14:02:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34057-editor-jumper</link>
+      <description>Editor Jumper - Move selected code between your favorite tools Editor Jumper is a productivity plugin for DevEco Studio, IntelliJ IDEA, Android Studio, and other...
+
+vendor: wangningtao
+downloads: 0
+pricingModel: FREE
+xmlId: com.wangningtao.editorjumper</description>
+      <pubDate>Thu, 03 Sep 2026 14:02:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34057-editor-jumper</guid>
+      <dc:date>2026-09-03T14:02:29Z</dc:date>
+    </item>
+    <item>
+      <title>CangjieBrains - Thu Sep 03 08:36:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33295-cangjiebrains</link>
+      <description>cangjie-brains about cangjie-brains 1. The plugin provides support for Cangjie language 2. For developers who prefer to use IDEA, you only need to install the plugin...
+
+vendor: zhimu
+downloads: 4
+pricingModel: FREE
+xmlId: pro.zhimu.cangjie</description>
+      <pubDate>Thu, 03 Sep 2026 08:36:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33295-cangjiebrains</guid>
+      <dc:date>2026-09-03T08:36:07Z</dc:date>
+    </item>
+    <item>
+      <title>MyBatis SQL Tuner AI - Thu Sep 03 04:46:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34051-mybatis-sql-tuner-ai</link>
+      <description>MyBatis SQL Tuner AI is an AI-assisted SQL tuning and static analysis tool for IntelliJ IDEA. It automatically converts dynamic MyBatis XML queries into executable...
+
+vendor: sweetpark
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.sweetpark.mybatis-sql-tuner-ai</description>
+      <pubDate>Thu, 03 Sep 2026 04:46:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34051-mybatis-sql-tuner-ai</guid>
+      <dc:date>2026-09-03T04:46:20Z</dc:date>
+    </item>
+    <item>
       <title>WSL Macros - Wed Sep 02 15:50:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34036-wsl-macros</link>
       <description>Provides Wsl-prefixed macros ($WslFilePath$, $WslFileDir$, $WslProjectFileDir$, $WslProjectpath$, $WslContentRoot$) that always expand to the Windows-visible path...
@@ -175,7 +253,7 @@ xmlId: com.kentonlabs.pairpilot</description>
       <dc:date>2026-08-27T13:48:26Z</dc:date>
     </item>
     <item>
-      <title>TSRX - Tue Sep 01 20:47:06 UTC 2026</title>
+      <title>TSRX - Thu Sep 03 20:17:16 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33991-tsrx</link>
       <description>TSRX language support for IntelliJ-based IDEs. All compatible IDEs receive the TSRX file type, commenting support, and TextMate syntax highlighting. Supported...
 
@@ -183,87 +261,9 @@ vendor: TSRX
 downloads: 2
 pricingModel: FREE
 xmlId: tsrx.intellij-plugin</description>
-      <pubDate>Tue, 01 Sep 2026 20:47:06 GMT</pubDate>
+      <pubDate>Thu, 03 Sep 2026 20:17:16 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33991-tsrx</guid>
-      <dc:date>2026-09-01T20:47:06Z</dc:date>
-    </item>
-    <item>
-      <title>AI Reference Copier - Thu Sep 03 08:57:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34019-ai-reference-copier</link>
-      <description>Overview A lightweight plugin for IntelliJ Platform IDEs that copies AI-readable paths to help AI tools locate code when working alongside your IDE. How to use Copy a...
-
-vendor: lfy0
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.aireference.copier</description>
-      <pubDate>Thu, 03 Sep 2026 08:57:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34019-ai-reference-copier</guid>
-      <dc:date>2026-09-03T08:57:56Z</dc:date>
-    </item>
-    <item>
-      <title>WhatIsThis - Wed Sep 02 07:20:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33977-whatisthis</link>
-      <description>WhatIsThis — select anything, press one shortcut, get an instant answer about what it is. 选中任何东西，一键发问，瞬间告诉你“这是干嘛的”。 &#x1f4f8; Screenshot / 截图：clipboard image → what is this...
-
-vendor: 404meters-ha
-downloads: 2
-pricingModel: FREE
-xmlId: com.lihanghang.whatisthis</description>
-      <pubDate>Wed, 02 Sep 2026 07:20:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33977-whatisthis</guid>
-      <dc:date>2026-09-02T07:20:02Z</dc:date>
-    </item>
-    <item>
-      <title>Parquet, Avro &amp; ORC Viewer - Tue Sep 01 10:06:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33899-parquet-avro--orc-viewer</link>
-      <description>Open Parquet, Avro and ORC files straight in the editor, as a table. Double-click the file. No server, no export, no configuration. It was written against the things...
-
-vendor: Vetro
-downloads: 2
-pricingModel: FREE
-xmlId: dev.vetro.dataview</description>
-      <pubDate>Tue, 01 Sep 2026 10:06:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33899-parquet-avro--orc-viewer</guid>
-      <dc:date>2026-09-01T10:06:36Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Chappe - Fri Aug 21 13:24:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33717-claude-chappe</link>
-      <description>Colours each project window by the state of the Claude Code sessions running in its terminals, so a stack of open windows tells you at a glance which one needs you...
-
-vendor: Mirko Haaser
-downloads: 2
-pricingModel: FREE
-xmlId: de.mirkohaaser.claude-chappe</description>
-      <pubDate>Fri, 21 Aug 2026 13:24:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33717-claude-chappe</guid>
-      <dc:date>2026-08-21T13:24:43Z</dc:date>
-    </item>
-    <item>
-      <title>ReDoS Catastrophic-Backtracking Companion - Wed Sep 02 02:51:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33995-redos-catastrophic-backtracking-companion</link>
-      <description>Warning on a Pattern.compile("...")/ "...".matches("...") call in Java whose literal regex argument has a structural catastrophic-backtracking pattern: a nested...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.redoscatastrophicbacktrackingcompanion</description>
-      <pubDate>Wed, 02 Sep 2026 02:51:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33995-redos-catastrophic-backtracking-companion</guid>
-      <dc:date>2026-09-02T02:51:15Z</dc:date>
-    </item>
-    <item>
-      <title>AWS S3 Public ACL via SDK Companion - Wed Sep 02 02:52:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33996-aws-s3-public-acl-via-sdk-companion</link>
-      <description>Warning on a real AWS SDK for Java call (application code, not infrastructure-as-code) that sets a PUBLIC ACL on an S3 bucket or object: SDK 1.x's...
-
-vendor: Gap Hunter Labs
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gaphunter.awss3publicaclsdkcompanion</description>
-      <pubDate>Wed, 02 Sep 2026 02:52:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33996-aws-s3-public-acl-via-sdk-companion</guid>
-      <dc:date>2026-09-02T02:52:56Z</dc:date>
+      <dc:date>2026-09-03T20:17:16Z</dc:date>
     </item>
   </channel>
 </rss>
