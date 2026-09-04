@@ -6,12 +6,129 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Flexible COBOL - Wed Sep 02 17:44:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34037-flexible-cobol</link>
+      <description>Native COBOL parser, no language server required. Copybook navigation, GnuCOBOL compile, run and debug, an AI assistant with MCP tools, and PIC-to-Java/JSON mapping...
+
+vendor: Ilscipio GmbH
+downloads: 4
+pricingModel: FREEMIUM
+xmlId: com.flexible.cobol</description>
+      <pubDate>Wed, 02 Sep 2026 17:44:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34037-flexible-cobol</guid>
+      <dc:date>2026-09-02T17:44:38Z</dc:date>
+    </item>
+    <item>
+      <title>Optics Framework - Tue Sep 01 21:15:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33992-optics-framework</link>
+      <description>Diagnostics, completion, hover, parameter info, goto-definition, find usages, cross-file rename, structure view and semantic highlighting for optics-framework CSV test...
+
+vendor: Mozark
+downloads: 1
+pricingModel: FREE
+xmlId: ai.mozark.optics-framework-lsp</description>
+      <pubDate>Tue, 01 Sep 2026 21:15:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33992-optics-framework</guid>
+      <dc:date>2026-09-01T21:15:29Z</dc:date>
+    </item>
+    <item>
+      <title>Java Refactoring MCP Tools - Thu Sep 03 15:14:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34035-java-refactoring-mcp-tools</link>
+      <description>Adds native Java refactoring operations to the IDE's built-in MCP Server, so AI coding agents can plan and execute real IDE refactorings through MCP instead of editing...
+
+vendor: lihuu
+downloads: 3
+pricingModel: FREE
+xmlId: io.github.lihuu.airefactoring</description>
+      <pubDate>Thu, 03 Sep 2026 15:14:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34035-java-refactoring-mcp-tools</guid>
+      <dc:date>2026-09-03T15:14:52Z</dc:date>
+    </item>
+    <item>
+      <title>Localcord - Sun Aug 30 19:11:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33944-localcord</link>
+      <description>Localcord DSL support for JetBrains Rider.
+
+vendor: KaenguruuDev
+downloads: 5
+pricingModel: FREE
+xmlId: dev.kaenguruudev.localcord</description>
+      <pubDate>Sun, 30 Aug 2026 19:11:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33944-localcord</guid>
+      <dc:date>2026-08-30T19:11:43Z</dc:date>
+    </item>
+    <item>
+      <title>Nitpick - Fri Sep 04 06:35:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34040-nitpick</link>
+      <description>Review code written by AI agents inside IntelliJ's diff viewer, then hand the review back to the agent. Works with Claude Code, Codex, OpenCode, Pi, GitHub Copilot...
+
+vendor: gipo355
+downloads: 1
+pricingModel: FREE
+xmlId: dev.gipo.nitpick</description>
+      <pubDate>Fri, 04 Sep 2026 06:35:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34040-nitpick</guid>
+      <dc:date>2026-09-04T06:35:21Z</dc:date>
+    </item>
+    <item>
+      <title>Giuan Tomcat - Wed Sep 02 16:43:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33993-giuan-tomcat</link>
+      <description>Run Tomcat 9 directly from IntelliJ IDEA "Giuan Tomcat" adds a Giuan Tomcat run configuration that starts an Apache Tomcat 9 instance without requiring the bundled...
+
+vendor: midnight_cowboy
+downloads: 7
+pricingModel: FREE
+xmlId: org.giuantomcat</description>
+      <pubDate>Wed, 02 Sep 2026 16:43:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33993-giuan-tomcat</guid>
+      <dc:date>2026-09-02T16:43:10Z</dc:date>
+    </item>
+    <item>
+      <title>Aero Agent Skills - Thu Sep 03 23:02:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34041-aero-agent-skills</link>
+      <description>Aero Agent Skills — the aerospace knowledge layer for AI agents. Standards-mapped skills (ECSS · DO-178C · NASA · ARP4754A · FAR/CS) that give your AI assistant the...
+
+vendor: Ashforde OÜ
+downloads: 1
+pricingModel: FREE
+xmlId: com.ashforde.aeroskills</description>
+      <pubDate>Thu, 03 Sep 2026 23:02:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34041-aero-agent-skills</guid>
+      <dc:date>2026-09-03T23:02:11Z</dc:date>
+    </item>
+    <item>
+      <title>Repo Web Panel - Thu Sep 03 14:31:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34049-repo-web-panel</link>
+      <description>Repo Web Panel keeps GitHub's own website beside your code in a dedicated Rider tool window. View Issues and pull requests for repositories detected from your...
+
+vendor: ark4ez
+downloads: 4
+pricingModel: FREE
+xmlId: local.github.web.panel</description>
+      <pubDate>Thu, 03 Sep 2026 14:31:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34049-repo-web-panel</guid>
+      <dc:date>2026-09-03T14:31:14Z</dc:date>
+    </item>
+    <item>
+      <title>Easy AI Commit - Thu Sep 03 13:53:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34058-easy-ai-commit</link>
+      <description>Easy AI Commit is a simple, flexible AI-assisted commit message generator for JetBrains IDEs. Existing plugins often support only OpenAI-style APIs, require complex...
+
+vendor: jwjlly
+downloads: 2
+pricingModel: FREE
+xmlId: com.layxy.easyaicommit.jetbrains</description>
+      <pubDate>Thu, 03 Sep 2026 13:53:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34058-easy-ai-commit</guid>
+      <dc:date>2026-09-03T13:53:41Z</dc:date>
+    </item>
+    <item>
       <title>Optimus Accessibility - Wed Sep 02 19:09:26 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34039-optimus-accessibility</link>
       <description>Optimus Accessibility is a real-time web accessibility (a11y) inspection tool for JetBrains IDEs. It works with React, Angular, and Vue, as well as vanilla HTML/JS/TS...
 
 vendor: Artem Petrenko
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.artemkacreate.optimusplugin</description>
       <pubDate>Wed, 02 Sep 2026 19:09:26 GMT</pubDate>
@@ -24,7 +141,7 @@ xmlId: com.github.artemkacreate.optimusplugin</description>
       <description>Node.js support for IntelliJ IDEA Community. Runs Jest, Vitest, Mocha and node --test with a real pass/fail test tree, gutter run icons, package.json script running, a...
 
 vendor: NodeSpark
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.nodespark.node-spark</description>
       <pubDate>Thu, 03 Sep 2026 17:19:48 GMT</pubDate>
@@ -37,7 +154,7 @@ xmlId: com.nodespark.node-spark</description>
       <description>Copy problems from IntelliJ IDEA's Problems window with their file, line, column, and severity.
 
 vendor: Tytoo
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.trethore.copyproblems</description>
       <pubDate>Wed, 02 Sep 2026 18:30:17 GMT</pubDate>
@@ -50,7 +167,7 @@ xmlId: com.github.trethore.copyproblems</description>
       <description>Editor Jumper - Move selected code between your favorite tools Editor Jumper is a productivity plugin for DevEco Studio, IntelliJ IDEA, Android Studio, and other...
 
 vendor: wangningtao
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.wangningtao.editorjumper</description>
       <pubDate>Thu, 03 Sep 2026 14:02:29 GMT</pubDate>
@@ -63,7 +180,7 @@ xmlId: com.wangningtao.editorjumper</description>
       <description>cangjie-brains about cangjie-brains 1. The plugin provides support for Cangjie language 2. For developers who prefer to use IDEA, you only need to install the plugin...
 
 vendor: zhimu
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: pro.zhimu.cangjie</description>
       <pubDate>Thu, 03 Sep 2026 08:36:07 GMT</pubDate>
@@ -71,17 +188,17 @@ xmlId: pro.zhimu.cangjie</description>
       <dc:date>2026-09-03T08:36:07Z</dc:date>
     </item>
     <item>
-      <title>MyBatis SQL Tuner AI - Thu Sep 03 04:46:20 UTC 2026</title>
+      <title>MyBatis SQL Tuner AI - Fri Sep 04 00:58:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34051-mybatis-sql-tuner-ai</link>
       <description>MyBatis SQL Tuner AI is an AI-assisted SQL tuning and static analysis tool for IntelliJ IDEA. It automatically converts dynamic MyBatis XML queries into executable...
 
 vendor: sweetpark
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.sweetpark.mybatis-sql-tuner-ai</description>
-      <pubDate>Thu, 03 Sep 2026 04:46:20 GMT</pubDate>
+      <pubDate>Fri, 04 Sep 2026 00:58:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34051-mybatis-sql-tuner-ai</guid>
-      <dc:date>2026-09-03T04:46:20Z</dc:date>
+      <dc:date>2026-09-04T00:58:06Z</dc:date>
     </item>
     <item>
       <title>WSL Macros - Wed Sep 02 15:50:46 UTC 2026</title>
@@ -89,7 +206,7 @@ xmlId: io.github.sweetpark.mybatis-sql-tuner-ai</description>
       <description>Provides Wsl-prefixed macros ($WslFilePath$, $WslFileDir$, $WslProjectFileDir$, $WslProjectpath$, $WslContentRoot$) that always expand to the Windows-visible path...
 
 vendor: Piece of Code
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: ro.pieceofcode.jetbrains.plugin.wsl-macros</description>
       <pubDate>Wed, 02 Sep 2026 15:50:46 GMT</pubDate>
@@ -102,7 +219,7 @@ xmlId: ro.pieceofcode.jetbrains.plugin.wsl-macros</description>
       <description>Language, build, test, and debugging support for the MOS assembler, powered by LSP4IJ. Opening an .asm file starts mos lsp. In a trusted project, unless a custom...
 
 vendor: datatrash
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: sh.datatra.mos</description>
       <pubDate>Thu, 03 Sep 2026 14:16:11 GMT</pubDate>
@@ -115,7 +232,7 @@ xmlId: sh.datatra.mos</description>
       <description>Storybook Connect Browse, navigate, and generate Storybook stories — all from within JetBrains IDEs like WebStorm, PhpStorm and IntelliJ. Storybook Connect makes...
 
 vendor: JetBrains s.r.o.
-downloads: 2
+downloads: 13
 pricingModel: FREE
 xmlId: com.intellij.storybook</description>
       <pubDate>Wed, 02 Sep 2026 12:34:32 GMT</pubDate>
@@ -128,7 +245,7 @@ xmlId: com.intellij.storybook</description>
       <description>EF Log2SQL EF Log2SQL turns an EF Core SQL Server runtime command log into an executable SQL Server script. It is for .NET and EF Core developers using JetBrains Rider...
 
 vendor: AYB Tools
-downloads: 0
+downloads: 2
 pricingModel: PAID
 xmlId: com.aybtools.eflog2sql</description>
       <pubDate>Wed, 02 Sep 2026 13:37:31 GMT</pubDate>
@@ -141,129 +258,12 @@ xmlId: com.aybtools.eflog2sql</description>
       <description>Execute and debug your Bun tests seamlessly within any JetBrains IDE that supports JavaScript.
 
 vendor: Friday 5PM
-downloads: 1
+downloads: 13
 pricingModel: PAID
 xmlId: dev.friday5pm.jb.bun.pro.test</description>
       <pubDate>Thu, 03 Sep 2026 05:18:18 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33852-bun-test-runner</guid>
       <dc:date>2026-09-03T05:18:18Z</dc:date>
-    </item>
-    <item>
-      <title>Workspace Desk - Thu Sep 03 14:07:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33994-workspace-desk</link>
-      <description>Manage Terraform Enterprise and HCP Terraform workspaces, runs and variables without leaving the IDE. Workspace Desk adds a tool window that talks directly to your...
-
-vendor: Mateusz Ciosek
-downloads: 4
-pricingModel: FREEMIUM
-xmlId: dev.mciosek.workspacedesk</description>
-      <pubDate>Thu, 03 Sep 2026 14:07:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33994-workspace-desk</guid>
-      <dc:date>2026-09-03T14:07:00Z</dc:date>
-    </item>
-    <item>
-      <title>Codex File Timeline - Wed Sep 02 06:58:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34020-codex-file-timeline</link>
-      <description>Shows the Codex Desktop conversations and turns that changed the file currently open in Rider. The plugin reads conversation history through Codex app-server and falls...
-
-vendor: like vsc timeline with VibeCdeing
-downloads: 0
-pricingModel: FREE
-xmlId: com.codextimeline.filehistory</description>
-      <pubDate>Wed, 02 Sep 2026 06:58:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34020-codex-file-timeline</guid>
-      <dc:date>2026-09-02T06:58:40Z</dc:date>
-    </item>
-    <item>
-      <title>Retrofit API Swagger - Sat Aug 29 14:18:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33738-retrofit-api-swagger</link>
-      <description>Retrofit API Swagger is a professional tool for visualizing and managing your Android network layer. It provides a visual "Design Mode" similar to the Jetpack...
-
-vendor: George Nady
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.georgenady.retrofit_api_swagger</description>
-      <pubDate>Sat, 29 Aug 2026 14:18:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33738-retrofit-api-swagger</guid>
-      <dc:date>2026-08-29T14:18:46Z</dc:date>
-    </item>
-    <item>
-      <title>YiluPush - Wed Sep 02 03:16:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34010-yilupush</link>
-      <description>YiluPush is a Git multi-level branch merge and push toolkit for IntelliJ IDEA. It solves the repetitive manual work of merging across multiple cascading branches. Core...
-
-vendor: 小许同学在充电
-downloads: 1
-pricingModel: FREE
-xmlId: xiao-xu-tong-xue-zai-chong-dian</description>
-      <pubDate>Wed, 02 Sep 2026 03:16:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34010-yilupush</guid>
-      <dc:date>2026-09-02T03:16:42Z</dc:date>
-    </item>
-    <item>
-      <title>Markdown Poster - Wed Aug 26 16:18:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33778-markdown-poster</link>
-      <description>Turn Markdown into shareable long PNG images or standalone HTML without leaving the IDE. Live Edit, Preview, and Split modes Reusable presets, themes, and persistent...
-
-vendor: Judgee
-downloads: 5
-pricingModel: FREE
-xmlId: com.judgee.markdownposter</description>
-      <pubDate>Wed, 26 Aug 2026 16:18:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33778-markdown-poster</guid>
-      <dc:date>2026-08-26T16:18:54Z</dc:date>
-    </item>
-    <item>
-      <title>Batch Script Support - Wed Sep 02 03:00:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34001-batch-script-support</link>
-      <description>Modern support for Windows batch files (.bat, .cmd) in JetBrains IDEs. The existing batch plugins are syntax highlighters with no semantic layer, and both have been...
-
-vendor: Jace Darvill
-downloads: 2
-pricingModel: FREE
-xmlId: dev.batchsupport.batch-support</description>
-      <pubDate>Wed, 02 Sep 2026 03:00:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34001-batch-script-support</guid>
-      <dc:date>2026-09-02T03:00:32Z</dc:date>
-    </item>
-    <item>
-      <title>CopyForLlm+ - Thu Sep 03 09:42:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33979-copyforllm-</link>
-      <description>A fork of AykoSc/copyforllm that adds sensitive-file/folder exclusion. Copies selected files and folders structure and content to the clipboard, formatted for easy...
-
-vendor: Jad Traboulsi
-downloads: 1
-pricingModel: FREE
-xmlId: com.jadtraboulsi.copyforllm</description>
-      <pubDate>Thu, 03 Sep 2026 09:42:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33979-copyforllm-</guid>
-      <dc:date>2026-09-03T09:42:24Z</dc:date>
-    </item>
-    <item>
-      <title>PairPilot - Thu Aug 27 13:48:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33868-pairpilot</link>
-      <description>PairPilot is an AI pair-programming assistant for IntelliJ IDEA from Kenton Labs. It keeps context of your open code and the conversation around your session so you...
-
-vendor: Kenton Labs
-downloads: 2
-pricingModel: FREE
-xmlId: com.kentonlabs.pairpilot</description>
-      <pubDate>Thu, 27 Aug 2026 13:48:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33868-pairpilot</guid>
-      <dc:date>2026-08-27T13:48:26Z</dc:date>
-    </item>
-    <item>
-      <title>TSRX - Thu Sep 03 20:17:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33991-tsrx</link>
-      <description>TSRX language support for IntelliJ-based IDEs. All compatible IDEs receive the TSRX file type, commenting support, and TextMate syntax highlighting. Supported...
-
-vendor: TSRX
-downloads: 2
-pricingModel: FREE
-xmlId: tsrx.intellij-plugin</description>
-      <pubDate>Thu, 03 Sep 2026 20:17:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33991-tsrx</guid>
-      <dc:date>2026-09-03T20:17:16Z</dc:date>
     </item>
   </channel>
 </rss>
