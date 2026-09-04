@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Slang Language Support - Fri Sep 04 19:16:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/26040-slang-language-support</link>
+      <description>Editor support for the Slang shading language. Features integration of slangd, the official Slang language server, over LSP: Code completion, error and warning...
+
+vendor: Max Godefroy
+downloads: 18
+pricingModel: FREE
+xmlId: slang.plugin</description>
+      <pubDate>Fri, 04 Sep 2026 19:16:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26040-slang-language-support</guid>
+      <dc:date>2026-09-04T19:16:58Z</dc:date>
+    </item>
+    <item>
+      <title>Width Separator - Fri Sep 04 13:00:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34093-width-separator</link>
+      <description>Width Separator shows a vertical guide at a file-specific column in test data files. The guide is shown for .input and .output files that declare the column with a...
+
+vendor: Mikhail Zarechenskiy
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.zarechenskiy.widthseparator</description>
+      <pubDate>Fri, 04 Sep 2026 13:00:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34093-width-separator</guid>
+      <dc:date>2026-09-04T13:00:58Z</dc:date>
+    </item>
+    <item>
+      <title>Todoso - Thu Sep 03 23:59:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34048-todoso</link>
+      <description>An IntelliJ plugin to manage your todo list directly from a `todo.md` file in the project root, supporting standard formats from Obsidian and Notion. I created this...
+
+vendor: nndwn
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.nndwn.todoso</description>
+      <pubDate>Thu, 03 Sep 2026 23:59:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34048-todoso</guid>
+      <dc:date>2026-09-03T23:59:31Z</dc:date>
+    </item>
+    <item>
+      <title>Cosmos DB Explorer - Thu Sep 03 01:32:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34044-cosmos-db-explorer</link>
+      <description>Read your Azure Cosmos DB documents in the IDE, and keep reading them after the IDE updates. Pick a database, pick a container, press Run. That's it. Why this one The...
+
+vendor: sellerkit
+downloads: 1
+pricingModel: PAID
+xmlId: dev.sellerkit.cosmos</description>
+      <pubDate>Thu, 03 Sep 2026 01:32:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34044-cosmos-db-explorer</guid>
+      <dc:date>2026-09-03T01:32:41Z</dc:date>
+    </item>
+    <item>
+      <title>ES REST Data Source - Fri Sep 04 07:06:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34088-es-rest-data-source</link>
+      <description>ES REST Data Source connects DataGrip to Elasticsearch through its REST API. It provides a DataGrip data source backed by the Elasticsearch REST API and a Dev...
+
+vendor: shuhang li
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.suhli.elasticsearch.rest</description>
+      <pubDate>Fri, 04 Sep 2026 07:06:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34088-es-rest-data-source</guid>
+      <dc:date>2026-09-04T07:06:37Z</dc:date>
+    </item>
+    <item>
+      <title>SPHIOR CODE - Thu Aug 20 14:21:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33696-sphior-code</link>
+      <description>SPHIOR CODE — deterministic secrets + insecure-pattern (CWE) detection with tamper-evident audit evidence, right in your JetBrains IDE. No AI, no source upload...
+
+vendor: SPHIOR
+downloads: 2
+pricingModel: FREE
+xmlId: com.sphior.code</description>
+      <pubDate>Thu, 20 Aug 2026 14:21:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33696-sphior-code</guid>
+      <dc:date>2026-08-20T14:21:54Z</dc:date>
+    </item>
+    <item>
       <title>TreeInfotip Notes - Fri Sep 04 07:25:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34046-treeinfotip-notes</link>
       <description>TreeInfotip plugin for IntelliJ IDEs. GitHub | Issues | English: Add comment information to the project directory tree 中文： 项目菜单树添加备注信息、颜色、图标 Send issues This is a...
@@ -186,84 +264,6 @@ xmlId: dev.gaphunter.mutablestateleakcompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:27:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34073-mutable-state-leak-companion</guid>
       <dc:date>2026-09-03T19:27:02Z</dc:date>
-    </item>
-    <item>
-      <title>LDAP Injection Sink Companion - Thu Sep 03 19:28:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34074-ldap-injection-sink-companion</link>
-      <description>Flags a DirContext.search(...) call whose filter argument is built from an HTTP endpoint parameter -- CWE-90 (LDAP Injection): an attacker's raw input becomes LDAP...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.ldapinjectionsinkcompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:28:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34074-ldap-injection-sink-companion</guid>
-      <dc:date>2026-09-03T19:28:16Z</dc:date>
-    </item>
-    <item>
-      <title>Mismatched Lock Object Companion - Thu Sep 03 19:29:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34075-mismatched-lock-object-companion</link>
-      <description>Flags a synchronized block whose lock object is PROVEN to never be the same as another lock guarding the SAME field elsewhere in the class -- broken mutual exclusion...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.mismatchedlockobjectcompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:29:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34075-mismatched-lock-object-companion</guid>
-      <dc:date>2026-09-03T19:29:35Z</dc:date>
-    </item>
-    <item>
-      <title>Interface Sink Divergence Companion - Thu Sep 03 19:32:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34077-interface-sink-divergence-companion</link>
-      <description>Flags a call through an interface-typed reference, passing tainted HTTP input, where SOME real implementations log that input unsanitized (CWE-117/CWE-532) while at...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.interfacesinkdivergencecompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:32:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34077-interface-sink-divergence-companion</guid>
-      <dc:date>2026-09-03T19:32:09Z</dc:date>
-    </item>
-    <item>
-      <title>Lucene Query Injection Companion - Thu Sep 03 19:33:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34078-lucene-query-injection-companion</link>
-      <description>Flags a QueryBuilders.queryStringQuery(...)/ .simpleQueryStringQuery(...) call whose argument is built from an HTTP endpoint parameter -- CWE-943 (an attacker's raw...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.lucenequeryinjectioncompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:33:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34078-lucene-query-injection-companion</guid>
-      <dc:date>2026-09-03T19:33:25Z</dc:date>
-    </item>
-    <item>
-      <title>Interface Resource-Close Divergence Companion - Thu Sep 03 19:34:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34079-interface-resource-close-divergence-companion</link>
-      <description>Flags a call through an interface-typed reference, passing a resource (JDBC or I/O stream), where SOME real implementations guarantee closing it on every path...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.interfaceresourceclosedivergencecompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:34:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34079-interface-resource-close-divergence-companion</guid>
-      <dc:date>2026-09-03T19:34:47Z</dc:date>
-    </item>
-    <item>
-      <title>Thread-Confinement Escape Companion - Thu Sep 03 19:35:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34080-thread-confinement-escape-companion</link>
-      <description>Flags a mutable local variable (List/ Map/Set) captured by a task handed to a background thread (ExecutorService.submit/execute, new Thread(...).start()) that the SAME...
-
-vendor: Gap Hunter Labs
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gaphunter.threadconfinementescapecompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:35:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34080-thread-confinement-escape-companion</guid>
-      <dc:date>2026-09-03T19:35:58Z</dc:date>
     </item>
   </channel>
 </rss>
