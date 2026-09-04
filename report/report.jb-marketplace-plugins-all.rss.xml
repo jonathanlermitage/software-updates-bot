@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Flexible COBOL - Wed Sep 02 17:44:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34037-flexible-cobol</link>
-      <description>Native COBOL parser, no language server required. Copybook navigation, GnuCOBOL compile, run and debug, an AI assistant with MCP tools, and PIC-to-Java/JSON mapping...
+      <title>TreeInfotip Notes - Fri Sep 04 07:25:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34046-treeinfotip-notes</link>
+      <description>TreeInfotip plugin for IntelliJ IDEs. GitHub | Issues | English: Add comment information to the project directory tree 中文： 项目菜单树添加备注信息、颜色、图标 Send issues This is a...
 
-vendor: Ilscipio GmbH
-downloads: 4
-pricingModel: FREEMIUM
-xmlId: com.flexible.cobol</description>
-      <pubDate>Wed, 02 Sep 2026 17:44:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34037-flexible-cobol</guid>
-      <dc:date>2026-09-02T17:44:38Z</dc:date>
-    </item>
-    <item>
-      <title>Optics Framework - Tue Sep 01 21:15:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33992-optics-framework</link>
-      <description>Diagnostics, completion, hover, parameter info, goto-definition, find usages, cross-file rename, structure view and semantic highlighting for optics-framework CSV test...
-
-vendor: Mozark
-downloads: 1
-pricingModel: FREE
-xmlId: ai.mozark.optics-framework-lsp</description>
-      <pubDate>Tue, 01 Sep 2026 21:15:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33992-optics-framework</guid>
-      <dc:date>2026-09-01T21:15:29Z</dc:date>
-    </item>
-    <item>
-      <title>Java Refactoring MCP Tools - Thu Sep 03 15:14:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34035-java-refactoring-mcp-tools</link>
-      <description>Adds native Java refactoring operations to the IDE's built-in MCP Server, so AI coding agents can plan and execute real IDE refactorings through MCP instead of editing...
-
-vendor: lihuu
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.lihuu.airefactoring</description>
-      <pubDate>Thu, 03 Sep 2026 15:14:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34035-java-refactoring-mcp-tools</guid>
-      <dc:date>2026-09-03T15:14:52Z</dc:date>
-    </item>
-    <item>
-      <title>Localcord - Sun Aug 30 19:11:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33944-localcord</link>
-      <description>Localcord DSL support for JetBrains Rider.
-
-vendor: KaenguruuDev
-downloads: 5
-pricingModel: FREE
-xmlId: dev.kaenguruudev.localcord</description>
-      <pubDate>Sun, 30 Aug 2026 19:11:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33944-localcord</guid>
-      <dc:date>2026-08-30T19:11:43Z</dc:date>
-    </item>
-    <item>
-      <title>Nitpick - Fri Sep 04 06:35:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34040-nitpick</link>
-      <description>Review code written by AI agents inside IntelliJ's diff viewer, then hand the review back to the agent. Works with Claude Code, Codex, OpenCode, Pi, GitHub Copilot...
-
-vendor: gipo355
-downloads: 1
-pricingModel: FREE
-xmlId: dev.gipo.nitpick</description>
-      <pubDate>Fri, 04 Sep 2026 06:35:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34040-nitpick</guid>
-      <dc:date>2026-09-04T06:35:21Z</dc:date>
-    </item>
-    <item>
-      <title>Giuan Tomcat - Wed Sep 02 16:43:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33993-giuan-tomcat</link>
-      <description>Run Tomcat 9 directly from IntelliJ IDEA "Giuan Tomcat" adds a Giuan Tomcat run configuration that starts an Apache Tomcat 9 instance without requiring the bundled...
-
-vendor: midnight_cowboy
-downloads: 7
-pricingModel: FREE
-xmlId: org.giuantomcat</description>
-      <pubDate>Wed, 02 Sep 2026 16:43:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33993-giuan-tomcat</guid>
-      <dc:date>2026-09-02T16:43:10Z</dc:date>
-    </item>
-    <item>
-      <title>Aero Agent Skills - Thu Sep 03 23:02:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34041-aero-agent-skills</link>
-      <description>Aero Agent Skills — the aerospace knowledge layer for AI agents. Standards-mapped skills (ECSS · DO-178C · NASA · ARP4754A · FAR/CS) that give your AI assistant the...
-
-vendor: Ashforde OÜ
-downloads: 1
-pricingModel: FREE
-xmlId: com.ashforde.aeroskills</description>
-      <pubDate>Thu, 03 Sep 2026 23:02:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34041-aero-agent-skills</guid>
-      <dc:date>2026-09-03T23:02:11Z</dc:date>
-    </item>
-    <item>
-      <title>Repo Web Panel - Thu Sep 03 14:31:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34049-repo-web-panel</link>
-      <description>Repo Web Panel keeps GitHub's own website beside your code in a dedicated Rider tool window. View Issues and pull requests for repositories detected from your...
-
-vendor: ark4ez
-downloads: 4
-pricingModel: FREE
-xmlId: local.github.web.panel</description>
-      <pubDate>Thu, 03 Sep 2026 14:31:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34049-repo-web-panel</guid>
-      <dc:date>2026-09-03T14:31:14Z</dc:date>
-    </item>
-    <item>
-      <title>Easy AI Commit - Thu Sep 03 13:53:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34058-easy-ai-commit</link>
-      <description>Easy AI Commit is a simple, flexible AI-assisted commit message generator for JetBrains IDEs. Existing plugins often support only OpenAI-style APIs, require complex...
-
-vendor: jwjlly
+vendor: 仰晨556
 downloads: 2
 pricingModel: FREE
-xmlId: com.layxy.easyaicommit.jetbrains</description>
-      <pubDate>Thu, 03 Sep 2026 13:53:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34058-easy-ai-commit</guid>
-      <dc:date>2026-09-03T13:53:41Z</dc:date>
+xmlId: com.github.yc556.treeinfotip</description>
+      <pubDate>Fri, 04 Sep 2026 07:25:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34046-treeinfotip-notes</guid>
+      <dc:date>2026-09-04T07:25:37Z</dc:date>
     </item>
     <item>
-      <title>Optimus Accessibility - Wed Sep 02 19:09:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34039-optimus-accessibility</link>
-      <description>Optimus Accessibility is a real-time web accessibility (a11y) inspection tool for JetBrains IDEs. It works with React, Angular, and Vue, as well as vanilla HTML/JS/TS...
+      <title>OneAgent - Mon Aug 31 01:55:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33940-oneagent</link>
+      <description>OneAgent: Run AI Anywhere seamlessly across Cursor, Antigravity, Trae, and JetBrains IDEs. Cross-IDE unified AI agent workspace and real-time synchronization engine...
 
-vendor: Artem Petrenko
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.artemkacreate.optimusplugin</description>
-      <pubDate>Wed, 02 Sep 2026 19:09:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34039-optimus-accessibility</guid>
-      <dc:date>2026-09-02T19:09:26Z</dc:date>
-    </item>
-    <item>
-      <title>NodeSpark - Fri Sep 04 10:42:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34061-nodespark</link>
-      <description>JavaScript and TypeScript (.js, .jsx, .ts, .tsx) test runner for IntelliJ IDEA Community — no WebStorm licence needed. Runs Jest, Vitest, Mocha and node --test with a...
-
-vendor: NodeSpark
-downloads: 3
-pricingModel: FREE
-xmlId: com.nodespark.node-spark</description>
-      <pubDate>Fri, 04 Sep 2026 10:42:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34061-nodespark</guid>
-      <dc:date>2026-09-04T10:42:23Z</dc:date>
-    </item>
-    <item>
-      <title>CopyProblems - Wed Sep 02 18:30:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34038-copyproblems</link>
-      <description>Copy problems from IntelliJ IDEA's Problems window with their file, line, column, and severity.
-
-vendor: Tytoo
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.trethore.copyproblems</description>
-      <pubDate>Wed, 02 Sep 2026 18:30:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34038-copyproblems</guid>
-      <dc:date>2026-09-02T18:30:17Z</dc:date>
-    </item>
-    <item>
-      <title>Editor Jumper - Fri Sep 04 09:24:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34057-editor-jumper</link>
-      <description>Editor Jumper - Move selected code between your favorite tools Editor Jumper is a productivity plugin for DevEco Studio, IntelliJ IDEA, Android Studio, and other...
-
-vendor: wangningtao
-downloads: 1
-pricingModel: FREE
-xmlId: com.wangningtao.editorjumper</description>
-      <pubDate>Fri, 04 Sep 2026 09:24:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34057-editor-jumper</guid>
-      <dc:date>2026-09-04T09:24:31Z</dc:date>
-    </item>
-    <item>
-      <title>CangjieBrains - Fri Sep 04 13:06:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33295-cangjiebrains</link>
-      <description>CangjieBrains about CangjieBrains The plugin provides support for Cangjie language 操作系统需要配置CANGJIE_HOME环境变量，然后直接打开Cangjie项目使用，支持普通cj项目，未支持cj鸿蒙开发.
-
-vendor: zhimu
-downloads: 5
-pricingModel: FREE
-xmlId: pro.zhimu.cangjie</description>
-      <pubDate>Fri, 04 Sep 2026 13:06:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33295-cangjiebrains</guid>
-      <dc:date>2026-09-04T13:06:51Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis SQL Tuner AI - Fri Sep 04 12:55:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34051-mybatis-sql-tuner-ai</link>
-      <description>MyBatis SQL Tuner AI is an AI-assisted SQL tuning and static analysis tool for IntelliJ IDEA. It automatically converts dynamic MyBatis XML queries into executable...
-
-vendor: sweetpark
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.sweetpark.mybatis-sql-tuner-ai</description>
-      <pubDate>Fri, 04 Sep 2026 12:55:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34051-mybatis-sql-tuner-ai</guid>
-      <dc:date>2026-09-04T12:55:33Z</dc:date>
-    </item>
-    <item>
-      <title>WSL Macros - Wed Sep 02 15:50:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34036-wsl-macros</link>
-      <description>Provides Wsl-prefixed macros ($WslFilePath$, $WslFileDir$, $WslProjectFileDir$, $WslProjectpath$, $WslContentRoot$) that always expand to the Windows-visible path...
-
-vendor: Piece of Code
+vendor: OneAgent
 downloads: 2
 pricingModel: FREE
-xmlId: ro.pieceofcode.jetbrains.plugin.wsl-macros</description>
-      <pubDate>Wed, 02 Sep 2026 15:50:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34036-wsl-macros</guid>
-      <dc:date>2026-09-02T15:50:46Z</dc:date>
+xmlId: com.oneagent.sync</description>
+      <pubDate>Mon, 31 Aug 2026 01:55:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33940-oneagent</guid>
+      <dc:date>2026-08-31T01:55:03Z</dc:date>
     </item>
     <item>
-      <title>MOS - Thu Sep 03 14:16:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34025-mos</link>
-      <description>Language, build, test, and debugging support for the MOS assembler, powered by LSP4IJ. Opening an .asm file starts mos lsp. In a trusted project, unless a custom...
+      <title>Pin Guard - Fri Aug 28 08:13:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33911-pin-guard</link>
+      <description>Makes pinned editor tabs genuinely hard to close. Pinning a tab normally only protects it from automatic closing, such as tab-limit eviction. Any explicit close still...
 
-vendor: datatrash
-downloads: 11
+vendor: Torfs ICT
+downloads: 1
 pricingModel: FREE
-xmlId: sh.datatra.mos</description>
-      <pubDate>Thu, 03 Sep 2026 14:16:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34025-mos</guid>
-      <dc:date>2026-09-03T14:16:11Z</dc:date>
+xmlId: org.torfs.pinguard</description>
+      <pubDate>Fri, 28 Aug 2026 08:13:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33911-pin-guard</guid>
+      <dc:date>2026-08-28T08:13:25Z</dc:date>
     </item>
     <item>
-      <title>Storybook Connect - Wed Sep 02 12:34:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33386-storybook-connect</link>
-      <description>Storybook Connect Browse, navigate, and generate Storybook stories — all from within JetBrains IDEs like WebStorm, PhpStorm and IntelliJ. Storybook Connect makes...
+      <title>RK File Support - Fri Sep 04 08:01:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34089-rk-file-support</link>
+      <description>Adds support for RK auto-generated JSON files in JetBrains WebStorm. Made by Kevin Sträßler.
 
-vendor: JetBrains s.r.o.
-downloads: 13
+vendor: RK File Extension
+downloads: 0
 pricingModel: FREE
-xmlId: com.intellij.storybook</description>
-      <pubDate>Wed, 02 Sep 2026 12:34:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33386-storybook-connect</guid>
-      <dc:date>2026-09-02T12:34:32Z</dc:date>
+xmlId: dev.reikem.rk</description>
+      <pubDate>Fri, 04 Sep 2026 08:01:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34089-rk-file-support</guid>
+      <dc:date>2026-09-04T08:01:53Z</dc:date>
     </item>
     <item>
-      <title>EF Log2SQL - Wed Sep 02 13:37:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34032-ef-log2sql</link>
-      <description>EF Log2SQL EF Log2SQL turns an EF Core SQL Server runtime command log into an executable SQL Server script. It is for .NET and EF Core developers using JetBrains Rider...
+      <title>Terraform IAM Privesc Companion - Thu Sep 03 19:09:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34063-terraform-iam-privesc-companion</link>
+      <description>Flags a Terraform aws_iam_role that can reach an admin-equivalent role through a real, whole-project AssumeRole trust chain -- not just an isolated wildcard statement...
 
-vendor: AYB Tools
-downloads: 2
-pricingModel: PAID
-xmlId: com.aybtools.eflog2sql</description>
-      <pubDate>Wed, 02 Sep 2026 13:37:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34032-ef-log2sql</guid>
-      <dc:date>2026-09-02T13:37:31Z</dc:date>
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.terraformiamprivesccompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:09:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34063-terraform-iam-privesc-companion</guid>
+      <dc:date>2026-09-03T19:09:36Z</dc:date>
     </item>
     <item>
-      <title>Bun Test Runner - Thu Sep 03 05:18:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33852-bun-test-runner</link>
-      <description>Run and debug Bun tests in your IDE. Compatible with any JetBrains IDE that supports JavaScript. Stop switching contexts between your terminal and editor—bring...
+      <title>K8s Label-Selector Exposure Companion - Thu Sep 03 19:11:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34064-k8s-label-selector-exposure-companion</link>
+      <description>Flags a Deployment/Pod/StatefulSet/DaemonSet that is Service-exposed but NOT matched by any NetworkPolicy's Ingress-covering podSelector, even though NetworkPolicies...
 
-vendor: Friday 5PM
-downloads: 13
-pricingModel: PAID
-xmlId: dev.friday5pm.jb.bun.pro.test</description>
-      <pubDate>Thu, 03 Sep 2026 05:18:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33852-bun-test-runner</guid>
-      <dc:date>2026-09-03T05:18:18Z</dc:date>
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.k8slabelselectorexposurecompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:11:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34064-k8s-label-selector-exposure-companion</guid>
+      <dc:date>2026-09-03T19:11:28Z</dc:date>
+    </item>
+    <item>
+      <title>SpEL Injection Sink Companion - Thu Sep 03 19:15:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34065-spel-injection-sink-companion</link>
+      <description>Flags a Spring ExpressionParser.parseExpression(...) call whose argument is built from an HTTP endpoint parameter -- CWE-917 (Expression Language Injection), the exact...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.spelinjectionsinkcompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:15:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34065-spel-injection-sink-companion</guid>
+      <dc:date>2026-09-03T19:15:03Z</dc:date>
+    </item>
+    <item>
+      <title>GitHub Actions Pwn-Request Companion - Thu Sep 03 19:16:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34066-github-actions-pwn-request-companion</link>
+      <description>Flags a GitHub Actions job -- triggered by pull_request_target/workflow_run -- that checks out untrusted PR/workflow_run head content while secrets are reachable...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.githubactionspwnrequestcompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:16:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34066-github-actions-pwn-request-companion</guid>
+      <dc:date>2026-09-03T19:16:25Z</dc:date>
+    </item>
+    <item>
+      <title>Kafka Topic Feedback-Loop Companion - Thu Sep 03 19:17:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34067-kafka-topic-feedback-loop-companion</link>
+      <description>Flags a Spring Kafka @KafkaListener method whose OWN transitive call graph (same class, or one injected collaborator, UNBOUNDED depth, cycle-protected -- not a fixed...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.kafkatopicfeedbackloopcompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:17:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34067-kafka-topic-feedback-loop-companion</guid>
+      <dc:date>2026-09-03T19:17:41Z</dc:date>
+    </item>
+    <item>
+      <title>XPath Injection Sink Companion - Thu Sep 03 19:21:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34069-xpath-injection-sink-companion</link>
+      <description>Flags an XPath.evaluate(...)/.compile(...) call whose argument is built from an HTTP endpoint parameter -- CWE-643 (XPath Injection), the mechanism documented in the...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.xpathinjectionsinkcompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:21:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34069-xpath-injection-sink-companion</guid>
+      <dc:date>2026-09-03T19:21:32Z</dc:date>
+    </item>
+    <item>
+      <title>JDBC Double-Close Companion - Thu Sep 03 19:22:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34070-jdbc-double-close-companion</link>
+      <description>Flags a JDBC resource (Connection/ Statement/PreparedStatement/ CallableStatement/ResultSet) .close() reached with the resource already closed -- on EVERY path...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.jdbcdoubleclosecompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:22:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34070-jdbc-double-close-companion</guid>
+      <dc:date>2026-09-03T19:22:39Z</dc:date>
+    </item>
+    <item>
+      <title>Interface Exception Divergence Companion - Thu Sep 03 19:24:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34071-interface-exception-divergence-companion</link>
+      <description>Flags a call through an interface-typed reference, wrapped in a broad silent catch (Exception e), where real implementations of that interface method actually diverge...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.interfaceexceptiondivergencecompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:24:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34071-interface-exception-divergence-companion</guid>
+      <dc:date>2026-09-03T19:24:33Z</dc:date>
+    </item>
+    <item>
+      <title>Second-Order SQLi Field Companion - Thu Sep 03 19:25:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34072-second-order-sqli-field-companion</link>
+      <description>Flags a SQL sink concatenating a @Entity field's getter/direct read, when that SAME field is ALSO confirmed, elsewhere in the project, to be written from unsanitized...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.secondordersqlifieldcompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:25:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34072-second-order-sqli-field-companion</guid>
+      <dc:date>2026-09-03T19:25:50Z</dc:date>
+    </item>
+    <item>
+      <title>Mutable State Leak Companion - Thu Sep 03 19:27:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34073-mutable-state-leak-companion</link>
+      <description>Flags a real mutation (`.add`/`.put`/`.remove`/`.clear`/an array-index write) of a value returned by a getter that hands back one of its OWN mutable fields...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.mutablestateleakcompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:27:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34073-mutable-state-leak-companion</guid>
+      <dc:date>2026-09-03T19:27:02Z</dc:date>
+    </item>
+    <item>
+      <title>LDAP Injection Sink Companion - Thu Sep 03 19:28:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34074-ldap-injection-sink-companion</link>
+      <description>Flags a DirContext.search(...) call whose filter argument is built from an HTTP endpoint parameter -- CWE-90 (LDAP Injection): an attacker's raw input becomes LDAP...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.ldapinjectionsinkcompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:28:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34074-ldap-injection-sink-companion</guid>
+      <dc:date>2026-09-03T19:28:16Z</dc:date>
+    </item>
+    <item>
+      <title>Mismatched Lock Object Companion - Thu Sep 03 19:29:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34075-mismatched-lock-object-companion</link>
+      <description>Flags a synchronized block whose lock object is PROVEN to never be the same as another lock guarding the SAME field elsewhere in the class -- broken mutual exclusion...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.mismatchedlockobjectcompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:29:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34075-mismatched-lock-object-companion</guid>
+      <dc:date>2026-09-03T19:29:35Z</dc:date>
+    </item>
+    <item>
+      <title>Interface Sink Divergence Companion - Thu Sep 03 19:32:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34077-interface-sink-divergence-companion</link>
+      <description>Flags a call through an interface-typed reference, passing tainted HTTP input, where SOME real implementations log that input unsanitized (CWE-117/CWE-532) while at...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.interfacesinkdivergencecompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:32:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34077-interface-sink-divergence-companion</guid>
+      <dc:date>2026-09-03T19:32:09Z</dc:date>
+    </item>
+    <item>
+      <title>Lucene Query Injection Companion - Thu Sep 03 19:33:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34078-lucene-query-injection-companion</link>
+      <description>Flags a QueryBuilders.queryStringQuery(...)/ .simpleQueryStringQuery(...) call whose argument is built from an HTTP endpoint parameter -- CWE-943 (an attacker's raw...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.lucenequeryinjectioncompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:33:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34078-lucene-query-injection-companion</guid>
+      <dc:date>2026-09-03T19:33:25Z</dc:date>
+    </item>
+    <item>
+      <title>Interface Resource-Close Divergence Companion - Thu Sep 03 19:34:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34079-interface-resource-close-divergence-companion</link>
+      <description>Flags a call through an interface-typed reference, passing a resource (JDBC or I/O stream), where SOME real implementations guarantee closing it on every path...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.interfaceresourceclosedivergencecompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:34:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34079-interface-resource-close-divergence-companion</guid>
+      <dc:date>2026-09-03T19:34:47Z</dc:date>
+    </item>
+    <item>
+      <title>Thread-Confinement Escape Companion - Thu Sep 03 19:35:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34080-thread-confinement-escape-companion</link>
+      <description>Flags a mutable local variable (List/ Map/Set) captured by a task handed to a background thread (ExecutorService.submit/execute, new Thread(...).start()) that the SAME...
+
+vendor: Gap Hunter Labs
+downloads: 0
+pricingModel: FREE
+xmlId: dev.gaphunter.threadconfinementescapecompanion</description>
+      <pubDate>Thu, 03 Sep 2026 19:35:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34080-thread-confinement-escape-companion</guid>
+      <dc:date>2026-09-03T19:35:58Z</dc:date>
     </item>
   </channel>
 </rss>
