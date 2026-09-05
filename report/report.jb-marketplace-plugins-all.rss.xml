@@ -11,7 +11,7 @@
       <description>Editor support for the Slang shading language. Features integration of slangd, the official Slang language server, over LSP: Code completion, error and warning...
 
 vendor: Max Godefroy
-downloads: 18
+downloads: 30
 pricingModel: FREE
 xmlId: slang.plugin</description>
       <pubDate>Fri, 04 Sep 2026 19:16:58 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: slang.plugin</description>
       <description>Width Separator shows a vertical guide at a file-specific column in test data files. The guide is shown for .input and .output files that declare the column with a...
 
 vendor: Mikhail Zarechenskiy
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.zarechenskiy.widthseparator</description>
       <pubDate>Fri, 04 Sep 2026 13:00:58 GMT</pubDate>
@@ -32,17 +32,17 @@ xmlId: com.github.zarechenskiy.widthseparator</description>
       <dc:date>2026-09-04T13:00:58Z</dc:date>
     </item>
     <item>
-      <title>Todoso - Thu Sep 03 23:59:31 UTC 2026</title>
+      <title>Todoso - Sat Sep 05 01:05:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34048-todoso</link>
-      <description>An IntelliJ plugin to manage your todo list directly from a `todo.md` file in the project root, supporting standard formats from Obsidian and Notion. I created this...
+      <description>Todoso - IntelliJ Todo Manager An IntelliJ plugin to manage your todo list directly from a todo.md file in the project root. Designed for simplicity, it supports...
 
 vendor: nndwn
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.nndwn.todoso</description>
-      <pubDate>Thu, 03 Sep 2026 23:59:31 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 01:05:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34048-todoso</guid>
-      <dc:date>2026-09-03T23:59:31Z</dc:date>
+      <dc:date>2026-09-05T01:05:46Z</dc:date>
     </item>
     <item>
       <title>Cosmos DB Explorer - Thu Sep 03 01:32:41 UTC 2026</title>
@@ -50,7 +50,7 @@ xmlId: com.github.nndwn.todoso</description>
       <description>Read your Azure Cosmos DB documents in the IDE, and keep reading them after the IDE updates. Pick a database, pick a container, press Run. That's it. Why this one The...
 
 vendor: sellerkit
-downloads: 1
+downloads: 3
 pricingModel: PAID
 xmlId: dev.sellerkit.cosmos</description>
       <pubDate>Thu, 03 Sep 2026 01:32:41 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: dev.sellerkit.cosmos</description>
       <description>ES REST Data Source connects DataGrip to Elasticsearch through its REST API. It provides a DataGrip data source backed by the Elasticsearch REST API and a Dev...
 
 vendor: shuhang li
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.suhli.elasticsearch.rest</description>
       <pubDate>Fri, 04 Sep 2026 07:06:37 GMT</pubDate>
@@ -71,30 +71,30 @@ xmlId: io.github.suhli.elasticsearch.rest</description>
       <dc:date>2026-09-04T07:06:37Z</dc:date>
     </item>
     <item>
-      <title>SPHIOR CODE - Thu Aug 20 14:21:54 UTC 2026</title>
+      <title>SPHIOR CODE - Sat Sep 05 03:56:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33696-sphior-code</link>
       <description>SPHIOR CODE — deterministic secrets + insecure-pattern (CWE) detection with tamper-evident audit evidence, right in your JetBrains IDE. No AI, no source upload...
 
 vendor: SPHIOR
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.sphior.code</description>
-      <pubDate>Thu, 20 Aug 2026 14:21:54 GMT</pubDate>
+      <pubDate>Sat, 05 Sep 2026 03:56:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33696-sphior-code</guid>
-      <dc:date>2026-08-20T14:21:54Z</dc:date>
+      <dc:date>2026-09-05T03:56:07Z</dc:date>
     </item>
     <item>
-      <title>TreeInfotip Notes - Fri Sep 04 07:25:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34046-treeinfotip-notes</link>
+      <title>TreeInfotip Notes / 目录树备注 - Sat Sep 05 01:56:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34046-treeinfotip-notes----</link>
       <description>TreeInfotip plugin for IntelliJ IDEs. GitHub | Issues | English: Add comment information to the project directory tree 中文： 项目菜单树添加备注信息、颜色、图标 Send issues This is a...
 
 vendor: 仰晨556
-downloads: 2
+downloads: 7
 pricingModel: FREE
 xmlId: com.github.yc556.treeinfotip</description>
-      <pubDate>Fri, 04 Sep 2026 07:25:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34046-treeinfotip-notes</guid>
-      <dc:date>2026-09-04T07:25:37Z</dc:date>
+      <pubDate>Sat, 05 Sep 2026 01:56:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34046-treeinfotip-notes----</guid>
+      <dc:date>2026-09-05T01:56:41Z</dc:date>
     </item>
     <item>
       <title>OneAgent - Mon Aug 31 01:55:03 UTC 2026</title>
@@ -102,7 +102,7 @@ xmlId: com.github.yc556.treeinfotip</description>
       <description>OneAgent: Run AI Anywhere seamlessly across Cursor, Antigravity, Trae, and JetBrains IDEs. Cross-IDE unified AI agent workspace and real-time synchronization engine...
 
 vendor: OneAgent
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.oneagent.sync</description>
       <pubDate>Mon, 31 Aug 2026 01:55:03 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.oneagent.sync</description>
       <description>Makes pinned editor tabs genuinely hard to close. Pinning a tab normally only protects it from automatic closing, such as tab-limit eviction. Any explicit close still...
 
 vendor: Torfs ICT
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: org.torfs.pinguard</description>
       <pubDate>Fri, 28 Aug 2026 08:13:25 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: org.torfs.pinguard</description>
       <description>Adds support for RK auto-generated JSON files in JetBrains WebStorm. Made by Kevin Sträßler.
 
 vendor: RK File Extension
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.reikem.rk</description>
       <pubDate>Fri, 04 Sep 2026 08:01:53 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: dev.reikem.rk</description>
       <description>Flags a Terraform aws_iam_role that can reach an admin-equivalent role through a real, whole-project AssumeRole trust chain -- not just an isolated wildcard statement...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.terraformiamprivesccompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:09:36 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: dev.gaphunter.terraformiamprivesccompanion</description>
       <description>Flags a Deployment/Pod/StatefulSet/DaemonSet that is Service-exposed but NOT matched by any NetworkPolicy's Ingress-covering podSelector, even though NetworkPolicies...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.k8slabelselectorexposurecompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:11:28 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: dev.gaphunter.k8slabelselectorexposurecompanion</description>
       <description>Flags a Spring ExpressionParser.parseExpression(...) call whose argument is built from an HTTP endpoint parameter -- CWE-917 (Expression Language Injection), the exact...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.spelinjectionsinkcompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:15:03 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: dev.gaphunter.spelinjectionsinkcompanion</description>
       <description>Flags a GitHub Actions job -- triggered by pull_request_target/workflow_run -- that checks out untrusted PR/workflow_run head content while secrets are reachable...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.githubactionspwnrequestcompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:16:25 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.gaphunter.githubactionspwnrequestcompanion</description>
       <description>Flags a Spring Kafka @KafkaListener method whose OWN transitive call graph (same class, or one injected collaborator, UNBOUNDED depth, cycle-protected -- not a fixed...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.kafkatopicfeedbackloopcompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:17:41 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: dev.gaphunter.kafkatopicfeedbackloopcompanion</description>
       <description>Flags an XPath.evaluate(...)/.compile(...) call whose argument is built from an HTTP endpoint parameter -- CWE-643 (XPath Injection), the mechanism documented in the...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.xpathinjectionsinkcompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:21:32 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.gaphunter.xpathinjectionsinkcompanion</description>
       <description>Flags a JDBC resource (Connection/ Statement/PreparedStatement/ CallableStatement/ResultSet) .close() reached with the resource already closed -- on EVERY path...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.jdbcdoubleclosecompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:22:39 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: dev.gaphunter.jdbcdoubleclosecompanion</description>
       <description>Flags a call through an interface-typed reference, wrapped in a broad silent catch (Exception e), where real implementations of that interface method actually diverge...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.interfaceexceptiondivergencecompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:24:33 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: dev.gaphunter.interfaceexceptiondivergencecompanion</description>
       <description>Flags a SQL sink concatenating a @Entity field's getter/direct read, when that SAME field is ALSO confirmed, elsewhere in the project, to be written from unsanitized...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.secondordersqlifieldcompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:25:50 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: dev.gaphunter.secondordersqlifieldcompanion</description>
       <description>Flags a real mutation (`.add`/`.put`/`.remove`/`.clear`/an array-index write) of a value returned by a getter that hands back one of its OWN mutable fields...
 
 vendor: Gap Hunter Labs
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.gaphunter.mutablestateleakcompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:27:02 GMT</pubDate>
