@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Alpaca - Wed Sep 02 08:26:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34021-alpaca</link>
+      <description>IDE support for custom languages defined with the Alpaca lexer/parser library for Scala. An Alpaca-defined language is just Scala code, with no separate grammar file...
+
+vendor: halotukozak
+downloads: 2
+pricingModel: FREE
+xmlId: com.halotukozak.alpaca.plugin</description>
+      <pubDate>Wed, 02 Sep 2026 08:26:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34021-alpaca</guid>
+      <dc:date>2026-09-02T08:26:48Z</dc:date>
+    </item>
+    <item>
       <title>Slang Language Support - Fri Sep 04 19:16:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/26040-slang-language-support</link>
       <description>Editor support for the Slang shading language. Features integration of slangd, the official Slang language server, over LSP: Code completion, error and warning...
@@ -251,19 +264,6 @@ xmlId: dev.gaphunter.secondordersqlifieldcompanion</description>
       <pubDate>Thu, 03 Sep 2026 19:25:50 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34072-second-order-sqli-field-companion</guid>
       <dc:date>2026-09-03T19:25:50Z</dc:date>
-    </item>
-    <item>
-      <title>Mutable State Leak Companion - Thu Sep 03 19:27:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34073-mutable-state-leak-companion</link>
-      <description>Flags a real mutation (`.add`/`.put`/`.remove`/`.clear`/an array-index write) of a value returned by a getter that hands back one of its OWN mutable fields...
-
-vendor: Gap Hunter Labs
-downloads: 2
-pricingModel: FREE
-xmlId: dev.gaphunter.mutablestateleakcompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:27:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34073-mutable-state-leak-companion</guid>
-      <dc:date>2026-09-03T19:27:02Z</dc:date>
     </item>
   </channel>
 </rss>
