@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>AEM Toolkit - Thu Aug 06 02:36:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33356-aem-toolkit</link>
-      <description>AEM Toolkit brings Adobe Experience Manager development workflows directly into IntelliJ IDEA. Independent community project. Not affiliated with or endorsed by Adobe...
+      <title>AI Error Log Purifier - Tue Sep 08 01:25:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33969-ai-error-log-purifier</link>
+      <description>AI Error Log Purifier prepares IntelliJ IDEA console errors for analysis by a user-selected LLM provider. It can: Analyze selected console output or the full console...
 
-vendor: AEM Toolkits
+vendor: SeongbinChoo
+downloads: 2
+pricingModel: FREE
+xmlId: com.jcms.errorpurifier.plugin</description>
+      <pubDate>Tue, 08 Sep 2026 01:25:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33969-ai-error-log-purifier</guid>
+      <dc:date>2026-09-08T01:25:15Z</dc:date>
+    </item>
+    <item>
+      <title>Run Configuration Doctor - Thu Sep 03 22:46:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34086-run-configuration-doctor</link>
+      <description>Preflight diagnostics for JetBrains Run Configurations. Run Configuration Doctor checks local configuration prerequisites before execution and reports concise...
+
+vendor: misteriosojo
+downloads: 1
+pricingModel: FREE
+xmlId: io.gitlab.misteriosojo.rundoctor</description>
+      <pubDate>Thu, 03 Sep 2026 22:46:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34086-run-configuration-doctor</guid>
+      <dc:date>2026-09-03T22:46:58Z</dc:date>
+    </item>
+    <item>
+      <title>Career Forge - Sat Sep 05 10:07:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33929-career-forge</link>
+      <description>Build trustworthy developer resumes from project evidence without leaving your JetBrains IDE. Scan project documentation and dependency manifests after explicit...
+
+vendor: Career Forge
 downloads: 3
 pricingModel: FREE
-xmlId: com.github.aemtoolkit</description>
-      <pubDate>Thu, 06 Aug 2026 02:36:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33356-aem-toolkit</guid>
-      <dc:date>2026-08-06T02:36:26Z</dc:date>
+xmlId: com.careerforge.jetbrains</description>
+      <pubDate>Sat, 05 Sep 2026 10:07:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33929-career-forge</guid>
+      <dc:date>2026-09-05T10:07:46Z</dc:date>
     </item>
     <item>
-      <title>Alpaca - Wed Sep 02 08:26:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34021-alpaca</link>
-      <description>IDE support for custom languages defined with the Alpaca lexer/parser library for Scala. An Alpaca-defined language is just Scala code, with no separate grammar file...
+      <title>Git Merge Into Plus - Sat Sep 05 09:36:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34105-git-merge-into-plus</link>
+      <description>Merges the current branch into a target branch of your choice and automatically switches back to the current branch when the operation finishes. Features: Official...
 
-vendor: halotukozak
-downloads: 10
+vendor: Hans Zhang
+downloads: 1
 pricingModel: FREE
-xmlId: com.halotukozak.alpaca.plugin</description>
-      <pubDate>Wed, 02 Sep 2026 08:26:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34021-alpaca</guid>
-      <dc:date>2026-09-02T08:26:48Z</dc:date>
+xmlId: com.hans.git-merge-into-plus</description>
+      <pubDate>Sat, 05 Sep 2026 09:36:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34105-git-merge-into-plus</guid>
+      <dc:date>2026-09-05T09:36:06Z</dc:date>
     </item>
     <item>
-      <title>Slang Language Support - Fri Sep 04 19:16:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/26040-slang-language-support</link>
-      <description>Editor support for the Slang shading language. Features integration of slangd, the official Slang language server, over LSP: Code completion, error and warning...
+      <title>Who Did This - Mon Sep 07 01:57:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34042-who-did-this</link>
+      <description>Who Did This shows the latest Git commit author, time, and summary for the line under the primary caret.
 
-vendor: Max Godefroy
-downloads: 49
+vendor: Ethan
+downloads: 5
 pricingModel: FREE
-xmlId: slang.plugin</description>
-      <pubDate>Fri, 04 Sep 2026 19:16:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/26040-slang-language-support</guid>
-      <dc:date>2026-09-04T19:16:58Z</dc:date>
+xmlId: com.ethan.wdt</description>
+      <pubDate>Mon, 07 Sep 2026 01:57:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34042-who-did-this</guid>
+      <dc:date>2026-09-07T01:57:10Z</dc:date>
     </item>
     <item>
-      <title>Width Separator - Mon Sep 07 08:41:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34093-width-separator</link>
-      <description>Width Separator shows a vertical guide at a file-specific column in test data files. The guide is shown for .input and .output files that declare the column with a...
+      <title>order-check - Mon Sep 07 08:11:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34140-order-check</link>
+      <description>order-check checks Java method names and suggests safe renames for getOrder methods and their usages.
 
-vendor: Mikhail Zarechenskiy
-downloads: 7
+vendor: order_check
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.zarechenskiy.widthseparator</description>
-      <pubDate>Mon, 07 Sep 2026 08:41:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34093-width-separator</guid>
-      <dc:date>2026-09-07T08:41:34Z</dc:date>
+xmlId: com.github.dalikai321debug.ideares</description>
+      <pubDate>Mon, 07 Sep 2026 08:11:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34140-order-check</guid>
+      <dc:date>2026-09-07T08:11:38Z</dc:date>
     </item>
     <item>
-      <title>Todoso - Sat Sep 05 01:05:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34048-todoso</link>
-      <description>Todoso - IntelliJ Todo Manager An IntelliJ plugin to manage your todo list directly from a todo.md file in the project root. Designed for simplicity, it supports...
+      <title>Yreview - Tue Sep 08 01:30:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34134-yreview</link>
+      <description>Yreview writes a code review comment on any line of the editor and on any line of a diff. The plugin stores each comment as a git note in the git-appraise format. A...
 
-vendor: nndwn
-downloads: 23
+vendor: Yehor Brodskiy
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.nndwn.todoso</description>
-      <pubDate>Sat, 05 Sep 2026 01:05:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34048-todoso</guid>
-      <dc:date>2026-09-05T01:05:46Z</dc:date>
+xmlId: com.yeskiy.yreview</description>
+      <pubDate>Tue, 08 Sep 2026 01:30:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34134-yreview</guid>
+      <dc:date>2026-09-08T01:30:43Z</dc:date>
     </item>
     <item>
-      <title>Cosmos DB Explorer - Thu Sep 03 01:32:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34044-cosmos-db-explorer</link>
-      <description>Read your Azure Cosmos DB documents in the IDE, and keep reading them after the IDE updates. Pick a database, pick a container, press Run. That's it. Why this one The...
+      <title>MergeSense Test Case Generator - Sat Sep 05 18:00:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34114-mergesense-test-case-generator</link>
+      <description>MergeSense — AI Test Case Generator Generate comprehensive manual test cases from Pull Request diffs, Jira issues, and code analysis — directly inside your IDE. What...
 
-vendor: sellerkit
-downloads: 8
-pricingModel: PAID
-xmlId: dev.sellerkit.cosmos</description>
-      <pubDate>Thu, 03 Sep 2026 01:32:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34044-cosmos-db-explorer</guid>
-      <dc:date>2026-09-03T01:32:41Z</dc:date>
-    </item>
-    <item>
-      <title>ES REST Data Source - Fri Sep 04 07:06:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34088-es-rest-data-source</link>
-      <description>ES REST Data Source connects DataGrip to Elasticsearch through its REST API. It provides a DataGrip data source backed by the Elasticsearch REST API and a Dev...
-
-vendor: shuhang li
-downloads: 9
+vendor: BBekci
+downloads: 1
 pricingModel: FREE
-xmlId: io.github.suhli.elasticsearch.rest</description>
-      <pubDate>Fri, 04 Sep 2026 07:06:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34088-es-rest-data-source</guid>
-      <dc:date>2026-09-04T07:06:37Z</dc:date>
+xmlId: com.mergesense.testcasegenerator</description>
+      <pubDate>Sat, 05 Sep 2026 18:00:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34114-mergesense-test-case-generator</guid>
+      <dc:date>2026-09-05T18:00:47Z</dc:date>
     </item>
     <item>
-      <title>SPHIOR CODE - Sat Sep 05 03:56:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33696-sphior-code</link>
-      <description>SPHIOR CODE — deterministic secrets + insecure-pattern (CWE) detection with tamper-evident audit evidence, right in your JetBrains IDE. No AI, no source upload...
+      <title>Web-CAT Mutation Testing - Mon Sep 07 01:37:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34136-web-cat-mutation-testing</link>
+      <description>IntelliJ IDEA plugin for PIT Mutation Testing (pitest.org). Bundled with PIT 1.30.0, JUnit5 plugin 1.2.3, and pitest-rv-plugin 0.1 (AOD mutators) Adds a 'Run...
 
-vendor: SPHIOR
-downloads: 20
+vendor: Alex Hicks
+downloads: 0
 pricingModel: FREE
-xmlId: com.sphior.code</description>
-      <pubDate>Sat, 05 Sep 2026 03:56:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33696-sphior-code</guid>
-      <dc:date>2026-09-05T03:56:07Z</dc:date>
+xmlId: com.github.awhicks.webcat-mutation-testing</description>
+      <pubDate>Mon, 07 Sep 2026 01:37:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34136-web-cat-mutation-testing</guid>
+      <dc:date>2026-09-07T01:37:58Z</dc:date>
     </item>
     <item>
-      <title>TreeInfotip Notes / 目录树备注 - Sat Sep 05 01:56:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34046-treeinfotip-notes----</link>
-      <description>TreeInfotip plugin for IntelliJ IDEs. GitHub | Issues | English: Add comment information to the project directory tree 中文： 项目菜单树添加备注信息、颜色、图标 Send issues This is a...
+      <title>Aero Agent Roles - Sun Sep 06 08:24:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34121-aero-agent-roles</link>
+      <description>Aero Agent Roles — the role layer for aerospace engineering agents. A skill does one task correctly. A role binds the right verified skills from Aero Agent Skills into...
 
-vendor: 仰晨556
-downloads: 34
+vendor: Ashforde OÜ
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.yc556.treeinfotip</description>
-      <pubDate>Sat, 05 Sep 2026 01:56:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34046-treeinfotip-notes----</guid>
-      <dc:date>2026-09-05T01:56:41Z</dc:date>
+xmlId: com.ashforde.aeroroles</description>
+      <pubDate>Sun, 06 Sep 2026 08:24:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34121-aero-agent-roles</guid>
+      <dc:date>2026-09-06T08:24:23Z</dc:date>
     </item>
     <item>
-      <title>OneAgent - Sun Sep 06 01:22:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33940-oneagent</link>
-      <description>OneAgent: Run AI Anywhere seamlessly across Cursor, Antigravity, Trae, and JetBrains IDEs. Cross-IDE unified AI agent workspace and real-time synchronization engine...
+      <title>Simpli TypeSpec - Thu Sep 03 22:06:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34084-simpli-typespec</link>
+      <description>TypeSpec (.tsp) language support for IntelliJ IDEA Community Edition. Syntax highlighting with a configurable colour scheme Go to declaration across files, modules and...
 
-vendor: OneAgent
-downloads: 22
+vendor: simpli.fyi
+downloads: 1
 pricingModel: FREE
-xmlId: com.oneagent.sync</description>
-      <pubDate>Sun, 06 Sep 2026 01:22:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33940-oneagent</guid>
-      <dc:date>2026-09-06T01:22:45Z</dc:date>
+xmlId: simpli.fyi.plugins.typespec</description>
+      <pubDate>Thu, 03 Sep 2026 22:06:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34084-simpli-typespec</guid>
+      <dc:date>2026-09-03T22:06:13Z</dc:date>
     </item>
     <item>
-      <title>Pin Guard - Fri Aug 28 08:13:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33911-pin-guard</link>
-      <description>Makes pinned editor tabs genuinely hard to close. Pinning a tab normally only protects it from automatic closing, such as tab-limit eviction. Any explicit close still...
+      <title>Pysar Designer - Mon Sep 07 12:09:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33932-pysar-designer</link>
+      <description>Design-time preview for Pysar RXAML. Requires the Pysar language plugin. Renders reports with the same SkiaSharp pipeline that produces the PDF.
 
-vendor: Torfs ICT
-downloads: 8
+vendor: Mriya Lab
+downloads: 1
 pricingModel: FREE
-xmlId: org.torfs.pinguard</description>
-      <pubDate>Fri, 28 Aug 2026 08:13:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33911-pin-guard</guid>
-      <dc:date>2026-08-28T08:13:25Z</dc:date>
+xmlId: com.mriyalab.pysar.designer</description>
+      <pubDate>Mon, 07 Sep 2026 12:09:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33932-pysar-designer</guid>
+      <dc:date>2026-09-07T12:09:47Z</dc:date>
     </item>
     <item>
-      <title>RK File Support - Fri Sep 04 08:01:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34089-rk-file-support</link>
-      <description>Adds support for RK auto-generated JSON files in JetBrains WebStorm. Made by Kevin Sträßler.
+      <title>EazyCMP Project Wizard - Sun Sep 06 07:06:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34119-eazycmp-project-wizard</link>
+      <description>Create Compose Multiplatform projects with EazyCMP library and OnGoCart architecture pre-configured.
 
-vendor: RK File Extension
-downloads: 7
+vendor: EazyCMP
+downloads: 0
 pricingModel: FREE
-xmlId: dev.reikem.rk</description>
-      <pubDate>Fri, 04 Sep 2026 08:01:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34089-rk-file-support</guid>
-      <dc:date>2026-09-04T08:01:53Z</dc:date>
+xmlId: com.eazycmp.plugin</description>
+      <pubDate>Sun, 06 Sep 2026 07:06:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34119-eazycmp-project-wizard</guid>
+      <dc:date>2026-09-06T07:06:14Z</dc:date>
     </item>
     <item>
-      <title>Terraform IAM Privesc Companion - Thu Sep 03 19:09:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34063-terraform-iam-privesc-companion</link>
-      <description>Flags a Terraform aws_iam_role that can reach an admin-equivalent role through a real, whole-project AssumeRole trust chain -- not just an isolated wildcard statement...
+      <title>HaifaSSH - SSH Session Manager - Sat Sep 05 08:41:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34102-haifassh--ssh-session-manager</link>
+      <description>HaifaSSH — a full SSH session manager, built into your IDE Stop juggling a separate terminal app. HaifaSSH brings a fast, organized, multi-tab SSH workflow right into...
 
-vendor: Gap Hunter Labs
-downloads: 8
+vendor: HaifaSoft
+downloads: 1
 pricingModel: FREE
-xmlId: dev.gaphunter.terraformiamprivesccompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:09:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34063-terraform-iam-privesc-companion</guid>
-      <dc:date>2026-09-03T19:09:36Z</dc:date>
+xmlId: com.haifasoft.haifassh</description>
+      <pubDate>Sat, 05 Sep 2026 08:41:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34102-haifassh--ssh-session-manager</guid>
+      <dc:date>2026-09-05T08:41:42Z</dc:date>
     </item>
     <item>
-      <title>K8s Label-Selector Exposure Companion - Thu Sep 03 19:11:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34064-k8s-label-selector-exposure-companion</link>
-      <description>Flags a Deployment/Pod/StatefulSet/DaemonSet that is Service-exposed but NOT matched by any NetworkPolicy's Ingress-covering podSelector, even though NetworkPolicies...
+      <title>3D Visualizer - Mon Sep 07 14:43:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34145-3d-visualizer</link>
+      <description>Inspect local point clouds, meshes and scan data directly in editor tabs. 3D Visualizer provides interactive camera controls, multiple objects, visibility controls...
 
-vendor: Gap Hunter Labs
-downloads: 8
+vendor: kleinicke
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.k8slabelselectorexposurecompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:11:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34064-k8s-label-selector-exposure-companion</guid>
-      <dc:date>2026-09-03T19:11:28Z</dc:date>
+xmlId: de.kleinicke.plyvisualizer</description>
+      <pubDate>Mon, 07 Sep 2026 14:43:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34145-3d-visualizer</guid>
+      <dc:date>2026-09-07T14:43:56Z</dc:date>
     </item>
     <item>
-      <title>SpEL Injection Sink Companion - Thu Sep 03 19:15:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34065-spel-injection-sink-companion</link>
-      <description>Flags a Spring ExpressionParser.parseExpression(...) call whose argument is built from an HTTP endpoint parameter -- CWE-917 (Expression Language Injection), the exact...
+      <title>Cron Expression Explainer - Mon Sep 07 16:58:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34146-cron-expression-explainer</link>
+      <description>Explains cron expressions where you actually write them, so you never have to copy one into a website to find out what it does. Hover a schedule to see what it means...
 
-vendor: Gap Hunter Labs
-downloads: 8
+vendor: devxhub
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.spelinjectionsinkcompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:15:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34065-spel-injection-sink-companion</guid>
-      <dc:date>2026-09-03T19:15:03Z</dc:date>
+xmlId: com.devxhub.cron-explainer</description>
+      <pubDate>Mon, 07 Sep 2026 16:58:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34146-cron-expression-explainer</guid>
+      <dc:date>2026-09-07T16:58:52Z</dc:date>
     </item>
     <item>
-      <title>GitHub Actions Pwn-Request Companion - Thu Sep 03 19:16:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34066-github-actions-pwn-request-companion</link>
-      <description>Flags a GitHub Actions job -- triggered by pull_request_target/workflow_run -- that checks out untrusted PR/workflow_run head content while secrets are reachable...
+      <title>Skel Language Support - Sun Sep 06 16:56:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34101-skel-language-support</link>
+      <description>Language support for Skel, the open-source contract language for Yorun and Vine. Includes syntax highlighting, comments and bracket matching. Install skelc v0.14.0 or...
 
-vendor: Gap Hunter Labs
-downloads: 8
+vendor: Yorun AI
+downloads: 2
 pricingModel: FREE
-xmlId: dev.gaphunter.githubactionspwnrequestcompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:16:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34066-github-actions-pwn-request-companion</guid>
-      <dc:date>2026-09-03T19:16:25Z</dc:date>
+xmlId: ai.yorun.skel</description>
+      <pubDate>Sun, 06 Sep 2026 16:56:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34101-skel-language-support</guid>
+      <dc:date>2026-09-06T16:56:21Z</dc:date>
     </item>
     <item>
-      <title>Kafka Topic Feedback-Loop Companion - Thu Sep 03 19:17:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34067-kafka-topic-feedback-loop-companion</link>
-      <description>Flags a Spring Kafka @KafkaListener method whose OWN transitive call graph (same class, or one injected collaborator, UNBOUNDED depth, cycle-protected -- not a fixed...
+      <title>Short DB Tab Titles - Fri Sep 04 15:42:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34053-short-db-tab-titles</link>
+      <description>Removes the data source name from database editor tabs. As soon as a project holds more than one connection, every table tab carries the connection name appended to...
 
-vendor: Gap Hunter Labs
-downloads: 8
+vendor: LucaSorvillo
+downloads: 2
 pricingModel: FREE
-xmlId: dev.gaphunter.kafkatopicfeedbackloopcompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:17:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34067-kafka-topic-feedback-loop-companion</guid>
-      <dc:date>2026-09-03T19:17:41Z</dc:date>
+xmlId: io.github.lucasorvillo.shortdbtabs</description>
+      <pubDate>Fri, 04 Sep 2026 15:42:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34053-short-db-tab-titles</guid>
+      <dc:date>2026-09-04T15:42:35Z</dc:date>
     </item>
     <item>
-      <title>XPath Injection Sink Companion - Thu Sep 03 19:21:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34069-xpath-injection-sink-companion</link>
-      <description>Flags an XPath.evaluate(...)/.compile(...) call whose argument is built from an HTTP endpoint parameter -- CWE-643 (XPath Injection), the mechanism documented in the...
+      <title>Ansible Sense - Sun Sep 06 09:16:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34122-ansible-sense</link>
+      <description>Ansible support that knows which of your YAML files are Ansible, and leaves every other one alone. Every other Ansible plugin claims *.yml and *.yaml as a file type...
 
-vendor: Gap Hunter Labs
-downloads: 8
+vendor: Vetro
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gaphunter.xpathinjectionsinkcompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:21:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34069-xpath-injection-sink-companion</guid>
-      <dc:date>2026-09-03T19:21:32Z</dc:date>
+xmlId: dev.vetro.ansible</description>
+      <pubDate>Sun, 06 Sep 2026 09:16:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34122-ansible-sense</guid>
+      <dc:date>2026-09-06T09:16:17Z</dc:date>
     </item>
     <item>
-      <title>JDBC Double-Close Companion - Thu Sep 03 19:22:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34070-jdbc-double-close-companion</link>
-      <description>Flags a JDBC resource (Connection/ Statement/PreparedStatement/ CallableStatement/ResultSet) .close() reached with the resource already closed -- on EVERY path...
+      <title>CommentCloak - Fri Sep 04 19:37:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34096-commentcloak</link>
+      <description>Hide AI noise. Keep what matters. AI-generated code comes with AI comments. Copilot, Claude, Cursor and friends narrate every step — // Increment the counter by one...
 
-vendor: Gap Hunter Labs
-downloads: 8
+vendor: Comment Cloak
+downloads: 1
 pricingModel: FREE
-xmlId: dev.gaphunter.jdbcdoubleclosecompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:22:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34070-jdbc-double-close-companion</guid>
-      <dc:date>2026-09-03T19:22:39Z</dc:date>
-    </item>
-    <item>
-      <title>Interface Exception Divergence Companion - Thu Sep 03 19:24:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34071-interface-exception-divergence-companion</link>
-      <description>Flags a call through an interface-typed reference, wrapped in a broad silent catch (Exception e), where real implementations of that interface method actually diverge...
-
-vendor: Gap Hunter Labs
-downloads: 8
-pricingModel: FREE
-xmlId: dev.gaphunter.interfaceexceptiondivergencecompanion</description>
-      <pubDate>Thu, 03 Sep 2026 19:24:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34071-interface-exception-divergence-companion</guid>
-      <dc:date>2026-09-03T19:24:33Z</dc:date>
+xmlId: io.github.maximgromov.commentcloak</description>
+      <pubDate>Fri, 04 Sep 2026 19:37:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34096-commentcloak</guid>
+      <dc:date>2026-09-04T19:37:01Z</dc:date>
     </item>
   </channel>
 </rss>
