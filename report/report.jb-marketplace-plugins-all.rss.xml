@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>NestKit - Mon Sep 07 16:06:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/27097-nestkit</link>
+      <description>NestKit - Essential Tools for NestJS Development Boost your NestJS development with powerful code inspections, navigation tools, and a comprehensive project explorer...
+
+vendor: Felix Astner
+downloads: 25
+pricingModel: FREE
+xmlId: com.felixastner.nestkit.NestKit</description>
+      <pubDate>Mon, 07 Sep 2026 16:06:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27097-nestkit</guid>
+      <dc:date>2026-09-07T16:06:10Z</dc:date>
+    </item>
+    <item>
+      <title>AI Test Review - Tue Sep 08 06:24:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34156-ai-test-review</link>
+      <description>AI Test Review helps Rider users review AI-generated unit tests. 插件会扫描源码中的 AI_TEST_REVIEW marker 和测试方法，按 pending、approved、unknown、all 分类展示，支持同意/不同意切换、上下跳转、gutter...
+
+vendor: PanXiaoJin
+downloads: 0
+pricingModel: FREE
+xmlId: com.codex.aitestreview</description>
+      <pubDate>Tue, 08 Sep 2026 06:24:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34156-ai-test-review</guid>
+      <dc:date>2026-09-08T06:24:55Z</dc:date>
+    </item>
+    <item>
+      <title>MewUI Preview - Tue Sep 08 05:57:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34155-mewui-preview</link>
+      <description>Live preview for MewUI windows and user controls, rendered in a Rider tool window while you edit plain C#. How it works Open MewUI Preview from the tool window bar, or...
+
+vendor: Aprillz
+downloads: 0
+pricingModel: FREE
+xmlId: com.aprillz.mewui.preview</description>
+      <pubDate>Tue, 08 Sep 2026 05:57:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34155-mewui-preview</guid>
+      <dc:date>2026-09-08T05:57:27Z</dc:date>
+    </item>
+    <item>
+      <title>Proof - Mon Sep 07 20:45:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34152-proof</link>
+      <description>See which of your passing tests actually prove anything, inline as you code. Runs proof-java against your project and shows its verdict directly in the editor: which...
+
+vendor: Metonya
+downloads: 0
+pricingModel: FREE
+xmlId: dev.proofjava.plugin</description>
+      <pubDate>Mon, 07 Sep 2026 20:45:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34152-proof</guid>
+      <dc:date>2026-09-07T20:45:49Z</dc:date>
+    </item>
+    <item>
+      <title>Edgely Console - Mon Sep 07 23:00:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34094-edgely-console</link>
+      <description>Edgely Console - Server management for IntelliJ-based IDEs A lightweight server-management toolkit built into your IDE. Connect to remote servers, browse files, and...
+
+vendor: SIGEAD SRL
+downloads: 3
+pricingModel: FREE
+xmlId: io.edgely.console</description>
+      <pubDate>Mon, 07 Sep 2026 23:00:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34094-edgely-console</guid>
+      <dc:date>2026-09-07T23:00:36Z</dc:date>
+    </item>
+    <item>
+      <title>Mondoo - Mon Sep 07 22:02:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34142-mondoo</link>
+      <description>Find and fix security issues while you write code. Vulnerabilities and leaked secrets appear in the editor as you type, with one-click fixes. Scanning runs on your...
+
+vendor: Mondoo
+downloads: 0
+pricingModel: FREE
+xmlId: com.mondoo.security</description>
+      <pubDate>Mon, 07 Sep 2026 22:02:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34142-mondoo</guid>
+      <dc:date>2026-09-07T22:02:14Z</dc:date>
+    </item>
+    <item>
+      <title>DataStore Inspector - Sat Sep 05 01:32:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34054-datastore-inspector</link>
+      <description>Inspect and edit DataStore and SharedPreferences directly in Android Studio.For debuggable apps on Android 9 or newer. Browse and search Preferences DataStore, Proto...
+
+vendor: masaibar
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: com.masaibar.datastore-inspector</description>
+      <pubDate>Sat, 05 Sep 2026 01:32:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34054-datastore-inspector</guid>
+      <dc:date>2026-09-05T01:32:31Z</dc:date>
+    </item>
+    <item>
       <title>AI Error Log Purifier - Tue Sep 08 01:25:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33969-ai-error-log-purifier</link>
       <description>AI Error Log Purifier prepares IntelliJ IDEA console errors for analysis by a user-selected LLM provider. It can: Analyze selected console output or the full console...
@@ -37,7 +128,7 @@ xmlId: io.gitlab.misteriosojo.rundoctor</description>
       <description>Build trustworthy developer resumes from project evidence without leaving your JetBrains IDE. Scan project documentation and dependency manifests after explicit...
 
 vendor: Career Forge
-downloads: 3
+downloads: 4
 pricingModel: FREE
 xmlId: com.careerforge.jetbrains</description>
       <pubDate>Sat, 05 Sep 2026 10:07:46 GMT</pubDate>
@@ -63,7 +154,7 @@ xmlId: com.hans.git-merge-into-plus</description>
       <description>Who Did This shows the latest Git commit author, time, and summary for the line under the primary caret.
 
 vendor: Ethan
-downloads: 5
+downloads: 7
 pricingModel: FREE
 xmlId: com.ethan.wdt</description>
       <pubDate>Mon, 07 Sep 2026 01:57:10 GMT</pubDate>
@@ -76,7 +167,7 @@ xmlId: com.ethan.wdt</description>
       <description>order-check checks Java method names and suggests safe renames for getOrder methods and their usages.
 
 vendor: order_check
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.dalikai321debug.ideares</description>
       <pubDate>Mon, 07 Sep 2026 08:11:38 GMT</pubDate>
@@ -89,7 +180,7 @@ xmlId: com.github.dalikai321debug.ideares</description>
       <description>Yreview writes a code review comment on any line of the editor and on any line of a diff. The plugin stores each comment as a git note in the git-appraise format. A...
 
 vendor: Yehor Brodskiy
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.yeskiy.yreview</description>
       <pubDate>Tue, 08 Sep 2026 01:30:43 GMT</pubDate>
@@ -102,7 +193,7 @@ xmlId: com.yeskiy.yreview</description>
       <description>MergeSense — AI Test Case Generator Generate comprehensive manual test cases from Pull Request diffs, Jira issues, and code analysis — directly inside your IDE. What...
 
 vendor: BBekci
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: com.mergesense.testcasegenerator</description>
       <pubDate>Sat, 05 Sep 2026 18:00:47 GMT</pubDate>
@@ -115,7 +206,7 @@ xmlId: com.mergesense.testcasegenerator</description>
       <description>IntelliJ IDEA plugin for PIT Mutation Testing (pitest.org). Bundled with PIT 1.30.0, JUnit5 plugin 1.2.3, and pitest-rv-plugin 0.1 (AOD mutators) Adds a 'Run...
 
 vendor: Alex Hicks
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.awhicks.webcat-mutation-testing</description>
       <pubDate>Mon, 07 Sep 2026 01:37:58 GMT</pubDate>
@@ -128,7 +219,7 @@ xmlId: com.github.awhicks.webcat-mutation-testing</description>
       <description>Aero Agent Roles — the role layer for aerospace engineering agents. A skill does one task correctly. A role binds the right verified skills from Aero Agent Skills into...
 
 vendor: Ashforde OÜ
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.ashforde.aeroroles</description>
       <pubDate>Sun, 06 Sep 2026 08:24:23 GMT</pubDate>
@@ -141,7 +232,7 @@ xmlId: com.ashforde.aeroroles</description>
       <description>TypeSpec (.tsp) language support for IntelliJ IDEA Community Edition. Syntax highlighting with a configurable colour scheme Go to declaration across files, modules and...
 
 vendor: simpli.fyi
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: simpli.fyi.plugins.typespec</description>
       <pubDate>Thu, 03 Sep 2026 22:06:13 GMT</pubDate>
@@ -154,7 +245,7 @@ xmlId: simpli.fyi.plugins.typespec</description>
       <description>Design-time preview for Pysar RXAML. Requires the Pysar language plugin. Renders reports with the same SkiaSharp pipeline that produces the PDF.
 
 vendor: Mriya Lab
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.mriyalab.pysar.designer</description>
       <pubDate>Mon, 07 Sep 2026 12:09:47 GMT</pubDate>
@@ -162,108 +253,17 @@ xmlId: com.mriyalab.pysar.designer</description>
       <dc:date>2026-09-07T12:09:47Z</dc:date>
     </item>
     <item>
-      <title>EazyCMP Project Wizard - Sun Sep 06 07:06:14 UTC 2026</title>
+      <title>EazyCMP Project Wizard - Tue Sep 08 05:35:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34119-eazycmp-project-wizard</link>
       <description>Create Compose Multiplatform projects with EazyCMP library and OnGoCart architecture pre-configured.
 
 vendor: EazyCMP
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.eazycmp.plugin</description>
-      <pubDate>Sun, 06 Sep 2026 07:06:14 GMT</pubDate>
+      <pubDate>Tue, 08 Sep 2026 05:35:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34119-eazycmp-project-wizard</guid>
-      <dc:date>2026-09-06T07:06:14Z</dc:date>
-    </item>
-    <item>
-      <title>HaifaSSH - SSH Session Manager - Sat Sep 05 08:41:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34102-haifassh--ssh-session-manager</link>
-      <description>HaifaSSH — a full SSH session manager, built into your IDE Stop juggling a separate terminal app. HaifaSSH brings a fast, organized, multi-tab SSH workflow right into...
-
-vendor: HaifaSoft
-downloads: 1
-pricingModel: FREE
-xmlId: com.haifasoft.haifassh</description>
-      <pubDate>Sat, 05 Sep 2026 08:41:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34102-haifassh--ssh-session-manager</guid>
-      <dc:date>2026-09-05T08:41:42Z</dc:date>
-    </item>
-    <item>
-      <title>3D Visualizer - Mon Sep 07 14:43:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34145-3d-visualizer</link>
-      <description>Inspect local point clouds, meshes and scan data directly in editor tabs. 3D Visualizer provides interactive camera controls, multiple objects, visibility controls...
-
-vendor: kleinicke
-downloads: 0
-pricingModel: FREE
-xmlId: de.kleinicke.plyvisualizer</description>
-      <pubDate>Mon, 07 Sep 2026 14:43:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34145-3d-visualizer</guid>
-      <dc:date>2026-09-07T14:43:56Z</dc:date>
-    </item>
-    <item>
-      <title>Cron Expression Explainer - Mon Sep 07 16:58:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34146-cron-expression-explainer</link>
-      <description>Explains cron expressions where you actually write them, so you never have to copy one into a website to find out what it does. Hover a schedule to see what it means...
-
-vendor: devxhub
-downloads: 0
-pricingModel: FREE
-xmlId: com.devxhub.cron-explainer</description>
-      <pubDate>Mon, 07 Sep 2026 16:58:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34146-cron-expression-explainer</guid>
-      <dc:date>2026-09-07T16:58:52Z</dc:date>
-    </item>
-    <item>
-      <title>Skel Language Support - Sun Sep 06 16:56:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34101-skel-language-support</link>
-      <description>Language support for Skel, the open-source contract language for Yorun and Vine. Includes syntax highlighting, comments and bracket matching. Install skelc v0.14.0 or...
-
-vendor: Yorun AI
-downloads: 2
-pricingModel: FREE
-xmlId: ai.yorun.skel</description>
-      <pubDate>Sun, 06 Sep 2026 16:56:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34101-skel-language-support</guid>
-      <dc:date>2026-09-06T16:56:21Z</dc:date>
-    </item>
-    <item>
-      <title>Short DB Tab Titles - Fri Sep 04 15:42:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34053-short-db-tab-titles</link>
-      <description>Removes the data source name from database editor tabs. As soon as a project holds more than one connection, every table tab carries the connection name appended to...
-
-vendor: LucaSorvillo
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.lucasorvillo.shortdbtabs</description>
-      <pubDate>Fri, 04 Sep 2026 15:42:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34053-short-db-tab-titles</guid>
-      <dc:date>2026-09-04T15:42:35Z</dc:date>
-    </item>
-    <item>
-      <title>Ansible Sense - Sun Sep 06 09:16:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34122-ansible-sense</link>
-      <description>Ansible support that knows which of your YAML files are Ansible, and leaves every other one alone. Every other Ansible plugin claims *.yml and *.yaml as a file type...
-
-vendor: Vetro
-downloads: 0
-pricingModel: FREE
-xmlId: dev.vetro.ansible</description>
-      <pubDate>Sun, 06 Sep 2026 09:16:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34122-ansible-sense</guid>
-      <dc:date>2026-09-06T09:16:17Z</dc:date>
-    </item>
-    <item>
-      <title>CommentCloak - Fri Sep 04 19:37:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34096-commentcloak</link>
-      <description>Hide AI noise. Keep what matters. AI-generated code comes with AI comments. Copilot, Claude, Cursor and friends narrate every step — // Increment the counter by one...
-
-vendor: Comment Cloak
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.maximgromov.commentcloak</description>
-      <pubDate>Fri, 04 Sep 2026 19:37:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34096-commentcloak</guid>
-      <dc:date>2026-09-04T19:37:01Z</dc:date>
+      <dc:date>2026-09-08T05:35:19Z</dc:date>
     </item>
   </channel>
 </rss>
