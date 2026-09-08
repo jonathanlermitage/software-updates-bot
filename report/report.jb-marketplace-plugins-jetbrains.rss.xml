@@ -5,5 +5,18 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>Bazel LSP - Tue Sep 08 20:35:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34170-bazel-lsp</link>
+      <description>Experimental. Provides Bazel Starlark language support through the bundled bazel-lsp language server.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.experimental.bazel-lsp</description>
+      <pubDate>Tue, 08 Sep 2026 20:35:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34170-bazel-lsp</guid>
+      <dc:date>2026-09-08T20:35:07Z</dc:date>
+    </item>
   </channel>
 </rss>

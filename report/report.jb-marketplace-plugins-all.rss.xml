@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Bazel LSP - Tue Sep 08 20:35:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34170-bazel-lsp</link>
+      <description>Experimental. Provides Bazel Starlark language support through the bundled bazel-lsp language server.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.experimental.bazel-lsp</description>
+      <pubDate>Tue, 08 Sep 2026 20:35:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34170-bazel-lsp</guid>
+      <dc:date>2026-09-08T20:35:07Z</dc:date>
+    </item>
+    <item>
       <title>Latte+ - Sat Sep 05 13:30:29 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34056-latte-</link>
       <description>Latte+ gives PhpStorm first-class support for the Latte templating engine and the Nette Framework. It reads the Latte syntax and the HTML, PHP, JavaScript and CSS...
@@ -251,19 +264,6 @@ xmlId: com.ashforde.aeroroles</description>
       <pubDate>Sun, 06 Sep 2026 08:24:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34121-aero-agent-roles</guid>
       <dc:date>2026-09-06T08:24:23Z</dc:date>
-    </item>
-    <item>
-      <title>Simpli TypeSpec - Thu Sep 03 22:06:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34084-simpli-typespec</link>
-      <description>TypeSpec (.tsp) language support for IntelliJ IDEA Community Edition. Syntax highlighting with a configurable colour scheme Go to declaration across files, modules and...
-
-vendor: simpli.fyi
-downloads: 2
-pricingModel: FREE
-xmlId: simpli.fyi.plugins.typespec</description>
-      <pubDate>Thu, 03 Sep 2026 22:06:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34084-simpli-typespec</guid>
-      <dc:date>2026-09-03T22:06:13Z</dc:date>
     </item>
   </channel>
 </rss>
