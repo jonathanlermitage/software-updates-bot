@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Latte+ - Sat Sep 05 13:30:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34056-latte-</link>
+      <description>Latte+ gives PhpStorm first-class support for the Latte templating engine and the Nette Framework. It reads the Latte syntax and the HTML, PHP, JavaScript and CSS...
+
+vendor: zipper
+downloads: 2
+pricingModel: PAID
+xmlId: com.github.zipper.latteplus</description>
+      <pubDate>Sat, 05 Sep 2026 13:30:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34056-latte-</guid>
+      <dc:date>2026-09-05T13:30:29Z</dc:date>
+    </item>
+    <item>
+      <title>Codex IDE Context Bridge - Sun Aug 23 14:36:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33745-codex-ide-context-bridge</link>
+      <description>Passes the current IntelliJ editor context to Codex CLI and the Codex desktop app. Keep using Codex in a terminal while automatically including the active file...
+
+vendor: Stanislav Pavliuk
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.stpavliuk.codex.idecontext</description>
+      <pubDate>Sun, 23 Aug 2026 14:36:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33745-codex-ide-context-bridge</guid>
+      <dc:date>2026-08-23T14:36:43Z</dc:date>
+    </item>
+    <item>
       <title>NestKit - Mon Sep 07 16:06:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/27097-nestkit</link>
       <description>NestKit - Essential Tools for NestJS Development Boost your NestJS development with powerful code inspections, navigation tools, and a comprehensive project explorer...
@@ -238,32 +264,6 @@ xmlId: simpli.fyi.plugins.typespec</description>
       <pubDate>Thu, 03 Sep 2026 22:06:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34084-simpli-typespec</guid>
       <dc:date>2026-09-03T22:06:13Z</dc:date>
-    </item>
-    <item>
-      <title>Pysar Designer - Mon Sep 07 12:09:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33932-pysar-designer</link>
-      <description>Design-time preview for Pysar RXAML. Requires the Pysar language plugin. Renders reports with the same SkiaSharp pipeline that produces the PDF.
-
-vendor: Mriya Lab
-downloads: 2
-pricingModel: FREE
-xmlId: com.mriyalab.pysar.designer</description>
-      <pubDate>Mon, 07 Sep 2026 12:09:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33932-pysar-designer</guid>
-      <dc:date>2026-09-07T12:09:47Z</dc:date>
-    </item>
-    <item>
-      <title>EazyCMP Project Wizard - Tue Sep 08 05:35:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34119-eazycmp-project-wizard</link>
-      <description>Create Compose Multiplatform projects with EazyCMP library and OnGoCart architecture pre-configured.
-
-vendor: EazyCMP
-downloads: 2
-pricingModel: FREE
-xmlId: com.eazycmp.plugin</description>
-      <pubDate>Tue, 08 Sep 2026 05:35:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34119-eazycmp-project-wizard</guid>
-      <dc:date>2026-09-08T05:35:19Z</dc:date>
     </item>
   </channel>
 </rss>
