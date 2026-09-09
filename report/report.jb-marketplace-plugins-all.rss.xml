@@ -6,12 +6,207 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Android Build Tips - Wed Sep 09 05:24:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34177-android-build-tips</link>
+      <description>Shows a random Android development tip or fact in a notification balloon every time a Gradle sync or build starts — like the loading-screen tips in video games. The...
+
+vendor: Sashank Vahni
+downloads: 0
+pricingModel: FREE
+xmlId: com.tips.androidtip</description>
+      <pubDate>Wed, 09 Sep 2026 05:24:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34177-android-build-tips</guid>
+      <dc:date>2026-09-09T05:24:09Z</dc:date>
+    </item>
+    <item>
+      <title>IDE-Radio - Wed Sep 09 02:52:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34174-ide-radio</link>
+      <description>IDE Radio plays YouTube and Bilibili audio directly inside your IDE, featuring a live waveform and spectrum visualizer in a dedicated Tool Window. Features Audio...
+
+vendor: Ethan
+downloads: 0
+pricingModel: FREE
+xmlId: e.y.sound-url-player</description>
+      <pubDate>Wed, 09 Sep 2026 02:52:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34174-ide-radio</guid>
+      <dc:date>2026-09-09T02:52:33Z</dc:date>
+    </item>
+    <item>
+      <title>StarRocks Database Support - Wed Sep 09 02:08:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34050-starrocks-database-support</link>
+      <description>Features StarRocks Database Support provides a dedicated StarRocks SQL dialect and full StarRocks database integration for DataGrip (and other JetBrains IDEs with...
+
+vendor: Jackson Chen
+downloads: 3
+pricingModel: FREE
+xmlId: com.jc.starrocks</description>
+      <pubDate>Wed, 09 Sep 2026 02:08:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34050-starrocks-database-support</guid>
+      <dc:date>2026-09-09T02:08:41Z</dc:date>
+    </item>
+    <item>
+      <title>DeepSeek Harness Web - Wed Sep 09 01:47:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34173-deepseek-harness-web</link>
+      <description>DeepSeek Harness Web embeds your local DeepSeek Harness web UI into a PhpStorm tool window, with Qoder-style file/code references, hover-to-add chat flow and one-click...
+
+vendor: aicn
+downloads: 0
+pricingModel: FREE
+xmlId: com.aicn.web</description>
+      <pubDate>Wed, 09 Sep 2026 01:47:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34173-deepseek-harness-web</guid>
+      <dc:date>2026-09-09T01:47:22Z</dc:date>
+    </item>
+    <item>
+      <title>Codex Tabs - Wed Sep 09 01:10:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34172-codex-tabs</link>
+      <description>Keep independent Codex conversations in native editor tabs. Split chats beside your code and see which tasks need your attention. Stream replies, commands, file...
+
+vendor: Acorn1010
+downloads: 0
+pricingModel: FREE
+xmlId: com.acorn.codex.tabs</description>
+      <pubDate>Wed, 09 Sep 2026 01:10:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34172-codex-tabs</guid>
+      <dc:date>2026-09-09T01:10:27Z</dc:date>
+    </item>
+    <item>
+      <title>Branch Time Tracker - Tue Sep 08 20:42:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34169-branch-time-tracker</link>
+      <description>Tracks the time you spend working on the Git branches of your projects, across every open project in a single IDE-wide view. Automatically creates a tracking entry...
+
+vendor: Gabriele B
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.gbassi.timetracker</description>
+      <pubDate>Tue, 08 Sep 2026 20:42:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34169-branch-time-tracker</guid>
+      <dc:date>2026-09-08T20:42:34Z</dc:date>
+    </item>
+    <item>
+      <title>Copy Path for AI - Wed Sep 09 06:23:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34168-copy-path-for-ai</link>
+      <description>Copy Path for AI injects a paste-ready reference like @main.rs#L42 into the selected IDE Terminal tab (and also copies it to the clipboard). Works with Claude Code...
+
+vendor: bygo
+downloads: 0
+pricingModel: FREE
+xmlId: com.bygo.aipath</description>
+      <pubDate>Wed, 09 Sep 2026 06:23:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34168-copy-path-for-ai</guid>
+      <dc:date>2026-09-09T06:23:56Z</dc:date>
+    </item>
+    <item>
+      <title>LibsHelper - Tue Sep 08 10:51:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34160-libshelper</link>
+      <description>Suggests stable Gradle library updates and writes the chosen version into the catalog or build file. Reads libraries from gradle/libs.versions.toml and Gradle build...
+
+vendor: Anton Zaycev
+downloads: 0
+pricingModel: FREE
+xmlId: com.zaycev.libshelper</description>
+      <pubDate>Tue, 08 Sep 2026 10:51:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34160-libshelper</guid>
+      <dc:date>2026-09-08T10:51:23Z</dc:date>
+    </item>
+    <item>
+      <title>Codex Usage Monitor - Tue Sep 08 07:47:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34157-codex-usage-monitor</link>
+      <description>Codex Usage Monitor Monitor your Codex 5-hour and weekly usage directly in IntelliJ IDEA. Displays remaining 5-hour and weekly quotas in the status bar. Provides a...
+
+vendor: Travis
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.traivslin.codexusage</description>
+      <pubDate>Tue, 08 Sep 2026 07:47:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34157-codex-usage-monitor</guid>
+      <dc:date>2026-09-08T07:47:53Z</dc:date>
+    </item>
+    <item>
+      <title>CodePal Assistant - Tue Sep 08 12:59:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33283-codepal-assistant</link>
+      <description>This is an AI programming assistant plugin for IntelliJ IDEA and Android Studio. It integrates AI chat, file editing, project context awareness, MCP tools, todo...
+
+vendor: LoongC
+downloads: 4
+pricingModel: FREE
+xmlId: com.loongc.plugin</description>
+      <pubDate>Tue, 08 Sep 2026 12:59:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33283-codepal-assistant</guid>
+      <dc:date>2026-09-08T12:59:28Z</dc:date>
+    </item>
+    <item>
+      <title>Firebridge - Tue Sep 08 19:07:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34166-firebridge</link>
+      <description>Firebridge provides a comprehensive suite of tools for Android Studio, including a powerful Firestore database explorer with a data grid view, and a local Gradle...
+
+vendor: Firebridge Team
+downloads: 3
+pricingModel: FREE
+xmlId: app.firebridge</description>
+      <pubDate>Tue, 08 Sep 2026 19:07:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34166-firebridge</guid>
+      <dc:date>2026-09-08T19:07:55Z</dc:date>
+    </item>
+    <item>
+      <title>app-state-diagram - Wed Sep 09 02:49:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34164-app-state-diagram</link>
+      <description>Renders an ALPS profile (alps.json / alps.xml) as a state diagram preview, powered by app-state-diagram's parser and dot generator.
+
+vendor: alps-asd
+downloads: 4
+pricingModel: FREE
+xmlId: com.alps-asd.idea-alps-plugin</description>
+      <pubDate>Wed, 09 Sep 2026 02:49:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34164-app-state-diagram</guid>
+      <dc:date>2026-09-09T02:49:20Z</dc:date>
+    </item>
+    <item>
+      <title>GlowStick MHL - Tue Sep 08 19:32:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32984-glowstick-mhl</link>
+      <description>GlowStick MHL Frame your IDE with color for instant visual identification of projects. GlowStick is visual expansion plugin for IntelliJ IDEA based IDEs that helps you...
+
+vendor: Marcin Orlowski
+downloads: 6
+pricingModel: FREE
+xmlId: com.marcinorlowski.glowstick</description>
+      <pubDate>Tue, 08 Sep 2026 19:32:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32984-glowstick-mhl</guid>
+      <dc:date>2026-09-08T19:32:05Z</dc:date>
+    </item>
+    <item>
+      <title>Sacred Mod Development - Tue Sep 08 16:31:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34165-sacred-mod-development</link>
+      <description>Create and run Sacred Gold mods from the IDE. The loader starts a JVM alongside the game and sends game events to your mod. This plugin provides the project setup and...
+
+vendor: Pavel Erokhin
+downloads: 4
+pricingModel: FREE
+xmlId: dev.ancaria.idea</description>
+      <pubDate>Tue, 08 Sep 2026 16:31:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34165-sacred-mod-development</guid>
+      <dc:date>2026-09-08T16:31:17Z</dc:date>
+    </item>
+    <item>
+      <title>Samsad ADB Controller - Tue Sep 08 11:10:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34138-samsad-adb-controller</link>
+      <description>Fast, offline ADB control panel for Android Studio &amp;amp; IntelliJ IDEA. Features: Connected Device Manager: Auto-detects connected emulators &amp;amp; physical devices...
+
+vendor: Samsad Chalil Valappil
+downloads: 6
+pricingModel: FREE
+xmlId: com.samsad.adbcontroller</description>
+      <pubDate>Tue, 08 Sep 2026 11:10:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34138-samsad-adb-controller</guid>
+      <dc:date>2026-09-08T11:10:03Z</dc:date>
+    </item>
+    <item>
       <title>Bazel LSP - Tue Sep 08 20:35:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34170-bazel-lsp</link>
       <description>Experimental. Provides Bazel Starlark language support through the bundled bazel-lsp language server.
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: com.intellij.experimental.bazel-lsp</description>
       <pubDate>Tue, 08 Sep 2026 20:35:07 GMT</pubDate>
@@ -24,7 +219,7 @@ xmlId: com.intellij.experimental.bazel-lsp</description>
       <description>Latte+ gives PhpStorm first-class support for the Latte templating engine and the Nette Framework. It reads the Latte syntax and the HTML, PHP, JavaScript and CSS...
 
 vendor: zipper
-downloads: 2
+downloads: 9
 pricingModel: PAID
 xmlId: com.github.zipper.latteplus</description>
       <pubDate>Sat, 05 Sep 2026 13:30:29 GMT</pubDate>
@@ -37,7 +232,7 @@ xmlId: com.github.zipper.latteplus</description>
       <description>Passes the current IntelliJ editor context to Codex CLI and the Codex desktop app. Keep using Codex in a terminal while automatically including the active file...
 
 vendor: Stanislav Pavliuk
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: io.github.stpavliuk.codex.idecontext</description>
       <pubDate>Sun, 23 Aug 2026 14:36:43 GMT</pubDate>
@@ -50,7 +245,7 @@ xmlId: io.github.stpavliuk.codex.idecontext</description>
       <description>NestKit - Essential Tools for NestJS Development Boost your NestJS development with powerful code inspections, navigation tools, and a comprehensive project explorer...
 
 vendor: Felix Astner
-downloads: 25
+downloads: 46
 pricingModel: FREE
 xmlId: com.felixastner.nestkit.NestKit</description>
       <pubDate>Mon, 07 Sep 2026 16:06:10 GMT</pubDate>
@@ -63,207 +258,12 @@ xmlId: com.felixastner.nestkit.NestKit</description>
       <description>AI Test Review helps Rider users review AI-generated unit tests. 插件会扫描源码中的 AI_TEST_REVIEW marker 和测试方法，按 pending、approved、unknown、all 分类展示，支持同意/不同意切换、上下跳转、gutter...
 
 vendor: PanXiaoJin
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.codex.aitestreview</description>
       <pubDate>Tue, 08 Sep 2026 06:24:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34156-ai-test-review</guid>
       <dc:date>2026-09-08T06:24:55Z</dc:date>
-    </item>
-    <item>
-      <title>MewUI Preview - Tue Sep 08 05:57:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34155-mewui-preview</link>
-      <description>Live preview for MewUI windows and user controls, rendered in a Rider tool window while you edit plain C#. How it works Open MewUI Preview from the tool window bar, or...
-
-vendor: Aprillz
-downloads: 0
-pricingModel: FREE
-xmlId: com.aprillz.mewui.preview</description>
-      <pubDate>Tue, 08 Sep 2026 05:57:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34155-mewui-preview</guid>
-      <dc:date>2026-09-08T05:57:27Z</dc:date>
-    </item>
-    <item>
-      <title>Proof - Mon Sep 07 20:45:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34152-proof</link>
-      <description>See which of your passing tests actually prove anything, inline as you code. Runs proof-java against your project and shows its verdict directly in the editor: which...
-
-vendor: Metonya
-downloads: 0
-pricingModel: FREE
-xmlId: dev.proofjava.plugin</description>
-      <pubDate>Mon, 07 Sep 2026 20:45:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34152-proof</guid>
-      <dc:date>2026-09-07T20:45:49Z</dc:date>
-    </item>
-    <item>
-      <title>Edgely Console - Mon Sep 07 23:00:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34094-edgely-console</link>
-      <description>Edgely Console - Server management for IntelliJ-based IDEs A lightweight server-management toolkit built into your IDE. Connect to remote servers, browse files, and...
-
-vendor: SIGEAD SRL
-downloads: 3
-pricingModel: FREE
-xmlId: io.edgely.console</description>
-      <pubDate>Mon, 07 Sep 2026 23:00:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34094-edgely-console</guid>
-      <dc:date>2026-09-07T23:00:36Z</dc:date>
-    </item>
-    <item>
-      <title>Mondoo - Mon Sep 07 22:02:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34142-mondoo</link>
-      <description>Find and fix security issues while you write code. Vulnerabilities and leaked secrets appear in the editor as you type, with one-click fixes. Scanning runs on your...
-
-vendor: Mondoo
-downloads: 0
-pricingModel: FREE
-xmlId: com.mondoo.security</description>
-      <pubDate>Mon, 07 Sep 2026 22:02:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34142-mondoo</guid>
-      <dc:date>2026-09-07T22:02:14Z</dc:date>
-    </item>
-    <item>
-      <title>DataStore Inspector - Sat Sep 05 01:32:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34054-datastore-inspector</link>
-      <description>Inspect and edit DataStore and SharedPreferences directly in Android Studio.For debuggable apps on Android 9 or newer. Browse and search Preferences DataStore, Proto...
-
-vendor: masaibar
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.masaibar.datastore-inspector</description>
-      <pubDate>Sat, 05 Sep 2026 01:32:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34054-datastore-inspector</guid>
-      <dc:date>2026-09-05T01:32:31Z</dc:date>
-    </item>
-    <item>
-      <title>AI Error Log Purifier - Tue Sep 08 01:25:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33969-ai-error-log-purifier</link>
-      <description>AI Error Log Purifier prepares IntelliJ IDEA console errors for analysis by a user-selected LLM provider. It can: Analyze selected console output or the full console...
-
-vendor: SeongbinChoo
-downloads: 2
-pricingModel: FREE
-xmlId: com.jcms.errorpurifier.plugin</description>
-      <pubDate>Tue, 08 Sep 2026 01:25:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33969-ai-error-log-purifier</guid>
-      <dc:date>2026-09-08T01:25:15Z</dc:date>
-    </item>
-    <item>
-      <title>Run Configuration Doctor - Thu Sep 03 22:46:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34086-run-configuration-doctor</link>
-      <description>Preflight diagnostics for JetBrains Run Configurations. Run Configuration Doctor checks local configuration prerequisites before execution and reports concise...
-
-vendor: misteriosojo
-downloads: 1
-pricingModel: FREE
-xmlId: io.gitlab.misteriosojo.rundoctor</description>
-      <pubDate>Thu, 03 Sep 2026 22:46:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34086-run-configuration-doctor</guid>
-      <dc:date>2026-09-03T22:46:58Z</dc:date>
-    </item>
-    <item>
-      <title>Career Forge - Sat Sep 05 10:07:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33929-career-forge</link>
-      <description>Build trustworthy developer resumes from project evidence without leaving your JetBrains IDE. Scan project documentation and dependency manifests after explicit...
-
-vendor: Career Forge
-downloads: 4
-pricingModel: FREE
-xmlId: com.careerforge.jetbrains</description>
-      <pubDate>Sat, 05 Sep 2026 10:07:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33929-career-forge</guid>
-      <dc:date>2026-09-05T10:07:46Z</dc:date>
-    </item>
-    <item>
-      <title>Git Merge Into Plus - Sat Sep 05 09:36:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34105-git-merge-into-plus</link>
-      <description>Merges the current branch into a target branch of your choice and automatically switches back to the current branch when the operation finishes. Features: Official...
-
-vendor: Hans Zhang
-downloads: 1
-pricingModel: FREE
-xmlId: com.hans.git-merge-into-plus</description>
-      <pubDate>Sat, 05 Sep 2026 09:36:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34105-git-merge-into-plus</guid>
-      <dc:date>2026-09-05T09:36:06Z</dc:date>
-    </item>
-    <item>
-      <title>Who Did This - Mon Sep 07 01:57:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34042-who-did-this</link>
-      <description>Who Did This shows the latest Git commit author, time, and summary for the line under the primary caret.
-
-vendor: Ethan
-downloads: 7
-pricingModel: FREE
-xmlId: com.ethan.wdt</description>
-      <pubDate>Mon, 07 Sep 2026 01:57:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34042-who-did-this</guid>
-      <dc:date>2026-09-07T01:57:10Z</dc:date>
-    </item>
-    <item>
-      <title>order-check - Mon Sep 07 08:11:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34140-order-check</link>
-      <description>order-check checks Java method names and suggests safe renames for getOrder methods and their usages.
-
-vendor: order_check
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.dalikai321debug.ideares</description>
-      <pubDate>Mon, 07 Sep 2026 08:11:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34140-order-check</guid>
-      <dc:date>2026-09-07T08:11:38Z</dc:date>
-    </item>
-    <item>
-      <title>Yreview - Tue Sep 08 01:30:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34134-yreview</link>
-      <description>Yreview writes a code review comment on any line of the editor and on any line of a diff. The plugin stores each comment as a git note in the git-appraise format. A...
-
-vendor: Yehor Brodskiy
-downloads: 1
-pricingModel: FREE
-xmlId: com.yeskiy.yreview</description>
-      <pubDate>Tue, 08 Sep 2026 01:30:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34134-yreview</guid>
-      <dc:date>2026-09-08T01:30:43Z</dc:date>
-    </item>
-    <item>
-      <title>MergeSense Test Case Generator - Sat Sep 05 18:00:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34114-mergesense-test-case-generator</link>
-      <description>MergeSense — AI Test Case Generator Generate comprehensive manual test cases from Pull Request diffs, Jira issues, and code analysis — directly inside your IDE. What...
-
-vendor: BBekci
-downloads: 4
-pricingModel: FREE
-xmlId: com.mergesense.testcasegenerator</description>
-      <pubDate>Sat, 05 Sep 2026 18:00:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34114-mergesense-test-case-generator</guid>
-      <dc:date>2026-09-05T18:00:47Z</dc:date>
-    </item>
-    <item>
-      <title>Web-CAT Mutation Testing - Mon Sep 07 01:37:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34136-web-cat-mutation-testing</link>
-      <description>IntelliJ IDEA plugin for PIT Mutation Testing (pitest.org). Bundled with PIT 1.30.0, JUnit5 plugin 1.2.3, and pitest-rv-plugin 0.1 (AOD mutators) Adds a 'Run...
-
-vendor: Alex Hicks
-downloads: 4
-pricingModel: FREE
-xmlId: com.github.awhicks.webcat-mutation-testing</description>
-      <pubDate>Mon, 07 Sep 2026 01:37:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34136-web-cat-mutation-testing</guid>
-      <dc:date>2026-09-07T01:37:58Z</dc:date>
-    </item>
-    <item>
-      <title>Aero Agent Roles - Sun Sep 06 08:24:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34121-aero-agent-roles</link>
-      <description>Aero Agent Roles — the role layer for aerospace engineering agents. A skill does one task correctly. A role binds the right verified skills from Aero Agent Skills into...
-
-vendor: Ashforde OÜ
-downloads: 1
-pricingModel: FREE
-xmlId: com.ashforde.aeroroles</description>
-      <pubDate>Sun, 06 Sep 2026 08:24:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34121-aero-agent-roles</guid>
-      <dc:date>2026-09-06T08:24:23Z</dc:date>
     </item>
   </channel>
 </rss>
