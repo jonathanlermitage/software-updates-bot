@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>STVN Language Support - Tue Sep 08 00:55:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34095-stvn-language-support</link>
+      <description>Provides comprehensive language support for Strongly Typed Value Notation (STVN). Features include syntax highlighting, BNF-based parser inspection, type resolution...
+
+vendor: chaotic3quilibrium
+downloads: 4
+pricingModel: FREE
+xmlId: org.stvnadore.plugin</description>
+      <pubDate>Tue, 08 Sep 2026 00:55:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34095-stvn-language-support</guid>
+      <dc:date>2026-09-08T00:55:44Z</dc:date>
+    </item>
+    <item>
+      <title>Markdown Link Keeper - Tue Sep 08 12:14:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34163-markdown-link-keeper</link>
+      <description>Keeps your Markdown links working when files move. When you move or rename a file, this plugin automatically updates every relative Markdown link that pointed to it...
+
+vendor: kuan
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.kuan1113.mdlinkkeeper</description>
+      <pubDate>Tue, 08 Sep 2026 12:14:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34163-markdown-link-keeper</guid>
+      <dc:date>2026-09-08T12:14:38Z</dc:date>
+    </item>
+    <item>
+      <title>Flutter SDK Sync Companion - Wed Sep 09 18:48:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34117-flutter-sdk-sync-companion</link>
+      <description>Keeps the Flutter SDK selection of a project in sync with the SDK provided by FVM (Flutter Version Management). After an fvm use, the IDE is pointed at the newly...
+
+vendor: Boundfox Studios
+downloads: 1
+pricingModel: FREE
+xmlId: com.boundfoxstudios.flutter-sdk-sync-companion</description>
+      <pubDate>Wed, 09 Sep 2026 18:48:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34117-flutter-sdk-sync-companion</guid>
+      <dc:date>2026-09-09T18:48:41Z</dc:date>
+    </item>
+    <item>
       <title>Android Build Tips - Wed Sep 09 05:24:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34177-android-build-tips</link>
       <description>Shows a random Android development tip or fact in a notification balloon every time a Gradle sync or build starts — like the loading-screen tips in video games. The...
@@ -58,7 +97,7 @@ xmlId: com.aicn.web</description>
       <dc:date>2026-09-09T01:47:22Z</dc:date>
     </item>
     <item>
-      <title>Codex Tabs - Wed Sep 09 01:10:27 UTC 2026</title>
+      <title>Codex Tabs - Wed Sep 09 20:04:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34172-codex-tabs</link>
       <description>Keep independent Codex conversations in native editor tabs. Split chats beside your code and see which tasks need your attention. Stream replies, commands, file...
 
@@ -66,9 +105,9 @@ vendor: Acorn1010
 downloads: 0
 pricingModel: FREE
 xmlId: com.acorn.codex.tabs</description>
-      <pubDate>Wed, 09 Sep 2026 01:10:27 GMT</pubDate>
+      <pubDate>Wed, 09 Sep 2026 20:04:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34172-codex-tabs</guid>
-      <dc:date>2026-09-09T01:10:27Z</dc:date>
+      <dc:date>2026-09-09T20:04:57Z</dc:date>
     </item>
     <item>
       <title>Branch Time Tracker - Tue Sep 08 20:42:34 UTC 2026</title>
@@ -175,7 +214,7 @@ xmlId: com.marcinorlowski.glowstick</description>
       <dc:date>2026-09-08T19:32:05Z</dc:date>
     </item>
     <item>
-      <title>Sacred Mod Development - Tue Sep 08 16:31:17 UTC 2026</title>
+      <title>Sacred Mod Development - Wed Sep 09 21:36:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34165-sacred-mod-development</link>
       <description>Create and run Sacred Gold mods from the IDE. The loader starts a JVM alongside the game and sends game events to your mod. This plugin provides the project setup and...
 
@@ -183,9 +222,9 @@ vendor: Pavel Erokhin
 downloads: 4
 pricingModel: FREE
 xmlId: dev.ancaria.idea</description>
-      <pubDate>Tue, 08 Sep 2026 16:31:17 GMT</pubDate>
+      <pubDate>Wed, 09 Sep 2026 21:36:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34165-sacred-mod-development</guid>
-      <dc:date>2026-09-08T16:31:17Z</dc:date>
+      <dc:date>2026-09-09T21:36:35Z</dc:date>
     </item>
     <item>
       <title>Samsad ADB Controller - Tue Sep 08 11:10:03 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: com.github.zipper.latteplus</description>
       <pubDate>Sat, 05 Sep 2026 13:30:29 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34056-latte-</guid>
       <dc:date>2026-09-05T13:30:29Z</dc:date>
-    </item>
-    <item>
-      <title>Codex IDE Context Bridge - Sun Aug 23 14:36:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33745-codex-ide-context-bridge</link>
-      <description>Passes the current IntelliJ editor context to Codex CLI and the Codex desktop app. Keep using Codex in a terminal while automatically including the active file...
-
-vendor: Stanislav Pavliuk
-downloads: 4
-pricingModel: FREE
-xmlId: io.github.stpavliuk.codex.idecontext</description>
-      <pubDate>Sun, 23 Aug 2026 14:36:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33745-codex-ide-context-bridge</guid>
-      <dc:date>2026-08-23T14:36:43Z</dc:date>
-    </item>
-    <item>
-      <title>NestKit - Mon Sep 07 16:06:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/27097-nestkit</link>
-      <description>NestKit - Essential Tools for NestJS Development Boost your NestJS development with powerful code inspections, navigation tools, and a comprehensive project explorer...
-
-vendor: Felix Astner
-downloads: 46
-pricingModel: FREE
-xmlId: com.felixastner.nestkit.NestKit</description>
-      <pubDate>Mon, 07 Sep 2026 16:06:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/27097-nestkit</guid>
-      <dc:date>2026-09-07T16:06:10Z</dc:date>
-    </item>
-    <item>
-      <title>AI Test Review - Tue Sep 08 06:24:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34156-ai-test-review</link>
-      <description>AI Test Review helps Rider users review AI-generated unit tests. 插件会扫描源码中的 AI_TEST_REVIEW marker 和测试方法，按 pending、approved、unknown、all 分类展示，支持同意/不同意切换、上下跳转、gutter...
-
-vendor: PanXiaoJin
-downloads: 11
-pricingModel: FREE
-xmlId: com.codex.aitestreview</description>
-      <pubDate>Tue, 08 Sep 2026 06:24:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34156-ai-test-review</guid>
-      <dc:date>2026-09-08T06:24:55Z</dc:date>
     </item>
   </channel>
 </rss>

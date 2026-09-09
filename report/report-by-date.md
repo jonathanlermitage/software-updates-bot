@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|26.8.2|[nodejs.org](https://nodejs.org)|Wed Sep 09 22:19:00 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.21.0|[nodejs.org](https://nodejs.org)|Wed Sep 09 08:40:27 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.2 (262.10315.125) ~ 2026-09-02|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 02 22:06:29 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.3889.65) ~ 2026-09-02|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Wed Sep 02 15:46:38 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.1|[golang.org](https://golang.org/dl/)|Tue Sep 01 22:10:03 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|26.8.1|[nodejs.org](https://nodejs.org)|Wed Aug 26 22:49:21 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:29 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:29 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:24 UTC 2026|
