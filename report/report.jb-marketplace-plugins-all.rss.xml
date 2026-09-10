@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Remote .NET Launch - Wed Sep 09 08:20:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34178-remote-net-launch</link>
+      <description>Launch a published .NET application on a Linux development host and stop at its first source breakpoint, directly from Rider. Reuse a saved SSH connection and review...
+
+vendor: meanmail.dev
+downloads: 0
+pricingModel: PAID
+xmlId: dev.meanmail.plugin.rider-remote-debugger</description>
+      <pubDate>Wed, 09 Sep 2026 08:20:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34178-remote-net-launch</guid>
+      <dc:date>2026-09-09T08:20:40Z</dc:date>
+    </item>
+    <item>
+      <title>Infisical for IDE - Wed Sep 09 07:00:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33321-infisical-for-ide</link>
+      <description>Integrates Infisical secrets management into IntelliJ IDEA. Browse secrets in a dedicated tool window and inject them automatically into Gradle/Spring Boot run...
+
+vendor: Fabian
+downloads: 3
+pricingModel: FREE
+xmlId: com.abuscom.infisicalplugin.InfisicalPlugin</description>
+      <pubDate>Wed, 09 Sep 2026 07:00:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33321-infisical-for-ide</guid>
+      <dc:date>2026-09-09T07:00:09Z</dc:date>
+    </item>
+    <item>
+      <title>Import Trimmer - Wed Sep 09 10:06:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34181-import-trimmer</link>
+      <description>Remove Java imports when they become unused. Import Trimmer watches open Java files and reacts only to imports that it has first observed in use. Imports that were...
+
+vendor: Artem Latyshev
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.nemf1s.ImportTrimmer</description>
+      <pubDate>Wed, 09 Sep 2026 10:06:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34181-import-trimmer</guid>
+      <dc:date>2026-09-09T10:06:13Z</dc:date>
+    </item>
+    <item>
+      <title>AI Commit Message Generator for IntelliJ - Wed Sep 09 11:51:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34183-ai-commit-message-generator-for-intellij</link>
+      <description>Generate Conventional Commit messages from the changes selected in IntelliJ IDEA's Commit tool window. CommitMuse turns the diff you are about to commit into a clear...
+
+vendor: mutolee
+downloads: 0
+pricingModel: FREE
+xmlId: org.aicommitmessage</description>
+      <pubDate>Wed, 09 Sep 2026 11:51:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34183-ai-commit-message-generator-for-intellij</guid>
+      <dc:date>2026-09-09T11:51:56Z</dc:date>
+    </item>
+    <item>
+      <title>GoToInOppositeGroup - Wed Sep 09 19:10:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34188-gotoinoppositegroup</link>
+      <description>Provides a Goto Implementation in Opposite Group action that opens the implementation of the symbol under the caret directly in the opposite editor split/group. When...
+
+vendor: JetBrains Experimental
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.nadiatarashkevich.gotoinoppositegroup</description>
+      <pubDate>Wed, 09 Sep 2026 19:10:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34188-gotoinoppositegroup</guid>
+      <dc:date>2026-09-09T19:10:56Z</dc:date>
+    </item>
+    <item>
       <title>Midget - Mon Sep 07 14:26:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34144-midget</link>
       <description>If the current file looks like a marimo notebook (a .py file with import marimo and marimo.App(), opening it runs marimo run and shows the live widget directly in the...
@@ -24,7 +89,7 @@ xmlId: com.midget.runmarimo</description>
       <description>Provides comprehensive language support for Strongly Typed Value Notation (STVN). Features include syntax highlighting, BNF-based parser inspection, type resolution...
 
 vendor: chaotic3quilibrium
-downloads: 4
+downloads: 8
 pricingModel: FREE
 xmlId: org.stvnadore.plugin</description>
       <pubDate>Tue, 08 Sep 2026 00:55:44 GMT</pubDate>
@@ -37,7 +102,7 @@ xmlId: org.stvnadore.plugin</description>
       <description>Keeps your Markdown links working when files move. When you move or rename a file, this plugin automatically updates every relative Markdown link that pointed to it...
 
 vendor: kuan
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.kuan1113.mdlinkkeeper</description>
       <pubDate>Tue, 08 Sep 2026 12:14:38 GMT</pubDate>
@@ -50,7 +115,7 @@ xmlId: io.github.kuan1113.mdlinkkeeper</description>
       <description>Keeps the Flutter SDK selection of a project in sync with the SDK provided by FVM (Flutter Version Management). After an fvm use, the IDE is pointed at the newly...
 
 vendor: Boundfox Studios
-downloads: 1
+downloads: 30
 pricingModel: FREE
 xmlId: com.boundfoxstudios.flutter-sdk-sync-companion</description>
       <pubDate>Wed, 09 Sep 2026 18:48:41 GMT</pubDate>
@@ -63,7 +128,7 @@ xmlId: com.boundfoxstudios.flutter-sdk-sync-companion</description>
       <description>Shows a random Android development tip or fact in a notification balloon every time a Gradle sync or build starts — like the loading-screen tips in video games. The...
 
 vendor: Sashank Vahni
-downloads: 0
+downloads: 22
 pricingModel: FREE
 xmlId: com.tips.androidtip</description>
       <pubDate>Wed, 09 Sep 2026 05:24:09 GMT</pubDate>
@@ -76,7 +141,7 @@ xmlId: com.tips.androidtip</description>
       <description>IDE Radio plays YouTube and Bilibili audio directly inside your IDE, featuring a live waveform and spectrum visualizer in a dedicated Tool Window. Features Audio...
 
 vendor: Ethan
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: e.y.sound-url-player</description>
       <pubDate>Wed, 09 Sep 2026 09:43:55 GMT</pubDate>
@@ -84,17 +149,17 @@ xmlId: e.y.sound-url-player</description>
       <dc:date>2026-09-09T09:43:55Z</dc:date>
     </item>
     <item>
-      <title>StarRocks Database Support - Wed Sep 09 02:08:41 UTC 2026</title>
+      <title>StarRocks Database Support - Thu Sep 10 03:45:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34050-starrocks-database-support</link>
       <description>Features StarRocks Database Support provides a dedicated StarRocks SQL dialect and full StarRocks database integration for DataGrip (and other JetBrains IDEs with...
 
 vendor: Jackson Chen
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: com.jc.starrocks</description>
-      <pubDate>Wed, 09 Sep 2026 02:08:41 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 03:45:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34050-starrocks-database-support</guid>
-      <dc:date>2026-09-09T02:08:41Z</dc:date>
+      <dc:date>2026-09-10T03:45:00Z</dc:date>
     </item>
     <item>
       <title>DeepSeek Harness Web - Thu Sep 10 01:06:42 UTC 2026</title>
@@ -102,7 +167,7 @@ xmlId: com.jc.starrocks</description>
       <description>DeepSeek Harness Web brings your local DeepSeek Harness chat into a PhpStorm tool window. Drag files or folders from the IDE into the chat input, or select code in the...
 
 vendor: aicn
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.aicn.web</description>
       <pubDate>Thu, 10 Sep 2026 01:06:42 GMT</pubDate>
@@ -115,7 +180,7 @@ xmlId: com.aicn.web</description>
       <description>Keep independent Codex conversations in native editor tabs. Split chats beside your code and see which tasks need your attention. Stream replies, commands, file...
 
 vendor: Acorn1010
-downloads: 0
+downloads: 22
 pricingModel: FREE
 xmlId: com.acorn.codex.tabs</description>
       <pubDate>Wed, 09 Sep 2026 20:04:57 GMT</pubDate>
@@ -128,7 +193,7 @@ xmlId: com.acorn.codex.tabs</description>
       <description>Tracks the time you spend working on the Git branches of your projects, across every open project in a single IDE-wide view. Automatically creates a tracking entry...
 
 vendor: Gabriele B
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.gbassi.timetracker</description>
       <pubDate>Tue, 08 Sep 2026 20:42:34 GMT</pubDate>
@@ -141,7 +206,7 @@ xmlId: com.github.gbassi.timetracker</description>
       <description>Copy Path for AI injects a paste-ready reference like @main.rs#L42 into the selected IDE Terminal tab (and also copies it to the clipboard). Works with Claude Code...
 
 vendor: bygo
-downloads: 0
+downloads: 17
 pricingModel: FREE
 xmlId: com.bygo.aipath</description>
       <pubDate>Wed, 09 Sep 2026 06:23:56 GMT</pubDate>
@@ -154,7 +219,7 @@ xmlId: com.bygo.aipath</description>
       <description>Suggests stable Gradle library updates and writes the chosen version into the catalog or build file. Reads libraries from gradle/libs.versions.toml and Gradle build...
 
 vendor: Anton Zaycev
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.zaycev.libshelper</description>
       <pubDate>Tue, 08 Sep 2026 10:51:23 GMT</pubDate>
@@ -167,7 +232,7 @@ xmlId: com.zaycev.libshelper</description>
       <description>Codex Usage Monitor Monitor your Codex 5-hour and weekly usage directly in IntelliJ IDEA. Displays remaining 5-hour and weekly quotas in the status bar. Provides a...
 
 vendor: Travis
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: io.github.traivslin.codexusage</description>
       <pubDate>Tue, 08 Sep 2026 07:47:53 GMT</pubDate>
@@ -180,7 +245,7 @@ xmlId: io.github.traivslin.codexusage</description>
       <description>This is an AI programming assistant plugin for IntelliJ IDEA and Android Studio. It integrates AI chat, file editing, project context awareness, MCP tools, todo...
 
 vendor: LoongC
-downloads: 4
+downloads: 17
 pricingModel: FREE
 xmlId: com.loongc.plugin</description>
       <pubDate>Wed, 09 Sep 2026 11:48:54 GMT</pubDate>
@@ -193,77 +258,12 @@ xmlId: com.loongc.plugin</description>
       <description>Firebridge provides a comprehensive suite of tools for Android Studio, including a powerful Firestore database explorer with a data grid view, and a local Gradle...
 
 vendor: Firebridge Team
-downloads: 3
+downloads: 10
 pricingModel: FREE
 xmlId: app.firebridge</description>
       <pubDate>Tue, 08 Sep 2026 19:07:55 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34166-firebridge</guid>
       <dc:date>2026-09-08T19:07:55Z</dc:date>
-    </item>
-    <item>
-      <title>app-state-diagram - Wed Sep 09 02:49:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34164-app-state-diagram</link>
-      <description>Renders an ALPS profile (alps.json / alps.xml) as a state diagram preview, powered by app-state-diagram's parser and dot generator.
-
-vendor: alps-asd
-downloads: 4
-pricingModel: FREE
-xmlId: com.alps-asd.idea-alps-plugin</description>
-      <pubDate>Wed, 09 Sep 2026 02:49:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34164-app-state-diagram</guid>
-      <dc:date>2026-09-09T02:49:20Z</dc:date>
-    </item>
-    <item>
-      <title>GlowStick MHL - Tue Sep 08 19:32:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32984-glowstick-mhl</link>
-      <description>GlowStick MHL Frame your IDE with color for instant visual identification of projects. GlowStick is visual expansion plugin for IntelliJ IDEA based IDEs that helps you...
-
-vendor: Marcin Orlowski
-downloads: 6
-pricingModel: FREE
-xmlId: com.marcinorlowski.glowstick</description>
-      <pubDate>Tue, 08 Sep 2026 19:32:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32984-glowstick-mhl</guid>
-      <dc:date>2026-09-08T19:32:05Z</dc:date>
-    </item>
-    <item>
-      <title>Sacred Mod Development - Wed Sep 09 23:21:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34165-sacred-mod-development</link>
-      <description>Create and run Sacred Gold mods from the IDE. The loader starts a JVM alongside the game and sends game events to your mod. This plugin provides the project setup and...
-
-vendor: Pavel Erokhin
-downloads: 4
-pricingModel: FREE
-xmlId: dev.ancaria.idea</description>
-      <pubDate>Wed, 09 Sep 2026 23:21:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34165-sacred-mod-development</guid>
-      <dc:date>2026-09-09T23:21:47Z</dc:date>
-    </item>
-    <item>
-      <title>Samsad ADB Controller - Tue Sep 08 11:10:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34138-samsad-adb-controller</link>
-      <description>Fast, offline ADB control panel for Android Studio &amp;amp; IntelliJ IDEA. Features: Connected Device Manager: Auto-detects connected emulators &amp;amp; physical devices...
-
-vendor: Samsad Chalil Valappil
-downloads: 6
-pricingModel: FREE
-xmlId: com.samsad.adbcontroller</description>
-      <pubDate>Tue, 08 Sep 2026 11:10:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34138-samsad-adb-controller</guid>
-      <dc:date>2026-09-08T11:10:03Z</dc:date>
-    </item>
-    <item>
-      <title>Bazel LSP - Tue Sep 08 20:35:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34170-bazel-lsp</link>
-      <description>Experimental. Provides Bazel Starlark language support through the bundled bazel-lsp language server.
-
-vendor: JetBrains s.r.o.
-downloads: 15
-pricingModel: FREE
-xmlId: com.intellij.experimental.bazel-lsp</description>
-      <pubDate>Tue, 08 Sep 2026 20:35:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34170-bazel-lsp</guid>
-      <dc:date>2026-09-08T20:35:07Z</dc:date>
     </item>
   </channel>
 </rss>
