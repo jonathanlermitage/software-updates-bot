@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>JFrog for Coding Agents - Thu Sep 10 11:49:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33657-jfrog-for-coding-agents</link>
+      <description>Official JFrog plugin for JetBrains IDEs. Delivers the JFrog Platform Agent Skills bundle and a JFrog (remote) MCP server to Junie on IDE startup - discovered by...
+
+vendor: JFrog
+downloads: 4
+pricingModel: FREE
+xmlId: com.jfrog.jetbrains</description>
+      <pubDate>Thu, 10 Sep 2026 11:49:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33657-jfrog-for-coding-agents</guid>
+      <dc:date>2026-09-10T11:49:00Z</dc:date>
+    </item>
+    <item>
+      <title>Flexible For Schematics - Wed Sep 09 11:46:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34182-flexible-for-schematics</link>
+      <description>Schematic and PCB viewer and editor for KiCad, EasyEDA, Eagle and Gerber files. Visual canvas, 3D board viewer, component database with live stock and pricing, sticky...
+
+vendor: Ilscipio GmbH
+downloads: 0
+pricingModel: PAID
+xmlId: com.flexible.schematics</description>
+      <pubDate>Wed, 09 Sep 2026 11:46:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34182-flexible-for-schematics</guid>
+      <dc:date>2026-09-09T11:46:06Z</dc:date>
+    </item>
+    <item>
       <title>Remote .NET Launch - Wed Sep 09 08:20:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34178-remote-net-launch</link>
       <description>Launch a published .NET application on a Linux development host and stop at its first source breakpoint, directly from Rider. Reuse a saved SSH connection and review...
@@ -19,7 +45,7 @@ xmlId: dev.meanmail.plugin.rider-remote-debugger</description>
       <dc:date>2026-09-09T08:20:40Z</dc:date>
     </item>
     <item>
-      <title>Infisical for IDE - Wed Sep 09 07:00:09 UTC 2026</title>
+      <title>Infisical for IDE - Thu Sep 10 09:55:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33321-infisical-for-ide</link>
       <description>Integrates Infisical secrets management into IntelliJ IDEA. Browse secrets in a dedicated tool window and inject them automatically into Gradle/Spring Boot run...
 
@@ -27,9 +53,9 @@ vendor: Fabian
 downloads: 3
 pricingModel: FREE
 xmlId: com.abuscom.infisicalplugin.InfisicalPlugin</description>
-      <pubDate>Wed, 09 Sep 2026 07:00:09 GMT</pubDate>
+      <pubDate>Thu, 10 Sep 2026 09:55:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33321-infisical-for-ide</guid>
-      <dc:date>2026-09-09T07:00:09Z</dc:date>
+      <dc:date>2026-09-10T09:55:19Z</dc:date>
     </item>
     <item>
       <title>Import Trimmer - Wed Sep 09 10:06:13 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: io.github.traivslin.codexusage</description>
       <pubDate>Tue, 08 Sep 2026 07:47:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34157-codex-usage-monitor</guid>
       <dc:date>2026-09-08T07:47:53Z</dc:date>
-    </item>
-    <item>
-      <title>CodePal Assistant - Wed Sep 09 11:48:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33283-codepal-assistant</link>
-      <description>This is an AI programming assistant plugin for IntelliJ IDEA and Android Studio. It integrates AI chat, file editing, project context awareness, MCP tools, todo...
-
-vendor: LoongC
-downloads: 17
-pricingModel: FREE
-xmlId: com.loongc.plugin</description>
-      <pubDate>Wed, 09 Sep 2026 11:48:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33283-codepal-assistant</guid>
-      <dc:date>2026-09-09T11:48:54Z</dc:date>
-    </item>
-    <item>
-      <title>Firebridge - Tue Sep 08 19:07:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34166-firebridge</link>
-      <description>Firebridge provides a comprehensive suite of tools for Android Studio, including a powerful Firestore database explorer with a data grid view, and a local Gradle...
-
-vendor: Firebridge Team
-downloads: 10
-pricingModel: FREE
-xmlId: app.firebridge</description>
-      <pubDate>Tue, 08 Sep 2026 19:07:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34166-firebridge</guid>
-      <dc:date>2026-09-08T19:07:55Z</dc:date>
     </item>
   </channel>
 </rss>
