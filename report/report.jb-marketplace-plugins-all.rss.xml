@@ -6,12 +6,194 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Whack a Mole - Thu Sep 10 09:55:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34199-whack-a-mole</link>
+      <description>A tiny whack-a-mole game living in your IDE tool window. Take a 30-second break between builds: moles pop up in a 3x3 grid, click them before they hide, and chase your...
+
+vendor: whack-a-mole
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.airport233.whack-a-mole</description>
+      <pubDate>Thu, 10 Sep 2026 09:55:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34199-whack-a-mole</guid>
+      <dc:date>2026-09-10T09:55:12Z</dc:date>
+    </item>
+    <item>
+      <title>cem - Thu Sep 10 10:38:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34196-cem</link>
+      <description>Run the cem CLI from inside PyCharm / IntelliJ IDEA / GoLand / WebStorm / RubyMine / PhpStorm / Rider / CLion. One AI thinks, another writes the code. Use a strong...
+
+vendor: muslu
+downloads: 0
+pricingModel: FREE
+xmlId: dev.cempw.cem</description>
+      <pubDate>Thu, 10 Sep 2026 10:38:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34196-cem</guid>
+      <dc:date>2026-09-10T10:38:58Z</dc:date>
+    </item>
+    <item>
+      <title>SSH File Explorer - Wed Sep 09 07:52:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34180-ssh-file-explorer</link>
+      <description>Connect to a remote host over SSH and browse its filesystem from a tool window on the left side of the IDE. SFTP based remote file tree with lazy loading Double click...
+
+vendor: Kutay
+downloads: 1
+pricingModel: FREE
+xmlId: com.kutay.sshexplorer</description>
+      <pubDate>Wed, 09 Sep 2026 07:52:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34180-ssh-file-explorer</guid>
+      <dc:date>2026-09-09T07:52:27Z</dc:date>
+    </item>
+    <item>
+      <title>KMR Scripting - Thu Sep 10 07:05:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34141-kmr-scripting</link>
+      <description>Support for PascalScript used in Knights and Merchants Remake for scripting maps.
+
+vendor: greeny
+downloads: 1
+pricingModel: FREE
+xmlId: dev.greeny.kmr</description>
+      <pubDate>Thu, 10 Sep 2026 07:05:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34141-kmr-scripting</guid>
+      <dc:date>2026-09-10T07:05:19Z</dc:date>
+    </item>
+    <item>
+      <title>IBooks - Thu Sep 10 06:06:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34194-ibooks</link>
+      <description>IBooks is an EPUB reader and generator that lives inside IntelliJ IDEA. Powered by epublib-core, it opens EPUB 2/3 books in a dedicated tool window, renders chapters...
+
+vendor: Reading books
+downloads: 0
+pricingModel: FREE
+xmlId: com.ibooks.plugin</description>
+      <pubDate>Thu, 10 Sep 2026 06:06:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34194-ibooks</guid>
+      <dc:date>2026-09-10T06:06:34Z</dc:date>
+    </item>
+    <item>
+      <title>Graft - Wed Sep 09 20:36:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34190-graft</link>
+      <description>Lets an MCP client such as Claude Code attach a git worktree to the current JetBrains IDE window and detach it again, the two things the IDE only offers through the...
+
+vendor: Abstractive Machines
+downloads: 1
+pricingModel: FREE
+xmlId: com.abstractivemachines.graft</description>
+      <pubDate>Wed, 09 Sep 2026 20:36:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34190-graft</guid>
+      <dc:date>2026-09-09T20:36:06Z</dc:date>
+    </item>
+    <item>
+      <title>Dependency Vulnerability Companion - Thu Sep 10 00:05:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34191-dependency-vulnerability-companion</link>
+      <description>Flags dependencies in pom.xml, build.gradle/build.gradle.kts, package.json, and requirements.txt whose pinned version is a known-vulnerable one -- matched against a...
+
+vendor: Gap Hunter Labs
+downloads: 2
+pricingModel: FREE
+xmlId: dev.gaphunter.dependencyvulnerabilitycompanion</description>
+      <pubDate>Thu, 10 Sep 2026 00:05:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34191-dependency-vulnerability-companion</guid>
+      <dc:date>2026-09-10T00:05:05Z</dc:date>
+    </item>
+    <item>
+      <title>Disable Python Debug Console by Default - Wed Sep 09 17:16:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34187-disable-python-debug-console-by-default</link>
+      <description>Hides the interactive Python debug console in the console tab of the debug tool window. This works around PY-61959, where the Settings | Build, Execution, Deployment...
+
+vendor: Greg Olmschenk
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.golmschenk.intellijdisablepythondebugconsolebydefault</description>
+      <pubDate>Wed, 09 Sep 2026 17:16:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34187-disable-python-debug-console-by-default</guid>
+      <dc:date>2026-09-09T17:16:44Z</dc:date>
+    </item>
+    <item>
+      <title>Acpira - Thu Sep 10 07:19:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34192-acpira</link>
+      <description>Native harnesses. One considered interface. Bring Grok Build, Kimi Code, Devin and any other ACP agent CLI into a tool window or an editor tab. The agents keep their...
+
+vendor: hotic
+downloads: 6
+pricingModel: FREE
+xmlId: com.github.hotic.acpira</description>
+      <pubDate>Thu, 10 Sep 2026 07:19:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34192-acpira</guid>
+      <dc:date>2026-09-10T07:19:10Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Usage Monitor - Wed Sep 09 14:39:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34185-claude-usage-monitor</link>
+      <description>Keeps an eye on your Claude usage from the IDE status bar (bottom-right). The widget shows 14% used | resets in 1:14 — how much of your subscription quota is gone and...
+
+vendor: Frantisek Vojta
+downloads: 1
+pricingModel: FREE
+xmlId: dev.fvojta.claude-usage-monitor</description>
+      <pubDate>Wed, 09 Sep 2026 14:39:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34185-claude-usage-monitor</guid>
+      <dc:date>2026-09-09T14:39:21Z</dc:date>
+    </item>
+    <item>
+      <title>Keyboard Stats - Wed Sep 09 15:42:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34106-keyboard-stats</link>
+      <description>Daily keystroke count / Average KPM / Achievement badge system / all data stored locally with zero network requests. 每日敲键数 / 平均 KPM / 活跃编码时长统计 / 30 天小时热力图 / 实时 KPM 波形...
+
+vendor: li-luoqiang
+downloads: 4
+pricingModel: FREE
+xmlId: com.lucasli.idea.keyboardstats</description>
+      <pubDate>Wed, 09 Sep 2026 15:42:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34106-keyboard-stats</guid>
+      <dc:date>2026-09-09T15:42:01Z</dc:date>
+    </item>
+    <item>
+      <title>Duplicate Finder - Wed Sep 09 14:21:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34184-duplicate-finder</link>
+      <description>Find project-wide fuzzy matches in XML, Markdown, Writerside, AsciiDoc, and .properties files. Based on Duplicate Finder open-source library...
+
+vendor: Igor Kulakov
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.flounder4130.duplicatefinderidea</description>
+      <pubDate>Wed, 09 Sep 2026 14:21:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34184-duplicate-finder</guid>
+      <dc:date>2026-09-09T14:21:48Z</dc:date>
+    </item>
+    <item>
+      <title>MigrationGuard - Sat Sep 05 10:07:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34107-migrationguard</link>
+      <description>Prevent dangerous database migrations before production. Evita migraciones de base de datos peligrosas antes de producción. MigrationGuard analyzes SQL locally; it...
+
+vendor: TechnofyStore
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: com.migrationguard</description>
+      <pubDate>Sat, 05 Sep 2026 10:07:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34107-migrationguard</guid>
+      <dc:date>2026-09-05T10:07:07Z</dc:date>
+    </item>
+    <item>
+      <title>QueryGuard - Sun Sep 06 17:45:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34131-queryguard</link>
+      <description>Local SQL safety checks for DataGrip. Comprobaciones locales de seguridad SQL para DataGrip.
+
+vendor: TechnofyStore
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: io.github.jog16.queryguard</description>
+      <pubDate>Sun, 06 Sep 2026 17:45:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34131-queryguard</guid>
+      <dc:date>2026-09-06T17:45:04Z</dc:date>
+    </item>
+    <item>
       <title>JFrog for Coding Agents - Thu Sep 10 11:49:00 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33657-jfrog-for-coding-agents</link>
       <description>Official JFrog plugin for JetBrains IDEs. Delivers the JFrog Platform Agent Skills bundle and a JFrog (remote) MCP server to Junie on IDE startup - discovered by...
 
 vendor: JFrog
-downloads: 4
+downloads: 24
 pricingModel: FREE
 xmlId: com.jfrog.jetbrains</description>
       <pubDate>Thu, 10 Sep 2026 11:49:00 GMT</pubDate>
@@ -24,7 +206,7 @@ xmlId: com.jfrog.jetbrains</description>
       <description>Schematic and PCB viewer and editor for KiCad, EasyEDA, Eagle and Gerber files. Visual canvas, 3D board viewer, component database with live stock and pricing, sticky...
 
 vendor: Ilscipio GmbH
-downloads: 0
+downloads: 7
 pricingModel: PAID
 xmlId: com.flexible.schematics</description>
       <pubDate>Wed, 09 Sep 2026 11:46:06 GMT</pubDate>
@@ -37,7 +219,7 @@ xmlId: com.flexible.schematics</description>
       <description>Launch a published .NET application on a Linux development host and stop at its first source breakpoint, directly from Rider. Reuse a saved SSH connection and review...
 
 vendor: meanmail.dev
-downloads: 0
+downloads: 5
 pricingModel: PAID
 xmlId: dev.meanmail.plugin.rider-remote-debugger</description>
       <pubDate>Wed, 09 Sep 2026 08:20:40 GMT</pubDate>
@@ -50,7 +232,7 @@ xmlId: dev.meanmail.plugin.rider-remote-debugger</description>
       <description>Integrates Infisical secrets management into IntelliJ IDEA. Browse secrets in a dedicated tool window and inject them automatically into Gradle/Spring Boot run...
 
 vendor: Fabian
-downloads: 3
+downloads: 13
 pricingModel: FREE
 xmlId: com.abuscom.infisicalplugin.InfisicalPlugin</description>
       <pubDate>Thu, 10 Sep 2026 09:55:19 GMT</pubDate>
@@ -63,7 +245,7 @@ xmlId: com.abuscom.infisicalplugin.InfisicalPlugin</description>
       <description>Remove Java imports when they become unused. Import Trimmer watches open Java files and reacts only to imports that it has first observed in use. Imports that were...
 
 vendor: Artem Latyshev
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.nemf1s.ImportTrimmer</description>
       <pubDate>Wed, 09 Sep 2026 10:06:13 GMT</pubDate>
@@ -76,194 +258,12 @@ xmlId: io.github.nemf1s.ImportTrimmer</description>
       <description>Generate Conventional Commit messages from the changes selected in IntelliJ IDEA's Commit tool window. CommitMuse turns the diff you are about to commit into a clear...
 
 vendor: mutolee
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: org.aicommitmessage</description>
       <pubDate>Wed, 09 Sep 2026 11:51:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34183-ai-commit-message-generator-for-intellij</guid>
       <dc:date>2026-09-09T11:51:56Z</dc:date>
-    </item>
-    <item>
-      <title>GoToInOppositeGroup - Wed Sep 09 19:10:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34188-gotoinoppositegroup</link>
-      <description>Provides a Goto Implementation in Opposite Group action that opens the implementation of the symbol under the caret directly in the opposite editor split/group. When...
-
-vendor: JetBrains Experimental
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.nadiatarashkevich.gotoinoppositegroup</description>
-      <pubDate>Wed, 09 Sep 2026 19:10:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34188-gotoinoppositegroup</guid>
-      <dc:date>2026-09-09T19:10:56Z</dc:date>
-    </item>
-    <item>
-      <title>Midget - Mon Sep 07 14:26:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34144-midget</link>
-      <description>If the current file looks like a marimo notebook (a .py file with import marimo and marimo.App(), opening it runs marimo run and shows the live widget directly in the...
-
-vendor: Mikhail Romanov, PhD
-downloads: 1
-pricingModel: FREE
-xmlId: com.midget.runmarimo</description>
-      <pubDate>Mon, 07 Sep 2026 14:26:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34144-midget</guid>
-      <dc:date>2026-09-07T14:26:35Z</dc:date>
-    </item>
-    <item>
-      <title>STVN Language Support - Tue Sep 08 00:55:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34095-stvn-language-support</link>
-      <description>Provides comprehensive language support for Strongly Typed Value Notation (STVN). Features include syntax highlighting, BNF-based parser inspection, type resolution...
-
-vendor: chaotic3quilibrium
-downloads: 8
-pricingModel: FREE
-xmlId: org.stvnadore.plugin</description>
-      <pubDate>Tue, 08 Sep 2026 00:55:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34095-stvn-language-support</guid>
-      <dc:date>2026-09-08T00:55:44Z</dc:date>
-    </item>
-    <item>
-      <title>Markdown Link Keeper - Tue Sep 08 12:14:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34163-markdown-link-keeper</link>
-      <description>Keeps your Markdown links working when files move. When you move or rename a file, this plugin automatically updates every relative Markdown link that pointed to it...
-
-vendor: kuan
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.kuan1113.mdlinkkeeper</description>
-      <pubDate>Tue, 08 Sep 2026 12:14:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34163-markdown-link-keeper</guid>
-      <dc:date>2026-09-08T12:14:38Z</dc:date>
-    </item>
-    <item>
-      <title>Flutter SDK Sync Companion - Wed Sep 09 18:48:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34117-flutter-sdk-sync-companion</link>
-      <description>Keeps the Flutter SDK selection of a project in sync with the SDK provided by FVM (Flutter Version Management). After an fvm use, the IDE is pointed at the newly...
-
-vendor: Boundfox Studios
-downloads: 30
-pricingModel: FREE
-xmlId: com.boundfoxstudios.flutter-sdk-sync-companion</description>
-      <pubDate>Wed, 09 Sep 2026 18:48:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34117-flutter-sdk-sync-companion</guid>
-      <dc:date>2026-09-09T18:48:41Z</dc:date>
-    </item>
-    <item>
-      <title>Android Build Tips - Wed Sep 09 05:24:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34177-android-build-tips</link>
-      <description>Shows a random Android development tip or fact in a notification balloon every time a Gradle sync or build starts — like the loading-screen tips in video games. The...
-
-vendor: Sashank Vahni
-downloads: 22
-pricingModel: FREE
-xmlId: com.tips.androidtip</description>
-      <pubDate>Wed, 09 Sep 2026 05:24:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34177-android-build-tips</guid>
-      <dc:date>2026-09-09T05:24:09Z</dc:date>
-    </item>
-    <item>
-      <title>IDE-Radio - Wed Sep 09 09:43:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34174-ide-radio</link>
-      <description>IDE Radio plays YouTube and Bilibili audio directly inside your IDE, featuring a live waveform and spectrum visualizer in a dedicated Tool Window. Features Audio...
-
-vendor: Ethan
-downloads: 12
-pricingModel: FREE
-xmlId: e.y.sound-url-player</description>
-      <pubDate>Wed, 09 Sep 2026 09:43:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34174-ide-radio</guid>
-      <dc:date>2026-09-09T09:43:55Z</dc:date>
-    </item>
-    <item>
-      <title>StarRocks Database Support - Thu Sep 10 03:45:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34050-starrocks-database-support</link>
-      <description>Features StarRocks Database Support provides a dedicated StarRocks SQL dialect and full StarRocks database integration for DataGrip (and other JetBrains IDEs with...
-
-vendor: Jackson Chen
-downloads: 7
-pricingModel: FREE
-xmlId: com.jc.starrocks</description>
-      <pubDate>Thu, 10 Sep 2026 03:45:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34050-starrocks-database-support</guid>
-      <dc:date>2026-09-10T03:45:00Z</dc:date>
-    </item>
-    <item>
-      <title>DeepSeek Harness Web - Thu Sep 10 01:06:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34173-deepseek-harness-web</link>
-      <description>DeepSeek Harness Web brings your local DeepSeek Harness chat into a PhpStorm tool window. Drag files or folders from the IDE into the chat input, or select code in the...
-
-vendor: aicn
-downloads: 8
-pricingModel: FREE
-xmlId: com.aicn.web</description>
-      <pubDate>Thu, 10 Sep 2026 01:06:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34173-deepseek-harness-web</guid>
-      <dc:date>2026-09-10T01:06:42Z</dc:date>
-    </item>
-    <item>
-      <title>Codex Tabs - Wed Sep 09 20:04:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34172-codex-tabs</link>
-      <description>Keep independent Codex conversations in native editor tabs. Split chats beside your code and see which tasks need your attention. Stream replies, commands, file...
-
-vendor: Acorn1010
-downloads: 22
-pricingModel: FREE
-xmlId: com.acorn.codex.tabs</description>
-      <pubDate>Wed, 09 Sep 2026 20:04:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34172-codex-tabs</guid>
-      <dc:date>2026-09-09T20:04:57Z</dc:date>
-    </item>
-    <item>
-      <title>Branch Time Tracker - Tue Sep 08 20:42:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34169-branch-time-tracker</link>
-      <description>Tracks the time you spend working on the Git branches of your projects, across every open project in a single IDE-wide view. Automatically creates a tracking entry...
-
-vendor: Gabriele B
-downloads: 9
-pricingModel: FREE
-xmlId: com.github.gbassi.timetracker</description>
-      <pubDate>Tue, 08 Sep 2026 20:42:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34169-branch-time-tracker</guid>
-      <dc:date>2026-09-08T20:42:34Z</dc:date>
-    </item>
-    <item>
-      <title>Copy Path for AI - Wed Sep 09 06:23:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34168-copy-path-for-ai</link>
-      <description>Copy Path for AI injects a paste-ready reference like @main.rs#L42 into the selected IDE Terminal tab (and also copies it to the clipboard). Works with Claude Code...
-
-vendor: bygo
-downloads: 17
-pricingModel: FREE
-xmlId: com.bygo.aipath</description>
-      <pubDate>Wed, 09 Sep 2026 06:23:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34168-copy-path-for-ai</guid>
-      <dc:date>2026-09-09T06:23:56Z</dc:date>
-    </item>
-    <item>
-      <title>LibsHelper - Tue Sep 08 10:51:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34160-libshelper</link>
-      <description>Suggests stable Gradle library updates and writes the chosen version into the catalog or build file. Reads libraries from gradle/libs.versions.toml and Gradle build...
-
-vendor: Anton Zaycev
-downloads: 7
-pricingModel: FREE
-xmlId: com.zaycev.libshelper</description>
-      <pubDate>Tue, 08 Sep 2026 10:51:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34160-libshelper</guid>
-      <dc:date>2026-09-08T10:51:23Z</dc:date>
-    </item>
-    <item>
-      <title>Codex Usage Monitor - Tue Sep 08 07:47:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34157-codex-usage-monitor</link>
-      <description>Codex Usage Monitor Monitor your Codex 5-hour and weekly usage directly in IntelliJ IDEA. Displays remaining 5-hour and weekly quotas in the status bar. Provides a...
-
-vendor: Travis
-downloads: 6
-pricingModel: FREE
-xmlId: io.github.traivslin.codexusage</description>
-      <pubDate>Tue, 08 Sep 2026 07:47:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34157-codex-usage-monitor</guid>
-      <dc:date>2026-09-08T07:47:53Z</dc:date>
     </item>
   </channel>
 </rss>
