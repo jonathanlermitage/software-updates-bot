@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>JQuick Java Language Support - Thu Sep 10 13:28:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34201-jquick-java-language-support</link>
+      <description>JQuick Java Language Support — IntelliJ support for jquick-java rule scripts (.jquick), reusing the built-in ANTLR4 engine of jquick-java. Provides token-level syntax...
+
+vendor: JQuick
+downloads: 2
+pricingModel: FREE
+xmlId: com.github.paohaijiao.jquickjavaplugin</description>
+      <pubDate>Thu, 10 Sep 2026 13:28:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34201-jquick-java-language-support</guid>
+      <dc:date>2026-09-10T13:28:13Z</dc:date>
+    </item>
+    <item>
       <title>SchemaSmith - Entity Generator - Tue Sep 08 20:50:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34171-schemasmith--entity-generator</link>
       <description>Generate JPA entity classes from SQL DDL, a .sql file, or a live database connection. Included: Paste a CREATE TABLE statement directly Generate from a .sql file...
@@ -251,19 +264,6 @@ xmlId: com.ibooks.plugin</description>
       <pubDate>Thu, 10 Sep 2026 06:06:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34194-ibooks</guid>
       <dc:date>2026-09-10T06:06:34Z</dc:date>
-    </item>
-    <item>
-      <title>Graft - Fri Sep 11 15:22:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34190-graft</link>
-      <description>Graft lets an MCP client such as Claude Code attach a git worktree to the current JetBrains IDE window and detach it again, the two things the IDE only offers through...
-
-vendor: Abstractive Machines
-downloads: 15
-pricingModel: FREE
-xmlId: com.abstractivemachines.graft</description>
-      <pubDate>Fri, 11 Sep 2026 15:22:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34190-graft</guid>
-      <dc:date>2026-09-11T15:22:02Z</dc:date>
     </item>
   </channel>
 </rss>
