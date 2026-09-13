@@ -11,7 +11,7 @@
       <description>JQuick Java Language Support — IntelliJ support for jquick-java rule scripts (.jquick), reusing the built-in ANTLR4 engine of jquick-java. Provides token-level syntax...
 
 vendor: JQuick
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.paohaijiao.jquickjavaplugin</description>
       <pubDate>Thu, 10 Sep 2026 13:28:13 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.github.paohaijiao.jquickjavaplugin</description>
       <description>Generate JPA entity classes from SQL DDL, a .sql file, or a live database connection. Included: Paste a CREATE TABLE statement directly Generate from a .sql file...
 
 vendor: Schema Smith
-downloads: 2
+downloads: 11
 pricingModel: FREE
 xmlId: com.entitygenerator</description>
       <pubDate>Tue, 08 Sep 2026 20:50:04 GMT</pubDate>
@@ -32,30 +32,30 @@ xmlId: com.entitygenerator</description>
       <dc:date>2026-09-08T20:50:04Z</dc:date>
     </item>
     <item>
-      <title>Kudos - Fri Sep 11 06:57:54 UTC 2026</title>
+      <title>Kudos - Sun Sep 13 06:23:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34212-kudos</link>
       <description>Simple JetBrains Plugin; when it comes to commits - give credit where credit is due! Kudos makes it easy to give credit to contributors when committing changes through...
 
 vendor: Alex Blake-Goudemond
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: Kudos</description>
-      <pubDate>Fri, 11 Sep 2026 06:57:54 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 06:23:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34212-kudos</guid>
-      <dc:date>2026-09-11T06:57:54Z</dc:date>
+      <dc:date>2026-09-13T06:23:45Z</dc:date>
     </item>
     <item>
-      <title>Spring Init Support - Fri Sep 11 06:11:19 UTC 2026</title>
+      <title>Spring Init Support - Sun Sep 13 08:37:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34167-spring-init-support</link>
-      <description>Free Spring Boot project generator for IntelliJ IDEA Community Edition. Creates Spring Boot projects and modules through the public Spring Initializr REST API...
+      <description>Adds a Spring Boot module to the build you already have. Generated through the public Spring Initializr REST API — start.spring.io by default, switchable to...
 
 vendor: hughedward
-downloads: 5
+downloads: 11
 pricingModel: FREE
 xmlId: io.github.hughedward.springinitsupport</description>
-      <pubDate>Fri, 11 Sep 2026 06:11:19 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 08:37:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34167-spring-init-support</guid>
-      <dc:date>2026-09-11T06:11:19Z</dc:date>
+      <dc:date>2026-09-13T08:37:45Z</dc:date>
     </item>
     <item>
       <title>Codex App Launcher [Beta] - Tue Sep 08 09:39:47 UTC 2026</title>
@@ -63,7 +63,7 @@ xmlId: io.github.hughedward.springinitsupport</description>
       <description>English Codex App Launcher [Beta] connects IntelliJ IDEA with the Codex desktop app, making it easier to open projects and send precise code references without...
 
 vendor: 王勤奋
-downloads: 7
+downloads: 14
 pricingModel: FREE
 xmlId: com.wajnc.codex-app</description>
       <pubDate>Tue, 08 Sep 2026 09:39:47 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.wajnc.codex-app</description>
       <description>Run, inspect and stop React Native development sessions from one IDE workbench. Separate consoles for Metro, Android, iOS and release builds. Device and simulator...
 
 vendor: senjucao
-downloads: 3
+downloads: 35
 pricingModel: FREE
 xmlId: dev.senjucao.reactnativeworkbench</description>
       <pubDate>Sat, 12 Sep 2026 18:30:41 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: dev.senjucao.reactnativeworkbench</description>
       <description>Adds independently movable terminal tool windows to JetBrains IDEs for developers who want simultaneous shells in different places. Choose between one and four Extra...
 
 vendor: Sondre234
-downloads: 7
+downloads: 15
 pricingModel: FREE
 xmlId: dev.sondre.dual-terminal-tool-windows</description>
       <pubDate>Fri, 11 Sep 2026 02:12:27 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: dev.sondre.dual-terminal-tool-windows</description>
       <description>Educational Python type stubs for Rhino 8 / RhinoCommon, focused on Rhino.Geometry. Get code completion, signatures, navigation, and documentation in PyCharm. All...
 
 vendor: NexoNest
-downloads: 8
+downloads: 14
 pricingModel: FREE
 xmlId: com.nexonest.nexorhino</description>
       <pubDate>Fri, 11 Sep 2026 11:15:38 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.nexonest.nexorhino</description>
       <description>The plugin disable the `maven-default-http-blocker` in bundled maven. It will run after IDEA startup and modify the bundled maven's settings.xml to delete the...
 
 vendor: wang tc
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: io.github.cdgeass.disable-default-maven-http-interceptor</description>
       <pubDate>Fri, 11 Sep 2026 01:12:24 GMT</pubDate>
@@ -123,17 +123,17 @@ xmlId: io.github.cdgeass.disable-default-maven-http-interceptor</description>
       <dc:date>2026-09-11T01:12:24Z</dc:date>
     </item>
     <item>
-      <title>Get Off Color Scheme Font - Fri Sep 11 00:08:29 UTC 2026</title>
+      <title>Get Off Color Scheme Font - Sat Sep 12 23:23:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34205-get-off-color-scheme-font</link>
       <description>Does Use color scheme font instead of the default keep turning itself back on? This plugin keeps it off. No settings, no actions, no tool window: install it and forget...
 
 vendor: Nacho Esviza
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: com.esviza.getOffColorSchemeFont</description>
-      <pubDate>Fri, 11 Sep 2026 00:08:29 GMT</pubDate>
+      <pubDate>Sat, 12 Sep 2026 23:23:05 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34205-get-off-color-scheme-font</guid>
-      <dc:date>2026-09-11T00:08:29Z</dc:date>
+      <dc:date>2026-09-12T23:23:05Z</dc:date>
     </item>
     <item>
       <title>Varro: OpenJet - Sat Sep 12 07:42:14 UTC 2026</title>
@@ -141,7 +141,7 @@ xmlId: com.esviza.getOffColorSchemeFont</description>
       <description>OpenCode workbench for JetBrains IDEs Varro OpenJet runs OpenCode inside JetBrains IDEs. It adds project-aware chat, parallel sessions, plan and change review, model...
 
 vendor: Andrew Koltyakov
-downloads: 17
+downloads: 36
 pricingModel: FREE
 xmlId: dev.koltyakov.varro-openjet</description>
       <pubDate>Sat, 12 Sep 2026 07:42:14 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: dev.koltyakov.varro-openjet</description>
       <description>Agenstorm removes the friction an agent-heavy workflow hits in the IDE every day. Coding agents changed what a working day looks like, and the IDE was not built for...
 
 vendor: pronskiy
-downloads: 13
+downloads: 18
 pricingModel: FREE
 xmlId: com.pronskiy.agenstorm</description>
       <pubDate>Fri, 11 Sep 2026 13:37:50 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.pronskiy.agenstorm</description>
       <description>Renders GitLab Flavored Markdown in the built-in Markdown preview. Adds rendering for: collapsible sections - ::: details Title table of contents - [[_TOC_]] footnotes...
 
 vendor: Gryphou
-downloads: 8
+downloads: 11
 pricingModel: FREE
 xmlId: fr.gryphou.glfm</description>
       <pubDate>Thu, 10 Sep 2026 13:34:17 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: fr.gryphou.glfm</description>
       <description>Support for the ++PHP programming language. Edit .ppphp source with code completion, error checking, navigation, and refactoring. ++PHP extends PHP and compiles to...
 
 vendor: Atatusoft
-downloads: 9
+downloads: 12
 pricingModel: FREE
 xmlId: com.atatusoft.ppphp</description>
       <pubDate>Thu, 10 Sep 2026 14:53:56 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.atatusoft.ppphp</description>
       <description>Manage Python versions, virtual environments and dependencies without leaving your IDE. Python Environments brings installed interpreters, project environments and...
 
 vendor: meanmail.dev
-downloads: 8
+downloads: 12
 pricingModel: PAID
 xmlId: dev.meanmail.plugin.python-environments</description>
       <pubDate>Thu, 10 Sep 2026 10:46:05 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: dev.meanmail.plugin.python-environments</description>
       <description>A tiny whack-a-mole game living in your IDE tool window. Take a 30-second break between builds: moles pop up in a 3x3 grid, click them before they hide, and chase your...
 
 vendor: whack-a-mole
-downloads: 5
+downloads: 6
 pricingModel: FREE
 xmlId: io.github.airport233.whack-a-mole</description>
       <pubDate>Thu, 10 Sep 2026 09:55:12 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: io.github.airport233.whack-a-mole</description>
       <description>Run the cem CLI from inside PyCharm / IntelliJ IDEA / GoLand / WebStorm / RubyMine / PhpStorm / Rider / CLion. One AI thinks, another writes the code. Use a strong...
 
 vendor: muslu
-downloads: 37
+downloads: 42
 pricingModel: FREE
 xmlId: dev.cempw.cem</description>
       <pubDate>Fri, 11 Sep 2026 14:58:55 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: dev.cempw.cem</description>
       <description>Connect to a remote host over SSH and browse its filesystem from a tool window on the left side of the IDE. SFTP based remote file tree with lazy loading Double click...
 
 vendor: Kutay
-downloads: 4
+downloads: 8
 pricingModel: FREE
 xmlId: com.kutay.sshexplorer</description>
       <pubDate>Wed, 09 Sep 2026 07:52:27 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.kutay.sshexplorer</description>
       <description>Support for PascalScript used in Knights and Merchants Remake for scripting maps.
 
 vendor: greeny
-downloads: 8
+downloads: 11
 pricingModel: FREE
 xmlId: dev.greeny.kmr</description>
       <pubDate>Thu, 10 Sep 2026 07:05:19 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: dev.greeny.kmr</description>
       <description>IBooks is an EPUB reader and generator that lives inside IntelliJ IDEA. Powered by epublib-core, it opens EPUB 2/3 books in a dedicated tool window, renders chapters...
 
 vendor: Reading books
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: com.ibooks.plugin</description>
       <pubDate>Thu, 10 Sep 2026 06:06:34 GMT</pubDate>
