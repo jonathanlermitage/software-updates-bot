@@ -23,7 +23,7 @@
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.4732.28) ~ 2026-09-11|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Sep 11 19:05:43 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.2 (262.10315.125) ~ 2026-09-02|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 02 22:06:29 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.0 to 19.9.5 ~ 2026-08-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Aug 23 00:50:28 UTC 2026|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 14 17:22:14 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 01:38:44 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.8.2|[nodejs.org](https://nodejs.org)|Wed Sep 09 22:19:00 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.21.0|[nodejs.org](https://nodejs.org)|Wed Sep 09 08:40:27 UTC 2026|

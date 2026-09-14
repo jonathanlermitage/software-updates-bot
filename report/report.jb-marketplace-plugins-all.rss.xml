@@ -6,17 +6,30 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Compose Multiplatform Translations - Sun Sep 13 16:11:40 UTC 2026</title>
+      <title>Extended Tool Windows UI - Thu Sep 10 09:28:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34198-extended-tool-windows-ui</link>
+      <description>Extends the New UI tool window layout with additional options: Horizontal top and bottom stripes — place tool window buttons in a horizontal row along the top or...
+
+vendor: JetBrains s.r.o.
+downloads: 1
+pricingModel: FREE
+xmlId: com.intellij.extendedToolWindowsUi</description>
+      <pubDate>Thu, 10 Sep 2026 09:28:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34198-extended-tool-windows-ui</guid>
+      <dc:date>2026-09-10T09:28:08Z</dc:date>
+    </item>
+    <item>
+      <title>Compose Multiplatform Translations - Mon Sep 14 05:25:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33682-compose-multiplatform-translations</link>
       <description>Compose Multiplatform Translations manages composeResources string resources from IntelliJ IDEA and Android Studio. It provides a translation table, missing-key and...
 
 vendor: IENLAB
-downloads: 7
+downloads: 21
 pricingModel: FREE
 xmlId: zone.ien.cmp_translation_plugin</description>
-      <pubDate>Sun, 13 Sep 2026 16:11:40 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 05:25:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33682-compose-multiplatform-translations</guid>
-      <dc:date>2026-09-13T16:11:40Z</dc:date>
+      <dc:date>2026-09-14T05:25:35Z</dc:date>
     </item>
     <item>
       <title>JQuick Java Language Support - Thu Sep 10 13:28:13 UTC 2026</title>
@@ -24,7 +37,7 @@ xmlId: zone.ien.cmp_translation_plugin</description>
       <description>JQuick Java Language Support — IntelliJ support for jquick-java rule scripts (.jquick), reusing the built-in ANTLR4 engine of jquick-java. Provides token-level syntax...
 
 vendor: JQuick
-downloads: 5
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.paohaijiao.jquickjavaplugin</description>
       <pubDate>Thu, 10 Sep 2026 13:28:13 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.github.paohaijiao.jquickjavaplugin</description>
       <description>Generate JPA entity classes from SQL DDL, a .sql file, or a live database connection. Included: Paste a CREATE TABLE statement directly Generate from a .sql file...
 
 vendor: Schema Smith
-downloads: 11
+downloads: 13
 pricingModel: FREE
 xmlId: com.entitygenerator</description>
       <pubDate>Tue, 08 Sep 2026 20:50:04 GMT</pubDate>
@@ -45,17 +58,17 @@ xmlId: com.entitygenerator</description>
       <dc:date>2026-09-08T20:50:04Z</dc:date>
     </item>
     <item>
-      <title>Kudos - Sun Sep 13 06:23:45 UTC 2026</title>
+      <title>Kudos - Mon Sep 14 04:47:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34212-kudos</link>
       <description>Simple JetBrains Plugin; when it comes to commits - give credit where credit is due! Kudos makes it easy to give credit to contributors when committing changes through...
 
 vendor: Alex Blake-Goudemond
-downloads: 9
+downloads: 23
 pricingModel: FREE
 xmlId: Kudos</description>
-      <pubDate>Sun, 13 Sep 2026 06:23:45 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 04:47:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34212-kudos</guid>
-      <dc:date>2026-09-13T06:23:45Z</dc:date>
+      <dc:date>2026-09-14T04:47:11Z</dc:date>
     </item>
     <item>
       <title>Spring Init Support - Sun Sep 13 08:37:45 UTC 2026</title>
@@ -63,7 +76,7 @@ xmlId: Kudos</description>
       <description>Adds a Spring Boot module to the build you already have. Generated through the public Spring Initializr REST API — start.spring.io by default, switchable to...
 
 vendor: hughedward
-downloads: 11
+downloads: 19
 pricingModel: FREE
 xmlId: io.github.hughedward.springinitsupport</description>
       <pubDate>Sun, 13 Sep 2026 08:37:45 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: io.github.hughedward.springinitsupport</description>
       <description>English Codex App Launcher [Beta] connects IntelliJ IDEA with the Codex desktop app, making it easier to open projects and send precise code references without...
 
 vendor: 王勤奋
-downloads: 14
+downloads: 20
 pricingModel: FREE
 xmlId: com.wajnc.codex-app</description>
       <pubDate>Tue, 08 Sep 2026 09:39:47 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.wajnc.codex-app</description>
       <description>Run, inspect and stop React Native development sessions from one IDE workbench. Separate consoles for Metro, Android, iOS and release builds. Device and simulator...
 
 vendor: senjucao
-downloads: 35
+downloads: 71
 pricingModel: FREE
 xmlId: dev.senjucao.reactnativeworkbench</description>
       <pubDate>Sat, 12 Sep 2026 18:30:41 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: dev.senjucao.reactnativeworkbench</description>
       <description>Adds independently movable terminal tool windows to JetBrains IDEs for developers who want simultaneous shells in different places. Choose between one and four Extra...
 
 vendor: Sondre234
-downloads: 15
+downloads: 18
 pricingModel: FREE
 xmlId: dev.sondre.dual-terminal-tool-windows</description>
       <pubDate>Fri, 11 Sep 2026 02:12:27 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: io.github.cdgeass.disable-default-maven-http-interceptor</description>
       <description>Does Use color scheme font instead of the default keep turning itself back on? This plugin keeps it off. No settings, no actions, no tool window: install it and forget...
 
 vendor: Nacho Esviza
-downloads: 9
+downloads: 28
 pricingModel: FREE
 xmlId: com.esviza.getOffColorSchemeFont</description>
       <pubDate>Sat, 12 Sep 2026 23:23:05 GMT</pubDate>
@@ -149,20 +162,20 @@ xmlId: com.esviza.getOffColorSchemeFont</description>
       <dc:date>2026-09-12T23:23:05Z</dc:date>
     </item>
     <item>
-      <title>Varro: OpenJet - Sat Sep 12 07:42:14 UTC 2026</title>
+      <title>Varro: OpenJet - Sun Sep 13 19:37:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34204-varro-openjet</link>
       <description>OpenCode workbench for JetBrains IDEs Varro OpenJet runs OpenCode inside JetBrains IDEs. It adds project-aware chat, parallel sessions, plan and change review, model...
 
 vendor: Andrew Koltyakov
-downloads: 36
+downloads: 51
 pricingModel: FREE
 xmlId: dev.koltyakov.varro-openjet</description>
-      <pubDate>Sat, 12 Sep 2026 07:42:14 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 19:37:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34204-varro-openjet</guid>
-      <dc:date>2026-09-12T07:42:14Z</dc:date>
+      <dc:date>2026-09-13T19:37:57Z</dc:date>
     </item>
     <item>
-      <title>Agenstorm - Fri Sep 11 13:37:50 UTC 2026</title>
+      <title>Agenstorm - Mon Sep 14 12:29:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34147-agenstorm</link>
       <description>Agenstorm removes the friction an agent-heavy workflow hits in the IDE every day. Coding agents changed what a working day looks like, and the IDE was not built for...
 
@@ -170,9 +183,9 @@ vendor: pronskiy
 downloads: 18
 pricingModel: FREE
 xmlId: com.pronskiy.agenstorm</description>
-      <pubDate>Fri, 11 Sep 2026 13:37:50 GMT</pubDate>
+      <pubDate>Mon, 14 Sep 2026 12:29:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34147-agenstorm</guid>
-      <dc:date>2026-09-11T13:37:50Z</dc:date>
+      <dc:date>2026-09-14T12:29:06Z</dc:date>
     </item>
     <item>
       <title>GitLab Flavored Markdown Preview - Thu Sep 10 13:34:17 UTC 2026</title>
@@ -180,7 +193,7 @@ xmlId: com.pronskiy.agenstorm</description>
       <description>Renders GitLab Flavored Markdown in the built-in Markdown preview. Adds rendering for: collapsible sections - ::: details Title table of contents - [[_TOC_]] footnotes...
 
 vendor: Gryphou
-downloads: 11
+downloads: 13
 pricingModel: FREE
 xmlId: fr.gryphou.glfm</description>
       <pubDate>Thu, 10 Sep 2026 13:34:17 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: fr.gryphou.glfm</description>
       <description>Support for the ++PHP programming language. Edit .ppphp source with code completion, error checking, navigation, and refactoring. ++PHP extends PHP and compiles to...
 
 vendor: Atatusoft
-downloads: 12
+downloads: 13
 pricingModel: FREE
 xmlId: com.atatusoft.ppphp</description>
       <pubDate>Thu, 10 Sep 2026 14:53:56 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.atatusoft.ppphp</description>
       <description>Manage Python versions, virtual environments and dependencies without leaving your IDE. Python Environments brings installed interpreters, project environments and...
 
 vendor: meanmail.dev
-downloads: 12
+downloads: 15
 pricingModel: PAID
 xmlId: dev.meanmail.plugin.python-environments</description>
       <pubDate>Thu, 10 Sep 2026 10:46:05 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: io.github.airport233.whack-a-mole</description>
       <description>Run the cem CLI from inside PyCharm / IntelliJ IDEA / GoLand / WebStorm / RubyMine / PhpStorm / Rider / CLion. One AI thinks, another writes the code. Use a strong...
 
 vendor: muslu
-downloads: 42
+downloads: 44
 pricingModel: FREE
 xmlId: dev.cempw.cem</description>
       <pubDate>Fri, 11 Sep 2026 14:58:55 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: dev.cempw.cem</description>
       <description>Connect to a remote host over SSH and browse its filesystem from a tool window on the left side of the IDE. SFTP based remote file tree with lazy loading Double click...
 
 vendor: Kutay
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: com.kutay.sshexplorer</description>
       <pubDate>Wed, 09 Sep 2026 07:52:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34180-ssh-file-explorer</guid>
       <dc:date>2026-09-09T07:52:27Z</dc:date>
-    </item>
-    <item>
-      <title>KMR Scripting - Thu Sep 10 07:05:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34141-kmr-scripting</link>
-      <description>Support for PascalScript used in Knights and Merchants Remake for scripting maps.
-
-vendor: greeny
-downloads: 11
-pricingModel: FREE
-xmlId: dev.greeny.kmr</description>
-      <pubDate>Thu, 10 Sep 2026 07:05:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34141-kmr-scripting</guid>
-      <dc:date>2026-09-10T07:05:19Z</dc:date>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 14 17:22:14 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.4732.28) ~ 2026-09-11|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Sep 11 19:05:43 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.8.2|[nodejs.org](https://nodejs.org)|Wed Sep 09 22:19:00 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.21.0|[nodejs.org](https://nodejs.org)|Wed Sep 09 08:40:27 UTC 2026|
@@ -32,7 +33,6 @@
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 05 13:58:25 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 01:38:44 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 13:42:31 UTC 2026|
-|![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 342 - Bun en Rust, TypeScript en Go|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Jul 21 10:25:31 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.23|[www.videolan.org](https://www.videolan.org/vlc/)|Thu Jan 08 12:03:04 UTC 2026|
