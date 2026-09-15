@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>JSON Viewer &amp; Type Generator - Mon Sep 14 00:34:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34249-json-viewer--type-generator</link>
+      <description>Adds a JSON Viewer tool window that shows the JSON file you're editing as a searchable tree, and generates type definitions from it. Tree view of the active JSON file...
+
+vendor: Orbis
+downloads: 2
+pricingModel: FREE
+xmlId: com.etemad.jsonviewer</description>
+      <pubDate>Mon, 14 Sep 2026 00:34:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34249-json-viewer--type-generator</guid>
+      <dc:date>2026-09-14T00:34:51Z</dc:date>
+    </item>
+    <item>
+      <title>Harmness Browser - Mon Sep 14 18:52:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34202-harmness-browser</link>
+      <description>Embed a configurable browser panel (e.g. a local Harmness instance) directly inside JetBrains IDE sidebars. Enables seamless AI-assisted coding inside PyCharm...
+
+vendor: prepeep
+downloads: 1
+pricingModel: FREE
+xmlId: com.prepeep.harmness-browser</description>
+      <pubDate>Mon, 14 Sep 2026 18:52:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34202-harmness-browser</guid>
+      <dc:date>2026-09-14T18:52:34Z</dc:date>
+    </item>
+    <item>
       <title>VV Release Management - Tue Sep 15 01:57:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34275-vv-release-management</link>
       <description>VV Release Management shows the current commit before a Git push and lets the user create and publish a release tag. 在 JetBrains IDE 执行 Git Push...
@@ -238,32 +264,6 @@ xmlId: WGSL_WESL</description>
       <pubDate>Sun, 13 Sep 2026 23:01:50 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34248-wgsl--wesl</guid>
       <dc:date>2026-09-13T23:01:50Z</dc:date>
-    </item>
-    <item>
-      <title>Environment Switcher - Sun Sep 13 13:15:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34244-environment-switcher</link>
-      <description>Switch the environment your run configurations target from a dropdown in the toolbar, the way Postman switches environments. Define dev, test, staging, prod once...
-
-vendor: Environment Switcher
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.mnaami.environmentswitcher</description>
-      <pubDate>Sun, 13 Sep 2026 13:15:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34244-environment-switcher</guid>
-      <dc:date>2026-09-13T13:15:09Z</dc:date>
-    </item>
-    <item>
-      <title>Supabase Toolkit - Sun Sep 06 23:41:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34135-supabase-toolkit</link>
-      <description>Supabase Toolkit brings your Supabase project into the IDE so you stop switching to the dashboard and the terminal. Explore Schemas, tables, views, columns (types...
-
-vendor: Damian Boni
-downloads: 4
-pricingModel: FREEMIUM
-xmlId: dev.supatoolkit</description>
-      <pubDate>Sun, 06 Sep 2026 23:41:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34135-supabase-toolkit</guid>
-      <dc:date>2026-09-06T23:41:12Z</dc:date>
     </item>
   </channel>
 </rss>
