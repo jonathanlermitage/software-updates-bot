@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>VV Release Management - Tue Sep 15 01:57:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34275-vv-release-management</link>
+      <description>VV Release Management shows the current commit before a Git push and lets the user create and publish a release tag. 在 JetBrains IDE 执行 Git Push...
+
+vendor: vanceview
+downloads: 0
+pricingModel: FREE
+xmlId: com.vanceview.release-management</description>
+      <pubDate>Tue, 15 Sep 2026 01:57:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34275-vv-release-management</guid>
+      <dc:date>2026-09-15T01:57:37Z</dc:date>
+    </item>
+    <item>
+      <title>InputBridge - Tue Sep 15 07:48:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34280-inputbridge</link>
+      <description>Type on an ADB-connected Android device from Android Studio, and bring its clipboard back. Unicode input: send any text, including CJK characters and emoji, to the...
+
+vendor: zhangzheng
+downloads: 0
+pricingModel: FREE
+xmlId: io.zheng.inputbridge</description>
+      <pubDate>Tue, 15 Sep 2026 07:48:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34280-inputbridge</guid>
+      <dc:date>2026-09-15T07:48:33Z</dc:date>
+    </item>
+    <item>
+      <title>Env Switcher - Tue Sep 15 11:44:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34289-env-switcher</link>
+      <description>Env Switcher — free, non-commercial open source plugin. Switch named environment profiles inside the IDE with one click. Load profiles from env-profiles.json in the...
+
+vendor: SongYuanKun
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.ideaenvswitcher</description>
+      <pubDate>Tue, 15 Sep 2026 11:44:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34289-env-switcher</guid>
+      <dc:date>2026-09-15T11:44:23Z</dc:date>
+    </item>
+    <item>
+      <title>CamelCaseFix - Tue Sep 15 09:09:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34286-camelcasefix</link>
+      <description>Switch easily between kebab-case, SNAKE_CASE, PascalCase, camelCase, snake_case or space case. See Edit menu or use ⇧ + ⌥ + U / Shift + Alt + U. Please have a look at...
+
+vendor: qaz4042
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.qaz4042.camelcasefix</description>
+      <pubDate>Tue, 15 Sep 2026 09:09:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34286-camelcasefix</guid>
+      <dc:date>2026-09-15T09:09:38Z</dc:date>
+    </item>
+    <item>
       <title>Docker Compose Visualizer - Fri Sep 11 12:09:48 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33475-docker-compose-visualizer</link>
       <description>Visualize docker-compose.yml files as a live-synchronized node/edge diagram - free to view, with a license required to edit. Open a compose file and get an...
@@ -212,58 +264,6 @@ xmlId: dev.supatoolkit</description>
       <pubDate>Sun, 06 Sep 2026 23:41:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34135-supabase-toolkit</guid>
       <dc:date>2026-09-06T23:41:12Z</dc:date>
-    </item>
-    <item>
-      <title>Writers Workbench - Sat Sep 12 16:26:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34150-writers-workbench</link>
-      <description>Writers Workbench brings prose, documentation, notes, Markdown, comments, and other writing-heavy project content into the same workflow as your code. Word count and...
-
-vendor: Tubalabs
-downloads: 4
-pricingModel: FREE
-xmlId: org.tubalabs.ideaplugins.writerstools</description>
-      <pubDate>Sat, 12 Sep 2026 16:26:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34150-writers-workbench</guid>
-      <dc:date>2026-09-12T16:26:46Z</dc:date>
-    </item>
-    <item>
-      <title>basedpython - Mon Sep 14 02:04:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33922-basedpython</link>
-      <description>PyCharm / IntelliJ support for basedpython — a Python superset (.by files) that transpiles to pure Python 3.10+. Wraps the by language server (type checking...
-
-vendor: Morgan Bartholomew
-downloads: 5
-pricingModel: FREE
-xmlId: dev.basedpython.ide</description>
-      <pubDate>Mon, 14 Sep 2026 02:04:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33922-basedpython</guid>
-      <dc:date>2026-09-14T02:04:23Z</dc:date>
-    </item>
-    <item>
-      <title>Almasix - Tue Sep 15 08:00:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34220-almasix</link>
-      <description>Almasix Idea — native Prism highlighting, deep completions and annotations via smith ide:index --json, and Smith run configs. Supports PyCharm Professional, PyCharm...
-
-vendor: Almasix
-downloads: 24
-pricingModel: FREE
-xmlId: com.almasix.ide</description>
-      <pubDate>Tue, 15 Sep 2026 08:00:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34220-almasix</guid>
-      <dc:date>2026-09-15T08:00:21Z</dc:date>
-    </item>
-    <item>
-      <title>CHRONOVAULT - Sat Sep 12 12:34:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34231-chronovault</link>
-      <description>Snapshot, verify, and restore the exact moments when your code worked. CHRONOVAULT records verified checkpoints of your project — each gated by a real build/test...
-
-vendor: Chronovault
-downloads: 6
-pricingModel: FREE
-xmlId: dev.chronovault</description>
-      <pubDate>Sat, 12 Sep 2026 12:34:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34231-chronovault</guid>
-      <dc:date>2026-09-12T12:34:56Z</dc:date>
     </item>
   </channel>
 </rss>
