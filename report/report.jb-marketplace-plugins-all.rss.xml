@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Demystified Stack Trace Links - Mon Sep 14 08:33:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34254-demystified-stack-trace-links</link>
+      <description>Makes file:line fragments inside Ben.Demystifier-formatted (Serilog WithDemystifiedStackTraces) exception frames clickable in Rider's Run/Debug/Terminal console, even...
+
+vendor: Mohammad Hossein Karami
+downloads: 0
+pricingModel: FREE
+xmlId: com.mhkarami.rider-demystified-links</description>
+      <pubDate>Mon, 14 Sep 2026 08:33:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34254-demystified-stack-trace-links</guid>
+      <dc:date>2026-09-14T08:33:44Z</dc:date>
+    </item>
+    <item>
       <title>Entroly - Mon Sep 14 12:36:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34258-entroly</link>
       <description>Connect JetBrains AI Assistant to Entroly's local, open-source MCP server. The plugin provides a guided setup action that copies a version-pinned MCP configuration and...
 
 vendor: entroly
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.juyterman1000.entroly</description>
       <pubDate>Mon, 14 Sep 2026 12:36:46 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: io.github.juyterman1000.entroly</description>
       <description>Native Hono support for the JetBrains Endpoints tool window. Discover Hono HTTP routes, navigate to source declarations, generate HTTP Client requests, and provide...
 
 vendor: Hono Endpoints
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.darleywey.hono-endpoints</description>
       <pubDate>Sat, 12 Sep 2026 18:21:59 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: io.github.darleywey.hono-endpoints</description>
       <description>Go support for JetBrains IDEs that do not ship it, such as PyCharm, IntelliJ IDEA Community, WebStorm, PhpStorm and RubyMine. Installation Install this plugin and...
 
 vendor: Çağrı Gökçe
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.cag11.go-language-helper</description>
       <pubDate>Sat, 12 Sep 2026 13:31:28 GMT</pubDate>
@@ -45,17 +58,17 @@ xmlId: io.github.cag11.go-language-helper</description>
       <dc:date>2026-09-12T13:31:28Z</dc:date>
     </item>
     <item>
-      <title>ONES Task - Mon Sep 14 03:31:18 UTC 2026</title>
+      <title>ONES Task - Tue Sep 15 03:51:23 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34251-ones-task</link>
       <description>Integrates ONES issue tracking into IntelliJ IDEA as a task repository.
 
 vendor: ones tasks
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.bangbang93.onesideatask</description>
-      <pubDate>Mon, 14 Sep 2026 03:31:18 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 03:51:23 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34251-ones-task</guid>
-      <dc:date>2026-09-14T03:31:18Z</dc:date>
+      <dc:date>2026-09-15T03:51:23Z</dc:date>
     </item>
     <item>
       <title>LibMan GUI - Mon Sep 14 08:59:36 UTC 2026</title>
@@ -63,7 +76,7 @@ xmlId: com.bangbang93.onesideatask</description>
       <description>Manage client-side libraries in libman.json without leaving Rider - the Visual Studio Library Manager (LibMan) experience, brought to JetBrains Rider. Rider has no...
 
 vendor: iamr8
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.github.iamr8.libman</description>
       <pubDate>Mon, 14 Sep 2026 08:59:36 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.github.iamr8.libman</description>
       <description>Inspects Gradle dependency versions and reports when newer versions are available. The plugin is designed as an alternative to Android Lint's dependency version checks...
 
 vendor: eidam
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: cz.eidam.dependency-inspector</description>
       <pubDate>Sun, 13 Sep 2026 03:23:26 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: cz.eidam.dependency-inspector</description>
       <description>Trace Spring HTTP and Kafka contracts before runtime. ArchVerity turns source code and configuration into an evidence-backed architecture workspace inside IntelliJ...
 
 vendor: ArchVerity
-downloads: 1
+downloads: 2
 pricingModel: PAID
 xmlId: com.pavelputrenkov.archflow.guard</description>
       <pubDate>Sat, 12 Sep 2026 17:57:07 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: com.pavelputrenkov.archflow.guard</description>
       <description>Replaces IntelliJ Platform progress bars with animated SVGs featuring Angelina the Mellow Wish (予愿安洁莉娜). Choose an animation Broom Ride Delivery Run Diving Choose an...
 
 vendor: Angelina Progress Bar
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: com.mikotokuroko.angelinaprogress</description>
       <pubDate>Sat, 12 Sep 2026 05:20:06 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.mikotokuroko.angelinaprogress</description>
       <description>One-click structured flow chart for the Java method under your caret. Right-click inside any method → Generate Code Flow Chart, or press Ctrl+Alt+Shift+G. The chart is...
 
 vendor: 乾坤li
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.workbuddy.codeflowchart</description>
       <pubDate>Sun, 13 Sep 2026 14:08:34 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.workbuddy.codeflowchart</description>
       <description>Import and submit University of Maryland computer science course projects from JetBrains IDEs. Supports the current browser/CAS verification workflow used by the UMD...
 
 vendor: Taha Cheji
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.tahacheji.cssubmitclient</description>
       <pubDate>Fri, 11 Sep 2026 17:16:38 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.tahacheji.cssubmitclient</description>
       <description>WGSL and WESL language support powered by wgsl-analyzer, with upstream TextMate grammars for syntax highlighting. Provides server-backed completion, diagnostics, hover...
 
 vendor: Mark Nefedov
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: WGSL_WESL</description>
       <pubDate>Sun, 13 Sep 2026 23:01:50 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: WGSL_WESL</description>
       <description>Switch the environment your run configurations target from a dropdown in the toolbar, the way Postman switches environments. Define dev, test, staging, prod once...
 
 vendor: Environment Switcher
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.mnaami.environmentswitcher</description>
       <pubDate>Sun, 13 Sep 2026 13:15:09 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: io.github.mnaami.environmentswitcher</description>
       <description>Supabase Toolkit brings your Supabase project into the IDE so you stop switching to the dashboard and the terminal. Explore Schemas, tables, views, columns (types...
 
 vendor: Damian Boni
-downloads: 1
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: dev.supatoolkit</description>
       <pubDate>Sun, 06 Sep 2026 23:41:12 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: dev.supatoolkit</description>
       <description>Writers Workbench brings prose, documentation, notes, Markdown, comments, and other writing-heavy project content into the same workflow as your code. Word count and...
 
 vendor: Tubalabs
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: org.tubalabs.ideaplugins.writerstools</description>
       <pubDate>Sat, 12 Sep 2026 16:26:46 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: org.tubalabs.ideaplugins.writerstools</description>
       <description>PyCharm / IntelliJ support for basedpython — a Python superset (.by files) that transpiles to pure Python 3.10+. Wraps the by language server (type checking...
 
 vendor: Morgan Bartholomew
-downloads: 3
+downloads: 5
 pricingModel: FREE
 xmlId: dev.basedpython.ide</description>
       <pubDate>Mon, 14 Sep 2026 02:04:23 GMT</pubDate>
@@ -201,17 +214,17 @@ xmlId: dev.basedpython.ide</description>
       <dc:date>2026-09-14T02:04:23Z</dc:date>
     </item>
     <item>
-      <title>Almasix - Tue Sep 15 00:04:13 UTC 2026</title>
+      <title>Almasix - Tue Sep 15 08:00:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34220-almasix</link>
       <description>Almasix Idea — native Prism highlighting, deep completions and annotations via smith ide:index --json, and Smith run configs. Supports PyCharm Professional, PyCharm...
 
 vendor: Almasix
-downloads: 2
+downloads: 24
 pricingModel: FREE
 xmlId: com.almasix.ide</description>
-      <pubDate>Tue, 15 Sep 2026 00:04:13 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 08:00:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34220-almasix</guid>
-      <dc:date>2026-09-15T00:04:13Z</dc:date>
+      <dc:date>2026-09-15T08:00:21Z</dc:date>
     </item>
     <item>
       <title>CHRONOVAULT - Sat Sep 12 12:34:56 UTC 2026</title>
@@ -219,7 +232,7 @@ xmlId: com.almasix.ide</description>
       <description>Snapshot, verify, and restore the exact moments when your code worked. CHRONOVAULT records verified checkpoints of your project — each gated by a real build/test...
 
 vendor: Chronovault
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: dev.chronovault</description>
       <pubDate>Sat, 12 Sep 2026 12:34:56 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: dev.chronovault</description>
       <description>Saffron language support for JetBrains IDEs: IntelliJ IDEA, WebStorm, PyCharm, Rider, and the rest, including Community editions. Saffron is a Gherkin-native...
 
 vendor: Chathuranga Jayasinghe
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: ai.saffron.jetbrains</description>
       <pubDate>Mon, 14 Sep 2026 21:48:20 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: ai.saffron.jetbrains</description>
       <description>Compose Testability Linter — find the Compose UI your UI tests can't locate Jetpack Compose removed a guarantee the View system enforced. findViewById did not work...
 
 vendor: VadimToptunov
-downloads: 1
+downloads: 13
 pricingModel: FREE
 xmlId: io.github.vadimtoptunov.testability-linter</description>
       <pubDate>Mon, 14 Sep 2026 20:26:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34235-compose-testability-linter</guid>
       <dc:date>2026-09-14T20:26:44Z</dc:date>
-    </item>
-    <item>
-      <title>CodeGenerate4J - Tue Sep 15 01:18:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34252-codegenerate4j</link>
-      <description>SQL DDL to MyBatis / MyBatis-Plus / JPA CRUD code. Paste a CREATE TABLE script into the CodeGenerate4J tool window and get a complete CRUD backend layer for MyBatis...
-
-vendor: tool4j
-downloads: 0
-pricingModel: FREE
-xmlId: com.tool4j.codegen</description>
-      <pubDate>Tue, 15 Sep 2026 01:18:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34252-codegenerate4j</guid>
-      <dc:date>2026-09-15T01:18:37Z</dc:date>
     </item>
   </channel>
 </rss>
