@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Docker Compose Visualizer - Fri Sep 11 12:09:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33475-docker-compose-visualizer</link>
+      <description>Visualize docker-compose.yml files as a live-synchronized node/edge diagram - free to view, with a license required to edit. Open a compose file and get an...
+
+vendor: grs
+downloads: 3
+pricingModel: FREEMIUM
+xmlId: dev.dcviz.compose-visualizer</description>
+      <pubDate>Fri, 11 Sep 2026 12:09:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33475-docker-compose-visualizer</guid>
+      <dc:date>2026-09-11T12:09:48Z</dc:date>
+    </item>
+    <item>
+      <title>OpenAPI Guard - Thu Sep 10 05:27:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34193-openapi-guard</link>
+      <description>Keep your OpenAPI contract and Spring Boot implementation synchronized while you code. OpenAPI Guard reports endpoint-level contract drift between a local OpenAPI 3.x...
+
+vendor: StackBlender
+downloads: 3
+pricingModel: FREE
+xmlId: com.stackblender.openapiguard</description>
+      <pubDate>Thu, 10 Sep 2026 05:27:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34193-openapi-guard</guid>
+      <dc:date>2026-09-10T05:27:34Z</dc:date>
+    </item>
+    <item>
       <title>Demystified Stack Trace Links - Mon Sep 14 08:33:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34254-demystified-stack-trace-links</link>
       <description>Makes file:line fragments inside Ben.Demystifier-formatted (Serilog WithDemystifiedStackTraces) exception frames clickable in Rider's Run/Debug/Terminal console, even...
@@ -238,32 +264,6 @@ xmlId: dev.chronovault</description>
       <pubDate>Sat, 12 Sep 2026 12:34:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34231-chronovault</guid>
       <dc:date>2026-09-12T12:34:56Z</dc:date>
-    </item>
-    <item>
-      <title>Saffron - Mon Sep 14 21:48:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34240-saffron</link>
-      <description>Saffron language support for JetBrains IDEs: IntelliJ IDEA, WebStorm, PyCharm, Rider, and the rest, including Community editions. Saffron is a Gherkin-native...
-
-vendor: Chathuranga Jayasinghe
-downloads: 8
-pricingModel: FREE
-xmlId: ai.saffron.jetbrains</description>
-      <pubDate>Mon, 14 Sep 2026 21:48:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34240-saffron</guid>
-      <dc:date>2026-09-14T21:48:20Z</dc:date>
-    </item>
-    <item>
-      <title>Compose Testability Linter - Mon Sep 14 20:26:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34235-compose-testability-linter</link>
-      <description>Compose Testability Linter — find the Compose UI your UI tests can't locate Jetpack Compose removed a guarantee the View system enforced. findViewById did not work...
-
-vendor: VadimToptunov
-downloads: 13
-pricingModel: FREE
-xmlId: io.github.vadimtoptunov.testability-linter</description>
-      <pubDate>Mon, 14 Sep 2026 20:26:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34235-compose-testability-linter</guid>
-      <dc:date>2026-09-14T20:26:44Z</dc:date>
     </item>
   </channel>
 </rss>
