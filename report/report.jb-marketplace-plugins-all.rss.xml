@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Extended Tool Windows UI - Thu Sep 10 09:28:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34198-extended-tool-windows-ui</link>
-      <description>Extends the New UI tool window layout with additional options: Horizontal top and bottom stripes — place tool window buttons in a horizontal row along the top or...
+      <title>Entroly - Mon Sep 14 12:36:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34258-entroly</link>
+      <description>Connect JetBrains AI Assistant to Entroly's local, open-source MCP server. The plugin provides a guided setup action that copies a version-pinned MCP configuration and...
 
-vendor: JetBrains s.r.o.
+vendor: entroly
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.juyterman1000.entroly</description>
+      <pubDate>Mon, 14 Sep 2026 12:36:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34258-entroly</guid>
+      <dc:date>2026-09-14T12:36:46Z</dc:date>
+    </item>
+    <item>
+      <title>Hono Endpoints - Sat Sep 12 18:21:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34189-hono-endpoints</link>
+      <description>Native Hono support for the JetBrains Endpoints tool window. Discover Hono HTTP routes, navigate to source declarations, generate HTTP Client requests, and provide...
+
+vendor: Hono Endpoints
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.darleywey.hono-endpoints</description>
+      <pubDate>Sat, 12 Sep 2026 18:21:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34189-hono-endpoints</guid>
+      <dc:date>2026-09-12T18:21:59Z</dc:date>
+    </item>
+    <item>
+      <title>Go Language Helper - Sat Sep 12 13:31:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34233-go-language-helper</link>
+      <description>Go support for JetBrains IDEs that do not ship it, such as PyCharm, IntelliJ IDEA Community, WebStorm, PhpStorm and RubyMine. Installation Install this plugin and...
+
+vendor: Çağrı Gökçe
 downloads: 1
 pricingModel: FREE
-xmlId: com.intellij.extendedToolWindowsUi</description>
-      <pubDate>Thu, 10 Sep 2026 09:28:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34198-extended-tool-windows-ui</guid>
-      <dc:date>2026-09-10T09:28:08Z</dc:date>
+xmlId: io.github.cag11.go-language-helper</description>
+      <pubDate>Sat, 12 Sep 2026 13:31:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34233-go-language-helper</guid>
+      <dc:date>2026-09-12T13:31:28Z</dc:date>
     </item>
     <item>
-      <title>Compose Multiplatform Translations - Mon Sep 14 05:25:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33682-compose-multiplatform-translations</link>
-      <description>Compose Multiplatform Translations manages composeResources string resources from IntelliJ IDEA and Android Studio. It provides a translation table, missing-key and...
+      <title>ONES Task - Mon Sep 14 03:31:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34251-ones-task</link>
+      <description>Integrates ONES issue tracking into IntelliJ IDEA as a task repository.
 
-vendor: IENLAB
-downloads: 21
+vendor: ones tasks
+downloads: 0
 pricingModel: FREE
-xmlId: zone.ien.cmp_translation_plugin</description>
-      <pubDate>Mon, 14 Sep 2026 05:25:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33682-compose-multiplatform-translations</guid>
-      <dc:date>2026-09-14T05:25:35Z</dc:date>
+xmlId: com.bangbang93.onesideatask</description>
+      <pubDate>Mon, 14 Sep 2026 03:31:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34251-ones-task</guid>
+      <dc:date>2026-09-14T03:31:18Z</dc:date>
     </item>
     <item>
-      <title>JQuick Java Language Support - Thu Sep 10 13:28:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34201-jquick-java-language-support</link>
-      <description>JQuick Java Language Support — IntelliJ support for jquick-java rule scripts (.jquick), reusing the built-in ANTLR4 engine of jquick-java. Provides token-level syntax...
+      <title>LibMan GUI - Mon Sep 14 08:59:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34253-libman-gui</link>
+      <description>Manage client-side libraries in libman.json without leaving Rider - the Visual Studio Library Manager (LibMan) experience, brought to JetBrains Rider. Rider has no...
 
-vendor: JQuick
-downloads: 10
+vendor: iamr8
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.paohaijiao.jquickjavaplugin</description>
-      <pubDate>Thu, 10 Sep 2026 13:28:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34201-jquick-java-language-support</guid>
-      <dc:date>2026-09-10T13:28:13Z</dc:date>
+xmlId: com.github.iamr8.libman</description>
+      <pubDate>Mon, 14 Sep 2026 08:59:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34253-libman-gui</guid>
+      <dc:date>2026-09-14T08:59:36Z</dc:date>
     </item>
     <item>
-      <title>SchemaSmith - Entity Generator - Tue Sep 08 20:50:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34171-schemasmith--entity-generator</link>
-      <description>Generate JPA entity classes from SQL DDL, a .sql file, or a live database connection. Included: Paste a CREATE TABLE statement directly Generate from a .sql file...
+      <title>Dependency Inspector - Sun Sep 13 03:23:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34236-dependency-inspector</link>
+      <description>Inspects Gradle dependency versions and reports when newer versions are available. The plugin is designed as an alternative to Android Lint's dependency version checks...
 
-vendor: Schema Smith
-downloads: 13
+vendor: eidam
+downloads: 2
 pricingModel: FREE
-xmlId: com.entitygenerator</description>
-      <pubDate>Tue, 08 Sep 2026 20:50:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34171-schemasmith--entity-generator</guid>
-      <dc:date>2026-09-08T20:50:04Z</dc:date>
+xmlId: cz.eidam.dependency-inspector</description>
+      <pubDate>Sun, 13 Sep 2026 03:23:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34236-dependency-inspector</guid>
+      <dc:date>2026-09-13T03:23:26Z</dc:date>
     </item>
     <item>
-      <title>Kudos - Mon Sep 14 04:47:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34212-kudos</link>
-      <description>Simple JetBrains Plugin; when it comes to commits - give credit where credit is due! Kudos makes it easy to give credit to contributors when committing changes through...
+      <title>ArchVerity - Sat Sep 12 17:57:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34234-archverity</link>
+      <description>Trace Spring HTTP and Kafka contracts before runtime. ArchVerity turns source code and configuration into an evidence-backed architecture workspace inside IntelliJ...
 
-vendor: Alex Blake-Goudemond
-downloads: 23
-pricingModel: FREE
-xmlId: Kudos</description>
-      <pubDate>Mon, 14 Sep 2026 04:47:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34212-kudos</guid>
-      <dc:date>2026-09-14T04:47:11Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Init Support - Sun Sep 13 08:37:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34167-spring-init-support</link>
-      <description>Adds a Spring Boot module to the build you already have. Generated through the public Spring Initializr REST API — start.spring.io by default, switchable to...
-
-vendor: hughedward
-downloads: 19
-pricingModel: FREE
-xmlId: io.github.hughedward.springinitsupport</description>
-      <pubDate>Sun, 13 Sep 2026 08:37:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34167-spring-init-support</guid>
-      <dc:date>2026-09-13T08:37:45Z</dc:date>
-    </item>
-    <item>
-      <title>Codex App Launcher [Beta] - Tue Sep 08 09:39:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34047-codex-app-launcher-beta-</link>
-      <description>English Codex App Launcher [Beta] connects IntelliJ IDEA with the Codex desktop app, making it easier to open projects and send precise code references without...
-
-vendor: 王勤奋
-downloads: 20
-pricingModel: FREE
-xmlId: com.wajnc.codex-app</description>
-      <pubDate>Tue, 08 Sep 2026 09:39:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34047-codex-app-launcher-beta-</guid>
-      <dc:date>2026-09-08T09:39:47Z</dc:date>
-    </item>
-    <item>
-      <title>React Native Workbench - Sat Sep 12 18:30:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34209-react-native-workbench</link>
-      <description>Run, inspect and stop React Native development sessions from one IDE workbench. Separate consoles for Metro, Android, iOS and release builds. Device and simulator...
-
-vendor: senjucao
-downloads: 71
-pricingModel: FREE
-xmlId: dev.senjucao.reactnativeworkbench</description>
-      <pubDate>Sat, 12 Sep 2026 18:30:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34209-react-native-workbench</guid>
-      <dc:date>2026-09-12T18:30:41Z</dc:date>
-    </item>
-    <item>
-      <title>Dual Terminal Windows - Fri Sep 11 02:12:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34208-dual-terminal-windows</link>
-      <description>Adds independently movable terminal tool windows to JetBrains IDEs for developers who want simultaneous shells in different places. Choose between one and four Extra...
-
-vendor: Sondre234
-downloads: 18
-pricingModel: FREE
-xmlId: dev.sondre.dual-terminal-tool-windows</description>
-      <pubDate>Fri, 11 Sep 2026 02:12:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34208-dual-terminal-windows</guid>
-      <dc:date>2026-09-11T02:12:27Z</dc:date>
-    </item>
-    <item>
-      <title>NexoRhino - Fri Sep 11 11:15:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34207-nexorhino</link>
-      <description>Educational Python type stubs for Rhino 8 / RhinoCommon, focused on Rhino.Geometry. Get code completion, signatures, navigation, and documentation in PyCharm. All...
-
-vendor: NexoNest
-downloads: 14
-pricingModel: FREE
-xmlId: com.nexonest.nexorhino</description>
-      <pubDate>Fri, 11 Sep 2026 11:15:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34207-nexorhino</guid>
-      <dc:date>2026-09-11T11:15:38Z</dc:date>
-    </item>
-    <item>
-      <title>Disable Default Maven Http Interceptor - Fri Sep 11 01:12:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34206-disable-default-maven-http-interceptor</link>
-      <description>The plugin disable the `maven-default-http-blocker` in bundled maven. It will run after IDEA startup and modify the bundled maven's settings.xml to delete the...
-
-vendor: wang tc
-downloads: 5
-pricingModel: FREE
-xmlId: io.github.cdgeass.disable-default-maven-http-interceptor</description>
-      <pubDate>Fri, 11 Sep 2026 01:12:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34206-disable-default-maven-http-interceptor</guid>
-      <dc:date>2026-09-11T01:12:24Z</dc:date>
-    </item>
-    <item>
-      <title>Get Off Color Scheme Font - Sat Sep 12 23:23:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34205-get-off-color-scheme-font</link>
-      <description>Does Use color scheme font instead of the default keep turning itself back on? This plugin keeps it off. No settings, no actions, no tool window: install it and forget...
-
-vendor: Nacho Esviza
-downloads: 28
-pricingModel: FREE
-xmlId: com.esviza.getOffColorSchemeFont</description>
-      <pubDate>Sat, 12 Sep 2026 23:23:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34205-get-off-color-scheme-font</guid>
-      <dc:date>2026-09-12T23:23:05Z</dc:date>
-    </item>
-    <item>
-      <title>Varro: OpenJet - Sun Sep 13 19:37:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34204-varro-openjet</link>
-      <description>OpenCode workbench for JetBrains IDEs Varro OpenJet runs OpenCode inside JetBrains IDEs. It adds project-aware chat, parallel sessions, plan and change review, model...
-
-vendor: Andrew Koltyakov
-downloads: 51
-pricingModel: FREE
-xmlId: dev.koltyakov.varro-openjet</description>
-      <pubDate>Sun, 13 Sep 2026 19:37:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34204-varro-openjet</guid>
-      <dc:date>2026-09-13T19:37:57Z</dc:date>
-    </item>
-    <item>
-      <title>Agenstorm - Mon Sep 14 12:29:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34147-agenstorm</link>
-      <description>Agenstorm removes the friction an agent-heavy workflow hits in the IDE every day. Coding agents changed what a working day looks like, and the IDE was not built for...
-
-vendor: pronskiy
-downloads: 18
-pricingModel: FREE
-xmlId: com.pronskiy.agenstorm</description>
-      <pubDate>Mon, 14 Sep 2026 12:29:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34147-agenstorm</guid>
-      <dc:date>2026-09-14T12:29:06Z</dc:date>
-    </item>
-    <item>
-      <title>GitLab Flavored Markdown Preview - Thu Sep 10 13:34:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34197-gitlab-flavored-markdown-preview</link>
-      <description>Renders GitLab Flavored Markdown in the built-in Markdown preview. Adds rendering for: collapsible sections - ::: details Title table of contents - [[_TOC_]] footnotes...
-
-vendor: Gryphou
-downloads: 13
-pricingModel: FREE
-xmlId: fr.gryphou.glfm</description>
-      <pubDate>Thu, 10 Sep 2026 13:34:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34197-gitlab-flavored-markdown-preview</guid>
-      <dc:date>2026-09-10T13:34:17Z</dc:date>
-    </item>
-    <item>
-      <title>++PHP - Thu Sep 10 14:53:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34151--php</link>
-      <description>Support for the ++PHP programming language. Edit .ppphp source with code completion, error checking, navigation, and refactoring. ++PHP extends PHP and compiles to...
-
-vendor: Atatusoft
-downloads: 13
-pricingModel: FREE
-xmlId: com.atatusoft.ppphp</description>
-      <pubDate>Thu, 10 Sep 2026 14:53:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34151--php</guid>
-      <dc:date>2026-09-10T14:53:56Z</dc:date>
-    </item>
-    <item>
-      <title>Python Environments - Thu Sep 10 10:46:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34200-python-environments</link>
-      <description>Manage Python versions, virtual environments and dependencies without leaving your IDE. Python Environments brings installed interpreters, project environments and...
-
-vendor: meanmail.dev
-downloads: 15
+vendor: ArchVerity
+downloads: 1
 pricingModel: PAID
-xmlId: dev.meanmail.plugin.python-environments</description>
-      <pubDate>Thu, 10 Sep 2026 10:46:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34200-python-environments</guid>
-      <dc:date>2026-09-10T10:46:05Z</dc:date>
+xmlId: com.pavelputrenkov.archflow.guard</description>
+      <pubDate>Sat, 12 Sep 2026 17:57:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34234-archverity</guid>
+      <dc:date>2026-09-12T17:57:07Z</dc:date>
     </item>
     <item>
-      <title>Whack a Mole - Thu Sep 10 09:55:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34199-whack-a-mole</link>
-      <description>A tiny whack-a-mole game living in your IDE tool window. Take a 30-second break between builds: moles pop up in a 3x3 grid, click them before they hide, and chase your...
+      <title>Angelina Progress Bar - Sat Sep 12 05:20:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33980-angelina-progress-bar</link>
+      <description>Replaces IntelliJ Platform progress bars with animated SVGs featuring Angelina the Mellow Wish (予愿安洁莉娜). Choose an animation Broom Ride Delivery Run Diving Choose an...
 
-vendor: whack-a-mole
-downloads: 6
+vendor: Angelina Progress Bar
+downloads: 2
 pricingModel: FREE
-xmlId: io.github.airport233.whack-a-mole</description>
-      <pubDate>Thu, 10 Sep 2026 09:55:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34199-whack-a-mole</guid>
-      <dc:date>2026-09-10T09:55:12Z</dc:date>
+xmlId: com.mikotokuroko.angelinaprogress</description>
+      <pubDate>Sat, 12 Sep 2026 05:20:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33980-angelina-progress-bar</guid>
+      <dc:date>2026-09-12T05:20:06Z</dc:date>
     </item>
     <item>
-      <title>cem - Fri Sep 11 14:58:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34196-cem</link>
-      <description>Run the cem CLI from inside PyCharm / IntelliJ IDEA / GoLand / WebStorm / RubyMine / PhpStorm / Rider / CLion. One AI thinks, another writes the code. Use a strong...
+      <title>Chart Flow - Sun Sep 13 14:08:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34246-chart-flow</link>
+      <description>One-click structured flow chart for the Java method under your caret. Right-click inside any method → Generate Code Flow Chart, or press Ctrl+Alt+Shift+G. The chart is...
 
-vendor: muslu
-downloads: 44
+vendor: 乾坤li
+downloads: 0
 pricingModel: FREE
-xmlId: dev.cempw.cem</description>
-      <pubDate>Fri, 11 Sep 2026 14:58:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34196-cem</guid>
-      <dc:date>2026-09-11T14:58:55Z</dc:date>
+xmlId: com.workbuddy.codeflowchart</description>
+      <pubDate>Sun, 13 Sep 2026 14:08:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34246-chart-flow</guid>
+      <dc:date>2026-09-13T14:08:34Z</dc:date>
     </item>
     <item>
-      <title>SSH File Explorer - Wed Sep 09 07:52:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34180-ssh-file-explorer</link>
-      <description>Connect to a remote host over SSH and browse its filesystem from a tool window on the left side of the IDE. SFTP based remote file tree with lazy loading Double click...
+      <title>UMD CS Submit Client - Fri Sep 11 17:16:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34222-umd-cs-submit-client</link>
+      <description>Import and submit University of Maryland computer science course projects from JetBrains IDEs. Supports the current browser/CAS verification workflow used by the UMD...
 
-vendor: Kutay
-downloads: 9
+vendor: Taha Cheji
+downloads: 2
 pricingModel: FREE
-xmlId: com.kutay.sshexplorer</description>
-      <pubDate>Wed, 09 Sep 2026 07:52:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34180-ssh-file-explorer</guid>
-      <dc:date>2026-09-09T07:52:27Z</dc:date>
+xmlId: com.tahacheji.cssubmitclient</description>
+      <pubDate>Fri, 11 Sep 2026 17:16:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34222-umd-cs-submit-client</guid>
+      <dc:date>2026-09-11T17:16:38Z</dc:date>
+    </item>
+    <item>
+      <title>WGSL / WESL - Sun Sep 13 23:01:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34248-wgsl--wesl</link>
+      <description>WGSL and WESL language support powered by wgsl-analyzer, with upstream TextMate grammars for syntax highlighting. Provides server-backed completion, diagnostics, hover...
+
+vendor: Mark Nefedov
+downloads: 0
+pricingModel: FREE
+xmlId: WGSL_WESL</description>
+      <pubDate>Sun, 13 Sep 2026 23:01:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34248-wgsl--wesl</guid>
+      <dc:date>2026-09-13T23:01:50Z</dc:date>
+    </item>
+    <item>
+      <title>Environment Switcher - Sun Sep 13 13:15:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34244-environment-switcher</link>
+      <description>Switch the environment your run configurations target from a dropdown in the toolbar, the way Postman switches environments. Define dev, test, staging, prod once...
+
+vendor: Environment Switcher
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.mnaami.environmentswitcher</description>
+      <pubDate>Sun, 13 Sep 2026 13:15:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34244-environment-switcher</guid>
+      <dc:date>2026-09-13T13:15:09Z</dc:date>
+    </item>
+    <item>
+      <title>Supabase Toolkit - Sun Sep 06 23:41:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34135-supabase-toolkit</link>
+      <description>Supabase Toolkit brings your Supabase project into the IDE so you stop switching to the dashboard and the terminal. Explore Schemas, tables, views, columns (types...
+
+vendor: Damian Boni
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: dev.supatoolkit</description>
+      <pubDate>Sun, 06 Sep 2026 23:41:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34135-supabase-toolkit</guid>
+      <dc:date>2026-09-06T23:41:12Z</dc:date>
+    </item>
+    <item>
+      <title>Writers Workbench - Sat Sep 12 16:26:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34150-writers-workbench</link>
+      <description>Writers Workbench brings prose, documentation, notes, Markdown, comments, and other writing-heavy project content into the same workflow as your code. Word count and...
+
+vendor: Tubalabs
+downloads: 2
+pricingModel: FREE
+xmlId: org.tubalabs.ideaplugins.writerstools</description>
+      <pubDate>Sat, 12 Sep 2026 16:26:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34150-writers-workbench</guid>
+      <dc:date>2026-09-12T16:26:46Z</dc:date>
+    </item>
+    <item>
+      <title>basedpython - Mon Sep 14 02:04:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33922-basedpython</link>
+      <description>PyCharm / IntelliJ support for basedpython — a Python superset (.by files) that transpiles to pure Python 3.10+. Wraps the by language server (type checking...
+
+vendor: Morgan Bartholomew
+downloads: 3
+pricingModel: FREE
+xmlId: dev.basedpython.ide</description>
+      <pubDate>Mon, 14 Sep 2026 02:04:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33922-basedpython</guid>
+      <dc:date>2026-09-14T02:04:23Z</dc:date>
+    </item>
+    <item>
+      <title>Almasix - Tue Sep 15 00:04:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34220-almasix</link>
+      <description>Almasix Idea — native Prism highlighting, deep completions and annotations via smith ide:index --json, and Smith run configs. Supports PyCharm Professional, PyCharm...
+
+vendor: Almasix
+downloads: 2
+pricingModel: FREE
+xmlId: com.almasix.ide</description>
+      <pubDate>Tue, 15 Sep 2026 00:04:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34220-almasix</guid>
+      <dc:date>2026-09-15T00:04:13Z</dc:date>
+    </item>
+    <item>
+      <title>CHRONOVAULT - Sat Sep 12 12:34:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34231-chronovault</link>
+      <description>Snapshot, verify, and restore the exact moments when your code worked. CHRONOVAULT records verified checkpoints of your project — each gated by a real build/test...
+
+vendor: Chronovault
+downloads: 3
+pricingModel: FREE
+xmlId: dev.chronovault</description>
+      <pubDate>Sat, 12 Sep 2026 12:34:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34231-chronovault</guid>
+      <dc:date>2026-09-12T12:34:56Z</dc:date>
+    </item>
+    <item>
+      <title>Saffron - Mon Sep 14 21:48:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34240-saffron</link>
+      <description>Saffron language support for JetBrains IDEs: IntelliJ IDEA, WebStorm, PyCharm, Rider, and the rest, including Community editions. Saffron is a Gherkin-native...
+
+vendor: Chathuranga Jayasinghe
+downloads: 0
+pricingModel: FREE
+xmlId: ai.saffron.jetbrains</description>
+      <pubDate>Mon, 14 Sep 2026 21:48:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34240-saffron</guid>
+      <dc:date>2026-09-14T21:48:20Z</dc:date>
+    </item>
+    <item>
+      <title>Compose Testability Linter - Mon Sep 14 20:26:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34235-compose-testability-linter</link>
+      <description>Compose Testability Linter — find the Compose UI your UI tests can't locate Jetpack Compose removed a guarantee the View system enforced. findViewById did not work...
+
+vendor: VadimToptunov
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.vadimtoptunov.testability-linter</description>
+      <pubDate>Mon, 14 Sep 2026 20:26:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34235-compose-testability-linter</guid>
+      <dc:date>2026-09-14T20:26:44Z</dc:date>
+    </item>
+    <item>
+      <title>CodeGenerate4J - Tue Sep 15 01:18:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34252-codegenerate4j</link>
+      <description>SQL DDL to MyBatis / MyBatis-Plus / JPA CRUD code. Paste a CREATE TABLE script into the CodeGenerate4J tool window and get a complete CRUD backend layer for MyBatis...
+
+vendor: tool4j
+downloads: 0
+pricingModel: FREE
+xmlId: com.tool4j.codegen</description>
+      <pubDate>Tue, 15 Sep 2026 01:18:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34252-codegenerate4j</guid>
+      <dc:date>2026-09-15T01:18:37Z</dc:date>
     </item>
   </channel>
 </rss>
