@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LogQuarry Log Viewer - Sat Sep 12 07:49:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34232-logquarry-log-viewer</link>
+      <description>Inspect local Serilog and ASP.NET logs inside your IDE. LogQuarry provides a read-only viewer with background indexing, event details, message templates, exceptions...
+
+vendor: DevCairn Labs
+downloads: 1
+pricingModel: PAID
+xmlId: com.logquarry</description>
+      <pubDate>Sat, 12 Sep 2026 07:49:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34232-logquarry-log-viewer</guid>
+      <dc:date>2026-09-12T07:49:58Z</dc:date>
+    </item>
+    <item>
+      <title>MicroGulp - Wed Sep 16 12:16:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34255-microgulp</link>
+      <description>Rock your Gulp! An interactive near-zero-latency task orchestrator with rich visuals, webview controls, and audio feedback. Works in IntelliJ IDEA, PhpStorm, WebStorm...
+
+vendor: Meinolf Amekudzi
+downloads: 1
+pricingModel: FREE
+xmlId: de.amekudzi.microgulp</description>
+      <pubDate>Wed, 16 Sep 2026 12:16:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34255-microgulp</guid>
+      <dc:date>2026-09-16T12:16:34Z</dc:date>
+    </item>
+    <item>
+      <title>gopdsdk - Wed Sep 16 15:41:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34245-gopdsdk</link>
+      <description>Playdate diagnostics and safe fixes in GoLand, powered by gopdsdk. The plugin connects GoLand to the gopdsdk language server and reports Playdate-specific...
+
+vendor: gopdsdk
+downloads: 2
+pricingModel: FREE
+xmlId: dev.gopdsdk</description>
+      <pubDate>Wed, 16 Sep 2026 15:41:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34245-gopdsdk</guid>
+      <dc:date>2026-09-16T15:41:20Z</dc:date>
+    </item>
+    <item>
       <title>LinearPilot - Fri Aug 21 05:22:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/33706-linearpilot</link>
       <description>Manage Linear issues without leaving your JetBrains IDE. Search recently updated issues or open an issue by identifier. Inspect descriptions, teams, workflow states...
@@ -190,7 +229,7 @@ xmlId: dev.ghostflyby.gradle-typesafe-conventions</description>
     <item>
       <title>Tolgee - Sat Sep 12 21:29:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34224-tolgee</link>
-      <description>Tolgee for JetBrains Community-maintained by a Tolgee core contributor. Not (yet) part of the official Tolgee product family — support and bug reports go through the...
+      <description>Tolgee for JetBrains Bring the Tolgee localization platform into your IDE. Push, pull, and autocomplete translation keys — with ICU parameter support — without leaving...
 
 vendor: Dmitrii Bocharov
 downloads: 2
@@ -225,45 +264,6 @@ xmlId: com.renhongtao.redisinspector</description>
       <pubDate>Tue, 15 Sep 2026 02:56:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34127-redis-inspector</guid>
       <dc:date>2026-09-15T02:56:26Z</dc:date>
-    </item>
-    <item>
-      <title>Keystore Inspector - Tue Sep 15 02:56:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34126-keystore-inspector</link>
-      <description>Inspect Java keystores and certificates without leaving the IDE. Opens .jks, .pkcs12, .p12, .pfx files — double click and browse Expiry highlighting: certificates...
-
-vendor: renhongtao
-downloads: 3
-pricingModel: FREE
-xmlId: com.renhongtao.certinspector</description>
-      <pubDate>Tue, 15 Sep 2026 02:56:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34126-keystore-inspector</guid>
-      <dc:date>2026-09-15T02:56:12Z</dc:date>
-    </item>
-    <item>
-      <title>Overview Diff - Wed Sep 16 11:42:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34306-overview-diff</link>
-      <description>Review coding agent changes faster in Java/Kotlin projects. Overview Diff shows changed declarations instead of only changed text lines. Review fields, methods...
-
-vendor: FLUXparticle
-downloads: 0
-pricingModel: FREE
-xmlId: de.fluxparticle.overview</description>
-      <pubDate>Wed, 16 Sep 2026 11:42:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34306-overview-diff</guid>
-      <dc:date>2026-09-16T11:42:02Z</dc:date>
-    </item>
-    <item>
-      <title>SqlD-Lite Syntax - Wed Sep 16 10:29:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34288-sqld-lite-syntax</link>
-      <description>Syntax highlighting and code navigation for SqlDelight .sq and .sqm files.
-
-vendor: sishbi
-downloads: 0
-pricingModel: FREE
-xmlId: sishbi.sqld-lite-syntax</description>
-      <pubDate>Wed, 16 Sep 2026 10:29:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34288-sqld-lite-syntax</guid>
-      <dc:date>2026-09-16T10:29:12Z</dc:date>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|26.9.0|[nodejs.org](https://nodejs.org)|Wed Sep 16 22:41:37 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.3 (262.10968.63) ~ 2026-09-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 16 15:43:31 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 14 17:22:14 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.4732.28) ~ 2026-09-11|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Sep 11 19:05:43 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|26.8.2|[nodejs.org](https://nodejs.org)|Wed Sep 09 22:19:00 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.21.0|[nodejs.org](https://nodejs.org)|Wed Sep 09 08:40:27 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.1|[golang.org](https://golang.org/dl/)|Tue Sep 01 22:10:03 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:29 UTC 2026|
