@@ -1,7 +1,7 @@
 FAILED
 
 <pre>Checker class biz.lermitage.sub.service.checker.impl.InkscapeChecker failed, ignoring
-java.io.IOException: Server returned HTTP response code: 504 for URL: https://inkscape.org/release/inkscape-1.4.4/
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://inkscape.org/release/
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1706)
 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1305)
 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223)
