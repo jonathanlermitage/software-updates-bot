@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.5 to 20.0.0 ~ 2026-09-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Sep 17 19:37:54 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.9.0|[nodejs.org](https://nodejs.org)|Wed Sep 16 22:41:37 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.3 (262.10968.63) ~ 2026-09-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 16 15:43:31 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 14 17:22:14 UTC 2026|
@@ -13,7 +14,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Aug 25 08:28:26 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Aug 24 12:23:34 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Aug 24 12:23:33 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.0 to 19.9.5 ~ 2026-08-22|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Aug 23 00:50:28 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 16:18:47 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:27 UTC 2026|
