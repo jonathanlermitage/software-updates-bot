@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>OpenCode Buddy - Thu Sep 17 11:03:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34304-opencode-buddy</link>
+      <description>GUI for OpenCode inside your IDE - MIT 100% Open Source IDE 内的 OpenCode 可视化 GUI · MIT 100% 开源 OpenCode Buddy 为 opencode（开源 AI 编程代理）提供原生 JetBrains IDE 体验： 通过本地 opencode...
+
+vendor: SenjuObito
+downloads: 0
+pricingModel: FREE
+xmlId: com.senjuobito.opencode-buddy</description>
+      <pubDate>Thu, 17 Sep 2026 11:03:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34304-opencode-buddy</guid>
+      <dc:date>2026-09-17T11:03:15Z</dc:date>
+    </item>
+    <item>
       <title>VisuaL - Algorithm Debugger Visualizer - Thu Sep 17 05:33:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34318-visual--algorithm-debugger-visualizer</link>
       <description>VisuaL is an algorithm visualizer plugin for IntelliJ IDEA that animates algorithms live as you step through your code in the IntelliJ native debugger. VisuaL opens an...
@@ -32,7 +45,7 @@ xmlId: com.master.materialsymbol.MaterialSymbolIcons</description>
       <dc:date>2026-09-16T15:38:57Z</dc:date>
     </item>
     <item>
-      <title>MCP Debugger - Thu Sep 17 06:48:34 UTC 2026</title>
+      <title>MCP Debugger - Thu Sep 17 09:08:50 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34320-mcp-debugger</link>
       <description>Postman-style console for MCP (Model Context Protocol) servers, inside your IDE. Point MCP Debugger at a local stdio server (npx / uvx / docker / a plain executable...
 
@@ -40,12 +53,12 @@ vendor: tool4j
 downloads: 0
 pricingModel: FREE
 xmlId: com.tool4j.mcp.debug</description>
-      <pubDate>Thu, 17 Sep 2026 06:48:34 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:08:50 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34320-mcp-debugger</guid>
-      <dc:date>2026-09-17T06:48:34Z</dc:date>
+      <dc:date>2026-09-17T09:08:50Z</dc:date>
     </item>
     <item>
-      <title>Jeels Json to Dart - Thu Sep 17 06:31:28 UTC 2026</title>
+      <title>Jeels Json to Dart - Thu Sep 17 09:56:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34317-jeels-json-to-dart</link>
       <description>Generate Dart model classes instantly from pasted JSON. Right-click any folder → New → Jeels JSON to Dart, paste your JSON, and get clean, null-safe Dart model classes...
 
@@ -53,9 +66,9 @@ vendor: Jeel
 downloads: 0
 pricingModel: FREE
 xmlId: com.jeelchandegra.jsontodart</description>
-      <pubDate>Thu, 17 Sep 2026 06:31:28 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:56:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34317-jeels-json-to-dart</guid>
-      <dc:date>2026-09-17T06:31:28Z</dc:date>
+      <dc:date>2026-09-17T09:56:38Z</dc:date>
     </item>
     <item>
       <title>GitLabPlus - Thu Sep 17 03:00:51 UTC 2026</title>
@@ -123,7 +136,7 @@ xmlId: com.infomaniak.MoreUsageFilters</description>
       <dc:date>2026-09-16T14:04:00Z</dc:date>
     </item>
     <item>
-      <title>Tapestry 5 Support (Community Fork) - Thu Sep 17 05:08:35 UTC 2026</title>
+      <title>Tapestry 5 Support (Community Fork) - Thu Sep 17 09:16:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34307-tapestry-5-support-community-fork-</link>
       <description>Community-maintained support for Apache Tapestry 5. This fork is not affiliated with or endorsed by JetBrains. Distributed under the Apache License 2.0.
 
@@ -131,9 +144,9 @@ vendor: Frederic Ramanda
 downloads: 0
 pricingModel: FREE
 xmlId: io.github.ramanda.tapestry</description>
-      <pubDate>Thu, 17 Sep 2026 05:08:35 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 09:16:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34307-tapestry-5-support-community-fork-</guid>
-      <dc:date>2026-09-17T05:08:35Z</dc:date>
+      <dc:date>2026-09-17T09:16:19Z</dc:date>
     </item>
     <item>
       <title>Changelog Pilot - Wed Sep 16 20:30:20 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.erahtin.fieldColorizer.FieldColorizer</description>
       <pubDate>Tue, 15 Sep 2026 16:32:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34239-fieldcolorizer</guid>
       <dc:date>2026-09-15T16:32:32Z</dc:date>
-    </item>
-    <item>
-      <title>Git Reflog - Tue Sep 15 15:51:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34293-git-reflog</link>
-      <description>Adds a Reflog tab to the Git tool window. The tab shows the entries of git reflog for the current repository, so that commits that are no longer reachable from any...
-
-vendor: Martin Lopatář (@loplex)
-downloads: 4
-pricingModel: FREE
-xmlId: cz.loplex.ij-git-reflog</description>
-      <pubDate>Tue, 15 Sep 2026 15:51:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34293-git-reflog</guid>
-      <dc:date>2026-09-15T15:51:46Z</dc:date>
     </item>
   </channel>
 </rss>
