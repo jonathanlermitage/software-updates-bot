@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>OpenCode Buddy - Thu Sep 17 11:03:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34304-opencode-buddy</link>
-      <description>GUI for OpenCode inside your IDE - MIT 100% Open Source IDE 内的 OpenCode 可视化 GUI · MIT 100% 开源 OpenCode Buddy 为 opencode（开源 AI 编程代理）提供原生 JetBrains IDE 体验： 通过本地 opencode...
+      <title>XC Tasks - Fri Sep 18 07:50:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34345-xc-tasks</link>
+      <description>IntelliJ plugin to allow running xc tasks.
 
-vendor: SenjuObito
-downloads: 15
+vendor: Simon Brunning
+downloads: 0
 pricingModel: FREE
-xmlId: com.senjuobito.opencode-buddy</description>
-      <pubDate>Thu, 17 Sep 2026 11:03:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34304-opencode-buddy</guid>
-      <dc:date>2026-09-17T11:03:15Z</dc:date>
+xmlId: com.github.brunns.xcintellij</description>
+      <pubDate>Fri, 18 Sep 2026 07:50:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34345-xc-tasks</guid>
+      <dc:date>2026-09-18T07:50:59Z</dc:date>
     </item>
     <item>
-      <title>VisuaL - Algorithm Debugger Visualizer - Thu Sep 17 05:33:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34318-visual--algorithm-debugger-visualizer</link>
-      <description>VisuaL is an algorithm visualizer plugin for IntelliJ IDEA that animates algorithms live as you step through your code in the IntelliJ native debugger. VisuaL opens an...
+      <title>Geo Viewer Plus - Fri Sep 18 08:49:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34346-geo-viewer-plus</link>
+      <description>A focused Geo Viewer panel for database result sets: map points, lines and polygons with free basemap switching and Z-axis scaling.
 
-vendor: VisuaL
-downloads: 4
+vendor: luqiu
+downloads: 0
 pricingModel: FREE
-xmlId: com.visual.plugin</description>
-      <pubDate>Thu, 17 Sep 2026 05:33:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34318-visual--algorithm-debugger-visualizer</guid>
-      <dc:date>2026-09-17T05:33:27Z</dc:date>
+xmlId: cn.duqimeng.geo-viewer-plus</description>
+      <pubDate>Fri, 18 Sep 2026 08:49:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34346-geo-viewer-plus</guid>
+      <dc:date>2026-09-18T08:49:10Z</dc:date>
     </item>
     <item>
-      <title>MaterialSymbolIcon - Wed Sep 16 15:38:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34310-materialsymbolicon</link>
-      <description>MaterialSymbolIcon A unified developer tool for Android Studio and IntelliJ IDEA to download, convert, and manage icons (Google Material Symbols, Apple SF Symbols, and...
+      <title>Send Code to Terminal - Fri Sep 18 10:57:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34349-send-code-to-terminal</link>
+      <description>Send the current line or selected code directly to the active IDE terminal and execute it. Works with single-line and multi-line selections while keeping focus in the...
 
-vendor: Pankaj Sharma
-downloads: 9
+vendor: dutu
+downloads: 0
 pricingModel: FREE
-xmlId: com.master.materialsymbol.MaterialSymbolIcons</description>
-      <pubDate>Wed, 16 Sep 2026 15:38:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34310-materialsymbolicon</guid>
-      <dc:date>2026-09-16T15:38:57Z</dc:date>
+xmlId: io.github.dutu.send2terminal</description>
+      <pubDate>Fri, 18 Sep 2026 10:57:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34349-send-code-to-terminal</guid>
+      <dc:date>2026-09-18T10:57:32Z</dc:date>
     </item>
     <item>
-      <title>MCP Debugger - Thu Sep 17 09:08:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34320-mcp-debugger</link>
-      <description>Postman-style console for MCP (Model Context Protocol) servers, inside your IDE. Point MCP Debugger at a local stdio server (npx / uvx / docker / a plain executable...
+      <title>Code Comment Navigator - Wed Sep 16 06:40:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34287-code-comment-navigator</link>
+      <description>Navigate SQL and HTTP comments in a collapsible outline on the right side of the editor. Code Comment Navigator is free and open source under the MIT License...
 
-vendor: tool4j
-downloads: 20
-pricingModel: FREE
-xmlId: com.tool4j.mcp.debug</description>
-      <pubDate>Thu, 17 Sep 2026 09:08:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34320-mcp-debugger</guid>
-      <dc:date>2026-09-17T09:08:50Z</dc:date>
-    </item>
-    <item>
-      <title>Jeels Json to Dart - Thu Sep 17 09:56:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34317-jeels-json-to-dart</link>
-      <description>Generate Dart model classes instantly from pasted JSON. Right-click any folder → New → Jeels JSON to Dart, paste your JSON, and get clean, null-safe Dart model classes...
-
-vendor: Jeel
-downloads: 17
-pricingModel: FREE
-xmlId: com.jeelchandegra.jsontodart</description>
-      <pubDate>Thu, 17 Sep 2026 09:56:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34317-jeels-json-to-dart</guid>
-      <dc:date>2026-09-17T09:56:38Z</dc:date>
-    </item>
-    <item>
-      <title>GitLabPlus - Thu Sep 17 03:00:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34316-gitlabplus</link>
-      <description>GitLabPlus - Create and view GitLab Merge Requests in IntelliJ IDEA. 在 IDE 中快速创建 / 查看 GitLab Merge Request。 自动识别当前项目的 GitLab 远程仓库 基于源/目标分支差异 commit 自动生成 MR 标题...
-
-vendor: cn3shy
-downloads: 6
-pricingModel: FREE
-xmlId: cn.3shy.gitlabplus</description>
-      <pubDate>Thu, 17 Sep 2026 03:00:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34316-gitlabplus</guid>
-      <dc:date>2026-09-17T03:00:51Z</dc:date>
-    </item>
-    <item>
-      <title>Lark Env - Thu Sep 17 05:37:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34319-lark-env</link>
-      <description>Load environment variables from a Feishu/Lark cloud document before local Java Run or Debug. Lark Env is an independent third-party plugin by wufly, not affiliated...
-
-vendor: wufly
-downloads: 2
-pricingModel: FREE
-xmlId: com.hxl.tools.larkenv</description>
-      <pubDate>Thu, 17 Sep 2026 05:37:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34319-lark-env</guid>
-      <dc:date>2026-09-17T05:37:25Z</dc:date>
-    </item>
-    <item>
-      <title>CollectionSync - Thu Sep 17 16:12:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34315-collectionsync</link>
-      <description>Keep your Postman and Insomnia collections in sync with your code. CollectionSync — Endpoint Coverage Tracker compares the REST endpoints declared in your Java project...
-
-vendor: Luis Pepe
-downloads: 11
-pricingModel: FREE
-xmlId: com.luisppb16.collectionsync</description>
-      <pubDate>Thu, 17 Sep 2026 16:12:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34315-collectionsync</guid>
-      <dc:date>2026-09-17T16:12:27Z</dc:date>
-    </item>
-    <item>
-      <title>GitLab Pipeline Viewer - Wed Sep 16 14:39:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34309-gitlab-pipeline-viewer</link>
-      <description>View, trigger, and manage GitLab CI/CD pipelines directly inside IntelliJ IDEA. No need to switch to a browser: browse pipeline status, inspect build logs, and...
-
-vendor: qingjiao-chan
-downloads: 7
-pricingModel: FREE
-xmlId: com.gitlab.pipeline.viewer</description>
-      <pubDate>Wed, 16 Sep 2026 14:39:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34309-gitlab-pipeline-viewer</guid>
-      <dc:date>2026-09-16T14:39:23Z</dc:date>
-    </item>
-    <item>
-      <title>More Usage Filters - Wed Sep 16 14:04:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34308-more-usage-filters</link>
-      <description>Two extra filter toggles for the Find Usages tool window and the Show Usages popup (Cmd+B / Ctrl+B), next to the built-in Show Import Statements and Show Generated...
-
-vendor: Infomaniak
-downloads: 7
-pricingModel: FREE
-xmlId: com.infomaniak.MoreUsageFilters</description>
-      <pubDate>Wed, 16 Sep 2026 14:04:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34308-more-usage-filters</guid>
-      <dc:date>2026-09-16T14:04:00Z</dc:date>
-    </item>
-    <item>
-      <title>Tapestry 5 Support (Community Fork) - Thu Sep 17 09:16:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34307-tapestry-5-support-community-fork-</link>
-      <description>Community-maintained support for Apache Tapestry 5. This fork is not affiliated with or endorsed by JetBrains. Distributed under the Apache License 2.0.
-
-vendor: Frederic Ramanda
-downloads: 10
-pricingModel: FREE
-xmlId: io.github.ramanda.tapestry</description>
-      <pubDate>Thu, 17 Sep 2026 09:16:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34307-tapestry-5-support-community-fork-</guid>
-      <dc:date>2026-09-17T09:16:19Z</dc:date>
-    </item>
-    <item>
-      <title>Changelog Pilot - Wed Sep 16 20:30:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34314-changelog-pilot</link>
-      <description>Turn a bounded local Git commit range into a reviewable Markdown changelog.
-
-vendor: Magika
-downloads: 4
-pricingModel: FREE
-xmlId: dev.changelogpilot.local</description>
-      <pubDate>Wed, 16 Sep 2026 20:30:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34314-changelog-pilot</guid>
-      <dc:date>2026-09-16T20:30:20Z</dc:date>
-    </item>
-    <item>
-      <title>MCP Server Extension - Thu Sep 17 19:44:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34264-mcp-server-extension</link>
-      <description>Extends the JetBrains MCP Server with IDE observability and control for Rider. Extend observation and control of your Rider IDE with any AI agent for full potential...
-
-vendor: Tropin Alexey
-downloads: 15
-pricingModel: FREE
-xmlId: com.github.tropin.rider-mcp</description>
-      <pubDate>Thu, 17 Sep 2026 19:44:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34264-mcp-server-extension</guid>
-      <dc:date>2026-09-17T19:44:45Z</dc:date>
-    </item>
-    <item>
-      <title>FlagScope - Wed Sep 16 20:24:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34313-flagscope</link>
-      <description>Local heuristic feature-flag navigation for JVM and JavaScript/TypeScript projects.
-
-vendor: Magika
+vendor: Fuuqiu
 downloads: 3
 pricingModel: FREE
-xmlId: dev.flagscope.navigator</description>
-      <pubDate>Wed, 16 Sep 2026 20:24:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34313-flagscope</guid>
-      <dc:date>2026-09-16T20:24:10Z</dc:date>
+xmlId: cn.tinyue.commentnavigation</description>
+      <pubDate>Wed, 16 Sep 2026 06:40:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34287-code-comment-navigator</guid>
+      <dc:date>2026-09-16T06:40:41Z</dc:date>
     </item>
     <item>
-      <title>Flutter ADB - Wed Sep 16 19:16:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34312-flutter-adb</link>
-      <description>ADB app actions (uninstall, kill, start, restart, clear data, permissions) for Flutter projects in Android Studio, without needing a synced Android module.
+      <title>Object Workbench - Fri Sep 18 07:52:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34343-object-workbench</link>
+      <description>Object Workbench lets you create and manage live instances of your project classes directly inside IntelliJ IDEA. You can inspect object fields, invoke methods...
 
-vendor: Husain Mukadam
-downloads: 5
+vendor: Destion GmbH
+downloads: 0
 pricingModel: FREE
-xmlId: dev.husainmukadam.flutteradb</description>
-      <pubDate>Wed, 16 Sep 2026 19:16:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34312-flutter-adb</guid>
-      <dc:date>2026-09-16T19:16:10Z</dc:date>
+xmlId: at.destion.object-workbench</description>
+      <pubDate>Fri, 18 Sep 2026 07:52:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34343-object-workbench</guid>
+      <dc:date>2026-09-18T07:52:11Z</dc:date>
     </item>
     <item>
-      <title>LogQuarry Log Viewer - Sat Sep 12 07:49:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34232-logquarry-log-viewer</link>
-      <description>Inspect local Serilog and ASP.NET logs inside your IDE. LogQuarry provides a read-only viewer with background indexing, event details, message templates, exceptions...
+      <title>AI Relay - Fri Sep 18 12:43:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34342-ai-relay</link>
+      <description>AI Relay — Claude, Gemini and Copilot as coding agents in your IDE One chat panel, three agents, over the whole project: Claude through the Claude Code CLI you are...
 
-vendor: DevCairn Labs
-downloads: 8
-pricingModel: PAID
-xmlId: com.logquarry</description>
-      <pubDate>Sat, 12 Sep 2026 07:49:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34232-logquarry-log-viewer</guid>
-      <dc:date>2026-09-12T07:49:58Z</dc:date>
-    </item>
-    <item>
-      <title>MicroGulp - Wed Sep 16 12:16:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34255-microgulp</link>
-      <description>Rock your Gulp! An interactive near-zero-latency task orchestrator with rich visuals, webview controls, and audio feedback. Works in IntelliJ IDEA, PhpStorm, WebStorm...
-
-vendor: Meinolf Amekudzi
-downloads: 20
+vendor: Chelayel
+downloads: 0
 pricingModel: FREE
-xmlId: de.amekudzi.microgulp</description>
-      <pubDate>Wed, 16 Sep 2026 12:16:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34255-microgulp</guid>
-      <dc:date>2026-09-16T12:16:34Z</dc:date>
+xmlId: com.chelayel.airelay</description>
+      <pubDate>Fri, 18 Sep 2026 12:43:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34342-ai-relay</guid>
+      <dc:date>2026-09-18T12:43:00Z</dc:date>
     </item>
     <item>
-      <title>gopdsdk - Wed Sep 16 15:41:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34245-gopdsdk</link>
-      <description>Playdate diagnostics and safe fixes in GoLand, powered by gopdsdk. The plugin connects GoLand to the gopdsdk language server and reports Playdate-specific...
+      <title>Tokitoki - Fri Sep 18 03:50:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34340-tokitoki</link>
+      <description>Automatic coding time tracking plus AI usage analytics for Claude Code, Codex, Copilot, and more, on your Tokitoki dashboard. Automatic time tracking. Just code...
 
-vendor: gopdsdk
-downloads: 12
+vendor: Tokitoki
+downloads: 0
 pricingModel: FREE
-xmlId: dev.gopdsdk</description>
-      <pubDate>Wed, 16 Sep 2026 15:41:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34245-gopdsdk</guid>
-      <dc:date>2026-09-16T15:41:20Z</dc:date>
+xmlId: dev.tokitoki.jetbrains</description>
+      <pubDate>Fri, 18 Sep 2026 03:50:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34340-tokitoki</guid>
+      <dc:date>2026-09-18T03:50:16Z</dc:date>
     </item>
     <item>
-      <title>LinearPilot - Fri Aug 21 05:22:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33706-linearpilot</link>
-      <description>Manage Linear issues without leaving your JetBrains IDE. Search recently updated issues or open an issue by identifier. Inspect descriptions, teams, workflow states...
+      <title>Linden Scripting Language (LSL) - Fri Sep 18 01:47:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34339-linden-scripting-language-lsl-</link>
+      <description>Write your Linden Scripting Language (LSL) scripts in modern JetBrains IDEs. This plugin is a modernized fork of the original Linden Script ​(LSL) - riej​. Project...
 
-vendor: Jiezan Tech
-downloads: 8
-pricingModel: PAID
-xmlId: com.jiezantech.linearpilot</description>
-      <pubDate>Fri, 21 Aug 2026 05:22:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33706-linearpilot</guid>
-      <dc:date>2026-08-21T05:22:57Z</dc:date>
-    </item>
-    <item>
-      <title>FieldColorizer - Tue Sep 15 16:32:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34239-fieldcolorizer</link>
-      <description>FieldColorizer helps you visually distinguish application layers by highlighting class/field names based on custom suffixes. Right-click any field, define a suffix...
-
-vendor: VitaliyErakhtin
-downloads: 16
+vendor: Kool
+downloads: 0
 pricingModel: FREE
-xmlId: com.erahtin.fieldColorizer.FieldColorizer</description>
-      <pubDate>Tue, 15 Sep 2026 16:32:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34239-fieldcolorizer</guid>
-      <dc:date>2026-09-15T16:32:32Z</dc:date>
+xmlId: io.github.koollsl.intellij-lsl</description>
+      <pubDate>Fri, 18 Sep 2026 01:47:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34339-linden-scripting-language-lsl-</guid>
+      <dc:date>2026-09-18T01:47:53Z</dc:date>
+    </item>
+    <item>
+      <title>Webpack Entry Navigator - Thu Sep 17 22:16:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34338-webpack-entry-navigator</link>
+      <description>Navigate from Webpack entry names to their source files.
+
+vendor: Webpack Entry Navigator
+downloads: 0
+pricingModel: FREE
+xmlId: fr.alexisnoblet.webpack-entry-navigator</description>
+      <pubDate>Thu, 17 Sep 2026 22:16:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34338-webpack-entry-navigator</guid>
+      <dc:date>2026-09-17T22:16:14Z</dc:date>
+    </item>
+    <item>
+      <title>Semantic Syntax - Thu Sep 17 12:48:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34329-semantic-syntax</link>
+      <description>Semantic Programming Language for JetBrains High-quality editor support for the Semantic Programming Language in JetBrains IDEs. Semantic Programming Language is a...
+
+vendor: SemanticProgrammingLanguage
+downloads: 1
+pricingModel: FREE
+xmlId: com.semanticprogramminglanguage.jetbrains.syntax</description>
+      <pubDate>Thu, 17 Sep 2026 12:48:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34329-semantic-syntax</guid>
+      <dc:date>2026-09-17T12:48:21Z</dc:date>
+    </item>
+    <item>
+      <title>Kubernetes Removed API Lint - Thu Sep 17 11:39:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34326-kubernetes-removed-api-lint</link>
+      <description>Finds the apiVersions kubectl no longer serves (extensions/v1beta1, batch/v1beta1 CronJob, policy/v1beta1 PDB, PodSecurityPolicy, autoscaling/v2beta2) in the YAML open...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.k8s-removed-api-lint</description>
+      <pubDate>Thu, 17 Sep 2026 11:39:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34326-kubernetes-removed-api-lint</guid>
+      <dc:date>2026-09-17T11:39:03Z</dc:date>
+    </item>
+    <item>
+      <title>Preflight - Thu Sep 17 10:05:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34322-preflight</link>
+      <description>Preflight is your personal local code reviewing tool In my current workflow, I am constantly reviewing code generated by AI agents. But reviewing the code without...
+
+vendor: ForcepushDev
+downloads: 0
+pricingModel: FREE
+xmlId: com.forcepushdev.preflight</description>
+      <pubDate>Thu, 17 Sep 2026 10:05:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34322-preflight</guid>
+      <dc:date>2026-09-17T10:05:57Z</dc:date>
+    </item>
+    <item>
+      <title>YAML to Properties Preview - Thu Sep 17 09:38:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34321-yaml-to-properties-preview</link>
+      <description>View YAML and YML configuration as searchable, read-only Properties without changing the source file. Open a YAML file and select the Properties editor tab. Search...
+
+vendor: wufly
+downloads: 0
+pricingModel: FREE
+xmlId: dev.yml2pro.idea</description>
+      <pubDate>Thu, 17 Sep 2026 09:38:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34321-yaml-to-properties-preview</guid>
+      <dc:date>2026-09-17T09:38:41Z</dc:date>
+    </item>
+    <item>
+      <title>Pettering Around - Thu Sep 17 20:13:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34337-pettering-around</link>
+      <description>A tiny pixel-art cat that lives in your editor. It walks along the lines of your code, springs up to the first line of a block, curls up in a deeply nested one, and...
+
+vendor: olcayhank
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.olcayhan.petteringaround</description>
+      <pubDate>Thu, 17 Sep 2026 20:13:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34337-pettering-around</guid>
+      <dc:date>2026-09-17T20:13:19Z</dc:date>
+    </item>
+    <item>
+      <title>Mario AI Debug Assistant - Thu Sep 17 17:34:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34335-mario-ai-debug-assistant</link>
+      <description>Investigate bugs using the current editor selection, stack traces, Git changes, and optional Loki logs. Analyze evidence with DeepSeek, OpenAI, Ollama, or a custom...
+
+vendor: mario
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.marioaimrl.aidebugassistant</description>
+      <pubDate>Thu, 17 Sep 2026 17:34:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34335-mario-ai-debug-assistant</guid>
+      <dc:date>2026-09-17T17:34:09Z</dc:date>
+    </item>
+    <item>
+      <title>Multi-Launch Configuration - Fri Sep 18 10:20:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34324-multi-launch-configuration</link>
+      <description>Adds the Multi-Launch run configuration. A Multi-Launch run configuration starts several run configurations and tasks together. You set the start order and a start...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.execution.multilaunch</description>
+      <pubDate>Fri, 18 Sep 2026 10:20:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34324-multi-launch-configuration</guid>
+      <dc:date>2026-09-18T10:20:27Z</dc:date>
+    </item>
+    <item>
+      <title>Split with Chooser - Fri Sep 18 10:19:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34325-split-with-chooser</link>
+      <description>Provides Open in Split with Chooser action for editor tabs.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.splitchooser.plugin</description>
+      <pubDate>Fri, 18 Sep 2026 10:19:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34325-split-with-chooser</guid>
+      <dc:date>2026-09-18T10:19:43Z</dc:date>
+    </item>
+    <item>
+      <title>Angular Files Navigator - Thu Sep 17 17:28:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34334-angular-files-navigator</link>
+      <description>Angular Files Navigator Jump instantly between the files that make up an Angular building block. Put the caret in any file of a component or NgRx feature and press...
+
+vendor: VNA
+downloads: 0
+pricingModel: FREE
+xmlId: com.vna.angularfilesnavigator</description>
+      <pubDate>Thu, 17 Sep 2026 17:28:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34334-angular-files-navigator</guid>
+      <dc:date>2026-09-17T17:28:19Z</dc:date>
+    </item>
+    <item>
+      <title>IllumiComments - Thu Sep 17 14:23:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34328-illumicomments</link>
+      <description>Displays images inline in the code editor, directly below C# XML doc comments containing &amp;lt;image url="..." scale="0.5" /&amp;gt; tag (the src attribute name works too...
+
+vendor: stanac
+downloads: 0
+pricingModel: FREE
+xmlId: dev.stanac.illumicomments</description>
+      <pubDate>Thu, 17 Sep 2026 14:23:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34328-illumicomments</guid>
+      <dc:date>2026-09-17T14:23:03Z</dc:date>
+    </item>
+    <item>
+      <title>Github Copilot sessions - Fri Sep 18 10:05:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34330-github-copilot-sessions</link>
+      <description>Export and import GitHub Copilot chat sessions. The plugin reads the local Copilot storage (~/.copilot/session-store.db and ~/.copilot/session-state) and the session...
+
+vendor: Fabio Pelliccia
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.fabiopelliccia.copilotsessionsimportexport</description>
+      <pubDate>Fri, 18 Sep 2026 10:05:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34330-github-copilot-sessions</guid>
+      <dc:date>2026-09-18T10:05:07Z</dc:date>
     </item>
   </channel>
 </rss>

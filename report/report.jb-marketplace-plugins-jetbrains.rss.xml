@@ -5,5 +5,31 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>Multi-Launch Configuration - Fri Sep 18 10:20:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34324-multi-launch-configuration</link>
+      <description>Adds the Multi-Launch run configuration. A Multi-Launch run configuration starts several run configurations and tasks together. You set the start order and a start...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: intellij.execution.multilaunch</description>
+      <pubDate>Fri, 18 Sep 2026 10:20:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34324-multi-launch-configuration</guid>
+      <dc:date>2026-09-18T10:20:27Z</dc:date>
+    </item>
+    <item>
+      <title>Split with Chooser - Fri Sep 18 10:19:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34325-split-with-chooser</link>
+      <description>Provides Open in Split with Chooser action for editor tabs.
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.splitchooser.plugin</description>
+      <pubDate>Fri, 18 Sep 2026 10:19:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34325-split-with-chooser</guid>
+      <dc:date>2026-09-18T10:19:43Z</dc:date>
+    </item>
   </channel>
 </rss>
