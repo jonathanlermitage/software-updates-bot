@@ -11,7 +11,7 @@
       <description>GUI for OpenCode inside your IDE - MIT 100% Open Source IDE 内的 OpenCode 可视化 GUI · MIT 100% 开源 OpenCode Buddy 为 opencode（开源 AI 编程代理）提供原生 JetBrains IDE 体验： 通过本地 opencode...
 
 vendor: SenjuObito
-downloads: 0
+downloads: 15
 pricingModel: FREE
 xmlId: com.senjuobito.opencode-buddy</description>
       <pubDate>Thu, 17 Sep 2026 11:03:15 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.senjuobito.opencode-buddy</description>
       <description>VisuaL is an algorithm visualizer plugin for IntelliJ IDEA that animates algorithms live as you step through your code in the IntelliJ native debugger. VisuaL opens an...
 
 vendor: VisuaL
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.visual.plugin</description>
       <pubDate>Thu, 17 Sep 2026 05:33:27 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.visual.plugin</description>
       <description>MaterialSymbolIcon A unified developer tool for Android Studio and IntelliJ IDEA to download, convert, and manage icons (Google Material Symbols, Apple SF Symbols, and...
 
 vendor: Pankaj Sharma
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.master.materialsymbol.MaterialSymbolIcons</description>
       <pubDate>Wed, 16 Sep 2026 15:38:57 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.master.materialsymbol.MaterialSymbolIcons</description>
       <description>Postman-style console for MCP (Model Context Protocol) servers, inside your IDE. Point MCP Debugger at a local stdio server (npx / uvx / docker / a plain executable...
 
 vendor: tool4j
-downloads: 0
+downloads: 20
 pricingModel: FREE
 xmlId: com.tool4j.mcp.debug</description>
       <pubDate>Thu, 17 Sep 2026 09:08:50 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.tool4j.mcp.debug</description>
       <description>Generate Dart model classes instantly from pasted JSON. Right-click any folder → New → Jeels JSON to Dart, paste your JSON, and get clean, null-safe Dart model classes...
 
 vendor: Jeel
-downloads: 0
+downloads: 17
 pricingModel: FREE
 xmlId: com.jeelchandegra.jsontodart</description>
       <pubDate>Thu, 17 Sep 2026 09:56:38 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.jeelchandegra.jsontodart</description>
       <description>GitLabPlus - Create and view GitLab Merge Requests in IntelliJ IDEA. 在 IDE 中快速创建 / 查看 GitLab Merge Request。 自动识别当前项目的 GitLab 远程仓库 基于源/目标分支差异 commit 自动生成 MR 标题...
 
 vendor: cn3shy
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: cn.3shy.gitlabplus</description>
       <pubDate>Thu, 17 Sep 2026 03:00:51 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: cn.3shy.gitlabplus</description>
       <description>Load environment variables from a Feishu/Lark cloud document before local Java Run or Debug. Lark Env is an independent third-party plugin by wufly, not affiliated...
 
 vendor: wufly
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.hxl.tools.larkenv</description>
       <pubDate>Thu, 17 Sep 2026 05:37:25 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.hxl.tools.larkenv</description>
       <description>Keep your Postman and Insomnia collections in sync with your code. CollectionSync — Endpoint Coverage Tracker compares the REST endpoints declared in your Java project...
 
 vendor: Luis Pepe
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.luisppb16.collectionsync</description>
       <pubDate>Thu, 17 Sep 2026 16:12:27 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.luisppb16.collectionsync</description>
       <description>View, trigger, and manage GitLab CI/CD pipelines directly inside IntelliJ IDEA. No need to switch to a browser: browse pipeline status, inspect build logs, and...
 
 vendor: qingjiao-chan
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.gitlab.pipeline.viewer</description>
       <pubDate>Wed, 16 Sep 2026 14:39:23 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.gitlab.pipeline.viewer</description>
       <description>Two extra filter toggles for the Find Usages tool window and the Show Usages popup (Cmd+B / Ctrl+B), next to the built-in Show Import Statements and Show Generated...
 
 vendor: Infomaniak
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.infomaniak.MoreUsageFilters</description>
       <pubDate>Wed, 16 Sep 2026 14:04:00 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.infomaniak.MoreUsageFilters</description>
       <description>Community-maintained support for Apache Tapestry 5. This fork is not affiliated with or endorsed by JetBrains. Distributed under the Apache License 2.0.
 
 vendor: Frederic Ramanda
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: io.github.ramanda.tapestry</description>
       <pubDate>Thu, 17 Sep 2026 09:16:19 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: io.github.ramanda.tapestry</description>
       <description>Turn a bounded local Git commit range into a reviewable Markdown changelog.
 
 vendor: Magika
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: dev.changelogpilot.local</description>
       <pubDate>Wed, 16 Sep 2026 20:30:20 GMT</pubDate>
@@ -162,17 +162,17 @@ xmlId: dev.changelogpilot.local</description>
       <dc:date>2026-09-16T20:30:20Z</dc:date>
     </item>
     <item>
-      <title>MCP Server Extension - Thu Sep 17 05:57:25 UTC 2026</title>
+      <title>MCP Server Extension - Thu Sep 17 19:44:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34264-mcp-server-extension</link>
       <description>Extends the JetBrains MCP Server with IDE observability and control for Rider. Extend observation and control of your Rider IDE with any AI agent for full potential...
 
 vendor: Tropin Alexey
-downloads: 7
+downloads: 15
 pricingModel: FREE
 xmlId: com.github.tropin.rider-mcp</description>
-      <pubDate>Thu, 17 Sep 2026 05:57:25 GMT</pubDate>
+      <pubDate>Thu, 17 Sep 2026 19:44:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34264-mcp-server-extension</guid>
-      <dc:date>2026-09-17T05:57:25Z</dc:date>
+      <dc:date>2026-09-17T19:44:45Z</dc:date>
     </item>
     <item>
       <title>FlagScope - Wed Sep 16 20:24:10 UTC 2026</title>
@@ -180,7 +180,7 @@ xmlId: com.github.tropin.rider-mcp</description>
       <description>Local heuristic feature-flag navigation for JVM and JavaScript/TypeScript projects.
 
 vendor: Magika
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: dev.flagscope.navigator</description>
       <pubDate>Wed, 16 Sep 2026 20:24:10 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.flagscope.navigator</description>
       <description>ADB app actions (uninstall, kill, start, restart, clear data, permissions) for Flutter projects in Android Studio, without needing a synced Android module.
 
 vendor: Husain Mukadam
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: dev.husainmukadam.flutteradb</description>
       <pubDate>Wed, 16 Sep 2026 19:16:10 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: dev.husainmukadam.flutteradb</description>
       <description>Inspect local Serilog and ASP.NET logs inside your IDE. LogQuarry provides a read-only viewer with background indexing, event details, message templates, exceptions...
 
 vendor: DevCairn Labs
-downloads: 3
+downloads: 8
 pricingModel: PAID
 xmlId: com.logquarry</description>
       <pubDate>Sat, 12 Sep 2026 07:49:58 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.logquarry</description>
       <description>Rock your Gulp! An interactive near-zero-latency task orchestrator with rich visuals, webview controls, and audio feedback. Works in IntelliJ IDEA, PhpStorm, WebStorm...
 
 vendor: Meinolf Amekudzi
-downloads: 10
+downloads: 20
 pricingModel: FREE
 xmlId: de.amekudzi.microgulp</description>
       <pubDate>Wed, 16 Sep 2026 12:16:34 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: de.amekudzi.microgulp</description>
       <description>Playdate diagnostics and safe fixes in GoLand, powered by gopdsdk. The plugin connects GoLand to the gopdsdk language server and reports Playdate-specific...
 
 vendor: gopdsdk
-downloads: 9
+downloads: 12
 pricingModel: FREE
 xmlId: dev.gopdsdk</description>
       <pubDate>Wed, 16 Sep 2026 15:41:20 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: dev.gopdsdk</description>
       <description>Manage Linear issues without leaving your JetBrains IDE. Search recently updated issues or open an issue by identifier. Inspect descriptions, teams, workflow states...
 
 vendor: Jiezan Tech
-downloads: 4
+downloads: 8
 pricingModel: PAID
 xmlId: com.jiezantech.linearpilot</description>
       <pubDate>Fri, 21 Aug 2026 05:22:57 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.jiezantech.linearpilot</description>
       <description>FieldColorizer helps you visually distinguish application layers by highlighting class/field names based on custom suffixes. Right-click any field, define a suffix...
 
 vendor: VitaliyErakhtin
-downloads: 11
+downloads: 16
 pricingModel: FREE
 xmlId: com.erahtin.fieldColorizer.FieldColorizer</description>
       <pubDate>Tue, 15 Sep 2026 16:32:32 GMT</pubDate>
