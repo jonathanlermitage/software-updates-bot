@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Fast Excel Viewer - Wed Sep 16 06:34:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34120-fast-excel-viewer</link>
+      <description>Fast, streaming viewer for Excel (.xlsx/.xlsm) files inside JetBrains IDEs. Opens files of any size — streaming parse, memory stays flat Multi-sheet navigation...
+
+vendor: renhongtao
+downloads: 4
+pricingModel: FREE
+xmlId: com.renhongtao.fastexcelviewer</description>
+      <pubDate>Wed, 16 Sep 2026 06:34:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34120-fast-excel-viewer</guid>
+      <dc:date>2026-09-16T06:34:13Z</dc:date>
+    </item>
+    <item>
       <title>XC Tasks - Fri Sep 18 07:50:59 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34345-xc-tasks</link>
       <description>IntelliJ plugin to allow running xc tasks.
@@ -58,7 +71,7 @@ xmlId: cn.tinyue.commentnavigation</description>
       <dc:date>2026-09-16T06:40:41Z</dc:date>
     </item>
     <item>
-      <title>Object Workbench - Fri Sep 18 07:52:11 UTC 2026</title>
+      <title>Object Workbench - Fri Sep 18 16:35:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34343-object-workbench</link>
       <description>Object Workbench lets you create and manage live instances of your project classes directly inside IntelliJ IDEA. You can inspect object fields, invoke methods...
 
@@ -66,9 +79,9 @@ vendor: Destion GmbH
 downloads: 0
 pricingModel: FREE
 xmlId: at.destion.object-workbench</description>
-      <pubDate>Fri, 18 Sep 2026 07:52:11 GMT</pubDate>
+      <pubDate>Fri, 18 Sep 2026 16:35:38 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34343-object-workbench</guid>
-      <dc:date>2026-09-18T07:52:11Z</dc:date>
+      <dc:date>2026-09-18T16:35:38Z</dc:date>
     </item>
     <item>
       <title>AI Relay - Fri Sep 18 12:43:00 UTC 2026</title>
@@ -110,7 +123,7 @@ xmlId: io.github.koollsl.intellij-lsl</description>
       <dc:date>2026-09-18T01:47:53Z</dc:date>
     </item>
     <item>
-      <title>Webpack Entry Navigator - Thu Sep 17 22:16:14 UTC 2026</title>
+      <title>Webpack Entry Navigator - Fri Sep 18 17:27:59 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34338-webpack-entry-navigator</link>
       <description>Navigate from Webpack entry names to their source files.
 
@@ -118,9 +131,9 @@ vendor: Webpack Entry Navigator
 downloads: 0
 pricingModel: FREE
 xmlId: fr.alexisnoblet.webpack-entry-navigator</description>
-      <pubDate>Thu, 17 Sep 2026 22:16:14 GMT</pubDate>
+      <pubDate>Fri, 18 Sep 2026 17:27:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34338-webpack-entry-navigator</guid>
-      <dc:date>2026-09-17T22:16:14Z</dc:date>
+      <dc:date>2026-09-18T17:27:59Z</dc:date>
     </item>
     <item>
       <title>Semantic Syntax - Thu Sep 17 12:48:21 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: dev.stanac.illumicomments</description>
       <pubDate>Thu, 17 Sep 2026 14:23:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34328-illumicomments</guid>
       <dc:date>2026-09-17T14:23:03Z</dc:date>
-    </item>
-    <item>
-      <title>Github Copilot sessions - Fri Sep 18 10:05:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34330-github-copilot-sessions</link>
-      <description>Export and import GitHub Copilot chat sessions. The plugin reads the local Copilot storage (~/.copilot/session-store.db and ~/.copilot/session-state) and the session...
-
-vendor: Fabio Pelliccia
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.fabiopelliccia.copilotsessionsimportexport</description>
-      <pubDate>Fri, 18 Sep 2026 10:05:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34330-github-copilot-sessions</guid>
-      <dc:date>2026-09-18T10:05:07Z</dc:date>
     </item>
   </channel>
 </rss>
