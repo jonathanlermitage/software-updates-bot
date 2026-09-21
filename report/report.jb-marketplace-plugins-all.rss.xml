@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Cronet Network Inspector - Sun Sep 20 10:10:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34379-cronet-network-inspector</link>
+      <description>Live network traffic inspection for apps using Cronet, mirroring Android Studio's built-in Network Inspector (which does not support Cronet). See the project plan's...
+
+vendor: Jitin Sharma
+downloads: 0
+pricingModel: FREE
+xmlId: com.jitinsharma.cronetinspector.ideaplugin</description>
+      <pubDate>Sun, 20 Sep 2026 10:10:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34379-cronet-network-inspector</guid>
+      <dc:date>2026-09-20T10:10:14Z</dc:date>
+    </item>
+    <item>
+      <title>GitLab Pipeline Notifier - Mon Sep 21 09:44:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33915-gitlab-pipeline-notifier</link>
+      <description>Watches GitLab CI pipelines over the GitLab REST API and raises a hard-to-miss alerts when one fails. By default it alerts on pipelines you triggered in the GitLab...
+
+vendor: Hugo Palma
+downloads: 8
+pricingModel: FREE
+xmlId: org.hugopalma.gitlabpipelinenotifier</description>
+      <pubDate>Mon, 21 Sep 2026 09:44:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33915-gitlab-pipeline-notifier</guid>
+      <dc:date>2026-09-21T09:44:52Z</dc:date>
+    </item>
+    <item>
+      <title>VibeSSH - Sun Sep 20 11:05:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34381-vibessh</link>
+      <description>Build here, run it on your server. Sends the artifact your build just produced to an application managed by VibeSSH and restarts it - without leaving the IDE. A...
+
+vendor: VibeSSH
+downloads: 1
+pricingModel: FREE
+xmlId: dev.vibessh.ide</description>
+      <pubDate>Sun, 20 Sep 2026 11:05:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34381-vibessh</guid>
+      <dc:date>2026-09-20T11:05:32Z</dc:date>
+    </item>
+    <item>
+      <title>MyBatis Bridge - Mon Sep 21 01:53:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34394-mybatis-bridge</link>
+      <description>Free navigation between MyBatis mapper interfaces and XML statements.
+
+vendor: Yimeng
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.mybatisbridge</description>
+      <pubDate>Mon, 21 Sep 2026 01:53:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34394-mybatis-bridge</guid>
+      <dc:date>2026-09-21T01:53:22Z</dc:date>
+    </item>
+    <item>
+      <title>Open in Kitty Terminal - Mon Sep 21 08:19:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34402-open-in-kitty-terminal</link>
+      <description>Fast and convenient action to open the directory of any file or folder directly in Kitty Terminal. Supports Project View context menu, Editor context menu, and Editor...
+
+vendor: 氦朋软件
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.kitty.terminal</description>
+      <pubDate>Mon, 21 Sep 2026 08:19:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34402-open-in-kitty-terminal</guid>
+      <dc:date>2026-09-21T08:19:19Z</dc:date>
+    </item>
+    <item>
+      <title>D-SQL Converter - Sun Sep 20 09:50:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34378-d-sql-converter</link>
+      <description>D-SQL Converter is a powerful IntelliJ IDEA plugin that converts MyBatis logs into executable SQL statements. 功能特点 | Features: &#x1f680; 一键转换 - 在编辑器/控制台右键即可将 MyBatis 日志转换为可执行...
+
+vendor: DYW
+downloads: 0
+pricingModel: FREE
+xmlId: cn.diyongwen.sql.converter</description>
+      <pubDate>Sun, 20 Sep 2026 09:50:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34378-d-sql-converter</guid>
+      <dc:date>2026-09-20T09:50:12Z</dc:date>
+    </item>
+    <item>
+      <title>piBridge for pi coding agent - Sun Sep 20 08:54:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34377-pibridge-for-pi-coding-agent</link>
+      <description>Provides IDE context integration for the pi coding agent (similar to Claude Code's IDE integration). Runs a local WebSocket service (ws://127.0.0.1:5808) that pushes...
+
+vendor: lebron
+downloads: 0
+pricingModel: FREE
+xmlId: com.lebron.pibridge</description>
+      <pubDate>Sun, 20 Sep 2026 08:54:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34377-pibridge-for-pi-coding-agent</guid>
+      <dc:date>2026-09-20T08:54:41Z</dc:date>
+    </item>
+    <item>
       <title>IDE Agent - Sun Sep 20 06:56:16 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34241-ide-agent</link>
       <description>IDE Agent — your models, your data, your machine A real coding agent inside PyCharm — that leaves nothing outside your network. IDE Agent is a PyCharm coding agent you...
@@ -173,97 +264,6 @@ xmlId: com.reqws.workspace</description>
       <pubDate>Sun, 20 Sep 2026 15:01:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34389-reqws</guid>
       <dc:date>2026-09-20T15:01:58Z</dc:date>
-    </item>
-    <item>
-      <title>JSON Canopy - Sun Sep 20 14:51:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34365-json-canopy</link>
-      <description>JSON Canopy opens .json files as nested, filterable, editable tables instead of raw text, in an extra tab next to the built-in JSON editor. Explore Objects and arrays...
-
-vendor: Sonensei.ch
-downloads: 1
-pricingModel: FREE
-xmlId: ch.sonensei.canopy</description>
-      <pubDate>Sun, 20 Sep 2026 14:51:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34365-json-canopy</guid>
-      <dc:date>2026-09-20T14:51:56Z</dc:date>
-    </item>
-    <item>
-      <title>insrc - Sun Sep 20 15:33:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34341-insrc</link>
-      <description>insrc brings the insrc code-knowledge system into the JetBrains IDE family — IntelliJ IDEA, PyCharm, GoLand, and WebStorm — from a single install. It is a thin...
-
-vendor: insors
-downloads: 4
-pricingModel: FREE
-xmlId: ai.insors.insrc</description>
-      <pubDate>Sun, 20 Sep 2026 15:33:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34341-insrc</guid>
-      <dc:date>2026-09-20T15:33:21Z</dc:date>
-    </item>
-    <item>
-      <title>Blade Vue Connector - Sat Sep 19 18:21:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34369-blade-vue-connector</link>
-      <description>Connects Vue components used in Laravel Blade views to their .vue files. For Vue apps mounted on Blade layouts, where component tags such as &amp;lt;text-input&amp;gt; are...
-
-vendor: Taner
-downloads: 2
-pricingModel: FREE
-xmlId: blade-vue-connector</description>
-      <pubDate>Sat, 19 Sep 2026 18:21:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34369-blade-vue-connector</guid>
-      <dc:date>2026-09-19T18:21:14Z</dc:date>
-    </item>
-    <item>
-      <title>easyDeploy - Sun Sep 20 03:56:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34373-easydeploy</link>
-      <description>easyDeploy is a deployment plugin for IntelliJ IDEA, inspired by the Deploy to Host feature of Alibaba Cloud Toolkit. It uploads build artifacts to remote hosts over...
-
-vendor: devHotSwap
-downloads: 4
-pricingModel: FREE
-xmlId: com.easydeploy.deploy</description>
-      <pubDate>Sun, 20 Sep 2026 03:56:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34373-easydeploy</guid>
-      <dc:date>2026-09-20T03:56:31Z</dc:date>
-    </item>
-    <item>
-      <title>Excel to Android Strings - Sun Sep 20 03:53:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34374-excel-to-android-strings</link>
-      <description>Convert Excel (.xls) multilingual data to Android res/values-*/strings.xml files. Supports all languages, automatic string escaping, and merge with existing resources.
-
-vendor: wangyue
-downloads: 2
-pricingModel: FREE
-xmlId: com.wy.exceltoxml</description>
-      <pubDate>Sun, 20 Sep 2026 03:53:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34374-excel-to-android-strings</guid>
-      <dc:date>2026-09-20T03:53:53Z</dc:date>
-    </item>
-    <item>
-      <title>Blockbench - Sun Sep 20 03:02:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34370-blockbench</link>
-      <description>Edit Blockbench models without leaving your JetBrains IDE. Open a .bbmodel file to use the embedded Blockbench editor. Models are loaded directly from disk, and...
-
-vendor: Kernel Panic
-downloads: 3
-pricingModel: FREE
-xmlId: net.kernelpanicsoft.blockbenchidea</description>
-      <pubDate>Sun, 20 Sep 2026 03:02:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34370-blockbench</guid>
-      <dc:date>2026-09-20T03:02:43Z</dc:date>
-    </item>
-    <item>
-      <title>open-java-format - Fri Sep 18 18:49:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34359-open-java-format</link>
-      <description>Formats Java code with open-java-format, a maintained fork of palantir-java-format: 120 columns, 4-space indents and lambda-friendly line breaking. With the plugin...
-
-vendor: open-java-format
-downloads: 1
-pricingModel: FREE
-xmlId: open-java-format</description>
-      <pubDate>Fri, 18 Sep 2026 18:49:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34359-open-java-format</guid>
-      <dc:date>2026-09-18T18:49:50Z</dc:date>
     </item>
   </channel>
 </rss>
