@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Cronet Network Inspector - Sun Sep 20 10:10:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34379-cronet-network-inspector</link>
-      <description>Live network traffic inspection for apps using Cronet, mirroring Android Studio's built-in Network Inspector (which does not support Cronet). See the project plan's...
+      <title>Git Line Blame - Tue Sep 22 10:25:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34423-git-line-blame</link>
+      <description>Shows the author, date-time and commit subject of the latest commit for the current line, right at the end of the line in the editor. A lightweight alternative to...
 
-vendor: Jitin Sharma
-downloads: 5
+vendor: obedz
+downloads: 0
 pricingModel: FREE
-xmlId: com.jitinsharma.cronetinspector.ideaplugin</description>
-      <pubDate>Sun, 20 Sep 2026 10:10:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34379-cronet-network-inspector</guid>
-      <dc:date>2026-09-20T10:10:14Z</dc:date>
+xmlId: io.github.obedz.gitlineblame</description>
+      <pubDate>Tue, 22 Sep 2026 10:25:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34423-git-line-blame</guid>
+      <dc:date>2026-09-22T10:25:10Z</dc:date>
     </item>
     <item>
-      <title>GitLab Pipeline Notifier - Mon Sep 21 09:44:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33915-gitlab-pipeline-notifier</link>
-      <description>Watches GitLab CI pipelines over the GitLab REST API and raises a hard-to-miss alerts when one fails. By default it alerts on pipelines you triggered in the GitLab...
+      <title>Pi GUI - Thu Sep 17 02:51:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34238-pi-gui</link>
+      <description>A JetBrains UI for the pi AI coding agent. Not affiliated with JetBrains or with the authors of pi. Chat with pi inside the IDE. Conversation and settings surfaces use...
 
-vendor: Hugo Palma
-downloads: 23
-pricingModel: FREE
-xmlId: org.hugopalma.gitlabpipelinenotifier</description>
-      <pubDate>Mon, 21 Sep 2026 09:44:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33915-gitlab-pipeline-notifier</guid>
-      <dc:date>2026-09-21T09:44:52Z</dc:date>
-    </item>
-    <item>
-      <title>VibeSSH - Sun Sep 20 11:05:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34381-vibessh</link>
-      <description>Build here, run it on your server. Sends the artifact your build just produced to an application managed by VibeSSH and restarts it - without leaving the IDE. A...
-
-vendor: VibeSSH
-downloads: 7
-pricingModel: FREE
-xmlId: dev.vibessh.ide</description>
-      <pubDate>Sun, 20 Sep 2026 11:05:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34381-vibessh</guid>
-      <dc:date>2026-09-20T11:05:32Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatis Bridge - Mon Sep 21 01:53:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34394-mybatis-bridge</link>
-      <description>Free navigation between MyBatis mapper interfaces and XML statements.
-
-vendor: Yimeng
+vendor: cativen
 downloads: 4
 pricingModel: FREE
-xmlId: io.github.mybatisbridge</description>
-      <pubDate>Mon, 21 Sep 2026 01:53:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34394-mybatis-bridge</guid>
-      <dc:date>2026-09-21T01:53:22Z</dc:date>
+xmlId: dev.pi.pigui</description>
+      <pubDate>Thu, 17 Sep 2026 02:51:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34238-pi-gui</guid>
+      <dc:date>2026-09-17T02:51:20Z</dc:date>
     </item>
     <item>
-      <title>Open in Kitty Terminal - Mon Sep 21 08:19:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34402-open-in-kitty-terminal</link>
-      <description>Fast and convenient action to open the directory of any file or folder directly in Kitty Terminal. Supports Project View context menu, Editor context menu, and Editor...
+      <title>WCDK R2DBC Support - Tue Sep 22 09:32:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34422-wcdk-r2dbc-support</link>
+      <description>WCDK R2DBC Support provides navigation and editor assistance for WCDK R2DBC XML repositories. WCDK-R2DBC 辅助插件 It links repository namespaces, statement IDs, result...
 
-vendor: 氦朋软件
-downloads: 8
+vendor: WCDK
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.kitty.terminal</description>
-      <pubDate>Mon, 21 Sep 2026 08:19:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34402-open-in-kitty-terminal</guid>
-      <dc:date>2026-09-21T08:19:19Z</dc:date>
+xmlId: com.wcdk.r2dbc.idea</description>
+      <pubDate>Tue, 22 Sep 2026 09:32:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34422-wcdk-r2dbc-support</guid>
+      <dc:date>2026-09-22T09:32:47Z</dc:date>
     </item>
     <item>
-      <title>D-SQL Converter - Sun Sep 20 09:50:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34378-d-sql-converter</link>
-      <description>D-SQL Converter is a powerful IntelliJ IDEA plugin that converts MyBatis logs into executable SQL statements. 功能特点 | Features: &#x1f680; 一键转换 - 在编辑器/控制台右键即可将 MyBatis 日志转换为可执行...
+      <title>Voice Input - Tue Sep 22 09:06:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34388-voice-input</link>
+      <description>Voice Input adds local speech-to-text dictation to IntelliJ IDEA. Press Meta+V to start recording and press it again to transcribe your speech directly into the active...
 
-vendor: DYW
+vendor: Federico Carpeggiani
 downloads: 2
 pricingModel: FREE
-xmlId: cn.diyongwen.sql.converter</description>
-      <pubDate>Sun, 20 Sep 2026 09:50:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34378-d-sql-converter</guid>
-      <dc:date>2026-09-20T09:50:12Z</dc:date>
+xmlId: it.federico.voiceinput</description>
+      <pubDate>Tue, 22 Sep 2026 09:06:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34388-voice-input</guid>
+      <dc:date>2026-09-22T09:06:24Z</dc:date>
     </item>
     <item>
-      <title>piBridge for pi coding agent - Sun Sep 20 08:54:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34377-pibridge-for-pi-coding-agent</link>
-      <description>Provides IDE context integration for the pi coding agent (similar to Claude Code's IDE integration). Runs a local WebSocket service (ws://127.0.0.1:5808) that pushes...
+      <title>Nest Switch - Fri Sep 18 18:02:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34358-nest-switch</link>
+      <description>Jumping around a NestJS module means hunting through the project tree: the controller is next to the service, but the DTOs are in dto/, the entity is in entities/, and...
 
-vendor: lebron
+vendor: Abdurrahman Hafez
+downloads: 1
+pricingModel: FREE
+xmlId: dev.hafez.nestswitch</description>
+      <pubDate>Fri, 18 Sep 2026 18:02:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34358-nest-switch</guid>
+      <dc:date>2026-09-18T18:02:08Z</dc:date>
+    </item>
+    <item>
+      <title>Lerd - Tue Sep 22 11:08:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34420-lerd</link>
+      <description>Manage your Lerd local PHP environment from the IDE. The project you open resolves to exactly one Lerd site, and its logs, PHP version, workers, services, queries and...
+
+vendor: Lerd
+downloads: 0
+pricingModel: FREE
+xmlId: sh.lerd.ide</description>
+      <pubDate>Tue, 22 Sep 2026 11:08:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34420-lerd</guid>
+      <dc:date>2026-09-22T11:08:46Z</dc:date>
+    </item>
+    <item>
+      <title>ZCode Web - Tue Sep 22 03:55:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34418-zcode-web</link>
+      <description>ZCode Web brings your local ZCode (zai-org/ZCode) chat workspace into a PhpStorm tool window. Drag files or folders from the IDE into the chat input, or select code in...
+
+vendor: aicn
+downloads: 0
+pricingModel: FREE
+xmlId: com.aicn.zcode</description>
+      <pubDate>Tue, 22 Sep 2026 03:55:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34418-zcode-web</guid>
+      <dc:date>2026-09-22T03:55:52Z</dc:date>
+    </item>
+    <item>
+      <title>LogCraft - Mon Sep 21 03:14:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34397-logcraft</link>
+      <description>LogCraft is a free, private, local-first log pipeline workbench for Grok, ECS, Logstash, pasted Kafka messages, and safe log sharing inside your JetBrains IDE. It is...
+
+vendor: LogCraft
+downloads: 1
+pricingModel: FREE
+xmlId: vn.logcraft</description>
+      <pubDate>Mon, 21 Sep 2026 03:14:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34397-logcraft</guid>
+      <dc:date>2026-09-21T03:14:10Z</dc:date>
+    </item>
+    <item>
+      <title>File Lock Inspector - Tue Sep 22 01:28:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34214-file-lock-inspector</link>
+      <description>English Diagnose Windows file usage from Gradle build errors or a selected file. Inspect detected processes and explicitly terminate selected processes. 简体中文 从 Gradle...
+
+vendor: anjiemo
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.anjiemo.filelockinspector</description>
+      <pubDate>Tue, 22 Sep 2026 01:28:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34214-file-lock-inspector</guid>
+      <dc:date>2026-09-22T01:28:20Z</dc:date>
+    </item>
+    <item>
+      <title>TabCue: Visual Terminal Tabs - Tue Sep 22 01:03:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34417-tabcue-visual-terminal-tabs</link>
+      <description>Give every terminal tab its own colour, emoji, icon and text colour, so five open terminals stop looking like one terminal. I kept losing track of which was which. npm...
+
+vendor: Liam Stewart
+downloads: 0
+pricingModel: FREE
+xmlId: ca.liamstewart.tabcue</description>
+      <pubDate>Tue, 22 Sep 2026 01:03:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34417-tabcue-visual-terminal-tabs</guid>
+      <dc:date>2026-09-22T01:03:46Z</dc:date>
+    </item>
+    <item>
+      <title>Candela - Mon Sep 21 23:31:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33855-candela</link>
+      <description>Editor support for the candela language: .cdl source files. Syntax highlighting ships with the plugin. Diagnostics, hover, completion, outline, and go to definition...
+
+vendor: Stel Studio Inc
+downloads: 0
+pricingModel: FREE
+xmlId: dev.lumenfx.candela</description>
+      <pubDate>Mon, 21 Sep 2026 23:31:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33855-candela</guid>
+      <dc:date>2026-09-21T23:31:24Z</dc:date>
+    </item>
+    <item>
+      <title>PopType Zoom - Mon Sep 21 21:55:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34415-poptype-zoom</link>
+      <description>Adds colorful zoom-and-fade animations to characters as you type in JetBrains editors. Each typed glyph is painted as a temporary enlarged overlay, then smoothly...
+
+vendor: warpedcanadian
+downloads: 0
+pricingModel: FREE
+xmlId: com.poptype.zoom</description>
+      <pubDate>Mon, 21 Sep 2026 21:55:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34415-poptype-zoom</guid>
+      <dc:date>2026-09-21T21:55:19Z</dc:date>
+    </item>
+    <item>
+      <title>Playbook Navigator - Mon Sep 21 19:31:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34414-playbook-navigator</link>
+      <description>Focused, local Ansible support for JetBrains IDEs. Free: completion and Quick Documentation for Ansible modules, parameters and supported values. Pro: navigation to...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.callsiq.playbooknavigator</description>
+      <pubDate>Mon, 21 Sep 2026 19:31:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34414-playbook-navigator</guid>
+      <dc:date>2026-09-21T19:31:48Z</dc:date>
+    </item>
+    <item>
+      <title>LogHue - Mon Sep 21 19:13:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34413-loghue</link>
+      <description>View ANSI-colored logs without leaving the IDE. LogHue renders ANSI-coloured sequences in a read-only editor while keeping the source log unchanged. Free: ANSI 16...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: io.loghue.freemium</description>
+      <pubDate>Mon, 21 Sep 2026 19:13:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34413-loghue</guid>
+      <dc:date>2026-09-21T19:13:40Z</dc:date>
+    </item>
+    <item>
+      <title>IconDeck - Mon Sep 21 19:00:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34412-icondeck</link>
+      <description>Clearer projects at a glance, with a useful free core. IconDeck replaces generic Project view file and folder icons with a focused, local catalog for build tools, CI...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: io.icondeck</description>
+      <pubDate>Mon, 21 Sep 2026 19:00:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34412-icondeck</guid>
+      <dc:date>2026-09-21T19:00:47Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode Terminal Launcher - Mon Sep 21 18:38:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34411-opencode-terminal-launcher</link>
+      <description>OpenCode Terminal Launcher A fast, seamless IntelliJ IDEA extension that adds a header toolbar button and a dedicated keyboard shortcut to open the integrated terminal...
+
+vendor: João Alves
+downloads: 0
+pricingModel: FREE
+xmlId: com.jnart.opencode.intellij-opencode-plugin</description>
+      <pubDate>Mon, 21 Sep 2026 18:38:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34411-opencode-terminal-launcher</guid>
+      <dc:date>2026-09-21T18:38:58Z</dc:date>
+    </item>
+    <item>
+      <title>Duke Engine - Tue Sep 22 04:18:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34409-duke-engine</link>
+      <description>Editor support for the files that hold a Duke Engine game's content: its .duke data files — its world, its maps, units, projectiles, effects, sounds. Duke Engine is a...
+
+vendor: Duke Engine
+downloads: 0
+pricingModel: FREE
+xmlId: uz.dukeengine.plugin</description>
+      <pubDate>Tue, 22 Sep 2026 04:18:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34409-duke-engine</guid>
+      <dc:date>2026-09-22T04:18:58Z</dc:date>
+    </item>
+    <item>
+      <title>Spotless Formatter - Mon Sep 21 16:45:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34407-spotless-formatter</link>
+      <description>A plugin to use Formatter XML and Import Order files via Spotless logic within IntelliJ IDEA. Allows configuring paths to these files and provides an on-save action to...
+
+vendor: Tobias K.
+downloads: 0
+pricingModel: FREE
+xmlId: de.spotlessformatplugin.SpotlessFormatPlugin</description>
+      <pubDate>Mon, 21 Sep 2026 16:45:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34407-spotless-formatter</guid>
+      <dc:date>2026-09-21T16:45:30Z</dc:date>
+    </item>
+    <item>
+      <title>Slang [Unofficial] Refined - Mon Sep 21 16:23:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34360-slang-unofficial-refined</link>
+      <description>I didn't find any working slang lsps here, so I just took one and added a lot of features that make it work. So this plugin gives you everything, code completion...
+
+vendor: machinemaslo
 downloads: 2
 pricingModel: FREE
-xmlId: com.lebron.pibridge</description>
-      <pubDate>Sun, 20 Sep 2026 08:54:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34377-pibridge-for-pi-coding-agent</guid>
-      <dc:date>2026-09-20T08:54:41Z</dc:date>
+xmlId: slanglsp_r</description>
+      <pubDate>Mon, 21 Sep 2026 16:23:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34360-slang-unofficial-refined</guid>
+      <dc:date>2026-09-21T16:23:16Z</dc:date>
     </item>
     <item>
-      <title>IDE Agent - Sun Sep 20 06:56:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34241-ide-agent</link>
-      <description>IDE Agent — your models, your data, your machine A real coding agent inside PyCharm — that leaves nothing outside your network. IDE Agent is a PyCharm coding agent you...
+      <title>Claude Session Auto-Title - Mon Sep 21 14:45:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34405-claude-session-auto-title</link>
+      <description>Names your Claude Code threads after the software you are building, automatically. Claude Code generates a topic title for each conversation, and that title changes as...
 
-vendor: IDEAgent
-downloads: 9
+vendor: Avenrail Labs
+downloads: 0
 pricingModel: FREE
-xmlId: com.sca075.ideagent</description>
-      <pubDate>Sun, 20 Sep 2026 06:56:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34241-ide-agent</guid>
-      <dc:date>2026-09-20T06:56:16Z</dc:date>
-    </item>
-    <item>
-      <title>saber - Mon Sep 21 04:42:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34367-saber</link>
-      <description>One-click generator for Jakarta-EE Web, JSP, and static HTML templates. Adds Jakarta EE Web 模板, JSP 教学模板 and HTML 静态页面 options to the New Project panel. Works on...
-
-vendor: Asuka1
-downloads: 13
-pricingModel: FREE
-xmlId: com.asuka.jakartaee.generator</description>
-      <pubDate>Mon, 21 Sep 2026 04:42:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34367-saber</guid>
-      <dc:date>2026-09-21T04:42:04Z</dc:date>
-    </item>
-    <item>
-      <title>PureDown - Sun Sep 20 05:04:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34372-puredown</link>
-      <description>PureDown - Modern Markdown &amp;amp; Obsidian-Grade Knowledge Workspace for IntelliJ IDEA &amp;amp; Android Studio PureDown is a high-performance Markdown editing, rendering...
-
-vendor: Jason Yin
-downloads: 9
-pricingModel: FREE
-xmlId: com.puredown.markdown</description>
-      <pubDate>Sun, 20 Sep 2026 05:04:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34372-puredown</guid>
-      <dc:date>2026-09-20T05:04:30Z</dc:date>
-    </item>
-    <item>
-      <title>Redis Navigator - Tue Sep 22 07:04:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34398-redis-navigator</link>
-      <description>Redis Navigator — browse, inspect and edit Redis data without leaving your IDE. Key browsing with SCAN-based pagination, pattern search and colored type badges View...
-
-vendor: redisnavigator
-downloads: 9
-pricingModel: FREE
-xmlId: com.redisnavigator</description>
-      <pubDate>Tue, 22 Sep 2026 07:04:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34398-redis-navigator</guid>
-      <dc:date>2026-09-22T07:04:58Z</dc:date>
-    </item>
-    <item>
-      <title>Templ Hero - Mon Sep 21 06:47:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34399-templ-hero</link>
-      <description>Templ Hero provides language support for Templ (.templ) Go HTML components. The plugin provides syntax highlighting, navigation, references, diagnostics, templates.
-
-vendor: Language Heroes
-downloads: 6
-pricingModel: PAID
-xmlId: com.langheroes.templ</description>
-      <pubDate>Mon, 21 Sep 2026 06:47:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34399-templ-hero</guid>
-      <dc:date>2026-09-21T06:47:38Z</dc:date>
-    </item>
-    <item>
-      <title>TunnelVision - Sun Sep 20 23:47:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34393-tunnelvision</link>
-      <description>Focus on one thing at a time. TunnelVision dims everything but the symbol under the caret and the lines that reference it, scoped to the enclosing function by default.
-
-vendor: leolaurindo
-downloads: 10
-pricingModel: FREE
-xmlId: io.github.leolaurindo.tunnelvision</description>
-      <pubDate>Sun, 20 Sep 2026 23:47:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34393-tunnelvision</guid>
-      <dc:date>2026-09-20T23:47:01Z</dc:date>
-    </item>
-    <item>
-      <title>Jewel Tooling - Sun Sep 20 21:11:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34392-jewel-tooling</link>
-      <description>Jewel Tooling helps Compose UI authors see parameter stability in the editor and record live composition from a local run. You do not add a dependency, change...
-
-vendor: Code with the Italians
-downloads: 5
-pricingModel: FREE
-xmlId: dev.sebastiano.jewel.tooling</description>
-      <pubDate>Sun, 20 Sep 2026 21:11:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34392-jewel-tooling</guid>
-      <dc:date>2026-09-20T21:11:10Z</dc:date>
-    </item>
-    <item>
-      <title>Teal - Mon Sep 21 19:25:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34391-teal</link>
-      <description>Teal (.tl) support for IntelliJ IDEA: syntax highlighting, inline diagnostics, hover, go-to-definition, and Find Usages (same-document). A thin companion plugin...
-
-vendor: Spacylab
-downloads: 14
-pricingModel: FREE
-xmlId: com.spacylab.teal</description>
-      <pubDate>Mon, 21 Sep 2026 19:25:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34391-teal</guid>
-      <dc:date>2026-09-21T19:25:25Z</dc:date>
-    </item>
-    <item>
-      <title>Mateu - Sun Sep 20 20:46:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34384-mateu</link>
-      <description>Renders Mateu model-driven Java UIs inside IntelliJ — a dockable tool window, IDE menus, and native platform components (date pickers, popups, tabs).
-
-vendor: Miguel Pérez Colom
-downloads: 16
-pricingModel: FREE
-xmlId: io.mateu.ijp.plugin</description>
-      <pubDate>Sun, 20 Sep 2026 20:46:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34384-mateu</guid>
-      <dc:date>2026-09-20T20:46:07Z</dc:date>
-    </item>
-    <item>
-      <title>Easy Notes - Sun Sep 20 12:50:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34385-easy-notes</link>
-      <description>Easy Notes keeps your thoughts where your code lives. Capture ideas, TODOs, snippets, and meeting notes in a distraction-free notepad docked right inside your IDE — no...
-
-vendor: Shubham Nagar
-downloads: 13
-pricingModel: FREE
-xmlId: com.snagar.easynotes</description>
-      <pubDate>Sun, 20 Sep 2026 12:50:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34385-easy-notes</guid>
-      <dc:date>2026-09-20T12:50:32Z</dc:date>
-    </item>
-    <item>
-      <title>Gaihao Assistant - Sun Sep 20 11:15:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34382-gaihao-assistant</link>
-      <description>Gaihao Assistant is an AI coding assistant plugin for PyCharm that connects the IDE to Gaihao Agent for Ask, Edit, and Craft workflows, helping developers understand...
-
-vendor: Gaihao Assistant
-downloads: 6
-pricingModel: FREE
-xmlId: com.gaihao.pi.assistant</description>
-      <pubDate>Sun, 20 Sep 2026 11:15:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34382-gaihao-assistant</guid>
-      <dc:date>2026-09-20T11:15:18Z</dc:date>
-    </item>
-    <item>
-      <title>ReqWS - Sun Sep 20 15:01:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34389-reqws</link>
-      <description>Open the repositories selected in a ReqWS workspace together in GoLand. Requires ReqWS Desktop. Create a workspace in Desktop, choose which repositories to load, and...
-
-vendor: fredgnr
-downloads: 3
-pricingModel: FREE
-xmlId: com.reqws.workspace</description>
-      <pubDate>Sun, 20 Sep 2026 15:01:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34389-reqws</guid>
-      <dc:date>2026-09-20T15:01:58Z</dc:date>
-    </item>
-    <item>
-      <title>JSON Canopy - Sun Sep 20 14:51:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34365-json-canopy</link>
-      <description>JSON Canopy opens .json files as nested, filterable, editable tables instead of raw text, in an extra tab next to the built-in JSON editor. Explore Objects and arrays...
-
-vendor: Sonensei.ch
-downloads: 13
-pricingModel: FREE
-xmlId: ch.sonensei.canopy</description>
-      <pubDate>Sun, 20 Sep 2026 14:51:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34365-json-canopy</guid>
-      <dc:date>2026-09-20T14:51:56Z</dc:date>
+xmlId: dev.avenrail.claudesessionautotitle</description>
+      <pubDate>Mon, 21 Sep 2026 14:45:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34405-claude-session-auto-title</guid>
+      <dc:date>2026-09-21T14:45:22Z</dc:date>
     </item>
   </channel>
 </rss>
