@@ -11,7 +11,7 @@
       <description>Live network traffic inspection for apps using Cronet, mirroring Android Studio's built-in Network Inspector (which does not support Cronet). See the project plan's...
 
 vendor: Jitin Sharma
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.jitinsharma.cronetinspector.ideaplugin</description>
       <pubDate>Sun, 20 Sep 2026 10:10:14 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.jitinsharma.cronetinspector.ideaplugin</description>
       <description>Watches GitLab CI pipelines over the GitLab REST API and raises a hard-to-miss alerts when one fails. By default it alerts on pipelines you triggered in the GitLab...
 
 vendor: Hugo Palma
-downloads: 8
+downloads: 23
 pricingModel: FREE
 xmlId: org.hugopalma.gitlabpipelinenotifier</description>
       <pubDate>Mon, 21 Sep 2026 09:44:52 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: org.hugopalma.gitlabpipelinenotifier</description>
       <description>Build here, run it on your server. Sends the artifact your build just produced to an application managed by VibeSSH and restarts it - without leaving the IDE. A...
 
 vendor: VibeSSH
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: dev.vibessh.ide</description>
       <pubDate>Sun, 20 Sep 2026 11:05:32 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: dev.vibessh.ide</description>
       <description>Free navigation between MyBatis mapper interfaces and XML statements.
 
 vendor: Yimeng
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: io.github.mybatisbridge</description>
       <pubDate>Mon, 21 Sep 2026 01:53:22 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: io.github.mybatisbridge</description>
       <description>Fast and convenient action to open the directory of any file or folder directly in Kitty Terminal. Supports Project View context menu, Editor context menu, and Editor...
 
 vendor: 氦朋软件
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.kitty.terminal</description>
       <pubDate>Mon, 21 Sep 2026 08:19:19 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.github.kitty.terminal</description>
       <description>D-SQL Converter is a powerful IntelliJ IDEA plugin that converts MyBatis logs into executable SQL statements. 功能特点 | Features: &#x1f680; 一键转换 - 在编辑器/控制台右键即可将 MyBatis 日志转换为可执行...
 
 vendor: DYW
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: cn.diyongwen.sql.converter</description>
       <pubDate>Sun, 20 Sep 2026 09:50:12 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: cn.diyongwen.sql.converter</description>
       <description>Provides IDE context integration for the pi coding agent (similar to Claude Code's IDE integration). Runs a local WebSocket service (ws://127.0.0.1:5808) that pushes...
 
 vendor: lebron
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.lebron.pibridge</description>
       <pubDate>Sun, 20 Sep 2026 08:54:41 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.lebron.pibridge</description>
       <description>IDE Agent — your models, your data, your machine A real coding agent inside PyCharm — that leaves nothing outside your network. IDE Agent is a PyCharm coding agent you...
 
 vendor: IDEAgent
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: com.sca075.ideagent</description>
       <pubDate>Sun, 20 Sep 2026 06:56:16 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.sca075.ideagent</description>
       <description>One-click generator for Jakarta-EE Web, JSP, and static HTML templates. Adds Jakarta EE Web 模板, JSP 教学模板 and HTML 静态页面 options to the New Project panel. Works on...
 
 vendor: Asuka1
-downloads: 2
+downloads: 13
 pricingModel: FREE
 xmlId: com.asuka.jakartaee.generator</description>
       <pubDate>Mon, 21 Sep 2026 04:42:04 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.asuka.jakartaee.generator</description>
       <description>PureDown - Modern Markdown &amp;amp; Obsidian-Grade Knowledge Workspace for IntelliJ IDEA &amp;amp; Android Studio PureDown is a high-performance Markdown editing, rendering...
 
 vendor: Jason Yin
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.puredown.markdown</description>
       <pubDate>Sun, 20 Sep 2026 05:04:30 GMT</pubDate>
@@ -136,30 +136,17 @@ xmlId: com.puredown.markdown</description>
       <dc:date>2026-09-20T05:04:30Z</dc:date>
     </item>
     <item>
-      <title>CodeDeck - Sun Sep 20 04:10:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34375-codedeck</link>
-      <description>CodeDeck is a native Codex and Claude Code CLI interface for JetBrains IDEs. 面向 JetBrains IDE 的 Codex / Claude Code 图形界面。 连接 Codex app-server 与 Claude Code...
-
-vendor: MengXingTong
-downloads: 1
-pricingModel: FREE
-xmlId: com.codexgui.jetbrains</description>
-      <pubDate>Sun, 20 Sep 2026 04:10:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34375-codedeck</guid>
-      <dc:date>2026-09-20T04:10:07Z</dc:date>
-    </item>
-    <item>
-      <title>Redis Navigator - Mon Sep 21 06:42:27 UTC 2026</title>
+      <title>Redis Navigator - Tue Sep 22 07:04:58 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34398-redis-navigator</link>
       <description>Redis Navigator — browse, inspect and edit Redis data without leaving your IDE. Key browsing with SCAN-based pagination, pattern search and colored type badges View...
 
 vendor: redisnavigator
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.redisnavigator</description>
-      <pubDate>Mon, 21 Sep 2026 06:42:27 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 07:04:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34398-redis-navigator</guid>
-      <dc:date>2026-09-21T06:42:27Z</dc:date>
+      <dc:date>2026-09-22T07:04:58Z</dc:date>
     </item>
     <item>
       <title>Templ Hero - Mon Sep 21 06:47:38 UTC 2026</title>
@@ -167,7 +154,7 @@ xmlId: com.redisnavigator</description>
       <description>Templ Hero provides language support for Templ (.templ) Go HTML components. The plugin provides syntax highlighting, navigation, references, diagnostics, templates.
 
 vendor: Language Heroes
-downloads: 0
+downloads: 6
 pricingModel: PAID
 xmlId: com.langheroes.templ</description>
       <pubDate>Mon, 21 Sep 2026 06:47:38 GMT</pubDate>
@@ -180,7 +167,7 @@ xmlId: com.langheroes.templ</description>
       <description>Focus on one thing at a time. TunnelVision dims everything but the symbol under the caret and the lines that reference it, scoped to the enclosing function by default.
 
 vendor: leolaurindo
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: io.github.leolaurindo.tunnelvision</description>
       <pubDate>Sun, 20 Sep 2026 23:47:01 GMT</pubDate>
@@ -193,7 +180,7 @@ xmlId: io.github.leolaurindo.tunnelvision</description>
       <description>Jewel Tooling helps Compose UI authors see parameter stability in the editor and record live composition from a local run. You do not add a dependency, change...
 
 vendor: Code with the Italians
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: dev.sebastiano.jewel.tooling</description>
       <pubDate>Sun, 20 Sep 2026 21:11:10 GMT</pubDate>
@@ -206,7 +193,7 @@ xmlId: dev.sebastiano.jewel.tooling</description>
       <description>Teal (.tl) support for IntelliJ IDEA: syntax highlighting, inline diagnostics, hover, go-to-definition, and Find Usages (same-document). A thin companion plugin...
 
 vendor: Spacylab
-downloads: 0
+downloads: 14
 pricingModel: FREE
 xmlId: com.spacylab.teal</description>
       <pubDate>Mon, 21 Sep 2026 19:25:25 GMT</pubDate>
@@ -219,7 +206,7 @@ xmlId: com.spacylab.teal</description>
       <description>Renders Mateu model-driven Java UIs inside IntelliJ — a dockable tool window, IDE menus, and native platform components (date pickers, popups, tabs).
 
 vendor: Miguel Pérez Colom
-downloads: 0
+downloads: 16
 pricingModel: FREE
 xmlId: io.mateu.ijp.plugin</description>
       <pubDate>Sun, 20 Sep 2026 20:46:07 GMT</pubDate>
@@ -232,7 +219,7 @@ xmlId: io.mateu.ijp.plugin</description>
       <description>Easy Notes keeps your thoughts where your code lives. Capture ideas, TODOs, snippets, and meeting notes in a distraction-free notepad docked right inside your IDE — no...
 
 vendor: Shubham Nagar
-downloads: 1
+downloads: 13
 pricingModel: FREE
 xmlId: com.snagar.easynotes</description>
       <pubDate>Sun, 20 Sep 2026 12:50:32 GMT</pubDate>
@@ -245,7 +232,7 @@ xmlId: com.snagar.easynotes</description>
       <description>Gaihao Assistant is an AI coding assistant plugin for PyCharm that connects the IDE to Gaihao Agent for Ask, Edit, and Craft workflows, helping developers understand...
 
 vendor: Gaihao Assistant
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.gaihao.pi.assistant</description>
       <pubDate>Sun, 20 Sep 2026 11:15:18 GMT</pubDate>
@@ -258,12 +245,25 @@ xmlId: com.gaihao.pi.assistant</description>
       <description>Open the repositories selected in a ReqWS workspace together in GoLand. Requires ReqWS Desktop. Create a workspace in Desktop, choose which repositories to load, and...
 
 vendor: fredgnr
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.reqws.workspace</description>
       <pubDate>Sun, 20 Sep 2026 15:01:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34389-reqws</guid>
       <dc:date>2026-09-20T15:01:58Z</dc:date>
+    </item>
+    <item>
+      <title>JSON Canopy - Sun Sep 20 14:51:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34365-json-canopy</link>
+      <description>JSON Canopy opens .json files as nested, filterable, editable tables instead of raw text, in an extra tab next to the built-in JSON editor. Explore Objects and arrays...
+
+vendor: Sonensei.ch
+downloads: 13
+pricingModel: FREE
+xmlId: ch.sonensei.canopy</description>
+      <pubDate>Sun, 20 Sep 2026 14:51:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34365-json-canopy</guid>
+      <dc:date>2026-09-20T14:51:56Z</dc:date>
     </item>
   </channel>
 </rss>
