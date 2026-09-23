@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:43:30 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 16:08:16 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.10.0|[nodejs.org](https://nodejs.org)|Tue Sep 22 16:08:06 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.5153.40) ~ 2026-09-18|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Sep 18 08:46:24 UTC 2026|
@@ -33,7 +34,6 @@
 |![logo](../media/logo/python.png) Python 3 windows| 3.14.7|[www.python.org](https://www.python.org/downloads/windows/)|Wed Aug 05 13:58:26 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.14.7|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Aug 05 13:58:25 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 01:38:44 UTC 2026|
-|![logo](../media/logo/gpg4win.png) GPG4Win|5.1.0 (2026-07-29)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Jul 29 13:42:31 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|VeraCrypt 1.26.29|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Fri Jun 12 00:33:13 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
