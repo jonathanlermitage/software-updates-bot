@@ -24,7 +24,7 @@
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.3 (262.10968.63) ~ 2026-09-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 16 15:43:31 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.5 to 20.0.0 ~ 2026-09-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Sep 17 19:37:54 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 14 17:22:14 UTC 2026|
-|![logo](../media/logo/maven.png) Maven|4.0.0-rc-6|[maven.apache.org](https://maven.apache.org/download.cgi)|Tue Aug 04 01:38:44 UTC 2026|
+|![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.10.0|[nodejs.org](https://nodejs.org)|Tue Sep 22 16:08:06 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.21.0|[nodejs.org](https://nodejs.org)|Wed Sep 09 08:40:27 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
