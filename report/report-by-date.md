@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.5701.42) ~ 2026-09-25|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Sep 25 16:06:46 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:43:30 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 16:08:16 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.10.0|[nodejs.org](https://nodejs.org)|Tue Sep 22 16:08:06 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.5153.40) ~ 2026-09-18|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Sep 18 08:46:24 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.5 to 20.0.0 ~ 2026-09-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Sep 17 19:37:54 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.3 (262.10968.63) ~ 2026-09-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 16 15:43:31 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 14 17:22:14 UTC 2026|
