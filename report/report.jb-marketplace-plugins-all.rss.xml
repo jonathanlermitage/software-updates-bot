@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>CodeLoupe - Fri Sep 25 16:10:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34472-codeloupe</link>
-      <description>CodeLoupe mines your project's Git history to surface which files change most and are most complex, visualized as an interactive circle-packing map. Runs fully...
+      <title>Clocker - Sat Sep 26 17:00:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34566-clocker</link>
+      <description>Track time, manage your Clocker profile/tenant, and browse YouTrack issues without leaving the IDE. Mirrors the Clocker web dashboard: active timer, recent entries...
 
-vendor: Filipe Baptista
-downloads: 14
+vendor: UX Solutions s.r.o.
+downloads: 0
 pricingModel: FREE
-xmlId: dev.filipe.codeloupe</description>
-      <pubDate>Fri, 25 Sep 2026 16:10:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34472-codeloupe</guid>
-      <dc:date>2026-09-25T16:10:49Z</dc:date>
+xmlId: com.clocker.addon.ws</description>
+      <pubDate>Sat, 26 Sep 2026 17:00:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34566-clocker</guid>
+      <dc:date>2026-09-26T17:00:34Z</dc:date>
     </item>
     <item>
-      <title>Sectionary - Fri Sep 25 13:00:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34401-sectionary</link>
-      <description>Navigate and organize code with sections. Sectionary turns comment-based sections into a visual guide to your code in Rider, IntelliJ IDEA, PyCharm, and WebStorm. Find...
+      <title>Selectrum - Fri Sep 25 22:49:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34559-selectrum</link>
+      <description>Selectrum is a JetBrains plugin that automatically switches the IDE's UI theme and editor color scheme based on the time of day. It reads a local YAML configuration...
 
-vendor: Gunblade Games GmbH
-downloads: 11
+vendor: rtxct
+downloads: 1
+pricingModel: FREE
+xmlId: com.selectrum</description>
+      <pubDate>Fri, 25 Sep 2026 22:49:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34559-selectrum</guid>
+      <dc:date>2026-09-25T22:49:32Z</dc:date>
+    </item>
+    <item>
+      <title>Profile Viewer: CPU &amp; Heap Profiles, Flame Graphs - Fri Sep 25 18:24:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34546-profile-viewer-cpu--heap-profiles-flame-graphs</link>
+      <description>Open profiler output straight in the IDE. Profile Viewer turns Node.js and Chrome DevTools CPU profiles, heap profiles and heap snapshots, Go pprof profiles, Python...
+
+vendor: Damian Boni
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: dev.profileviewer</description>
+      <pubDate>Fri, 25 Sep 2026 18:24:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34546-profile-viewer-cpu--heap-profiles-flame-graphs</guid>
+      <dc:date>2026-09-25T18:24:49Z</dc:date>
+    </item>
+    <item>
+      <title>Model File Inspector - Fri Sep 25 18:28:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34547-model-file-inspector</link>
+      <description>ML model files are opaque binaries. Model File Inspector opens .safetensors, .gguf, .ckpt and .pth files in a read-only editor and shows what is inside: tensors...
+
+vendor: Damian Boni
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: dev.modelinspector</description>
+      <pubDate>Fri, 25 Sep 2026 18:28:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34547-model-file-inspector</guid>
+      <dc:date>2026-09-25T18:28:44Z</dc:date>
+    </item>
+    <item>
+      <title>TFState Viewer - Fri Sep 25 18:16:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34544-tfstate-viewer</link>
+      <description>Terraform and OpenTofu state files are large JSON documents that are hard to read raw. TFState Viewer opens *.tfstate and *.tfstate.backup files in a structured...
+
+vendor: Damian Boni
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: dev.tfstateviewer</description>
+      <pubDate>Fri, 25 Sep 2026 18:16:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34544-tfstate-viewer</guid>
+      <dc:date>2026-09-25T18:16:16Z</dc:date>
+    </item>
+    <item>
+      <title>Preflight - Terraform Plan Viewer for AWS - Mon Sep 28 10:37:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34598-preflight--terraform-plan-viewer-for-aws</link>
+      <description>Review Terraform plans and states of AWS infrastructure without scrolling through terraform plan output. Preflight opens the JSON output of terraform show -json (plans...
+
+vendor: Théo Sylvestre
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.theosylvestre.preflight</description>
+      <pubDate>Mon, 28 Sep 2026 10:37:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34598-preflight--terraform-plan-viewer-for-aws</guid>
+      <dc:date>2026-09-28T10:37:38Z</dc:date>
+    </item>
+    <item>
+      <title>Read - Tue Sep 22 02:19:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34371-read</link>
+      <description>Read is a simple tool window that allows you to read directly in your IDE. You can open it from the Tools menu.
+
+vendor: dushu
+downloads: 3
+pricingModel: FREE
+xmlId: io.github.yourname.read</description>
+      <pubDate>Tue, 22 Sep 2026 02:19:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34371-read</guid>
+      <dc:date>2026-09-22T02:19:01Z</dc:date>
+    </item>
+    <item>
+      <title>Invisible Notes - Mon Sep 28 06:02:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34596-invisible-notes</link>
+      <description>Private notes on lines of code that are never written into your files. Invisible Notes shows your notes in the editor, between the lines of code, while the file itself...
+
+vendor: Selfcloud
+downloads: 0
 pricingModel: PAID
-xmlId: com.gunbladegames.sectionary</description>
-      <pubDate>Fri, 25 Sep 2026 13:00:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34401-sectionary</guid>
-      <dc:date>2026-09-25T13:00:05Z</dc:date>
+xmlId: ro.selfcloud.invisiblenotes</description>
+      <pubDate>Mon, 28 Sep 2026 06:02:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34596-invisible-notes</guid>
+      <dc:date>2026-09-28T06:02:52Z</dc:date>
     </item>
     <item>
-      <title>Qwen Code for IDEs - Fri Sep 25 09:11:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34493-qwen-code-for-ides</link>
-      <description>Unofficial JetBrains IDE tool for launching Qwen Code from the toolbar with reusable prompt presets. Features: Toolbar button with dropdown menu for quick access...
+      <title>Cranpose - Mon Sep 28 16:39:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34594-cranpose</link>
+      <description>Cranpose development tools for IntelliJ IDEA and RustRover, with a tool window written in Cranpose. Discover Cargo workspace binaries and examples that use Cranpose...
 
-vendor: Uatapatau
-downloads: 28
+vendor: Dmitrii Samoilenko
+downloads: 0
 pricingModel: FREE
-xmlId: uatapatau.qwen_code_for_ide</description>
-      <pubDate>Fri, 25 Sep 2026 09:11:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34493-qwen-code-for-ides</guid>
-      <dc:date>2026-09-25T09:11:06Z</dc:date>
+xmlId: dev.cranpose.idea</description>
+      <pubDate>Mon, 28 Sep 2026 16:39:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34594-cranpose</guid>
+      <dc:date>2026-09-28T16:39:20Z</dc:date>
     </item>
     <item>
-      <title>MyCode - Fri Sep 25 08:54:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34526-mycode</link>
-      <description>MyCode - a coding assistant that runs in your JetBrains IDE MyCode —— JetBrains IDE 里的编程助手 模型请求发到你配置的供应商；读文件、改代码、跑命令都在 IDE 进程里完成。 Model requests go to the provider you...
-
-vendor: ZhouXiaoxiang
-downloads: 9
-pricingModel: FREE
-xmlId: mycode</description>
-      <pubDate>Fri, 25 Sep 2026 08:54:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34526-mycode</guid>
-      <dc:date>2026-09-25T08:54:59Z</dc:date>
-    </item>
-    <item>
-      <title>MAIFlow - Fri Sep 25 07:15:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34528-maiflow</link>
-      <description>Manage MAIFlow tasks from a focused IntelliJ Platform tool window. Connect with the same mf_live_… API token used by MAIFlow MCP clients, create and update tasks...
-
-vendor: Conceptual Arts
-downloads: 6
-pricingModel: FREE
-xmlId: tech.conceptualarts.maiflow</description>
-      <pubDate>Fri, 25 Sep 2026 07:15:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34528-maiflow</guid>
-      <dc:date>2026-09-25T07:15:39Z</dc:date>
-    </item>
-    <item>
-      <title>Modern CSS Toolkit - Fri Sep 25 06:34:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34527-modern-css-toolkit</link>
-      <description>Live templates for modern CSS that you can use today: every template states its Baseline browser-support status. Works in CSS, SCSS, Less and &amp;lt;style&amp;gt; blocks...
-
-vendor: James Mosquera
-downloads: 8
-pricingModel: FREE
-xmlId: com.jamesmosquera.moderncsstoolkit</description>
-      <pubDate>Fri, 25 Sep 2026 06:34:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34527-modern-css-toolkit</guid>
-      <dc:date>2026-09-25T06:34:36Z</dc:date>
-    </item>
-    <item>
-      <title>CleanBloc Architect - Fri Sep 25 12:22:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34531-cleanbloc-architect</link>
-      <description>CleanBloc Architect is a productivity plugin designed for Flutter and mobile developers to eliminate repetitive boilerplate setup. With a single right-click, it...
-
-vendor: Build With Me
-downloads: 20
-pricingModel: FREE
-xmlId: com.sharon.cleanbloc.plugin</description>
-      <pubDate>Fri, 25 Sep 2026 12:22:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34531-cleanbloc-architect</guid>
-      <dc:date>2026-09-25T12:22:28Z</dc:date>
-    </item>
-    <item>
-      <title>mlab security - Thu Sep 24 11:59:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34492-mlab-security</link>
-      <description>CVE scanning for your lockfiles, powered by mlab. Right-click a lockfile, get its known vulnerabilities with exploitation intelligence, and see them in the Problems...
-
-vendor: mlab
-downloads: 7
-pricingModel: FREE
-xmlId: sh.mlab.vulnscan</description>
-      <pubDate>Thu, 24 Sep 2026 11:59:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34492-mlab-security</guid>
-      <dc:date>2026-09-24T11:59:53Z</dc:date>
-    </item>
-    <item>
-      <title>Bootstrap Toolkit - Fri Sep 25 04:49:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34519-bootstrap-toolkit</link>
-      <description>Bootstrap 5.3 live templates that work in HTML, React (JSX/TSX) and Vue templates. Type an abbreviation such as bs5-card and press Tab. Features One template, every...
-
-vendor: James Mosquera
-downloads: 6
-pricingModel: FREE
-xmlId: com.jamesmosquera.bootstraptoolkit</description>
-      <pubDate>Fri, 25 Sep 2026 04:49:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34519-bootstrap-toolkit</guid>
-      <dc:date>2026-09-25T04:49:34Z</dc:date>
-    </item>
-    <item>
-      <title>Photo Placeholders - Fri Sep 25 00:22:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34516-photo-placeholders</link>
-      <description>Insert real placeholder photos into HTML, CSS, Markdown, JSX or any file, powered by the free picsum.photos service. Features Any size or square images: random, a...
-
-vendor: James Mosquera
-downloads: 6
-pricingModel: FREE
-xmlId: com.jamesmosquera.photoplaceholders</description>
-      <pubDate>Fri, 25 Sep 2026 00:22:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34516-photo-placeholders</guid>
-      <dc:date>2026-09-25T00:22:47Z</dc:date>
-    </item>
-    <item>
-      <title>EPUB Accessibility Metadata Lint (EAA) - Thu Sep 24 22:42:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34512-epub-accessibility-metadata-lint-eaa-</link>
-      <description>18 rules over the accessibility metadata in your .opf: 12 findings in the sample file, 9 of them errors, 6 of them invented or malformed values Right-click in the...
+      <title>DSA Terms Lint - Sun Sep 27 22:39:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34593-dsa-terms-lint</link>
+      <description>Reads your terms-of-service markdown and names every DSA duty it is missing, by article number. Right-click in the editor (or Tools) → DSA Terms Lint: Check This File...
 
 vendor: ReadyStack
-downloads: 6
+downloads: 0
 pricingModel: FREE
-xmlId: com.getreadystack.epub-a11y-metadata-lint</description>
-      <pubDate>Thu, 24 Sep 2026 22:42:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34512-epub-accessibility-metadata-lint-eaa-</guid>
-      <dc:date>2026-09-24T22:42:07Z</dc:date>
+xmlId: com.getreadystack.dsa-terms-lint</description>
+      <pubDate>Sun, 27 Sep 2026 22:39:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34593-dsa-terms-lint</guid>
+      <dc:date>2026-09-27T22:39:45Z</dc:date>
     </item>
     <item>
-      <title>Vertical Tabs - Thu Sep 24 20:29:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34506-vertical-tabs</link>
-      <description>Vertical Tabs Vertical Tabs is an open-files navigator for JetBrains IDEs. It docks on the left side of the IDE,groups files by their owning IDE module or .NET...
+      <title>DORA Art. 30 ICT Contract Clause Lint - Sun Sep 27 22:39:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34592-dora-art-30-ict-contract-clause-lint</link>
+      <description>Twenty-two checks over the ICT vendor contracts in your repository - every missing Article 30 clause named, with the wording to paste in. Right-click in the editor (or...
 
-vendor: PyDotDog
-downloads: 5
+vendor: ReadyStack
+downloads: 0
 pricingModel: FREE
-xmlId: pl.solutiontabs</description>
-      <pubDate>Thu, 24 Sep 2026 20:29:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34506-vertical-tabs</guid>
-      <dc:date>2026-09-24T20:29:37Z</dc:date>
+xmlId: com.getreadystack.dora-ict-contract-clause-lint</description>
+      <pubDate>Sun, 27 Sep 2026 22:39:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34592-dora-art-30-ict-contract-clause-lint</guid>
+      <dc:date>2026-09-27T22:39:24Z</dc:date>
     </item>
     <item>
-      <title>Ghi - Sun Sep 27 20:06:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34508-ghi</link>
-      <description>Ghi (Go, Hierarchy, Interfaces) support for GoLand. Recognizes .ghi files, highlights syntax, supports comments and brace matching, and builds or runs projects in the...
+      <title>Cert Lifetime Lint - Sun Sep 27 22:38:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34590-cert-lifetime-lint</link>
+      <description>Finds the renewal settings in your repo that outlive the public TLS cap: 200 days since 15 March 2026, 100 days from 15 March 2027, 47 days from 15 March 2029...
 
-vendor: Arman Khachatryan
-downloads: 11
+vendor: ReadyStack
+downloads: 0
 pricingModel: FREE
-xmlId: am.ghi.language</description>
-      <pubDate>Sun, 27 Sep 2026 20:06:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34508-ghi</guid>
-      <dc:date>2026-09-27T20:06:58Z</dc:date>
+xmlId: com.getreadystack.cert-lifetime-lint</description>
+      <pubDate>Sun, 27 Sep 2026 22:38:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34590-cert-lifetime-lint</guid>
+      <dc:date>2026-09-27T22:38:43Z</dc:date>
     </item>
     <item>
-      <title>Tests Support Plus - Thu Sep 24 12:49:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34494-tests-support-plus</link>
-      <description>Adds to the Unit Tests window what the built-in one lacks. Everything else in the window works as before. Save and load test sessions (.rtsession), including...
+      <title>CBPR+ Structured Address Lint - Sun Sep 27 22:38:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34589-cbpr-structured-address-lint</link>
+      <description>Find the ISO 20022 postal addresses your correspondent bank will repair by hand, before you send the message Right-click in the editor (or Tools) → CBPR+ Structured...
 
-vendor: Łakasabasz
-downloads: 2
+vendor: ReadyStack
+downloads: 0
 pricingModel: FREE
-xmlId: pl.info.lukaszm.testssupportplus</description>
-      <pubDate>Thu, 24 Sep 2026 12:49:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34494-tests-support-plus</guid>
-      <dc:date>2026-09-24T12:49:55Z</dc:date>
+xmlId: com.getreadystack.cbpr-address-lint</description>
+      <pubDate>Sun, 27 Sep 2026 22:38:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34589-cbpr-structured-address-lint</guid>
+      <dc:date>2026-09-27T22:38:20Z</dc:date>
     </item>
     <item>
-      <title>SqlLogLens - Restore SQL from Logs - Thu Sep 24 19:18:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34505-sqlloglens--restore-sql-from-logs</link>
-      <description>Turn Hibernate, MyBatis and p6spy logs back into SQL you can run. Your application logs every statement with ? placeholders and prints the real values somewhere else...
+      <title>Angular Removed-API Lint - Sun Sep 27 22:38:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34588-angular-removed-api-lint</link>
+      <description>32 checks for Angular APIs that were removed or deprecated, plus the support window on your version pin. The bundled legacy fixture — one NgModule file and its spec...
 
-vendor: Zuhaib
-downloads: 6
-pricingModel: FREEMIUM
-xmlId: com.zuhaibzahid.sqlloglens</description>
-      <pubDate>Thu, 24 Sep 2026 19:18:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34505-sqlloglens--restore-sql-from-logs</guid>
-      <dc:date>2026-09-24T19:18:48Z</dc:date>
-    </item>
-    <item>
-      <title>CertLens - Certificates and Keystores - Thu Sep 24 19:14:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34504-certlens--certificates-and-keystores</link>
-      <description>Read certificates and keystores in your IDE, and hear about expiry before production does. Open a JKS keystore, a PKCS#12 file or a PEM bundle and CertLens shows what...
-
-vendor: Zuhaib
-downloads: 14
-pricingModel: FREEMIUM
-xmlId: com.zuhaibzahid.certlens</description>
-      <pubDate>Thu, 24 Sep 2026 19:14:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34504-certlens--certificates-and-keystores</guid>
-      <dc:date>2026-09-24T19:14:24Z</dc:date>
-    </item>
-    <item>
-      <title>Smear Cursor - Thu Sep 24 16:32:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34501-smear-cursor</link>
-      <description>Animate the cursor with a smear effect in IntelliJ IDEA and other JetBrains IDEs. Inspired by Neovide's animated cursor and the smear-cursor.nvim Neovim plugin. ✨ This...
-
-vendor: SynesthesiaDev
-downloads: 9
+vendor: ReadyStack
+downloads: 0
 pricingModel: FREE
-xmlId: moe.syndev.smearcursor</description>
-      <pubDate>Thu, 24 Sep 2026 16:32:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34501-smear-cursor</guid>
-      <dc:date>2026-09-24T16:32:56Z</dc:date>
+xmlId: com.getreadystack.angular-removed-api-lint</description>
+      <pubDate>Sun, 27 Sep 2026 22:38:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34588-angular-removed-api-lint</guid>
+      <dc:date>2026-09-27T22:38:00Z</dc:date>
     </item>
     <item>
-      <title>Agent Eyes - Fri Sep 25 09:02:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34503-agent-eyes</link>
-      <description>Lets AI coding agents see the IDE, run safe IDE commands, and prove that tests really ran. Agent Eyes adds tools to the IDE's built-in MCP server, so an agent...
+      <title>Cron Schedule Lint for crontab, Kubernetes CronJob, GitHub - Sun Sep 27 22:39:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34591-cron-schedule-lint-for-crontab-kubernetes-cronjob-github</link>
+      <description>Names every schedule line in the file you have open that fires at the wrong hour, twice, or never at all - and prints the next three times each one really fires, in...
 
-vendor: GRAMSHIFT
-downloads: 11
-pricingModel: PAID
-xmlId: com.gramshift.agenteyes</description>
-      <pubDate>Fri, 25 Sep 2026 09:02:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34503-agent-eyes</guid>
-      <dc:date>2026-09-25T09:02:42Z</dc:date>
-    </item>
-    <item>
-      <title>Dotenv Guard - Fri Sep 25 09:02:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34500-dotenv-guard</link>
-      <description>Catches the .env mistakes that break a deploy or leak a key. A key that is in your .env but missing from .env.example, a real API key pasted into the example file that...
-
-vendor: GRAMSHIFT
-downloads: 11
-pricingModel: PAID
-xmlId: com.gramshift.dotenvguard</description>
-      <pubDate>Fri, 25 Sep 2026 09:02:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34500-dotenv-guard</guid>
-      <dc:date>2026-09-25T09:02:23Z</dc:date>
-    </item>
-    <item>
-      <title>Moodle VSE - Sun Sep 27 18:30:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34467-moodle-vse</link>
-      <description>Moodle VSE integration for students of the Prague University of Economics and Business. Přihlášení do Moodle VŠE přes SSO (stejně jako mobilní aplikace Moodle) a práce...
-
-vendor: Tomas Michalicka
-downloads: 12
+vendor: ReadyStack
+downloads: 0
 pricingModel: FREE
-xmlId: cz.vse.moodle</description>
-      <pubDate>Sun, 27 Sep 2026 18:30:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34467-moodle-vse</guid>
-      <dc:date>2026-09-27T18:30:56Z</dc:date>
+xmlId: com.getreadystack.cron-schedule-lint</description>
+      <pubDate>Sun, 27 Sep 2026 22:39:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34591-cron-schedule-lint-for-crontab-kubernetes-cronjob-github</guid>
+      <dc:date>2026-09-27T22:39:03Z</dc:date>
+    </item>
+    <item>
+      <title>Streamlord - Sun Sep 27 22:16:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34587-streamlord</link>
+      <description>Editor support for the Streamlord Kotlin SDK and the Datastar 1.0.4 protocol, in IntelliJ IDEA (Community and Ultimate), 2026.1 and newer. Inspections in Kotlin...
+
+vendor: MarkusAugust
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.markusaugust.streamlord</description>
+      <pubDate>Sun, 27 Sep 2026 22:16:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34587-streamlord</guid>
+      <dc:date>2026-09-27T22:16:26Z</dc:date>
+    </item>
+    <item>
+      <title>Bend2 - Sun Sep 27 21:10:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34452-bend2</link>
+      <description>Language support for Bend 2 in IntelliJ IDEA. Syntax highlighting, hash line comments, and editable snippets Completion, parameter information, parameter hints...
+
+vendor: dearlordylord
+downloads: 7
+pricingModel: FREE
+xmlId: com.dearlordylord.bend.idea</description>
+      <pubDate>Sun, 27 Sep 2026 21:10:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34452-bend2</guid>
+      <dc:date>2026-09-27T21:10:24Z</dc:date>
+    </item>
+    <item>
+      <title>LocaleBreeze for Android Studio - Sun Sep 27 16:13:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34586-localebreeze-for-android-studio</link>
+      <description>LocaleBreeze turns i18next translation keys into IDE-aware symbols. It infers the namespace and key scope from your code, understands which dictionary entry each key...
+
+vendor: Xubarashi
+downloads: 0
+pricingModel: FREE
+xmlId: dev.localebreeze.androidstudio</description>
+      <pubDate>Sun, 27 Sep 2026 16:13:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34586-localebreeze-for-android-studio</guid>
+      <dc:date>2026-09-27T16:13:43Z</dc:date>
+    </item>
+    <item>
+      <title>DATAMIMIC - Sun Sep 27 08:53:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34581-datamimic</link>
+      <description>Work on DATAMIMIC projects in your JetBrains IDE, connected to your DATAMIMIC Enterprise Platform. Requires a DATAMIMIC Enterprise Platform and an account on it. The...
+
+vendor: rapiddweller
+downloads: 0
+pricingModel: FREE
+xmlId: com.rapiddweller.datamimic</description>
+      <pubDate>Sun, 27 Sep 2026 08:53:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34581-datamimic</guid>
+      <dc:date>2026-09-27T08:53:28Z</dc:date>
+    </item>
+    <item>
+      <title>Barrel Lens - Sun Sep 27 08:30:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34579-barrel-lens</link>
+      <description>Highlights TypeScript declarations that are part of a module's public API, i.e. re-exported through a barrel (index.ts) file, so it's obvious at a glance what is...
+
+vendor: Nunzio
+downloads: 0
+pricingModel: FREE
+xmlId: com.barrellens.plugin</description>
+      <pubDate>Sun, 27 Sep 2026 08:30:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34579-barrel-lens</guid>
+      <dc:date>2026-09-27T08:30:21Z</dc:date>
     </item>
   </channel>
 </rss>
