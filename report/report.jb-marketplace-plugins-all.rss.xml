@@ -6,6 +6,253 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>XBatis Jump - Wed Sep 30 07:24:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34663-xbatis-jump</link>
+      <description>IntelliJ IDEA plugin for the xbatis Java ORM framework, maintained by an independent author (Wang Zeyu) and not affiliated with the official xbatis team. Adds a bird...
+
+vendor: Wang Zeyu
+downloads: 0
+pricingModel: FREE
+xmlId: com.xbatis.jump</description>
+      <pubDate>Wed, 30 Sep 2026 07:24:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34663-xbatis-jump</guid>
+      <dc:date>2026-09-30T07:24:46Z</dc:date>
+    </item>
+    <item>
+      <title>Sumery Libra - Coding Time - Wed Sep 30 07:11:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34662-sumery-libra--coding-time</link>
+      <description>Records coding time for Sumery Libra, only while you are editing code. A heartbeat is written when you type into the file in the selected editor while the IDE has...
+
+vendor: Sumery
+downloads: 0
+pricingModel: FREE
+xmlId: com.sumery.libra.coding-time</description>
+      <pubDate>Wed, 30 Sep 2026 07:11:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34662-sumery-libra--coding-time</guid>
+      <dc:date>2026-09-30T07:11:46Z</dc:date>
+    </item>
+    <item>
+      <title>MOY Panel - Wed Sep 30 11:51:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34666-moy-panel</link>
+      <description>MOY is an IDE panel that looks like a scrolling code block — inside it: a novel reader, a real browser, three small games and live stock quotes. A discreet...
+
+vendor: MOY
+downloads: 0
+pricingModel: FREE
+xmlId: com.moyu.panel</description>
+      <pubDate>Wed, 30 Sep 2026 11:51:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34666-moy-panel</guid>
+      <dc:date>2026-09-30T11:51:42Z</dc:date>
+    </item>
+    <item>
+      <title>Age Gate Lint - Tue Sep 29 22:36:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34654-age-gate-lint</link>
+      <description>8 rules for Ofcom's highly effective age assurance duty, in force since 25 July 2025, where the penalty ceiling is £18m (£18 million) or 10% of qualifying worldwide...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.age-gate-lint</description>
+      <pubDate>Tue, 29 Sep 2026 22:36:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34654-age-gate-lint</guid>
+      <dc:date>2026-09-29T22:36:56Z</dc:date>
+    </item>
+    <item>
+      <title>Auto-Renewal Signup Lint - Tue Sep 29 22:37:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34655-auto-renewal-signup-lint</link>
+      <description>Sixteen statutory checks on the signup page AB 2863 rewrote, in your editor and in the browser Right-click in the editor (or Tools) → Auto-Renewal Signup Lint: Check...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.autorenew-signup-lint</description>
+      <pubDate>Tue, 29 Sep 2026 22:37:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34655-auto-renewal-signup-lint</guid>
+      <dc:date>2026-09-29T22:37:19Z</dc:date>
+    </item>
+    <item>
+      <title>Conda License Lint - Tue Sep 29 22:37:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34656-conda-license-lint</link>
+      <description>Finds every environment.yml and .condarc line that pulls from Anaconda's licensed repository Right-click in the editor (or Tools) → Conda License Lint: Check This...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.conda-channel-license-lint</description>
+      <pubDate>Tue, 29 Sep 2026 22:37:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34656-conda-license-lint</guid>
+      <dc:date>2026-09-29T22:37:43Z</dc:date>
+    </item>
+    <item>
+      <title>MAUI iOS Submission Gate - Tue Sep 29 22:38:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34657-maui-ios-submission-gate</link>
+      <description>Reads a .NET MAUI app's iOS Info.plist and Entitlements.plist and names every App Store Review 5.1.1(i) purpose-string rejection and export-compliance defect before...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.maui-ios-submission-gate</description>
+      <pubDate>Tue, 29 Sep 2026 22:38:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34657-maui-ios-submission-gate</guid>
+      <dc:date>2026-09-29T22:38:07Z</dc:date>
+    </item>
+    <item>
+      <title>NuGet License Gate - Tue Sep 29 22:38:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34658-nuget-license-gate</link>
+      <description>Flags AutoMapper 15+, MediatR 13+, FluentAssertions 8+, MassTransit 9+ and other NuGet versions past their licence line, with the pin Right-click in the editor (or...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.nuget-commercial-license-gate</description>
+      <pubDate>Tue, 29 Sep 2026 22:38:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34658-nuget-license-gate</guid>
+      <dc:date>2026-09-29T22:38:29Z</dc:date>
+    </item>
+    <item>
+      <title>WordPress Privacy Lint - Tue Sep 29 22:38:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34659-wordpress-privacy-lint</link>
+      <description>Finds the 12 author-side privacy duties your plugin PHP breaks, with the article and the fix on every line. Right-click in the editor (or Tools) → WordPress Privacy...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.wordpress-privacy-lint</description>
+      <pubDate>Tue, 29 Sep 2026 22:38:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34659-wordpress-privacy-lint</guid>
+      <dc:date>2026-09-29T22:38:55Z</dc:date>
+    </item>
+    <item>
+      <title>AKS LTS &amp; EKS Extended Support Lint for Terraform - Wed Sep 30 22:39:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34676-aks-lts--eks-extended-support-lint-for-terraform</link>
+      <description>Terraform EKS and AKS version check: sample clusters.tf on 2026-09-27 — $2,256 extra on EKS 1.32 since 2026-03-23, $3,660 on 1.31 since 2025-11-26, $5,916 total; 9...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.aks-eks-support-cliff-lint</description>
+      <pubDate>Wed, 30 Sep 2026 22:39:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34676-aks-lts--eks-extended-support-lint-for-terraform</guid>
+      <dc:date>2026-09-30T22:39:04Z</dc:date>
+    </item>
+    <item>
+      <title>Cloud Cost Landmine Lint for Terraform, CloudFormation and - Wed Sep 30 22:39:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34677-cloud-cost-landmine-lint-for-terraform-cloudformation-and</link>
+      <description>Names every line in the file you have open that starts a recurring cloud charge, with the published us-east-1 price and the date it changes by itself. Right-click in...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.cloud-cost-landmine-lint</description>
+      <pubDate>Wed, 30 Sep 2026 22:39:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34677-cloud-cost-landmine-lint-for-terraform-cloudformation-and</guid>
+      <dc:date>2026-09-30T22:39:27Z</dc:date>
+    </item>
+    <item>
+      <title>CRAN Policy Submission Lint - Wed Sep 30 22:39:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34678-cran-policy-submission-lint</link>
+      <description>Catch the CRAN Repository Policy violations before the volunteer team does Right-click in the editor (or Tools) → CRAN Policy Submission Lint: Check This File. Each...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.cran-policy-submission-lint</description>
+      <pubDate>Wed, 30 Sep 2026 22:39:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34678-cran-policy-submission-lint</guid>
+      <dc:date>2026-09-30T22:39:52Z</dc:date>
+    </item>
+    <item>
+      <title>KSeF FA - Wed Sep 30 22:40:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34679-ksef-fa</link>
+      <description>Finds the lines KSeF will reject in a Polish structured invoice XML, before you send it Right-click in the editor (or Tools) → KSeF FA: Check This File. Each finding...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.ksef-fa3-invoice-lint</description>
+      <pubDate>Wed, 30 Sep 2026 22:40:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34679-ksef-fa</guid>
+      <dc:date>2026-09-30T22:40:20Z</dc:date>
+    </item>
+    <item>
+      <title>License Flip Audit - Wed Sep 30 22:40:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34680-license-flip-audit</link>
+      <description>Finds the dependencies whose licence changed under you - Terraform 1.6+ BUSL, Redis 7.4+ SSPL, Bitnami's August 2025 move, Elastic 7.11 - and names the exact version...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.license-flip-audit</description>
+      <pubDate>Wed, 30 Sep 2026 22:40:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34680-license-flip-audit</guid>
+      <dc:date>2026-09-30T22:40:46Z</dc:date>
+    </item>
+    <item>
+      <title>PII-in-Logs Lint - Wed Sep 30 22:41:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34681-pii-in-logs-lint</link>
+      <description>22 rules that name the lines where a Node or TypeScript service writes personal data into logs, crash reports and analytics — with the article it touches and the...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.log-pii-telemetry-lint</description>
+      <pubDate>Wed, 30 Sep 2026 22:41:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34681-pii-in-logs-lint</guid>
+      <dc:date>2026-09-30T22:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>Throwable Highlighter - Tue Sep 29 23:07:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34660-throwable-highlighter</link>
+      <description>Highlights Java classes that inherit from Throwable. Throwable highlighting is applied to class declarations and references, including usages in fields, local...
+
+vendor: Hedgerock
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.hedgerock.throwable-highlighter</description>
+      <pubDate>Tue, 29 Sep 2026 23:07:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34660-throwable-highlighter</guid>
+      <dc:date>2026-09-29T23:07:54Z</dc:date>
+    </item>
+    <item>
+      <title>Current Project Switcher - Thu Oct 01 03:38:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34684-current-project-switcher</link>
+      <description>Minimal plugin for switching between already opened projects. Open switcher dialog by pressing Alt-P Alt-P. Type for fuzzy search in list of projects and press Enter...
+
+vendor: Brainless Software
+downloads: 0
+pricingModel: FREE
+xmlId: net.priimak.CurrentProjectSwitcher</description>
+      <pubDate>Thu, 01 Oct 2026 03:38:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34684-current-project-switcher</guid>
+      <dc:date>2026-10-01T03:38:46Z</dc:date>
+    </item>
+    <item>
+      <title>Error Prone - Thu Oct 01 11:15:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34671-error-prone</link>
+      <description>Error Prone's findings from your Gradle build, on the code they are about, with their fixes a keystroke away. Error Prone already runs in your build. This plugin reads...
+
+vendor: Areg Iazychian
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.salatmaster.errorprone</description>
+      <pubDate>Thu, 01 Oct 2026 11:15:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34671-error-prone</guid>
+      <dc:date>2026-10-01T11:15:51Z</dc:date>
+    </item>
+    <item>
+      <title>Local Push Mock - Thu Oct 01 01:28:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34682-local-push-mock</link>
+      <description>Trigger local Android notifications on a device or emulator straight from the IDE — no backend, no web console and no Firebase Cloud Messaging credentials. Compose...
+
+vendor: MUPPET
+downloads: 0
+pricingModel: FREE
+xmlId: dev.antcruz.localpushmock</description>
+      <pubDate>Thu, 01 Oct 2026 01:28:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34682-local-push-mock</guid>
+      <dc:date>2026-10-01T01:28:16Z</dc:date>
+    </item>
+    <item>
       <title>Deploy to Host - Wed Sep 30 08:09:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34634-deploy-to-host</link>
       <description>Build and deploy artifacts or frontend resources to remote hosts. 一键打包 / 一键发布，支持 Maven 多模块项目与前端目录上传 上传本地指定目录或文件到配置好的服务器目录，支持排除规则 上传完成后可选执行服务器上的重启脚本或命令...
@@ -17,253 +264,6 @@ xmlId: com.hql.maven-quick-deploy</description>
       <pubDate>Wed, 30 Sep 2026 08:09:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34634-deploy-to-host</guid>
       <dc:date>2026-09-30T08:09:14Z</dc:date>
-    </item>
-    <item>
-      <title>Remote Runner - Tue Sep 29 12:03:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34616-remote-runner</link>
-      <description>Remote Runner exposes your open IntelliJ projects' run configurations through the IDE's built-in web server. List configurations as JSON, filter by project name or...
-
-vendor: Igor Khudoshin
-downloads: 16
-pricingModel: FREE
-xmlId: com.sendtralstation.remoteRunner</description>
-      <pubDate>Tue, 29 Sep 2026 12:03:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34616-remote-runner</guid>
-      <dc:date>2026-09-29T12:03:54Z</dc:date>
-    </item>
-    <item>
-      <title>Redacto - Thu Oct 01 09:15:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34648-redacto</link>
-      <description>Anonymize selected code or console output on this device, and restore the original values in an AI reply. Select text in an editor or a Run/Debug console, right-click...
-
-vendor: HunKonTech
-downloads: 33
-pricingModel: FREE
-xmlId: com.hunkontech.privacyguardrail</description>
-      <pubDate>Thu, 01 Oct 2026 09:15:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34648-redacto</guid>
-      <dc:date>2026-10-01T09:15:17Z</dc:date>
-    </item>
-    <item>
-      <title>DataChart - Mon Sep 28 11:41:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34597-datachart</link>
-      <description>DataChart is a plugin that visualizes database table structures on an interactive board. Drag database tables from the Database tool window onto the canvas to generate...
-
-vendor: MicroLight
-downloads: 8
-pricingModel: FREE
-xmlId: com.wd.DataChart</description>
-      <pubDate>Mon, 28 Sep 2026 11:41:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34597-datachart</guid>
-      <dc:date>2026-09-28T11:41:03Z</dc:date>
-    </item>
-    <item>
-      <title>PrismTabs - Tue Sep 29 19:59:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34416-prismtabs</link>
-      <description>Colour-coded tab groups for IntelliJ editor tabs. Right-click a tab for the colour swatch popup: pick one of 8 preset colours to start a new group and name it, or "Add...
-
-vendor: yendrrek
-downloads: 24
-pricingModel: FREEMIUM
-xmlId: io.prismtabs</description>
-      <pubDate>Tue, 29 Sep 2026 19:59:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34416-prismtabs</guid>
-      <dc:date>2026-09-29T19:59:19Z</dc:date>
-    </item>
-    <item>
-      <title>Folder Text Color - Tue Sep 29 12:43:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34644-folder-text-color</link>
-      <description>Color the text of folder names in the Project tool window, so the parts of a large project you care about stand out at a glance. Unlike File Colors and scope-based...
-
-vendor: Anton Sinaiskii
-downloads: 16
-pricingModel: FREE
-xmlId: io.github.fer0m.foldertextcolor</description>
-      <pubDate>Tue, 29 Sep 2026 12:43:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34644-folder-text-color</guid>
-      <dc:date>2026-09-29T12:43:43Z</dc:date>
-    </item>
-    <item>
-      <title>Sourcebeam - Tue Sep 29 12:24:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34643-sourcebeam</link>
-      <description>Live code sharing from your IDE to a read-only browser page. This plugin broadcasts the open project to a sourcebeam viewer session: anyone with an invite link watches...
-
-vendor: krowten
-downloads: 11
-pricingModel: FREE
-xmlId: com.github.krowten.sourcebeam</description>
-      <pubDate>Tue, 29 Sep 2026 12:24:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34643-sourcebeam</guid>
-      <dc:date>2026-09-29T12:24:00Z</dc:date>
-    </item>
-    <item>
-      <title>TicGit UI - Wed Sep 30 17:25:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34640-ticgit-ui</link>
-      <description>A GUI for TicGit, the git-native ticket system. Browse, create, and manage tickets in a tool window without leaving your IDE. Drives the official ti CLI.
-
-vendor: Carlo Cifarelli
-downloads: 69
-pricingModel: FREE
-xmlId: com.carlocifarelli.ticgitui</description>
-      <pubDate>Wed, 30 Sep 2026 17:25:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34640-ticgit-ui</guid>
-      <dc:date>2026-09-30T17:25:27Z</dc:date>
-    </item>
-    <item>
-      <title>Intarsia - Tue Sep 29 14:27:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34600-intarsia</link>
-      <description>Open Apache Parquet files in an editor tab: a schema tree and paged rows, read locally with bounded memory. Intarsia opens .parquet files in an editor tab, with the...
-
-vendor: Madrasco
-downloads: 17
-pricingModel: FREE
-xmlId: dev.madrasco.intarsia</description>
-      <pubDate>Tue, 29 Sep 2026 14:27:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34600-intarsia</guid>
-      <dc:date>2026-09-29T14:27:12Z</dc:date>
-    </item>
-    <item>
-      <title>MyBatisProviderJump - Sat Sep 26 12:57:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34564-mybatisproviderjump</link>
-      <description>Gutter navigation between MyBatis annotation-based Mapper methods and their SQL provider methods — like MyBatisX's bird icon, but for the annotation style. Forward — a...
-
-vendor: gavin yang
-downloads: 8
-pricingModel: FREE
-xmlId: mybatis-provider-jump</description>
-      <pubDate>Sat, 26 Sep 2026 12:57:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34564-mybatisproviderjump</guid>
-      <dc:date>2026-09-26T12:57:06Z</dc:date>
-    </item>
-    <item>
-      <title>Copy as Prompt - Tue Sep 29 11:20:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34638-copy-as-prompt</link>
-      <description>Plugin Description Note: This is an unofficial, community-maintained plugin. Not affiliated with any AI vendor. Features Copy as Prompt — select code, right-click, and...
-
-vendor: shenyuanlaolarou
-downloads: 14
-pricingModel: FREE
-xmlId: com.shenyuanlaolarou.copyasprompt</description>
-      <pubDate>Tue, 29 Sep 2026 11:20:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34638-copy-as-prompt</guid>
-      <dc:date>2026-09-29T11:20:19Z</dc:date>
-    </item>
-    <item>
-      <title>HDC Wi-Fi - Wed Sep 30 05:38:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34637-hdc-wi-fi</link>
-      <description>Manage HarmonyOS / OpenHarmony devices over Wi-Fi from the IDE — like ADB WiFi, but for HDC (hdc tconn / hdc tconn -remove). Visual device panel: add, connect...
-
-vendor: xq-life
-downloads: 9
-pricingModel: FREE
-xmlId: com.xq.hdcwifi</description>
-      <pubDate>Wed, 30 Sep 2026 05:38:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34637-hdc-wi-fi</guid>
-      <dc:date>2026-09-30T05:38:37Z</dc:date>
-    </item>
-    <item>
-      <title>CX Composer for Liferay - Mon Sep 28 15:37:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34601-cx-composer-for-liferay</link>
-      <description>CX Composer for Liferay The developer workbench for Liferay Client Extensions — inside your JetBrains IDE. Scaffolding for all 28 Liferay Client Extension types...
-
-vendor: CX Composer
-downloads: 14
-pricingModel: FREE
-xmlId: dev.cxcomposer.liferay</description>
-      <pubDate>Mon, 28 Sep 2026 15:37:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34601-cx-composer-for-liferay</guid>
-      <dc:date>2026-09-28T15:37:28Z</dc:date>
-    </item>
-    <item>
-      <title>Veyra Language - Tue Sep 29 07:55:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34633-veyra-language</link>
-      <description>Syntax highlighting and .veyra file support for the Veyra business scripting language.
-
-vendor: Acromare
-downloads: 9
-pricingModel: FREE
-xmlId: io.veyralang.veyra</description>
-      <pubDate>Tue, 29 Sep 2026 07:55:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34633-veyra-language</guid>
-      <dc:date>2026-09-29T07:55:31Z</dc:date>
-    </item>
-    <item>
-      <title>Git Commit Message Ticket Number - Tue Sep 29 03:49:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34627-git-commit-message-ticket-number</link>
-      <description>Inserts the ticket number from your current Git branch into the commit message, right where your caret is. If your branch is named feature/ABC-123-add-login, the...
-
-vendor: Mohammad Farsi
-downloads: 2
-pricingModel: FREE
-xmlId: com.mohammadfarsi.git.commit.template</description>
-      <pubDate>Tue, 29 Sep 2026 03:49:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34627-git-commit-message-ticket-number</guid>
-      <dc:date>2026-09-29T03:49:03Z</dc:date>
-    </item>
-    <item>
-      <title>ANSI Ink - Wed Sep 30 05:30:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34614-ansi-ink</link>
-      <description>ANSI Ink renders ANSI colors and text styles in normal JetBrains text editors. It detects ANSI sequences from file content, hides supported control codes, and leaves...
-
-vendor: LeoArk
-downloads: 13
-pricingModel: FREE
-xmlId: com.leoark.ansilens</description>
-      <pubDate>Wed, 30 Sep 2026 05:30:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34614-ansi-ink</guid>
-      <dc:date>2026-09-30T05:30:34Z</dc:date>
-    </item>
-    <item>
-      <title>Touch Typing Practice - Thu Oct 01 05:58:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34632-touch-typing-practice</link>
-      <description>A tool window for practicing touch typing directly in IntelliJ IDEA with configurable practice modes, finger selection, and real-time error tracking.
-
-vendor: my-touchtyping-practice-idea-plugin
-downloads: 9
-pricingModel: FREE
-xmlId: com.github.pyctam.touchtypingpractice</description>
-      <pubDate>Thu, 01 Oct 2026 05:58:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34632-touch-typing-practice</guid>
-      <dc:date>2026-10-01T05:58:32Z</dc:date>
-    </item>
-    <item>
-      <title>epher - Tue Sep 29 06:14:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34631-epher</link>
-      <description>A calculator language with the answers inline: write ordinary math, with units that convert, and every statement's answer appears next to the line that produced it...
-
-vendor: upyesp
-downloads: 12
-pricingModel: FREE
-xmlId: io.epher.jetbrains</description>
-      <pubDate>Tue, 29 Sep 2026 06:14:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34631-epher</guid>
-      <dc:date>2026-09-29T06:14:21Z</dc:date>
-    </item>
-    <item>
-      <title>ArkUIBuilder Tool - Tue Sep 29 06:06:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34630-arkuibuilder-tool</link>
-      <description>Browse ArkUI widget / manager snippets from ArkUIBuilder and insert ArkTS code into the current editor in DevEco Studio.
-
-vendor: ArkUIBuilder
-downloads: 10
-pricingModel: FREE
-xmlId: com.arkuibuilder.tool</description>
-      <pubDate>Tue, 29 Sep 2026 06:06:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34630-arkuibuilder-tool</guid>
-      <dc:date>2026-09-29T06:06:09Z</dc:date>
-    </item>
-    <item>
-      <title>Jason Java Standards - Tue Sep 29 05:40:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34629-jason-java-standards</link>
-      <description>Formats Java using the supplied Student Cheat Sheet: four spaces, mandatory control-flow braces, normal operator spacing, and every curly brace on its own line...
-
-vendor: Maneet
-downloads: 8
-pricingModel: FREE
-xmlId: ca.jasonstandards.formatter</description>
-      <pubDate>Tue, 29 Sep 2026 05:40:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34629-jason-java-standards</guid>
-      <dc:date>2026-09-29T05:40:35Z</dc:date>
     </item>
   </channel>
 </rss>
