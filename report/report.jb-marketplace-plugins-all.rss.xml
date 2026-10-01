@@ -11,7 +11,7 @@
       <description>Build and deploy artifacts or frontend resources to remote hosts. 一键打包 / 一键发布，支持 Maven 多模块项目与前端目录上传 上传本地指定目录或文件到配置好的服务器目录，支持排除规则 上传完成后可选执行服务器上的重启脚本或命令...
 
 vendor: mazor
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.hql.maven-quick-deploy</description>
       <pubDate>Wed, 30 Sep 2026 08:09:14 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.hql.maven-quick-deploy</description>
       <description>Remote Runner exposes your open IntelliJ projects' run configurations through the IDE's built-in web server. List configurations as JSON, filter by project name or...
 
 vendor: Igor Khudoshin
-downloads: 2
+downloads: 16
 pricingModel: FREE
 xmlId: com.sendtralstation.remoteRunner</description>
       <pubDate>Tue, 29 Sep 2026 12:03:54 GMT</pubDate>
@@ -32,17 +32,17 @@ xmlId: com.sendtralstation.remoteRunner</description>
       <dc:date>2026-09-29T12:03:54Z</dc:date>
     </item>
     <item>
-      <title>Redacto - Wed Sep 30 20:33:59 UTC 2026</title>
+      <title>Redacto - Thu Oct 01 09:15:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34648-redacto</link>
       <description>Anonymize selected code or console output on this device, and restore the original values in an AI reply. Select text in an editor or a Run/Debug console, right-click...
 
 vendor: HunKonTech
-downloads: 0
+downloads: 33
 pricingModel: FREE
 xmlId: com.hunkontech.privacyguardrail</description>
-      <pubDate>Wed, 30 Sep 2026 20:33:59 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 09:15:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34648-redacto</guid>
-      <dc:date>2026-09-30T20:33:59Z</dc:date>
+      <dc:date>2026-10-01T09:15:17Z</dc:date>
     </item>
     <item>
       <title>DataChart - Mon Sep 28 11:41:03 UTC 2026</title>
@@ -50,7 +50,7 @@ xmlId: com.hunkontech.privacyguardrail</description>
       <description>DataChart is a plugin that visualizes database table structures on an interactive board. Drag database tables from the Database tool window onto the canvas to generate...
 
 vendor: MicroLight
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: com.wd.DataChart</description>
       <pubDate>Mon, 28 Sep 2026 11:41:03 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.wd.DataChart</description>
       <description>Colour-coded tab groups for IntelliJ editor tabs. Right-click a tab for the colour swatch popup: pick one of 8 preset colours to start a new group and name it, or "Add...
 
 vendor: yendrrek
-downloads: 11
+downloads: 24
 pricingModel: FREEMIUM
 xmlId: io.prismtabs</description>
       <pubDate>Tue, 29 Sep 2026 19:59:19 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: io.prismtabs</description>
       <description>Color the text of folder names in the Project tool window, so the parts of a large project you care about stand out at a glance. Unlike File Colors and scope-based...
 
 vendor: Anton Sinaiskii
-downloads: 8
+downloads: 16
 pricingModel: FREE
 xmlId: io.github.fer0m.foldertextcolor</description>
       <pubDate>Tue, 29 Sep 2026 12:43:43 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: io.github.fer0m.foldertextcolor</description>
       <description>Live code sharing from your IDE to a read-only browser page. This plugin broadcasts the open project to a sourcebeam viewer session: anyone with an invite link watches...
 
 vendor: krowten
-downloads: 6
+downloads: 11
 pricingModel: FREE
 xmlId: com.github.krowten.sourcebeam</description>
       <pubDate>Tue, 29 Sep 2026 12:24:00 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.github.krowten.sourcebeam</description>
       <description>A GUI for TicGit, the git-native ticket system. Browse, create, and manage tickets in a tool window without leaving your IDE. Drives the official ti CLI.
 
 vendor: Carlo Cifarelli
-downloads: 12
+downloads: 69
 pricingModel: FREE
 xmlId: com.carlocifarelli.ticgitui</description>
       <pubDate>Wed, 30 Sep 2026 17:25:27 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.carlocifarelli.ticgitui</description>
       <description>Open Apache Parquet files in an editor tab: a schema tree and paged rows, read locally with bounded memory. Intarsia opens .parquet files in an editor tab, with the...
 
 vendor: Madrasco
-downloads: 11
+downloads: 17
 pricingModel: FREE
 xmlId: dev.madrasco.intarsia</description>
       <pubDate>Tue, 29 Sep 2026 14:27:12 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: dev.madrasco.intarsia</description>
       <description>Gutter navigation between MyBatis annotation-based Mapper methods and their SQL provider methods — like MyBatisX's bird icon, but for the annotation style. Forward — a...
 
 vendor: gavin yang
-downloads: 5
+downloads: 8
 pricingModel: FREE
 xmlId: mybatis-provider-jump</description>
       <pubDate>Sat, 26 Sep 2026 12:57:06 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: mybatis-provider-jump</description>
       <description>Plugin Description Note: This is an unofficial, community-maintained plugin. Not affiliated with any AI vendor. Features Copy as Prompt — select code, right-click, and...
 
 vendor: shenyuanlaolarou
-downloads: 6
+downloads: 14
 pricingModel: FREE
 xmlId: com.shenyuanlaolarou.copyasprompt</description>
       <pubDate>Tue, 29 Sep 2026 11:20:19 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.shenyuanlaolarou.copyasprompt</description>
       <description>Manage HarmonyOS / OpenHarmony devices over Wi-Fi from the IDE — like ADB WiFi, but for HDC (hdc tconn / hdc tconn -remove). Visual device panel: add, connect...
 
 vendor: xq-life
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: com.xq.hdcwifi</description>
       <pubDate>Wed, 30 Sep 2026 05:38:37 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.xq.hdcwifi</description>
       <description>CX Composer for Liferay The developer workbench for Liferay Client Extensions — inside your JetBrains IDE. Scaffolding for all 28 Liferay Client Extension types...
 
 vendor: CX Composer
-downloads: 6
+downloads: 14
 pricingModel: FREE
 xmlId: dev.cxcomposer.liferay</description>
       <pubDate>Mon, 28 Sep 2026 15:37:28 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: dev.cxcomposer.liferay</description>
       <description>Syntax highlighting and .veyra file support for the Veyra business scripting language.
 
 vendor: Acromare
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: io.veyralang.veyra</description>
       <pubDate>Tue, 29 Sep 2026 07:55:31 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: io.veyralang.veyra</description>
       <description>Inserts the ticket number from your current Git branch into the commit message, right where your caret is. If your branch is named feature/ABC-123-add-login, the...
 
 vendor: Mohammad Farsi
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.mohammadfarsi.git.commit.template</description>
       <pubDate>Tue, 29 Sep 2026 03:49:03 GMT</pubDate>
@@ -201,30 +201,30 @@ xmlId: com.mohammadfarsi.git.commit.template</description>
       <dc:date>2026-09-29T03:49:03Z</dc:date>
     </item>
     <item>
-      <title>ANSI Lens - Wed Sep 30 05:30:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34614-ansi-lens</link>
-      <description>ANSI Lens renders ANSI colors and text styles in normal JetBrains text editors. It detects ANSI sequences from file content, hides supported control codes, and leaves...
+      <title>ANSI Ink - Wed Sep 30 05:30:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34614-ansi-ink</link>
+      <description>ANSI Ink renders ANSI colors and text styles in normal JetBrains text editors. It detects ANSI sequences from file content, hides supported control codes, and leaves...
 
 vendor: LeoArk
-downloads: 5
+downloads: 13
 pricingModel: FREE
 xmlId: com.leoark.ansilens</description>
       <pubDate>Wed, 30 Sep 2026 05:30:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34614-ansi-lens</guid>
+      <guid>https://plugins.jetbrains.com/plugin/34614-ansi-ink</guid>
       <dc:date>2026-09-30T05:30:34Z</dc:date>
     </item>
     <item>
-      <title>Touch Typing Practice - Thu Oct 01 00:31:40 UTC 2026</title>
+      <title>Touch Typing Practice - Thu Oct 01 05:58:32 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34632-touch-typing-practice</link>
       <description>A tool window for practicing touch typing directly in IntelliJ IDEA with configurable practice modes, finger selection, and real-time error tracking.
 
 vendor: my-touchtyping-practice-idea-plugin
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.pyctam.touchtypingpractice</description>
-      <pubDate>Thu, 01 Oct 2026 00:31:40 GMT</pubDate>
+      <pubDate>Thu, 01 Oct 2026 05:58:32 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34632-touch-typing-practice</guid>
-      <dc:date>2026-10-01T00:31:40Z</dc:date>
+      <dc:date>2026-10-01T05:58:32Z</dc:date>
     </item>
     <item>
       <title>epher - Tue Sep 29 06:14:21 UTC 2026</title>
@@ -232,7 +232,7 @@ xmlId: com.github.pyctam.touchtypingpractice</description>
       <description>A calculator language with the answers inline: write ordinary math, with units that convert, and every statement's answer appears next to the line that produced it...
 
 vendor: upyesp
-downloads: 5
+downloads: 12
 pricingModel: FREE
 xmlId: io.epher.jetbrains</description>
       <pubDate>Tue, 29 Sep 2026 06:14:21 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: io.epher.jetbrains</description>
       <description>Browse ArkUI widget / manager snippets from ArkUIBuilder and insert ArkTS code into the current editor in DevEco Studio.
 
 vendor: ArkUIBuilder
-downloads: 5
+downloads: 10
 pricingModel: FREE
 xmlId: com.arkuibuilder.tool</description>
       <pubDate>Tue, 29 Sep 2026 06:06:09 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.arkuibuilder.tool</description>
       <description>Formats Java using the supplied Student Cheat Sheet: four spaces, mandatory control-flow braces, normal operator spacing, and every curly brace on its own line...
 
 vendor: Maneet
-downloads: 5
+downloads: 8
 pricingModel: FREE
 xmlId: ca.jasonstandards.formatter</description>
       <pubDate>Tue, 29 Sep 2026 05:40:35 GMT</pubDate>
