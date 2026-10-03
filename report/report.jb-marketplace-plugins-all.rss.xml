@@ -6,12 +6,194 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Prismio - Fri Oct 02 07:47:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34672-prismio</link>
+      <description>Support for the Prismio programming language: .psm source files and build.ums project files. Writing code Syntax highlighting, with separate colours for types...
+
+vendor: Prismio
+downloads: 0
+pricingModel: FREE
+xmlId: io.prismio</description>
+      <pubDate>Fri, 02 Oct 2026 07:47:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34672-prismio</guid>
+      <dc:date>2026-10-02T07:47:18Z</dc:date>
+    </item>
+    <item>
+      <title>Runners Bar - Fri Oct 02 09:35:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34701-runners-bar</link>
+      <description>Your most used run configurations, one click away. Runners Bar adds a slim bar above the status bar (or below the toolbar) that holds run configurations as tabs. Click...
+
+vendor: heck\it
+downloads: 3
+pricingModel: FREE
+xmlId: app.heckit.ide.runnersbar</description>
+      <pubDate>Fri, 02 Oct 2026 09:35:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34701-runners-bar</guid>
+      <dc:date>2026-10-02T09:35:38Z</dc:date>
+    </item>
+    <item>
+      <title>Explicit Block Endings - Thu Oct 01 17:29:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34698-explicit-block-endings</link>
+      <description>Shows the # end if / # end with / ... block-end markers used by this project's Python style as virtual, IDE-only annotations, never written into the file. Flags real...
+
+vendor: Lucky Lucy
+downloads: 1
+pricingModel: FREE
+xmlId: luckylucy.intellij-plugins.endifcomments</description>
+      <pubDate>Thu, 01 Oct 2026 17:29:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34698-explicit-block-endings</guid>
+      <dc:date>2026-10-01T17:29:46Z</dc:date>
+    </item>
+    <item>
+      <title>CMP Resource Manager - Fri Oct 02 02:41:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34699-cmp-resource-manager</link>
+      <description>Browse Compose Multiplatform resources in Android Studio through a native tool window. Discover composeResources directories across modules and source sets. Browse...
+
+vendor: dev-weiqi
+downloads: 4
+pricingModel: FREE
+xmlId: io.github.devweiqi.cmp-resource-manager</description>
+      <pubDate>Fri, 02 Oct 2026 02:41:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34699-cmp-resource-manager</guid>
+      <dc:date>2026-10-02T02:41:32Z</dc:date>
+    </item>
+    <item>
+      <title>Cmd Widgets - Fri Oct 02 10:23:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34715-cmd-widgets</link>
+      <description>Display shell command output as independent widgets in your IDE status bar. Track Git branches, disk space, Kubernetes contexts, or any other value available from a...
+
+vendor: JetBrains s.r.o.
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.nizienko.cmdwidget</description>
+      <pubDate>Fri, 02 Oct 2026 10:23:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34715-cmd-widgets</guid>
+      <dc:date>2026-10-02T10:23:05Z</dc:date>
+    </item>
+    <item>
+      <title>Git Commit Date Time - Fri Oct 02 08:06:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34713-git-commit-date-time</link>
+      <description>Choose the date, time, and time zone recorded in your Git commits directly in your IDE. What you can do Set custom dates for your next commit from the Commit options...
+
+vendor: Denis Klimovich
+downloads: 1
+pricingModel: FREE
+xmlId: io.gitcommitdatetime</description>
+      <pubDate>Fri, 02 Oct 2026 08:06:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34713-git-commit-date-time</guid>
+      <dc:date>2026-10-02T08:06:13Z</dc:date>
+    </item>
+    <item>
+      <title>ChatAssistantX - Fri Oct 02 01:09:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34694-chatassistantx</link>
+      <description>Prerequisite Before installing ChatAssistantX, install the Codex CLI and complete codex login. The OpenAI Responses API integration is also supported and requires a...
+
+vendor: Developing Future &amp; Solutions
+downloads: 3
+pricingModel: PAID
+xmlId: dev.vtspp.chatassistantx</description>
+      <pubDate>Fri, 02 Oct 2026 01:09:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34694-chatassistantx</guid>
+      <dc:date>2026-10-02T01:09:27Z</dc:date>
+    </item>
+    <item>
+      <title>Squire - Fri Oct 02 08:31:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34714-squire</link>
+      <description>Squire visualizes Dagger and Hilt dependency graphs for Java and Kotlin projects, right inside your IDE. Open the Dagger Graph tool window, pick a root @Component, and...
+
+vendor: xndSoft
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.xnchung.squire</description>
+      <pubDate>Fri, 02 Oct 2026 08:31:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34714-squire</guid>
+      <dc:date>2026-10-02T08:31:44Z</dc:date>
+    </item>
+    <item>
+      <title>AutoHotkey v2, TOML and DeviceTree checks - Thu Oct 01 22:38:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34703-autohotkey-v2-toml-and-devicetree-checks</link>
+      <description>A DeviceTree overlay with status = "enabled" boots the node disabled and a TOML integer with a leading zero stops the parser. Neither is an editor error. 22 checks and...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.autohotkey-toml-devicetree-snippets</description>
+      <pubDate>Thu, 01 Oct 2026 22:38:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34703-autohotkey-v2-toml-and-devicetree-checks</guid>
+      <dc:date>2026-10-01T22:38:06Z</dc:date>
+    </item>
+    <item>
+      <title>Biometric Consent Audit - Thu Oct 01 22:38:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34704-biometric-consent-audit</link>
+      <description>14 rules over face, fingerprint and voiceprint code: written release, destruction schedule, the 1095-day cap and the three EU AI Act prohibitions Right-click in the...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.biometric-consent-audit</description>
+      <pubDate>Thu, 01 Oct 2026 22:38:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34704-biometric-consent-audit</guid>
+      <dc:date>2026-10-01T22:38:33Z</dc:date>
+    </item>
+    <item>
+      <title>SQL Server Docker Licence Lint - Thu Oct 01 22:38:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34705-sql-server-docker-licence-lint</link>
+      <description>mssql docker licence check for compose, Kubernetes and Dockerfiles Right-click in the editor (or Tools) → SQL Server Docker Licence Lint: Check This File. Each finding...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.mssql-container-licence-lint</description>
+      <pubDate>Thu, 01 Oct 2026 22:38:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34705-sql-server-docker-licence-lint</guid>
+      <dc:date>2026-10-01T22:38:56Z</dc:date>
+    </item>
+    <item>
+      <title>Play Declaration Gap Lint - Thu Oct 01 22:39:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34706-play-declaration-gap-lint</link>
+      <description>15 checks that name every Play Console declaration your manifest opens Right-click in the editor (or Tools) → Play Declaration Gap Lint: Check This File. Each finding...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.play-declaration-gap-lint</description>
+      <pubDate>Thu, 01 Oct 2026 22:39:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34706-play-declaration-gap-lint</guid>
+      <dc:date>2026-10-01T22:39:21Z</dc:date>
+    </item>
+    <item>
+      <title>Google Play Release Blocker Lint - Thu Oct 01 22:39:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34707-google-play-release-blocker-lint</link>
+      <description>Finds the lines that make Google Play reject your release - target API below 36, Billing Library below 8, 4 KB-only native libs - and prints the date each gate closed...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.play-release-blocker-lint</description>
+      <pubDate>Thu, 01 Oct 2026 22:39:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34707-google-play-release-blocker-lint</guid>
+      <dc:date>2026-10-01T22:39:46Z</dc:date>
+    </item>
+    <item>
+      <title>AI Crawler Rules - Thu Oct 01 22:40:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34708-ai-crawler-rules</link>
+      <description>Checks robots.txt line by line and says what each AI crawler token actually controls - training, AI-search citation, or user fetch - and which lines silently do...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.robots-txt-ai-crawler-audit</description>
+      <pubDate>Thu, 01 Oct 2026 22:40:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34708-ai-crawler-rules</guid>
+      <dc:date>2026-10-01T22:40:14Z</dc:date>
+    </item>
+    <item>
       <title>Architect - Thu Oct 01 18:22:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34543-architect</link>
       <description>Architect is an all-in-one code and infrastructure generation tool for IntelliJ IDEA designed to quickly bootstrap Spring Boot applications and eliminate repetitive...
 
 vendor: DoneIt
-downloads: 3
+downloads: 10
 pricingModel: FREE
 xmlId: org.product.catalog.service.Architect</description>
       <pubDate>Thu, 01 Oct 2026 18:22:17 GMT</pubDate>
@@ -24,7 +206,7 @@ xmlId: org.product.catalog.service.Architect</description>
       <description>Generates an entity-relationship diagram of your JPA entities as an Excalidraw file. Works with javax.persistence (Spring Boot 2.7) and jakarta.persistence (Spring...
 
 vendor: chidev
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.chidev.orkitekt</description>
       <pubDate>Thu, 01 Oct 2026 12:09:28 GMT</pubDate>
@@ -37,7 +219,7 @@ xmlId: com.chidev.orkitekt</description>
       <description>DokuWiki Preview adds a live, side-by-side preview for DokuWiki pages — edit the markup on the left, see the rendered page on the right as you type. Which files Pages...
 
 vendor: Christoph Wagner
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: de.christophwagner.idea.dokuwikipreview</description>
       <pubDate>Wed, 30 Sep 2026 22:10:30 GMT</pubDate>
@@ -50,7 +232,7 @@ xmlId: de.christophwagner.idea.dokuwikipreview</description>
       <description>Browse, update, and export Rally work items in the IDE. A dedicated tool window lists your User Stories, Defects, and Test Cases from Rally (Broadcom Agile Central...
 
 vendor: Halmurat Tahir
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.halmuratuyghur.rally</description>
       <pubDate>Tue, 29 Sep 2026 22:50:37 GMT</pubDate>
@@ -63,7 +245,7 @@ xmlId: com.github.halmuratuyghur.rally</description>
       <description>Your Playwright suite's history in the IDE, from a Piwi instance: the failures of the latest CI run on the checked-out branch, at their failing lines, with the...
 
 vendor: Piwitests
-downloads: 4
+downloads: 10
 pricingModel: FREE
 xmlId: dev.piwitests.piwi</description>
       <pubDate>Wed, 30 Sep 2026 21:13:15 GMT</pubDate>
@@ -71,199 +253,17 @@ xmlId: dev.piwitests.piwi</description>
       <dc:date>2026-09-30T21:13:15Z</dc:date>
     </item>
     <item>
-      <title>Linux Do (API Docs) - Fri Oct 02 11:47:30 UTC 2026</title>
+      <title>Linux Do (API Docs) - Sat Oct 03 09:14:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34669-linux-do-api-docs-</link>
       <description>Linux Do — Unofficial Community Client An independent, personal project by lgguan, licensed under MIT. Not affiliated with or endorsed by Linux Do or JetBrains. Only...
 
 vendor: lgguan
-downloads: 7
+downloads: 31
 pricingModel: FREE
 xmlId: com.lgguan.linuxdo.plugin</description>
-      <pubDate>Fri, 02 Oct 2026 11:47:30 GMT</pubDate>
+      <pubDate>Sat, 03 Oct 2026 09:14:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34669-linux-do-api-docs-</guid>
-      <dc:date>2026-10-02T11:47:30Z</dc:date>
-    </item>
-    <item>
-      <title>Charts - Thu Oct 01 12:37:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34691-charts</link>
-      <description>Provides charting components based on Lets-Plot library.
-
-vendor: JetBrains s.r.o.
-downloads: 1
-pricingModel: FREE
-xmlId: com.intellij.platform.charts</description>
-      <pubDate>Thu, 01 Oct 2026 12:37:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34691-charts</guid>
-      <dc:date>2026-10-01T12:37:23Z</dc:date>
-    </item>
-    <item>
-      <title>Code Findings - Thu Oct 01 13:29:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34688-code-findings</link>
-      <description>A findings bus for JetBrains IDEs. People, AI agents and static linters publish findings into one shared model. Each of them reads the findings the others left. A...
-
-vendor: JetBrains s.r.o.
-downloads: 8
-pricingModel: FREE
-xmlId: com.intellij.codeFindings</description>
-      <pubDate>Thu, 01 Oct 2026 13:29:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34688-code-findings</guid>
-      <dc:date>2026-10-01T13:29:13Z</dc:date>
-    </item>
-    <item>
-      <title>Spec Checker for OpenAPI - Tue Sep 29 22:08:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34652-spec-checker-for-openapi</link>
-      <description>Checks and navigates OpenAPI and Swagger documents in YAML and JSON. Supports Swagger 2.0 and OpenAPI 3.0, 3.1 and 3.2. In the editor Structure checks against the...
-
-vendor: Madrasco
-downloads: 1
-pricingModel: FREE
-xmlId: dev.madrasco.spec-checker-openapi</description>
-      <pubDate>Tue, 29 Sep 2026 22:08:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34652-spec-checker-for-openapi</guid>
-      <dc:date>2026-09-29T22:08:54Z</dc:date>
-    </item>
-    <item>
-      <title>TableBridge - Database Object Copy - Thu Oct 01 11:59:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34687-tablebridge--database-object-copy</link>
-      <description>Copy database objects between DataGrip connections. Review the SQL, then transfer. TableBridge adds a familiar Copy → Paste workflow to the database tree. Select...
-
-vendor: TableBridge
-downloads: 0
-pricingModel: FREE
-xmlId: com.tablebridge.copy</description>
-      <pubDate>Thu, 01 Oct 2026 11:59:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34687-tablebridge--database-object-copy</guid>
-      <dc:date>2026-10-01T11:59:14Z</dc:date>
-    </item>
-    <item>
-      <title>Taiga UI Design Tokens - Wed Sep 30 09:51:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34582-taiga-ui-design-tokens</link>
-      <description>Taiga UI Design Tokens is a community-maintained WebStorm plugin for developers working with Taiga UI. It brings project-aware design tokens, icons, CSS units, and...
-
-vendor: splincode
-downloads: 3
-pricingModel: FREE
-xmlId: org.taigaui.designtokens</description>
-      <pubDate>Wed, 30 Sep 2026 09:51:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34582-taiga-ui-design-tokens</guid>
-      <dc:date>2026-09-30T09:51:29Z</dc:date>
-    </item>
-    <item>
-      <title>Media2URL - Cloud Asset Manager - Mon Sep 14 14:28:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34260-media2url--cloud-asset-manager</link>
-      <description>Upload project assets to Media2URL from JetBrains IDEs, copy hosted URLs, and insert them directly into Markdown, HTML, CSS, code, and documentation. The Media2URL...
-
-vendor: Media2URL
-downloads: 3
-pricingModel: FREE
-xmlId: com.media2url.uploader</description>
-      <pubDate>Mon, 14 Sep 2026 14:28:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34260-media2url--cloud-asset-manager</guid>
-      <dc:date>2026-09-14T14:28:25Z</dc:date>
-    </item>
-    <item>
-      <title>Diff Notes - Wed Sep 30 10:51:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34650-diff-notes</link>
-      <description>Capture private review notes directly from code editors and native text diff views. Diff Notes helps you collect line-specific feedback while reviewing local changes...
-
-vendor: Magika
-downloads: 2
-pricingModel: PAID
-xmlId: dev.diffnotes.private</description>
-      <pubDate>Wed, 30 Sep 2026 10:51:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34650-diff-notes</guid>
-      <dc:date>2026-09-30T10:51:23Z</dc:date>
-    </item>
-    <item>
-      <title>Logwren Log Viewer - Thu Oct 01 15:48:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34693-logwren-log-viewer</link>
-      <description>Log viewer that needs no setup: open any .log file and it is coloured, folded and navigable. No regex patterns, no per-format configuration. Automatic format detection...
-
-vendor: Logwren
-downloads: 3
-pricingModel: PAID
-xmlId: dev.logwren</description>
-      <pubDate>Thu, 01 Oct 2026 15:48:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34693-logwren-log-viewer</guid>
-      <dc:date>2026-10-01T15:48:17Z</dc:date>
-    </item>
-    <item>
-      <title>Fluxora Modulith - Wed Sep 30 11:37:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34667-fluxora-modulith</link>
-      <description>Spring Modulith architecture analysis for IntelliJ IDEA. Fluxora Modulith helps Java and Spring developers understand, visualize, and enforce modular application...
-
-vendor: Fluxora
-downloads: 1
-pricingModel: FREE
-xmlId: com.fluxora.modulith</description>
-      <pubDate>Wed, 30 Sep 2026 11:37:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34667-fluxora-modulith</guid>
-      <dc:date>2026-09-30T11:37:57Z</dc:date>
-    </item>
-    <item>
-      <title>HTML Cell Viewer - Wed Sep 30 06:23:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34661-html-cell-viewer</link>
-      <description>Preview and inspect rendered HTML content directly from database table cells in your IDE. Features Context Menu Preview: Right-click any database cell containing HTML...
-
-vendor: Seth Cohen OC
-downloads: 1
-pricingModel: FREE
-xmlId: com.htmlcellviewer</description>
-      <pubDate>Wed, 30 Sep 2026 06:23:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34661-html-cell-viewer</guid>
-      <dc:date>2026-09-30T06:23:45Z</dc:date>
-    </item>
-    <item>
-      <title>Verse Language - Thu Oct 01 14:48:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34352-verse-language</link>
-      <description>Native Verse language support for Rider. Verse is Epic Games’ programming language for the Unreal Engine ecosystem. Rider analyzes Verse directly rather than through...
-
-vendor: JetBrains s.r.o.
-downloads: 13
-pricingModel: FREE
-xmlId: com.jetbrains.rider.plugins.verse</description>
-      <pubDate>Thu, 01 Oct 2026 14:48:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34352-verse-language</guid>
-      <dc:date>2026-10-01T14:48:12Z</dc:date>
-    </item>
-    <item>
-      <title>ACH / NACHA Toolkit - Wed Sep 30 20:19:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34673-ach--nacha-toolkit</link>
-      <description>ACH / NACHA Toolkit — validate and generate US ACH files in the IDE Payments engineers hand-craft and debug fixed-width NACHA ACH files (94-character records, batch...
-
-vendor: VadimToptunov
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.vadimtoptunov.nacha-toolkit</description>
-      <pubDate>Wed, 30 Sep 2026 20:19:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34673-ach--nacha-toolkit</guid>
-      <dc:date>2026-09-30T20:19:35Z</dc:date>
-    </item>
-    <item>
-      <title>Block Banner Generator - Wed Sep 30 07:54:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34664-block-banner-generator</link>
-      <description>Turns a few words into a big block-letter banner comment, in any language: English, Korean, Japanese, Chinese, symbols, mixed. Instead of FIGlet fonts it rasterizes...
-
-vendor: Victor Lee
-downloads: 2
-pricingModel: FREE
-xmlId: net.toekit.blockbanner</description>
-      <pubDate>Wed, 30 Sep 2026 07:54:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34664-block-banner-generator</guid>
-      <dc:date>2026-09-30T07:54:24Z</dc:date>
-    </item>
-    <item>
-      <title>Tree Remark - Wed Sep 30 09:15:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34665-tree-remark</link>
-      <description>Tree Remark shows custom annotations next to file and folder names in the Project view, driven by a Markdown table at the project root...
-
-vendor: Tree Remark
-downloads: 2
-pricingModel: FREE
-xmlId: com.wyzj.treeremark</description>
-      <pubDate>Wed, 30 Sep 2026 09:15:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34665-tree-remark</guid>
-      <dc:date>2026-09-30T09:15:05Z</dc:date>
+      <dc:date>2026-10-03T09:14:52Z</dc:date>
     </item>
   </channel>
 </rss>

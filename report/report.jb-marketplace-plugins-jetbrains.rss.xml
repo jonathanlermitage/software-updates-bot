@@ -6,43 +6,17 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Charts - Thu Oct 01 12:37:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34691-charts</link>
-      <description>Provides charting components based on Lets-Plot library.
+      <title>Cmd Widgets - Fri Oct 02 10:23:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34715-cmd-widgets</link>
+      <description>Display shell command output as independent widgets in your IDE status bar. Track Git branches, disk space, Kubernetes contexts, or any other value available from a...
 
 vendor: JetBrains s.r.o.
 downloads: 1
 pricingModel: FREE
-xmlId: com.intellij.platform.charts</description>
-      <pubDate>Thu, 01 Oct 2026 12:37:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34691-charts</guid>
-      <dc:date>2026-10-01T12:37:23Z</dc:date>
-    </item>
-    <item>
-      <title>Code Findings - Thu Oct 01 13:29:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34688-code-findings</link>
-      <description>A findings bus for JetBrains IDEs. People, AI agents and static linters publish findings into one shared model. Each of them reads the findings the others left. A...
-
-vendor: JetBrains s.r.o.
-downloads: 8
-pricingModel: FREE
-xmlId: com.intellij.codeFindings</description>
-      <pubDate>Thu, 01 Oct 2026 13:29:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34688-code-findings</guid>
-      <dc:date>2026-10-01T13:29:13Z</dc:date>
-    </item>
-    <item>
-      <title>Verse Language - Thu Oct 01 14:48:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34352-verse-language</link>
-      <description>Native Verse language support for Rider. Verse is Epic Games’ programming language for the Unreal Engine ecosystem. Rider analyzes Verse directly rather than through...
-
-vendor: JetBrains s.r.o.
-downloads: 13
-pricingModel: FREE
-xmlId: com.jetbrains.rider.plugins.verse</description>
-      <pubDate>Thu, 01 Oct 2026 14:48:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34352-verse-language</guid>
-      <dc:date>2026-10-01T14:48:12Z</dc:date>
+xmlId: com.github.nizienko.cmdwidget</description>
+      <pubDate>Fri, 02 Oct 2026 10:23:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34715-cmd-widgets</guid>
+      <dc:date>2026-10-02T10:23:05Z</dc:date>
     </item>
   </channel>
 </rss>
