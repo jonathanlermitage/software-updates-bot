@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Velo Terminal - Sat Oct 03 13:03:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34724-velo-terminal</link>
+      <description>Velo in a tool window: a fast terminal with blocks, autosuggestions and just enough AI. Blocks: every command and its output is a block you can select, copy, search...
+
+vendor: Chathuranga Jayasinghe
+downloads: 7
+pricingModel: FREE
+xmlId: dev.velo.terminal</description>
+      <pubDate>Sat, 03 Oct 2026 13:03:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34724-velo-terminal</guid>
+      <dc:date>2026-10-03T13:03:23Z</dc:date>
+    </item>
+    <item>
       <title>Prismio - Fri Oct 02 07:47:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34672-prismio</link>
       <description>Support for the Prismio programming language: .psm source files and build.ums project files. Writing code Syntax highlighting, with separate colours for types...
@@ -24,7 +37,7 @@ xmlId: io.prismio</description>
       <description>Your most used run configurations, one click away. Runners Bar adds a slim bar above the status bar (or below the toolbar) that holds run configurations as tabs. Click...
 
 vendor: heck\it
-downloads: 11
+downloads: 17
 pricingModel: FREE
 xmlId: app.heckit.ide.runnersbar</description>
       <pubDate>Sun, 04 Oct 2026 19:56:52 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: app.heckit.ide.runnersbar</description>
       <description>Shows the # end if / # end with / ... block-end markers used by this project's Python style as virtual, IDE-only annotations, never written into the file. Flags real...
 
 vendor: Lucky Lucy
-downloads: 6
+downloads: 7
 pricingModel: FREE
 xmlId: luckylucy.intellij-plugins.endifcomments</description>
       <pubDate>Thu, 01 Oct 2026 17:29:46 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: luckylucy.intellij-plugins.endifcomments</description>
       <description>Browse Compose Multiplatform resources in Android Studio through a native tool window. Discover composeResources directories across modules and source sets. Browse...
 
 vendor: dev-weiqi
-downloads: 14
+downloads: 23
 pricingModel: FREE
 xmlId: io.github.devweiqi.cmp-resource-manager</description>
       <pubDate>Sun, 04 Oct 2026 13:37:46 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: io.github.devweiqi.cmp-resource-manager</description>
       <description>Display shell command output as independent widgets in your IDE status bar. Track Git branches, disk space, Kubernetes contexts, or any other value available from a...
 
 vendor: JetBrains s.r.o.
-downloads: 13
+downloads: 20
 pricingModel: FREE
 xmlId: com.github.nizienko.cmdwidget</description>
       <pubDate>Fri, 02 Oct 2026 10:23:05 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.github.nizienko.cmdwidget</description>
       <description>Choose the date, time, and time zone recorded in your Git commits directly in your IDE. What you can do Set custom dates for your next commit from the Commit options...
 
 vendor: Denis Klimovich
-downloads: 7
+downloads: 9
 pricingModel: FREE
 xmlId: io.gitcommitdatetime</description>
       <pubDate>Fri, 02 Oct 2026 08:06:13 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: io.gitcommitdatetime</description>
       <description>Prerequisite Before installing ChatAssistantX, install the Codex CLI and complete codex login. The OpenAI Responses API integration is also supported and requires a...
 
 vendor: Developing Future &amp; Solutions
-downloads: 6
+downloads: 8
 pricingModel: PAID
 xmlId: dev.vtspp.chatassistantx</description>
       <pubDate>Fri, 02 Oct 2026 01:09:27 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: dev.vtspp.chatassistantx</description>
       <description>Squire visualizes Dagger and Hilt dependency graphs for Java and Kotlin projects, right inside your IDE. Open the Dagger Graph tool window, pick a root @Component, and...
 
 vendor: xndSoft
-downloads: 7
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.xnchung.squire</description>
       <pubDate>Fri, 02 Oct 2026 08:31:44 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.github.xnchung.squire</description>
       <description>A DeviceTree overlay with status = "enabled" boots the node disabled and a TOML integer with a leading zero stops the parser. Neither is an editor error. 22 checks and...
 
 vendor: ReadyStack
-downloads: 7
+downloads: 8
 pricingModel: FREE
 xmlId: com.getreadystack.autohotkey-toml-devicetree-snippets</description>
       <pubDate>Thu, 01 Oct 2026 22:38:06 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.getreadystack.autohotkey-toml-devicetree-snippets</description>
       <description>14 rules over face, fingerprint and voiceprint code: written release, destruction schedule, the 1095-day cap and the three EU AI Act prohibitions Right-click in the...
 
 vendor: ReadyStack
-downloads: 7
+downloads: 8
 pricingModel: FREE
 xmlId: com.getreadystack.biometric-consent-audit</description>
       <pubDate>Thu, 01 Oct 2026 22:38:33 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.getreadystack.biometric-consent-audit</description>
       <description>mssql docker licence check for compose, Kubernetes and Dockerfiles Right-click in the editor (or Tools) → SQL Server Docker Licence Lint: Check This File. Each finding...
 
 vendor: ReadyStack
-downloads: 7
+downloads: 8
 pricingModel: FREE
 xmlId: com.getreadystack.mssql-container-licence-lint</description>
       <pubDate>Thu, 01 Oct 2026 22:38:56 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: com.getreadystack.mssql-container-licence-lint</description>
       <description>15 checks that name every Play Console declaration your manifest opens Right-click in the editor (or Tools) → Play Declaration Gap Lint: Check This File. Each finding...
 
 vendor: ReadyStack
-downloads: 7
+downloads: 8
 pricingModel: FREE
 xmlId: com.getreadystack.play-declaration-gap-lint</description>
       <pubDate>Thu, 01 Oct 2026 22:39:21 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: com.getreadystack.play-declaration-gap-lint</description>
       <description>Finds the lines that make Google Play reject your release - target API below 36, Billing Library below 8, 4 KB-only native libs - and prints the date each gate closed...
 
 vendor: ReadyStack
-downloads: 8
+downloads: 11
 pricingModel: FREE
 xmlId: com.getreadystack.play-release-blocker-lint</description>
       <pubDate>Thu, 01 Oct 2026 22:39:46 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.getreadystack.play-release-blocker-lint</description>
       <description>Checks robots.txt line by line and says what each AI crawler token actually controls - training, AI-search citation, or user fetch - and which lines silently do...
 
 vendor: ReadyStack
-downloads: 7
+downloads: 8
 pricingModel: FREE
 xmlId: com.getreadystack.robots-txt-ai-crawler-audit</description>
       <pubDate>Thu, 01 Oct 2026 22:40:14 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.getreadystack.robots-txt-ai-crawler-audit</description>
       <description>Architect is an all-in-one code and infrastructure generation tool for IntelliJ IDEA designed to quickly bootstrap Spring Boot applications and eliminate repetitive...
 
 vendor: DoneIt
-downloads: 14
+downloads: 16
 pricingModel: FREE
 xmlId: org.product.catalog.service.Architect</description>
       <pubDate>Thu, 01 Oct 2026 18:22:17 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.chidev.orkitekt</description>
       <description>DokuWiki Preview adds a live, side-by-side preview for DokuWiki pages — edit the markup on the left, see the rendered page on the right as you type. Which files Pages...
 
 vendor: Christoph Wagner
-downloads: 11
+downloads: 12
 pricingModel: FREE
 xmlId: de.christophwagner.idea.dokuwikipreview</description>
       <pubDate>Wed, 30 Sep 2026 22:10:30 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: de.christophwagner.idea.dokuwikipreview</description>
       <description>Browse, update, and export Rally work items in the IDE. A dedicated tool window lists your User Stories, Defects, and Test Cases from Rally (Broadcom Agile Central...
 
 vendor: Halmurat Tahir
-downloads: 9
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.halmuratuyghur.rally</description>
       <pubDate>Tue, 29 Sep 2026 22:50:37 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.github.halmuratuyghur.rally</description>
       <description>Your Playwright suite's history in the IDE, from a Piwi instance: the failures of the latest CI run on the checked-out branch, at their failing lines, with the...
 
 vendor: Piwitests
-downloads: 13
+downloads: 15
 pricingModel: FREE
 xmlId: dev.piwitests.piwi</description>
       <pubDate>Wed, 30 Sep 2026 21:13:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34674-piwi</guid>
       <dc:date>2026-09-30T21:13:15Z</dc:date>
-    </item>
-    <item>
-      <title>Linux Do (API Docs) - Sun Oct 04 12:22:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34669-linux-do-api-docs-</link>
-      <description>Linux Do — Unofficial Community Client An independent, personal project by lgguan, licensed under MIT. Not affiliated with or endorsed by Linux Do or JetBrains. Only...
-
-vendor: lgguan
-downloads: 49
-pricingModel: FREE
-xmlId: com.lgguan.linuxdo.plugin</description>
-      <pubDate>Sun, 04 Oct 2026 12:22:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34669-linux-do-api-docs-</guid>
-      <dc:date>2026-10-04T12:22:02Z</dc:date>
     </item>
   </channel>
 </rss>
