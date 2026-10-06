@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Atlassian Teamwork Graph CLI - Fri Sep 25 04:00:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34518-atlassian-teamwork-graph-cli</link>
+      <description>Teamwork Graph CLI is Atlassian's agent-first interface to your entire work context: Jira issues, Confluence pages, Bitbucket pull requests, and connected third-party...
+
+vendor: Atlassian
+downloads: 1
+pricingModel: FREE
+xmlId: com.atlassian.twg.cli</description>
+      <pubDate>Fri, 25 Sep 2026 04:00:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34518-atlassian-teamwork-graph-cli</guid>
+      <dc:date>2026-09-25T04:00:17Z</dc:date>
+    </item>
+    <item>
       <title>Igor-PHP - Tue Oct 06 09:14:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34646-igor-php</link>
       <description>Igor-PHP — The faithful assistant for FrankenPHP Workers Inspects your Symfony applications in real-time to detect shared state mutations, memory leaks, and worker...
@@ -227,7 +240,7 @@ xmlId: app.heckit.ide.latherit</description>
       <dc:date>2026-10-04T20:49:02Z</dc:date>
     </item>
     <item>
-      <title>CircleCI - Tue Oct 06 09:44:15 UTC 2026</title>
+      <title>CircleCI - Tue Oct 06 14:07:39 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34719-circleci</link>
       <description>CircleCI integration for JetBrains IDEs Monitor, manage, and debug CircleCI runs directly within your IDE. This extension provides: Real-time run, workflow, and job...
 
@@ -235,9 +248,9 @@ vendor: CircleCI
 downloads: 7
 pricingModel: FREE
 xmlId: com.circleci.idea</description>
-      <pubDate>Tue, 06 Oct 2026 09:44:15 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 14:07:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34719-circleci</guid>
-      <dc:date>2026-10-06T09:44:15Z</dc:date>
+      <dc:date>2026-10-06T14:07:39Z</dc:date>
     </item>
     <item>
       <title>Clean Terminal Copy - Sun Oct 04 17:14:51 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: io.github.olviia.clean-terminal-copy</description>
       <pubDate>Sun, 04 Oct 2026 17:14:51 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34765-clean-terminal-copy</guid>
       <dc:date>2026-10-04T17:14:51Z</dc:date>
-    </item>
-    <item>
-      <title>Clickable Terminal Prompt - Sun Oct 04 17:15:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34766-clickable-terminal-prompt</link>
-      <description>Edit the prompt of a terminal program with the mouse, like in an editor. Made for Claude Code and other CLI agents, also works on a plain shell prompt. Click in the...
-
-vendor: olviia
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.olviia.clickable-terminal-prompt</description>
-      <pubDate>Sun, 04 Oct 2026 17:15:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34766-clickable-terminal-prompt</guid>
-      <dc:date>2026-10-04T17:15:17Z</dc:date>
     </item>
   </channel>
 </rss>
