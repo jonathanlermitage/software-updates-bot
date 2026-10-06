@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Igor-PHP - Tue Oct 06 09:14:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34646-igor-php</link>
+      <description>Igor-PHP — The faithful assistant for FrankenPHP Workers Inspects your Symfony applications in real-time to detect shared state mutations, memory leaks, and worker...
+
+vendor: Igor PHP
+downloads: 3
+pricingModel: FREE
+xmlId: com.igor.php</description>
+      <pubDate>Tue, 06 Oct 2026 09:14:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34646-igor-php</guid>
+      <dc:date>2026-10-06T09:14:44Z</dc:date>
+    </item>
+    <item>
       <title>CodeMori - Mon Oct 05 19:09:43 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34802-codemori</link>
       <description>Save code snapshots, search local snippets and document summaries, and link source files to your existing notes in Feishu, Notion or Obsidian. Includes a local Rust...
 
 vendor: Lusyne
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.lusyne.codemori</description>
       <pubDate>Mon, 05 Oct 2026 19:09:43 GMT</pubDate>
@@ -19,17 +32,69 @@ xmlId: com.lusyne.codemori</description>
       <dc:date>2026-10-05T19:09:43Z</dc:date>
     </item>
     <item>
-      <title>MoonlightCode Core - Mon Oct 05 09:45:42 UTC 2026</title>
+      <title>MoonlightCode AI Review - Tue Oct 06 07:00:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34793-moonlightcode-ai-review</link>
+      <description>Review what a Claude Code session changed, the way you would review a colleague: the session's changed files as a diff chain, comments on lines or whole files on...
+
+vendor: Titouan FREVILLE
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.titouanfreville.moonlight.ai-review</description>
+      <pubDate>Tue, 06 Oct 2026 07:00:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34793-moonlightcode-ai-review</guid>
+      <dc:date>2026-10-06T07:00:49Z</dc:date>
+    </item>
+    <item>
+      <title>MoonlightCode Agentic Support - Tue Oct 06 07:00:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34792-moonlightcode-agentic-support</link>
+      <description>The plan gate and held approvals, answered from the IDE. When a governed Claude Code session proposes a plan, it opens as a review tab in the window that owns the...
+
+vendor: Titouan FREVILLE
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.titouanfreville.moonlight.agentic-support</description>
+      <pubDate>Tue, 06 Oct 2026 07:00:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34792-moonlightcode-agentic-support</guid>
+      <dc:date>2026-10-06T07:00:48Z</dc:date>
+    </item>
+    <item>
+      <title>MoonlightCode Session Control - Tue Oct 06 07:00:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34791-moonlightcode-session-control</link>
+      <description>Govern Claude Code sessions from the IDE: see every session in a MoonlightCode tool window — governed and ungoverned in two separate lists — adopt them into...
+
+vendor: Titouan FREVILLE
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.titouanfreville.moonlight.session-control</description>
+      <pubDate>Tue, 06 Oct 2026 07:00:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34791-moonlightcode-session-control</guid>
+      <dc:date>2026-10-06T07:00:46Z</dc:date>
+    </item>
+    <item>
+      <title>MoonlightCode Status - Tue Oct 06 07:00:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34790-moonlightcode-status</link>
+      <description>Status-bar indicators for MoonlightCode: whether anything is actually gated — hooks installed, session adopted, and the phase that decides whether the agent in front...
+
+vendor: Titouan FREVILLE
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.titouanfreville.moonlight.status</description>
+      <pubDate>Tue, 06 Oct 2026 07:00:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34790-moonlightcode-status</guid>
+      <dc:date>2026-10-06T07:00:45Z</dc:date>
+    </item>
+    <item>
+      <title>MoonlightCode Core - Tue Oct 06 07:00:43 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34789-moonlightcode-core</link>
       <description>The shared backend connection for the MoonlightCode plugins: one poll of the moonlightd daemon, one engine event stream, the held-approval state and the registry of...
 
 vendor: Titouan FREVILLE
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.titouanfreville.moonlight.core</description>
-      <pubDate>Mon, 05 Oct 2026 09:45:42 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 07:00:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34789-moonlightcode-core</guid>
-      <dc:date>2026-10-05T09:45:42Z</dc:date>
+      <dc:date>2026-10-06T07:00:43Z</dc:date>
     </item>
     <item>
       <title>ExtendedHighlighting - Thu Oct 01 18:56:31 UTC 2026</title>
@@ -37,7 +102,7 @@ xmlId: io.github.titouanfreville.moonlight.core</description>
       <description>Adds syntax highlighting for C# operators that Rider does not support by default. These are treated as symbols without any real semantics i.e. it will override all...
 
 vendor: daethcodes
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: daethcodes.extendedhighlighting</description>
       <pubDate>Thu, 01 Oct 2026 18:56:31 GMT</pubDate>
@@ -50,7 +115,7 @@ xmlId: daethcodes.extendedhighlighting</description>
       <description>German translation of the IntelliJ IDEA user interface: menus, dialogs, settings, notifications, inspection and intention descriptions, file templates and postfix...
 
 vendor: DevCairn Labs
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: idelocalization.de</description>
       <pubDate>Sun, 04 Oct 2026 08:56:00 GMT</pubDate>
@@ -63,7 +128,7 @@ xmlId: idelocalization.de</description>
       <description>Russian translation of the IntelliJ IDEA user interface: menus, dialogs, settings, notifications, inspection and intention descriptions, file templates and postfix...
 
 vendor: DevCairn Labs
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: idelocalization.ru</description>
       <pubDate>Sun, 04 Oct 2026 08:58:54 GMT</pubDate>
@@ -76,7 +141,7 @@ xmlId: idelocalization.ru</description>
       <description>Italian translation of the IntelliJ IDEA user interface: menus, dialogs, settings, notifications, inspection and intention descriptions, file templates and postfix...
 
 vendor: DevCairn Labs
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: idelocalization.it</description>
       <pubDate>Mon, 05 Oct 2026 15:05:36 GMT</pubDate>
@@ -123,17 +188,17 @@ xmlId: io.github.prashanthsams.pytesthtmlreporter</description>
       <dc:date>2026-10-03T05:47:11Z</dc:date>
     </item>
     <item>
-      <title>AdonisJS - Sat Oct 03 10:36:23 UTC 2026</title>
+      <title>AdonisJS - Tue Oct 06 07:02:47 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34737-adonisjs</link>
       <description>AdonisJS — native Edge highlighting, deep completions, navigation, Ace generators, Lucid/Mongoose ORM intelligence, and optional Shamar support. Works on any AdonisJS...
 
 vendor: Shamar
-downloads: 3
+downloads: 4
 pricingModel: FREE
 xmlId: dev.shamar.adonis.ide</description>
-      <pubDate>Sat, 03 Oct 2026 10:36:23 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 07:02:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34737-adonisjs</guid>
-      <dc:date>2026-10-03T10:36:23Z</dc:date>
+      <dc:date>2026-10-06T07:02:47Z</dc:date>
     </item>
     <item>
       <title>Adamantium AUML - Fri Oct 02 18:45:56 UTC 2026</title>
@@ -154,7 +219,7 @@ xmlId: com.adamantium.auml</description>
       <description>LatherIt is a fast, modern client for SOAP and REST services - an alternative to SoapUI, right inside your IDE. Open a *.latherit.yaml project file and it shows up as...
 
 vendor: heck\it
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: app.heckit.ide.latherit</description>
       <pubDate>Sun, 04 Oct 2026 20:49:02 GMT</pubDate>
@@ -162,17 +227,17 @@ xmlId: app.heckit.ide.latherit</description>
       <dc:date>2026-10-04T20:49:02Z</dc:date>
     </item>
     <item>
-      <title>CircleCI - Mon Oct 05 22:28:18 UTC 2026</title>
+      <title>CircleCI - Tue Oct 06 09:44:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34719-circleci</link>
       <description>CircleCI integration for JetBrains IDEs Monitor, manage, and debug CircleCI runs directly within your IDE. This extension provides: Real-time run, workflow, and job...
 
 vendor: CircleCI
-downloads: 2
+downloads: 7
 pricingModel: FREE
 xmlId: com.circleci.idea</description>
-      <pubDate>Mon, 05 Oct 2026 22:28:18 GMT</pubDate>
+      <pubDate>Tue, 06 Oct 2026 09:44:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34719-circleci</guid>
-      <dc:date>2026-10-05T22:28:18Z</dc:date>
+      <dc:date>2026-10-06T09:44:15Z</dc:date>
     </item>
     <item>
       <title>Clean Terminal Copy - Sun Oct 04 17:14:51 UTC 2026</title>
@@ -180,7 +245,7 @@ xmlId: com.circleci.idea</description>
       <description>Copying text from the IDE terminal, e.g. replies of Claude Code or other CLI agents, brings along the layout of the terminal: a margin of spaces in front of every line...
 
 vendor: olviia
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.olviia.clean-terminal-copy</description>
       <pubDate>Sun, 04 Oct 2026 17:14:51 GMT</pubDate>
@@ -193,77 +258,12 @@ xmlId: io.github.olviia.clean-terminal-copy</description>
       <description>Edit the prompt of a terminal program with the mouse, like in an editor. Made for Claude Code and other CLI agents, also works on a plain shell prompt. Click in the...
 
 vendor: olviia
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.olviia.clickable-terminal-prompt</description>
       <pubDate>Sun, 04 Oct 2026 17:15:17 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34766-clickable-terminal-prompt</guid>
       <dc:date>2026-10-04T17:15:17Z</dc:date>
-    </item>
-    <item>
-      <title>Paste Image as File - Sun Oct 04 17:15:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34767-paste-image-as-file</link>
-      <description>Paste a screenshot or copied image straight into a folder of your project. Select a folder (or a file in it) in the Project / Explorer tree and press Ctrl+V: the...
-
-vendor: olviia
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.olviia.paste-image-as-file</description>
-      <pubDate>Sun, 04 Oct 2026 17:15:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34767-paste-image-as-file</guid>
-      <dc:date>2026-10-04T17:15:39Z</dc:date>
-    </item>
-    <item>
-      <title>Lattice - Sun Oct 04 19:19:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34772-lattice</link>
-      <description>Lattice — In-App Database Manager for IntelliJ IDEA A database client for IntelliJ IDEA. Connect to, explore, query, create, and modify your databases without leaving...
-
-vendor: SegFault03
-downloads: 0
-pricingModel: FREE
-xmlId: com.segfault03.lattice</description>
-      <pubDate>Sun, 04 Oct 2026 19:19:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34772-lattice</guid>
-      <dc:date>2026-10-04T19:19:17Z</dc:date>
-    </item>
-    <item>
-      <title>Agent Usage - Sun Oct 04 13:05:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34762-agent-usage</link>
-      <description>Monitor AI usage and quotas in Rider with Agent Usage. Keep OpenAI Codex, JetBrains AI, GitHub Copilot, Claude and Cursor balances in one Tool Window and the status...
-
-vendor: Lars Noerber
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.larsnoerber.agentsusage</description>
-      <pubDate>Sun, 04 Oct 2026 13:05:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34762-agent-usage</guid>
-      <dc:date>2026-10-04T13:05:06Z</dc:date>
-    </item>
-    <item>
-      <title>SmartDocs - Sun Oct 04 06:40:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34755-smartdocs</link>
-      <description>Attach documentation to Java code without touching your source files. Notes are stored in a folder you choose, and stay attached to the right code even as it moves or...
-
-vendor: NAVEEN KUMAR SUNKANA
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.naveen171.smartdocs</description>
-      <pubDate>Sun, 04 Oct 2026 06:40:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34755-smartdocs</guid>
-      <dc:date>2026-10-04T06:40:29Z</dc:date>
-    </item>
-    <item>
-      <title>LSPF Analysis - Sat Oct 03 06:26:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34670-lspf-analysis</link>
-      <description>Code health analysis for functions and classes, updated while you type. Hovering the gutter icon beside a function or class shows its measurements, while hovering its...
-
-vendor: Yuming Chen
-downloads: 8
-pricingModel: FREE
-xmlId: com.github.meymchen.lspfanalysis</description>
-      <pubDate>Sat, 03 Oct 2026 06:26:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34670-lspf-analysis</guid>
-      <dc:date>2026-10-03T06:26:15Z</dc:date>
     </item>
   </channel>
 </rss>
