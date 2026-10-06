@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Agent Context - Mon Oct 05 14:34:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34795-agent-context</link>
-      <description>Agent Context inserts a file reference into the selected Reworked Terminal tab in Rider, WebStorm, PyCharm, GoLand, and other IntelliJ Platform IDEs. Press Command...
+      <title>CodeMori - Mon Oct 05 19:09:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34802-codemori</link>
+      <description>Save code snapshots, search local snippets and document summaries, and link source files to your existing notes in Feishu, Notion or Obsidian. Includes a local Rust...
 
-vendor: Golodnyuk Ivan
+vendor: Lusyne
 downloads: 0
 pricingModel: FREE
-xmlId: dev.agentcontext</description>
-      <pubDate>Mon, 05 Oct 2026 14:34:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34795-agent-context</guid>
-      <dc:date>2026-10-05T14:34:55Z</dc:date>
+xmlId: com.lusyne.codemori</description>
+      <pubDate>Mon, 05 Oct 2026 19:09:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34802-codemori</guid>
+      <dc:date>2026-10-05T19:09:43Z</dc:date>
     </item>
     <item>
-      <title>Cargo.toml Publish Gate - Fri Oct 02 22:34:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34726-cargo-toml-publish-gate</link>
-      <description>Names every crates.io publish blocker in a Cargo.toml before the upload burns a version number. Right-click in the editor (or Tools) → Cargo.toml Publish Gate: Check...
+      <title>MoonlightCode Core - Mon Oct 05 09:45:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34789-moonlightcode-core</link>
+      <description>The shared backend connection for the MoonlightCode plugins: one poll of the moonlightd daemon, one engine event stream, the held-approval state and the registry of...
 
-vendor: ReadyStack
+vendor: Titouan FREVILLE
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.titouanfreville.moonlight.core</description>
+      <pubDate>Mon, 05 Oct 2026 09:45:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34789-moonlightcode-core</guid>
+      <dc:date>2026-10-05T09:45:42Z</dc:date>
+    </item>
+    <item>
+      <title>ExtendedHighlighting - Thu Oct 01 18:56:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34700-extendedhighlighting</link>
+      <description>Adds syntax highlighting for C# operators that Rider does not support by default. These are treated as symbols without any real semantics i.e. it will override all...
+
+vendor: daethcodes
+downloads: 1
+pricingModel: FREE
+xmlId: daethcodes.extendedhighlighting</description>
+      <pubDate>Thu, 01 Oct 2026 18:56:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34700-extendedhighlighting</guid>
+      <dc:date>2026-10-01T18:56:31Z</dc:date>
+    </item>
+    <item>
+      <title>IDE Localization: German - Sun Oct 04 08:56:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34757-ide-localization-german</link>
+      <description>German translation of the IntelliJ IDEA user interface: menus, dialogs, settings, notifications, inspection and intention descriptions, file templates and postfix...
+
+vendor: DevCairn Labs
+downloads: 0
+pricingModel: FREE
+xmlId: idelocalization.de</description>
+      <pubDate>Sun, 04 Oct 2026 08:56:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34757-ide-localization-german</guid>
+      <dc:date>2026-10-04T08:56:00Z</dc:date>
+    </item>
+    <item>
+      <title>IDE Localization: Russian - Sun Oct 04 08:58:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34758-ide-localization-russian</link>
+      <description>Russian translation of the IntelliJ IDEA user interface: menus, dialogs, settings, notifications, inspection and intention descriptions, file templates and postfix...
+
+vendor: DevCairn Labs
+downloads: 0
+pricingModel: FREE
+xmlId: idelocalization.ru</description>
+      <pubDate>Sun, 04 Oct 2026 08:58:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34758-ide-localization-russian</guid>
+      <dc:date>2026-10-04T08:58:54Z</dc:date>
+    </item>
+    <item>
+      <title>IDE Localization: Italian - Mon Oct 05 15:05:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34799-ide-localization-italian</link>
+      <description>Italian translation of the IntelliJ IDEA user interface: menus, dialogs, settings, notifications, inspection and intention descriptions, file templates and postfix...
+
+vendor: DevCairn Labs
+downloads: 0
+pricingModel: FREE
+xmlId: idelocalization.it</description>
+      <pubDate>Mon, 05 Oct 2026 15:05:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34799-ide-localization-italian</guid>
+      <dc:date>2026-10-05T15:05:36Z</dc:date>
+    </item>
+    <item>
+      <title>KMP Migration Planner - Sat Oct 03 05:25:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34636-kmp-migration-planner</link>
+      <description>Analyzes an Android codebase and produces a safe, reviewable Kotlin Multiplatform migration plan.
+
+vendor: codemagic
+downloads: 3
+pricingModel: FREE
+xmlId: com.codemagic.kmp-migration-tool</description>
+      <pubDate>Sat, 03 Oct 2026 05:25:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34636-kmp-migration-planner</guid>
+      <dc:date>2026-10-03T05:25:23Z</dc:date>
+    </item>
+    <item>
+      <title>Amazon States Language - Sun Oct 04 05:01:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34583-amazon-states-language</link>
+      <description>Adds support for Amazon States Language in *.asl.json files. Injects JSONPath language into string literals containing JSONPath expressions Injects JSONata language...
+
+vendor: Sergey Evdokimov
+downloads: 3
+pricingModel: FREE
+xmlId: com.ess.AmazonStatesLanguage</description>
+      <pubDate>Sun, 04 Oct 2026 05:01:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34583-amazon-states-language</guid>
+      <dc:date>2026-10-04T05:01:27Z</dc:date>
+    </item>
+    <item>
+      <title>pytest-html-reporter - Sat Oct 03 05:47:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34734-pytest-html-reporter</link>
+      <description>View, find and generate pytest-html-reporter reports without leaving PyCharm or IntelliJ IDEA. Pytest HTML Reporter tool window Shows the report pytest-html-reporter...
+
+vendor: pytest-html-reporter
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.prashanthsams.pytesthtmlreporter</description>
+      <pubDate>Sat, 03 Oct 2026 05:47:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34734-pytest-html-reporter</guid>
+      <dc:date>2026-10-03T05:47:11Z</dc:date>
+    </item>
+    <item>
+      <title>AdonisJS - Sat Oct 03 10:36:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34737-adonisjs</link>
+      <description>AdonisJS — native Edge highlighting, deep completions, navigation, Ace generators, Lucid/Mongoose ORM intelligence, and optional Shamar support. Works on any AdonisJS...
+
+vendor: Shamar
+downloads: 3
+pricingModel: FREE
+xmlId: dev.shamar.adonis.ide</description>
+      <pubDate>Sat, 03 Oct 2026 10:36:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34737-adonisjs</guid>
+      <dc:date>2026-10-03T10:36:23Z</dc:date>
+    </item>
+    <item>
+      <title>Adamantium AUML - Fri Oct 02 18:45:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34720-adamantium-auml</link>
+      <description>Editing support for AUML, the markup of Adamantium UI (.auml files), with a live preview drawn by the framework itself. Live preview beside or below the markup...
+
+vendor: Adamantium Studio
+downloads: 4
+pricingModel: FREE
+xmlId: com.adamantium.auml</description>
+      <pubDate>Fri, 02 Oct 2026 18:45:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34720-adamantium-auml</guid>
+      <dc:date>2026-10-02T18:45:56Z</dc:date>
+    </item>
+    <item>
+      <title>LatherIt - Sun Oct 04 20:49:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34776-latherit</link>
+      <description>LatherIt is a fast, modern client for SOAP and REST services - an alternative to SoapUI, right inside your IDE. Open a *.latherit.yaml project file and it shows up as...
+
+vendor: heck\it
+downloads: 0
+pricingModel: FREE
+xmlId: app.heckit.ide.latherit</description>
+      <pubDate>Sun, 04 Oct 2026 20:49:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34776-latherit</guid>
+      <dc:date>2026-10-04T20:49:02Z</dc:date>
+    </item>
+    <item>
+      <title>CircleCI - Mon Oct 05 22:28:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34719-circleci</link>
+      <description>CircleCI integration for JetBrains IDEs Monitor, manage, and debug CircleCI runs directly within your IDE. This extension provides: Real-time run, workflow, and job...
+
+vendor: CircleCI
 downloads: 2
 pricingModel: FREE
-xmlId: com.getreadystack.cargo-publish-gate</description>
-      <pubDate>Fri, 02 Oct 2026 22:34:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34726-cargo-toml-publish-gate</guid>
-      <dc:date>2026-10-02T22:34:45Z</dc:date>
+xmlId: com.circleci.idea</description>
+      <pubDate>Mon, 05 Oct 2026 22:28:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34719-circleci</guid>
+      <dc:date>2026-10-05T22:28:18Z</dc:date>
     </item>
     <item>
-      <title>Immobilienanzeige GEG 87 Lint - Fri Oct 02 22:35:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34727-immobilienanzeige-geg-87-lint</link>
-      <description>13 rules over German property-ad HTML: the five mandatory Section 87 GModG fields, the ten-year certificate limit, and the Anlage 10 class band that has to match the...
+      <title>Clean Terminal Copy - Sun Oct 04 17:14:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34765-clean-terminal-copy</link>
+      <description>Copying text from the IDE terminal, e.g. replies of Claude Code or other CLI agents, brings along the layout of the terminal: a margin of spaces in front of every line...
 
-vendor: ReadyStack
-downloads: 1
-pricingModel: FREE
-xmlId: com.getreadystack.geg-87-listing-lint</description>
-      <pubDate>Fri, 02 Oct 2026 22:35:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34727-immobilienanzeige-geg-87-lint</guid>
-      <dc:date>2026-10-02T22:35:06Z</dc:date>
-    </item>
-    <item>
-      <title>Manuscript Disclosure Lint - Fri Oct 02 22:35:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34728-manuscript-disclosure-lint</link>
-      <description>16 rules that catch the statements a journal desk-rejects you for — in your .tex or .md, before you submit Right-click in the editor (or Tools) → Manuscript Disclosure...
-
-vendor: ReadyStack
-downloads: 2
-pricingModel: FREE
-xmlId: com.getreadystack.manuscript-disclosure-lint</description>
-      <pubDate>Fri, 02 Oct 2026 22:35:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34728-manuscript-disclosure-lint</guid>
-      <dc:date>2026-10-02T22:35:27Z</dc:date>
-    </item>
-    <item>
-      <title>NIS2 Incident Runbook Lint - Fri Oct 02 22:35:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34729-nis2-incident-runbook-lint</link>
-      <description>Reads your incident-response runbook and says which of the three Article 23 clocks it gets wrong Right-click in the editor (or Tools) → NIS2 Incident Runbook Lint...
-
-vendor: ReadyStack
-downloads: 1
-pricingModel: FREE
-xmlId: com.getreadystack.nis2-incident-runbook-lint</description>
-      <pubDate>Fri, 02 Oct 2026 22:35:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34729-nis2-incident-runbook-lint</guid>
-      <dc:date>2026-10-02T22:35:50Z</dc:date>
-    </item>
-    <item>
-      <title>npm Trusted Publish Lint - Fri Oct 02 22:36:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34730-npm-trusted-publish-lint</link>
-      <description>Finds the credential in your release workflow that expires before your next release Right-click in the editor (or Tools) → npm Trusted Publish Lint: Check This File...
-
-vendor: ReadyStack
-downloads: 1
-pricingModel: FREE
-xmlId: com.getreadystack.npm-trusted-publish-lint</description>
-      <pubDate>Fri, 02 Oct 2026 22:36:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34730-npm-trusted-publish-lint</guid>
-      <dc:date>2026-10-02T22:36:12Z</dc:date>
-    </item>
-    <item>
-      <title>SVG Asset Compliance Lint - Fri Oct 02 22:36:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34731-svg-asset-compliance-lint</link>
-      <description>14 rules over the SVG files your design tool exported, before they become a legal object Right-click in the editor (or Tools) → SVG Asset Compliance Lint: Check This...
-
-vendor: ReadyStack
-downloads: 2
-pricingModel: FREE
-xmlId: com.getreadystack.svg-asset-compliance-lint</description>
-      <pubDate>Fri, 02 Oct 2026 22:36:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34731-svg-asset-compliance-lint</guid>
-      <dc:date>2026-10-02T22:36:32Z</dc:date>
-    </item>
-    <item>
-      <title>AI Model Retirement Lint - Sat Oct 03 22:34:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34747-ai-model-retirement-lint</link>
-      <description>Finds the LLM model IDs pinned in your code that vendors have already switched off, or have dated to switch off, with the replacement and the date. Right-click in the...
-
-vendor: ReadyStack
-downloads: 1
-pricingModel: FREE
-xmlId: com.getreadystack.ai-model-retirement-lint</description>
-      <pubDate>Sat, 03 Oct 2026 22:34:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34747-ai-model-retirement-lint</guid>
-      <dc:date>2026-10-03T22:34:55Z</dc:date>
-    </item>
-    <item>
-      <title>OpenBao Migration Lint - Sat Oct 03 22:35:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34748-openbao-migration-lint</link>
-      <description>OpenBao migration check for HashiCorp Vault scripts, Terraform, Helm values and server HCL: 14 rules, each with the OpenBao fix Right-click in the editor (or Tools...
-
-vendor: ReadyStack
-downloads: 1
-pricingModel: FREE
-xmlId: com.getreadystack.openbao-migration-lint</description>
-      <pubDate>Sat, 03 Oct 2026 22:35:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34748-openbao-migration-lint</guid>
-      <dc:date>2026-10-03T22:35:19Z</dc:date>
-    </item>
-    <item>
-      <title>Payroll Deduction Code Audit - Sat Oct 03 22:35:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34749-payroll-deduction-code-audit</link>
-      <description>Twelve rules over the deduction-code map, before the January 31 W-2 filing date Right-click in the editor (or Tools) → Payroll Deduction Code Audit: Check This File...
-
-vendor: ReadyStack
-downloads: 1
-pricingModel: FREE
-xmlId: com.getreadystack.payroll-deduction-code-audit</description>
-      <pubDate>Sat, 03 Oct 2026 22:35:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34749-payroll-deduction-code-audit</guid>
-      <dc:date>2026-10-03T22:35:38Z</dc:date>
-    </item>
-    <item>
-      <title>PCI Payment Page Script Audit - Sat Oct 03 22:35:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34750-pci-payment-page-script-audit</link>
-      <description>PCI DSS 4.0.1 requirements 6.4.3 and 11.6.1 have been mandatory since 2025-03-31, and the PCI SSC revised FAQ 1331 on 2026-08-04 so a QSA agreement alone no longer...
-
-vendor: ReadyStack
-downloads: 1
-pricingModel: FREE
-xmlId: com.getreadystack.pci-payment-page-script-audit</description>
-      <pubDate>Sat, 03 Oct 2026 22:35:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34750-pci-payment-page-script-audit</guid>
-      <dc:date>2026-10-03T22:35:58Z</dc:date>
-    </item>
-    <item>
-      <title>Personal Data Map - Sat Oct 03 22:36:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34751-personal-data-map</link>
-      <description>Reads a migration, Prisma schema, Django model or TypeORM entity and marks every column a subject access request has to reach - with the GDPR article each finding...
-
-vendor: ReadyStack
-downloads: 1
-pricingModel: FREE
-xmlId: com.getreadystack.personal-data-map-dsar-audit</description>
-      <pubDate>Sat, 03 Oct 2026 22:36:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34751-personal-data-map</guid>
-      <dc:date>2026-10-03T22:36:18Z</dc:date>
-    </item>
-    <item>
-      <title>EU Liability Window Lint - Sat Oct 03 22:36:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34752-eu-liability-window-lint</link>
-      <description>12 rules read your CHANGELOG.md the way Directive (EU) 2024/2853 will read it from 2026-12-09: undated releases lose the start of the 10-year window in Art. 17(2), and...
-
-vendor: ReadyStack
-downloads: 1
-pricingModel: FREE
-xmlId: com.getreadystack.pld-liability-window-lint</description>
-      <pubDate>Sat, 03 Oct 2026 22:36:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34752-eu-liability-window-lint</guid>
-      <dc:date>2026-10-03T22:36:38Z</dc:date>
-    </item>
-    <item>
-      <title>Aurora MySQL 5.7 to 8.0 Upgrade Blocker Lint - Sun Oct 04 22:35:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34778-aurora-mysql-5-7-to-8-0-upgrade-blocker-lint</link>
-      <description>28 MySQL 8.0 removal rules for .sql, .cnf and Terraform, before Aurora MySQL v2 Extended Support year 3 on 1 Dec 2026 Right-click in the editor (or Tools) → Aurora...
-
-vendor: ReadyStack
+vendor: olviia
 downloads: 0
 pricingModel: FREE
-xmlId: com.getreadystack.aurora-mysql57-upgrade-blocker-lint</description>
-      <pubDate>Sun, 04 Oct 2026 22:35:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34778-aurora-mysql-5-7-to-8-0-upgrade-blocker-lint</guid>
-      <dc:date>2026-10-04T22:35:14Z</dc:date>
+xmlId: io.github.olviia.clean-terminal-copy</description>
+      <pubDate>Sun, 04 Oct 2026 17:14:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34765-clean-terminal-copy</guid>
+      <dc:date>2026-10-04T17:14:51Z</dc:date>
     </item>
     <item>
-      <title>i18n fr-CA Lint - Sun Oct 04 22:35:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34779-i18n-fr-ca-lint</link>
-      <description>Finds the France-French and left-over English lines in your fr-CA locale file before an OQLF complaint does. Right-click in the editor (or Tools) → i18n fr-CA Lint...
+      <title>Clickable Terminal Prompt - Sun Oct 04 17:15:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34766-clickable-terminal-prompt</link>
+      <description>Edit the prompt of a terminal program with the mouse, like in an editor. Made for Claude Code and other CLI agents, also works on a plain shell prompt. Click in the...
 
-vendor: ReadyStack
+vendor: olviia
 downloads: 0
 pricingModel: FREE
-xmlId: com.getreadystack.i18n-fr-ca-bill96-lint</description>
-      <pubDate>Sun, 04 Oct 2026 22:35:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34779-i18n-fr-ca-lint</guid>
-      <dc:date>2026-10-04T22:35:35Z</dc:date>
+xmlId: io.github.olviia.clickable-terminal-prompt</description>
+      <pubDate>Sun, 04 Oct 2026 17:15:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34766-clickable-terminal-prompt</guid>
+      <dc:date>2026-10-04T17:15:17Z</dc:date>
     </item>
     <item>
-      <title>PQC Deprecation Lint - Sun Oct 04 22:35:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34780-pqc-deprecation-lint</link>
-      <description>Dates every quantum-vulnerable algorithm in your code against the NIST IR 8547 clock: deprecated after 2030-12-31, disallowed after 2035-12-31. Right-click in the...
+      <title>Paste Image as File - Sun Oct 04 17:15:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34767-paste-image-as-file</link>
+      <description>Paste a screenshot or copied image straight into a folder of your project. Select a folder (or a file in it) in the Project / Explorer tree and press Ctrl+V: the...
 
-vendor: ReadyStack
+vendor: olviia
 downloads: 0
 pricingModel: FREE
-xmlId: com.getreadystack.pqc-deprecation-lint</description>
-      <pubDate>Sun, 04 Oct 2026 22:35:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34780-pqc-deprecation-lint</guid>
-      <dc:date>2026-10-04T22:35:55Z</dc:date>
+xmlId: io.github.olviia.paste-image-as-file</description>
+      <pubDate>Sun, 04 Oct 2026 17:15:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34767-paste-image-as-file</guid>
+      <dc:date>2026-10-04T17:15:39Z</dc:date>
     </item>
     <item>
-      <title>Proto Wire Break Check - Sun Oct 04 22:36:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34781-proto-wire-break-check</link>
-      <description>Names the .proto edits that keep compiling and quietly change what old gRPC readers see Right-click in the editor (or Tools) → Proto Wire Break Check: Check This File...
+      <title>Lattice - Sun Oct 04 19:19:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34772-lattice</link>
+      <description>Lattice — In-App Database Manager for IntelliJ IDEA A database client for IntelliJ IDEA. Connect to, explore, query, create, and modify your databases without leaving...
 
-vendor: ReadyStack
+vendor: SegFault03
 downloads: 0
 pricingModel: FREE
-xmlId: com.getreadystack.proto-wire-break-check</description>
-      <pubDate>Sun, 04 Oct 2026 22:36:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34781-proto-wire-break-check</guid>
-      <dc:date>2026-10-04T22:36:15Z</dc:date>
+xmlId: com.segfault03.lattice</description>
+      <pubDate>Sun, 04 Oct 2026 19:19:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34772-lattice</guid>
+      <dc:date>2026-10-04T19:19:17Z</dc:date>
     </item>
     <item>
-      <title>Ren'Py Release Gate - Sun Oct 04 22:36:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34782-ren-py-release-gate</link>
-      <description>Find the .rpy lines that compile clean and only break inside a player's save Right-click in the editor (or Tools) → Ren'Py Release Gate: Check This File. Each finding...
+      <title>Agent Usage - Sun Oct 04 13:05:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34762-agent-usage</link>
+      <description>Monitor AI usage and quotas in Rider with Agent Usage. Keep OpenAI Codex, JetBrains AI, GitHub Copilot, Claude and Cursor balances in one Tool Window and the status...
 
-vendor: ReadyStack
+vendor: Lars Noerber
 downloads: 0
 pricingModel: FREE
-xmlId: com.getreadystack.renpy-release-gate</description>
-      <pubDate>Sun, 04 Oct 2026 22:36:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34782-ren-py-release-gate</guid>
-      <dc:date>2026-10-04T22:36:35Z</dc:date>
+xmlId: io.github.larsnoerber.agentsusage</description>
+      <pubDate>Sun, 04 Oct 2026 13:05:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34762-agent-usage</guid>
+      <dc:date>2026-10-04T13:05:06Z</dc:date>
     </item>
     <item>
-      <title>SOUP List Lint - Sun Oct 04 22:36:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34783-soup-list-lint</link>
-      <description>Reads your SOUP register the way an auditor does: 16 rules over clauses 8.1.2, 5.3.3, 5.3.4, 4.3 and 7.1.3. Right-click in the editor (or Tools) → SOUP List Lint...
+      <title>SmartDocs - Sun Oct 04 06:40:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34755-smartdocs</link>
+      <description>Attach documentation to Java code without touching your source files. Notes are stored in a folder you choose, and stay attached to the right code even as it moves or...
 
-vendor: ReadyStack
+vendor: NAVEEN KUMAR SUNKANA
 downloads: 0
 pricingModel: FREE
-xmlId: com.getreadystack.soup-list-lint</description>
-      <pubDate>Sun, 04 Oct 2026 22:36:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34783-soup-list-lint</guid>
-      <dc:date>2026-10-04T22:36:54Z</dc:date>
+xmlId: io.github.naveen171.smartdocs</description>
+      <pubDate>Sun, 04 Oct 2026 06:40:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34755-smartdocs</guid>
+      <dc:date>2026-10-04T06:40:29Z</dc:date>
     </item>
     <item>
-      <title>Velo Terminal - Mon Oct 05 14:08:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34724-velo-terminal</link>
-      <description>Velo in a tool window: a fast terminal with blocks, autosuggestions and just enough AI. Blocks: every command and its output is a block you can select, copy, search...
+      <title>LSPF Analysis - Sat Oct 03 06:26:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34670-lspf-analysis</link>
+      <description>Code health analysis for functions and classes, updated while you type. Hovering the gutter icon beside a function or class shows its measurements, while hovering its...
 
-vendor: Chathuranga Jayasinghe
-downloads: 7
+vendor: Yuming Chen
+downloads: 8
 pricingModel: FREE
-xmlId: dev.velo.terminal</description>
-      <pubDate>Mon, 05 Oct 2026 14:08:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34724-velo-terminal</guid>
-      <dc:date>2026-10-05T14:08:51Z</dc:date>
+xmlId: com.github.meymchen.lspfanalysis</description>
+      <pubDate>Sat, 03 Oct 2026 06:26:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34670-lspf-analysis</guid>
+      <dc:date>2026-10-03T06:26:15Z</dc:date>
     </item>
   </channel>
 </rss>
