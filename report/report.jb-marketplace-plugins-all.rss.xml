@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Ansibility - Tue Oct 06 22:58:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34702-ansibility</link>
+      <description>AI-ASSISTED DEVELOPMENT DISCLAIMER: This plugin has been extensively developed with the assistance of Artificial Intelligence (LLMs). While rigorously designed, typed...
+
+vendor: Daniel Terletzkiy
+downloads: 1
+pricingModel: FREE
+xmlId: de.terletzkiy.ansibility</description>
+      <pubDate>Tue, 06 Oct 2026 22:58:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34702-ansibility</guid>
+      <dc:date>2026-10-06T22:58:39Z</dc:date>
+    </item>
+    <item>
+      <title>Rust Portable - Wed Sep 30 12:50:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34668-rust-portable</link>
+      <description>Write &amp;amp; run Rust in IntelliJ IDEA Community — for free. Rust Portable adds lightweight Rust support to the free IDE, with no RustRover license and no system-wide...
+
+vendor: NavaTOP
+downloads: 2
+pricingModel: FREE
+xmlId: io.genai.rust</description>
+      <pubDate>Wed, 30 Sep 2026 12:50:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34668-rust-portable</guid>
+      <dc:date>2026-09-30T12:50:25Z</dc:date>
+    </item>
+    <item>
+      <title>Ruby Portable - Thu Oct 01 05:16:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34685-ruby-portable</link>
+      <description>Write &amp;amp; run Ruby in IntelliJ IDEA Community — for free. Ruby Portable adds lightweight Ruby support to the free IDE, with no RubyMine license and no system-wide...
+
+vendor: NavaTOP
+downloads: 2
+pricingModel: FREE
+xmlId: io.genai.ruby</description>
+      <pubDate>Thu, 01 Oct 2026 05:16:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34685-ruby-portable</guid>
+      <dc:date>2026-10-01T05:16:14Z</dc:date>
+    </item>
+    <item>
+      <title>CodeGraph AI - Tue Oct 06 03:27:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34812-codegraph-ai</link>
+      <description>Cross-language code intelligence powered by graph analysis. CodeGraph builds a symbol- and call-level graph of your whole workspace across 40+ languages, then exposes...
+
+vendor: aStudioPlus
+downloads: 0
+pricingModel: FREE
+xmlId: ai.codegraph.jetbrains</description>
+      <pubDate>Tue, 06 Oct 2026 03:27:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34812-codegraph-ai</guid>
+      <dc:date>2026-10-06T03:27:22Z</dc:date>
+    </item>
+    <item>
       <title>Atlassian Teamwork Graph CLI - Fri Sep 25 04:00:17 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34518-atlassian-teamwork-graph-cli</link>
       <description>Teamwork Graph CLI is Atlassian's agent-first interface to your entire work context: Jira issues, Confluence pages, Bitbucket pull requests, and connected third-party...
@@ -212,58 +264,6 @@ xmlId: dev.shamar.adonis.ide</description>
       <pubDate>Tue, 06 Oct 2026 07:02:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34737-adonisjs</guid>
       <dc:date>2026-10-06T07:02:47Z</dc:date>
-    </item>
-    <item>
-      <title>Adamantium AUML - Fri Oct 02 18:45:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34720-adamantium-auml</link>
-      <description>Editing support for AUML, the markup of Adamantium UI (.auml files), with a live preview drawn by the framework itself. Live preview beside or below the markup...
-
-vendor: Adamantium Studio
-downloads: 4
-pricingModel: FREE
-xmlId: com.adamantium.auml</description>
-      <pubDate>Fri, 02 Oct 2026 18:45:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34720-adamantium-auml</guid>
-      <dc:date>2026-10-02T18:45:56Z</dc:date>
-    </item>
-    <item>
-      <title>LatherIt - Sun Oct 04 20:49:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34776-latherit</link>
-      <description>LatherIt is a fast, modern client for SOAP and REST services - an alternative to SoapUI, right inside your IDE. Open a *.latherit.yaml project file and it shows up as...
-
-vendor: heck\it
-downloads: 1
-pricingModel: FREE
-xmlId: app.heckit.ide.latherit</description>
-      <pubDate>Sun, 04 Oct 2026 20:49:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34776-latherit</guid>
-      <dc:date>2026-10-04T20:49:02Z</dc:date>
-    </item>
-    <item>
-      <title>CircleCI - Tue Oct 06 14:07:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34719-circleci</link>
-      <description>CircleCI integration for JetBrains IDEs Monitor, manage, and debug CircleCI runs directly within your IDE. This extension provides: Real-time run, workflow, and job...
-
-vendor: CircleCI
-downloads: 7
-pricingModel: FREE
-xmlId: com.circleci.idea</description>
-      <pubDate>Tue, 06 Oct 2026 14:07:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34719-circleci</guid>
-      <dc:date>2026-10-06T14:07:39Z</dc:date>
-    </item>
-    <item>
-      <title>Clean Terminal Copy - Sun Oct 04 17:14:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34765-clean-terminal-copy</link>
-      <description>Copying text from the IDE terminal, e.g. replies of Claude Code or other CLI agents, brings along the layout of the terminal: a margin of spaces in front of every line...
-
-vendor: olviia
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.olviia.clean-terminal-copy</description>
-      <pubDate>Sun, 04 Oct 2026 17:14:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34765-clean-terminal-copy</guid>
-      <dc:date>2026-10-04T17:14:51Z</dc:date>
     </item>
   </channel>
 </rss>
