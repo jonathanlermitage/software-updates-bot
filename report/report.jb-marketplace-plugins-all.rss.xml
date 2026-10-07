@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Ansibility - Tue Oct 06 22:58:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34702-ansibility</link>
-      <description>AI-ASSISTED DEVELOPMENT DISCLAIMER: This plugin has been extensively developed with the assistance of Artificial Intelligence (LLMs). While rigorously designed, typed...
+      <title>Progress Tractor - Tue Oct 06 12:28:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34820-progress-tractor</link>
+      <description>Replaces the IDE's progress bars with a little tractor plowing a field. Determinate progress: the plowed soil behind the tractor shows how much is done. Indeterminate...
 
-vendor: Daniel Terletzkiy
-downloads: 3
+vendor: fl0gru
+downloads: 0
 pricingModel: FREE
-xmlId: de.terletzkiy.ansibility</description>
-      <pubDate>Tue, 06 Oct 2026 22:58:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34702-ansibility</guid>
-      <dc:date>2026-10-06T22:58:39Z</dc:date>
+xmlId: com.progresstractor</description>
+      <pubDate>Tue, 06 Oct 2026 12:28:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34820-progress-tractor</guid>
+      <dc:date>2026-10-06T12:28:18Z</dc:date>
     </item>
     <item>
-      <title>Rust Portable - Wed Sep 30 12:50:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34668-rust-portable</link>
-      <description>Write &amp;amp; run Rust in IntelliJ IDEA Community — for free. Rust Portable adds lightweight Rust support to the free IDE, with no RustRover license and no system-wide...
+      <title>Zowe Explorer (Java SDK Edition) - Sun Oct 04 19:46:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34774-zowe-explorer-java-sdk-edition-</link>
+      <description>Lightweight z/OS Explorer for IntelliJ IDEA powered by Zowe Client Java SDK 7.0.7 Connect seamlessly to IBM z/OS mainframes directly from IntelliJ IDEA to manage Data...
 
-vendor: NavaTOP
-downloads: 2
-pricingModel: FREE
-xmlId: io.genai.rust</description>
-      <pubDate>Wed, 30 Sep 2026 12:50:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34668-rust-portable</guid>
-      <dc:date>2026-09-30T12:50:25Z</dc:date>
-    </item>
-    <item>
-      <title>Ruby Portable - Thu Oct 01 05:16:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34685-ruby-portable</link>
-      <description>Write &amp;amp; run Ruby in IntelliJ IDEA Community — for free. Ruby Portable adds lightweight Ruby support to the free IDE, with no RubyMine license and no system-wide...
-
-vendor: NavaTOP
-downloads: 2
-pricingModel: FREE
-xmlId: io.genai.ruby</description>
-      <pubDate>Thu, 01 Oct 2026 05:16:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34685-ruby-portable</guid>
-      <dc:date>2026-10-01T05:16:14Z</dc:date>
-    </item>
-    <item>
-      <title>CodeGraph AI - Tue Oct 06 03:27:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34812-codegraph-ai</link>
-      <description>Cross-language code intelligence powered by graph analysis. CodeGraph builds a symbol- and call-level graph of your whole workspace across 40+ languages, then exposes...
-
-vendor: aStudioPlus
+vendor: Frank Giordano
 downloads: 1
 pricingModel: FREE
-xmlId: ai.codegraph.jetbrains</description>
-      <pubDate>Tue, 06 Oct 2026 03:27:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34812-codegraph-ai</guid>
-      <dc:date>2026-10-06T03:27:22Z</dc:date>
+xmlId: com.frankgiordano.zowe.explorer.java</description>
+      <pubDate>Sun, 04 Oct 2026 19:46:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34774-zowe-explorer-java-sdk-edition-</guid>
+      <dc:date>2026-10-04T19:46:22Z</dc:date>
     </item>
     <item>
-      <title>Atlassian Teamwork Graph CLI - Fri Sep 25 04:00:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34518-atlassian-teamwork-graph-cli</link>
-      <description>Teamwork Graph CLI is Atlassian's agent-first interface to your entire work context: Jira issues, Confluence pages, Bitbucket pull requests, and connected third-party...
+      <title>Chart Flow - Tue Oct 06 12:47:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34821-chart-flow</link>
+      <description>One-click structured flow chart for the Java method under your caret. Right-click inside any method → Generate Code Flow Chart, or press Ctrl+Alt+Shift+G. The chart is...
 
-vendor: Atlassian
-downloads: 7
+vendor: 乾坤li
+downloads: 0
 pricingModel: FREE
-xmlId: com.atlassian.twg.cli</description>
-      <pubDate>Fri, 25 Sep 2026 04:00:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34518-atlassian-teamwork-graph-cli</guid>
-      <dc:date>2026-09-25T04:00:17Z</dc:date>
+xmlId: com.qiankun.codeflowchart</description>
+      <pubDate>Tue, 06 Oct 2026 12:47:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34821-chart-flow</guid>
+      <dc:date>2026-10-06T12:47:30Z</dc:date>
     </item>
     <item>
-      <title>Igor-PHP - Tue Oct 06 09:14:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34646-igor-php</link>
-      <description>Igor-PHP — The faithful assistant for FrankenPHP Workers Inspects your Symfony applications in real-time to detect shared state mutations, memory leaks, and worker...
+      <title>Nodegraphy - Mon Oct 05 16:51:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34801-nodegraphy</link>
+      <description>Real-time Interactive Architectural Node Graph Visualizer Nodegraphy transforms your Java and Spring Boot codebases into an interactive, node-based architectural graph...
 
-vendor: Igor PHP
-downloads: 7
+vendor: M_Berkay Aydın
+downloads: 1
 pricingModel: FREE
-xmlId: com.igor.php</description>
-      <pubDate>Tue, 06 Oct 2026 09:14:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34646-igor-php</guid>
-      <dc:date>2026-10-06T09:14:44Z</dc:date>
+xmlId: com.berkay.nodegraphy</description>
+      <pubDate>Mon, 05 Oct 2026 16:51:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34801-nodegraphy</guid>
+      <dc:date>2026-10-05T16:51:54Z</dc:date>
     </item>
     <item>
-      <title>CodeMori - Mon Oct 05 19:09:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34802-codemori</link>
-      <description>Save code snapshots, search local snippets and document summaries, and link source files to your existing notes in Feishu, Notion or Obsidian. Includes a local Rust...
+      <title>Local Path Leak Finder - Tue Oct 06 06:49:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34813-local-path-leak-finder</link>
+      <description>Finds your user name and home-folder paths in your code and in the ZIP or JAR you are about to publish. Paths such as C:\Users\you\project, /home/you/project or...
 
-vendor: Lusyne
-downloads: 7
+vendor: GRAMSHIFT
+downloads: 0
+pricingModel: PAID
+xmlId: com.gramshift.pathleak</description>
+      <pubDate>Tue, 06 Oct 2026 06:49:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34813-local-path-leak-finder</guid>
+      <dc:date>2026-10-06T06:49:25Z</dc:date>
+    </item>
+    <item>
+      <title>Mojibake Finder - Tue Oct 06 09:55:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34816-mojibake-finder</link>
+      <description>Finds garbled text (mojibake) and lost non-English characters in your project, and repairs garbled text when its round trip gives one original. This is the damage left...
+
+vendor: GRAMSHIFT
+downloads: 0
+pricingModel: PAID
+xmlId: com.gramshift.mojibake</description>
+      <pubDate>Tue, 06 Oct 2026 09:55:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34816-mojibake-finder</guid>
+      <dc:date>2026-10-06T09:55:37Z</dc:date>
+    </item>
+    <item>
+      <title>Inrobics Builder - Tue Oct 06 06:54:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34716-inrobics-builder</link>
+      <description>Inrobics tools for generating signed Android bundles, running validators, and managing Unity builds for Care and Virtual.
+
+vendor: Inrobics
+downloads: 6
 pricingModel: FREE
-xmlId: com.lusyne.codemori</description>
-      <pubDate>Mon, 05 Oct 2026 19:09:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34802-codemori</guid>
-      <dc:date>2026-10-05T19:09:43Z</dc:date>
+xmlId: com.inrobics.buildplugin</description>
+      <pubDate>Tue, 06 Oct 2026 06:54:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34716-inrobics-builder</guid>
+      <dc:date>2026-10-06T06:54:40Z</dc:date>
     </item>
     <item>
-      <title>MoonlightCode AI Review - Tue Oct 06 07:00:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34793-moonlightcode-ai-review</link>
-      <description>Review what a Claude Code session changed, the way you would review a colleague: the session's changed files as a diff chain, comments on lines or whole files on...
+      <title>JSON YAML XML Key Viewer - Tue Oct 06 13:38:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34822-json-yaml-xml-key-viewer</link>
+      <description>Show JSON, YAML, and XML key paths in IntelliJ IDEA. Quick Documentation shows the full path of the key under the cursor. Gutter annotations display a marker on every...
 
-vendor: Titouan FREVILLE
-downloads: 12
+vendor: documentationfirst
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.titouanfreville.moonlight.ai-review</description>
-      <pubDate>Tue, 06 Oct 2026 07:00:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34793-moonlightcode-ai-review</guid>
-      <dc:date>2026-10-06T07:00:49Z</dc:date>
+xmlId: configkeyviewer</description>
+      <pubDate>Tue, 06 Oct 2026 13:38:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34822-json-yaml-xml-key-viewer</guid>
+      <dc:date>2026-10-06T13:38:26Z</dc:date>
     </item>
     <item>
-      <title>MoonlightCode Agentic Support - Tue Oct 06 07:00:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34792-moonlightcode-agentic-support</link>
-      <description>The plan gate and held approvals, answered from the IDE. When a governed Claude Code session proposes a plan, it opens as a review tab in the window that owns the...
+      <title>BatchCraft: Batch &amp; CMD - Mon Oct 05 22:02:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34804-batchcraft-batch--cmd</link>
+      <description>Write Windows batch scripts with the same comfort as the rest of your code. BatchCraft brings real language support for .bat and .cmd files to every JetBrains IDE...
 
-vendor: Titouan FREVILLE
-downloads: 12
+vendor: KITSS TECH
+downloads: 1
+pricingModel: PAID
+xmlId: com.kitsstech.batchcraft</description>
+      <pubDate>Mon, 05 Oct 2026 22:02:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34804-batchcraft-batch--cmd</guid>
+      <dc:date>2026-10-05T22:02:41Z</dc:date>
+    </item>
+    <item>
+      <title>Claudex Autocomplete - Tue Oct 06 10:53:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34817-claudex-autocomplete</link>
+      <description>Inline code completion in your editor, using the Claude Code or Codex CLI you already have installed and logged in. Uses your existing subscription login, no API key...
+
+vendor: Krzysztof Surdy
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.titouanfreville.moonlight.agentic-support</description>
-      <pubDate>Tue, 06 Oct 2026 07:00:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34792-moonlightcode-agentic-support</guid>
-      <dc:date>2026-10-06T07:00:48Z</dc:date>
+xmlId: dev.ksurdy.claudeautocomplete</description>
+      <pubDate>Tue, 06 Oct 2026 10:53:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34817-claudex-autocomplete</guid>
+      <dc:date>2026-10-06T10:53:17Z</dc:date>
     </item>
     <item>
-      <title>MoonlightCode Session Control - Tue Oct 06 07:00:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34791-moonlightcode-session-control</link>
-      <description>Govern Claude Code sessions from the IDE: see every session in a MoonlightCode tool window — governed and ungoverned in two separate lists — adopt them into...
+      <title>AST Lens - Wed Oct 07 16:05:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34773-ast-lens</link>
+      <description>Explore Java and Kotlin code through interactive UAST visualizations. AST Lens helps developers inspect source structure and understand relationships across a file or...
 
-vendor: Titouan FREVILLE
-downloads: 12
+vendor: A.EL QSIMI
+downloads: 1
 pricingModel: FREE
-xmlId: io.github.titouanfreville.moonlight.session-control</description>
-      <pubDate>Tue, 06 Oct 2026 07:00:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34791-moonlightcode-session-control</guid>
-      <dc:date>2026-10-06T07:00:46Z</dc:date>
+xmlId: com.aelqsimi.ast</description>
+      <pubDate>Wed, 07 Oct 2026 16:05:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34773-ast-lens</guid>
+      <dc:date>2026-10-07T16:05:49Z</dc:date>
     </item>
     <item>
-      <title>MoonlightCode Status - Tue Oct 06 07:00:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34790-moonlightcode-status</link>
-      <description>Status-bar indicators for MoonlightCode: whether anything is actually gated — hooks installed, session adopted, and the phase that decides whether the agent in front...
+      <title>Kodem - Sun Oct 04 08:45:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34692-kodem</link>
+      <description>Overview Kodem IDE Extension for JetBrains IDEs enables the scanning of code directly in your development environment. Secure your code as you write with on-demand and...
 
-vendor: Titouan FREVILLE
-downloads: 10
+vendor: Kodem Security
+downloads: 6
 pricingModel: FREE
-xmlId: io.github.titouanfreville.moonlight.status</description>
-      <pubDate>Tue, 06 Oct 2026 07:00:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34790-moonlightcode-status</guid>
-      <dc:date>2026-10-06T07:00:45Z</dc:date>
+xmlId: com.kodemsecurity.jetbrains</description>
+      <pubDate>Sun, 04 Oct 2026 08:45:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34692-kodem</guid>
+      <dc:date>2026-10-04T08:45:21Z</dc:date>
     </item>
     <item>
-      <title>MoonlightCode Core - Tue Oct 06 07:00:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34789-moonlightcode-core</link>
-      <description>The shared backend connection for the MoonlightCode plugins: one poll of the moonlightd daemon, one engine event stream, the held-approval state and the registry of...
+      <title>Accessibility Statement Lint - Mon Oct 05 22:35:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34805-accessibility-statement-lint</link>
+      <description>Checks the accessibility statement you already published against the EU model statement and its two dates Right-click in the editor (or Tools) → Accessibility...
 
-vendor: Titouan FREVILLE
-downloads: 16
+vendor: ReadyStack
+downloads: 1
 pricingModel: FREE
-xmlId: io.github.titouanfreville.moonlight.core</description>
-      <pubDate>Tue, 06 Oct 2026 07:00:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34789-moonlightcode-core</guid>
-      <dc:date>2026-10-06T07:00:43Z</dc:date>
+xmlId: com.getreadystack.accessibility-statement-lint</description>
+      <pubDate>Mon, 05 Oct 2026 22:35:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34805-accessibility-statement-lint</guid>
+      <dc:date>2026-10-05T22:35:04Z</dc:date>
     </item>
     <item>
-      <title>ExtendedHighlighting - Thu Oct 01 18:56:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34700-extendedhighlighting</link>
-      <description>Adds syntax highlighting for C# operators that Rider does not support by default. These are treated as symbols without any real semantics i.e. it will override all...
+      <title>EU AI Act Article 50 Transparency Audit for Your Codebase - Mon Oct 05 22:35:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34806-eu-ai-act-article-50-transparency-audit-for-your-codebase</link>
+      <description>Finds the AI call sites, generation code and system prompts that trigger EU AI Act Article 50 disclosure duties - in force since 2 August 2026. Right-click in the...
 
-vendor: daethcodes
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.ai-act-article-50-audit</description>
+      <pubDate>Mon, 05 Oct 2026 22:35:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34806-eu-ai-act-article-50-transparency-audit-for-your-codebase</guid>
+      <dc:date>2026-10-05T22:35:25Z</dc:date>
+    </item>
+    <item>
+      <title>AI Companion Safety Lint - Mon Oct 05 22:35:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34807-ai-companion-safety-lint</link>
+      <description>Reads your companion chatbot's system prompt against California SB 243, New York GBL Article 47, Illinois HB 1806 (WOPR Act) and Nevada AB 406, line by line...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.ai-companion-safety-lint</description>
+      <pubDate>Mon, 05 Oct 2026 22:35:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34807-ai-companion-safety-lint</guid>
+      <dc:date>2026-10-05T22:35:45Z</dc:date>
+    </item>
+    <item>
+      <title>SPF &amp; DMARC Record Lint - Mon Oct 05 22:36:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34808-spf--dmarc-record-lint</link>
+      <description>19 offline checks on the SPF, DMARC and DKIM records in your branch — including the DMARC rewrite of May 2026 Right-click in the editor (or Tools) → SPF &amp;amp; DMARC...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.spf-dmarc-record-lint</description>
+      <pubDate>Mon, 05 Oct 2026 22:36:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34808-spf--dmarc-record-lint</guid>
+      <dc:date>2026-10-05T22:36:05Z</dc:date>
+    </item>
+    <item>
+      <title>SQL Card Data Lint - Mon Oct 05 22:36:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34809-sql-card-data-lint</link>
+      <description>Names every column, index, view and seed row in a .sql migration that stores card data, with its PCI DSS Requirement 3 rule id Right-click in the editor (or Tools...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.sql-card-data-lint</description>
+      <pubDate>Mon, 05 Oct 2026 22:36:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34809-sql-card-data-lint</guid>
+      <dc:date>2026-10-05T22:36:25Z</dc:date>
+    </item>
+    <item>
+      <title>WP Review Gate - Mon Oct 05 22:36:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34810-wp-review-gate</link>
+      <description>The readme.txt and plugin-header lines that send a wordpress.org submission back, found before you submit Right-click in the editor (or Tools) → WP Review Gate: Check...
+
+vendor: ReadyStack
+downloads: 1
+pricingModel: FREE
+xmlId: com.getreadystack.wp-plugin-review-gate</description>
+      <pubDate>Mon, 05 Oct 2026 22:36:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34810-wp-review-gate</guid>
+      <dc:date>2026-10-05T22:36:45Z</dc:date>
+    </item>
+    <item>
+      <title>Source to Design - Tue Sep 29 12:19:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34641-source-to-design</link>
+      <description>Turn pages from your WebStorm project into editable Figma layers. Choose a page route and viewport in WebStorm. Source to Design renders the page with local Chromium...
+
+vendor: Source to Design
+downloads: 1
+pricingModel: PAID
+xmlId: dev.sourcetodesign</description>
+      <pubDate>Tue, 29 Sep 2026 12:19:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34641-source-to-design</guid>
+      <dc:date>2026-09-29T12:19:50Z</dc:date>
+    </item>
+    <item>
+      <title>Spring Config Guard - Sun Sep 13 08:17:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34237-spring-config-guard</link>
+      <description>Detect risky Spring Boot production configuration before it is committed or deployed. Spring Config Guard performs deterministic, local analysis of Spring Boot...
+
+vendor: tjdgus903
 downloads: 3
 pricingModel: FREE
-xmlId: daethcodes.extendedhighlighting</description>
-      <pubDate>Thu, 01 Oct 2026 18:56:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34700-extendedhighlighting</guid>
-      <dc:date>2026-10-01T18:56:31Z</dc:date>
-    </item>
-    <item>
-      <title>IDE Localization: German - Sun Oct 04 08:56:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34757-ide-localization-german</link>
-      <description>German translation of the IntelliJ IDEA user interface: menus, dialogs, settings, notifications, inspection and intention descriptions, file templates and postfix...
-
-vendor: DevCairn Labs
-downloads: 9
-pricingModel: FREE
-xmlId: idelocalization.de</description>
-      <pubDate>Sun, 04 Oct 2026 08:56:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34757-ide-localization-german</guid>
-      <dc:date>2026-10-04T08:56:00Z</dc:date>
-    </item>
-    <item>
-      <title>IDE Localization: Russian - Sun Oct 04 08:58:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34758-ide-localization-russian</link>
-      <description>Russian translation of the IntelliJ IDEA user interface: menus, dialogs, settings, notifications, inspection and intention descriptions, file templates and postfix...
-
-vendor: DevCairn Labs
-downloads: 11
-pricingModel: FREE
-xmlId: idelocalization.ru</description>
-      <pubDate>Sun, 04 Oct 2026 08:58:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34758-ide-localization-russian</guid>
-      <dc:date>2026-10-04T08:58:54Z</dc:date>
-    </item>
-    <item>
-      <title>IDE Localization: Italian - Mon Oct 05 15:05:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34799-ide-localization-italian</link>
-      <description>Italian translation of the IntelliJ IDEA user interface: menus, dialogs, settings, notifications, inspection and intention descriptions, file templates and postfix...
-
-vendor: DevCairn Labs
-downloads: 7
-pricingModel: FREE
-xmlId: idelocalization.it</description>
-      <pubDate>Mon, 05 Oct 2026 15:05:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34799-ide-localization-italian</guid>
-      <dc:date>2026-10-05T15:05:36Z</dc:date>
-    </item>
-    <item>
-      <title>KMP Migration Planner - Sat Oct 03 05:25:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34636-kmp-migration-planner</link>
-      <description>Analyzes an Android codebase and produces a safe, reviewable Kotlin Multiplatform migration plan.
-
-vendor: codemagic
-downloads: 6
-pricingModel: FREE
-xmlId: com.codemagic.kmp-migration-tool</description>
-      <pubDate>Sat, 03 Oct 2026 05:25:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34636-kmp-migration-planner</guid>
-      <dc:date>2026-10-03T05:25:23Z</dc:date>
-    </item>
-    <item>
-      <title>Amazon States Language - Sun Oct 04 05:01:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34583-amazon-states-language</link>
-      <description>Adds support for Amazon States Language in *.asl.json files. Injects JSONPath language into string literals containing JSONPath expressions Injects JSONata language...
-
-vendor: Sergey Evdokimov
-downloads: 9
-pricingModel: FREE
-xmlId: com.ess.AmazonStatesLanguage</description>
-      <pubDate>Sun, 04 Oct 2026 05:01:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34583-amazon-states-language</guid>
-      <dc:date>2026-10-04T05:01:27Z</dc:date>
-    </item>
-    <item>
-      <title>pytest-html-reporter - Sat Oct 03 05:47:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34734-pytest-html-reporter</link>
-      <description>View, find and generate pytest-html-reporter reports without leaving PyCharm or IntelliJ IDEA. Pytest HTML Reporter tool window Shows the report pytest-html-reporter...
-
-vendor: pytest-html-reporter
-downloads: 6
-pricingModel: FREE
-xmlId: io.github.prashanthsams.pytesthtmlreporter</description>
-      <pubDate>Sat, 03 Oct 2026 05:47:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34734-pytest-html-reporter</guid>
-      <dc:date>2026-10-03T05:47:11Z</dc:date>
-    </item>
-    <item>
-      <title>AdonisJS - Tue Oct 06 07:02:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34737-adonisjs</link>
-      <description>AdonisJS — native Edge highlighting, deep completions, navigation, Ace generators, Lucid/Mongoose ORM intelligence, and optional Shamar support. Works on any AdonisJS...
-
-vendor: Shamar
-downloads: 13
-pricingModel: FREE
-xmlId: dev.shamar.adonis.ide</description>
-      <pubDate>Tue, 06 Oct 2026 07:02:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34737-adonisjs</guid>
-      <dc:date>2026-10-06T07:02:47Z</dc:date>
+xmlId: io.github.tjdgus903.springconfigguard</description>
+      <pubDate>Sun, 13 Sep 2026 08:17:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34237-spring-config-guard</guid>
+      <dc:date>2026-09-13T08:17:23Z</dc:date>
     </item>
   </channel>
 </rss>
