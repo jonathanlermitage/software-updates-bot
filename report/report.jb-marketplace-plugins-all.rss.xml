@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Graphify MCP - Sat Oct 03 13:00:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34740-graphify-mcp</link>
+      <description>Connect your AI assistant to Graphify's code knowledge graph. Graphify MCP helps you set up Graphify's hosted repository tools in JetBrains AI Assistant. Open the...
+
+vendor: Graphify Labs
+downloads: 2
+pricingModel: FREE
+xmlId: com.graphify.graphify-mcp</description>
+      <pubDate>Sat, 03 Oct 2026 13:00:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34740-graphify-mcp</guid>
+      <dc:date>2026-10-03T13:00:32Z</dc:date>
+    </item>
+    <item>
+      <title>ShouZhuan Kuikly Kit - Mon Oct 05 06:16:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34786-shouzhuan-kuikly-kit</link>
+      <description>ShouZhuan Kuikly public API snippets for Android Studio and DevEco Studio. Insert Maven (build.gradle.kts) or OHPM (oh-package.json5) coordinates. Templates call...
+
+vendor: 山西智同道合科技有限公司
+downloads: 1
+pricingModel: FREE
+xmlId: com.shouzhuan.kuikly.kit</description>
+      <pubDate>Mon, 05 Oct 2026 06:16:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34786-shouzhuan-kuikly-kit</guid>
+      <dc:date>2026-10-05T06:16:21Z</dc:date>
+    </item>
+    <item>
       <title>Progress Tractor - Tue Oct 06 12:28:18 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34820-progress-tractor</link>
       <description>Replaces the IDE's progress bars with a little tractor plowing a field. Determinate progress: the plowed soil behind the tractor shows how much is done. Indeterminate...
@@ -149,7 +175,7 @@ xmlId: com.aelqsimi.ast</description>
       <dc:date>2026-10-07T16:05:49Z</dc:date>
     </item>
     <item>
-      <title>Kodem - Sun Oct 04 08:45:21 UTC 2026</title>
+      <title>Kodem - Wed Oct 07 20:07:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34692-kodem</link>
       <description>Overview Kodem IDE Extension for JetBrains IDEs enables the scanning of code directly in your development environment. Secure your code as you write with on-demand and...
 
@@ -157,9 +183,9 @@ vendor: Kodem Security
 downloads: 6
 pricingModel: FREE
 xmlId: com.kodemsecurity.jetbrains</description>
-      <pubDate>Sun, 04 Oct 2026 08:45:21 GMT</pubDate>
+      <pubDate>Wed, 07 Oct 2026 20:07:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34692-kodem</guid>
-      <dc:date>2026-10-04T08:45:21Z</dc:date>
+      <dc:date>2026-10-07T20:07:06Z</dc:date>
     </item>
     <item>
       <title>Accessibility Statement Lint - Mon Oct 05 22:35:04 UTC 2026</title>
@@ -238,32 +264,6 @@ xmlId: com.getreadystack.wp-plugin-review-gate</description>
       <pubDate>Mon, 05 Oct 2026 22:36:45 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34810-wp-review-gate</guid>
       <dc:date>2026-10-05T22:36:45Z</dc:date>
-    </item>
-    <item>
-      <title>Source to Design - Tue Sep 29 12:19:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34641-source-to-design</link>
-      <description>Turn pages from your WebStorm project into editable Figma layers. Choose a page route and viewport in WebStorm. Source to Design renders the page with local Chromium...
-
-vendor: Source to Design
-downloads: 1
-pricingModel: PAID
-xmlId: dev.sourcetodesign</description>
-      <pubDate>Tue, 29 Sep 2026 12:19:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34641-source-to-design</guid>
-      <dc:date>2026-09-29T12:19:50Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Config Guard - Sun Sep 13 08:17:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34237-spring-config-guard</link>
-      <description>Detect risky Spring Boot production configuration before it is committed or deployed. Spring Config Guard performs deterministic, local analysis of Spring Boot...
-
-vendor: tjdgus903
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.tjdgus903.springconfigguard</description>
-      <pubDate>Sun, 13 Sep 2026 08:17:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34237-spring-config-guard</guid>
-      <dc:date>2026-09-13T08:17:23Z</dc:date>
     </item>
   </channel>
 </rss>
