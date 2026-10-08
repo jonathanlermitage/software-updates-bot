@@ -17,12 +17,12 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:29 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:29 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:43:30 UTC 2026|
-|![logo](../media/logo/go.png) Go|go1.27.1|[golang.org](https://golang.org/dl/)|Tue Sep 01 22:10:03 UTC 2026|
+|![logo](../media/logo/go.png) Go|go1.27.2|[golang.org](https://golang.org/dl/)|Thu Oct 08 18:07:11 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.8.1|[gradle.org](https://gradle.org/releases)|Wed Oct 07 23:55:25 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.6259.32) ~ 2026-10-01|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Oct 01 17:53:08 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.3 (262.10968.63) ~ 2026-09-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 16 15:43:31 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|19.9.5 to 20.0.0 ~ 2026-09-17|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Sep 17 19:37:54 UTC 2026|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.0 to 20.0.5 ~ 2026-10-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Oct 08 18:07:40 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 14 17:22:14 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.11.1|[nodejs.org](https://nodejs.org)|Thu Oct 08 00:08:59 UTC 2026|
