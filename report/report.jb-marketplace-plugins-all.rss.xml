@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Kubernetes Release Guard - Fri Oct 09 07:16:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34913-kubernetes-release-guard</link>
+      <description>Kubernetes Release Guard helps developers review production deployment risks in Kubernetes manifests before applying them — entirely inside their JetBrains IDE. Review...
+
+vendor: AFK Mesh
+downloads: 0
+pricingModel: PAID
+xmlId: com.afkmesh.kubernetes.releaseguard</description>
+      <pubDate>Fri, 09 Oct 2026 07:16:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34913-kubernetes-release-guard</guid>
+      <dc:date>2026-10-09T07:16:19Z</dc:date>
+    </item>
+    <item>
       <title>Flexible Delphi - Fri Oct 09 15:52:22 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34930-flexible-delphi</link>
       <description>Form designer with component palette, Object Inspector and code links for every event. Completion, hover docs, refactoring, inspections, compile, run and debug. Binary...
@@ -32,7 +45,7 @@ xmlId: pl.mario.ij.mcp</description>
       <dc:date>2026-10-09T14:11:16Z</dc:date>
     </item>
     <item>
-      <title>Markit Editor - Fri Oct 09 13:38:17 UTC 2026</title>
+      <title>Markit Editor - Fri Oct 09 22:44:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34927-markit-editor</link>
       <description>A Typora-style live preview Markdown editor for IntelliJ IDEA focused on comfortable, long-form reading and writing. Opens as a dedicated tab alongside the default...
 
@@ -40,9 +53,9 @@ vendor: Sajith Dilshan
 downloads: 0
 pricingModel: FREE
 xmlId: org.sajith.markdown.plugin</description>
-      <pubDate>Fri, 09 Oct 2026 13:38:17 GMT</pubDate>
+      <pubDate>Fri, 09 Oct 2026 22:44:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34927-markit-editor</guid>
-      <dc:date>2026-10-09T13:38:17Z</dc:date>
+      <dc:date>2026-10-09T22:44:25Z</dc:date>
     </item>
     <item>
       <title>CodeQuest - Fri Oct 09 13:15:01 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.getreadystack.rds-extended-support-cost-lint</description>
       <pubDate>Thu, 08 Oct 2026 22:39:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34906-rds-extended-support-cost-lint-for-terraform</guid>
       <dc:date>2026-10-08T22:39:52Z</dc:date>
-    </item>
-    <item>
-      <title>EU Data Act Switching Clause Lint - Thu Oct 08 22:39:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34905-eu-data-act-switching-clause-lint</link>
-      <description>Reads your cloud contract text and names every clause Chapter VI no longer allows, with the article number and the wording that replaces it Right-click in the editor...
-
-vendor: ReadyStack
-downloads: 0
-pricingModel: FREE
-xmlId: com.getreadystack.data-act-switching-lint</description>
-      <pubDate>Thu, 08 Oct 2026 22:39:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34905-eu-data-act-switching-clause-lint</guid>
-      <dc:date>2026-10-08T22:39:07Z</dc:date>
     </item>
   </channel>
 </rss>
