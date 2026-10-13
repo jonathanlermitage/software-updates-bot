@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>SuperJump - Tue Oct 13 15:22:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34717-superjump</link>
+      <description>SuperJump jumps to a website based on the text under the cursor.
+
+vendor: JimCornmell
+downloads: 2
+pricingModel: FREE
+xmlId: com.cornmell.superjump</description>
+      <pubDate>Tue, 13 Oct 2026 15:22:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34717-superjump</guid>
+      <dc:date>2026-10-13T15:22:20Z</dc:date>
+    </item>
+    <item>
       <title>Kubernetes Release Guard - Mon Oct 12 14:26:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34913-kubernetes-release-guard</link>
       <description>Kubernetes Release Guard helps developers review production deployment risks in Kubernetes manifests before applying them — entirely inside their JetBrains IDE. Review...
 
 vendor: AFK Mesh
-downloads: 11
+downloads: 23
 pricingModel: PAID
 xmlId: com.afkmesh.kubernetes.releaseguard</description>
       <pubDate>Mon, 12 Oct 2026 14:26:46 GMT</pubDate>
@@ -19,17 +32,17 @@ xmlId: com.afkmesh.kubernetes.releaseguard</description>
       <dc:date>2026-10-12T14:26:46Z</dc:date>
     </item>
     <item>
-      <title>Flexible Delphi - Sat Oct 10 12:34:08 UTC 2026</title>
+      <title>Flexible Delphi - Tue Oct 13 17:20:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34930-flexible-delphi</link>
       <description>Form designer with component palette, Object Inspector and code links for every event. Completion, hover docs, refactoring, inspections, compile, run and debug. Binary...
 
 vendor: Ilscipio GmbH
-downloads: 38
+downloads: 42
 pricingModel: PAID
 xmlId: com.flexible.delphi</description>
-      <pubDate>Sat, 10 Oct 2026 12:34:08 GMT</pubDate>
+      <pubDate>Tue, 13 Oct 2026 17:20:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34930-flexible-delphi</guid>
-      <dc:date>2026-10-10T12:34:08Z</dc:date>
+      <dc:date>2026-10-13T17:20:27Z</dc:date>
     </item>
     <item>
       <title>Ij MCP addons - Fri Oct 09 14:11:16 UTC 2026</title>
@@ -50,7 +63,7 @@ xmlId: pl.mario.ij.mcp</description>
       <description>A Typora-style live preview Markdown editor for IntelliJ IDEA focused on comfortable, long-form reading and writing. Opens as a dedicated tab alongside the default...
 
 vendor: Sajith Dilshan
-downloads: 43
+downloads: 46
 pricingModel: FREE
 xmlId: org.sajith.markdown.plugin</description>
       <pubDate>Fri, 09 Oct 2026 22:44:25 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: org.sajith.markdown.plugin</description>
       <description>CodeQuest is a competitive programming assistant for JetBrains IDEs. Query problems, browse statements, submit solutions and track statistics across LeetCode, LeetCode...
 
 vendor: chenxiaochen
-downloads: 14
+downloads: 15
 pricingModel: FREE
 xmlId: com.codequest</description>
       <pubDate>Fri, 09 Oct 2026 13:15:01 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.codequest</description>
       <description>Not affiliated with the OpenBSD OpenCVS project or JetBrains. OpenCVS brings CVS version control to maintained IntelliJ IDEA installations. Browse repositories, check...
 
 vendor: jieyuexing
-downloads: 66
+downloads: 86
 pricingModel: FREE
 xmlId: io.github.jieyuexing.cvs</description>
       <pubDate>Mon, 12 Oct 2026 05:25:03 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: io.github.jieyuexing.cvs</description>
       <description>Copy Kotlin code to the clipboard as a polished image, ready to paste into chats, docs, PRs and slides. Select lines and press ⌃⌘C (macOS) or Ctrl+Alt+Shift+P — the...
 
 vendor: tonygnk
-downloads: 11
+downloads: 13
 pricingModel: FREE
 xmlId: io.github.tonygnk.snaplens</description>
       <pubDate>Fri, 09 Oct 2026 10:01:56 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: io.github.tonygnk.snaplens</description>
       <description>Shows a different icon for each C# file in Rider, depending on the type it declares, the same way IntelliJ IDEA does for Java files. No more rows of identical .cs...
 
 vendor: DimucaTheDev
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: pw.cmdev.dimucathedev.csharp-filetype-icons</description>
       <pubDate>Thu, 08 Oct 2026 22:29:03 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: pw.cmdev.dimucathedev.csharp-filetype-icons</description>
       <description>Your conversations with Junie become memory, and Junie can recall it. past.dev is a memory platform. This plugin connects Junie, in the IDE's AI chat and in its...
 
 vendor: past.dev
-downloads: 8
+downloads: 9
 pricingModel: FREE
 xmlId: dev.past.jetbrains</description>
       <pubDate>Tue, 06 Oct 2026 16:13:30 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: dev.past.jetbrains</description>
       <description>Automatically merges newly opened project windows into macOS tabs in IntelliJ-based IDEs. This is a maintained fork of macOS Force Project Tabs by Mat Cygert, updated...
 
 vendor: Mogudian
-downloads: 15
+downloads: 18
 pricingModel: FREE
 xmlId: com.mogudian.projecttabsrestored</description>
       <pubDate>Fri, 09 Oct 2026 09:14:28 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.mogudian.projecttabsrestored</description>
       <description>AFK MESH SQL Migration Risk Guard Review PostgreSQL database migrations before they reach production. SQL Migration Risk Guard analyzes Flyway SQL migration files and...
 
 vendor: AFK Mesh
-downloads: 11
+downloads: 27
 pricingModel: PAID
 xmlId: com.afkmesh.sqlmigrationguard</description>
       <pubDate>Mon, 12 Oct 2026 14:16:06 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: com.afkmesh.sqlmigrationguard</description>
       <description>JMX &amp;amp; JFR diagnostics in IntelliJ IDEA. Connect to a running JVM, inspect an MBean, follow a live trend, investigate platform threads, and explore a Flight...
 
 vendor: PhilZ Dev
-downloads: 12
+downloads: 13
 pricingModel: FREE
 xmlId: dev.jvmbeacon</description>
       <pubDate>Fri, 09 Oct 2026 09:13:40 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: dev.jvmbeacon</description>
       <description>Compile, run and test Free Pascal, Lazarus and Delphi code in IntelliJ IDEA, CLion, PyCharm, Rider and every JetBrains IDE. Pasforge takes care of everything that...
 
 vendor: KITSS TECH
-downloads: 10
+downloads: 12
 pricingModel: FREEMIUM
 xmlId: com.kitsstech.pasforge</description>
       <pubDate>Thu, 08 Oct 2026 22:58:17 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.kitsstech.pasforge</description>
       <description>A simple plugin that watches your SSH agent (from a password manager like 1Password, or any other agent) and points out which keys are currently active. It also helps...
 
 vendor: Bidhan Khanal
-downloads: 11
+downloads: 13
 pricingModel: FREE
 xmlId: com.bk.sshagentwatch</description>
       <pubDate>Fri, 09 Oct 2026 08:33:53 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.bk.sshagentwatch</description>
       <description>See what a Java or Kotlin change reaches before you ship it: who calls a method, what it calls, and which HTTP endpoints, SQL statements, and message topics are on...
 
 vendor: LeJiu
-downloads: 11
+downloads: 13
 pricingModel: PAID
 xmlId: com.impactgraph</description>
       <pubDate>Fri, 09 Oct 2026 07:26:24 GMT</pubDate>
@@ -201,17 +214,17 @@ xmlId: com.impactgraph</description>
       <dc:date>2026-10-09T07:26:24Z</dc:date>
     </item>
     <item>
-      <title>Layout Manager - Fri Oct 09 01:11:47 UTC 2026</title>
+      <title>Layout Manager - Tue Oct 13 03:43:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34712-layout-manager</link>
       <description>Brings named tool window layouts to JetBrains Rider, like Window | Layouts in other JetBrains IDEs. Save the current tool window layout under a name and switch between...
 
 vendor: Luna Project
-downloads: 6
+downloads: 8
 pricingModel: FREE
 xmlId: jp.lunaproject.layoutmanager</description>
-      <pubDate>Fri, 09 Oct 2026 01:11:47 GMT</pubDate>
+      <pubDate>Tue, 13 Oct 2026 03:43:24 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34712-layout-manager</guid>
-      <dc:date>2026-10-09T01:11:47Z</dc:date>
+      <dc:date>2026-10-13T03:43:24Z</dc:date>
     </item>
     <item>
       <title>Java Portable - Fri Oct 09 05:06:46 UTC 2026</title>
@@ -219,7 +232,7 @@ xmlId: jp.lunaproject.layoutmanager</description>
       <description>Open and run Java files without installing another IDE. PhpStorm, WebStorm, PyCharm, GoLand, RubyMine, CLion and Rider ship no Java support at all — a single .java...
 
 vendor: NavaTOP
-downloads: 105
+downloads: 198
 pricingModel: FREE
 xmlId: io.genai.java</description>
       <pubDate>Fri, 09 Oct 2026 05:06:46 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: io.genai.java</description>
       <description>IntelliJ IDEA support for the Easy-Extension extension point framework. Gutter icons on @ExtensionPoint interfaces to navigate to all implementations (Ability...
 
 vendor: xiaoshicae
-downloads: 12
+downloads: 13
 pricingModel: FREE
 xmlId: io.github.xiaoshicae.easy-extension-intellij</description>
       <pubDate>Fri, 09 Oct 2026 03:37:35 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: io.github.xiaoshicae.easy-extension-intellij</description>
       <description>Copy/paste detection while you type. The plugin runs jscpd as a language server, so every clone, dead symbol or over-complex function shows up as a highlight in the...
 
 vendor: Andrey Kucherenko
-downloads: 15
+downloads: 18
 pricingModel: FREE
 xmlId: dev.jscpd.ide</description>
       <pubDate>Fri, 09 Oct 2026 05:46:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34744-jscpd</guid>
       <dc:date>2026-10-09T05:46:25Z</dc:date>
-    </item>
-    <item>
-      <title>RDS Extended Support Cost Lint for Terraform - Thu Oct 08 22:39:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34906-rds-extended-support-cost-lint-for-terraform</link>
-      <description>Prices the AWS Extended Support surcharge on every RDS and Aurora database in your .tf files Right-click in the editor (or Tools) → RDS Extended Support Cost Lint for...
-
-vendor: ReadyStack
-downloads: 10
-pricingModel: FREE
-xmlId: com.getreadystack.rds-extended-support-cost-lint</description>
-      <pubDate>Thu, 08 Oct 2026 22:39:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34906-rds-extended-support-cost-lint-for-terraform</guid>
-      <dc:date>2026-10-08T22:39:52Z</dc:date>
     </item>
   </channel>
 </rss>
