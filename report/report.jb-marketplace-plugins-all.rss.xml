@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>JSON Transformer - Tue Oct 13 09:12:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35059-json-transformer</link>
-      <description>Convert JSON between multiple table layouts inside your IDE — a native re-implementation of the tableconvert.com "JSON to JSON" tool. / 在 IDE 内部将 JSON 在多种表格布局之间转换，复刻...
+      <title>Claude Subscription Usage - Wed Oct 14 05:38:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35090-claude-subscription-usage</link>
+      <description>Displays your Claude subscription usage limits in the IDE status bar. A fork of Claude Code Usage by Dmitry Polushkin. If you have the original plugin installed...
 
-vendor: liuqiyu
+vendor: ShiningPluto
 downloads: 0
 pricingModel: FREE
-xmlId: com.github.liuqiyu-cmd.jsontransformer</description>
-      <pubDate>Tue, 13 Oct 2026 09:12:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35059-json-transformer</guid>
-      <dc:date>2026-10-13T09:12:36Z</dc:date>
+xmlId: com.github.shiningpluto.claudeusage</description>
+      <pubDate>Wed, 14 Oct 2026 05:38:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35090-claude-subscription-usage</guid>
+      <dc:date>2026-10-14T05:38:39Z</dc:date>
     </item>
     <item>
-      <title>DeepSeek Harness Embedded - Tue Oct 13 08:02:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35056-deepseek-harness-embedded</link>
-      <description>1# DeepSeek Harness for JetBrains IDEs English | 中文 把本机已安装的 DeepSeek Harness 直接嵌进 JetBrains IDE：点击侧边栏图标，就能在 IDE 里用上 Harness 的完整界面。 为什么写这个插件 我在插件市场里装过现有的 DeepSeek...
+      <title>Session Porter for Claude Code - Wed Oct 14 15:06:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35112-session-porter-for-claude-code</link>
+      <description>Export and import Claude Code chat sessions - built for moving them to another machine and another user. The plugin reads the local Claude Code session transcripts...
 
-vendor: fufei
+vendor: Fabio Pelliccia
 downloads: 0
 pricingModel: FREE
-xmlId: com.deepseek.harness.jetbrains</description>
-      <pubDate>Tue, 13 Oct 2026 08:02:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35056-deepseek-harness-embedded</guid>
-      <dc:date>2026-10-13T08:02:34Z</dc:date>
+xmlId: com.github.fabiopelliccia.claudesessionsimportexport</description>
+      <pubDate>Wed, 14 Oct 2026 15:06:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35112-session-porter-for-claude-code</guid>
+      <dc:date>2026-10-14T15:06:36Z</dc:date>
     </item>
     <item>
-      <title>Anvil - Wed Oct 14 07:54:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35035-anvil</link>
-      <description>Run and inspect Minecraft server test environments defined with Anvil, a testing framework for Minecraft Java Edition servers, proxies, and simulated players. Anvil...
+      <title>Lua LSP - Wed Oct 14 16:27:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35067-lua-lsp</link>
+      <description>Experimental. Provides Lua language support through the bundled LuaLS language server.
 
-vendor: whereareiam
-downloads: 1
+vendor: JetBrains s.r.o.
+downloads: 0
 pricingModel: FREE
-xmlId: me.whereareiam.anvil</description>
-      <pubDate>Wed, 14 Oct 2026 07:54:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35035-anvil</guid>
-      <dc:date>2026-10-14T07:54:04Z</dc:date>
+xmlId: com.intellij.experimental.lua-lsp</description>
+      <pubDate>Wed, 14 Oct 2026 16:27:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35067-lua-lsp</guid>
+      <dc:date>2026-10-14T16:27:42Z</dc:date>
     </item>
     <item>
-      <title>Always Select Opened File - Fri Oct 09 14:45:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34897-always-select-opened-file</link>
-      <description>Automatically enables the Project View option Always Select Opened File (formerly Autoscroll from Source) for every project when it is opened, so the file you are...
+      <title>OfficeFloor REST View - Wed Oct 14 04:17:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35087-officefloor-rest-view</link>
+      <description>Visualises OfficeFloor WoOF / Activity "compose" YAML endpoints as an auto-laid-out flow diagram. Open an endpoint configuration file and a Flow tab appears next to...
 
-vendor: Usama Bin Sadiq
+vendor: OfficeFloor IoCC
+downloads: 0
+pricingModel: FREE
+xmlId: net.officefloor.ide.rest.plugin</description>
+      <pubDate>Wed, 14 Oct 2026 04:17:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35087-officefloor-rest-view</guid>
+      <dc:date>2026-10-14T04:17:25Z</dc:date>
+    </item>
+    <item>
+      <title>Anakin MCP Server - Wed Oct 14 11:43:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35103-anakin-mcp-server</link>
+      <description>Connects the AI agents in your JetBrains IDE to the Anakin MCP server, so they can scrape web pages, crawl sites, map URLs and run web searches, and get the results...
+
+vendor: anakin
+downloads: 0
+pricingModel: FREE
+xmlId: io.anakin.mcp</description>
+      <pubDate>Wed, 14 Oct 2026 11:43:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35103-anakin-mcp-server</guid>
+      <dc:date>2026-10-14T11:43:15Z</dc:date>
+    </item>
+    <item>
+      <title>DeepSeek Tool - Wed Oct 14 11:45:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35105-deepseek-tool</link>
+      <description>DeepSeek Tool acts as your intelligent coding companion for DeepSeek, seamlessly integrated into the right-side chat window to deliver the smart assistance you need to...
+
+vendor: liangzhen
+downloads: 0
+pricingModel: FREE
+xmlId: com.org.dp.toolkit</description>
+      <pubDate>Wed, 14 Oct 2026 11:45:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35105-deepseek-tool</guid>
+      <dc:date>2026-10-14T11:45:17Z</dc:date>
+    </item>
+    <item>
+      <title>Mobile Test Bench - Mon Oct 12 11:31:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35022-mobile-test-bench</link>
+      <description>Mirror and control Android and iOS devices in an IDE tool window, inspect their UI, and get ready-to-use locators for Mobilewright, Appium and WebdriverIO, without...
+
+vendor: Marco Maes
 downloads: 4
 pricingModel: FREE
-xmlId: com.github.alwaysselectopenedfile</description>
-      <pubDate>Fri, 09 Oct 2026 14:45:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34897-always-select-opened-file</guid>
-      <dc:date>2026-10-09T14:45:58Z</dc:date>
+xmlId: io.github.marcomaes.mobiletestbench</description>
+      <pubDate>Mon, 12 Oct 2026 11:31:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35022-mobile-test-bench</guid>
+      <dc:date>2026-10-12T11:31:31Z</dc:date>
     </item>
     <item>
-      <title>Doppler Secrets Manager (Unofficial) - Tue Oct 13 23:34:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34961-doppler-secrets-manager-unofficial-</link>
-      <description>Unofficial, independently developed plugin. Not affiliated with, endorsed by, or supported by Doppler. Doppler's name, trademarks, and copyrighted materials belong to...
+      <title>Advanced File Types - Tue Oct 13 22:34:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35076-advanced-file-types</link>
+      <description>Adds project-level file type overrides, using glob or regex with full path matching.Can also load file types from VS Code settings and Git linguist-language...
 
-vendor: Viacheslav Kudinov
-downloads: 10
+vendor: Mike Edmunds
+downloads: 0
 pricingModel: FREE
-xmlId: com.viacheslavkudinov.doppler</description>
-      <pubDate>Tue, 13 Oct 2026 23:34:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34961-doppler-secrets-manager-unofficial-</guid>
-      <dc:date>2026-10-13T23:34:51Z</dc:date>
+xmlId: com.medmunds.advancedfiletypes</description>
+      <pubDate>Tue, 13 Oct 2026 22:34:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35076-advanced-file-types</guid>
+      <dc:date>2026-10-13T22:34:26Z</dc:date>
     </item>
     <item>
-      <title>Proschi - Sat Oct 10 02:08:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34955-proschi</link>
-      <description>Support for Proschi architecture diagrams (*.proschi): a text language for architecture diagrams with a deterministic simulation of load, latency, availability and...
+      <title>Local Diff Review - Wed Oct 14 13:36:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35110-local-diff-review</link>
+      <description>Review your own git changes in the IDE before you push them for team review. Pick two comparison points, read the diff, annotate it, track what you have covered, and...
 
-vendor: GVArt
-downloads: 3
+vendor: Mythic
+downloads: 0
 pricingModel: FREE
-xmlId: app.proschi</description>
-      <pubDate>Sat, 10 Oct 2026 02:08:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34955-proschi</guid>
-      <dc:date>2026-10-10T02:08:17Z</dc:date>
+xmlId: com.mythic.localreview</description>
+      <pubDate>Wed, 14 Oct 2026 13:36:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35110-local-diff-review</guid>
+      <dc:date>2026-10-14T13:36:00Z</dc:date>
     </item>
     <item>
-      <title>JDBC SQL Splicer - Sun Oct 11 14:02:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35001-jdbc-sql-splicer</link>
-      <description>Splice JDBC parameterized SQL into a copyable statement while debugging Java applications. Select a SQL string and its argument array or collection from the current...
+      <title>Marp Preview - Wed Oct 14 15:32:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35113-marp-preview</link>
+      <description>Live preview for Marp slide decks, next to the Markdown editor, in every JetBrains IDE. Open a Markdown file whose front matter contains marp: true and it gets an...
 
-vendor: Xu John
-downloads: 3
+vendor: p3kj
+downloads: 0
 pricingModel: FREE
-xmlId: com.sqlsplice.jdbc</description>
-      <pubDate>Sun, 11 Oct 2026 14:02:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35001-jdbc-sql-splicer</guid>
-      <dc:date>2026-10-11T14:02:31Z</dc:date>
+xmlId: cz.p3kj.marp</description>
+      <pubDate>Wed, 14 Oct 2026 15:32:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35113-marp-preview</guid>
+      <dc:date>2026-10-14T15:32:05Z</dc:date>
     </item>
     <item>
-      <title>Reqlet - Sun Oct 04 17:22:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34770-reqlet</link>
-      <description>Reqlet helps developers test Spring MVC APIs and export API documentation directly in IntelliJ IDEA. Reqlet 是一款面向 IntelliJ IDEA 的 Spring MVC 接口开发与调试插件， 将源码解析、HTTP...
+      <title>jrs - Wed Oct 14 12:46:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35092-jrs</link>
+      <description>Support for jrs, the Java build system driven by one jrs.toml. Imports a jrs project from jrs metadata: source and resource roots, output directories, the JDK, the...
 
-vendor: JingY
-downloads: 2
+vendor: Piotr Wittchen
+downloads: 0
 pricingModel: FREE
-xmlId: com.reqlet</description>
-      <pubDate>Sun, 04 Oct 2026 17:22:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34770-reqlet</guid>
-      <dc:date>2026-10-04T17:22:42Z</dc:date>
+xmlId: dev.getjrs.jrs</description>
+      <pubDate>Wed, 14 Oct 2026 12:46:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35092-jrs</guid>
+      <dc:date>2026-10-14T12:46:45Z</dc:date>
     </item>
     <item>
-      <title>adocfmt - Sun Oct 11 20:00:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35007-adocfmt</link>
-      <description>Formats AsciiDoc files with adocfmt, an opinionated AsciiDoc formatter.
+      <title>DroidLens - Wed Oct 14 09:11:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35097-droidlens</link>
+      <description>DroidLens lets you debug a running Android debug build without leaving Android Studio: an in-IDE network inspector (OkHttp, gRPC, WebSocket) and a lightweight layout...
 
-vendor: Yannick Pfaff
-downloads: 3
+vendor: kakacat
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.ypfaff.adocfmt</description>
-      <pubDate>Sun, 11 Oct 2026 20:00:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35007-adocfmt</guid>
-      <dc:date>2026-10-11T20:00:30Z</dc:date>
+xmlId: kakacat.android.helper</description>
+      <pubDate>Wed, 14 Oct 2026 09:11:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35097-droidlens</guid>
+      <dc:date>2026-10-14T09:11:58Z</dc:date>
     </item>
     <item>
-      <title>NodeCanvas Usages - Mon Oct 12 17:41:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35036-nodecanvas-usages</link>
-      <description>Shows and maintains usages of C# methods, properties and fields in NodeCanvas graphs (Behaviour Trees, FSMs, Dialogue Trees) of a Unity project. Code Vision...
+      <title>Copilot Usage Monitor - Wed Oct 14 11:39:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34853-copilot-usage-monitor</link>
+      <description>Shows GitHub Copilot premium credit usage in the CLion status bar by reading the local Copilot data from idea.log. The plugin does not make network requests or access...
 
-vendor: Primeer
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.primeer.nodecanvasusages</description>
-      <pubDate>Mon, 12 Oct 2026 17:41:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35036-nodecanvas-usages</guid>
-      <dc:date>2026-10-12T17:41:28Z</dc:date>
-    </item>
-    <item>
-      <title>Local Codex Commit Notes - Mon Oct 12 09:42:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35028-local-codex-commit-notes</link>
-      <description>Generate a commit message from the current changes and your saved prompt. Click the toolbar button to generate it. The message is not filled in automatically...
-
-vendor: spc
-downloads: 1
-pricingModel: FREE
-xmlId: com.spc.commit-message</description>
-      <pubDate>Mon, 12 Oct 2026 09:42:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35028-local-codex-commit-notes</guid>
-      <dc:date>2026-10-12T09:42:15Z</dc:date>
-    </item>
-    <item>
-      <title>tModLoaderHelper - Sat Oct 10 09:32:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34962-tmodloaderhelper</link>
-      <description>tModLoaderHelper is a Rider plugin for Terraria tModLoader mod development. It provides entity browser and C# code completion. The tool window browses items...
-
-vendor: MoLing
-downloads: 9
-pricingModel: FREE
-xmlId: com.moling.tModLoaderHelper</description>
-      <pubDate>Sat, 10 Oct 2026 09:32:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34962-tmodloaderhelper</guid>
-      <dc:date>2026-10-10T09:32:11Z</dc:date>
-    </item>
-    <item>
-      <title>Pull Request Inbox for Bitbucket - Tue Oct 13 22:23:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34993-pull-request-inbox-for-bitbucket</link>
-      <description>A free pull request inbox for Bitbucket Cloud and Data Center (beta) in IntelliJ IDEA, PyCharm, WebStorm, Rider and more. Approve, comment and merge with Pro. No AI...
-
-vendor: Lesstep
+vendor: Rob
 downloads: 5
+pricingModel: FREE
+xmlId: io.github.rpiu.copilot.creditusage</description>
+      <pubDate>Wed, 14 Oct 2026 11:39:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34853-copilot-usage-monitor</guid>
+      <dc:date>2026-10-14T11:39:14Z</dc:date>
+    </item>
+    <item>
+      <title>Codebloom - Code Mind Maps - Tue Oct 13 21:42:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35075-codebloom--code-mind-maps</link>
+      <description>See any file as a pastel mind map of its classes and functions, with the real code on every branch and call arrows between them. Long files are hard to read top to...
+
+vendor: Rohan Patnaik
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.rohanpatnaik.codebloom</description>
+      <pubDate>Tue, 13 Oct 2026 21:42:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35075-codebloom--code-mind-maps</guid>
+      <dc:date>2026-10-13T21:42:57Z</dc:date>
+    </item>
+    <item>
+      <title>Logstanza: Log File Viewer - Wed Oct 14 15:06:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35111-logstanza-log-file-viewer</link>
+      <description>Open any log file — even multi-GB — instantly, with automatic format detection, clickable stack traces, and your file stays editable. Logstanza adds a Logstanza tab...
+
+vendor: KITSS TECH
+downloads: 0
 pricingModel: FREEMIUM
-xmlId: com.lesstep.bitbucket-prs</description>
-      <pubDate>Tue, 13 Oct 2026 22:23:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34993-pull-request-inbox-for-bitbucket</guid>
-      <dc:date>2026-10-13T22:23:21Z</dc:date>
+xmlId: com.kitsstech.logstanza</description>
+      <pubDate>Wed, 14 Oct 2026 15:06:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35111-logstanza-log-file-viewer</guid>
+      <dc:date>2026-10-14T15:06:03Z</dc:date>
     </item>
     <item>
-      <title>Manifest Snippets + Removed-API Audit - Fri Oct 09 22:40:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34947-manifest-snippets--removed-api-audit</link>
-      <description>For platform engineers on AKS: 28 rules naming every removed apiVersion, literal credential and :latest tag in the file you have open, and 40 snippets written against...
+      <title>Dinowise: Deno - Wed Oct 14 15:41:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35114-dinowise-deno</link>
+      <description>Deno for JetBrains IDEs powered by the official deno lsp: type errors, lint, JSR &amp;amp; npm, tests, tasks and debugging. Open a folder with a deno.json and it just...
 
-vendor: ReadyStack
-downloads: 3
-pricingModel: FREE
-xmlId: com.getreadystack.cloud-manifest-audit-kit</description>
-      <pubDate>Fri, 09 Oct 2026 22:40:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34947-manifest-snippets--removed-api-audit</guid>
-      <dc:date>2026-10-09T22:40:00Z</dc:date>
-    </item>
-    <item>
-      <title>CMS-0057 API Gate - Fri Oct 09 22:40:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34948-cms-0057-api-gate</link>
-      <description>14 rules read a FHIR CapabilityStatement against CMS-0057-F. A 2021 payer statement returned 6 blocking gaps - three of the four APIs missing - and 107 days left to 1...
-
-vendor: ReadyStack
-downloads: 3
-pricingModel: FREE
-xmlId: com.getreadystack.cms-0057-api-gate</description>
-      <pubDate>Fri, 09 Oct 2026 22:40:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34948-cms-0057-api-gate</guid>
-      <dc:date>2026-10-09T22:40:25Z</dc:date>
-    </item>
-    <item>
-      <title>Config &amp; DSL Lint + Snippets - Fri Oct 09 22:40:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34949-config--dsl-lint--snippets</link>
-      <description>Your config files are never compiled — nothing fails until deploy. 36 snippets and 28 lint rules for 9 of them, inside the editor, offline. Right-click in the editor...
-
-vendor: ReadyStack
-downloads: 3
-pricingModel: FREE
-xmlId: com.getreadystack.config-dsl-lint-snippet-pack</description>
-      <pubDate>Fri, 09 Oct 2026 22:40:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34949-config--dsl-lint--snippets</guid>
-      <dc:date>2026-10-09T22:40:49Z</dc:date>
-    </item>
-    <item>
-      <title>E-Invoice Lint for XRechnung, Factur-X and UBL - Fri Oct 09 22:41:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34950-e-invoice-lint-for-xrechnung-factur-x-and-ubl</link>
-      <description>Catches retired profile identifiers, code-list values outside EN 16931 and malformed dates in your e-invoice XML, in the editor, before an access point rejects the...
-
-vendor: ReadyStack
-downloads: 3
-pricingModel: FREE
-xmlId: com.getreadystack.einvoice-lint-en16931</description>
-      <pubDate>Fri, 09 Oct 2026 22:41:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34950-e-invoice-lint-for-xrechnung-factur-x-and-ubl</guid>
-      <dc:date>2026-10-09T22:41:10Z</dc:date>
-    </item>
-    <item>
-      <title>EN 16931 e-Invoice Lint - Fri Oct 09 22:41:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34951-en-16931-e-invoice-lint</link>
-      <description>Checks an invoice payload or field mapping against EN 16931 and the national CIUS of the country it detects — 29 rules, in your editor. Right-click in the editor (or...
-
-vendor: ReadyStack
-downloads: 3
-pricingModel: FREE
-xmlId: com.getreadystack.en16931-einvoice-lint</description>
-      <pubDate>Fri, 09 Oct 2026 22:41:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34951-en-16931-e-invoice-lint</guid>
-      <dc:date>2026-10-09T22:41:31Z</dc:date>
-    </item>
-    <item>
-      <title>Spring Boot 4 Migration Fixer - Sat Oct 10 12:58:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34964-spring-boot-4-migration-fixer</link>
-      <description>Upgrading from Spring Boot 3.x to 4.0? Open-source support for Spring Boot 3.5 ended on 2026-06-30. This finds every line in your project that Spring Boot 4.0 changes...
-
-vendor: ReadyStack
-downloads: 7
+vendor: KITSS TECH
+downloads: 0
 pricingModel: FREEMIUM
-xmlId: com.getreadystack.spring-boot-4-migration</description>
-      <pubDate>Sat, 10 Oct 2026 12:58:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34964-spring-boot-4-migration-fixer</guid>
-      <dc:date>2026-10-10T12:58:21Z</dc:date>
+xmlId: com.kitsstech.dinowise</description>
+      <pubDate>Wed, 14 Oct 2026 15:41:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35114-dinowise-deno</guid>
+      <dc:date>2026-10-14T15:41:39Z</dc:date>
     </item>
     <item>
-      <title>Jackson 3 Migration Fixer - Sat Oct 10 12:58:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34966-jackson-3-migration-fixer</link>
-      <description>Moving from Jackson 2 to Jackson 3? Jackson 3 changes the Maven coordinates, the Java packages and many class names, and Spring Boot 4.0 uses it by default. This finds...
+      <title>Sqmcraft: SQLDelight Tools - Wed Oct 14 17:05:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35115-sqmcraft-sqldelight-tools</link>
+      <description>SQLDelight that just works in Android Studio and IntelliJ IDEA: live code generation, Kotlin ↔ SQL navigation, migration checks. Sqmcraft understands your .sq and .sqm...
 
-vendor: ReadyStack
-downloads: 7
+vendor: KITSS TECH
+downloads: 0
 pricingModel: FREEMIUM
-xmlId: com.getreadystack.jackson-3-migration</description>
-      <pubDate>Sat, 10 Oct 2026 12:58:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34966-jackson-3-migration-fixer</guid>
-      <dc:date>2026-10-10T12:58:22Z</dc:date>
+xmlId: com.kitsstech.sqmcraft</description>
+      <pubDate>Wed, 14 Oct 2026 17:05:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35115-sqmcraft-sqldelight-tools</guid>
+      <dc:date>2026-10-14T17:05:15Z</dc:date>
+    </item>
+    <item>
+      <title>Code Scroll - Wed Oct 14 17:47:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35118-code-scroll</link>
+      <description>Oh, just another code minimap: the whole file in your theme's colors next to the code, with errors, changes and bookmarks marked on it. Drag the frame to scroll, or...
+
+vendor: Oh, just another!
+downloads: 0
+pricingModel: FREE
+xmlId: com.rustamgarifulin.codescroll</description>
+      <pubDate>Wed, 14 Oct 2026 17:47:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35118-code-scroll</guid>
+      <dc:date>2026-10-14T17:47:29Z</dc:date>
+    </item>
+    <item>
+      <title>Image Tools - Wed Oct 14 16:00:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35108-image-tools</link>
+      <description>Convert and resize images straight from the Project view and editor tabs. Right-click one or more images and choose Convert Image to… to get PNG, JPG, WebP or AVIF...
+
+vendor: xprees - Václav Bílý
+downloads: 0
+pricingModel: FREE
+xmlId: cz.xprees.imagetools</description>
+      <pubDate>Wed, 14 Oct 2026 16:00:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35108-image-tools</guid>
+      <dc:date>2026-10-14T16:00:12Z</dc:date>
+    </item>
+    <item>
+      <title>Sproto Language - Wed Oct 14 13:33:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35109-sproto-language</link>
+      <description>Features Author: Yexiao. Native Sproto support for JetBrains Rider: syntax highlighting, scoped and cross-file type navigation. Separate colors for type...
+
+vendor: Yexiao
+downloads: 0
+pricingModel: FREE
+xmlId: dev.sproto.language</description>
+      <pubDate>Wed, 14 Oct 2026 13:33:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35109-sproto-language</guid>
+      <dc:date>2026-10-14T13:33:18Z</dc:date>
     </item>
   </channel>
 </rss>
