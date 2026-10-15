@@ -20,7 +20,7 @@
 |![logo](../media/logo/go.png) Go|go1.27.2|[golang.org](https://golang.org/dl/)|Thu Oct 08 18:07:11 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.8.1|[gradle.org](https://gradle.org/releases)|Wed Oct 07 23:55:25 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
-|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.6800.24) ~ 2026-10-12|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Oct 12 11:28:37 UTC 2026|
+|![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.7031.23) ~ 2026-10-15|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Oct 15 23:06:25 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.3 (262.10968.63) ~ 2026-09-16|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Wed Sep 16 15:43:31 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.0 to 20.0.5 ~ 2026-10-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Oct 08 18:07:40 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 343 - Trois IA, une seule prise électrique|[lescastcodeurs.com](https://lescastcodeurs.com)|Mon Sep 14 17:22:14 UTC 2026|
