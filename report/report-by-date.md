@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.22.0|[nodejs.org](https://nodejs.org)|Wed Oct 14 23:01:06 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.12.0|[nodejs.org](https://nodejs.org)|Wed Oct 14 23:01:06 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.22.0|[nodejs.org](https://nodejs.org)|Wed Oct 14 23:01:06 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.6800.24) ~ 2026-10-12|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Mon Oct 12 11:28:37 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.0|[www.python.org](https://www.python.org/downloads/windows/)|Fri Oct 09 14:39:08 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.15.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Oct 09 14:39:07 UTC 2026|
