@@ -6,6 +6,201 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Lua - Fri Oct 16 13:42:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34924-lua</link>
+      <description>Beta. Lua and Luau language support for JetBrains IDEs. The plugin reads .lua and .luau files. It supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT, and Luau. Select the dialect...
+
+vendor: JetBrains s.r.o.
+downloads: 3
+pricingModel: FREE
+xmlId: com.intellij.lua</description>
+      <pubDate>Fri, 16 Oct 2026 13:42:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34924-lua</guid>
+      <dc:date>2026-10-16T13:42:44Z</dc:date>
+    </item>
+    <item>
+      <title>LogCactus - Fri Oct 16 12:18:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35158-logcactus</link>
+      <description>A logcat viewer for Android devices with a powerful filter language, crash and ANR tracking, bookmarks and one-click bug reports.
+
+vendor: LogCat by cactus
+downloads: 0
+pricingModel: FREE
+xmlId: com.cactus.logcactus</description>
+      <pubDate>Fri, 16 Oct 2026 12:18:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35158-logcactus</guid>
+      <dc:date>2026-10-16T12:18:20Z</dc:date>
+    </item>
+    <item>
+      <title>Java Dependency Upgrade Impact - Thu Oct 15 21:10:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35165-java-dependency-upgrade-impact</link>
+      <description>Java Dependency Upgrade Impact See affected Java API usages before changing a Maven dependency. Dependency upgrade work is more useful when an API diff points to the...
+
+vendor: AFK Mesh
+downloads: 0
+pricingModel: PAID
+xmlId: com.afkmesh.java.dependency.upgrade.impact</description>
+      <pubDate>Thu, 15 Oct 2026 21:10:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35165-java-dependency-upgrade-impact</guid>
+      <dc:date>2026-10-15T21:10:31Z</dc:date>
+    </item>
+    <item>
+      <title>Java Architecture Regression Guard - Thu Oct 15 21:40:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35168-java-architecture-regression-guard</link>
+      <description>Accept existing architecture debt. Review new violations as Java code changes. Keep growing Java/Maven projects aligned with your team's boundaries. Define layer...
+
+vendor: AFK Mesh
+downloads: 1
+pricingModel: PAID
+xmlId: com.afkmesh.javaarchitectureguard</description>
+      <pubDate>Thu, 15 Oct 2026 21:40:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35168-java-architecture-regression-guard</guid>
+      <dc:date>2026-10-15T21:40:21Z</dc:date>
+    </item>
+    <item>
+      <title>OpenCode V2 UI (unofficial) - Fri Oct 16 11:22:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35185-opencode-v2-ui-unofficial-</link>
+      <description>OpenCode V2 UI (unofficial) - AI Coding Agent for JetBrains IDEs Seamlessly integrates OpenCode directly into your workflow. Key Features: Quick Launch: Connect to the...
+
+vendor: OpenCode V2 UI (unofficial)
+downloads: 0
+pricingModel: FREE
+xmlId: com.zhucanle.opencodev2.ide</description>
+      <pubDate>Fri, 16 Oct 2026 11:22:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35185-opencode-v2-ui-unofficial-</guid>
+      <dc:date>2026-10-16T11:22:56Z</dc:date>
+    </item>
+    <item>
+      <title>iBATIS DAO Navigator - Fri Oct 16 07:54:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35178-ibatis-dao-navigator</link>
+      <description>Navigate between .NET iBATIS sqlMap XML namespace/statement IDs and C# DAO interface declarations. Left-click the arrow beside a SQL statement or DAO declaration to...
+
+vendor: 志强贾
+downloads: 0
+pricingModel: FREE
+xmlId: com.teld.ibatis.navigator</description>
+      <pubDate>Fri, 16 Oct 2026 07:54:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35178-ibatis-dao-navigator</guid>
+      <dc:date>2026-10-16T07:54:44Z</dc:date>
+    </item>
+    <item>
+      <title>EUDI Wallet Request Lint - Thu Oct 15 22:38:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35170-eudi-wallet-request-lint</link>
+      <description>Nine rules that read the JSON your service sends to an EU Digital Identity Wallet Right-click in the editor (or Tools) → EUDI Wallet Request Lint: Check This File...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.eudi-rp-request-lint</description>
+      <pubDate>Thu, 15 Oct 2026 22:38:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35170-eudi-wallet-request-lint</guid>
+      <dc:date>2026-10-15T22:38:17Z</dc:date>
+    </item>
+    <item>
+      <title>Facturae 3.2.2 / Verifactu Lint - Thu Oct 15 22:38:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35171-facturae-3-2-2--verifactu-lint</link>
+      <description>18 reglas sobre tu XML Facturae antes de que FACe lo devuelva Right-click in the editor (or Tools) → Facturae 3.2.2 / Verifactu Lint: Check This File. Each finding...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.facturae-verifactu-lint</description>
+      <pubDate>Thu, 15 Oct 2026 22:38:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35171-facturae-3-2-2--verifactu-lint</guid>
+      <dc:date>2026-10-15T22:38:40Z</dc:date>
+    </item>
+    <item>
+      <title>Farm Loss Notice Lint - Thu Oct 15 22:39:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35172-farm-loss-notice-lint</link>
+      <description>Crop insurance claim form deadlines from 7 CFR 457.8 section 14: notice within 72 hours of discovering damage, no later than 15 days after the insurance period ends...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.farm-loss-notice-lint</description>
+      <pubDate>Thu, 15 Oct 2026 22:39:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35172-farm-loss-notice-lint</guid>
+      <dc:date>2026-10-15T22:39:02Z</dc:date>
+    </item>
+    <item>
+      <title>GDPR Privacy Notice Lint - Thu Oct 15 22:39:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35173-gdpr-privacy-notice-lint</link>
+      <description>16 rules read your privacy.md the way Articles 13 and 14 read it Right-click in the editor (or Tools) → GDPR Privacy Notice Lint: Check This File. Each finding appears...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.gdpr-privacy-notice-lint</description>
+      <pubDate>Thu, 15 Oct 2026 22:39:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35173-gdpr-privacy-notice-lint</guid>
+      <dc:date>2026-10-15T22:39:24Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Server 2026 Spec Migration Check - Fri Oct 16 04:14:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35175-mcp-server-2026-spec-migration-check</link>
+      <description>Is your MCP server ready for the Model Context Protocol 2026-07-28 revision? That revision removed the initialize handshake, protocol sessions (Mcp-Session-Id), ping...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.getreadystack.mcp-2026-migration</description>
+      <pubDate>Fri, 16 Oct 2026 04:14:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35175-mcp-server-2026-spec-migration-check</guid>
+      <dc:date>2026-10-16T04:14:45Z</dc:date>
+    </item>
+    <item>
+      <title>composer.json Validate - PHP EOL Release Gate - Fri Oct 16 04:24:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35176-composer-json-validate--php-eol-release-gate</link>
+      <description>Tag the next release with a composer.json that Packagist accepts and that no longer promises end-of-life PHP. PHP 8.1 reached end of life on 2025-12-31 and PHP 8.2...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.getreadystack.composer-release-gate</description>
+      <pubDate>Fri, 16 Oct 2026 04:24:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35176-composer-json-validate--php-eol-release-gate</guid>
+      <dc:date>2026-10-16T04:24:26Z</dc:date>
+    </item>
+    <item>
+      <title>CodeTogether AITrax Cloud - Thu Oct 15 10:54:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34941-codetogether-aitrax-cloud</link>
+      <description>CodeTogether AI See What AI Coding Is Actually Delivering AI is changing how developers write code. But more AI-generated code doesn't always mean better software...
+
+vendor: CodeTogether Inc.
+downloads: 4
+pricingModel: FREE
+xmlId: com.codetogether.aitrax-cloud</description>
+      <pubDate>Thu, 15 Oct 2026 10:54:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34941-codetogether-aitrax-cloud</guid>
+      <dc:date>2026-10-15T10:54:41Z</dc:date>
+    </item>
+    <item>
+      <title>QueryScope for SQL Server - Fri Oct 16 09:23:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35159-queryscope-for-sql-server</link>
+      <description>Inspect SQL Server queries in your IDE. QueryScope captures SQL Server 2022 completed batches and RPC calls through Extended Events using your configured database data...
+
+vendor: Karelia Labs
+downloads: 0
+pricingModel: PAID
+xmlId: com.karelialabs.queryscope</description>
+      <pubDate>Fri, 16 Oct 2026 09:23:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35159-queryscope-for-sql-server</guid>
+      <dc:date>2026-10-16T09:23:26Z</dc:date>
+    </item>
+    <item>
+      <title>Git Flow Pilot - Thu Oct 15 15:18:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35160-git-flow-pilot</link>
+      <description>Work with the git flow branching model from inside the IDE - no git flow command line tool required. Initialize git flow in a repository: production and development...
+
+vendor: Sébastien
+downloads: 0
+pricingModel: FREE
+xmlId: gitflow.pilot</description>
+      <pubDate>Thu, 15 Oct 2026 15:18:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35160-git-flow-pilot</guid>
+      <dc:date>2026-10-15T15:18:45Z</dc:date>
+    </item>
+    <item>
       <title>ASL State Machine Graph - Thu Oct 15 01:54:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35145-asl-state-machine-graph</link>
       <description>Opens Amazon States Language state machine definitions (the JSON or YAML that AWS Step Functions runs) in a split editor: the text on one side, a graph of the state...
@@ -69,201 +264,6 @@ xmlId: com.github.maytman.intellirevo</description>
       <pubDate>Thu, 15 Oct 2026 16:01:58 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35161-intellirevo</guid>
       <dc:date>2026-10-15T16:01:58Z</dc:date>
-    </item>
-    <item>
-      <title>Light Code - Tue Oct 06 13:43:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34686-light-code</link>
-      <description>A minimal agentic coding assistant, for working inside an organisation. Your own gateway: mutual TLS, client certificates, OAuth client-credentials, header auth. An...
-
-vendor: Chosen Generation
-downloads: 14
-pricingModel: FREE
-xmlId: dev.chosengeneration.lightcode</description>
-      <pubDate>Tue, 06 Oct 2026 13:43:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34686-light-code</guid>
-      <dc:date>2026-10-06T13:43:45Z</dc:date>
-    </item>
-    <item>
-      <title>OpenAPI Contract Auditor - Sun Oct 04 19:49:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34775-openapi-contract-auditor</link>
-      <description>OpenAPI Contract Auditor helps API teams detect breaking contract changes before clients, SDKs, and integrations fail. Compare an old and a new OpenAPI contract...
-
-vendor: AFK Mesh
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.afkmesh.openapiauditor</description>
-      <pubDate>Sun, 04 Oct 2026 19:49:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34775-openapi-contract-auditor</guid>
-      <dc:date>2026-10-04T19:49:24Z</dc:date>
-    </item>
-    <item>
-      <title>LocalizeTip2 - Tue Oct 13 16:06:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35031-localizetip2</link>
-      <description>C# localization completion, hover previews, inline hints and source navigation.Free for personal and commercial use under the LocalizeTip2 for Rider EULA. This is a...
-
-vendor: wuxibin
-downloads: 5
-pricingModel: FREE
-xmlId: LocalizeTip2</description>
-      <pubDate>Tue, 13 Oct 2026 16:06:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35031-localizetip2</guid>
-      <dc:date>2026-10-13T16:06:31Z</dc:date>
-    </item>
-    <item>
-      <title>Runewise: Svelte 5 - Wed Oct 14 22:45:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35141-runewise-svelte-5</link>
-      <description>Svelte 5 and SvelteKit, finally done right in JetBrains IDEs — powered by the official Svelte language server. Runewise runs svelte-language-server, the very engine of...
-
-vendor: KITSS TECH
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.kitsstech.runewise</description>
-      <pubDate>Wed, 14 Oct 2026 22:45:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35141-runewise-svelte-5</guid>
-      <dc:date>2026-10-14T22:45:21Z</dc:date>
-    </item>
-    <item>
-      <title>Modsight: Dependency Graph - Thu Oct 15 10:50:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35153-modsight-dependency-graph</link>
-      <description>See your architecture. Find the cycles. Keep the layers clean — without freezing your IDE. Modsight draws the dependency graph of your Java and Kotlin project at three...
-
-vendor: KITSS TECH
-downloads: 4
-pricingModel: FREEMIUM
-xmlId: com.kitsstech.modsight</description>
-      <pubDate>Thu, 15 Oct 2026 10:50:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35153-modsight-dependency-graph</guid>
-      <dc:date>2026-10-15T10:50:46Z</dc:date>
-    </item>
-    <item>
-      <title>Pinwise: Python Requirements - Thu Oct 15 12:21:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35156-pinwise-python-requirements</link>
-      <description>Outdated, vulnerable and unlicensed Python dependencies, flagged right in requirements.txt. Pinwise reads your requirements.txt the way pip does: every option, extra...
-
-vendor: KITSS TECH
-downloads: 3
-pricingModel: FREEMIUM
-xmlId: com.kitsstech.pinwise</description>
-      <pubDate>Thu, 15 Oct 2026 12:21:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35156-pinwise-python-requirements</guid>
-      <dc:date>2026-10-15T12:21:20Z</dc:date>
-    </item>
-    <item>
-      <title>J# - Thu Oct 15 03:43:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35089-j-</link>
-      <description>J# language support: syntax highlighting, errors as you type, completion, hover, go to definition, find usages, rename, parameter hints, brace handling, and run...
-
-vendor: matrixidot
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.matrixidot.jsharp</description>
-      <pubDate>Thu, 15 Oct 2026 03:43:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35089-j-</guid>
-      <dc:date>2026-10-15T03:43:46Z</dc:date>
-    </item>
-    <item>
-      <title>CodeLanes - Thu Oct 15 09:32:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35151-codelanes</link>
-      <description>Read code like a human. CodeLanes replaces the vertical, line-by-line editor for PHP classes with a canvas of real, editable code blocks laid out in lanes: what a...
-
-vendor: Gerri
-downloads: 2
-pricingModel: FREE
-xmlId: dev.codelanes</description>
-      <pubDate>Thu, 15 Oct 2026 09:32:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35151-codelanes</guid>
-      <dc:date>2026-10-15T09:32:42Z</dc:date>
-    </item>
-    <item>
-      <title>IDE MCP Enhance - Thu Oct 15 15:11:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35157-ide-mcp-enhance</link>
-      <description>IDE MCP Enhance turns IDE context into prompt text and adds the Run Configuration lifecycle tools that the built-in MCP Server is missing. Copy as Prompt - copy the...
-
-vendor: shenyuanlaolarou
-downloads: 3
-pricingModel: FREE
-xmlId: com.shenyuanlaolarou.ideamcpenhance</description>
-      <pubDate>Thu, 15 Oct 2026 15:11:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35157-ide-mcp-enhance</guid>
-      <dc:date>2026-10-15T15:11:50Z</dc:date>
-    </item>
-    <item>
-      <title>JsonDiffTool - Thu Oct 15 02:02:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35146-jsondifftool</link>
-      <description>Compare and format JSON side by side in your IDE with JsonDiffTool. All JSON content is processed locally. Key features Automatic formatting: format JSON after pasting...
-
-vendor: 伟哒大
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.zhangwei0621.asplugin</description>
-      <pubDate>Thu, 15 Oct 2026 02:02:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35146-jsondifftool</guid>
-      <dc:date>2026-10-15T02:02:15Z</dc:date>
-    </item>
-    <item>
-      <title>ERB Escape Audit - Wed Oct 14 22:37:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35137-erb-escape-audit</link>
-      <description>15 rules that find every line in a Rails .erb view where output escaping was switched off or was the wrong escaping. Right-click in the editor (or Tools) → ERB Escape...
-
-vendor: ReadyStack
-downloads: 2
-pricingModel: FREE
-xmlId: com.getreadystack.erb-escape-audit</description>
-      <pubDate>Wed, 14 Oct 2026 22:37:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35137-erb-escape-audit</guid>
-      <dc:date>2026-10-14T22:37:32Z</dc:date>
-    </item>
-    <item>
-      <title>ERB Snippets + View Audit for Rails - Wed Oct 14 22:37:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35138-erb-snippets--view-audit-for-rails</link>
-      <description>Paste or open one .html.erb view and see every raw, html_safe, params and CSRF finding a Rails security review sends back — 26 rules, 36 snippets, offline in the...
-
-vendor: ReadyStack
-downloads: 2
-pricingModel: FREE
-xmlId: com.getreadystack.erb-rails-view-snippets-audit</description>
-      <pubDate>Wed, 14 Oct 2026 22:37:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35138-erb-snippets--view-audit-for-rails</guid>
-      <dc:date>2026-10-14T22:37:55Z</dc:date>
-    </item>
-    <item>
-      <title>EU Data Residency Lint - Wed Oct 14 22:38:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35139-eu-data-residency-lint</link>
-      <description>Every cloud region in your infrastructure code, mapped to a country and the transfer basis it needs. Right-click in the editor (or Tools) → EU Data Residency Lint...
-
-vendor: ReadyStack
-downloads: 2
-pricingModel: FREE
-xmlId: com.getreadystack.eu-data-residency-lint</description>
-      <pubDate>Wed, 14 Oct 2026 22:38:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35139-eu-data-residency-lint</guid>
-      <dc:date>2026-10-14T22:38:17Z</dc:date>
-    </item>
-    <item>
-      <title>EU Health Claim Lint - Wed Oct 14 22:38:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35140-eu-health-claim-lint</link>
-      <description>Finds unauthorised nutrition and health claims in your product-page HTML and Markdown and names the article that bans each one. 19 rules; the demo page shipped with it...
-
-vendor: ReadyStack
-downloads: 2
-pricingModel: FREE
-xmlId: com.getreadystack.eu-health-claim-lint</description>
-      <pubDate>Wed, 14 Oct 2026 22:38:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35140-eu-health-claim-lint</guid>
-      <dc:date>2026-10-14T22:38:38Z</dc:date>
-    </item>
-    <item>
-      <title>Docker Desktop to Rancher Desktop Migration Fixer - Thu Oct 15 04:14:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35147-docker-desktop-to-rancher-desktop-migration-fixer</link>
-      <description>Moving your team from Docker Desktop to Rancher Desktop? Docker Desktop is free only for organisations under 250 employees and under US $10 million in annual revenue...
-
-vendor: ReadyStack
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.getreadystack.rancher-desktop-migration</description>
-      <pubDate>Thu, 15 Oct 2026 04:14:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35147-docker-desktop-to-rancher-desktop-migration-fixer</guid>
-      <dc:date>2026-10-15T04:14:26Z</dc:date>
     </item>
   </channel>
 </rss>
