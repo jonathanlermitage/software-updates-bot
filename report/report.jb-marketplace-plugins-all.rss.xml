@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>ASL State Machine Graph - Thu Oct 15 01:54:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35145-asl-state-machine-graph</link>
+      <description>Opens Amazon States Language state machine definitions (the JSON or YAML that AWS Step Functions runs) in a split editor: the text on one side, a graph of the state...
+
+vendor: Madrasco
+downloads: 1
+pricingModel: PAID
+xmlId: dev.madrasco.asl-graph</description>
+      <pubDate>Thu, 15 Oct 2026 01:54:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35145-asl-state-machine-graph</guid>
+      <dc:date>2026-10-15T01:54:07Z</dc:date>
+    </item>
+    <item>
       <title>Godot Project Starter - Thu Oct 15 01:46:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35144-godot-project-starter</link>
       <description>Adds a Godot entry to the New Project wizard that scaffolds a ready-to-run Godot 4 project (project.godot, main scene, script, icon, .gitignore). If Godot isn't...
 
 vendor: The Engine Guy
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.mindblownproductions.godot.starter</description>
       <pubDate>Thu, 15 Oct 2026 01:46:10 GMT</pubDate>
@@ -19,17 +32,17 @@ xmlId: com.mindblownproductions.godot.starter</description>
       <dc:date>2026-10-15T01:46:10Z</dc:date>
     </item>
     <item>
-      <title>RepoPulse - Wed Oct 14 11:41:03 UTC 2026</title>
+      <title>RepoPulse - Fri Oct 16 07:26:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35098-repopulse</link>
       <description>Keep your finger on the pulse of your Git repositories, right in the editor. Blame and history Inline blame at the end of the current line: author, relative date...
 
 vendor: BYTEBRAIN TECHNOLOGY SOLUTIONS
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: be.bytebrain.gitpulse</description>
-      <pubDate>Wed, 14 Oct 2026 11:41:03 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 07:26:33 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35098-repopulse</guid>
-      <dc:date>2026-10-14T11:41:03Z</dc:date>
+      <dc:date>2026-10-16T07:26:33Z</dc:date>
     </item>
     <item>
       <title>HumanEye - Wed Oct 14 15:38:08 UTC 2026</title>
@@ -37,7 +50,7 @@ xmlId: be.bytebrain.gitpulse</description>
       <description>Make code written by agents easier to parse for you, the reader by folding durable, agent-directed maintenance comments.HumanEye recognizes the @agent-context...
 
 vendor: Igor Schouten
-downloads: 4
+downloads: 7
 pricingModel: FREE
 xmlId: ischouten.human-eye</description>
       <pubDate>Wed, 14 Oct 2026 15:38:08 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: ischouten.human-eye</description>
       <description>Language support for revo, an expressive, dynamically-typed programming language. Features .rv file recognition creating new .rv files running .rv files revo's lsp...
 
 vendor: MayTMaN
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.maytman.intellirevo</description>
       <pubDate>Thu, 15 Oct 2026 16:01:58 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.github.maytman.intellirevo</description>
       <description>A minimal agentic coding assistant, for working inside an organisation. Your own gateway: mutual TLS, client certificates, OAuth client-credentials, header auth. An...
 
 vendor: Chosen Generation
-downloads: 13
+downloads: 14
 pricingModel: FREE
 xmlId: dev.chosengeneration.lightcode</description>
       <pubDate>Tue, 06 Oct 2026 13:43:45 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: dev.chosengeneration.lightcode</description>
       <description>OpenAPI Contract Auditor helps API teams detect breaking contract changes before clients, SDKs, and integrations fail. Compare an old and a new OpenAPI contract...
 
 vendor: AFK Mesh
-downloads: 1
+downloads: 2
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.openapiauditor</description>
       <pubDate>Sun, 04 Oct 2026 19:49:24 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.afkmesh.openapiauditor</description>
       <description>C# localization completion, hover previews, inline hints and source navigation.Free for personal and commercial use under the LocalizeTip2 for Rider EULA. This is a...
 
 vendor: wuxibin
-downloads: 4
+downloads: 5
 pricingModel: FREE
 xmlId: LocalizeTip2</description>
       <pubDate>Tue, 13 Oct 2026 16:06:31 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: LocalizeTip2</description>
       <description>Svelte 5 and SvelteKit, finally done right in JetBrains IDEs — powered by the official Svelte language server. Runewise runs svelte-language-server, the very engine of...
 
 vendor: KITSS TECH
-downloads: 0
+downloads: 2
 pricingModel: FREEMIUM
 xmlId: com.kitsstech.runewise</description>
       <pubDate>Wed, 14 Oct 2026 22:45:21 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.kitsstech.runewise</description>
       <description>See your architecture. Find the cycles. Keep the layers clean — without freezing your IDE. Modsight draws the dependency graph of your Java and Kotlin project at three...
 
 vendor: KITSS TECH
-downloads: 0
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.kitsstech.modsight</description>
       <pubDate>Thu, 15 Oct 2026 10:50:46 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.kitsstech.modsight</description>
       <description>Outdated, vulnerable and unlicensed Python dependencies, flagged right in requirements.txt. Pinwise reads your requirements.txt the way pip does: every option, extra...
 
 vendor: KITSS TECH
-downloads: 0
+downloads: 3
 pricingModel: FREEMIUM
 xmlId: com.kitsstech.pinwise</description>
       <pubDate>Thu, 15 Oct 2026 12:21:20 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.kitsstech.pinwise</description>
       <description>J# language support: syntax highlighting, errors as you type, completion, hover, go to definition, find usages, rename, parameter hints, brace handling, and run...
 
 vendor: matrixidot
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.matrixidot.jsharp</description>
       <pubDate>Thu, 15 Oct 2026 03:43:46 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: io.github.matrixidot.jsharp</description>
       <description>Read code like a human. CodeLanes replaces the vertical, line-by-line editor for PHP classes with a canvas of real, editable code blocks laid out in lanes: what a...
 
 vendor: Gerri
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.codelanes</description>
       <pubDate>Thu, 15 Oct 2026 09:32:42 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: dev.codelanes</description>
       <description>IDE MCP Enhance turns IDE context into prompt text and adds the Run Configuration lifecycle tools that the built-in MCP Server is missing. Copy as Prompt - copy the...
 
 vendor: shenyuanlaolarou
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.shenyuanlaolarou.ideamcpenhance</description>
       <pubDate>Thu, 15 Oct 2026 15:11:50 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.shenyuanlaolarou.ideamcpenhance</description>
       <description>Compare and format JSON side by side in your IDE with JsonDiffTool. All JSON content is processed locally. Key features Automatic formatting: format JSON after pasting...
 
 vendor: 伟哒大
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.zhangwei0621.asplugin</description>
       <pubDate>Thu, 15 Oct 2026 02:02:15 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.github.zhangwei0621.asplugin</description>
       <description>15 rules that find every line in a Rails .erb view where output escaping was switched off or was the wrong escaping. Right-click in the editor (or Tools) → ERB Escape...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.getreadystack.erb-escape-audit</description>
       <pubDate>Wed, 14 Oct 2026 22:37:32 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.getreadystack.erb-escape-audit</description>
       <description>Paste or open one .html.erb view and see every raw, html_safe, params and CSRF finding a Rails security review sends back — 26 rules, 36 snippets, offline in the...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.getreadystack.erb-rails-view-snippets-audit</description>
       <pubDate>Wed, 14 Oct 2026 22:37:55 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.getreadystack.erb-rails-view-snippets-audit</description>
       <description>Every cloud region in your infrastructure code, mapped to a country and the transfer basis it needs. Right-click in the editor (or Tools) → EU Data Residency Lint...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.getreadystack.eu-data-residency-lint</description>
       <pubDate>Wed, 14 Oct 2026 22:38:17 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: com.getreadystack.eu-data-residency-lint</description>
       <description>Finds unauthorised nutrition and health claims in your product-page HTML and Markdown and names the article that bans each one. 19 rules; the demo page shipped with it...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.getreadystack.eu-health-claim-lint</description>
       <pubDate>Wed, 14 Oct 2026 22:38:38 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: com.getreadystack.eu-health-claim-lint</description>
       <description>Moving your team from Docker Desktop to Rancher Desktop? Docker Desktop is free only for organisations under 250 employees and under US $10 million in annual revenue...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 2
 pricingModel: FREEMIUM
 xmlId: com.getreadystack.rancher-desktop-migration</description>
       <pubDate>Thu, 15 Oct 2026 04:14:26 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35147-docker-desktop-to-rancher-desktop-migration-fixer</guid>
       <dc:date>2026-10-15T04:14:26Z</dc:date>
-    </item>
-    <item>
-      <title>Claude Subscription Usage - Thu Oct 15 07:47:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35090-claude-subscription-usage</link>
-      <description>Displays your Claude subscription usage limits in the IDE status bar. A fork of Claude Code Usage by Dmitry Polushkin. If you have the original plugin installed...
-
-vendor: ShiningPluto
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.shiningpluto.claudeusage</description>
-      <pubDate>Thu, 15 Oct 2026 07:47:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35090-claude-subscription-usage</guid>
-      <dc:date>2026-10-15T07:47:33Z</dc:date>
     </item>
   </channel>
 </rss>
