@@ -11,7 +11,7 @@
       <description>Beta. Lua and Luau language support for JetBrains IDEs. The plugin reads .lua and .luau files. It supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT, and Luau. Select the dialect...
 
 vendor: JetBrains s.r.o.
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: com.intellij.lua</description>
       <pubDate>Fri, 16 Oct 2026 13:42:44 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.intellij.lua</description>
       <description>A logcat viewer for Android devices with a powerful filter language, crash and ANR tracking, bookmarks and one-click bug reports.
 
 vendor: LogCat by cactus
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.cactus.logcactus</description>
       <pubDate>Fri, 16 Oct 2026 21:14:41 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.cactus.logcactus</description>
       <description>Java Dependency Upgrade Impact See affected Java API usages before changing a Maven dependency. Dependency upgrade work is more useful when an API diff points to the...
 
 vendor: AFK Mesh
-downloads: 0
+downloads: 2
 pricingModel: PAID
 xmlId: com.afkmesh.java.dependency.upgrade.impact</description>
       <pubDate>Thu, 15 Oct 2026 21:10:31 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.afkmesh.java.dependency.upgrade.impact</description>
       <description>Accept existing architecture debt. Review new violations as Java code changes. Keep growing Java/Maven projects aligned with your team's boundaries. Define layer...
 
 vendor: AFK Mesh
-downloads: 1
+downloads: 4
 pricingModel: PAID
 xmlId: com.afkmesh.javaarchitectureguard</description>
       <pubDate>Thu, 15 Oct 2026 21:40:21 GMT</pubDate>
@@ -58,17 +58,17 @@ xmlId: com.afkmesh.javaarchitectureguard</description>
       <dc:date>2026-10-15T21:40:21Z</dc:date>
     </item>
     <item>
-      <title>OpenCode V2 UI (unofficial) - Fri Oct 16 11:22:56 UTC 2026</title>
+      <title>OpenCode V2 UI (unofficial) - Sat Oct 17 08:29:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35185-opencode-v2-ui-unofficial-</link>
-      <description>OpenCode V2 UI (unofficial) - AI Coding Agent for JetBrains IDEs For OpenCode V2 Only!!! Seamlessly integrates OpenCode directly into your workflow. Key Features...
+      <description>OpenCode V2 UI (unofficial) - AI Coding Agent for JetBrains IDEs For OpenCode V2 Only!!! Seamlessly integrates OpenCode V2 directly into your workflow. Key Features...
 
 vendor: OpenCode V2 UI (unofficial)
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.zhucanle.opencodev2.ide</description>
-      <pubDate>Fri, 16 Oct 2026 11:22:56 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 08:29:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35185-opencode-v2-ui-unofficial-</guid>
-      <dc:date>2026-10-16T11:22:56Z</dc:date>
+      <dc:date>2026-10-17T08:29:53Z</dc:date>
     </item>
     <item>
       <title>iBATIS DAO Navigator - Fri Oct 16 07:54:44 UTC 2026</title>
@@ -76,7 +76,7 @@ xmlId: com.zhucanle.opencodev2.ide</description>
       <description>Navigate between .NET iBATIS sqlMap XML namespace/statement IDs and C# DAO interface declarations. Left-click the arrow beside a SQL statement or DAO declaration to...
 
 vendor: 志强贾
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.teld.ibatis.navigator</description>
       <pubDate>Fri, 16 Oct 2026 07:54:44 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.teld.ibatis.navigator</description>
       <description>Nine rules that read the JSON your service sends to an EU Digital Identity Wallet Right-click in the editor (or Tools) → EUDI Wallet Request Lint: Check This File...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.getreadystack.eudi-rp-request-lint</description>
       <pubDate>Thu, 15 Oct 2026 22:38:17 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.getreadystack.eudi-rp-request-lint</description>
       <description>18 reglas sobre tu XML Facturae antes de que FACe lo devuelva Right-click in the editor (or Tools) → Facturae 3.2.2 / Verifactu Lint: Check This File. Each finding...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.getreadystack.facturae-verifactu-lint</description>
       <pubDate>Thu, 15 Oct 2026 22:38:40 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.getreadystack.facturae-verifactu-lint</description>
       <description>Crop insurance claim form deadlines from 7 CFR 457.8 section 14: notice within 72 hours of discovering damage, no later than 15 days after the insurance period ends...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.getreadystack.farm-loss-notice-lint</description>
       <pubDate>Thu, 15 Oct 2026 22:39:02 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.getreadystack.farm-loss-notice-lint</description>
       <description>16 rules read your privacy.md the way Articles 13 and 14 read it Right-click in the editor (or Tools) → GDPR Privacy Notice Lint: Check This File. Each finding appears...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.getreadystack.gdpr-privacy-notice-lint</description>
       <pubDate>Thu, 15 Oct 2026 22:39:24 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.getreadystack.gdpr-privacy-notice-lint</description>
       <description>Is your MCP server ready for the Model Context Protocol 2026-07-28 revision? That revision removed the initialize handshake, protocol sessions (Mcp-Session-Id), ping...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.getreadystack.mcp-2026-migration</description>
       <pubDate>Fri, 16 Oct 2026 04:14:45 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.getreadystack.mcp-2026-migration</description>
       <description>Tag the next release with a composer.json that Packagist accepts and that no longer promises end-of-life PHP. PHP 8.1 reached end of life on 2025-12-31 and PHP 8.2...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.getreadystack.composer-release-gate</description>
       <pubDate>Fri, 16 Oct 2026 04:24:26 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.getreadystack.composer-release-gate</description>
       <description>CodeTogether AI See What AI Coding Is Actually Delivering AI is changing how developers write code. But more AI-generated code doesn't always mean better software...
 
 vendor: CodeTogether Inc.
-downloads: 4
+downloads: 10
 pricingModel: FREE
 xmlId: com.codetogether.aitrax-cloud</description>
       <pubDate>Thu, 15 Oct 2026 10:54:41 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.codetogether.aitrax-cloud</description>
       <description>Inspect SQL Server queries in your IDE. QueryScope captures SQL Server 2022 completed batches and RPC calls through Extended Events using your configured database data...
 
 vendor: Karelia Labs
-downloads: 0
+downloads: 8
 pricingModel: PAID
 xmlId: com.karelialabs.queryscope</description>
       <pubDate>Fri, 16 Oct 2026 09:23:26 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.karelialabs.queryscope</description>
       <description>Work with the git flow branching model from inside the IDE - no git flow command line tool required. Initialize git flow in a repository: production and development...
 
 vendor: Sébastien
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: gitflow.pilot</description>
       <pubDate>Thu, 15 Oct 2026 15:18:45 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: gitflow.pilot</description>
       <description>Opens Amazon States Language state machine definitions (the JSON or YAML that AWS Step Functions runs) in a split editor: the text on one side, a graph of the state...
 
 vendor: Madrasco
-downloads: 1
+downloads: 9
 pricingModel: PAID
 xmlId: dev.madrasco.asl-graph</description>
       <pubDate>Thu, 15 Oct 2026 01:54:07 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.madrasco.asl-graph</description>
       <description>Adds a Godot entry to the New Project wizard that scaffolds a ready-to-run Godot 4 project (project.godot, main scene, script, icon, .gitignore). If Godot isn't...
 
 vendor: The Engine Guy
-downloads: 2
+downloads: 10
 pricingModel: FREE
 xmlId: com.mindblownproductions.godot.starter</description>
       <pubDate>Thu, 15 Oct 2026 01:46:10 GMT</pubDate>
@@ -227,17 +227,17 @@ xmlId: com.mindblownproductions.godot.starter</description>
       <dc:date>2026-10-15T01:46:10Z</dc:date>
     </item>
     <item>
-      <title>RepoPulse - Fri Oct 16 07:26:33 UTC 2026</title>
+      <title>RepoPulse - Sat Oct 17 12:32:36 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35098-repopulse</link>
-      <description>Keep your finger on the pulse of your Git repositories, right in the editor. Blame and history Inline blame at the end of the current line: author, relative date...
+      <description>Keep your finger on the pulse of your Git repositories, right in the editor. RepoPulse is a modular Git companion for IntelliJ-based IDEs: every feature can be enabled...
 
 vendor: BYTEBRAIN TECHNOLOGY SOLUTIONS
-downloads: 3
+downloads: 23
 pricingModel: FREE
 xmlId: be.bytebrain.gitpulse</description>
-      <pubDate>Fri, 16 Oct 2026 07:26:33 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2026 12:32:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35098-repopulse</guid>
-      <dc:date>2026-10-16T07:26:33Z</dc:date>
+      <dc:date>2026-10-17T12:32:36Z</dc:date>
     </item>
     <item>
       <title>HumanEye - Wed Oct 14 15:38:08 UTC 2026</title>
@@ -245,7 +245,7 @@ xmlId: be.bytebrain.gitpulse</description>
       <description>Make code written by agents easier to parse for you, the reader by folding durable, agent-directed maintenance comments.HumanEye recognizes the @agent-context...
 
 vendor: Igor Schouten
-downloads: 7
+downloads: 16
 pricingModel: FREE
 xmlId: ischouten.human-eye</description>
       <pubDate>Wed, 14 Oct 2026 15:38:08 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: ischouten.human-eye</description>
       <description>Language support for revo, an expressive, dynamically-typed programming language. Features .rv file recognition creating new .rv files running .rv files revo's lsp...
 
 vendor: MayTMaN
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.github.maytman.intellirevo</description>
       <pubDate>Thu, 15 Oct 2026 16:01:58 GMT</pubDate>
