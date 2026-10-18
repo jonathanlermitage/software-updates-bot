@@ -1,11 +1,11 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.5 to 20.1.0 ~ 2026-10-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Oct 18 18:35:02 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.7031.23) ~ 2026-10-15|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Thu Oct 15 23:06:25 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.12.0|[nodejs.org](https://nodejs.org)|Wed Oct 14 23:01:06 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.22.0|[nodejs.org](https://nodejs.org)|Wed Oct 14 23:01:06 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.0|[www.python.org](https://www.python.org/downloads/windows/)|Fri Oct 09 14:39:08 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.15.0|[www.python.org](https://www.python.org/downloads/mac-osx/)|Fri Oct 09 14:39:07 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.0 to 20.0.5 ~ 2026-10-08|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Thu Oct 08 18:07:40 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.2|[golang.org](https://golang.org/dl/)|Thu Oct 08 18:07:11 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.8.1|[gradle.org](https://gradle.org/releases)|Wed Oct 07 23:55:25 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|
