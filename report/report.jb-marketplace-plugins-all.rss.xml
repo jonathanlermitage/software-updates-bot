@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>SOQL Data Source for Salesforce - Sun Oct 18 19:37:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34615-soql-data-source-for-salesforce</link>
+      <description>Salesforce SOQL integration for DataGrip and IntelliJ. Use Salesforce as a database type, query live org data through SOQL, and browse metadata.
+
+vendor: Rtexo
+downloads: 3
+pricingModel: FREE
+xmlId: com.rtexo.jb-sf-datasource</description>
+      <pubDate>Sun, 18 Oct 2026 19:37:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34615-soql-data-source-for-salesforce</guid>
+      <dc:date>2026-10-18T19:37:55Z</dc:date>
+    </item>
+    <item>
       <title>Lua - Fri Oct 16 13:42:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34924-lua</link>
       <description>Beta. Lua and Luau language support for JetBrains IDEs. The plugin reads .lua and .luau files. It supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT, and Luau. Select the dialect...
@@ -251,19 +264,6 @@ xmlId: ischouten.human-eye</description>
       <pubDate>Wed, 14 Oct 2026 15:38:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35055-humaneye</guid>
       <dc:date>2026-10-14T15:38:08Z</dc:date>
-    </item>
-    <item>
-      <title>IntelliRevo - Thu Oct 15 16:01:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35161-intellirevo</link>
-      <description>Language support for revo, an expressive, dynamically-typed programming language. Features .rv file recognition creating new .rv files running .rv files revo's lsp...
-
-vendor: MayTMaN
-downloads: 9
-pricingModel: FREE
-xmlId: com.github.maytman.intellirevo</description>
-      <pubDate>Thu, 15 Oct 2026 16:01:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35161-intellirevo</guid>
-      <dc:date>2026-10-15T16:01:58Z</dc:date>
     </item>
   </channel>
 </rss>
