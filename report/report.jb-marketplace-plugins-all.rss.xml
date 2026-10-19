@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>SOQL Data Source for Salesforce - Sun Oct 18 19:37:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34615-soql-data-source-for-salesforce</link>
-      <description>Salesforce SOQL integration for DataGrip and IntelliJ. Use Salesforce as a database type, query live org data through SOQL, and browse metadata.
+      <title>Claude Chat - Sat Oct 17 16:17:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35224-claude-chat</link>
+      <description>I wanted a dedicated GUI for my Claude Code CLI inside JetBrains IDEs and could not find one that met my needs, so I built Claude Chat. Chat in a standalone IDE tool...
 
-vendor: Rtexo
+vendor: Niteesh Bhargava
+downloads: 2
+pricingModel: FREE
+xmlId: dev.niteesh.cliagentbridge</description>
+      <pubDate>Sat, 17 Oct 2026 16:17:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35224-claude-chat</guid>
+      <dc:date>2026-10-17T16:17:31Z</dc:date>
+    </item>
+    <item>
+      <title>WiDE-R - Tue Oct 13 10:05:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35060-wide-r</link>
+      <description>Wireless Debugging Redefined. Debug remote Android devices directly inside Android Studio with zero latency. WiDE-R bypasses corporate firewalls and standard network...
+
+vendor: WiDE-R
+downloads: 2
+pricingModel: FREE
+xmlId: net.wider.plugin</description>
+      <pubDate>Tue, 13 Oct 2026 10:05:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35060-wide-r</guid>
+      <dc:date>2026-10-13T10:05:13Z</dc:date>
+    </item>
+    <item>
+      <title>ByteMsg233 - Thu Oct 15 10:55:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35154-bytemsg233</link>
+      <description>ByteMsg233 schema editing for IntelliJ IDEA, GoLand, Rider and other IntelliJ Platform IDEs.Supports .bmsg.json, .bmsg.yaml, .bmsg.yml and legacy .bmsg files...
+
+vendor: neko233
+downloads: 1
+pricingModel: FREE
+xmlId: com.neko233.bytemsg233</description>
+      <pubDate>Thu, 15 Oct 2026 10:55:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35154-bytemsg233</guid>
+      <dc:date>2026-10-15T10:55:05Z</dc:date>
+    </item>
+    <item>
+      <title>Mermaid Preview and Editor - Thu Oct 15 08:10:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35084-mermaid-preview-and-editor</link>
+      <description>Render and edit Mermaid diagrams directly inside Android Studio. Preview standalone .mmd and .mermaid files. Render Mermaid fences inline in the native Markdown...
+
+vendor: LeeDev
+downloads: 2
+pricingModel: FREE
+xmlId: com.leeedev.mermaid.preview</description>
+      <pubDate>Thu, 15 Oct 2026 08:10:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35084-mermaid-preview-and-editor</guid>
+      <dc:date>2026-10-15T08:10:15Z</dc:date>
+    </item>
+    <item>
+      <title>Gradle Lens - Mon Oct 19 12:10:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35278-gradle-lens</link>
+      <description>Shows the Gradle description of a module next to its folder in the Project view. Toggle on or off: Project view ⋮ → Appearance → Module Descriptions. Report an issue.
+
+vendor: Mikhail Porotkin
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.porotkin.gradlelens</description>
+      <pubDate>Mon, 19 Oct 2026 12:10:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35278-gradle-lens</guid>
+      <dc:date>2026-10-19T12:10:09Z</dc:date>
+    </item>
+    <item>
+      <title>Any Progress Bar - Thu Oct 15 19:34:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35163-any-progress-bar</link>
+      <description>Animal and Tung Tung Tung Sahur themed progress bars with a built-in design editor. Choose from the built-in presets or combine your own PNG, JPG and SVG object, trail...
+
+vendor: Tomteluvan
+downloads: 2
+pricingModel: FREE
+xmlId: dev.anyprogressbar</description>
+      <pubDate>Thu, 15 Oct 2026 19:34:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35163-any-progress-bar</guid>
+      <dc:date>2026-10-15T19:34:53Z</dc:date>
+    </item>
+    <item>
+      <title>Runtime Object to JSON - Thu Oct 15 07:48:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35058-runtime-object-to-json</link>
+      <description>Exports the runtime value of a Java variable to a formatted JSON file while the debugger is suspended. Place the cursor on a Java variable, right-click in the editor...
+
+vendor: Michele Serafini
 downloads: 3
 pricingModel: FREE
-xmlId: com.rtexo.jb-sf-datasource</description>
-      <pubDate>Sun, 18 Oct 2026 19:37:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34615-soql-data-source-for-salesforce</guid>
-      <dc:date>2026-10-18T19:37:55Z</dc:date>
+xmlId: dev.micheleserafini.runtimeobjecttojson</description>
+      <pubDate>Thu, 15 Oct 2026 07:48:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35058-runtime-object-to-json</guid>
+      <dc:date>2026-10-15T07:48:21Z</dc:date>
     </item>
     <item>
-      <title>Lua - Fri Oct 16 13:42:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34924-lua</link>
-      <description>Beta. Lua and Luau language support for JetBrains IDEs. The plugin reads .lua and .luau files. It supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT, and Luau. Select the dialect...
+      <title>ViewBinding Id Finder - Mon Oct 19 13:18:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35283-viewbinding-id-finder</link>
+      <description>Connects your Android layout XML to the code that uses it through ViewBinding — precisely, not by matching raw ids across the whole project. Features Jump from an...
 
-vendor: JetBrains s.r.o.
-downloads: 18
+vendor: Mehmet Kurtgöz
+downloads: 0
 pricingModel: FREE
-xmlId: com.intellij.lua</description>
-      <pubDate>Fri, 16 Oct 2026 13:42:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34924-lua</guid>
-      <dc:date>2026-10-16T13:42:44Z</dc:date>
+xmlId: com.github.viewbindingidfinder</description>
+      <pubDate>Mon, 19 Oct 2026 13:18:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35283-viewbinding-id-finder</guid>
+      <dc:date>2026-10-19T13:18:47Z</dc:date>
     </item>
     <item>
-      <title>LogCactus - Fri Oct 16 21:14:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35158-logcactus</link>
-      <description>A logcat viewer for Android devices with a powerful filter language, crash and ANR tracking, bookmarks and one-click bug reports.
+      <title>API Request Copier - Sun Oct 18 09:38:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35247-api-request-copier</link>
+      <description>Copy Java Spring MVC and JSON-RPC requests directly from a selected class or method in IntelliJ IDEA. Features Copy as cURL for Bash, PowerShell or CMD, HTTP requests...
 
-vendor: LogCat by cactus
-downloads: 16
+vendor: hi-mamba
+downloads: 0
 pricingModel: FREE
-xmlId: com.cactus.logcactus</description>
-      <pubDate>Fri, 16 Oct 2026 21:14:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35158-logcactus</guid>
-      <dc:date>2026-10-16T21:14:41Z</dc:date>
+xmlId: com.himamba.apirequestcopier</description>
+      <pubDate>Sun, 18 Oct 2026 09:38:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35247-api-request-copier</guid>
+      <dc:date>2026-10-18T09:38:39Z</dc:date>
     </item>
     <item>
-      <title>Java Dependency Upgrade Impact - Thu Oct 15 21:10:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35165-java-dependency-upgrade-impact</link>
-      <description>Java Dependency Upgrade Impact See affected Java API usages before changing a Maven dependency. Dependency upgrade work is more useful when an API diff points to the...
+      <title>AI Commit Writer - Mon Oct 19 13:33:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32528-ai-commit-writer</link>
+      <description>Generate Conventional Commits-compliant git commit messages from your staged diff via any OpenAI-compatible AI API. Features One click writes the message straight into...
 
-vendor: AFK Mesh
-downloads: 5
-pricingModel: PAID
-xmlId: com.afkmesh.java.dependency.upgrade.impact</description>
-      <pubDate>Thu, 15 Oct 2026 21:10:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35165-java-dependency-upgrade-impact</guid>
-      <dc:date>2026-10-15T21:10:31Z</dc:date>
-    </item>
-    <item>
-      <title>Java Architecture Regression Guard - Thu Oct 15 21:40:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35168-java-architecture-regression-guard</link>
-      <description>Accept existing architecture debt. Review new violations as Java code changes. Keep growing Java/Maven projects aligned with your team's boundaries. Define layer...
-
-vendor: AFK Mesh
-downloads: 10
-pricingModel: PAID
-xmlId: com.afkmesh.javaarchitectureguard</description>
-      <pubDate>Thu, 15 Oct 2026 21:40:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35168-java-architecture-regression-guard</guid>
-      <dc:date>2026-10-15T21:40:21Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode V2 UI (unofficial) - Sat Oct 17 08:29:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35185-opencode-v2-ui-unofficial-</link>
-      <description>OpenCode V2 UI (unofficial) - AI Coding Agent for JetBrains IDEs For OpenCode V2 Only!!! Seamlessly integrates OpenCode V2 directly into your workflow. Key Features...
-
-vendor: OpenCode V2 UI (unofficial)
-downloads: 39
+vendor: hi-mamba
+downloads: 3
 pricingModel: FREE
-xmlId: com.zhucanle.opencodev2.ide</description>
-      <pubDate>Sat, 17 Oct 2026 08:29:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35185-opencode-v2-ui-unofficial-</guid>
-      <dc:date>2026-10-17T08:29:53Z</dc:date>
+xmlId: com.myext.aicommit</description>
+      <pubDate>Mon, 19 Oct 2026 13:33:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32528-ai-commit-writer</guid>
+      <dc:date>2026-10-19T13:33:46Z</dc:date>
     </item>
     <item>
-      <title>iBATIS DAO Navigator - Fri Oct 16 07:54:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35178-ibatis-dao-navigator</link>
-      <description>Navigate between .NET iBATIS sqlMap XML namespace/statement IDs and C# DAO interface declarations. Left-click the arrow beside a SQL statement or DAO declaration to...
+      <title>Compare with Diff Anything - Tue Oct 13 06:42:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35054-compare-with-diff-anything</link>
+      <description>Open two local files or folders in Diff Anything from your IDE, or compare a saved file with its Git HEAD version. Requires the separately installed Diff Anything...
 
-vendor: 志强贾
-downloads: 7
+vendor: Gruner Software
+downloads: 1
 pricingModel: FREE
-xmlId: com.teld.ibatis.navigator</description>
-      <pubDate>Fri, 16 Oct 2026 07:54:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35178-ibatis-dao-navigator</guid>
-      <dc:date>2026-10-16T07:54:44Z</dc:date>
+xmlId: com.martingruner.diffanything</description>
+      <pubDate>Tue, 13 Oct 2026 06:42:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35054-compare-with-diff-anything</guid>
+      <dc:date>2026-10-13T06:42:11Z</dc:date>
     </item>
     <item>
-      <title>EUDI Wallet Request Lint - Thu Oct 15 22:38:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35170-eudi-wallet-request-lint</link>
-      <description>Nine rules that read the JSON your service sends to an EU Digital Identity Wallet Right-click in the editor (or Tools) → EUDI Wallet Request Lint: Check This File...
+      <title>Flint UI Language Server - Sat Oct 17 21:27:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35227-flint-ui-language-server</link>
+      <description>Language support for FlintEngine's declarative UI markup (.flml): syntax highlighting, context-aware completions, and diagnostics. Source &amp;amp; issues on GitHub.
 
-vendor: ReadyStack
-downloads: 10
+vendor: FlintEngine
+downloads: 2
 pricingModel: FREE
-xmlId: com.getreadystack.eudi-rp-request-lint</description>
-      <pubDate>Thu, 15 Oct 2026 22:38:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35170-eudi-wallet-request-lint</guid>
-      <dc:date>2026-10-15T22:38:17Z</dc:date>
+xmlId: dev.flintengine.flml</description>
+      <pubDate>Sat, 17 Oct 2026 21:27:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35227-flint-ui-language-server</guid>
+      <dc:date>2026-10-17T21:27:14Z</dc:date>
     </item>
     <item>
-      <title>Facturae 3.2.2 / Verifactu Lint - Thu Oct 15 22:38:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35171-facturae-3-2-2--verifactu-lint</link>
-      <description>18 reglas sobre tu XML Facturae antes de que FACe lo devuelva Right-click in the editor (or Tools) → Facturae 3.2.2 / Verifactu Lint: Check This File. Each finding...
+      <title>Gridline: XLSX and CSV Viewer - Fri Oct 16 12:47:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35189-gridline-xlsx-and-csv-viewer</link>
+      <description>Open .xlsx, .xlsm, .csv and .tsv files as a fast, read-friendly table right inside the IDE. Free: Streaming reader without Apache POI: big workbooks open quickly and...
 
-vendor: ReadyStack
-downloads: 9
-pricingModel: FREE
-xmlId: com.getreadystack.facturae-verifactu-lint</description>
-      <pubDate>Thu, 15 Oct 2026 22:38:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35171-facturae-3-2-2--verifactu-lint</guid>
-      <dc:date>2026-10-15T22:38:40Z</dc:date>
-    </item>
-    <item>
-      <title>Farm Loss Notice Lint - Thu Oct 15 22:39:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35172-farm-loss-notice-lint</link>
-      <description>Crop insurance claim form deadlines from 7 CFR 457.8 section 14: notice within 72 hours of discovering damage, no later than 15 days after the insurance period ends...
-
-vendor: ReadyStack
-downloads: 10
-pricingModel: FREE
-xmlId: com.getreadystack.farm-loss-notice-lint</description>
-      <pubDate>Thu, 15 Oct 2026 22:39:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35172-farm-loss-notice-lint</guid>
-      <dc:date>2026-10-15T22:39:02Z</dc:date>
-    </item>
-    <item>
-      <title>GDPR Privacy Notice Lint - Thu Oct 15 22:39:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35173-gdpr-privacy-notice-lint</link>
-      <description>16 rules read your privacy.md the way Articles 13 and 14 read it Right-click in the editor (or Tools) → GDPR Privacy Notice Lint: Check This File. Each finding appears...
-
-vendor: ReadyStack
-downloads: 10
-pricingModel: FREE
-xmlId: com.getreadystack.gdpr-privacy-notice-lint</description>
-      <pubDate>Thu, 15 Oct 2026 22:39:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35173-gdpr-privacy-notice-lint</guid>
-      <dc:date>2026-10-15T22:39:24Z</dc:date>
-    </item>
-    <item>
-      <title>MCP Server 2026 Spec Migration Check - Fri Oct 16 04:14:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35175-mcp-server-2026-spec-migration-check</link>
-      <description>Is your MCP server ready for the Model Context Protocol 2026-07-28 revision? That revision removed the initialize handshake, protocol sessions (Mcp-Session-Id), ping...
-
-vendor: ReadyStack
-downloads: 10
+vendor: KOT&amp;CO
+downloads: 1
 pricingModel: FREEMIUM
-xmlId: com.getreadystack.mcp-2026-migration</description>
-      <pubDate>Fri, 16 Oct 2026 04:14:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35175-mcp-server-2026-spec-migration-check</guid>
-      <dc:date>2026-10-16T04:14:45Z</dc:date>
+xmlId: kotco.gridline</description>
+      <pubDate>Fri, 16 Oct 2026 12:47:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35189-gridline-xlsx-and-csv-viewer</guid>
+      <dc:date>2026-10-16T12:47:33Z</dc:date>
     </item>
     <item>
-      <title>composer.json Validate - PHP EOL Release Gate - Fri Oct 16 04:24:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35176-composer-json-validate--php-eol-release-gate</link>
-      <description>Tag the next release with a composer.json that Packagist accepts and that no longer promises end-of-life PHP. PHP 8.1 reached end of life on 2025-12-31 and PHP 8.2...
+      <title>Strata: Rainbow Indents - Sun Oct 18 11:39:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35251-strata-rainbow-indents</link>
+      <description>Colors every indentation level in its own soft tint, so nesting is readable at a glance in Python, YAML, JSON, Java, Kotlin, C#, Go, Rust and any other file. Free...
 
-vendor: ReadyStack
-downloads: 10
+vendor: KOT&amp;CO
+downloads: 0
 pricingModel: FREEMIUM
-xmlId: com.getreadystack.composer-release-gate</description>
-      <pubDate>Fri, 16 Oct 2026 04:24:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35176-composer-json-validate--php-eol-release-gate</guid>
-      <dc:date>2026-10-16T04:24:26Z</dc:date>
+xmlId: kotco.strata</description>
+      <pubDate>Sun, 18 Oct 2026 11:39:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35251-strata-rainbow-indents</guid>
+      <dc:date>2026-10-18T11:39:00Z</dc:date>
     </item>
     <item>
-      <title>CodeTogether AITrax Cloud - Thu Oct 15 10:54:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34941-codetogether-aitrax-cloud</link>
-      <description>CodeTogether AI See What AI Coding Is Actually Delivering AI is changing how developers write code. But more AI-generated code doesn't always mean better software...
+      <title>imprfct Keymap macOS - Fri Oct 16 09:07:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35181-imprfct-keymap-macos</link>
+      <description>A macOS keymap for JetBrains Rider, based on ReSharper (macOS), with direct tab switching and structural text selection. Cmd+W: close the current tab. Cmd+1 through...
 
-vendor: CodeTogether Inc.
-downloads: 12
+vendor: imprfct
+downloads: 1
 pricingModel: FREE
-xmlId: com.codetogether.aitrax-cloud</description>
-      <pubDate>Thu, 15 Oct 2026 10:54:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34941-codetogether-aitrax-cloud</guid>
-      <dc:date>2026-10-15T10:54:41Z</dc:date>
+xmlId: io.github.imprfct.keymap.macos</description>
+      <pubDate>Fri, 16 Oct 2026 09:07:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35181-imprfct-keymap-macos</guid>
+      <dc:date>2026-10-16T09:07:04Z</dc:date>
     </item>
     <item>
-      <title>QueryScope for SQL Server - Fri Oct 16 09:23:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35159-queryscope-for-sql-server</link>
-      <description>Inspect SQL Server queries in your IDE. QueryScope captures SQL Server 2022 completed batches and RPC calls through Extended Events using your configured database data...
+      <title>Spring Config Guard - Production Risk Analyzer - Thu Oct 15 11:33:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35155-spring-config-guard--production-risk-analyzer</link>
+      <description>Detect potentially risky Spring Boot production configuration.
 
-vendor: Karelia Labs
-downloads: 12
-pricingModel: PAID
-xmlId: com.karelialabs.queryscope</description>
-      <pubDate>Fri, 16 Oct 2026 09:23:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35159-queryscope-for-sql-server</guid>
-      <dc:date>2026-10-16T09:23:26Z</dc:date>
-    </item>
-    <item>
-      <title>Git Flow Pilot - Thu Oct 15 15:18:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35160-git-flow-pilot</link>
-      <description>Work with the git flow branching model from inside the IDE - no git flow command line tool required. Initialize git flow in a repository: production and development...
-
-vendor: Sébastien
-downloads: 9
+vendor: Mahmoud Abbasi
+downloads: 1
 pricingModel: FREE
-xmlId: gitflow.pilot</description>
-      <pubDate>Thu, 15 Oct 2026 15:18:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35160-git-flow-pilot</guid>
-      <dc:date>2026-10-15T15:18:45Z</dc:date>
+xmlId: io.github.springconfigguard</description>
+      <pubDate>Thu, 15 Oct 2026 11:33:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35155-spring-config-guard--production-risk-analyzer</guid>
+      <dc:date>2026-10-15T11:33:06Z</dc:date>
     </item>
     <item>
-      <title>ASL State Machine Graph - Thu Oct 15 01:54:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35145-asl-state-machine-graph</link>
-      <description>Opens Amazon States Language state machine definitions (the JSON or YAML that AWS Step Functions runs) in a split editor: the text on one side, a graph of the state...
+      <title>Python .var Postfix - Sun Oct 18 09:11:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35245-python-var-postfix</link>
+      <description>Adds .var postfix completion for Python expressions. Type get_user().var and press Tab to invoke PyCharm's native Introduce Variable refactoring. Native variable...
 
-vendor: Madrasco
-downloads: 12
-pricingModel: PAID
-xmlId: dev.madrasco.asl-graph</description>
-      <pubDate>Thu, 15 Oct 2026 01:54:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35145-asl-state-machine-graph</guid>
-      <dc:date>2026-10-15T01:54:07Z</dc:date>
-    </item>
-    <item>
-      <title>Godot Project Starter - Thu Oct 15 01:46:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35144-godot-project-starter</link>
-      <description>Adds a Godot entry to the New Project wizard that scaffolds a ready-to-run Godot 4 project (project.godot, main scene, script, icon, .gitignore). If Godot isn't...
-
-vendor: The Engine Guy
-downloads: 12
+vendor: Losino
+downloads: 0
 pricingModel: FREE
-xmlId: com.mindblownproductions.godot.starter</description>
-      <pubDate>Thu, 15 Oct 2026 01:46:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35144-godot-project-starter</guid>
-      <dc:date>2026-10-15T01:46:10Z</dc:date>
+xmlId: dev.pycharmvar.postfix</description>
+      <pubDate>Sun, 18 Oct 2026 09:11:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35245-python-var-postfix</guid>
+      <dc:date>2026-10-18T09:11:00Z</dc:date>
     </item>
     <item>
-      <title>RepoPulse - Sat Oct 17 12:32:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35098-repopulse</link>
-      <description>Keep your finger on the pulse of your Git repositories, right in the editor. RepoPulse is a modular Git companion for IntelliJ-based IDEs: every feature can be enabled...
+      <title>BoundaryLens - Sat Oct 17 03:51:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35208-boundarylens</link>
+      <description>Module public-entry protection for Dart/Flutter projects. First release: macOS Apple Silicon (ARM64), IntelliJ IDEA 2026.1. Other operating systems and CPU...
 
-vendor: BYTEBRAIN TECHNOLOGY SOLUTIONS
-downloads: 35
+vendor: forest-li
+downloads: 1
 pricingModel: FREE
-xmlId: be.bytebrain.gitpulse</description>
-      <pubDate>Sat, 17 Oct 2026 12:32:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35098-repopulse</guid>
-      <dc:date>2026-10-17T12:32:36Z</dc:date>
+xmlId: com.boundarylens</description>
+      <pubDate>Sat, 17 Oct 2026 03:51:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35208-boundarylens</guid>
+      <dc:date>2026-10-17T03:51:34Z</dc:date>
     </item>
     <item>
-      <title>HumanEye - Wed Oct 14 15:38:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35055-humaneye</link>
-      <description>Make code written by agents easier to parse for you, the reader by folding durable, agent-directed maintenance comments.HumanEye recognizes the @agent-context...
+      <title>Merge Request Inbox for GitLab - Sat Oct 17 03:43:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35207-merge-request-inbox-for-gitlab</link>
+      <description>A free merge request inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for GitLab™: GitLab.com and Self-Managed. Approve, comment and merge with Pro. No AI...
 
-vendor: Igor Schouten
-downloads: 16
-pricingModel: FREE
-xmlId: ischouten.human-eye</description>
-      <pubDate>Wed, 14 Oct 2026 15:38:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35055-humaneye</guid>
-      <dc:date>2026-10-14T15:38:08Z</dc:date>
+vendor: Lesstep
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.lesstep.gitlab-mrs</description>
+      <pubDate>Sat, 17 Oct 2026 03:43:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35207-merge-request-inbox-for-gitlab</guid>
+      <dc:date>2026-10-17T03:43:57Z</dc:date>
+    </item>
+    <item>
+      <title>Pull Request Inbox for Forgejo and Gitea - Sat Oct 17 08:34:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35215-pull-request-inbox-for-forgejo-and-gitea</link>
+      <description>A free pull request inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for Forgejo and Gitea: Codeberg and your own server. Approve, comment and merge with...
+
+vendor: Lesstep
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.lesstep.forgejo-prs</description>
+      <pubDate>Sat, 17 Oct 2026 08:34:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35215-pull-request-inbox-for-forgejo-and-gitea</guid>
+      <dc:date>2026-10-17T08:34:03Z</dc:date>
     </item>
   </channel>
 </rss>
