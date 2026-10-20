@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LuaPanda - Mon Oct 19 03:36:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35183-luapanda</link>
+      <description>LuaPanda for IntelliJ IDEA Lua debugging for IntelliJ IDEA, ported from the popular LuaPanda VSCode extension. Debugging only. This plugin focuses on the debugger and...
+
+vendor: LuaPanda
+downloads: 1
+pricingModel: FREE
+xmlId: com.luapanda.idea</description>
+      <pubDate>Mon, 19 Oct 2026 03:36:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35183-luapanda</guid>
+      <dc:date>2026-10-19T03:36:13Z</dc:date>
+    </item>
+    <item>
+      <title>Traefik Labels - Sat Oct 10 23:10:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34986-traefik-labels</link>
+      <description>Completion, validation and documentation for Traefik Docker labels in Compose files, generated from Traefik's own label reference. Completion for every traefik.* label...
+
+vendor: Tinplate Labs
+downloads: 2
+pricingModel: FREE
+xmlId: com.tinplatelabs.traefiklabels</description>
+      <pubDate>Sat, 10 Oct 2026 23:10:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34986-traefik-labels</guid>
+      <dc:date>2026-10-10T23:10:17Z</dc:date>
+    </item>
+    <item>
       <title>Claude Chat - Sat Oct 17 16:17:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35224-claude-chat</link>
       <description>I wanted a dedicated GUI for my Claude Code CLI inside JetBrains IDEs and could not find one that met my needs, so I built Claude Chat. Chat in a standalone IDE tool...
@@ -238,32 +264,6 @@ xmlId: com.boundarylens</description>
       <pubDate>Sat, 17 Oct 2026 03:51:34 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35208-boundarylens</guid>
       <dc:date>2026-10-17T03:51:34Z</dc:date>
-    </item>
-    <item>
-      <title>Merge Request Inbox for GitLab - Sat Oct 17 03:43:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35207-merge-request-inbox-for-gitlab</link>
-      <description>A free merge request inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for GitLab™: GitLab.com and Self-Managed. Approve, comment and merge with Pro. No AI...
-
-vendor: Lesstep
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.lesstep.gitlab-mrs</description>
-      <pubDate>Sat, 17 Oct 2026 03:43:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35207-merge-request-inbox-for-gitlab</guid>
-      <dc:date>2026-10-17T03:43:57Z</dc:date>
-    </item>
-    <item>
-      <title>Pull Request Inbox for Forgejo and Gitea - Sat Oct 17 08:34:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35215-pull-request-inbox-for-forgejo-and-gitea</link>
-      <description>A free pull request inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for Forgejo and Gitea: Codeberg and your own server. Approve, comment and merge with...
-
-vendor: Lesstep
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.lesstep.forgejo-prs</description>
-      <pubDate>Sat, 17 Oct 2026 08:34:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35215-pull-request-inbox-for-forgejo-and-gitea</guid>
-      <dc:date>2026-10-17T08:34:03Z</dc:date>
     </item>
   </channel>
 </rss>
