@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Spotless Bridge - Sat Oct 17 11:32:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35218-spotless-bridge</link>
+      <description>Format Java with your project's Spotless rules when you run Reformat Code or save a file. Use the formatter versions and rules from your existing spotless { java...
+
+vendor: pozafly
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.pozafly.spotlessbridge</description>
+      <pubDate>Sat, 17 Oct 2026 11:32:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35218-spotless-bridge</guid>
+      <dc:date>2026-10-17T11:32:55Z</dc:date>
+    </item>
+    <item>
       <title>LuaPanda - Mon Oct 19 03:36:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35183-luapanda</link>
       <description>LuaPanda for IntelliJ IDEA Lua debugging for IntelliJ IDEA, ported from the popular LuaPanda VSCode extension. Debugging only. This plugin focuses on the debugger and...
 
 vendor: LuaPanda
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.luapanda.idea</description>
       <pubDate>Mon, 19 Oct 2026 03:36:13 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.tinplatelabs.traefiklabels</description>
       <description>I wanted a dedicated GUI for my Claude Code CLI inside JetBrains IDEs and could not find one that met my needs, so I built Claude Chat. Chat in a standalone IDE tool...
 
 vendor: Niteesh Bhargava
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: dev.niteesh.cliagentbridge</description>
       <pubDate>Sat, 17 Oct 2026 16:17:31 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: net.wider.plugin</description>
       <description>ByteMsg233 schema editing for IntelliJ IDEA, GoLand, Rider and other IntelliJ Platform IDEs.Supports .bmsg.json, .bmsg.yaml, .bmsg.yml and legacy .bmsg files...
 
 vendor: neko233
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.neko233.bytemsg233</description>
       <pubDate>Thu, 15 Oct 2026 10:55:05 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: com.neko233.bytemsg233</description>
       <description>Render and edit Mermaid diagrams directly inside Android Studio. Preview standalone .mmd and .mermaid files. Render Mermaid fences inline in the native Markdown...
 
 vendor: LeeDev
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.leeedev.mermaid.preview</description>
       <pubDate>Thu, 15 Oct 2026 08:10:15 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: com.leeedev.mermaid.preview</description>
       <description>Shows the Gradle description of a module next to its folder in the Project view. Toggle on or off: Project view ⋮ → Appearance → Module Descriptions. Report an issue.
 
 vendor: Mikhail Porotkin
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.porotkin.gradlelens</description>
       <pubDate>Mon, 19 Oct 2026 12:10:09 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: com.github.porotkin.gradlelens</description>
       <description>Animal and Tung Tung Tung Sahur themed progress bars with a built-in design editor. Choose from the built-in presets or combine your own PNG, JPG and SVG object, trail...
 
 vendor: Tomteluvan
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: dev.anyprogressbar</description>
       <pubDate>Thu, 15 Oct 2026 19:34:53 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: dev.anyprogressbar</description>
       <description>Exports the runtime value of a Java variable to a formatted JSON file while the debugger is suspended. Place the cursor on a Java variable, right-click in the editor...
 
 vendor: Michele Serafini
-downloads: 3
+downloads: 6
 pricingModel: FREE
 xmlId: dev.micheleserafini.runtimeobjecttojson</description>
       <pubDate>Thu, 15 Oct 2026 07:48:21 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: dev.micheleserafini.runtimeobjecttojson</description>
       <description>Connects your Android layout XML to the code that uses it through ViewBinding — precisely, not by matching raw ids across the whole project. Features Jump from an...
 
 vendor: Mehmet Kurtgöz
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.viewbindingidfinder</description>
       <pubDate>Mon, 19 Oct 2026 13:18:47 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.github.viewbindingidfinder</description>
       <description>Copy Java Spring MVC and JSON-RPC requests directly from a selected class or method in IntelliJ IDEA. Features Copy as cURL for Bash, PowerShell or CMD, HTTP requests...
 
 vendor: hi-mamba
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.himamba.apirequestcopier</description>
       <pubDate>Sun, 18 Oct 2026 09:38:39 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: com.himamba.apirequestcopier</description>
       <description>Generate Conventional Commits-compliant git commit messages from your staged diff via any OpenAI-compatible AI API. Features One click writes the message straight into...
 
 vendor: hi-mamba
-downloads: 3
+downloads: 7
 pricingModel: FREE
 xmlId: com.myext.aicommit</description>
       <pubDate>Mon, 19 Oct 2026 13:33:46 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.martingruner.diffanything</description>
       <description>Language support for FlintEngine's declarative UI markup (.flml): syntax highlighting, context-aware completions, and diagnostics. Source &amp;amp; issues on GitHub.
 
 vendor: FlintEngine
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: dev.flintengine.flml</description>
       <pubDate>Sat, 17 Oct 2026 21:27:14 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: dev.flintengine.flml</description>
       <description>Open .xlsx, .xlsm, .csv and .tsv files as a fast, read-friendly table right inside the IDE. Free: Streaming reader without Apache POI: big workbooks open quickly and...
 
 vendor: KOT&amp;CO
-downloads: 1
+downloads: 3
 pricingModel: FREEMIUM
 xmlId: kotco.gridline</description>
       <pubDate>Fri, 16 Oct 2026 12:47:33 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: kotco.gridline</description>
       <description>Colors every indentation level in its own soft tint, so nesting is readable at a glance in Python, YAML, JSON, Java, Kotlin, C#, Go, Rust and any other file. Free...
 
 vendor: KOT&amp;CO
-downloads: 0
+downloads: 2
 pricingModel: FREEMIUM
 xmlId: kotco.strata</description>
       <pubDate>Sun, 18 Oct 2026 11:39:00 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: kotco.strata</description>
       <description>A macOS keymap for JetBrains Rider, based on ReSharper (macOS), with direct tab switching and structural text selection. Cmd+W: close the current tab. Cmd+1 through...
 
 vendor: imprfct
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.imprfct.keymap.macos</description>
       <pubDate>Fri, 16 Oct 2026 09:07:04 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: io.github.imprfct.keymap.macos</description>
       <description>Detect potentially risky Spring Boot production configuration.
 
 vendor: Mahmoud Abbasi
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.springconfigguard</description>
       <pubDate>Thu, 15 Oct 2026 11:33:06 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: io.github.springconfigguard</description>
       <description>Adds .var postfix completion for Python expressions. Type get_user().var and press Tab to invoke PyCharm's native Introduce Variable refactoring. Native variable...
 
 vendor: Losino
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: dev.pycharmvar.postfix</description>
       <pubDate>Sun, 18 Oct 2026 09:11:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35245-python-var-postfix</guid>
       <dc:date>2026-10-18T09:11:00Z</dc:date>
-    </item>
-    <item>
-      <title>BoundaryLens - Sat Oct 17 03:51:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35208-boundarylens</link>
-      <description>Module public-entry protection for Dart/Flutter projects. First release: macOS Apple Silicon (ARM64), IntelliJ IDEA 2026.1. Other operating systems and CPU...
-
-vendor: forest-li
-downloads: 1
-pricingModel: FREE
-xmlId: com.boundarylens</description>
-      <pubDate>Sat, 17 Oct 2026 03:51:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35208-boundarylens</guid>
-      <dc:date>2026-10-17T03:51:34Z</dc:date>
     </item>
   </channel>
 </rss>
