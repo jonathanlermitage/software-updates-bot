@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Riveter - Tue Oct 20 18:42:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35254-riveter</link>
-      <description>Meet Riveter: bring Rive animations to life in Android Studio and JetBrains IDEs. Preview, inspect, and write Rive animations right inside Android Studio and your...
+      <title>NeoCatcher - Wed Oct 21 18:56:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35220-neocatcher</link>
+      <description>Catch, inspect and change your app's HTTP(S) traffic without leaving the IDE. NeoCatcher is a debugging proxy for IntelliJ IDEA, Android Studio and other JetBrains...
 
-vendor: Microaether
-downloads: 14
-pricingModel: FREE
-xmlId: com.microaether.riveter</description>
-      <pubDate>Tue, 20 Oct 2026 18:42:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35254-riveter</guid>
-      <dc:date>2026-10-20T18:42:11Z</dc:date>
-    </item>
-    <item>
-      <title>Jobs Status - Tue Oct 20 17:24:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35252-jobs-status</link>
-      <description>jobs-status provides a REST endpoint with status on all the jobs currently running, such as unit tests or builds This will make it easier for tools to understand...
-
-vendor: jevring
-downloads: 12
-pricingModel: FREE
-xmlId: net.jevring.jetbrains-jobs-status</description>
-      <pubDate>Tue, 20 Oct 2026 17:24:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35252-jobs-status</guid>
-      <dc:date>2026-10-20T17:24:15Z</dc:date>
-    </item>
-    <item>
-      <title>Orbit for Neo4j - Tue Oct 20 19:16:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35308-orbit-for-neo4j</link>
-      <description>Run Cypher on Neo4j and see results as a graph, without leaving the IDE. Browse connections, databases, node labels and relationship types in the Neo4j tool window...
-
-vendor: Jim Apps
-downloads: 8
+vendor: Maksim Voronchikhin
+downloads: 1
 pricingModel: FREEMIUM
-xmlId: dev.jimapps.neo4j</description>
-      <pubDate>Tue, 20 Oct 2026 19:16:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35308-orbit-for-neo4j</guid>
-      <dc:date>2026-10-20T19:16:23Z</dc:date>
+xmlId: com.neocatcher</description>
+      <pubDate>Wed, 21 Oct 2026 18:56:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35220-neocatcher</guid>
+      <dc:date>2026-10-21T18:56:57Z</dc:date>
     </item>
     <item>
-      <title>Tempest Remote - Tue Oct 20 02:41:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35300-tempest-remote</link>
-      <description>Open saved Tempest SSH servers directly from JetBrains Gateway. Select a saved server in Tempest, then choose its SSH configuration in Gateway's native wizard. Tempest...
+      <title>CodeCall Map - Wed Oct 21 09:59:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35340-codecall-map</link>
+      <description>CodeCall Map An open-source call-chain recorder for Java, built to answer one question: where does my program actually spend its time? Dedicated Run/Debug mode — pick...
 
-vendor: Altas Express LLC
-downloads: 5
+vendor: Eleven
+downloads: 0
 pricingModel: FREE
-xmlId: app.gotempest.remote</description>
-      <pubDate>Tue, 20 Oct 2026 02:41:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35300-tempest-remote</guid>
-      <dc:date>2026-10-20T02:41:38Z</dc:date>
+xmlId: com.github.chargeduck.codecallmap.plugin</description>
+      <pubDate>Wed, 21 Oct 2026 09:59:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35340-codecall-map</guid>
+      <dc:date>2026-10-21T09:59:56Z</dc:date>
     </item>
     <item>
-      <title>CommitLoom - Tue Oct 20 10:20:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35309-commitloom</link>
-      <description>CommitLoom generates and reviews commit messages from your selected changes before sending. 提交织语根据你勾选的改动生成提交信息，并可在发送前核对实际差异。 Generate and review commit messages from...
+      <title>Orestack Engine Config - Wed Oct 21 09:20:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35339-orestack-engine-config</link>
+      <description>Syntax highlighting, goto shortcut, and auto-completion for Orestack Engine YAML configuration files.
 
-vendor: hulei
-downloads: 3
+vendor: pigaut
+downloads: 0
 pricingModel: FREE
-xmlId: dev.commitloom.idea</description>
-      <pubDate>Tue, 20 Oct 2026 10:20:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35309-commitloom</guid>
-      <dc:date>2026-10-20T10:20:24Z</dc:date>
+xmlId: io.github.pigaut.rpg.OrestackEngineConfiguration</description>
+      <pubDate>Wed, 21 Oct 2026 09:20:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35339-orestack-engine-config</guid>
+      <dc:date>2026-10-21T09:20:46Z</dc:date>
     </item>
     <item>
-      <title>SQL Dialect for ClickHouse - Mon Oct 19 17:05:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35242-sql-dialect-for-clickhouse</link>
-      <description>A fuller ClickHouse SQL dialect for DataGrip and IntelliJ IDEA Ultimate. Your SQL is checked by your own ClickHouse server's parser, and completion follows the...
+      <title>PyMCU - Wed Oct 21 08:15:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35336-pymcu</link>
+      <description>Official PyCharm support for PyMCU — a compiler that turns a statically-typed subset of Python into bare-metal firmware for AVR, RP2040 / RP2350, PIC and RISC-V...
 
-vendor: sort.dev
-downloads: 4
+vendor: PyMCU
+downloads: 0
 pricingModel: FREE
-xmlId: dev.sort.clickhouse-intellij-plugin</description>
-      <pubDate>Mon, 19 Oct 2026 17:05:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35242-sql-dialect-for-clickhouse</guid>
-      <dc:date>2026-10-19T17:05:57Z</dc:date>
+xmlId: dev.begeistert.pymcu</description>
+      <pubDate>Wed, 21 Oct 2026 08:15:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35336-pymcu</guid>
+      <dc:date>2026-10-21T08:15:11Z</dc:date>
     </item>
     <item>
-      <title>Git Incremental WAR - Tue Oct 20 06:21:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35306-git-incremental-war</link>
-      <description>Git Incremental WAR generates incremental deployment packages for WAR projects from Git commits: pick commits in the Git log, and the exported folder holds exactly the...
+      <title>AngelScript UE - Wed Oct 21 08:10:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35332-angelscript-ue</link>
+      <description>AngelScript language support for Unreal Engine projects that use UnrealEngine-Angelscript. Script files get the analysis of the AngelScript language server, which...
 
-vendor: huang-zai
-downloads: 3
+vendor: ShiningPluto
+downloads: 0
 pricingModel: FREE
-xmlId: com.gitee.huangxiaokang.gitwar</description>
-      <pubDate>Tue, 20 Oct 2026 06:21:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35306-git-incremental-war</guid>
-      <dc:date>2026-10-20T06:21:35Z</dc:date>
+xmlId: com.shiningpluto.rider-unreal-angelscript</description>
+      <pubDate>Wed, 21 Oct 2026 08:10:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35332-angelscript-ue</guid>
+      <dc:date>2026-10-21T08:10:08Z</dc:date>
     </item>
     <item>
-      <title>CodeExplorer - Tue Oct 20 01:27:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35298-codeexplorer</link>
-      <description>CodeExplorer Entenda a arquitetura do seu projeto Java sem sair do IntelliJ IDEA. O CodeExplorer analisa a estrutura interna do código, mede o acoplamento entre as...
+      <title>Lazy Commit - Wed Oct 21 08:05:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35335-lazy-commit</link>
+      <description>Generate meaningful Git commit messages with AI, right from the Commit tool window. Features: One-click "AI Generate" button on the Commit toolbar Reads the staged...
 
-vendor: CodeExplorer
-downloads: 3
+vendor: zxc
+downloads: 0
 pricingModel: FREE
-xmlId: com.github.sofiafo.codeexplorer</description>
-      <pubDate>Tue, 20 Oct 2026 01:27:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35298-codeexplorer</guid>
-      <dc:date>2026-10-20T01:27:54Z</dc:date>
+xmlId: cc.zxc.lazycommit</description>
+      <pubDate>Wed, 21 Oct 2026 08:05:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35335-lazy-commit</guid>
+      <dc:date>2026-10-21T08:05:41Z</dc:date>
     </item>
     <item>
-      <title>Crypto Codec Toolkit - Mon Oct 19 19:23:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35290-crypto-codec-toolkit</link>
-      <description>Crypto Codec Toolkit — Base58 / Base58Check / Base32 / hex, offline The encodings general "string manipulation" plugins don't cover, for people who work with crypto...
+      <title>CodeIME - Wed Oct 21 07:34:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35333-codeime</link>
+      <description>CodeIME switches your input method automatically: Chinese inside comments and docstrings, English in code — no more manual Shift-toggling between writing comments and...
+
+vendor: wsqiangyx
+downloads: 0
+pricingModel: FREE
+xmlId: com.codeime</description>
+      <pubDate>Wed, 21 Oct 2026 07:34:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35333-codeime</guid>
+      <dc:date>2026-10-21T07:34:47Z</dc:date>
+    </item>
+    <item>
+      <title>WordPeek - Wed Oct 21 02:02:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35328-wordpeek</link>
+      <description>WordPeek helps you learn English vocabulary while coding in your IDE. It shows English-Chinese word pairs in the status bar and offers a lightweight popup with example...
+
+vendor: workpeek
+downloads: 0
+pricingModel: FREE
+xmlId: com.wordpeek</description>
+      <pubDate>Wed, 21 Oct 2026 02:02:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35328-wordpeek</guid>
+      <dc:date>2026-10-21T02:02:49Z</dc:date>
+    </item>
+    <item>
+      <title>String Manager - Wed Oct 21 07:29:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35331-string-manager</link>
+      <description>Manages all string resources of a project: Android res/values* and Compose Multiplatform composeResources/values* directories. Shows a table of keys and locales...
+
+vendor: v1rus-dev
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.v1rus-dev.stringmanager</description>
+      <pubDate>Wed, 21 Oct 2026 07:29:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35331-string-manager</guid>
+      <dc:date>2026-10-21T07:29:25Z</dc:date>
+    </item>
+    <item>
+      <title>MyHope Sync - Wed Oct 21 04:29:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35330-myhope-sync</link>
+      <description>An IDEA plugin for MyHope — sync Java Spring Boot endpoints from your IDE to MyHope Server. 一个面向 MyHope 的 IDEA 插件，用于从 IDEA 开发工具上向 MyHope Server 服务同步 Java Spring Boot...
+
+vendor: MyHope Sync
+downloads: 0
+pricingModel: FREE
+xmlId: com.myhope.sync</description>
+      <pubDate>Wed, 21 Oct 2026 04:29:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35330-myhope-sync</guid>
+      <dc:date>2026-10-21T04:29:37Z</dc:date>
+    </item>
+    <item>
+      <title>Contextual This - Wed Oct 21 10:38:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35317-contextual-this</link>
+      <description>Overview Modern PHP frameworks often use "magic" dependency injection, where scripts executed in a global scope or inside closures still have access to a fully...
+
+vendor: za-ek
+downloads: 0
+pricingModel: FREE
+xmlId: eu.zaek.phpstorm-this-plugin</description>
+      <pubDate>Wed, 21 Oct 2026 10:38:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35317-contextual-this</guid>
+      <dc:date>2026-10-21T10:38:12Z</dc:date>
+    </item>
+    <item>
+      <title>ABI Explorer - Wed Oct 21 06:19:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35292-abi-explorer</link>
+      <description>Sizes, offsets and padding of C and C++ structs, from the project's own compiler and flags: in quick documentation and in the Struct Layout tool window, which follows...
+
+vendor: hylo-lang
+downloads: 2
+pricingModel: FREE
+xmlId: org.hylo-lang.abi-explorer</description>
+      <pubDate>Wed, 21 Oct 2026 06:19:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35292-abi-explorer</guid>
+      <dc:date>2026-10-21T06:19:25Z</dc:date>
+    </item>
+    <item>
+      <title>Message Properties Editor AI Edition - Tue Oct 20 22:45:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35324-message-properties-editor-ai-edition</link>
+      <description>The split-pane editor for Java .properties resource bundles, now with AI translations. It has all the features of the original JetBrains Resource Bundle Editor, plus...
+
+vendor: Tobse.eu
+downloads: 0
+pricingModel: FREE
+xmlId: github.tobsef.message.properties.editor.ai</description>
+      <pubDate>Tue, 20 Oct 2026 22:45:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35324-message-properties-editor-ai-edition</guid>
+      <dc:date>2026-10-20T22:45:59Z</dc:date>
+    </item>
+    <item>
+      <title>MyInvois Field Check - Tue Oct 20 22:36:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35323-myinvois-field-check</link>
+      <description>Finds the fields IRBM rejects in a MyInvois JSON payload, on the line, before you submit. Right-click in the editor (or Tools) → MyInvois Field Check: Check This File...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.myinvois-field-check</description>
+      <pubDate>Tue, 20 Oct 2026 22:36:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35323-myinvois-field-check</guid>
+      <dc:date>2026-10-20T22:36:38Z</dc:date>
+    </item>
+    <item>
+      <title>Model Sunset Lint - Tue Oct 20 22:36:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35322-model-sunset-lint</link>
+      <description>Finds every model ID and API parameter in your code that a vendor has already switched off or has published a date for - 109 rules across OpenAI, Anthropic, Google and...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.model-sunset-lint</description>
+      <pubDate>Tue, 20 Oct 2026 22:36:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35322-model-sunset-lint</guid>
+      <dc:date>2026-10-20T22:36:18Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Config Guard - Tue Oct 20 22:35:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35321-mcp-config-guard</link>
+      <description>Reads .mcp.json / .vscode/mcp.json / claude_desktop_config.json while you edit it and marks the lines that hand an AI agent more than you meant - unpinned servers...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.mcp-config-guard</description>
+      <pubDate>Tue, 20 Oct 2026 22:35:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35321-mcp-config-guard</guid>
+      <dc:date>2026-10-20T22:35:57Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Migration Lint - Tue Oct 20 22:35:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35320-mcp-migration-lint</link>
+      <description>The 2026-07-28 MCP revision removed the initialize handshake, sessions, ping and 4 more RPCs. 27 rules find them in your mcp.json and server code, with the replacement...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.mcp-2026-migration-lint</description>
+      <pubDate>Tue, 20 Oct 2026 22:35:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35320-mcp-migration-lint</guid>
+      <dc:date>2026-10-20T22:35:36Z</dc:date>
+    </item>
+    <item>
+      <title>Steiger - Tue Oct 20 22:25:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35319-steiger</link>
+      <description>Integrates the steiger linter via the Language Server Protocol. Highlights project architecture violations reported by steiger directly in the editor.
+
+vendor: FeatureSliced
+downloads: 0
+pricingModel: FREE
+xmlId: org.featuresliced.steiger</description>
+      <pubDate>Tue, 20 Oct 2026 22:25:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35319-steiger</guid>
+      <dc:date>2026-10-20T22:25:09Z</dc:date>
+    </item>
+    <item>
+      <title>MarkdownUp - Tue Oct 20 21:48:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35318-markdownup</link>
+      <description>Convert between Markdown and Jira Wiki Markup straight from the right-click menu. Convert File — converts the file and swaps its extension. Generate New File — keeps...
+
+vendor: Rafael WMS
+downloads: 0
+pricingModel: FREE
+xmlId: com.rafaelwms.markdownup</description>
+      <pubDate>Tue, 20 Oct 2026 21:48:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35318-markdownup</guid>
+      <dc:date>2026-10-20T21:48:27Z</dc:date>
+    </item>
+    <item>
+      <title>SQL Synthetic Seeder - Tue Oct 20 17:16:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35316-sql-synthetic-seeder</link>
+      <description>SQL Synthetic Seeder Fill a table with plausible-but-validation-passing rows for manual or load testing. Enter the table name and its columns, pick a row count, and...
 
 vendor: VadimToptunov
-downloads: 4
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.vadimtoptunov.codec-toolkit</description>
-      <pubDate>Mon, 19 Oct 2026 19:23:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35290-crypto-codec-toolkit</guid>
-      <dc:date>2026-10-19T19:23:08Z</dc:date>
-    </item>
-    <item>
-      <title>Agent Refs [Beta] - Tue Oct 20 06:31:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34890-agent-refs-beta-</link>
-      <description>English Agent Refs [Beta] copies precise code references from the IntelliJ IDEA editor to the clipboard, so you can paste them straight into a coding agent without...
-
-vendor: 王勤奋
-downloads: 5
-pricingModel: FREE
-xmlId: com.wajnc.agent-refs</description>
-      <pubDate>Tue, 20 Oct 2026 06:31:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34890-agent-refs-beta-</guid>
-      <dc:date>2026-10-20T06:31:00Z</dc:date>
-    </item>
-    <item>
-      <title>i18n tool plus - Tue Oct 20 02:27:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35299-i18n-tool-plus</link>
-      <description>Manage localization files, preview translations in your code, and edit multilingual keys in JetBrains IDEs. Features: Compare and edit translations across multiple...
-
-vendor: Hegg5577
-downloads: 3
-pricingModel: FREE
-xmlId: com.hegg5577.i18n.helper</description>
-      <pubDate>Tue, 20 Oct 2026 02:27:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35299-i18n-tool-plus</guid>
-      <dc:date>2026-10-20T02:27:20Z</dc:date>
-    </item>
-    <item>
-      <title>JS Licence Key Gate - Mon Oct 19 22:37:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35293-js-licence-key-gate</link>
-      <description>Handsontable, TinyMCE, CKEditor 5, FullCalendar, AG Grid, MUI X and Syncfusion licence keys in closed-source JS/TS Right-click in the editor (or Tools) → JS Licence...
-
-vendor: ReadyStack
-downloads: 4
-pricingModel: FREE
-xmlId: com.getreadystack.js-licence-key-gate</description>
-      <pubDate>Mon, 19 Oct 2026 22:37:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35293-js-licence-key-gate</guid>
-      <dc:date>2026-10-19T22:37:59Z</dc:date>
-    </item>
-    <item>
-      <title>Lit Template Binding Audit - Mon Oct 19 22:38:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35294-lit-template-binding-audit</link>
-      <description>Finds the lit-html binding positions auto-escaping does not cover, before the component ships Right-click in the editor (or Tools) → Lit Template Binding Audit: Check...
-
-vendor: ReadyStack
-downloads: 4
-pricingModel: FREE
-xmlId: com.getreadystack.lit-binding-xss-audit</description>
-      <pubDate>Mon, 19 Oct 2026 22:38:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35294-lit-template-binding-audit</guid>
-      <dc:date>2026-10-19T22:38:22Z</dc:date>
-    </item>
-    <item>
-      <title>Livewire Client Surface Audit - Mon Oct 19 22:38:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35295-livewire-client-surface-audit</link>
-      <description>Marks every line of a Livewire or Blade file that the visitor's browser can call, rewrite or read Right-click in the editor (or Tools) → Livewire Client Surface Audit...
-
-vendor: ReadyStack
-downloads: 4
-pricingModel: FREE
-xmlId: com.getreadystack.livewire-client-surface-audit</description>
-      <pubDate>Mon, 19 Oct 2026 22:38:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35295-livewire-client-surface-audit</guid>
-      <dc:date>2026-10-19T22:38:43Z</dc:date>
-    </item>
-    <item>
-      <title>Lockfile Due Diligence - Mon Oct 19 22:39:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35296-lockfile-due-diligence</link>
-      <description>npm install scripts, integrity and sources under EU CRA Art. 13(5) Right-click in the editor (or Tools) → Lockfile Due Diligence: Check This File. Each finding appears...
-
-vendor: ReadyStack
-downloads: 4
-pricingModel: FREE
-xmlId: com.getreadystack.lockfile-due-diligence-lint</description>
-      <pubDate>Mon, 19 Oct 2026 22:39:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35296-lockfile-due-diligence</guid>
-      <dc:date>2026-10-19T22:39:04Z</dc:date>
-    </item>
-    <item>
-      <title>Compose Config Inspector - Sun Oct 18 06:16:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35243-compose-config-inspector</link>
-      <description>Inspect the effective configuration produced by Docker Compose after file merging, profile selection, and environment interpolation. Choose and reorder Compose files...
-
-vendor: Ortanca Studio
-downloads: 5
-pricingModel: PAID
-xmlId: dev.serap.composeinspector</description>
-      <pubDate>Sun, 18 Oct 2026 06:16:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35243-compose-config-inspector</guid>
-      <dc:date>2026-10-18T06:16:30Z</dc:date>
-    </item>
-    <item>
-      <title>SBOM Field Check for CRA (CycloneDX, SPDX) - Tue Oct 20 04:18:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35303-sbom-field-check-for-cra-cyclonedx-spdx-</link>
-      <description>Will your SBOM pass a CRA review? This names every field your CycloneDX or SPDX SBOM is missing against BSI TR-03183-2 and the CISA 2026 minimum elements, on the line...
-
-vendor: ReadyStack
-downloads: 4
-pricingModel: FREEMIUM
-xmlId: com.getreadystack.sbom-field-check-cra</description>
-      <pubDate>Tue, 20 Oct 2026 04:18:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35303-sbom-field-check-for-cra-cyclonedx-spdx-</guid>
-      <dc:date>2026-10-20T04:18:13Z</dc:date>
-    </item>
-    <item>
-      <title>npm publish package.json Gate - Node 20 EOL and SPDX - Tue Oct 20 04:29:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35304-npm-publish-package-json-gate--node-20-eol-and-spdx</link>
-      <description>Run npm publish with a package.json that no longer promises end-of-life Node and that provenance accepts. Node 20 reached end of life on 2026-04-30 and Node 18 on...
-
-vendor: ReadyStack
-downloads: 4
-pricingModel: FREEMIUM
-xmlId: com.getreadystack.package-json-release-gate</description>
-      <pubDate>Tue, 20 Oct 2026 04:29:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35304-npm-publish-package-json-gate--node-20-eol-and-spdx</guid>
-      <dc:date>2026-10-20T04:29:32Z</dc:date>
-    </item>
-    <item>
-      <title>Spotless Bridge - Sat Oct 17 11:32:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35218-spotless-bridge</link>
-      <description>Format Java with your project's Spotless rules when you run Reformat Code or save a file. Use the formatter versions and rules from your existing spotless { java...
-
-vendor: pozafly
-downloads: 9
-pricingModel: FREE
-xmlId: io.github.pozafly.spotlessbridge</description>
-      <pubDate>Sat, 17 Oct 2026 11:32:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35218-spotless-bridge</guid>
-      <dc:date>2026-10-17T11:32:55Z</dc:date>
-    </item>
-    <item>
-      <title>LuaPanda - Mon Oct 19 03:36:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35183-luapanda</link>
-      <description>LuaPanda for IntelliJ IDEA Lua debugging for IntelliJ IDEA, ported from the popular LuaPanda VSCode extension. Debugging only. This plugin focuses on the debugger and...
-
-vendor: LuaPanda
-downloads: 13
-pricingModel: FREE
-xmlId: com.luapanda.idea</description>
-      <pubDate>Mon, 19 Oct 2026 03:36:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35183-luapanda</guid>
-      <dc:date>2026-10-19T03:36:13Z</dc:date>
+xmlId: io.github.vadimtoptunov.sql-seeder</description>
+      <pubDate>Tue, 20 Oct 2026 17:16:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35316-sql-synthetic-seeder</guid>
+      <dc:date>2026-10-20T17:16:29Z</dc:date>
     </item>
   </channel>
 </rss>
