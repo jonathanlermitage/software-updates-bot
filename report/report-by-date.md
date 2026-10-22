@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 16:13:49 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 08:59:38 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 21 23:07:33 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.15.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 21 23:07:32 UTC 2026|
@@ -26,7 +27,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:26 UTC 2026|
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.1.RELEASE|[start.spring.io](https://start.spring.io)|Fri Aug 21 04:40:01 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.4.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:14:00 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:13:59 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:13:57 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 16:17:47 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
