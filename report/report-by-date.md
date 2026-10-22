@@ -2,8 +2,8 @@
 |---|---|---|---|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 21 23:07:33 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.15.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 21 23:07:32 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.22.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:07:29 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.12.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:07:29 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|24.22.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:07:29 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Oct 20 09:12:16 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.3|[golang.org](https://golang.org/dl/)|Tue Oct 20 02:29:37 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.8.2|[gradle.org](https://gradle.org/releases)|Mon Oct 19 23:12:03 UTC 2026|
