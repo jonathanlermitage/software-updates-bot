@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>KMP Device Hub - Mon Oct 19 11:40:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35272-kmp-device-hub</link>
+      <description>Every Android device, emulator and iOS simulator in one panel. Built for Kotlin Multiplatform and Compose Multiplatform developers who test on Android and iOS every...
+
+vendor: Muhammad Khubaib Imtiaz
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.khubaibkhan4.kmpdevicehub</description>
+      <pubDate>Mon, 19 Oct 2026 11:40:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35272-kmp-device-hub</guid>
+      <dc:date>2026-10-19T11:40:05Z</dc:date>
+    </item>
+    <item>
+      <title>KMP Dependency Hub - Fri Oct 16 07:29:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35177-kmp-dependency-hub</link>
+      <description>Every Kotlin Multiplatform dependency, one click away. Browse 4,800+ KMP, Compose Multiplatform and Android libraries inside Android Studio or IntelliJ IDEA, select...
+
+vendor: Muhammad Khubaib Imtiaz
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.kmphub.idea</description>
+      <pubDate>Fri, 16 Oct 2026 07:29:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35177-kmp-dependency-hub</guid>
+      <dc:date>2026-10-16T07:29:26Z</dc:date>
+    </item>
+    <item>
+      <title>Gardera Security - Fri Oct 16 19:08:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35196-gardera-security</link>
+      <description>Gardera Security Jetbrains IDE Extension Application Security at your fingertips: code scanning (SAST), dependency and secrets scanning that run as you work. Interact...
+
+vendor: Gardera Security
+downloads: 1
+pricingModel: FREE
+xmlId: com.gardera.jetbrains</description>
+      <pubDate>Fri, 16 Oct 2026 19:08:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35196-gardera-security</guid>
+      <dc:date>2026-10-16T19:08:31Z</dc:date>
+    </item>
+    <item>
+      <title>Postman Migration Assistant - Mon Oct 19 00:21:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35268-postman-migration-assistant</link>
+      <description>Convert Postman Collection v2.0 and v2.1 files into IntelliJ IDEA HTTP Client requests. Free: analyze the complete collection offline, normalize v2.0/v2.1 input...
+
+vendor: Shadowmoon6868
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: dev.valtools.postman.migration</description>
+      <pubDate>Mon, 19 Oct 2026 00:21:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35268-postman-migration-assistant</guid>
+      <dc:date>2026-10-19T00:21:22Z</dc:date>
+    </item>
+    <item>
       <title>LogGuard Compliance - Wed Oct 21 19:31:42 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35356-logguard-compliance</link>
       <description>Inspect Java application logging paths for sensitive data. Local analysis with explicit evidence and sanitized reports; no compliance guarantee.
@@ -45,7 +97,7 @@ xmlId: com.nexora.nexoraintellijextension</description>
       <dc:date>2026-10-22T10:09:17Z</dc:date>
     </item>
     <item>
-      <title>Pipeline Inbox for GitHub Actions Workflows - Thu Oct 22 17:02:47 UTC 2026</title>
+      <title>Pipeline Inbox for GitHub Actions Workflows - Thu Oct 22 21:52:39 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions-workflows</link>
       <description>Free workflow run inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for GitHub Actions: runs across all your repositories, jobs, steps and logs. Re-run...
 
@@ -53,12 +105,12 @@ vendor: Lesstep
 downloads: 0
 pricingModel: FREEMIUM
 xmlId: com.lesstep.workflow-runs</description>
-      <pubDate>Thu, 22 Oct 2026 17:02:47 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 21:52:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions-workflows</guid>
-      <dc:date>2026-10-22T17:02:47Z</dc:date>
+      <dc:date>2026-10-22T21:52:39Z</dc:date>
     </item>
     <item>
-      <title>Pipeline Inbox for Jenkins - Thu Oct 22 17:02:20 UTC 2026</title>
+      <title>Pipeline Inbox for Jenkins - Thu Oct 22 22:24:21 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35378-pipeline-inbox-for-jenkins</link>
       <description>Free build inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for Jenkins®: the builds of your jobs and multibranch projects, Pipeline stages, failed tests and...
 
@@ -66,9 +118,9 @@ vendor: Lesstep
 downloads: 0
 pricingModel: FREEMIUM
 xmlId: com.lesstep.jenkins-pipelines</description>
-      <pubDate>Thu, 22 Oct 2026 17:02:20 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 22:24:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35378-pipeline-inbox-for-jenkins</guid>
-      <dc:date>2026-10-22T17:02:20Z</dc:date>
+      <dc:date>2026-10-22T22:24:21Z</dc:date>
     </item>
     <item>
       <title>Arko - Thu Oct 22 08:25:35 UTC 2026</title>
@@ -212,58 +264,6 @@ xmlId: com.npcoding.changelogfiles</description>
       <pubDate>Wed, 14 Oct 2026 18:47:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35126-oskuvi-db-changelogs</guid>
       <dc:date>2026-10-14T18:47:27Z</dc:date>
-    </item>
-    <item>
-      <title>Oskuvi MKO Templates - Wed Oct 14 18:46:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35125-oskuvi-mko-templates</link>
-      <description>Oskuvi MKO Templates makes the editor read Mako templates: the .mako files of Python web applications, with their ${ } expressions, &amp;lt;% %&amp;gt; Python blocks...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.npcoding.mkotemplates</description>
-      <pubDate>Wed, 14 Oct 2026 18:46:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35125-oskuvi-mko-templates</guid>
-      <dc:date>2026-10-14T18:46:44Z</dc:date>
-    </item>
-    <item>
-      <title>Oskuvi KV Language - Wed Oct 14 18:46:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35124-oskuvi-kv-language</link>
-      <description>Oskuvi KV Language makes the editor read the .kv files of Kivy applications: the rules, widgets, properties and canvas instructions of the kv language, with the Python...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.npcoding.kvlanguage</description>
-      <pubDate>Wed, 14 Oct 2026 18:46:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35124-oskuvi-kv-language</guid>
-      <dc:date>2026-10-14T18:46:05Z</dc:date>
-    </item>
-    <item>
-      <title>Oskuvi Metric Queries - Wed Oct 14 18:45:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35123-oskuvi-metric-queries</link>
-      <description>Oskuvi Metric Queries makes the editor read the query language of Prometheus: in .promql files, and in the expr: of the Prometheus rule files in your project. Free...
-
-vendor: Oskuvi
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.npcoding.metricqueries</description>
-      <pubDate>Wed, 14 Oct 2026 18:45:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35123-oskuvi-metric-queries</guid>
-      <dc:date>2026-10-14T18:45:27Z</dc:date>
-    </item>
-    <item>
-      <title>Oskuvi PYX Language - Wed Oct 14 18:44:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35122-oskuvi-pyx-language</link>
-      <description>Oskuvi PYX Language makes the editor read Cython files: the .pyx, .pxd and .pxi files of your extension modules, wherever the editor has no support of its own for...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.npcoding.pyxlanguage</description>
-      <pubDate>Wed, 14 Oct 2026 18:44:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35122-oskuvi-pyx-language</guid>
-      <dc:date>2026-10-14T18:44:50Z</dc:date>
     </item>
   </channel>
 </rss>
