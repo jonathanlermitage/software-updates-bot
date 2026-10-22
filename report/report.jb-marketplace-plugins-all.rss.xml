@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>LogGuard Compliance - Wed Oct 21 19:31:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35356-logguard-compliance</link>
+      <description>Inspect Java application logging paths for sensitive data. Local analysis with explicit evidence and sanitized reports; no compliance guarantee.
+
+vendor: AFK Mesh
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.log-guard-compliance</description>
+      <pubDate>Wed, 21 Oct 2026 19:31:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35356-logguard-compliance</guid>
+      <dc:date>2026-10-21T19:31:42Z</dc:date>
+    </item>
+    <item>
       <title>Resource Lens - Wed Oct 21 20:33:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35358-resource-lens</link>
       <description>Completes, links and checks Eloquent model attribute names in Laravel admin panel resources. Built for Filament 4 and 5 panels in PhpStorm. Completion of model...
@@ -32,20 +45,20 @@ xmlId: com.nexora.nexoraintellijextension</description>
       <dc:date>2026-10-22T10:09:17Z</dc:date>
     </item>
     <item>
-      <title>Pipeline Inbox for GitHub Actions - Thu Oct 22 15:11:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions</link>
+      <title>Pipeline Inbox for GitHub Actions Workflows - Thu Oct 22 17:02:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions-workflows</link>
       <description>Free workflow run inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for GitHub Actions: runs across all your repositories, jobs, steps and logs. Re-run...
 
 vendor: Lesstep
 downloads: 0
 pricingModel: FREEMIUM
 xmlId: com.lesstep.workflow-runs</description>
-      <pubDate>Thu, 22 Oct 2026 15:11:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions</guid>
-      <dc:date>2026-10-22T15:11:54Z</dc:date>
+      <pubDate>Thu, 22 Oct 2026 17:02:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions-workflows</guid>
+      <dc:date>2026-10-22T17:02:47Z</dc:date>
     </item>
     <item>
-      <title>Pipeline Inbox for Jenkins - Thu Oct 22 15:10:00 UTC 2026</title>
+      <title>Pipeline Inbox for Jenkins - Thu Oct 22 17:02:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35378-pipeline-inbox-for-jenkins</link>
       <description>Free build inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for Jenkins®: the builds of your jobs and multibranch projects, Pipeline stages, failed tests and...
 
@@ -53,9 +66,9 @@ vendor: Lesstep
 downloads: 0
 pricingModel: FREEMIUM
 xmlId: com.lesstep.jenkins-pipelines</description>
-      <pubDate>Thu, 22 Oct 2026 15:10:00 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 17:02:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35378-pipeline-inbox-for-jenkins</guid>
-      <dc:date>2026-10-22T15:10:00Z</dc:date>
+      <dc:date>2026-10-22T17:02:20Z</dc:date>
     </item>
     <item>
       <title>Arko - Thu Oct 22 08:25:35 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.npcoding.pyxlanguage</description>
       <pubDate>Wed, 14 Oct 2026 18:44:50 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35122-oskuvi-pyx-language</guid>
       <dc:date>2026-10-14T18:44:50Z</dc:date>
-    </item>
-    <item>
-      <title>Oskuvi TH Expressions - Wed Oct 14 18:44:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35121-oskuvi-th-expressions</link>
-      <description>Oskuvi TH Expressions makes the editor read the expressions of Thymeleaf templates: what stands in the th: and data-th- attributes of your HTML files. Free: colouring...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.npcoding.thexpressions</description>
-      <pubDate>Wed, 14 Oct 2026 18:44:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35121-oskuvi-th-expressions</guid>
-      <dc:date>2026-10-14T18:44:10Z</dc:date>
     </item>
   </channel>
 </rss>
