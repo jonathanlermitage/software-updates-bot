@@ -2,14 +2,16 @@ package biz.lermitage.sub.service.scrapper.impl
 
 import biz.lermitage.sub.Globals
 import biz.lermitage.sub.service.scrapper.Scrapper
-import org.apache.commons.io.IOUtils
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 import org.slf4j.LoggerFactory
 import org.springframework.retry.annotation.Backoff
 import org.springframework.retry.annotation.Retryable
 import org.springframework.stereotype.Service
+import java.io.BufferedReader
 import java.io.IOException
+import java.io.InputStreamReader
+import java.net.HttpURLConnection
 import java.net.URI
 import java.nio.charset.StandardCharsets
 import java.util.concurrent.ConcurrentHashMap
@@ -65,6 +67,10 @@ class ScrapperImpl : Scrapper {
     }
 
     private fun downloadAsText(url: String): String {
-        return IOUtils.toString(URI.create(url), StandardCharsets.UTF_8)
+        val connection = URI(url).toURL().openConnection() as HttpURLConnection
+        connection.connectTimeout = 20_000
+        connection.readTimeout = 20_000
+        connection.requestMethod = "GET"
+        return BufferedReader(InputStreamReader(connection.inputStream, StandardCharsets.UTF_8)).use { it.readText() }
     }
 }
