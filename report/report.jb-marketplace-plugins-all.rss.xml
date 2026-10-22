@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>NeoCatcher - Wed Oct 21 18:56:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35220-neocatcher</link>
-      <description>Catch, inspect and change your app's HTTP(S) traffic without leaving the IDE. NeoCatcher is a debugging proxy for IntelliJ IDEA, Android Studio and other JetBrains...
+      <title>KMP Translations Hub - Thu Oct 22 07:16:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35376-kmp-translations-hub</link>
+      <description>Every translation of your Compose Multiplatform app in one table, and only what changed gets translated. Free: A Translations tab on every composeResources/values… XML...
 
-vendor: Maksim Voronchikhin
+vendor: Muhammad Khubaib Imtiaz
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.khubaibkhan4.kmptranslationshub</description>
+      <pubDate>Thu, 22 Oct 2026 07:16:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35376-kmp-translations-hub</guid>
+      <dc:date>2026-10-22T07:16:50Z</dc:date>
+    </item>
+    <item>
+      <title>Oskuvi Server Launcher - Wed Oct 14 18:53:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35134-oskuvi-server-launcher</link>
+      <description>Run and debug a web application on your own WildFly® application server, from a run configuration, in the free edition of the editor as well as the paid one. Your...
+
+vendor: Oskuvi
 downloads: 1
 pricingModel: FREEMIUM
-xmlId: com.neocatcher</description>
-      <pubDate>Wed, 21 Oct 2026 18:56:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35220-neocatcher</guid>
-      <dc:date>2026-10-21T18:56:57Z</dc:date>
+xmlId: com.npcoding.serverlauncher</description>
+      <pubDate>Wed, 14 Oct 2026 18:53:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35134-oskuvi-server-launcher</guid>
+      <dc:date>2026-10-14T18:53:20Z</dc:date>
     </item>
     <item>
-      <title>CodeCall Map - Wed Oct 21 09:59:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35340-codecall-map</link>
-      <description>CodeCall Map An open-source call-chain recorder for Java, built to answer one question: where does my program actually spend its time? Dedicated Run/Debug mode — pick...
+      <title>Oskuvi Runner for Jetty - Wed Oct 14 18:52:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35133-oskuvi-runner-for-jetty</link>
+      <description>Run and debug a web application on your own Eclipse Jetty, from a run configuration, in the free edition of the editor as well as the paid one. Jetty 12, 11 and 10...
 
-vendor: Eleven
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.chargeduck.codecallmap.plugin</description>
-      <pubDate>Wed, 21 Oct 2026 09:59:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35340-codecall-map</guid>
-      <dc:date>2026-10-21T09:59:56Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.runnerforjetty</description>
+      <pubDate>Wed, 14 Oct 2026 18:52:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35133-oskuvi-runner-for-jetty</guid>
+      <dc:date>2026-10-14T18:52:47Z</dc:date>
     </item>
     <item>
-      <title>Orestack Engine Config - Wed Oct 21 09:20:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35339-orestack-engine-config</link>
-      <description>Syntax highlighting, goto shortcut, and auto-completion for Orestack Engine YAML configuration files.
+      <title>Oskuvi Flow for Git - Wed Oct 14 18:52:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35132-oskuvi-flow-for-git</link>
+      <description>Oskuvi Flow for Git puts the steps of the git-flow branching model into the Git™ menu of the editor: start and finish a feature, a release and a hotfix, each with one...
 
-vendor: pigaut
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.pigaut.rpg.OrestackEngineConfiguration</description>
-      <pubDate>Wed, 21 Oct 2026 09:20:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35339-orestack-engine-config</guid>
-      <dc:date>2026-10-21T09:20:46Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.flowforgit</description>
+      <pubDate>Wed, 14 Oct 2026 18:52:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35132-oskuvi-flow-for-git</guid>
+      <dc:date>2026-10-14T18:52:16Z</dc:date>
     </item>
     <item>
-      <title>PyMCU - Wed Oct 21 08:15:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35336-pymcu</link>
-      <description>Official PyCharm support for PyMCU — a compiler that turns a statically-typed subset of Python into bare-metal firmware for AVR, RP2040 / RP2350, PIC and RISC-V...
+      <title>Oskuvi Coordination Browser - Wed Oct 14 18:51:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35131-oskuvi-coordination-browser</link>
+      <description>Oskuvi Coordination Browser lets you look into an Apache ZooKeeper ensemble without leaving the editor: the tree of nodes, the data each one holds and its state, and...
 
-vendor: PyMCU
-downloads: 0
-pricingModel: FREE
-xmlId: dev.begeistert.pymcu</description>
-      <pubDate>Wed, 21 Oct 2026 08:15:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35336-pymcu</guid>
-      <dc:date>2026-10-21T08:15:11Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.coordinationbrowser</description>
+      <pubDate>Wed, 14 Oct 2026 18:51:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35131-oskuvi-coordination-browser</guid>
+      <dc:date>2026-10-14T18:51:18Z</dc:date>
     </item>
     <item>
-      <title>AngelScript UE - Wed Oct 21 08:10:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35332-angelscript-ue</link>
-      <description>AngelScript language support for Unreal Engine projects that use UnrealEngine-Angelscript. Script files get the analysis of the AngelScript language server, which...
+      <title>Oskuvi Code Metrics - Wed Oct 14 18:49:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35130-oskuvi-code-metrics</link>
+      <description>Oskuvi Code Metrics measures the Java code you select and shows where it has grown hard to follow: per method, per class and per package. Select files, folders or...
 
-vendor: ShiningPluto
-downloads: 0
-pricingModel: FREE
-xmlId: com.shiningpluto.rider-unreal-angelscript</description>
-      <pubDate>Wed, 21 Oct 2026 08:10:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35332-angelscript-ue</guid>
-      <dc:date>2026-10-21T08:10:08Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.codemetrics</description>
+      <pubDate>Wed, 14 Oct 2026 18:49:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35130-oskuvi-code-metrics</guid>
+      <dc:date>2026-10-14T18:49:47Z</dc:date>
     </item>
     <item>
-      <title>Lazy Commit - Wed Oct 21 08:05:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35335-lazy-commit</link>
-      <description>Generate meaningful Git commit messages with AI, right from the Commit tool window. Features: One-click "AI Generate" button on the Commit toolbar Reads the staged...
+      <title>Oskuvi JSON from Classes - Wed Oct 14 18:49:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35129-oskuvi-json-from-classes</link>
+      <description>Oskuvi JSON from Classes writes a sample JSON for a Java class: a value for every field, by its type. For a request body in a test, an example in the documentation, or...
 
-vendor: zxc
-downloads: 0
-pricingModel: FREE
-xmlId: cc.zxc.lazycommit</description>
-      <pubDate>Wed, 21 Oct 2026 08:05:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35335-lazy-commit</guid>
-      <dc:date>2026-10-21T08:05:41Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.jsonfromclasses</description>
+      <pubDate>Wed, 14 Oct 2026 18:49:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35129-oskuvi-json-from-classes</guid>
+      <dc:date>2026-10-14T18:49:14Z</dc:date>
     </item>
     <item>
-      <title>CodeIME - Wed Oct 21 07:34:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35333-codeime</link>
-      <description>CodeIME switches your input method automatically: Chinese inside comments and docstrings, English in code — no more manual Shift-toggling between writing comments and...
+      <title>Oskuvi Classes from JSON - Wed Oct 14 18:48:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35128-oskuvi-classes-from-json</link>
+      <description>Oskuvi Classes from JSON writes the Java classes that fit a JSON text: paste a sample, see the classes, press Create. Right-click a package in the Project view and...
 
-vendor: wsqiangyx
-downloads: 0
-pricingModel: FREE
-xmlId: com.codeime</description>
-      <pubDate>Wed, 21 Oct 2026 07:34:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35333-codeime</guid>
-      <dc:date>2026-10-21T07:34:47Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.classesfromjson</description>
+      <pubDate>Wed, 14 Oct 2026 18:48:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35128-oskuvi-classes-from-json</guid>
+      <dc:date>2026-10-14T18:48:41Z</dc:date>
     </item>
     <item>
-      <title>WordPeek - Wed Oct 21 02:02:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35328-wordpeek</link>
-      <description>WordPeek helps you learn English vocabulary while coding in your IDE. It shows English-Chinese word pairs in the status bar and offers a lightweight popup with example...
+      <title>Oskuvi Class Diagrams - Wed Oct 14 18:48:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35127-oskuvi-class-diagrams</link>
+      <description>Oskuvi Class Diagrams draws a class diagram of the code you select and gives it to you as text you can keep: Mermaid or PlantUML. Select files, folders or packages in...
 
-vendor: workpeek
-downloads: 0
-pricingModel: FREE
-xmlId: com.wordpeek</description>
-      <pubDate>Wed, 21 Oct 2026 02:02:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35328-wordpeek</guid>
-      <dc:date>2026-10-21T02:02:49Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.classdiagrams</description>
+      <pubDate>Wed, 14 Oct 2026 18:48:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35127-oskuvi-class-diagrams</guid>
+      <dc:date>2026-10-14T18:48:08Z</dc:date>
     </item>
     <item>
-      <title>String Manager - Wed Oct 21 07:29:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35331-string-manager</link>
-      <description>Manages all string resources of a project: Android res/values* and Compose Multiplatform composeResources/values* directories. Shows a table of keys and locales...
+      <title>Oskuvi DB Changelogs - Wed Oct 14 18:47:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35126-oskuvi-db-changelogs</link>
+      <description>Oskuvi DB Changelogs makes the editor read database changelog files of Liquibase: databaseChangeLog files in XML, YAML and JSON, and SQL files that begin with...
 
-vendor: v1rus-dev
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.v1rus-dev.stringmanager</description>
-      <pubDate>Wed, 21 Oct 2026 07:29:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35331-string-manager</guid>
-      <dc:date>2026-10-21T07:29:25Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.changelogfiles</description>
+      <pubDate>Wed, 14 Oct 2026 18:47:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35126-oskuvi-db-changelogs</guid>
+      <dc:date>2026-10-14T18:47:27Z</dc:date>
     </item>
     <item>
-      <title>MyHope Sync - Wed Oct 21 04:29:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35330-myhope-sync</link>
-      <description>An IDEA plugin for MyHope — sync Java Spring Boot endpoints from your IDE to MyHope Server. 一个面向 MyHope 的 IDEA 插件，用于从 IDEA 开发工具上向 MyHope Server 服务同步 Java Spring Boot...
+      <title>Oskuvi MKO Templates - Wed Oct 14 18:46:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35125-oskuvi-mko-templates</link>
+      <description>Oskuvi MKO Templates makes the editor read Mako templates: the .mako files of Python web applications, with their ${ } expressions, &amp;lt;% %&amp;gt; Python blocks...
 
-vendor: MyHope Sync
-downloads: 0
-pricingModel: FREE
-xmlId: com.myhope.sync</description>
-      <pubDate>Wed, 21 Oct 2026 04:29:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35330-myhope-sync</guid>
-      <dc:date>2026-10-21T04:29:37Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.mkotemplates</description>
+      <pubDate>Wed, 14 Oct 2026 18:46:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35125-oskuvi-mko-templates</guid>
+      <dc:date>2026-10-14T18:46:44Z</dc:date>
     </item>
     <item>
-      <title>Contextual This - Wed Oct 21 10:38:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35317-contextual-this</link>
-      <description>Overview Modern PHP frameworks often use "magic" dependency injection, where scripts executed in a global scope or inside closures still have access to a fully...
+      <title>Oskuvi KV Language - Wed Oct 14 18:46:05 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35124-oskuvi-kv-language</link>
+      <description>Oskuvi KV Language makes the editor read the .kv files of Kivy applications: the rules, widgets, properties and canvas instructions of the kv language, with the Python...
 
-vendor: za-ek
-downloads: 0
-pricingModel: FREE
-xmlId: eu.zaek.phpstorm-this-plugin</description>
-      <pubDate>Wed, 21 Oct 2026 10:38:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35317-contextual-this</guid>
-      <dc:date>2026-10-21T10:38:12Z</dc:date>
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.kvlanguage</description>
+      <pubDate>Wed, 14 Oct 2026 18:46:05 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35124-oskuvi-kv-language</guid>
+      <dc:date>2026-10-14T18:46:05Z</dc:date>
     </item>
     <item>
-      <title>ABI Explorer - Wed Oct 21 06:19:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35292-abi-explorer</link>
-      <description>Sizes, offsets and padding of C and C++ structs, from the project's own compiler and flags: in quick documentation and in the Struct Layout tool window, which follows...
+      <title>Oskuvi Metric Queries - Wed Oct 14 18:45:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35123-oskuvi-metric-queries</link>
+      <description>Oskuvi Metric Queries makes the editor read the query language of Prometheus: in .promql files, and in the expr: of the Prometheus rule files in your project. Free...
 
-vendor: hylo-lang
+vendor: Oskuvi
 downloads: 2
-pricingModel: FREE
-xmlId: org.hylo-lang.abi-explorer</description>
-      <pubDate>Wed, 21 Oct 2026 06:19:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35292-abi-explorer</guid>
-      <dc:date>2026-10-21T06:19:25Z</dc:date>
+pricingModel: FREEMIUM
+xmlId: com.npcoding.metricqueries</description>
+      <pubDate>Wed, 14 Oct 2026 18:45:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35123-oskuvi-metric-queries</guid>
+      <dc:date>2026-10-14T18:45:27Z</dc:date>
     </item>
     <item>
-      <title>Message Properties Editor AI Edition - Tue Oct 20 22:45:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35324-message-properties-editor-ai-edition</link>
-      <description>The split-pane editor for Java .properties resource bundles, now with AI translations. It has all the features of the original JetBrains Resource Bundle Editor, plus...
+      <title>Oskuvi PYX Language - Wed Oct 14 18:44:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35122-oskuvi-pyx-language</link>
+      <description>Oskuvi PYX Language makes the editor read Cython files: the .pyx, .pxd and .pxi files of your extension modules, wherever the editor has no support of its own for...
 
-vendor: Tobse.eu
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.pyxlanguage</description>
+      <pubDate>Wed, 14 Oct 2026 18:44:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35122-oskuvi-pyx-language</guid>
+      <dc:date>2026-10-14T18:44:50Z</dc:date>
+    </item>
+    <item>
+      <title>Oskuvi TH Expressions - Wed Oct 14 18:44:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35121-oskuvi-th-expressions</link>
+      <description>Oskuvi TH Expressions makes the editor read the expressions of Thymeleaf templates: what stands in the th: and data-th- attributes of your HTML files. Free: colouring...
+
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.thexpressions</description>
+      <pubDate>Wed, 14 Oct 2026 18:44:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35121-oskuvi-th-expressions</guid>
+      <dc:date>2026-10-14T18:44:10Z</dc:date>
+    </item>
+    <item>
+      <title>Oskuvi VTL Templates - Wed Oct 14 18:43:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35120-oskuvi-vtl-templates</link>
+      <description>Oskuvi VTL Templates makes the editor read the template language of Apache Velocity: the directives, references and comments in your .vm, .vtl and .vsl files. Free...
+
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.vtltemplates</description>
+      <pubDate>Wed, 14 Oct 2026 18:43:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35120-oskuvi-vtl-templates</guid>
+      <dc:date>2026-10-14T18:43:35Z</dc:date>
+    </item>
+    <item>
+      <title>Oskuvi Template Tags - Wed Oct 14 18:35:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35119-oskuvi-template-tags</link>
+      <description>Oskuvi Template Tags makes the editor read the template language of the Django web framework: the tags, variables and comments inside your HTML files. Free: colouring...
+
+vendor: Oskuvi
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.npcoding.templatetags</description>
+      <pubDate>Wed, 14 Oct 2026 18:35:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35119-oskuvi-template-tags</guid>
+      <dc:date>2026-10-14T18:35:16Z</dc:date>
+    </item>
+    <item>
+      <title>Walk Me Through - Thu Oct 22 08:24:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35375-walk-me-through</link>
+      <description>Play the code-anchored walkthroughs your coding agent publishes, step by step next to the highlighted code in Rider. Instead of pasting code excerpts into its reply...
+
+vendor: pvrobays
 downloads: 0
 pricingModel: FREE
-xmlId: github.tobsef.message.properties.editor.ai</description>
-      <pubDate>Tue, 20 Oct 2026 22:45:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35324-message-properties-editor-ai-edition</guid>
-      <dc:date>2026-10-20T22:45:59Z</dc:date>
+xmlId: io.github.pvrobays.walkmethrough</description>
+      <pubDate>Thu, 22 Oct 2026 08:24:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35375-walk-me-through</guid>
+      <dc:date>2026-10-22T08:24:33Z</dc:date>
     </item>
     <item>
-      <title>MyInvois Field Check - Tue Oct 20 22:36:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35323-myinvois-field-check</link>
-      <description>Finds the fields IRBM rejects in a MyInvois JSON payload, on the line, before you submit. Right-click in the editor (or Tools) → MyInvois Field Check: Check This File...
+      <title>ImageSharp to SkiaSharp Migration and License Check - Thu Oct 22 04:59:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35374-imagesharp-to-skiasharp-migration-and-license-check</link>
+      <description>Find every NuGet line that puts your .NET project under the Six Labors Split License, with the SkiaSharp (MIT) replacement on that line. Since SixLabors.ImageSharp...
 
 vendor: ReadyStack
 downloads: 0
-pricingModel: FREE
-xmlId: com.getreadystack.myinvois-field-check</description>
-      <pubDate>Tue, 20 Oct 2026 22:36:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35323-myinvois-field-check</guid>
-      <dc:date>2026-10-20T22:36:38Z</dc:date>
+pricingModel: FREEMIUM
+xmlId: com.getreadystack.skiasharp-migration-check</description>
+      <pubDate>Thu, 22 Oct 2026 04:59:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35374-imagesharp-to-skiasharp-migration-and-license-check</guid>
+      <dc:date>2026-10-22T04:59:23Z</dc:date>
     </item>
     <item>
-      <title>Model Sunset Lint - Tue Oct 20 22:36:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35322-model-sunset-lint</link>
-      <description>Finds every model ID and API parameter in your code that a vendor has already switched off or has published a date for - 109 rules across OpenAI, Anthropic, Google and...
+      <title>CentOS to AlmaLinux Migration Fixer - Thu Oct 22 04:46:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35373-centos-to-almalinux-migration-fixer</link>
+      <description>Still building on CentOS 7 or 8? CentOS Linux 8 reached end of life on 2021-12-31, CentOS Stream 8 on 2024-05-31 and CentOS Linux 7 on 2024-06-30...
 
 vendor: ReadyStack
 downloads: 0
-pricingModel: FREE
-xmlId: com.getreadystack.model-sunset-lint</description>
-      <pubDate>Tue, 20 Oct 2026 22:36:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35322-model-sunset-lint</guid>
-      <dc:date>2026-10-20T22:36:18Z</dc:date>
-    </item>
-    <item>
-      <title>MCP Config Guard - Tue Oct 20 22:35:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35321-mcp-config-guard</link>
-      <description>Reads .mcp.json / .vscode/mcp.json / claude_desktop_config.json while you edit it and marks the lines that hand an AI agent more than you meant - unpinned servers...
-
-vendor: ReadyStack
-downloads: 0
-pricingModel: FREE
-xmlId: com.getreadystack.mcp-config-guard</description>
-      <pubDate>Tue, 20 Oct 2026 22:35:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35321-mcp-config-guard</guid>
-      <dc:date>2026-10-20T22:35:57Z</dc:date>
-    </item>
-    <item>
-      <title>MCP Migration Lint - Tue Oct 20 22:35:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35320-mcp-migration-lint</link>
-      <description>The 2026-07-28 MCP revision removed the initialize handshake, sessions, ping and 4 more RPCs. 27 rules find them in your mcp.json and server code, with the replacement...
-
-vendor: ReadyStack
-downloads: 0
-pricingModel: FREE
-xmlId: com.getreadystack.mcp-2026-migration-lint</description>
-      <pubDate>Tue, 20 Oct 2026 22:35:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35320-mcp-migration-lint</guid>
-      <dc:date>2026-10-20T22:35:36Z</dc:date>
-    </item>
-    <item>
-      <title>Steiger - Tue Oct 20 22:25:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35319-steiger</link>
-      <description>Integrates the steiger linter via the Language Server Protocol. Highlights project architecture violations reported by steiger directly in the editor.
-
-vendor: FeatureSliced
-downloads: 0
-pricingModel: FREE
-xmlId: org.featuresliced.steiger</description>
-      <pubDate>Tue, 20 Oct 2026 22:25:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35319-steiger</guid>
-      <dc:date>2026-10-20T22:25:09Z</dc:date>
-    </item>
-    <item>
-      <title>MarkdownUp - Tue Oct 20 21:48:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35318-markdownup</link>
-      <description>Convert between Markdown and Jira Wiki Markup straight from the right-click menu. Convert File — converts the file and swaps its extension. Generate New File — keeps...
-
-vendor: Rafael WMS
-downloads: 0
-pricingModel: FREE
-xmlId: com.rafaelwms.markdownup</description>
-      <pubDate>Tue, 20 Oct 2026 21:48:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35318-markdownup</guid>
-      <dc:date>2026-10-20T21:48:27Z</dc:date>
-    </item>
-    <item>
-      <title>SQL Synthetic Seeder - Tue Oct 20 17:16:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35316-sql-synthetic-seeder</link>
-      <description>SQL Synthetic Seeder Fill a table with plausible-but-validation-passing rows for manual or load testing. Enter the table name and its columns, pick a row count, and...
-
-vendor: VadimToptunov
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.vadimtoptunov.sql-seeder</description>
-      <pubDate>Tue, 20 Oct 2026 17:16:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35316-sql-synthetic-seeder</guid>
-      <dc:date>2026-10-20T17:16:29Z</dc:date>
+pricingModel: FREEMIUM
+xmlId: com.getreadystack.centos-to-almalinux-migration</description>
+      <pubDate>Thu, 22 Oct 2026 04:46:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35373-centos-to-almalinux-migration-fixer</guid>
+      <dc:date>2026-10-22T04:46:16Z</dc:date>
     </item>
   </channel>
 </rss>
