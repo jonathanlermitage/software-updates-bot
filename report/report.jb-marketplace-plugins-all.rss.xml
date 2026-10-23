@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MrScraper MCP - Thu Oct 22 07:16:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34889-mrscraper-mcp</link>
+      <description>Connect the AI agents in your JetBrains IDE to MrScraper's hosted MCP server for web scraping and Google search. Getting started Create an API key at...
+
+vendor: MrScraper
+downloads: 1
+pricingModel: FREE
+xmlId: com.mrscraper.mcp</description>
+      <pubDate>Thu, 22 Oct 2026 07:16:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34889-mrscraper-mcp</guid>
+      <dc:date>2026-10-22T07:16:44Z</dc:date>
+    </item>
+    <item>
+      <title>GrillMyCode Companion - Fri Oct 23 00:44:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35347-grillmycode-companion</link>
+      <description>The companion to the GrillMyCode GitHub Action, which writes questions about a student's code to check that they understand it. This plugin shows those questions in...
+
+vendor: GrillMyCode
+downloads: 0
+pricingModel: FREE
+xmlId: org.grillmycode.companion</description>
+      <pubDate>Fri, 23 Oct 2026 00:44:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35347-grillmycode-companion</guid>
+      <dc:date>2026-10-23T00:44:01Z</dc:date>
+    </item>
+    <item>
       <title>KMP Device Hub - Mon Oct 19 11:40:05 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35272-kmp-device-hub</link>
       <description>Every Android device, emulator and iOS simulator in one panel. Built for Kotlin Multiplatform and Compose Multiplatform developers who test on Android and iOS every...
@@ -238,32 +264,6 @@ xmlId: com.npcoding.classesfromjson</description>
       <pubDate>Wed, 14 Oct 2026 18:48:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35128-oskuvi-classes-from-json</guid>
       <dc:date>2026-10-14T18:48:41Z</dc:date>
-    </item>
-    <item>
-      <title>Oskuvi Class Diagrams - Wed Oct 14 18:48:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35127-oskuvi-class-diagrams</link>
-      <description>Oskuvi Class Diagrams draws a class diagram of the code you select and gives it to you as text you can keep: Mermaid or PlantUML. Select files, folders or packages in...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.npcoding.classdiagrams</description>
-      <pubDate>Wed, 14 Oct 2026 18:48:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35127-oskuvi-class-diagrams</guid>
-      <dc:date>2026-10-14T18:48:08Z</dc:date>
-    </item>
-    <item>
-      <title>Oskuvi DB Changelogs - Wed Oct 14 18:47:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35126-oskuvi-db-changelogs</link>
-      <description>Oskuvi DB Changelogs makes the editor read database changelog files of Liquibase: databaseChangeLog files in XML, YAML and JSON, and SQL files that begin with...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.npcoding.changelogfiles</description>
-      <pubDate>Wed, 14 Oct 2026 18:47:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35126-oskuvi-db-changelogs</guid>
-      <dc:date>2026-10-14T18:47:27Z</dc:date>
     </item>
   </channel>
 </rss>
