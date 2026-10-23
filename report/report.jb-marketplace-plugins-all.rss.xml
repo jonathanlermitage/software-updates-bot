@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>HAProxy Language Support - Mon Oct 19 06:45:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35273-haproxy-language-support</link>
+      <description>Version-aware HAProxy configuration support for JetBrains IDEs. Catch config mistakes while editing instead of when HAProxy refuses to reload. Powered by the same...
+
+vendor: GMM
+downloads: 2
+pricingModel: FREE
+xmlId: net.gmmhub.haproxy</description>
+      <pubDate>Mon, 19 Oct 2026 06:45:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35273-haproxy-language-support</guid>
+      <dc:date>2026-10-19T06:45:15Z</dc:date>
+    </item>
+    <item>
       <title>Air Pets - Fri Oct 23 13:36:33 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35390-air-pets</link>
       <description>Keep an eye on your Air agents without opening the Air tool window. Air Pets gives each session an animated companion in IntelliJ IDEA. Pets move while agents work...
@@ -136,17 +149,17 @@ xmlId: com.getreadystack.arbeitsvertrag-nachwg-check</description>
       <dc:date>2026-10-23T04:35:17Z</dc:date>
     </item>
     <item>
-      <title>ML Experiment Cockpit - Fri Oct 23 07:25:30 UTC 2026</title>
+      <title>ML Experiment Cockpit - Fri Oct 23 18:32:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35416-ml-experiment-cockpit</link>
-      <description>ML Experiment Cockpit — bring your ML experiment tracking inside the JetBrains IDE. Connects to a running MLflow Tracking Server, an Optuna Dashboard and the W&amp;amp;B...
+      <description>ML Experiment Cockpit — browse your MLflow experiments, runs, metrics and Model Registry models directly inside the JetBrains IDE. Connects to a running MLflow...
 
 vendor: Tgg Labs
 downloads: 0
 pricingModel: FREE
 xmlId: com.tgglabs.mlexp</description>
-      <pubDate>Fri, 23 Oct 2026 07:25:30 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 18:32:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35416-ml-experiment-cockpit</guid>
-      <dc:date>2026-10-23T07:25:30Z</dc:date>
+      <dc:date>2026-10-23T18:32:27Z</dc:date>
     </item>
     <item>
       <title>Oh My Token - Fri Oct 23 07:41:14 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.getreadystack.payment-page-script-audit</description>
       <pubDate>Thu, 22 Oct 2026 22:40:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35405-pci-dss-6-4-3-payment-page-script-inventory-auditor</guid>
       <dc:date>2026-10-22T22:40:01Z</dc:date>
-    </item>
-    <item>
-      <title>Outlook Email HTML Lint - Thu Oct 22 22:39:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35404-outlook-email-html-lint</link>
-      <description>Classic Outlook renders with the Word engine, the new Outlook with WebView2. Lint one email file against both at once, line by line, before you send. Right-click in...
-
-vendor: ReadyStack
-downloads: 0
-pricingModel: FREE
-xmlId: com.getreadystack.outlook-email-html-lint</description>
-      <pubDate>Thu, 22 Oct 2026 22:39:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35404-outlook-email-html-lint</guid>
-      <dc:date>2026-10-22T22:39:40Z</dc:date>
     </item>
   </channel>
 </rss>
