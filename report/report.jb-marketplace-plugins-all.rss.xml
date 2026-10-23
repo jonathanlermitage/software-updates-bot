@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Resource Bundle Pro - Thu Oct 22 10:10:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35382-resource-bundle-pro</link>
+      <description>Edit Java Resource Bundle translations beside their source text without leaving your IDE. Discover sibling .properties files automatically and switch between locales...
+
+vendor: meanmail.dev
+downloads: 1
+pricingModel: PAID
+xmlId: dev.meanmail.resourcebundlepro</description>
+      <pubDate>Thu, 22 Oct 2026 10:10:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35382-resource-bundle-pro</guid>
+      <dc:date>2026-10-22T10:10:47Z</dc:date>
+    </item>
+    <item>
+      <title>Pull Request Inbox for GitHub - Thu Oct 22 14:11:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35381-pull-request-inbox-for-github</link>
+      <description>Free pull request inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for GitHub: every PR waiting for your review, across repositories and organizations...
+
+vendor: Lesstep
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.lesstep.github-prs</description>
+      <pubDate>Thu, 22 Oct 2026 14:11:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35381-pull-request-inbox-for-github</guid>
+      <dc:date>2026-10-22T14:11:17Z</dc:date>
+    </item>
+    <item>
       <title>MrScraper MCP - Thu Oct 22 07:16:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34889-mrscraper-mcp</link>
       <description>Connect the AI agents in your JetBrains IDE to MrScraper's hosted MCP server for web scraping and Google search. Getting started Create an API key at...
 
 vendor: MrScraper
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.mrscraper.mcp</description>
       <pubDate>Thu, 22 Oct 2026 07:16:44 GMT</pubDate>
@@ -24,7 +50,7 @@ xmlId: com.mrscraper.mcp</description>
       <description>The companion to the GrillMyCode GitHub Action, which writes questions about a student's code to check that they understand it. This plugin shows those questions in...
 
 vendor: GrillMyCode
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: org.grillmycode.companion</description>
       <pubDate>Fri, 23 Oct 2026 00:44:01 GMT</pubDate>
@@ -32,17 +58,17 @@ xmlId: org.grillmycode.companion</description>
       <dc:date>2026-10-23T00:44:01Z</dc:date>
     </item>
     <item>
-      <title>KMP Device Hub - Mon Oct 19 11:40:05 UTC 2026</title>
+      <title>KMP Device Hub - Fri Oct 23 07:10:16 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35272-kmp-device-hub</link>
       <description>Every Android device, emulator and iOS simulator in one panel. Built for Kotlin Multiplatform and Compose Multiplatform developers who test on Android and iOS every...
 
 vendor: Muhammad Khubaib Imtiaz
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: io.github.khubaibkhan4.kmpdevicehub</description>
-      <pubDate>Mon, 19 Oct 2026 11:40:05 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 07:10:16 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35272-kmp-device-hub</guid>
-      <dc:date>2026-10-19T11:40:05Z</dc:date>
+      <dc:date>2026-10-23T07:10:16Z</dc:date>
     </item>
     <item>
       <title>KMP Dependency Hub - Fri Oct 16 07:29:26 UTC 2026</title>
@@ -50,7 +76,7 @@ xmlId: io.github.khubaibkhan4.kmpdevicehub</description>
       <description>Every Kotlin Multiplatform dependency, one click away. Browse 4,800+ KMP, Compose Multiplatform and Android libraries inside Android Studio or IntelliJ IDEA, select...
 
 vendor: Muhammad Khubaib Imtiaz
-downloads: 1
+downloads: 4
 pricingModel: FREE
 xmlId: io.github.kmphub.idea</description>
       <pubDate>Fri, 16 Oct 2026 07:29:26 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: io.github.kmphub.idea</description>
       <description>Gardera Security Jetbrains IDE Extension Application Security at your fingertips: code scanning (SAST), dependency and secrets scanning that run as you work. Interact...
 
 vendor: Gardera Security
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.gardera.jetbrains</description>
       <pubDate>Fri, 16 Oct 2026 19:08:31 GMT</pubDate>
@@ -76,7 +102,7 @@ xmlId: com.gardera.jetbrains</description>
       <description>Convert Postman Collection v2.0 and v2.1 files into IntelliJ IDEA HTTP Client requests. Free: analyze the complete collection offline, normalize v2.0/v2.1 input...
 
 vendor: Shadowmoon6868
-downloads: 1
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: dev.valtools.postman.migration</description>
       <pubDate>Mon, 19 Oct 2026 00:21:22 GMT</pubDate>
@@ -89,7 +115,7 @@ xmlId: dev.valtools.postman.migration</description>
       <description>Inspect Java application logging paths for sensitive data. Local analysis with explicit evidence and sanitized reports; no compliance guarantee.
 
 vendor: AFK Mesh
-downloads: 0
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.log-guard-compliance</description>
       <pubDate>Wed, 21 Oct 2026 19:31:42 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: com.afkmesh.log-guard-compliance</description>
       <description>Completes, links and checks Eloquent model attribute names in Laravel admin panel resources. Built for Filament 4 and 5 panels in PhpStorm. Completion of model...
 
 vendor: Creet
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: in.creet.resourcelens</description>
       <pubDate>Wed, 21 Oct 2026 20:33:01 GMT</pubDate>
@@ -115,7 +141,7 @@ xmlId: in.creet.resourcelens</description>
       <description>Nexora The AI that transforms your code — right inside your JetBrains IDE Nexora is also available as a command-line interface (nexora), with the same agent...
 
 vendor: Nexora
-downloads: 13
+downloads: 25
 pricingModel: FREE
 xmlId: com.nexora.nexoraintellijextension</description>
       <pubDate>Thu, 22 Oct 2026 10:09:17 GMT</pubDate>
@@ -123,30 +149,30 @@ xmlId: com.nexora.nexoraintellijextension</description>
       <dc:date>2026-10-22T10:09:17Z</dc:date>
     </item>
     <item>
-      <title>Pipeline Inbox for GitHub Actions Workflows - Thu Oct 22 21:52:39 UTC 2026</title>
+      <title>Pipeline Inbox for GitHub Actions Workflows - Fri Oct 23 07:31:46 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions-workflows</link>
       <description>Free workflow run inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for GitHub Actions: runs across all your repositories, jobs, steps and logs. Re-run...
 
 vendor: Lesstep
-downloads: 0
+downloads: 36
 pricingModel: FREEMIUM
 xmlId: com.lesstep.workflow-runs</description>
-      <pubDate>Thu, 22 Oct 2026 21:52:39 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 07:31:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions-workflows</guid>
-      <dc:date>2026-10-22T21:52:39Z</dc:date>
+      <dc:date>2026-10-23T07:31:46Z</dc:date>
     </item>
     <item>
-      <title>Pipeline Inbox for Jenkins - Thu Oct 22 22:24:21 UTC 2026</title>
+      <title>Pipeline Inbox for Jenkins - Fri Oct 23 07:31:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35378-pipeline-inbox-for-jenkins</link>
       <description>Free build inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for Jenkins®: the builds of your jobs and multibranch projects, Pipeline stages, failed tests and...
 
 vendor: Lesstep
-downloads: 0
+downloads: 35
 pricingModel: FREEMIUM
 xmlId: com.lesstep.jenkins-pipelines</description>
-      <pubDate>Thu, 22 Oct 2026 22:24:21 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 07:31:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35378-pipeline-inbox-for-jenkins</guid>
-      <dc:date>2026-10-22T22:24:21Z</dc:date>
+      <dc:date>2026-10-23T07:31:03Z</dc:date>
     </item>
     <item>
       <title>Arko - Thu Oct 22 08:25:35 UTC 2026</title>
@@ -154,7 +180,7 @@ xmlId: com.lesstep.jenkins-pipelines</description>
       <description>Arko brings DevSecOps reasoning into your IDE. Multi-layer AI validates and strengthens traditional SAST, IaC and SCA — findings land in your editor as you work, and...
 
 vendor: Arko
-downloads: 1
+downloads: 12
 pricingModel: FREE
 xmlId: io.devsecai.arko</description>
       <pubDate>Thu, 22 Oct 2026 08:25:35 GMT</pubDate>
@@ -162,43 +188,43 @@ xmlId: io.devsecai.arko</description>
       <dc:date>2026-10-22T08:25:35Z</dc:date>
     </item>
     <item>
-      <title>KMP Translations Hub - Thu Oct 22 07:16:50 UTC 2026</title>
+      <title>KMP Translations Hub - Fri Oct 23 05:10:19 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35376-kmp-translations-hub</link>
       <description>Every translation of your Compose Multiplatform app in one table, and only what changed gets translated. Free: A Translations tab on every composeResources/values… XML...
 
 vendor: Muhammad Khubaib Imtiaz
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: io.github.khubaibkhan4.kmptranslationshub</description>
-      <pubDate>Thu, 22 Oct 2026 07:16:50 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 05:10:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35376-kmp-translations-hub</guid>
-      <dc:date>2026-10-22T07:16:50Z</dc:date>
+      <dc:date>2026-10-23T05:10:19Z</dc:date>
     </item>
     <item>
-      <title>Oskuvi Server Launcher - Wed Oct 14 18:53:20 UTC 2026</title>
+      <title>Oskuvi Server Launcher - Fri Oct 23 07:30:12 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35134-oskuvi-server-launcher</link>
       <description>Run and debug a web application on your own WildFly® application server, from a run configuration, in the free edition of the editor as well as the paid one. Your...
 
 vendor: Oskuvi
-downloads: 1
+downloads: 6
 pricingModel: FREEMIUM
 xmlId: com.npcoding.serverlauncher</description>
-      <pubDate>Wed, 14 Oct 2026 18:53:20 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 07:30:12 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35134-oskuvi-server-launcher</guid>
-      <dc:date>2026-10-14T18:53:20Z</dc:date>
+      <dc:date>2026-10-23T07:30:12Z</dc:date>
     </item>
     <item>
-      <title>Oskuvi Runner for Jetty - Wed Oct 14 18:52:47 UTC 2026</title>
+      <title>Oskuvi Runner for Jetty - Fri Oct 23 07:30:11 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35133-oskuvi-runner-for-jetty</link>
       <description>Run and debug a web application on your own Eclipse Jetty, from a run configuration, in the free edition of the editor as well as the paid one. Jetty 12, 11 and 10...
 
 vendor: Oskuvi
-downloads: 1
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.npcoding.runnerforjetty</description>
-      <pubDate>Wed, 14 Oct 2026 18:52:47 GMT</pubDate>
+      <pubDate>Fri, 23 Oct 2026 07:30:11 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35133-oskuvi-runner-for-jetty</guid>
-      <dc:date>2026-10-14T18:52:47Z</dc:date>
+      <dc:date>2026-10-23T07:30:11Z</dc:date>
     </item>
     <item>
       <title>Oskuvi Flow for Git - Wed Oct 14 18:52:16 UTC 2026</title>
@@ -206,7 +232,7 @@ xmlId: com.npcoding.runnerforjetty</description>
       <description>Oskuvi Flow for Git puts the steps of the git-flow branching model into the Git™ menu of the editor: start and finish a feature, a release and a hotfix, each with one...
 
 vendor: Oskuvi
-downloads: 1
+downloads: 6
 pricingModel: FREEMIUM
 xmlId: com.npcoding.flowforgit</description>
       <pubDate>Wed, 14 Oct 2026 18:52:16 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: com.npcoding.flowforgit</description>
       <description>Oskuvi Coordination Browser lets you look into an Apache ZooKeeper ensemble without leaving the editor: the tree of nodes, the data each one holds and its state, and...
 
 vendor: Oskuvi
-downloads: 1
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.npcoding.coordinationbrowser</description>
       <pubDate>Wed, 14 Oct 2026 18:51:18 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: com.npcoding.coordinationbrowser</description>
       <description>Oskuvi Code Metrics measures the Java code you select and shows where it has grown hard to follow: per method, per class and per package. Select files, folders or...
 
 vendor: Oskuvi
-downloads: 1
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.npcoding.codemetrics</description>
       <pubDate>Wed, 14 Oct 2026 18:49:47 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35130-oskuvi-code-metrics</guid>
       <dc:date>2026-10-14T18:49:47Z</dc:date>
-    </item>
-    <item>
-      <title>Oskuvi JSON from Classes - Wed Oct 14 18:49:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35129-oskuvi-json-from-classes</link>
-      <description>Oskuvi JSON from Classes writes a sample JSON for a Java class: a value for every field, by its type. For a request body in a test, an example in the documentation, or...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.npcoding.jsonfromclasses</description>
-      <pubDate>Wed, 14 Oct 2026 18:49:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35129-oskuvi-json-from-classes</guid>
-      <dc:date>2026-10-14T18:49:14Z</dc:date>
-    </item>
-    <item>
-      <title>Oskuvi Classes from JSON - Wed Oct 14 18:48:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35128-oskuvi-classes-from-json</link>
-      <description>Oskuvi Classes from JSON writes the Java classes that fit a JSON text: paste a sample, see the classes, press Create. Right-click a package in the Project view and...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.npcoding.classesfromjson</description>
-      <pubDate>Wed, 14 Oct 2026 18:48:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35128-oskuvi-classes-from-json</guid>
-      <dc:date>2026-10-14T18:48:41Z</dc:date>
     </item>
   </channel>
 </rss>
