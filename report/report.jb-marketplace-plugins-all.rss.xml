@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Resource Bundle Pro - Thu Oct 22 10:10:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35382-resource-bundle-pro</link>
-      <description>Edit Java Resource Bundle translations beside their source text without leaving your IDE. Discover sibling .properties files automatically and switch between locales...
+      <title>Air Pets - Fri Oct 23 13:36:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35390-air-pets</link>
+      <description>Keep an eye on your Air agents without opening the Air tool window. Air Pets gives each session an animated companion in IntelliJ IDEA. Pets move while agents work...
 
-vendor: meanmail.dev
-downloads: 1
-pricingModel: PAID
-xmlId: dev.meanmail.resourcebundlepro</description>
-      <pubDate>Thu, 22 Oct 2026 10:10:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35382-resource-bundle-pro</guid>
-      <dc:date>2026-10-22T10:10:47Z</dc:date>
+vendor: Jakub Chrzanowski
+downloads: 0
+pricingModel: FREE
+xmlId: info.chrzanowski.intellij-air-pets</description>
+      <pubDate>Fri, 23 Oct 2026 13:36:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35390-air-pets</guid>
+      <dc:date>2026-10-23T13:36:33Z</dc:date>
     </item>
     <item>
-      <title>Pull Request Inbox for GitHub - Thu Oct 22 14:11:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35381-pull-request-inbox-for-github</link>
-      <description>Free pull request inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for GitHub: every PR waiting for your review, across repositories and organizations...
+      <title>NetRexx - Fri Oct 23 12:08:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35312-netrexx</link>
+      <description>NetRexx Plugin Written in NetRexx for NetRexx. Language Server Protocol (LSP) Functionality The Language Server handles any .nrx file as NetRexx source code. It...
 
-vendor: Lesstep
+vendor: MRE
+downloads: 0
+pricingModel: FREE
+xmlId: org.netrexx.lsp4nrx</description>
+      <pubDate>Fri, 23 Oct 2026 12:08:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35312-netrexx</guid>
+      <dc:date>2026-10-23T12:08:43Z</dc:date>
+    </item>
+    <item>
+      <title>Chrome DevTools Connect - Fri Oct 23 11:23:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35419-chrome-devtools-connect</link>
+      <description>Adds the chrome-devtools-cli skill to coding agents so they can test and debug web apps in Chrome. In Air, use the @Chrome alias in your prompt to invoke this skill...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.chromeConnect</description>
+      <pubDate>Fri, 23 Oct 2026 11:23:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35419-chrome-devtools-connect</guid>
+      <dc:date>2026-10-23T11:23:50Z</dc:date>
+    </item>
+    <item>
+      <title>Local S3 - Fri Oct 23 08:48:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35345-local-s3</link>
+      <description>JetBrains Local S3 Plugin adds S3 capabilities to JetBrains IDEs, so you can test against an S3 service quickly during development. After a project is opened, an S3...
+
+vendor: linux_china
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.linuxchina.locals3</description>
+      <pubDate>Fri, 23 Oct 2026 08:48:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35345-local-s3</guid>
+      <dc:date>2026-10-23T08:48:28Z</dc:date>
+    </item>
+    <item>
+      <title>DownTheRabbitHole - Sat Oct 17 11:36:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35217-downtherabbithole</link>
+      <description>Explore and maintain RabbitMQ queues and streams from IntelliJ IDEA. Browse connections, virtual hosts, queues, and streams with message counts. Create and delete...
+
+vendor: nitro8985
+downloads: 4
+pricingModel: PAID
+xmlId: com.nitro8985.DownTheRabbitHole</description>
+      <pubDate>Sat, 17 Oct 2026 11:36:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35217-downtherabbithole</guid>
+      <dc:date>2026-10-17T11:36:40Z</dc:date>
+    </item>
+    <item>
+      <title>Branch Peek - Thu Sep 10 17:51:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34060-branch-peek</link>
+      <description>Branch Peek is an IntelliJ IDEA plugin that provides a vertical, Commit-tool-window style panel docked on the left to visually peek and review all unpushed commits on...
+
+vendor: Mohamed Shemees
+downloads: 9
+pricingModel: FREE
+xmlId: com.branchpeek</description>
+      <pubDate>Thu, 10 Sep 2026 17:51:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34060-branch-peek</guid>
+      <dc:date>2026-09-10T17:51:20Z</dc:date>
+    </item>
+    <item>
+      <title>LanqiaoiLearning - Fri Oct 23 07:48:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35305-lanqiaoilearning</link>
+      <description>Lanqiao iLearning tracks active coding time and syncs it to the Lanqiao learning platform.记录活跃编码时间，支持蓝桥云课账号登录、状态栏展示和定时提醒。.
+
+vendor: 蓝桥云课
+downloads: 1
+pricingModel: FREE
+xmlId: com.lanqiao.LanQiaoiLearning.id</description>
+      <pubDate>Fri, 23 Oct 2026 07:48:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35305-lanqiaoilearning</guid>
+      <dc:date>2026-10-23T07:48:12Z</dc:date>
+    </item>
+    <item>
+      <title>Neo4j to ArangoDB Migration - End-of-Life Check - Fri Oct 23 04:16:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35410-neo4j-to-arangodb-migration--end-of-life-check</link>
+      <description>Every Neo4j tie in your project, each with its end-of-life date and the line that replaces it. Neo4j's monthly release lines lose support when the next one ships...
+
+vendor: ReadyStack
 downloads: 0
 pricingModel: FREEMIUM
-xmlId: com.lesstep.github-prs</description>
-      <pubDate>Thu, 22 Oct 2026 14:11:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35381-pull-request-inbox-for-github</guid>
-      <dc:date>2026-10-22T14:11:17Z</dc:date>
+xmlId: com.getreadystack.neo4j-to-arangodb-migration</description>
+      <pubDate>Fri, 23 Oct 2026 04:16:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35410-neo4j-to-arangodb-migration--end-of-life-check</guid>
+      <dc:date>2026-10-23T04:16:13Z</dc:date>
     </item>
     <item>
-      <title>MrScraper MCP - Thu Oct 22 07:16:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34889-mrscraper-mcp</link>
-      <description>Connect the AI agents in your JetBrains IDE to MrScraper's hosted MCP server for web scraping and Google search. Getting started Create an API key at...
+      <title>Redis to Valkey Migration Fixer (ElastiCache) - Fri Oct 23 04:25:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35411-redis-to-valkey-migration-fixer-elasticache-</link>
+      <description>Still on ElastiCache Redis OSS 4 or 5? Since 2026-02-01 AWS bills every such node an 80% Extended Support premium (160% from 2028-02-01); Redis OSS 6 joins on...
 
-vendor: MrScraper
-downloads: 3
-pricingModel: FREE
-xmlId: com.mrscraper.mcp</description>
-      <pubDate>Thu, 22 Oct 2026 07:16:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34889-mrscraper-mcp</guid>
-      <dc:date>2026-10-22T07:16:44Z</dc:date>
-    </item>
-    <item>
-      <title>GrillMyCode Companion - Fri Oct 23 00:44:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35347-grillmycode-companion</link>
-      <description>The companion to the GrillMyCode GitHub Action, which writes questions about a student's code to check that they understand it. This plugin shows those questions in...
-
-vendor: GrillMyCode
-downloads: 1
-pricingModel: FREE
-xmlId: org.grillmycode.companion</description>
-      <pubDate>Fri, 23 Oct 2026 00:44:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35347-grillmycode-companion</guid>
-      <dc:date>2026-10-23T00:44:01Z</dc:date>
-    </item>
-    <item>
-      <title>KMP Device Hub - Fri Oct 23 07:10:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35272-kmp-device-hub</link>
-      <description>Every Android device, emulator and iOS simulator in one panel. Built for Kotlin Multiplatform and Compose Multiplatform developers who test on Android and iOS every...
-
-vendor: Muhammad Khubaib Imtiaz
-downloads: 5
-pricingModel: FREE
-xmlId: io.github.khubaibkhan4.kmpdevicehub</description>
-      <pubDate>Fri, 23 Oct 2026 07:10:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35272-kmp-device-hub</guid>
-      <dc:date>2026-10-23T07:10:16Z</dc:date>
-    </item>
-    <item>
-      <title>KMP Dependency Hub - Fri Oct 16 07:29:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35177-kmp-dependency-hub</link>
-      <description>Every Kotlin Multiplatform dependency, one click away. Browse 4,800+ KMP, Compose Multiplatform and Android libraries inside Android Studio or IntelliJ IDEA, select...
-
-vendor: Muhammad Khubaib Imtiaz
-downloads: 4
-pricingModel: FREE
-xmlId: io.github.kmphub.idea</description>
-      <pubDate>Fri, 16 Oct 2026 07:29:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35177-kmp-dependency-hub</guid>
-      <dc:date>2026-10-16T07:29:26Z</dc:date>
-    </item>
-    <item>
-      <title>Gardera Security - Fri Oct 16 19:08:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35196-gardera-security</link>
-      <description>Gardera Security Jetbrains IDE Extension Application Security at your fingertips: code scanning (SAST), dependency and secrets scanning that run as you work. Interact...
-
-vendor: Gardera Security
-downloads: 5
-pricingModel: FREE
-xmlId: com.gardera.jetbrains</description>
-      <pubDate>Fri, 16 Oct 2026 19:08:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35196-gardera-security</guid>
-      <dc:date>2026-10-16T19:08:31Z</dc:date>
-    </item>
-    <item>
-      <title>Postman Migration Assistant - Mon Oct 19 00:21:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35268-postman-migration-assistant</link>
-      <description>Convert Postman Collection v2.0 and v2.1 files into IntelliJ IDEA HTTP Client requests. Free: analyze the complete collection offline, normalize v2.0/v2.1 input...
-
-vendor: Shadowmoon6868
-downloads: 5
+vendor: ReadyStack
+downloads: 0
 pricingModel: FREEMIUM
-xmlId: dev.valtools.postman.migration</description>
-      <pubDate>Mon, 19 Oct 2026 00:21:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35268-postman-migration-assistant</guid>
-      <dc:date>2026-10-19T00:21:22Z</dc:date>
+xmlId: com.getreadystack.valkey-migration-check</description>
+      <pubDate>Fri, 23 Oct 2026 04:25:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35411-redis-to-valkey-migration-fixer-elasticache-</guid>
+      <dc:date>2026-10-23T04:25:11Z</dc:date>
     </item>
     <item>
-      <title>LogGuard Compliance - Wed Oct 21 19:31:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35356-logguard-compliance</link>
-      <description>Inspect Java application logging paths for sensitive data. Local analysis with explicit evidence and sanitized reports; no compliance guarantee.
+      <title>Arbeitsvertrag NachwG Check: German Employment Contract Lint - Fri Oct 23 04:35:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35412-arbeitsvertrag-nachwg-check-german-employment-contract-lint</link>
+      <description>Your German employment contract template (Arbeitsvertrag / Nachweis), checked line by line against §2 NachwG. Since 1 August 2022 the Nachweisgesetz requires the...
 
-vendor: AFK Mesh
-downloads: 4
+vendor: ReadyStack
+downloads: 0
 pricingModel: FREEMIUM
-xmlId: com.afkmesh.log-guard-compliance</description>
-      <pubDate>Wed, 21 Oct 2026 19:31:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35356-logguard-compliance</guid>
-      <dc:date>2026-10-21T19:31:42Z</dc:date>
+xmlId: com.getreadystack.arbeitsvertrag-nachwg-check</description>
+      <pubDate>Fri, 23 Oct 2026 04:35:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35412-arbeitsvertrag-nachwg-check-german-employment-contract-lint</guid>
+      <dc:date>2026-10-23T04:35:17Z</dc:date>
     </item>
     <item>
-      <title>Resource Lens - Wed Oct 21 20:33:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35358-resource-lens</link>
-      <description>Completes, links and checks Eloquent model attribute names in Laravel admin panel resources. Built for Filament 4 and 5 panels in PhpStorm. Completion of model...
+      <title>ML Experiment Cockpit - Fri Oct 23 07:25:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35416-ml-experiment-cockpit</link>
+      <description>ML Experiment Cockpit — bring your ML experiment tracking inside the JetBrains IDE. Connects to a running MLflow Tracking Server, an Optuna Dashboard and the W&amp;amp;B...
 
-vendor: Creet
-downloads: 4
+vendor: Tgg Labs
+downloads: 0
 pricingModel: FREE
-xmlId: in.creet.resourcelens</description>
-      <pubDate>Wed, 21 Oct 2026 20:33:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35358-resource-lens</guid>
-      <dc:date>2026-10-21T20:33:01Z</dc:date>
+xmlId: com.tgglabs.mlexp</description>
+      <pubDate>Fri, 23 Oct 2026 07:25:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35416-ml-experiment-cockpit</guid>
+      <dc:date>2026-10-23T07:25:30Z</dc:date>
     </item>
     <item>
-      <title>Nexora - Thu Oct 22 10:09:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34609-nexora</link>
-      <description>Nexora The AI that transforms your code — right inside your JetBrains IDE Nexora is also available as a command-line interface (nexora), with the same agent...
+      <title>Oh My Token - Fri Oct 23 07:41:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35414-oh-my-token</link>
+      <description>Real-time Claude Code token usage in the status bar: output rate (tok/s), accumulated usage, 5-hour window quota, and session context usage. 在状态栏实时显示 Claude Code 的...
 
-vendor: Nexora
-downloads: 25
+vendor: YFMaple
+downloads: 0
 pricingModel: FREE
-xmlId: com.nexora.nexoraintellijextension</description>
-      <pubDate>Thu, 22 Oct 2026 10:09:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34609-nexora</guid>
-      <dc:date>2026-10-22T10:09:17Z</dc:date>
+xmlId: com.ohmytoken</description>
+      <pubDate>Fri, 23 Oct 2026 07:41:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35414-oh-my-token</guid>
+      <dc:date>2026-10-23T07:41:14Z</dc:date>
     </item>
     <item>
-      <title>Pipeline Inbox for GitHub Actions Workflows - Fri Oct 23 07:31:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions-workflows</link>
-      <description>Free workflow run inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for GitHub Actions: runs across all your repositories, jobs, steps and logs. Re-run...
+      <title>Agent Overwrite Grader - Fri Oct 23 05:44:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35413-agent-overwrite-grader</link>
+      <description>Did two of your coding agents write the same file within the hour? Open the repository and run Tools | Grade Agent Overwrites. It reads the project's local git log for...
 
-vendor: Lesstep
-downloads: 36
-pricingModel: FREEMIUM
-xmlId: com.lesstep.workflow-runs</description>
-      <pubDate>Fri, 23 Oct 2026 07:31:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35379-pipeline-inbox-for-github-actions-workflows</guid>
-      <dc:date>2026-10-23T07:31:46Z</dc:date>
-    </item>
-    <item>
-      <title>Pipeline Inbox for Jenkins - Fri Oct 23 07:31:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35378-pipeline-inbox-for-jenkins</link>
-      <description>Free build inbox in IntelliJ IDEA, PyCharm, WebStorm, Rider and more, for Jenkins®: the builds of your jobs and multibranch projects, Pipeline stages, failed tests and...
-
-vendor: Lesstep
-downloads: 35
-pricingModel: FREEMIUM
-xmlId: com.lesstep.jenkins-pipelines</description>
-      <pubDate>Fri, 23 Oct 2026 07:31:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35378-pipeline-inbox-for-jenkins</guid>
-      <dc:date>2026-10-23T07:31:03Z</dc:date>
-    </item>
-    <item>
-      <title>Arko - Thu Oct 22 08:25:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33593-arko</link>
-      <description>Arko brings DevSecOps reasoning into your IDE. Multi-layer AI validates and strengthens traditional SAST, IaC and SCA — findings land in your editor as you work, and...
-
-vendor: Arko
-downloads: 12
+vendor: memento Team
+downloads: 0
 pricingModel: FREE
-xmlId: io.devsecai.arko</description>
-      <pubDate>Thu, 22 Oct 2026 08:25:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33593-arko</guid>
-      <dc:date>2026-10-22T08:25:35Z</dc:date>
+xmlId: team.memento.agentoverwritegrader</description>
+      <pubDate>Fri, 23 Oct 2026 05:44:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35413-agent-overwrite-grader</guid>
+      <dc:date>2026-10-23T05:44:31Z</dc:date>
     </item>
     <item>
-      <title>KMP Translations Hub - Fri Oct 23 05:10:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35376-kmp-translations-hub</link>
-      <description>Every translation of your Compose Multiplatform app in one table, and only what changed gets translated. Free: A Translations tab on every composeResources/values… XML...
+      <title>DSH Bridge - Fri Oct 23 12:30:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35409-dsh-bridge</link>
+      <description>Send selected code, file references and console log from IntelliJ IDEA into a running DeepSeek Harness (DSH) session — and jump back from DSH to the exact file and...
 
-vendor: Muhammad Khubaib Imtiaz
-downloads: 12
+vendor: SNOWO
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.khubaibkhan4.kmptranslationshub</description>
-      <pubDate>Fri, 23 Oct 2026 05:10:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35376-kmp-translations-hub</guid>
-      <dc:date>2026-10-23T05:10:19Z</dc:date>
+xmlId: com.hellocta.dshbridge</description>
+      <pubDate>Fri, 23 Oct 2026 12:30:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35409-dsh-bridge</guid>
+      <dc:date>2026-10-23T12:30:58Z</dc:date>
     </item>
     <item>
-      <title>Oskuvi Server Launcher - Fri Oct 23 07:30:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35134-oskuvi-server-launcher</link>
-      <description>Run and debug a web application on your own WildFly® application server, from a run configuration, in the free edition of the editor as well as the paid one. Your...
+      <title>jmini - Fri Oct 23 01:58:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35408-jmini</link>
+      <description>jmini sends selected code and customizable prompts from your IDE to an existing Codex or Claude Code session in tmux. Explain code, review potential issues, or ask for...
 
-vendor: Oskuvi
-downloads: 6
-pricingModel: FREEMIUM
-xmlId: com.npcoding.serverlauncher</description>
-      <pubDate>Fri, 23 Oct 2026 07:30:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35134-oskuvi-server-launcher</guid>
-      <dc:date>2026-10-23T07:30:12Z</dc:date>
+vendor: jmini
+downloads: 0
+pricingModel: FREE
+xmlId: dev.codepeek</description>
+      <pubDate>Fri, 23 Oct 2026 01:58:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35408-jmini</guid>
+      <dc:date>2026-10-23T01:58:06Z</dc:date>
     </item>
     <item>
-      <title>Oskuvi Runner for Jetty - Fri Oct 23 07:30:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35133-oskuvi-runner-for-jetty</link>
-      <description>Run and debug a web application on your own Eclipse Jetty, from a run configuration, in the free edition of the editor as well as the paid one. Jetty 12, 11 and 10...
+      <title>Clotr - Fri Oct 23 01:57:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35407-clotr</link>
+      <description>Clotr checks your code and the text you copy for passwords, API keys, tokens and personal details before an AI assistant can read them. Everything runs inside the IDE...
 
-vendor: Oskuvi
-downloads: 5
-pricingModel: FREEMIUM
-xmlId: com.npcoding.runnerforjetty</description>
-      <pubDate>Fri, 23 Oct 2026 07:30:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35133-oskuvi-runner-for-jetty</guid>
-      <dc:date>2026-10-23T07:30:11Z</dc:date>
+vendor: Clotr
+downloads: 0
+pricingModel: FREE
+xmlId: app.clotr.jetbrains</description>
+      <pubDate>Fri, 23 Oct 2026 01:57:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35407-clotr</guid>
+      <dc:date>2026-10-23T01:57:35Z</dc:date>
     </item>
     <item>
-      <title>Oskuvi Flow for Git - Wed Oct 14 18:52:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35132-oskuvi-flow-for-git</link>
-      <description>Oskuvi Flow for Git puts the steps of the git-flow branching model into the Git™ menu of the editor: start and finish a feature, a release and a hotfix, each with one...
+      <title>OTel Collector Drift Lint - Thu Oct 22 22:39:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35403-otel-collector-drift-lint</link>
+      <description>Finds the removed components and renamed attributes in an OpenTelemetry Collector config before the upgrade does Right-click in the editor (or Tools) → OTel Collector...
 
-vendor: Oskuvi
-downloads: 6
-pricingModel: FREEMIUM
-xmlId: com.npcoding.flowforgit</description>
-      <pubDate>Wed, 14 Oct 2026 18:52:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35132-oskuvi-flow-for-git</guid>
-      <dc:date>2026-10-14T18:52:16Z</dc:date>
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.otel-collector-drift-lint</description>
+      <pubDate>Thu, 22 Oct 2026 22:39:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35403-otel-collector-drift-lint</guid>
+      <dc:date>2026-10-22T22:39:19Z</dc:date>
     </item>
     <item>
-      <title>Oskuvi Coordination Browser - Wed Oct 14 18:51:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35131-oskuvi-coordination-browser</link>
-      <description>Oskuvi Coordination Browser lets you look into an Apache ZooKeeper ensemble without leaving the editor: the tree of nodes, the data each one holds and its state, and...
+      <title>HitLens - Fri Oct 23 07:41:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35406-hitlens</link>
+      <description>See which Unreal Engine C++ code runs, live, right in the editor. Press Play in Unreal and the file you have open lights up: every function, or every line, that runs...
 
-vendor: Oskuvi
-downloads: 5
-pricingModel: FREEMIUM
-xmlId: com.npcoding.coordinationbrowser</description>
-      <pubDate>Wed, 14 Oct 2026 18:51:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35131-oskuvi-coordination-browser</guid>
-      <dc:date>2026-10-14T18:51:18Z</dc:date>
+vendor: eiTey
+downloads: 0
+pricingModel: FREE
+xmlId: com.eitey.hitlens</description>
+      <pubDate>Fri, 23 Oct 2026 07:41:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35406-hitlens</guid>
+      <dc:date>2026-10-23T07:41:03Z</dc:date>
     </item>
     <item>
-      <title>Oskuvi Code Metrics - Wed Oct 14 18:49:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35130-oskuvi-code-metrics</link>
-      <description>Oskuvi Code Metrics measures the Java code you select and shows where it has grown hard to follow: per method, per class and per package. Select files, folders or...
+      <title>PCI DSS 6.4.3 Payment Page Script Inventory Auditor - Thu Oct 22 22:40:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35405-pci-dss-6-4-3-payment-page-script-inventory-auditor</link>
+      <description>Lists every script on your checkout page that has no integrity hash, no authorisation and no written justification - the three things PCI DSS 6.4.3 has required since...
 
-vendor: Oskuvi
-downloads: 5
-pricingModel: FREEMIUM
-xmlId: com.npcoding.codemetrics</description>
-      <pubDate>Wed, 14 Oct 2026 18:49:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35130-oskuvi-code-metrics</guid>
-      <dc:date>2026-10-14T18:49:47Z</dc:date>
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.payment-page-script-audit</description>
+      <pubDate>Thu, 22 Oct 2026 22:40:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35405-pci-dss-6-4-3-payment-page-script-inventory-auditor</guid>
+      <dc:date>2026-10-22T22:40:01Z</dc:date>
+    </item>
+    <item>
+      <title>Outlook Email HTML Lint - Thu Oct 22 22:39:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35404-outlook-email-html-lint</link>
+      <description>Classic Outlook renders with the Word engine, the new Outlook with WebView2. Lint one email file against both at once, line by line, before you send. Right-click in...
+
+vendor: ReadyStack
+downloads: 0
+pricingModel: FREE
+xmlId: com.getreadystack.outlook-email-html-lint</description>
+      <pubDate>Thu, 22 Oct 2026 22:39:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35404-outlook-email-html-lint</guid>
+      <dc:date>2026-10-22T22:39:40Z</dc:date>
     </item>
   </channel>
 </rss>
