@@ -11,7 +11,7 @@
       <description>Version-aware HAProxy configuration support for JetBrains IDEs. Catch config mistakes while editing instead of when HAProxy refuses to reload. Powered by the same...
 
 vendor: GMM
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: net.gmmhub.haproxy</description>
       <pubDate>Mon, 19 Oct 2026 06:45:15 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: net.gmmhub.haproxy</description>
       <description>Keep an eye on your Air agents without opening the Air tool window. Air Pets gives each session an animated companion in IntelliJ IDEA. Pets move while agents work...
 
 vendor: Jakub Chrzanowski
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: info.chrzanowski.intellij-air-pets</description>
       <pubDate>Fri, 23 Oct 2026 13:36:33 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: info.chrzanowski.intellij-air-pets</description>
       <description>NetRexx Plugin Written in NetRexx for NetRexx. Language Server Protocol (LSP) Functionality The Language Server handles any .nrx file as NetRexx source code. It...
 
 vendor: MRE
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: org.netrexx.lsp4nrx</description>
       <pubDate>Fri, 23 Oct 2026 12:08:43 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: org.netrexx.lsp4nrx</description>
       <description>Adds the chrome-devtools-cli skill to coding agents so they can test and debug web apps in Chrome. In Air, use the @Chrome alias in your prompt to invoke this skill...
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.intellij.chromeConnect</description>
       <pubDate>Fri, 23 Oct 2026 11:23:50 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.intellij.chromeConnect</description>
       <description>JetBrains Local S3 Plugin adds S3 capabilities to JetBrains IDEs, so you can test against an S3 service quickly during development. After a project is opened, an S3...
 
 vendor: linux_china
-downloads: 1
+downloads: 5
 pricingModel: FREE
 xmlId: com.github.linuxchina.locals3</description>
       <pubDate>Fri, 23 Oct 2026 08:48:28 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.github.linuxchina.locals3</description>
       <description>Explore and maintain RabbitMQ queues and streams from IntelliJ IDEA. Browse connections, virtual hosts, queues, and streams with message counts. Create and delete...
 
 vendor: nitro8985
-downloads: 4
+downloads: 9
 pricingModel: PAID
 xmlId: com.nitro8985.DownTheRabbitHole</description>
       <pubDate>Sat, 17 Oct 2026 11:36:40 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: com.nitro8985.DownTheRabbitHole</description>
       <description>Branch Peek is an IntelliJ IDEA plugin that provides a vertical, Commit-tool-window style panel docked on the left to visually peek and review all unpushed commits on...
 
 vendor: Mohamed Shemees
-downloads: 9
+downloads: 12
 pricingModel: FREE
 xmlId: com.branchpeek</description>
       <pubDate>Thu, 10 Sep 2026 17:51:20 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.branchpeek</description>
       <description>Lanqiao iLearning tracks active coding time and syncs it to the Lanqiao learning platform.记录活跃编码时间，支持蓝桥云课账号登录、状态栏展示和定时提醒。.
 
 vendor: 蓝桥云课
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: com.lanqiao.LanQiaoiLearning.id</description>
       <pubDate>Fri, 23 Oct 2026 07:48:12 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.lanqiao.LanQiaoiLearning.id</description>
       <description>Every Neo4j tie in your project, each with its end-of-life date and the line that replaces it. Neo4j's monthly release lines lose support when the next one ships...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.getreadystack.neo4j-to-arangodb-migration</description>
       <pubDate>Fri, 23 Oct 2026 04:16:13 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: com.getreadystack.neo4j-to-arangodb-migration</description>
       <description>Still on ElastiCache Redis OSS 4 or 5? Since 2026-02-01 AWS bills every such node an 80% Extended Support premium (160% from 2028-02-01); Redis OSS 6 joins on...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.getreadystack.valkey-migration-check</description>
       <pubDate>Fri, 23 Oct 2026 04:25:11 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.getreadystack.valkey-migration-check</description>
       <description>Your German employment contract template (Arbeitsvertrag / Nachweis), checked line by line against §2 NachwG. Since 1 August 2022 the Nachweisgesetz requires the...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.getreadystack.arbeitsvertrag-nachwg-check</description>
       <pubDate>Fri, 23 Oct 2026 04:35:17 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: com.getreadystack.arbeitsvertrag-nachwg-check</description>
       <description>ML Experiment Cockpit — browse your MLflow experiments, runs, metrics and Model Registry models directly inside the JetBrains IDE. Connects to a running MLflow...
 
 vendor: Tgg Labs
-downloads: 0
+downloads: 18
 pricingModel: FREE
 xmlId: com.tgglabs.mlexp</description>
       <pubDate>Fri, 23 Oct 2026 18:32:27 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.tgglabs.mlexp</description>
       <description>Real-time Claude Code token usage in the status bar: output rate (tok/s), accumulated usage, 5-hour window quota, and session context usage. 在状态栏实时显示 Claude Code 的...
 
 vendor: YFMaple
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.ohmytoken</description>
       <pubDate>Fri, 23 Oct 2026 07:41:14 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.ohmytoken</description>
       <description>Did two of your coding agents write the same file within the hour? Open the repository and run Tools | Grade Agent Overwrites. It reads the project's local git log for...
 
 vendor: memento Team
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: team.memento.agentoverwritegrader</description>
       <pubDate>Fri, 23 Oct 2026 05:44:31 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: team.memento.agentoverwritegrader</description>
       <description>Send selected code, file references and console log from IntelliJ IDEA into a running DeepSeek Harness (DSH) session — and jump back from DSH to the exact file and...
 
 vendor: SNOWO
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.hellocta.dshbridge</description>
       <pubDate>Fri, 23 Oct 2026 12:30:58 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.hellocta.dshbridge</description>
       <description>jmini sends selected code and customizable prompts from your IDE to an existing Codex or Claude Code session in tmux. Explain code, review potential issues, or ask for...
 
 vendor: jmini
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: dev.codepeek</description>
       <pubDate>Fri, 23 Oct 2026 01:58:06 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: dev.codepeek</description>
       <description>Clotr checks your code and the text you copy for passwords, API keys, tokens and personal details before an AI assistant can read them. Everything runs inside the IDE...
 
 vendor: Clotr
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: app.clotr.jetbrains</description>
       <pubDate>Fri, 23 Oct 2026 01:57:35 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: app.clotr.jetbrains</description>
       <description>Finds the removed components and renamed attributes in an OpenTelemetry Collector config before the upgrade does Right-click in the editor (or Tools) → OTel Collector...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.getreadystack.otel-collector-drift-lint</description>
       <pubDate>Thu, 22 Oct 2026 22:39:19 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.getreadystack.otel-collector-drift-lint</description>
       <description>See which Unreal Engine C++ code runs, live, right in the editor. Press Play in Unreal and the file you have open lights up: every function, or every line, that runs...
 
 vendor: eiTey
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.eitey.hitlens</description>
       <pubDate>Fri, 23 Oct 2026 07:41:03 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: com.eitey.hitlens</description>
       <description>Lists every script on your checkout page that has no integrity hash, no authorisation and no written justification - the three things PCI DSS 6.4.3 has required since...
 
 vendor: ReadyStack
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.getreadystack.payment-page-script-audit</description>
       <pubDate>Thu, 22 Oct 2026 22:40:01 GMT</pubDate>
