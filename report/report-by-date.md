@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/python.png) Python 3 windows| 3.15.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 26 09:28:15 UTC 2026|
+|![logo](../media/logo/python.png) Python 3 mac| 3.15.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 26 09:28:14 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 23 22:43:51 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.7307.44) ~ 2026-10-23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Oct 23 16:04:43 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 23 16:03:29 UTC 2026|
@@ -7,8 +9,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 21:25:11 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 16:13:49 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 08:59:38 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 windows| 3.15.1|[www.python.org](https://www.python.org/downloads/windows/)|Wed Oct 21 23:07:33 UTC 2026|
-|![logo](../media/logo/python.png) Python 3 mac| 3.15.1|[www.python.org](https://www.python.org/downloads/mac-osx/)|Wed Oct 21 23:07:32 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.12.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:07:29 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|24.22.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:07:29 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Oct 20 09:12:16 UTC 2026|
