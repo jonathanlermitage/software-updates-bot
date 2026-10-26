@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AndroidTool - Tue Oct 20 10:00:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35017-androidtool</link>
+      <description>It's a tool to help android development with general utilities eg: adb、powershell...etc. This is a personal tool.No other usage.
+
+vendor: Android Tools
+downloads: 4
+pricingModel: FREE
+xmlId: com.android.AndroidTool</description>
+      <pubDate>Tue, 20 Oct 2026 10:00:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35017-androidtool</guid>
+      <dc:date>2026-10-20T10:00:57Z</dc:date>
+    </item>
+    <item>
+      <title>Reqnroll Extension (Preview) - Sun Oct 25 16:25:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35337-reqnroll-extension-preview-</link>
+      <description>Gherkin and Reqnroll support for Rider: syntax highlighting, navigation, completion, diagnostics and more for your .feature files and the C# step definitions behind...
+
+vendor: Reqnroll
+downloads: 4
+pricingModel: FREE
+xmlId: net.reqnroll.idesupport</description>
+      <pubDate>Sun, 25 Oct 2026 16:25:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35337-reqnroll-extension-preview-</guid>
+      <dc:date>2026-10-25T16:25:27Z</dc:date>
+    </item>
+    <item>
       <title>HAProxy Language Support - Mon Oct 19 06:45:15 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35273-haproxy-language-support</link>
       <description>Version-aware HAProxy configuration support for JetBrains IDEs. Catch config mistakes while editing instead of when HAProxy refuses to reload. Powered by the same...
@@ -238,32 +264,6 @@ xmlId: com.getreadystack.otel-collector-drift-lint</description>
       <pubDate>Thu, 22 Oct 2026 22:39:19 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35403-otel-collector-drift-lint</guid>
       <dc:date>2026-10-22T22:39:19Z</dc:date>
-    </item>
-    <item>
-      <title>HitLens - Fri Oct 23 07:41:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35406-hitlens</link>
-      <description>See which Unreal Engine C++ code runs, live, right in the editor. Press Play in Unreal and the file you have open lights up: every function, or every line, that runs...
-
-vendor: eiTey
-downloads: 11
-pricingModel: FREE
-xmlId: com.eitey.hitlens</description>
-      <pubDate>Fri, 23 Oct 2026 07:41:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35406-hitlens</guid>
-      <dc:date>2026-10-23T07:41:03Z</dc:date>
-    </item>
-    <item>
-      <title>PCI DSS 6.4.3 Payment Page Script Inventory Auditor - Thu Oct 22 22:40:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35405-pci-dss-6-4-3-payment-page-script-inventory-auditor</link>
-      <description>Lists every script on your checkout page that has no integrity hash, no authorisation and no written justification - the three things PCI DSS 6.4.3 has required since...
-
-vendor: ReadyStack
-downloads: 8
-pricingModel: FREE
-xmlId: com.getreadystack.payment-page-script-audit</description>
-      <pubDate>Thu, 22 Oct 2026 22:40:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35405-pci-dss-6-4-3-payment-page-script-inventory-auditor</guid>
-      <dc:date>2026-10-22T22:40:01Z</dc:date>
     </item>
   </channel>
 </rss>
