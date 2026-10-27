@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Lucee CFML - Mon Oct 26 01:43:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35485-lucee-cfml</link>
+      <description>Plugin for the Lucee CFML runtime that helps developers build ColdFusion based applications. Compatible with Lucee, Adobe ColdFusion and BoxLang based engines...
+
+vendor: Nick Kwiatkowski
+downloads: 2
+pricingModel: FREE
+xmlId: com.quetwo.IntelliLucee</description>
+      <pubDate>Mon, 26 Oct 2026 01:43:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35485-lucee-cfml</guid>
+      <dc:date>2026-10-26T01:43:39Z</dc:date>
+    </item>
+    <item>
       <title>GroupedTabs - Thu Oct 22 10:44:24 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35377-groupedtabs</link>
       <description>GroupedTabs lists the open editors of the current Rider solution or IntelliJ IDEA project in a tool window named Tabs. Files are grouped by project, or by module when...
@@ -175,7 +188,7 @@ xmlId: com.chiretallyn.theme.contrast</description>
       <dc:date>2026-10-24T10:16:59Z</dc:date>
     </item>
     <item>
-      <title>Path Reference (Path:Line) - Tue Oct 27 06:54:33 UTC 2026</title>
+      <title>Path Reference (Path:Line) - Tue Oct 27 07:04:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35487-path-reference-path-line-</link>
       <description>English Copy a code reference in the form @path/to/File.php:42 or @path/to/File.php:42-57, using a path relative to the project root. Select a block of code and invoke...
 
@@ -183,9 +196,9 @@ vendor: yzkos
 downloads: 9
 pricingModel: FREE
 xmlId: com.github.yzkos.pathreference</description>
-      <pubDate>Tue, 27 Oct 2026 06:54:33 GMT</pubDate>
+      <pubDate>Tue, 27 Oct 2026 07:04:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35487-path-reference-path-line-</guid>
-      <dc:date>2026-10-27T06:54:33Z</dc:date>
+      <dc:date>2026-10-27T07:04:53Z</dc:date>
     </item>
     <item>
       <title>ISPA Grammar - Sun Oct 25 23:38:16 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: dev.zjjxwhh.colorful-brackets</description>
       <pubDate>Sun, 25 Oct 2026 06:41:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35460-colorful-brackets</guid>
       <dc:date>2026-10-25T06:41:07Z</dc:date>
-    </item>
-    <item>
-      <title>LiveWatcher - Mon Oct 26 12:39:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35455-livewatcher</link>
-      <description>Follow local file changes in IntelliJ IDEA with automatic opening, temporary highlights and a compact project timeline. Start, Stop, filters, focus preservation and...
-
-vendor: Hugo Dutra
-downloads: 44
-pricingModel: FREE
-xmlId: dev.livewatcher</description>
-      <pubDate>Mon, 26 Oct 2026 12:39:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35455-livewatcher</guid>
-      <dc:date>2026-10-26T12:39:18Z</dc:date>
     </item>
   </channel>
 </rss>
