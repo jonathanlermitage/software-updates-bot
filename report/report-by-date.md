@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 28 17:35:59 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS Current|26.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 28 17:35:59 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 28 17:34:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Oct 26 17:49:22 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 26 09:28:15 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.15.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 26 09:28:14 UTC 2026|
@@ -10,8 +13,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 21:25:11 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 16:13:49 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 08:59:38 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|26.12.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:07:29 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.22.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:07:29 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Oct 20 09:12:16 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.3|[golang.org](https://golang.org/dl/)|Tue Oct 20 02:29:37 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.8.2|[gradle.org](https://gradle.org/releases)|Mon Oct 19 23:12:03 UTC 2026|
@@ -28,7 +29,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Aug 24 12:23:34 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Aug 24 12:23:33 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.12.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Aug 21 12:22:26 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:13:57 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|

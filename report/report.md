@@ -5,7 +5,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Aug 25 16:22:34 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:24 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 21:25:11 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 19 20:13:57 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 28 17:34:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Aug 24 12:23:34 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 16:13:49 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 23 16:03:29 UTC 2026|
@@ -25,8 +25,8 @@
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.5 to 20.1.0 ~ 2026-10-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Oct 18 18:35:02 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Oct 20 09:12:16 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|26.12.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:07:29 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|24.22.1|[nodejs.org](https://nodejs.org)|Wed Oct 21 23:07:29 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS Current|26.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 28 17:35:59 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 28 17:35:59 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
