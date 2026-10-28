@@ -1,7 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 28 17:35:59 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|26.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 28 17:35:59 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 28 17:35:59 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 28 17:34:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Oct 26 17:49:22 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 26 09:28:15 UTC 2026|
