@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>QuickQuestion for Claude - Mon Oct 26 22:48:50 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35528-quickquestion-for-claude</link>
-      <description>Ask Claude a quick question about a selected code in a popup without polluting your Claude session history. Ask Claude from the floating code toolbar, the editor...
+      <title>MaaPipeline JSON Execution Lens - Wed Oct 28 13:57:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35574-maapipeline-json-execution-lens</link>
+      <description>MaaPipeline JSON Execution Lens helps you read, inspect and edit MaaFramework Pipeline JSON/JSONC in IntelliJ IDEA. 在 IntelliJ IDEA 中阅读和编辑 MaaFramework Pipeline...
 
-vendor: Rishi
+vendor: LinTx
 downloads: 1
 pricingModel: FREE
-xmlId: io.github.invariantnode.quickquestion</description>
-      <pubDate>Mon, 26 Oct 2026 22:48:50 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35528-quickquestion-for-claude</guid>
-      <dc:date>2026-10-26T22:48:50Z</dc:date>
+xmlId: org.lintx.maapipeline.executionlens</description>
+      <pubDate>Wed, 28 Oct 2026 13:57:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35574-maapipeline-json-execution-lens</guid>
+      <dc:date>2026-10-28T13:57:13Z</dc:date>
     </item>
     <item>
-      <title>CommitWise - Wed Oct 28 02:23:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35543-commitwise</link>
-      <description>CommitWise reads the staged Git diff and writes a well-formed commit message with your own LLM, then reviews the change and marks issues on exact lines. Keys stay in...
-
-vendor: miaoshamm
-downloads: 0
-pricingModel: FREE
-xmlId: com.commitwise.idea</description>
-      <pubDate>Wed, 28 Oct 2026 02:23:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35543-commitwise</guid>
-      <dc:date>2026-10-28T02:23:51Z</dc:date>
-    </item>
-    <item>
-      <title>Nim Pro - Tue Oct 27 08:53:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35539-nim-pro</link>
-      <description>Nim Pro brings Nim development into your JetBrains IDE: edit and navigate code, refactor connected declarations and callers, manage Nimble packages, run individual...
-
-vendor: Jetplugins
-downloads: 1
-pricingModel: PAID
-xmlId: dev.jetplugins.nim</description>
-      <pubDate>Tue, 27 Oct 2026 08:53:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35539-nim-pro</guid>
-      <dc:date>2026-10-27T08:53:52Z</dc:date>
-    </item>
-    <item>
-      <title>Moyu Collection - Tue Oct 27 07:00:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35540-moyu-collection</link>
-      <description>Play Gomoku, Doudizhu and Texas Holdem with friends in an editor block inlay. 代码数组摸鱼合集：五子棋、支持机器人补位的斗地主、支持胜率模拟机器人的四色德州，支持私有手牌、房间邀请、手动显隐和断线恢复；集成小说书架、TXT导入、章节导航及本地阅读进度。.
-
-vendor: ZhuGeTian
-downloads: 0
-pricingModel: FREE
-xmlId: dev.gomoku.inlay</description>
-      <pubDate>Tue, 27 Oct 2026 07:00:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35540-moyu-collection</guid>
-      <dc:date>2026-10-27T07:00:17Z</dc:date>
-    </item>
-    <item>
-      <title>Legado - Tue Oct 27 01:17:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35535-legado</link>
-      <description>Read novels from your Legado Web server in the IDE, including the bookshelf, chapters, and reading progress. 在 Settings → Tools → Legado 中填写阅读 Web 的服务器地址和 API Key（我的...
-
-vendor: kuku
-downloads: 1
-pricingModel: FREE
-xmlId: me.kuku.legado</description>
-      <pubDate>Tue, 27 Oct 2026 01:17:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35535-legado</guid>
-      <dc:date>2026-10-27T01:17:31Z</dc:date>
-    </item>
-    <item>
-      <title>EventPulse - Mon Oct 26 21:47:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35531-eventpulse</link>
-      <description>EventPulse is a local message test studio for Java teams using IntelliJ IDEA. Generate an editable synthetic JSON sample from a selected DTO, @KafkaListener, or...
-
-vendor: AFK Mesh
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.afkmesh.eventpulse</description>
-      <pubDate>Mon, 26 Oct 2026 21:47:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35531-eventpulse</guid>
-      <dc:date>2026-10-26T21:47:21Z</dc:date>
-    </item>
-    <item>
-      <title>TraceLens - Wed Oct 28 02:42:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35534-tracelens</link>
-      <description>A fast, offline-first log viewer for IntelliJ IDEA. Open .log and .out files in the ANSI-aware TraceLens editor, or load .txt files in the dedicated tool window...
-
-vendor: Trace lens
-downloads: 1
-pricingModel: FREE
-xmlId: cl.glign.tracelens</description>
-      <pubDate>Wed, 28 Oct 2026 02:42:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35534-tracelens</guid>
-      <dc:date>2026-10-28T02:42:55Z</dc:date>
-    </item>
-    <item>
-      <title>Cron Editor Pro - Wed Oct 28 17:15:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35533-cron-editor-pro</link>
-      <description>Cron Editor Pro Type a cron expression and see — in plain English — exactly what it does and when it fires next. No scheduler, no network, fully offline. For anyone...
+      <title>JSON to Model Pro - Wed Oct 28 12:23:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35584-json-to-model-pro</link>
+      <description>JSON to Model Pro Paste a JSON sample and get typed model classes — starting with Kotlin data classes. Fully offline: a real JSON parser and type inference run inside...
 
 vendor: VadimToptunov
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.vadimtoptunov.json-model</description>
+      <pubDate>Wed, 28 Oct 2026 12:23:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35584-json-to-model-pro</guid>
+      <dc:date>2026-10-28T12:23:17Z</dc:date>
+    </item>
+    <item>
+      <title>DeepSeek Coder. - Wed Oct 28 12:04:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35583-deepseek-coder-</link>
+      <description>DeepSeek Coder. is an AI-driven coding assistant plugin powered by advanced large language models such as DeepSeek. It helps developers write, review, and optimize...
+
+vendor: AquaNest
+downloads: 0
+pricingModel: FREE
+xmlId: org.simple.web.assist</description>
+      <pubDate>Wed, 28 Oct 2026 12:04:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35583-deepseek-coder-</guid>
+      <dc:date>2026-10-28T12:04:12Z</dc:date>
+    </item>
+    <item>
+      <title>Quantum 3 File Templates - Wed Oct 28 11:46:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35581-quantum-3-file-templates</link>
+      <description>New-file templates for Photon Quantum 3Components (.qtn), Systems, Commands, Assets, EntityView scripts and Input scripts. Right-click a folder and choose New &amp;gt...
+
+vendor: Tom Jackson
+downloads: 0
+pricingModel: FREE
+xmlId: com.quantumtemplates</description>
+      <pubDate>Wed, 28 Oct 2026 11:46:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35581-quantum-3-file-templates</guid>
+      <dc:date>2026-10-28T11:46:02Z</dc:date>
+    </item>
+    <item>
+      <title>Editor Tab Groups - Wed Oct 28 10:54:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35580-editor-tab-groups</link>
+      <description>Group editor tabs into named, colored groups that you can collapse and expand right in the tab bar, the way tab groups work in web browsers. Right-click a tab and...
+
+vendor: harissabil
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.harissabil.editortabgroups</description>
+      <pubDate>Wed, 28 Oct 2026 10:54:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35580-editor-tab-groups</guid>
+      <dc:date>2026-10-28T10:54:23Z</dc:date>
+    </item>
+    <item>
+      <title>WLZN OSS Browser - Wed Oct 28 08:34:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35579-wlzn-oss-browser</link>
+      <description>Browse and manage Alibaba Cloud OSS and Amazon S3 without leaving IntelliJ IDEA. WLZN OSS Browser brings bucket navigation, file transfers and everyday object...
+
+vendor: HWL
+downloads: 0
+pricingModel: FREE
+xmlId: com.wlzn.oss-browser</description>
+      <pubDate>Wed, 28 Oct 2026 08:34:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35579-wlzn-oss-browser</guid>
+      <dc:date>2026-10-28T08:34:38Z</dc:date>
+    </item>
+    <item>
+      <title>Maven Center Search - Wed Oct 28 08:24:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35578-maven-center-search</link>
+      <description>Search Maven Central without leaving the IDE. Type an artifact name, pick a version, copy the dependency snippet. No browser, no window switching. Popup search over...
+
+vendor: hughedward
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.hughedward.mavencentersearch</description>
+      <pubDate>Wed, 28 Oct 2026 08:24:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35578-maven-center-search</guid>
+      <dc:date>2026-10-28T08:24:15Z</dc:date>
+    </item>
+    <item>
+      <title>PyProjectHub - Wed Oct 28 08:07:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35577-pyprojecthub</link>
+      <description>PyProjectHub lets you browse, search and filter your Python projects and workspaces from the IDE Welcome screen, using the metadata in each project's pyproject.toml...
+
+vendor: Vedran Hrabar
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.vhrabar.pyprojecthub</description>
+      <pubDate>Wed, 28 Oct 2026 08:07:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35577-pyprojecthub</guid>
+      <dc:date>2026-10-28T08:07:18Z</dc:date>
+    </item>
+    <item>
+      <title>Shan HLSL - Wed Oct 28 08:03:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35576-shan-hlsl</link>
+      <description>Shan HLSL adds HLSL language services to JetBrains IDEs, powered by Tim Jones' open-source HlslTools engine. Semantic completion for shader symbols, struct members and...
+
+vendor: ShanFlyer
+downloads: 0
+pricingModel: FREE
+xmlId: dev.shanflyer.hlsl</description>
+      <pubDate>Wed, 28 Oct 2026 08:03:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35576-shan-hlsl</guid>
+      <dc:date>2026-10-28T08:03:28Z</dc:date>
+    </item>
+    <item>
+      <title>Shan GLSL - Wed Oct 28 08:03:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35575-shan-glsl</link>
+      <description>Shan GLSL brings GLSL editing and local shader diagnostics to JetBrains IDEs. Syntax highlighting with configurable GLSL keyword, built-in function and variable...
+
+vendor: ShanFlyer
+downloads: 0
+pricingModel: FREE
+xmlId: dev.shanflyer.glsl</description>
+      <pubDate>Wed, 28 Oct 2026 08:03:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35575-shan-glsl</guid>
+      <dc:date>2026-10-28T08:03:19Z</dc:date>
+    </item>
+    <item>
+      <title>Plagx Writing Companion - Wed Oct 28 06:56:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35573-plagx-writing-companion</link>
+      <description>Free academic writing checks for essays, theses and papers written in Markdown, plain text or LaTeX: citations and reference lists, BibTeX files, word limits, basic...
+
+vendor: Plagiarism Checker X
+downloads: 0
+pricingModel: FREE
+xmlId: com.plagiarismcheckerx.plagx-writing-companion</description>
+      <pubDate>Wed, 28 Oct 2026 06:56:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35573-plagx-writing-companion</guid>
+      <dc:date>2026-10-28T06:56:32Z</dc:date>
+    </item>
+    <item>
+      <title>DotEnv Switcher by Kurtis Klay - Wed Oct 28 02:28:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35568-dotenv-switcher-by-kurtis-klay</link>
+      <description>Switch between multiple .env files in one click, see every secret masked, and diff two profiles side by side before you activate one. EnvSwitch adds a tool window that...
+
+vendor: Kurtis Klay
 downloads: 1
 pricingModel: FREE
-xmlId: io.github.vadimtoptunov.cron-editor</description>
-      <pubDate>Wed, 28 Oct 2026 17:15:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35533-cron-editor-pro</guid>
-      <dc:date>2026-10-28T17:15:28Z</dc:date>
+xmlId: dev.kurtisklay.envswitch</description>
+      <pubDate>Wed, 28 Oct 2026 02:28:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35568-dotenv-switcher-by-kurtis-klay</guid>
+      <dc:date>2026-10-28T02:28:25Z</dc:date>
     </item>
     <item>
-      <title>CAD DSL - Wed Oct 28 00:13:59 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35532-cad-dsl</link>
-      <description>Writes and previews the scripts of the Groovy CAD DSL of cad-builder: completion of the scripts, with the imports the DSL adds to them when it runs them; a CAD Script...
+      <title>mousechannelVide - Wed Oct 28 01:44:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35566-mousechannelvide</link>
+      <description>Neovide-inspired elastic cursor animation with bounded repaint regions and idle-stop scheduling.
 
-vendor: Taack
+vendor: mousechannel
+downloads: 1
+pricingModel: FREE
+xmlId: dev.neovidecaret</description>
+      <pubDate>Wed, 28 Oct 2026 01:44:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35566-mousechannelvide</guid>
+      <dc:date>2026-10-28T01:44:07Z</dc:date>
+    </item>
+    <item>
+      <title>Saarthi AI - Tue Oct 27 07:36:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35542-saarthi-ai</link>
+      <description>Copilot-style coding assistant that runs entirely on your Mac, backed by a local Ollama: ghost-text inline completions (including notebook cells) and an agent chat...
+
+vendor: DST
 downloads: 2
 pricingModel: FREE
-xmlId: org.taack.cad.dsl</description>
-      <pubDate>Wed, 28 Oct 2026 00:13:59 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35532-cad-dsl</guid>
-      <dc:date>2026-10-28T00:13:59Z</dc:date>
+xmlId: site.primelab.saarthi</description>
+      <pubDate>Tue, 27 Oct 2026 07:36:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35542-saarthi-ai</guid>
+      <dc:date>2026-10-27T07:36:15Z</dc:date>
     </item>
     <item>
-      <title>TerraCost Inline - Mon Oct 26 21:44:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35530-terracost-inline</link>
-      <description>Local Terraform/OpenTofu AWS cost estimates with explicit coverage and price provenance. Free list-price estimates; licensed Pro deltas and reports.
+      <title>Analytics Viewer For Firebase - Thu Oct 29 08:53:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35564-analytics-viewer-for-firebase</link>
+      <description>View Firebase Analytics events and user properties from a connected Android device or emulator in real time, directly inside the IDE. Events are read from logcat...
 
-vendor: AFK Mesh
+vendor: BadCompanyDevz
+downloads: 5
+pricingModel: FREE
+xmlId: com.badcompanydevz.AnalyticsViewer</description>
+      <pubDate>Thu, 29 Oct 2026 08:53:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35564-analytics-viewer-for-firebase</guid>
+      <dc:date>2026-10-29T08:53:44Z</dc:date>
+    </item>
+    <item>
+      <title>Claude Code Model Switch - Tue Oct 27 21:50:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35561-claude-code-model-switch</link>
+      <description>Switch the Claude Code environment between Anthropic-compatible API providers and models from the status bar. Presets (base URL, models, API token) are written into...
+
+vendor: mikrop
+downloads: 1
+pricingModel: FREE
+xmlId: com.github.mikrop.intellijccmodelswitch</description>
+      <pubDate>Tue, 27 Oct 2026 21:50:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35561-claude-code-model-switch</guid>
+      <dc:date>2026-10-27T21:50:01Z</dc:date>
+    </item>
+    <item>
+      <title>Pipeline Inbox for Bitbucket Pipelines - Thu Oct 29 08:50:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35558-pipeline-inbox-for-bitbucket-pipelines</link>
+      <description>Bitbucket Cloud only (Data Center has no Pipelines). A free inbox for Bitbucket Pipelines in IntelliJ IDEA, PyCharm, WebStorm, Rider and more: pipelines across your...
+
+vendor: Lesstep
 downloads: 1
 pricingModel: FREEMIUM
-xmlId: com.afkmesh.terracostinline</description>
-      <pubDate>Mon, 26 Oct 2026 21:44:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35530-terracost-inline</guid>
-      <dc:date>2026-10-26T21:44:13Z</dc:date>
+xmlId: com.lesstep.bitbucket-pipelines</description>
+      <pubDate>Thu, 29 Oct 2026 08:50:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35558-pipeline-inbox-for-bitbucket-pipelines</guid>
+      <dc:date>2026-10-29T08:50:19Z</dc:date>
     </item>
     <item>
-      <title>NPCoding Health Messages - Mon Oct 26 21:01:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35529-npcoding-health-messages</link>
-      <description>NPCoding Health Messages makes IntelliJ IDEA, PyCharm and the other JetBrains IDEs (2025.1 and newer) read HL7® Version 2 (HL7 V2) message files, .hl7 and .hl7v2...
+      <title>Marekov Easy Commit - Tue Oct 27 20:59:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35560-marekov-easy-commit</link>
+      <description>Generates a commit message for your changes with a single click, using Claude through the Claude Code command line tool and your own Claude subscription. How to use...
 
-vendor: Oskuvi
-downloads: 1
-pricingModel: PAID
-xmlId: com.npcoding.healthmessages</description>
-      <pubDate>Mon, 26 Oct 2026 21:01:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35529-npcoding-health-messages</guid>
-      <dc:date>2026-10-26T21:01:41Z</dc:date>
-    </item>
-    <item>
-      <title>NPCoding Datapack Functions - Mon Oct 26 21:00:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35527-npcoding-datapack-functions</link>
-      <description>NPCoding Datapack Functions makes IntelliJ IDEA, PyCharm and the other JetBrains IDEs (2025.1 and newer) read the files of Minecraft: Java Edition data packs...
-
-vendor: Oskuvi
-downloads: 2
-pricingModel: PAID
-xmlId: com.npcoding.datapackfunctions</description>
-      <pubDate>Mon, 26 Oct 2026 21:00:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35527-npcoding-datapack-functions</guid>
-      <dc:date>2026-10-26T21:00:51Z</dc:date>
-    </item>
-    <item>
-      <title>NPCoding Security Policy Files - Mon Oct 26 21:00:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35526-npcoding-security-policy-files</link>
-      <description>NPCoding Security Policy Files makes IntelliJ IDEA, CLion, PyCharm and the other JetBrains IDEs (2025.1 and newer) read SELinux policy sources: reference-policy...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: PAID
-xmlId: com.npcoding.securitypolicy</description>
-      <pubDate>Mon, 26 Oct 2026 21:00:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35526-npcoding-security-policy-files</guid>
-      <dc:date>2026-10-26T21:00:14Z</dc:date>
-    </item>
-    <item>
-      <title>NPCoding CLI Parse Templates - Mon Oct 26 20:59:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35525-npcoding-cli-parse-templates</link>
-      <description>NPCoding CLI Parse Templates makes IntelliJ IDEA, PyCharm and the other JetBrains IDEs (2025.1 and newer) read TextFSM templates (.textfsm): the templates that turn...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: PAID
-xmlId: com.npcoding.cliparsetemplates</description>
-      <pubDate>Mon, 26 Oct 2026 20:59:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35525-npcoding-cli-parse-templates</guid>
-      <dc:date>2026-10-26T20:59:15Z</dc:date>
-    </item>
-    <item>
-      <title>NPCoding Registry Files - Mon Oct 26 20:58:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35524-npcoding-registry-files</link>
-      <description>NPCoding Registry Files makes IntelliJ IDEA, PyCharm and the other JetBrains IDEs (2025.1 and newer) read registration entries: the .reg files that the registry editor...
-
-vendor: Oskuvi
-downloads: 2
-pricingModel: PAID
-xmlId: com.npcoding.registryfiles</description>
-      <pubDate>Mon, 26 Oct 2026 20:58:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35524-npcoding-registry-files</guid>
-      <dc:date>2026-10-26T20:58:29Z</dc:date>
-    </item>
-    <item>
-      <title>NPCoding Installer Scripts - Mon Oct 26 20:57:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35523-npcoding-installer-scripts</link>
-      <description>NPCoding Installer Scripts makes IntelliJ IDEA, PyCharm, CLion and the other JetBrains IDEs (2025.1 and newer) read the scripts of NSIS, the Nullsoft Scriptable...
-
-vendor: Oskuvi
-downloads: 2
-pricingModel: PAID
-xmlId: com.npcoding.installerscripts</description>
-      <pubDate>Mon, 26 Oct 2026 20:57:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35523-npcoding-installer-scripts</guid>
-      <dc:date>2026-10-26T20:57:45Z</dc:date>
-    </item>
-    <item>
-      <title>NPCoding Compiler IR Files - Mon Oct 26 20:41:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35522-npcoding-compiler-ir-files</link>
-      <description>NPCoding Compiler IR Files makes IntelliJ IDEA, CLion, PyCharm and the other JetBrains IDEs (2025.1 and newer) read the textual intermediate representation of...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: PAID
-xmlId: com.npcoding.compilerirfiles</description>
-      <pubDate>Mon, 26 Oct 2026 20:41:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35522-npcoding-compiler-ir-files</guid>
-      <dc:date>2026-10-26T20:41:51Z</dc:date>
-    </item>
-    <item>
-      <title>NPCoding Support for ASN.1 - Mon Oct 26 20:41:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35521-npcoding-support-for-asn-1</link>
-      <description>NPCoding Support for ASN.1 makes IntelliJ IDEA, PyCharm and the other JetBrains IDEs (2025.1 and newer) read ASN.1 modules (.asn, .asn1): the notation of ITU-T X.680...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: PAID
-xmlId: com.npcoding.asn1support</description>
-      <pubDate>Mon, 26 Oct 2026 20:41:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35521-npcoding-support-for-asn-1</guid>
-      <dc:date>2026-10-26T20:41:13Z</dc:date>
-    </item>
-    <item>
-      <title>NPCoding MDC Rule Files - Mon Oct 26 20:30:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35517-npcoding-mdc-rule-files</link>
-      <description>NPCoding MDC Rule Files makes IntelliJ IDEA, PyCharm and the other JetBrains IDEs (2025.1 and newer) read the rule files of AI coding assistants: .mdc rule files, as...
-
-vendor: Oskuvi
-downloads: 1
-pricingModel: PAID
-xmlId: com.npcoding.mdcrules</description>
-      <pubDate>Mon, 26 Oct 2026 20:30:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35517-npcoding-mdc-rule-files</guid>
-      <dc:date>2026-10-26T20:30:48Z</dc:date>
-    </item>
-    <item>
-      <title>LO-TEK Interfaces - Mon Oct 26 20:05:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35516-lo-tek-interfaces</link>
-      <description>Completion and diagnostics for the LO-TEK design system in HTML, including HTML injected into a string. The web-types.json file shipped with @lo-tek/interfaces already...
-
-vendor: MarkusAugust
+vendor: Marek Rucki
 downloads: 2
 pricingModel: FREE
-xmlId: no.lotek</description>
-      <pubDate>Mon, 26 Oct 2026 20:05:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35516-lo-tek-interfaces</guid>
-      <dc:date>2026-10-26T20:05:21Z</dc:date>
+xmlId: sk.rucki.easycommit</description>
+      <pubDate>Tue, 27 Oct 2026 20:59:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35560-marekov-easy-commit</guid>
+      <dc:date>2026-10-27T20:59:10Z</dc:date>
+    </item>
+    <item>
+      <title>T3 Code Tool Window - Wed Oct 28 15:07:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35559-t3-code-tool-window</link>
+      <description>Embeds the T3 Code web UI in a tool window so you can drive your agents without leaving the IDE. Unofficial; not affiliated with T3 Tools Inc. Loads your local T3 Code...
+
+vendor: Daniel Dent
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.danddanddand.t3code</description>
+      <pubDate>Wed, 28 Oct 2026 15:07:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35559-t3-code-tool-window</guid>
+      <dc:date>2026-10-28T15:07:33Z</dc:date>
+    </item>
+    <item>
+      <title>Amper Tasks - Tue Oct 27 20:13:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35557-amper-tasks</link>
+      <description>Native Gradle-style Task Tool Window for Kotlin Amper Amper Tasks brings the familiar, convenient sidebar experience to Kotlin Amper projects in IntelliJ IDEA. Key...
+
+vendor: mallumo
+downloads: 1
+pricingModel: FREE
+xmlId: tk.mallumo.amper.tasks</description>
+      <pubDate>Tue, 27 Oct 2026 20:13:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35557-amper-tasks</guid>
+      <dc:date>2026-10-27T20:13:08Z</dc:date>
     </item>
   </channel>
 </rss>
