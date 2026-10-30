@@ -5,5 +5,31 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>Eclipse Interoperability - Fri Oct 30 07:47:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33375-eclipse-interoperability</link>
+      <description>Enables interoperability with Eclipse and provides the following features: Open an Eclipse project in IntelliJ IDEA Import an Eclipse project into IntelliJ IDEA Export...
+
+vendor: JetBrains s.r.o.
+downloads: 5
+pricingModel: FREE
+xmlId: org.jetbrains.idea.eclipse</description>
+      <pubDate>Fri, 30 Oct 2026 07:47:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33375-eclipse-interoperability</guid>
+      <dc:date>2026-10-30T07:47:52Z</dc:date>
+    </item>
+    <item>
+      <title>Java IDE Customization - Fri Oct 30 07:47:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33374-java-ide-customization</link>
+      <description>Provides customization for IDEs which main language is Java (e.g., IntelliJ IDEA, Android Studio).
+
+vendor: JetBrains s.r.o.
+downloads: 4
+pricingModel: FREE
+xmlId: com.intellij.java.ide</description>
+      <pubDate>Fri, 30 Oct 2026 07:47:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33374-java-ide-customization</guid>
+      <dc:date>2026-10-30T07:47:48Z</dc:date>
+    </item>
   </channel>
 </rss>
