@@ -6,6 +6,32 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MockSnap - Thu Oct 29 13:44:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35634-mocksnap</link>
+      <description>Inspect HTTP test traffic, review sensitive-field redaction, and turn exchanges into reusable mock files for Java integration tests. Import a JSON request/response...
+
+vendor: AFK Mesh
+downloads: 5
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.mocksnap</description>
+      <pubDate>Thu, 29 Oct 2026 13:44:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35634-mocksnap</guid>
+      <dc:date>2026-10-29T13:44:34Z</dc:date>
+    </item>
+    <item>
+      <title>MCP Agent Security Auditor - Thu Oct 15 20:24:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34915-mcp-agent-security-auditor</link>
+      <description>Review Model Context Protocol (MCP) configuration risks directly in your JetBrains IDE, before connecting AI agents to development tools. Offline-first, source-line...
+
+vendor: AFK Mesh
+downloads: 5
+pricingModel: PAID
+xmlId: com.afkmesh.mcp.security.auditor</description>
+      <pubDate>Thu, 15 Oct 2026 20:24:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34915-mcp-agent-security-auditor</guid>
+      <dc:date>2026-10-15T20:24:59Z</dc:date>
+    </item>
+    <item>
       <title>Delva Tools - Thu Oct 29 22:54:23 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35644-delva-tools</link>
       <description>Tools for Delva, the embedded JSON document database for the JVM: list a project's stores on disk, see what each holds, browse and open their documents and typed...
@@ -238,32 +264,6 @@ xmlId: com.github.fnunezkanut.bbcloud</description>
       <pubDate>Fri, 30 Oct 2026 13:36:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35502-bitbucket-cloud-pr-review</guid>
       <dc:date>2026-10-30T13:36:57Z</dc:date>
-    </item>
-    <item>
-      <title>Firestore GUI for Firebase - Sat Oct 31 01:21:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35569-firestore-gui-for-firebase</link>
-      <description>A read-only Cloud Firestore viewer and browser for Firebase projects, built into your JetBrains IDE. Connect to the Firestore database with a service account JSON...
-
-vendor: wappkit Labs
-downloads: 6
-pricingModel: FREE
-xmlId: com.wappkit.firestore.gui</description>
-      <pubDate>Sat, 31 Oct 2026 01:21:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35569-firestore-gui-for-firebase</guid>
-      <dc:date>2026-10-31T01:21:18Z</dc:date>
-    </item>
-    <item>
-      <title>SinewSlim - Fri Oct 30 02:08:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35645-sinewslim</link>
-      <description>Slims Java methods that have grown past the length cap (26 code lines or more) at the seams where the least data crosses. Every method over the cap is marked on its...
-
-vendor: OfficeFloor IoCC
-downloads: 4
-pricingModel: FREE
-xmlId: net.officefloor.sinewslim</description>
-      <pubDate>Fri, 30 Oct 2026 02:08:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35645-sinewslim</guid>
-      <dc:date>2026-10-30T02:08:31Z</dc:date>
     </item>
   </channel>
 </rss>
