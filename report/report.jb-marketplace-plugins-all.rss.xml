@@ -6,12 +6,38 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Flyway Migration Guard - Wed Oct 21 23:27:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34848-flyway-migration-guard</link>
+      <description>Review PostgreSQL Flyway migrations for risky SQL before deployment. Flyway Migration Guard scans versioned SQL files on your machine and shows each finding with a...
+
+vendor: Moon Laboratories
+downloads: 11
+pricingModel: FREEMIUM
+xmlId: com.moonlaboratories.migrationguard</description>
+      <pubDate>Wed, 21 Oct 2026 23:27:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34848-flyway-migration-guard</guid>
+      <dc:date>2026-10-21T23:27:50Z</dc:date>
+    </item>
+    <item>
+      <title>AgentRules Doctor - Wed Oct 07 21:37:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34874-agentrules-doctor</link>
+      <description>Find stale references in coding-agent instructions before they mislead your agent. AgentRules Doctor scans supported instruction files in an open project. It shows...
+
+vendor: Moon Laboratories
+downloads: 5
+pricingModel: FREEMIUM
+xmlId: com.moonlaboratories.agentrulesdoctor</description>
+      <pubDate>Wed, 07 Oct 2026 21:37:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34874-agentrules-doctor</guid>
+      <dc:date>2026-10-07T21:37:38Z</dc:date>
+    </item>
+    <item>
       <title>MockSnap - Thu Oct 29 13:44:34 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35634-mocksnap</link>
       <description>Inspect HTTP test traffic, review sensitive-field redaction, and turn exchanges into reusable mock files for Java integration tests. Import a JSON request/response...
 
 vendor: AFK Mesh
-downloads: 5
+downloads: 10
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.mocksnap</description>
       <pubDate>Thu, 29 Oct 2026 13:44:34 GMT</pubDate>
@@ -24,7 +50,7 @@ xmlId: com.afkmesh.mocksnap</description>
       <description>Review Model Context Protocol (MCP) configuration risks directly in your JetBrains IDE, before connecting AI agents to development tools. Offline-first, source-line...
 
 vendor: AFK Mesh
-downloads: 5
+downloads: 7
 pricingModel: PAID
 xmlId: com.afkmesh.mcp.security.auditor</description>
       <pubDate>Thu, 15 Oct 2026 20:24:59 GMT</pubDate>
@@ -37,7 +63,7 @@ xmlId: com.afkmesh.mcp.security.auditor</description>
       <description>Tools for Delva, the embedded JSON document database for the JVM: list a project's stores on disk, see what each holds, browse and open their documents and typed...
 
 vendor: Atanas Oreshkov
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: app.oreshkov.delva</description>
       <pubDate>Thu, 29 Oct 2026 22:54:23 GMT</pubDate>
@@ -50,7 +76,7 @@ xmlId: app.oreshkov.delva</description>
       <description>A Claude Code agent pipeline inside your IDE: Claudestrator plans a task, waits for your approval, then lets agents write the code and tests in each repository, review...
 
 vendor: Yurii Bondar
-downloads: 10
+downloads: 20
 pricingModel: FREE
 xmlId: bondevn.claudestrator</description>
       <pubDate>Fri, 30 Oct 2026 13:49:45 GMT</pubDate>
@@ -63,7 +89,7 @@ xmlId: bondevn.claudestrator</description>
       <description>Collaborative coding with an AI agent, the other way round. Instead of the agent writing everything while you watch, it designs the change and writes compiling...
 
 vendor: Steve Ramage
-downloads: 14
+downloads: 24
 pricingModel: FREE
 xmlId: net.sjrx.plugins.avecmoi</description>
       <pubDate>Fri, 30 Oct 2026 13:28:17 GMT</pubDate>
@@ -71,17 +97,17 @@ xmlId: net.sjrx.plugins.avecmoi</description>
       <dc:date>2026-10-30T13:28:17Z</dc:date>
     </item>
     <item>
-      <title>Droidle - Daily Android Quiz - Fri Oct 30 13:07:50 UTC 2026</title>
+      <title>Droidle - Daily Android Quiz - Sat Oct 31 20:46:20 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35657-droidle--daily-android-quiz</link>
       <description>Start your Android dev day with a 5-question quiz — right inside Android Studio. Droidle brings a native daily Android quiz tool window to your IDE, synced seamlessly...
 
 vendor: Başar Çelebi
-downloads: 3
+downloads: 12
 pricingModel: FREE
 xmlId: app.droidle.plugin</description>
-      <pubDate>Fri, 30 Oct 2026 13:07:50 GMT</pubDate>
+      <pubDate>Sat, 31 Oct 2026 20:46:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35657-droidle--daily-android-quiz</guid>
-      <dc:date>2026-10-30T13:07:50Z</dc:date>
+      <dc:date>2026-10-31T20:46:20Z</dc:date>
     </item>
     <item>
       <title>aliyun-SLS-Log-jump - Fri Oct 30 12:50:53 UTC 2026</title>
@@ -89,7 +115,7 @@ xmlId: app.droidle.plugin</description>
       <description>View Alibaba Cloud SLS logs in your IDE and jump from Java exception stack traces to the matching source line. Query historical logs, follow live logs with pause and...
 
 vendor: zqpperry
-downloads: 1
+downloads: 12
 pricingModel: FREE
 xmlId: dev.slslogjump.public</description>
       <pubDate>Fri, 30 Oct 2026 12:50:53 GMT</pubDate>
@@ -102,7 +128,7 @@ xmlId: dev.slslogjump.public</description>
       <description>Browse and edit the SQLite databases of your Android debug app while it runs, in a tool window. I built it to add what Android Studio's Database Inspector is missing...
 
 vendor: DarAnna
-downloads: 10
+downloads: 18
 pricingModel: FREE
 xmlId: io.github.daranna.sqlitebrowser</description>
       <pubDate>Fri, 30 Oct 2026 17:02:03 GMT</pubDate>
@@ -115,7 +141,7 @@ xmlId: io.github.daranna.sqlitebrowser</description>
       <description>Live, side-by-side preview of Apache FreeMarker templates (.ftl, .ftlh, .ftlx). Split editor with the template source on the left and the rendered output on the right...
 
 vendor: Scedar Technologies Co. Limited
-downloads: 16
+downloads: 40
 pricingModel: FREE
 xmlId: ke.co.scedar.plugins.freemarker-preview</description>
       <pubDate>Fri, 30 Oct 2026 18:54:39 GMT</pubDate>
@@ -128,7 +154,7 @@ xmlId: ke.co.scedar.plugins.freemarker-preview</description>
       <description>Opens the Markdown transcript (transcript.md) of the currently visible or most recent AI chat in a configurable external editor (e.g., Typora, VS Code, Obsidian...
 
 vendor: ITSC IT Systems Consulting GmbH
-downloads: 5
+downloads: 11
 pricingModel: FREE
 xmlId: de.itscrh.tools.ideaplugin.aichatopenextern</description>
       <pubDate>Thu, 29 Oct 2026 22:47:08 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: de.itscrh.tools.ideaplugin.aichatopenextern</description>
       <description>A fast, native chat inside JetBrains IDEs that works with Claude Code. Uses your own installed claude CLI and its sign-in; Tandem never reads your credentials...
 
 vendor: DaArKo Labs
-downloads: 3
+downloads: 13
 pricingModel: FREE
 xmlId: dev.daarkolabs.tandem</description>
       <pubDate>Fri, 30 Oct 2026 12:28:58 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: dev.daarkolabs.tandem</description>
       <description>tonkane AI Code Review English Review checked pending changes or a single commit from the Git Log with any OpenAI-compatible chat API (OpenAI, DeepSeek, Qwen...
 
 vendor: tonkane
-downloads: 6
+downloads: 14
 pricingModel: FREE
 xmlId: com.aicodereview.git</description>
       <pubDate>Fri, 30 Oct 2026 10:38:56 GMT</pubDate>
@@ -167,7 +193,7 @@ xmlId: com.aicodereview.git</description>
       <description>CodeGPT: Chat &amp;amp; AI Agents CodeGPT is your AI-powered coding copilot, designed to enhance your programming workflow in your favorite JetBrains IDEs, such as...
 
 vendor: CodeGPT
-downloads: 234
+downloads: 589
 pricingModel: FREE
 xmlId: com.codegpt.CodeGPT</description>
       <pubDate>Fri, 30 Oct 2026 17:11:43 GMT</pubDate>
@@ -180,7 +206,7 @@ xmlId: com.codegpt.CodeGPT</description>
       <description>OpenQASM editing for JetBrains IDEs. Eigenon Quantum Toolkit provides the editor foundations for working with OpenQASM 2.0 and OpenQASM 3.x files: .qasm file...
 
 vendor: Eigenon
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: io.eigenon.jetbrains</description>
       <pubDate>Thu, 29 Oct 2026 18:11:49 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: io.eigenon.jetbrains</description>
       <description>Adds support for reviewing PullRequests from BitBucket. Provides the following features: List and search pull requests for the opened repo Select pull request to see...
 
 vendor: mkisd
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: com.gitlab.mkisd.revue</description>
       <pubDate>Thu, 29 Oct 2026 20:13:46 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: com.gitlab.mkisd.revue</description>
       <description>DevSnip Pro — The Ultimate Developer Productivity Toolkit Code smarter. Build faster. Ship with confidence. DevSnip Pro brings a powerful collection of developer...
 
 vendor: DevSnip Pro
-downloads: 25
+downloads: 39
 pricingModel: FREE
 xmlId: pro.devsnip.api</description>
       <pubDate>Fri, 30 Oct 2026 17:06:44 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: pro.devsnip.api</description>
       <description>Enables interoperability with Eclipse and provides the following features: Open an Eclipse project in IntelliJ IDEA Import an Eclipse project into IntelliJ IDEA Export...
 
 vendor: JetBrains s.r.o.
-downloads: 16
+downloads: 27
 pricingModel: FREE
 xmlId: org.jetbrains.idea.eclipse</description>
       <pubDate>Fri, 30 Oct 2026 07:47:52 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: org.jetbrains.idea.eclipse</description>
       <description>Provides customization for IDEs which main language is Java (e.g., IntelliJ IDEA, Android Studio).
 
 vendor: JetBrains s.r.o.
-downloads: 123037
+downloads: 207856
 pricingModel: FREE
 xmlId: com.intellij.java.ide</description>
       <pubDate>Fri, 30 Oct 2026 07:47:48 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/33374-java-ide-customization</guid>
       <dc:date>2026-10-30T07:47:48Z</dc:date>
-    </item>
-    <item>
-      <title>Syntax Eye - Fri Oct 30 02:01:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35646-syntax-eye</link>
-      <description>Lets you add a configurable syntax highlight style (Faint Text) to a list of a words you can specify. For example, in the nginx code base, there are a lot of NGX...
-
-vendor: Eric Fortis
-downloads: 3
-pricingModel: FREE
-xmlId: com.ericfortis.syntaxeye</description>
-      <pubDate>Fri, 30 Oct 2026 02:01:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35646-syntax-eye</guid>
-      <dc:date>2026-10-30T02:01:51Z</dc:date>
-    </item>
-    <item>
-      <title>Bitbucket Cloud PR Review - Fri Oct 30 13:36:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35502-bitbucket-cloud-pr-review</link>
-      <description>Atlassian Bitbucket Cloud integration for IntelliJ IDEA. Create and review pull requests in their own git work tree. Leave comments (including inline in editor...
-
-vendor: fnunezkanut
-downloads: 25
-pricingModel: FREE
-xmlId: com.github.fnunezkanut.bbcloud</description>
-      <pubDate>Fri, 30 Oct 2026 13:36:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35502-bitbucket-cloud-pr-review</guid>
-      <dc:date>2026-10-30T13:36:57Z</dc:date>
     </item>
   </channel>
 </rss>
