@@ -6,12 +6,90 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Code2Graph - Tue Oct 27 16:37:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35149-code2graph</link>
+      <description>Turn code into flowcharts — deterministically, not with AI. Code2Graph parses your source with tree-sitter (a real AST, not LLM guesses) and renders accurate...
+
+vendor: Luka
+downloads: 3
+pricingModel: FREEMIUM
+xmlId: com.luka-owo.code2graph</description>
+      <pubDate>Tue, 27 Oct 2026 16:37:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35149-code2graph</guid>
+      <dc:date>2026-10-27T16:37:35Z</dc:date>
+    </item>
+    <item>
+      <title>FixtureForge - Thu Oct 29 01:01:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35613-fixtureforge</link>
+      <description>FixtureForge turns a JSON Schema into a reproducible folder of valid and invalid JSON test fixtures, with a manifest that states the expected validity and the exact...
+
+vendor: Ouyang Matters
+downloads: 1
+pricingModel: PAID
+xmlId: io.github.ouyangmatters.fixtureforge</description>
+      <pubDate>Thu, 29 Oct 2026 01:01:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35613-fixtureforge</guid>
+      <dc:date>2026-10-29T01:01:30Z</dc:date>
+    </item>
+    <item>
+      <title>FixturePeek - Wed Oct 28 05:51:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35571-fixturepeek</link>
+      <description>Structural comparison for API test fixtures. FixturePeek compares an expected API response fixture (snapshot, golden file, recorded response) with the actual one and...
+
+vendor: Ouyang Matters
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.ouyangmatters.fixturepeek</description>
+      <pubDate>Wed, 28 Oct 2026 05:51:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35571-fixturepeek</guid>
+      <dc:date>2026-10-28T05:51:21Z</dc:date>
+    </item>
+    <item>
+      <title>Agent Tools for MCP - Fri Oct 30 17:44:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35595-agent-tools-for-mcp</link>
+      <description>Tools for AI coding agents (Claude Code, Cursor, any MCP client) in the IDE's built-in MCP server, so an agent asks the IDE instead of grepping and reading whole...
+
+vendor: theone55
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.theone55.agenttools</description>
+      <pubDate>Fri, 30 Oct 2026 17:44:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35595-agent-tools-for-mcp</guid>
+      <dc:date>2026-10-30T17:44:58Z</dc:date>
+    </item>
+    <item>
+      <title>Webixty Tasks - Mon Oct 26 19:48:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35289-webixty-tasks</link>
+      <description>Create Webixty Task Manager tasks from successful Git commits in PhpStorm. Connect your Webixty account and select a workplace and project from the Webixty Tasks tool...
+
+vendor: Webixty
+downloads: 4
+pricingModel: FREE
+xmlId: com.webixty.tasks</description>
+      <pubDate>Mon, 26 Oct 2026 19:48:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35289-webixty-tasks</guid>
+      <dc:date>2026-10-26T19:48:24Z</dc:date>
+    </item>
+    <item>
+      <title>Htaccess Lint - Fri Oct 30 13:12:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35658-htaccess-lint</link>
+      <description>Catch .htaccess mistakes before they take your site down with a 500. Htaccess Lint adds 14 inspections for .htaccess files: unknown or misplaced directives, broken...
+
+vendor: timaub
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: dev.aubourg.htaccesslint</description>
+      <pubDate>Fri, 30 Oct 2026 13:12:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35658-htaccess-lint</guid>
+      <dc:date>2026-10-30T13:12:54Z</dc:date>
+    </item>
+    <item>
       <title>Flyway Migration Guard - Wed Oct 21 23:27:50 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34848-flyway-migration-guard</link>
       <description>Review PostgreSQL Flyway migrations for risky SQL before deployment. Flyway Migration Guard scans versioned SQL files on your machine and shows each finding with a...
 
 vendor: Moon Laboratories
-downloads: 11
+downloads: 14
 pricingModel: FREEMIUM
 xmlId: com.moonlaboratories.migrationguard</description>
       <pubDate>Wed, 21 Oct 2026 23:27:50 GMT</pubDate>
@@ -24,7 +102,7 @@ xmlId: com.moonlaboratories.migrationguard</description>
       <description>Find stale references in coding-agent instructions before they mislead your agent. AgentRules Doctor scans supported instruction files in an open project. It shows...
 
 vendor: Moon Laboratories
-downloads: 5
+downloads: 7
 pricingModel: FREEMIUM
 xmlId: com.moonlaboratories.agentrulesdoctor</description>
       <pubDate>Wed, 07 Oct 2026 21:37:38 GMT</pubDate>
@@ -37,7 +115,7 @@ xmlId: com.moonlaboratories.agentrulesdoctor</description>
       <description>Inspect HTTP test traffic, review sensitive-field redaction, and turn exchanges into reusable mock files for Java integration tests. Import a JSON request/response...
 
 vendor: AFK Mesh
-downloads: 10
+downloads: 12
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.mocksnap</description>
       <pubDate>Thu, 29 Oct 2026 13:44:34 GMT</pubDate>
@@ -50,7 +128,7 @@ xmlId: com.afkmesh.mocksnap</description>
       <description>Review Model Context Protocol (MCP) configuration risks directly in your JetBrains IDE, before connecting AI agents to development tools. Offline-first, source-line...
 
 vendor: AFK Mesh
-downloads: 7
+downloads: 11
 pricingModel: PAID
 xmlId: com.afkmesh.mcp.security.auditor</description>
       <pubDate>Thu, 15 Oct 2026 20:24:59 GMT</pubDate>
@@ -71,17 +149,17 @@ xmlId: app.oreshkov.delva</description>
       <dc:date>2026-10-29T22:54:23Z</dc:date>
     </item>
     <item>
-      <title>Claudestrator - Fri Oct 30 13:49:45 UTC 2026</title>
+      <title>Claudestrator - Sun Nov 01 21:38:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35585-claudestrator</link>
       <description>A Claude Code agent pipeline inside your IDE: Claudestrator plans a task, waits for your approval, then lets agents write the code and tests in each repository, review...
 
 vendor: Yurii Bondar
-downloads: 20
+downloads: 29
 pricingModel: FREE
 xmlId: bondevn.claudestrator</description>
-      <pubDate>Fri, 30 Oct 2026 13:49:45 GMT</pubDate>
+      <pubDate>Sun, 01 Nov 2026 21:38:31 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35585-claudestrator</guid>
-      <dc:date>2026-10-30T13:49:45Z</dc:date>
+      <dc:date>2026-11-01T21:38:31Z</dc:date>
     </item>
     <item>
       <title>Avec Moi - Fri Oct 30 13:28:17 UTC 2026</title>
@@ -89,7 +167,7 @@ xmlId: bondevn.claudestrator</description>
       <description>Collaborative coding with an AI agent, the other way round. Instead of the agent writing everything while you watch, it designs the change and writes compiling...
 
 vendor: Steve Ramage
-downloads: 24
+downloads: 26
 pricingModel: FREE
 xmlId: net.sjrx.plugins.avecmoi</description>
       <pubDate>Fri, 30 Oct 2026 13:28:17 GMT</pubDate>
@@ -102,7 +180,7 @@ xmlId: net.sjrx.plugins.avecmoi</description>
       <description>Start your Android dev day with a 5-question quiz — right inside Android Studio. Droidle brings a native daily Android quiz tool window to your IDE, synced seamlessly...
 
 vendor: Başar Çelebi
-downloads: 12
+downloads: 25
 pricingModel: FREE
 xmlId: app.droidle.plugin</description>
       <pubDate>Sun, 01 Nov 2026 12:59:08 GMT</pubDate>
@@ -128,7 +206,7 @@ xmlId: dev.slslogjump.public</description>
       <description>Browse and edit the SQLite databases of your Android debug app while it runs, in a tool window. I built it to add what Android Studio's Database Inspector is missing...
 
 vendor: DarAnna
-downloads: 18
+downloads: 19
 pricingModel: FREE
 xmlId: io.github.daranna.sqlitebrowser</description>
       <pubDate>Fri, 30 Oct 2026 17:02:03 GMT</pubDate>
@@ -141,7 +219,7 @@ xmlId: io.github.daranna.sqlitebrowser</description>
       <description>Live, side-by-side preview of Apache FreeMarker templates (.ftl, .ftlh, .ftlx). Split editor with the template source on the left and the rendered output on the right...
 
 vendor: Scedar Technologies Co. Limited
-downloads: 40
+downloads: 41
 pricingModel: FREE
 xmlId: ke.co.scedar.plugins.freemarker-preview</description>
       <pubDate>Fri, 30 Oct 2026 18:54:39 GMT</pubDate>
@@ -180,90 +258,12 @@ xmlId: dev.daarkolabs.tandem</description>
       <description>tonkane AI Code Review English Review checked pending changes or a single commit from the Git Log with any OpenAI-compatible chat API (OpenAI, DeepSeek, Qwen...
 
 vendor: tonkane
-downloads: 14
+downloads: 15
 pricingModel: FREE
 xmlId: com.aicodereview.git</description>
       <pubDate>Fri, 30 Oct 2026 10:38:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35651-tonkane-ai-code-review</guid>
       <dc:date>2026-10-30T10:38:56Z</dc:date>
-    </item>
-    <item>
-      <title>CodeGPT: Chat &amp; AI Agents - Fri Oct 30 17:11:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35652-codegpt-chat--ai-agents</link>
-      <description>CodeGPT: Chat &amp;amp; AI Agents CodeGPT is your AI-powered coding copilot, designed to enhance your programming workflow in your favorite JetBrains IDEs, such as...
-
-vendor: CodeGPT
-downloads: 589
-pricingModel: FREE
-xmlId: com.codegpt.CodeGPT</description>
-      <pubDate>Fri, 30 Oct 2026 17:11:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35652-codegpt-chat--ai-agents</guid>
-      <dc:date>2026-10-30T17:11:43Z</dc:date>
-    </item>
-    <item>
-      <title>Eigenon Quantum Toolkit - Thu Oct 29 18:11:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35637-eigenon-quantum-toolkit</link>
-      <description>OpenQASM editing for JetBrains IDEs. Eigenon Quantum Toolkit provides the editor foundations for working with OpenQASM 2.0 and OpenQASM 3.x files: .qasm file...
-
-vendor: Eigenon
-downloads: 9
-pricingModel: FREE
-xmlId: io.eigenon.jetbrains</description>
-      <pubDate>Thu, 29 Oct 2026 18:11:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35637-eigenon-quantum-toolkit</guid>
-      <dc:date>2026-10-29T18:11:49Z</dc:date>
-    </item>
-    <item>
-      <title>Revue - Thu Oct 29 20:13:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35639-revue</link>
-      <description>Adds support for reviewing PullRequests from BitBucket. Provides the following features: List and search pull requests for the opened repo Select pull request to see...
-
-vendor: mkisd
-downloads: 8
-pricingModel: FREE
-xmlId: com.gitlab.mkisd.revue</description>
-      <pubDate>Thu, 29 Oct 2026 20:13:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35639-revue</guid>
-      <dc:date>2026-10-29T20:13:46Z</dc:date>
-    </item>
-    <item>
-      <title>DevSnip Pro: API Client &amp; Developer Toolkit - Fri Oct 30 17:06:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35453-devsnip-pro-api-client--developer-toolkit</link>
-      <description>DevSnip Pro — The Ultimate Developer Productivity Toolkit Code smarter. Build faster. Ship with confidence. DevSnip Pro brings a powerful collection of developer...
-
-vendor: DevSnip Pro
-downloads: 39
-pricingModel: FREE
-xmlId: pro.devsnip.api</description>
-      <pubDate>Fri, 30 Oct 2026 17:06:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35453-devsnip-pro-api-client--developer-toolkit</guid>
-      <dc:date>2026-10-30T17:06:44Z</dc:date>
-    </item>
-    <item>
-      <title>Eclipse Interoperability - Fri Oct 30 07:47:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33375-eclipse-interoperability</link>
-      <description>Enables interoperability with Eclipse and provides the following features: Open an Eclipse project in IntelliJ IDEA Import an Eclipse project into IntelliJ IDEA Export...
-
-vendor: JetBrains s.r.o.
-downloads: 27
-pricingModel: FREE
-xmlId: org.jetbrains.idea.eclipse</description>
-      <pubDate>Fri, 30 Oct 2026 07:47:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33375-eclipse-interoperability</guid>
-      <dc:date>2026-10-30T07:47:52Z</dc:date>
-    </item>
-    <item>
-      <title>Java IDE Customization - Fri Oct 30 07:47:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/33374-java-ide-customization</link>
-      <description>Provides customization for IDEs which main language is Java (e.g., IntelliJ IDEA, Android Studio).
-
-vendor: JetBrains s.r.o.
-downloads: 207856
-pricingModel: FREE
-xmlId: com.intellij.java.ide</description>
-      <pubDate>Fri, 30 Oct 2026 07:47:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/33374-java-ide-customization</guid>
-      <dc:date>2026-10-30T07:47:48Z</dc:date>
     </item>
   </channel>
 </rss>
