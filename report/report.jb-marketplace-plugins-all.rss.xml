@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>MyBatis Codegen - Sun Nov 01 06:02:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35703-mybatis-codegen</link>
+      <description>Generate MyBatis-Plus code from MySQL tables. 根据 MySQL 表生成 MyBatis-Plus 代码，包括 Entity、Mapper、Service、ServiceImpl、Controller 和 Mapper XML。表名和字段名按下划线转驼峰，模板引擎为...
+
+vendor: 老码农周SIR
+downloads: 1
+pricingModel: FREE
+xmlId: com.zhoujj.codegen</description>
+      <pubDate>Sun, 01 Nov 2026 06:02:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35703-mybatis-codegen</guid>
+      <dc:date>2026-11-01T06:02:31Z</dc:date>
+    </item>
+    <item>
+      <title>Any Player - Sat Oct 31 13:09:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35683-any-player</link>
+      <description>A video player, audio player and image viewer for your IDE. Open media from your project, a local path or a direct HTTP(S) URL. Video and audio playback with seeking...
+
+vendor: Vladislav Romanovsky
+downloads: 6
+pricingModel: FREE
+xmlId: me.romanovsky.anyplayer</description>
+      <pubDate>Sat, 31 Oct 2026 13:09:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35683-any-player</guid>
+      <dc:date>2026-10-31T13:09:38Z</dc:date>
+    </item>
+    <item>
+      <title>SecureView Password Masking - Sun Nov 01 03:16:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35696-secureview-password-masking</link>
+      <description>SecureView is an IntelliJ Platform plugin that visually masks password and secret values in editor tabs without changing file contents. Features: Automatically detects...
+
+vendor: Kannan Natarajan
+downloads: 13
+pricingModel: FREE
+xmlId: com.kannanjmc.secureview</description>
+      <pubDate>Sun, 01 Nov 2026 03:16:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35696-secureview-password-masking</guid>
+      <dc:date>2026-11-01T03:16:10Z</dc:date>
+    </item>
+    <item>
       <title>Code2Graph - Tue Oct 27 16:37:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35149-code2graph</link>
       <description>Turn code into flowcharts — deterministically, not with AI. Code2Graph parses your source with tree-sitter (a real AST, not LLM guesses) and renders accurate...
@@ -45,7 +84,7 @@ xmlId: io.github.ouyangmatters.fixturepeek</description>
       <dc:date>2026-10-28T05:51:21Z</dc:date>
     </item>
     <item>
-      <title>Agent Tools for MCP - Fri Oct 30 17:44:58 UTC 2026</title>
+      <title>Agent Tools for MCP - Mon Nov 02 08:45:56 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35595-agent-tools-for-mcp</link>
       <description>Tools for AI coding agents (Claude Code, Cursor, any MCP client) in the IDE's built-in MCP server, so an agent asks the IDE instead of grepping and reading whole...
 
@@ -53,9 +92,9 @@ vendor: theone55
 downloads: 2
 pricingModel: FREE
 xmlId: io.github.theone55.agenttools</description>
-      <pubDate>Fri, 30 Oct 2026 17:44:58 GMT</pubDate>
+      <pubDate>Mon, 02 Nov 2026 08:45:56 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35595-agent-tools-for-mcp</guid>
-      <dc:date>2026-10-30T17:44:58Z</dc:date>
+      <dc:date>2026-11-02T08:45:56Z</dc:date>
     </item>
     <item>
       <title>Webixty Tasks - Mon Oct 26 19:48:24 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: ke.co.scedar.plugins.freemarker-preview</description>
       <pubDate>Fri, 30 Oct 2026 18:54:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35649-freemarker-live-preview</guid>
       <dc:date>2026-10-30T18:54:39Z</dc:date>
-    </item>
-    <item>
-      <title>AI Chat Open External - Thu Oct 29 22:47:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35643-ai-chat-open-external</link>
-      <description>Opens the Markdown transcript (transcript.md) of the currently visible or most recent AI chat in a configurable external editor (e.g., Typora, VS Code, Obsidian...
-
-vendor: ITSC IT Systems Consulting GmbH
-downloads: 11
-pricingModel: FREE
-xmlId: de.itscrh.tools.ideaplugin.aichatopenextern</description>
-      <pubDate>Thu, 29 Oct 2026 22:47:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35643-ai-chat-open-external</guid>
-      <dc:date>2026-10-29T22:47:08Z</dc:date>
-    </item>
-    <item>
-      <title>Tandem - Fri Oct 30 12:28:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35641-tandem</link>
-      <description>A fast, native chat inside JetBrains IDEs that works with Claude Code. Uses your own installed claude CLI and its sign-in; Tandem never reads your credentials...
-
-vendor: DaArKo Labs
-downloads: 13
-pricingModel: FREE
-xmlId: dev.daarkolabs.tandem</description>
-      <pubDate>Fri, 30 Oct 2026 12:28:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35641-tandem</guid>
-      <dc:date>2026-10-30T12:28:58Z</dc:date>
-    </item>
-    <item>
-      <title>tonkane AI Code Review - Fri Oct 30 10:38:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35651-tonkane-ai-code-review</link>
-      <description>tonkane AI Code Review English Review checked pending changes or a single commit from the Git Log with any OpenAI-compatible chat API (OpenAI, DeepSeek, Qwen...
-
-vendor: tonkane
-downloads: 15
-pricingModel: FREE
-xmlId: com.aicodereview.git</description>
-      <pubDate>Fri, 30 Oct 2026 10:38:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35651-tonkane-ai-code-review</guid>
-      <dc:date>2026-10-30T10:38:56Z</dc:date>
     </item>
   </channel>
 </rss>
