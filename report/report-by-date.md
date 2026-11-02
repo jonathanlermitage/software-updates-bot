@@ -1,6 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/springboot.png) Spring Boot|4.0.0.RELEASE|[start.spring.io](https://start.spring.io)|Mon Nov 02 11:48:38 UTC 2026|
+|![logo](../media/logo/springboot.png) Spring Boot|4.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Mon Nov 02 16:17:12 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.4 (262.11879.100) ~ 2026-10-30|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Oct 30 17:25:47 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|27.0.0-alpha.0.0.0|[nodejs.org](https://nodejs.org)|Thu Oct 29 23:43:15 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 29 17:44:13 UTC 2026|
