@@ -6,30 +6,43 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>MyBatis Codegen - Sun Nov 01 06:02:31 UTC 2026</title>
+      <title>STIG - Mon Nov 02 08:09:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35726-stig</link>
+      <description>STIG brings the full STIG toolchain into your IntelliJ IDEA. Copyright (C) 2026 SAFETYGENCE sp. z o.o. Author: Piotr Serwa. All current STIG features are free...
+
+vendor: Stigway
+downloads: 0
+pricingModel: FREE
+xmlId: com.stigway.idea</description>
+      <pubDate>Mon, 02 Nov 2026 08:09:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35726-stig</guid>
+      <dc:date>2026-11-02T08:09:20Z</dc:date>
+    </item>
+    <item>
+      <title>MyBatis Codegen - Tue Nov 03 01:38:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35703-mybatis-codegen</link>
       <description>Generate MyBatis-Plus code from MySQL or PostgreSQL tables. 根据 MySQL 或 PostgreSQL 表生成 MyBatis-Plus 代码，包括 Entity、Mapper、Service、ServiceImpl、Controller 和 Mapper...
 
 vendor: 老码农周SIR
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.zhoujj.codegen</description>
-      <pubDate>Sun, 01 Nov 2026 06:02:31 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 01:38:08 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35703-mybatis-codegen</guid>
-      <dc:date>2026-11-01T06:02:31Z</dc:date>
+      <dc:date>2026-11-03T01:38:08Z</dc:date>
     </item>
     <item>
-      <title>Any Player - Sat Oct 31 13:09:38 UTC 2026</title>
+      <title>Any Player - Tue Nov 03 07:00:28 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35683-any-player</link>
       <description>A video player, audio player and image viewer for your IDE. Open media from your project, a local path or a direct HTTP(S) URL. Video and audio playback with seeking...
 
 vendor: Vladislav Romanovsky
-downloads: 6
+downloads: 9
 pricingModel: FREE
 xmlId: me.romanovsky.anyplayer</description>
-      <pubDate>Sat, 31 Oct 2026 13:09:38 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 07:00:28 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35683-any-player</guid>
-      <dc:date>2026-10-31T13:09:38Z</dc:date>
+      <dc:date>2026-11-03T07:00:28Z</dc:date>
     </item>
     <item>
       <title>SecureView Password Masking - Sun Nov 01 03:16:10 UTC 2026</title>
@@ -37,7 +50,7 @@ xmlId: me.romanovsky.anyplayer</description>
       <description>SecureView is an IntelliJ Platform plugin that visually masks password and secret values in editor tabs without changing file contents. Features: Automatically detects...
 
 vendor: Kannan Natarajan
-downloads: 13
+downloads: 18
 pricingModel: FREE
 xmlId: com.kannanjmc.secureview</description>
       <pubDate>Sun, 01 Nov 2026 03:16:10 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.kannanjmc.secureview</description>
       <description>Turn code into flowcharts — deterministically, not with AI. Code2Graph parses your source with tree-sitter (a real AST, not LLM guesses) and renders accurate...
 
 vendor: Luka
-downloads: 3
+downloads: 10
 pricingModel: FREEMIUM
 xmlId: com.luka-owo.code2graph</description>
       <pubDate>Tue, 27 Oct 2026 16:37:35 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.luka-owo.code2graph</description>
       <description>FixtureForge turns a JSON Schema into a reproducible folder of valid and invalid JSON test fixtures, with a manifest that states the expected validity and the exact...
 
 vendor: Ouyang Matters
-downloads: 1
+downloads: 6
 pricingModel: PAID
 xmlId: io.github.ouyangmatters.fixtureforge</description>
       <pubDate>Thu, 29 Oct 2026 01:01:30 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: io.github.ouyangmatters.fixtureforge</description>
       <description>Structural comparison for API test fixtures. FixturePeek compares an expected API response fixture (snapshot, golden file, recorded response) with the actual one and...
 
 vendor: Ouyang Matters
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: io.github.ouyangmatters.fixturepeek</description>
       <pubDate>Wed, 28 Oct 2026 05:51:21 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: io.github.ouyangmatters.fixturepeek</description>
       <description>Tools for AI coding agents (Claude Code, Cursor, any MCP client) in the IDE's built-in MCP server, so an agent asks the IDE instead of grepping and reading whole...
 
 vendor: theone55
-downloads: 2
+downloads: 8
 pricingModel: FREE
 xmlId: io.github.theone55.agenttools</description>
       <pubDate>Mon, 02 Nov 2026 08:45:56 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: io.github.theone55.agenttools</description>
       <description>Create Webixty Task Manager tasks from successful Git commits in PhpStorm. Connect your Webixty account and select a workplace and project from the Webixty Tasks tool...
 
 vendor: Webixty
-downloads: 4
+downloads: 9
 pricingModel: FREE
 xmlId: com.webixty.tasks</description>
       <pubDate>Mon, 26 Oct 2026 19:48:24 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.webixty.tasks</description>
       <description>Catch .htaccess mistakes before they take your site down with a 500. Htaccess Lint adds 14 inspections for .htaccess files: unknown or misplaced directives, broken...
 
 vendor: timaub
-downloads: 1
+downloads: 7
 pricingModel: FREEMIUM
 xmlId: dev.aubourg.htaccesslint</description>
       <pubDate>Fri, 30 Oct 2026 13:12:54 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: dev.aubourg.htaccesslint</description>
       <description>Review PostgreSQL Flyway migrations for risky SQL before deployment. Flyway Migration Guard scans versioned SQL files on your machine and shows each finding with a...
 
 vendor: Moon Laboratories
-downloads: 14
+downloads: 21
 pricingModel: FREEMIUM
 xmlId: com.moonlaboratories.migrationguard</description>
       <pubDate>Wed, 21 Oct 2026 23:27:50 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: com.moonlaboratories.migrationguard</description>
       <description>Find stale references in coding-agent instructions before they mislead your agent. AgentRules Doctor scans supported instruction files in an open project. It shows...
 
 vendor: Moon Laboratories
-downloads: 7
+downloads: 12
 pricingModel: FREEMIUM
 xmlId: com.moonlaboratories.agentrulesdoctor</description>
       <pubDate>Wed, 07 Oct 2026 21:37:38 GMT</pubDate>
@@ -149,17 +162,17 @@ xmlId: com.moonlaboratories.agentrulesdoctor</description>
       <dc:date>2026-10-07T21:37:38Z</dc:date>
     </item>
     <item>
-      <title>MockSnap - Thu Oct 29 13:44:34 UTC 2026</title>
+      <title>MockSnap - Tue Nov 03 00:50:41 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35634-mocksnap</link>
       <description>Inspect HTTP test traffic, review sensitive-field redaction, and turn exchanges into reusable mock files for Java integration tests. Import a JSON request/response...
 
 vendor: AFK Mesh
-downloads: 12
+downloads: 13
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.mocksnap</description>
-      <pubDate>Thu, 29 Oct 2026 13:44:34 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 00:50:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35634-mocksnap</guid>
-      <dc:date>2026-10-29T13:44:34Z</dc:date>
+      <dc:date>2026-11-03T00:50:41Z</dc:date>
     </item>
     <item>
       <title>MCP Agent Security Auditor - Thu Oct 15 20:24:59 UTC 2026</title>
@@ -167,7 +180,7 @@ xmlId: com.afkmesh.mocksnap</description>
       <description>Review Model Context Protocol (MCP) configuration risks directly in your JetBrains IDE, before connecting AI agents to development tools. Offline-first, source-line...
 
 vendor: AFK Mesh
-downloads: 11
+downloads: 13
 pricingModel: PAID
 xmlId: com.afkmesh.mcp.security.auditor</description>
       <pubDate>Thu, 15 Oct 2026 20:24:59 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.afkmesh.mcp.security.auditor</description>
       <description>Tools for Delva, the embedded JSON document database for the JVM: list a project's stores on disk, see what each holds, browse and open their documents and typed...
 
 vendor: Atanas Oreshkov
-downloads: 9
+downloads: 12
 pricingModel: FREE
 xmlId: app.oreshkov.delva</description>
       <pubDate>Thu, 29 Oct 2026 22:54:23 GMT</pubDate>
@@ -188,30 +201,30 @@ xmlId: app.oreshkov.delva</description>
       <dc:date>2026-10-29T22:54:23Z</dc:date>
     </item>
     <item>
-      <title>Claudestrator - Mon Nov 02 12:03:00 UTC 2026</title>
+      <title>Claudestrator - Tue Nov 03 13:50:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35585-claudestrator</link>
       <description>A Claude Code agent pipeline inside your IDE: Claudestrator plans a task, waits for your approval, then lets agents write the code and tests in each repository, review...
 
 vendor: Yurii Bondar
-downloads: 29
+downloads: 60
 pricingModel: FREE
 xmlId: bondevn.claudestrator</description>
-      <pubDate>Mon, 02 Nov 2026 12:03:00 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 13:50:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35585-claudestrator</guid>
-      <dc:date>2026-11-02T12:03:00Z</dc:date>
+      <dc:date>2026-11-03T13:50:54Z</dc:date>
     </item>
     <item>
-      <title>Avec Moi - Fri Oct 30 13:28:17 UTC 2026</title>
+      <title>Avec Moi - Tue Nov 03 03:06:59 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/34784-avec-moi</link>
       <description>Collaborative coding with an AI agent, the other way round. Instead of the agent writing everything while you watch, it designs the change and writes compiling...
 
 vendor: Steve Ramage
-downloads: 26
+downloads: 29
 pricingModel: FREE
 xmlId: net.sjrx.plugins.avecmoi</description>
-      <pubDate>Fri, 30 Oct 2026 13:28:17 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 03:06:59 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/34784-avec-moi</guid>
-      <dc:date>2026-10-30T13:28:17Z</dc:date>
+      <dc:date>2026-11-03T03:06:59Z</dc:date>
     </item>
     <item>
       <title>Droidle - Daily Android Quiz - Sun Nov 01 12:59:08 UTC 2026</title>
@@ -219,7 +232,7 @@ xmlId: net.sjrx.plugins.avecmoi</description>
       <description>Start your Android dev day with a 5-question quiz — right inside Android Studio. Droidle brings a native daily Android quiz tool window to your IDE, synced seamlessly...
 
 vendor: Başar Çelebi
-downloads: 25
+downloads: 41
 pricingModel: FREE
 xmlId: app.droidle.plugin</description>
       <pubDate>Sun, 01 Nov 2026 12:59:08 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: app.droidle.plugin</description>
       <description>View Alibaba Cloud SLS logs in your IDE and jump from Java exception stack traces to the matching source line. Query historical logs, follow live logs with pause and...
 
 vendor: zqpperry
-downloads: 12
+downloads: 13
 pricingModel: FREE
 xmlId: dev.slslogjump.public</description>
       <pubDate>Fri, 30 Oct 2026 12:50:53 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: dev.slslogjump.public</description>
       <description>Browse and edit the SQLite databases of your Android debug app while it runs, in a tool window. I built it to add what Android Studio's Database Inspector is missing...
 
 vendor: DarAnna
-downloads: 19
+downloads: 23
 pricingModel: FREE
 xmlId: io.github.daranna.sqlitebrowser</description>
       <pubDate>Fri, 30 Oct 2026 17:02:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35656-live-sqlite-for-android</guid>
       <dc:date>2026-10-30T17:02:03Z</dc:date>
-    </item>
-    <item>
-      <title>FreeMarker Live Preview - Fri Oct 30 18:54:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35649-freemarker-live-preview</link>
-      <description>Live, side-by-side preview of Apache FreeMarker templates (.ftl, .ftlh, .ftlx). Split editor with the template source on the left and the rendered output on the right...
-
-vendor: Scedar Technologies Co. Limited
-downloads: 41
-pricingModel: FREE
-xmlId: ke.co.scedar.plugins.freemarker-preview</description>
-      <pubDate>Fri, 30 Oct 2026 18:54:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35649-freemarker-live-preview</guid>
-      <dc:date>2026-10-30T18:54:39Z</dc:date>
     </item>
   </channel>
 </rss>
