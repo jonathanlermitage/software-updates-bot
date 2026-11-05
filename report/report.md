@@ -1,8 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
 |![logo](../media/logo/7tt.png) 7+ Taskbar Tweaker|v5.15.4 (December 24, 2025)|[ramensoftware.com](https://ramensoftware.com/7-taskbar-tweaker)|Thu Dec 25 00:06:49 UTC 2025|
-|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Aug 24 12:23:33 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Tue Aug 25 16:22:34 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 11:42:00 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 11:42:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.32.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:24 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 21:25:11 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 28 17:34:18 UTC 2026|
@@ -21,7 +21,7 @@
 |![logo](../media/logo/gradle.png) Gradle|9.8.2|[gradle.org](https://gradle.org/releases)|Mon Oct 19 23:12:03 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.7307.44) ~ 2026-10-23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Oct 23 16:04:43 UTC 2026|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.2.4 (262.11879.100) ~ 2026-10-30|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Fri Oct 30 17:25:47 UTC 2026|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.3 (263.7307.200) ~ 2026-11-05|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Nov 05 11:42:45 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.5 to 20.1.0 ~ 2026-10-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Oct 18 18:35:02 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Oct 20 09:12:16 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|

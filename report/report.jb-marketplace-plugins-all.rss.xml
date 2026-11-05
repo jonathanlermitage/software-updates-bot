@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Partial Class Nesting - Mon Nov 02 11:17:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35729-partial-class-nesting</link>
-      <description>Nests C# files that declare the same partial class in Rider's Solution Explorer. Uses C# type information and leaves project files unchanged.
+      <title>Insaidy - Wed Nov 04 21:59:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35802-insaidy</link>
+      <description>Personal coaching for AI coding. Insaidy turns locally available assistant activity into practical coaching inside your editor. See your recent usage, choose a small...
 
-vendor: Nest Partials Classes
-downloads: 1
-pricingModel: FREE
-xmlId: cloud.jordanm.partialnesting</description>
-      <pubDate>Mon, 02 Nov 2026 11:17:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35729-partial-class-nesting</guid>
-      <dc:date>2026-11-02T11:17:46Z</dc:date>
-    </item>
-    <item>
-      <title>QueryDesk - Tue Nov 03 02:53:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35701-querydesk</link>
-      <description>Connect DataGrip, and any JetBrains IDE with the Database tools, to the databases you reach through QueryDesk. Every query runs in QueryDesk as you, with your access...
-
-vendor: QueryDesk
-downloads: 4
-pricingModel: FREE
-xmlId: tools.devhub.querydesk</description>
-      <pubDate>Tue, 03 Nov 2026 02:53:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35701-querydesk</guid>
-      <dc:date>2026-11-03T02:53:10Z</dc:date>
-    </item>
-    <item>
-      <title>IssuePulse for Jira - Mon Nov 02 14:33:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35444-issuepulse-for-jira</link>
-      <description>IssuePulse for Jira: your Jira Cloud and Jira Data Center issues, boards and sprints in the IDE — set up once, works in every project. Browse, edit, move and create...
-
-vendor: PuzariCloud
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: in.puzaricloud.issuepulse</description>
-      <pubDate>Mon, 02 Nov 2026 14:33:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35444-issuepulse-for-jira</guid>
-      <dc:date>2026-11-02T14:33:37Z</dc:date>
-    </item>
-    <item>
-      <title>Ansible Studio - Mon Nov 02 16:39:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35443-ansible-studio</link>
-      <description>Ansible support that stays out of your other YAML. Ansible Studio switches on only inside Ansible projects (ansible.cfg, roles/, playbooks/, inventories, group_vars...
-
-vendor: PuzariCloud
-downloads: 3
-pricingModel: FREEMIUM
-xmlId: in.puzaricloud.ansiblestudio</description>
-      <pubDate>Mon, 02 Nov 2026 16:39:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35443-ansible-studio</guid>
-      <dc:date>2026-11-02T16:39:21Z</dc:date>
-    </item>
-    <item>
-      <title>Jingle Code - Sun Nov 01 16:52:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35708-jingle-code</link>
-      <description>A cozy pixel-art winter for your IDE. Garland lights between the panels, a snowy village behind the editor, toy trains under the terminal and Santa's yard on the side...
-
-vendor: IoannVS
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.ioannvs.jinglecode</description>
-      <pubDate>Sun, 01 Nov 2026 16:52:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35708-jingle-code</guid>
-      <dc:date>2026-11-01T16:52:45Z</dc:date>
-    </item>
-    <item>
-      <title>Review Hub - Tue Nov 03 16:21:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35679-review-hub</link>
-      <description>Review Hub for JetBrains IDEs Always see what AI coding agents changed in your project, and accept or reject individual hunks. Works with Claude Code, OpenAI Codex...
-
-vendor: Trịnh Xuân Hưng
-downloads: 1
-pricingModel: FREE
-xmlId: com.reviewhub.jetbrains</description>
-      <pubDate>Tue, 03 Nov 2026 16:21:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35679-review-hub</guid>
-      <dc:date>2026-11-03T16:21:03Z</dc:date>
-    </item>
-    <item>
-      <title>ZJ - Wed Nov 04 20:27:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35763-zj</link>
-      <description>Adds Zig language support to IntelliJ Platform-based IDEs. Written from scratch. Features Block folding, with function bodies and test declarations collapsed by...
-
-vendor: fn ⌃ ⌥
+vendor: Velantix
 downloads: 0
 pricingModel: FREE
-xmlId: io.github.fncontroloption.zj</description>
-      <pubDate>Wed, 04 Nov 2026 20:27:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35763-zj</guid>
-      <dc:date>2026-11-04T20:27:28Z</dc:date>
+xmlId: com.velantix.insaidy</description>
+      <pubDate>Wed, 04 Nov 2026 21:59:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35802-insaidy</guid>
+      <dc:date>2026-11-04T21:59:43Z</dc:date>
     </item>
     <item>
-      <title>EDIFACT Inspector - Wed Nov 04 14:43:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35765-edifact-inspector</link>
-      <description>Read EDIFACT orders, invoices and despatch advice directly in your IDE. Navigate interchanges, functional groups, messages and segments. Inspect fields, components...
+      <title>Json POJO King - Wed Nov 04 12:30:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35790-json-pojo-king</link>
+      <description>Json POJO King is a two-way JSON and Java workbench for IntelliJ IDEA. Generate Java classes and records from JSON, or create sample JSON from existing Java models...
 
-vendor: Devora
+vendor: Fedos Tech
 downloads: 0
 pricingModel: PAID
-xmlId: com.andreygaranin.edifact-inspector</description>
-      <pubDate>Wed, 04 Nov 2026 14:43:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35765-edifact-inspector</guid>
-      <dc:date>2026-11-04T14:43:27Z</dc:date>
+xmlId: tech.fedos.jsonpojoking</description>
+      <pubDate>Wed, 04 Nov 2026 12:30:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35790-json-pojo-king</guid>
+      <dc:date>2026-11-04T12:30:42Z</dc:date>
     </item>
     <item>
-      <title>Atomic VCS Support - Wed Nov 04 16:02:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35486-atomic-vcs-support</link>
-      <description>Adds support for the Atomic version control system to JetBrains IDEs: file statuses, recording changes, diffs, the change graph in the Log tab, AI-agent provenance and...
+      <title>Maven Dependency Tree Graph - Thu Nov 05 07:54:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35815-maven-dependency-tree-graph</link>
+      <description>Right-click a pom.xml and choose "Dependency Tree" to see a collapsible graphical dependency tree. Click a node to jump to its declaration in the POM. Free to use...
 
-vendor: OpenDataAlex
-downloads: 4
-pricingModel: FREE
-xmlId: com.bluefiredatasolutions.com.atomic-vcs-integration</description>
-      <pubDate>Wed, 04 Nov 2026 16:02:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35486-atomic-vcs-support</guid>
-      <dc:date>2026-11-04T16:02:21Z</dc:date>
-    </item>
-    <item>
-      <title>Mapper Guard - Wed Nov 04 14:56:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35794-mapper-guard</link>
-      <description>Catches broken SQLAlchemy string references while you type — the ones that otherwise only fail when your app starts or a query runs. relationship("Usre") — unknown...
-
-vendor: Mike Wassong
+vendor: Dushmantha Bandaranayake
 downloads: 0
 pricingModel: FREE
-xmlId: io.github.mwassong.mapper-guard</description>
-      <pubDate>Wed, 04 Nov 2026 14:56:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35794-mapper-guard</guid>
-      <dc:date>2026-11-04T14:56:48Z</dc:date>
+xmlId: com.dush.deptree</description>
+      <pubDate>Thu, 05 Nov 2026 07:54:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35815-maven-dependency-tree-graph</guid>
+      <dc:date>2026-11-05T07:54:29Z</dc:date>
     </item>
     <item>
-      <title>Markmap Jet - Wed Nov 04 13:41:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35792-markmap-jet</link>
-      <description>Transform your Markdown documents into interactive mind maps! Markmap Jet brings visual thinking to your Markdown workflow. See your document structure as an...
+      <title>AI Silenced Check Finder - Thu Nov 05 06:50:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35813-ai-silenced-check-finder</link>
+      <description>Catch it when an AI coding agent such as Claude Code, Cursor, Copilot or Junie skips tests, weakens assertions, rewrites expected values or adds @ts-ignore or...
 
-vendor: Airmour
+vendor: GRAMSHIFT
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.gramshift.silencedchecks</description>
+      <pubDate>Thu, 05 Nov 2026 06:50:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35813-ai-silenced-check-finder</guid>
+      <dc:date>2026-11-05T06:50:38Z</dc:date>
+    </item>
+    <item>
+      <title>Directory Maven Settings - Thu Nov 05 07:08:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35812-directory-maven-settings</link>
+      <description>Directory Maven Settings selects Maven settings.xml by directory and applies matching profiles, arguments, and environment variables. 让 Maven 的 settings.xml...
+
+vendor: 我来给台灯充电
 downloads: 0
 pricingModel: FREE
-xmlId: com.airmour.markmap</description>
-      <pubDate>Wed, 04 Nov 2026 13:41:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35792-markmap-jet</guid>
-      <dc:date>2026-11-04T13:41:46Z</dc:date>
+xmlId: dev.dirmaven.settings</description>
+      <pubDate>Thu, 05 Nov 2026 07:08:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35812-directory-maven-settings</guid>
+      <dc:date>2026-11-05T07:08:04Z</dc:date>
     </item>
     <item>
-      <title>AIGenCommitMsg - Wed Nov 04 11:46:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35789-aigencommitmsg</link>
-      <description>Generates a Git commit message from staged changes and inserts it into the commit message field. Features One-click generation from the commit toolbar, right next to...
+      <title>Syrobin Java Code Generate - Thu Nov 05 06:23:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35782-syrobin-java-code-generate</link>
+      <description>Syrobin Java Code Generate is a full-featured, intelligent Java backend code generator plugin for IntelliJ IDEA, designed to eliminate repetitive scaffolding work and...
 
-vendor: GenGitMsg
+vendor: Yao Chen
 downloads: 0
 pricingModel: FREE
-xmlId: dev.gitmsg.ai.commithelper</description>
-      <pubDate>Wed, 04 Nov 2026 11:46:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35789-aigencommitmsg</guid>
-      <dc:date>2026-11-04T11:46:54Z</dc:date>
+xmlId: com.syrobin.java.code.generate</description>
+      <pubDate>Thu, 05 Nov 2026 06:23:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35782-syrobin-java-code-generate</guid>
+      <dc:date>2026-11-05T06:23:23Z</dc:date>
     </item>
     <item>
-      <title>Deepseek AssistX - Wed Nov 04 11:41:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35788-deepseek-assistx</link>
-      <description>Deepseek AssistX is an intelligent coding assistant plugin powered by the DeepSeek large language model, crafted to elevate developers' coding speed and code...
+      <title>Excel Lite - XLSX Editor - Thu Nov 05 00:48:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35810-excel-lite--xlsx-editor</link>
+      <description>Open and actually edit .xlsx spreadsheets inside your JetBrains IDE — add rows, delete rows, copy and paste cells, and save without leaving the editor tab. Opens .xlsx...
 
-vendor: cloudenssh
+vendor: wappkit Labs
 downloads: 0
 pricingModel: FREE
-xmlId: net.smart.refactor</description>
-      <pubDate>Wed, 04 Nov 2026 11:41:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35788-deepseek-assistx</guid>
-      <dc:date>2026-11-04T11:41:20Z</dc:date>
+xmlId: com.wappkit.excel.lite</description>
+      <pubDate>Thu, 05 Nov 2026 00:48:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35810-excel-lite--xlsx-editor</guid>
+      <dc:date>2026-11-05T00:48:46Z</dc:date>
     </item>
     <item>
-      <title>Commit Kingdom Tracker - Wed Nov 04 10:40:04 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35787-commit-kingdom-tracker</link>
-      <description>Counts your coding for Commit Kingdom, the strategy game where your commits build your kingdom. Sign in once with Commit Kingdom Desktop; this plugin never asks for an...
+      <title>Php Protocol - Wed Nov 04 23:53:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35809-php-protocol</link>
+      <description>Registers phpstorm:// and idea:// URL handlers on Windows so links such as phpstorm://open?url=file://%f&amp;amp;line=%l open the file in the IDE instance that owns the...
 
-vendor: Commit Kingdom
+vendor: NOW Tech
 downloads: 0
 pricingModel: FREE
-xmlId: com.commitkingdom.tracker</description>
-      <pubDate>Wed, 04 Nov 2026 10:40:04 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35787-commit-kingdom-tracker</guid>
-      <dc:date>2026-11-04T10:40:04Z</dc:date>
+xmlId: dev.nowtech.php.protocol</description>
+      <pubDate>Wed, 04 Nov 2026 23:53:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35809-php-protocol</guid>
+      <dc:date>2026-11-04T23:53:29Z</dc:date>
     </item>
     <item>
-      <title>Graphio - Wed Nov 04 10:26:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35786-graphio</link>
-      <description>Graphio: a live, left-to-right call-flow explorer for Python projects, right inside PyCharm. The call graph is built from PyCharm's own Python code model (the same...
+      <title>AI Chat Claude CLI Native - Wed Nov 04 23:45:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35808-ai-chat-claude-cli-native</link>
+      <description>Installs the Claude CLI agent for JetBrains AI Chat (ACP), so you can use Claude Code Teams with the same claude login as in the terminal — not the JetBrains-hosted...
 
-vendor: Sushil
+vendor: NOW Tech
 downloads: 0
 pricingModel: FREE
-xmlId: com.sushil.graphio</description>
-      <pubDate>Wed, 04 Nov 2026 10:26:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35786-graphio</guid>
-      <dc:date>2026-11-04T10:26:44Z</dc:date>
+xmlId: dev.nowtech.aichat.claudecli.native</description>
+      <pubDate>Wed, 04 Nov 2026 23:45:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35808-ai-chat-claude-cli-native</guid>
+      <dc:date>2026-11-04T23:45:47Z</dc:date>
     </item>
     <item>
-      <title>Copilot Effort Guard - Wed Nov 04 10:26:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35785-copilot-effort-guard</link>
-      <description>Shows how hard the GitHub Copilot model is struggling, as a colour bar in the status bar and in a tool window. Status bar: &#x1f7e2; ▰▱▱ 1/3, a segmented bar of struggling...
+      <title>Drawuml - PlantUML Diagrams - Wed Nov 04 22:04:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35807-drawuml--plantuml-diagrams</link>
+      <description>Edit PlantUML UML diagrams visually, in sync with your .puml file. Elements sit on a canvas, you connect and rename them by hand, and the PlantUML code is kept up to...
 
-vendor: stefanochieli
+vendor: DrawDiags
 downloads: 0
 pricingModel: FREE
-xmlId: com.stefanochieli.copilot-effort-guard</description>
-      <pubDate>Wed, 04 Nov 2026 10:26:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35785-copilot-effort-guard</guid>
-      <dc:date>2026-11-04T10:26:09Z</dc:date>
+xmlId: com.drawdiags.drawuml</description>
+      <pubDate>Wed, 04 Nov 2026 22:04:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35807-drawuml--plantuml-diagrams</guid>
+      <dc:date>2026-11-04T22:04:51Z</dc:date>
     </item>
     <item>
-      <title>Excel to Android Strings - Wed Nov 04 09:12:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35784-excel-to-android-strings</link>
-      <description>Convert Excel (.xls or .xlsx) multilingual data to Android res/values-*/strings.xml files. Supports any number of language columns and merges into existing resources...
+      <title>Drawtabase - Schema Designer - Wed Nov 04 22:04:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35806-drawtabase--schema-designer</link>
+      <description>Design a relational database schema visually, in sync with your SQL file. Tables sit on a canvas with their columns, foreign keys are drawn from column to column, and...
 
-vendor: wangyue
+vendor: DrawDiags
 downloads: 0
 pricingModel: FREE
-xmlId: com.wy.exceltoxml</description>
-      <pubDate>Wed, 04 Nov 2026 09:12:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35784-excel-to-android-strings</guid>
-      <dc:date>2026-11-04T09:12:30Z</dc:date>
+xmlId: com.drawdiags.drawtabase</description>
+      <pubDate>Wed, 04 Nov 2026 22:04:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35806-drawtabase--schema-designer</guid>
+      <dc:date>2026-11-04T22:04:07Z</dc:date>
     </item>
     <item>
-      <title>Arthas Bridge - Wed Nov 04 08:14:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35733-arthas-bridge</link>
-      <description>Attach Alibaba Arthas to a running JVM and drive it from the IDE. Pick a local JVM and attach in one click, or connect to an existing Arthas (port-forward / tunnel...
+      <title>Drawpenapi - OpenAPI Diagrams - Wed Nov 04 22:03:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35805-drawpenapi--openapi-diagrams</link>
+      <description>Design an HTTP API visually, in sync with your OpenAPI YAML file. Drawpenapi shows the API the way Swagger UI does — tags, operations, schemas — and makes every part...
 
-vendor: b3kt
-downloads: 2
-pricingModel: FREE
-xmlId: com.github.b3kt.arthasbridge</description>
-      <pubDate>Wed, 04 Nov 2026 08:14:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35733-arthas-bridge</guid>
-      <dc:date>2026-11-04T08:14:45Z</dc:date>
-    </item>
-    <item>
-      <title>MySpec - Wed Nov 04 05:49:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35781-myspec</link>
-      <description>Work with your MySpec specs without leaving the IDE. Browse the spec files of a MySpec project, open them read-only and step through their revisions. Discuss: see...
-
-vendor: MySpec
+vendor: DrawDiags
 downloads: 0
 pricingModel: FREE
-xmlId: dev.myspec.ide</description>
-      <pubDate>Wed, 04 Nov 2026 05:49:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35781-myspec</guid>
-      <dc:date>2026-11-04T05:49:53Z</dc:date>
+xmlId: com.drawdiags.drawpenapi</description>
+      <pubDate>Wed, 04 Nov 2026 22:03:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35805-drawpenapi--openapi-diagrams</guid>
+      <dc:date>2026-11-04T22:03:12Z</dc:date>
     </item>
     <item>
-      <title>Flawd BPMN Editor - Wed Nov 04 05:20:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35780-flawd-bpmn-editor</link>
-      <description>View and edit BPMN 2.0 process diagrams (.bpmn, .bpmn2, *.bpmn20.xml) right in the IDE. Graphical modeler powered by bpmn-js, with a properties panel for IDs, names...
+      <title>Drawmaid - Mermaid Diagrams - Wed Nov 04 22:02:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35804-drawmaid--mermaid-diagrams</link>
+      <description>Edit Mermaid diagrams visually, in sync with your .mmd file. Drag shapes on a canvas, draw the connections, rename things in place, and the Mermaid code is kept up to...
 
-vendor: Srozen
+vendor: DrawDiags
 downloads: 0
 pricingModel: FREE
-xmlId: io.github.srozen.flawd</description>
-      <pubDate>Wed, 04 Nov 2026 05:20:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35780-flawd-bpmn-editor</guid>
-      <dc:date>2026-11-04T05:20:30Z</dc:date>
+xmlId: com.drawdiags.drawmaid</description>
+      <pubDate>Wed, 04 Nov 2026 22:02:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35804-drawmaid--mermaid-diagrams</guid>
+      <dc:date>2026-11-04T22:02:15Z</dc:date>
+    </item>
+    <item>
+      <title>Drawlize - JSON and YAML Trees - Wed Nov 04 22:01:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35803-drawlize--json-and-yaml-trees</link>
+      <description>See a JSON or YAML file as a tree, and edit it there. Objects and arrays are blocks on a canvas, their values are rows inside the block, and a line joins each block to...
+
+vendor: DrawDiags
+downloads: 0
+pricingModel: FREE
+xmlId: com.drawdiags.drawlize</description>
+      <pubDate>Wed, 04 Nov 2026 22:01:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35803-drawlize--json-and-yaml-trees</guid>
+      <dc:date>2026-11-04T22:01:17Z</dc:date>
+    </item>
+    <item>
+      <title>Orbit for Apache Solr - Wed Nov 04 18:05:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35798-orbit-for-apache-solr</link>
+      <description>Apache Solr client in the IDE: query collections and cores, see the documents, facets and the whole response, and edit documents. Browse the collections of SolrCloud...
+
+vendor: Jim Apps
+downloads: 0
+pricingModel: PAID
+xmlId: dev.jimapps.solr</description>
+      <pubDate>Wed, 04 Nov 2026 18:05:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35798-orbit-for-apache-solr</guid>
+      <dc:date>2026-11-04T18:05:52Z</dc:date>
+    </item>
+    <item>
+      <title>Hydra Defaults Navigation - Thu Nov 05 10:36:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35797-hydra-defaults-navigation</link>
+      <description>Cmd/Ctrl+click on a Hydra defaults: entry such as - model: base opens &amp;lt;config root&amp;gt;/model/base.yaml. Handles override, optional, absolute /group keys...
+
+vendor: Saifeddine Jarboui
+downloads: 0
+pricingModel: FREE
+xmlId: hydranav</description>
+      <pubDate>Thu, 05 Nov 2026 10:36:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35797-hydra-defaults-navigation</guid>
+      <dc:date>2026-11-05T10:36:04Z</dc:date>
+    </item>
+    <item>
+      <title>Onewindow - Wed Nov 04 19:51:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35800-onewindow</link>
+      <description>Shows every open project as a tab in the main toolbar, like documents in a word processor or pages in a browser. Click a tab to switch projects, or use Next/Previous...
+
+vendor: CracklyBody
+downloads: 0
+pricingModel: FREE
+xmlId: dev.onewindow</description>
+      <pubDate>Wed, 04 Nov 2026 19:51:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35800-onewindow</guid>
+      <dc:date>2026-11-04T19:51:50Z</dc:date>
+    </item>
+    <item>
+      <title>Codebud - Wed Nov 04 06:46:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35754-codebud</link>
+      <description>Codebud is an asynchronous technical interview colleague for JetBrains IDEs (IntelliJ IDEA, WebStorm, PyCharm, Rider, GoLand, CLion, RustRover, PhpStorm, RubyMine, and...
+
+vendor: The Only Software Hub
+downloads: 5
+pricingModel: FREE
+xmlId: za.co.tosh.codebud</description>
+      <pubDate>Wed, 04 Nov 2026 06:46:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35754-codebud</guid>
+      <dc:date>2026-11-04T06:46:18Z</dc:date>
+    </item>
+    <item>
+      <title>Projects - Wed Nov 04 18:38:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32571-projects</link>
+      <description>Project management in your IDE — tickets where you already code. Tickets tool window — search and a detail panel for a Spedy ticket. Until Spedy is connected, the...
+
+vendor: Felix Astner Software
+downloads: 8
+pricingModel: FREE
+xmlId: com.felixastner.projects</description>
+      <pubDate>Wed, 04 Nov 2026 18:38:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32571-projects</guid>
+      <dc:date>2026-11-04T18:38:06Z</dc:date>
+    </item>
+    <item>
+      <title>WHMCS Toolkit - Thu Nov 05 08:26:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35775-whmcs-toolkit</link>
+      <description>Write WHMCS modules and hooks in PhpStorm without keeping the developer docs open in another tab. Hook names: completion for all 334 WHMCS hook points inside...
+
+vendor: Design Master
+downloads: 1
+pricingModel: PAID
+xmlId: br.com.designmaster.whmcs-toolkit</description>
+      <pubDate>Thu, 05 Nov 2026 08:26:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35775-whmcs-toolkit</guid>
+      <dc:date>2026-11-05T08:26:53Z</dc:date>
     </item>
   </channel>
 </rss>
