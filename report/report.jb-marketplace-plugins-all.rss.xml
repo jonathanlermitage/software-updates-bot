@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Partial Class Nesting - Mon Nov 02 11:17:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35729-partial-class-nesting</link>
+      <description>Nests C# files that declare the same partial class in Rider's Solution Explorer. Uses C# type information and leaves project files unchanged.
+
+vendor: Nest Partials Classes
+downloads: 1
+pricingModel: FREE
+xmlId: cloud.jordanm.partialnesting</description>
+      <pubDate>Mon, 02 Nov 2026 11:17:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35729-partial-class-nesting</guid>
+      <dc:date>2026-11-02T11:17:46Z</dc:date>
+    </item>
+    <item>
+      <title>QueryDesk - Tue Nov 03 02:53:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35701-querydesk</link>
+      <description>Connect DataGrip, and any JetBrains IDE with the Database tools, to the databases you reach through QueryDesk. Every query runs in QueryDesk as you, with your access...
+
+vendor: QueryDesk
+downloads: 4
+pricingModel: FREE
+xmlId: tools.devhub.querydesk</description>
+      <pubDate>Tue, 03 Nov 2026 02:53:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35701-querydesk</guid>
+      <dc:date>2026-11-03T02:53:10Z</dc:date>
+    </item>
+    <item>
+      <title>IssuePulse for Jira - Mon Nov 02 14:33:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35444-issuepulse-for-jira</link>
+      <description>IssuePulse for Jira: your Jira Cloud and Jira Data Center issues, boards and sprints in the IDE — set up once, works in every project. Browse, edit, move and create...
+
+vendor: PuzariCloud
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: in.puzaricloud.issuepulse</description>
+      <pubDate>Mon, 02 Nov 2026 14:33:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35444-issuepulse-for-jira</guid>
+      <dc:date>2026-11-02T14:33:37Z</dc:date>
+    </item>
+    <item>
+      <title>Ansible Studio - Mon Nov 02 16:39:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35443-ansible-studio</link>
+      <description>Ansible support that stays out of your other YAML. Ansible Studio switches on only inside Ansible projects (ansible.cfg, roles/, playbooks/, inventories, group_vars...
+
+vendor: PuzariCloud
+downloads: 3
+pricingModel: FREEMIUM
+xmlId: in.puzaricloud.ansiblestudio</description>
+      <pubDate>Mon, 02 Nov 2026 16:39:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35443-ansible-studio</guid>
+      <dc:date>2026-11-02T16:39:21Z</dc:date>
+    </item>
+    <item>
+      <title>Jingle Code - Sun Nov 01 16:52:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35708-jingle-code</link>
+      <description>A cozy pixel-art winter for your IDE. Garland lights between the panels, a snowy village behind the editor, toy trains under the terminal and Santa's yard on the side...
+
+vendor: IoannVS
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.ioannvs.jinglecode</description>
+      <pubDate>Sun, 01 Nov 2026 16:52:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35708-jingle-code</guid>
+      <dc:date>2026-11-01T16:52:45Z</dc:date>
+    </item>
+    <item>
+      <title>Review Hub - Tue Nov 03 16:21:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35679-review-hub</link>
+      <description>Review Hub for JetBrains IDEs Always see what AI coding agents changed in your project, and accept or reject individual hunks. Works with Claude Code, OpenAI Codex...
+
+vendor: Trịnh Xuân Hưng
+downloads: 1
+pricingModel: FREE
+xmlId: com.reviewhub.jetbrains</description>
+      <pubDate>Tue, 03 Nov 2026 16:21:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35679-review-hub</guid>
+      <dc:date>2026-11-03T16:21:03Z</dc:date>
+    </item>
+    <item>
+      <title>ZJ - Wed Nov 04 20:27:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35763-zj</link>
+      <description>Adds Zig language support to IntelliJ Platform-based IDEs. Written from scratch. Features Block folding, with function bodies and test declarations collapsed by...
+
+vendor: fn ⌃ ⌥
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.fncontroloption.zj</description>
+      <pubDate>Wed, 04 Nov 2026 20:27:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35763-zj</guid>
+      <dc:date>2026-11-04T20:27:28Z</dc:date>
+    </item>
+    <item>
       <title>EDIFACT Inspector - Wed Nov 04 14:43:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35765-edifact-inspector</link>
       <description>Read EDIFACT orders, invoices and despatch advice directly in your IDE. Navigate interchanges, functional groups, messages and segments. Inspect fields, components...
@@ -173,97 +264,6 @@ xmlId: io.github.srozen.flawd</description>
       <pubDate>Wed, 04 Nov 2026 05:20:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35780-flawd-bpmn-editor</guid>
       <dc:date>2026-11-04T05:20:30Z</dc:date>
-    </item>
-    <item>
-      <title>Gradle Sync Queue - Wed Oct 14 06:33:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35091-gradle-sync-queue</link>
-      <description>Runs Gradle syncs of a project one after another instead of all at once. When a project links many Gradle builds, IntelliJ IDEA starts a sync for each of them in...
-
-vendor: i-net software GmbH
-downloads: 2
-pricingModel: FREE
-xmlId: de.inetsoftware.gradle-sync-queue</description>
-      <pubDate>Wed, 14 Oct 2026 06:33:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35091-gradle-sync-queue</guid>
-      <dc:date>2026-10-14T06:33:47Z</dc:date>
-    </item>
-    <item>
-      <title>Project View Groups - Wed Oct 14 07:17:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35094-project-view-groups</link>
-      <description>Groups the projects in the Project tool window, for example by product. In a project with many modules, linked Gradle builds or Multi-Project Workspace projects, the...
-
-vendor: i-net software GmbH
-downloads: 3
-pricingModel: FREE
-xmlId: de.inetsoftware.project-view-groups</description>
-      <pubDate>Wed, 14 Oct 2026 07:17:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35094-project-view-groups</guid>
-      <dc:date>2026-10-14T07:17:27Z</dc:date>
-    </item>
-    <item>
-      <title>DB Workbench Z - Wed Nov 04 05:00:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35778-db-workbench-z</link>
-      <description>DB Workbench Z is a database client inside the IDE: save connections to PostgreSQL, MySQL, MariaDB, Oracle and H2, browse their objects, run SQL in a console and work...
-
-vendor: Caio Zamana
-downloads: 0
-pricingModel: FREE
-xmlId: dev.workbenchz.db</description>
-      <pubDate>Wed, 04 Nov 2026 05:00:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35778-db-workbench-z</guid>
-      <dc:date>2026-11-04T05:00:14Z</dc:date>
-    </item>
-    <item>
-      <title>Fast Compose Preview - Wed Nov 04 17:51:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35776-fast-compose-preview</link>
-      <description>Instant Jetpack Compose previews in Android Studio and IntelliJ IDEA. No compiler, no build, no waiting. Type in a composable and watch every @Preview update in...
-
-vendor: Fast Compose
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.fastcompose.preview</description>
-      <pubDate>Wed, 04 Nov 2026 17:51:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35776-fast-compose-preview</guid>
-      <dc:date>2026-11-04T17:51:58Z</dc:date>
-    </item>
-    <item>
-      <title>Lune Glide - Wed Nov 04 01:36:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35723-lune-glide</link>
-      <description>Neovide-style four-corner spring cursor animation for IntelliJ IDEA. Supports six combinable Neovide cursor effects, multiple carets, configurable stretch and motion...
-
-vendor: QingTang
-downloads: 2
-pricingModel: FREE
-xmlId: dev.lune.neovide-cursor</description>
-      <pubDate>Wed, 04 Nov 2026 01:36:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35723-lune-glide</guid>
-      <dc:date>2026-11-04T01:36:11Z</dc:date>
-    </item>
-    <item>
-      <title>Design Tokens (DTCG) - Fri Oct 30 18:41:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35666-design-tokens-dtcg-</link>
-      <description>Support for DTCG design tokens: use tokens in your stylesheets and components, and edit the token files themselves with validation and completion. Using tokens Hover...
-
-vendor: Gagik Muradyan
-downloads: 1
-pricingModel: FREE
-xmlId: com.gagmuradyan.design-tokens</description>
-      <pubDate>Fri, 30 Oct 2026 18:41:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35666-design-tokens-dtcg-</guid>
-      <dc:date>2026-10-30T18:41:25Z</dc:date>
-    </item>
-    <item>
-      <title>Parth - AI Coding Agent - Sun Nov 01 04:46:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent</link>
-      <description>Drag files into the chat, pick any AI provider and model, and describe the change. The agent reads your code, edits it, updates the files that depend on the change...
-
-vendor: Amey LLC
-downloads: 1
-pricingModel: FREE
-xmlId: ameyllc.parth</description>
-      <pubDate>Sun, 01 Nov 2026 04:46:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35700-parth--ai-coding-agent</guid>
-      <dc:date>2026-11-01T04:46:05Z</dc:date>
     </item>
   </channel>
 </rss>
