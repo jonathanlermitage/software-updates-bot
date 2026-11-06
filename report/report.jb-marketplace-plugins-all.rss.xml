@@ -11,7 +11,7 @@
       <description>Language support for Enforce Script, the scripting language of DayZ mods. Navigation-first, because the language makes finding things hard: there is no #include and no...
 
 vendor: Myst
-downloads: 3
+downloads: 16
 pricingModel: FREE
 xmlId: io.github.lemyst.enfusionscript</description>
       <pubDate>Thu, 05 Nov 2026 15:24:13 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: io.github.lemyst.enfusionscript</description>
       <description>Personal coaching for AI coding. Insaidy turns locally available assistant activity into practical coaching inside your editor. See your recent usage, choose a small...
 
 vendor: Velantix
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.velantix.insaidy</description>
       <pubDate>Thu, 05 Nov 2026 18:41:35 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.velantix.insaidy</description>
       <description>Json POJO King is a two-way JSON and Java workbench for IntelliJ IDEA. Generate Java classes and records from JSON, or create sample JSON from existing Java models...
 
 vendor: Fedos Tech
-downloads: 0
+downloads: 3
 pricingModel: PAID
 xmlId: tech.fedos.jsonpojoking</description>
       <pubDate>Wed, 04 Nov 2026 12:30:42 GMT</pubDate>
@@ -45,17 +45,17 @@ xmlId: tech.fedos.jsonpojoking</description>
       <dc:date>2026-11-04T12:30:42Z</dc:date>
     </item>
     <item>
-      <title>Maven Dependency Tree Graph - Thu Nov 05 07:54:29 UTC 2026</title>
+      <title>Maven Dependency Tree Graph - Fri Nov 06 03:34:43 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35815-maven-dependency-tree-graph</link>
-      <description>Right-click a pom.xml and choose "Dependency Tree" to see a collapsible graphical dependency tree. Click a node to jump to its declaration in the POM. Free to use...
+      <description>Right-click a pom.xml and choose "Dependency Tree" to see a collapsible graphical dependency tree. Click a node to jump to its declaration in the POM. See how a...
 
 vendor: Dushmantha Bandaranayake
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.dush.deptree</description>
-      <pubDate>Thu, 05 Nov 2026 07:54:29 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 03:34:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35815-maven-dependency-tree-graph</guid>
-      <dc:date>2026-11-05T07:54:29Z</dc:date>
+      <dc:date>2026-11-06T03:34:43Z</dc:date>
     </item>
     <item>
       <title>AI Silenced Check Finder - Thu Nov 05 06:50:38 UTC 2026</title>
@@ -63,7 +63,7 @@ xmlId: com.dush.deptree</description>
       <description>Catch it when an AI coding agent such as Claude Code, Cursor, Copilot or Junie skips tests, weakens assertions, rewrites expected values or adds @ts-ignore or...
 
 vendor: GRAMSHIFT
-downloads: 0
+downloads: 8
 pricingModel: FREEMIUM
 xmlId: com.gramshift.silencedchecks</description>
       <pubDate>Thu, 05 Nov 2026 06:50:38 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.gramshift.silencedchecks</description>
       <description>Directory Maven Settings selects Maven settings.xml by directory and applies matching profiles, arguments, and environment variables. 让 Maven 的 settings.xml...
 
 vendor: 我来给台灯充电
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: dev.dirmaven.settings</description>
       <pubDate>Thu, 05 Nov 2026 07:08:04 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: dev.dirmaven.settings</description>
       <description>Syrobin Java Code Generate is a full-featured, intelligent Java backend code generator plugin for IntelliJ IDEA, designed to eliminate repetitive scaffolding work and...
 
 vendor: Yao Chen
-downloads: 0
+downloads: 8
 pricingModel: FREE
 xmlId: com.syrobin.java.code.generate</description>
       <pubDate>Thu, 05 Nov 2026 06:23:23 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: com.syrobin.java.code.generate</description>
       <description>Open and actually edit .xlsx spreadsheets inside your JetBrains IDE — add rows, delete rows, copy and paste cells, and save without leaving the editor tab. Opens .xlsx...
 
 vendor: wappkit Labs
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: com.wappkit.excel.lite</description>
       <pubDate>Thu, 05 Nov 2026 00:48:46 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.wappkit.excel.lite</description>
       <description>Registers phpstorm:// and idea:// URL handlers on Windows so links such as phpstorm://open?url=file://%f&amp;amp;line=%l open the file in the IDE instance that owns the...
 
 vendor: NOW Tech
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: dev.nowtech.php.protocol</description>
       <pubDate>Wed, 04 Nov 2026 23:53:29 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: dev.nowtech.php.protocol</description>
       <description>Installs the Claude CLI agent for JetBrains AI Chat (ACP), so you can use Claude Code Teams with the same claude login as in the terminal — not the JetBrains-hosted...
 
 vendor: NOW Tech
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: dev.nowtech.aichat.claudecli.native</description>
       <pubDate>Wed, 04 Nov 2026 23:45:47 GMT</pubDate>
@@ -136,17 +136,17 @@ xmlId: dev.nowtech.aichat.claudecli.native</description>
       <dc:date>2026-11-04T23:45:47Z</dc:date>
     </item>
     <item>
-      <title>Drawuml - PlantUML Diagrams - Wed Nov 04 22:04:51 UTC 2026</title>
+      <title>Drawuml - PlantUML Diagrams - Thu Nov 05 23:50:53 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35807-drawuml--plantuml-diagrams</link>
       <description>Edit PlantUML UML diagrams visually, in sync with your .puml file. Elements sit on a canvas, you connect and rename them by hand, and the PlantUML code is kept up to...
 
 vendor: DrawDiags
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: com.drawdiags.drawuml</description>
-      <pubDate>Wed, 04 Nov 2026 22:04:51 GMT</pubDate>
+      <pubDate>Thu, 05 Nov 2026 23:50:53 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35807-drawuml--plantuml-diagrams</guid>
-      <dc:date>2026-11-04T22:04:51Z</dc:date>
+      <dc:date>2026-11-05T23:50:53Z</dc:date>
     </item>
     <item>
       <title>Drawtabase - Schema Designer - Thu Nov 05 23:51:21 UTC 2026</title>
@@ -154,7 +154,7 @@ xmlId: com.drawdiags.drawuml</description>
       <description>Design a relational database schema visually, in sync with your SQL file. Tables sit on a canvas with their columns, foreign keys are drawn from column to column, and...
 
 vendor: DrawDiags
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.drawdiags.drawtabase</description>
       <pubDate>Thu, 05 Nov 2026 23:51:21 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: com.drawdiags.drawtabase</description>
       <description>Design an HTTP API visually, in sync with your OpenAPI YAML file. Drawpenapi shows the API the way Swagger UI does — tags, operations, schemas — and makes every part...
 
 vendor: DrawDiags
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.drawdiags.drawpenapi</description>
       <pubDate>Thu, 05 Nov 2026 23:51:38 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.drawdiags.drawpenapi</description>
       <description>Edit Mermaid diagrams visually, in sync with your .mmd file. Drag shapes on a canvas, draw the connections, rename things in place, and the Mermaid code is kept up to...
 
 vendor: DrawDiags
-downloads: 0
+downloads: 11
 pricingModel: FREE
 xmlId: com.drawdiags.drawmaid</description>
       <pubDate>Thu, 05 Nov 2026 23:52:15 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.drawdiags.drawmaid</description>
       <description>See a JSON or YAML file as a tree, and edit it there. Objects and arrays are blocks on a canvas, their values are rows inside the block, and a line joins each block to...
 
 vendor: DrawDiags
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.drawdiags.drawlize</description>
       <pubDate>Thu, 05 Nov 2026 23:52:33 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.drawdiags.drawlize</description>
       <description>Apache Solr client in the IDE: query collections and cores, see the documents, facets and the whole response, and edit documents. Browse the collections of SolrCloud...
 
 vendor: Jim Apps
-downloads: 0
+downloads: 6
 pricingModel: PAID
 xmlId: dev.jimapps.solr</description>
       <pubDate>Wed, 04 Nov 2026 18:05:52 GMT</pubDate>
@@ -214,17 +214,17 @@ xmlId: dev.jimapps.solr</description>
       <dc:date>2026-11-04T18:05:52Z</dc:date>
     </item>
     <item>
-      <title>Hydra Defaults Navigation - Thu Nov 05 10:36:04 UTC 2026</title>
+      <title>Hydra Defaults Navigation - Fri Nov 06 08:04:27 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35797-hydra-defaults-navigation</link>
-      <description>Cmd/Ctrl+click on a Hydra defaults: entry such as - model: base opens &amp;lt;config root&amp;gt;/model/base.yaml. Handles override, optional, absolute /group keys...
+      <description>Navigate and edit Hydra configs from PyCharm:Defaults navigation: Cmd/Ctrl+click a defaults: entry to open its YAML file; renaming the file updates the entry._target...
 
 vendor: Saifeddine Jarboui
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: hydranav</description>
-      <pubDate>Thu, 05 Nov 2026 10:36:04 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 08:04:27 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35797-hydra-defaults-navigation</guid>
-      <dc:date>2026-11-05T10:36:04Z</dc:date>
+      <dc:date>2026-11-06T08:04:27Z</dc:date>
     </item>
     <item>
       <title>Onewindow - Wed Nov 04 19:51:50 UTC 2026</title>
@@ -232,7 +232,7 @@ xmlId: hydranav</description>
       <description>Shows every open project as a tab in the main toolbar, like documents in a word processor or pages in a browser. Click a tab to switch projects, or use Next/Previous...
 
 vendor: CracklyBody
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: dev.onewindow</description>
       <pubDate>Wed, 04 Nov 2026 19:51:50 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: dev.onewindow</description>
       <description>Codebud is an asynchronous technical interview colleague for JetBrains IDEs (IntelliJ IDEA, WebStorm, PyCharm, Rider, GoLand, CLion, RustRover, PhpStorm, RubyMine, and...
 
 vendor: The Only Software Hub
-downloads: 5
+downloads: 12
 pricingModel: FREE
 xmlId: za.co.tosh.codebud</description>
       <pubDate>Wed, 04 Nov 2026 06:46:18 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: za.co.tosh.codebud</description>
       <description>Project management in your IDE — tickets where you already code. Tickets tool window — search and a detail panel for a Spedy ticket. Until Spedy is connected, the...
 
 vendor: Felix Astner Software
-downloads: 8
+downloads: 16
 pricingModel: FREE
 xmlId: com.felixastner.projects</description>
       <pubDate>Wed, 04 Nov 2026 18:38:06 GMT</pubDate>
