@@ -6,6 +6,58 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Bundle Impact Lens - Thu Nov 05 19:29:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35837-bundle-impact-lens</link>
+      <description>Why did this build get larger? Bundle Impact Lens compares selected Webpack 5 build records and connects observed output changes to module identities, importer paths...
+
+vendor: AFK Mesh
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.bundleimpactlens</description>
+      <pubDate>Thu, 05 Nov 2026 19:29:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35837-bundle-impact-lens</guid>
+      <dc:date>2026-11-05T19:29:44Z</dc:date>
+    </item>
+    <item>
+      <title>Playwright Failure Diff - Thu Nov 05 19:36:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35839-playwright-failure-diff</link>
+      <description>Compare successful and failed local Playwright Test attempts and see the first supported action divergence with recorded evidence.Free: one selected attempt summary...
+
+vendor: AFK Mesh
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.playwrightfailurediff</description>
+      <pubDate>Thu, 05 Nov 2026 19:36:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35839-playwright-failure-diff</guid>
+      <dc:date>2026-11-05T19:36:56Z</dc:date>
+    </item>
+    <item>
+      <title>Core Banking BASIC Tools - Fri Nov 06 06:49:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35850-core-banking-basic-tools</link>
+      <description>Editing, navigation, compilation and debugging of MultiValue BASIC sources (.b, .component) in IntelliJ IDEA, for Java-based BASIC runtimes such as TAFJ. BASIC file...
+
+vendor: DuMa
+downloads: 0
+pricingModel: FREE
+xmlId: duma.cbbasic</description>
+      <pubDate>Fri, 06 Nov 2026 06:49:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35850-core-banking-basic-tools</guid>
+      <dc:date>2026-11-06T06:49:14Z</dc:date>
+    </item>
+    <item>
+      <title>Godot Analyze - Thu Nov 05 13:23:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35821-godot-analyze</link>
+      <description>A native GDScript and Godot 4 IDE for every JetBrains IDE – plug and play, no language server, no Godot editor in the background. Open as many projects as you like and...
+
+vendor: fvoid
+downloads: 0
+pricingModel: FREE
+xmlId: canton.fvoid.godot.godot-analyze</description>
+      <pubDate>Thu, 05 Nov 2026 13:23:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35821-godot-analyze</guid>
+      <dc:date>2026-11-05T13:23:59Z</dc:date>
+    </item>
+    <item>
       <title>AI Commit Composer - Fri Nov 06 06:35:38 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35849-ai-commit-composer</link>
       <description>Generates a Conventional Commit message from the changes included in the Commit tool window. The message is written back into the commit message field for review. Use...
@@ -212,58 +264,6 @@ xmlId: dev.hmd.whippy</description>
       <pubDate>Sun, 01 Nov 2026 17:05:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35709-whippy-wit</guid>
       <dc:date>2026-11-01T17:05:15Z</dc:date>
-    </item>
-    <item>
-      <title>Worktree Lifecycle MCP - Thu Nov 05 14:46:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35826-worktree-lifecycle-mcp</link>
-      <description>Let your MCP client manage independent IntelliJ Platform projects by directory, without attaching them to another project or opening duplicate windows. Inspect open...
-
-vendor: ValTM
-downloads: 0
-pricingModel: FREE
-xmlId: com.github.valtm.worktree.lifecycle</description>
-      <pubDate>Thu, 05 Nov 2026 14:46:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35826-worktree-lifecycle-mcp</guid>
-      <dc:date>2026-11-05T14:46:46Z</dc:date>
-    </item>
-    <item>
-      <title>Explyt AI Agent - Mon Nov 02 18:41:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35626-explyt-ai-agent</link>
-      <description>Explyt AI Agent is an AI coding agent inside your JetBrains IDE. Describe a task in the chat, and the agent reads your project, edits the code and runs the commands it...
-
-vendor: Explicit Insights LLC
-downloads: 78
-pricingModel: FREE
-xmlId: com.explyt.neo</description>
-      <pubDate>Mon, 02 Nov 2026 18:41:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35626-explyt-ai-agent</guid>
-      <dc:date>2026-11-02T18:41:27Z</dc:date>
-    </item>
-    <item>
-      <title>TS Costs - Fri Nov 06 15:57:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35858-ts-costs</link>
-      <description>Find expensive TypeScript checks directly in your editor, including Vue single-file components. Measured inline costs with source fingerprints to hide stale results...
-
-vendor: Maciej Kaczorowski
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.derpdead.tscosts</description>
-      <pubDate>Fri, 06 Nov 2026 15:57:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35858-ts-costs</guid>
-      <dc:date>2026-11-06T15:57:03Z</dc:date>
-    </item>
-    <item>
-      <title>HTML Render - Thu Nov 05 08:36:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35817-html-render</link>
-      <description>Features Open rendered, instantly — double-click any .html file and it opens as a rendered page, no source editor, no split view. Layout control — switch between...
-
-vendor: jiweidada
-downloads: 0
-pricingModel: FREE
-xmlId: com.jiweidada.htmlrender</description>
-      <pubDate>Thu, 05 Nov 2026 08:36:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35817-html-render</guid>
-      <dc:date>2026-11-05T08:36:51Z</dc:date>
     </item>
   </channel>
 </rss>
