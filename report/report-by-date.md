@@ -1,8 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.1.0 to 20.2.0 ~ 2026-11-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Nov 06 18:40:27 UTC 2026|
+|![logo](../media/logo/gradle.png) Gradle|9.9.0|[gradle.org](https://gradle.org/releases)|Fri Nov 06 18:39:00 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 06 18:38:50 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:45 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:45 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.20.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:41 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.3 (263.7307.200) ~ 2026-11-05|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Nov 05 11:42:45 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 11:42:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 11:42:00 UTC 2026|
@@ -22,8 +24,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 08:59:38 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Oct 20 09:12:16 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.3|[golang.org](https://golang.org/dl/)|Tue Oct 20 02:29:37 UTC 2026|
-|![logo](../media/logo/gradle.png) Gradle|9.8.2|[gradle.org](https://gradle.org/releases)|Mon Oct 19 23:12:03 UTC 2026|
-|![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.0.5 to 20.1.0 ~ 2026-10-18|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Sun Oct 18 18:35:02 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:43:30 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 16:08:16 UTC 2026|
