@@ -6,12 +6,51 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Design Token Guard - Fri Nov 06 21:27:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35841-design-token-guard</link>
+      <description>See where local design tokens drift, navigate their references, and review deliberate replacements for hard-coded CSS and SCSS values. FREE: Browse a local token...
+
+vendor: AFK Mesh
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.designtokenguard</description>
+      <pubDate>Fri, 06 Nov 2026 21:27:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35841-design-token-guard</guid>
+      <dc:date>2026-11-06T21:27:43Z</dc:date>
+    </item>
+    <item>
+      <title>Monorepo Release Guard - Thu Nov 05 20:24:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35842-monorepo-release-guard</link>
+      <description>See which workspace packages will change version, and inspect gaps before release.Free: local npm/pnpm workspace and dependency summary. Pro: selected Changesets...
+
+vendor: AFK Mesh
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.monoreporeleaseguard</description>
+      <pubDate>Thu, 05 Nov 2026 20:24:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35842-monorepo-release-guard</guid>
+      <dc:date>2026-11-05T20:24:20Z</dc:date>
+    </item>
+    <item>
+      <title>Timezone Test Studio - Thu Nov 05 19:33:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35838-timezone-test-studio</link>
+      <description>Test how your date calculations behave at month end, on leap days, and across timezone transitions. Timezone Test Studio prepares repeatable Java java.time boundary...
+
+vendor: AFK Mesh
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.timezoneteststudio</description>
+      <pubDate>Thu, 05 Nov 2026 19:33:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35838-timezone-test-studio</guid>
+      <dc:date>2026-11-05T19:33:53Z</dc:date>
+    </item>
+    <item>
       <title>Bundle Impact Lens - Thu Nov 05 19:29:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35837-bundle-impact-lens</link>
       <description>Why did this build get larger? Bundle Impact Lens compares selected Webpack 5 build records and connects observed output changes to module identities, importer paths...
 
 vendor: AFK Mesh
-downloads: 1
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.bundleimpactlens</description>
       <pubDate>Thu, 05 Nov 2026 19:29:44 GMT</pubDate>
@@ -24,7 +63,7 @@ xmlId: com.afkmesh.bundleimpactlens</description>
       <description>Compare successful and failed local Playwright Test attempts and see the first supported action divergence with recorded evidence.Free: one selected attempt summary...
 
 vendor: AFK Mesh
-downloads: 0
+downloads: 2
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.playwrightfailurediff</description>
       <pubDate>Thu, 05 Nov 2026 19:36:56 GMT</pubDate>
@@ -37,7 +76,7 @@ xmlId: com.afkmesh.playwrightfailurediff</description>
       <description>Editing, navigation, compilation and debugging of MultiValue BASIC sources (.b, .component) in IntelliJ IDEA, for Java-based BASIC runtimes such as TAFJ. BASIC file...
 
 vendor: DuMa
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: duma.cbbasic</description>
       <pubDate>Fri, 06 Nov 2026 06:49:14 GMT</pubDate>
@@ -50,7 +89,7 @@ xmlId: duma.cbbasic</description>
       <description>A native GDScript and Godot 4 IDE for every JetBrains IDE – plug and play, no language server, no Godot editor in the background. Open as many projects as you like and...
 
 vendor: fvoid
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: canton.fvoid.godot.godot-analyze</description>
       <pubDate>Thu, 05 Nov 2026 13:23:59 GMT</pubDate>
@@ -63,7 +102,7 @@ xmlId: canton.fvoid.godot.godot-analyze</description>
       <description>Generates a Conventional Commit message from the changes included in the Commit tool window. The message is written back into the commit message field for review. Use...
 
 vendor: AI Commit Composer
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.github.aicommit.message</description>
       <pubDate>Fri, 06 Nov 2026 06:35:38 GMT</pubDate>
@@ -76,7 +115,7 @@ xmlId: com.github.aicommit.message</description>
       <description>Editor support for pyside-iconify, a Python library that draws Iconify icons in PySide (Qt) applications. It works on calls to IconWidget, get_icon, get_pixmap and...
 
 vendor: JerryLu
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: lingchen.pyside-iconify</description>
       <pubDate>Fri, 06 Nov 2026 05:36:19 GMT</pubDate>
@@ -89,7 +128,7 @@ xmlId: lingchen.pyside-iconify</description>
       <description>Static analysis for Oracle SQL and PL/SQL right in the editor. Catches the bugs that slip through code review in every Oracle shop, with no database connection and no...
 
 vendor: Catalonec Tools
-downloads: 0
+downloads: 3
 pricingModel: FREEMIUM
 xmlId: io.github.catalonec1.plsql-lint</description>
       <pubDate>Thu, 05 Nov 2026 13:20:32 GMT</pubDate>
@@ -102,7 +141,7 @@ xmlId: io.github.catalonec1.plsql-lint</description>
       <description>Build with AI one reviewed code chunk at a time. Describe a goal, approve the plan, then review every proposed change in the IDE diff viewer before it touches your...
 
 vendor: Pair Flow
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: dev.pairflow.jetbrains</description>
       <pubDate>Thu, 05 Nov 2026 14:43:18 GMT</pubDate>
@@ -115,7 +154,7 @@ xmlId: dev.pairflow.jetbrains</description>
       <description>Attaches the debugger to tests run within a container by GroundControl.
 
 vendor: Uladzislau Trayan
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: groundcontrol</description>
       <pubDate>Thu, 05 Nov 2026 13:57:56 GMT</pubDate>
@@ -128,7 +167,7 @@ xmlId: groundcontrol</description>
       <description>Every ML run, remembered: its code, config, environment, metrics and why. Your Hunch experiment journal, inside PyCharm. The tree of runs, with each run's hypothesis...
 
 vendor: Sigmoid IDE
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.sigmoidide.hunch</description>
       <pubDate>Thu, 05 Nov 2026 15:36:25 GMT</pubDate>
@@ -141,7 +180,7 @@ xmlId: com.github.sigmoidide.hunch</description>
       <description>Brings the Playwright Test for VS Code features to JetBrains IDEs, on top of the built-in Playwright run configurations of the JavaScript plugin: Record a new test, or...
 
 vendor: Playwright-Intellij
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: dev.uzi.playwright</description>
       <pubDate>Thu, 05 Nov 2026 10:14:10 GMT</pubDate>
@@ -149,17 +188,17 @@ xmlId: dev.uzi.playwright</description>
       <dc:date>2026-11-05T10:14:10Z</dc:date>
     </item>
     <item>
-      <title>Declutter Tree - Thu Nov 05 14:35:46 UTC 2026</title>
+      <title>Declutter Tree - Sat Nov 07 06:54:52 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35828-declutter-tree</link>
-      <description>Declutter Tree customizes the Project View file ordering in IntelliJ IDEA. It keeps folders on top, groups Java files by declaration type, and moves metadata files...
+      <description>Declutter Tree customizes the Project View file ordering in IntelliJ IDEA. It keeps folders on top, groups Java and Kotlin files by declaration type, and lets you...
 
 vendor: Vin
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.vin51435.decluttertree</description>
-      <pubDate>Thu, 05 Nov 2026 14:35:46 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 06:54:52 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35828-declutter-tree</guid>
-      <dc:date>2026-11-05T14:35:46Z</dc:date>
+      <dc:date>2026-11-07T06:54:52Z</dc:date>
     </item>
     <item>
       <title>Zserio - Thu Nov 05 15:46:55 UTC 2026</title>
@@ -167,7 +206,7 @@ xmlId: com.github.vin51435.decluttertree</description>
       <description>Language support for Zserio schema files (*.zs). Supports Zserio 2.0 to 2.20 without any configuration. Syntax highlighting and semantic highlighting of types, fields...
 
 vendor: tandcode
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: org.zserio.language</description>
       <pubDate>Thu, 05 Nov 2026 15:46:55 GMT</pubDate>
@@ -180,7 +219,7 @@ xmlId: org.zserio.language</description>
       <description>This plugin adds syntax highlighting support for ArkType. It's a fork, original repo here. The original doesn't support 2026+ versions of the IDE. Hopefully they can...
 
 vendor: rbower
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: com.github.rbower.arktypeideapluginfork</description>
       <pubDate>Thu, 05 Nov 2026 19:55:58 GMT</pubDate>
@@ -193,7 +232,7 @@ xmlId: com.github.rbower.arktypeideapluginfork</description>
       <description>Visual static workflow explorer, real-time inspector, and developer tools for Siglo workflows.
 
 vendor: Siglo
-downloads: 0
+downloads: 5
 pricingModel: FREE
 xmlId: io.siglo.idea</description>
       <pubDate>Thu, 05 Nov 2026 12:24:23 GMT</pubDate>
@@ -206,7 +245,7 @@ xmlId: io.siglo.idea</description>
       <description>git-flow inside your JetBrains IDE, built natively on the IDE's Git integration. No git-flow command-line tool to install, nothing that breaks when the IDE updates...
 
 vendor: PuzariCloud
-downloads: 4
+downloads: 7
 pricingModel: FREEMIUM
 xmlId: in.puzaricloud.gitflowpro</description>
       <pubDate>Tue, 03 Nov 2026 06:15:48 GMT</pubDate>
@@ -219,51 +258,12 @@ xmlId: in.puzaricloud.gitflowpro</description>
       <description>Icons for Java and Spring projects, inspired by the Catppuccin palette. Classes: a mascot shows what the class is (class, interface, record, enum, annotation or...
 
 vendor: EricLps
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: org.ericlps.layer-icons</description>
       <pubDate>Fri, 06 Nov 2026 05:01:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35847-layer-icons</guid>
       <dc:date>2026-11-06T05:01:03Z</dc:date>
-    </item>
-    <item>
-      <title>maddi - Tue Nov 03 06:06:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35731-maddi</link>
-      <description>Immutability, modification and nullability analysis for Java and Kotlin, shown in the editor. maddi analyses a whole project and shows its conclusions beside each...
-
-vendor: CodeLaser
-downloads: 2
-pricingModel: FREE
-xmlId: io.codelaser.maddi</description>
-      <pubDate>Tue, 03 Nov 2026 06:06:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35731-maddi</guid>
-      <dc:date>2026-11-03T06:06:35Z</dc:date>
-    </item>
-    <item>
-      <title>Herdr Session Manager - Thu Nov 05 08:47:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35818-herdr-session-manager</link>
-      <description>Lists the herdr-core terminals of the open project in a sidebar and opens them in editor tabs. Coding agents such as Claude Code, Codex, pi and OpenCode show their...
-
-vendor: knthmn
-downloads: 0
-pricingModel: FREE
-xmlId: dev.knthmn.herdr-session-manager</description>
-      <pubDate>Thu, 05 Nov 2026 08:47:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35818-herdr-session-manager</guid>
-      <dc:date>2026-11-05T08:47:56Z</dc:date>
-    </item>
-    <item>
-      <title>Whippy WIT - Sun Nov 01 17:05:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35709-whippy-wit</link>
-      <description>Whippy WIT adds language support for WIT (WebAssembly Interface Types), the interface definition language of the WebAssembly Component Model and WASI. Syntax...
-
-vendor: Handmade Digital Co.
-downloads: 1
-pricingModel: FREE
-xmlId: dev.hmd.whippy</description>
-      <pubDate>Sun, 01 Nov 2026 17:05:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35709-whippy-wit</guid>
-      <dc:date>2026-11-01T17:05:15Z</dc:date>
     </item>
   </channel>
 </rss>
