@@ -11,7 +11,7 @@
       <description>See where local design tokens drift, navigate their references, and review deliberate replacements for hard-coded CSS and SCSS values. FREE: Browse a local token...
 
 vendor: AFK Mesh
-downloads: 1
+downloads: 8
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.designtokenguard</description>
       <pubDate>Fri, 06 Nov 2026 21:27:43 GMT</pubDate>
@@ -24,7 +24,7 @@ xmlId: com.afkmesh.designtokenguard</description>
       <description>See which workspace packages will change version, and inspect gaps before release.Free: local npm/pnpm workspace and dependency summary. Pro: selected Changesets...
 
 vendor: AFK Mesh
-downloads: 1
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.monoreporeleaseguard</description>
       <pubDate>Thu, 05 Nov 2026 20:24:20 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.afkmesh.monoreporeleaseguard</description>
       <description>Test how your date calculations behave at month end, on leap days, and across timezone transitions. Timezone Test Studio prepares repeatable Java java.time boundary...
 
 vendor: AFK Mesh
-downloads: 1
+downloads: 7
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.timezoneteststudio</description>
       <pubDate>Thu, 05 Nov 2026 19:33:53 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: com.afkmesh.timezoneteststudio</description>
       <description>Why did this build get larger? Bundle Impact Lens compares selected Webpack 5 build records and connects observed output changes to module identities, importer paths...
 
 vendor: AFK Mesh
-downloads: 5
+downloads: 12
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.bundleimpactlens</description>
       <pubDate>Thu, 05 Nov 2026 19:29:44 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: com.afkmesh.bundleimpactlens</description>
       <description>Compare successful and failed local Playwright Test attempts and see the first supported action divergence with recorded evidence.Free: one selected attempt summary...
 
 vendor: AFK Mesh
-downloads: 2
+downloads: 9
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.playwrightfailurediff</description>
       <pubDate>Thu, 05 Nov 2026 19:36:56 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: com.afkmesh.playwrightfailurediff</description>
       <description>Editing, navigation, compilation and debugging of MultiValue BASIC sources (.b, .component) in IntelliJ IDEA, for Java-based BASIC runtimes such as TAFJ. BASIC file...
 
 vendor: DuMa
-downloads: 4
+downloads: 11
 pricingModel: FREE
 xmlId: duma.cbbasic</description>
       <pubDate>Fri, 06 Nov 2026 06:49:14 GMT</pubDate>
@@ -89,7 +89,7 @@ xmlId: duma.cbbasic</description>
       <description>A native GDScript and Godot 4 IDE for every JetBrains IDE – plug and play, no language server, no Godot editor in the background. Open as many projects as you like and...
 
 vendor: fvoid
-downloads: 3
+downloads: 17
 pricingModel: FREE
 xmlId: canton.fvoid.godot.godot-analyze</description>
       <pubDate>Thu, 05 Nov 2026 13:23:59 GMT</pubDate>
@@ -102,7 +102,7 @@ xmlId: canton.fvoid.godot.godot-analyze</description>
       <description>Generates a Conventional Commit message from the changes included in the Commit tool window. The message is written back into the commit message field for review. Use...
 
 vendor: AI Commit Composer
-downloads: 2
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.aicommit.message</description>
       <pubDate>Fri, 06 Nov 2026 06:35:38 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: com.github.aicommit.message</description>
       <description>Editor support for pyside-iconify, a Python library that draws Iconify icons in PySide (Qt) applications. It works on calls to IconWidget, get_icon, get_pixmap and...
 
 vendor: JerryLu
-downloads: 4
+downloads: 13
 pricingModel: FREE
 xmlId: lingchen.pyside-iconify</description>
       <pubDate>Fri, 06 Nov 2026 05:36:19 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: lingchen.pyside-iconify</description>
       <description>Static analysis for Oracle SQL and PL/SQL right in the editor. Catches the bugs that slip through code review in every Oracle shop, with no database connection and no...
 
 vendor: Catalonec Tools
-downloads: 3
+downloads: 10
 pricingModel: FREEMIUM
 xmlId: io.github.catalonec1.plsql-lint</description>
       <pubDate>Thu, 05 Nov 2026 13:20:32 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: io.github.catalonec1.plsql-lint</description>
       <description>Build with AI one reviewed code chunk at a time. Describe a goal, approve the plan, then review every proposed change in the IDE diff viewer before it touches your...
 
 vendor: Pair Flow
-downloads: 4
+downloads: 13
 pricingModel: FREE
 xmlId: dev.pairflow.jetbrains</description>
       <pubDate>Thu, 05 Nov 2026 14:43:18 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: dev.pairflow.jetbrains</description>
       <description>Attaches the debugger to tests run within a container by GroundControl.
 
 vendor: Uladzislau Trayan
-downloads: 2
+downloads: 5
 pricingModel: FREE
 xmlId: groundcontrol</description>
       <pubDate>Thu, 05 Nov 2026 13:57:56 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: groundcontrol</description>
       <description>Every ML run, remembered: its code, config, environment, metrics and why. Your Hunch experiment journal, inside PyCharm. The tree of runs, with each run's hypothesis...
 
 vendor: Sigmoid IDE
-downloads: 3
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.sigmoidide.hunch</description>
       <pubDate>Sat, 07 Nov 2026 13:33:46 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: com.github.sigmoidide.hunch</description>
       <description>Brings the Playwright Test for VS Code features to JetBrains IDEs, on top of the built-in Playwright run configurations of the JavaScript plugin: Record a new test, or...
 
 vendor: Playwright-Intellij
-downloads: 3
+downloads: 10
 pricingModel: FREE
 xmlId: dev.uzi.playwright</description>
       <pubDate>Thu, 05 Nov 2026 10:14:10 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: dev.uzi.playwright</description>
       <description>Declutter Tree customizes the Project View file ordering in IntelliJ IDEA. It keeps folders on top, groups Java and Kotlin files by declaration type, and lets you...
 
 vendor: Vin
-downloads: 3
+downloads: 24
 pricingModel: FREE
 xmlId: com.github.vin51435.decluttertree</description>
       <pubDate>Sat, 07 Nov 2026 06:54:52 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: com.github.vin51435.decluttertree</description>
       <description>Language support for Zserio schema files (*.zs). Supports Zserio 2.0 to 2.20 without any configuration. Syntax highlighting and semantic highlighting of types, fields...
 
 vendor: tandcode
-downloads: 3
+downloads: 10
 pricingModel: FREE
 xmlId: org.zserio.language</description>
       <pubDate>Thu, 05 Nov 2026 15:46:55 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: org.zserio.language</description>
       <description>This plugin adds syntax highlighting support for ArkType. It's a fork, original repo here. The original doesn't support 2026+ versions of the IDE. Hopefully they can...
 
 vendor: rbower
-downloads: 6
+downloads: 13
 pricingModel: FREE
 xmlId: com.github.rbower.arktypeideapluginfork</description>
       <pubDate>Thu, 05 Nov 2026 19:55:58 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: com.github.rbower.arktypeideapluginfork</description>
       <description>Visual static workflow explorer, real-time inspector, and developer tools for Siglo workflows.
 
 vendor: Siglo
-downloads: 5
+downloads: 12
 pricingModel: FREE
 xmlId: io.siglo.idea</description>
       <pubDate>Thu, 05 Nov 2026 12:24:23 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: io.siglo.idea</description>
       <description>git-flow inside your JetBrains IDE, built natively on the IDE's Git integration. No git-flow command-line tool to install, nothing that breaks when the IDE updates...
 
 vendor: PuzariCloud
-downloads: 7
+downloads: 14
 pricingModel: FREEMIUM
 xmlId: in.puzaricloud.gitflowpro</description>
       <pubDate>Tue, 03 Nov 2026 06:15:48 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: in.puzaricloud.gitflowpro</description>
       <description>Icons for Java and Spring projects, inspired by the Catppuccin palette. Classes: a mascot shows what the class is (class, interface, record, enum, annotation or...
 
 vendor: EricLps
-downloads: 4
+downloads: 11
 pricingModel: FREE
 xmlId: org.ericlps.layer-icons</description>
       <pubDate>Fri, 06 Nov 2026 05:01:03 GMT</pubDate>
