@@ -19,7 +19,10 @@ localapp:
     uc: "report/uc.properties"
     jb-marketplace-plugins-latest-all: "report/report.jb-marketplace-plugins-all.rss.xml"
     jb-marketplace-plugins-latest-jetbrains: "report/report.jb-marketplace-plugins-jetbrains.rss.xml"
+    tuxedo-infinity-book-pro-gen10-amd-rss: "report/Tuxedo_InfinityBook_Pro_Gen10_AMD.rss.xml"
+    tuxedo-infinity-book-pro-gen10-amd-md-by-date: "report/Tuxedo_InfinityBook_Pro_Gen10_AMD-by-date.md"
   statusfile:
     md: "report/status.md"
     rss: "report/status.rss.xml"
     atom: "report/status.atom.xml"
+    tuxedo-infinity-book-pro-gen10-amd-md: "report/Tuxedo_InfinityBook_Pro_Gen10_AMD-status.md"

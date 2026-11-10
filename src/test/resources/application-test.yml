@@ -10,7 +10,10 @@ localapp:
     atom: "build/test-root/report.atom.xml"
     props: "build/tes-report/report.properties"
     uc: "build/tes-report/uc.properties"
+    tuxedo-infinity-book-pro-gen10-amd-rss: "build/test-root/Tuxedo_InfinityBook_Pro_Gen10_AMD.rss.xml"
+    tuxedo-infinity-book-pro-gen10-amd-md-by-date: "build/test-root/Tuxedo_InfinityBook_Pro_Gen10_AMD-by-date.md"
   statusfile:
     md: "build/test-root/status.md"
     rss: "build/test-root/status.rss.xml"
     atom: "build/test-root/status.atom.xml"
+    tuxedo-infinity-book-pro-gen10-amd-md: "build/test-root/Tuxedo_InfinityBook_Pro_Gen10_AMD-status.md"

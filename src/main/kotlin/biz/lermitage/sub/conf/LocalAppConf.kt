@@ -17,6 +17,8 @@ class LocalAppConf {
         lateinit var uc: String
         lateinit var jbMarketplacePluginsLatestAll: String
         lateinit var jbMarketplacePluginsLatestJetbrains: String
+        lateinit var tuxedoInfinityBookProGen10AmdRss: String
+        lateinit var tuxedoInfinityBookProGen10AmdMdByDate: String
     }
 
     val statusFile = StatusFile()
@@ -25,5 +27,6 @@ class LocalAppConf {
         lateinit var md: String
         lateinit var rss: String
         lateinit var atom: String
+        lateinit var tuxedoInfinityBookProGen10AmdMd: String
     }
 }

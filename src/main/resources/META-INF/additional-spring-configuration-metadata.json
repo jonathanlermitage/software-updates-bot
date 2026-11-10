@@ -59,6 +59,21 @@
             "name": "localapp.reportfile.jb-marketplace-plugins-latest-jetbrains",
             "type": "java.lang.String",
             "description": "RSS file path for the list of the latest JetBrains plugins on the JetBrains marketplace."
+        },
+        {
+            "name": "localapp.reportfile.tuxedo-infinity-book-pro-gen10-amd-rss",
+            "type": "java.lang.String",
+            "description": "RSS file path for the software published for the Tuxedo InfinityBook Pro Gen10 AMD."
+        },
+        {
+            "name": "localapp.reportfile.tuxedo-infinity-book-pro-gen10-amd-md-by-date",
+            "type": "java.lang.String",
+            "description": "Markdown (ordered by date) file path for the software published for the Tuxedo InfinityBook Pro Gen10 AMD."
+        },
+        {
+            "name": "localapp.statusfile.tuxedo-infinity-book-pro-gen10-amd-md",
+            "type": "java.lang.String",
+            "description": "Markdown status file path of the Tuxedo InfinityBook Pro Gen10 AMD scrapper."
         }
     ]
 }
