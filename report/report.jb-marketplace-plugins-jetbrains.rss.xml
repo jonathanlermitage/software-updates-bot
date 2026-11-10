@@ -5,5 +5,18 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>Swift LSP - Fri Nov 06 18:57:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35866-swift-lsp</link>
+      <description>Experimental. Provides Swift language support through SourceKit-LSP from an existing Swift toolchain, including code completion, diagnostics, hover, and navigation...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.experimental.swift-lsp</description>
+      <pubDate>Fri, 06 Nov 2026 18:57:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35866-swift-lsp</guid>
+      <dc:date>2026-11-06T18:57:49Z</dc:date>
+    </item>
   </channel>
 </rss>

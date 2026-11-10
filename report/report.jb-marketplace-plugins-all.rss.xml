@@ -6,6 +6,71 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Private AI - Tue Nov 10 12:44:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/33354-private-ai</link>
+      <description>Private AI Plugin brings local, privacy-first coding assistance into IntelliJ IDEA using Ollama-hosted models (optimized for Qwen). Key capabilities include...
+
+vendor: Private AI
+downloads: 1
+pricingModel: FREE
+xmlId: private-ai-plugin</description>
+      <pubDate>Tue, 10 Nov 2026 12:44:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/33354-private-ai</guid>
+      <dc:date>2026-11-10T12:44:14Z</dc:date>
+    </item>
+    <item>
+      <title>Easy Spring - Sun Nov 08 14:11:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35905-easy-spring</link>
+      <description>Spring Plugin — Lightweight Fork A lightweight fork of the Spring plugin for IntelliJ IDEA, maintained at grisha9/spring-plugin. This fork is based on the original...
+
+vendor: Grigoriy Myasoedov
+downloads: 0
+pricingModel: FREE
+xmlId: ru.rzn.gmyasoedov.spring</description>
+      <pubDate>Sun, 08 Nov 2026 14:11:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35905-easy-spring</guid>
+      <dc:date>2026-11-08T14:11:45Z</dc:date>
+    </item>
+    <item>
+      <title>Tinta - Code Themes - Mon Nov 09 09:29:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35820-tinta--code-themes</link>
+      <description>The companion plugin of Tinta – Code Themes, the app for Mac and Windows with a growing gallery of themes for your code editors. After this one-time install, every...
+
+vendor: UsableUtilities
+downloads: 1
+pricingModel: FREE
+xmlId: com.usableutilities.tinta</description>
+      <pubDate>Mon, 09 Nov 2026 09:29:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35820-tinta--code-themes</guid>
+      <dc:date>2026-11-09T09:29:07Z</dc:date>
+    </item>
+    <item>
+      <title>AI Sessions Dashboard - Tue Nov 10 10:13:24 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35961-ai-sessions-dashboard</link>
+      <description>Token usage tree of your AI coding agent sessions, right inside the IDE. Shows every session of OpenCode, Claude Code, GitHub Copilot CLI and Codex together with all...
+
+vendor: Artur Faizov
+downloads: 0
+pricingModel: FREE
+xmlId: arturfaizov.aisessions</description>
+      <pubDate>Tue, 10 Nov 2026 10:13:24 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35961-ai-sessions-dashboard</guid>
+      <dc:date>2026-11-10T10:13:24Z</dc:date>
+    </item>
+    <item>
+      <title>Swift LSP - Fri Nov 06 18:57:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35866-swift-lsp</link>
+      <description>Experimental. Provides Swift language support through SourceKit-LSP from an existing Swift toolchain, including code completion, diagnostics, hover, and navigation...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.experimental.swift-lsp</description>
+      <pubDate>Fri, 06 Nov 2026 18:57:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35866-swift-lsp</guid>
+      <dc:date>2026-11-06T18:57:49Z</dc:date>
+    </item>
+    <item>
       <title>yof - Fri Nov 06 23:28:45 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35871-yof</link>
       <description>Leaked keys and made-up packages, marked in the editor when you save, each with a plain explanation and a prompt to paste into the AI assistant that wrote the code...
@@ -199,71 +264,6 @@ xmlId: io.github.catalonec1.ora-error-helper</description>
       <pubDate>Sun, 08 Nov 2026 20:36:15 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35912-ora-error-helper</guid>
       <dc:date>2026-11-08T20:36:15Z</dc:date>
-    </item>
-    <item>
-      <title>Oracle Plan Reader - Sun Nov 08 20:36:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35913-oracle-plan-reader</link>
-      <description>Reads Oracle execution plans (the text output of DBMS_XPLAN) and points at what to fix. Paste a plan from SQL*Plus, SQLcl, SQL Developer, DataGrip or an application...
-
-vendor: Catalonec Tools
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: io.github.catalonec1.oracle-plan-reader</description>
-      <pubDate>Sun, 08 Nov 2026 20:36:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35913-oracle-plan-reader</guid>
-      <dc:date>2026-11-08T20:36:25Z</dc:date>
-    </item>
-    <item>
-      <title>Prerun for GitLab - Tue Nov 03 14:46:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35760-prerun-for-gitlab</link>
-      <description>See your GitLab CI/CD pipeline before you push it. Prerun reads .gitlab-ci.yml and everything it includes, and shows you the configuration GitLab will actually run...
-
-vendor: ALGD
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.algd.prerun</description>
-      <pubDate>Tue, 03 Nov 2026 14:46:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35760-prerun-for-gitlab</guid>
-      <dc:date>2026-11-03T14:46:55Z</dc:date>
-    </item>
-    <item>
-      <title>Resource Bundle Table - Sun Nov 08 13:10:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35900-resource-bundle-table</link>
-      <description>Edit all languages of a .properties resource bundle in one table in IntelliJ IDEA: one row per key, one column per language, Default first. Find missing translations...
-
-vendor: GRAMSHIFT
-downloads: 0
-pricingModel: PAID
-xmlId: com.gramshift.bundleeditor</description>
-      <pubDate>Sun, 08 Nov 2026 13:10:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35900-resource-bundle-table</guid>
-      <dc:date>2026-11-08T13:10:24Z</dc:date>
-    </item>
-    <item>
-      <title>SQL Replay - Thu Oct 29 03:48:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35615-sql-replay</link>
-      <description>Turn SQL logs back into SQL you can run. SQL Replay reads the statement and bind parameter lines that Hibernate, JPA, Spring JDBC, p6spy and friends print, puts a...
-
-vendor: Joe Simo
-downloads: 3
-pricingModel: FREEMIUM
-xmlId: io.github.joesimo.sqlreplay</description>
-      <pubDate>Thu, 29 Oct 2026 03:48:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35615-sql-replay</guid>
-      <dc:date>2026-10-29T03:48:10Z</dc:date>
-    </item>
-    <item>
-      <title>Octavo: QMD Document Tools - Fri Nov 06 20:31:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35868-octavo-qmd-document-tools</link>
-      <description>Quarto documents (.qmd) in PyCharm, IntelliJ IDEA, DataSpell and the other JetBrains IDEs: .qmd files open in the Markdown editor with its preview, plus the cells...
-
-vendor: KOT&amp;CO
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: kotco.octavo</description>
-      <pubDate>Fri, 06 Nov 2026 20:31:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35868-octavo-qmd-document-tools</guid>
-      <dc:date>2026-11-06T20:31:08Z</dc:date>
     </item>
   </channel>
 </rss>
