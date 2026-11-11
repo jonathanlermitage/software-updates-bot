@@ -23,6 +23,7 @@ enum class Logo(val img: String) {
     SPRING_BOOT("springboot.png"),
     VERACRYPT("veracrypt.png"),
     VLC("vlc.png"),
+    WINDHAWK("windhawk.png"),
 
     NONE("")
 }

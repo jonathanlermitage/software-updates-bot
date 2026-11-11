@@ -28,6 +28,7 @@ This bot currently monitors updates for:
 * Spring Boot
 * VeraCrypt
 * VLC
+* Windhawk (including pre-releases)
 
 > [!NOTE] 
 > **June 2024**: [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) and [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) have been removed as the www.techpowerup.com website displays a captcha when coming from a GitHub action. I have no solution for that (if I want to continue to use GitHub actions). Ideas or contributions are highly welcome and appreciated.
