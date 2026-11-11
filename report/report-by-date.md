@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.1|[nodejs.org](https://nodejs.org)|Wed Nov 11 18:58:57 UTC 2026|
 |![logo](../media/logo/windhawk.png) Windhawk|2.0 alpha 8|[github.com](https://github.com/ramensoftware/windhawk/releases)|Wed Nov 11 14:50:03 UTC 2026|
 |![logo](../media/logo/7zip.png) 7-Zip|26.06|[www.7-zip.org](https://www.7-zip.org)|Wed Nov 11 14:18:37 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.9.1|[gradle.org](https://gradle.org/releases)|Tue Nov 10 21:32:35 UTC 2026|
@@ -16,7 +17,6 @@
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Mon Nov 02 16:17:12 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|27.0.0-alpha.0.0.0|[nodejs.org](https://nodejs.org)|Thu Oct 29 23:43:15 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 29 17:44:13 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 28 17:35:59 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 28 17:34:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Oct 26 17:49:22 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 26 09:28:15 UTC 2026|

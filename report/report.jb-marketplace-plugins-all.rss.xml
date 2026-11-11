@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>VimImeSwitch - Wed Nov 11 04:45:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35982-vimimeswitch</link>
+      <description>Switch the macOS input source back to English when leaving Vim insert mode. Requires IdeaVim and macOS. IdeaVim 的扩展：从插入模式退回到普通模式时，自动把系统输入法切回英文。仅支持 macOS。 本插件基于...
+
+vendor: shenyuanlaolarou
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.syllr.vimimeswitch</description>
+      <pubDate>Wed, 11 Nov 2026 04:45:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35982-vimimeswitch</guid>
+      <dc:date>2026-11-11T04:45:42Z</dc:date>
+    </item>
+    <item>
+      <title>JXForge (JXML) - Wed Nov 11 03:38:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35981-jxforge-jxml-</link>
+      <description>Editor support for JXML, the markup language of JXForge (part of JXParallel, a Java UI runtime): .jxml screens that are XML and are compiled to Java. JXML file type...
+
+vendor: JXParallel
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.bacuriim.jxforge</description>
+      <pubDate>Wed, 11 Nov 2026 03:38:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35981-jxforge-jxml-</guid>
+      <dc:date>2026-11-11T03:38:04Z</dc:date>
+    </item>
+    <item>
+      <title>Dino Walker - Wed Nov 11 03:36:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35980-dino-walker</link>
+      <description>A tiny pixel dino walks back and forth along the top edge of your terminal. Type start dino in the IDE terminal to bring it out. Type exit dino and a meteor takes care...
+
+vendor: ahin042
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.ahin042.dinowalker</description>
+      <pubDate>Wed, 11 Nov 2026 03:36:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35980-dino-walker</guid>
+      <dc:date>2026-11-11T03:36:32Z</dc:date>
+    </item>
+    <item>
       <title>Alligator - Wed Nov 11 09:46:42 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35876-alligator</link>
       <description>Alligator is a message viewer and editor for HL7® v2 in IntelliJ IDEA, with starter metadata and local code dictionaries. HL7 is a registered trademark of Health Level...
@@ -225,45 +264,6 @@ xmlId: afedonyuk.plugins.phpdoc.structure.color</description>
       <pubDate>Sun, 08 Nov 2026 21:41:14 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35863-phpdoc-structure-color</guid>
       <dc:date>2026-11-08T21:41:14Z</dc:date>
-    </item>
-    <item>
-      <title>Tibero Database Tools - Sat Nov 07 13:29:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35762-tibero-database-tools</link>
-      <description>Tibero Database Tools brings Tibero database development features to IntelliJ IDEA's built-in Database Tools. Explore database objects, develop PL/SQL, complete SQL...
-
-vendor: kergosdyr
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.kergosdyr.tibero.database.tools</description>
-      <pubDate>Sat, 07 Nov 2026 13:29:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35762-tibero-database-tools</guid>
-      <dc:date>2026-11-07T13:29:56Z</dc:date>
-    </item>
-    <item>
-      <title>frus - Fri Nov 06 21:08:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35869-frus</link>
-      <description>Build, run and reload frus applications on any device — your computer, a phone, an emulator, a browser — from Android Studio, IntelliJ IDEA, RustRover and the other...
-
-vendor: Kalybos
-downloads: 1
-pricingModel: FREE
-xmlId: dev.frus</description>
-      <pubDate>Fri, 06 Nov 2026 21:08:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35869-frus</guid>
-      <dc:date>2026-11-06T21:08:31Z</dc:date>
-    </item>
-    <item>
-      <title>Difftastic - Wed Nov 11 09:30:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35960-difftastic</link>
-      <description>Semantic diffs powered by difftastic. Instead of comparing lines, difftastic parses both files as syntax trees and highlights only what actually changed, ignoring...
-
-vendor: Drahomír Dlabaja
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.lechaosx.difftastic</description>
-      <pubDate>Wed, 11 Nov 2026 09:30:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35960-difftastic</guid>
-      <dc:date>2026-11-11T09:30:08Z</dc:date>
     </item>
   </channel>
 </rss>

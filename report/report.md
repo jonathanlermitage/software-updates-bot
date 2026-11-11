@@ -27,7 +27,7 @@
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 344 - Feature flags - 2^n raisons de ne pas dormir la nuit|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Oct 20 09:12:16 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|27.0.0-alpha.0.0.0|[nodejs.org](https://nodejs.org)|Thu Oct 29 23:43:15 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.0|[nodejs.org](https://nodejs.org)|Wed Oct 28 17:35:59 UTC 2026|
+|![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.1|[nodejs.org](https://nodejs.org)|Wed Nov 11 18:58:57 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 10|10.23|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 10 16:02:29 UTC 2022|
 |![logo](../media/logo/postgresql.png) PostgreSQL 11|11.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 09 16:02:13 UTC 2023|
 |![logo](../media/logo/postgresql.png) PostgreSQL 12|12.22|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 21 16:02:25 UTC 2024|
