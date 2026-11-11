@@ -6,6 +6,7 @@
     <description>Popular stuff updates - https://github.com/jonathanlermitage/software-updates-bot</description>
     <category>AdoptOpenJDK</category>
     <category>Adoptium</category>
+    <category>Archiver</category>
     <category>Codecs</category>
     <category>Database</category>
     <category>Drivers</category>
@@ -35,6 +36,7 @@
     <dc:creator>Jonathan Lermitage</dc:creator>
     <dc:subject>AdoptOpenJDK</dc:subject>
     <dc:subject>Adoptium</dc:subject>
+    <dc:subject>Archiver</dc:subject>
     <dc:subject>Codecs</dc:subject>
     <dc:subject>Database</dc:subject>
     <dc:subject>Drivers</dc:subject>
@@ -61,6 +63,16 @@
     <dc:subject>VeraCrypt</dc:subject>
     <dc:subject>Video player</dc:subject>
     <dc:subject>VLC</dc:subject>
+    <item>
+      <title>7-Zip -- 26.06</title>
+      <link>https://www.7-zip.org</link>
+      <description>7-Zip -- 26.06 -- Wed Nov 11 14:18:37 UTC 2026</description>
+      <category>MS Windows</category>
+      <category>Archiver</category>
+      <pubDate>Wed, 11 Nov 2026 14:18:37 GMT</pubDate>
+      <guid isPermaLink="false" />
+      <dc:date>2026-11-11T14:18:37Z</dc:date>
+    </item>
     <item>
       <title>Gradle -- 9.9.1</title>
       <link>https://gradle.org/releases</link>
