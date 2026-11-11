@@ -19,6 +19,7 @@ enum class Logo(val img: String) {
     POSTGRESQL("postgresql.png"),
     PYTHON("python.png"),
     SEVEN_TT("7tt.png"),
+    SEVEN_ZIP("7zip.png"),
     SPRING_BOOT("springboot.png"),
     VERACRYPT("veracrypt.png"),
     VLC("vlc.png"),

@@ -4,6 +4,7 @@ enum class Category(val label: String) {
 
     ADOPT_OPEN_JDK("AdoptOpenJDK"),
     ADOPTIUM("Adoptium"),
+    ARCHIVER("Archiver"),
     CODECS("Codecs"),
     DATABASE("Database"),
     DRIVERS("Drivers"),
