@@ -45,3 +45,4 @@
 |![logo](../media/logo/springboot.png) Spring Boot|4.1.2.RELEASE|[start.spring.io](https://start.spring.io)|Mon Nov 02 16:17:12 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 16:08:16 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.31|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Nov 09 15:05:16 UTC 2026|
+|![logo](../media/logo/windhawk.png) Windhawk|2.0 alpha 8|[github.com](https://github.com/ramensoftware/windhawk/releases)|Wed Nov 11 14:50:03 UTC 2026|

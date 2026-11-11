@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/windhawk.png) Windhawk|2.0 alpha 8|[github.com](https://github.com/ramensoftware/windhawk/releases)|Wed Nov 11 14:50:03 UTC 2026|
 |![logo](../media/logo/7zip.png) 7-Zip|26.06|[www.7-zip.org](https://www.7-zip.org)|Wed Nov 11 14:18:37 UTC 2026|
 |![logo](../media/logo/gradle.png) Gradle|9.9.1|[gradle.org](https://gradle.org/releases)|Tue Nov 10 21:32:35 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.4|[golang.org](https://golang.org/dl/)|Tue Nov 10 17:39:50 UTC 2026|
