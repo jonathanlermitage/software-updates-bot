@@ -1,10 +1,10 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
-|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
-|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 16|16.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 17|17.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 18|18.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|27.0.0-alpha.0.1.0|[nodejs.org](https://nodejs.org)|Thu Nov 12 19:29:26 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 12 11:57:51 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.1|[nodejs.org](https://nodejs.org)|Wed Nov 11 18:58:57 UTC 2026|
