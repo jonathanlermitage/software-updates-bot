@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 12 11:57:51 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.1|[nodejs.org](https://nodejs.org)|Wed Nov 11 18:58:57 UTC 2026|
 |![logo](../media/logo/windhawk.png) Windhawk|2.0 alpha 8|[github.com](https://github.com/ramensoftware/windhawk/releases)|Wed Nov 11 14:50:03 UTC 2026|
 |![logo](../media/logo/7zip.png) 7-Zip|26.06|[www.7-zip.org](https://www.7-zip.org)|Wed Nov 11 14:18:37 UTC 2026|
@@ -31,7 +32,6 @@
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:43:30 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 16:08:16 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u504-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Aug 26 12:26:29 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.24|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.19|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.15|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Aug 13 16:56:04 UTC 2026|
