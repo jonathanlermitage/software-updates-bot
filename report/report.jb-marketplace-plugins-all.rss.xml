@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Agents Sync - Thu Nov 12 10:06:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36037-agents-sync</link>
+      <description>Synchronize, edit, and manage a system-wide AGENTS.md file across projects and machines using JetBrains Settings Sync. Includes a full Markdown editor tab, history...
+
+vendor: T+Code
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.tpluscode.agentssync</description>
+      <pubDate>Thu, 12 Nov 2026 10:06:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36037-agents-sync</guid>
+      <dc:date>2026-11-12T10:06:43Z</dc:date>
+    </item>
+    <item>
+      <title>IDE Pilot - Thu Nov 12 08:27:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36016-ide-pilot</link>
+      <description>Playwright MCP for JetBrains IDEs. An MCP (Model Context Protocol) server that lets AI agents such as Claude Code, Codex, Gemini CLI and Cursor see and use the IDE's...
+
+vendor: František Sodomka
+downloads: 0
+pricingModel: FREE
+xmlId: com.fsodomka.idepilot</description>
+      <pubDate>Thu, 12 Nov 2026 08:27:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36016-ide-pilot</guid>
+      <dc:date>2026-11-12T08:27:46Z</dc:date>
+    </item>
+    <item>
+      <title>Gun &amp; Ammo Title Parser - Thu Nov 12 07:34:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36036-gun--ammo-title-parser</link>
+      <description>Parse gun and ammo product titles into brand, model, caliber, magazine capacity, barrel length and rounds per box, without leaving the editor. Works offline. Made for...
+
+vendor: GunsNPrices
+downloads: 0
+pricingModel: FREE
+xmlId: com.gunsnprices.gun-title-parser</description>
+      <pubDate>Thu, 12 Nov 2026 07:34:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36036-gun--ammo-title-parser</guid>
+      <dc:date>2026-11-12T07:34:40Z</dc:date>
+    </item>
+    <item>
+      <title>Custom Splash Screen - Thu Nov 12 16:11:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36042-custom-splash-screen</link>
+      <description>Replace your JetBrains IDE's startup splash screen with an image you choose. Pick a bundled image or use your own photo, artwork, or logo. Works across the JetBrains...
+
+vendor: Jakub Chrzanowski
+downloads: 0
+pricingModel: FREE
+xmlId: info.chrzanowski.customsplashscreen</description>
+      <pubDate>Thu, 12 Nov 2026 16:11:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36042-custom-splash-screen</guid>
+      <dc:date>2026-11-12T16:11:40Z</dc:date>
+    </item>
+    <item>
+      <title>Container Image Delta - Wed Nov 11 15:11:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36002-container-image-delta</link>
+      <description>Why did your container image grow? Compare local Dive v0.13.1 JSON reports in IntelliJ IDEA. Review uncompressed image growth, layer matches and file observations...
+
+vendor: AFK Mesh
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.containerdelta</description>
+      <pubDate>Wed, 11 Nov 2026 15:11:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36002-container-image-delta</guid>
+      <dc:date>2026-11-11T15:11:17Z</dc:date>
+    </item>
+    <item>
+      <title>deja-vu: Cross-Agent AI Session Memory - Thu Nov 12 12:19:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35998-deja-vu-cross-agent-ai-session-memory</link>
+      <description>Local cross-agent session recall, AI line blame, and handoff for IntelliJ IDEA, GoLand, PyCharm, WebStorm, RustRover, CLion, PhpStorm, and Rider. Reads the local deja...
+
+vendor: vshulcz
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.vshulcz.deja-vu</description>
+      <pubDate>Thu, 12 Nov 2026 12:19:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35998-deja-vu-cross-agent-ai-session-memory</guid>
+      <dc:date>2026-11-12T12:19:44Z</dc:date>
+    </item>
+    <item>
       <title>Send to Air - Wed Nov 11 17:02:09 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36000-send-to-air</link>
       <description>Send selected code to JetBrains Air — with the file name and line numbers already attached. No more switching windows, copying code, and typing "this is from file X...
@@ -45,7 +123,7 @@ xmlId: io.github.fangzhengjie.cucumber</description>
       <dc:date>2026-11-12T04:50:16Z</dc:date>
     </item>
     <item>
-      <title>Copilot Usage Status - Wed Nov 11 21:06:21 UTC 2026</title>
+      <title>Copilot Usage Status - Thu Nov 12 13:55:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36018-copilot-usage-status</link>
       <description>Copilot Usage Status displays GitHub Copilot AI Credits from the official plugin cache in the IDE status bar and lets you configure a local alert threshold.
 
@@ -53,9 +131,9 @@ vendor: Fernando Laudadio
 downloads: 0
 pricingModel: FREE
 xmlId: com.flaudadio.copilotstatusbar</description>
-      <pubDate>Wed, 11 Nov 2026 21:06:21 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 13:55:37 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36018-copilot-usage-status</guid>
-      <dc:date>2026-11-11T21:06:21Z</dc:date>
+      <dc:date>2026-11-12T13:55:37Z</dc:date>
     </item>
     <item>
       <title>gdtoolkit - Wed Nov 11 21:00:28 UTC 2026</title>
@@ -175,7 +253,7 @@ xmlId: kotco.modelsmith</description>
       <dc:date>2026-11-11T16:35:55Z</dc:date>
     </item>
     <item>
-      <title>Kttp - Wed Nov 11 16:55:50 UTC 2026</title>
+      <title>Kttp - Thu Nov 12 17:37:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35904-kttp</link>
       <description>Kotlin DSL HTTP Client for IntelliJ IDEA. Core: .kttp.kts files as Kotlin Script under Scratches and Consoles → Kttp. Write GET/POST/... requests as Kotlin DSL, run...
 
@@ -183,87 +261,9 @@ vendor: photowey
 downloads: 0
 pricingModel: FREE
 xmlId: io.github.photowey.kttp</description>
-      <pubDate>Wed, 11 Nov 2026 16:55:50 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 17:37:35 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35904-kttp</guid>
-      <dc:date>2026-11-11T16:55:50Z</dc:date>
-    </item>
-    <item>
-      <title>Timestamp &amp; UUID Generator - Wed Nov 11 15:56:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36007-timestamp--uuid-generator</link>
-      <description>Configurable root-level generators and nested submenus for Generate (Alt+Insert). Manage timestamps, UUIDs, and custom templates in one reorderable tree. Move...
-
-vendor: Zabiqo
-downloads: 0
-pricingModel: FREE
-xmlId: pl.zabiqo.timestampgenerator</description>
-      <pubDate>Wed, 11 Nov 2026 15:56:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36007-timestamp--uuid-generator</guid>
-      <dc:date>2026-11-11T15:56:20Z</dc:date>
-    </item>
-    <item>
-      <title>Memberly: File Layout Designer - Wed Nov 11 15:39:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36006-memberly-file-layout-designer</link>
-      <description>Edit the C# File Layout of your solution as a tree instead of raw XAML, for Rider. File Layout decides the order of members that Reformat and Cleanup Code apply; in...
-
-vendor: KOT&amp;CO
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: kotco.memberly</description>
-      <pubDate>Wed, 11 Nov 2026 15:39:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36006-memberly-file-layout-designer</guid>
-      <dc:date>2026-11-11T15:39:55Z</dc:date>
-    </item>
-    <item>
-      <title>Issue Tool Window - Thu Nov 12 01:45:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36005-issue-tool-window</link>
-      <description>Work with GitHub issues of the current project without leaving the IDE. The GitHub Issues tool window lists the issues of the project's GitHub.com remotes and uses the...
-
-vendor: Kryptikk
-downloads: 0
-pricingModel: FREE
-xmlId: dev.issuetoolwindow.github</description>
-      <pubDate>Thu, 12 Nov 2026 01:45:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36005-issue-tool-window</guid>
-      <dc:date>2026-11-12T01:45:41Z</dc:date>
-    </item>
-    <item>
-      <title>TypeScript ART - Wed Nov 11 12:37:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35975-typescript-art</link>
-      <description>TypeScript completion, diagnostics and source navigation for Android variants built with TypeScript ART.
-
-vendor: Margelo
-downloads: 0
-pricingModel: FREE
-xmlId: com.margelo.typescript-art.studio</description>
-      <pubDate>Wed, 11 Nov 2026 12:37:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35975-typescript-art</guid>
-      <dc:date>2026-11-11T12:37:03Z</dc:date>
-    </item>
-    <item>
-      <title>Python Protocol Implementations - Thu Nov 12 11:42:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35995-python-protocol-implementations</link>
-      <description>Shows which classes structurally satisfy a typing.Protocol without inheriting from it, the way GoLand shows implicit Go interface implementations. Gutter icon on a...
-
-vendor: py-protocol-gutter
-downloads: 0
-pricingModel: FREE
-xmlId: dev.pyprotocolgutter</description>
-      <pubDate>Thu, 12 Nov 2026 11:42:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35995-python-protocol-implementations</guid>
-      <dc:date>2026-11-12T11:42:17Z</dc:date>
-    </item>
-    <item>
-      <title>NPCoding GeoJSON Files - Wed Nov 11 10:01:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35994-npcoding-geojson-files</link>
-      <description>NPCoding GeoJSON Files makes IntelliJ IDEA, PyCharm and the other JetBrains IDEs (2025.1 and newer) treat .geojson files as GeoJSON (RFC 7946): checked as you type...
-
-vendor: Oskuvi
-downloads: 0
-pricingModel: PAID
-xmlId: com.npcoding.geojsonfiles</description>
-      <pubDate>Wed, 11 Nov 2026 10:01:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35994-npcoding-geojson-files</guid>
-      <dc:date>2026-11-11T10:01:53Z</dc:date>
+      <dc:date>2026-11-12T17:37:35Z</dc:date>
     </item>
   </channel>
 </rss>
