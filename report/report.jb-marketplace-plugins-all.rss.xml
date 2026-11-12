@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Dependency Radar - Wed Nov 11 13:38:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34945-dependency-radar</link>
+      <description>Dependency Radar helps you explore JavaScript and TypeScript package dependencies, find local projects affected by a package change, and coordinate updates across...
+
+vendor: If-else.dev
+downloads: 14
+pricingModel: FREE
+xmlId: io.dependencyradar</description>
+      <pubDate>Wed, 11 Nov 2026 13:38:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34945-dependency-radar</guid>
+      <dc:date>2026-11-11T13:38:15Z</dc:date>
+    </item>
+    <item>
       <title>VimImeSwitch - Wed Nov 11 04:45:42 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35982-vimimeswitch</link>
       <description>Switch the macOS input source back to English when leaving Vim insert mode. Requires IdeaVim and macOS. IdeaVim 的扩展：从插入模式退回到普通模式时，自动把系统输入法切回英文。仅支持 macOS。 本插件基于...
@@ -123,7 +136,7 @@ xmlId: io.github.v0rest.skein</description>
       <dc:date>2026-11-10T15:39:58Z</dc:date>
     </item>
     <item>
-      <title>FIX Decoder - Wed Nov 11 00:39:21 UTC 2026</title>
+      <title>FIX Decoder - Thu Nov 12 01:28:49 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35976-fix-decoder</link>
       <description>Reads FIX protocol messages where they are written: in Java string literals, text blocks and concatenations, and in plain text files. Hover over a field to see the tag...
 
@@ -131,9 +144,9 @@ vendor: Dushmantha Bandaranayake
 downloads: 0
 pricingModel: FREE
 xmlId: com.dush.fixdecoder</description>
-      <pubDate>Wed, 11 Nov 2026 00:39:21 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 01:28:49 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35976-fix-decoder</guid>
-      <dc:date>2026-11-11T00:39:21Z</dc:date>
+      <dc:date>2026-11-12T01:28:49Z</dc:date>
     </item>
     <item>
       <title>Dart Data Section NyK - Wed Nov 04 19:33:24 UTC 2026</title>
@@ -175,7 +188,7 @@ xmlId: com.github.downace.stormfox</description>
       <dc:date>2026-11-07T13:30:01Z</dc:date>
     </item>
     <item>
-      <title>Background Wallpaper Engine - Wed Nov 11 04:00:48 UTC 2026</title>
+      <title>Background Wallpaper Engine - Thu Nov 12 01:14:03 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35953-background-wallpaper-engine</link>
       <description>Background Wallpaper Engine renders a still frame from Wallpaper Engine as a full-window background behind the entire IDE — project tree, toolbars, editor and status...
 
@@ -183,9 +196,9 @@ vendor: Tisako
 downloads: 0
 pricingModel: FREE
 xmlId: com.tisako.background-wallpaper-engine</description>
-      <pubDate>Wed, 11 Nov 2026 04:00:48 GMT</pubDate>
+      <pubDate>Thu, 12 Nov 2026 01:14:03 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35953-background-wallpaper-engine</guid>
-      <dc:date>2026-11-11T04:00:48Z</dc:date>
+      <dc:date>2026-11-12T01:14:03Z</dc:date>
     </item>
     <item>
       <title>DataBridge - Middleware &amp; NoSQL Explorer - Sat Nov 07 02:08:58 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.github.hypercookie.giteaplugin</description>
       <pubDate>Tue, 10 Nov 2026 09:25:39 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35958-gitea-pull-requests--mcp</guid>
       <dc:date>2026-11-10T09:25:39Z</dc:date>
-    </item>
-    <item>
-      <title>PHPDoc Structure Color - Sun Nov 08 21:41:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35863-phpdoc-structure-color</link>
-      <description>Colors properties and methods declared with PhpDoc tags in the Structure view.
-
-vendor: Anton Fedonyuk
-downloads: 0
-pricingModel: FREE
-xmlId: afedonyuk.plugins.phpdoc.structure.color</description>
-      <pubDate>Sun, 08 Nov 2026 21:41:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35863-phpdoc-structure-color</guid>
-      <dc:date>2026-11-08T21:41:14Z</dc:date>
     </item>
   </channel>
 </rss>
