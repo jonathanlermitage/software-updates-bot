@@ -6,12 +6,51 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>BootPerf Lens - Sat Oct 31 22:35:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35693-bootperf-lens</link>
+      <description>BootPerf Lens reads local Spring Boot startup-step recordings in IntelliJ IDEA. Import an Actuator startup JSON snapshot or explicitly capture from a trusted loopback...
+
+vendor: AFK Mesh
+downloads: 3
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.bootperflens</description>
+      <pubDate>Sat, 31 Oct 2026 22:35:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35693-bootperf-lens</guid>
+      <dc:date>2026-10-31T22:35:43Z</dc:date>
+    </item>
+    <item>
+      <title>EnvDiff Doctor - Wed Nov 11 15:11:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36003-envdiff-doctor</link>
+      <description>EnvDiff Doctor compares two local Python environment reports in PyCharm. Initial release: Linux x86_64 only. Validated with PyCharm 2025.3.x and CPython 3.13.5...
+
+vendor: AFK Mesh
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.envdiffdoctor</description>
+      <pubDate>Wed, 11 Nov 2026 15:11:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36003-envdiff-doctor</guid>
+      <dc:date>2026-11-11T15:11:47Z</dc:date>
+    </item>
+    <item>
+      <title>DataFrame Contract Studio - Thu Nov 12 14:39:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36019-dataframe-contract-studio</link>
+      <description>Review CSV contracts beside your Python workflowDataFrame Contract Studio brings local CSV schema evidence, rule changes and reviewable test drafts into PyCharm.Free...
+
+vendor: AFK Mesh
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: com.afkmesh.dataframecontractstudio</description>
+      <pubDate>Thu, 12 Nov 2026 14:39:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36019-dataframe-contract-studio</guid>
+      <dc:date>2026-11-12T14:39:41Z</dc:date>
+    </item>
+    <item>
       <title>Agents Sync - Thu Nov 12 10:06:43 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36037-agents-sync</link>
       <description>Synchronize, edit, and manage a system-wide AGENTS.md file across projects and machines using JetBrains Settings Sync. Includes a full Markdown editor tab, history...
 
 vendor: T+Code
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.tpluscode.agentssync</description>
       <pubDate>Thu, 12 Nov 2026 10:06:43 GMT</pubDate>
@@ -24,7 +63,7 @@ xmlId: com.github.tpluscode.agentssync</description>
       <description>Playwright MCP for JetBrains IDEs. An MCP (Model Context Protocol) server that lets AI agents such as Claude Code, Codex, Gemini CLI and Cursor see and use the IDE's...
 
 vendor: František Sodomka
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.fsodomka.idepilot</description>
       <pubDate>Thu, 12 Nov 2026 08:27:46 GMT</pubDate>
@@ -37,7 +76,7 @@ xmlId: com.fsodomka.idepilot</description>
       <description>Parse gun and ammo product titles into brand, model, caliber, magazine capacity, barrel length and rounds per box, without leaving the editor. Works offline. Made for...
 
 vendor: GunsNPrices
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.gunsnprices.gun-title-parser</description>
       <pubDate>Thu, 12 Nov 2026 07:34:40 GMT</pubDate>
@@ -50,7 +89,7 @@ xmlId: com.gunsnprices.gun-title-parser</description>
       <description>Replace your JetBrains IDE's startup splash screen with an image you choose. Pick a bundled image or use your own photo, artwork, or logo. Works across the JetBrains...
 
 vendor: Jakub Chrzanowski
-downloads: 0
+downloads: 29
 pricingModel: FREE
 xmlId: info.chrzanowski.customsplashscreen</description>
       <pubDate>Thu, 12 Nov 2026 16:11:40 GMT</pubDate>
@@ -63,7 +102,7 @@ xmlId: info.chrzanowski.customsplashscreen</description>
       <description>Why did your container image grow? Compare local Dive v0.13.1 JSON reports in IntelliJ IDEA. Review uncompressed image growth, layer matches and file observations...
 
 vendor: AFK Mesh
-downloads: 1
+downloads: 3
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.containerdelta</description>
       <pubDate>Wed, 11 Nov 2026 15:11:17 GMT</pubDate>
@@ -76,7 +115,7 @@ xmlId: com.afkmesh.containerdelta</description>
       <description>Local cross-agent session recall, AI line blame, and handoff for IntelliJ IDEA, GoLand, PyCharm, WebStorm, RustRover, CLion, PhpStorm, and Rider. Reads the local deja...
 
 vendor: vshulcz
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: com.github.vshulcz.deja-vu</description>
       <pubDate>Thu, 12 Nov 2026 12:19:44 GMT</pubDate>
@@ -84,25 +123,12 @@ xmlId: com.github.vshulcz.deja-vu</description>
       <dc:date>2026-11-12T12:19:44Z</dc:date>
     </item>
     <item>
-      <title>Send to Air - Wed Nov 11 17:02:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36000-send-to-air</link>
-      <description>Send selected code to JetBrains Air — with the file name and line numbers already attached. No more switching windows, copying code, and typing "this is from file X...
-
-vendor: Loud Yo
-downloads: 2
-pricingModel: FREE
-xmlId: com.loudyo.sendtoair</description>
-      <pubDate>Wed, 11 Nov 2026 17:02:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36000-send-to-air</guid>
-      <dc:date>2026-11-11T17:02:09Z</dc:date>
-    </item>
-    <item>
       <title>Saule - Fri Nov 06 13:23:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35823-saule</link>
       <description>Language support for the Saule programming language (.sau): syntax highlighting plus a full language server — diagnostics, hover, go-to-definition, find usages...
 
 vendor: Saule
-downloads: 3
+downloads: 11
 pricingModel: FREE
 xmlId: com.saule.lang</description>
       <pubDate>Fri, 06 Nov 2026 13:23:07 GMT</pubDate>
@@ -115,7 +141,7 @@ xmlId: com.saule.lang</description>
       <description>Cucumber support for any JetBrains IDE, with no other plugins required. Highlighting, formatting, folding and structure view for .feature files, in any spoken language...
 
 vendor: Fang Zhengjie
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: io.github.fangzhengjie.cucumber</description>
       <pubDate>Thu, 12 Nov 2026 04:50:16 GMT</pubDate>
@@ -128,7 +154,7 @@ xmlId: io.github.fangzhengjie.cucumber</description>
       <description>Copilot Usage Status displays GitHub Copilot AI Credits from the official plugin cache in the IDE status bar and lets you configure a local alert threshold.
 
 vendor: Fernando Laudadio
-downloads: 0
+downloads: 21
 pricingModel: FREE
 xmlId: com.flaudadio.copilotstatusbar</description>
       <pubDate>Thu, 12 Nov 2026 13:55:37 GMT</pubDate>
@@ -141,7 +167,7 @@ xmlId: com.flaudadio.copilotstatusbar</description>
       <description>Formats and lints GDScript with gdtoolkit. Reformat Code on a .gd file runs gdformat, with your gdformatrc; Reformat with gdformat in the Project view formats whole...
 
 vendor: Clean Gamedev
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: dev.cleangame.gdtoolkit</description>
       <pubDate>Wed, 11 Nov 2026 21:00:28 GMT</pubDate>
@@ -154,7 +180,7 @@ xmlId: dev.cleangame.gdtoolkit</description>
       <description>Run one SQL script against many databases from your IDE and see the outcome for every one of them. FanOut reuses the data sources you already have in the Database tool...
 
 vendor: Karelia Labs
-downloads: 0
+downloads: 4
 pricingModel: PAID
 xmlId: com.karelialabs.fanout</description>
       <pubDate>Wed, 11 Nov 2026 19:56:26 GMT</pubDate>
@@ -162,17 +188,17 @@ xmlId: com.karelialabs.fanout</description>
       <dc:date>2026-11-11T19:56:26Z</dc:date>
     </item>
     <item>
-      <title>Comark - Thu Nov 12 22:24:08 UTC 2026</title>
+      <title>Comark - Fri Nov 13 11:22:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35993-comark</link>
       <description>Support for Comark (Components in Markdown, formerly MDC) as used by Nuxt Content, in WebStorm, IntelliJ IDEA, Rider and other JetBrains IDEs. Highlighting of block...
 
 vendor: xprees - Václav Bílý
-downloads: 0
+downloads: 12
 pricingModel: FREE
 xmlId: cz.xprees.comark</description>
-      <pubDate>Thu, 12 Nov 2026 22:24:08 GMT</pubDate>
+      <pubDate>Fri, 13 Nov 2026 11:22:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35993-comark</guid>
-      <dc:date>2026-11-12T22:24:08Z</dc:date>
+      <dc:date>2026-11-13T11:22:54Z</dc:date>
     </item>
     <item>
       <title>GitDiffGraph - Wed Nov 11 19:38:57 UTC 2026</title>
@@ -180,7 +206,7 @@ xmlId: cz.xprees.comark</description>
       <description>See your C# code changes as a graph, right next to the Git diff in Rider. The diff shows you a change line by line. GitDiffGraph shows how those lines connect: which...
 
 vendor: Iustinian Olaru
-downloads: 1
+downloads: 6
 pricingModel: PAID
 xmlId: io.github.iustin94.gitdiffgraph</description>
       <pubDate>Wed, 11 Nov 2026 19:38:57 GMT</pubDate>
@@ -193,7 +219,7 @@ xmlId: io.github.iustin94.gitdiffgraph</description>
       <description>See what collides in your current Java runtime classpathClasspath Collision Doctor inspects the ordered JARs and compiled-classes folders you choose, locally in...
 
 vendor: AFK Mesh
-downloads: 0
+downloads: 3
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.classpath.collision.doctor</description>
       <pubDate>Wed, 11 Nov 2026 15:38:39 GMT</pubDate>
@@ -206,7 +232,7 @@ xmlId: com.afkmesh.classpath.collision.doctor</description>
       <description>OpenCode Forge — the OpenCode AI coding agent, native to your JetBrains IDE. No context switching, no copy-paste: connect to an OpenCode v2 server and drive an...
 
 vendor: auropia
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: io.github.dlfinis.opencode.forge</description>
       <pubDate>Wed, 11 Nov 2026 17:26:32 GMT</pubDate>
@@ -219,7 +245,7 @@ xmlId: io.github.dlfinis.opencode.forge</description>
       <description>Read SQL Server Integration Services packages (.dtsx) in Rider, DataGrip and IntelliJ IDEA without Visual Studio. Packlens shows a package as a tree of connection...
 
 vendor: KOT&amp;CO
-downloads: 0
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: kotco.packlens</description>
       <pubDate>Wed, 11 Nov 2026 17:48:00 GMT</pubDate>
@@ -232,38 +258,12 @@ xmlId: kotco.packlens</description>
       <description>Plastic SCM insight where you code. Plastic Insight adds native change markers, Local Changes, byte-accurate diffs, and bounded file history to JetBrains Rider. Added...
 
 vendor: Stefano Caronia
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.teamcomplex.plasticinsight</description>
       <pubDate>Wed, 11 Nov 2026 23:15:30 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36008-plastic-insight</guid>
       <dc:date>2026-11-11T23:15:30Z</dc:date>
-    </item>
-    <item>
-      <title>Modelsmith: AutoML Trainer - Wed Nov 11 16:35:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36010-modelsmith-automl-trainer</link>
-      <description>Train an ML.NET model from a CSV file without leaving Rider: pick the data, the column to predict and a time budget, and Modelsmith tries the ML.NET trainers, shows...
-
-vendor: KOT&amp;CO
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: kotco.modelsmith</description>
-      <pubDate>Wed, 11 Nov 2026 16:35:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36010-modelsmith-automl-trainer</guid>
-      <dc:date>2026-11-11T16:35:55Z</dc:date>
-    </item>
-    <item>
-      <title>Kttp - Thu Nov 12 17:37:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35904-kttp</link>
-      <description>Kotlin DSL HTTP Client for IntelliJ IDEA. Core: .kttp.kts files as Kotlin Script under Scratches and Consoles → Kttp. Write GET/POST/... requests as Kotlin DSL, run...
-
-vendor: photowey
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.photowey.kttp</description>
-      <pubDate>Thu, 12 Nov 2026 17:37:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35904-kttp</guid>
-      <dc:date>2026-11-12T17:37:35Z</dc:date>
     </item>
   </channel>
 </rss>
