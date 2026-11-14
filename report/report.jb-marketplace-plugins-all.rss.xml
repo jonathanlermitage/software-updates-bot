@@ -6,6 +6,227 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>EbcdicPrism Copybook Viewer - Fri Nov 13 09:49:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36104-ebcdicprism-copybook-viewer</link>
+      <description>EbcdicPrism Copybook Viewer is a deterministic, 100% offline / air-gapped mainframe binary data inspector, COBOL Copybook (.cpy) byte-offset calculator, EBCDIC...
+
+vendor: EdiPrism
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: dev.ediprism.ebcdic</description>
+      <pubDate>Fri, 13 Nov 2026 09:49:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36104-ebcdicprism-copybook-viewer</guid>
+      <dc:date>2026-11-13T09:49:31Z</dc:date>
+    </item>
+    <item>
+      <title>Slabview HDF5 netCDF Viewer - Fri Nov 13 14:05:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36113-slabview-hdf5-netcdf-viewer</link>
+      <description>Open HDF5 files (.h5, .hdf5) and netCDF-4 files (.nc) right in PyCharm, DataSpell, IntelliJ IDEA and every other JetBrains IDE. Slabview shows the groups and datasets...
+
+vendor: KOT&amp;CO
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: kotco.slabview</description>
+      <pubDate>Fri, 13 Nov 2026 14:05:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36113-slabview-hdf5-netcdf-viewer</guid>
+      <dc:date>2026-11-13T14:05:15Z</dc:date>
+    </item>
+    <item>
+      <title>Lintmark: Markdown Rules - Fri Nov 13 11:30:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36106-lintmark-markdown-rules</link>
+      <description>The markdownlint rules as live Markdown inspections in every JetBrains IDE, with no Node.js, npm or external binary: the rule engine runs inside the IDE. Free 53 rules...
+
+vendor: KOT&amp;CO
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: kotco.lintmark</description>
+      <pubDate>Fri, 13 Nov 2026 11:30:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36106-lintmark-markdown-rules</guid>
+      <dc:date>2026-11-13T11:30:58Z</dc:date>
+    </item>
+    <item>
+      <title>Pakscope: .nupkg Explorer - Fri Nov 13 12:16:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36109-pakscope--nupkg-explorer</link>
+      <description>Open NuGet packages (.nupkg, .snupkg) in Rider and IntelliJ IDEA and check them before you push. Pakscope shows what is inside a package - manifest, dependencies per...
+
+vendor: KOT&amp;CO
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: kotco.pakscope</description>
+      <pubDate>Fri, 13 Nov 2026 12:16:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36109-pakscope--nupkg-explorer</guid>
+      <dc:date>2026-11-13T12:16:01Z</dc:date>
+    </item>
+    <item>
+      <title>Sidegear - Fri Nov 13 12:58:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36111-sidegear</link>
+      <description>YAML support for Dapr in Rider, IntelliJ IDEA and GoLand: schemas, completion and documentation for component files, plus one-click multi-app runs. Sidegear knows the...
+
+vendor: KOT&amp;CO
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: kotco.sidegear</description>
+      <pubDate>Fri, 13 Nov 2026 12:58:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36111-sidegear</guid>
+      <dc:date>2026-11-13T12:58:11Z</dc:date>
+    </item>
+    <item>
+      <title>qlang Language Support - Sat Nov 07 13:23:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35862-qlang-language-support</link>
+      <description>*.q files for the qlang language: syntax highlighting, language server (qlang lsp: errors, tooltips, autocompletion, definitions, references, renaming, file map...
+
+vendor: quenti77
+downloads: 1
+pricingModel: FREE
+xmlId: dev.qlang.jetbrains</description>
+      <pubDate>Sat, 07 Nov 2026 13:23:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35862-qlang-language-support</guid>
+      <dc:date>2026-11-07T13:23:51Z</dc:date>
+    </item>
+    <item>
+      <title>iCal Highlighter - Thu Nov 12 16:58:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36089-ical-highlighter</link>
+      <description>Provides syntax highlighting and templates for iCalendar and vCard files. Features: Syntax highlighting for iCal files Distinct colors for properties, parameters...
+
+vendor: Rene Kudlek
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.icalhighlighter</description>
+      <pubDate>Thu, 12 Nov 2026 16:58:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36089-ical-highlighter</guid>
+      <dc:date>2026-11-12T16:58:43Z</dc:date>
+    </item>
+    <item>
+      <title>JSONSpy - Enterprise JSON &amp; Schema Workbench - Thu Nov 12 17:22:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35836-jsonspy--enterprise-json--schema-workbench</link>
+      <description>JSONSpy - Enterprise JSON &amp;amp; Schema Workbench A high-performance enterprise JSON editing, validation, transformation, and visual schema modeling workbench inspired...
+
+vendor: Sangharsh Gautam
+downloads: 4
+pricingModel: FREE
+xmlId: uk.co.sangharsh.jsonspy.plugin</description>
+      <pubDate>Thu, 12 Nov 2026 17:22:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35836-jsonspy--enterprise-json--schema-workbench</guid>
+      <dc:date>2026-11-12T17:22:38Z</dc:date>
+    </item>
+    <item>
+      <title>Cat Clapping - Thu Nov 12 21:14:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36093-cat-clapping</link>
+      <description>Celebrate successful builds, runs, tests, debug sessions, and terminal commands with an animated clapping cat and celebration sound directly inside your IDE. Supported...
+
+vendor: YusufMolla
+downloads: 0
+pricingModel: FREE
+xmlId: de.yusufmolla.catclapping</description>
+      <pubDate>Thu, 12 Nov 2026 21:14:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36093-cat-clapping</guid>
+      <dc:date>2026-11-12T21:14:17Z</dc:date>
+    </item>
+    <item>
+      <title>Branch Tab Title - Fri Nov 13 10:38:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35988-branch-tab-title</link>
+      <description>Shows the current Git branch and terminal status (⏳ running / ✓ idle) in the project window title, so merged project window tabs on macOS tell you which branch each...
+
+vendor: seunggabi
+downloads: 0
+pricingModel: FREE
+xmlId: seunggabi.branch-title</description>
+      <pubDate>Fri, 13 Nov 2026 10:38:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35988-branch-tab-title</guid>
+      <dc:date>2026-11-13T10:38:11Z</dc:date>
+    </item>
+    <item>
+      <title>DBT Lens - Fri Nov 13 02:57:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36091-dbt-lens</link>
+      <description>Jinja-aware editing for dbt projects. DBT Lens turns the .sql files in a dbt project into templates the IDE understands, and works offline without running dbt. Jinja...
+
+vendor: DBT Lens
+downloads: 0
+pricingModel: FREE
+xmlId: eladbarkay.dev.dbtlens</description>
+      <pubDate>Fri, 13 Nov 2026 02:57:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36091-dbt-lens</guid>
+      <dc:date>2026-11-13T02:57:56Z</dc:date>
+    </item>
+    <item>
+      <title>Comment Checker - Fri Nov 13 06:11:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36103-comment-checker</link>
+      <description>Review changed comments before commit. Adds a Comments tab to the Commit tool window. It lists the comments on changed lines of the files shown there (Changes and...
+
+vendor: ukukj
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.ukukj.commentchecker</description>
+      <pubDate>Fri, 13 Nov 2026 06:11:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36103-comment-checker</guid>
+      <dc:date>2026-11-13T06:11:03Z</dc:date>
+    </item>
+    <item>
+      <title>Loadkiln: Load Tests for k6 - Fri Nov 13 03:46:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36101-loadkiln-load-tests-for-k6</link>
+      <description>Run k6 load tests from your JetBrains IDE and get a pass/fail report you can act on: every threshold marked held or crossed, every check counted, and latency, errors...
+
+vendor: Great Work
+downloads: 0
+pricingModel: PAID
+xmlId: com.greatwork.loadkiln</description>
+      <pubDate>Fri, 13 Nov 2026 03:46:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36101-loadkiln-load-tests-for-k6</guid>
+      <dc:date>2026-11-13T03:46:53Z</dc:date>
+    </item>
+    <item>
+      <title>Plybrook for Ansible - Fri Nov 13 04:03:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36102-plybrook-for-ansible</link>
+      <description>Ansible playbooks, roles and templates in your JetBrains IDE, built on the bundled YAML support. Plybrook only switches on for Ansible files, so your Kubernetes...
+
+vendor: Great Work
+downloads: 0
+pricingModel: PAID
+xmlId: com.greatwork.plybrook</description>
+      <pubDate>Fri, 13 Nov 2026 04:03:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36102-plybrook-for-ansible</guid>
+      <dc:date>2026-11-13T04:03:32Z</dc:date>
+    </item>
+    <item>
+      <title>Ventus API Search - Fri Nov 13 01:11:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36097-ventus-api-search</link>
+      <description>Ventus API Search is an IntelliJ IDEA plugin for searching Spring MVC / Spring Boot, JAX-RS, Feign and Spring Cloud Gateway endpoints. It supports fuzzy search by URL...
+
+vendor: Ventus
+downloads: 0
+pricingModel: FREE
+xmlId: com.ventus.apisearch</description>
+      <pubDate>Fri, 13 Nov 2026 01:11:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36097-ventus-api-search</guid>
+      <dc:date>2026-11-13T01:11:23Z</dc:date>
+    </item>
+    <item>
+      <title>Greppa - Thu Nov 12 12:41:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35970-greppa</link>
+      <description>An AI-accelerated coding workflow that understands that some tasks are better done by you. Greppa is built for long-term software projects, where progress depends on...
+
+vendor: perfah
+downloads: 0
+pricingModel: FREE
+xmlId: com.perfah.greppa</description>
+      <pubDate>Thu, 12 Nov 2026 12:41:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35970-greppa</guid>
+      <dc:date>2026-11-12T12:41:33Z</dc:date>
+    </item>
+    <item>
+      <title>Godot GDScript - Thu Nov 12 14:52:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36041-godot-gdscript</link>
+      <description>Adds GDScript language support and Godot Engine integration to IntelliJ-based IDEs. This fork is based on Jakub Błach’s original project and includes compatibility...
+
+vendor: PixelStream
+downloads: 0
+pricingModel: FREE
+xmlId: org.plugin.pixelstream.gdscript</description>
+      <pubDate>Thu, 12 Nov 2026 14:52:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36041-godot-gdscript</guid>
+      <dc:date>2026-11-12T14:52:54Z</dc:date>
+    </item>
+    <item>
       <title>Revue Companion - Fri Nov 13 15:13:23 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36021-revue-companion</link>
       <description>Opens pull requests in Revue, the native desktop app for reviewing code on GitHub, Bitbucket Cloud and Forgejo. Revue: Open Pull Request or Create Pull Request (the...
@@ -43,227 +264,6 @@ xmlId: com.afkmesh.bootperflens</description>
       <pubDate>Sat, 31 Oct 2026 22:35:43 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35693-bootperf-lens</guid>
       <dc:date>2026-10-31T22:35:43Z</dc:date>
-    </item>
-    <item>
-      <title>EnvDiff Doctor - Wed Nov 11 15:11:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36003-envdiff-doctor</link>
-      <description>EnvDiff Doctor compares two local Python environment reports in PyCharm. Initial release: Linux x86_64 only. Validated with PyCharm 2025.3.x and CPython 3.13.5...
-
-vendor: AFK Mesh
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.afkmesh.envdiffdoctor</description>
-      <pubDate>Wed, 11 Nov 2026 15:11:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36003-envdiff-doctor</guid>
-      <dc:date>2026-11-11T15:11:47Z</dc:date>
-    </item>
-    <item>
-      <title>DataFrame Contract Studio - Thu Nov 12 14:39:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36019-dataframe-contract-studio</link>
-      <description>Review CSV contracts beside your Python workflowDataFrame Contract Studio brings local CSV schema evidence, rule changes and reviewable test drafts into PyCharm.Free...
-
-vendor: AFK Mesh
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: com.afkmesh.dataframecontractstudio</description>
-      <pubDate>Thu, 12 Nov 2026 14:39:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36019-dataframe-contract-studio</guid>
-      <dc:date>2026-11-12T14:39:41Z</dc:date>
-    </item>
-    <item>
-      <title>Agents Sync - Thu Nov 12 10:06:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36037-agents-sync</link>
-      <description>Synchronize, edit, and manage a system-wide AGENTS.md file across projects and machines using JetBrains Settings Sync. Includes a full Markdown editor tab, history...
-
-vendor: T+Code
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.tpluscode.agentssync</description>
-      <pubDate>Thu, 12 Nov 2026 10:06:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36037-agents-sync</guid>
-      <dc:date>2026-11-12T10:06:43Z</dc:date>
-    </item>
-    <item>
-      <title>IDE Pilot - Thu Nov 12 08:27:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36016-ide-pilot</link>
-      <description>Playwright MCP for JetBrains IDEs. An MCP (Model Context Protocol) server that lets AI agents such as Claude Code, Codex, Gemini CLI and Cursor see and use the IDE's...
-
-vendor: František Sodomka
-downloads: 3
-pricingModel: FREE
-xmlId: com.fsodomka.idepilot</description>
-      <pubDate>Thu, 12 Nov 2026 08:27:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36016-ide-pilot</guid>
-      <dc:date>2026-11-12T08:27:46Z</dc:date>
-    </item>
-    <item>
-      <title>Gun &amp; Ammo Title Parser - Thu Nov 12 07:34:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36036-gun--ammo-title-parser</link>
-      <description>Parse gun and ammo product titles into brand, model, caliber, magazine capacity, barrel length and rounds per box, without leaving the editor. Works offline. Made for...
-
-vendor: GunsNPrices
-downloads: 3
-pricingModel: FREE
-xmlId: com.gunsnprices.gun-title-parser</description>
-      <pubDate>Thu, 12 Nov 2026 07:34:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36036-gun--ammo-title-parser</guid>
-      <dc:date>2026-11-12T07:34:40Z</dc:date>
-    </item>
-    <item>
-      <title>Custom Splash Screen - Fri Nov 13 14:33:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36042-custom-splash-screen</link>
-      <description>Replace your JetBrains IDE's startup splash screen with an image you choose. Pick a bundled image or use your own photo, artwork, or logo. Works across the JetBrains...
-
-vendor: Jakub Chrzanowski
-downloads: 29
-pricingModel: FREE
-xmlId: info.chrzanowski.customsplashscreen</description>
-      <pubDate>Fri, 13 Nov 2026 14:33:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36042-custom-splash-screen</guid>
-      <dc:date>2026-11-13T14:33:54Z</dc:date>
-    </item>
-    <item>
-      <title>Container Image Delta - Wed Nov 11 15:11:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36002-container-image-delta</link>
-      <description>Why did your container image grow? Compare local Dive v0.13.1 JSON reports in IntelliJ IDEA. Review uncompressed image growth, layer matches and file observations...
-
-vendor: AFK Mesh
-downloads: 3
-pricingModel: FREEMIUM
-xmlId: com.afkmesh.containerdelta</description>
-      <pubDate>Wed, 11 Nov 2026 15:11:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36002-container-image-delta</guid>
-      <dc:date>2026-11-11T15:11:17Z</dc:date>
-    </item>
-    <item>
-      <title>deja-vu: Cross-Agent AI Session Memory - Thu Nov 12 12:19:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35998-deja-vu-cross-agent-ai-session-memory</link>
-      <description>Local cross-agent session recall, AI line blame, and handoff for IntelliJ IDEA, GoLand, PyCharm, WebStorm, RustRover, CLion, PhpStorm, and Rider. Reads the local deja...
-
-vendor: vshulcz
-downloads: 9
-pricingModel: FREE
-xmlId: com.github.vshulcz.deja-vu</description>
-      <pubDate>Thu, 12 Nov 2026 12:19:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35998-deja-vu-cross-agent-ai-session-memory</guid>
-      <dc:date>2026-11-12T12:19:44Z</dc:date>
-    </item>
-    <item>
-      <title>Saule - Fri Nov 06 13:23:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35823-saule</link>
-      <description>Language support for the Saule programming language (.sau): syntax highlighting plus a full language server — diagnostics, hover, go-to-definition, find usages...
-
-vendor: Saule
-downloads: 11
-pricingModel: FREE
-xmlId: com.saule.lang</description>
-      <pubDate>Fri, 06 Nov 2026 13:23:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35823-saule</guid>
-      <dc:date>2026-11-06T13:23:07Z</dc:date>
-    </item>
-    <item>
-      <title>Cucumber - Thu Nov 12 04:50:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36025-cucumber</link>
-      <description>Cucumber support for any JetBrains IDE, with no other plugins required. Highlighting, formatting, folding and structure view for .feature files, in any spoken language...
-
-vendor: Fang Zhengjie
-downloads: 9
-pricingModel: FREE
-xmlId: io.github.fangzhengjie.cucumber</description>
-      <pubDate>Thu, 12 Nov 2026 04:50:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36025-cucumber</guid>
-      <dc:date>2026-11-12T04:50:16Z</dc:date>
-    </item>
-    <item>
-      <title>Copilot Usage Status - Thu Nov 12 13:55:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36018-copilot-usage-status</link>
-      <description>Copilot Usage Status displays GitHub Copilot AI Credits from the official plugin cache in the IDE status bar and lets you configure a local alert threshold.
-
-vendor: Fernando Laudadio
-downloads: 21
-pricingModel: FREE
-xmlId: com.flaudadio.copilotstatusbar</description>
-      <pubDate>Thu, 12 Nov 2026 13:55:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36018-copilot-usage-status</guid>
-      <dc:date>2026-11-12T13:55:37Z</dc:date>
-    </item>
-    <item>
-      <title>gdtoolkit - Wed Nov 11 21:00:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36014-gdtoolkit</link>
-      <description>Formats and lints GDScript with gdtoolkit. Reformat Code on a .gd file runs gdformat, with your gdformatrc; Reformat with gdformat in the Project view formats whole...
-
-vendor: Clean Gamedev
-downloads: 3
-pricingModel: FREE
-xmlId: dev.cleangame.gdtoolkit</description>
-      <pubDate>Wed, 11 Nov 2026 21:00:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36014-gdtoolkit</guid>
-      <dc:date>2026-11-11T21:00:28Z</dc:date>
-    </item>
-    <item>
-      <title>FanOut - Wed Nov 11 19:56:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36015-fanout</link>
-      <description>Run one SQL script against many databases from your IDE and see the outcome for every one of them. FanOut reuses the data sources you already have in the Database tool...
-
-vendor: Karelia Labs
-downloads: 4
-pricingModel: PAID
-xmlId: com.karelialabs.fanout</description>
-      <pubDate>Wed, 11 Nov 2026 19:56:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36015-fanout</guid>
-      <dc:date>2026-11-11T19:56:26Z</dc:date>
-    </item>
-    <item>
-      <title>Comark - Fri Nov 13 11:22:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35993-comark</link>
-      <description>Support for Comark (Components in Markdown, formerly MDC) as used by Nuxt Content, in WebStorm, IntelliJ IDEA, Rider and other JetBrains IDEs. Highlighting of block...
-
-vendor: xprees - Václav Bílý
-downloads: 12
-pricingModel: FREE
-xmlId: cz.xprees.comark</description>
-      <pubDate>Fri, 13 Nov 2026 11:22:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35993-comark</guid>
-      <dc:date>2026-11-13T11:22:54Z</dc:date>
-    </item>
-    <item>
-      <title>GitDiffGraph - Wed Nov 11 19:38:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35771-gitdiffgraph</link>
-      <description>See your C# code changes as a graph, right next to the Git diff in Rider. The diff shows you a change line by line. GitDiffGraph shows how those lines connect: which...
-
-vendor: Iustinian Olaru
-downloads: 6
-pricingModel: PAID
-xmlId: io.github.iustin94.gitdiffgraph</description>
-      <pubDate>Wed, 11 Nov 2026 19:38:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35771-gitdiffgraph</guid>
-      <dc:date>2026-11-11T19:38:57Z</dc:date>
-    </item>
-    <item>
-      <title>Classpath Collision Doctor - Wed Nov 11 15:38:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36004-classpath-collision-doctor</link>
-      <description>See what collides in your current Java runtime classpathClasspath Collision Doctor inspects the ordered JARs and compiled-classes folders you choose, locally in...
-
-vendor: AFK Mesh
-downloads: 3
-pricingModel: FREEMIUM
-xmlId: com.afkmesh.classpath.collision.doctor</description>
-      <pubDate>Wed, 11 Nov 2026 15:38:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36004-classpath-collision-doctor</guid>
-      <dc:date>2026-11-11T15:38:39Z</dc:date>
-    </item>
-    <item>
-      <title>OpenCode Forge - Wed Nov 11 17:26:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36011-opencode-forge</link>
-      <description>OpenCode Forge — the OpenCode AI coding agent, native to your JetBrains IDE. No context switching, no copy-paste: connect to an OpenCode v2 server and drive an...
-
-vendor: auropia
-downloads: 6
-pricingModel: FREE
-xmlId: io.github.dlfinis.opencode.forge</description>
-      <pubDate>Wed, 11 Nov 2026 17:26:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36011-opencode-forge</guid>
-      <dc:date>2026-11-11T17:26:32Z</dc:date>
     </item>
   </channel>
 </rss>
