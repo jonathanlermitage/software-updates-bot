@@ -6,12 +6,220 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Query Fragment Map - Thu Nov 12 15:42:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36077-query-fragment-map</link>
+      <description>Follow named GraphQL fragment dependencies in a pasted document.See operation spreads, missing targets, duplicate definitions, unreferenced fragments and cycles.How to...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.graphql-fragment-map</description>
+      <pubDate>Thu, 12 Nov 2026 15:42:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36077-query-fragment-map</guid>
+      <dc:date>2026-11-12T15:42:44Z</dc:date>
+    </item>
+    <item>
+      <title>Test XML Failure Triage - Thu Nov 12 15:42:55 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36078-test-xml-failure-triage</link>
+      <description>Get a concise pass/fail inventory from a JUnit XML report.Summarize passed, failed, errored and skipped cases; list affected class and test names without dumping...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.junit-failure-triage</description>
+      <pubDate>Thu, 12 Nov 2026 15:42:55 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36078-test-xml-failure-triage</guid>
+      <dc:date>2026-11-12T15:42:55Z</dc:date>
+    </item>
+    <item>
+      <title>Coverage Gap Table - Thu Nov 12 15:43:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36079-coverage-gap-table</link>
+      <description>Prioritize files with uncovered lines in Cobertura XML.Merge repeated file/line records, sort files by uncovered lines and group contiguous gaps into ranges.How to...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.coverage-gap-table</description>
+      <pubDate>Thu, 12 Nov 2026 15:43:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36079-coverage-gap-table</guid>
+      <dc:date>2026-11-12T15:43:25Z</dc:date>
+    </item>
+    <item>
+      <title>JVM Trace Fingerprint - Thu Nov 12 15:43:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36080-jvm-trace-fingerprint</link>
+      <description>Create a stable identifier for repeated Java stack traces.Hash exception types and the first 12 normalized method frames so changing message text and line numbers do...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.java-stack-trace-fingerprint</description>
+      <pubDate>Thu, 12 Nov 2026 15:43:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36080-jvm-trace-fingerprint</guid>
+      <dc:date>2026-11-12T15:43:36Z</dc:date>
+    </item>
+    <item>
+      <title>Diff Path Risk Review - Thu Nov 12 15:43:47 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36081-diff-path-risk-review</link>
+      <description>Spot review-sensitive paths in a unified Git diff.Flag CI definitions, dependency locks, infrastructure files, migration paths and secret-related filenames without...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.diff-path-risk-review</description>
+      <pubDate>Thu, 12 Nov 2026 15:43:47 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36081-diff-path-risk-review</guid>
+      <dc:date>2026-11-12T15:43:47Z</dc:date>
+    </item>
+    <item>
+      <title>CODEOWNERS Coverage Check - Thu Nov 12 15:43:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36082-codeowners-coverage-check</link>
+      <description>Preview which CODEOWNERS rules apply to a list of changed paths.Apply last-match precedence, identify paths with no assigned owner and report the winning line.How to...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.codeowners-coverage-check</description>
+      <pubDate>Thu, 12 Nov 2026 15:43:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36082-codeowners-coverage-check</guid>
+      <dc:date>2026-11-12T15:43:57Z</dc:date>
+    </item>
+    <item>
+      <title>License Expression Review - Thu Nov 12 15:44:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36083-license-expression-review</link>
+      <description>Inspect the syntax of an SPDX-style license expression.Review AND, OR and WITH grouping and extract license and exception identifiers, including LicenseRef forms.How...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.spdx-expression-review</description>
+      <pubDate>Thu, 12 Nov 2026 15:44:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36083-license-expression-review</guid>
+      <dc:date>2026-11-12T15:44:19Z</dc:date>
+    </item>
+    <item>
+      <title>Cron Calendar Preview - Thu Nov 12 15:44:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36084-cron-calendar-preview</link>
+      <description>Preview the next ten runs of a five-field numeric cron expression.Use an explicit IANA time zone and starting timestamp; see valid local offsets across daylight-saving...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.cron-calendar-preview</description>
+      <pubDate>Thu, 12 Nov 2026 15:44:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36084-cron-calendar-preview</guid>
+      <dc:date>2026-11-12T15:44:28Z</dc:date>
+    </item>
+    <item>
+      <title>PEM Certificate Summary - Thu Nov 12 15:44:49 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36086-pem-certificate-summary</link>
+      <description>Inspect the identity, dates and fingerprints of public X.509 certificates.List subjects and issuers, report date validity and copy SHA-256 fingerprints for up to 32...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.pem-certificate-summary</description>
+      <pubDate>Thu, 12 Nov 2026 15:44:49 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36086-pem-certificate-summary</guid>
+      <dc:date>2026-11-12T15:44:49Z</dc:date>
+    </item>
+    <item>
+      <title>Log Viewer Pro - Sun Nov 15 16:37:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36161-log-viewer-pro</link>
+      <description>Log file viewer for JetBrains IDEs. Open a .log file and Log Viewer Pro detects its format (Spring Boot, nginx, Python, syslog, JSON and more) and adds syntax...
+
+vendor: Lakeside Digital
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: com.lakesidedigital.logviewerpro</description>
+      <pubDate>Sun, 15 Nov 2026 16:37:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36161-log-viewer-pro</guid>
+      <dc:date>2026-11-15T16:37:17Z</dc:date>
+    </item>
+    <item>
+      <title>Pickle Viewer for PKL &amp; Joblib - Sun Nov 15 18:56:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36167-pickle-viewer-for-pkl--joblib</link>
+      <description>Open .pkl, .pickle and .joblib files in PyCharm and other JetBrains IDEs: a pandas DataFrame shows as a table, a NumPy array as a grid, a model as its fields. Files...
+
+vendor: GRAMSHIFT
+downloads: 0
+pricingModel: PAID
+xmlId: com.gramshift.pickleviewer</description>
+      <pubDate>Sun, 15 Nov 2026 18:56:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36167-pickle-viewer-for-pkl--joblib</guid>
+      <dc:date>2026-11-15T18:56:34Z</dc:date>
+    </item>
+    <item>
+      <title>Tracedeck - Playwright Triage - Sun Nov 15 19:00:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36168-tracedeck--playwright-triage</link>
+      <description>Open Playwright traces inside your JetBrains IDE, see why a CI run went red, and jump straight to the line in your test. Free, with no time limit Open a trace with a...
+
+vendor: Zuhaib
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.zuhaibzahid.tracedeck</description>
+      <pubDate>Sun, 15 Nov 2026 19:00:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36168-tracedeck--playwright-triage</guid>
+      <dc:date>2026-11-15T19:00:57Z</dc:date>
+    </item>
+    <item>
+      <title>MDB &amp; ACCDB Database Viewer - Sun Nov 15 20:04:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36169-mdb--accdb-database-viewer</link>
+      <description>Open Microsoft Access .mdb and .accdb files in IntelliJ IDEA, PyCharm, DataGrip and other JetBrains IDEs, on Windows, macOS and Linux: every table, its rows and column...
+
+vendor: GRAMSHIFT
+downloads: 0
+pricingModel: PAID
+xmlId: com.gramshift.accessviewer</description>
+      <pubDate>Sun, 15 Nov 2026 20:04:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36169-mdb--accdb-database-viewer</guid>
+      <dc:date>2026-11-15T20:04:54Z</dc:date>
+    </item>
+    <item>
+      <title>SPSS, Stata, SAS &amp; R Viewer - Sun Nov 15 23:15:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36172-spss-stata-sas--r-viewer</link>
+      <description>Open SPSS (.sav, .zsav), Stata (.dta), SAS (.sas7bdat, .xpt) and R (.rds, .RData, .rda) data files in PyCharm, DataSpell, IntelliJ IDEA and other JetBrains IDEs...
+
+vendor: GRAMSHIFT
+downloads: 0
+pricingModel: PAID
+xmlId: com.gramshift.statviewer</description>
+      <pubDate>Sun, 15 Nov 2026 23:15:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36172-spss-stata-sas--r-viewer</guid>
+      <dc:date>2026-11-15T23:15:42Z</dc:date>
+    </item>
+    <item>
+      <title>CSV Duplicate Report - Thu Nov 12 15:32:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36056-csv-duplicate-report</link>
+      <description>Find repeated records by one or more selected CSV columns.Group equal keys and show the input record numbers, including CSV with quoted commas and line breaks.How to...
+
+vendor: TechnofyStore
+downloads: 0
+pricingModel: PAID
+xmlId: com.callsiq.technofystore.csv-duplicate-report</description>
+      <pubDate>Thu, 12 Nov 2026 15:32:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36056-csv-duplicate-report</guid>
+      <dc:date>2026-11-12T15:32:27Z</dc:date>
+    </item>
+    <item>
+      <title>Local Backend via Docker - Mon Nov 16 10:19:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35948-local-backend-via-docker</link>
+      <description>Run the local myAT&amp;amp;T backend Docker setup from a guided VS Code panel. Choose a customer and environment, select setup options, and follow progress in a VS Code...
+
+vendor: Local Backend via Docker
+downloads: 0
+pricingModel: FREE
+xmlId: com.att.localbackenddocker</description>
+      <pubDate>Mon, 16 Nov 2026 10:19:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35948-local-backend-via-docker</guid>
+      <dc:date>2026-11-16T10:19:17Z</dc:date>
+    </item>
+    <item>
       <title>EbcdicPrism Copybook Viewer - Sat Nov 14 05:46:08 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36104-ebcdicprism-copybook-viewer</link>
       <description>EbcdicPrism Copybook Viewer is a deterministic, 100% offline / air-gapped mainframe binary data inspector, COBOL Copybook (.cpy) byte-offset calculator, EBCDIC...
 
 vendor: EdiPrism
-downloads: 10
+downloads: 12
 pricingModel: FREEMIUM
 xmlId: dev.ediprism.ebcdic</description>
       <pubDate>Sat, 14 Nov 2026 05:46:08 GMT</pubDate>
@@ -24,7 +232,7 @@ xmlId: dev.ediprism.ebcdic</description>
       <description>Open HDF5 files (.h5, .hdf5) and netCDF-4 files (.nc) right in PyCharm, DataSpell, IntelliJ IDEA and every other JetBrains IDE. Slabview shows the groups and datasets...
 
 vendor: KOT&amp;CO
-downloads: 9
+downloads: 11
 pricingModel: FREEMIUM
 xmlId: kotco.slabview</description>
       <pubDate>Fri, 13 Nov 2026 14:05:15 GMT</pubDate>
@@ -37,7 +245,7 @@ xmlId: kotco.slabview</description>
       <description>The markdownlint rules as live Markdown inspections in every JetBrains IDE, with no Node.js, npm or external binary: the rule engine runs inside the IDE. Free 53 rules...
 
 vendor: KOT&amp;CO
-downloads: 11
+downloads: 13
 pricingModel: FREEMIUM
 xmlId: kotco.lintmark</description>
       <pubDate>Fri, 13 Nov 2026 11:30:58 GMT</pubDate>
@@ -50,220 +258,12 @@ xmlId: kotco.lintmark</description>
       <description>Open NuGet packages (.nupkg, .snupkg) in Rider and IntelliJ IDEA and check them before you push. Pakscope shows what is inside a package - manifest, dependencies per...
 
 vendor: KOT&amp;CO
-downloads: 9
+downloads: 10
 pricingModel: FREEMIUM
 xmlId: kotco.pakscope</description>
       <pubDate>Fri, 13 Nov 2026 12:16:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36109-pakscope--nupkg-explorer</guid>
       <dc:date>2026-11-13T12:16:01Z</dc:date>
-    </item>
-    <item>
-      <title>Sidegear - Fri Nov 13 12:58:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36111-sidegear</link>
-      <description>YAML support for Dapr in Rider, IntelliJ IDEA and GoLand: schemas, completion and documentation for component files, plus one-click multi-app runs. Sidegear knows the...
-
-vendor: KOT&amp;CO
-downloads: 11
-pricingModel: FREEMIUM
-xmlId: kotco.sidegear</description>
-      <pubDate>Fri, 13 Nov 2026 12:58:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36111-sidegear</guid>
-      <dc:date>2026-11-13T12:58:11Z</dc:date>
-    </item>
-    <item>
-      <title>qlang Language Support - Sat Nov 07 13:23:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35862-qlang-language-support</link>
-      <description>*.q files for the qlang language: syntax highlighting, language server (qlang lsp: errors, tooltips, autocompletion, definitions, references, renaming, file map...
-
-vendor: quenti77
-downloads: 10
-pricingModel: FREE
-xmlId: dev.qlang.jetbrains</description>
-      <pubDate>Sat, 07 Nov 2026 13:23:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35862-qlang-language-support</guid>
-      <dc:date>2026-11-07T13:23:51Z</dc:date>
-    </item>
-    <item>
-      <title>iCal Highlighter - Thu Nov 12 16:58:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36089-ical-highlighter</link>
-      <description>Provides syntax highlighting and templates for iCalendar and vCard files. Features: Syntax highlighting for iCal files Distinct colors for properties, parameters...
-
-vendor: Rene Kudlek
-downloads: 6
-pricingModel: FREE
-xmlId: com.github.icalhighlighter</description>
-      <pubDate>Thu, 12 Nov 2026 16:58:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36089-ical-highlighter</guid>
-      <dc:date>2026-11-12T16:58:43Z</dc:date>
-    </item>
-    <item>
-      <title>JSONSpy - Enterprise JSON &amp; Schema Workbench - Thu Nov 12 17:22:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35836-jsonspy--enterprise-json--schema-workbench</link>
-      <description>JSONSpy - Enterprise JSON &amp;amp; Schema Workbench A high-performance enterprise JSON editing, validation, transformation, and visual schema modeling workbench inspired...
-
-vendor: Sangharsh Gautam
-downloads: 12
-pricingModel: FREE
-xmlId: uk.co.sangharsh.jsonspy.plugin</description>
-      <pubDate>Thu, 12 Nov 2026 17:22:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35836-jsonspy--enterprise-json--schema-workbench</guid>
-      <dc:date>2026-11-12T17:22:38Z</dc:date>
-    </item>
-    <item>
-      <title>Cat Clapping - Thu Nov 12 21:14:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36093-cat-clapping</link>
-      <description>Celebrate successful builds, runs, tests, debug sessions, and terminal commands with an animated clapping cat and celebration sound directly inside your IDE. Supported...
-
-vendor: YusufMolla
-downloads: 8
-pricingModel: FREE
-xmlId: de.yusufmolla.catclapping</description>
-      <pubDate>Thu, 12 Nov 2026 21:14:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36093-cat-clapping</guid>
-      <dc:date>2026-11-12T21:14:17Z</dc:date>
-    </item>
-    <item>
-      <title>Branch Tab Title - Fri Nov 13 10:38:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35988-branch-tab-title</link>
-      <description>Shows the current Git branch and terminal status (⏳ running / ✓ idle) in the project window title, so merged project window tabs on macOS tell you which branch each...
-
-vendor: seunggabi
-downloads: 10
-pricingModel: FREE
-xmlId: seunggabi.branch-title</description>
-      <pubDate>Fri, 13 Nov 2026 10:38:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35988-branch-tab-title</guid>
-      <dc:date>2026-11-13T10:38:11Z</dc:date>
-    </item>
-    <item>
-      <title>DBT Lens - Fri Nov 13 02:57:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36091-dbt-lens</link>
-      <description>Jinja-aware editing for dbt projects. DBT Lens turns the .sql files in a dbt project into templates the IDE understands, and works offline without running dbt. Jinja...
-
-vendor: DBT Lens
-downloads: 9
-pricingModel: FREE
-xmlId: eladbarkay.dev.dbtlens</description>
-      <pubDate>Fri, 13 Nov 2026 02:57:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36091-dbt-lens</guid>
-      <dc:date>2026-11-13T02:57:56Z</dc:date>
-    </item>
-    <item>
-      <title>Comment Checker - Fri Nov 13 06:11:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36103-comment-checker</link>
-      <description>Review changed comments before commit. Adds a Comments tab to the Commit tool window. It lists the comments on changed lines of the files shown there (Changes and...
-
-vendor: ukukj
-downloads: 8
-pricingModel: FREE
-xmlId: io.github.ukukj.commentchecker</description>
-      <pubDate>Fri, 13 Nov 2026 06:11:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36103-comment-checker</guid>
-      <dc:date>2026-11-13T06:11:03Z</dc:date>
-    </item>
-    <item>
-      <title>Loadkiln: Load Tests for k6 - Fri Nov 13 03:46:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36101-loadkiln-load-tests-for-k6</link>
-      <description>Run k6 load tests from your JetBrains IDE and get a pass/fail report you can act on: every threshold marked held or crossed, every check counted, and latency, errors...
-
-vendor: Great Work
-downloads: 9
-pricingModel: PAID
-xmlId: com.greatwork.loadkiln</description>
-      <pubDate>Fri, 13 Nov 2026 03:46:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36101-loadkiln-load-tests-for-k6</guid>
-      <dc:date>2026-11-13T03:46:53Z</dc:date>
-    </item>
-    <item>
-      <title>Plybrook for Ansible - Fri Nov 13 04:03:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36102-plybrook-for-ansible</link>
-      <description>Ansible playbooks, roles and templates in your JetBrains IDE, built on the bundled YAML support. Plybrook only switches on for Ansible files, so your Kubernetes...
-
-vendor: Great Work
-downloads: 9
-pricingModel: PAID
-xmlId: com.greatwork.plybrook</description>
-      <pubDate>Fri, 13 Nov 2026 04:03:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36102-plybrook-for-ansible</guid>
-      <dc:date>2026-11-13T04:03:32Z</dc:date>
-    </item>
-    <item>
-      <title>Ventus API Search - Fri Nov 13 01:11:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36097-ventus-api-search</link>
-      <description>Ventus API Search is an IntelliJ IDEA plugin for searching Spring MVC / Spring Boot, JAX-RS, Feign and Spring Cloud Gateway endpoints. It supports fuzzy search by URL...
-
-vendor: Ventus
-downloads: 9
-pricingModel: FREE
-xmlId: com.ventus.apisearch</description>
-      <pubDate>Fri, 13 Nov 2026 01:11:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36097-ventus-api-search</guid>
-      <dc:date>2026-11-13T01:11:23Z</dc:date>
-    </item>
-    <item>
-      <title>Greppa - Sun Nov 15 12:49:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35970-greppa</link>
-      <description>An AI-accelerated coding workflow that understands that some tasks are better done by you. Greppa is built for long-term software projects, where progress depends on...
-
-vendor: perfah
-downloads: 7
-pricingModel: FREE
-xmlId: com.perfah.greppa</description>
-      <pubDate>Sun, 15 Nov 2026 12:49:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35970-greppa</guid>
-      <dc:date>2026-11-15T12:49:31Z</dc:date>
-    </item>
-    <item>
-      <title>Godot GDScript - Thu Nov 12 14:52:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36041-godot-gdscript</link>
-      <description>Adds GDScript language support and Godot Engine integration to IntelliJ-based IDEs. This fork is based on Jakub Błach’s original project and includes compatibility...
-
-vendor: PixelStream
-downloads: 19
-pricingModel: FREE
-xmlId: org.plugin.pixelstream.gdscript</description>
-      <pubDate>Thu, 12 Nov 2026 14:52:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36041-godot-gdscript</guid>
-      <dc:date>2026-11-12T14:52:54Z</dc:date>
-    </item>
-    <item>
-      <title>Revue Companion - Sun Nov 15 19:48:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36021-revue-companion</link>
-      <description>Opens pull requests in Revue, the native desktop app for reviewing code on GitHub, Bitbucket Cloud and Forgejo. Revue: Open Pull Request or Create Pull Request (the...
-
-vendor: Clean Gamedev
-downloads: 10
-pricingModel: FREE
-xmlId: dev.cleangame.revue.companion</description>
-      <pubDate>Sun, 15 Nov 2026 19:48:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36021-revue-companion</guid>
-      <dc:date>2026-11-15T19:48:26Z</dc:date>
-    </item>
-    <item>
-      <title>RWord - Thu Nov 12 12:03:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36040-rword</link>
-      <description>Browse your own vocabulary while coding. RWord shows one of your entries in Rider’s status bar. Import English and Chinese yourself. The plugin does not translate...
-
-vendor: RWord
-downloads: 6
-pricingModel: FREE
-xmlId: com.riderword.plugin</description>
-      <pubDate>Thu, 12 Nov 2026 12:03:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36040-rword</guid>
-      <dc:date>2026-11-12T12:03:17Z</dc:date>
-    </item>
-    <item>
-      <title>BootPerf Lens - Sat Oct 31 22:35:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35693-bootperf-lens</link>
-      <description>BootPerf Lens reads local Spring Boot startup-step recordings in IntelliJ IDEA. Import an Actuator startup JSON snapshot or explicitly capture from a trusted loopback...
-
-vendor: AFK Mesh
-downloads: 5
-pricingModel: FREEMIUM
-xmlId: com.afkmesh.bootperflens</description>
-      <pubDate>Sat, 31 Oct 2026 22:35:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35693-bootperf-lens</guid>
-      <dc:date>2026-10-31T22:35:43Z</dc:date>
     </item>
   </channel>
 </rss>
