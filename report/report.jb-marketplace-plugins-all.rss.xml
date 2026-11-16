@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Query Fragment Map - Thu Nov 12 15:42:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36077-query-fragment-map</link>
-      <description>Follow named GraphQL fragment dependencies in a pasted document.See operation spreads, missing targets, duplicate definitions, unreferenced fragments and cycles.How to...
+      <title>EWP Project Sync - Thu Nov 12 21:03:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35654-ewp-project-sync</link>
+      <description>Keep IAR EWARM *.ewp project files in sync with CLion. Features Synchronize project files: Automatically update ewp project files when source files are added, deleted...
 
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.graphql-fragment-map</description>
-      <pubDate>Thu, 12 Nov 2026 15:42:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36077-query-fragment-map</guid>
-      <dc:date>2026-11-12T15:42:44Z</dc:date>
-    </item>
-    <item>
-      <title>Test XML Failure Triage - Thu Nov 12 15:42:55 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36078-test-xml-failure-triage</link>
-      <description>Get a concise pass/fail inventory from a JUnit XML report.Summarize passed, failed, errored and skipped cases; list affected class and test names without dumping...
-
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.junit-failure-triage</description>
-      <pubDate>Thu, 12 Nov 2026 15:42:55 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36078-test-xml-failure-triage</guid>
-      <dc:date>2026-11-12T15:42:55Z</dc:date>
-    </item>
-    <item>
-      <title>Coverage Gap Table - Thu Nov 12 15:43:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36079-coverage-gap-table</link>
-      <description>Prioritize files with uncovered lines in Cobertura XML.Merge repeated file/line records, sort files by uncovered lines and group contiguous gaps into ranges.How to...
-
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.coverage-gap-table</description>
-      <pubDate>Thu, 12 Nov 2026 15:43:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36079-coverage-gap-table</guid>
-      <dc:date>2026-11-12T15:43:25Z</dc:date>
-    </item>
-    <item>
-      <title>JVM Trace Fingerprint - Thu Nov 12 15:43:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36080-jvm-trace-fingerprint</link>
-      <description>Create a stable identifier for repeated Java stack traces.Hash exception types and the first 12 normalized method frames so changing message text and line numbers do...
-
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.java-stack-trace-fingerprint</description>
-      <pubDate>Thu, 12 Nov 2026 15:43:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36080-jvm-trace-fingerprint</guid>
-      <dc:date>2026-11-12T15:43:36Z</dc:date>
-    </item>
-    <item>
-      <title>Diff Path Risk Review - Thu Nov 12 15:43:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36081-diff-path-risk-review</link>
-      <description>Spot review-sensitive paths in a unified Git diff.Flag CI definitions, dependency locks, infrastructure files, migration paths and secret-related filenames without...
-
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.diff-path-risk-review</description>
-      <pubDate>Thu, 12 Nov 2026 15:43:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36081-diff-path-risk-review</guid>
-      <dc:date>2026-11-12T15:43:47Z</dc:date>
-    </item>
-    <item>
-      <title>CODEOWNERS Coverage Check - Thu Nov 12 15:43:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36082-codeowners-coverage-check</link>
-      <description>Preview which CODEOWNERS rules apply to a list of changed paths.Apply last-match precedence, identify paths with no assigned owner and report the winning line.How to...
-
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.codeowners-coverage-check</description>
-      <pubDate>Thu, 12 Nov 2026 15:43:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36082-codeowners-coverage-check</guid>
-      <dc:date>2026-11-12T15:43:57Z</dc:date>
-    </item>
-    <item>
-      <title>License Expression Review - Thu Nov 12 15:44:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36083-license-expression-review</link>
-      <description>Inspect the syntax of an SPDX-style license expression.Review AND, OR and WITH grouping and extract license and exception identifiers, including LicenseRef forms.How...
-
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.spdx-expression-review</description>
-      <pubDate>Thu, 12 Nov 2026 15:44:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36083-license-expression-review</guid>
-      <dc:date>2026-11-12T15:44:19Z</dc:date>
-    </item>
-    <item>
-      <title>Cron Calendar Preview - Thu Nov 12 15:44:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36084-cron-calendar-preview</link>
-      <description>Preview the next ten runs of a five-field numeric cron expression.Use an explicit IANA time zone and starting timestamp; see valid local offsets across daylight-saving...
-
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.cron-calendar-preview</description>
-      <pubDate>Thu, 12 Nov 2026 15:44:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36084-cron-calendar-preview</guid>
-      <dc:date>2026-11-12T15:44:28Z</dc:date>
-    </item>
-    <item>
-      <title>PEM Certificate Summary - Thu Nov 12 15:44:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36086-pem-certificate-summary</link>
-      <description>Inspect the identity, dates and fingerprints of public X.509 certificates.List subjects and issuers, report date validity and copy SHA-256 fingerprints for up to 32...
-
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.pem-certificate-summary</description>
-      <pubDate>Thu, 12 Nov 2026 15:44:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36086-pem-certificate-summary</guid>
-      <dc:date>2026-11-12T15:44:49Z</dc:date>
-    </item>
-    <item>
-      <title>Log Viewer Pro - Sun Nov 15 16:37:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36161-log-viewer-pro</link>
-      <description>Log file viewer for JetBrains IDEs. Open a .log file and Log Viewer Pro detects its format (Spring Boot, nginx, Python, syslog, JSON and more) and adds syntax...
-
-vendor: Lakeside Digital
+vendor: SalPeter
 downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.lakesidedigital.logviewerpro</description>
-      <pubDate>Sun, 15 Nov 2026 16:37:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36161-log-viewer-pro</guid>
-      <dc:date>2026-11-15T16:37:17Z</dc:date>
+pricingModel: FREE
+xmlId: com.github.kellpete.intellijewpsupport</description>
+      <pubDate>Thu, 12 Nov 2026 21:03:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35654-ewp-project-sync</guid>
+      <dc:date>2026-11-12T21:03:13Z</dc:date>
     </item>
     <item>
-      <title>Pickle Viewer for PKL &amp; Joblib - Sun Nov 15 18:56:34 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36167-pickle-viewer-for-pkl--joblib</link>
-      <description>Open .pkl, .pickle and .joblib files in PyCharm and other JetBrains IDEs: a pandas DataFrame shows as a table, a NumPy array as a grid, a model as its fields. Files...
+      <title>SectionNav - Sun Nov 15 16:50:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/32962-sectionnav</link>
+      <description>Navigate code using configurable section markers. Define patterns like //~, ##~, #~ per file extension. Sections appear in a searchable tool window grouped by...
 
-vendor: GRAMSHIFT
-downloads: 0
-pricingModel: PAID
-xmlId: com.gramshift.pickleviewer</description>
-      <pubDate>Sun, 15 Nov 2026 18:56:34 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36167-pickle-viewer-for-pkl--joblib</guid>
-      <dc:date>2026-11-15T18:56:34Z</dc:date>
+vendor: Vatnar
+downloads: 5
+pricingModel: FREE
+xmlId: dev.vatnar.sectionnav</description>
+      <pubDate>Sun, 15 Nov 2026 16:50:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/32962-sectionnav</guid>
+      <dc:date>2026-11-15T16:50:38Z</dc:date>
     </item>
     <item>
-      <title>Tracedeck - Playwright Triage - Sun Nov 15 19:00:57 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36168-tracedeck--playwright-triage</link>
-      <description>Open Playwright traces inside your JetBrains IDE, see why a CI run went red, and jump straight to the line in your test. Free, with no time limit Open a trace with a...
+      <title>Phaenon - Sun Nov 15 14:30:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35870-phaenon</link>
+      <description>Support for Phaenon source files (.phn): a typed dialect of PHP that compiles to PHP. A Phaenon file is PHP code from the first byte: no &amp;lt;?php open tag, no inline...
 
-vendor: Zuhaib
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: com.zuhaibzahid.tracedeck</description>
-      <pubDate>Sun, 15 Nov 2026 19:00:57 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36168-tracedeck--playwright-triage</guid>
-      <dc:date>2026-11-15T19:00:57Z</dc:date>
-    </item>
-    <item>
-      <title>MDB &amp; ACCDB Database Viewer - Sun Nov 15 20:04:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36169-mdb--accdb-database-viewer</link>
-      <description>Open Microsoft Access .mdb and .accdb files in IntelliJ IDEA, PyCharm, DataGrip and other JetBrains IDEs, on Windows, macOS and Linux: every table, its rows and column...
-
-vendor: GRAMSHIFT
-downloads: 0
-pricingModel: PAID
-xmlId: com.gramshift.accessviewer</description>
-      <pubDate>Sun, 15 Nov 2026 20:04:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36169-mdb--accdb-database-viewer</guid>
-      <dc:date>2026-11-15T20:04:54Z</dc:date>
-    </item>
-    <item>
-      <title>SPSS, Stata, SAS &amp; R Viewer - Sun Nov 15 23:15:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36172-spss-stata-sas--r-viewer</link>
-      <description>Open SPSS (.sav, .zsav), Stata (.dta), SAS (.sas7bdat, .xpt) and R (.rds, .RData, .rda) data files in PyCharm, DataSpell, IntelliJ IDEA and other JetBrains IDEs...
-
-vendor: GRAMSHIFT
-downloads: 0
-pricingModel: PAID
-xmlId: com.gramshift.statviewer</description>
-      <pubDate>Sun, 15 Nov 2026 23:15:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36172-spss-stata-sas--r-viewer</guid>
-      <dc:date>2026-11-15T23:15:42Z</dc:date>
-    </item>
-    <item>
-      <title>CSV Duplicate Report - Thu Nov 12 15:32:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36056-csv-duplicate-report</link>
-      <description>Find repeated records by one or more selected CSV columns.Group equal keys and show the input record numbers, including CSV with quoted commas and line breaks.How to...
-
-vendor: TechnofyStore
-downloads: 0
-pricingModel: PAID
-xmlId: com.callsiq.technofystore.csv-duplicate-report</description>
-      <pubDate>Thu, 12 Nov 2026 15:32:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36056-csv-duplicate-report</guid>
-      <dc:date>2026-11-12T15:32:27Z</dc:date>
-    </item>
-    <item>
-      <title>Local Backend via Docker - Mon Nov 16 10:19:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35948-local-backend-via-docker</link>
-      <description>Run the local myAT&amp;amp;T backend Docker setup from a guided VS Code panel. Choose a customer and environment, select setup options, and follow progress in a VS Code...
-
-vendor: Local Backend via Docker
+vendor: Phaenon
 downloads: 0
 pricingModel: FREE
-xmlId: com.att.localbackenddocker</description>
-      <pubDate>Mon, 16 Nov 2026 10:19:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35948-local-backend-via-docker</guid>
-      <dc:date>2026-11-16T10:19:17Z</dc:date>
+xmlId: dev.phaenon.jetbrains</description>
+      <pubDate>Sun, 15 Nov 2026 14:30:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35870-phaenon</guid>
+      <dc:date>2026-11-15T14:30:54Z</dc:date>
     </item>
     <item>
-      <title>EbcdicPrism Copybook Viewer - Sat Nov 14 05:46:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36104-ebcdicprism-copybook-viewer</link>
-      <description>EbcdicPrism Copybook Viewer is a deterministic, 100% offline / air-gapped mainframe binary data inspector, COBOL Copybook (.cpy) byte-offset calculator, EBCDIC...
+      <title>Dockerizer for PHP - Mon Nov 16 03:21:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36175-dockerizer-for-php</link>
+      <description>Manage Dockerizer for PHP environments right from the IDE. Dockerizer is an open-source tool that sets up Docker Compose development environments for Magento, Symfony...
 
-vendor: EdiPrism
-downloads: 12
-pricingModel: FREEMIUM
-xmlId: dev.ediprism.ebcdic</description>
-      <pubDate>Sat, 14 Nov 2026 05:46:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36104-ebcdicprism-copybook-viewer</guid>
-      <dc:date>2026-11-14T05:46:08Z</dc:date>
+vendor: Free Winds Studio
+downloads: 0
+pricingModel: FREE
+xmlId: studio.freewinds.dockerizer</description>
+      <pubDate>Mon, 16 Nov 2026 03:21:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36175-dockerizer-for-php</guid>
+      <dc:date>2026-11-16T03:21:50Z</dc:date>
     </item>
     <item>
-      <title>Slabview HDF5 netCDF Viewer - Fri Nov 13 14:05:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36113-slabview-hdf5-netcdf-viewer</link>
-      <description>Open HDF5 files (.h5, .hdf5) and netCDF-4 files (.nc) right in PyCharm, DataSpell, IntelliJ IDEA and every other JetBrains IDE. Slabview shows the groups and datasets...
+      <title>Reading Notes - Sat Nov 14 02:55:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36128-reading-notes</link>
+      <description>Add notes to code lines and organize them by learning topic and group. Click a gutter bookmark to view or edit notes without modifying source code. Search notes...
 
-vendor: KOT&amp;CO
-downloads: 11
-pricingModel: FREEMIUM
-xmlId: kotco.slabview</description>
-      <pubDate>Fri, 13 Nov 2026 14:05:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36113-slabview-hdf5-netcdf-viewer</guid>
-      <dc:date>2026-11-13T14:05:15Z</dc:date>
+vendor: Reading Notes
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.sisyphusseeker.readingnotes</description>
+      <pubDate>Sat, 14 Nov 2026 02:55:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36128-reading-notes</guid>
+      <dc:date>2026-11-14T02:55:21Z</dc:date>
     </item>
     <item>
-      <title>Lintmark: Markdown Rules - Fri Nov 13 11:30:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36106-lintmark-markdown-rules</link>
-      <description>The markdownlint rules as live Markdown inspections in every JetBrains IDE, with no Node.js, npm or external binary: the rule engine runs inside the IDE. Free 53 rules...
+      <title>Goose Language - Mon Nov 16 21:42:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36132-goose-language</link>
+      <description>Support for the Goose programming language: syntax highlighting, brace matching, commenting and snippets from the Goose TextMate grammar, and the Goose compiler's...
 
-vendor: KOT&amp;CO
-downloads: 13
-pricingModel: FREEMIUM
-xmlId: kotco.lintmark</description>
-      <pubDate>Fri, 13 Nov 2026 11:30:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36106-lintmark-markdown-rules</guid>
-      <dc:date>2026-11-13T11:30:58Z</dc:date>
+vendor: SorinS
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.sorins.goose</description>
+      <pubDate>Mon, 16 Nov 2026 21:42:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36132-goose-language</guid>
+      <dc:date>2026-11-16T21:42:26Z</dc:date>
     </item>
     <item>
-      <title>Pakscope: .nupkg Explorer - Fri Nov 13 12:16:01 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36109-pakscope--nupkg-explorer</link>
-      <description>Open NuGet packages (.nupkg, .snupkg) in Rider and IntelliJ IDEA and check them before you push. Pakscope shows what is inside a package - manifest, dependencies per...
+      <title>MongoDeclaration - Mon Nov 16 18:12:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36125-mongodeclaration</link>
+      <description>This plugin provides a convenient way to change mongo-like "def" and "var" declarations to real typesafe declarations.
 
-vendor: KOT&amp;CO
-downloads: 10
+vendor: Thimo von Rauchhaupt
+downloads: 0
+pricingModel: FREE
+xmlId: de.vonrauchhaupt.mongodeclaration.MongoDeclaration</description>
+      <pubDate>Mon, 16 Nov 2026 18:12:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36125-mongodeclaration</guid>
+      <dc:date>2026-11-16T18:12:40Z</dc:date>
+    </item>
+    <item>
+      <title>Maven Detective - Sat Nov 14 10:03:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36131-maven-detective</link>
+      <description>Maven Detective explains why your Maven build failed – and fixes it in one click. Instead of scrolling through 500 lines of stack traces and download noise, you get a...
+
+vendor: BitShiftDev
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.bitshiftdev.mavendetective</description>
+      <pubDate>Sat, 14 Nov 2026 10:03:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36131-maven-detective</guid>
+      <dc:date>2026-11-14T10:03:58Z</dc:date>
+    </item>
+    <item>
+      <title>Kirino Shader Meta Language - Mon Nov 16 03:37:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36176-kirino-shader-meta-language</link>
+      <description>This is the IntelliJ support of Kirino Shader Meta Language (KSML) for GLSL. KSML is a runtime-agnostic engineering layer for GLSL. Unlike engine-specific shader...
+
+vendor: tttsaurus
+downloads: 0
+pricingModel: FREE
+xmlId: com.tttsaurus.ksml</description>
+      <pubDate>Mon, 16 Nov 2026 03:37:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36176-kirino-shader-meta-language</guid>
+      <dc:date>2026-11-16T03:37:18Z</dc:date>
+    </item>
+    <item>
+      <title>Gitflow Navigator - Sun Nov 15 17:47:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36165-gitflow-navigator</link>
+      <description>Gitflow Navigator — a clean Git Flow UI for JetBrains IDEs. Start, finish,publish and track feature, release, hotfix and bugfix branches right from the IDE,on top of...
+
+vendor: BORISOVCODE
+downloads: 0
+pricingModel: FREE
+xmlId: com.borisovcode.gitflow.navigator</description>
+      <pubDate>Sun, 15 Nov 2026 17:47:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36165-gitflow-navigator</guid>
+      <dc:date>2026-11-15T17:47:31Z</dc:date>
+    </item>
+    <item>
+      <title>HAProxy Config Security Linter - Sat Nov 14 13:11:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36133-haproxy-config-security-linter</link>
+      <description>HAProxy Config Security Linter — audit haproxy.cfg in your IDE, offline Catch insecure HAProxy configuration while you edit it, instead of in an incident. The plugin...
+
+vendor: VadimToptunov
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.vadimtoptunov.haproxy-security-linter</description>
+      <pubDate>Sat, 14 Nov 2026 13:11:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36133-haproxy-config-security-linter</guid>
+      <dc:date>2026-11-14T13:11:39Z</dc:date>
+    </item>
+    <item>
+      <title>Phem - Fri Nov 13 17:05:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36117-phem</link>
+      <description>Language support for Phem .phem files. A .phem file is a PHP file with markup literals and Twig, the same way a .jsx file is JavaScript with JSX. Features Syntax...
+
+vendor: Phem
+downloads: 0
+pricingModel: FREE
+xmlId: phem</description>
+      <pubDate>Fri, 13 Nov 2026 17:05:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36117-phem</guid>
+      <dc:date>2026-11-13T17:05:21Z</dc:date>
+    </item>
+    <item>
+      <title>Context Converter - Fri Nov 13 12:17:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36110-context-converter</link>
+      <description>Turn the files and folders you select in the Project view into one clean Markdown document that you can paste into ChatGPT, Claude, Gemini or any other large language...
+
+vendor: Michael_Novikau
+downloads: 0
+pricingModel: FREE
+xmlId: com.michael.contextconverter</description>
+      <pubDate>Fri, 13 Nov 2026 12:17:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36110-context-converter</guid>
+      <dc:date>2026-11-13T12:17:21Z</dc:date>
+    </item>
+    <item>
+      <title>EBNF Grammar Support - Mon Nov 16 11:29:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36186-ebnf-grammar-support</link>
+      <description>Language support for EBNF grammar files (.ebnf) in both common styles: ISO/IEC 14977: name = 'a', { b | c } ;, (* comments *), ? special sequences ?, multi-word rule...
+
+vendor: hollyviolet
+downloads: 0
+pricingModel: FREE
+xmlId: dev.hollyviolet.ebnf</description>
+      <pubDate>Mon, 16 Nov 2026 11:29:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36186-ebnf-grammar-support</guid>
+      <dc:date>2026-11-16T11:29:40Z</dc:date>
+    </item>
+    <item>
+      <title>Log2SQL - SQL Log Converter - Tue Nov 10 08:18:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35618-log2sql--sql-log-converter</link>
+      <description>Log2SQL - Convert SQL Logs into Executable SQL Reconstructs MyBatis and Hibernate SQL logs with their bound parameters into directly executable SQL statements...
+
+vendor: Log2SQL
+downloads: 5
+pricingModel: FREE
+xmlId: com.github.log2sql</description>
+      <pubDate>Tue, 10 Nov 2026 08:18:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35618-log2sql--sql-log-converter</guid>
+      <dc:date>2026-11-10T08:18:23Z</dc:date>
+    </item>
+    <item>
+      <title>HAR Inspector - Mon Nov 16 10:02:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36184-har-inspector</link>
+      <description>Open .har (HTTP Archive) files exported from browser DevTools right inside the IDE. Request table with method, status, type, size and time Waterfall column showing...
+
+vendor: hitsuji__works
+downloads: 0
+pricingModel: FREE
+xmlId: dev.fumulabo.har</description>
+      <pubDate>Mon, 16 Nov 2026 10:02:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36184-har-inspector</guid>
+      <dc:date>2026-11-16T10:02:17Z</dc:date>
+    </item>
+    <item>
+      <title>Keystore Workbench - Sat Nov 14 13:24:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36134-keystore-workbench</link>
+      <description>View and manage Java keystores and certificates inside the IDE. Viewing and exporting public certificates are free; editing and private-key export are Pro (30-day...
+
+vendor: Datawharf Tools
+downloads: 0
 pricingModel: FREEMIUM
-xmlId: kotco.pakscope</description>
-      <pubDate>Fri, 13 Nov 2026 12:16:01 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36109-pakscope--nupkg-explorer</guid>
-      <dc:date>2026-11-13T12:16:01Z</dc:date>
+xmlId: tools.datawharf.keystore</description>
+      <pubDate>Sat, 14 Nov 2026 13:24:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36134-keystore-workbench</guid>
+      <dc:date>2026-11-14T13:24:39Z</dc:date>
+    </item>
+    <item>
+      <title>Docker Remote Containers over SSH - No Local CLI - Sun Nov 15 08:45:45 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36151-docker-remote-containers-over-ssh--no-local-cli</link>
+      <description>Manage Docker engines on remote servers from your IDE over plain SSH. Nothing to install on your machine: no docker CLI, no Docker Desktop, no open ports. The SSH...
+
+vendor: PuzariCloud
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: in.puzaricloud.dockerremote</description>
+      <pubDate>Sun, 15 Nov 2026 08:45:45 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36151-docker-remote-containers-over-ssh--no-local-cli</guid>
+      <dc:date>2026-11-15T08:45:45Z</dc:date>
+    </item>
+    <item>
+      <title>Excel &amp; CSV Table Editor - Sun Nov 15 02:09:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36147-excel--csv-table-editor</link>
+      <description>Edit CSV and TSV files as a spreadsheet and view Excel workbooks in a Table tab, without leaving the IDE. CSV editing is free with no row limit, no ads and no nag...
+
+vendor: PuzariCloud
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: in.puzaricloud.tableeditor</description>
+      <pubDate>Sun, 15 Nov 2026 02:09:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36147-excel--csv-table-editor</guid>
+      <dc:date>2026-11-15T02:09:07Z</dc:date>
+    </item>
+    <item>
+      <title>Keystore &amp; Certificate Viewer (JKS, PKCS12, PEM) - Sat Nov 14 20:16:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36141-keystore--certificate-viewer-jks-pkcs12-pem-</link>
+      <description>Open Java keystores, PKCS#12 files and PEM certificates right in the IDE. Double-click a .jks, .p12, .pfx, .pem, .crt, .cer, .der or .csr file and get a tree of its...
+
+vendor: PuzariCloud
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: in.puzaricloud.keystoreviewer</description>
+      <pubDate>Sat, 14 Nov 2026 20:16:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36141-keystore--certificate-viewer-jks-pkcs12-pem-</guid>
+      <dc:date>2026-11-14T20:16:52Z</dc:date>
     </item>
   </channel>
 </rss>
