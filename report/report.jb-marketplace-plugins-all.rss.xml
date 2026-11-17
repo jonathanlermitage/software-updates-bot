@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Metro - Tue Nov 17 04:29:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35005-metro</link>
+      <description>Metro adds IDE support for Metro, a compile-time dependency injection framework for Kotlin. Explore and navigate your dependency graph directly from the editor: Jump...
+
+vendor: Zac Sweers
+downloads: 334
+pricingModel: FREE
+xmlId: dev.zacsweers.metro.idea</description>
+      <pubDate>Tue, 17 Nov 2026 04:29:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35005-metro</guid>
+      <dc:date>2026-11-17T04:29:35Z</dc:date>
+    </item>
+    <item>
+      <title>Directory Java Settings - Fri Nov 13 05:31:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36100-directory-java-settings</link>
+      <description>English Directory Java Settings switches the project JDK and the Java language level automatically by directory rules. If you keep Java 8 / 17 / 21 / 27 installed side...
+
+vendor: 我来给台灯充电
+downloads: 0
+pricingModel: FREE
+xmlId: dev.dirjava.settings</description>
+      <pubDate>Fri, 13 Nov 2026 05:31:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36100-directory-java-settings</guid>
+      <dc:date>2026-11-13T05:31:26Z</dc:date>
+    </item>
+    <item>
+      <title>Code Gschpaenli - Mon Nov 16 21:18:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36139-code-gschpaenli</link>
+      <description>Little pets that live on your IDE itself: they walk along the status bar and the window header, nap on top of tool windows, climb up and down tool window borders, jump...
+
+vendor: ProgrammiererEFZ
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.programmiererefz.codegschpaenli</description>
+      <pubDate>Mon, 16 Nov 2026 21:18:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36139-code-gschpaenli</guid>
+      <dc:date>2026-11-16T21:18:35Z</dc:date>
+    </item>
+    <item>
+      <title>.NET Analysis&amp;Refactoring MCP - Sat Nov 14 22:09:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36143--net-analysis-refactoring-mcp</link>
+      <description>An MCP (Model Context Protocol) server that runs inside the ReSharper/Rider backend process, exposing code intelligence features to AI assistants via HTTP. A fork of...
+
+vendor: Magnus Lidbom
+downloads: 0
+pricingModel: FREE
+xmlId: dev.magnus.dotnet-analysis-and-refactoring-mcp</description>
+      <pubDate>Sat, 14 Nov 2026 22:09:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36143--net-analysis-refactoring-mcp</guid>
+      <dc:date>2026-11-14T22:09:01Z</dc:date>
+    </item>
+    <item>
+      <title>archvow - Mon Nov 16 21:30:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36092-archvow</link>
+      <description>Spec-driven development (SDD) for AI-assisted coding: architecture specifications, decisions and checks in your IDE. An AI assistant writes code fast - and decides...
+
+vendor: archvow
+downloads: 0
+pricingModel: FREE
+xmlId: org.archvow</description>
+      <pubDate>Mon, 16 Nov 2026 21:30:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36092-archvow</guid>
+      <dc:date>2026-11-16T21:30:27Z</dc:date>
+    </item>
+    <item>
+      <title>Changelist Backup - Tue Nov 10 08:06:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35902-changelist-backup</link>
+      <description>Small Plugin to Backup Files from a Changelist on a Remote Server before Sync.
+
+vendor: Micha
+downloads: 0
+pricingModel: FREE
+xmlId: de.ml.backupfromchangelist.backupfromchangelist</description>
+      <pubDate>Tue, 10 Nov 2026 08:06:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35902-changelist-backup</guid>
+      <dc:date>2026-11-10T08:06:10Z</dc:date>
+    </item>
+    <item>
+      <title>Model Name - Sat Nov 14 04:50:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36129-model-name</link>
+      <description>Tells you what an AI model ID actually means. Put the caret on (or select) something like claude-opus-4-1-20250805, gpt-4.1-mini or...
+
+vendor: whizi
+downloads: 0
+pricingModel: FREE
+xmlId: io.whizi.modelname</description>
+      <pubDate>Sat, 14 Nov 2026 04:50:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36129-model-name</guid>
+      <dc:date>2026-11-14T04:50:02Z</dc:date>
+    </item>
+    <item>
       <title>EWP Project Sync - Thu Nov 12 21:03:13 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35654-ewp-project-sync</link>
       <description>Keep IAR EWARM *.ewp project files in sync with CLion. Features Synchronize project files: Automatically update ewp project files when source files are added, deleted...
@@ -50,7 +141,7 @@ xmlId: dev.phaenon.jetbrains</description>
       <description>Manage Dockerizer for PHP environments right from the IDE. Dockerizer is an open-source tool that sets up Docker Compose development environments for Magento, Symfony...
 
 vendor: Free Winds Studio
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: studio.freewinds.dockerizer</description>
       <pubDate>Mon, 16 Nov 2026 03:21:50 GMT</pubDate>
@@ -63,7 +154,7 @@ xmlId: studio.freewinds.dockerizer</description>
       <description>Add notes to code lines and organize them by learning topic and group. Click a gutter bookmark to view or edit notes without modifying source code. Search notes...
 
 vendor: Reading Notes
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.sisyphusseeker.readingnotes</description>
       <pubDate>Sat, 14 Nov 2026 02:55:21 GMT</pubDate>
@@ -76,7 +167,7 @@ xmlId: io.github.sisyphusseeker.readingnotes</description>
       <description>Support for the Goose programming language: syntax highlighting, brace matching, commenting and snippets from the Goose TextMate grammar, and the Goose compiler's...
 
 vendor: SorinS
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.sorins.goose</description>
       <pubDate>Mon, 16 Nov 2026 21:42:26 GMT</pubDate>
@@ -89,7 +180,7 @@ xmlId: io.github.sorins.goose</description>
       <description>This plugin provides a convenient way to change mongo-like "def" and "var" declarations to real typesafe declarations.
 
 vendor: Thimo von Rauchhaupt
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: de.vonrauchhaupt.mongodeclaration.MongoDeclaration</description>
       <pubDate>Mon, 16 Nov 2026 18:12:40 GMT</pubDate>
@@ -102,7 +193,7 @@ xmlId: de.vonrauchhaupt.mongodeclaration.MongoDeclaration</description>
       <description>Maven Detective explains why your Maven build failed – and fixes it in one click. Instead of scrolling through 500 lines of stack traces and download noise, you get a...
 
 vendor: BitShiftDev
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.github.bitshiftdev.mavendetective</description>
       <pubDate>Sat, 14 Nov 2026 10:03:58 GMT</pubDate>
@@ -115,7 +206,7 @@ xmlId: io.github.bitshiftdev.mavendetective</description>
       <description>This is the IntelliJ support of Kirino Shader Meta Language (KSML) for GLSL. KSML is a runtime-agnostic engineering layer for GLSL. Unlike engine-specific shader...
 
 vendor: tttsaurus
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.tttsaurus.ksml</description>
       <pubDate>Mon, 16 Nov 2026 03:37:18 GMT</pubDate>
@@ -128,7 +219,7 @@ xmlId: com.tttsaurus.ksml</description>
       <description>Gitflow Navigator — a clean Git Flow UI for JetBrains IDEs. Start, finish,publish and track feature, release, hotfix and bugfix branches right from the IDE,on top of...
 
 vendor: BORISOVCODE
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.borisovcode.gitflow.navigator</description>
       <pubDate>Sun, 15 Nov 2026 17:47:31 GMT</pubDate>
@@ -141,7 +232,7 @@ xmlId: com.borisovcode.gitflow.navigator</description>
       <description>HAProxy Config Security Linter — audit haproxy.cfg in your IDE, offline Catch insecure HAProxy configuration while you edit it, instead of in an incident. The plugin...
 
 vendor: VadimToptunov
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: io.github.vadimtoptunov.haproxy-security-linter</description>
       <pubDate>Sat, 14 Nov 2026 13:11:39 GMT</pubDate>
@@ -154,7 +245,7 @@ xmlId: io.github.vadimtoptunov.haproxy-security-linter</description>
       <description>Language support for Phem .phem files. A .phem file is a PHP file with markup literals and Twig, the same way a .jsx file is JavaScript with JSX. Features Syntax...
 
 vendor: Phem
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: phem</description>
       <pubDate>Fri, 13 Nov 2026 17:05:21 GMT</pubDate>
@@ -167,103 +258,12 @@ xmlId: phem</description>
       <description>Turn the files and folders you select in the Project view into one clean Markdown document that you can paste into ChatGPT, Claude, Gemini or any other large language...
 
 vendor: Michael_Novikau
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.michael.contextconverter</description>
       <pubDate>Fri, 13 Nov 2026 12:17:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36110-context-converter</guid>
       <dc:date>2026-11-13T12:17:21Z</dc:date>
-    </item>
-    <item>
-      <title>EBNF Grammar Support - Mon Nov 16 11:29:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36186-ebnf-grammar-support</link>
-      <description>Language support for EBNF grammar files (.ebnf) in both common styles: ISO/IEC 14977: name = 'a', { b | c } ;, (* comments *), ? special sequences ?, multi-word rule...
-
-vendor: hollyviolet
-downloads: 0
-pricingModel: FREE
-xmlId: dev.hollyviolet.ebnf</description>
-      <pubDate>Mon, 16 Nov 2026 11:29:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36186-ebnf-grammar-support</guid>
-      <dc:date>2026-11-16T11:29:40Z</dc:date>
-    </item>
-    <item>
-      <title>Log2SQL - SQL Log Converter - Tue Nov 10 08:18:23 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35618-log2sql--sql-log-converter</link>
-      <description>Log2SQL - Convert SQL Logs into Executable SQL Reconstructs MyBatis and Hibernate SQL logs with their bound parameters into directly executable SQL statements...
-
-vendor: Log2SQL
-downloads: 5
-pricingModel: FREE
-xmlId: com.github.log2sql</description>
-      <pubDate>Tue, 10 Nov 2026 08:18:23 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35618-log2sql--sql-log-converter</guid>
-      <dc:date>2026-11-10T08:18:23Z</dc:date>
-    </item>
-    <item>
-      <title>HAR Inspector - Mon Nov 16 10:02:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36184-har-inspector</link>
-      <description>Open .har (HTTP Archive) files exported from browser DevTools right inside the IDE. Request table with method, status, type, size and time Waterfall column showing...
-
-vendor: hitsuji__works
-downloads: 0
-pricingModel: FREE
-xmlId: dev.fumulabo.har</description>
-      <pubDate>Mon, 16 Nov 2026 10:02:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36184-har-inspector</guid>
-      <dc:date>2026-11-16T10:02:17Z</dc:date>
-    </item>
-    <item>
-      <title>Keystore Workbench - Sat Nov 14 13:24:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36134-keystore-workbench</link>
-      <description>View and manage Java keystores and certificates inside the IDE. Viewing and exporting public certificates are free; editing and private-key export are Pro (30-day...
-
-vendor: Datawharf Tools
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: tools.datawharf.keystore</description>
-      <pubDate>Sat, 14 Nov 2026 13:24:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36134-keystore-workbench</guid>
-      <dc:date>2026-11-14T13:24:39Z</dc:date>
-    </item>
-    <item>
-      <title>Docker Remote Containers over SSH - No Local CLI - Sun Nov 15 08:45:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36151-docker-remote-containers-over-ssh--no-local-cli</link>
-      <description>Manage Docker engines on remote servers from your IDE over plain SSH. Nothing to install on your machine: no docker CLI, no Docker Desktop, no open ports. The SSH...
-
-vendor: PuzariCloud
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: in.puzaricloud.dockerremote</description>
-      <pubDate>Sun, 15 Nov 2026 08:45:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36151-docker-remote-containers-over-ssh--no-local-cli</guid>
-      <dc:date>2026-11-15T08:45:45Z</dc:date>
-    </item>
-    <item>
-      <title>Excel &amp; CSV Table Editor - Sun Nov 15 02:09:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36147-excel--csv-table-editor</link>
-      <description>Edit CSV and TSV files as a spreadsheet and view Excel workbooks in a Table tab, without leaving the IDE. CSV editing is free with no row limit, no ads and no nag...
-
-vendor: PuzariCloud
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: in.puzaricloud.tableeditor</description>
-      <pubDate>Sun, 15 Nov 2026 02:09:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36147-excel--csv-table-editor</guid>
-      <dc:date>2026-11-15T02:09:07Z</dc:date>
-    </item>
-    <item>
-      <title>Keystore &amp; Certificate Viewer (JKS, PKCS12, PEM) - Sat Nov 14 20:16:52 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36141-keystore--certificate-viewer-jks-pkcs12-pem-</link>
-      <description>Open Java keystores, PKCS#12 files and PEM certificates right in the IDE. Double-click a .jks, .p12, .pfx, .pem, .crt, .cer, .der or .csr file and get a tree of its...
-
-vendor: PuzariCloud
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: in.puzaricloud.keystoreviewer</description>
-      <pubDate>Sat, 14 Nov 2026 20:16:52 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36141-keystore--certificate-viewer-jks-pkcs12-pem-</guid>
-      <dc:date>2026-11-14T20:16:52Z</dc:date>
     </item>
   </channel>
 </rss>
