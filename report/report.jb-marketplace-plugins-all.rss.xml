@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>EVL - Engineering Visualization - Sun Nov 15 20:49:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36145-evl--engineering-visualization</link>
-      <description>Hand-drawn flow maps straight from your code. Tag an entry point with @Flow("image-upload"), the steps below it with @Flow("image-upload&amp;gt;s3") or // @flow...
+      <title>FSX Cells - Tue Nov 17 13:42:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36218-fsx-cells</link>
+      <description>Run cells of plain F# script (.fsx) files in Rider, notebook-style, and see the result right under each cell. // %% Parse let grid = input.Split('') |&amp;gt; Array.map...
 
-vendor: ilyaslabs
+vendor: Aksel Kvitberg
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.akselkvitberg.fsxcells</description>
+      <pubDate>Tue, 17 Nov 2026 13:42:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36218-fsx-cells</guid>
+      <dc:date>2026-11-17T13:42:37Z</dc:date>
+    </item>
+    <item>
+      <title>Port Manager Veyra - Sat Nov 14 20:43:12 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36142-port-manager-veyra</link>
+      <description>"Port 3000 is already in use"? Not any more. Port Manager Veyra shows every port in use on your computer, the program behind it and the project it belongs to, and...
+
+vendor: flightcoders
+downloads: 1
+pricingModel: FREE
+xmlId: com.flightcoders.veyra.portmanager</description>
+      <pubDate>Sat, 14 Nov 2026 20:43:12 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36142-port-manager-veyra</guid>
+      <dc:date>2026-11-14T20:43:12Z</dc:date>
+    </item>
+    <item>
+      <title>Git Flow Integration Next - Tue Nov 17 13:36:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36217-git-flow-integration-next</link>
+      <description>Run git-flow from the IDE: start, publish, track and finish features, releases, hotfixes and bugfixes from the status bar or the Git menu, without typing git flow...
+
+vendor: Fabio Lazzaroni
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.fakkio.gitflow4idea-next</description>
+      <pubDate>Tue, 17 Nov 2026 13:36:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36217-git-flow-integration-next</guid>
+      <dc:date>2026-11-17T13:36:31Z</dc:date>
+    </item>
+    <item>
+      <title>MarkNote - Tue Nov 17 10:01:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36210-marknote</link>
+      <description>Flat code reading notes plugin for IntelliJ. Supports inline notes, left gutter markers, end-of-line short previews, and anchor-based tracking.
+
+vendor: balaraking
+downloads: 0
+pricingModel: FREE
+xmlId: balaraking.MarkNote</description>
+      <pubDate>Tue, 17 Nov 2026 10:01:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36210-marknote</guid>
+      <dc:date>2026-11-17T10:01:04Z</dc:date>
+    </item>
+    <item>
+      <title>RDL Forge - Tue Nov 17 17:39:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36204-rdl-forge</link>
+      <description>Open SSRS paginated report definitions (.rdl and .rdlc) and see the report instead of raw XML, on macOS, Linux and Windows. Design view of the report next to its XML...
+
+vendor: Osia Holdings
 downloads: 0
 pricingModel: FREEMIUM
-xmlId: io.github.ilyaslabs.evl</description>
-      <pubDate>Sun, 15 Nov 2026 20:49:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36145-evl--engineering-visualization</guid>
-      <dc:date>2026-11-15T20:49:51Z</dc:date>
+xmlId: com.holdings.rdl</description>
+      <pubDate>Tue, 17 Nov 2026 17:39:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36204-rdl-forge</guid>
+      <dc:date>2026-11-17T17:39:42Z</dc:date>
     </item>
     <item>
-      <title>DevTools Hub - Fri Nov 13 18:25:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36119-devtools-hub</link>
-      <description>Dev Tools is an all-in-one developer utilities hub for IntelliJ-based IDEs. Features: EKS Manager — Browse and manage Kubernetes clusters on AWS EKS Database — Connect...
+      <title>Project Taskbar Badge - Tue Nov 17 18:27:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36157-project-taskbar-badge</link>
+      <description>Displays each open project's icon as a Windows taskbar overlay badge on its IDE window button, making it easy to distinguish multiple open projects at a glance...
 
-vendor: Rajasekhar
+vendor: Flop
 downloads: 0
 pricingModel: FREE
-xmlId: com.rajasekhar.devtools</description>
-      <pubDate>Fri, 13 Nov 2026 18:25:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36119-devtools-hub</guid>
-      <dc:date>2026-11-13T18:25:22Z</dc:date>
+xmlId: com.github.flobo3.projectTaskbarBadge</description>
+      <pubDate>Tue, 17 Nov 2026 18:27:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36157-project-taskbar-badge</guid>
+      <dc:date>2026-11-17T18:27:11Z</dc:date>
     </item>
     <item>
-      <title>Jira Flow - Issues, Git Branches &amp; Time Tracker - Sun Nov 15 23:42:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36173-jira-flow--issues-git-branches--time-tracker</link>
-      <description>Jira Flow - Issues, Git Branches &amp;amp; Time Tracker is an integrated IntelliJ IDEA tool window for browsing Jira Server &amp;amp; Data Center issues, automating Git task...
+      <title>Neat SQL Formatter - Tue Nov 17 21:13:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36140-neat-sql-formatter</link>
+      <description>Format SQL anywhere in the IDE, including SQL written inside string literals in Java, Kotlin, Python, JavaScript, TypeScript, Go, PHP and C# code. Works in every...
 
-vendor: Mahmudul Hasan
+vendor: Bold Type Co
 downloads: 0
 pricingModel: FREE
-xmlId: dev.hasanlisbon.jiraflow</description>
-      <pubDate>Sun, 15 Nov 2026 23:42:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36173-jira-flow--issues-git-branches--time-tracker</guid>
-      <dc:date>2026-11-15T23:42:53Z</dc:date>
+xmlId: co.boldtype.neatsql</description>
+      <pubDate>Tue, 17 Nov 2026 21:13:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36140-neat-sql-formatter</guid>
+      <dc:date>2026-11-17T21:13:25Z</dc:date>
     </item>
     <item>
-      <title>Verilog Toolbox - Mon Nov 16 09:14:05 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36136-verilog-toolbox</link>
-      <description>Verilog and SystemVerilog support for CLion: code insight from the slang-server language server, which is downloaded automatically, plus Icarus Verilog and GTKWave...
+      <title>LocalReader - Tue Nov 17 01:37:17 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/34909-localreader</link>
+      <description>Read local txt and epub books inside the IDE. Keep your place, load your own fonts, and turn pages without leaving the editor. 在 IDE 里阅读本地 txt 和 epub，不用离开当前窗口。 打开本地...
 
-vendor: jotrorox
+vendor: 彭俊铭
+downloads: 2
+pricingModel: FREE
+xmlId: com.owen.LocalReader</description>
+      <pubDate>Tue, 17 Nov 2026 01:37:17 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/34909-localreader</guid>
+      <dc:date>2026-11-17T01:37:17Z</dc:date>
+    </item>
+    <item>
+      <title>Peephole - Tue Nov 17 16:18:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36219-peephole</link>
+      <description>See your Android app's network traffic live, in its own tool window, not in logcat. Works with OkHttp (including Retrofit and Apollo Kotlin) and Ktor. Features REST...
+
+vendor: Manjul Tamrakar
 downloads: 0
 pricingModel: FREE
-xmlId: com.jotrorox.verilogtoolbox</description>
-      <pubDate>Mon, 16 Nov 2026 09:14:05 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36136-verilog-toolbox</guid>
-      <dc:date>2026-11-16T09:14:05Z</dc:date>
+xmlId: np.com.manjultamrakar.peephole</description>
+      <pubDate>Tue, 17 Nov 2026 16:18:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36219-peephole</guid>
+      <dc:date>2026-11-17T16:18:54Z</dc:date>
     </item>
     <item>
-      <title>AutoHotkey v2 Language Support - Sun Nov 15 17:50:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36153-autohotkey-v2-language-support</link>
-      <description>Complete support for AutoHotkey v2 in IntelliJ IDEA, PyCharm, WebStorm and the other JetBrains IDEs: a real parser, completion that knows the AutoHotkey help, the...
+      <title>Keymap Viewer - Tue Nov 17 20:23:28 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36192-keymap-viewer</link>
+      <description>Browse every keymap installed in your IDE and see what it does at a glance. Pick any keymap (built-in or your own) from a drop-down See which operating system it is...
 
-vendor: Kumpewo
-downloads: 1
-pricingModel: FREE
-xmlId: de.kumpewo.intellij-autohotkey</description>
-      <pubDate>Sun, 15 Nov 2026 17:50:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36153-autohotkey-v2-language-support</guid>
-      <dc:date>2026-11-15T17:50:48Z</dc:date>
-    </item>
-    <item>
-      <title>Flutter Preview - Fri Nov 13 13:32:56 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36090-flutter-preview</link>
-      <description>See your Flutter widgets while you write them, right inside Android Studio and IntelliJ IDEA, without a browser, an emulator or a running app. Flutter Preview renders...
-
-vendor: BleuPhoenix
+vendor: khorkovenko
 downloads: 0
 pricingModel: FREE
-xmlId: in.bleuphoenix.flutterpreview</description>
-      <pubDate>Fri, 13 Nov 2026 13:32:56 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36090-flutter-preview</guid>
-      <dc:date>2026-11-13T13:32:56Z</dc:date>
+xmlId: io.github.khorkovenko.keymapviewer</description>
+      <pubDate>Tue, 17 Nov 2026 20:23:28 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36192-keymap-viewer</guid>
+      <dc:date>2026-11-17T20:23:28Z</dc:date>
     </item>
     <item>
-      <title>Claude Chat Suite - Fri Nov 13 13:33:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36105-claude-chat-suite</link>
-      <description>A Cursor-style chat for Claude Code in Android Studio, IntelliJ IDEA and the other JetBrains IDEs. It runs your own claude CLI, so your sign-in, CLAUDE.md files...
+      <title>Disposed Project Callback Companion - Tue Nov 17 01:01:40 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36199-disposed-project-callback-companion</link>
+      <description>Flags a callback that the IDE will run later (Application#invokeLater, executeOnPooledThread, AppExecutorUtil executors, ReadAction.nonBlocking, Alarm#addRequest...
 
-vendor: BleuPhoenix
+vendor: Gap Hunter Labs
 downloads: 0
 pricingModel: FREE
-xmlId: in.bleuphoenix.claudechat</description>
-      <pubDate>Fri, 13 Nov 2026 13:33:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36105-claude-chat-suite</guid>
-      <dc:date>2026-11-13T13:33:19Z</dc:date>
+xmlId: dev.gaphunter.disposedprojectcallbackcompanion</description>
+      <pubDate>Tue, 17 Nov 2026 01:01:40 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36199-disposed-project-callback-companion</guid>
+      <dc:date>2026-11-17T01:01:40Z</dc:date>
     </item>
     <item>
-      <title>CrossEmmet - Sun Nov 15 15:21:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36159-crossemmet</link>
-      <description>CSS abbreviation expansion with modern and logical properties for CSS, SCSS, and XCSS.
+      <title>Pytest Run Params - Mon Nov 16 19:37:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35601-pytest-run-params</link>
+      <description>Pytest Run Params Run pytest from PyCharm with its options as checkboxes, and keep track of what has passed while you rerun a module or a folder until everything is...
 
-vendor: Xubarashi
-downloads: 0
-pricingModel: FREE
-xmlId: dev.crossemmet.jetbrains</description>
-      <pubDate>Sun, 15 Nov 2026 15:21:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36159-crossemmet</guid>
-      <dc:date>2026-11-15T15:21:46Z</dc:date>
-    </item>
-    <item>
-      <title>hot-update - Fri Nov 13 10:08:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35996-hot-update</link>
-      <description>A minimal changed-file window for Android Studio. Finds source and resource changes using a fixed Git commit and compiled-content hashes. Debug updates via external...
-
-vendor: hot-update
-downloads: 0
-pricingModel: FREE
-xmlId: com.hot.tools.hotupdate</description>
-      <pubDate>Fri, 13 Nov 2026 10:08:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35996-hot-update</guid>
-      <dc:date>2026-11-13T10:08:45Z</dc:date>
-    </item>
-    <item>
-      <title>HGL - Mon Nov 16 05:52:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36177-hgl</link>
-      <description>Language support for HGL, the temporal programming language: syntax highlighting, brace matching, comments, code folding, structure view, keyword completion and...
-
-vendor: Howard Henson
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.hhenson.hgl</description>
-      <pubDate>Mon, 16 Nov 2026 05:52:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36177-hgl</guid>
-      <dc:date>2026-11-16T05:52:17Z</dc:date>
-    </item>
-    <item>
-      <title>Bison &amp; Flex - Sun Nov 08 18:31:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35901-bison--flex</link>
-      <description>Bison/Yacc and Flex/Lex files in the IDE: highlighting, errors, navigation and rename. For .y, .yy, .l and .ll files in CLion and other JetBrains IDEs. Made for C and...
-
-vendor: Dortus
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.dortus.bisonflex</description>
-      <pubDate>Sun, 08 Nov 2026 18:31:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35901-bison--flex</guid>
-      <dc:date>2026-11-08T18:31:22Z</dc:date>
-    </item>
-    <item>
-      <title>Metro - Tue Nov 17 04:29:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35005-metro</link>
-      <description>Metro adds IDE support for Metro, a compile-time dependency injection framework for Kotlin. Explore and navigate your dependency graph directly from the editor: Jump...
-
-vendor: Zac Sweers
-downloads: 334
-pricingModel: FREE
-xmlId: dev.zacsweers.metro.idea</description>
-      <pubDate>Tue, 17 Nov 2026 04:29:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35005-metro</guid>
-      <dc:date>2026-11-17T04:29:35Z</dc:date>
-    </item>
-    <item>
-      <title>Directory Java Settings - Fri Nov 13 05:31:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36100-directory-java-settings</link>
-      <description>English Directory Java Settings switches the project JDK and the Java language level automatically by directory rules. If you keep Java 8 / 17 / 21 / 27 installed side...
-
-vendor: 我来给台灯充电
-downloads: 0
-pricingModel: FREE
-xmlId: dev.dirjava.settings</description>
-      <pubDate>Fri, 13 Nov 2026 05:31:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36100-directory-java-settings</guid>
-      <dc:date>2026-11-13T05:31:26Z</dc:date>
-    </item>
-    <item>
-      <title>Code Gschpaenli - Mon Nov 16 21:18:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36139-code-gschpaenli</link>
-      <description>Little pets that live on your IDE itself: they walk along the status bar and the window header, nap on top of tool windows, climb up and down tool window borders, jump...
-
-vendor: ProgrammiererEFZ
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.programmiererefz.codegschpaenli</description>
-      <pubDate>Mon, 16 Nov 2026 21:18:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36139-code-gschpaenli</guid>
-      <dc:date>2026-11-16T21:18:35Z</dc:date>
-    </item>
-    <item>
-      <title>.NET Analysis&amp;Refactoring MCP - Tue Nov 17 16:34:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36143--net-analysis-refactoring-mcp</link>
-      <description>An MCP (Model Context Protocol) server that runs inside the ReSharper/Rider backend process, exposing code intelligence features to AI assistants via HTTP. A fork of...
-
-vendor: Magnus Lidbom
-downloads: 0
-pricingModel: FREE
-xmlId: dev.magnus.dotnet-analysis-and-refactoring-mcp</description>
-      <pubDate>Tue, 17 Nov 2026 16:34:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36143--net-analysis-refactoring-mcp</guid>
-      <dc:date>2026-11-17T16:34:44Z</dc:date>
-    </item>
-    <item>
-      <title>archvow - Mon Nov 16 21:30:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36092-archvow</link>
-      <description>Spec-driven development (SDD) for AI-assisted coding: architecture specifications, decisions and checks in your IDE. An AI assistant writes code fast - and decides...
-
-vendor: archvow
-downloads: 0
-pricingModel: FREE
-xmlId: org.archvow</description>
-      <pubDate>Mon, 16 Nov 2026 21:30:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36092-archvow</guid>
-      <dc:date>2026-11-16T21:30:27Z</dc:date>
-    </item>
-    <item>
-      <title>Changelist Backup - Tue Nov 10 08:06:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35902-changelist-backup</link>
-      <description>Small Plugin to Backup Files from a Changelist on a Remote Server before Sync.
-
-vendor: Micha
-downloads: 0
-pricingModel: FREE
-xmlId: de.ml.backupfromchangelist.backupfromchangelist</description>
-      <pubDate>Tue, 10 Nov 2026 08:06:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35902-changelist-backup</guid>
-      <dc:date>2026-11-10T08:06:10Z</dc:date>
-    </item>
-    <item>
-      <title>Model Name - Sat Nov 14 04:50:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36129-model-name</link>
-      <description>Tells you what an AI model ID actually means. Put the caret on (or select) something like claude-opus-4-1-20250805, gpt-4.1-mini or...
-
-vendor: whizi
-downloads: 0
-pricingModel: FREE
-xmlId: io.whizi.modelname</description>
-      <pubDate>Sat, 14 Nov 2026 04:50:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36129-model-name</guid>
-      <dc:date>2026-11-14T04:50:02Z</dc:date>
-    </item>
-    <item>
-      <title>EWP Project Sync - Thu Nov 12 21:03:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35654-ewp-project-sync</link>
-      <description>Keep IAR EWARM *.ewp project files in sync with CLion. Features Synchronize project files: Automatically update ewp project files when source files are added, deleted...
-
-vendor: SalPeter
-downloads: 1
-pricingModel: FREE
-xmlId: com.github.kellpete.intellijewpsupport</description>
-      <pubDate>Thu, 12 Nov 2026 21:03:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35654-ewp-project-sync</guid>
-      <dc:date>2026-11-12T21:03:13Z</dc:date>
-    </item>
-    <item>
-      <title>SectionNav - Sun Nov 15 16:50:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/32962-sectionnav</link>
-      <description>Navigate code using configurable section markers. Define patterns like //~, ##~, #~ per file extension. Sections appear in a searchable tool window grouped by...
-
-vendor: Vatnar
+vendor: Ilia Ru
 downloads: 5
 pricingModel: FREE
-xmlId: dev.vatnar.sectionnav</description>
-      <pubDate>Sun, 15 Nov 2026 16:50:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/32962-sectionnav</guid>
-      <dc:date>2026-11-15T16:50:38Z</dc:date>
+xmlId: dev.autotests.runtoggles</description>
+      <pubDate>Mon, 16 Nov 2026 19:37:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35601-pytest-run-params</guid>
+      <dc:date>2026-11-16T19:37:31Z</dc:date>
+    </item>
+    <item>
+      <title>KnobDeck Companion - Mon Nov 16 17:47:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36189-knobdeck-companion</link>
+      <description>Lets the KnobDeck dial and deck control your JetBrains IDE: Run and Debug (by configuration name), stepping, Search Everywhere, the terminal, and any IDE action by its...
+
+vendor: KnobDeck
+downloads: 0
+pricingModel: FREE
+xmlId: com.harshalkudale.knobdeck.companion</description>
+      <pubDate>Mon, 16 Nov 2026 17:47:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36189-knobdeck-companion</guid>
+      <dc:date>2026-11-16T17:47:48Z</dc:date>
+    </item>
+    <item>
+      <title>Nunc Labora - Tue Nov 17 03:37:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36201-nunc-labora</link>
+      <description>Nunc Labora records how long you actually work on each project, without a start/stop ritual. It watches ordinary IDE activity — typing, caret moves, scrolling, window...
+
+vendor: Diligite Iustitiam LLC
+downloads: 0
+pricingModel: FREE
+xmlId: world.diligiteiustitiam.nunclabora</description>
+      <pubDate>Tue, 17 Nov 2026 03:37:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36201-nunc-labora</guid>
+      <dc:date>2026-11-17T03:37:03Z</dc:date>
+    </item>
+    <item>
+      <title>AI Usage Trackers - Mon Nov 16 15:58:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36188-ai-usage-trackers</link>
+      <description>Track local AI token usage in the IntelliJ IDEA status bar with persistent history and configurable trackers. Start with Today and This week, or choose calendar...
+
+vendor: ai-usage-contributors
+downloads: 0
+pricingModel: FREE
+xmlId: local.codexusage.daily</description>
+      <pubDate>Mon, 16 Nov 2026 15:58:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36188-ai-usage-trackers</guid>
+      <dc:date>2026-11-16T15:58:18Z</dc:date>
+    </item>
+    <item>
+      <title>Codex Commit Message - Mon Nov 16 18:05:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36190-codex-commit-message</link>
+      <description>Generates a commit message for the changes selected in the Commit tool window by invoking the locally authenticated Codex CLI. Also shows the remaining Codex usage...
+
+vendor: nikrokss
+downloads: 0
+pricingModel: FREE
+xmlId: dev.nikrokss.codex-commit-message</description>
+      <pubDate>Mon, 16 Nov 2026 18:05:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36190-codex-commit-message</guid>
+      <dc:date>2026-11-16T18:05:15Z</dc:date>
+    </item>
+    <item>
+      <title>Agenteca - Mon Nov 16 20:48:25 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36194-agenteca</link>
+      <description>Browse a catalog of AI agents, read what a package contains, install it and keep it up to date for Claude Code, Codex, GitHub Copilot and Cursor. The plugin is a thin...
+
+vendor: Agenteca
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.agenteca</description>
+      <pubDate>Mon, 16 Nov 2026 20:48:25 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36194-agenteca</guid>
+      <dc:date>2026-11-16T20:48:25Z</dc:date>
+    </item>
+    <item>
+      <title>Mission Passed - Mon Nov 16 23:20:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36198-mission-passed</link>
+      <description>Your IDE, open-world style. A fan homage to the upcoming Grand Theft Auto VI: green tests are a MISSION PASSED!, red ones get you WASTED, and every warning in your...
+
+vendor: heck\it
+downloads: 0
+pricingModel: FREE
+xmlId: app.heckit.ide.missionpassed</description>
+      <pubDate>Mon, 16 Nov 2026 23:20:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36198-mission-passed</guid>
+      <dc:date>2026-11-16T23:20:32Z</dc:date>
+    </item>
+    <item>
+      <title>Git Power Tools - Sun Nov 15 08:48:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36152-git-power-tools</link>
+      <description>Git features that IntelliJ-based IDEs do not ship, built on the IDE's Git integration. This is a freemium plugin. Git-flow is free forever. Pickaxe search, a reflog...
+
+vendor: Italo Armenti
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: dev.gitpowertools</description>
+      <pubDate>Sun, 15 Nov 2026 08:48:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36152-git-power-tools</guid>
+      <dc:date>2026-11-15T08:48:36Z</dc:date>
+    </item>
+    <item>
+      <title>Binlens MSBuild Log Viewer - Mon Nov 16 20:53:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36195-binlens-msbuild-log-viewer</link>
+      <description>Open MSBuild binary logs (.binlog) right in Rider and every other JetBrains IDE. Binlens shows a dotnet build -bl or msbuild -bl log as a tree of projects, targets...
+
+vendor: KOT&amp;CO
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: kotco.binlens</description>
+      <pubDate>Mon, 16 Nov 2026 20:53:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36195-binlens-msbuild-log-viewer</guid>
+      <dc:date>2026-11-16T20:53:35Z</dc:date>
     </item>
   </channel>
 </rss>
