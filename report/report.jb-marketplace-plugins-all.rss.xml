@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>MyCPAssistant - Thu Nov 12 16:25:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36088-mycpassistant</link>
-      <description>MyCPAssistant is a powerful, modern, and lightweight competitive programming companion plugin for IntelliJ IDEA. It seamlessly integrates with the Competitive...
+      <title>Agent Worktree Monitor - Wed Nov 18 01:04:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36227-agent-worktree-monitor</link>
+      <description>Monitors code changes across multiple Git worktrees for parallel AI-agent development (Claude Code, Codex, OpenCode, etc.). Automatically discovers all worktrees of...
 
-vendor: Sanket Botre
+vendor: linmengmeng
 downloads: 0
 pricingModel: FREE
-xmlId: com.github.codersanket24.mycpassistant</description>
-      <pubDate>Thu, 12 Nov 2026 16:25:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36088-mycpassistant</guid>
-      <dc:date>2026-11-12T16:25:58Z</dc:date>
+xmlId: com.linmengmeng.worktreemonitor</description>
+      <pubDate>Wed, 18 Nov 2026 01:04:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36227-agent-worktree-monitor</guid>
+      <dc:date>2026-11-18T01:04:48Z</dc:date>
     </item>
     <item>
-      <title>MCP Companion - Wed Nov 18 07:51:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36214-mcp-companion</link>
-      <description>Adds code navigation, safe delete, run configuration control, module, diagnostics and build tools for AI agents to the IDE's built-in MCP Server. MCP Companion...
+      <title>RoomEr - Room ER Diagrams - Wed Nov 18 12:12:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36257-roomer--room-er-diagrams</link>
+      <description>See your Room database as an entity-relationship diagram, right inside Android Studio. RoomEr reads the schema JSON that Room exports at build time and draws it in the...
 
-vendor: SinLordEp
+vendor: Oguzhan Aslan
 downloads: 0
 pricingModel: FREE
-xmlId: com.github.sinlordep.mcpcompanion</description>
-      <pubDate>Wed, 18 Nov 2026 07:51:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36214-mcp-companion</guid>
-      <dc:date>2026-11-18T07:51:38Z</dc:date>
+xmlId: com.oguzhanaslann.roomer</description>
+      <pubDate>Wed, 18 Nov 2026 12:12:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36257-roomer--room-er-diagrams</guid>
+      <dc:date>2026-11-18T12:12:20Z</dc:date>
     </item>
     <item>
-      <title>GitLab+ Merge Tool - Tue Nov 17 05:25:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36206-gitlab-merge-tool</link>
-      <description>GitLab merge request workbench for IntelliJ IDEA: merge request list, details, review discussions, diff with inline comments, CI pipelines and job logs, merge request...
+      <title>GLSL++ - Wed Nov 18 00:22:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36226-glsl-</link>
+      <description>GLSL shader support for CLion, including CLion Nova: navigation, real compiler errors as you type, rename, formatting and semantic highlighting. Navigation and docs...
 
-vendor: hakil
+vendor: Akamitori
 downloads: 0
 pricingModel: FREE
-xmlId: com.hakil.gitlabplus</description>
-      <pubDate>Tue, 17 Nov 2026 05:25:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36206-gitlab-merge-tool</guid>
-      <dc:date>2026-11-17T05:25:17Z</dc:date>
+xmlId: dev.akamitori.glsl</description>
+      <pubDate>Wed, 18 Nov 2026 00:22:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36226-glsl-</guid>
+      <dc:date>2026-11-18T00:22:26Z</dc:date>
     </item>
     <item>
-      <title>FSX Cells - Tue Nov 17 13:42:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36218-fsx-cells</link>
-      <description>Run cells of plain F# script (.fsx) files in Rider, notebook-style, and see the result right under each cell. // %% Parse let grid = input.Split('') |&amp;gt; Array.map...
+      <title>CSV Test Navigator - Wed Nov 18 04:58:37 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36237-csv-test-navigator</link>
+      <description>Navigate from test-case CSV files to the files they reference. Ctrl+Click (Cmd+Click on macOS) or Ctrl+B on a cell under a mapped column (for example process or data...
 
-vendor: Aksel Kvitberg
-downloads: 1
+vendor: Roberto Pacheco
+downloads: 0
 pricingModel: FREE
-xmlId: io.github.akselkvitberg.fsxcells</description>
-      <pubDate>Tue, 17 Nov 2026 13:42:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36218-fsx-cells</guid>
-      <dc:date>2026-11-17T13:42:37Z</dc:date>
+xmlId: dev.csvnav.csv-test-navigator</description>
+      <pubDate>Wed, 18 Nov 2026 04:58:37 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36237-csv-test-navigator</guid>
+      <dc:date>2026-11-18T04:58:37Z</dc:date>
     </item>
     <item>
-      <title>Port Manager Veyra - Sat Nov 14 20:43:12 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36142-port-manager-veyra</link>
-      <description>"Port 3000 is already in use"? Not any more. Port Manager Veyra shows every port in use on your computer, the program behind it and the project it belongs to, and...
+      <title>Run Traffic Inspector - Wed Nov 18 10:06:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36241-run-traffic-inspector</link>
+      <description>See the HTTP and HTTPS requests your Java, Kotlin or Node.js app sends, right inside the IDE. No proxy or certificate to set up. Click Run with Traffic instead of Run...
 
-vendor: flightcoders
-downloads: 3
-pricingModel: FREE
-xmlId: com.flightcoders.veyra.portmanager</description>
-      <pubDate>Sat, 14 Nov 2026 20:43:12 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36142-port-manager-veyra</guid>
-      <dc:date>2026-11-14T20:43:12Z</dc:date>
+vendor: GRAMSHIFT
+downloads: 0
+pricingModel: PAID
+xmlId: com.gramshift.runtraffic</description>
+      <pubDate>Wed, 18 Nov 2026 10:06:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36241-run-traffic-inspector</guid>
+      <dc:date>2026-11-18T10:06:01Z</dc:date>
     </item>
     <item>
-      <title>Git Flow Integration Next - Tue Nov 17 13:36:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36217-git-flow-integration-next</link>
-      <description>Run git-flow from the IDE: start, publish, track and finish features, releases, hotfixes and bugfixes from the status bar or the Git menu, without typing git flow...
+      <title>Terraform &amp; OpenTofu Lint - Wed Nov 18 15:26:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36229-terraform--opentofu-lint</link>
+      <description>Terraform and OpenTofu lint in your IDE: tflint and terraform validate / tofu validate findings in .tf files, and init, plan and apply with the right tool for each...
 
-vendor: Fabio Lazzaroni
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.fakkio.gitflow4idea-next</description>
-      <pubDate>Tue, 17 Nov 2026 13:36:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36217-git-flow-integration-next</guid>
-      <dc:date>2026-11-17T13:36:31Z</dc:date>
+vendor: Lakeside Digital
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.lakesidedigital.terraform</description>
+      <pubDate>Wed, 18 Nov 2026 15:26:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36229-terraform--opentofu-lint</guid>
+      <dc:date>2026-11-18T15:26:38Z</dc:date>
     </item>
     <item>
-      <title>MarkNote - Wed Nov 18 05:43:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36210-marknote</link>
-      <description>Flat code reading notes plugin for IntelliJ. Supports inline notes, left gutter markers, end-of-line short previews, and anchor-based tracking.
+      <title>AgentBoard - Claude Code &amp; Codex Sessions, Usage and Cost - Wed Nov 18 02:45:18 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36232-agentboard--claude-code--codex-sessions-usage-and-cost</link>
+      <description>AgentBoard puts every Claude Code and Codex session in one dashboard inside your JetBrains IDE, with what each one cost. It works in every JetBrains IDE, including the...
 
-vendor: balaraking
-downloads: 1
-pricingModel: FREE
-xmlId: balaraking.MarkNote</description>
-      <pubDate>Wed, 18 Nov 2026 05:43:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36210-marknote</guid>
-      <dc:date>2026-11-18T05:43:43Z</dc:date>
+vendor: SDSoftware
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.sdsoftware.agentboard</description>
+      <pubDate>Wed, 18 Nov 2026 02:45:18 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36232-agentboard--claude-code--codex-sessions-usage-and-cost</guid>
+      <dc:date>2026-11-18T02:45:18Z</dc:date>
     </item>
     <item>
-      <title>RDL Forge - Wed Nov 18 05:36:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36204-rdl-forge</link>
-      <description>Open SSRS paginated report definitions (.rdl and .rdlc) and see the report instead of raw XML, on macOS, Linux and Windows. Design view of the report next to its XML...
+      <title>CodeTours - Guided Walkthroughs - Wed Nov 18 01:46:14 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35501-codetours--guided-walkthroughs</link>
+      <description>Play and author guided, step-by-step codebase tours stored inside your repo. CodeTours reads the same .tours files used by VS Code's CodeTour extension, so teams on...
 
-vendor: Osia Holdings
+vendor: SDSoftware
 downloads: 3
 pricingModel: FREEMIUM
-xmlId: com.holdings.rdl</description>
-      <pubDate>Wed, 18 Nov 2026 05:36:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36204-rdl-forge</guid>
-      <dc:date>2026-11-18T05:36:21Z</dc:date>
+xmlId: com.dengler.codetours</description>
+      <pubDate>Wed, 18 Nov 2026 01:46:14 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35501-codetours--guided-walkthroughs</guid>
+      <dc:date>2026-11-18T01:46:14Z</dc:date>
     </item>
     <item>
-      <title>Project Taskbar Badge - Tue Nov 17 18:27:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36157-project-taskbar-badge</link>
-      <description>Displays each open project's icon as a Windows taskbar overlay badge on its IDE window button, making it easy to distinguish multiple open projects at a glance...
+      <title>ConfigDiff - Compare Configs Across Environments - Wed Nov 18 01:40:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35509-configdiff--compare-configs-across-environments</link>
+      <description>See what prod is missing before you deploy. Compare config files across environments - secrets safely masked. ConfigDiff parses .env, .properties, YAML and JSON config...
 
-vendor: Flop
+vendor: SDSoftware
 downloads: 3
-pricingModel: FREE
-xmlId: com.github.flobo3.projectTaskbarBadge</description>
-      <pubDate>Tue, 17 Nov 2026 18:27:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36157-project-taskbar-badge</guid>
-      <dc:date>2026-11-17T18:27:11Z</dc:date>
+pricingModel: FREEMIUM
+xmlId: com.dengler.configdiff</description>
+      <pubDate>Wed, 18 Nov 2026 01:40:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35509-configdiff--compare-configs-across-environments</guid>
+      <dc:date>2026-11-18T01:40:59Z</dc:date>
     </item>
     <item>
-      <title>Neat SQL Formatter - Tue Nov 17 21:13:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36140-neat-sql-formatter</link>
-      <description>Format SQL anywhere in the IDE, including SQL written inside string literals in Java, Kotlin, Python, JavaScript, TypeScript, Go, PHP and C# code. Works in every...
+      <title>DeployMate - SFTP &amp; Remote Sync - Wed Nov 18 01:41:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35510-deploymate--sftp--remote-sync</link>
+      <description>Deploy on save. Browse, sync and diff your remote server inside the IDE -- no Ultimate required. DeployMate brings the deployment features paid IDE tiers lock away to...
 
-vendor: Bold Type Co
-downloads: 6
-pricingModel: FREE
-xmlId: co.boldtype.neatsql</description>
-      <pubDate>Tue, 17 Nov 2026 21:13:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36140-neat-sql-formatter</guid>
-      <dc:date>2026-11-17T21:13:25Z</dc:date>
+vendor: SDSoftware
+downloads: 3
+pricingModel: FREEMIUM
+xmlId: com.dengler.deploymate</description>
+      <pubDate>Wed, 18 Nov 2026 01:41:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35510-deploymate--sftp--remote-sync</guid>
+      <dc:date>2026-11-18T01:41:00Z</dc:date>
     </item>
     <item>
-      <title>LocalReader - Tue Nov 17 01:37:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/34909-localreader</link>
-      <description>Read local txt and epub books inside the IDE. Keep your place, load your own fonts, and turn pages without leaving the editor. 在 IDE 里阅读本地 txt 和 epub，不用离开当前窗口。 打开本地...
+      <title>DevDock - Local Services Dashboard - Wed Nov 18 01:40:57 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35506-devdock--local-services-dashboard</link>
+      <description>Your whole local dev stack in one tool window: run configurations, docker-compose services, and databases - with live green/yellow/red status and one-click control...
 
-vendor: 彭俊铭
+vendor: SDSoftware
 downloads: 4
-pricingModel: FREE
-xmlId: com.owen.LocalReader</description>
-      <pubDate>Tue, 17 Nov 2026 01:37:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/34909-localreader</guid>
-      <dc:date>2026-11-17T01:37:17Z</dc:date>
+pricingModel: FREEMIUM
+xmlId: com.dengler.devdock</description>
+      <pubDate>Wed, 18 Nov 2026 01:40:57 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35506-devdock--local-services-dashboard</guid>
+      <dc:date>2026-11-18T01:40:57Z</dc:date>
     </item>
     <item>
-      <title>Peephole - Tue Nov 17 16:18:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36219-peephole</link>
-      <description>See your Android app's network traffic live, in its own tool window, not in logcat. Works with OkHttp (including Retrofit and Apollo Kotlin) and Ktor. Features REST...
+      <title>DevLens - Wed Nov 18 01:40:56 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35505-devlens</link>
+      <description>DevLens - See What Values Mean. Inline inlay hints that decode opaque values in your code, right where they live. No more pasting timestamps into converter sites, cron...
 
-vendor: Manjul Tamrakar
+vendor: SDSoftware
 downloads: 3
-pricingModel: FREE
-xmlId: np.com.manjultamrakar.peephole</description>
-      <pubDate>Tue, 17 Nov 2026 16:18:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36219-peephole</guid>
-      <dc:date>2026-11-17T16:18:54Z</dc:date>
+pricingModel: FREEMIUM
+xmlId: com.devlens</description>
+      <pubDate>Wed, 18 Nov 2026 01:40:56 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35505-devlens</guid>
+      <dc:date>2026-11-18T01:40:56Z</dc:date>
     </item>
     <item>
-      <title>Keymap Viewer - Tue Nov 17 20:23:28 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36192-keymap-viewer</link>
-      <description>Browse every keymap installed in your IDE and see what it does at a glance. Pick any keymap (built-in or your own) from a drop-down See which operating system it is...
+      <title>DjangoLite - Django Tools - Wed Nov 18 01:40:50 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35507-djangolite--django-tools</link>
+      <description>DjangoLite - Django essentials for PyCharm Community. The 20% of PyCharm Professional that Django devs use daily, for $25 once. Free (forever): &amp;nbsp;• Django template...
 
-vendor: khorkovenko
+vendor: SDSoftware
 downloads: 5
-pricingModel: FREE
-xmlId: io.github.khorkovenko.keymapviewer</description>
-      <pubDate>Tue, 17 Nov 2026 20:23:28 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36192-keymap-viewer</guid>
-      <dc:date>2026-11-17T20:23:28Z</dc:date>
+pricingModel: FREEMIUM
+xmlId: com.dengler.djangolite</description>
+      <pubDate>Wed, 18 Nov 2026 01:40:50 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35507-djangolite--django-tools</guid>
+      <dc:date>2026-11-18T01:40:50Z</dc:date>
     </item>
     <item>
-      <title>Disposed Project Callback Companion - Tue Nov 17 01:01:40 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36199-disposed-project-callback-companion</link>
-      <description>Flags a callback that the IDE will run later (Application#invokeLater, executeOnPooledThread, AppExecutorUtil executors, ReadAction.nonBlocking, Alarm#addRequest...
+      <title>GitRecap - Standup Reporter - Wed Nov 18 01:40:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35508-gitrecap--standup-reporter</link>
+      <description>Never blank on standup again. One click turns your local git history into a standup update, PR summary, or weekly report - with the local context Slack bots and...
 
-vendor: Gap Hunter Labs
+vendor: SDSoftware
+downloads: 4
+pricingModel: FREEMIUM
+xmlId: com.dengler.gitrecap</description>
+      <pubDate>Wed, 18 Nov 2026 01:40:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35508-gitrecap--standup-reporter</guid>
+      <dc:date>2026-11-18T01:40:58Z</dc:date>
+    </item>
+    <item>
+      <title>InfraPilot - Terraform/OpenTofu Plan Viewer &amp; Ansible Vault - Wed Nov 18 03:11:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36235-infrapilot--terraform-opentofu-plan-viewer--ansible-vault</link>
+      <description>InfraPilot runs Terraform and OpenTofu inside your IDE and shows the plan as a clear, color-coded list. It also opens Ansible Vault files and values without leaving...
+
+vendor: SDSoftware
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.sdsoftware.infrapilot</description>
+      <pubDate>Wed, 18 Nov 2026 03:11:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36235-infrapilot--terraform-opentofu-plan-viewer--ansible-vault</guid>
+      <dc:date>2026-11-18T03:11:44Z</dc:date>
+    </item>
+    <item>
+      <title>KeyDock - Redis &amp; MongoDB Client with SSH, Sentinel &amp; TLS - Wed Nov 18 12:29:58 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36233-keydock--redis--mongodb-client-with-ssh-sentinel--tls</link>
+      <description>KeyDock is a fast Redis client for every JetBrains IDE, including the free Community editions. It connects the way production Redis is actually set up: ACL users, TLS...
+
+vendor: SDSoftware
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.sdsoftware.keydock</description>
+      <pubDate>Wed, 18 Nov 2026 12:29:58 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36233-keydock--redis--mongodb-client-with-ssh-sentinel--tls</guid>
+      <dc:date>2026-11-18T12:29:58Z</dc:date>
+    </item>
+    <item>
+      <title>LogPilot - Log Viewer with ANSI Colors, Filters &amp; Tail - Wed Nov 18 02:21:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36230-logpilot--log-viewer-with-ansi-colors-filters--tail</link>
+      <description>LogPilot makes log files readable in every JetBrains IDE - IntelliJ IDEA, PyCharm, WebStorm, GoLand, PhpStorm, Rider, CLion, RustRover and Android Studio, including...
+
+vendor: SDSoftware
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.sdsoftware.logpilot</description>
+      <pubDate>Wed, 18 Nov 2026 02:21:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36230-logpilot--log-viewer-with-ansi-colors-filters--tail</guid>
+      <dc:date>2026-11-18T02:21:23Z</dc:date>
+    </item>
+    <item>
+      <title>PortPilot - Kubernetes Port-Forward Manager - Wed Nov 18 01:41:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35512-portpilot--kubernetes-port-forward-manager</link>
+      <description>Kubernetes port-forwards that manage themselves - inside the IDE. Pick a pod, service or deployment from dropdowns (no typing pod names), hit Forward, and watch every...
+
+vendor: SDSoftware
+downloads: 2
+pricingModel: FREEMIUM
+xmlId: com.dengler.portpilot</description>
+      <pubDate>Wed, 18 Nov 2026 01:41:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35512-portpilot--kubernetes-port-forward-manager</guid>
+      <dc:date>2026-11-18T01:41:02Z</dc:date>
+    </item>
+    <item>
+      <title>QueryDock - Database Client for Community - Wed Nov 18 01:41:15 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35545-querydock--database-client-for-community</link>
+      <description>A lightweight database client inside a tool window — browse schemas, run SQL, see results. Built for Community-edition IDEs that ship no database tools at all. Connect...
+
+vendor: SDSoftware
 downloads: 2
 pricingModel: FREE
-xmlId: dev.gaphunter.disposedprojectcallbackcompanion</description>
-      <pubDate>Tue, 17 Nov 2026 01:01:40 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36199-disposed-project-callback-companion</guid>
-      <dc:date>2026-11-17T01:01:40Z</dc:date>
+xmlId: com.sdsoftware.querydock</description>
+      <pubDate>Wed, 18 Nov 2026 01:41:15 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35545-querydock--database-client-for-community</guid>
+      <dc:date>2026-11-18T01:41:15Z</dc:date>
     </item>
     <item>
-      <title>Pytest Run Params - Mon Nov 16 19:37:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35601-pytest-run-params</link>
-      <description>Pytest Run Params Run pytest from PyCharm with its options as checkboxes, and keep track of what has passed while you rerun a module or a folder until everything is...
+      <title>RegexLab - Regular Expression Workbench - Wed Nov 18 01:41:16 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35546-regexlab--regular-expression-workbench</link>
+      <description>A full regex workbench in a tool window — stop bouncing to a browser tab to check your patterns. Type a pattern, see every match highlighted in your sample text with a...
 
-vendor: Ilia Ru
-downloads: 7
+vendor: SDSoftware
+downloads: 1
 pricingModel: FREE
-xmlId: dev.autotests.runtoggles</description>
-      <pubDate>Mon, 16 Nov 2026 19:37:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35601-pytest-run-params</guid>
-      <dc:date>2026-11-16T19:37:31Z</dc:date>
-    </item>
-    <item>
-      <title>KnobDeck Companion - Mon Nov 16 17:47:48 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36189-knobdeck-companion</link>
-      <description>Lets the KnobDeck dial and deck control your JetBrains IDE: Run and Debug (by configuration name), stepping, Search Everywhere, the terminal, and any IDE action by its...
-
-vendor: KnobDeck
-downloads: 3
-pricingModel: FREE
-xmlId: com.harshalkudale.knobdeck.companion</description>
-      <pubDate>Mon, 16 Nov 2026 17:47:48 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36189-knobdeck-companion</guid>
-      <dc:date>2026-11-16T17:47:48Z</dc:date>
-    </item>
-    <item>
-      <title>Nunc Labora - Tue Nov 17 03:37:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36201-nunc-labora</link>
-      <description>Nunc Labora records how long you actually work on each project, without a start/stop ritual. It watches ordinary IDE activity — typing, caret moves, scrolling, window...
-
-vendor: Diligite Iustitiam LLC
-downloads: 2
-pricingModel: FREE
-xmlId: world.diligiteiustitiam.nunclabora</description>
-      <pubDate>Tue, 17 Nov 2026 03:37:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36201-nunc-labora</guid>
-      <dc:date>2026-11-17T03:37:03Z</dc:date>
-    </item>
-    <item>
-      <title>AI Usage Trackers - Mon Nov 16 15:58:18 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36188-ai-usage-trackers</link>
-      <description>Track local AI token usage in the IntelliJ IDEA status bar with persistent history and configurable trackers. Start with Today and This week, or choose calendar...
-
-vendor: ai-usage-contributors
-downloads: 2
-pricingModel: FREE
-xmlId: local.codexusage.daily</description>
-      <pubDate>Mon, 16 Nov 2026 15:58:18 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36188-ai-usage-trackers</guid>
-      <dc:date>2026-11-16T15:58:18Z</dc:date>
-    </item>
-    <item>
-      <title>Codex Commit Message - Mon Nov 16 18:05:15 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36190-codex-commit-message</link>
-      <description>Generates a commit message for the changes selected in the Commit tool window by invoking the locally authenticated Codex CLI. Also shows the remaining Codex usage...
-
-vendor: nikrokss
-downloads: 2
-pricingModel: FREE
-xmlId: dev.nikrokss.codex-commit-message</description>
-      <pubDate>Mon, 16 Nov 2026 18:05:15 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36190-codex-commit-message</guid>
-      <dc:date>2026-11-16T18:05:15Z</dc:date>
-    </item>
-    <item>
-      <title>Agenteca - Mon Nov 16 20:48:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36194-agenteca</link>
-      <description>Browse a catalog of AI agents, read what a package contains, install it and keep it up to date for Claude Code, Codex, GitHub Copilot and Cursor. The plugin is a thin...
-
-vendor: Agenteca
-downloads: 2
-pricingModel: FREE
-xmlId: io.github.agenteca</description>
-      <pubDate>Mon, 16 Nov 2026 20:48:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36194-agenteca</guid>
-      <dc:date>2026-11-16T20:48:25Z</dc:date>
+xmlId: com.sdsoftware.regexlab</description>
+      <pubDate>Wed, 18 Nov 2026 01:41:16 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35546-regexlab--regular-expression-workbench</guid>
+      <dc:date>2026-11-18T01:41:16Z</dc:date>
     </item>
   </channel>
 </rss>
