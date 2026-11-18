@@ -5,13 +5,13 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 11:42:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 11:42:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Nov 09 12:16:40 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 21:25:11 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:06 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 28 17:34:18 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 06 18:38:50 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 16:13:49 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:07 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 23 16:03:29 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 windows x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 29 17:44:13 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 08:59:38 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:08 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 23 22:43:51 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Oct 26 17:49:22 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:45 UTC 2026|

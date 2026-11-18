@@ -1,5 +1,8 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:08 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:07 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:06 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|27.0.0-alpha.0.1.1|[nodejs.org](https://nodejs.org)|Tue Nov 17 17:12:09 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 345 - Rust in peace, Java ressuscite|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Nov 17 17:12:07 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
@@ -31,9 +34,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 23 22:43:51 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.7307.44) ~ 2026-10-23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Oct 23 16:04:43 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 23 16:03:29 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 21:25:11 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 16:13:49 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Oct 22 08:59:38 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:43:30 UTC 2026|
 |![logo](../media/logo/vlc.png) VLC|3.0.24|[www.videolan.org](https://www.videolan.org/vlc/)|Tue Sep 22 16:08:16 UTC 2026|
