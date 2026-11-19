@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>BrunoX Runner - Wed Nov 18 15:29:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36187-brunox-runner</link>
+      <description>BrunoX Runner provides full language support and seamless execution for Bruno (.bru) API request files and collections directly inside IntelliJ IDEA. Compatibility...
+
+vendor: jo bob
+downloads: 0
+pricingModel: FREE
+xmlId: com.brunox.plugin</description>
+      <pubDate>Wed, 18 Nov 2026 15:29:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36187-brunox-runner</guid>
+      <dc:date>2026-11-18T15:29:27Z</dc:date>
+    </item>
+    <item>
       <title>Image Link Preview - Wed Nov 18 16:05:37 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36265-image-link-preview</link>
       <description>Preview decodable PNG, JPEG, and GIF images from HTTP(S) links by hovering over them in the editor. A preview request starts after about 400 ms over a URL. The plugin...
@@ -84,17 +97,17 @@ xmlId: io.github.satttoshi.claudegrid</description>
       <dc:date>2026-11-18T15:18:14Z</dc:date>
     </item>
     <item>
-      <title>Copy Line Reference - Wed Nov 18 07:53:44 UTC 2026</title>
+      <title>Copy Line Reference - Thu Nov 19 02:16:54 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36239-copy-line-reference</link>
-      <description>Copy a file path and line range from the editor to your clipboard. Select a block of code to copy a reference such as src/main.ts:12-18. With no selection, the...
+      <description>Copy a file path and the selected line numbers from the editor. Use a plain reference such as src/main.ts:12-18 or a Claude Code mention such as @src/main.ts#L12-18...
 
 vendor: Sunpm
 downloads: 0
 pricingModel: FREE
 xmlId: io.github.sunpm.copylinereference</description>
-      <pubDate>Wed, 18 Nov 2026 07:53:44 GMT</pubDate>
+      <pubDate>Thu, 19 Nov 2026 02:16:54 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36239-copy-line-reference</guid>
-      <dc:date>2026-11-18T07:53:44Z</dc:date>
+      <dc:date>2026-11-19T02:16:54Z</dc:date>
     </item>
     <item>
       <title>TaskJuggler - Wed Nov 18 14:22:41 UTC 2026</title>
@@ -123,17 +136,17 @@ xmlId: dev.zefixed.expandcursor</description>
       <dc:date>2026-11-18T15:07:20Z</dc:date>
     </item>
     <item>
-      <title>Mianshi Baguwen - Wed Nov 18 12:03:03 UTC 2026</title>
+      <title>Mianshi Baguwen - Thu Nov 19 01:26:25 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36250-mianshi-baguwen</link>
-      <description>Practice coding interview questions in IntelliJ IDEA with spaced repetition, question bank import/export, and DeepSeek AI explanations.
+      <description>Mianshi Baguwen helps you practice coding interview questions in IntelliJ IDEA with spaced repetition and DeepSeek AI. 在 IDEA 里摸鱼刷面试题：艾宾浩斯间隔复习、题库导入导出、DeepSeek AI...
 
 vendor: 不吃葡萄哥
 downloads: 0
 pricingModel: FREE
 xmlId: com.huaxin.shiroha-quiz</description>
-      <pubDate>Wed, 18 Nov 2026 12:03:03 GMT</pubDate>
+      <pubDate>Thu, 19 Nov 2026 01:26:25 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36250-mianshi-baguwen</guid>
-      <dc:date>2026-11-18T12:03:03Z</dc:date>
+      <dc:date>2026-11-19T01:26:25Z</dc:date>
     </item>
     <item>
       <title>Ow Language - Tue Nov 17 13:14:35 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: com.gramshift.runtraffic</description>
       <pubDate>Wed, 18 Nov 2026 10:06:01 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36241-run-traffic-inspector</guid>
       <dc:date>2026-11-18T10:06:01Z</dc:date>
-    </item>
-    <item>
-      <title>Terraform &amp; OpenTofu Lint - Wed Nov 18 15:26:38 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36229-terraform--opentofu-lint</link>
-      <description>Terraform and OpenTofu lint in your IDE: tflint and terraform validate / tofu validate findings in .tf files, and init, plan and apply with the right tool for each...
-
-vendor: Lakeside Digital
-downloads: 0
-pricingModel: FREEMIUM
-xmlId: com.lakesidedigital.terraform</description>
-      <pubDate>Wed, 18 Nov 2026 15:26:38 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36229-terraform--opentofu-lint</guid>
-      <dc:date>2026-11-18T15:26:38Z</dc:date>
     </item>
   </channel>
 </rss>
