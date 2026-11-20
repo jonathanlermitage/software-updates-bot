@@ -5,5 +5,18 @@
     <link>https://github.com/jonathanlermitage/software-updates-bot/raw/master/report/report.jb-marketplace-plugins-jetbrains.rss.xml</link>
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
+    <item>
+      <title>Zuban - Fri Nov 20 08:04:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36312-zuban</link>
+      <description>Runs Zuban in the IDE. Zuban is a fast, Mypy-compatible Python type checker and language server, written in Rust. The plugin shows the Zuban diagnostics in the editor...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.python.zuban</description>
+      <pubDate>Fri, 20 Nov 2026 08:04:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36312-zuban</guid>
+      <dc:date>2026-11-20T08:04:33Z</dc:date>
+    </item>
   </channel>
 </rss>

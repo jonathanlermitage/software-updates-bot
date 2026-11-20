@@ -6,12 +6,51 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Pas (Turkce Rust) - Fri Nov 20 06:11:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36280-pas-turkce-rust-</link>
+      <description>Pas lets you write Rust with Turkish keywords. It is made for people who are new to programming and not yet comfortable with English terms; its main audience is...
+
+vendor: plyGround
+downloads: 1
+pricingModel: FREE
+xmlId: io.github.kasimtmc.pas</description>
+      <pubDate>Fri, 20 Nov 2026 06:11:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36280-pas-turkce-rust-</guid>
+      <dc:date>2026-11-20T06:11:31Z</dc:date>
+    </item>
+    <item>
+      <title>SecureView Password Masking - Fri Nov 20 02:55:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36318-secureview-password-masking</link>
+      <description>SecureView is an IntelliJ Platform plugin that visually masks password and secret values in editor tabs without changing file contents. Features: Automatically detects...
+
+vendor: Kannan Natarajan
+downloads: 0
+pricingModel: FREE
+xmlId: com.kannanjmc.secureview</description>
+      <pubDate>Fri, 20 Nov 2026 02:55:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36318-secureview-password-masking</guid>
+      <dc:date>2026-11-20T02:55:26Z</dc:date>
+    </item>
+    <item>
+      <title>Zuban - Fri Nov 20 08:04:33 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36312-zuban</link>
+      <description>Runs Zuban in the IDE. Zuban is a fast, Mypy-compatible Python type checker and language server, written in Rust. The plugin shows the Zuban diagnostics in the editor...
+
+vendor: JetBrains s.r.o.
+downloads: 0
+pricingModel: FREE
+xmlId: com.intellij.python.zuban</description>
+      <pubDate>Fri, 20 Nov 2026 08:04:33 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36312-zuban</guid>
+      <dc:date>2026-11-20T08:04:33Z</dc:date>
+    </item>
+    <item>
       <title>Prompt Regression Studio - Wed Nov 18 12:01:01 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36253-prompt-regression-studio</link>
       <description>Review recorded prompt outputs against explicit assertions. Track changed rules and compare saved baselines locally in IntelliJ IDEA and WebStorm. Requires Linux and...
 
 vendor: AFK Mesh
-downloads: 0
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.promptregressionstudio</description>
       <pubDate>Wed, 18 Nov 2026 12:01:01 GMT</pubDate>
@@ -24,7 +63,7 @@ xmlId: com.afkmesh.promptregressionstudio</description>
       <description>Compare expected and actual Java test outputs locally. Open an IntelliJ line diff for free. Pro compares JSON paths, XML expanded names and ordered text lines, shows...
 
 vendor: AFK Mesh
-downloads: 0
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.afkmesh.snapshotreviewstudio</description>
       <pubDate>Wed, 18 Nov 2026 12:00:48 GMT</pubDate>
@@ -37,7 +76,7 @@ xmlId: com.afkmesh.snapshotreviewstudio</description>
       <description>After simple setup, Alt + Click lets you jump to any file effortlessly. No cumbersome searches; fast and easy.1.
 
 vendor: 毛蝴蝶
-downloads: 2
+downloads: 5
 pricingModel: PAID
 xmlId: com.butterfly.GoToAnyFile</description>
       <pubDate>Mon, 16 Nov 2026 09:37:44 GMT</pubDate>
@@ -50,7 +89,7 @@ xmlId: com.butterfly.GoToAnyFile</description>
       <description>BrunoX Runner provides full language support and seamless execution for Bruno (.bru) API request files and collections directly inside IntelliJ IDEA. Compatibility...
 
 vendor: jo bob
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.brunox.plugin</description>
       <pubDate>Wed, 18 Nov 2026 15:29:27 GMT</pubDate>
@@ -63,7 +102,7 @@ xmlId: com.brunox.plugin</description>
       <description>Preview decodable PNG, JPEG, and GIF images from HTTP(S) links by hovering over them in the editor. A preview request starts after about 400 ms over a URL. The plugin...
 
 vendor: Tonyliu2026
-downloads: 1
+downloads: 7
 pricingModel: FREE
 xmlId: dev.pycharmimg.image-link-preview</description>
       <pubDate>Wed, 18 Nov 2026 16:05:37 GMT</pubDate>
@@ -76,7 +115,7 @@ xmlId: dev.pycharmimg.image-link-preview</description>
       <description>Hammer Laravel A high-performance developer toolkit designed specifically for Laravel development in PhpStorm and IntelliJ Platform IDEs. It provides purpose-built...
 
 vendor: Hammer
-downloads: 3
+downloads: 15
 pricingModel: FREE
 xmlId: com.github.todd.hammerlaravel</description>
       <pubDate>Wed, 18 Nov 2026 16:43:10 GMT</pubDate>
@@ -89,7 +128,7 @@ xmlId: com.github.todd.hammerlaravel</description>
       <description>Fast, virtual rendering, private Markdown editor: one tab with a Source mode (platform text editor) and an Edit mode (live preview that you can edit). No network...
 
 vendor: Nicolas Meylan
-downloads: 2
+downloads: 11
 pricingModel: FREE
 xmlId: ch.nmeylan.markdone</description>
       <pubDate>Wed, 18 Nov 2026 16:10:39 GMT</pubDate>
@@ -102,7 +141,7 @@ xmlId: ch.nmeylan.markdone</description>
       <description>Enterprise-grade Java code formatting plugin for IntelliJ IDEA, implementing A Java code style rules. Features: Rule 1: Annotations on dedicated lines Rule 4: Method...
 
 vendor: Lemuel Adane
-downloads: 2
+downloads: 10
 pricingModel: FREE
 xmlId: com.accenture.java.formatter</description>
       <pubDate>Wed, 18 Nov 2026 07:47:50 GMT</pubDate>
@@ -115,7 +154,7 @@ xmlId: com.accenture.java.formatter</description>
       <description>Find the right Maven dependencies faster, with less AI context overhead. Runs a local Model Context Protocol (MCP) server inside the IDE, giving AI coding assistants...
 
 vendor: Khoa Ngo
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: net.khoango.mavencentralmcp</description>
       <pubDate>Wed, 18 Nov 2026 13:23:05 GMT</pubDate>
@@ -128,7 +167,7 @@ xmlId: net.khoango.mavencentralmcp</description>
       <description>Run several Claude Code sessions side by side in a Claude Grid sidebar tool window, using the IDE's own terminal. Automatic tiling: one session fills the view, two or...
 
 vendor: Satttoshi
-downloads: 1
+downloads: 14
 pricingModel: FREE
 xmlId: io.github.satttoshi.claudegrid</description>
       <pubDate>Wed, 18 Nov 2026 15:18:14 GMT</pubDate>
@@ -141,7 +180,7 @@ xmlId: io.github.satttoshi.claudegrid</description>
       <description>Copy a file path and the selected line numbers from the editor. Use a plain reference such as src/main.ts:12-18 or a Claude Code mention such as @src/main.ts#L12-18...
 
 vendor: Sunpm
-downloads: 2
+downloads: 16
 pricingModel: FREE
 xmlId: io.github.sunpm.copylinereference</description>
       <pubDate>Thu, 19 Nov 2026 02:16:54 GMT</pubDate>
@@ -154,7 +193,7 @@ xmlId: io.github.sunpm.copylinereference</description>
       <description>Language support for TaskJuggler project files (.tjp, .tji). Syntax and semantic highlighting of keywords, declarations, references, values, macros, dates and...
 
 vendor: Guillaume Lederrey
-downloads: 1
+downloads: 12
 pricingModel: FREE
 xmlId: fr.ledcom.tj3.task-juggler-plugin</description>
       <pubDate>Wed, 18 Nov 2026 14:22:41 GMT</pubDate>
@@ -167,7 +206,7 @@ xmlId: fr.ledcom.tj3.task-juggler-plugin</description>
       <description>VSCode-style "expand" caret blinking for JetBrains IDEs. The caret smoothly collapses into a thin horizontal line at its vertical center and expands back to full...
 
 vendor: Expand caret
-downloads: 3
+downloads: 20
 pricingModel: FREE
 xmlId: dev.zefixed.expandcursor</description>
       <pubDate>Thu, 19 Nov 2026 08:19:21 GMT</pubDate>
@@ -180,7 +219,7 @@ xmlId: dev.zefixed.expandcursor</description>
       <description>Mianshi Baguwen helps you practice coding interview questions in IntelliJ IDEA with spaced repetition and DeepSeek AI. 在 IDEA 里摸鱼刷面试题：艾宾浩斯间隔复习、题库导入导出、DeepSeek AI...
 
 vendor: 不吃葡萄哥
-downloads: 3
+downloads: 23
 pricingModel: FREE
 xmlId: com.huaxin.shiroha-quiz</description>
       <pubDate>Thu, 19 Nov 2026 01:26:25 GMT</pubDate>
@@ -193,7 +232,7 @@ xmlId: com.huaxin.shiroha-quiz</description>
       <description>Language support for the Ow programming language (.ow files): file-type recognition with the Ow icon, syntax highlighting (keywords, the module system, built-in...
 
 vendor: OreoStudios
-downloads: 2
+downloads: 12
 pricingModel: FREE
 xmlId: dev.oreo.ow</description>
       <pubDate>Tue, 17 Nov 2026 13:14:35 GMT</pubDate>
@@ -206,7 +245,7 @@ xmlId: dev.oreo.ow</description>
       <description>Modula-3 language support for the CM3 compiler. Syntax and semantic highlighting, code formatter, structure view, folding Go to Declaration, Find Usages, rename with...
 
 vendor: m3w.org
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: org.m3w.intellij-m3</description>
       <pubDate>Sat, 14 Nov 2026 20:19:54 GMT</pubDate>
@@ -219,51 +258,12 @@ xmlId: org.m3w.intellij-m3</description>
       <description>Send references to selected code directly to the active JetBrains Terminal tab. Select code, press the shortcut, and paste a reference into the current terminal...
 
 vendor: Loud Yo
-downloads: 2
+downloads: 14
 pricingModel: FREE
 xmlId: com.loudyo.wherewasi</description>
       <pubDate>Wed, 18 Nov 2026 15:59:20 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36245-wherewasi</guid>
       <dc:date>2026-11-18T15:59:20Z</dc:date>
-    </item>
-    <item>
-      <title>Loji Notes - Wed Nov 18 12:17:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36258-loji-notes</link>
-      <description>Loji Notes — floating, draggable comment cards pinned to any code line, connected back to the anchor by a leader line. Notes live in .loji/notes/ inside the...
-
-vendor: ArchimedesVera
-downloads: 1
-pricingModel: FREE
-xmlId: dev.loji.notes</description>
-      <pubDate>Wed, 18 Nov 2026 12:17:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36258-loji-notes</guid>
-      <dc:date>2026-11-18T12:17:09Z</dc:date>
-    </item>
-    <item>
-      <title>Agent Worktree Monitor - Thu Nov 19 08:14:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36227-agent-worktree-monitor</link>
-      <description>Monitors code changes across multiple Git worktrees for parallel AI-agent development (Claude Code, Codex, OpenCode, etc.). Automatically discovers all worktrees of...
-
-vendor: linmengmeng
-downloads: 1
-pricingModel: FREE
-xmlId: com.linmengmeng.worktreemonitor</description>
-      <pubDate>Thu, 19 Nov 2026 08:14:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36227-agent-worktree-monitor</guid>
-      <dc:date>2026-11-19T08:14:11Z</dc:date>
-    </item>
-    <item>
-      <title>RoomEr - Room ER Diagrams - Wed Nov 18 12:12:20 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36257-roomer--room-er-diagrams</link>
-      <description>See your Room database as an entity-relationship diagram, right inside Android Studio. RoomEr reads the schema JSON that Room exports at build time and draws it in the...
-
-vendor: Oguzhan Aslan
-downloads: 4
-pricingModel: FREE
-xmlId: com.oguzhanaslann.roomer</description>
-      <pubDate>Wed, 18 Nov 2026 12:12:20 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36257-roomer--room-er-diagrams</guid>
-      <dc:date>2026-11-18T12:12:20Z</dc:date>
     </item>
   </channel>
 </rss>
