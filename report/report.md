@@ -6,7 +6,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 11:42:00 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Nov 09 12:16:40 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:06 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Oct 28 17:34:18 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 01:29:16 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.21+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 06 18:38:50 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:07 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.13+9|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 23 16:03:29 UTC 2026|
@@ -14,12 +14,12 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:08 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Oct 23 22:43:51 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.5+8|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Oct 26 17:49:22 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:45 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u514-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 01:29:20 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 12 11:57:51 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:45 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.1 (2026-09-23)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Wed Sep 23 15:43:30 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.4|[golang.org](https://golang.org/dl/)|Tue Nov 10 17:39:50 UTC 2026|
-|![logo](../media/logo/gradle.png) Gradle|9.9.1|[gradle.org](https://gradle.org/releases)|Tue Nov 10 21:32:35 UTC 2026|
+|![logo](../media/logo/gradle.png) Gradle|9.9.2|[gradle.org](https://gradle.org/releases)|Fri Nov 20 01:29:26 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3 (263.7307.44) ~ 2026-10-23|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Oct 23 16:04:43 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.3 (263.7307.200) ~ 2026-11-05|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Nov 05 11:42:45 UTC 2026|
