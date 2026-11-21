@@ -6,17 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Zuban - Fri Nov 20 08:04:33 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36312-zuban</link>
-      <description>Runs Zuban in the IDE. Zuban is a fast, Mypy-compatible Python type checker and language server, written in Rust. The plugin shows the Zuban diagnostics in the editor...
+      <title>Spellchecker - Tue Jul 07 07:34:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/26840-spellchecker</link>
+      <description>Provides spelling checks for all text written in the code editor.
 
 vendor: JetBrains s.r.o.
-downloads: 0
+downloads: 9538
 pricingModel: FREE
-xmlId: com.intellij.python.zuban</description>
-      <pubDate>Fri, 20 Nov 2026 08:04:33 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36312-zuban</guid>
-      <dc:date>2026-11-20T08:04:33Z</dc:date>
+xmlId: fleet.spellchecker</description>
+      <pubDate>Tue, 07 Jul 2026 07:34:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26840-spellchecker</guid>
+      <dc:date>2026-07-07T07:34:59Z</dc:date>
+    </item>
+    <item>
+      <title>AI for JavaScript &amp; TypeScript - Fri Nov 20 05:43:08 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/22993-ai-for-javascript--typescript</link>
+      <description>Provides AI-powered features for JavaScript and TypeScript languages.
+
+vendor: JetBrains s.r.o.
+downloads: 30102
+pricingModel: FREE
+xmlId: fleet.javascript.ai</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:08 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/22993-ai-for-javascript--typescript</guid>
+      <dc:date>2026-11-20T05:43:08Z</dc:date>
+    </item>
+    <item>
+      <title>AI for Java - Fri Nov 20 05:43:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/22995-ai-for-java</link>
+      <description>Provides AI-powered features for the Java language.
+
+vendor: JetBrains s.r.o.
+downloads: 30095
+pricingModel: FREE
+xmlId: fleet.java.ai</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/22995-ai-for-java</guid>
+      <dc:date>2026-11-20T05:43:11Z</dc:date>
+    </item>
+    <item>
+      <title>Prettier - Fri Nov 20 05:43:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/25048-prettier</link>
+      <description>Provides integration with an opinionated code formatter. The plugin does not require Smart Mode.
+
+vendor: JetBrains s.r.o.
+downloads: 27368
+pricingModel: FREE
+xmlId: fleet.prettier</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/25048-prettier</guid>
+      <dc:date>2026-11-20T05:43:02Z</dc:date>
+    </item>
+    <item>
+      <title>AI for Go - Fri Nov 20 05:43:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/22991-ai-for-go</link>
+      <description>Provides AI-powered features for the Go language.
+
+vendor: JetBrains s.r.o.
+downloads: 28844
+pricingModel: FREE
+xmlId: fleet.go.ai</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/22991-ai-for-go</guid>
+      <dc:date>2026-11-20T05:43:10Z</dc:date>
+    </item>
+    <item>
+      <title>ESLint - Fri Nov 20 05:43:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/25292-eslint</link>
+      <description>Provides support for the ESLint, the JavaScript linter.
+
+vendor: JetBrains s.r.o.
+downloads: 23745
+pricingModel: FREE
+xmlId: fleet.eslint</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/25292-eslint</guid>
+      <dc:date>2026-11-20T05:43:07Z</dc:date>
+    </item>
+    <item>
+      <title>Browser Preview - Fri Nov 20 05:43:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/26443-browser-preview</link>
+      <description>Provides web preview inside the code editor.
+
+vendor: JetBrains s.r.o.
+downloads: 12888
+pricingModel: FREE
+xmlId: fleet.webApp</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26443-browser-preview</guid>
+      <dc:date>2026-11-20T05:43:10Z</dc:date>
+    </item>
+    <item>
+      <title>Stylelint - Fri Nov 20 05:43:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/25360-stylelint</link>
+      <description>Provides support for the Stylelint, the CSS linter.
+
+vendor: JetBrains s.r.o.
+downloads: 24671
+pricingModel: FREE
+xmlId: fleet.stylelint</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/25360-stylelint</guid>
+      <dc:date>2026-11-20T05:43:06Z</dc:date>
+    </item>
+    <item>
+      <title>AI Completion for Kotlin - Mon Jan 26 07:34:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/25673-ai-completion-for-kotlin</link>
+      <description>Provides AI code completion for Kotlin.
+
+vendor: JetBrains s.r.o.
+downloads: 19105
+pricingModel: FREE
+xmlId: fleet.ai.completion.kotlin</description>
+      <pubDate>Mon, 26 Jan 2026 07:34:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/25673-ai-completion-for-kotlin</guid>
+      <dc:date>2026-01-26T07:34:59Z</dc:date>
+    </item>
+    <item>
+      <title>WebLSP - Fri Nov 20 05:43:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/27316-weblsp</link>
+      <description>Provides LSP support for a set of web languages. The plugin enables the following features in Smart Mode: - Code completion - Error detection - Documentation...
+
+vendor: JetBrains s.r.o.
+downloads: 2149
+pricingModel: FREE
+xmlId: fleet.weblsp</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/27316-weblsp</guid>
+      <dc:date>2026-11-20T05:43:07Z</dc:date>
+    </item>
+    <item>
+      <title>Spellchecker for Kotlin - Tue Jul 07 07:35:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/26841-spellchecker-for-kotlin</link>
+      <description>Provides spellchecking support for the Kotlin language.
+
+vendor: JetBrains s.r.o.
+downloads: 10432
+pricingModel: FREE
+xmlId: fleet.spellchecker.kotlin</description>
+      <pubDate>Tue, 07 Jul 2026 07:35:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26841-spellchecker-for-kotlin</guid>
+      <dc:date>2026-07-07T07:35:07Z</dc:date>
+    </item>
+    <item>
+      <title>fleet.webFormatterUtils - Fri Nov 20 05:43:01 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/26924-fleet-webformatterutils</link>
+      <description>No description was specified by the owner of this plugin.
+
+vendor: JetBrains s.r.o.
+downloads: 10795
+pricingModel: FREE
+xmlId: fleet.webFormatterUtils</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:01 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26924-fleet-webformatterutils</guid>
+      <dc:date>2026-11-20T05:43:01Z</dc:date>
+    </item>
+    <item>
+      <title>Spellchecker for Java - Tue Jul 07 07:35:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/26842-spellchecker-for-java</link>
+      <description>Provides spellchecking support for the Java language.
+
+vendor: JetBrains s.r.o.
+downloads: 9775
+pricingModel: FREE
+xmlId: fleet.spellchecker.java</description>
+      <pubDate>Tue, 07 Jul 2026 07:35:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26842-spellchecker-for-java</guid>
+      <dc:date>2026-07-07T07:35:06Z</dc:date>
+    </item>
+    <item>
+      <title>mlSorting - Fri Nov 20 05:43:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/26993-mlsorting</link>
+      <description>No description was specified by the owner of this plugin.
+
+vendor: JetBrains s.r.o.
+downloads: 2143
+pricingModel: FREE
+xmlId: fleet.mlSorting</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/26993-mlsorting</guid>
+      <dc:date>2026-11-20T05:43:07Z</dc:date>
+    </item>
+    <item>
+      <title>AI for Python - Fri Nov 20 05:43:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/22992-ai-for-python</link>
+      <description>Provides AI-powered features for the Python language.
+
+vendor: JetBrains s.r.o.
+downloads: 29124
+pricingModel: FREE
+xmlId: fleet.python.ai</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/22992-ai-for-python</guid>
+      <dc:date>2026-11-20T05:43:07Z</dc:date>
+    </item>
+    <item>
+      <title>AI for Rust - Fri Nov 20 05:43:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/22996-ai-for-rust</link>
+      <description>Provides AI-powered features for the Rust language.
+
+vendor: JetBrains s.r.o.
+downloads: 29942
+pricingModel: FREE
+xmlId: fleet.rust.ai</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/22996-ai-for-rust</guid>
+      <dc:date>2026-11-20T05:43:07Z</dc:date>
+    </item>
+    <item>
+      <title>Markdown - Fri Nov 20 05:43:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/23129-markdown</link>
+      <description>Provides editing support for Markdown files within the code editor.
+
+vendor: JetBrains s.r.o.
+downloads: 29117
+pricingModel: FREE
+xmlId: fleet.markdown</description>
+      <pubDate>Fri, 20 Nov 2026 05:43:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/23129-markdown</guid>
+      <dc:date>2026-11-20T05:43:03Z</dc:date>
+    </item>
+    <item>
+      <title>Grazie for Python - Mon Jan 26 07:38:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/25407-grazie-for-python</link>
+      <description>Provides Grazie support for the Python language.
+
+vendor: JetBrains s.r.o.
+downloads: 21569
+pricingModel: FREE
+xmlId: fleet.grazie.python</description>
+      <pubDate>Mon, 26 Jan 2026 07:38:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/25407-grazie-for-python</guid>
+      <dc:date>2026-01-26T07:38:52Z</dc:date>
+    </item>
+    <item>
+      <title>Grazie - Mon Jan 26 07:38:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/23981-grazie</link>
+      <description>Provides intelligent spelling and grammar checks for all text written in the code editor.
+
+vendor: JetBrains s.r.o.
+downloads: 26349
+pricingModel: FREE
+xmlId: fleet.grazie</description>
+      <pubDate>Mon, 26 Jan 2026 07:38:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/23981-grazie</guid>
+      <dc:date>2026-01-26T07:38:34Z</dc:date>
+    </item>
+    <item>
+      <title>Grazie for Java - Mon Jan 26 07:38:34 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/25404-grazie-for-java</link>
+      <description>Provides Grazie support for the Java language.
+
+vendor: JetBrains s.r.o.
+downloads: 22045
+pricingModel: FREE
+xmlId: fleet.grazie.java</description>
+      <pubDate>Mon, 26 Jan 2026 07:38:34 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/25404-grazie-for-java</guid>
+      <dc:date>2026-01-26T07:38:34Z</dc:date>
     </item>
   </channel>
 </rss>
