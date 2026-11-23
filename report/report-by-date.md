@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/postgresql.png) PostgreSQL 19|19.0|[www.postgresql.org](https://www.postgresql.org/download/)|Mon Nov 23 13:51:55 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3.1 (263.8311.30) ~ 2026-11-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Nov 20 21:36:31 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.2 (2026-11-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Nov 20 21:35:03 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 mac x64|jdk-21.0.13.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 21:34:57 UTC 2026|

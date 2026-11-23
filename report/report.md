@@ -37,6 +37,7 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
+|![logo](../media/logo/postgresql.png) PostgreSQL 19|19.0|[www.postgresql.org](https://www.postgresql.org/download/)|Mon Nov 23 13:51:55 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.4|9.4.26|[www.postgresql.org](https://www.postgresql.org/download/)|Mon May 25 17:35:41 UTC 2020|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.5|9.5.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Feb 11 16:00:48 UTC 2021|
 |![logo](../media/logo/postgresql.png) PostgreSQL 9.6|9.6.24|[www.postgresql.org](https://www.postgresql.org/download/)|Sat Nov 13 00:00:49 UTC 2021|
