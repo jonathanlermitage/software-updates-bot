@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.3.0.1 (263.7307.353) ~ 2026-11-24|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Nov 24 19:11:56 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 19|19.0|[www.postgresql.org](https://www.postgresql.org/download/)|Mon Nov 23 13:51:55 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3.1 (263.8311.30) ~ 2026-11-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Nov 20 21:36:31 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.2 (2026-11-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Nov 20 21:35:03 UTC 2026|
@@ -33,7 +34,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Nov 09 12:16:40 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.1.0 to 20.2.0 ~ 2026-11-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Nov 06 18:40:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:45 UTC 2026|
-|![logo](../media/logo/ij.png) IntelliJ IDEA|2026.3 (263.7307.200) ~ 2026-11-05|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Thu Nov 05 11:42:45 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 26 09:28:15 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 mac| 3.15.2|[www.python.org](https://www.python.org/downloads/mac-osx/)|Mon Oct 26 09:28:14 UTC 2026|
 |![logo](../media/logo/maven.png) Maven|4.0.0-rc-7|[maven.apache.org](https://maven.apache.org/download.cgi)|Thu Sep 24 23:02:16 UTC 2026|

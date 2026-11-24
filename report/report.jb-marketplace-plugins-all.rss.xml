@@ -6,6 +6,162 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>AgentLint - Tue Nov 10 05:56:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35951-agentlint</link>
+      <description>Catch mistakes in the files that steer AI coding agents before the agent quietly ignores them, and catch the API keys and risky settings in MCP configs before they...
+
+vendor: Joe Simo
+downloads: 4
+pricingModel: FREEMIUM
+xmlId: io.github.joesimo.agentlint</description>
+      <pubDate>Tue, 10 Nov 2026 05:56:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35951-agentlint</guid>
+      <dc:date>2026-11-10T05:56:44Z</dc:date>
+    </item>
+    <item>
+      <title>Dataset Drift Preflight - Fri Nov 20 23:20:21 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36344-dataset-drift-preflight</link>
+      <description>Detect potentially breaking CSV dataset changes before they disrupt your data workflows. Compare a previous known-good CSV file with an updated version directly inside...
+
+vendor: Varevix
+downloads: 1
+pricingModel: FREE
+xmlId: io.varevix.datasetdriftpreflight</description>
+      <pubDate>Fri, 20 Nov 2026 23:20:21 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36344-dataset-drift-preflight</guid>
+      <dc:date>2026-11-20T23:20:21Z</dc:date>
+    </item>
+    <item>
+      <title>Resource Navigator - Tue Nov 24 01:41:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36417-resource-navigator</link>
+      <description>Makes local file paths and URLs in supported Python string expressions directly navigable. Resource Navigator supports ordinary and adjacent string literals, constant...
+
+vendor: James Schelert
+downloads: 0
+pricingModel: FREE
+xmlId: com.jschelert.resource-navigator</description>
+      <pubDate>Tue, 24 Nov 2026 01:41:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36417-resource-navigator</guid>
+      <dc:date>2026-11-24T01:41:10Z</dc:date>
+    </item>
+    <item>
+      <title>kakapo comments - Tue Nov 24 09:02:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36424-kakapo-comments</link>
+      <description>Write a review comment where the caret is — in the editor or in the Diff window — and hand the whole review to a coding agent with one copy. Comments are kept in the...
+
+vendor: kakapo
+downloads: 0
+pricingModel: FREE
+xmlId: dev.kakapo.comments</description>
+      <pubDate>Tue, 24 Nov 2026 09:02:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36424-kakapo-comments</guid>
+      <dc:date>2026-11-24T09:02:41Z</dc:date>
+    </item>
+    <item>
+      <title>LaunchSetting View - Tue Nov 24 02:29:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36418-launchsetting-view</link>
+      <description>Structural editor for Properties/launchSettings.json in JetBrains Rider. When a .NET Launch Settings Profile run configuration is selected in the Run/Debug...
+
+vendor: Imizuki
+downloads: 0
+pricingModel: FREE
+xmlId: imizuki.launchsettingview</description>
+      <pubDate>Tue, 24 Nov 2026 02:29:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36418-launchsetting-view</guid>
+      <dc:date>2026-11-24T02:29:41Z</dc:date>
+    </item>
+    <item>
+      <title>LiteLLM PR Review - Tue Nov 24 08:44:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36423-litellm-pr-review</link>
+      <description>Reads the active project's Git remotes to work out which on-premise Bitbucket Server repository you are standing in, lists that repository's open pull requests in a...
+
+vendor: Anıl Şenocak
+downloads: 0
+pricingModel: FREE
+xmlId: com.github.senocak.prreview</description>
+      <pubDate>Tue, 24 Nov 2026 08:44:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36423-litellm-pr-review</guid>
+      <dc:date>2026-11-24T08:44:38Z</dc:date>
+    </item>
+    <item>
+      <title>MapPeek - Tue Nov 24 03:28:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36420-mappeek</link>
+      <description>MapPeek detects the Map request and response fields of Java endpoints and turns them into API documentation your frontend can use right away. Standard documentation...
+
+vendor: 疯狂de程序员
+downloads: 0
+pricingModel: FREE
+xmlId: mappeek.idea</description>
+      <pubDate>Tue, 24 Nov 2026 03:28:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36420-mappeek</guid>
+      <dc:date>2026-11-24T03:28:04Z</dc:date>
+    </item>
+    <item>
+      <title>Commit and Project Files Exporter - Tue Nov 24 02:45:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36419-commit-and-project-files-exporter</link>
+      <description>Commit and Project Files Exporter Export files selected from Git/SVN pending changes, Local Changes, the Commit tool window, or the Project view into a...
+
+vendor: G&amp;X
+downloads: 0
+pricingModel: FREE
+xmlId: com.gandx.commit-files-exporter</description>
+      <pubDate>Tue, 24 Nov 2026 02:45:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36419-commit-and-project-files-exporter</guid>
+      <dc:date>2026-11-24T02:45:31Z</dc:date>
+    </item>
+    <item>
+      <title>Capstan - Tue Nov 24 04:19:23 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36234-capstan</link>
+      <description>Clojure / ClojureScript support in the spirit of Calva, written in Clojure. Structural editing: Calva's paredit commands (all 435 Calva paredit test cases pass...
+
+vendor: 通九（大连）互联科技有限公司
+downloads: 1
+pricingModel: FREE
+xmlId: im.ttalk.capstan</description>
+      <pubDate>Tue, 24 Nov 2026 04:19:23 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36234-capstan</guid>
+      <dc:date>2026-11-24T04:19:23Z</dc:date>
+    </item>
+    <item>
+      <title>Auto Evidence Activity - Tue Nov 24 04:20:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36421-auto-evidence-activity</link>
+      <description>Links IDE activity to Auto Evidence screenshots: the project, file and run or test sessions you work on, sent as metadata to the Auto Evidence desktop application on...
+
+vendor: DevDrop
+downloads: 0
+pricingModel: FREE
+xmlId: id.autoevidence.activity</description>
+      <pubDate>Tue, 24 Nov 2026 04:20:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36421-auto-evidence-activity</guid>
+      <dc:date>2026-11-24T04:20:51Z</dc:date>
+    </item>
+    <item>
+      <title>Projectional Agent Toolkit - Tue Nov 24 08:56:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36328-projectional-agent-toolkit</link>
+      <description>Gives AI coding agents access to JetBrains MPS through MCP tools: they can navigate, query, edit, validate, and generate MPS models and languages in the open project...
+
+vendor: JetBrains s.r.o.
+downloads: 15
+pricingModel: FREE
+xmlId: jetbrains.mps.agents.mcp.tools</description>
+      <pubDate>Tue, 24 Nov 2026 08:56:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36328-projectional-agent-toolkit</guid>
+      <dc:date>2026-11-24T08:56:13Z</dc:date>
+    </item>
+    <item>
+      <title>Spoke Wrench - Sat Nov 21 18:16:43 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36360-spoke-wrench</link>
+      <description>Spoke Wrench adds practical quality-of-life improvements to JetBrains Rider — small .NET productivity tweaks that feel like they could ship with the IDE itself...
+
+vendor: Alain Miltenburg
+downloads: 1
+pricingModel: FREE
+xmlId: com.myth384.spokewrench</description>
+      <pubDate>Sat, 21 Nov 2026 18:16:43 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36360-spoke-wrench</guid>
+      <dc:date>2026-11-21T18:16:43Z</dc:date>
+    </item>
+    <item>
       <title>Aspid.PreviewScroll - Mon Nov 23 20:01:14 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36414-aspid-previewscroll</link>
       <description>Scroll the selected file while your keyboard focus stays in the project tree. Scroll by lines, columns, or pages in a preview or regular editor tab. Use the arrow keys...
@@ -24,7 +180,7 @@ xmlId: com.aspid.previewscroll</description>
       <description>Compete head-to-head in private Java coding duels directly in IntelliJ IDEA. Create a private room and share the room code with a friend. Choose from 15 challenges...
 
 vendor: dumi.jr
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.codeduel.plugin</description>
       <pubDate>Tue, 24 Nov 2026 00:08:36 GMT</pubDate>
@@ -37,7 +193,7 @@ xmlId: dev.codeduel.plugin</description>
       <description>Run your sample cases without freezing CLion. Sample Test Runner keeps a reusable set of test cases for your program and runs them against the executable you already...
 
 vendor: Pixel Time
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: com.dsagent.sampletest</description>
       <pubDate>Sun, 22 Nov 2026 13:19:39 GMT</pubDate>
@@ -50,7 +206,7 @@ xmlId: com.dsagent.sampletest</description>
       <description>Keeps IntelliJ's Java SDK list lean and current, based on the JDKs installed with SDKMAN!: exactly one SDK per managed Java version (default: all LTS versions, as...
 
 vendor: Gerd Aschemann
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: net.aschemann.sdk-keeper</description>
       <pubDate>Sun, 22 Nov 2026 13:44:08 GMT</pubDate>
@@ -71,7 +227,7 @@ xmlId: dev.gilbertrdz.git-line-insight</description>
       <dc:date>2026-11-22T06:35:01Z</dc:date>
     </item>
     <item>
-      <title>Live FTL Preview - Mon Nov 23 11:57:39 UTC 2026</title>
+      <title>Live FTL Preview - Tue Nov 24 06:12:06 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36405-live-ftl-preview</link>
       <description>Previews FreeMarker templates as HTML or as rendered PDF pages.
 
@@ -79,9 +235,9 @@ vendor: FTL templates editor
 downloads: 0
 pricingModel: FREE
 xmlId: dev.liveftl.preview</description>
-      <pubDate>Mon, 23 Nov 2026 11:57:39 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2026 06:12:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36405-live-ftl-preview</guid>
-      <dc:date>2026-11-23T11:57:39Z</dc:date>
+      <dc:date>2026-11-24T06:12:06Z</dc:date>
     </item>
     <item>
       <title>Ivora Log Viewer - Mon Nov 23 14:13:44 UTC 2026</title>
@@ -89,7 +245,7 @@ xmlId: dev.liveftl.preview</description>
       <description>Read multi-gigabyte logs inside the IDE. Ivora Log Viewer indexes lines in chunks, scrolls them virtually, and never loads the file into an editor document. Opens...
 
 vendor: Ivora
-downloads: 1
+downloads: 2
 pricingModel: FREEMIUM
 xmlId: life.ivora.logviewer</description>
       <pubDate>Mon, 23 Nov 2026 14:13:44 GMT</pubDate>
@@ -102,168 +258,12 @@ xmlId: life.ivora.logviewer</description>
       <description>Manage images, set text colors, insert visible blank lines, and build tables in the Markdown cells of local Jupyter notebooks in PyCharm. English Edit Markdown in...
 
 vendor: Xu.J.W
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.local.notebook-image-manager</description>
       <pubDate>Sat, 21 Nov 2026 15:41:21 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36359-jupyter-notebook-markdown-tools</guid>
       <dc:date>2026-11-21T15:41:21Z</dc:date>
-    </item>
-    <item>
-      <title>Aura Veyra - Sat Nov 21 19:53:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36361-aura-veyra</link>
-      <description>Your coding aura, in every JetBrains IDE. Farm it, flex it, share it. ✨ Every time you clear your errors, ship a commit or get your tests green, your aura goes up...
-
-vendor: flightcoders
-downloads: 1
-pricingModel: FREE
-xmlId: com.flightcoders.veyra.aura</description>
-      <pubDate>Sat, 21 Nov 2026 19:53:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36361-aura-veyra</guid>
-      <dc:date>2026-11-21T19:53:07Z</dc:date>
-    </item>
-    <item>
-      <title>FlakyLens - Tue Nov 24 03:28:24 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36345-flakylens</link>
-      <description>Finds potential stability risks in Java and Kotlin Android tests: fixed waits, unseeded randomness, current-time assertions, and unbounded waits. Also identifies empty...
-
-vendor: Chase Ni Non
-downloads: 1
-pricingModel: FREE
-xmlId: com.chase.flakylens.flaky-lens</description>
-      <pubDate>Tue, 24 Nov 2026 03:28:24 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36345-flakylens</guid>
-      <dc:date>2026-11-24T03:28:24Z</dc:date>
-    </item>
-    <item>
-      <title>Restart - Wed Nov 18 09:26:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36244-restart</link>
-      <description>Restart can restart your IDE instantly without closing the running application.重启当前 IDE，一条命令搞定，不用先关掉再手动打开。Click File menu and select Restart or use Ctrl + Alt + R...
-
-vendor: 公子舒
-downloads: 1
-pricingModel: FREE
-xmlId: com.childeshu.restart</description>
-      <pubDate>Wed, 18 Nov 2026 09:26:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36244-restart</guid>
-      <dc:date>2026-11-18T09:26:21Z</dc:date>
-    </item>
-    <item>
-      <title>Git Helper - Wed Nov 18 09:19:35 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36243-git-helper</link>
-      <description>Batch select multiple Git repositories under a workspace root, then switch them to a target branch or create a new branch based on a source branch. Local uncommitted...
-
-vendor: 公子舒
-downloads: 1
-pricingModel: FREE
-xmlId: com.childeshu.githelper</description>
-      <pubDate>Wed, 18 Nov 2026 09:19:35 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36243-git-helper</guid>
-      <dc:date>2026-11-18T09:19:35Z</dc:date>
-    </item>
-    <item>
-      <title>Hex Swatch - Sat Nov 21 18:22:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36352-hex-swatch</link>
-      <description>Shows a small colour mark before every colour in any file: CSS, Blade, HTML, JS, PHP, Vue, Markdown. Click the mark to change the colour. Hex colours (#abc, #aabbcc...
-
-vendor: GTDB
-downloads: 3
-pricingModel: FREE
-xmlId: org.gtdb.hexswatch</description>
-      <pubDate>Sat, 21 Nov 2026 18:22:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36352-hex-swatch</guid>
-      <dc:date>2026-11-21T18:22:06Z</dc:date>
-    </item>
-    <item>
-      <title>Astra - Mon Nov 23 15:39:45 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36348-astra</link>
-      <description>Astra: Local-first API client for JetBrains IDEs Astra is a production-ready HTTP workspace that lives inside your IDE. Design, send, and debug requests without...
-
-vendor: Baby-1223
-downloads: 3
-pricingModel: FREE
-xmlId: com.astra.apiclient</description>
-      <pubDate>Mon, 23 Nov 2026 15:39:45 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36348-astra</guid>
-      <dc:date>2026-11-23T15:39:45Z</dc:date>
-    </item>
-    <item>
-      <title>Java Cup Icons - Sun Nov 22 17:43:49 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36381-java-cup-icons</link>
-      <description>Java Cup Icons gives top-level Java classes and records a coffee-cup icon in the Project View and editor tabs.Interfaces, enums, and annotation types are intentionally...
-
-vendor: stormizn
-downloads: 0
-pricingModel: FREE
-xmlId: com.stormizn.javacupicons</description>
-      <pubDate>Sun, 22 Nov 2026 17:43:49 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36381-java-cup-icons</guid>
-      <dc:date>2026-11-22T17:43:49Z</dc:date>
-    </item>
-    <item>
-      <title>winui-svelte - Thu Nov 05 18:12:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35835-winui-svelte</link>
-      <description>An optional companion for projects that use winui-svelte, the WinUI 3 controls as Svelte components for native Windows apps; it does nothing in a project that does not...
-
-vendor: Avi
-downloads: 2
-pricingModel: FREE
-xmlId: dev.winui.svelte</description>
-      <pubDate>Thu, 05 Nov 2026 18:12:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35835-winui-svelte</guid>
-      <dc:date>2026-11-05T18:12:43Z</dc:date>
-    </item>
-    <item>
-      <title>Pulsing Highlights - Mon Nov 23 14:24:16 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36407-pulsing-highlights</link>
-      <description>Animated highlighting for problems: instead of a static underline, the problematic line slowly "breathes" with a translucent background, and a newly appeared problem...
-
-vendor: Anton Shubin
-downloads: 0
-pricingModel: FREE
-xmlId: dev.anton.pulsing</description>
-      <pubDate>Mon, 23 Nov 2026 14:24:16 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36407-pulsing-highlights</guid>
-      <dc:date>2026-11-23T14:24:16Z</dc:date>
-    </item>
-    <item>
-      <title>Testifly - Thu Nov 19 08:26:26 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36276-testifly</link>
-      <description>Find the blast radius of your local changes while in your IDE, before you ship them to production. Testifly shows which tests your changes affect, and you run them on...
-
-vendor: Testifly
-downloads: 1
-pricingModel: FREE
-xmlId: dev.testifly.ide</description>
-      <pubDate>Thu, 19 Nov 2026 08:26:26 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36276-testifly</guid>
-      <dc:date>2026-11-19T08:26:26Z</dc:date>
-    </item>
-    <item>
-      <title>Install to Hubitat Hub - Fri Nov 20 19:20:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36340-install-to-hubitat-hub</link>
-      <description>Install or update Hubitat Elevation apps and device drivers directly from the editor. Open a Hubitat Groovy app or driver and click Install in the toolbar. The plugin...
-
-vendor: Joe Page Software
-downloads: 2
-pricingModel: FREE
-xmlId: com.jpage4500.hubitat</description>
-      <pubDate>Fri, 20 Nov 2026 19:20:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36340-install-to-hubitat-hub</guid>
-      <dc:date>2026-11-20T19:20:43Z</dc:date>
-    </item>
-    <item>
-      <title>Git Pickaxe - Fri Nov 20 01:02:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36316-git-pickaxe</link>
-      <description>Search Git history by content, right inside your IDE. The built-in Find Commit searches commit messages and hashes, not code. Git Pickaxe searches the content of your...
-
-vendor: Kobima
-downloads: 1
-pricingModel: FREEMIUM
-xmlId: com.kobima.gitpickaxe</description>
-      <pubDate>Fri, 20 Nov 2026 01:02:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36316-git-pickaxe</guid>
-      <dc:date>2026-11-20T01:02:37Z</dc:date>
     </item>
   </channel>
 </rss>
