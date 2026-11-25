@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Ukrainian Language Pack - Sat Nov 21 15:59:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36311-ukrainian-language-pack</link>
+      <description>Early, partial Ukrainian translation of the IntelliJ Platform user interface. This version covers 22,743 of about 42,600 strings: many menu and action names, general...
+
+vendor: Trophy Apps
+downloads: 6
+pricingModel: PAID
+xmlId: com.trophyapps.languagepack.uk</description>
+      <pubDate>Sat, 21 Nov 2026 15:59:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36311-ukrainian-language-pack</guid>
+      <dc:date>2026-11-21T15:59:20Z</dc:date>
+    </item>
+    <item>
       <title>Find Smali Usages - Mon Nov 23 20:31:32 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36415-find-smali-usages</link>
       <description>Finds class descriptors in Kotlin strings and exact method calls in inline Kotlin Smali or .smali files. Find Usages links back to matching locations, and Go to...
 
 vendor: Morphe
-downloads: 0
+downloads: 9
 pricingModel: FREE
 xmlId: find-smali-usages</description>
       <pubDate>Mon, 23 Nov 2026 20:31:32 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: find-smali-usages</description>
       <description>Catch mistakes in the files that steer AI coding agents before the agent quietly ignores them, and catch the API keys and risky settings in MCP configs before they...
 
 vendor: Joe Simo
-downloads: 4
+downloads: 8
 pricingModel: FREEMIUM
 xmlId: io.github.joesimo.agentlint</description>
       <pubDate>Tue, 10 Nov 2026 05:56:44 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: io.github.joesimo.agentlint</description>
       <description>Detect potentially breaking CSV dataset changes before they disrupt your data workflows. Compare a previous known-good CSV file with an updated version directly inside...
 
 vendor: Varevix
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: io.varevix.datasetdriftpreflight</description>
       <pubDate>Fri, 20 Nov 2026 23:20:21 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: io.varevix.datasetdriftpreflight</description>
       <description>Makes local file paths and URLs in supported Python string expressions directly navigable. Resource Navigator supports ordinary and adjacent string literals, constant...
 
 vendor: James Schelert
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.jschelert.resource-navigator</description>
       <pubDate>Tue, 24 Nov 2026 01:41:10 GMT</pubDate>
@@ -63,7 +76,7 @@ xmlId: com.jschelert.resource-navigator</description>
       <description>Write a review comment where the caret is — in the editor or in the Diff window — and hand the whole review to a coding agent with one copy. Comments are kept in the...
 
 vendor: kakapo
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: dev.kakapo.comments</description>
       <pubDate>Tue, 24 Nov 2026 09:02:41 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: dev.kakapo.comments</description>
       <description>Structural editor for Properties/launchSettings.json in JetBrains Rider. When a .NET Launch Settings Profile run configuration is selected in the Run/Debug...
 
 vendor: Imizuki
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: imizuki.launchsettingview</description>
       <pubDate>Tue, 24 Nov 2026 02:29:41 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: imizuki.launchsettingview</description>
       <description>Reads the active project's Git remotes to work out which on-premise Bitbucket Server repository you are standing in, lists that repository's open pull requests in a...
 
 vendor: Anıl Şenocak
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.github.senocak.prreview</description>
       <pubDate>Tue, 24 Nov 2026 08:44:38 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: com.github.senocak.prreview</description>
       <description>MapPeek detects the Map request and response fields of Java endpoints and turns them into API documentation your frontend can use right away. Standard documentation...
 
 vendor: 疯狂de程序员
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: mappeek.idea</description>
       <pubDate>Tue, 24 Nov 2026 03:28:04 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: mappeek.idea</description>
       <description>Commit and Project Files Exporter Export files selected from Git/SVN pending changes, Local Changes, the Commit tool window, or the Project view into a...
 
 vendor: G&amp;X
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: com.gandx.commit-files-exporter</description>
       <pubDate>Tue, 24 Nov 2026 02:45:31 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.gandx.commit-files-exporter</description>
       <description>Clojure / ClojureScript support in the spirit of Calva, written in Clojure. Structural editing: Calva's paredit commands (all 435 Calva paredit test cases pass...
 
 vendor: 通九（大连）互联科技有限公司
-downloads: 1
+downloads: 9
 pricingModel: FREE
 xmlId: im.ttalk.capstan</description>
       <pubDate>Tue, 24 Nov 2026 04:19:23 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: im.ttalk.capstan</description>
       <description>Links IDE activity to Auto Evidence screenshots: the project, file and run or test sessions you work on, sent as metadata to the Auto Evidence desktop application on...
 
 vendor: DevDrop
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: id.autoevidence.activity</description>
       <pubDate>Tue, 24 Nov 2026 04:20:51 GMT</pubDate>
@@ -149,17 +162,17 @@ xmlId: id.autoevidence.activity</description>
       <dc:date>2026-11-24T04:20:51Z</dc:date>
     </item>
     <item>
-      <title>Projectional Agent Toolkit - Tue Nov 24 19:27:41 UTC 2026</title>
+      <title>Projectional Agent Toolkit - Wed Nov 25 05:00:07 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36328-projectional-agent-toolkit</link>
       <description>Gives AI coding agents access to JetBrains MPS through MCP tools: they can navigate, query, edit, validate, and generate MPS models and languages in the open project...
 
 vendor: JetBrains s.r.o.
-downloads: 15
+downloads: 32
 pricingModel: FREE
 xmlId: jetbrains.mps.agents.mcp.tools</description>
-      <pubDate>Tue, 24 Nov 2026 19:27:41 GMT</pubDate>
+      <pubDate>Wed, 25 Nov 2026 05:00:07 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36328-projectional-agent-toolkit</guid>
-      <dc:date>2026-11-24T19:27:41Z</dc:date>
+      <dc:date>2026-11-25T05:00:07Z</dc:date>
     </item>
     <item>
       <title>Spoke Wrench - Sat Nov 21 18:16:43 UTC 2026</title>
@@ -167,7 +180,7 @@ xmlId: jetbrains.mps.agents.mcp.tools</description>
       <description>Spoke Wrench adds practical quality-of-life improvements to JetBrains Rider — small .NET productivity tweaks that feel like they could ship with the IDE itself...
 
 vendor: Alain Miltenburg
-downloads: 1
+downloads: 6
 pricingModel: FREE
 xmlId: com.myth384.spokewrench</description>
       <pubDate>Sat, 21 Nov 2026 18:16:43 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: com.myth384.spokewrench</description>
       <description>Scroll the selected file while your keyboard focus stays in the project tree. Scroll by lines, columns, or pages in a preview or regular editor tab. Use the arrow keys...
 
 vendor: Aspid
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: com.aspid.previewscroll</description>
       <pubDate>Mon, 23 Nov 2026 20:01:14 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.aspid.previewscroll</description>
       <description>Compete head-to-head in private Java coding duels directly in IntelliJ IDEA. Create a private room and share the room code with a friend. Choose from 15 challenges...
 
 vendor: dumi.jr
-downloads: 1
+downloads: 16
 pricingModel: FREE
 xmlId: dev.codeduel.plugin</description>
       <pubDate>Tue, 24 Nov 2026 00:08:36 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: dev.codeduel.plugin</description>
       <description>Run your sample cases without freezing CLion. Sample Test Runner keeps a reusable set of test cases for your program and runs them against the executable you already...
 
 vendor: Pixel Time
-downloads: 4
+downloads: 10
 pricingModel: FREE
 xmlId: com.dsagent.sampletest</description>
       <pubDate>Sun, 22 Nov 2026 13:19:39 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.dsagent.sampletest</description>
       <description>Keeps IntelliJ's Java SDK list lean and current, based on the JDKs installed with SDKMAN!: exactly one SDK per managed Java version (default: all LTS versions, as...
 
 vendor: Gerd Aschemann
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: net.aschemann.sdk-keeper</description>
       <pubDate>Sun, 22 Nov 2026 13:44:08 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: net.aschemann.sdk-keeper</description>
       <description>See who last changed the active line, when, and why without leaving your editor. Git Line Insight shows the Git author, authored date and a shortened commit message...
 
 vendor: Gilbert Rodríguez
-downloads: 1
+downloads: 10
 pricingModel: FREE
 xmlId: dev.gilbertrdz.git-line-insight</description>
       <pubDate>Sun, 22 Nov 2026 06:35:01 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: dev.gilbertrdz.git-line-insight</description>
       <description>Previews FreeMarker templates as HTML or as rendered PDF pages.
 
 vendor: FTL templates editor
-downloads: 0
+downloads: 10
 pricingModel: FREE
 xmlId: dev.liveftl.preview</description>
       <pubDate>Tue, 24 Nov 2026 06:12:06 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36405-live-ftl-preview</guid>
       <dc:date>2026-11-24T06:12:06Z</dc:date>
-    </item>
-    <item>
-      <title>Ivora Log Viewer - Mon Nov 23 14:13:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36220-ivora-log-viewer</link>
-      <description>Read multi-gigabyte logs inside the IDE. Ivora Log Viewer indexes lines in chunks, scrolls them virtually, and never loads the file into an editor document. Opens...
-
-vendor: Ivora
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: life.ivora.logviewer</description>
-      <pubDate>Mon, 23 Nov 2026 14:13:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36220-ivora-log-viewer</guid>
-      <dc:date>2026-11-23T14:13:44Z</dc:date>
     </item>
   </channel>
 </rss>
