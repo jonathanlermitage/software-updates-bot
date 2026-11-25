@@ -6,6 +6,19 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Find Smali Usages - Mon Nov 23 20:31:32 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36415-find-smali-usages</link>
+      <description>Finds class descriptors in Kotlin strings and exact method calls in inline Kotlin Smali or .smali files. Find Usages links back to matching locations, and Go to...
+
+vendor: Morphe
+downloads: 0
+pricingModel: FREE
+xmlId: find-smali-usages</description>
+      <pubDate>Mon, 23 Nov 2026 20:31:32 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36415-find-smali-usages</guid>
+      <dc:date>2026-11-23T20:31:32Z</dc:date>
+    </item>
+    <item>
       <title>AgentLint - Tue Nov 10 05:56:44 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35951-agentlint</link>
       <description>Catch mistakes in the files that steer AI coding agents before the agent quietly ignores them, and catch the API keys and risky settings in MCP configs before they...
@@ -136,7 +149,7 @@ xmlId: id.autoevidence.activity</description>
       <dc:date>2026-11-24T04:20:51Z</dc:date>
     </item>
     <item>
-      <title>Projectional Agent Toolkit - Tue Nov 24 08:56:13 UTC 2026</title>
+      <title>Projectional Agent Toolkit - Tue Nov 24 19:27:41 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36328-projectional-agent-toolkit</link>
       <description>Gives AI coding agents access to JetBrains MPS through MCP tools: they can navigate, query, edit, validate, and generate MPS models and languages in the open project...
 
@@ -144,9 +157,9 @@ vendor: JetBrains s.r.o.
 downloads: 15
 pricingModel: FREE
 xmlId: jetbrains.mps.agents.mcp.tools</description>
-      <pubDate>Tue, 24 Nov 2026 08:56:13 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2026 19:27:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36328-projectional-agent-toolkit</guid>
-      <dc:date>2026-11-24T08:56:13Z</dc:date>
+      <dc:date>2026-11-24T19:27:41Z</dc:date>
     </item>
     <item>
       <title>Spoke Wrench - Sat Nov 21 18:16:43 UTC 2026</title>
@@ -251,19 +264,6 @@ xmlId: life.ivora.logviewer</description>
       <pubDate>Mon, 23 Nov 2026 14:13:44 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36220-ivora-log-viewer</guid>
       <dc:date>2026-11-23T14:13:44Z</dc:date>
-    </item>
-    <item>
-      <title>Jupyter Notebook Markdown Tools - Sat Nov 21 15:41:21 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36359-jupyter-notebook-markdown-tools</link>
-      <description>Manage images, set text colors, insert visible blank lines, and build tables in the Markdown cells of local Jupyter notebooks in PyCharm. English Edit Markdown in...
-
-vendor: Xu.J.W
-downloads: 2
-pricingModel: FREE
-xmlId: dev.local.notebook-image-manager</description>
-      <pubDate>Sat, 21 Nov 2026 15:41:21 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36359-jupyter-notebook-markdown-tools</guid>
-      <dc:date>2026-11-21T15:41:21Z</dc:date>
     </item>
   </channel>
 </rss>
