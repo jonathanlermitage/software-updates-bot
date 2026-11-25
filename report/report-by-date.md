@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u514-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 25 23:51:53 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.3.0.1 (263.7307.353) ~ 2026-11-24|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Nov 24 19:11:56 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 19|19.0|[www.postgresql.org](https://www.postgresql.org/download/)|Mon Nov 23 13:51:55 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3.1 (263.8311.30) ~ 2026-11-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Nov 20 21:36:31 UTC 2026|
@@ -25,7 +26,6 @@
 |![logo](../media/logo/postgresql.png) PostgreSQL 16|16.16|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 17|17.12|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 18|18.7|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 12 11:57:51 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS LTS|26.13.1|[nodejs.org](https://nodejs.org)|Wed Nov 11 18:58:57 UTC 2026|
 |![logo](../media/logo/windhawk.png) Windhawk|2.0 alpha 8|[github.com](https://github.com/ramensoftware/windhawk/releases)|Wed Nov 11 14:50:03 UTC 2026|
 |![logo](../media/logo/7zip.png) 7-Zip|26.06|[www.7-zip.org](https://www.7-zip.org)|Wed Nov 11 14:18:37 UTC 2026|

@@ -15,7 +15,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 mac x64|jdk-25.0.5.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 12:17:52 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 windows x64|jdk-25.0.5.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 12:17:52 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u514-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 01:29:20 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 12 11:57:51 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u514-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 25 23:51:53 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:45 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.2 (2026-11-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Nov 20 21:35:03 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.4|[golang.org](https://golang.org/dl/)|Tue Nov 10 17:39:50 UTC 2026|
