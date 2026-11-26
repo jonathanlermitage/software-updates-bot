@@ -1,5 +1,6 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/nodejs.png) NodeJS Current|27.0.0-alpha.0.2.0|[nodejs.org](https://nodejs.org)|Thu Nov 26 17:57:43 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u514-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 25 23:51:53 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.3.0.1 (263.7307.353) ~ 2026-11-24|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Nov 24 19:11:56 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 19|19.0|[www.postgresql.org](https://www.postgresql.org/download/)|Mon Nov 23 13:51:55 UTC 2026|
@@ -19,7 +20,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:08 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk21 linux x64|jdk-21.0.13.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:07 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:06 UTC 2026|
-|![logo](../media/logo/nodejs.png) NodeJS Current|27.0.0-alpha.0.1.1|[nodejs.org](https://nodejs.org)|Tue Nov 17 17:12:09 UTC 2026|
 |![logo](../media/logo/castcodeurs.png) Les Cast Codeurs (French podcast)|LCC 345 - Rust in peace, Java ressuscite|[lescastcodeurs.com](https://lescastcodeurs.com)|Tue Nov 17 17:12:07 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 14|14.25|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|
 |![logo](../media/logo/postgresql.png) PostgreSQL 15|15.20|[www.postgresql.org](https://www.postgresql.org/download/)|Thu Nov 12 19:29:27 UTC 2026|

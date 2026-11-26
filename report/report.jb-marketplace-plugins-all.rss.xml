@@ -6,6 +6,97 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Converter Studio - Thu Nov 26 14:45:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36416-converter-studio</link>
+      <description>Convert files from the Project view or an editor tab: images, video, audio, documents, slides, spreadsheets, data and subtitles. Conversions run on your computer...
+
+vendor: Converter Studio
+downloads: 1
+pricingModel: FREE
+xmlId: studio.converter.ide</description>
+      <pubDate>Thu, 26 Nov 2026 14:45:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36416-converter-studio</guid>
+      <dc:date>2026-11-26T14:45:09Z</dc:date>
+    </item>
+    <item>
+      <title>Hide Comment Lines - Wed Nov 25 18:42:54 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36470-hide-comment-lines</link>
+      <description>Hide comment-only lines while reading code. The comments stay in the source file, and inline comments stay visible. Use View → Hide Comment Lines to switch between...
+
+vendor: gncdev
+downloads: 0
+pricingModel: FREE
+xmlId: dev.hidecommentlines</description>
+      <pubDate>Wed, 25 Nov 2026 18:42:54 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36470-hide-comment-lines</guid>
+      <dc:date>2026-11-25T18:42:54Z</dc:date>
+    </item>
+    <item>
+      <title>Cloud Toolkit - ECS Deploy - Thu Nov 26 03:24:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36026-cloud-toolkit--ecs-deploy</link>
+      <description>Cloud Toolkit ECS Deploy builds a Java artifact in IntelliJ IDEA, uploads it to an ECS instance over SFTP, restarts the service over SSH, and streams the deployment...
+
+vendor: wang tc
+downloads: 1
+pricingModel: FREE
+xmlId: com.cloudtoolkit.ecsdeploy</description>
+      <pubDate>Thu, 26 Nov 2026 03:24:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36026-cloud-toolkit--ecs-deploy</guid>
+      <dc:date>2026-11-26T03:24:42Z</dc:date>
+    </item>
+    <item>
+      <title>FastMultiversion - Thu Nov 26 08:04:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36294-fastmultiversion</link>
+      <description>Support for Minecraft mods built for several Minecraft versions from one source tree with Mc.is("range") and @Mc.Is("range"): reports, as you type, Minecraft API used...
+
+vendor: Gahaha
+downloads: 1
+pricingModel: FREE
+xmlId: cc.gahaha.fastmultiversion</description>
+      <pubDate>Thu, 26 Nov 2026 08:04:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36294-fastmultiversion</guid>
+      <dc:date>2026-11-26T08:04:51Z</dc:date>
+    </item>
+    <item>
+      <title>AutoJs6 Official - Thu Nov 26 08:04:07 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36490-autojs6-official</link>
+      <description>Develop AutoJs6 scripts in IntelliJ-based IDEs: connect Android devices running AutoJs6, run and stop scripts, view device logs, save files, sync projects and manage...
+
+vendor: SuperMonster003
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.supermonster003.autojs6.jetbrains</description>
+      <pubDate>Thu, 26 Nov 2026 08:04:07 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36490-autojs6-official</guid>
+      <dc:date>2026-11-26T08:04:07Z</dc:date>
+    </item>
+    <item>
+      <title>ij-format - Thu Nov 26 14:55:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36481-ij-format</link>
+      <description>Format selected lines of Java or Kotlin from an MCP client using IntelliJ IDEA's native formatter. Use the current IDE-wide code style, including while a project is...
+
+vendor: yunie
+downloads: 0
+pricingModel: FREE
+xmlId: org.ijformat.mcp</description>
+      <pubDate>Thu, 26 Nov 2026 14:55:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36481-ij-format</guid>
+      <dc:date>2026-11-26T14:55:03Z</dc:date>
+    </item>
+    <item>
+      <title>SQL Callsite Console - Thu Nov 26 03:23:39 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36484-sql-callsite-console</link>
+      <description>Automatically print JDBC SQL with bound parameter values, execution time, and a clickable source line when running or debugging a supported local Java or Spring Boot...
+
+vendor: SQL Callsite Console
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.sqlcallsite.console</description>
+      <pubDate>Thu, 26 Nov 2026 03:23:39 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36484-sql-callsite-console</guid>
+      <dc:date>2026-11-26T03:23:39Z</dc:date>
+    </item>
+    <item>
       <title>Se7eni Novel Reader - Thu Nov 26 01:24:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36457-se7eni-novel-reader</link>
       <description>Read novels right inside your IDE: a sidebar reader for local txt and web novels, with chapter tree, reading progress memory, and a one-key boss-key disguise. Built...
@@ -19,7 +110,7 @@ xmlId: com.github.ideanovel.reader</description>
       <dc:date>2026-11-26T01:24:10Z</dc:date>
     </item>
     <item>
-      <title>Dev Services Status - Wed Nov 25 01:15:20 UTC 2026</title>
+      <title>Dev Services Status - Thu Nov 26 15:56:02 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36449-dev-services-status</link>
       <description>See the live status of the services your project depends on — GitHub, Vercel, OpenAI, Anthropic, Cloudflare, Supabase, Stripe and 200+ more — and get notified when...
 
@@ -27,9 +118,9 @@ vendor: Fabiano Augusto de Mello
 downloads: 2
 pricingModel: FREE
 xmlId: com.fabianomello.devservicesstatus</description>
-      <pubDate>Wed, 25 Nov 2026 01:15:20 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 15:56:02 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36449-dev-services-status</guid>
-      <dc:date>2026-11-25T01:15:20Z</dc:date>
+      <dc:date>2026-11-26T15:56:02Z</dc:date>
     </item>
     <item>
       <title>File Compressor - Tue Nov 24 16:52:08 UTC 2026</title>
@@ -71,17 +162,17 @@ xmlId: io.github.alexey_samodurov.polaris</description>
       <dc:date>2026-11-24T15:54:58Z</dc:date>
     </item>
     <item>
-      <title>Flow Tree - Tue Nov 24 14:00:11 UTC 2026</title>
+      <title>Flow Tree - Thu Nov 26 15:23:41 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36434-flow-tree</link>
-      <description>See where a Java method or endpoint can go before you read a line of it. Flow Tree follows the code from a starting point and shows the conditions it branches on and...
+      <description>See where a method or endpoint can go before you read a line of it. Flow Tree follows the code from a starting point and shows the conditions it branches on and the...
 
 vendor: Ares ES91
 downloads: 3
 pricingModel: FREE
 xmlId: dev.flowtree</description>
-      <pubDate>Tue, 24 Nov 2026 14:00:11 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 15:23:41 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36434-flow-tree</guid>
-      <dc:date>2026-11-24T14:00:11Z</dc:date>
+      <dc:date>2026-11-26T15:23:41Z</dc:date>
     </item>
     <item>
       <title>IDE Connector for Tempo - Thu Nov 26 02:58:27 UTC 2026</title>
@@ -173,97 +264,6 @@ xmlId: io.github.joesimo.logdeck</description>
       <pubDate>Thu, 29 Oct 2026 03:52:46 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/35616-log-deck</guid>
       <dc:date>2026-10-29T03:52:46Z</dc:date>
-    </item>
-    <item>
-      <title>Postmaster for Azure Service Bus - Wed Nov 18 16:51:37 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36260-postmaster-for-azure-service-bus</link>
-      <description>Find out why your Azure Service Bus messages failed, and fix your dead-letter queues, without leaving your IDE. Works on Windows, macOS and Linux, in Rider, IntelliJ...
-
-vendor: Hived
-downloads: 4
-pricingModel: FREEMIUM
-xmlId: com.hived.postmaster.servicebus</description>
-      <pubDate>Wed, 18 Nov 2026 16:51:37 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36260-postmaster-for-azure-service-bus</guid>
-      <dc:date>2026-11-18T16:51:37Z</dc:date>
-    </item>
-    <item>
-      <title>SpecStream - Sat Nov 21 04:42:25 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36346-specstream</link>
-      <description>Search the live web and read any page without leaving the IDE. Search from the SpecStream tool window, or select text in the editor and choose Search the web with...
-
-vendor: SpecStream
-downloads: 3
-pricingModel: FREE
-xmlId: ai.specstream</description>
-      <pubDate>Sat, 21 Nov 2026 04:42:25 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36346-specstream</guid>
-      <dc:date>2026-11-21T04:42:25Z</dc:date>
-    </item>
-    <item>
-      <title>Agy Launcher - Wed Nov 25 09:53:47 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36459-agy-launcher</link>
-      <description>Unofficial launcher for Antigravity CLI (agy). Launch agy inside JetBrains IDE's built-in Terminal and send file, line-range, or diagnostic references directly from...
-
-vendor: liliangan
-downloads: 3
-pricingModel: FREE
-xmlId: com.github.liliangan.agylauncher</description>
-      <pubDate>Wed, 25 Nov 2026 09:53:47 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36459-agy-launcher</guid>
-      <dc:date>2026-11-25T09:53:47Z</dc:date>
-    </item>
-    <item>
-      <title>Export All Results - Wed Nov 25 07:47:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36462-export-all-results</link>
-      <description>Export every open query result tab at once, as one combined document saved to a file and copied to the clipboard. Handy when you run many queries in one console and...
-
-vendor: jjam
-downloads: 2
-pricingModel: FREE
-xmlId: jaerim.exportallresults</description>
-      <pubDate>Wed, 25 Nov 2026 07:47:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36462-export-all-results</guid>
-      <dc:date>2026-11-25T07:47:46Z</dc:date>
-    </item>
-    <item>
-      <title>Ukrainian Language Pack - Tue Nov 24 21:20:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36311-ukrainian-language-pack</link>
-      <description>Early, partial Ukrainian translation of the IntelliJ Platform user interface. This version covers 22,743 of about 42,600 strings: many menu and action names, general...
-
-vendor: Trophy Apps
-downloads: 14
-pricingModel: PAID
-xmlId: com.trophyapps.languagepack.uk</description>
-      <pubDate>Tue, 24 Nov 2026 21:20:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36311-ukrainian-language-pack</guid>
-      <dc:date>2026-11-24T21:20:42Z</dc:date>
-    </item>
-    <item>
-      <title>Find Smali Usages - Tue Nov 24 19:27:11 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36415-find-smali-usages</link>
-      <description>Finds class descriptors in Kotlin strings and exact method calls in inline Kotlin Smali or .smali files. Find Usages links back to matching locations, and Go to...
-
-vendor: Morphe
-downloads: 16
-pricingModel: FREE
-xmlId: find-smali-usages</description>
-      <pubDate>Tue, 24 Nov 2026 19:27:11 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36415-find-smali-usages</guid>
-      <dc:date>2026-11-24T19:27:11Z</dc:date>
-    </item>
-    <item>
-      <title>AgentLint - Tue Nov 10 05:56:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35951-agentlint</link>
-      <description>Catch mistakes in the files that steer AI coding agents before the agent quietly ignores them, and catch the API keys and risky settings in MCP configs before they...
-
-vendor: Joe Simo
-downloads: 15
-pricingModel: FREEMIUM
-xmlId: io.github.joesimo.agentlint</description>
-      <pubDate>Tue, 10 Nov 2026 05:56:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35951-agentlint</guid>
-      <dc:date>2026-11-10T05:56:44Z</dc:date>
     </item>
   </channel>
 </rss>
