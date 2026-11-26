@@ -6,17 +6,17 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Se7eni Novel Reader - Wed Nov 25 06:36:33 UTC 2026</title>
+      <title>Se7eni Novel Reader - Thu Nov 26 01:24:10 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36457-se7eni-novel-reader</link>
       <description>Read novels right inside your IDE: a sidebar reader for local txt and web novels, with chapter tree, reading progress memory, and a one-key boss-key disguise. Built...
 
 vendor: ideanovel
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.github.ideanovel.reader</description>
-      <pubDate>Wed, 25 Nov 2026 06:36:33 GMT</pubDate>
+      <pubDate>Thu, 26 Nov 2026 01:24:10 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36457-se7eni-novel-reader</guid>
-      <dc:date>2026-11-25T06:36:33Z</dc:date>
+      <dc:date>2026-11-26T01:24:10Z</dc:date>
     </item>
     <item>
       <title>Dev Services Status - Wed Nov 25 01:15:20 UTC 2026</title>
@@ -24,7 +24,7 @@ xmlId: com.github.ideanovel.reader</description>
       <description>See the live status of the services your project depends on — GitHub, Vercel, OpenAI, Anthropic, Cloudflare, Supabase, Stripe and 200+ more — and get notified when...
 
 vendor: Fabiano Augusto de Mello
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.fabianomello.devservicesstatus</description>
       <pubDate>Wed, 25 Nov 2026 01:15:20 GMT</pubDate>
@@ -37,7 +37,7 @@ xmlId: com.fabianomello.devservicesstatus</description>
       <description>Pack selected files and folders into a ZIP archive without leaving the IDE. Select one or more files or folders in the Project view, then choose Compress to ZIP. The...
 
 vendor: File Compressor
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: lrong.file-compressor</description>
       <pubDate>Tue, 24 Nov 2026 16:52:08 GMT</pubDate>
@@ -50,7 +50,7 @@ xmlId: lrong.file-compressor</description>
       <description>ArkType syntax highlighting and inline errors, matching the VS Code extension: highlighting for strings in ArkType definitions, in TypeScript, JavaScript, Vue, Svelte...
 
 vendor: ArkType
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: io.arktype.arktype</description>
       <pubDate>Wed, 25 Nov 2026 07:04:43 GMT</pubDate>
@@ -63,7 +63,7 @@ xmlId: io.arktype.arktype</description>
       <description>Browse Apache Polaris catalogs from the IDE: catalogs, nested namespaces, Iceberg tables and views. Table details: schema with field ids and defaults, partition spec...
 
 vendor: Aleksei Samodurov
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.alexey_samodurov.polaris</description>
       <pubDate>Tue, 24 Nov 2026 15:54:58 GMT</pubDate>
@@ -76,7 +76,7 @@ xmlId: io.github.alexey_samodurov.polaris</description>
       <description>See where a Java method or endpoint can go before you read a line of it. Flow Tree follows the code from a starting point and shows the conditions it branches on and...
 
 vendor: Ares ES91
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: dev.flowtree</description>
       <pubDate>Tue, 24 Nov 2026 14:00:11 GMT</pubDate>
@@ -84,17 +84,17 @@ xmlId: dev.flowtree</description>
       <dc:date>2026-11-24T14:00:11Z</dc:date>
     </item>
     <item>
-      <title>Tempo Time Tracker - Wed Nov 25 01:39:17 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36447-tempo-time-tracker</link>
+      <title>IDE Connector for Tempo - Thu Nov 26 02:58:27 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36447-ide-connector-for-tempo</link>
       <description>Tracks the time you actively spend in the IDE and logs it to Tempo on Jira Cloud. Counts time only while you are using the IDE; idle time is never logged. Picks the...
 
 vendor: Octelys
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: com.octelys.plugins.tempo</description>
-      <pubDate>Wed, 25 Nov 2026 01:39:17 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36447-tempo-time-tracker</guid>
-      <dc:date>2026-11-25T01:39:17Z</dc:date>
+      <pubDate>Thu, 26 Nov 2026 02:58:27 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36447-ide-connector-for-tempo</guid>
+      <dc:date>2026-11-26T02:58:27Z</dc:date>
     </item>
     <item>
       <title>SensitiveData - Wed Nov 25 11:38:36 UTC 2026</title>
@@ -102,7 +102,7 @@ xmlId: com.octelys.plugins.tempo</description>
       <description>SensitiveData makes selected Kotlin values harder to extract from an Android APK. For example, annotate an API URL with @SensitiveData: @SensitiveData val apiUrl...
 
 vendor: Avicorp
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: ru.avicorp.sensitivedata.studio</description>
       <pubDate>Wed, 25 Nov 2026 11:38:36 GMT</pubDate>
@@ -115,7 +115,7 @@ xmlId: ru.avicorp.sensitivedata.studio</description>
       <description>See what a CloudWatch Logs Insights query will scan — and cost — before you run it, without leaving IntelliJ IDEA, PyCharm, WebStorm, GoLand or any JetBrains IDE...
 
 vendor: Innovito
-downloads: 0
+downloads: 2
 pricingModel: FREEMIUM
 xmlId: es.asiersanchez.cloudwatch-cost-guard</description>
       <pubDate>Tue, 24 Nov 2026 14:20:32 GMT</pubDate>
@@ -128,7 +128,7 @@ xmlId: es.asiersanchez.cloudwatch-cost-guard</description>
       <description>XSD viewer, XSD diagram and WSDL viewer. A Design tab next to the XML editor (Text | Design, below the editor) shows every XML Schema as a tree and a diagram, with all...
 
 vendor: Lakeside Digital
-downloads: 0
+downloads: 3
 pricingModel: FREEMIUM
 xmlId: com.lakesidedigital.xsd-viewer</description>
       <pubDate>Tue, 24 Nov 2026 16:29:14 GMT</pubDate>
@@ -141,7 +141,7 @@ xmlId: com.lakesidedigital.xsd-viewer</description>
       <description>Browse the Entire checkpoints behind your commits, the agent sessions behind each checkpoint, and the trails of a repository on entire.com, in the IDE where you read...
 
 vendor: Entire
-downloads: 2
+downloads: 4
 pricingModel: FREE
 xmlId: io.entire.explorer</description>
       <pubDate>Thu, 19 Nov 2026 03:08:30 GMT</pubDate>
@@ -154,7 +154,7 @@ xmlId: io.entire.explorer</description>
       <description>See which of your Gradle and Maven dependencies have a newer release, right in the build file, and update them with Alt+Enter. Version Pilot reads libs.versions.toml...
 
 vendor: Joe Simo
-downloads: 4
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: io.github.joesimo.versionpilot</description>
       <pubDate>Mon, 02 Nov 2026 19:20:29 GMT</pubDate>
@@ -167,7 +167,7 @@ xmlId: io.github.joesimo.versionpilot</description>
       <description>A fast, readable viewer for application logs. Open big logs without loading them into the editor, filter as you type, fold the noise out of stack traces and jump...
 
 vendor: Joe Simo
-downloads: 5
+downloads: 6
 pricingModel: FREEMIUM
 xmlId: io.github.joesimo.logdeck</description>
       <pubDate>Thu, 29 Oct 2026 03:52:46 GMT</pubDate>
@@ -180,7 +180,7 @@ xmlId: io.github.joesimo.logdeck</description>
       <description>Find out why your Azure Service Bus messages failed, and fix your dead-letter queues, without leaving your IDE. Works on Windows, macOS and Linux, in Rider, IntelliJ...
 
 vendor: Hived
-downloads: 2
+downloads: 4
 pricingModel: FREEMIUM
 xmlId: com.hived.postmaster.servicebus</description>
       <pubDate>Wed, 18 Nov 2026 16:51:37 GMT</pubDate>
@@ -193,7 +193,7 @@ xmlId: com.hived.postmaster.servicebus</description>
       <description>Search the live web and read any page without leaving the IDE. Search from the SpecStream tool window, or select text in the editor and choose Search the web with...
 
 vendor: SpecStream
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: ai.specstream</description>
       <pubDate>Sat, 21 Nov 2026 04:42:25 GMT</pubDate>
@@ -206,7 +206,7 @@ xmlId: ai.specstream</description>
       <description>Unofficial launcher for Antigravity CLI (agy). Launch agy inside JetBrains IDE's built-in Terminal and send file, line-range, or diagnostic references directly from...
 
 vendor: liliangan
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: com.github.liliangan.agylauncher</description>
       <pubDate>Wed, 25 Nov 2026 09:53:47 GMT</pubDate>
@@ -219,7 +219,7 @@ xmlId: com.github.liliangan.agylauncher</description>
       <description>Export every open query result tab at once, as one combined document saved to a file and copied to the clipboard. Handy when you run many queries in one console and...
 
 vendor: jjam
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: jaerim.exportallresults</description>
       <pubDate>Wed, 25 Nov 2026 07:47:46 GMT</pubDate>
@@ -232,7 +232,7 @@ xmlId: jaerim.exportallresults</description>
       <description>Early, partial Ukrainian translation of the IntelliJ Platform user interface. This version covers 22,743 of about 42,600 strings: many menu and action names, general...
 
 vendor: Trophy Apps
-downloads: 6
+downloads: 14
 pricingModel: PAID
 xmlId: com.trophyapps.languagepack.uk</description>
       <pubDate>Tue, 24 Nov 2026 21:20:42 GMT</pubDate>
@@ -245,7 +245,7 @@ xmlId: com.trophyapps.languagepack.uk</description>
       <description>Finds class descriptors in Kotlin strings and exact method calls in inline Kotlin Smali or .smali files. Find Usages links back to matching locations, and Go to...
 
 vendor: Morphe
-downloads: 9
+downloads: 16
 pricingModel: FREE
 xmlId: find-smali-usages</description>
       <pubDate>Tue, 24 Nov 2026 19:27:11 GMT</pubDate>
@@ -258,7 +258,7 @@ xmlId: find-smali-usages</description>
       <description>Catch mistakes in the files that steer AI coding agents before the agent quietly ignores them, and catch the API keys and risky settings in MCP configs before they...
 
 vendor: Joe Simo
-downloads: 8
+downloads: 15
 pricingModel: FREEMIUM
 xmlId: io.github.joesimo.agentlint</description>
       <pubDate>Tue, 10 Nov 2026 05:56:44 GMT</pubDate>
