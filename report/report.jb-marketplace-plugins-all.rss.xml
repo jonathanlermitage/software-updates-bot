@@ -6,12 +6,25 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>CSS to Source - Fri Nov 27 11:01:35 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/35386-css-to-source</link>
+      <description>The CSS to Source plugin connects Chrome DevTools to JetBrains IDEs and adds Open in IDE navigation to the Styles pane. The plugin can navigate from Chrome Devtools...
+
+vendor: JetBrains Experimental
+downloads: 3
+pricingModel: FREE
+xmlId: com.jetbrains.csstosource</description>
+      <pubDate>Fri, 27 Nov 2026 11:01:35 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/35386-css-to-source</guid>
+      <dc:date>2026-11-27T11:01:35Z</dc:date>
+    </item>
+    <item>
       <title>Project Tab Bar - Thu Nov 26 22:36:31 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36474-project-tab-bar</link>
       <description>Project Tab Bar adds a shared project tab strip to every open IntelliJ IDEA window. Click a tab to bring that project window to the front.
 
 vendor: AskMeAgain
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.askmeagain.projecttabbar</description>
       <pubDate>Thu, 26 Nov 2026 22:36:31 GMT</pubDate>
@@ -24,7 +37,7 @@ xmlId: io.github.askmeagain.projecttabbar</description>
       <description>BT Deploy is an IntelliJ IDEA plugin that uploads build artifacts to a BT Panel server in one click, then unzips and restarts the configured service.
 
 vendor: BT Deploy
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: com.mrmao14.btdeploy</description>
       <pubDate>Fri, 27 Nov 2026 01:13:48 GMT</pubDate>
@@ -37,7 +50,7 @@ xmlId: com.mrmao14.btdeploy</description>
       <description>LogLens Exception Magnifier turns exceptions buried in your Run/Debug console into clickable cards — one click jumps straight to the offending source line. Stop...
 
 vendor: LogLens Exception Magnifier
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.loglens.exceptionmagnifier</description>
       <pubDate>Thu, 26 Nov 2026 03:02:42 GMT</pubDate>
@@ -50,7 +63,7 @@ xmlId: com.loglens.exceptionmagnifier</description>
       <description>Threxo Zip adds Compress to ZIP and Extract Here actions to the IntelliJ IDEA project view context menu. Compress files or folders into a ZIP archive in the same...
 
 vendor: qujunxian
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.qujunxian.Threxo-Idea-Plugin</description>
       <pubDate>Thu, 26 Nov 2026 01:17:46 GMT</pubDate>
@@ -76,7 +89,7 @@ xmlId: io.github.alexandru.localaisecurity</description>
       <description>A quick, project-specific Markdown scratchpad that lives right inside your JetBrains IDE. Keep TODOs, debugging notes, snippets, links and half-formed ideas next to...
 
 vendor: Anton Petrov
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.antonpetrov83.blackboard</description>
       <pubDate>Wed, 25 Nov 2026 21:33:13 GMT</pubDate>
@@ -89,7 +102,7 @@ xmlId: io.github.antonpetrov83.blackboard</description>
       <description>An AI-powered draw.io diagramming agent for development: a built-in draw.io editor plus an AI chat panel that turns conversations into diagrams, reverse-engineers code...
 
 vendor: HarmonyAIDraw
-downloads: 7
+downloads: 13
 pricingModel: FREE
 xmlId: com.harmonyaidraw.deveco</description>
       <pubDate>Fri, 27 Nov 2026 01:58:51 GMT</pubDate>
@@ -102,7 +115,7 @@ xmlId: com.harmonyaidraw.deveco</description>
       <description>Find secrets, vulnerable dependencies and code security issues beside your code. Review priority, recommended dependency versions and available fixes from Heeler. Open...
 
 vendor: Heeler
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: com.heeler.ide</description>
       <pubDate>Thu, 26 Nov 2026 12:53:03 GMT</pubDate>
@@ -115,7 +128,7 @@ xmlId: com.heeler.ide</description>
       <description>Run Apify web scrapers in your IDE and open the results as JSON or CSV. Pick one of 250+ ready-made Cliqto Media Actors: YouTube transcripts, Reddit, Google Trends...
 
 vendor: Cliqto Media
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.cliqtomedia.run-apify-actors</description>
       <pubDate>Thu, 26 Nov 2026 06:16:31 GMT</pubDate>
@@ -128,7 +141,7 @@ xmlId: com.cliqtomedia.run-apify-actors</description>
       <description>Fixes colour fringes around text on BGR monitors and on mixed RGB&amp;nbsp;+&amp;nbsp;BGR setups. Subpixel (ClearType-style) antialiasing uses the right subpixel order for...
 
 vendor: Macsimka
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: io.github.macsimka.lcdsubpixel</description>
       <pubDate>Thu, 26 Nov 2026 15:08:22 GMT</pubDate>
@@ -141,7 +154,7 @@ xmlId: io.github.macsimka.lcdsubpixel</description>
       <description>Kafka UI Debugger with Protobuf (.proto &amp;amp; .desc) and Avro (.avsc) visualization, schemaless wire decoding, Confluent Schema Registry header stripping, live...
 
 vendor: Edward
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.edward.kafka-ui-debugger</description>
       <pubDate>Thu, 26 Nov 2026 03:15:30 GMT</pubDate>
@@ -154,7 +167,7 @@ xmlId: dev.edward.kafka-ui-debugger</description>
       <description>Runs your unit tests in the background after every Git commit and tells you when something breaks, without getting in your way. Commit and keep working. After a...
 
 vendor: Fabiano Augusto de Mello
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.fabianomello.testsentinel</description>
       <pubDate>Thu, 26 Nov 2026 00:50:06 GMT</pubDate>
@@ -167,7 +180,7 @@ xmlId: com.fabianomello.testsentinel</description>
       <description>Edit, run, and debug Ferret Query Language (.fql) files in IntelliJ IDEA and GoLand. The bundled Ferret daemon provides language assistance, formatting, and execution...
 
 vendor: Ferret
-downloads: 0
+downloads: 2
 pricingModel: FREE
 xmlId: org.ferretlang.jetbrains</description>
       <pubDate>Thu, 26 Nov 2026 19:11:00 GMT</pubDate>
@@ -180,7 +193,7 @@ xmlId: org.ferretlang.jetbrains</description>
       <description>Unofficial plugin, in active early development. Expect bugs and breaking changes between versions. This plugin is not affiliated with or endorsed by the T3 Code...
 
 vendor: BIcF
-downloads: 5
+downloads: 6
 pricingModel: FREE
 xmlId: com.bicf.t3plugin</description>
       <pubDate>Sat, 21 Nov 2026 00:23:44 GMT</pubDate>
@@ -193,7 +206,7 @@ xmlId: com.bicf.t3plugin</description>
       <description>PuLing SSH — Built-in SSH Terminal &amp;amp; SFTP File Manager Connect to remote servers without leaving the IDE: a full-featured terminal for commands, an SFTP panel for...
 
 vendor: Selionce
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.puling.ssh</description>
       <pubDate>Thu, 26 Nov 2026 01:43:10 GMT</pubDate>
@@ -206,7 +219,7 @@ xmlId: com.puling.ssh</description>
       <description>Learn Vim in your IDE: short lessons, a two-minute daily review, and a coach for IdeaVim, from VimNinja. The course in a tab: short lessons with a real Vim editor to...
 
 vendor: VimNinja
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: com.vimninja.jetbrains</description>
       <pubDate>Wed, 25 Nov 2026 09:03:53 GMT</pubDate>
@@ -219,7 +232,7 @@ xmlId: com.vimninja.jetbrains</description>
       <description>Reverse engineering, model visualization and inspection for EF Core in JetBrains Rider - an unofficial port of the EF Core Power Tools Visual Studio extension by Erik...
 
 vendor: Ted Hyde
-downloads: 2
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.mrsuttonmann.efcorepowertools</description>
       <pubDate>Tue, 24 Nov 2026 15:33:02 GMT</pubDate>
@@ -232,7 +245,7 @@ xmlId: io.github.mrsuttonmann.efcorepowertools</description>
       <description>Explain2Me lets an AI assistant (e.g. Claude Code) drive the IDE debugger to explain code: set breakpoints, step, inspect variables and narrate what is happening...
 
 vendor: JamesArthurHolland
-downloads: 0
+downloads: 1
 pricingModel: FREE
 xmlId: dev.e2m.explain2me</description>
       <pubDate>Wed, 25 Nov 2026 16:41:19 GMT</pubDate>
@@ -245,25 +258,12 @@ xmlId: dev.e2m.explain2me</description>
       <description>Open WinForms forms from Rider in FinallyForms, a standalone visual designer for Windows Forms: right-click a form in the Solution Explorer, choose Open in...
 
 vendor: FinallyForms
-downloads: 1
+downloads: 2
 pricingModel: FREE
 xmlId: dev.finallyforms.launcher</description>
       <pubDate>Mon, 23 Nov 2026 10:09:36 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36401-finallyforms</guid>
       <dc:date>2026-11-23T10:09:36Z</dc:date>
-    </item>
-    <item>
-      <title>clj-kondo-fix - Wed Nov 25 21:43:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36473-clj-kondo-fix</link>
-      <description>Fixes Clojure code with clj-kondo-fix, which runs the clj-kondo linter and automatically corrects the findings it knows how to fix, such as unused requires, redundant...
-
-vendor: sirmspencer
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.sirmspencer.clj-kondo-fix</description>
-      <pubDate>Wed, 25 Nov 2026 21:43:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36473-clj-kondo-fix</guid>
-      <dc:date>2026-11-25T21:43:51Z</dc:date>
     </item>
   </channel>
 </rss>
