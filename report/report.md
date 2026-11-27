@@ -4,7 +4,7 @@
 |![logo](../media/logo/7zip.png) 7-Zip|26.06|[www.7-zip.org](https://www.7-zip.org)|Wed Nov 11 14:18:37 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.33.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 12:17:48 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.33.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 12:17:48 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Nov 09 12:16:40 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.33.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 27 23:48:24 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 linux x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:06 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 01:29:16 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 12:17:49 UTC 2026|
@@ -19,7 +19,7 @@
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:45 UTC 2026|
 |![logo](../media/logo/gpg4win.png) GPG4Win|5.1.2 (2026-11-20)|[www.gpg4win.org](https://www.gpg4win.org/get-gpg4win.html)|Fri Nov 20 21:35:03 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.4|[golang.org](https://golang.org/dl/)|Tue Nov 10 17:39:50 UTC 2026|
-|![logo](../media/logo/gradle.png) Gradle|9.9.2|[gradle.org](https://gradle.org/releases)|Fri Nov 20 01:29:26 UTC 2026|
+|![logo](../media/logo/gradle.png) Gradle|9.9.3|[gradle.org](https://gradle.org/releases)|Fri Nov 27 23:48:36 UTC 2026|
 |![logo](../media/logo/inkscape.png) Inkscape|1.4.4|[inkscape.org](https://inkscape.org)|Wed May 06 20:28:40 UTC 2026|
 |![logo](../media/logo/ijeap.png) IntelliJ IDEA EAP|2026.3.1 (263.8311.30) ~ 2026-11-20|[www.jetbrains.com](https://www.jetbrains.com/idea/nextversion/)|Fri Nov 20 21:36:31 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.3.0.1 (263.7307.353) ~ 2026-11-24|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Nov 24 19:11:56 UTC 2026|

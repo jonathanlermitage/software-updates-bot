@@ -6,6 +6,84 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Github-san tools - Fri Nov 27 09:01:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36520-github-san-tools</link>
+      <description>Opens files and directories inside Git submodules, worktrees, and multi-root repositories on GitHub directly from JetBrains IDEs, and launches Sanskrit-aware diffs...
+
+vendor: Sanskrit coders
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.sanskritcoders.github-san</description>
+      <pubDate>Fri, 27 Nov 2026 09:01:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36520-github-san-tools</guid>
+      <dc:date>2026-11-27T09:01:59Z</dc:date>
+    </item>
+    <item>
+      <title>Chroma Brackets - Fri Nov 27 12:49:26 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36532-chroma-brackets</link>
+      <description>Chroma Brackets colors (), [], {}, and &amp;lt;&amp;gt; by nesting depth in PhpStorm. The opening and closing characters of a pair share a color, so {{{}}} uses three colors...
+
+vendor: avatec
+downloads: 0
+pricingModel: FREE
+xmlId: pl.avatec.chromabrackets</description>
+      <pubDate>Fri, 27 Nov 2026 12:49:26 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36532-chroma-brackets</guid>
+      <dc:date>2026-11-27T12:49:26Z</dc:date>
+    </item>
+    <item>
+      <title>Architector - Visual PlantUML, C4 &amp; Structurizr Editor - Fri Nov 27 12:36:59 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36531-architector--visual-plantuml-c4--structurizr-editor</link>
+      <description>Software architecture diagrams like in a drawing tool: draw, move and edit PlantUML, C4 and Structurizr diagrams, and the text follows. A .puml file opens with the...
+
+vendor: Mindconnect
+downloads: 0
+pricingModel: FREE
+xmlId: ai.mindconnect.architector</description>
+      <pubDate>Fri, 27 Nov 2026 12:36:59 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36531-architector--visual-plantuml-c4--structurizr-editor</guid>
+      <dc:date>2026-11-27T12:36:59Z</dc:date>
+    </item>
+    <item>
+      <title>Lye - Wed Nov 25 21:26:29 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36475-lye</link>
+      <description>LuaJIT-first language support powered by the lye language server. Lua file type, syntax highlighting and New → Lua File action Language server features (completion...
+
+vendor: Asa L.
+downloads: 1
+pricingModel: FREE
+xmlId: com.lasajar.lye</description>
+      <pubDate>Wed, 25 Nov 2026 21:26:29 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36475-lye</guid>
+      <dc:date>2026-11-25T21:26:29Z</dc:date>
+    </item>
+    <item>
+      <title>JMeter Test Plan Editor - Fri Nov 27 09:28:41 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36526-jmeter-test-plan-editor</link>
+      <description>JMeter .jmx editor, runner, .jtl reports in your JetBrains IDE: read, edit, run and evaluate Apache JMeter test plans without the JMeter GUI and without setup...
+
+vendor: Lakeside Digital
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.lakesidedigital.jmeter-test-plan-editor</description>
+      <pubDate>Fri, 27 Nov 2026 09:28:41 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36526-jmeter-test-plan-editor</guid>
+      <dc:date>2026-11-27T09:28:41Z</dc:date>
+    </item>
+    <item>
+      <title>JVM Memory Monitor: Heap &amp; GC - Fri Nov 27 13:23:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36533-jvm-memory-monitor-heap--gc</link>
+      <description>JVM memory monitor: live heap, GC, leaks and threads in any JetBrains IDE: every Run and Debug opens a monitor of your application's heap, memory pools and garbage...
+
+vendor: Lakeside Digital
+downloads: 0
+pricingModel: FREEMIUM
+xmlId: com.lakesidedigital.jvm-memory-monitor</description>
+      <pubDate>Fri, 27 Nov 2026 13:23:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36533-jvm-memory-monitor-heap--gc</guid>
+      <dc:date>2026-11-27T13:23:00Z</dc:date>
+    </item>
+    <item>
       <title>CSS to Source - Fri Nov 27 11:01:35 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/35386-css-to-source</link>
       <description>The CSS to Source plugin connects Chrome DevTools to JetBrains IDEs and adds Open in IDE navigation to the Styles pane. The plugin can navigate from Chrome Devtools...
@@ -186,84 +264,6 @@ xmlId: org.ferretlang.jetbrains</description>
       <pubDate>Thu, 26 Nov 2026 19:11:00 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36512-ferret</guid>
       <dc:date>2026-11-26T19:11:00Z</dc:date>
-    </item>
-    <item>
-      <title>T3 Code Host (Unofficial) - Sat Nov 21 00:23:44 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36283-t3-code-host-unofficial-</link>
-      <description>Unofficial plugin, in active early development. Expect bugs and breaking changes between versions. This plugin is not affiliated with or endorsed by the T3 Code...
-
-vendor: BIcF
-downloads: 6
-pricingModel: FREE
-xmlId: com.bicf.t3plugin</description>
-      <pubDate>Sat, 21 Nov 2026 00:23:44 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36283-t3-code-host-unofficial-</guid>
-      <dc:date>2026-11-21T00:23:44Z</dc:date>
-    </item>
-    <item>
-      <title>PuLing SSH - Thu Nov 26 01:43:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36460-puling-ssh</link>
-      <description>PuLing SSH — Built-in SSH Terminal &amp;amp; SFTP File Manager Connect to remote servers without leaving the IDE: a full-featured terminal for commands, an SFTP panel for...
-
-vendor: Selionce
-downloads: 3
-pricingModel: FREE
-xmlId: com.puling.ssh</description>
-      <pubDate>Thu, 26 Nov 2026 01:43:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36460-puling-ssh</guid>
-      <dc:date>2026-11-26T01:43:10Z</dc:date>
-    </item>
-    <item>
-      <title>VimNinja: Learn Vim - Wed Nov 25 09:03:53 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36463-vimninja-learn-vim</link>
-      <description>Learn Vim in your IDE: short lessons, a two-minute daily review, and a coach for IdeaVim, from VimNinja. The course in a tab: short lessons with a real Vim editor to...
-
-vendor: VimNinja
-downloads: 1
-pricingModel: FREE
-xmlId: com.vimninja.jetbrains</description>
-      <pubDate>Wed, 25 Nov 2026 09:03:53 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36463-vimninja-learn-vim</guid>
-      <dc:date>2026-11-25T09:03:53Z</dc:date>
-    </item>
-    <item>
-      <title>Power Tools for EF Core - Tue Nov 24 15:33:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36432-power-tools-for-ef-core</link>
-      <description>Reverse engineering, model visualization and inspection for EF Core in JetBrains Rider - an unofficial port of the EF Core Power Tools Visual Studio extension by Erik...
-
-vendor: Ted Hyde
-downloads: 3
-pricingModel: FREE
-xmlId: io.github.mrsuttonmann.efcorepowertools</description>
-      <pubDate>Tue, 24 Nov 2026 15:33:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36432-power-tools-for-ef-core</guid>
-      <dc:date>2026-11-24T15:33:02Z</dc:date>
-    </item>
-    <item>
-      <title>Explain2Me - Wed Nov 25 16:41:19 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36469-explain2me</link>
-      <description>Explain2Me lets an AI assistant (e.g. Claude Code) drive the IDE debugger to explain code: set breakpoints, step, inspect variables and narrate what is happening...
-
-vendor: JamesArthurHolland
-downloads: 1
-pricingModel: FREE
-xmlId: dev.e2m.explain2me</description>
-      <pubDate>Wed, 25 Nov 2026 16:41:19 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36469-explain2me</guid>
-      <dc:date>2026-11-25T16:41:19Z</dc:date>
-    </item>
-    <item>
-      <title>FinallyForms - Mon Nov 23 10:09:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36401-finallyforms</link>
-      <description>Open WinForms forms from Rider in FinallyForms, a standalone visual designer for Windows Forms: right-click a form in the Solution Explorer, choose Open in...
-
-vendor: FinallyForms
-downloads: 2
-pricingModel: FREE
-xmlId: dev.finallyforms.launcher</description>
-      <pubDate>Mon, 23 Nov 2026 10:09:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36401-finallyforms</guid>
-      <dc:date>2026-11-23T10:09:36Z</dc:date>
     </item>
   </channel>
 </rss>

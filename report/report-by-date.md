@@ -1,5 +1,7 @@
 |Software|Version|Website|Check date|
 |---|---|---|---|
+|![logo](../media/logo/gradle.png) Gradle|9.9.3|[gradle.org](https://gradle.org/releases)|Fri Nov 27 23:48:36 UTC 2026|
+|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.33.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 27 23:48:24 UTC 2026|
 |![logo](../media/logo/nodejs.png) NodeJS Current|27.0.0-alpha.0.2.0|[nodejs.org](https://nodejs.org)|Thu Nov 26 17:57:43 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 mac x64|jdk8u514-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 25 23:51:53 UTC 2026|
 |![logo](../media/logo/ij.png) IntelliJ IDEA|2026.3.0.1 (263.7307.353) ~ 2026-11-24|[www.jetbrains.com](https://www.jetbrains.com/idea/)|Tue Nov 24 19:11:56 UTC 2026|
@@ -14,7 +16,6 @@
 |![logo](../media/logo/java.png) Adoptium jdk17 windows x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 12:17:49 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 linux x64|jdk-11.0.33.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 12:17:48 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk11 mac x64|jdk-11.0.33.1+1|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 12:17:48 UTC 2026|
-|![logo](../media/logo/gradle.png) Gradle|9.9.2|[gradle.org](https://gradle.org/releases)|Fri Nov 20 01:29:26 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 linux x64|jdk8u514-b01|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 01:29:20 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk17 mac x64|jdk-17.0.21.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Fri Nov 20 01:29:16 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk25 linux x64|jdk-25.0.5.1+2|[adoptium.net](https://adoptium.net/temurin/releases/)|Wed Nov 18 22:45:08 UTC 2026|
@@ -31,7 +32,6 @@
 |![logo](../media/logo/7zip.png) 7-Zip|26.06|[www.7-zip.org](https://www.7-zip.org)|Wed Nov 11 14:18:37 UTC 2026|
 |![logo](../media/logo/go.png) Go|go1.27.4|[golang.org](https://golang.org/dl/)|Tue Nov 10 17:39:50 UTC 2026|
 |![logo](../media/logo/veracrypt.png) VeraCrypt|1.26.31|[www.veracrypt.fr](https://www.veracrypt.fr/en/Downloads.html)|Mon Nov 09 15:05:16 UTC 2026|
-|![logo](../media/logo/java.png) Adoptium jdk11 windows x64|jdk-11.0.33+10|[adoptium.net](https://adoptium.net/temurin/releases/)|Mon Nov 09 12:16:40 UTC 2026|
 |![logo](../media/logo/klite.png) K-Lite Codec Pack Basic|20.1.0 to 20.2.0 ~ 2026-11-06|[www.codecguide.com](https://www.codecguide.com/download_k-lite_codec_pack_basic.htm)|Fri Nov 06 18:40:27 UTC 2026|
 |![logo](../media/logo/java.png) Adoptium jdk8 windows x64|jdk8u512-b09|[adoptium.net](https://adoptium.net/temurin/releases/)|Thu Nov 05 19:11:45 UTC 2026|
 |![logo](../media/logo/python.png) Python 3 windows| 3.15.2|[www.python.org](https://www.python.org/downloads/windows/)|Mon Oct 26 09:28:15 UTC 2026|
