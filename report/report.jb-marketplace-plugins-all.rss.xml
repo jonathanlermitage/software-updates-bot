@@ -6,264 +6,264 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
-      <title>Converter Studio - Thu Nov 26 14:45:09 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36416-converter-studio</link>
-      <description>Convert files from the Project view or an editor tab: images, video, audio, documents, slides, spreadsheets, data and subtitles. Conversions run on your computer...
+      <title>Project Tab Bar - Thu Nov 26 22:36:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36474-project-tab-bar</link>
+      <description>Project Tab Bar adds a shared project tab strip to every open IntelliJ IDEA window. Click a tab to bring that project window to the front.
 
-vendor: Converter Studio
-downloads: 1
-pricingModel: FREE
-xmlId: studio.converter.ide</description>
-      <pubDate>Thu, 26 Nov 2026 14:45:09 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36416-converter-studio</guid>
-      <dc:date>2026-11-26T14:45:09Z</dc:date>
-    </item>
-    <item>
-      <title>Hide Comment Lines - Wed Nov 25 18:42:54 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36470-hide-comment-lines</link>
-      <description>Hide comment-only lines while reading code. The comments stay in the source file, and inline comments stay visible. Use View → Hide Comment Lines to switch between...
-
-vendor: gncdev
+vendor: AskMeAgain
 downloads: 0
 pricingModel: FREE
-xmlId: dev.hidecommentlines</description>
-      <pubDate>Wed, 25 Nov 2026 18:42:54 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36470-hide-comment-lines</guid>
-      <dc:date>2026-11-25T18:42:54Z</dc:date>
+xmlId: io.github.askmeagain.projecttabbar</description>
+      <pubDate>Thu, 26 Nov 2026 22:36:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36474-project-tab-bar</guid>
+      <dc:date>2026-11-26T22:36:31Z</dc:date>
     </item>
     <item>
-      <title>Cloud Toolkit - ECS Deploy - Thu Nov 26 03:24:42 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36026-cloud-toolkit--ecs-deploy</link>
-      <description>Cloud Toolkit ECS Deploy builds a Java artifact in IntelliJ IDEA, uploads it to an ECS instance over SFTP, restarts the service over SSH, and streams the deployment...
+      <title>BT Deploy - Fri Nov 27 01:13:48 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36425-bt-deploy</link>
+      <description>BT Deploy is an IntelliJ IDEA plugin that uploads build artifacts to a BT Panel server in one click, then unzips and restarts the configured service.
 
-vendor: wang tc
-downloads: 1
+vendor: BT Deploy
+downloads: 2
 pricingModel: FREE
-xmlId: com.cloudtoolkit.ecsdeploy</description>
-      <pubDate>Thu, 26 Nov 2026 03:24:42 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36026-cloud-toolkit--ecs-deploy</guid>
-      <dc:date>2026-11-26T03:24:42Z</dc:date>
+xmlId: com.mrmao14.btdeploy</description>
+      <pubDate>Fri, 27 Nov 2026 01:13:48 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36425-bt-deploy</guid>
+      <dc:date>2026-11-27T01:13:48Z</dc:date>
     </item>
     <item>
-      <title>FastMultiversion - Thu Nov 26 08:04:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36294-fastmultiversion</link>
-      <description>Support for Minecraft mods built for several Minecraft versions from one source tree with Mc.is("range") and @Mc.Is("range"): reports, as you type, Minecraft API used...
+      <title>LogLens Exception Magnifier - Thu Nov 26 03:02:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36482-loglens-exception-magnifier</link>
+      <description>LogLens Exception Magnifier turns exceptions buried in your Run/Debug console into clickable cards — one click jumps straight to the offending source line. Stop...
 
-vendor: Gahaha
-downloads: 1
-pricingModel: FREE
-xmlId: cc.gahaha.fastmultiversion</description>
-      <pubDate>Thu, 26 Nov 2026 08:04:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36294-fastmultiversion</guid>
-      <dc:date>2026-11-26T08:04:51Z</dc:date>
-    </item>
-    <item>
-      <title>AutoJs6 Official - Thu Nov 26 08:04:07 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36490-autojs6-official</link>
-      <description>Develop AutoJs6 scripts in IntelliJ-based IDEs: connect Android devices running AutoJs6, run and stop scripts, view device logs, save files, sync projects and manage...
-
-vendor: SuperMonster003
+vendor: LogLens Exception Magnifier
 downloads: 0
 pricingModel: FREE
-xmlId: io.github.supermonster003.autojs6.jetbrains</description>
-      <pubDate>Thu, 26 Nov 2026 08:04:07 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36490-autojs6-official</guid>
-      <dc:date>2026-11-26T08:04:07Z</dc:date>
+xmlId: com.loglens.exceptionmagnifier</description>
+      <pubDate>Thu, 26 Nov 2026 03:02:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36482-loglens-exception-magnifier</guid>
+      <dc:date>2026-11-26T03:02:42Z</dc:date>
     </item>
     <item>
-      <title>ij-format - Thu Nov 26 14:55:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36481-ij-format</link>
-      <description>Format selected lines of Java or Kotlin from an MCP client using IntelliJ IDEA's native formatter. Use the current IDE-wide code style, including while a project is...
+      <title>Threxo Zip - Thu Nov 26 01:17:46 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36455-threxo-zip</link>
+      <description>Threxo Zip adds Compress to ZIP and Extract Here actions to the IntelliJ IDEA project view context menu. Compress files or folders into a ZIP archive in the same...
 
-vendor: yunie
-downloads: 0
-pricingModel: FREE
-xmlId: org.ijformat.mcp</description>
-      <pubDate>Thu, 26 Nov 2026 14:55:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36481-ij-format</guid>
-      <dc:date>2026-11-26T14:55:03Z</dc:date>
-    </item>
-    <item>
-      <title>SQL Callsite Console - Thu Nov 26 03:23:39 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36484-sql-callsite-console</link>
-      <description>Automatically print JDBC SQL with bound parameter values, execution time, and a clickable source line when running or debugging a supported local Java or Spring Boot...
-
-vendor: SQL Callsite Console
-downloads: 0
-pricingModel: FREE
-xmlId: io.github.sqlcallsite.console</description>
-      <pubDate>Thu, 26 Nov 2026 03:23:39 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36484-sql-callsite-console</guid>
-      <dc:date>2026-11-26T03:23:39Z</dc:date>
-    </item>
-    <item>
-      <title>Se7eni Novel Reader - Thu Nov 26 01:24:10 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36457-se7eni-novel-reader</link>
-      <description>Read novels right inside your IDE: a sidebar reader for local txt and web novels, with chapter tree, reading progress memory, and a one-key boss-key disguise. Built...
-
-vendor: ideanovel
+vendor: qujunxian
 downloads: 1
 pricingModel: FREE
-xmlId: com.github.ideanovel.reader</description>
-      <pubDate>Thu, 26 Nov 2026 01:24:10 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36457-se7eni-novel-reader</guid>
-      <dc:date>2026-11-26T01:24:10Z</dc:date>
+xmlId: com.qujunxian.Threxo-Idea-Plugin</description>
+      <pubDate>Thu, 26 Nov 2026 01:17:46 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36455-threxo-zip</guid>
+      <dc:date>2026-11-26T01:17:46Z</dc:date>
     </item>
     <item>
-      <title>Dev Services Status - Thu Nov 26 15:56:02 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36449-dev-services-status</link>
-      <description>See the live status of the services your project depends on — GitHub, Vercel, OpenAI, Anthropic, Cloudflare, Supabase, Stripe and 200+ more — and get notified when...
+      <title>Local AI Security Analyzer - Thu Nov 26 13:11:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36507-local-ai-security-analyzer</link>
+      <description>Local AI Security Analyzer is a privacy-first, multi-language static security analysis and automated refactoring plugin powered by local LLMs via Ollama. Key Features...
+
+vendor: Alexandru-Vlad
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.alexandru.localaisecurity</description>
+      <pubDate>Thu, 26 Nov 2026 13:11:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36507-local-ai-security-analyzer</guid>
+      <dc:date>2026-11-26T13:11:03Z</dc:date>
+    </item>
+    <item>
+      <title>Blackboard - Wed Nov 25 21:33:13 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36472-blackboard</link>
+      <description>A quick, project-specific Markdown scratchpad that lives right inside your JetBrains IDE. Keep TODOs, debugging notes, snippets, links and half-formed ideas next to...
+
+vendor: Anton Petrov
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.antonpetrov83.blackboard</description>
+      <pubDate>Wed, 25 Nov 2026 21:33:13 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36472-blackboard</guid>
+      <dc:date>2026-11-25T21:33:13Z</dc:date>
+    </item>
+    <item>
+      <title>HarmonyAIDraw - Fri Nov 27 01:58:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36240-harmonyaidraw</link>
+      <description>An AI-powered draw.io diagramming agent for development: a built-in draw.io editor plus an AI chat panel that turns conversations into diagrams, reverse-engineers code...
+
+vendor: HarmonyAIDraw
+downloads: 7
+pricingModel: FREE
+xmlId: com.harmonyaidraw.deveco</description>
+      <pubDate>Fri, 27 Nov 2026 01:58:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36240-harmonyaidraw</guid>
+      <dc:date>2026-11-27T01:58:51Z</dc:date>
+    </item>
+    <item>
+      <title>Heeler - Thu Nov 26 12:53:03 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36442-heeler</link>
+      <description>Find secrets, vulnerable dependencies and code security issues beside your code. Review priority, recommended dependency versions and available fixes from Heeler. Open...
+
+vendor: Heeler
+downloads: 1
+pricingModel: FREE
+xmlId: com.heeler.ide</description>
+      <pubDate>Thu, 26 Nov 2026 12:53:03 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36442-heeler</guid>
+      <dc:date>2026-11-26T12:53:03Z</dc:date>
+    </item>
+    <item>
+      <title>Cliqto Web Scrapers - Thu Nov 26 06:16:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36489-cliqto-web-scrapers</link>
+      <description>Run Apify web scrapers in your IDE and open the results as JSON or CSV. Pick one of 250+ ready-made Cliqto Media Actors: YouTube transcripts, Reddit, Google Trends...
+
+vendor: Cliqto Media
+downloads: 0
+pricingModel: FREE
+xmlId: com.cliqtomedia.run-apify-actors</description>
+      <pubDate>Thu, 26 Nov 2026 06:16:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36489-cliqto-web-scrapers</guid>
+      <dc:date>2026-11-26T06:16:31Z</dc:date>
+    </item>
+    <item>
+      <title>LCD Subpixel Order (RGB/BGR per Monitor) - Thu Nov 26 15:08:22 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36509-lcd-subpixel-order-rgb-bgr-per-monitor-</link>
+      <description>Fixes colour fringes around text on BGR monitors and on mixed RGB&amp;nbsp;+&amp;nbsp;BGR setups. Subpixel (ClearType-style) antialiasing uses the right subpixel order for...
+
+vendor: Macsimka
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.macsimka.lcdsubpixel</description>
+      <pubDate>Thu, 26 Nov 2026 15:08:22 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36509-lcd-subpixel-order-rgb-bgr-per-monitor-</guid>
+      <dc:date>2026-11-26T15:08:22Z</dc:date>
+    </item>
+    <item>
+      <title>Kafka UI Debugger - Thu Nov 26 03:15:30 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36483-kafka-ui-debugger</link>
+      <description>Kafka UI Debugger with Protobuf (.proto &amp;amp; .desc) and Avro (.avsc) visualization, schemaless wire decoding, Confluent Schema Registry header stripping, live...
+
+vendor: Edward
+downloads: 0
+pricingModel: FREE
+xmlId: dev.edward.kafka-ui-debugger</description>
+      <pubDate>Thu, 26 Nov 2026 03:15:30 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36483-kafka-ui-debugger</guid>
+      <dc:date>2026-11-26T03:15:30Z</dc:date>
+    </item>
+    <item>
+      <title>Test Sentinel - Thu Nov 26 00:50:06 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36479-test-sentinel</link>
+      <description>Runs your unit tests in the background after every Git commit and tells you when something breaks, without getting in your way. Commit and keep working. After a...
 
 vendor: Fabiano Augusto de Mello
-downloads: 2
+downloads: 0
 pricingModel: FREE
-xmlId: com.fabianomello.devservicesstatus</description>
-      <pubDate>Thu, 26 Nov 2026 15:56:02 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36449-dev-services-status</guid>
-      <dc:date>2026-11-26T15:56:02Z</dc:date>
+xmlId: com.fabianomello.testsentinel</description>
+      <pubDate>Thu, 26 Nov 2026 00:50:06 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36479-test-sentinel</guid>
+      <dc:date>2026-11-26T00:50:06Z</dc:date>
     </item>
     <item>
-      <title>File Compressor - Tue Nov 24 16:52:08 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36440-file-compressor</link>
-      <description>Pack selected files and folders into a ZIP archive without leaving the IDE. Select one or more files or folders in the Project view, then choose Compress to ZIP. The...
+      <title>Ferret - Thu Nov 26 19:11:00 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36512-ferret</link>
+      <description>Edit, run, and debug Ferret Query Language (.fql) files in IntelliJ IDEA and GoLand. The bundled Ferret daemon provides language assistance, formatting, and execution...
 
-vendor: File Compressor
-downloads: 2
+vendor: Ferret
+downloads: 0
 pricingModel: FREE
-xmlId: lrong.file-compressor</description>
-      <pubDate>Tue, 24 Nov 2026 16:52:08 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36440-file-compressor</guid>
-      <dc:date>2026-11-24T16:52:08Z</dc:date>
+xmlId: org.ferretlang.jetbrains</description>
+      <pubDate>Thu, 26 Nov 2026 19:11:00 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36512-ferret</guid>
+      <dc:date>2026-11-26T19:11:00Z</dc:date>
     </item>
     <item>
-      <title>arktype.io - Wed Nov 25 07:04:43 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36458-arktype-io</link>
-      <description>ArkType syntax highlighting and inline errors, matching the VS Code extension: highlighting for strings in ArkType definitions, in TypeScript, JavaScript, Vue, Svelte...
+      <title>T3 Code Host (Unofficial) - Sat Nov 21 00:23:44 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36283-t3-code-host-unofficial-</link>
+      <description>Unofficial plugin, in active early development. Expect bugs and breaking changes between versions. This plugin is not affiliated with or endorsed by the T3 Code...
 
-vendor: ArkType
-downloads: 2
-pricingModel: FREE
-xmlId: io.arktype.arktype</description>
-      <pubDate>Wed, 25 Nov 2026 07:04:43 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36458-arktype-io</guid>
-      <dc:date>2026-11-25T07:04:43Z</dc:date>
-    </item>
-    <item>
-      <title>Catalog Browser for Apache Polaris - Tue Nov 24 15:54:58 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36438-catalog-browser-for-apache-polaris</link>
-      <description>Browse Apache Polaris catalogs from the IDE: catalogs, nested namespaces, Iceberg tables and views. Table details: schema with field ids and defaults, partition spec...
-
-vendor: Aleksei Samodurov
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.alexey_samodurov.polaris</description>
-      <pubDate>Tue, 24 Nov 2026 15:54:58 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36438-catalog-browser-for-apache-polaris</guid>
-      <dc:date>2026-11-24T15:54:58Z</dc:date>
-    </item>
-    <item>
-      <title>Flow Tree - Thu Nov 26 15:23:41 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36434-flow-tree</link>
-      <description>See where a method or endpoint can go before you read a line of it. Flow Tree follows the code from a starting point and shows the conditions it branches on and the...
-
-vendor: Ares ES91
-downloads: 3
-pricingModel: FREE
-xmlId: dev.flowtree</description>
-      <pubDate>Thu, 26 Nov 2026 15:23:41 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36434-flow-tree</guid>
-      <dc:date>2026-11-26T15:23:41Z</dc:date>
-    </item>
-    <item>
-      <title>IDE Connector for Tempo - Thu Nov 26 02:58:27 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36447-ide-connector-for-tempo</link>
-      <description>Tracks the time you actively spend in the IDE and logs it to Tempo on Jira Cloud. Counts time only while you are using the IDE; idle time is never logged. Picks the...
-
-vendor: Octelys
-downloads: 2
-pricingModel: FREE
-xmlId: com.octelys.plugins.tempo</description>
-      <pubDate>Thu, 26 Nov 2026 02:58:27 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36447-ide-connector-for-tempo</guid>
-      <dc:date>2026-11-26T02:58:27Z</dc:date>
-    </item>
-    <item>
-      <title>SensitiveData - Wed Nov 25 11:38:36 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36466-sensitivedata</link>
-      <description>SensitiveData makes selected Kotlin values harder to extract from an Android APK. For example, annotate an API URL with @SensitiveData: @SensitiveData val apiUrl...
-
-vendor: Avicorp
-downloads: 1
-pricingModel: FREE
-xmlId: ru.avicorp.sensitivedata.studio</description>
-      <pubDate>Wed, 25 Nov 2026 11:38:36 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36466-sensitivedata</guid>
-      <dc:date>2026-11-25T11:38:36Z</dc:date>
-    </item>
-    <item>
-      <title>CloudWatch Logs Insights Cost Guard - Tue Nov 24 14:20:32 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36436-cloudwatch-logs-insights-cost-guard</link>
-      <description>See what a CloudWatch Logs Insights query will scan — and cost — before you run it, without leaving IntelliJ IDEA, PyCharm, WebStorm, GoLand or any JetBrains IDE...
-
-vendor: Innovito
-downloads: 2
-pricingModel: FREEMIUM
-xmlId: es.asiersanchez.cloudwatch-cost-guard</description>
-      <pubDate>Tue, 24 Nov 2026 14:20:32 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36436-cloudwatch-logs-insights-cost-guard</guid>
-      <dc:date>2026-11-24T14:20:32Z</dc:date>
-    </item>
-    <item>
-      <title>XSD Viewer &amp; Diagram - Tue Nov 24 16:29:14 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36439-xsd-viewer--diagram</link>
-      <description>XSD viewer, XSD diagram and WSDL viewer. A Design tab next to the XML editor (Text | Design, below the editor) shows every XML Schema as a tree and a diagram, with all...
-
-vendor: Lakeside Digital
-downloads: 3
-pricingModel: FREEMIUM
-xmlId: com.lakesidedigital.xsd-viewer</description>
-      <pubDate>Tue, 24 Nov 2026 16:29:14 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36439-xsd-viewer--diagram</guid>
-      <dc:date>2026-11-24T16:29:14Z</dc:date>
-    </item>
-    <item>
-      <title>Entire - Thu Nov 19 03:08:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36279-entire</link>
-      <description>Browse the Entire checkpoints behind your commits, the agent sessions behind each checkpoint, and the trails of a repository on entire.com, in the IDE where you read...
-
-vendor: Entire
-downloads: 4
-pricingModel: FREE
-xmlId: io.entire.explorer</description>
-      <pubDate>Thu, 19 Nov 2026 03:08:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36279-entire</guid>
-      <dc:date>2026-11-19T03:08:30Z</dc:date>
-    </item>
-    <item>
-      <title>Version Pilot - Mon Nov 02 19:20:29 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35743-version-pilot</link>
-      <description>See which of your Gradle and Maven dependencies have a newer release, right in the build file, and update them with Alt+Enter. Version Pilot reads libs.versions.toml...
-
-vendor: Joe Simo
+vendor: BIcF
 downloads: 5
-pricingModel: FREEMIUM
-xmlId: io.github.joesimo.versionpilot</description>
-      <pubDate>Mon, 02 Nov 2026 19:20:29 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35743-version-pilot</guid>
-      <dc:date>2026-11-02T19:20:29Z</dc:date>
+pricingModel: FREE
+xmlId: com.bicf.t3plugin</description>
+      <pubDate>Sat, 21 Nov 2026 00:23:44 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36283-t3-code-host-unofficial-</guid>
+      <dc:date>2026-11-21T00:23:44Z</dc:date>
     </item>
     <item>
-      <title>Log Deck - Thu Oct 29 03:52:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/35616-log-deck</link>
-      <description>A fast, readable viewer for application logs. Open big logs without loading them into the editor, filter as you type, fold the noise out of stack traces and jump...
+      <title>PuLing SSH - Thu Nov 26 01:43:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36460-puling-ssh</link>
+      <description>PuLing SSH — Built-in SSH Terminal &amp;amp; SFTP File Manager Connect to remote servers without leaving the IDE: a full-featured terminal for commands, an SFTP panel for...
 
-vendor: Joe Simo
-downloads: 6
-pricingModel: FREEMIUM
-xmlId: io.github.joesimo.logdeck</description>
-      <pubDate>Thu, 29 Oct 2026 03:52:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/35616-log-deck</guid>
-      <dc:date>2026-10-29T03:52:46Z</dc:date>
+vendor: Selionce
+downloads: 1
+pricingModel: FREE
+xmlId: com.puling.ssh</description>
+      <pubDate>Thu, 26 Nov 2026 01:43:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36460-puling-ssh</guid>
+      <dc:date>2026-11-26T01:43:10Z</dc:date>
+    </item>
+    <item>
+      <title>VimNinja: Learn Vim - Wed Nov 25 09:03:53 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36463-vimninja-learn-vim</link>
+      <description>Learn Vim in your IDE: short lessons, a two-minute daily review, and a coach for IdeaVim, from VimNinja. The course in a tab: short lessons with a real Vim editor to...
+
+vendor: VimNinja
+downloads: 0
+pricingModel: FREE
+xmlId: com.vimninja.jetbrains</description>
+      <pubDate>Wed, 25 Nov 2026 09:03:53 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36463-vimninja-learn-vim</guid>
+      <dc:date>2026-11-25T09:03:53Z</dc:date>
+    </item>
+    <item>
+      <title>Power Tools for EF Core - Tue Nov 24 15:33:02 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36432-power-tools-for-ef-core</link>
+      <description>Reverse engineering, model visualization and inspection for EF Core in JetBrains Rider - an unofficial port of the EF Core Power Tools Visual Studio extension by Erik...
+
+vendor: Ted Hyde
+downloads: 2
+pricingModel: FREE
+xmlId: io.github.mrsuttonmann.efcorepowertools</description>
+      <pubDate>Tue, 24 Nov 2026 15:33:02 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36432-power-tools-for-ef-core</guid>
+      <dc:date>2026-11-24T15:33:02Z</dc:date>
+    </item>
+    <item>
+      <title>Explain2Me - Wed Nov 25 16:41:19 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36469-explain2me</link>
+      <description>Explain2Me lets an AI assistant (e.g. Claude Code) drive the IDE debugger to explain code: set breakpoints, step, inspect variables and narrate what is happening...
+
+vendor: JamesArthurHolland
+downloads: 0
+pricingModel: FREE
+xmlId: dev.e2m.explain2me</description>
+      <pubDate>Wed, 25 Nov 2026 16:41:19 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36469-explain2me</guid>
+      <dc:date>2026-11-25T16:41:19Z</dc:date>
+    </item>
+    <item>
+      <title>FinallyForms - Mon Nov 23 10:09:36 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36401-finallyforms</link>
+      <description>Open WinForms forms from Rider in FinallyForms, a standalone visual designer for Windows Forms: right-click a form in the Solution Explorer, choose Open in...
+
+vendor: FinallyForms
+downloads: 1
+pricingModel: FREE
+xmlId: dev.finallyforms.launcher</description>
+      <pubDate>Mon, 23 Nov 2026 10:09:36 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36401-finallyforms</guid>
+      <dc:date>2026-11-23T10:09:36Z</dc:date>
+    </item>
+    <item>
+      <title>clj-kondo-fix - Wed Nov 25 21:43:51 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36473-clj-kondo-fix</link>
+      <description>Fixes Clojure code with clj-kondo-fix, which runs the clj-kondo linter and automatically corrects the findings it knows how to fix, such as unused requires, redundant...
+
+vendor: sirmspencer
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.sirmspencer.clj-kondo-fix</description>
+      <pubDate>Wed, 25 Nov 2026 21:43:51 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36473-clj-kondo-fix</guid>
+      <dc:date>2026-11-25T21:43:51Z</dc:date>
     </item>
   </channel>
 </rss>
