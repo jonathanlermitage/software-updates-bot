@@ -6,6 +6,45 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Encrypted Topic Viewer - Sat Nov 28 09:25:42 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36528-encrypted-topic-viewer</link>
+      <description>Browse Kafka topics and read messages whose value is encrypted with AES-GCM and contains an Avro record. The expected value layout is IV followed by ciphertext and...
+
+vendor: Vitruvian
+downloads: 0
+pricingModel: FREE
+xmlId: io.github.roby84.encrypted-topic-viewer</description>
+      <pubDate>Sat, 28 Nov 2026 09:25:42 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36528-encrypted-topic-viewer</guid>
+      <dc:date>2026-11-28T09:25:42Z</dc:date>
+    </item>
+    <item>
+      <title>Run Configuration Rules - Auto VM Options &amp; Env Vars - Tue Nov 24 19:59:09 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36441-run-configuration-rules--auto-vm-options--env-vars</link>
+      <description>Several run configuration templates per type, picked by rules. When the IDE creates a run or test configuration (Ctrl+Shift+F10 / Ctrl+Shift+R, the gutter Run icon...
+
+vendor: PuzariCloud
+downloads: 3
+pricingModel: FREEMIUM
+xmlId: in.puzaricloud.runconfigrules</description>
+      <pubDate>Tue, 24 Nov 2026 19:59:09 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36441-run-configuration-rules--auto-vm-options--env-vars</guid>
+      <dc:date>2026-11-24T19:59:09Z</dc:date>
+    </item>
+    <item>
+      <title>AI Code Review - GPT, Claude, Gemini, DeepSeek, Ollama - Mon Nov 23 02:06:20 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36394-ai-code-review--gpt-claude-gemini-deepseek-ollama</link>
+      <description>AI code review inside the IDE, with your own API key or a local model: OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, Mistral, Groq, xAI Grok, OpenRouter...
+
+vendor: PuzariCloud
+downloads: 3
+pricingModel: FREEMIUM
+xmlId: in.puzaricloud.aicodereview</description>
+      <pubDate>Mon, 23 Nov 2026 02:06:20 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36394-ai-code-review--gpt-claude-gemini-deepseek-ollama</guid>
+      <dc:date>2026-11-23T02:06:20Z</dc:date>
+    </item>
+    <item>
       <title>Batchsmith BAT and CMD - Thu Nov 26 03:44:04 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36485-batchsmith-bat-and-cmd</link>
       <description>Edit, check and run Windows batch files (.bat and .cmd) in IntelliJ IDEA, PyCharm, WebStorm and other JetBrains IDEs. Batch files look simple, but cmd.exe reads them...
@@ -19,7 +58,7 @@ xmlId: dev.batchsmith</description>
       <dc:date>2026-11-26T03:44:04Z</dc:date>
     </item>
     <item>
-      <title>Vietnamese Language Pack - Fri Nov 27 10:13:11 UTC 2026</title>
+      <title>Vietnamese Language Pack - Sat Nov 28 14:14:57 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36527-vietnamese-language-pack</link>
       <description>Early, partial Vietnamese translation of the IntelliJ Platform user interface. This version covers 22,743 of about 42,600 strings: many menu and action names, general...
 
@@ -27,9 +66,9 @@ vendor: Trophy Apps
 downloads: 1
 pricingModel: PAID
 xmlId: com.trophyapps.languagepack.vi</description>
-      <pubDate>Fri, 27 Nov 2026 10:13:11 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 14:14:57 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36527-vietnamese-language-pack</guid>
-      <dc:date>2026-11-27T10:13:11Z</dc:date>
+      <dc:date>2026-11-28T14:14:57Z</dc:date>
     </item>
     <item>
       <title>Flutter Pigeon Helper - Fri Nov 27 10:58:52 UTC 2026</title>
@@ -97,7 +136,7 @@ xmlId: dev.xsdatlas.diagrams</description>
       <dc:date>2026-11-23T03:35:10Z</dc:date>
     </item>
     <item>
-      <title>Github-san tools - Fri Nov 27 09:01:59 UTC 2026</title>
+      <title>Github-san tools - Sat Nov 28 04:23:40 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36520-github-san-tools</link>
       <description>Opens files and directories inside Git submodules, worktrees, and multi-root repositories on GitHub directly from JetBrains IDEs, automatically pushes ahead Git...
 
@@ -105,9 +144,9 @@ vendor: Sanskrit coders
 downloads: 3
 pricingModel: FREE
 xmlId: io.github.sanskritcoders.github-san</description>
-      <pubDate>Fri, 27 Nov 2026 09:01:59 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 04:23:40 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36520-github-san-tools</guid>
-      <dc:date>2026-11-27T09:01:59Z</dc:date>
+      <dc:date>2026-11-28T04:23:40Z</dc:date>
     </item>
     <item>
       <title>Chroma Brackets - Fri Nov 27 12:49:26 UTC 2026</title>
@@ -225,45 +264,6 @@ xmlId: com.loglens.exceptionmagnifier</description>
       <pubDate>Thu, 26 Nov 2026 03:02:42 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36482-loglens-exception-magnifier</guid>
       <dc:date>2026-11-26T03:02:42Z</dc:date>
-    </item>
-    <item>
-      <title>Threxo Zip - Thu Nov 26 01:17:46 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36455-threxo-zip</link>
-      <description>Threxo Zip adds Compress to ZIP and Extract Here actions to the IntelliJ IDEA project view context menu. Compress files or folders into a ZIP archive in the same...
-
-vendor: qujunxian
-downloads: 11
-pricingModel: FREE
-xmlId: com.qujunxian.Threxo-Idea-Plugin</description>
-      <pubDate>Thu, 26 Nov 2026 01:17:46 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36455-threxo-zip</guid>
-      <dc:date>2026-11-26T01:17:46Z</dc:date>
-    </item>
-    <item>
-      <title>Local AI Security Analyzer - Thu Nov 26 13:11:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36507-local-ai-security-analyzer</link>
-      <description>Local AI Security Analyzer is a privacy-first, multi-language static security analysis and automated refactoring plugin powered by local LLMs via Ollama. Key Features...
-
-vendor: Alexandru-Vlad
-downloads: 7
-pricingModel: FREE
-xmlId: io.github.alexandru.localaisecurity</description>
-      <pubDate>Thu, 26 Nov 2026 13:11:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36507-local-ai-security-analyzer</guid>
-      <dc:date>2026-11-26T13:11:03Z</dc:date>
-    </item>
-    <item>
-      <title>Blackboard - Wed Nov 25 21:33:13 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36472-blackboard</link>
-      <description>A quick, project-specific Markdown scratchpad that lives right inside your JetBrains IDE. Keep TODOs, debugging notes, snippets, links and half-formed ideas next to...
-
-vendor: Anton Petrov
-downloads: 8
-pricingModel: FREE
-xmlId: io.github.antonpetrov83.blackboard</description>
-      <pubDate>Wed, 25 Nov 2026 21:33:13 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36472-blackboard</guid>
-      <dc:date>2026-11-25T21:33:13Z</dc:date>
     </item>
   </channel>
 </rss>
