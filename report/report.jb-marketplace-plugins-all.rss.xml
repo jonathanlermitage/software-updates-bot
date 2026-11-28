@@ -6,12 +6,103 @@
     <description>The latest JetBrains plugins on the JetBrains marketplace</description>
     <dc:creator>Jonathan Lermitage</dc:creator>
     <item>
+      <title>Batchsmith BAT and CMD - Thu Nov 26 03:44:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36485-batchsmith-bat-and-cmd</link>
+      <description>Edit, check and run Windows batch files (.bat and .cmd) in IntelliJ IDEA, PyCharm, WebStorm and other JetBrains IDEs. Batch files look simple, but cmd.exe reads them...
+
+vendor: Terene Lee
+downloads: 3
+pricingModel: FREE
+xmlId: dev.batchsmith</description>
+      <pubDate>Thu, 26 Nov 2026 03:44:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36485-batchsmith-bat-and-cmd</guid>
+      <dc:date>2026-11-26T03:44:04Z</dc:date>
+    </item>
+    <item>
+      <title>Vietnamese Language Pack - Fri Nov 27 10:13:11 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36527-vietnamese-language-pack</link>
+      <description>Early, partial Vietnamese translation of the IntelliJ Platform user interface. This version covers 22,743 of about 42,600 strings: many menu and action names, general...
+
+vendor: Trophy Apps
+downloads: 1
+pricingModel: PAID
+xmlId: com.trophyapps.languagepack.vi</description>
+      <pubDate>Fri, 27 Nov 2026 10:13:11 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36527-vietnamese-language-pack</guid>
+      <dc:date>2026-11-27T10:13:11Z</dc:date>
+    </item>
+    <item>
+      <title>Flutter Pigeon Helper - Fri Nov 27 10:58:52 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36529-flutter-pigeon-helper</link>
+      <description>Live templates and one-click code generation for Flutter Pigeon schema files (@ConfigurePigeon). New › Pigeon Schema File with output paths and Android package filled...
+
+vendor: Kfir Matityahu
+downloads: 0
+pricingModel: FREE
+xmlId: com.kfiross.pigeon-helper</description>
+      <pubDate>Fri, 27 Nov 2026 10:58:52 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36529-flutter-pigeon-helper</guid>
+      <dc:date>2026-11-27T10:58:52Z</dc:date>
+    </item>
+    <item>
+      <title>Tree-lint - Thu Nov 26 18:54:04 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36511-tree-lint</link>
+      <description>Runs tree-lint scans for the current project and shows project structure violations right inside the IDE. Highlights files and folders that break the structure rules...
+
+vendor: Redwest Dev
+downloads: 1
+pricingModel: FREE
+xmlId: dev.redwest.tree-lint</description>
+      <pubDate>Thu, 26 Nov 2026 18:54:04 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36511-tree-lint</guid>
+      <dc:date>2026-11-26T18:54:04Z</dc:date>
+    </item>
+    <item>
+      <title>WingTrill - Thu Nov 19 09:49:38 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36297-wingtrill</link>
+      <description>Your WingTrill workspace's AI agents, channels and approvals, in a panel next to your code. Sign in with your WingTrill workspace account (the browser opens; over SSH...
+
+vendor: WingTrill
+downloads: 1
+pricingModel: FREE
+xmlId: com.wingtrill</description>
+      <pubDate>Thu, 19 Nov 2026 09:49:38 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36297-wingtrill</guid>
+      <dc:date>2026-11-19T09:49:38Z</dc:date>
+    </item>
+    <item>
+      <title>ADP: A Different Perspective - Wed Nov 25 00:24:31 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36445-adp-a-different-perspective</link>
+      <description>Visual tools for the files you already keep in your project. ADP (A Different Perspective) opens a FreeMind mind map or a draw.io diagram as a picture you can work in...
+
+vendor: EtAlii
+downloads: 1
+pricingModel: FREE
+xmlId: etalii.adp</description>
+      <pubDate>Wed, 25 Nov 2026 00:24:31 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36445-adp-a-different-perspective</guid>
+      <dc:date>2026-11-25T00:24:31Z</dc:date>
+    </item>
+    <item>
+      <title>XSD Atlas: XML Schema &amp; WSDL Diagrams - Mon Nov 23 03:35:10 UTC 2026</title>
+      <link>https://plugins.jetbrains.com/plugin/36396-xsd-atlas-xml-schema--wsdl-diagrams</link>
+      <description>Interactive diagrams for XML Schema (.xsd) and WSDL files, in a Diagram tab next to the editor. Elements, attributes, sequences, choices, groups, extensions and...
+
+vendor: XSD Atlas
+downloads: 1
+pricingModel: FREEMIUM
+xmlId: dev.xsdatlas.diagrams</description>
+      <pubDate>Mon, 23 Nov 2026 03:35:10 GMT</pubDate>
+      <guid>https://plugins.jetbrains.com/plugin/36396-xsd-atlas-xml-schema--wsdl-diagrams</guid>
+      <dc:date>2026-11-23T03:35:10Z</dc:date>
+    </item>
+    <item>
       <title>Github-san tools - Fri Nov 27 09:01:59 UTC 2026</title>
       <link>https://plugins.jetbrains.com/plugin/36520-github-san-tools</link>
-      <description>Opens files and directories inside Git submodules, worktrees, and multi-root repositories on GitHub directly from JetBrains IDEs, and launches Sanskrit-aware diffs...
+      <description>Opens files and directories inside Git submodules, worktrees, and multi-root repositories on GitHub directly from JetBrains IDEs, automatically pushes ahead Git...
 
 vendor: Sanskrit coders
-downloads: 0
+downloads: 3
 pricingModel: FREE
 xmlId: io.github.sanskritcoders.github-san</description>
       <pubDate>Fri, 27 Nov 2026 09:01:59 GMT</pubDate>
@@ -24,7 +115,7 @@ xmlId: io.github.sanskritcoders.github-san</description>
       <description>Chroma Brackets colors (), [], {}, and &amp;lt;&amp;gt; by nesting depth in PhpStorm. The opening and closing characters of a pair share a color, so {{{}}} uses three colors...
 
 vendor: avatec
-downloads: 0
+downloads: 6
 pricingModel: FREE
 xmlId: pl.avatec.chromabrackets</description>
       <pubDate>Fri, 27 Nov 2026 12:49:26 GMT</pubDate>
@@ -37,7 +128,7 @@ xmlId: pl.avatec.chromabrackets</description>
       <description>Software architecture diagrams like in a drawing tool: draw, move and edit PlantUML, C4 and Structurizr diagrams, and the text follows. A .puml file opens with the...
 
 vendor: Mindconnect
-downloads: 0
+downloads: 4
 pricingModel: FREE
 xmlId: ai.mindconnect.architector</description>
       <pubDate>Fri, 27 Nov 2026 12:36:59 GMT</pubDate>
@@ -50,7 +141,7 @@ xmlId: ai.mindconnect.architector</description>
       <description>LuaJIT-first language support powered by the lye language server. Lua file type, syntax highlighting and New → Lua File action Language server features (completion...
 
 vendor: Asa L.
-downloads: 1
+downloads: 3
 pricingModel: FREE
 xmlId: com.lasajar.lye</description>
       <pubDate>Wed, 25 Nov 2026 21:26:29 GMT</pubDate>
@@ -63,7 +154,7 @@ xmlId: com.lasajar.lye</description>
       <description>JMeter .jmx editor, runner, .jtl reports in your JetBrains IDE: read, edit, run and evaluate Apache JMeter test plans without the JMeter GUI and without setup...
 
 vendor: Lakeside Digital
-downloads: 0
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.lakesidedigital.jmeter-test-plan-editor</description>
       <pubDate>Fri, 27 Nov 2026 09:28:41 GMT</pubDate>
@@ -76,7 +167,7 @@ xmlId: com.lakesidedigital.jmeter-test-plan-editor</description>
       <description>JVM memory monitor: live heap, GC, leaks and threads in any JetBrains IDE: every Run and Debug opens a monitor of your application's heap, memory pools and garbage...
 
 vendor: Lakeside Digital
-downloads: 0
+downloads: 5
 pricingModel: FREEMIUM
 xmlId: com.lakesidedigital.jvm-memory-monitor</description>
       <pubDate>Fri, 27 Nov 2026 13:23:00 GMT</pubDate>
@@ -89,7 +180,7 @@ xmlId: com.lakesidedigital.jvm-memory-monitor</description>
       <description>The CSS to Source plugin connects Chrome DevTools to JetBrains IDEs and adds Open in IDE navigation to the Styles pane. The plugin can navigate from Chrome Devtools...
 
 vendor: JetBrains Experimental
-downloads: 3
+downloads: 9
 pricingModel: FREE
 xmlId: com.jetbrains.csstosource</description>
       <pubDate>Fri, 27 Nov 2026 11:01:35 GMT</pubDate>
@@ -102,7 +193,7 @@ xmlId: com.jetbrains.csstosource</description>
       <description>Project Tab Bar adds a shared project tab strip to every open IntelliJ IDEA window. Click a tab to bring that project window to the front.
 
 vendor: AskMeAgain
-downloads: 1
+downloads: 13
 pricingModel: FREE
 xmlId: io.github.askmeagain.projecttabbar</description>
       <pubDate>Thu, 26 Nov 2026 22:36:31 GMT</pubDate>
@@ -115,7 +206,7 @@ xmlId: io.github.askmeagain.projecttabbar</description>
       <description>BT Deploy is an IntelliJ IDEA plugin that uploads build artifacts to a BT Panel server in one click, then unzips and restarts the configured service.
 
 vendor: BT Deploy
-downloads: 3
+downloads: 11
 pricingModel: FREE
 xmlId: com.mrmao14.btdeploy</description>
       <pubDate>Fri, 27 Nov 2026 01:13:48 GMT</pubDate>
@@ -128,7 +219,7 @@ xmlId: com.mrmao14.btdeploy</description>
       <description>LogLens Exception Magnifier turns exceptions buried in your Run/Debug console into clickable cards — one click jumps straight to the offending source line. Stop...
 
 vendor: LogLens Exception Magnifier
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: com.loglens.exceptionmagnifier</description>
       <pubDate>Thu, 26 Nov 2026 03:02:42 GMT</pubDate>
@@ -141,7 +232,7 @@ xmlId: com.loglens.exceptionmagnifier</description>
       <description>Threxo Zip adds Compress to ZIP and Extract Here actions to the IntelliJ IDEA project view context menu. Compress files or folders into a ZIP archive in the same...
 
 vendor: qujunxian
-downloads: 2
+downloads: 11
 pricingModel: FREE
 xmlId: com.qujunxian.Threxo-Idea-Plugin</description>
       <pubDate>Thu, 26 Nov 2026 01:17:46 GMT</pubDate>
@@ -154,7 +245,7 @@ xmlId: com.qujunxian.Threxo-Idea-Plugin</description>
       <description>Local AI Security Analyzer is a privacy-first, multi-language static security analysis and automated refactoring plugin powered by local LLMs via Ollama. Key Features...
 
 vendor: Alexandru-Vlad
-downloads: 0
+downloads: 7
 pricingModel: FREE
 xmlId: io.github.alexandru.localaisecurity</description>
       <pubDate>Thu, 26 Nov 2026 13:11:03 GMT</pubDate>
@@ -167,103 +258,12 @@ xmlId: io.github.alexandru.localaisecurity</description>
       <description>A quick, project-specific Markdown scratchpad that lives right inside your JetBrains IDE. Keep TODOs, debugging notes, snippets, links and half-formed ideas next to...
 
 vendor: Anton Petrov
-downloads: 1
+downloads: 8
 pricingModel: FREE
 xmlId: io.github.antonpetrov83.blackboard</description>
       <pubDate>Wed, 25 Nov 2026 21:33:13 GMT</pubDate>
       <guid>https://plugins.jetbrains.com/plugin/36472-blackboard</guid>
       <dc:date>2026-11-25T21:33:13Z</dc:date>
-    </item>
-    <item>
-      <title>HarmonyAIDraw - Fri Nov 27 01:58:51 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36240-harmonyaidraw</link>
-      <description>An AI-powered draw.io diagramming agent for development: a built-in draw.io editor plus an AI chat panel that turns conversations into diagrams, reverse-engineers code...
-
-vendor: HarmonyAIDraw
-downloads: 13
-pricingModel: FREE
-xmlId: com.harmonyaidraw.deveco</description>
-      <pubDate>Fri, 27 Nov 2026 01:58:51 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36240-harmonyaidraw</guid>
-      <dc:date>2026-11-27T01:58:51Z</dc:date>
-    </item>
-    <item>
-      <title>Heeler - Thu Nov 26 12:53:03 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36442-heeler</link>
-      <description>Find secrets, vulnerable dependencies and code security issues beside your code. Review priority, recommended dependency versions and available fixes from Heeler. Open...
-
-vendor: Heeler
-downloads: 2
-pricingModel: FREE
-xmlId: com.heeler.ide</description>
-      <pubDate>Thu, 26 Nov 2026 12:53:03 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36442-heeler</guid>
-      <dc:date>2026-11-26T12:53:03Z</dc:date>
-    </item>
-    <item>
-      <title>Cliqto Web Scrapers - Thu Nov 26 06:16:31 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36489-cliqto-web-scrapers</link>
-      <description>Run Apify web scrapers in your IDE and open the results as JSON or CSV. Pick one of 250+ ready-made Cliqto Media Actors: YouTube transcripts, Reddit, Google Trends...
-
-vendor: Cliqto Media
-downloads: 1
-pricingModel: FREE
-xmlId: com.cliqtomedia.run-apify-actors</description>
-      <pubDate>Thu, 26 Nov 2026 06:16:31 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36489-cliqto-web-scrapers</guid>
-      <dc:date>2026-11-26T06:16:31Z</dc:date>
-    </item>
-    <item>
-      <title>LCD Subpixel Order (RGB/BGR per Monitor) - Thu Nov 26 15:08:22 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36509-lcd-subpixel-order-rgb-bgr-per-monitor-</link>
-      <description>Fixes colour fringes around text on BGR monitors and on mixed RGB&amp;nbsp;+&amp;nbsp;BGR setups. Subpixel (ClearType-style) antialiasing uses the right subpixel order for...
-
-vendor: Macsimka
-downloads: 1
-pricingModel: FREE
-xmlId: io.github.macsimka.lcdsubpixel</description>
-      <pubDate>Thu, 26 Nov 2026 15:08:22 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36509-lcd-subpixel-order-rgb-bgr-per-monitor-</guid>
-      <dc:date>2026-11-26T15:08:22Z</dc:date>
-    </item>
-    <item>
-      <title>Kafka UI Debugger - Thu Nov 26 03:15:30 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36483-kafka-ui-debugger</link>
-      <description>Kafka UI Debugger with Protobuf (.proto &amp;amp; .desc) and Avro (.avsc) visualization, schemaless wire decoding, Confluent Schema Registry header stripping, live...
-
-vendor: Edward
-downloads: 1
-pricingModel: FREE
-xmlId: dev.edward.kafka-ui-debugger</description>
-      <pubDate>Thu, 26 Nov 2026 03:15:30 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36483-kafka-ui-debugger</guid>
-      <dc:date>2026-11-26T03:15:30Z</dc:date>
-    </item>
-    <item>
-      <title>Test Sentinel - Thu Nov 26 00:50:06 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36479-test-sentinel</link>
-      <description>Runs your unit tests in the background after every Git commit and tells you when something breaks, without getting in your way. Commit and keep working. After a...
-
-vendor: Fabiano Augusto de Mello
-downloads: 1
-pricingModel: FREE
-xmlId: com.fabianomello.testsentinel</description>
-      <pubDate>Thu, 26 Nov 2026 00:50:06 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36479-test-sentinel</guid>
-      <dc:date>2026-11-26T00:50:06Z</dc:date>
-    </item>
-    <item>
-      <title>Ferret - Thu Nov 26 19:11:00 UTC 2026</title>
-      <link>https://plugins.jetbrains.com/plugin/36512-ferret</link>
-      <description>Edit, run, and debug Ferret Query Language (.fql) files in IntelliJ IDEA and GoLand. The bundled Ferret daemon provides language assistance, formatting, and execution...
-
-vendor: Ferret
-downloads: 2
-pricingModel: FREE
-xmlId: org.ferretlang.jetbrains</description>
-      <pubDate>Thu, 26 Nov 2026 19:11:00 GMT</pubDate>
-      <guid>https://plugins.jetbrains.com/plugin/36512-ferret</guid>
-      <dc:date>2026-11-26T19:11:00Z</dc:date>
     </item>
   </channel>
 </rss>
